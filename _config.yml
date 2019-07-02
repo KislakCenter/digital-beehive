@@ -25,7 +25,7 @@ github_username:  drnelson6
 
 # Build settings
 markdown: kramdown
-# theme: wax_theme
+theme: minima
 plugins:
   - jekyll-feed
 
