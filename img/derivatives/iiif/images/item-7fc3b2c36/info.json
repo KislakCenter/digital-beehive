@@ -1,0 +1,41 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-7fc3b2c36",
+  "protocol": "http://iiif.io/api/image",
+  "width": 2932,
+  "height": 783,
+  "sizes": [
+    {
+      "width": 2932,
+      "height": 783
+    },
+    {
+      "width": 250,
+      "height": 67
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item-cfd8402ee.json",
+  "label": "front",
+  "width": 5880,
+  "height": 930,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-cfd8402ee/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/item-cfd8402ee.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-cfd8402ee/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-cfd8402ee",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 2940,
+        "height": 465
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item-cfd8402ee.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

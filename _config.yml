@@ -41,6 +41,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+# Configure the collections. Must do before running wax tasks in the command line.
+
 collections:
   exhibits:
     output: true
@@ -51,25 +53,86 @@ collections:
       source: 'alpha_test.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/test' # path to the directory of images within `_data`
-  alpha:
+  alpha1:
     output: true
     layout: 'alpha_item'
     metadata:
-      source: alpha.csv
+      source: alpha1.csv
     images:
-      source: 'raw_images/alpha'
+      source: 'raw_images/alpha1'
+  alpha2:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: alpha2.csv
+    images:
+      source: 'raw_images/alpha2'
+  alpha3:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: alpha3.csv
+    images:
+      source: 'raw_images/alpha3'
+  alpha4:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: alpha4.csv
+    images:
+      source: 'raw_images/alpha4'
+  alpha5:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: alpha5.csv
+    images:
+      source: 'raw_images/alpha5'
+
+# Configure the search function
+# Can make multiple indices, but Wax recommends against it.
 
 search:
   main:
     index: '/search/index.json'
     collections:
-      alpha:
+      alpha1:
         content: false
         fields:
           - entry
           - topic
           - xref
           - index
+      alpha2:
+        content: false
+        fields:
+          - entry
+          - topic
+          - xref
+          - index
+      alpha3:
+        content: false
+        fields:
+          - entry
+          - topic
+          - xref
+          - index
+      alpha4:
+        content: false
+        fields:
+          - entry
+          - topic
+          - xref
+          - index
+      alpha5:
+        content: false
+        fields:
+          - entry
+          - topic
+          - xref
+          - index
+
+# site menu settings
 
 menu:
   - label: 'About'
@@ -80,10 +143,17 @@ menu:
       #   link: Link here to the Github
       - label: 'Credits'
         link: '/credits/'
+  - label: 'Table of Contents'
+    link: '/toc/'
+    sub:
+      - label: 'Volume One'
+        link: '/vol1/'
+      - label: 'Volume Two'
+        link: '/vol2/'
+      - label: 'Volume Three'
+      - link: '/vol3/'
   - label: 'Browse'
     sub:
-      - label: 'Table of Contents'
-        link: '/toc/'
       - label: 'Test'
         link: '/test/'
       - label: 'Alphabetical Section'
@@ -94,3 +164,14 @@ menu:
     link: '/search/'
   - label: 'Blog'
     link: '/blog/'
+
+# site footer settings
+
+footer:
+  links:
+    - label: 'Github'
+      link: 'https://github.com/drnelson6/New_Beehive'
+    - label: 'University of Pennsylvania Libraries'
+      link: 'https://www.library.upenn.edu'
+    - label: 'Kislak Center for Special Collections, Rare Books and Manuscripts'
+      link: 'https://www.library.upenn.edu/kislak'

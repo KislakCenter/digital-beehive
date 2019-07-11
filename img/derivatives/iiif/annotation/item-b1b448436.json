@@ -1,0 +1,22 @@
+---
+layout: none
+---
+{
+  "@type": "oa:Annotation",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/item-b1b448436.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-b1b448436/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-b1b448436",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 2912,
+    "height": 343
+  },
+  "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item-b1b448436.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

@@ -1,0 +1,24 @@
+---
+pid: item-dc5fcb045
+volume: Volume 1
+image_number: '433'
+head: 
+entry: Anatomizing
+topic: Anatomizing
+first_letter: A
+xref: 
+see: 
+index: Anatomizing
+item: "#item-dc5fcb045"
+unparsed: 
+line: 'Entry: Anatomizing|Topic: Anatomizing|Index: Anatomizing|#item-dc5fcb045'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/288,1020,3159,494/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1490640837855
+order: '027'
+layout: alpha_item
+collection: alpha1
+thumbnail: "/img/derivatives/iiif/images/item-dc5fcb045/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/item-dc5fcb045/full/full/0/default.jpg"
+manifest: "/img/derivatives/iiif/item-dc5fcb045/manifest.json"
+---

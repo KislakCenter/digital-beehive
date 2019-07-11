@@ -1,0 +1,38 @@
+---
+layout: none
+---
+{
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/item-73a54f91e.json",
+  "@type": "sc:Sequence",
+  "canvases": [
+    {
+      "@type": "sc:Canvas",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item-73a54f91e.json",
+      "label": "front",
+      "width": 5986,
+      "height": 574,
+      "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-73a54f91e/full/250,/0/default.jpg",
+      "images": [
+        {
+          "@type": "oa:Annotation",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/item-73a54f91e.json",
+          "motivation": "sc:painting",
+          "resource": {
+            "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-73a54f91e/full/full/0/default.jpg",
+            "@type": "dcterms:Image",
+            "format": "image/jpeg",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/item-73a54f91e",
+              "profile": "http://iiif.io/api/image/2/level0.json"
+            },
+            "width": 2993,
+            "height": 287
+          },
+          "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/item-73a54f91e.json"
+        }
+      ]
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
