@@ -46,48 +46,31 @@ exclude:
 collections:
   exhibits:
     output: true
-  test: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'alpha_item' # the layout for the pages to use
-    metadata:
-      source: 'alpha_test.csv' # path to the metadata file within `_data`
-    images:
-      source: 'raw_images/test' # path to the directory of images within `_data`
   alpha1:
     output: true
     layout: 'alpha_item'
     metadata:
       source: alpha1.csv
-    images:
-      source: 'raw_images/alpha1'
   alpha2:
     output: true
     layout: 'alpha_item'
     metadata:
       source: alpha2.csv
-    images:
-      source: 'raw_images/alpha2'
   alpha3:
     output: true
     layout: 'alpha_item'
     metadata:
       source: alpha3.csv
-    images:
-      source: 'raw_images/alpha3'
   alpha4:
     output: true
     layout: 'alpha_item'
     metadata:
       source: alpha4.csv
-    images:
-      source: 'raw_images/alpha4'
   alpha5:
     output: true
     layout: 'alpha_item'
     metadata:
       source: alpha5.csv
-    images:
-      source: 'raw_images/alpha5'
 
 # Configure the search function
 # Can make multiple indices, but Wax recommends against it.
@@ -99,6 +82,7 @@ search:
       alpha1:
         content: false
         fields:
+          - image_number
           - entry
           - topic
           - xref
@@ -106,6 +90,7 @@ search:
       alpha2:
         content: false
         fields:
+          - image_number
           - entry
           - topic
           - xref
@@ -113,6 +98,7 @@ search:
       alpha3:
         content: false
         fields:
+          - image_number
           - entry
           - topic
           - xref
@@ -120,6 +106,7 @@ search:
       alpha4:
         content: false
         fields:
+          - image_number
           - entry
           - topic
           - xref
@@ -127,6 +114,7 @@ search:
       alpha5:
         content: false
         fields:
+          - image_number
           - entry
           - topic
           - xref
@@ -154,8 +142,6 @@ menu:
       - link: '/vol3/'
   - label: 'Browse'
     sub:
-      - label: 'Test'
-        link: '/test/'
       - label: 'Alphabetical Section'
         link: '/alphabetical/'
       - label: 'Index'

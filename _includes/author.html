@@ -11,7 +11,7 @@
     <div class="author-container">
       <!-- include author image if there is one -->
       {% if author.avatar %}
-        <img class="author-img" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" style="max-width:300px;max-height:200px;" />
+        <img style="max-width:300px;max-height:200px;" class="author-img" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" />
       {% endif %}
       <div class="author-bio">{{author.bio}}</div>
     </div>

@@ -1,18 +1,13 @@
 ---
-layout: generic_collection_item
-image_viewer: 'openseadragon'
+layout: default
 pagination: true
-meta:
-  - label: 'Topic'
-    value: page.topic
-  - label: 'Entry'
-    value: page.entry
-  - label: 'Xref'
-    value: page.xref
-  - label: 'IIIF Manifest'
-    value: manifest
-    type: link
-  - label: 'Full Image'
-    value: page.full_image
-    type: link
 ---
+
+<a href="{{ page.full }}"><img src="{{ page.full }}"/></a>
+
+Image Number: {{ page.volume }}, Image {{ page.image_number }}<br />
+Topic: {{ page.topic }}<br />
+Entry: {{ page.entry }}<br />
+Cross-reference: {{ page.xref }}<br />
+Index: {{ page.index }}<br />
+<a href="{{ page.full_image }}">Full Image</a>

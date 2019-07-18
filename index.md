@@ -4,10 +4,10 @@
 
 layout: page
 show_title: false
-# Add a banner from an image in one of the site's collections. 
+# Add a banner from an image in one of the site's collections.
 banner:
-  collection: test
-  pid: alpha_1
+  collection: alpha1
+  pid: alpha_4
   y: 25%
   height: '500px'
 ---
