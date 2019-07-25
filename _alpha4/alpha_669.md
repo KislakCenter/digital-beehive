@@ -6,7 +6,7 @@ head:
 entry: Severity
 topic: Severity
 first_letter: S
-xref: Cruelty
+xref: 
 see: 
 index: Severity
 item: "#item-248d6ff8e"
@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Severity|Topic: Severity|Xref: Cruelty|Index: Severity|#item-248d6ff8e'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
 order: '669'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0519_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,811,2965,440/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530803153011
 layout: alpha_item
 collection: alpha4
 ---

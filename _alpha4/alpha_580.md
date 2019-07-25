@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Railing|Topic: Railing|Xref: derision|Xref: Calumny|Index: Railing|#item-fb3bf6719'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
 order: '580'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0512_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,2878,3003,384/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1527864076332
 layout: alpha_item
 collection: alpha4
 ---

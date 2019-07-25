@@ -88,7 +88,7 @@ header & nav bar
       background-color: $bg-color;
       border-color: $neutral;
       .dropdown-item:focus {
-        background-color: transparent;
+        background-color: $bg-color;
       }
     }
   }
@@ -445,16 +445,28 @@ search box
     justify-content: flex-start;
 
     .gallery-item {
-      padding: 0;
+      padding: 20px;
       margin: .25rem;
       background-color: #ffffff;
-      max-height: $thumbnail-height;
-      max-width: $thumbnail-width;
+      max-height: 225px;
+      max-width: 147px;
       border: 1px grey solid;
 
       .gallery-thumb {
         object-position: 50% 20%;
         object-fit: cover;
+        width: 100%;
+        height: 100%;
+      }
+
+      .img-with-text {
+        text-align: left;
+        width: 100%;
+      }
+
+      .img-with-text img {
+        display: block;
+        margin: 0 auto;
         width: 100%;
         height: 100%;
       }

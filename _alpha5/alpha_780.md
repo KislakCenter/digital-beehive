@@ -15,9 +15,8 @@ line: 'Entry: Treachery|Topic: Treachery|Xref: faithfullness|Xref: 933 [Treacher
   treachery|#item-cfd8402ee'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
 order: '780'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0527_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529602892275
 layout: alpha_item
 collection: alpha5
 ---

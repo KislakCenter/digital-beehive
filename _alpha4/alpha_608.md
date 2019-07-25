@@ -6,7 +6,7 @@ head:
 entry: Rest
 topic: Rest
 first_letter: R
-xref: Quietness|Sabbath|1638 [Nothing]
+xref: Quietness|<a href='/New_Beehive/alpha4/alpha_629/'>Sabbath</a>|1638 [Nothing]
 see: 
 index: rest and restless
 item: "#item-c17661053"
@@ -15,9 +15,8 @@ line: 'Entry: Rest|Topic: Rest|Xref: Quietness|Xref: Sabbath|Xref: 1638 [Nothing
   rest and restless|#item-c17661053'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
 order: '608'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0514_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/370,4283,2992,415/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528822645620
 layout: alpha_item
 collection: alpha4
 ---

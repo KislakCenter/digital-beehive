@@ -15,9 +15,8 @@ line: 'Entry: Trance|Topic: Trance|Xref: 1286 [Tooth]|Xref: Enthusiasm|Index: tr
   |#item-abf4403a2'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
 order: '777'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0527_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,917,3003,456/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529602277688
 layout: alpha_item
 collection: alpha5
 ---

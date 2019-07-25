@@ -6,7 +6,7 @@ head:
 entry: Naughtiness
 topic: Naughtiness
 first_letter: N
-xref: Malignity|Wickedness|1932
+xref: "<a href='/New_Beehive/alpha3/alpha_393/'>Malignity</a>|<a href='/New_Beehive/alpha5/alpha_834/'>Wickedness</a>|1932"
 see: 
 index: naughtiness
 item: "#item-c20a79fcf"
@@ -15,9 +15,8 @@ line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xr
   1932|Index: naughtiness|#item-c20a79fcf'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 order: '455'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0502_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,3223,2979,447/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1510169662283
 layout: alpha_item
 collection: alpha3
 ---

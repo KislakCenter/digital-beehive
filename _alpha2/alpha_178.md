@@ -15,9 +15,8 @@ line: 'Entry: Friendship|Topic: Friendship|XRef: familiarity|XRef: 1 [Familiarit
   429 [Friendship]|Index: friendship|#item-5f9c379a0'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
 order: '178'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0480_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/345,2437,3067,658/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508357866187
 layout: alpha_item
 collection: alpha2
 ---

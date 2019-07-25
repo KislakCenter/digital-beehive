@@ -15,9 +15,8 @@ line: 'Entry: Suretyship|Topic: Suretyship|Xref: 914 [Security, he that promises
   another]|Xref: 4509 [PAGE_MISSING]|Index: surety|#item-b60087f8f'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
 order: '738'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0524_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,704,3125,426/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1532551883286
 layout: alpha_item
 collection: alpha4
 ---

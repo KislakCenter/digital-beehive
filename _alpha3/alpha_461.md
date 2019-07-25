@@ -6,7 +6,7 @@ head:
 entry: News
 topic: News
 first_letter: N
-xref: Report|1252 [Gainful]
+xref: "<a href='/New_Beehive/alpha4/alpha_603/'>Report</a>|1252 [Gainful]"
 see: 
 index: news
 item: "#item-9f38763ad"
@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: News|Topic: News|Xref: Report|Xref: 1252 [Gainful]|Index: news|#item-9f38763ad'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
 order: '461'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0503_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/769,1494,2990,345/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1513268255793
 layout: alpha_item
 collection: alpha3
 ---

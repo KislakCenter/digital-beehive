@@ -6,7 +6,8 @@ head:
 entry: Knowledge
 topic: Knowledge
 first_letter: K
-xref: Ignorance|Skill|Unknown|185 [Knowledge]|455 [Self-profit]
+xref: "<a href='/New_Beehive/alpha3/alpha_274/'>Ignorance</a>|<a href='/New_Beehive/alpha4/alpha_690/'>Skill</a>|<a
+  href='/New_Beehive/alpha5/alpha_807/'>Unknown</a>|185 [Knowledge]|455 [Self-profit]"
 see: 
 index: knowledge
 item: "#item-90ec2f469"
@@ -15,9 +16,8 @@ line: 'Entry: Knowledge|Topic: Knowledge|XRef: Ignorance|XRef: Skill|XRef: Unkno
   185 [Knowledge]|XRef: 455 [Self-profit]|Index: knowledge|#item-90ec2f469'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
 order: '330'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0492_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/384,4445,2990,646/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508961835783
 layout: alpha_item
 collection: alpha3
 ---

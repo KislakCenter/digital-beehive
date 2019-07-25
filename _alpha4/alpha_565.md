@@ -6,7 +6,7 @@ head:
 entry: Proof
 topic: Proof
 first_letter: P
-xref: Testimony|argument|913 [Proof]
+xref: "<a href='/New_Beehive/alpha5/alpha_754/'>Testimony</a>|argument|913 [Proof]"
 see: 
 index: proof
 item: "#item-e4d9f00a8"
@@ -15,9 +15,8 @@ line: 'Entry: Proof|Topic: Proof|Xref: Testimony|Xref: argument|Xref: 913 [Proof
   proof|#item-e4d9f00a8'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
 order: '565'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0511_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/809,216,2990,521/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528720384077
 layout: alpha_item
 collection: alpha4
 ---

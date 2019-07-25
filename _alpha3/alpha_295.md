@@ -6,7 +6,7 @@ head:
 entry: Increase
 topic: Increase
 first_letter: I/J
-xref: Progress|604 [Increase]
+xref: "<a href='/New_Beehive/alpha4/alpha_560/'>Progress</a>|604 [Increase]"
 see: 
 index: increase
 item: "#item-ecb0ab2df"
@@ -15,9 +15,8 @@ line: 'Entry: Increase|Topic: Increase|XRef: Progress|XRef: 604 [Increase]|Index
   increase|#item-ecb0ab2df'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
 order: '295'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0490_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/252,245,3126,340/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508957984416
 layout: alpha_item
 collection: alpha3
 ---

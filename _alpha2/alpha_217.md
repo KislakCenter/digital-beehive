@@ -15,9 +15,8 @@ line: 'Entry: Guilt|Topic: Guilt|XRef: Crime|XRef: fault|XRef: 1620 [Guilt]|XRef
   468 [Self-guilty]|Index: guilt|#item-0034a0ab2'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
 order: '217'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0483_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,2960,3013,231/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508858189643
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,7 +6,7 @@ head:
 entry: Self knowledge
 topic: Self knowledge
 first_letter: S
-xref: 210 [Self-knowledge]
+xref: 
 see: 
 index: Self knowledge
 item: "#item-fb36375da"
@@ -15,9 +15,8 @@ line: 'Entry: Self knowledge|Topic: Self knowledge|Xref: 210 [Self-knowledge]|In
   Self knowledge|#item-fb36375da'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
 order: '659'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0518_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,3051,427/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530201121833
 layout: alpha_item
 collection: alpha4
 ---

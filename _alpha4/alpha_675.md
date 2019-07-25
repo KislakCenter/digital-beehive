@@ -6,7 +6,7 @@ head:
 entry: Shells of Snails
 topic: Shells of Snails
 first_letter: S
-xref: Tortoise
+xref: "<a href='/New_Beehive/alpha5/alpha_774/'>Tortoise</a>"
 see: 
 index: shells of snails
 item: "#item-b3badbfc6"
@@ -15,9 +15,8 @@ line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: she
   of snails|#item-b3badbfc6'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
 order: '675'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0519_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530803527937
 layout: alpha_item
 collection: alpha4
 ---

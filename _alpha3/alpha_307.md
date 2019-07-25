@@ -15,9 +15,8 @@ line: 'Entry: Instrument|Topic: Instrument|XRef: Cause|XRef: means|XRef: 2378 [I
   instrum''t|#item-4818d98ae'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
 order: '307'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0490_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/387,4516,2957,519/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508959609640
 layout: alpha_item
 collection: alpha3
 ---

@@ -6,7 +6,8 @@ head:
 entry: Poverty
 topic: Poverty
 first_letter: P
-xref: Want|Pocket|110 [a Poor man]
+xref: "<a href='/New_Beehive/alpha5/alpha_821/'>Want</a>|<a href='/New_Beehive/alpha4/alpha_531/'>Pocket</a>|110
+  [a Poor man]"
 see: 
 index: poverty
 item: "#item-7a566e50e"
@@ -15,9 +16,8 @@ line: 'Entry: Poverty|Topic: Poverty|Xref: Want|Xref: Pocket|Xref: 110 [a Poor m
   poverty|#item-7a566e50e'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
 order: '538'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0508_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/332,3723,3022,579/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528374183442
 layout: alpha_item
 collection: alpha4
 ---

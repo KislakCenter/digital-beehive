@@ -6,7 +6,8 @@ head:
 entry: Partiality
 topic: Partiality
 first_letter: P
-xref: Impartiality|Neutrality|Regarding of persons
+xref: "<a href='/New_Beehive/alpha3/alpha_286/'>Impartiality</a>|<a href='/New_Beehive/alpha3/alpha_459/'>Neutrality</a>|<a
+  href='/New_Beehive/alpha4/alpha_595/'>Regarding of persons</a>"
 see: 
 index: partiality
 item: "#item-0857cafe1"
@@ -15,9 +16,8 @@ line: 'Entry: Partiality|Topic: Partiality|XRef: Impartiality|XRef: Neutrality|X
   Regarding of persons|Index: partiality|#item-0857cafe1'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
 order: '504'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0506_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/229,484,3145,278/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1512349995222
 layout: alpha_item
 collection: alpha4
 ---

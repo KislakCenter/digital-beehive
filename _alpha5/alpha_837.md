@@ -15,9 +15,8 @@ line: 'Entry: Will of God|Topic: Will of God|Xref: Gods Providence|Xref: 1019 [G
   Will]|Index: -of god|#item-328fe8275'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
 order: '837'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0531_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,2904,470/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529591194485
 layout: alpha_item
 collection: alpha5
 ---

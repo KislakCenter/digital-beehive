@@ -6,7 +6,7 @@ head:
 entry: good Works
 topic: good Works
 first_letter: W
-xref: Deed|1062 [Gppd Works]
+xref: "<a href='/New_Beehive/alpha1/alpha_63/'>Deed</a>|1062 [Gppd Works]"
 see: 
 index: good Works
 item: "#item-e444ebf80"
@@ -15,9 +15,8 @@ line: 'Entry: good Works|Topic: good Works|Xref: Deed|Xref: 1062 [Gppd Works]|In
   good Works|#item-e444ebf80'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
 order: '851'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0533_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,2986,632/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529596141746
 layout: alpha_item
 collection: alpha5
 ---

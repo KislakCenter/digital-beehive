@@ -15,9 +15,8 @@ line: 'Entry: Gift|Topic: Gift|XRef: alms|XRef: liberality|XRef: Bribe|XRef: 506
   gift|#item-a7f1c4050'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
 order: '188'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0481_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/762,2044,2992,416/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508614142252
 layout: alpha_item
 collection: alpha2
 ---

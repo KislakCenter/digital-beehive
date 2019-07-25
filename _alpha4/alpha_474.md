@@ -15,9 +15,8 @@ line: 'Entry: Obstinacy|Topic: Obstinacy|XRef: hardning|XRef: selfwilledness |XR
   stubbornness |Index: obstinacy|#item-54e99134f'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
 order: '474'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0504_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/299,868,3027,282/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1510674550465
 layout: alpha_item
 collection: alpha4
 ---

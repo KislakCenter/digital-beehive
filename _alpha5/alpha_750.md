@@ -6,7 +6,7 @@ head:
 entry: New Testament
 topic: New Testament
 first_letter: T
-xref: 926 [New testament]
+xref: 
 see: 
 index: new
 item: "#item-84496680a"
@@ -15,9 +15,8 @@ line: 'Entry: New Testament|Topic: New Testament|Xref: 926 [New testament]|Index
   new|#item-84496680a'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
 order: '750'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0525_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/834,1507,2940,423/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529088179644
 layout: alpha_item
 collection: alpha5
 ---

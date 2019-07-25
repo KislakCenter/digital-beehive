@@ -6,7 +6,7 @@ head:
 entry: Religion and Worship
 topic: Religion and Worship
 first_letter: R
-xref: 226 [Religion]
+xref: 
 see: 
 index: religion
 item: "#item-4ae715664"
@@ -15,9 +15,8 @@ line: 'Entry: Religion and Worship|Topic: Religion and Worship|Xref: 226 [Religi
   religion|#item-4ae715664'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 order: '597'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0513_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/803,4335,2905,680/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528741816716
 layout: alpha_item
 collection: alpha4
 ---

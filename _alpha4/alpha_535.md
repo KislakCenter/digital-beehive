@@ -6,7 +6,7 @@ head:
 entry: Pope
 topic: Pope
 first_letter: P
-xref: 446 [Pope]
+xref: 
 see: 
 index: pope
 item: "#item-5317aefeb"
@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Pope|Topic: Pope|Xref: 446 [Pope]|Index: pope|#item-5317aefeb'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
 order: '535'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0508_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,2536,3035,457/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528373675431
 layout: alpha_item
 collection: alpha4
 ---

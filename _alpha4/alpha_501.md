@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Parsimony|Topic: Parsimony|XRef: Expenses|XRef: 1115|Index: parsimony|#item-c0243529d'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
 order: '501'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0505_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/768,4438,2945,622/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1512349708472
 layout: alpha_item
 collection: alpha4
 ---

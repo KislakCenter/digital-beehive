@@ -15,9 +15,8 @@ line: 'Entry: Redhaired|Topic: Redhaired|Xref: 1344 [Corinths]|Xref: 1343 [Red-h
   face]|Index: red-haired|#item-a1062b13d'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 order: '592'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0513_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/818,1919,2900,351/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528738628554
 layout: alpha_item
 collection: alpha4
 ---
