@@ -6,7 +6,7 @@ head:
 entry: Predestination
 topic: Predestination
 first_letter: P
-xref: Reprabates|Fate|228 [Predestination]
+xref: Reprabates|<a href='/New_Beehive/alpha2/alpha_157/'>Fate</a>|228 [Predestination]
 see: 
 index: predestination
 item: "#item-d6466de3e"
@@ -15,9 +15,8 @@ line: 'Entry: Predestination|Topic: Predestination|Xref: Reprabates|Xref: Fate|X
   228 [Predestination]|Index: predestination|#item-d6466de3e'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
 order: '545'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0509_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,3008,521/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528376240349
 layout: alpha_item
 collection: alpha4
 ---

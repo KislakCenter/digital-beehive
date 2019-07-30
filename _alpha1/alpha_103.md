@@ -15,9 +15,8 @@ line: 'Entry: Doubt|Topic: Doubt|Xref: Perplexity|Xref: Pinch|Xref: Scepticsm|Xr
   705|Index: Doubt|#item-5f6348a67'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
 order: '103'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0450_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,3620,3016,590/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508178528772
 layout: alpha_item
 collection: alpha1
 ---

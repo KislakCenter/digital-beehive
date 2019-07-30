@@ -15,9 +15,8 @@ line: 'Entry: Trade|Topic: Trade|Xref: Shopkeeper|Xref: Butcher|Xref: 634 [Trade
   trade|#item-dbf3ca43c'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
 order: '775'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0527_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,217,2948,451/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529601840728
 layout: alpha_item
 collection: alpha5
 ---

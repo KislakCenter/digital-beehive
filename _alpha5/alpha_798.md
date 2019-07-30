@@ -15,9 +15,8 @@ line: 'Entry: Vineyard|Topic: Vineyard|Xref: Grapes|Xref: 973 [Grapes]|Xref: 199
   [Vineyards]|Index: -yard|#item-fc758dd02'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
 order: '798'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0528_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529003787011
 layout: alpha_item
 collection: alpha5
 ---

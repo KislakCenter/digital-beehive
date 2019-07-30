@@ -15,9 +15,8 @@ line: 'Entry: Regeneration|Topic: Regeneration|Xref: Baptism|Xref: Sonskin|Xref:
   [Regeneration]|Index: regeneration|#item-862e4e858'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 order: '596'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0513_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/789,3825,2959,557/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528740904128
 layout: alpha_item
 collection: alpha4
 ---

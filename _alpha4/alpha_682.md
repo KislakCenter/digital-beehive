@@ -6,8 +6,8 @@ head:
 entry: Similitude
 topic: Similitude
 first_letter: S
-xref: Likelihood|allusion|256 [Allusions]|comparison|1370 [Parables & Similitudes
-  which Christ spake]
+xref: "<a href='/New_Beehive/alpha3/alpha_364/'>Likelihood</a>|allusion|256 [Allusions]|comparison|1370
+  [Parables & Similitudes which Christ spake]"
 see: 
 index: similitude
 item: "#item-0bc964271"
@@ -17,9 +17,8 @@ line: 'Entry: Similitude|Topic: Similitude|Xref: Likelihood|Xref: allusion|Xref:
   similitude|#item-0bc964271'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
 order: '682'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0520_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/274,379,3123,439/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1532023250692
 layout: alpha_item
 collection: alpha4
 ---

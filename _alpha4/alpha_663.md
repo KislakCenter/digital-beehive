@@ -6,7 +6,7 @@ head:
 entry: Self profit
 topic: Self profit
 first_letter: S
-xref: Lucre|455 [self-profit]
+xref: "<a href='/New_Beehive/alpha3/alpha_387/'>Lucre</a>|455 [self-profit]"
 see: 
 index: Self profit
 item: "#item-0e15b046c"
@@ -15,9 +15,8 @@ line: 'Entry: Self profit|Topic: Self profit|Xref: Lucre|Xref: 455 [self-profit]
   Self profit|#item-0e15b046c'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
 order: '663'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0518_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,3045,418/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530201360793
 layout: alpha_item
 collection: alpha4
 ---

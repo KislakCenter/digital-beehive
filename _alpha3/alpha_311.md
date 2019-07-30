@@ -6,7 +6,7 @@ head:
 entry: Interpretation
 topic: Interpretation
 first_letter: I/J
-xref: Gloss|923 [Interpretation]
+xref: "<a href='/New_Beehive/alpha2/alpha_191/'>Gloss</a>|923 [Interpretation]"
 see: 
 index: interpretation
 item: "#item-d54a87d8f"
@@ -15,9 +15,8 @@ line: 'Entry: Interpretation|Topic: Interpretation|XRef: Gloss|XRef: 923 [Interp
   interpretation|#item-d54a87d8f'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
 order: '311'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0491_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/711,1483,3035,504/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508960183258
 layout: alpha_item
 collection: alpha3
 ---

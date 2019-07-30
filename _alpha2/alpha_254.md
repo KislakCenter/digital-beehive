@@ -6,7 +6,7 @@ head:
 entry: Honour
 topic: Honour
 first_letter: H
-xref: glory|grandeur|Renown|778 []
+xref: glory|grandeur|<a href='/New_Beehive/alpha4/alpha_601/'>Renown</a>|778 []
 see: 
 index: honour
 item: "#item-d7d435bf3"
@@ -15,9 +15,8 @@ line: 'Entry: Honour|Topic: Honour|Xref: glory|Xref: grandeur|Xref: Renown|Xref:
   []|Index: honour|#item-d7d435bf3'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
 order: '254'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0486_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,3168,689/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1509732090839
 layout: alpha_item
 collection: alpha2
 ---

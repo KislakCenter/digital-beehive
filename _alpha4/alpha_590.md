@@ -6,7 +6,8 @@ head:
 entry: Reconcilemt
 topic: Reconcilemt
 first_letter: R
-xref: Placableness|770 [PAGE_MISSING]|379 [Reconciliatio universalis]
+xref: "<a href='/New_Beehive/alpha4/alpha_527/'>Placableness</a>|770 [PAGE_MISSING]|379
+  [Reconciliatio universalis]"
 see: 
 index: Reconciliation
 item: "#item-2542e44da"
@@ -15,9 +16,8 @@ line: 'Entry: Reconcilemt|Topic: Reconcilemt|Xref: Placableness|Xref: 770 [PAGE_
   379 [Reconciliatio universalis]|Index: Reconciliation|#item-2542e44da'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 order: '590'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0513_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,2892,390/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528738136833
 layout: alpha_item
 collection: alpha4
 ---

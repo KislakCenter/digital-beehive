@@ -6,7 +6,9 @@ head:
 entry: Profit
 topic: Profit
 first_letter: P
-xref: Self profit|Lucre|Unprofitable|Utility|1692 [Gain]
+xref: "<a href='/New_Beehive/alpha4/alpha_663/'>Self profit</a>|<a href='/New_Beehive/alpha3/alpha_387/'>Lucre</a>|<a
+  href='/New_Beehive/alpha5/alpha_809/'>Unprofitable</a>|<a href='/New_Beehive/alpha5/alpha_818/'>Utility</a>|1692
+  [Gain]"
 see: 
 index: profit
 item: "#item-c82c2327d"
@@ -15,9 +17,8 @@ line: 'Entry: Profit|Topic: Profit|Xref: Self profit|Xref: Lucre|Xref: Unprofita
   Utility|Xref: 1692 [Gain]|Index: profit|#item-c82c2327d'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
 order: '558'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0510_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/324,2100,3048,462/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528667922254
 layout: alpha_item
 collection: alpha4
 ---

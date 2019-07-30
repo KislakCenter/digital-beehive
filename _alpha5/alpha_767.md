@@ -6,7 +6,7 @@ head:
 entry: Too much
 topic: Too much
 first_letter: T
-xref: abundance|Superfluity|815 [PAGE_MISSING]
+xref: abundance|<a href='/New_Beehive/alpha4/alpha_735/'>Superfluity</a>|815 [PAGE_MISSING]
 see: 
 index: too much
 item: "#item-5b4f65a9f"
@@ -15,9 +15,8 @@ line: 'Entry: Too much|Topic: Too much|Xref: abundance|Xref: Superfluity|Xref: 8
   [PAGE_MISSING]|Index: too much|#item-5b4f65a9f'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
 order: '767'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0526_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/344,2948,3001,585/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529521320309
 layout: alpha_item
 collection: alpha5
 ---

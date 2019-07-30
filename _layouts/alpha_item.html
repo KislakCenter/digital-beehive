@@ -3,11 +3,13 @@ layout: default
 pagination: true
 ---
 
-<a href="{{ page.full }}"><img src="{{ page.full }}"/></a>
+<a href="{{ page.full }}"><img src="{{ page.full }}"/></a><br />
 
 Image Number: {{ page.volume }}, Image {{ page.image_number }}<br />
 Topic: {{ page.topic }}<br />
 Entry: {{ page.entry }}<br />
-Cross-reference: {{ page.xref }}<br />
+{% if page.xref %}
+  Cross-reference: {{ page.xref }}<br />
+{% endif %}
 Index: {{ page.index }}<br />
-<a href="{{ page.full_image }}">Full Image</a>
+<a href="{{ page.full_image }}">Full Page</a>

@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Faith|Topic: Faith|XRef: unbelief|XRef: 397 [Faith]|Index: Faith|#item-597a8bcb7'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
 order: '150'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0455_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/822,784,2935,516/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508257931374
 layout: alpha_item
 collection: alpha2
 ---

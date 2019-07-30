@@ -6,7 +6,8 @@ head:
 entry: Impartiality
 topic: Impartiality
 first_letter: I/J
-xref: Partiality|Neutrality|1417 [Impartial]|Indifferency
+xref: "<a href='/New_Beehive/alpha4/alpha_504/'>Partiality</a>|<a href='/New_Beehive/alpha3/alpha_459/'>Neutrality</a>|1417
+  [Impartial]|Indifferency"
 see: 
 index: impartiality
 item: "#item-37fe4196e"
@@ -15,9 +16,8 @@ line: 'Entry: Impartiality|Topic: Impartiality|XRef: Partiality|XRef: Neutrality
   1417 [Impartial]|XRef: Indifferency|Index: impartiality|#item-37fe4196e'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
 order: '286'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0489_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/799,920,2957,550/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508860112600
 layout: alpha_item
 collection: alpha3
 ---

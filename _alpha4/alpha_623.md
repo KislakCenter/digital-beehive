@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Romances|Topic: Romances|Xref: Fables|Xref: 1393 [Romances]|Index: romance|#item-af75dbbde'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
 order: '623'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0516_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,3033,339/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528827075334
 layout: alpha_item
 collection: alpha4
 ---

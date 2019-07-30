@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Shape|Topic: Shape|Xref: exernal appearance|Xref: face form|Index: shape|#item-f4b4428ef'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
 order: '673'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0519_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/767,1979,3007,533/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530803436255
 layout: alpha_item
 collection: alpha4
 ---

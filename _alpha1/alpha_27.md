@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Anathema|Topic: Anathema|Index: Anathema|#item-c6ca7a2a0'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/full/full/0/default.jpg
 order: '27'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0432_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/234,754,3195,322/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1490640724768
 layout: alpha_item
 collection: alpha1
 ---

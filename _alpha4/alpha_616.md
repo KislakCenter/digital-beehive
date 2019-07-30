@@ -6,7 +6,7 @@ head:
 entry: Riches
 topic: Riches
 first_letter: R
-xref: Abundance|854 [PAGE_MISSING]
+xref: "<a href='/New_Beehive/alpha1/alpha_3/'>Abundance</a>|854 [PAGE_MISSING]"
 see: 
 index: riches
 item: "#item-821b8e68d"
@@ -15,9 +15,8 @@ line: 'Entry: Riches|Topic: Riches|Xref: Abundance|Xref: 854 [PAGE_MISSING]|Inde
   riches|#item-821b8e68d'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
 order: '616'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0515_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/795,2995,2948,815/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528824983012
 layout: alpha_item
 collection: alpha4
 ---

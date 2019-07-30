@@ -15,9 +15,8 @@ line: 'Entry: Physician|Topic: Physician|Xref: medicine|Xref: Montebank|Xref: 67
   [Physician]|Index: physician|#item-9e1675f2b'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
 order: '522'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0507_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,2979,562/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528333803950
 layout: alpha_item
 collection: alpha4
 ---

@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Pawn|Topic: Pawn|Index:  pawn|#item-ab2cfebee'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
 order: '509'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0506_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/274,2108,3096,253/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1512350526613
 layout: alpha_item
 collection: alpha4
 ---

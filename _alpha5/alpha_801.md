@@ -15,9 +15,8 @@ line: 'Entry: Unanimity|Topic: Unanimity|Xref: Discord|Xref: 312 [Unanimity]|Ind
   unanimity|#item-d65d746e6'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
 order: '801'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0529_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/830,239,2974,464/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528911528716
 layout: alpha_item
 collection: alpha5
 ---

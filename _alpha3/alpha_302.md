@@ -6,7 +6,8 @@ head:
 entry: Injustices
 topic: Injustices
 first_letter: I/J
-xref: Justice|Unjust|Substance|6 [Unjust Substance]|1227 [Injustice]
+xref: "<a href='/New_Beehive/alpha3/alpha_322/'>Justice</a>|Unjust|Substance|6 [Unjust
+  Substance]|1227 [Injustice]"
 see: 
 index: injustice
 item: "#item-fb210324c"
@@ -15,9 +16,8 @@ line: 'Entry: Injustices|Topic: Injustices|XRef: Justice|XRef: Unjust|XRef: Subs
   6 [Unjust Substance]|XRef: 1227 [Injustice]|Index: injustice|#item-fb210324c|'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
 order: '302'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0490_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/284,2126,3052,639/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508958647913
 layout: alpha_item
 collection: alpha3
 ---

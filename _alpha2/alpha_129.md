@@ -15,9 +15,8 @@ line: 'Entry: Epitaph|Topic: Epitaph|XRef: Inscriptions|XRef: 245 [Epitaphs]|Ind
   epitaphs|#item-1a230df78'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
 order: '129'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0453_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/813,256,2968,469/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508254707884
 layout: alpha_item
 collection: alpha2
 ---

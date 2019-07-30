@@ -15,9 +15,8 @@ line: 'Entry: Seducing|Topic: Seducing|Xref: stratagem|Xref: 1152 [Seducing]|Ind
   Seducing|#item-cf90882e1'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
 order: '654'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0518_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,3104,356/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1530200655208
 layout: alpha_item
 collection: alpha4
 ---

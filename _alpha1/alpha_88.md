@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Discretion|Topic: Discretion|Index: Discretion|#item-c8b7cc6c4'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
 order: '88'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0449_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,2916,220/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1508175350769
 layout: alpha_item
 collection: alpha1
 ---

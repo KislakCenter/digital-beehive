@@ -6,7 +6,7 @@ head:
 entry: Watchfullness
 topic: Watchfullness
 first_letter: W
-xref: Diligence|1363 [Watchfulness]
+xref: "<a href='/New_Beehive/alpha1/alpha_84/'>Diligence</a>|1363 [Watchfulness]"
 see: 
 index: watchful
 item: "#item-e237c446b"
@@ -15,9 +15,8 @@ line: 'Entry: Watchfullness|Topic: Watchfullness|Xref: Diligence|Xref: 1363 [Wat
   watchful|#item-e237c446b'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
 order: '827'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0531_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/814,231,2979,574/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529523466826
 layout: alpha_item
 collection: alpha5
 ---

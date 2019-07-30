@@ -15,9 +15,8 @@ line: 'Entry: Wolf|Topic: Wolf|Xref: Lycanthropia|Xref: 1535 [Lycanthropia]|Inde
   wolf|#item-3595fd35e'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
 order: '845'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0532_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,2973,344/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1529592949023
 layout: alpha_item
 collection: alpha5
 ---

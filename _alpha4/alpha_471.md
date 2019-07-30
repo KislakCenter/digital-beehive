@@ -6,7 +6,7 @@ head:
 entry: Obedience
 topic: Obedience
 first_letter: O
-xref: disobedience|985|Parents
+xref: disobedience|985|<a href='/New_Beehive/alpha4/alpha_498/'>Parents</a>
 see: 
 index: obedience
 item: "#item-7dfdfd864"
@@ -15,9 +15,8 @@ line: 'Entry: Obedience|Topic: Obedience|XRef: disobedience|XRef: 985|XRef: Pare
   obedience|#item-7dfdfd864'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
 order: '471'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0503_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/796,4456,2967,596/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1510674118622
 layout: alpha_item
 collection: alpha4
 ---

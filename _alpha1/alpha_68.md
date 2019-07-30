@@ -6,7 +6,7 @@ head:
 entry: Deliberation
 topic: Deliberation
 first_letter: D
-xref: Considerateness|Meditation
+xref: Considerateness|<a href='/New_Beehive/alpha3/alpha_406/'>Meditation</a>
 see: 
 index: Deliberation
 item: "#item-8049ac248"
@@ -15,9 +15,8 @@ line: 'Entry: Deliberation|Topic: Deliberation|Xref: Considerateness|Xref: Medit
   Deliberation|#item-8049ac248'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
 order: '68'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0447_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,4430,2918,434/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1507576937688
 layout: alpha_item
 collection: alpha1
 ---

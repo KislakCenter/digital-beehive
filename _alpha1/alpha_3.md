@@ -6,7 +6,7 @@ head:
 entry: Abundance
 topic: Abundance
 first_letter: A
-xref: Too much, Superfluity
+xref: 
 see: 
 index: Abundance
 item: "#item-47e3112fb"
@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Abundance|Topic: Abundance|Xref: Too much, Superfluity|Index: Abundance|#item-47e3112fb'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 order: '3'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0430_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/316,1203,3137,656/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1486415950224
 layout: alpha_item
 collection: alpha1
 ---

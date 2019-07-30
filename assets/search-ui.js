@@ -10,7 +10,7 @@ function excerptedString(str) {
 
 function getThumbnail(item, url) {
   if ('thumbnail' in item) {
-    return `<img class='sq-thumb-sm' src='${url}${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
+    return `<img class='sq-thumb-sm' src='${item.thumbnail}'/>&nbsp;&nbsp;&nbsp;`
   }
   else {
     return '';
@@ -19,7 +19,7 @@ function getThumbnail(item, url) {
 
 function displayResult(item, fields, url) {
   var pid   = item.pid;
-  var label = item.label || 'Untitled';
+  var entry = item.entry || 'Untitled';
   var link  = item.permalink;
   var thumb = getThumbnail(item, url);
   var meta  = []
@@ -30,7 +30,7 @@ function displayResult(item, fields, url) {
       meta.push(`<b>${fieldLabel}:</b> ${excerptedString(item[fieldLabel])}`);
     }
   }
-  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.label}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
+  return `<div class="result"><a href="${url}${link}">${thumb}<p><span class="title">${item.entry}</span><br><span class="meta">${meta.join(' | ')}</span></p></a></div>`;
 }
 
 function startSearchUI(fields, indexFile, url) {

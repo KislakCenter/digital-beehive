@@ -6,7 +6,8 @@ head:
 entry: Redemption
 topic: Redemption
 first_letter: R
-xref: Saviour|Salvation|2306 [Redemption]
+xref: "<a href='/New_Beehive/alpha4/alpha_640/'>Saviour</a>|<a href='/New_Beehive/alpha4/alpha_638/'>Salvation</a>|2306
+  [Redemption]"
 see: 
 index: redemption
 item: "#item-6483207bc"
@@ -15,9 +16,8 @@ line: 'Entry: Redemption|Topic: Redemption|Xref: Saviour|Xref: Salvation|Xref: 2
   [Redemption]|Index: redemption|#item-6483207bc'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 order: '591'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0513_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/819,2192,2908,439/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1528738896909
 layout: alpha_item
 collection: alpha4
 ---

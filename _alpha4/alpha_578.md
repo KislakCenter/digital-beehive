@@ -14,9 +14,8 @@ unparsed:
 line: 'Entry: Purgatory|Topic: Purgatory|Index: Purgatory|#item-cceea3136'
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
 order: '578'
-thumbnail: http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0512_thumb.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,3093,378/full/0/default.jpg
-manifest: http://dev.llgc.org.uk/annotation/1523299994474
 layout: alpha_item
 collection: alpha4
 ---
