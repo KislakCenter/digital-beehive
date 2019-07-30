@@ -1,12 +1,22 @@
 ---
-layout: default
+layout: toc
 title: Volume One
 description: Navigating Volume One
 permalink: '/tocvol1/'
 ---
-
-[1.1: Front Matter](im1_11.md) <img style="width:30px;height:39px;" img align="left;" src="http://openn.library.upenn.edu/Data/0002/mscodex726/data/thumb/1607_0010_thumb.jpg">
-
-[1.2: Front Matter](http://openn.library.upenn.edu/Data/0002/mscodex726/data/web/1607_0011_web.jpg)
-
-[1.3: Front Matter](http://openn.library.upenn.edu/Data/0002/mscodex726/data/web/1607_0012_web.jpg)
+<ul class="list-unstyled">
+{% for item in site.data.toc_vol1 %}
+  <li style="position: relative">
+    <hr>
+      <a href="{{ item.full }}"><img style="padding: 0 15px; float: left; clear: both; margin-top: 20px; postion: fixed" src="{{ item.thumbnail }}"/></a>
+        <div id="text">
+          {% if item.pastorius_section_header %}
+            {{ item.pastorius_section_header }}<br />
+          {% endif %}
+          {{ item.section_title }}
+          <p style="margin-top: 20px; border-box; position: fixed; height=100%; width=100%"></p>
+        </div>
+      <br>
+  </li>
+{% endfor %}
+</ul>
