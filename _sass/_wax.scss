@@ -197,6 +197,26 @@ content section
   }
 }
 
+.divthumb {
+    clear: both;
+    line-height: 30px;
+    min-height: 200px;
+}
+
+.label {
+    letter-spacing: 0.05em;
+    line-height: 42px;
+    font-weight: bold;
+}
+
+
+#divthumbs img{
+	float: left;
+	margin-right: 11px;
+    margin-bottom: 12px;
+    margin-left: 10px;
+}
+
 #wax-footer {
   width: 100vw;
   padding-bottom: 5rem;
