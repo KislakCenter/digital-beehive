@@ -197,6 +197,20 @@ content section
   }
 }
 
+#divthumbs {
+	visibility: visible;
+	z-index: 3;
+	/* width: 320px; */
+	/*position: static; */
+	height: 200px;
+	margin: 2px;
+	padding: 5px;
+    /* margin-left: 110px; */
+}
+
+#divthumbs hr {
+}
+
 .divthumb {
     clear: both;
     line-height: 30px;

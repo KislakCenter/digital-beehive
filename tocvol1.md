@@ -20,8 +20,8 @@ permalink: '/tocvol1/'
           {% if item.secondary_section_title %}
             <strong>Section:</strong> {{ item.secondary_section_title }}<br />
           {% endif %}
-          {% if item.content %}
-            <strong>Content:</strong> {{ item.content }}<br />
+          {% if item.contents %}
+            <strong>Content:</strong> {{ item.contents }}<br />
           {% endif %}
             <i>Volume {{ item.volume }}, Image {{ item.image }}</i>
           <p style="margin-top: 20px; border-box; position: fixed; height=100%; width=100%"></p>

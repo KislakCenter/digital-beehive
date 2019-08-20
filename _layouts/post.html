@@ -2,9 +2,11 @@
 layout: default
 ---
 
-{{content}}
+
 
 {% assign author = site.data.authors[page.author] %}
 {% if author %}
-{% include author.html %}
+{{ author.name }}
 {% endif %}
+
+{{content}}

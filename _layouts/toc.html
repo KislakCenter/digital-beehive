@@ -11,12 +11,13 @@
       {% include parallax_image.html collection=b.collection pid=b.pid y=b.y height=b.height %}
     {% endif %}
 
-    <div id='divthumbs' class='divthumb'>
-      {{ content }}
+    <div id='wax-main'>
+      <div id='divthumbs' class='divthumb'>
+        {{ content }}
+      </div>
     </div>
-
-
     {% include footer.html %}
+
   </body>
 
   <script type='text/javascript' async defer src='{{ "/assets/bootstrap/bootstrap.min.js" | absolute_url }}'></script>

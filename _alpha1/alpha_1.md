@@ -2,15 +2,15 @@
 pid: alpha_1
 volume: Volume 1
 image_number: '431'
-head: 
+head:
 entry: Absence
 topic: Absence
 first_letter: A
 xref: "<a href='/New_Beehive/alpha4/alpha_546/'>Presence</a>"
-see: 
+see:
 index: Absence
 item: "#item-351a9f3bd"
-unparsed: 
+unparsed:
 line: 'Entry: Absence|Topic: Absence|Xref: Presence|Index: Absence|#item-351a9f3bd'
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 order: '1'
