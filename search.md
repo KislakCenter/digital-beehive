@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search the Collection
+title: Search the Beehive
 permalink: /search/
 ---
 

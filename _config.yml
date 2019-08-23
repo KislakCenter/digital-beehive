@@ -87,7 +87,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -95,7 +95,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -103,7 +103,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -111,7 +111,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -119,10 +119,45 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
+      index1:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index2:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index3:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index4:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index5:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
 
 # site menu settings
 
@@ -133,8 +168,8 @@ menu:
         link: '/about/'
       #- label: 'Documentation'
       #   link: Link here to the Github
-      - label: 'Credits'
-        link: '/credits/'
+      - label: 'Documentation'
+        link: '/documentation/'
   - label: 'Table of Contents'
     sub:
       - label: 'Using the Table of Contents'
@@ -150,11 +185,9 @@ menu:
       - label: 'Alphabetical Section'
         link: '/alphabetical/'
       - label: 'Index'
-        link: '/Index/'
+        link: '/index/'
   - label: Search
     link: '/search/'
-  - label: 'Blog'
-    link: '/blog/'
 
 # site footer settings
 
