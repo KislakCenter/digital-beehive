@@ -7,7 +7,7 @@ show_title: false
 # Add a banner from an image in one of the site's collections.
 banner:
   collection: alpha1
-  pid: alpha_4
+  pid: alpha_0071
   y: 25%
   height: '500px'
 ---
