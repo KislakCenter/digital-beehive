@@ -95,11 +95,6 @@ collections:
     layout: 'index_item'
     metadata:
       source: index5.csv
-  toc_vol1:
-    output: true
-    layout: 'toc1_item'
-    metadata:
-      source: toc_vol1.csv
   toc_vol2:
     output: true
     layout: 'toc2_item'
