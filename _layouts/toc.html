@@ -11,10 +11,12 @@
       {% include parallax_image.html collection=b.collection pid=b.pid y=b.y height=b.height %}
     {% endif %}
 
-    <div id='wax-main'>
-      <div id='divthumbs' class='divthumb'>
-        {{ content }}
-      </div>
+    <div id='divsidenav' class="sidenav">
+        {{ p }}
+    </div>
+
+    <div id='divthumbs' class='divthumb'>
+          {{ content }}
     </div>
     {% include footer.html %}
 

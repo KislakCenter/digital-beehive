@@ -197,20 +197,6 @@ content section
   }
 }
 
-#divthumbs {
-	visibility: visible;
-	z-index: 3;
-	/* width: 320px; */
-	/*position: static; */
-	height: 200px;
-	margin: 2px;
-	padding: 5px;
-    /* margin-left: 110px; */
-}
-
-#divthumbs hr {
-}
-
 .divthumb {
     clear: both;
     line-height: 30px;
@@ -218,17 +204,40 @@ content section
 }
 
 .label {
-    letter-spacing: 0.05em;
-    line-height: 42px;
-    font-weight: bold;
+    letter-spacing: 0.02em;
+    line-height: 30px;
+    margin-left: 475px;
 }
 
 
 #divthumbs img{
-	float: left;
+	display: inline;
 	margin-right: 11px;
     margin-bottom: 12px;
-    margin-left: 10px;
+    margin-left: 315px;
+}
+
+.sidenav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 300px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 0;
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #fff; /* white */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 115px;
+  padding-bottom: 25px;
+  padding-right: 15px;
+  padding-left: 25px;
+  border-right-style: solid;
+  border-right-color: #6c757d;
+  line-height: 25px;
+  letter-spacing: -0.02em;
+}
+
+#divsidenav {
+
 }
 
 #wax-footer {
