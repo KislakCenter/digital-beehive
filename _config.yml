@@ -215,7 +215,7 @@ menu:
       - label: 'Alphabetical Section'
         link: '/alphabetical/'
       - label: 'Index'
-        link: '/Index/'
+        link: '/index/'
   - label: Search
     link: '/search/'
 
