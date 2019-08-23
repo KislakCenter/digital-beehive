@@ -1,0 +1,17 @@
+---
+layout: default
+pagination: true
+---
+
+<a href="{{ page.full }}"><img src="{{ page.full }}"/></a><br>
+
+Image Number: {{ page.volume }}, Image {{ page.image_number }}<br>
+Head: {{ page.head }}<br>
+Entry: {{ page.entry }}<br>
+{% if page.see %}
+  See: {{ page.xref }}<br>
+{% endif %}
+{% if page.page %}
+  Page: {{ page.page }}<br>
+{% endif %}
+<a href="{{ page.full_image }}">Full Page</a>

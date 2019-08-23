@@ -2,9 +2,14 @@
 layout: default
 ---
 
-{{content}}
-
 {% assign author = site.data.authors[page.author] %}
-{% if author %}
-{% include author.html %}
+
+<h2 class='page-title'>{{ page.title }}</h2></br>
+
+{% if author.website %}
+  by <a href='{{ author.website }}'>{{ author.name }}</a>
+{% else %}
+  by {{ author.name }}
 {% endif %}
+
+{{content}}

@@ -70,6 +70,41 @@ collections:
     layout: 'alpha_item'
     metadata:
       source: alpha5.csv
+  index1:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index1.csv
+  index2:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index2.csv
+  index3:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index3.csv
+  index4:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index4.csv
+  index5:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index5.csv
+  toc_vol1:
+    output: true
+    layout: 'toc1_item'
+    metadata:
+      source: toc_vol1.csv
+  toc_vol2:
+    output: true
+    layout: 'toc2_item'
+    metadata:
+      source: toc_vol2.csv
 
 # Configure the search function
 # Can make multiple indices, but Wax recommends against it.
@@ -82,7 +117,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -90,7 +125,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -98,7 +133,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -106,7 +141,7 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
@@ -114,10 +149,45 @@ search:
         content: false
         fields:
           - image_number
-          - entry
+          - label
           - topic
           - xref
           - index
+      index1:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index2:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index3:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index4:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
+      index5:
+        content: false
+        fields:
+          - image_number
+          - label
+          - entry
+          - see
 
 # site menu settings
 
@@ -128,8 +198,8 @@ menu:
         link: '/about/'
       #- label: 'Documentation'
       #   link: Link here to the Github
-      - label: 'Credits'
-        link: '/credits/'
+      - label: 'Documentation'
+        link: '/documentation/'
   - label: 'Table of Contents'
     sub:
       - label: 'Using the Table of Contents'
@@ -148,8 +218,6 @@ menu:
         link: '/Index/'
   - label: Search
     link: '/search/'
-  - label: 'Blog'
-    link: '/blog/'
 
 # site footer settings
 
