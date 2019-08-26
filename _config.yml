@@ -70,6 +70,31 @@ collections:
     layout: 'alpha_item'
     metadata:
       source: alpha5.csv
+  index1:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index1.csv
+  index2:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index2.csv
+  index3:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index3.csv
+  index4:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index4.csv
+  index5:
+    output: true
+    layout: 'index_item'
+    metadata:
+      source: index5.csv
   toc_vol1:
     output: true
     layout: 'toc1_item'
