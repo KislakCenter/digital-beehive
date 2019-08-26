@@ -8,6 +8,7 @@ permalink: '/tocvol1/'
 <div id= 'divsidenav'
   <div class="sidenav">
     <div class="list-group">
+      <p style="letter-spacing: 0.02em"><font color= "teal"><strong><h3>Navigation</h3></strong></font></p>
       {% for item in site.data.toc_vol1%}
         {% if item.toc_title %}
           <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
