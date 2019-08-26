@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+{% assign author = site.data.authors[page.author] %}
+
+{% if author %}
+  {% if author.website %}
+    by <a href='{{ author.website }}'>{{ author.name }}</a>
+  {% else %}
+    by {{ author.name }}
+  {% endif %}
+{% endif %}
+
+{{ content }}
