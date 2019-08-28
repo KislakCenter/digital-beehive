@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: ringleader
+index: "<a href='/New_Beehive/index4/index_3433/'>ring leader</a>"
 item: "#item-fb6fd31b4"
 unparsed: 
 line: 'Entry: Ringleader|Topic: Ringleader|Xref: 2181 [Ringleader]|Index: ringleader|#item-fb6fd31b4'

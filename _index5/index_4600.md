@@ -2,8 +2,8 @@
 pid: index_4600
 volume: Volume 3
 image_number: '53'
-head: wit
-entry: a
+head: woman's wit
+entry: "<a href='/New_Beehive/alpha5/alpha_1037/'>a</a>"
 topic: 
 first_letter: W
 xref: 
@@ -21,7 +21,7 @@ annotation_uri: http://dev.llgc.org.uk/annotation/1560796113707
 order: '4600'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/full/0/default.jpg
-label: wit
+label: woman's wit
 layout: index_item
 collection: index5
 ---

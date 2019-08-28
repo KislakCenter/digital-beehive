@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: suck
+index: "<a href='/New_Beehive/index4/index_3969/'>suck</a>"
 item: "#item-9119c6886"
 unparsed: 
 line: 'Entry: Suck|Topic: Suck|Xref: 2207 [devil''s Sucking the Sorceress]|Index:

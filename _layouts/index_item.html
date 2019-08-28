@@ -9,7 +9,10 @@ Image Number: {{ page.volume }}, Image {{ page.image_number }}<br>
 Head: {{ page.head }}<br>
 Entry: {{ page.entry }}<br>
 {% if page.see %}
-  See: {{ page.xref }}<br>
+  See: {{ page.see }}<br>
+{% endif %}
+{% if page.add %}
+  Add: {{ page.add }}<br>
 {% endif %}
 {% if page.page %}
   Page: {{ page.page }}<br>

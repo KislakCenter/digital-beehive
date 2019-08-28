@@ -2,7 +2,7 @@
 pid: index_3986
 volume: Volume 3
 image_number: '46'
-head: Sundials
+head: sundials
 entry: 
 topic: 
 first_letter: S
@@ -23,7 +23,7 @@ annotation_uri: http://dev.llgc.org.uk/annotation/1530473197541
 order: '3986'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/full/0/default.jpg
-label: Sundials
+label: sundials
 layout: index_item
 collection: index4
 ---

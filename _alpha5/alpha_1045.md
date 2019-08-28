@@ -12,11 +12,11 @@ see:
 page: 
 add: 
 type: 
-index: good Works
+index: "<a href='/New_Beehive/index5/index_4614/'>good works</a>"
 item: "#item-e444ebf80"
 unparsed: 
 line: 'Entry: good Works|Topic: good Works|Xref: Deed|Xref: 1062 [Good Works]|Index:
-  good Works|#item-e444ebf80'
+  good works|#item-e444ebf80'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,2986,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529596141746

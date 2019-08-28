@@ -12,7 +12,7 @@ see:
 page: 
 add: 
 type: 
-index: late repentance
+index: "<a href='/New_Beehive/index4/index_3371/'>repentance late</a>"
 item: "#item-d55b9edbb"
 unparsed: 
 line: 'Entry: Late Repentance|Topic: Late Repentance|Xref: 307 [repentance]|Xref:

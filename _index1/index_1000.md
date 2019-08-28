@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: dainty|<a href='/New_Beehive/index5/index_4600/'>wit</a>
+see: dainty|wit
 page: 
 add: 
 type: 

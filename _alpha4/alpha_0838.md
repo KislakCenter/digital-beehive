@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: seed
+index: "<a href='/New_Beehive/index4/index_3593/'>seed</a>"
 item: "#item-24d964fc0"
 unparsed: 
 line: 'Entry: Seed|Topic: Seed|Xref: 1059 [Seed]|Index: seed|#item-24d964fc0'

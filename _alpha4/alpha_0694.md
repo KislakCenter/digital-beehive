@@ -6,8 +6,8 @@ head:
 entry: Persecution
 topic: Persecution
 first_letter: P
-xref: liberty of confidence|Compulsion|<a href='/New_Beehive/toc_vol2/toc2_064/'>71
-  [Persecution]</a>
+xref: "<a href='/New_Beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
+  href='/New_Beehive/toc_vol2/toc2_064/'>71 [Persecution]</a>"
 see: 
 page: 
 add: 
@@ -15,7 +15,7 @@ type:
 index: "<a href='/New_Beehive/index4/index_2967/'>persecution</a>"
 item: "#item-c9e6f0e5f"
 unparsed: 
-line: 'Entry: Persecution|Topic: Persecution|Xref: liberty of confidence|Xref: Compulsion|Xref:
+line: 'Entry: Persecution|Topic: Persecution|Xref: liberty of conscience|Xref: Compulsion|Xref:
   71 [Persecution]|Index: persecution|#item-c9e6f0e5f'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,3058,683/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg

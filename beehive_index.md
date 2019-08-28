@@ -6,6 +6,8 @@ permalink: /index/
 
 The following pages present high quality scans of the Alphabetical Section of Pastorius' Beehive Manuscript with relevant metadata for each entry.
 
+For information on navigating the entries in the Alphabetical Section, please see [here](index-documentation.md).
+
 [Index, A-D](index-ad.md)  
 [Index, E-H](index-eh.md)  
 [Index, I-N](index-in.md)  

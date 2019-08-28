@@ -8,8 +8,8 @@ topic:
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>|p.375 [Image
-  2.197]"
+page: "<a href='/New_Beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>|<a href='/New_Beehive/toc_vol1/toc2_187/'>p.375
+  [Image 2.197]</a>"
 add: 
 type: 
 index: 

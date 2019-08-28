@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '33'
 head: obligation
 entry: "<a href='/New_Beehive/alpha4/alpha_0646/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_273/'>1396
-  [Obligoon]</a>"
+  [Obliga[ti]on]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -15,7 +15,7 @@ type:
 index: 
 item: "#item-48c0ae297"
 unparsed: 
-line: 'Head: obligation|Entry: a|Entry: 1396 [Obligoon]|#item-48c0ae297'
+line: 'Head: obligation|Entry: a|Entry: 1396 [Obliga[ti]on]|#item-48c0ae297'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/134,1936,726,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536347253491

@@ -3,7 +3,7 @@ pid: index_3576
 volume: Volume 3
 image_number: '41'
 head: seal
-entry: a
+entry: "<a href='/New_Beehive/alpha4/alpha_0831/'>a</a>"
 topic: 
 first_letter: S
 xref: 

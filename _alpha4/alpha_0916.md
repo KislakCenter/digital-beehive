@@ -13,7 +13,7 @@ see:
 page: 
 add: 
 type: 
-index: sufferings
+index: "<a href='/New_Beehive/index4/index_3973/'>sufferings</a>"
 item: "#item-5355ee380"
 unparsed: 
 line: 'Entry: Suffering|Topic: Suffering|Xref: Passion|Xref: 515 [horrid Cruelties,

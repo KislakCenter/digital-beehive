@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: W
 xref: 
-see: suck
+see: "<a href='/New_Beehive/index4/index_3969/'>suck</a>"
 page: 
 add: 
 type: 

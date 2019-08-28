@@ -12,7 +12,7 @@ see:
 page: 
 add: 
 type: 
-index: sun
+index: "<a href='/New_Beehive/index4/index_3983/'>sun</a>"
 item: "#item-21648fee6"
 unparsed: 
 line: 'Entry: Sun|Topic: Sun|Xref: 1256 [World]|Xref: 1357 [Sun]|Index: sun|#item-21648fee6'

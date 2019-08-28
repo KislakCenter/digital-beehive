@@ -8,7 +8,7 @@ topic:
 first_letter: O
 xref: 
 see: 
-page: p.379 [Image 2.201]
+page: "<a href='/New_Beehive/toc_vol1/toc2_191/'>p.379 [Image 2.201]</a>"
 add: 
 type: 
 index: 

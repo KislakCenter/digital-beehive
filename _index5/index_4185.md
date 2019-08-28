@@ -3,7 +3,7 @@ pid: index_4185
 volume: Volume 3
 image_number: '48'
 head: too soon
-entry: a
+entry: "<a href='/New_Beehive/alpha5/alpha_0958/'>a</a>"
 topic: 
 first_letter: T
 xref: 

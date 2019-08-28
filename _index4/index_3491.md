@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index5/index_4600/'>wit</a>"
+see: wit
 page: 
 add: 
 type: 

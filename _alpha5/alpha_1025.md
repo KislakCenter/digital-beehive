@@ -11,11 +11,11 @@ see:
 page: 
 add: 
 type: 
-index: "-of god"
+index: will of god
 item: "#item-328fe8275"
 unparsed: 
 line: 'Entry: Will of God|Topic: Will of God|Xref: Gods Providence|Xref: 1019 [Gods
-  Will]|Index: -of god|#item-328fe8275'
+  Will]|Index: will of god|#item-328fe8275'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,2904,470/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529591194485

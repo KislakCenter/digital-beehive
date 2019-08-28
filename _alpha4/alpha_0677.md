@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: parsimony
+index: "<a href='/New_Beehive/index4/index_2892/'>parsimony</a>"
 item: "#item-c0243529d"
 unparsed: 
 line: 'Entry: Parsimony|Topic: Parsimony|Xref: Expenses|Xref: 1115 [Frugality]|Index:

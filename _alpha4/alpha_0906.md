@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: Stork
+index: "<a href='/New_Beehive/index4/index_3919/'>stork</a>"
 item: "#item-b670c0947"
 unparsed: 
 line: 'Entry: Stork|Topic: Stork|Index: Stork|#item-b670c0947'

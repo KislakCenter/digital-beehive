@@ -3,7 +3,7 @@ pid: index_3554
 volume: Volume 3
 image_number: '41'
 head: scorn
-entry: 814 [PAGE_MISSING]
+entry: "<a href='/New_Beehive/alpha4/alpha_0828/'>a</a>|814 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

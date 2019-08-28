@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: Scorn
+index: "<a href='/New_Beehive/index4/index_3554/'>scorn</a>"
 item: "#item-f54674d4c"
 unparsed: 
 line: 'Entry: Scorn|Topic: Scorn|Xref: derision|Xref: 814 [PAGE_MISSING]|Index: Scorn|#item-f54674d4c'
