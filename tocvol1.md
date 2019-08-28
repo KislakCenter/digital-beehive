@@ -34,11 +34,10 @@ permalink: '/tocvol1/'
             <font color= "teal"><h4><a id="{{ item.toc_link }}"></a> {{ item.toc_title }}</h4></font>
           {% endif %}
           <i>Volume {{ item.volume }}, Image {{ item.image }}</i><br />
-          {% if item.section_title %}
-            <strong>Section:</strong> {{ item.section_title }}<br />
-          {% endif %}
           {% if item.secondary_section_title %}
-            <strong>Section:</strong> {{ item.secondary_section_title }}<br />
+            <strong>Section:</strong> {{ item.section_title }} | {{ item.secondary_section_title }}<br />
+          {% elsif item.section_title %}
+            <strong>Section:</strong> {{ item.section_title }}<br />
           {% endif %}
           {% if item.contents %}
             <strong>Content:</strong> {{ item.contents }}<br />

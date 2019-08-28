@@ -3,7 +3,7 @@ layout: post
 title: "Problematizing the Idea of Data in the Beehive"
 author: drnelson6
 tags: [blog]
-description:
+description: How did Francis Daniel Pastorius think about data and how is it represented in his Beehive manuscript?
 ---
 #### Did Pastorius think about data like we think about data?
 
