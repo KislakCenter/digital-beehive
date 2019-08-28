@@ -32,9 +32,6 @@ pagination: true
   Pastorius's Older Page Numbers {{ page.older_pastorius_page_numbers }}<br>
 {% endif %}
 Type: {{ page.type }}<br>
-{% if page.secondary_type %}
-  Type: {{ page.secondary_type }}<br>
-{% endif %}
 {% if page.section_title %}
   Section: {{ page.section_title }}<br>
 {% endif %}
@@ -58,8 +55,5 @@ Type: {{ page.type }}<br>
 {% endif %}
 {% if page.last_entry %}
   {{ page.last_entry }} <br>
-{% endif %}
-{% if page.notes %}
-  Notes: {{ page.notes }} <br>
 {% endif %}
 <a href="{{ site.baseurl }}{{ prevurl }}">Previous Page</a> | <a href="{{ site.baseurl }}{{ nexturl }}">Next Page</a>

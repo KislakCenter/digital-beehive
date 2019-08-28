@@ -1,15 +1,15 @@
 ---
 layout: toc
-title: Volume One
-description: Navigating Volume One
-permalink: '/tocvol1/'
+title: Volume Three
+description: Navigating Volume Three
+permalink: '/tocvol3/'
 ---
 
 <div id= 'divsidenav'
   <div class="sidenav">
     <div class="list-group">
       <p style="letter-spacing: 0.02em; list-style-type: circle"><font color= "teal"><strong><h3>Navigation</h3></strong></font></p>
-      {% for item in site.data.toc_vol1%}
+      {% for item in site.data.toc_vol3%}
         {% if item.toc_title %}
           <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
         {% endif %}
@@ -24,12 +24,12 @@ permalink: '/tocvol1/'
 
 
 <ul class="list-unstyled">
-{% for item in site.data.toc_vol1 %}
+{% for item in site.data.toc_vol3 %}
   <li style="position: static">
   <div id='divthumbs'>
     <div class= 'divthumb'>
       <hr>
-        <a href="{{ site.baseurl }}/toc_vol1/{{ item.pid }}"><img style="padding: 0 15px; float: left; clear: both; margin-top: 10px" src="{{ item.thumbnail }}"/></a>
+        <a href="{{ site.baseurl }}/toc_vol3/{{ item.pid }}"><img style="padding: 0 15px; float: left; clear: both; margin-top: 10px" src="{{ item.thumbnail }}"/></a>
           <div class="label">
           {% if item.toc_title %}
             <font color= "teal"><h4><a id="{{ item.toc_link }}"></a> {{ item.toc_title }}</h4></font>
