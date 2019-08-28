@@ -100,6 +100,16 @@ collections:
     layout: 'toc1_item'
     metadata:
       source: toc_vol1.csv
+  toc_vol2:
+    output: true
+    layout: 'toc2_item'
+    metadata:
+      source: toc_vol2.csv
+  toc_vol3:
+    output: true
+    layout: 'toc3_item'
+    metadata:
+      source: toc_vol3.csv
 
 # Configure the search function
 # Can make multiple indices, but Wax recommends against it.
@@ -203,8 +213,8 @@ menu:
         link: '/tocvol1/'
       - label: 'Volume Two'
         link: '/tocvol2/'
-      - label: 'Index'
-        link: '/tocindex/'
+      - label: 'Volume Three'
+        link: '/tocvol3/'
   - label: 'Browse'
     sub:
       - label: 'Alphabetical Section'
