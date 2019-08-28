@@ -19,7 +19,7 @@ permalink: '/tocvol3/'
 </div>
 
 <div class="d-inline-flex">
-  <p style="margin-left: 315px; margin-right: 15px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tincidunt nunc eu erat lacinia ultrices. Phasellus cursus ullamcorper ornare. Vestibulum eu ante nulla. Nulla ut posuere tellus. Morbi tellus lacus, dictum in pretium eget, elementum non justo. Donec imperdiet vehicula turpis, eget eleifend lacus. Etiam laoreet, metus in rhoncus ornare, mi sapien malesuada metus, accumsan porta ipsum sapien vel arcu. Suspendisse varius orci at consectetur lobortis. Nunc eget neque ultricies, malesuada ligula quis, pellentesque magna. Morbi vestibulum molestie tortor at vestibulum.</p>
+  <p style="margin-left: 315px; margin-right: 15px"> This section provides a page-by-page overview of the Octavo Index and supplementary imaging of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for the Table of Contents <a href="{{ site.baseurl }}/usingtoc/">here</a>. Additionally, this volume provides the browsable content for the linked <a href="{{ site.baseurl }}/index">Index</a> entries.</p>
 </div>
 
 
