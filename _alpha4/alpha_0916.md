@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3973/'>sufferings</a>"
+insertion_xref: 
+insertion: 
 item: "#item-5355ee380"
 unparsed: 
 line: 'Entry: Suffering|Topic: Suffering|Xref: Passion|Xref: 515 [horrid Cruelties,
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/733,25
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532551258530
 order: '916'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/733,2520,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/733,2520,3048,644/full/0/default.jpg
 label: Suffering
 layout: alpha_item

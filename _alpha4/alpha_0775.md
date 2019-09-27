@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3329/'>redemption</a>"
+insertion_xref: 
+insertion: 
 item: "#item-6483207bc"
 unparsed: 
 line: 'Entry: Redemption|Topic: Redemption|Xref: Saviour|Xref: deliverance|Xref: Salvation|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,21
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565104849977
 order: '775'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,2975,469/full/0/default.jpg
 label: Redemption
 layout: alpha_item

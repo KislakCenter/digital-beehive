@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-470136d89"
 unparsed: 
 line: 'Head: forsake all|Entry: 938 [Forsake all for Christ''s sake]|Entry: 2035 [Forsake]|#item-470136d89'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,32
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565622708493
 order: '1518'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/full/0/default.jpg
 label: forsake all
 layout: index_item

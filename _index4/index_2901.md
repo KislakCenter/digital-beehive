@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c87e74633"
 unparsed: 
 line: 'Head: particular|Entry: 755 [PAGE_MISSING]|#item-c87e74633'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538494798133
 order: '2901'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3297,578,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3297,578,156/full/0/default.jpg
 label: particular
 layout: index_item

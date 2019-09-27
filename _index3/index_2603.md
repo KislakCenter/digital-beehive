@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-88daf21af"
 unparsed: 
 line: 'Head: mountain|Entry: 163 [Mountain]|Entry: 2084 [Mountain]|#item-88daf21af'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1576,4
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560360452252
 order: '2603'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1576,446,656,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1576,446,656,110/full/0/default.jpg
 label: mountain
 layout: index_item

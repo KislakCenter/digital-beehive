@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a59e4a28d"
 unparsed: 
 line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
 order: '3547'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/full/0/default.jpg
 label: schole
 layout: index_item

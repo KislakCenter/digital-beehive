@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-262b11c0f"
 unparsed: 
 line: 'Head: to pinch|Entry: 907 [To pull or pluck]|#item-262b11c0f'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539976645176
 order: '3018'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/full/0/default.jpg
 label: to pinch
 layout: index_item

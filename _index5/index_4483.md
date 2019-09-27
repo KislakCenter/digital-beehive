@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-be34df83f"
 unparsed: 
 line: 'Head: washing|Entry: a|Entry: 1061 [Washing]|#item-be34df83f'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,25
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560960041171
 order: '4483'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/full/0/default.jpg
 label: washing
 layout: index_item

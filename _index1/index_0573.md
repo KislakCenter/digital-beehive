@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-accf19374"
 unparsed: 
 line: 'Head: to cease|Entry: 268 [to Cease]|#item-accf19374'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1133,6
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532098956050
 order: '573'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1133,635,480,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1133,635,480,123/full/0/default.jpg
 label: to cease
 layout: index_item

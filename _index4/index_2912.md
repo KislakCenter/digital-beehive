@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0bcce8094"
 unparsed: 
 line: 'Head: past remedy|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-0bcce8094'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538495196947
 order: '2912'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/full/0/default.jpg
 label: past remedy
 layout: index_item

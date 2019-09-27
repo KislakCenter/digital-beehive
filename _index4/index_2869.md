@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-bdea211d1"
 unparsed: 
 line: 'Head: paper|Entry: 873 [Paper]|#item-bdea211d1'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1136,5
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538492467401
 order: '2869'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1136,536,476,182/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1136,536,476,182/full/0/default.jpg
 label: paper
 layout: index_item

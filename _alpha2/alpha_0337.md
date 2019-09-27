@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1499/'>forbearance</a>"
+insertion_xref: 
+insertion: 
 item: "#item-798ba6561"
 unparsed: 
 line: 'Entry: Forbearance|Topic: Forbearance|Xref: Longsufferance|Xref: 1669 [Langer]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/680,32
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563205247018
 order: '337'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/680,3265,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/680,3265,3063,583/full/0/default.jpg
 label: Forbearance
 layout: alpha_item

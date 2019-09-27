@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-436bf55b3"
 unparsed: 
 line: 'Head: various lections|Entry: 301 [Uncertainty of the Scriptures]|Entry: 263
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561658001283
 order: '4300'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/full/0/default.jpg
 label: various lections
 layout: index_item

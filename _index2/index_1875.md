@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-8ff578e77"
 unparsed: 
 line: 'Head: horse Courser|Entry: 1743 [Horse-Courser]|#item-8ff578e77'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1128,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559584036643
 order: '1875'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1128,2958,438,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1128,2958,438,125/full/0/default.jpg
 label: horse Courser
 layout: index_item

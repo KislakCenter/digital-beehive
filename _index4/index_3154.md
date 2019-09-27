@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-e112a4601"
 unparsed: 
 line: 'Head: priests|Entry: 42 [False ministers]|Entry: 879 [False teachers]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/58,252
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550866902711
 order: '3154'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/58,2526,1221,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/58,2526,1221,132/full/0/default.jpg
 label: priests
 layout: index_item

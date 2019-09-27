@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6a07605d4"
 unparsed: 
 line: 'Head: to recant|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-6a07605d4'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1857,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558461931389
 order: '3315'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1857,2643,651,229/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1857,2643,651,229/full/0/default.jpg
 label: to recant
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-196a585ac"
 unparsed: 
 line: 'Head: hemp|Entry: 679 [Hemp]|#item-196a585ac'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559571683729
 order: '1801'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2615,293,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2615,293,129/full/0/default.jpg
 label: hemp
 layout: index_item

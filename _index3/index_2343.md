@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ec9e131c5"
 unparsed: 
 line: 'Head: love of our neighbour|Entry: a|Entry: 1079 [Love of Neighbours]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560179385665
 order: '2343'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2226,673,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2226,673,133/full/0/default.jpg
 label: love of our neighbour
 layout: index_item

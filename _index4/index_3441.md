@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3374503cb"
 unparsed: 
 line: 'Head: rogue|Entry: 707 [Roguery]|#item-3374503cb'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,6
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559232978875
 order: '3441'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/full/0/default.jpg
 label: rogue
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-49305dce5"
 unparsed: 
 line: 'Head: carriage|Entry: a|Entry: 1162 [Carriage]|#item-49305dce5'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532097608228
 order: '549'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,1029,613,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,1029,613,165/full/0/default.jpg
 label: carriage
 layout: index_item

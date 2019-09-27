@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a978268a5"
 unparsed: 
 line: 'Head: impossible|Entry: a|Entry: 1196 [Impossibilities]|#item-a978268a5'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/855,20
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559666491873
 order: '1974'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/855,2060,571,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/855,2060,571,155/full/0/default.jpg
 label: impossible
 layout: index_item

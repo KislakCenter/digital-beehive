@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-cf4ef5b96"
 unparsed: 
 line: 'Head: tomorrow|Entry: 1908 [Tomorrow]|Entry: 4668 [PAGE_MISSING]|#item-cf4ef5b96'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,89
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560274548342
 order: '4173'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,896,507,208/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,896,507,208/full/0/default.jpg
 label: tomorrow
 layout: index_item

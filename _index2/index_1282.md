@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-beb90e260"
 unparsed: 
 line: 'Head: epigrams|Entry: 248 [Epigrams]|#item-beb90e260'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,64
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559842743689
 order: '1282'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,643,512,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,643,512,147/full/0/default.jpg
 label: epigrams
 layout: index_item

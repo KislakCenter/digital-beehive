@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-23e8695a7"
 unparsed: 
 line: 'Head: metal|Entry: a|Entry: 1164 [Metal]|#item-23e8695a7'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1836,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560273111054
 order: '2498'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1836,203,510,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1836,203,510,98/full/0/default.jpg
 label: metal
 layout: index_item

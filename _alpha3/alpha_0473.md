@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2038/'>information</a>"
+insertion_xref: 
+insertion: 
 item: "#item-aee722ed8"
 unparsed: 
 line: 'Entry: Information|Topic: Information|Xref: Catechism|Xref: doctrine|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,13
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760192302
 order: '473'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,1358,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,1358,3019,480/full/0/default.jpg
 label: Information
 layout: alpha_item

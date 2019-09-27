@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4568/'>wisdom</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e42300dfe"
 unparsed: 
 line: 'Entry: Wisedom|Topic: Wisedom|Xref: Prudence|Xref: 1107 [Wisdom]|Index: wisdom|#item-e42300dfe'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,16
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529592350796
 order: '1030'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,3023,580/full/0/default.jpg
 label: Wisedom
 layout: alpha_item

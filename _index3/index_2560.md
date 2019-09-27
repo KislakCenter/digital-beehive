@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7e4dac028"
 unparsed: 
 line: 'Head: Molinos|Entry: 939 [Quietists]|#item-7e4dac028'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/154,32
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560353174279
 order: '2560'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/154,3220,422,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/154,3220,422,140/full/0/default.jpg
 label: Molinos
 layout: index_item

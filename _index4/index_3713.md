@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-bddbfc384"
 unparsed: 
 line: 'Head: similitude|Entry: a|#item-bddbfc384'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,19
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559582268254
 order: '3713'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,1943,568,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,1943,568,140/full/0/default.jpg
 label: similitude
 layout: index_item

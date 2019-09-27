@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-428ddf3c3"
 unparsed: 
 line: 'Head: Babbling|Entry: a|Entry: 430 [Babbling]|Entry: 1728 [Babbling]|#item-428ddf3c3'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1504210718805
 order: '260'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,2801,686,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,2801,686,148/full/0/default.jpg
 label: Babbling
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c1b9fbe5c"
 unparsed: 
 line: 'Head: Sleeve|Entry: 4542 [PAGE_MISSING]|#item-c1b9fbe5c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,23
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559584571361
 order: '3749'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/full/0/default.jpg
 label: Sleeve
 layout: index_item

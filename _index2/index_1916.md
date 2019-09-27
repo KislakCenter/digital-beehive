@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-973126bdd"
 unparsed: 
 line: 'Head: hypocrisy|Entry: a|Entry: 1100 [Hypocrisy]|Entry: 1549 [Hypocrisy]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1852,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559589022131
 order: '1916'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1852,3265,681,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1852,3265,681,172/full/0/default.jpg
 label: hypocrisy
 layout: index_item

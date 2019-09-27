@@ -12,9 +12,11 @@ first_letter: F
 xref: 
 see: 
 page: 
-add: implicit
+add: "<a href='/New_Beehive/index3/index_1971/'>implicit</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-897aa4f44"
 unparsed: 
 line: 'Head: Faith|Entry: a|Entry: 132 [Faith & Patience]|Entry: 397 [Faith]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561401055471
 order: '1383'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,1055,756,256/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,1055,756,256/full/0/default.jpg
 label: Faith
 layout: index_item

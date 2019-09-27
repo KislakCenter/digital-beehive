@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0079/'>agreable</a>"
+insertion_xref: 
+insertion: 
 item: "#item-16d46db60"
 unparsed: 
 line: 'Entry: Agreeableness|Topic: Agreeableness|Xref: 85 [Wel- and Unwelcome]|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,12
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490629815347
 order: '14'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,3203,403/full/0/default.jpg
 label: Agreeableness
 layout: alpha_item

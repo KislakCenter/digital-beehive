@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5100167c8"
 unparsed: 
 line: 'Head: virgula divinatoria|Entry: 1315 [Divination]|#item-5100167c8'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561661259446
 order: '4343'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/full/0/default.jpg
 label: virgula divinatoria
 layout: index_item

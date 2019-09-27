@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-04b83a053"
 unparsed: 
 line: 'Head: Jubilee|Entry: 463 [Jubilee]|#item-04b83a053'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,12
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559757109749
 order: '2128'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/full/0/default.jpg
 label: Jubilee
 layout: index_item

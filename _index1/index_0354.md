@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-bfc625a3b"
 unparsed: 
 line: 'Head: benefit|Entry: a|#item-bfc625a3b'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/394,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531147741227
 order: '354'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/394,1753,346,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/394,1753,346,134/full/0/default.jpg
 label: benefit
 layout: index_item

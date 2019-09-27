@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-8d37acef1"
 unparsed: 
 line: 'Head: endeavour|Entry: 550 [Endeavour]|Entry: 1324 [Endeavour]|Entry: 2017
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559755143269
 order: '1250'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/full/0/default.jpg
 label: endeavour
 layout: index_item

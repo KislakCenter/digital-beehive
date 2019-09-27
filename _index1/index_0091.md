@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7213de8a0"
 unparsed: 
 line: 'Head: alderman|See: Scabine|#item-7213de8a0'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564768324793
 order: '91'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/full/0/default.jpg
 label: alderman
 layout: index_item

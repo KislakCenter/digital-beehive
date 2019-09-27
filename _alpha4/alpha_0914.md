@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3954/'>subjects</a>"
+insertion_xref: 
+insertion: 
 item: "#item-da31c4125"
 unparsed: 
 line: 'Entry: Subjects|Topic: Subjects|Xref: 392 [Allegiance]|Xref: 1368 [the duties
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,17
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550978082
 order: '914'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,3021,599/full/0/default.jpg
 label: Subjects
 layout: alpha_item

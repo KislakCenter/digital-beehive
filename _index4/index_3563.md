@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-88252a02a"
 unparsed: 
 line: 'Head: scriptures impro[per] express|Entry: 725 [Catachresis]|#item-88252a02a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,27
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559241555250
 order: '3563'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/full/0/default.jpg
 label: scriptures impro[per] express
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-09d66c045"
 unparsed: 
 line: 'Head: aristoenetus|Entry: 4805 [Aristoenetus]|#item-09d66c045'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1818,4
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1491248304075
 order: '202'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1818,442,603,72/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1818,442,603,72/full/0/default.jpg
 label: aristoenetus
 layout: index_item

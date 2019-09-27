@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-fe63fa0d1"
 unparsed: 
 line: 'Head: prohibition|Entry: a|#item-fe63fa0d1'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,26
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550868505776
 order: '3185'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,2609,471,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,2609,471,154/full/0/default.jpg
 label: prohibition
 layout: index_item

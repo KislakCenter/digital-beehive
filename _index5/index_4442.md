@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7c5ef5a0e"
 unparsed: 
 line: 'Head: Urim & Thum[m]im|Entry: 63 [Urim and Thummim]|#item-7c5ef5a0e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561646690690
 order: '4442'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/full/0/default.jpg
 label: Urim & Thum[m]im
 layout: index_item

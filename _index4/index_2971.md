@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3fb0c5fbb"
 unparsed: 
 line: 'Head: perspective|Entry: 1639 [Spectacles]|#item-3fb0c5fbb'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/784,75
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539974121507
 order: '2971'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/784,751,686,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/784,751,686,170/full/0/default.jpg
 label: perspective
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-efc11280e"
 unparsed: 
 line: 'Head: dearth|Entry: a|Entry: 563 [Dearth]|#item-efc11280e'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1537,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507322160923
 order: '965'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1537,2750,552,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1537,2750,552,87/full/0/default.jpg
 label: dearth
 layout: index_item

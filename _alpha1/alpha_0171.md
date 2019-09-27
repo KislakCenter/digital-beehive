@@ -7,12 +7,14 @@ entry: Considerateness
 topic: Considerateness
 first_letter: C
 xref: "<a href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|<a href='/New_Beehive/alpha1/alpha_0220/'>deliberation</a>|<a
-  href='/New_Beehive/alpha3/alpha_0466/'>Inconsiderancy</a>|751 [PAGE_MISSING]"
+  href='/New_Beehive/alpha3/alpha_0466/'>Inconsiderancy</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0810/'>considerateness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-37fe5c058"
 unparsed: 
 line: 'Entry: Considerateness|Topic: Considerateness|Xref: Caution|Xref: deliberation|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/765,17
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563827540419
 order: '171'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/765,1761,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/765,1761,3094,535/full/0/default.jpg
 label: Considerateness
 layout: alpha_item

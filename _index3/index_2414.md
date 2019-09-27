@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-1bea52bca"
 unparsed: 
 line: 'Head: manifesta[ti]on|See: revelation|#item-1bea52bca'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560196193168
 order: '2414'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2488,709,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2488,709,116/full/0/default.jpg
 label: manifesta[ti]on
 layout: index_item

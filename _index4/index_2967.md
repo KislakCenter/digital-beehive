@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6ebb08ccd"
 unparsed: 
 line: 'Head: persecution|Entry: a|Entry: 1092 [Persecution]|Entry: 1756 [Persecution]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/811,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539973969666
 order: '2967'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/811,286,717,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/811,286,717,153/full/0/default.jpg
 label: persecution
 layout: index_item

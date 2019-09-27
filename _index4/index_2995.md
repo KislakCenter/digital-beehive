@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-113299900"
 unparsed: 
 line: 'Head: physician|Entry: a|Entry: 1251 [Physicians]|Entry: 1634 [Physician]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539975624921
 order: '2995'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/full/0/default.jpg
 label: physician
 layout: index_item

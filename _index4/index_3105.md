@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4f24374fc"
 unparsed: 
 line: 'Head: pr[ae]fiscine|Entry: 2256 [Pr[ae]fiscine]|#item-4f24374fc'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,4
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1548439497824
 order: '3105'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/full/0/default.jpg
 label: pr[ae]fiscine
 layout: index_item

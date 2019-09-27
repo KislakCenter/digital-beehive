@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0dab9057d"
 unparsed: 
 line: 'Head: to grow young|Entry: 1255 [To grow young again]|Entry: 2150 [To grow
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560799579947
 order: '4652'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/full/0/default.jpg
 label: to grow young
 layout: index_item

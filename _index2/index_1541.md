@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-542541b79"
 unparsed: 
 line: 'Head: french pocks|Entry: 637 [French Pocks]|Entry: 2138 [French Pocks]|#item-542541b79'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/883,21
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532619060158
 order: '1541'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/883,2140,616,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/883,2140,616,91/full/0/default.jpg
 label: french pocks
 layout: index_item

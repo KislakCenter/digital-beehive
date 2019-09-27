@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2dfa4ddd1"
 unparsed: 
 line: 'Head: waiting upon God|Entry: 65 [Waiting upon the Lord in silence]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,4
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561647559340
 order: '4461'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,433,646,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,433,646,164/full/0/default.jpg
 label: waiting upon God
 layout: index_item

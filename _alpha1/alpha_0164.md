@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0778/'>concupiscence</a>"
+insertion_xref: 
+insertion: 
 item: "#item-1688d9123"
 unparsed: 
 line: 'Entry: Concupiscence|Topic: Concupiscence|Xref: desire|Xref: Affections|Index:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,32
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700641626
 order: '164'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,3084,459/full/0/default.jpg
 label: Concupiscence
 layout: alpha_item

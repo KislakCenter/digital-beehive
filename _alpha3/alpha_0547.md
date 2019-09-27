@@ -6,12 +6,14 @@ head:
 entry: Lord
 topic: Lord
 first_letter: L
-xref: 
+xref: Stare|<a href='/New_Beehive/toc_vol2/toc2_280/'>1433 [To Look]</a>|
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2333/'>Lord</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e3affb3e0"
 unparsed: 
 line: 'Entry: Lord|Topic: Lord|Index: Lord|#item-e3affb3e0'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/306,10
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770347301
 order: '547'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/306,1006,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/306,1006,3100,660/full/0/default.jpg
 label: Lord
 layout: alpha_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-dac56a864"
 unparsed: 
 line: 'Head: world|Entry: a|Entry: 1256 [World]|Entry: 1822 [World]|#item-dac56a864'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560797346902
 order: '4618'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,2878,673,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,2878,673,129/full/0/default.jpg
 label: world
 layout: index_item

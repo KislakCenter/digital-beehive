@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c3b0b2fde"
 unparsed: 
 line: 'Head: way broad & small|Entry: a|Entry: 4887 [broad & small Way]|#item-c3b0b2fde'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/477,19
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560960897641
 order: '4498'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/477,1985,613,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/477,1985,613,144/full/0/default.jpg
 label: way broad & small
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-659a89c8f"
 unparsed: 
 line: 'Head: vice|Entry: 1175 [Vices]|Entry: 2010 [Vices]|#item-659a89c8f'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,5
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561659592980
 order: '4324'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,505,513,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,505,513,115/full/0/default.jpg
 label: vice
 layout: index_item

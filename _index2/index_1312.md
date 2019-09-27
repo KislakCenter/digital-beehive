@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-76f911c27"
 unparsed: 
 line: 'Head: etymology|Entry: 256 [Allusions]|#item-76f911c27'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/863,71
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560350908478
 order: '1312'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/863,716,539,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/863,716,539,163/full/0/default.jpg
 label: etymology
 layout: index_item

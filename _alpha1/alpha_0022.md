@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0109/'>alms</a>"
+insertion_xref: 
+insertion: 
 item: "#item-36ff0e636"
 unparsed: 
 line: 'Entry: Alms|Topic: Alms|Xref: Begging|Xref: Gift|Xref: 528 [Alms]|Index: alms|#item-36ff0e636'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,36
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490638987153
 order: '22'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,3658,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,3658,3002,508/full/0/default.jpg
 label: Alms
 layout: alpha_item

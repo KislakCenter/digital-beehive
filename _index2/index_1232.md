@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ccffa8da0"
 unparsed: 
 line: 'Head: embalm|Entry: 1629 [Mummy]|#item-ccffa8da0'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1159,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559680475790
 order: '1232'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1159,3028,468,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1159,3028,468,113/full/0/default.jpg
 label: embalm
 layout: index_item

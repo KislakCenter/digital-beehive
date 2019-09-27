@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-10dda48d9"
 unparsed: 
 line: 'Head: trifles|Entry: 199 [Toys]|Entry: 1196 [Trifling]|#item-10dda48d9'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1823,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562088906893
 order: '4241'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1823,1644,487,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1823,1644,487,167/full/0/default.jpg
 label: trifles
 layout: index_item

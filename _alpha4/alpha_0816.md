@@ -6,12 +6,15 @@ head:
 entry: Sage
 topic: Sage
 first_letter: S
-xref: 
+xref: "<a href='/New_Beehive/alpha3/alpha_0580/'>melancholy</a>|<a href='/New_Beehive/alpha3/alpha_0610/'>mourning</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_230/'>1181 [Mourning, Sadness]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3492/'>sage</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e492cc2b6"
 unparsed: 
 line: 'Entry: Sage|Topic: Sage|Index: sage|#item-e492cc2b6'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,40
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528917237556
 order: '816'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,4078,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,4078,2995,195/full/0/default.jpg
 label: Sage
 layout: alpha_item

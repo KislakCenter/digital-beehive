@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2985c963e"
 unparsed: 
 line: 'Head: Ludov. XIV|Entry: 1319 [Ludovicus XIV]|Entry: 1984 [Ludovicus XIV]|#item-2985c963e'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,37
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560184879704
 order: '2361'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/full/0/default.jpg
 label: Ludov. XIV
 layout: index_item

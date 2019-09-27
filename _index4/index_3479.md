@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-04b1fa71a"
 unparsed: 
 line: 'Head: Sacramt|Entry: a|Entry: 2033 [Sacramts]|#item-04b1fa71a'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559234654837
 order: '3479'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/full/0/default.jpg
 label: Sacramt
 layout: index_item

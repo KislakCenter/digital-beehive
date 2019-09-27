@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a1ca52818"
 unparsed: 
 line: 'Head: common|Entry: 164 [Common]|#item-a1ca52818'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1536,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536611657984
 order: '743'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1536,2349,472,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1536,2349,472,103/full/0/default.jpg
 label: common
 layout: index_item

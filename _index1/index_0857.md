@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-29ada9f1d"
 unparsed: 
 line: 'Head: corps|Entry: 427 [Carkass]|#item-29ada9f1d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1821,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537560257720
 order: '857'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1821,3263,366,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1821,3263,366,84/full/0/default.jpg
 label: corps
 layout: index_item

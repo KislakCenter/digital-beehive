@@ -9,9 +9,11 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: term
+add: "<a href='/New_Beehive/index5/index_4093/'>term</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c21643520"
 unparsed: 
 line: 'Head: to live well|Entry: 1506 [To Live well]|Add: term|#item-c21643520'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559847033745
 order: '2284'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
 label: to live well
 layout: index_item

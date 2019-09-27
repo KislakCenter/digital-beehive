@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b8a616199"
 unparsed: 
 line: 'Head: dolus bonus|Entry: 1452 [good Guile]|#item-b8a616199'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/809,30
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560367277487
 order: '1128'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/809,3088,595,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/809,3088,595,113/full/0/default.jpg
 label: dolus bonus
 layout: index_item

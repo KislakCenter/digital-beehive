@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b965c8066"
 unparsed: 
 line: 'Head: potter|Page: p.42 [Image 1.102]|Entry: 897 [Potter]|#item-b965c8066'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1149,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1548439135497
 order: '3095'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1149,2772,601,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1149,2772,601,146/full/0/default.jpg
 label: potter
 layout: index_item

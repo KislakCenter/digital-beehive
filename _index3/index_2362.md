@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a0c08400e"
 unparsed: 
 line: 'Head: lukewarm|Entry: 27 [Lukewarmness]|Entry: 1943 [Lukewarmness]|#item-a0c08400e'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,47
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560184996286
 order: '2362'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,470,580,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,470,580,133/full/0/default.jpg
 label: lukewarm
 layout: index_item

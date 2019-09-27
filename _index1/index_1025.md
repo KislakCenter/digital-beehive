@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d0cb295c3"
 unparsed: 
 line: 'Head: to desist|Entry: 1212 [To Leave off]|#item-d0cb295c3'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1135,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541605080608
 order: '1025'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1135,2625,435,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1135,2625,435,125/full/0/default.jpg
 label: to desist
 layout: index_item

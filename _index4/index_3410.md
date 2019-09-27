@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6f77128e7"
 unparsed: 
 line: 'Head: reviling|Entry: 538 [WORD_ILLEGIBLE]|#item-6f77128e7'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,56
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
 order: '3410'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/full/0/default.jpg
 label: reviling
 layout: index_item

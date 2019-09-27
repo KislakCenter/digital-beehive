@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4184/'>too slow or quick</a>"
+insertion_xref: 
+insertion: 
 item: "#item-5bc71e62e"
 unparsed: 
 line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: too
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,34
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529521675271
 order: '956'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
 label: Too slow or quick
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-1d9be1cc7"
 unparsed: 
 line: 'Head: rent|Entry: 568 [Rent or Revenue]|#item-1d9be1cc7'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558469239721
 order: '3367'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/full/0/default.jpg
 label: rent
 layout: index_item

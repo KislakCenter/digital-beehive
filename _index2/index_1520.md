@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-e56a26260"
 unparsed: 
 line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,34
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
 order: '1520'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/full/0/default.jpg
 label: fort
 layout: index_item

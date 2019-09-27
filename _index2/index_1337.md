@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f5bab9463"
 unparsed: 
 line: 'Head: excom[m]unication|Entry: 26 [Excommunication]|Entry: 897 [Excommunication]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560364111842
 order: '1337'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/full/0/default.jpg
 label: excom[m]unication
 layout: index_item

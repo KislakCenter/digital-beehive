@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-690aa13b8"
 unparsed: 
 line: 'Head: defence|Entry: a|Entry: 739 [PAGE_MISSING]|Entry: 1722 [to Defend]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507575945525
 order: '989'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,1781,821,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,1781,821,122/full/0/default.jpg
 label: defence
 layout: index_item

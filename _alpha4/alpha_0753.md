@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3229/'>punishmt</a>"
+insertion_xref: 
+insertion: 
 item: "#item-79ffc5944"
 unparsed: 
 line: 'Entry: Punishment|Topic: Punishment|Xref: Discipline|Xref: Reproof|Xref: 64
@@ -24,7 +26,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,43
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565102296284
 order: '753'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,4387,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,4387,3036,697/full/0/default.jpg
 label: Punishment
 layout: alpha_item

@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f9a72e603"
 unparsed: 
 line: 'Head: cloister|Page: p.4 [Image 1.64]|Entry: 395 [Cloister]|#item-f9a72e603'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,13
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536606994276
 order: '698'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,1363,588,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,1363,588,154/full/0/default.jpg
 label: cloister
 layout: index_item

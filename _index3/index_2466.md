@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-200c7f5da"
 unparsed: 
 line: 'Head: medicoru[m] nomina|Entry: 2228 [Noia medicorum]|#item-200c7f5da'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560267444628
 order: '2466'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/full/0/default.jpg
 label: medicoru[m] nomina
 layout: index_item

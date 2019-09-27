@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d106f1c11"
 unparsed: 
 line: 'Head: incognito|Entry: 262 [Anonymous or Nameless]|#item-d106f1c11'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1574,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559670879228
 order: '1997'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1574,1136,525,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1574,1136,525,152/full/0/default.jpg
 label: incognito
 layout: index_item

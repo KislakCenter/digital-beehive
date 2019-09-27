@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0255/'>authority</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e80f7e90c"
 unparsed: 
 line: 'Entry: Authority|Topic: Authority|Xref: Reputation|Xref: 2346 [Authority]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/780,31
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490812154700
 order: '49'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/780,3105,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/780,3105,3056,667/full/0/default.jpg
 label: Authority
 layout: alpha_item

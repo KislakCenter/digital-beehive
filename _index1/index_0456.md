@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a774256b8"
 unparsed: 
 line: 'Head: briefly|Entry: 932 [Brevity]|Entry: 2193 [Briefly]|#item-a774256b8'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,25
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531419563657
 order: '456'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,2530,581,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,2530,581,117/full/0/default.jpg
 label: briefly
 layout: index_item

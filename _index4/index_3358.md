@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c6946fdd9"
 unparsed: 
 line: 'Head: remiss|Entry: 797 [PAGE_MISSING]|#item-c6946fdd9'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/779,71
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558468942799
 order: '3358'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/779,710,469,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/779,710,469,151/full/0/default.jpg
 label: remiss
 layout: index_item

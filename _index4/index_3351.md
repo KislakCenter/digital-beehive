@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-8be5d1d43"
 unparsed: 
 line: 'Head: reliques|Entry: a|Entry: 1385 [Reliques]|#item-8be5d1d43'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558468734207
 order: '3351'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3312,575,201/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3312,575,201/full/0/default.jpg
 label: reliques
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5fbd1806e"
 unparsed: 
 line: 'Head: ill name|Entry: 11 [Ill Name]|#item-5fbd1806e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,55
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560436890191
 order: '2641'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,555,402,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,555,402,93/full/0/default.jpg
 label: ill name
 layout: index_item

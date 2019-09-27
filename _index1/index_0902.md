@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4680d38b6"
 unparsed: 
 line: 'Head: credulity|Entry: 439 [Credulity]|#item-4680d38b6'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,76
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538577285738
 order: '902'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/full/0/default.jpg
 label: credulity
 layout: index_item

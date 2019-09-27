@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-e069f9d76"
 unparsed: 
 line: 'Head: witchcraft|Entry: a|Entry: 1312 [Witchcraft]|Entry: 1536 [Witchcraft]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560792265321
 order: '4575'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/full/0/default.jpg
 label: witchcraft
 layout: index_item

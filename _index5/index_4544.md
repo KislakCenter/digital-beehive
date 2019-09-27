@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-98043a400"
 unparsed: 
 line: 'Head: why|Entry: 579 [Why?]|#item-98043a400'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560971850514
 order: '4544'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/full/0/default.jpg
 label: why
 layout: index_item

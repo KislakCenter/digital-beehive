@@ -6,12 +6,15 @@ head:
 entry: Mustard
 topic: Mustard
 first_letter: M
-xref: 4586 [PAGE_MISSING]
+xref: "<a href='/New_Beehive/alpha4/alpha_0872/'>Singing</a>|Sound|<a href='/New_Beehive/toc_vol2/toc2_109/'>425
+  [Musick]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2624/'>mustard</a>"
+insertion_xref: 
+insertion: 
 item: "#item-4653d80da"
 unparsed: 
 line: 'Entry: Mustard|Topic: Mustard|Xref: 4586 [PAGE_MISSING]|Index: mustard|#item-4653d80da'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/743,45
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564778016875
 order: '618'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/743,4506,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/743,4506,2980,545/full/0/default.jpg
 label: Mustard
 layout: alpha_item

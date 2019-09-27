@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-63df50127"
 unparsed: 
 line: 'Head: kiss|Entry: a|Entry: 1905 [Kissing]|#item-63df50127'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/852,14
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559761983010
 order: '2165'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/852,1424,443,180/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/852,1424,443,180/full/0/default.jpg
 label: kiss
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f30b51fb4"
 unparsed: 
 line: 'Head: deluge|Entry: a|Entry: 1395 [Deluge]|#item-f30b51fb4'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,35
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507755083722
 order: '1004'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/full/0/default.jpg
 label: deluge
 layout: index_item

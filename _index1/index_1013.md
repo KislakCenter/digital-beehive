@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c6924489f"
 unparsed: 
 line: 'Head: deposition|Entry: a|Entry: 1816 [Degradation]|#item-c6924489f'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507922442048
 order: '1013'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/full/0/default.jpg
 label: deposition
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-388fc600a"
 unparsed: 
 line: 'Head: sigils|Entry: 1284 [Original Sin]|#item-388fc600a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,80
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559581827379
 order: '3703'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,805,523,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,805,523,155/full/0/default.jpg
 label: sigils
 layout: index_item

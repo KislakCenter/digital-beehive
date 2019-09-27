@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-53fb33826"
 unparsed: 
 line: 'Head: pride|Entry: a|Entry: 819 [PAGE_MISSING]|Entry: 1712 [Pride]|Entry: 4818
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,23
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550866745540
 order: '3152'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/full/0/default.jpg
 label: pride
 layout: index_item

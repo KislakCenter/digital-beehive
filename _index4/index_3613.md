@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-285a031cd"
 unparsed: 
 line: 'Head: Self defence|See: defence|Entry: 1722 [Defend]|#item-285a031cd'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559244219150
 order: '3613'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/full/0/default.jpg
 label: Self defence
 layout: index_item

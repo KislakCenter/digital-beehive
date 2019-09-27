@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4345a7813"
 unparsed: 
 line: 'Head: wickedness|Entry: a|Entry: 324 [Wickedness]|Entry: 1394 [Wicked]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1784,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560971952507
 order: '4545'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1784,1485,710,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1784,1485,710,156/full/0/default.jpg
 label: wickedness
 layout: index_item

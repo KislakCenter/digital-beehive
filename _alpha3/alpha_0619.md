@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2625/'>mutation</a>"
+insertion_xref: 
+insertion: 
 item: "#item-574a90ebc"
 unparsed: 
 line: 'Entry: Mutation|Topic: Mutation|Xref: change|Xref: Variety|Xref: 244 [Mutation]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/284,24
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564778162137
 order: '619'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/284,243,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/284,243,3090,360/full/0/default.jpg
 label: Mutation
 layout: alpha_item

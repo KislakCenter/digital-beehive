@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3879/'>star</a>"
+insertion_xref: 
+insertion: 
 item: "#item-96b5d075f"
 unparsed: 
 line: 'Entry: Star|Topic: Star|Xref: Astrology|Xref: Comet|Xref: Planets|Xref: 1358
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/294,20
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532460012127
 order: '900'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/294,2042,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/294,2042,3058,466/full/0/default.jpg
 label: Star
 layout: alpha_item

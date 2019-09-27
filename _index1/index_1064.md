@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6b56f65b4"
 unparsed: 
 line: 'Head: discerning|Entry: 365 [Discern]|Entry: 989 [Spiritual discerning]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541784204926
 order: '1064'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/full/0/default.jpg
 label: discerning
 layout: index_item

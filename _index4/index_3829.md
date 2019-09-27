@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-907fddaf0"
 unparsed: 
 line: 'Head: spectres|See: apparitions|#item-907fddaf0'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,9
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565288719578
 order: '3829'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/full/0/default.jpg
 label: spectres
 layout: index_item

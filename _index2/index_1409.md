@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-50986245c"
 unparsed: 
 line: 'Head: fast or firm|Entry: 686 [Firm]|#item-50986245c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,32
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561660125026
 order: '1409'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,3288,549,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,3288,549,114/full/0/default.jpg
 label: fast or firm
 layout: index_item

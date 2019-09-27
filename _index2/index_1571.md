@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3706466c3"
 unparsed: 
 line: 'Head: future|Entry: a|Entry: 1421 [Future]|#item-3706466c3'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1557,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560786377056
 order: '1571'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1557,1682,566,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1557,1682,566,125/full/0/default.jpg
 label: future
 layout: index_item

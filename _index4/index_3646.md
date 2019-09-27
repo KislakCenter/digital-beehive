@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b3e1eb422"
 unparsed: 
 line: 'Head: servant & service|Entry: a|Entry: 1233 [Servants]|Entry: 4553 [PAGE_MISSING]|#item-b3e1eb422'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559573935178
 order: '3646'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/full/0/default.jpg
 label: servant & service
 layout: index_item

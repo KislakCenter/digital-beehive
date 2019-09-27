@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6e2961c74"
 unparsed: 
 line: 'Head: swallowing|Entry: 1926 [Swallowing]|#item-6e2961c74'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1098,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565293218432
 order: '4014'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1098,1145,542,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1098,1145,542,124/full/0/default.jpg
 label: swallowing
 layout: index_item

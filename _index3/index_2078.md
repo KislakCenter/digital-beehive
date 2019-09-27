@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7be42eb90"
 unparsed: 
 line: 'Head: interpretation|Entry: a|Entry: 923 [Interpretation]|#item-7be42eb90'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559749247048
 order: '2078'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/full/0/default.jpg
 label: interpretation
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3d9f2ca4a"
 unparsed: 
 line: 'Head: Jewel|Entry: a|Entry: 1657 [Jewel]|#item-3d9f2ca4a'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,25
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559661627429
 order: '1945'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/full/0/default.jpg
 label: Jewel
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-accb1cd4c"
 unparsed: 
 line: 'Head: voyage|Entry: 1149 [Travelling]|#item-accb1cd4c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/958,43
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561646468318
 order: '4435'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/958,437,480,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/958,437,480,135/full/0/default.jpg
 label: voyage
 layout: index_item

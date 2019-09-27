@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0013a4096"
 unparsed: 
 line: 'Head: caduceus|Entry: 2153 [Mercurius]|#item-0013a4096'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,35
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531493973521
 order: '504'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/full/0/default.jpg
 label: caduceus
 layout: index_item

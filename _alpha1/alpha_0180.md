@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0869/'>covetousness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-036e87c27"
 unparsed: 
 line: 'Entry: Covetousness|Topic: Covetousness|Xref: 103 [Sordidness]|Xref: 727 [PAGE_MISSING;Miser]|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,12
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499785009555
 order: '180'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,1273,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,1273,3092,698/full/0/default.jpg
 label: Covetousness
 layout: alpha_item

@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4475/'>war</a>"
+insertion_xref: 
+insertion: 
 item: "#item-46da5ca45"
 unparsed: 
 line: 'Entry: War|Topic: War|Xref: Souldier|Xref: Rebellion|Xref: 488 [unlawfull for
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,29
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529522235581
 order: '1009'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,2986,749/full/0/default.jpg
 label: War
 layout: alpha_item

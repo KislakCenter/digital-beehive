@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f94e60949"
 unparsed: 
 line: 'Head: renouncing|Entry: 418 [Renouncing]|#item-f94e60949'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,15
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558469139652
 order: '3365'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,1588,595,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,1588,595,122/full/0/default.jpg
 label: renouncing
 layout: index_item

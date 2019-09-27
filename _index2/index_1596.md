@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d430b5607"
 unparsed: 
 line: 'Head: genius|Entry: 4799 [Genius]|#item-d430b5607'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/390,62
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561042095426
 order: '1596'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/390,622,482,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/390,622,482,100/full/0/default.jpg
 label: genius
 layout: index_item

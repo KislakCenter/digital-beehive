@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4e8549f08"
 unparsed: 
 line: 'Head: crocodile|Entry: 704 [Crocodile]|Entry: 4730 [PAGE_MISSING]|#item-4e8549f08'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538577536770
 order: '911'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/full/0/default.jpg
 label: crocodile
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d17224da7"
 unparsed: 
 line: 'Head: Venice|Entry: 440 [Venice]|#item-d17224da7'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,25
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561658695259
 order: '4310'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/full/0/default.jpg
 label: Venice
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ec978f1cd"
 unparsed: 
 line: 'Head: slippery|Entry: 821 [PAGE_MISSING]|#item-ec978f1cd'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,25
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559584705593
 order: '3753'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2562,556,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2562,556,123/full/0/default.jpg
 label: slippery
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3d428a399"
 unparsed: 
 line: 'Head: impunity|Entry: 330 [Impunity]|Entry: 1192 [Want of Punishmt]|#item-3d428a399'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,31
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559668282463
 order: '1985'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,3149,628,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,3149,628,137/full/0/default.jpg
 label: impunity
 layout: index_item

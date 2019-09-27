@@ -6,12 +6,16 @@ head:
 entry: Tyger
 topic: Tyger
 first_letter: T
-xref: 
+xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|<a href='/New_Beehive/alpha3/alpha_0534/'>Lie</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_244/'>1253 [Truth]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2053
+  [Turk]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4282/'>tyger</a>"
+insertion_xref: 
+insertion: 
 item: "#item-0187356dd"
 unparsed: 
 line: 'Entry: Tyger|Topic: Tyger|Index: tyger|#item-0187356dd'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,56
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529611493101
 order: '974'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,931,142/full/0/default.jpg
 label: Tyger
 layout: alpha_item

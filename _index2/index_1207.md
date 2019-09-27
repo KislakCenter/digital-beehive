@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f7e8f0fb9"
 unparsed: 
 line: 'Head: edict|Entry: 1285 [an Edict]|#item-f7e8f0fb9'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559671949782
 order: '1207'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/full/0/default.jpg
 label: edict
 layout: index_item

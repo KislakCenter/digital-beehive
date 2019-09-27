@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5df1b65ec"
 unparsed: 
 line: 'Head: clay|Entry: 1396 [Clay]|#item-5df1b65ec'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/173,32
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536333610713
 order: '684'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/173,3289,347,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/173,3289,347,146/full/0/default.jpg
 label: clay
 layout: index_item

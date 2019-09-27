@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-dea6dacb6"
 unparsed: 
 line: 'Head: pocketbook|Entry: a|#item-dea6dacb6'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,19
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1544208139567
 order: '3056'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/full/0/default.jpg
 label: pocketbook
 layout: index_item

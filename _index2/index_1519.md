@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0ba0c657c"
 unparsed: 
 line: 'Head: forsake sins|Entry: 1700 [Inheritance]|#item-0ba0c657c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531762696082
 order: '1519'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/full/0/default.jpg
 label: forsake sins
 layout: index_item

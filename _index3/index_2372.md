@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-31d0317a1"
 unparsed: 
 line: 'Head: luxury|Entry: 189 [Luxury]|Entry: 1183 [Luxury]|#item-31d0317a1'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,15
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560185979637
 order: '2372'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,1526,494,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,1526,494,141/full/0/default.jpg
 label: luxury
 layout: index_item

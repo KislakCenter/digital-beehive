@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-48287515a"
 unparsed: 
 line: 'Head: antego|Entry: 1518 [Antego]|#item-48287515a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/386,26
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759160447
 order: '155'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/386,2650,434,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/386,2650,434,137/full/0/default.jpg
 label: antego
 layout: index_item

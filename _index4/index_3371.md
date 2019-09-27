@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-db2b5deff"
 unparsed: 
 line: 'Head: repentance late|Entry: a|Entry: 307 [Repentance]|Entry: 1885 [PAGE_MISSING]|#item-db2b5deff'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558469393253
 order: '3371'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/full/0/default.jpg
 label: repentance late
 layout: index_item

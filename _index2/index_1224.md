@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-e2d550d75"
 unparsed: 
 line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
 order: '1224'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/full/0/default.jpg
 label: elephant
 layout: index_item

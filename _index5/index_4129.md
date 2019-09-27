@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5dee8af62"
 unparsed: 
 line: 'Head: thouing|Entry: a|Entry: 217 [Thouing]|#item-5dee8af62'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/908,29
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529517465561
 order: '4129'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/908,2900,445,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/908,2900,445,135/full/0/default.jpg
 label: thouing
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d4e7b9645"
 unparsed: 
 line: 'Head: spirit|Entry: a|Entry: 1341 [Spirits]|Entry: 1636 [Spirits]|#item-d4e7b9645'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1094,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565288875216
 order: '3847'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1094,3338,647,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1094,3338,647,125/full/0/default.jpg
 label: spirit
 layout: index_item

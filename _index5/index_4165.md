@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-999c97a00"
 unparsed: 
 line: 'Head: toad|See: frog|#item-999c97a00'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,26
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559844746251
 order: '4165'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/full/0/default.jpg
 label: toad
 layout: index_item

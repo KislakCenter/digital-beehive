@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3476/'>Sabbath</a>"
+insertion_xref: 
+insertion: 
 item: "#item-6fe1d9d82"
 unparsed: 
 line: 'Entry: Sabbath|Topic: Sabbath|Xref: feast|Xref: rest|Xref: Sunday|Xref: 930
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/324,25
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1527864084820
 order: '812'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/324,2576,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/324,2576,2984,494/full/0/default.jpg
 label: Sabbath
 layout: alpha_item

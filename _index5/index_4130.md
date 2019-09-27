@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-089e24d6e"
 unparsed: 
 line: 'Head: thread|Entry: 1136 [Thread]|#item-089e24d6e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,30
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532876694360
 order: '4130'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,3039,347,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,3039,347,85/full/0/default.jpg
 label: thread
 layout: index_item

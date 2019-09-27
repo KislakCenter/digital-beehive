@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-43dac4520"
 unparsed: 
 line: 'Head: vineyard|Entry: a|Entry: 1990 [Vin[e]yards]|#item-43dac4520'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561660662003
 order: '4334'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/full/0/default.jpg
 label: vineyard
 layout: index_item

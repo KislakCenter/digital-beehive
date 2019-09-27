@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-dc9669776"
 unparsed: 
 line: 'Head: husband & wife|Entry: 7 [Husband & Wife]|Entry: 1440 [Husband & Wife]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559588475141
 order: '1911'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,2636,694,189/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,2636,694,189/full/0/default.jpg
 label: husband & wife
 layout: index_item

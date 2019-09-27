@@ -6,12 +6,15 @@ head:
 entry: Canary bird
 topic: Canary bird
 first_letter: C
-xref: 
+xref: "<a href='/New_Beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/New_Beehive/toc_vol2/toc2_147/'>653
+  [Slander]</a>|<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [Scheltwort]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0521/'>canary bird</a>"
+insertion_xref: 
+insertion: 
 item: "#item-867b26baf"
 unparsed: 
 line: 'Entry: Canary bird|Topic: Canary bird|Index: canary bird|#item-867b26baf'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/382,23
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1496763593637
 order: '115'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/382,2305,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/382,2305,3108,226/full/0/default.jpg
 label: Canary bird
 layout: alpha_item

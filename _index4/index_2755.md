@@ -11,9 +11,11 @@ first_letter: O
 xref: 
 see: 
 page: 
-add: passive
+add: "<a href='/New_Beehive/index4/index_2905/'>passive</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-543a07fcf"
 unparsed: 
 line: 'Head: obedience|Entry: a|Entry: 985 [Obedience]|Entry: 1837 [PAGE_MISSING]|Add:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536347173045
 order: '2755'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/full/0/default.jpg
 label: obedience
 layout: index_item

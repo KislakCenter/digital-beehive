@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6e3f2a86b"
 unparsed: 
 line: 'Head: transitory|Entry: a|Entry: 1153 [Transitory]|Entry: 4470 [Transitory]|#item-6e3f2a86b'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1102,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561486980022
 order: '4217'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1102,2210,730,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1102,2210,730,148/full/0/default.jpg
 label: transitory
 layout: index_item

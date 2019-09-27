@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-29744158d"
 unparsed: 
 line: 'Head: new England|Entry: 766 [PAGE_MISSING]|Entry: 1523 [New England]|#item-29744158d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560442425031
 order: '2695'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/full/0/default.jpg
 label: new England
 layout: index_item

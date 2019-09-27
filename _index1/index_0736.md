@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6711e590b"
 unparsed: 
 line: 'Head: coming to Christ|Entry: 2394 [Coming to God]|#item-6711e590b'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536611226748
 order: '736'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,1724,643,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,1724,643,96/full/0/default.jpg
 label: coming to Christ
 layout: index_item

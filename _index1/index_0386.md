@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-42fb60a32"
 unparsed: 
 line: 'Head: blanc verse|Entry: 1585 [Verses]|#item-42fb60a32'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531150732751
 order: '386'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,1930,600,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,1930,600,106/full/0/default.jpg
 label: blanc verse
 layout: index_item

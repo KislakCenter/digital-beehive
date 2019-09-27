@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-568c068ba"
 unparsed: 
 line: 'Head: lips|Entry: 1647 [Lips]|#item-568c068ba'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1838,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559848951928
 order: '2303'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1838,1649,329,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1838,1649,329,146/full/0/default.jpg
 label: lips
 layout: index_item

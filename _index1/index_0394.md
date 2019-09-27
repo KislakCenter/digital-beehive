@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a77820ded"
 unparsed: 
 line: 'Head: blood of Christ|Entry: a|Entry: 834 [PAGE_MISSING]|#item-a77820ded'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531151646286
 order: '394'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2869,657,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2869,657,126/full/0/default.jpg
 label: blood of Christ
 layout: index_item

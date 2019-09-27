@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-bd3a634f6"
 unparsed: 
 line: 'Head: privacy|Entry: a|Entry: 1178 [Privacy]|#item-bd3a634f6'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,41
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550867539151
 order: '3165'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/full/0/default.jpg
 label: privacy
 layout: index_item

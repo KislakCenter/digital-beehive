@@ -9,9 +9,11 @@ first_letter: I/J
 xref: 
 see: 
 page: 
-add: adiaph.
+add: "<a href='/New_Beehive/index1/index_0042/'>adiaph</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b6ea78923"
 unparsed: 
 line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
 order: '2021'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/full/0/default.jpg
 label: indifferency
 layout: index_item

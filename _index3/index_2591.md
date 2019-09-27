@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0c3329c2e"
 unparsed: 
 line: 'Head: Moscovy|Entry: 1127 [Moscovy]|#item-0c3329c2e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/834,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560356639019
 order: '2591'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/834,2814,435,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/834,2814,435,163/full/0/default.jpg
 label: Moscovy
 layout: index_item

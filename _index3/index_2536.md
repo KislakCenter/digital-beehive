@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7068ba584"
 unparsed: 
 line: 'Head: miserere mei|Entry: 1144 [Iliack passion]|#item-7068ba584'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,46
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560350936838
 order: '2536'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,467,587,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,467,587,124/full/0/default.jpg
 label: miserere mei
 layout: index_item

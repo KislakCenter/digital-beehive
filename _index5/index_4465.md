@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-17bc1a15b"
 unparsed: 
 line: 'Head: to walk with God|Entry: 2359 [How to walk with God all the day long]|#item-17bc1a15b'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,9
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561647709418
 order: '4465'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,999,613,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,999,613,127/full/0/default.jpg
 label: to walk with God
 layout: index_item

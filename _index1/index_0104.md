@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-514fb4554"
 unparsed: 
 line: 'Head: almanack|Entry: a|Entry: 1275 [Almanack]|#item-514fb4554'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1597,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770090341
 order: '104'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1597,1912,568,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1597,1912,568,129/full/0/default.jpg
 label: almanack
 layout: index_item

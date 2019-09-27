@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-8b51df507"
 unparsed: 
 line: 'Head: arithmetick|Entry: a|Entry: 457 [Arithmetick]|#item-8b51df507'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1795,4
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769919536
 order: '203'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1795,467,634,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1795,467,634,121/full/0/default.jpg
 label: arithmetick
 layout: index_item

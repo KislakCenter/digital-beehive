@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-12afda803"
 unparsed: 
 line: 'Head: asthma|Entry: 475 [Shortness of Breath]|#item-12afda803'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565631964919
 order: '228'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2991,431,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2991,431,111/full/0/default.jpg
 label: asthma
 layout: index_item

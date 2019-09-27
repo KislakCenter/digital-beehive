@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b21149333"
 unparsed: 
 line: 'Head: taverns|Entry: 201 [Taverns]|#item-b21149333'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1799,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564498548027
 order: '4067'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1799,3180,452,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1799,3180,452,114/full/0/default.jpg
 label: taverns
 layout: index_item

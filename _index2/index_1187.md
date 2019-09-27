@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-593ccc608"
 unparsed: 
 line: 'Head: earnest money|Entry: 546 [WORD_ILLEGIBLE]|#item-593ccc608'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559666986380
 order: '1187'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/full/0/default.jpg
 label: earnest money
 layout: index_item

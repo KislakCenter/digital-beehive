@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-055c4620b"
 unparsed: 
 line: 'Head: Jealousie|Entry: a|Entry: 1301 [Jealous]|Entry: 1656 [Jealousie]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,12
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559660559663
 order: '1934'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,1252,716,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,1252,716,166/full/0/default.jpg
 label: Jealousie
 layout: index_item

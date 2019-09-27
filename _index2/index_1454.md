@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a1eb3df1d"
 unparsed: 
 line: 'Head: fire|Page: p.30 [Image 1.90]|Entry: a|Entry: 1152 [Fire]|Entry: 1956
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1793,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562613126400
 order: '1454'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1793,816,740,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1793,816,740,187/full/0/default.jpg
 label: fire
 layout: index_item

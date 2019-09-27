@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-15f9ae111"
 unparsed: 
 line: 'Head: conscience|Entry: a|Entry: 141 [Conscience]|Entry: 142 [Civil Conscience]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537541428294
 order: '802'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1185,675,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1185,675,179/full/0/default.jpg
 label: conscience
 layout: index_item

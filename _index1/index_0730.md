@@ -14,6 +14,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-73c5f622f"
 unparsed: 
 line: 'Head: comedy|Page: p.41 [Image 1.101]|Entry: a|Entry: 909 [Comedies]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536610589800
 order: '730'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/full/0/default.jpg
 label: comedy
 layout: index_item

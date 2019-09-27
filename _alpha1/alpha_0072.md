@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0333/'>beer</a>"
+insertion_xref: 
+insertion: 
 item: "#item-d449462c4"
 unparsed: 
 line: 'Entry: Beer|Topic: Beer|Xref: Brewing|Xref: 2137 [Beer]|Index: beer|#item-d449462c4'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,12
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744162482
 order: '72'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,1276,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,1276,2930,505/full/0/default.jpg
 label: Beer
 layout: alpha_item

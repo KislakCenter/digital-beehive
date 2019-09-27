@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a9e449c0a"
 unparsed: 
 line: 'Head: novelty|Entry: a|Entry: 524 [Novelty]|Entry: 4705 [PAGE_MISSING]|#item-a9e449c0a'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560449961672
 order: '2742'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3174,654,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3174,654,153/full/0/default.jpg
 label: novelty
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0369/'>bible</a>"
+insertion_xref: 
+insertion: 
 item: "#item-30ebdeb9f"
 unparsed: 
 line: 'Entry: Bible|Topic: Bible|Xref:Scripture|Xref:Reading|Xref: 421 [Bible]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,35
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744278171
 order: '80'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,3568,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,3568,2916,818/full/0/default.jpg
 label: Bible
 layout: alpha_item

@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7c42bcc95"
 unparsed: 
 line: 'Head: astrology|Entry: 24 [Astrology]|Entry: 648 [Astrologer]|Entry: 1283 [Astrology]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565632045718
 order: '230'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/full/0/default.jpg
 label: astrology
 layout: index_item

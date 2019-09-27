@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-cf8057b33"
 unparsed: 
 line: 'Head: warlike discipline|Entry: a|#item-cf8057b33'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561648401625
 order: '4477'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/full/0/default.jpg
 label: warlike discipline
 layout: index_item

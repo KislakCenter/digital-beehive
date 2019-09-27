@@ -10,9 +10,11 @@ first_letter: U/V
 xref: 
 see: 
 page: 
-add: dainties
+add: "<a href='/New_Beehive/index1/index_0939/'>dainties</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b922dc2a1"
 unparsed: 
 line: 'Head: victuals|Entry: 359 [Meat]|Add: dainties|Entry: 696 [Dainty meats]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561659889800
 order: '4327'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/full/0/default.jpg
 label: victuals
 layout: index_item

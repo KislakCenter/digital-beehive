@@ -9,9 +9,11 @@ first_letter: T
 xref: 
 see: 
 page: 
-add: neck
+add: "<a href='/New_Beehive/index3/index_2672/'>neck</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7e91cd1f6"
 unparsed: 
 line: 'Head: throat|Entry: 681 [Throat]|Add: neck |#item-7e91cd1f6'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/905,34
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532878627819
 order: '4136'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/905,3444,353,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/905,3444,353,177/full/0/default.jpg
 label: throat
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-edcb8651b"
 unparsed: 
 line: 'Head: watch word|Entry: 1526 [Watch-word]|#item-edcb8651b'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560960452743
 order: '4490'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/full/0/default.jpg
 label: watch word
 layout: index_item

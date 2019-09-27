@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7966d1100"
 unparsed: 
 line: 'Head: preparation|Entry: 636 [Preparation]|Entry: 1201 [Preparation]|#item-7966d1100'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1848,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1548440792953
 order: '3127'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1848,2774,721,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1848,2774,721,137/full/0/default.jpg
 label: preparation
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-aa67dac55"
 unparsed: 
 line: 'Head: rhetorick|Entry: 472 [Rhetorick]|#item-aa67dac55'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,99
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559231638407
 order: '3414'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,996,511,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,996,511,144/full/0/default.jpg
 label: rhetorick
 layout: index_item

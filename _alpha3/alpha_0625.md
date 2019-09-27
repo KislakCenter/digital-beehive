@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2652/'>natural</a>"
+insertion_xref: 
+insertion: 
 item: "#item-ce551c783"
 unparsed: 
 line: 'Entry: Natural|Topic: Natural|Xref: Old Adam|Xref: 1086 [Natural]|Index: natural|#item-ce551c783'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,20
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1510163587615
 order: '625'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,2959,402/full/0/default.jpg
 label: Natural
 layout: alpha_item

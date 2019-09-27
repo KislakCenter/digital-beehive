@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-fe0436282"
 unparsed: 
 line: 'Head: netherlands|Entry: 351 [Holland]|#item-fe0436282'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,9
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560441685164
 order: '2688'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/full/0/default.jpg
 label: netherlands
 layout: index_item

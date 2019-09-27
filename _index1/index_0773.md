@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c02db9fea"
 unparsed: 
 line: 'Head: concerning|Entry: 1185 [Concerning]|#item-c02db9fea'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537216517211
 order: '773'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/full/0/default.jpg
 label: concerning
 layout: index_item

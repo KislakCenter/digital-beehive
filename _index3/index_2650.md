@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-bf388e0a2"
 unparsed: 
 line: 'Head: nativity calculators of|Entry: 1283 [Calculators of Nativity]|#item-bf388e0a2'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,14
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560437771564
 order: '2650'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/full/0/default.jpg
 label: nativity calculators of
 layout: index_item

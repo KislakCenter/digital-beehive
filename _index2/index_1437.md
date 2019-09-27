@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-10584058d"
 unparsed: 
 line: 'Head: few words|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-10584058d'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1108,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562598583154
 order: '1437'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1108,2646,571,201/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1108,2646,571,201/full/0/default.jpg
 label: few words
 layout: index_item

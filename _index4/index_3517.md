@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5a4a0f290"
 unparsed: 
 line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,15
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
 order: '3517'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/full/0/default.jpg
 label: sanctification
 layout: index_item

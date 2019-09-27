@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-90468997f"
 unparsed: 
 line: 'Head: God''s reward|See: reward|Entry: 968 [Example]|#item-90468997f'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561048007379
 order: '1657'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
 label: God's reward
 layout: index_item

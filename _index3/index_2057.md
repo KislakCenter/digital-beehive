@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d59606f48"
 unparsed: 
 line: 'Head: insatiable|Entry: 744 [PAGE_MISSING]|#item-d59606f48'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,6
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559747323381
 order: '2057'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,630,506,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,630,506,129/full/0/default.jpg
 label: insatiable
 layout: index_item

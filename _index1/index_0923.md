@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-9fa9be56a"
 unparsed: 
 line: 'Head: cuckold|Head: cuckow|Entry: a|Entry: 1730 [Cockold]|Entry: 4749 [PAGE_MISSING]|#item-9fa9be56a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,29
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538577986281
 order: '923'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/full/0/default.jpg
 label: cuckold|cuckow
 layout: index_item

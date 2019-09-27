@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-20b001214"
 unparsed: 
 line: 'Head: the wise man|Entry: 1296 [Wise man]|Entry: 1387 [Wise Man]|Entry: 1691
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,93
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560791668002
 order: '4569'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,939,723,181/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,939,723,181/full/0/default.jpg
 label: the wise man
 layout: index_item

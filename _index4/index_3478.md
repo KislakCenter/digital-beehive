@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5c00da219"
 unparsed: 
 line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
 order: '3478'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/full/0/default.jpg
 label: sack
 layout: index_item

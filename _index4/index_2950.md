@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c75112755"
 unparsed: 
 line: 'Head: Pen[n]silvania|Entry: 1399 [Pennsylvania]|#item-c75112755'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539972658171
 order: '2950'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/full/0/default.jpg
 label: Pen[n]silvania
 layout: index_item

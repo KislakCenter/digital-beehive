@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d2e6eff2d"
 unparsed: 
 line: 'Head: Glaucha hospital|Entry: 1415 [Hospital]|#item-d2e6eff2d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,27
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561043947767
 order: '1618'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,2742,681,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,2742,681,134/full/0/default.jpg
 label: Glaucha hospital
 layout: index_item

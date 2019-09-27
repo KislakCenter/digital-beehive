@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c97d94b39"
 unparsed: 
 line: 'Head: cow|Entry: 343 [Cow]|#item-c97d94b39'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/172,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537975040010
 order: '888'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/172,2869,328,81/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/172,2869,328,81/full/0/default.jpg
 label: cow
 layout: index_item

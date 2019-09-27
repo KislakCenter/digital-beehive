@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5711d6340"
 unparsed: 
 line: 'Head: seed|Entry: a|Entry: 1059 [Seed]|#item-5711d6340'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559243003377
 order: '3593'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2788,448,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2788,448,135/full/0/default.jpg
 label: seed
 layout: index_item

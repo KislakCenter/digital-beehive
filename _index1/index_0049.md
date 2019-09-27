@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6cba55eed"
 unparsed: 
 line: 'Head: adversity|Entry: a|Entry: 712 [Adversity]|Entry: 1074 [Adversity]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/910,85
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564761116494
 order: '49'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/910,858,673,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/910,858,673,117/full/0/default.jpg
 label: adversity
 layout: index_item

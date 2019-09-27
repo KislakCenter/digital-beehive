@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-150ec3507"
 unparsed: 
 line: 'Head: bread|Entry: a|Entry: 2115 [Bread]|#item-150ec3507'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,90
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531417918161
 order: '440'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/full/0/default.jpg
 label: bread
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-840ed2cb4"
 unparsed: 
 line: 'Head: sum[m], or substance|Entry: 732 [PAGE_MISSING]|#item-840ed2cb4'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,38
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530472281824
 order: '3978'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,385,629,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,385,629,133/full/0/default.jpg
 label: sum[m], or substance
 layout: index_item

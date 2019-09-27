@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-223793750"
 unparsed: 
 line: 'Head: officer|Entry: a|Entry: 1021 [Officers]|#item-223793750'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/805,70
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536348018611
 order: '2775'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/805,708,565,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/805,708,565,148/full/0/default.jpg
 label: officer
 layout: index_item

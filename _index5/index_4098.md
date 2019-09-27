@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-dc45b64d8"
 unparsed: 
 line: 'Head: testament|Entry: a|#item-dc45b64d8'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,29
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529087705817
 order: '4098'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2928,404,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2928,404,127/full/0/default.jpg
 label: testament
 layout: index_item

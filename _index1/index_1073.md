@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-54b89fbe3"
 unparsed: 
 line: 'Head: discretion|Entry: a|#item-54b89fbe3'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,63
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508175346858
 order: '1073'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,633,477,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,633,477,101/full/0/default.jpg
 label: discretion
 layout: index_item

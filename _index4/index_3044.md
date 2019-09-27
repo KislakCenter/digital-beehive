@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5117de882"
 unparsed: 
 line: 'Head: be pleased|Entry: 333 [Exclamations of Interjections]|Entry: 1102 [Be
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,99
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1544207532446
 order: '3044'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/full/0/default.jpg
 label: be pleased
 layout: index_item

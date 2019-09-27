@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d1063d8c1"
 unparsed: 
 line: 'Head: promise|Entry: a|Entry: 1428 [Promised]|Entry: 2178 [Promise]|#item-d1063d8c1'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,31
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1550868621522
 order: '3189'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/full/0/default.jpg
 label: promise
 layout: index_item

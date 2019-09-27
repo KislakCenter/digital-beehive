@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-042fc500d"
 unparsed: 
 line: 'Head: shingle|Entry: 362 [a Shingle]|#item-042fc500d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559575861276
 order: '3676'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/full/0/default.jpg
 label: shingle
 layout: index_item

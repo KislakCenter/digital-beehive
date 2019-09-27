@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2994e8074"
 unparsed: 
 line: 'Head: to thrive|See: growth|#item-2994e8074'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565294499999
 order: '4135'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,3366,624,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,3366,624,132/full/0/default.jpg
 label: to thrive
 layout: index_item

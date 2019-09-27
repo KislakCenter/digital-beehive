@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-02f6aa1ec"
 unparsed: 
 line: 'Head: joy|Entry: a|Entry: 832 [PAGE_MISSING]|Entry: 1392 [Joy]|Entry: 1940
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559754627695
 order: '2112'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/full/0/default.jpg
 label: joy
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ffae92a85"
 unparsed: 
 line: 'Head: short writing|Entry: 445 [the Art of Short-writing]|#item-ffae92a85'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559576450313
 order: '3688'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2619,537,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2619,537,134/full/0/default.jpg
 label: short writing
 layout: index_item

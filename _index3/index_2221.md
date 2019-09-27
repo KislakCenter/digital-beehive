@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-6cc37d3b8"
 unparsed: 
 line: 'Head: laughter|Entry: a|Entry: 1254 [Laughter]|Entry: 4557 [PAGE_MISSING]|#item-6cc37d3b8'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1526,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559837062277
 order: '2221'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1526,3211,700,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1526,3211,700,176/full/0/default.jpg
 label: laughter
 layout: index_item

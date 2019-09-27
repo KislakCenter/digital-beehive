@@ -7,14 +7,16 @@ entry: Speech
 topic: Speech
 first_letter: S
 xref: "<a href='/New_Beehive/alpha5/alpha_0951/'>tongue</a>|<a href='/New_Beehive/alpha3/alpha_0507/'>language</a>|Laconism|<a
-  href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|slow|<a href='/New_Beehive/alpha5/alpha_0952/'>too
-  hasty</a>|<a href='/New_Beehive/alpha2/alpha_0279/'>Eloquence</a>|<a href='/New_Beehive/toc_vol2/toc2_232/'>1194
-  [Speech]</a>"
+  href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/New_Beehive/alpha4/alpha_0879/'>slow</a>|<a
+  href='/New_Beehive/alpha5/alpha_0952/'>too hasty</a>|<a href='/New_Beehive/alpha2/alpha_0279/'>Eloquence</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_232/'>1194 [Speech]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3831/'>speech</a>"
+insertion_xref: 
+insertion: 
 item: "#item-34bb03e62"
 unparsed: 
 line: 'Entry: Speech|Topic: Speech|Xref: tongue|Xref: language|Xref: Laconism|Xref:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,40
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532449805510
 order: '892'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,2979,846/full/0/default.jpg
 label: Speech
 layout: alpha_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-41b97c51e"
 unparsed: 
 line: 'Head: hog|Entry: a|Entry: 1741 [Hog]|#item-41b97c51e'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,9
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559581853751
 order: '1853'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/full/0/default.jpg
 label: hog
 layout: index_item

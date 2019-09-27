@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0104/'>almanack</a>"
+insertion_xref: 
+insertion: 
 item: "#item-3e8408a05"
 unparsed: 
 line: 'Entry: Almanack|Topic: Almanack|Xref: Astrology|Xref: 1275 [Almanack]|Index:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,34
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490638732924
 order: '21'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,2974,349/full/0/default.jpg
 label: Almanack
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4c8214bae"
 unparsed: 
 line: 'Head: seeing|See: sight|Entry: 385 [Sight]|#item-4c8214bae'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1598,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559243026815
 order: '3594'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1598,2900,672,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1598,2900,672,169/full/0/default.jpg
 label: seeing
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_2972/'>perswasion</a>"
+insertion_xref: 
+insertion: 
 item: "#item-321a39c13"
 unparsed: 
 line: 'Entry: Perswasion|Topic: Perswasion|Xref: Conviction|Xref: 1969 [Perswasion]|Index:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,13
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528330308415
 order: '696'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,1304,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,1304,3025,482/full/0/default.jpg
 label: Perswasion
 layout: alpha_item

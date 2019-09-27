@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-cf4b9936a"
 unparsed: 
 line: 'Head: contradiction|Entry: a|Entry: 901 [Contradiction]|#item-cf4b9936a'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,6
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537559290644
 order: '829'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/full/0/default.jpg
 label: contradiction
 layout: index_item

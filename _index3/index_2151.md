@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-58914e255"
 unparsed: 
 line: 'Head: Tho. of Kempis|Entry: 1009 [Thomas of Kempis]|#item-58914e255'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/121,35
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559759660997
 order: '2151'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/121,3530,613,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/121,3530,613,127/full/0/default.jpg
 label: Tho. of Kempis
 layout: index_item

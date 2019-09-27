@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f13e2445f"
 unparsed: 
 line: 'Head: acceptable|Entry: 889 [Agreable]|Entry: 1408 [Acceptable]|#item-f13e2445f'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,19
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759585650
 order: '23'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/full/0/default.jpg
 label: acceptable
 layout: index_item

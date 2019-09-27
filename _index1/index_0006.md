@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-7f8cb5dcb"
 unparsed: 
 line: 'Head: abhorring|Entry: 1320 [Unacceptable]|#item-7f8cb5dcb'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,51
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758444079
 order: '6'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,517,489,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,517,489,143/full/0/default.jpg
 label: abhorring
 layout: index_item

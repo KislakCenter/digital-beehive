@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-fcb7db8fe"
 unparsed: 
 line: 'Head: life|Entry: a|Entry: 1260 [Life]|Entry: 2139 [Life]|Entry: 69 [Life]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559846900908
 order: '2283'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/full/0/default.jpg
 label: life
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3526/'>saviour</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b7ad2723d"
 unparsed: 
 line: 'Entry: Saviour|Topic: Saviour|Xref: Redemption|Xref: Jesus|Xref: 966 [Saviour]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,91
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528922560984
 order: '822'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,2971,467/full/0/default.jpg
 label: Saviour
 layout: alpha_item

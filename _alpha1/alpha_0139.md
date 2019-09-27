@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0630/'>child</a>"
+insertion_xref: 
+insertion: 
 item: "#item-7c39126da"
 unparsed: 
 line: 'Entry: Child|Topic: Child|Xref: 14 [Degenerating]|Xref: 1061 [Whelp]|Xref:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,21
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499438742340
 order: '139'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,2138,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,2138,3108,691/full/0/default.jpg
 label: Child
 layout: alpha_item

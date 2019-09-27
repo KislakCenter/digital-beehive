@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-52ddc533d"
 unparsed: 
 line: 'Head: inheritance|See: heritage|Entry: a|Entry: 1700 [Inheritance]|#item-52ddc533d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,26
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559745191920
 order: '2043'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/full/0/default.jpg
 label: inheritance
 layout: index_item

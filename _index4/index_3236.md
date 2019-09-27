@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0b3c77f1b"
 unparsed: 
 line: 'Head: purity|Entry: a|Entry: 936 [Purity]|#item-0b3c77f1b'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/406,18
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558452345569
 order: '3236'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/406,1886,493,97/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/406,1886,493,97/full/0/default.jpg
 label: purity
 layout: index_item

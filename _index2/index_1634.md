@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-244d864ac"
 unparsed: 
 line: 'Head: church governmt|Entry: 402 [Order & Discipline in the Church]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561052165286
 order: '1634'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/full/0/default.jpg
 label: church governmt
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-78b2481dd"
 unparsed: 
 line: 'Head: slowness|Entry: a|Entry: 1089 [Slow-footed]|#item-78b2481dd'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,29
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559584824193
 order: '3757'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/full/0/default.jpg
 label: slowness
 layout: index_item

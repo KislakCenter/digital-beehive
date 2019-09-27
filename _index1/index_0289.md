@@ -12,9 +12,12 @@ first_letter: B
 xref: 
 see: 
 page: 
-add: Arab|Infant baptism
+add: "<a href='/New_Beehive/index1/index_0194/'>Arab</a>|<a href='/New_Beehive/index3/index_2030/'>Infant
+  baptism</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-3d8a16820"
 unparsed: 
 line: 'Head: baptism|Entry: a|Entry: 273 [Baptism]|Entry: 1018 [Baptism]|Entry: 1048
@@ -23,7 +26,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,21
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565017318186
 order: '289'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,2135,713,242/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,2135,713,242/full/0/default.jpg
 label: baptism
 layout: index_item

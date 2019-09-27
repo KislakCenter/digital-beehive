@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0942/'>dam[m]age</a>"
+insertion_xref: 
+insertion: 
 item: "#item-f95d47f88"
 unparsed: 
 line: 'Entry: Dammage|Topic: Dammage|Xref: Losse|Xref: WORD_ILLEGIBLE|Xref: 1422 [Dam[m]age]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/363,19
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1506964941523
 order: '204'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/363,1926,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/363,1926,3077,498/full/0/default.jpg
 label: Dammage
 layout: alpha_item

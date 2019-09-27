@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f04d35a88"
 unparsed: 
 line: 'Head: tailor|Entry: a|Entry: 1733 [Tailor]|#item-f04d35a88'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528918516628
 order: '4047'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/full/0/default.jpg
 label: tailor
 layout: index_item

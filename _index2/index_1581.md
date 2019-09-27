@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-91f06e853"
 unparsed: 
 line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
 order: '1581'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/full/0/default.jpg
 label: garden
 layout: index_item

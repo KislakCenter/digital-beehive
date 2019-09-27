@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d90bcf577"
 unparsed: 
 line: 'Head: unknown|Entry: a|Entry: 1658 [Unknown]|#item-d90bcf577'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1083,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560882202745
 order: '4399'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1083,2510,618,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1083,2510,618,130/full/0/default.jpg
 label: unknown
 layout: index_item

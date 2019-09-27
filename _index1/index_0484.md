@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-8ed1c9715"
 unparsed: 
 line: 'Head: burning mountains|Entry: 163 [Mountain]|#item-8ed1c9715'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/882,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565371640307
 order: '484'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/882,1642,701,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/882,1642,701,134/full/0/default.jpg
 label: burning mountains
 layout: index_item

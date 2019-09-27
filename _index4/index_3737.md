@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5d6dead9a"
 unparsed: 
 line: 'Head: skeleton|Page: p.44 [Image 1.104]|Entry: 1381 [Skeleton]|#item-5d6dead9a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,11
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559583248785
 order: '3737'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,1185,635,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,1185,635,144/full/0/default.jpg
 label: skeleton
 layout: index_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c0bedd696"
 unparsed: 
 line: 'Head: Bp of Munster|Entry: 1348 [Chr. Bernard Bishop of Munster]|#item-c0bedd696'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560361406501
 order: '2615'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/full/0/default.jpg
 label: Bp of Munster
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f5ce036f2"
 unparsed: 
 line: 'Head: Self examina[ti]on|Entry: 1111 [Examine]|Entry: 2284 [Self-Examination]|#item-f5ce036f2'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,12
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559244340193
 order: '3616'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/full/0/default.jpg
 label: Self examina[ti]on
 layout: index_item

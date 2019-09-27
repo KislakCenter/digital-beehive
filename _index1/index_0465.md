@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0a8b86851"
 unparsed: 
 line: 'Head: broth|Entry: 540 [Pottages]|#item-0a8b86851'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/180,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531420020523
 order: '465'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/180,3352,344,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/180,3352,344,90/full/0/default.jpg
 label: broth
 layout: index_item

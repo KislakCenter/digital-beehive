@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-0fb90c56c"
 unparsed: 
 line: 'Head: exalting|Entry: 68 [Exaltation]|#item-0fb90c56c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/834,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560352869220
 order: '1327'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/834,2209,474,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/834,2209,474,159/full/0/default.jpg
 label: exalting
 layout: index_item

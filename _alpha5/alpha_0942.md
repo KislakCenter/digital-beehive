@@ -6,12 +6,16 @@ head:
 entry: Thouing
 topic: Thouing
 first_letter: T
-xref: "<a href='/New_Beehive/toc_vol2/toc2_080/'>217 [Thouing]</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1132
+  [Gratitude]</a>|<a href='/New_Beehive/alpha1/alpha_0262/'>Drink</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>217
+  [Thouing]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4129/'>thouing</a>"
+insertion_xref: 
+insertion: 
 item: "#item-1f5904f4"
 unparsed: 
 line: 'Entry: Thouing|Topic: Thouing|Xref: 217 [Thouing]|Index: thouing|#item-1f5904f4'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,30
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565113643685
 order: '942'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,2986,549/full/0/default.jpg
 label: Thouing
 layout: alpha_item

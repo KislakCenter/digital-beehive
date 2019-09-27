@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3636/'>sense</a>"
+insertion_xref: 
+insertion: 
 item: "#item-9c30c8a87"
 unparsed: 
 line: 'Entry: Sense|Topic: Sense|Xref: Insensibleness|Xref: 971 [NUMERICAL_ENTRY_MISSING]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,44
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530201550960
 order: '849'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,4413,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,4413,3055,475/full/0/default.jpg
 label: Sense
 layout: alpha_item

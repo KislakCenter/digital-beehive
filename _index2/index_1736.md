@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-63a5a8ad2"
 unparsed: 
 line: 'Head: Habit|Entry: 127 [Accustoming]|Entry: 934 [Accustoming]|#item-63a5a8ad2'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,32
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559234120055
 order: '1736'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,3267,495,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,3267,495,115/full/0/default.jpg
 label: Habit
 layout: index_item

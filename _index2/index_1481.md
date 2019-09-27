@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d81bbe2a3"
 unparsed: 
 line: 'Head: flie|Page: p.36 [Image 1.96]|Entry: a|Entry: 1002 [Flies]|#item-d81bbe2a3'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1804,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562617576536
 order: '1481'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1804,3150,570,181/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1804,3150,570,181/full/0/default.jpg
 label: flie
 layout: index_item

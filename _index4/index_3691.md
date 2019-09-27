@@ -9,9 +9,11 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: bacchanals
+add: "<a href='/New_Beehive/index1/index_0262/'>bacchanals</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ab72e1229"
 unparsed: 
 line: 'Head: shrovetide|Entry: 222 [Shrovetide]|Add: bacchanals|#item-ab72e1229'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559576573915
 order: '3691'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/full/0/default.jpg
 label: shrovetide
 layout: index_item

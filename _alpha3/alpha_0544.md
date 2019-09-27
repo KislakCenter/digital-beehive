@@ -6,12 +6,16 @@ head:
 entry: Longsufferance
 topic: Longsufferance
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0337/'>forbearance</a>"
+xref: "<a href='/New_Beehive/toc_vol2/toc2_065/'>84 [Antiquary]</a>|<a href='/New_Beehive/toc_vol2/toc2_074/'>172
+  [Means and Cause]</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1468 [London]</a>|<a
+  href='/New_Beehive/alpha2/alpha_0337/'>forbearance</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2324/'>long sufferance</a>"
+insertion_xref: 
+insertion: 
 item: "#item-8ae6416e0"
 unparsed: 
 line: 'Entry: Longsufferance|Topic: Longsufferance|Xref: forbearance|Index: longsufferance|#item-8ae6416e0'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,25
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770058675
 order: '544'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,3076,506/full/0/default.jpg
 label: Longsufferance
 layout: alpha_item

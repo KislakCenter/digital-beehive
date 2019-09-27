@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ee68407d8"
 unparsed: 
 line: 'Head: pulse|Entry: 1417 [Pulse]|#item-ee68407d8'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,65
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558451973099
 order: '3225'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/full/0/default.jpg
 label: pulse
 layout: index_item

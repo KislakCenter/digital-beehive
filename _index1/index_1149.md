@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f50fae2da"
 unparsed: 
 line: 'Head: drieness|Entry: a|Entry: 1526 [Drought or Driness]|#item-f50fae2da'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1496,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560452325141
 order: '1149'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1496,1928,575,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1496,1928,575,132/full/0/default.jpg
 label: drieness
 layout: index_item

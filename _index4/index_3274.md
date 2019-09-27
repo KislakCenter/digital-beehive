@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-dce956498"
 unparsed: 
 line: 'Head: quotations|Entry: 442 [Quotation]|Entry: 999 [Quotations]|Entry: 1670
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558455868547
 order: '3274'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,2277,644,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,2277,644,148/full/0/default.jpg
 label: quotations
 layout: index_item

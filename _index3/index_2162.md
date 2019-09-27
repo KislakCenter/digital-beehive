@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f4d02b164"
 unparsed: 
 line: 'Head: king|Entry: a|Entry: 1207 [King]|Entry: 1873 [PAGE_MISSING]|#item-f4d02b164'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559761736103
 order: '2162'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1066,541,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1066,541,183/full/0/default.jpg
 label: king
 layout: index_item

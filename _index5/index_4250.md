@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-73e1e8b0d"
 unparsed: 
 line: 'Head: troy|Entry: 1709 [Troy]|#item-73e1e8b0d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1795,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1562090028701
 order: '4250'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1795,2729,362,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1795,2729,362,166/full/0/default.jpg
 label: troy
 layout: index_item

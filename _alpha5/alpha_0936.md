@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4098/'>testament</a>"
+insertion_xref: 
+insertion: 
 item: "#item-64d9caea7"
 unparsed: 
 line: 'Entry: Testament|Topic: Testament|Xref: Will|Xref: 2226 [Will]|Index: testament|#item-64d9caea7'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,79
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529087635453
 order: '936'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,3092,414/full/0/default.jpg
 label: Testament
 layout: alpha_item

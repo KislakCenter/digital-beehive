@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d18ad40af"
 unparsed: 
 line: 'Head: mediator|Entry: a|#item-d18ad40af'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,34
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560266263062
 order: '2464'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,3422,403,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,3422,403,91/full/0/default.jpg
 label: mediator
 layout: index_item

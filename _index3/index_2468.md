@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b1e3af3b9"
 unparsed: 
 line: 'Head: mediocrity|Entry: a|Entry: 1103 [Mediocrity]|#item-b1e3af3b9'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560267656083
 order: '2468'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/full/0/default.jpg
 label: mediocrity
 layout: index_item

@@ -14,6 +14,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-cc4e96649"
 unparsed: 
 line: 'Head: bells|Entry: a|Entry: 888 [Bells]|Entry: 1688 [Bells]|Page: p.2 [Image
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/379,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531147493572
 order: '348'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/379,1089,629,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/379,1089,629,174/full/0/default.jpg
 label: bells
 layout: index_item

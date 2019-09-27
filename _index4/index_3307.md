@@ -10,9 +10,11 @@ first_letter: R
 xref: 
 see: 
 page: 
-add: various
+add: "<a href='/New_Beehive/index5/index_4300/'>various</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f84b40f45"
 unparsed: 
 line: 'Head: reading|Entry: a|Entry: 1091 [Reading]|Add: various|#item-f84b40f45'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558461304691
 order: '3307'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
 label: reading
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1912/'>husbandry and huswifery</a>"
+insertion_xref: 
+insertion: 
 item: "#item-2ad75fadf"
 unparsed: 
 line: 'Entry: Husbandry|Topic: Husbandry|Xref: Agriculture|Xref: Oeconomy|Xref: 281
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,23
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509733965053
 order: '439'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,2963,554/full/0/default.jpg
 label: Husbandry
 layout: alpha_item

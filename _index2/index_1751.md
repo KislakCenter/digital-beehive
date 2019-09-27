@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-293f79414"
 unparsed: 
 line: 'Head: happiness of the wicked|Entry: a|Entry: 923 [Blessings of God are upon
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,11
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559239433405
 order: '1751'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/full/0/default.jpg
 label: happiness of the wicked
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0047/'>advantage</a>"
+insertion_xref: 
+insertion: 
 item: "#item-186cc582d"
 unparsed: 
 line: 'Entry: Advantage|Topic: Advantage|Xref: Profit|Xref: Benefit|Xref: Utility|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,37
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490035959587
 order: '8'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,3011,473/full/0/default.jpg
 label: Advantage
 layout: alpha_item

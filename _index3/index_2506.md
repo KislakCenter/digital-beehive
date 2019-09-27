@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-cbcc1f54f"
 unparsed: 
 line: 'Head: metonymy|Entry: 841 [PAGE_MISSING]|#item-cbcc1f54f'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1839,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560273649078
 order: '2506'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1839,891,507,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1839,891,507,118/full/0/default.jpg
 label: metonymy
 layout: index_item

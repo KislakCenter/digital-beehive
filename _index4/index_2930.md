@@ -14,6 +14,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b681a923a"
 unparsed: 
 line: 'Head: peace|Page: p.40 [Image 1.100]|Entry: a|Entry: 980 [Peace]|Entry: 1966
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538495888876
 order: '2930'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/full/0/default.jpg
 label: peace
 layout: index_item

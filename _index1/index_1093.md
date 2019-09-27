@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-43f22c6f4"
 unparsed: 
 line: 'Head: displeasure|Entry: 615 [displeasure]|Entry: 1482 [Displeasure]|#item-43f22c6f4'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,27
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541804477583
 order: '1093'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/full/0/default.jpg
 label: displeasure
 layout: index_item

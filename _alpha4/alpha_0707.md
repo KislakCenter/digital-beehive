@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3043/'>pleasure</a>"
+insertion_xref: 
+insertion: 
 item: "#item-3209a6757"
 unparsed: 
 line: 'Entry: Pleasure|Topic: Pleasure|Xref: Epicurism|Xref: Lasciviousness|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,62
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528372777939
 order: '707'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,3078,429/full/0/default.jpg
 label: Pleasure
 layout: alpha_item

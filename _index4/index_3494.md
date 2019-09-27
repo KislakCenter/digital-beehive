@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-77132ecd1"
 unparsed: 
 line: 'Head: to sail|Page: p.39 [Image 1.99]|Entry: 2266 [To Sail]|#item-77132ecd1'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1764,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559235194579
 order: '3494'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1764,2782,588,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1764,2782,588,113/full/0/default.jpg
 label: to sail
 layout: index_item

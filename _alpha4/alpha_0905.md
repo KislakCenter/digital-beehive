@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3912/'>stones</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e9d5e9a7f"
 unparsed: 
 line: 'Entry: Stone|Topic: Stone|Xref: 596 [the Stone Gravel of the Kidneys]|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,34
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532460773065
 order: '905'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,3032,329/full/0/default.jpg
 label: Stone
 layout: alpha_item

@@ -6,12 +6,15 @@ head:
 entry: Canker
 topic: Canker
 first_letter: C
-xref: 
+xref: "<a href='/New_Beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/New_Beehive/toc_vol2/toc2_147/'>653
+  [Slander]</a>|<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [Scheltwort]</a>||"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0527/'>canker</a>"
+insertion_xref: 
+insertion: 
 item: "#item-6d171cca3"
 unparsed: 
 line: 'Entry: Canker|Topic: Canker|Index: canker|#item-6d171cca3'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,24
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563212170426
 order: '116'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,2435,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,2435,2962,190/full/0/default.jpg
 label: Canker
 layout: alpha_item

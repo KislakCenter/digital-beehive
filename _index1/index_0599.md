@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-fbe93edc3"
 unparsed: 
 line: 'Head: change of Sex|Entry: 1978 [Changed their Sex]|#item-fbe93edc3'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532442656627
 order: '599'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,3045,538,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,3045,538,100/full/0/default.jpg
 label: change of Sex
 layout: index_item

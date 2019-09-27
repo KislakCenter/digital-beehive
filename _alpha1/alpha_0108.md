@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0490/'>business</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b88057c8f"
 unparsed: 
 line: 'Entry: Businesses|Topic: Businesses|Xref: 18 [Busie]|Xref: 1179 [Business]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/815,46
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563211025855
 order: '108'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/815,4633,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/815,4633,2916,424/full/0/default.jpg
 label: Businesses
 layout: alpha_item

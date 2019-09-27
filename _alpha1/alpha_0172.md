@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0814/'>constancy</a>"
+insertion_xref: 
+insertion: 
 item: "#item-34711b714"
 unparsed: 
 line: 'Entry: Constancy|Topic: Constancy|Xref: Unstableness|Xref: 1112 [Constancy
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,22
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499708447294
 order: '172'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,2999,616/full/0/default.jpg
 label: Constancy
 layout: alpha_item

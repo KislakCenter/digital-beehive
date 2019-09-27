@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4867f8710"
 unparsed: 
 line: 'Head: Lord''s Supper|Entry: a|Entry: 482 [Communion or Partaking]|Entry: 1773
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,20
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530475634993
 order: '3992'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/full/0/default.jpg
 label: Lord's Supper
 layout: index_item

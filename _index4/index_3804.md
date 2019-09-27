@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-49703ddd2"
 unparsed: 
 line: 'Head: sordidness|Entry: 103 [Sordidness]|#item-49703ddd2'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/573,16
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529704022539
 order: '3804'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/573,1629,463,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/573,1629,463,110/full/0/default.jpg
 label: sordidness
 layout: index_item

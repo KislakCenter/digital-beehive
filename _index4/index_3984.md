@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-324d017cb"
 unparsed: 
 line: 'Head: sun rising, setting|Page: p.27 [Image 1.87]|Entry: 4612 [PAGE_MISSING]|#item-324d017cb'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530472936835
 order: '3984'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/full/0/default.jpg
 label: sun rising, setting
 layout: index_item

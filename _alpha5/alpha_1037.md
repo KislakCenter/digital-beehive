@@ -6,12 +6,16 @@ head:
 entry: Womans wit
 topic: Womans wit
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1622 [Womans Wit]</a>"
+xref: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1242
+  [Woman]</a>||<a href='/New_Beehive/toc_vol2/toc2_076/'>192 [Dames governmt]</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_319/'>1622 [Womans Wit]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4600/'>woman's wit</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b11b47a4f"
 unparsed: 
 line: 'Entry: Womans wit|Topic: Womans wit|Xref: 1622 [Womans Wit]|Index: woman''s
@@ -20,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,44
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529594398385
 order: '1037'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,2914,321/full/0/default.jpg
 label: Womans wit
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5399c245e"
 unparsed: 
 line: 'Head: barefooted|Entry: 1939 [Barefooted]|#item-5399c245e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,28
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1506104731239
 order: '295'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/full/0/default.jpg
 label: barefooted
 layout: index_item

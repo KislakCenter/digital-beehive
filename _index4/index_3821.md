@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ac6b3ab72"
 unparsed: 
 line: 'Head: spaw waters|Entry: 1680 [Hot baths]|#item-ac6b3ab72'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1126,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565288598415
 order: '3821'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1126,392,631,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1126,392,631,128/full/0/default.jpg
 label: spaw waters
 layout: index_item

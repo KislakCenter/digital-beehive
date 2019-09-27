@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-79c2d4bc9"
 unparsed: 
 line: 'Head: uneasy|See: weary|#item-79c2d4bc9'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560873918172
 order: '4377'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,3305,560,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,3305,560,141/full/0/default.jpg
 label: uneasy
 layout: index_item

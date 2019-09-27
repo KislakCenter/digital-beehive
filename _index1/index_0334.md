@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2fb4d1f4d"
 unparsed: 
 line: 'Head: beetles|Entry: 1002 [Flies]|#item-2fb4d1f4d'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1587,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531145957524
 order: '334'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1587,3011,439,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1587,3011,439,140/full/0/default.jpg
 label: beetles
 layout: index_item

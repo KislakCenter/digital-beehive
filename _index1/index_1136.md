@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-708c2d23b"
 unparsed: 
 line: 'Head: doubt|Entry: a|Entry: 705 [Doubtfulness]|Entry: 918 [Doubtful]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,7
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560367766739
 order: '1136'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/full/0/default.jpg
 label: doubt
 layout: index_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c7c65f67e"
 unparsed: 
 line: 'Head: hay|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-c7c65f67e'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,33
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559241651976
 order: '1772'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/full/0/default.jpg
 label: hay
 layout: index_item

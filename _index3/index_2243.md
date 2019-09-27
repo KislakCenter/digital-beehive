@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-84b4bde53"
 unparsed: 
 line: 'Head: to leave off|Entry: 1212 [To Leave off]|#item-84b4bde53'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/386,26
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559842499943
 order: '2243'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/386,2614,525,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/386,2614,525,155/full/0/default.jpg
 label: to leave off
 layout: index_item

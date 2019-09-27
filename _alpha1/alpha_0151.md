@@ -6,12 +6,15 @@ head:
 entry: Cloke
 topic: Cloke
 first_letter: C
-xref: 
+xref: "<a href='/New_Beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/New_Beehive/alpha3/alpha_0641/'>Nun</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_105/'>395 [Cloister]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0699/'>cloke</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b30905b40"
 unparsed: 
 line: 'Entry: Cloke|Topic: Cloke|Index: cloke|#item-b30905b40'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,30
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563822174237
 order: '151'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,3031,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,3031,2985,275/full/0/default.jpg
 label: Cloke
 layout: alpha_item

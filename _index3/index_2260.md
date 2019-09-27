@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-1092fadfd"
 unparsed: 
 line: 'Head: to lessen|Entry: 1479 [to Lessen]|#item-1092fadfd'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1135,5
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559844288078
 order: '2260'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1135,575,506,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1135,575,506,123/full/0/default.jpg
 label: to lessen
 layout: index_item

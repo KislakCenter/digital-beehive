@@ -6,12 +6,16 @@ head:
 entry: Shamefacedness
 topic: Shamefacedness
 first_letter: S
-xref: 789 [PAGE_MISSING]
+xref: "<a href='/New_Beehive/alpha4/alpha_0878/'>Slavery</a>|Neger|<a href='/New_Beehive/alpha1/alpha_0199/'>Cruelty</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_145/'>641 [the Shadow]</a>|<a href='/New_Beehive/toc_vol2/toc2_117/'>478
+  [Shame]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3661/'>shamefaced</a>"
+insertion_xref: 
+insertion: 
 item: "#item-bc7a8049a"
 unparsed: 
 line: 'Entry: Shamefacedness|Topic: Shamefacedness|Xref: 789 [PAGE_MISSING]|Index:
@@ -20,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,16
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803382862
 order: '856'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,2956,437/full/0/default.jpg
 label: Shamefacedness
 layout: alpha_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_1964/'>impartiality</a>"
+insertion_xref: 
+insertion: 
 item: "#item-37fe4196e"
 unparsed: 
 line: 'Entry: Impartiality|Topic: Impartiality|Xref: Partiality|Xref: Neutrality|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,86
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759343221
 order: '459'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,3084,665/full/0/default.jpg
 label: Impartiality
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ad7f17545"
 unparsed: 
 line: 'Head: spie|Entry: 825 [PAGE_MISSING]|Entry: 1502 [Spy]|#item-ad7f17545'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529942325346
 order: '3840'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/full/0/default.jpg
 label: spie
 layout: index_item

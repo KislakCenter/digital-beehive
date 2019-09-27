@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4553/'>willingness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-5a590c775"
 unparsed: 
 line: 'Entry: Willingness|Topic: Willingness|Xref: Unwilling|Xref: 321 [Willingness]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/362,23
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529591446786
 order: '1026'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/362,238,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/362,238,3021,435/full/0/default.jpg
 label: Willingness
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3089/'>posterity</a>"
+insertion_xref: 
+insertion: 
 item: "#item-9c11c8b1f"
 unparsed: 
 line: 'Entry: Posterity|Topic: Posterity|Xref: Children|Xref: Bastard|Index: posterity|#item-9c11c8b1f'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,33
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528374091601
 order: '714'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,3053,377/full/0/default.jpg
 label: Posterity
 layout: alpha_item

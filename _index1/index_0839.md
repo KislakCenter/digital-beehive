@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c4e8535cf"
 unparsed: 
 line: 'Head: conviction|Entry: 362 [Conviction]|Entry: 1706 [Convicting]|Entry: 2039
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537559700119
 order: '839'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/full/0/default.jpg
 label: conviction
 layout: index_item

@@ -6,12 +6,16 @@ head:
 entry: Nun
 topic: Nun
 first_letter: N
-xref: "<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>|<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a
+  href='/New_Beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>524
+  [Novelty]</a>|<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2749/'>nun</a>"
+insertion_xref: 
+insertion: 
 item: "#item-fdb9a60d2"
 unparsed: 
 line: 'Entry: Nun|Topic: Nun|Xref: Cloister|Index: nun|#item-fdb9a60d2'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,33
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015636527
 order: '641'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,3029,368/full/0/default.jpg
 label: Nun
 layout: alpha_item

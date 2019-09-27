@@ -6,12 +6,15 @@ head:
 entry: Untimely
 topic: Untimely
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha4/alpha_0649/'>Occasion</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_098/'>347
+  [Unthankful]</a>|<a href='/New_Beehive/alpha4/alpha_0649/'>Occasion</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4424/'>untimely</a>"
+insertion_xref: 
+insertion: 
 item: "#item-0e53a4bfe"
 unparsed: 
 line: 'Entry: Untimely|Topic: Untimely|Xref: Occasion|Index: untimely|#item-0e53a4bfe'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,45
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528913759434
 order: '1000'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,2877,454/full/0/default.jpg
 label: Untimely
 layout: alpha_item

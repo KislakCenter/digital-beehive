@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b46aeff13"
 unparsed: 
 line: 'Head: atheism|Entry: a|Entry: 240 [Atheism]|Entry: 1421 [Atheism]|Entry: 1983
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/174,23
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771698884
 order: '233'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/174,238,708,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/174,238,708,186/full/0/default.jpg
 label: atheism
 layout: index_item

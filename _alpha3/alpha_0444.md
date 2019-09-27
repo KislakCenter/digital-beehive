@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_1933/'>idolatry</a>"
+insertion_xref: 
+insertion: 
 item: "#item-cab080c4a"
 unparsed: 
 line: 'Entry: Idolatry|Topic: Idolatry|Xref: Images|Xref: 610 [Idolatry]|Index: idolatry|#item-cab080c4a'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,41
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758192803
 order: '444'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,4133,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,4133,3018,512/full/0/default.jpg
 label: Idolatry
 layout: alpha_item

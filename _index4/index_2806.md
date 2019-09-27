@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5c930db8c"
 unparsed: 
 line: 'Head: opinion|Entry: a|Entry: 1029 [Opinion]|#item-5c930db8c'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1516,6
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538161354330
 order: '2806'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1516,630,620,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1516,630,620,151/full/0/default.jpg
 label: opinion
 layout: index_item

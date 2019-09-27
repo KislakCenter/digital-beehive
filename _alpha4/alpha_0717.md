@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: praise of God|praise of men
+insertion_xref: 
+insertion: 
 item: "#item-36f07197e"
 unparsed: 
 line: 'Entry: Praise of God & of men|Topic: Praise of God & of men|Xref: Honour|Xref:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/308,44
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528374846905
 order: '717'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/308,4474,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/308,4474,2990,576/full/0/default.jpg
 label: Praise of God & of men
 layout: alpha_item

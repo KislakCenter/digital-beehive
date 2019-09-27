@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1230/'>eloquence</a>"
+insertion_xref: 
+insertion: 
 item: "#item-eec917b43"
 unparsed: 
 line: 'Entry: Eloquence|Topic: Eloquence|Xref: fair words|Xref: 1659 [Eloquence]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,14
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508253342531
 order: '279'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,3075,476/full/0/default.jpg
 label: Eloquence
 layout: alpha_item

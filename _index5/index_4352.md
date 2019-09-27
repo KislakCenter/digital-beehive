@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-5898a6b2e"
 unparsed: 
 line: 'Head: unable|Entry: 258 [Ability]|Entry: 1426 [Abilities]|Entry: 2363 [Able
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/480,53
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560871809775
 order: '4352'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/480,535,681,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/480,535,681,108/full/0/default.jpg
 label: unable
 layout: index_item

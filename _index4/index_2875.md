@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-f8e4ae233"
 unparsed: 
 line: 'Head: paradox|Entry: a|Entry: 201 [Orthodox Paradoxes]|#item-f8e4ae233'
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538492881900
 order: '2875'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/full/0/default.jpg
 label: paradox
 layout: index_item

@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-af719e3b7"
 unparsed: 
 line: 'Head: God''s providence|Entry: a|Entry: 227 [Gods Providence]|Entry: 1691 [Gods
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561053175536
 order: '1655'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/full/0/default.jpg
 label: God's providence
 layout: index_item

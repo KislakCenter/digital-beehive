@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1350/'>exorcism</a>"
+insertion_xref: 
+insertion: 
 item: "#item-a42a0b906"
 unparsed: 
 line: 'Entry: Exorcism|Topic: Exorcism|Xref: 1541 [Conjuring]|Xref: 1551 [Gafers]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,79
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564587224376
 order: '298'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,797,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,797,3102,310/full/0/default.jpg
 label: Exorcism
 layout: alpha_item

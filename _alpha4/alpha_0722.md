@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3121/'>predestination</a>"
+insertion_xref: 
+insertion: 
 item: "#item-d6466de3e"
 unparsed: 
 line: 'Entry: Predestination|Topic: Predestination|Xref: Reprobates|Xref: Fate|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,17
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528376240349
 order: '722'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,3008,521/full/0/default.jpg
 label: Predestination
 layout: alpha_item

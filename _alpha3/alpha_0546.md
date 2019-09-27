@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2326/'>to look</a>"
+insertion_xref: 
+insertion: 
 item: "#item-afb09bfa4"
 unparsed: 
 line: 'Entry: To Look|Topic: To Look|Xref: Stare |Xref: 1433 [To Look]|Index: to look|#item-afb09bfa4'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,84
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564770240198
 order: '546'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,848,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,848,3091,310/full/0/default.jpg
 label: To Look
 layout: alpha_item

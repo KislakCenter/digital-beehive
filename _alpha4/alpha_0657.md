@@ -6,12 +6,15 @@ head:
 entry: Omnipotency
 topic: Omnipotency
 first_letter: O
-xref: 4630 [PAGE_MISSING]
+xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>461
+  [Old age]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_2790/'>omnipotency</a>"
+insertion_xref: 
+insertion: 
 item: "#item-69dddeb47"
 unparsed: 
 line: 'Entry: Omnipotency|Topic: Omnipotency|Xref: 4630 [PAGE_MISSING]|Index: omnipotency|#item-69dddeb47'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,36
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565017754056
 order: '657'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,3636,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,3636,3065,427/full/0/default.jpg
 label: Omnipotency
 layout: alpha_item

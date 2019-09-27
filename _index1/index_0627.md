@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-eb3058f7c"
 unparsed: 
 line: 'Head: chiding|Entry: 680 [WORD_ILLEGIBLE]|#item-eb3058f7c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565373417479
 order: '627'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1727,459,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1727,459,168/full/0/default.jpg
 label: chiding
 layout: index_item

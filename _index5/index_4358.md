@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-e3161b2bc"
 unparsed: 
 line: 'Head: unawares|Entry: 703 [Unawares]|Entry: 1831 [Unawares]|#item-e3161b2bc'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/478,10
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560872274771
 order: '4358'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/478,1086,633,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/478,1086,633,99/full/0/default.jpg
 label: unawares
 layout: index_item

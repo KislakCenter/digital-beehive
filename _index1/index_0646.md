@@ -15,6 +15,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-08f4e23c0"
 unparsed: 
 line: 'Head: Christ in us|Entry: 36 [God with - & in men]|Entry: 267 [God is in us]|Entry:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532462107560
 order: '646'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,3514,684,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,3514,684,141/full/0/default.jpg
 label: Christ in us
 layout: index_item

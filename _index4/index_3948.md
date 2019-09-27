@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-50dc08c13"
 unparsed: 
 line: 'Head: Student|Entry: a|Entry: 1341 [Student]|#item-50dc08c13'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/905,34
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530466888999
 order: '3948'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/905,3451,512,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/905,3451,512,127/full/0/default.jpg
 label: Student
 layout: index_item

@@ -6,12 +6,16 @@ head:
 entry: Nakedness
 topic: Nakedness
 first_letter: N
-xref: "<a href='/New_Beehive/toc_vol2/toc2_120/'>499 [Nackedness]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0135/'>change</a>|<a href='/New_Beehive/alpha5/alpha_0978/'>Variety</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_083/'>244 [Mutation]</a>|<a href='/New_Beehive/toc_vol2/toc2_195/'>1006
+  [Mystery]</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>499 [Nackedness]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2633/'>nakedness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b18c4100d"
 unparsed: 
 line: 'Entry: Nakedness|Topic: Nakedness|Xref: 499 [Nackedness]|Index: nakedness|#item-b18c4100d'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,77
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1509735477482
 order: '621'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,777,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,777,3058,393/full/0/default.jpg
 label: Nakedness
 layout: alpha_item

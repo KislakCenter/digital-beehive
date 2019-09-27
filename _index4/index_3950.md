@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4a25ea1db"
 unparsed: 
 line: 'Head: to stumble|Entry: 706 [to Stumble]|#item-4a25ea1db'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530467065285
 order: '3950'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,368,515,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,368,515,123/full/0/default.jpg
 label: to stumble
 layout: index_item

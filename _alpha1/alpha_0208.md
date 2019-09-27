@@ -6,12 +6,15 @@ head:
 entry: Day
 topic: Day
 first_letter: D
-xref: "<a href='/New_Beehive/toc_vol2/toc2_283/'>1447 [Day]</a>"
+xref: Pinch|<a href='/New_Beehive/toc_vol2/toc2_150/'>673 [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_237/'>1220
+  [Darkness]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1447 [Day]</a>
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0954/'>day</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e3053429e"
 unparsed: 
 line: 'Entry: Day|Topic: Day|Xref: 1447 [Day]|Index: day|#item-e3053429e'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,38
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507321995797
 order: '208'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,3824,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,3824,3009,373/full/0/default.jpg
 label: Day
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: favour & disfavour
+insertion_xref: 
+insertion: 
 item: "#item-89fc7f3f5"
 unparsed: 
 line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,25
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1474833083208
 order: '318'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,3026,514/full/0/default.jpg
 label: Favour
 layout: alpha_item

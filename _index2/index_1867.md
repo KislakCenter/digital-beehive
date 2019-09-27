@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-046e09cb6"
 unparsed: 
 line: 'Head: honour|Entry: a|Entry: 778 [PAGE_MISSING]|Entry: 1959 [Honour]|#item-046e09cb6'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1144,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559583016686
 order: '1867'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1144,2241,652,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1144,2241,652,154/full/0/default.jpg
 label: honour
 layout: index_item

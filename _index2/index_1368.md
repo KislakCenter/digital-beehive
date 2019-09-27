@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-14699a671"
 unparsed: 
 line: 'Head: extremity|Entry: 749 [PAGE_MISSING]|Entry: 1169 [Extremity]|#item-14699a671'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1510,3
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561397297784
 order: '1368'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1510,3095,645,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1510,3095,645,135/full/0/default.jpg
 label: extremity
 layout: index_item

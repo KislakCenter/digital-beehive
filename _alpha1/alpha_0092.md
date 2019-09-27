@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0409/'>books</a>"
+insertion_xref: 
+insertion: 
 item: "#item-2d96b7e19"
 unparsed: 
 line: 'Entry: Book|Topic: Book|Xref: Library|Xref: Printing|Xref: 1044 [Books]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,40
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558733278488
 order: '92'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,3005,591/full/0/default.jpg
 label: Book
 layout: alpha_item

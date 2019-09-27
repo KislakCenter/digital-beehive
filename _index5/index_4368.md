@@ -9,9 +9,11 @@ first_letter: U/V
 xref: 
 see: 
 page: 
-add: last
+add: "<a href='/New_Beehive/index3/index_2207/'>last</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-195a16c85"
 unparsed: 
 line: 'Head: unction|Entry: a|Add: last|#item-195a16c85'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,23
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560872880550
 order: '4368'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/full/0/default.jpg
 label: unction
 layout: index_item

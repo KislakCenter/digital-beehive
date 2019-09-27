@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-1c8ac9f9c"
 unparsed: 
 line: 'Head: handkerchief|Entry: 4578 [PAGE_MISSING]|#item-1c8ac9f9c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/857,72
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559238479565
 order: '1746'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/857,724,594,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/857,724,594,106/full/0/default.jpg
 label: handkerchief
 layout: index_item

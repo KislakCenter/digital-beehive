@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2321/'>London</a>"
+insertion_xref: 
+insertion: 
 item: "#item-74d4d3984"
 unparsed: 
 line: 'Entry: London|Topic: London|Xref: 84 [Antiquary]|Xref: 172 [Means and Cause]|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,47
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564769897714
 order: '542'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,3042,309/full/0/default.jpg
 label: London
 layout: alpha_item

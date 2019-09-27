@@ -12,6 +12,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-1bd50898c"
 unparsed: 
 line: 'Head: a still|Page: p.38 [Image 1.98]|Entry: 592 [Distilling]|#item-1bd50898c'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,24
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565290315091
 order: '3904'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/full/0/default.jpg
 label: a still
 layout: index_item

@@ -6,12 +6,17 @@ head:
 entry: Mine Minerals
 topic: Mine Minerals
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_381/'>2154 [Mineral]</a>"
+xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1164
+  [Metal]</a>||<a href='/New_Beehive/alpha3/alpha_0578/'>Mediocrity</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1434
+  [Milk]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1620 [Mind]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2154
+  [Mineral]</a>
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2522/'>mine. minerals</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e1289ca34"
 unparsed: 
 line: 'Entry: Mine Minerals|Topic: Mine Minerals|Xref: 2154 [Mineral]|Index: mine.
@@ -20,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,80
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564775491246
 order: '592'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,803,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,803,3072,443/full/0/default.jpg
 label: Mine Minerals
 layout: alpha_item

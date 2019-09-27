@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1834/'>highness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-61f20e887"
 unparsed: 
 line: 'Entry: Highness|Topic: Highness|Xref: Grandeur|Xref: 883 [highness]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,34
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508963724932
 order: '419'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,2961,423/full/0/default.jpg
 label: Highness
 layout: alpha_item

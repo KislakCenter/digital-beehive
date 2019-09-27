@@ -10,9 +10,11 @@ first_letter: M
 xref: 
 see: 
 page: 
-add: thing|theme
+add: "<a href='/New_Beehive/index5/index_4118/'>thing</a>|<a href='/New_Beehive/index5/index_4112/'>theme</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2dd387dbd"
 unparsed: 
 line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Entry: 831 [PAGE_MISSING]|Entry:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,22
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560265264338
 order: '2450'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/full/0/default.jpg
 label: matter, eijter
 layout: index_item

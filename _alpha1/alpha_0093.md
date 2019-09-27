@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0416/'>borrowing</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b724256b1"
 unparsed: 
 line: 'Entry: Borrowing|Topic: Borrowing|Xref: Credit|Xref: Lending|Index: borrowing|#item-b724256b1'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/403,46
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558733421124
 order: '93'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/403,4615,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/403,4615,3012,331/full/0/default.jpg
 label: Borrowing
 layout: alpha_item

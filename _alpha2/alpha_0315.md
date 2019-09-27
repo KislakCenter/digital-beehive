@@ -6,12 +6,17 @@ head:
 entry: Fate
 topic: Fate
 first_letter: F
-xref: "<a href='/New_Beehive/toc_vol2/toc2_242/'>1243 [Fate]</a>"
+xref: Departure|<a href='/New_Beehive/alpha1/alpha_0055/'>Banishmt</a>|<a href='/New_Beehive/toc_vol2/toc2_150/'>675
+  [Farewell]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386 [Fashion of the Country]</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_163/'>876 [Fasting]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1243
+  [Fate]</a>
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1413/'>fate</a>"
+insertion_xref: 
+insertion: 
 item: "#item-60683e6ab"
 unparsed: 
 line: 'Entry: Fate|Topic: Fate|Xref: 1243 [Fate]|Index: fate|#item-60683e6ab'
@@ -19,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,40
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564589335080
 order: '315'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,3017,355/full/0/default.jpg
 label: Fate
 layout: alpha_item

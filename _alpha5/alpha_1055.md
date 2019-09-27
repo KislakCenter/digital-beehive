@@ -6,12 +6,15 @@ head:
 entry: Wrath of God
 topic: Wrath of God
 first_letter: W
-xref: 
+xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
+  [Wound]</a>||<a href='/New_Beehive/alpha1/alpha_0030/'>anger</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4630/'>wrath of God</a>"
+insertion_xref: 
+insertion: 
 item: "#item-73641b037"
 unparsed: 
 line: 'Entry: Wrath of God|Topic: Wrath of God|Index: wrath of God|#item-73641b037'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,23
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529599323806
 order: '1055'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,3004,346/full/0/default.jpg
 label: Wrath of God
 layout: alpha_item

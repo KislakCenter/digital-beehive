@@ -9,9 +9,11 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: hands
+add: "<a href='/New_Beehive/index2/index_1745/'>hands</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-99e2da1df"
 unparsed: 
 line: 'Head: to lay down|Entry: 417 [Layed]|Add: hands|#item-99e2da1df'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/387,65
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559841371203
 order: '2228'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/387,653,579,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/387,653,579,156/full/0/default.jpg
 label: to lay down
 layout: index_item

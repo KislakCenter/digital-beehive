@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1383/'>Faith</a>"
+insertion_xref: 
+insertion: 
 item: "#item-597a8bcb7"
 unparsed: 
 line: 'Entry: Faith|Topic: Faith|XRef: unbelief|XRef: 397 [Faith]|Index: Faith|#item-597a8bcb7'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/761,71
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564588485396
 order: '308'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/761,713,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/761,713,3003,624/full/0/default.jpg
 label: Faith
 layout: alpha_item

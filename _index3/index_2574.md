@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_078/'>p.28 [Image 1.88]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c6ea6df6e"
 unparsed: 
 line: 'Head: moon|Page: p.28 [Image 1.88]|Entry: a|Entry: 1357 [Moon]|Entry: 2110
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/866,13
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560355560685
 order: '2574'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/866,1323,661,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/866,1323,661,133/full/0/default.jpg
 label: moon
 layout: index_item

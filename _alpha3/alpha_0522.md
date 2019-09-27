@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2232/'>leader</a>"
+insertion_xref: 
+insertion: 
 item: "#item-e94eb3b2e"
 unparsed: 
 line: 'Entry: Leader|Topic: Leader|Xref: Captain|Xref: Inspiration|Xref: 1280 [Leader]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,13
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564768541954
 order: '522'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,3071,469/full/0/default.jpg
 label: Leader
 layout: alpha_item

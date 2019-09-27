@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0821/'>contempt</a>"
+insertion_xref: 
+insertion: 
 item: "#item-05f1df571"
 unparsed: 
 line: 'Entry: Contempt|Topic: Contempt|Xref: Derision|Xref: Disregard|Xref: 269 [Contempt]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,27
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499784729323
 order: '173'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,2778,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,2778,3061,566/full/0/default.jpg
 label: Contempt
 layout: alpha_item

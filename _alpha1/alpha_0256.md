@@ -6,12 +6,16 @@ head:
 entry: Dog
 topic: Dog
 first_letter: D
-xref: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1338 [Dog]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/New_Beehive/alpha3/alpha_0525/'>Learning</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_421/'>2440 [To Teach]</a>|<a href='/New_Beehive/toc_vol2/toc2_261/'>1338
+  [Dog]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_1126/'>dog</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b80ead891"
 unparsed: 
 line: 'Entry: Dog|Topic: Dog|Xref: 1338 [Dog]|Index: Dog|#item-b80ead891'
@@ -19,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,28
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508178087488
 order: '256'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,3026,434/full/0/default.jpg
 label: Dog
 layout: alpha_item

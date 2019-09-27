@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0013/'>absence</a>"
+insertion_xref: 
+insertion: 
 item: "#item-351a9f3bd"
 unparsed: 
 line: 'Entry: Absence|Topic: Absence|Xref: Presence|Xref: 1397 [Absence]|Xref: 261
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,20
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1486415753404
 order: '1'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,208,3241,610/full/0/default.jpg
 label: Absence
 layout: alpha_item

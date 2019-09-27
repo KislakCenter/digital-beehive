@@ -6,12 +6,17 @@ head:
 entry: Diversity
 topic: Diversity
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0233/'>Difference</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/New_Beehive/alpha4/alpha_0924/'>Suspition</a>|<a
+  href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|<a href='/New_Beehive/toc_vol2/toc2_268/'>1371
+  [WORD_MISSING]</a>||<a href='/New_Beehive/toc_vol2/toc2_346/'>1799 [Theologia Scholastica]</a>|||<a
+  href='/New_Beehive/alpha1/alpha_0233/'>Difference</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_1112/'>diversity</a>"
+insertion_xref: 
+insertion: 
 item: "#item-c1e8cd7f5"
 unparsed: 
 line: 'Entry: Diversity|Topic: Diversity|Xref: Difference|Index: diversity|#item-c1e8cd7f5'
@@ -19,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,14
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508177144855
 order: '251'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1436,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1436,2981,184/full/0/default.jpg
 label: Diversity
 layout: alpha_item

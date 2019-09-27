@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3827/'>spectacles</a>"
+insertion_xref: 
+insertion: 
 item: "#item-00bd8fba7"
 unparsed: 
 line: 'Entry: Spectacles|Topic: Spectacles|Xref: glass|Xref: 1639 [Spectacles]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/728,37
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565111498283
 order: '890'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/728,3712,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/728,3712,3000,344/full/0/default.jpg
 label: Spectacles
 layout: alpha_item

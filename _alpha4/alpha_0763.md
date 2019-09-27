@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3283/'>railing</a>"
+insertion_xref: 
+insertion: 
 item: "#item-3b86e0e45"
 unparsed: 
 line: 'Entry: Railing|Topic: Railing|Xref: derision|Xref: Calumny|Xref: 37 [WORD_MISSING]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,28
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1527864076332
 order: '763'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,2878,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,2878,3003,384/full/0/default.jpg
 label: Railing
 layout: alpha_item

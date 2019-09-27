@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4542/'>whoredom</a>"
+insertion_xref: 
+insertion: 
 item: "#item-74d7d6014"
 unparsed: 
 line: 'Entry: Whoredom|Topic: Whoredom|Xref: Adultery|Xref: Baudry|Xref: Stews|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,30
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529590322636
 order: '1021'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
 label: Whoredom
 layout: alpha_item

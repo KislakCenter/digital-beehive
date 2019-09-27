@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-87340b716"
 unparsed: 
 line: 'Head: or|Entry: 1594 [Or]|#item-87340b716'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1490,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1538161876185
 order: '2814'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1490,1540,360,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1490,1540,360,146/full/0/default.jpg
 label: or
 layout: index_item

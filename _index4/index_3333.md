@@ -14,6 +14,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-c940ff6e6"
 unparsed: 
 line: 'Head: reformation|Page: p.37 [Image 1.97]|Entry: a|Entry: 486 [Reformation]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,13
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558464500835
 order: '3333'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,1380,690,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,1380,690,136/full/0/default.jpg
 label: reformation
 layout: index_item

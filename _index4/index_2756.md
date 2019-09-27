@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-ddf21a32c"
 unparsed: 
 line: 'Head: objections|Entry: 241 [Objections]|Entry: 1053 [Objections agt. the Quakers
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/145,17
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536347226016
 order: '2756'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/145,1797,749,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/145,1797,749,168/full/0/default.jpg
 label: objections
 layout: index_item

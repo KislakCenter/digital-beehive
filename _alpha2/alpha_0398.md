@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1765/'>haste</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b472fa4fe"
 unparsed: 
 line: 'Entry: Haste|Topic: Haste|Xref: Too Soon|Xref: too hasty|Xref: Soon|Xref: dispatch|Xref:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,64
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564604987210
 order: '398'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,648,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,648,3033,544/full/0/default.jpg
 label: Haste
 layout: alpha_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0052/'>adultery</a>"
+insertion_xref: 
+insertion: 
 item: "#item-7dab944a8"
 unparsed: 
 line: 'Entry: [WORD_MISSING]|Topic: Adultery|Xref: Baudry|Xref: Whoredom|Xref: 1002
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,22
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490629233166
 order: '11'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,224,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,224,3138,432/full/0/default.jpg
 label: "[WORD_MISSING]"
 layout: alpha_item

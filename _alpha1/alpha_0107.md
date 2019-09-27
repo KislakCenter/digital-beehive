@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0474/'>building</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b623cd115"
 unparsed: 
 line: 'Entry: Building|Topic: Building|Xref: foundation|Xref: house|Xref: 1662 [Architecture]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,42
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563210984062
 order: '107'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,2941,492/full/0/default.jpg
 label: Building
 layout: alpha_item

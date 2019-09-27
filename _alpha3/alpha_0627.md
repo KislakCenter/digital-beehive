@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2660/'>nature</a>"
+insertion_xref: 
+insertion: 
 item: "#item-ced0ebdf8"
 unparsed: 
 line: 'Entry: Nature|Topic: Nature|Xref: Poverty|Xref: Custom|Xref: 1663 [Nature]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,27
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1510167167173
 order: '627'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,3008,507/full/0/default.jpg
 label: Nature
 layout: alpha_item

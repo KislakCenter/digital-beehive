@@ -9,9 +9,11 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: Judgmt
+add: "<a href='/New_Beehive/index3/index_2134/'>Judgmt</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-78e9d49cc"
 unparsed: 
 line: 'Head: sentences|Entry: 360 [a Sentence]|Add: Judgmt|#item-78e9d49cc'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,34
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559571736653
 order: '3638'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
 label: sentences
 layout: index_item

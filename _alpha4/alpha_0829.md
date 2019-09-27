@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3560/'>Scriptures</a>"
+insertion_xref: 
+insertion: 
 item: "#item-c396df05a"
 unparsed: 
 line: 'Entry: Scripture|Topic: Scripture|Xref: Bible|Xref: Writing|Xref: Letter|Xref:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,30
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528923257702
 order: '829'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,3024,590/full/0/default.jpg
 label: Scripture
 layout: alpha_item

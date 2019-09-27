@@ -9,9 +9,11 @@ first_letter: W
 xref: 
 see: "<a href='/New_Beehive/index4/index_3947/'>stubborn</a>"
 page: 
-add: worship
+add: "<a href='/New_Beehive/index5/index_4625/'>worship</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-2736a006e"
 unparsed: 
 line: 'Head: willful|Entry: 321 [Willingness]|See: stubborn|Add: worship|#item-2736a006e'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560972480041
 order: '4554'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/full/0/default.jpg
 label: willful
 layout: index_item

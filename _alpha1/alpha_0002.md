@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0018/'>absurdity</a>"
+insertion_xref: 
+insertion: 
 item: "#item-1e0398189"
 unparsed: 
 line: 'Entry: Absurdity|Topic: Absurdity|Xref: 589 [Nonsense]|Xref: 919 [Absurd]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/275,69
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1486415847665
 order: '2'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/275,697,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/275,697,3160,624/full/0/default.jpg
 label: Absurdity
 layout: alpha_item

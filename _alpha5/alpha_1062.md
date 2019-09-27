@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4659/'>Zoilus</a>"
+insertion_xref: 
+insertion: 
 item: "#item-ff828cc66"
 unparsed: 
 line: 'Entry: Zoilus|Topic: Zoilus|Xref: Satyre|Xref: Pasquil|Xref: Criticism|Xref:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,46
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529605126852
 order: '1062'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,4674,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,4674,2998,404/full/0/default.jpg
 label: Zoilus
 layout: alpha_item

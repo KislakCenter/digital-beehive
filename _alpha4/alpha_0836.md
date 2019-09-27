@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3591/'>seducing</a>"
+insertion_xref: 
+insertion: 
 item: "#item-cf90882e1"
 unparsed: 
 line: 'Entry: Seducing|Topic: Seducing|Xref: Stratagem|Xref: 1152 [Seducing]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,73
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530200655208
 order: '836'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,3104,356/full/0/default.jpg
 label: Seducing
 layout: alpha_item

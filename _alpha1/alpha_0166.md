@@ -6,12 +6,15 @@ head:
 entry: Condition
 topic: Condition|Conditionally
 first_letter: C
-xref: 
+xref: "<a href='/New_Beehive/alpha3/alpha_0493/'>Judgment</a>|<a href='/New_Beehive/alpha2/alpha_0409/'>Hell</a>|<a
+  href='/New_Beehive/toc_vol2/toc2_348/'>1817 [Damnation]</a>|"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0782/'>condition</a>"
+insertion_xref: 
+insertion: 
 item: "#item-55a589dec"
 unparsed: 
 line: 'Entry: Condition|Topic: Condition|Topic: Conditionally|Index: condition|#item-55a589dec'
@@ -19,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/309,39
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700729625
 order: '166'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/309,3962,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/309,3962,3145,564/full/0/default.jpg
 label: Condition
 layout: alpha_item

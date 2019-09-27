@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2462/'>meat</a>"
+insertion_xref: 
+insertion: 
 item: "#item-59a688f54"
 unparsed: 
 line: 'Entry: Meat|Topic: Meat|Xref: hotch potch|Xref: 359 [Meat]|Index: meat|#item-59a688f54'
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,42
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564773251078
 order: '575'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,3001,425/full/0/default.jpg
 label: Meat
 layout: alpha_item

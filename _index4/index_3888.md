@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-db2d7fcf3"
 unparsed: 
 line: 'Head: statutes|Entry: 2775 [PAGE_MISSING]|#item-db2d7fcf3'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,96
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530218975736
 order: '3888'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,968,486,82/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,968,486,82/full/0/default.jpg
 label: statutes
 layout: index_item

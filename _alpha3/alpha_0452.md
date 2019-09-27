@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_1950/'>ignorance</a>"
+insertion_xref: 
+insertion: 
 item: "#item-7e6fdbe6f"
 unparsed: 
 line: 'Entry: Ignorance|Topic: Ignorance|XRef: Knowledge|XRef: Unknown|XRef: 642 [Ignorance]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/350,25
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508859433343
 order: '452'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/350,2536,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/350,2536,3035,475/full/0/default.jpg
 label: Ignorance
 layout: alpha_item
