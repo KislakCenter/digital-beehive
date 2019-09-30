@@ -7,7 +7,9 @@ pagination: true
 
 Image Number: {{ page.volume }}, Image {{ page.image_number }}<br>
 Head: {{ page.head }}<br>
-Entry: {{ page.entry }}<br>
+{% if page.entry %}
+  Entry: {{ page.entry }}<br>
+{% endif %}
 {% if page.see %}
   See: {{ page.see }}<br>
 {% endif %}
