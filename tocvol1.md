@@ -9,10 +9,13 @@ permalink: '/tocvol1/'
   <div class="sidenav">
     <div class="list-group">
       <p style="letter-spacing: 0.02em; list-style-type: circle"><font color= "teal"><strong><h3>Navigation</h3></strong></font></p>
-      {% for item in site.data.master_toc %}
-        {% if item.toc_title %}
-          <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
-        {% endif %}
+      {% for item in site.data.master_toc%}
+      {% case item.volume %}
+        {% when '1' %}
+          {% if item.toc_title %}
+            <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
+          {% endif %}
+      {% endcase %}
       {% endfor %}
     </div>    
   </div>
