@@ -1,0 +1,65 @@
+---
+layout: default
+pagination: true
+---
+{% assign documents = site[page.collection] | sort: 'order' %}
+{% assign first = documents.first %}
+{% assign last = documents.last %}
+
+{% for doc in documents %}
+  {% if doc.pid == page.pid %}
+
+    {% if forloop.first %}{% assign prevurl = last.url %}
+    {% else %}{% assign prevurl = prev.url %}
+    {% endif %}
+
+    {% if forloop.last %}{% assign nexturl = first.url %}
+    {% else %}{% assign nexturl = documents[forloop.index].url %}
+    {% endif %}
+
+  {% endif %}
+{% assign prev = doc %}
+{% endfor %}
+
+<a href="{{ page.full }}"><img src="{{ page.full }}"/></a><br>
+
+
+<i>Volume {{ page.volume }}, Image {{ page.image }}</i><br>
+{% if page.pastorius_section_header %}
+  <font color= "teal"><strong>Pastorius's Section Header:</strong></font> {{ page.pastorius_section_header }}<br>
+{% endif %}
+{% if page.pastorius_description %}
+  <font color= "teal"><strong>Pastorius's Description:</strong></font> {{ page.pastorius_description }}<br>
+{% endif %}
+{% if page.pastorius_page_numbers %}
+  <font color= "teal"><strong>Pastorius's Page Number:</strong></font> {{ page.pastorius_page_numbers }}<br>
+{% endif %}
+{% if page.older_pastorius_page_numbers %}
+  <font color= "teal"><strong>Pastorius's Older Page Number:</strong></font> {{ page.older_pastorius_page_numbers }}<br>
+{% endif %}
+{% if page.tertiary_section_title %}
+  <strong>Sections:</strong> {{ page.section_title }} | {{ page.secondary_section_title }} | {{ page.tertiary_section_title }}<br />
+{% elsif page.secondary_section_title %}
+  <strong>Sections:</strong> {{ page.section_title }} | {{ page.secondary_section_title }} <br />
+{% elsif page.section_title %}
+  <strong>Section:</strong> {{ page.section_title }}<br />
+{% endif %}
+{% if page.secondary_contents %}
+  <strong>Content:</strong> {{ page.contents }} | {{ page.secondary_section_title }} <br>
+{% elsif page.contents %}
+  <strong>Content:</strong> {{ page.contents }} <br>
+{% endif %}
+{% if page.last_entry %}
+  <strong>Range:</strong> {{ page.first_entry }} - {{ page.last_entry }} <br>
+{% elsif page.first_entry %}
+  <strong>Range:</strong> {{ page.first_entry }} <br>
+{% endif %}
+{% if page.notes %}
+  <strong>Notes:</strong> {{ page.notes }} <br>
+{% endif %}
+{% if page.secondary_type %}
+  <strong>Type:</strong> {{ page.secondary_type }} | {{ page.type }}<br>
+{% elsif page.type %}
+<strong>Type:</strong> {{ page.type }}<br>
+{% endif %}
+<a href="{{ site.baseurl }}{{ prevurl }}">Previous Page</a> | <a href="{{ site.baseurl }}{{ nexturl }}">Next Page</a>

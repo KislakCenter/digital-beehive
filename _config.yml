@@ -110,6 +110,11 @@ collections:
     layout: 'toc3_item'
     metadata:
       source: toc_vol3.csv
+  toc:
+    output: true
+    layout: 'toc_item'
+    metadata:
+      source: master_toc.csv
 
 # Configure the search function
 # Can make multiple indices, but Wax recommends against it.
@@ -205,17 +210,13 @@ menu:
       #   link: Link here to the Github
       - label: 'Documentation'
         link: '/documentation/'
-  - label: 'Table of Contents'
+  - label: 'Browse the Book'
     sub:
-      - label: 'Using the Table of Contents'
-        link: '/usingtoc/'
-      - label: 'Volume One'
-        link: '/tocvol1/'
-      - label: 'Volume Two'
-        link: '/tocvol2/'
-      - label: 'Volume Three'
-        link: '/tocvol3/'
-  - label: 'Browse'
+      - label: 'Browse by Page'
+        link: '/pagebrowse/'
+      - label:  'Browse by Section'
+        link: '/sectionbrowse/'
+  - label: 'Linked Entries'
     sub:
       - label: 'Alphabetical Section'
         link: '/alphabetical/'

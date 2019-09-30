@@ -1,0 +1,16 @@
+---
+layout: page
+title: The Manuscript, Page by Page
+description: Navigating the Beehive Page by Page
+permalink: '/pagebrowse/'
+---
+
+* [Volume One]({{ site.baseurl }}/tocvol1/)
+* [Volume Two]({{ site.baseurl }}/tocvol2/)
+* [Volume Three]({{ site.baseurl }}/tocvol3/)
+
+This section provides access to a page by page view of the Beehive manuscript. While Pastorius kept the volume as one folio with a separate octavo index, the University of Pennsylvania rebound his folio volume into two separate leather-bound volumes in 1952. This physical change in the Beehive's make-up is present here as the division between [Volume One]({{ site.baseurl }}/tocvol1/) and [Volume Two]({{ site.baseurl }}/tocvol2/). However, it is important to note that this division does not take stock of Pastorius's own internal divisions, as the largest section of the Beehive, the Alvearium, begins at the tail end of Volume One. Additionally, [Volume Three]({{ site.baseurl }}/tocvol3/) consists not only of the Octavo Index, but also includes imaging of the physical volumes in their current state and photographs of the original binding from 1952.
+
+Each volume section is comprised of a navigation bar and a scrollable page-by-page view of the Beehive, demarcating the contents of each page as well as the larger sections to which it belongs. Additionally, each thumbnail is a clickable link that directs to a high-quality scan of the page and its corresponding metadata. If the page includes explanatory or organizational information regarding the Beehive's structure, we have also included a transcription of this information, identified as "Pastorius's Section Header" and/or "Pastorius's Description." An example of these pages can be seen [here]({{ site.baseurl }}/toc_vol1/toc1_050/), a partial table of contents written by Pastorius. On this page, you will also see that Pastorius has his own page numbering system. This website partially recreates these page numbers as metadata on the relevant image pages, but because Pastorius made changes to his numbering system on multiple occasions, this is not exhaustive. As we continue to examine the manuscript, the Digital Beehive team hopes to continue to expand this numbering system. For consistency across platforms, we primarily identify each page with the unique volume and image numbers they were given during digital imaging, retaining Pastorius's own blank pages but omitting those created during the twentieth-century rebinding process.
+
+Because this section contains complete representations of large volumes, we have created side bars to make them more navigable. The navigation bars pertaining to Volumes Two and Three essentially break down Pastorius's large [Alvearium]({{ site.baseurl }}/alphabetical/alpha-documentation/) and the [Octavo Index]({{ site.baseurl }}/index/index-documentation/) (see links for notes on these currently browsable sections). Volume One is a much more complex document, and our navigation there currently reflects Pastorius's own section divisions, keeping his original language where possible. In the future, the Digital Beehive team plans to develop more dynamic entry points into this volume, but for now users can peruse Pastorius's own idiosyncratic organizational system.
