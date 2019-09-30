@@ -14,7 +14,7 @@ man pays for all, and suffers for all, and the
 Lawyers go away with all, and the poor man must  
 stand by, and see himself rob'd of his Birthright.
 
-Thus the story has a surprisingly relevant and perspicacious message about individual autonomy, justice, and the right to a fair trial. The poor man knows he is entitled to represent himself in court and prepare his own legal defense; he even uses Scripture, the Manga Carta, and English laws to argue for his rights (although it is curious how a manual laborer in the seventeenth century acquired such an impressive knowledge of legal precedents). However, his eloquent arguments receive little attention, and the poor man is forced to go along with the arbitrary and corrupt rules of the court:
+Thus the story has a surprisingly relevant and perspicacious message about individual autonomy, justice, and the right to a fair trial. The poor man knows he is entitled to represent himself in court and prepare his own legal defense; he even uses Scripture, the Magna Carta, and English laws to argue for his rights (although it is curious how a manual laborer in the seventeenth century acquired such an impressive knowledge of legal precedents). However, his eloquent arguments receive little attention, and the poor man is forced to go along with the arbitrary and corrupt rules of the court:
 
 Nevertheless the poor man being Overruled & dri:  
 ven to put his cause into a Counsels hand, then be:  
