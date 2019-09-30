@@ -6,13 +6,15 @@ head:
 entry: Fool
 topic: Fool
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|804 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc_vol2/toc2_225/'>1159 [Folly]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|<a href='/New_Beehive/toc/toc2_225/'>1159
+  [Folly]</a>"
 see: 
 page: 
 add: 
 type: 
 index: fool
+insertion_xref: 
+insertion: 
 item: "#item-7fc3b2c36"
 unparsed: 
 line: 'Entry: Fool|Topic: Fool|Xref: buffoon|Xref: dotage|Xref: 804 [PAGE_MISSING]|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,22
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563204978855
 order: '335'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,3067,994/full/0/default.jpg
 label: Fool
 layout: alpha_item

@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1676/'>governmt</a>"
+insertion_xref: 
+insertion: 
 item: "#item-92ec48ca2"
 unparsed: 
 line: 'Entry: Government|Topic: Government|Xref: Magistrate|Xref: Kingdom|Xref: Prince|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/386,31
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564603056493
 order: '375'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/386,3108,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/386,3108,3007,313/full/0/default.jpg
 label: Government
 layout: alpha_item

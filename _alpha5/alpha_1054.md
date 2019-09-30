@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4629/'>wrath</a>"
+insertion_xref: 
+insertion: 
 item: "#item-0771713ce"
 unparsed: 
 line: 'Entry: Wrath|Topic: Wrath|Xref: anger|Index: wrath|#item-0771713ce'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,21
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529599129613
 order: '1054'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,3023,324/full/0/default.jpg
 label: Wrath
 layout: alpha_item

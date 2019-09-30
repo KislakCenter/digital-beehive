@@ -7,12 +7,14 @@ entry: Wickedness
 topic: Wickedness
 first_letter: W
 xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>malignity</a>|<a href='/New_Beehive/alpha3/alpha_0628/'>naughtiness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_095/'>324 [Wickedness]</a>"
+  href='/New_Beehive/toc/toc2_095/'>324 [Wickedness]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index5/index_4545/'>wickedness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-6129e9c82"
 unparsed: 
 line: 'Entry: Wickedness|Topic: Wickedness|Xref: malignity|Xref: naughtiness|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/812,35
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529590538758
 order: '1022'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/812,3510,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/812,3510,2933,517/full/0/default.jpg
 label: Wickedness
 layout: alpha_item

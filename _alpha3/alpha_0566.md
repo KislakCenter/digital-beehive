@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2399/'>malice & malignity</a>"
+insertion_xref: 
+insertion: 
 item: "#item-4540729e7"
 unparsed: 
 line: 'Entry: Malignity|Topic: Malignity|Xref: Wickedness|Xref: naughtiness|Xref:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,45
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564772356663
 order: '566'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,2993,462/full/0/default.jpg
 label: Malignity
 layout: alpha_item

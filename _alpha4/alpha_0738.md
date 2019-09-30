@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3185/'>prohibition</a>"
+insertion_xref: 
+insertion: 
 item: "#item-2d7698387"
 unparsed: 
 line: 'Entry: Prohibition|Topic: Prohibition|Xref: forbidden things|Index: prohibition|#item-2d7698387'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/361,35
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528717071110
 order: '738'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/361,3531,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/361,3531,3004,348/full/0/default.jpg
 label: Prohibition
 layout: alpha_item

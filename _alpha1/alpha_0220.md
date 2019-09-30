@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0999/'>deliberation</a>"
+insertion_xref: 
+insertion: 
 item: "#item-8049ac248"
 unparsed: 
 line: 'Entry: Deliberation|Topic: Deliberation|Xref: Considerateness|Xref: Meditation|Index:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,44
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1507576937688
 order: '220'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,4430,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,4430,2918,434/full/0/default.jpg
 label: Deliberation
 layout: alpha_item

@@ -6,13 +6,14 @@ head:
 entry: Melancholy
 topic: Melancholy|Melancholyness
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha4/alpha_0815/'>Sadness</a>|1847
-  [PAGE_MISSING]"
+xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha4/alpha_0815/'>Sadness</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2476/'>melancholy</a>"
+insertion_xref: 
+insertion: 
 item: "#item-f7d2261c2"
 unparsed: 
 line: 'Entry: Melancholy|Topic: Melancholy|Topic: Melancholyness|Xref: Imagination|Xref:
@@ -21,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,13
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564773899605
 order: '580'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,3045,547/full/0/default.jpg
 label: Melancholy
 layout: alpha_item

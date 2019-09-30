@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0424/'>bounty</a>"
+insertion_xref: 
+insertion: 
 item: "#item-ea495da66"
 unparsed: 
 line: 'Entry: [WORD_MISSING]|Topic: Bounty|Xref: goodness|Index: bounty|#item-ea495da66'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/834,20
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563207514451
 order: '95'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/834,206,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/834,206,3044,436/full/0/default.jpg
 label: "[WORD_MISSING]"
 layout: alpha_item

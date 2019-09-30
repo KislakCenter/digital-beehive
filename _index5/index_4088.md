@@ -2,7 +2,7 @@
 pid: index_4088
 volume: Volume 3
 image_number: '47'
-head: 
+head: "[:55.]"
 entry: 
 topic: 
 first_letter: T
@@ -10,18 +10,20 @@ xref:
 see: 
 page: 
 add: 
-type: 
+type: Index
 index: 
-item: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4724/'>tenant</a>"
+insertion: 
+item: "#item-8ada9c323"
 unparsed: 'Type: Index|Insertion Xref: [:55.]|#item-8ada9c323'
 line: 'Type: Index|Insertion Xref: [:55.]|#item-8ada9c323'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560278471208
 order: '4088'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/full/0/default.jpg
-label: 
+label: "[:55.]"
 layout: index_item
 collection: index5
 ---

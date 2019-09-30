@@ -6,12 +6,14 @@ head:
 entry: Lawyer
 topic: Lawyer
 first_letter: L
-xref: "<a href='/New_Beehive/toc_vol2/toc2_130/'>559 [Lawyer]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_130/'>559 [Lawyer]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2226/'>lawyer</a>"
+insertion_xref: 
+insertion: 
 item: "#item-5ced3abcf"
 unparsed: 
 line: 'Entry: Lawyer|Topic: Lawyer|Xref: 559 [Lawyer]|Index: lawyer|#item-5ced3abcf'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,67
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564768429201
 order: '520'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
 label: Lawyer
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-a795d7cfc"
 unparsed: 
 line: 'Head: boasting|Entry: a|Entry: 728 [PAGE_MISSING]|#item-a795d7cfc'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1808,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531152089688
 order: '400'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1808,224,552,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1808,224,552,158/full/0/default.jpg
 label: boasting
 layout: index_item

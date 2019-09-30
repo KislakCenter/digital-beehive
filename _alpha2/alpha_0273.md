@@ -6,14 +6,16 @@ head:
 entry: Ecclesiastical discipline
 topic: Ecclesiastical discipline
 first_letter: E
-xref: Excommunication|<a href='/New_Beehive/toc_vol2/toc2_064/'>74 [the Judge of religious
-  Controversies]</a>|<a href='/New_Beehive/toc_vol2/toc2_106/'>402 [Order & Discipline
+xref: Excommunication|<a href='/New_Beehive/toc/toc2_064/'>74 [the Judge of religious
+  Controversies]</a>|<a href='/New_Beehive/toc/toc2_106/'>402 [Order & Discipline
   of the Church of Christ]</a>
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1201/'>ecclesiastical discipline</a>"
+insertion_xref: 
+insertion: 
 item: "#item-c4e2bba71"
 unparsed: 
 line: 'Entry: Ecclesiastical discipline|Topic: Ecclesiastical discipline|Xref: Excommunication|Xref:
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,42
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564517864591
 order: '273'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,2927,886/full/0/default.jpg
 label: Ecclesiastical discipline
 layout: alpha_item

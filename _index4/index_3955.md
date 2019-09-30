@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-90b84a133"
 unparsed: 
 line: 'Head: submission|See: yielding|#item-90b84a133'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,8
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530467522360
 order: '3955'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,858,657,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,858,657,154/full/0/default.jpg
 label: submission
 layout: index_item

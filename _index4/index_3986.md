@@ -13,6 +13,8 @@ page: "<a href='/New_Beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-37fc08b10"
 unparsed: 
 line: 'Head: Sundials|Page: p.2 [Image 1.62]|Page: p.3 [Image 1.63]|Page: p.39 [Image
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,12
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530473197541
 order: '3986'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/full/0/default.jpg
 label: sundials
 layout: index_item

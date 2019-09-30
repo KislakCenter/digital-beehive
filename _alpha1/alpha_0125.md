@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_0562/'>catechism</a>"
+insertion_xref: 
+insertion: 
 item: "#item-317d9da14"
 unparsed: 
 line: 'Entry: Catechism|Topic: Catechism|Xref: Information|Index: catechism|#item-317d9da14'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,10
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499370045595
 order: '125'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,1046,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,1046,3018,593/full/0/default.jpg
 label: Catechism
 layout: alpha_item

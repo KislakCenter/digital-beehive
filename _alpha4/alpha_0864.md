@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3699/'>siege</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b678217f5"
 unparsed: 
 line: 'Entry: Siege|Topic: Siege|Index: siege|#item-b678217f5'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,43
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1530803775214
 order: '864'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,2902,321/full/0/default.jpg
 label: Siege
 layout: alpha_item

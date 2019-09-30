@@ -2,7 +2,7 @@
 pid: index_2841
 volume: Volume 3
 image_number: '34'
-head: 
+head: "[:1.]"
 entry: 
 topic: 
 first_letter: O
@@ -10,18 +10,21 @@ xref:
 see: 
 page: 
 add: 
-type: 
+type: Index
 index: 
-item: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4663/'>to oversee or overslip</a>|<a
+  href='/New_Beehive/index5/index_4664/'>overseer</a>"
+insertion: 
+item: "#item-37fa65ab6"
 unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
 line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
 order: '2841'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/full/0/default.jpg
-label: 
+label: "[:1.]"
 layout: index_item
 collection: index4
 ---
