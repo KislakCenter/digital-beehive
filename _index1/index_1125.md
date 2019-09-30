@@ -3,7 +3,7 @@ pid: index_1125
 volume: Volume 3
 image_number: '17'
 head: doctrine false
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>373 [Heterodox]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>373 [Heterodox]</a>"
 topic: 
 first_letter: D
 xref: 

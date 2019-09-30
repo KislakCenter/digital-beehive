@@ -3,8 +3,7 @@ pid: index_4033
 volume: Volume 3
 image_number: '46'
 head: symbolical books
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>259 [Book Prayers, Common Prayer
-  Book]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>259 [Book Prayers, Common Prayer Book]</a>"
 topic: 
 first_letter: S
 xref: 

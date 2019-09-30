@@ -6,9 +6,7 @@ head:
 entry: Firstborn
 topic: Firstborn
 first_letter: F
-xref: Incendiary|Coal|<a href='/New_Beehive/toc_vol2/toc2_224/'>1152 [Fire]</a>|<a
-  href='/New_Beehive/alpha1/alpha_0074/'>Beginning</a>|<a href='/New_Beehive/toc_vol2/toc2_382/'>2163
-  [Birth-right]</a>
+xref: "<a href='/New_Beehive/toc/toc2_382/'>2163 [Birth-right]</a>"
 see: 
 page: 
 add: 

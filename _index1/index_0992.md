@@ -3,7 +3,7 @@ pid: index_0992
 volume: Volume 3
 image_number: '16'
 head: degenerating
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>14 [Degenerating]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>14 [Degenerating]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_4518
 volume: Volume 3
 image_number: '52'
 head: welfare
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>913 [Welfare]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>913 [Welfare]</a>"
 topic: 
 first_letter: W
 xref: 

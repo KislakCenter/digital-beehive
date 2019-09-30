@@ -3,7 +3,7 @@ pid: index_2367
 volume: Volume 3
 image_number: '29'
 head: lungs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>595 [Lungs or Lights]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>595 [Lungs or Lights]</a>"
 topic: 
 first_letter: L
 xref: 

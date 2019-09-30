@@ -3,7 +3,7 @@ pid: index_1683
 volume: Volume 3
 image_number: '22'
 head: graces before meat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_440/'>4866 [Graces before and after meat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_440/'>4866 [Graces before and after meat]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -3,7 +3,7 @@ pid: index_0748
 volume: Volume 3
 image_number: '13'
 head: common opinion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_066/'>95 [a Vulgar Spirited man]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_066/'>95 [a Vulgar Spirited man]</a>"
 topic: 
 first_letter: C
 xref: 

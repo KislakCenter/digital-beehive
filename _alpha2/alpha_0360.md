@@ -6,8 +6,8 @@ head:
 entry: Glass
 topic: Glass
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0545/'>Lookingglass</a>|<a href='/New_Beehive/toc_vol2/toc2_139/'>612
-  [Bottle]</a>|<a href='/New_Beehive/toc_vol2/toc2_325/'>1655 [Glass]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0545/'>Lookingglass</a>|<a href='/New_Beehive/toc/toc2_139/'>612
+  [Bottle]</a>|<a href='/New_Beehive/toc/toc2_325/'>1655 [Glass]</a>"
 see: 
 page: 
 add: 

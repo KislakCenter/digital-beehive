@@ -3,7 +3,7 @@ pid: index_2478
 volume: Volume 3
 image_number: '30'
 head: to melt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>716 [to Melt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>716 [to Melt]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,7 +3,7 @@ pid: index_0098
 volume: Volume 3
 image_number: '7'
 head: all heal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_422/'>4450 [Panacea or All-heal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_422/'>4450 [Panacea or All-heal]</a>"
 topic: 
 first_letter: A
 xref: 

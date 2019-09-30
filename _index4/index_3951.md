@@ -3,7 +3,7 @@ pid: index_3951
 volume: Volume 3
 image_number: '45'
 head: stupidity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>711 [Stupidity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>711 [Stupidity]</a>"
 topic: 
 first_letter: S
 xref: 

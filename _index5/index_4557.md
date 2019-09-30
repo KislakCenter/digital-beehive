@@ -3,7 +3,7 @@ pid: index_4557
 volume: Volume 3
 image_number: '52'
 head: willow
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>684 [Willow]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>684 [Willow]</a>"
 topic: 
 first_letter: W
 xref: 

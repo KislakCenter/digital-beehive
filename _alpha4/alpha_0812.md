@@ -7,7 +7,7 @@ entry: Sabbath
 topic: Sabbath
 first_letter: S
 xref: "<a href='/New_Beehive/alpha2/alpha_0321/'>feast</a>|<a href='/New_Beehive/alpha4/alpha_0791/'>rest</a>|<a
-  href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>930
+  href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc/toc2_173/'>930
   [Sabbath]</a>"
 see: 
 page: 

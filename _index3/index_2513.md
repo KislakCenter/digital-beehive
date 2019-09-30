@@ -3,7 +3,7 @@ pid: index_2513
 volume: Volume 3
 image_number: '30'
 head: mile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1624 [Mile]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1624 [Mile]</a>"
 topic: 
 first_letter: M
 xref: 

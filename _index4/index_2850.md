@@ -3,7 +3,7 @@ pid: index_2850
 volume: Volume 3
 image_number: '34'
 head: to own
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>284 [To own]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_089/'>284 [To own]</a>"
 topic: 
 first_letter: O
 xref: 

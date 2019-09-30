@@ -6,7 +6,7 @@ head:
 entry: Equality
 topic: Equality
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0469/'>Inequ.y</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1129
+xref: "<a href='/New_Beehive/alpha3/alpha_0469/'>Inequ.y</a>|<a href='/New_Beehive/toc/toc2_219/'>1129
   [Equality]</a>"
 see: 
 page: 

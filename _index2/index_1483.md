@@ -3,7 +3,7 @@ pid: index_1483
 volume: Volume 3
 image_number: '20'
 head: flint
-entry: "<a href='/New_Beehive/toc_vol2/toc2_382/'>2161 [Flint-stone]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_382/'>2161 [Flint-stone]</a>"
 topic: 
 first_letter: F
 xref: 

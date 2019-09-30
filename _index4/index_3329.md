@@ -3,7 +3,7 @@ pid: index_3329
 volume: Volume 3
 image_number: '39'
 head: redemption
-entry: "<a href='/New_Beehive/alpha4/alpha_0775/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_404/'>2306
+entry: "<a href='/New_Beehive/alpha4/alpha_0775/'>a</a>|<a href='/New_Beehive/toc/toc2_404/'>2306
   [Redemption]</a>"
 topic: 
 first_letter: R

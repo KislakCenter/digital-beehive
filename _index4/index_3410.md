@@ -3,7 +3,7 @@ pid: index_3410
 volume: Volume 3
 image_number: '40'
 head: reviling
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>538 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>538 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: R
 xref: 

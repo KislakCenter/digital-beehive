@@ -3,7 +3,7 @@ pid: index_3176
 volume: Volume 3
 image_number: '37'
 head: procrastination
-entry: 851 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_441/'>4867 [WORD_ILLEGIBLE]</a>
+entry: 851 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_441/'>4867 [WORD_ILLEGIBLE]</a>
 topic: 
 first_letter: P
 xref: 

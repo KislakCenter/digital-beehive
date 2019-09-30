@@ -3,7 +3,7 @@ pid: index_2264
 volume: Volume 3
 image_number: '28'
 head: letter droppers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_433/'>4829 [Letter droppers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_433/'>4829 [Letter droppers]</a>"
 topic: 
 first_letter: L
 xref: 

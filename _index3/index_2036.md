@@ -3,8 +3,8 @@ pid: index_2036
 volume: Volume 3
 image_number: '26'
 head: infirmity
-entry: "<a href='/New_Beehive/alpha3/alpha_0472/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_095/'>325
-  [Infirmity]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1719 [Infirmity]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0472/'>a</a>|<a href='/New_Beehive/toc/toc2_095/'>325
+  [Infirmity]</a>|<a href='/New_Beehive/toc/toc2_336/'>1719 [Infirmity]</a>"
 topic: 
 first_letter: I/J
 xref: 

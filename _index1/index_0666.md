@@ -3,7 +3,7 @@ pid: index_0666
 volume: Volume 3
 image_number: '13'
 head: chymist
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc_vol2/toc2_261/'>1340
+entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc/toc2_261/'>1340
   [Chymistry]</a>"
 topic: 
 first_letter: C

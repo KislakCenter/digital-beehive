@@ -3,7 +3,7 @@ pid: index_2673
 volume: Volume 3
 image_number: '32'
 head: neck cloth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_337/'>1729 [Neck cloth]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_337/'>1729 [Neck cloth]</a>"
 topic: 
 first_letter: N
 xref: 

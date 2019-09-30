@@ -3,7 +3,7 @@ pid: index_4342
 volume: Volume 3
 image_number: '49'
 head: virginity
-entry: "<a href='/New_Beehive/alpha5/alpha_0986/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_366/'>2008
+entry: "<a href='/New_Beehive/alpha5/alpha_0986/'>a</a>|<a href='/New_Beehive/toc/toc2_366/'>2008
   [Virgins]</a>"
 topic: 
 first_letter: U/V

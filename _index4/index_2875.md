@@ -3,9 +3,8 @@ pid: index_2875
 volume: Volume 3
 image_number: '34'
 head: paradox
-entry: "<a href='/New_Beehive/alpha4/alpha_0670/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_077/'>201
-  [Orthodox Paradoxes]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>201 [Orthodox
-  Paradoxes]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0670/'>a</a>|<a href='/New_Beehive/toc/toc2_077/'>201
+  [Orthodox Paradoxes]</a>|<a href='/New_Beehive/toc/toc2_078/'>201 [Orthodox Paradoxes]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Garden
 topic: Garden
 first_letter: G
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1071
-  [Funeral Comendation]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1421 [Future]</a>"
+xref: 1890 [PAGE_MISSING]
 see: 
 page: 
 add: 

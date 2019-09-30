@@ -3,7 +3,7 @@ pid: index_1846
 volume: Volume 3
 image_number: '24'
 head: history of partic. men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_292/'>1494 [Lives of particular Persons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_292/'>1494 [Lives of particular Persons]</a>"
 topic: 
 first_letter: H
 xref: 

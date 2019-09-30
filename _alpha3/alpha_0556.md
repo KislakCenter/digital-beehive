@@ -6,10 +6,7 @@ head:
 entry: Love of Sin
 topic: Love of Sin
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/New_Beehive/toc_vol2/toc2_255/'>1309
-  [Love to God & the Brethren]</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1079
-  [Love of Neighbours]</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>225 [Love of
-  enemies]</a>|"
+xref: 
 see: 
 page: 
 add: 

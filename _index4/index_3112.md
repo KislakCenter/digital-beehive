@@ -3,7 +3,7 @@ pid: index_3112
 volume: Volume 3
 image_number: '36'
 head: prayers for the dead
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>408 [Prayers for the Dead]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>408 [Prayers for the Dead]</a>"
 topic: 
 first_letter: P
 xref: 

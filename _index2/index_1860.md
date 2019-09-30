@@ -3,7 +3,7 @@ pid: index_1860
 volume: Volume 3
 image_number: '24'
 head: Holland
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>351 [Holland]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>351 [Holland]</a>"
 topic: 
 first_letter: H
 xref: 

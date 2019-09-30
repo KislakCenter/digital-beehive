@@ -6,8 +6,8 @@ head:
 entry: Stone
 topic: Stone
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_250/'>1284 [Whetstone]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
+  href='/New_Beehive/toc/toc2_250/'>1284 [Whetstone]</a>"
 see: 
 page: 
 add: 

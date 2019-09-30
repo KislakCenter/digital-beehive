@@ -3,7 +3,7 @@ pid: index_3920
 volume: Volume 3
 image_number: '45'
 head: storm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>370 [Storm, to Storm a town]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>370 [Storm, to Storm a town]</a>"
 topic: 
 first_letter: S
 xref: 

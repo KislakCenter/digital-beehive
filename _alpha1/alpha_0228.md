@@ -6,7 +6,7 @@ head:
 entry: Devil
 topic: Devil
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0223/'>Denial</a>"
+xref: 747 [PAGE_MISSING]
 see: 
 page: 
 add: 

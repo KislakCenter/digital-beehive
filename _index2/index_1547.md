@@ -3,10 +3,9 @@ pid: index_1547
 volume: Volume 3
 image_number: '21'
 head: friendship
-entry: "<a href='/New_Beehive/alpha2/alpha_0348/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>429
-  [Friendship]</a>|<a href='/New_Beehive/toc_vol2/toc2_228/'>1171 [Friendship]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_329/'>1674 [Friendship]</a>|<a href='/New_Beehive/toc_vol2/toc2_431/'>4813
-  [Friendship]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0348/'>a</a>|<a href='/New_Beehive/toc/toc2_110/'>429
+  [Friendship]</a>|<a href='/New_Beehive/toc/toc2_228/'>1171 [Friendship]</a>|<a href='/New_Beehive/toc/toc2_329/'>1674
+  [Friendship]</a>|<a href='/New_Beehive/toc/toc2_431/'>4813 [Friendship]</a>"
 topic: 
 first_letter: F
 xref: 

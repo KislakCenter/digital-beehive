@@ -3,7 +3,7 @@ pid: index_1217
 volume: Volume 3
 image_number: '18'
 head: egyptians
-entry: "<a href='/New_Beehive/toc_vol2/toc2_307/'>1561 [Egyptians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_307/'>1561 [Egyptians]</a>"
 topic: 
 first_letter: E
 xref: 

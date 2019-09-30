@@ -3,7 +3,7 @@ pid: index_3422
 volume: Volume 3
 image_number: '40'
 head: rickets
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>681 [Rickets]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Rickets]</a>"
 topic: 
 first_letter: R
 xref: 

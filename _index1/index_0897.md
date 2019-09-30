@@ -3,7 +3,7 @@ pid: index_0897
 volume: Volume 3
 image_number: '15'
 head: Creation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1324 [Creation]</a>|<a href='/New_Beehive/toc_vol2/toc2_331/'>1681
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1324 [Creation]</a>|<a href='/New_Beehive/toc/toc2_331/'>1681
   [Creation]</a>"
 topic: 
 first_letter: C

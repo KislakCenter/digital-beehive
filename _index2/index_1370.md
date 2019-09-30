@@ -3,7 +3,7 @@ pid: index_1370
 volume: Volume 3
 image_number: '19'
 head: eye
-entry: "<a href='/New_Beehive/alpha2/alpha_0303/'>a</a>|757 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_312/'>Entry
+entry: "<a href='/New_Beehive/alpha2/alpha_0303/'>a</a>|757 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_312/'>Entry
   1587 [Eyes]</a>|4728 [PAGE_MISSING]"
 topic: 
 first_letter: E

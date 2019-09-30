@@ -3,7 +3,7 @@ pid: index_3029
 volume: Volume 3
 image_number: '35'
 head: plagiary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>600 [Plagiarius]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>600 [Plagiarius]</a>"
 topic: 
 first_letter: P
 xref: 

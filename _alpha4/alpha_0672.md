@@ -6,7 +6,7 @@ head:
 entry: Pardon
 topic: Pardon
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0782/'>Remission</a>|<a href='/New_Beehive/toc_vol2/toc2_108/'>420
+xref: "<a href='/New_Beehive/alpha4/alpha_0782/'>Remission</a>|<a href='/New_Beehive/toc/toc2_108/'>420
   [Forgiveness]</a>"
 see: 
 page: 

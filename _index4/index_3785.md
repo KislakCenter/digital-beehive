@@ -3,7 +3,7 @@ pid: index_3785
 volume: Volume 3
 image_number: '43'
 head: solecism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [Welch Tongues]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Welch Tongues]</a>"
 topic: 
 first_letter: S
 xref: 

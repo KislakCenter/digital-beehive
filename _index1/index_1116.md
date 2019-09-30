@@ -3,7 +3,7 @@ pid: index_1116
 volume: Volume 3
 image_number: '17'
 head: divinity scholastica
-entry: "<a href='/New_Beehive/alpha1/alpha_0248/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_346/'>1799
+entry: "<a href='/New_Beehive/alpha1/alpha_0248/'>a</a>|<a href='/New_Beehive/toc/toc2_346/'>1799
   [Theologia Scholastica]</a>"
 topic: 
 first_letter: D

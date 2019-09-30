@@ -3,7 +3,7 @@ pid: index_2719
 volume: Volume 3
 image_number: '32'
 head: Noah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_272/'>1395 [Deluge]</a>|<a href='/New_Beehive/toc_vol2/toc2_308/'>1567
+entry: "<a href='/New_Beehive/toc/toc2_272/'>1395 [Deluge]</a>|<a href='/New_Beehive/toc/toc2_308/'>1567
   [Noah's Ark]</a>"
 topic: 
 first_letter: N

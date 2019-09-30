@@ -3,7 +3,7 @@ pid: index_1318
 volume: Volume 3
 image_number: '19'
 head: every
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>724 [Each]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>724 [Each]</a>"
 topic: 
 first_letter: E
 xref: 

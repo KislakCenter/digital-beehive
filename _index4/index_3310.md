@@ -3,7 +3,7 @@ pid: index_3310
 volume: Volume 3
 image_number: '38'
 head: to reap
-entry: "<a href='/New_Beehive/toc_vol2/toc2_129/'>556 [To Reap]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [To Reap]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Venom
 topic: Venom
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotchpotch</a>|<a href='/New_Beehive/alpha2/alpha_0568/'>many
-  men</a>|<a href='/New_Beehive/alpha5/alpha_0998/'>unstableness</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1540
-  [Poisoning]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_302/'>1540 [Poisoning]</a>"
 see: 
 page: 
 add: 

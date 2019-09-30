@@ -3,7 +3,7 @@ pid: index_2131
 volume: Volume 3
 image_number: '27'
 head: judge
-entry: "<a href='/New_Beehive/alpha3/alpha_0492/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_325/'>1652
+entry: "<a href='/New_Beehive/alpha3/alpha_0492/'>a</a>|<a href='/New_Beehive/toc/toc2_325/'>1652
   [Judge]</a>|4517 [PAGE_MISSING]"
 topic: 
 first_letter: I/J

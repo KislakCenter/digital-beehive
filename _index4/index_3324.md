@@ -3,7 +3,7 @@ pid: index_3324
 volume: Volume 3
 image_number: '39'
 head: recreation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>38 [Recreation Pastime]</a>|<a href='/New_Beehive/toc_vol2/toc2_218/'>1123
+entry: "<a href='/New_Beehive/toc/toc2_060/'>38 [Recreation Pastime]</a>|<a href='/New_Beehive/toc/toc2_218/'>1123
   [Recreation]</a>|1856 [PAGE_MISSING]"
 topic: 
 first_letter: R

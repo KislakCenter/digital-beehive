@@ -3,7 +3,7 @@ pid: index_1580
 volume: Volume 3
 image_number: '21'
 head: gaping
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>704 [to Gape]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>704 [to Gape]</a>"
 topic: 
 first_letter: G
 xref: 

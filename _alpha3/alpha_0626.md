@@ -6,8 +6,7 @@ head:
 entry: Natural Philosophy
 topic: Natural Philosophy
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1086
-  [Natural]</a>|<a href='/New_Beehive/toc_vol2/toc2_303/'>1543 [Natural Philosophy]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_303/'>1543 [Natural Philosophy]</a>"
 see: 
 page: 
 add: 

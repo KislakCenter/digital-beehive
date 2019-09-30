@@ -3,9 +3,9 @@ pid: index_1163
 volume: Volume 3
 image_number: '17'
 head: drunken[n]ess
-entry: "<a href='/New_Beehive/alpha1/alpha_0263/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_117/'>477
-  [Drunken[n]ess]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1072 [Drunken[n]ess]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_374/'>2087 [Drunckenness]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0263/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>477
+  [Drunken[n]ess]</a>|<a href='/New_Beehive/toc/toc2_208/'>1072 [Drunken[n]ess]</a>|<a
+  href='/New_Beehive/toc/toc2_374/'>2087 [Drunckenness]</a>"
 topic: 
 first_letter: D
 xref: 

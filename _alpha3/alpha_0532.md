@@ -6,9 +6,7 @@ head:
 entry: Liberty of Conscience
 topic: Liberty of Conscience
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_219/'>1127 [Liberality]</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>557
-  [Liberty of Conscience]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_129/'>557 [Liberty of Conscience]</a>"
 see: 
 page: 
 add: 

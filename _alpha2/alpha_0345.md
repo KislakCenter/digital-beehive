@@ -7,7 +7,7 @@ entry: Fraud
 topic: Fraud
 first_letter: F
 xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/New_Beehive/toc_vol2/toc2_103/'>384
+  href='/New_Beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/New_Beehive/toc/toc2_103/'>384
   [Fraud]</a>"
 see: 
 page: 

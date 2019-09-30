@@ -3,7 +3,7 @@ pid: index_3593
 volume: Volume 3
 image_number: '41'
 head: seed
-entry: "<a href='/New_Beehive/alpha4/alpha_0838/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_205/'>1059
+entry: "<a href='/New_Beehive/alpha4/alpha_0838/'>a</a>|<a href='/New_Beehive/toc/toc2_205/'>1059
   [Seed]</a>"
 topic: 
 first_letter: S

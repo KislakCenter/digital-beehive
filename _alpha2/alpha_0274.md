@@ -6,9 +6,7 @@ head:
 entry: Eccho
 topic: Eccho
 first_letter: E
-xref: Excommunication|<a href='/New_Beehive/toc_vol2/toc2_064/'>74 [the Judge of religious
-  Controversies]</a>|<a href='/New_Beehive/toc_vol2/toc2_106/'>402 [Order & Discipline
-  of the Church of Christ]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1616 [Eccho]</a>
+xref: "<a href='/New_Beehive/toc/toc2_318/'>1616 [Eccho]</a>"
 see: 
 page: 
 add: 

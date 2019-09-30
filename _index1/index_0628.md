@@ -3,7 +3,7 @@ pid: index_0628
 volume: Volume 3
 image_number: '12'
 head: chief
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>381 [Principal]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2174
+entry: "<a href='/New_Beehive/toc/toc2_103/'>381 [Principal]</a>|<a href='/New_Beehive/toc/toc2_383/'>2174
   [Chief]</a>"
 topic: 
 first_letter: C

@@ -6,9 +6,7 @@ head:
 entry: Believe
 topic: Believe
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0325/'>first</a>|<a href='/New_Beehive/toc_vol2/toc2_128/'>550
-  [Beginn]</a>||<a href='/New_Beehive/toc_vol2/toc2_165/'>888 [Bell]</a>|<a href='/New_Beehive/toc_vol2/toc2_156/'>705
-  [doubtfulness, believe]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_156/'>705 [doubtfulness, believe]</a>"
 see: 
 page: 
 add: 

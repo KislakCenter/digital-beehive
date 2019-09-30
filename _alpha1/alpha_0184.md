@@ -6,9 +6,7 @@ head:
 entry: Native Country
 topic: Native Country
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_067/'>103 [Sordidness]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>190
-  [Covetousness]</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1016 [Councils]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_236/'>1215 [Counsel]</a>||<a href='/New_Beehive/alpha2/alpha_0424/'>Home</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0424/'>Home</a>"
 see: 
 page: 
 add: 

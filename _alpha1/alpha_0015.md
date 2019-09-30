@@ -7,7 +7,7 @@ entry: Agreement
 topic: Agreement
 first_letter: A
 xref: Consent|<a href='/New_Beehive/alpha4/alpha_0733/'>Process in law</a>|<a href='/New_Beehive/alpha4/alpha_0688/'>Peace-maker</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_234/'>1201 [Agreement]</a>
+  href='/New_Beehive/toc/toc2_234/'>1201 [Agreement]</a>
 see: 
 page: 
 add: 

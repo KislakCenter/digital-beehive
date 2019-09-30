@@ -3,7 +3,7 @@ pid: index_2701
 volume: Volume 3
 image_number: '32'
 head: new york
-entry: "<a href='/New_Beehive/toc_vol2/toc2_299/'>1523 [New York]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_299/'>1523 [New York]</a>"
 topic: 
 first_letter: N
 xref: 

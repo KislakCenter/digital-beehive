@@ -3,8 +3,8 @@ pid: index_4605
 volume: Volume 3
 image_number: '53'
 head: word of God
-entry: "<a href='/New_Beehive/alpha5/alpha_1043/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_167/'>900
-  [Word of God]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2060 [Word of God]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1043/'>a</a>|<a href='/New_Beehive/toc/toc2_167/'>900
+  [Word of God]</a>|<a href='/New_Beehive/toc/toc2_371/'>2060 [Word of God]</a>"
 topic: 
 first_letter: W
 xref: 

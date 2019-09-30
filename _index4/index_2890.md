@@ -3,7 +3,7 @@ pid: index_2890
 volume: Volume 3
 image_number: '34'
 head: parrot
-entry: "<a href='/New_Beehive/alpha4/alpha_0675/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_430/'>4804
+entry: "<a href='/New_Beehive/alpha4/alpha_0675/'>a</a>|<a href='/New_Beehive/toc/toc2_430/'>4804
   [Parrot]</a>"
 topic: 
 first_letter: P

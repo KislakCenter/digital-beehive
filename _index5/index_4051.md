@@ -3,7 +3,7 @@ pid: index_4051
 volume: Volume 3
 image_number: '46'
 head: talent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>56 [Talents]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>56 [Talents]</a>"
 topic: 
 first_letter: T
 xref: 

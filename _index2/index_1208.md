@@ -3,10 +3,9 @@ pid: index_1208
 volume: Volume 3
 image_number: '18'
 head: education
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>9 [Education and Discipline]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_089/'>280 [Education]</a>|<a href='/New_Beehive/toc_vol2/toc2_252/'>1291
-  [Education]</a>|1866 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_424/'>4460
-  [Education]</a>|4624 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>9 [Education and Discipline]</a>|<a href='/New_Beehive/toc/toc2_089/'>280
+  [Education]</a>|<a href='/New_Beehive/toc/toc2_252/'>1291 [Education]</a>|1866 [PAGE_MISSING]|<a
+  href='/New_Beehive/toc/toc2_424/'>4460 [Education]</a>|4624 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

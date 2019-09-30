@@ -3,7 +3,7 @@ pid: index_4499
 volume: Volume 3
 image_number: '52'
 head: weakness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_095/'>325 [Infirmity]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1719
+entry: "<a href='/New_Beehive/toc/toc2_095/'>325 [Infirmity]</a>|<a href='/New_Beehive/toc/toc2_336/'>1719
   [Infirmity]</a>|4754 [PAGE_MISSING]"
 topic: 
 first_letter: W

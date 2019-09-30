@@ -3,7 +3,7 @@ pid: index_2321
 volume: Volume 3
 image_number: '28'
 head: London
-entry: "<a href='/New_Beehive/alpha3/alpha_0542/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1468
+entry: "<a href='/New_Beehive/alpha3/alpha_0542/'>a</a>|<a href='/New_Beehive/toc/toc2_287/'>1468
   [London]</a>"
 topic: 
 first_letter: L

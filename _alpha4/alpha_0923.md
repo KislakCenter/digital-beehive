@@ -6,8 +6,7 @@ head:
 entry: Surety
 topic: Surety|Suretyship
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security, he that promises for
-  another]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, he that promises for another]</a>"
 see: 
 page: 
 add: 

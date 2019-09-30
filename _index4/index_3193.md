@@ -3,7 +3,7 @@ pid: index_3193
 volume: Volume 3
 image_number: '37'
 head: proof or evidence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>913 [Proof]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>202
+entry: "<a href='/New_Beehive/toc/toc2_170/'>913 [Proof]</a>|<a href='/New_Beehive/toc/toc2_078/'>202
   [Seriousness]</a>"
 topic: 
 first_letter: P

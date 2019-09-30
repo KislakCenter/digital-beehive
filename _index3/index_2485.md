@@ -3,7 +3,7 @@ pid: index_2485
 volume: Volume 3
 image_number: '30'
 head: to mention
-entry: "<a href='/New_Beehive/toc_vol2/toc2_279/'>1430 [To mention]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_279/'>1430 [To mention]</a>"
 topic: 
 first_letter: M
 xref: 

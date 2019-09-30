@@ -6,11 +6,7 @@ head:
 entry: Spices
 topic: Spices
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0951/'>tongue</a>|<a href='/New_Beehive/alpha3/alpha_0507/'>language</a>|Laconism|<a
-  href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/New_Beehive/alpha4/alpha_0879/'>slow</a>|<a
-  href='/New_Beehive/alpha5/alpha_0952/'>too hasty</a>|<a href='/New_Beehive/alpha2/alpha_0279/'>Eloquence</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_232/'>1194 [Speech]</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1937
-  [Spices]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_357/'>1937 [Spices]</a>"
 see: 
 page: 
 add: 

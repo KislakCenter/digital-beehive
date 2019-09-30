@@ -3,7 +3,7 @@ pid: index_4514
 volume: Volume 3
 image_number: '52'
 head: weighty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_122/'>510 [Concern]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_122/'>510 [Concern]</a>"
 topic: 
 first_letter: W
 xref: 

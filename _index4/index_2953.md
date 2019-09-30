@@ -3,7 +3,7 @@ pid: index_2953
 volume: Volume 3
 image_number: '35'
 head: perception
-entry: "<a href='/New_Beehive/toc_vol2/toc2_181/'>971 [Senses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_181/'>971 [Senses]</a>"
 topic: 
 first_letter: P
 xref: 

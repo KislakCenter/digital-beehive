@@ -3,7 +3,7 @@ pid: index_3958
 volume: Volume 3
 image_number: '45'
 head: subscribed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_230/'>1184 [the hereunto Subscribed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_230/'>1184 [the hereunto Subscribed]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Hart
 topic: Hart
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2374
-  [Hardning]</a>||<a href='/New_Beehive/alpha1/alpha_0215/'>Deer</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0215/'>Deer</a>"
 see: 
 page: 
 add: 

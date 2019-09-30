@@ -6,7 +6,7 @@ head:
 entry: Severity
 topic: Severity
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0878/'>Slavery</a>|Neger|<a href='/New_Beehive/alpha1/alpha_0199/'>Cruelty</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0199/'>Cruelty</a>"
 see: 
 page: 
 add: 

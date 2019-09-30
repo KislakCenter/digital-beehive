@@ -3,7 +3,7 @@ pid: index_2492
 volume: Volume 3
 image_number: '30'
 head: merit of Christ
-entry: "<a href='/New_Beehive/toc_vol2/toc2_186/'>1004 [Christs outward Satisfaction]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_186/'>1004 [Christs outward Satisfaction]</a>"
 topic: 
 first_letter: M
 xref: 

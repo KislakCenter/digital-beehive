@@ -6,9 +6,7 @@ head:
 entry: Honey
 topic: Honey
 first_letter: H
-xref: Pilgrimage|<a href='/New_Beehive/toc_vol2/toc2_283/'>1446 [Dwell]</a>|<a href='/New_Beehive/alpha1/alpha_0184/'>native
-  Country</a>|<a href='/New_Beehive/toc_vol2/toc2_254/'>1303 [Honesty]</a>|<a href='/New_Beehive/toc_vol2/toc2_352/'>1903
-  [Honey]</a>
+xref: "<a href='/New_Beehive/toc/toc2_352/'>1903 [Honey]</a>"
 see: 
 page: 
 add: 

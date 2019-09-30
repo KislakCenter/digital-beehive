@@ -3,7 +3,7 @@ pid: index_0725
 volume: Volume 3
 image_number: '13'
 head: colony
-entry: "<a href='/New_Beehive/toc_vol2/toc2_109/'>428 [Colonies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_109/'>428 [Colonies]</a>"
 topic: 
 first_letter: C
 xref: 

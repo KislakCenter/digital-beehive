@@ -3,7 +3,7 @@ pid: index_2128
 volume: Volume 3
 image_number: '27'
 head: Jubilee
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>463 [Jubilee]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>463 [Jubilee]</a>"
 topic: 
 first_letter: I/J
 xref: 

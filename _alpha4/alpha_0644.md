@@ -6,7 +6,7 @@ head:
 entry: Oath
 topic: Oath
 first_letter: O
-xref: Swearing|<a href='/New_Beehive/toc_vol2/toc2_060/'>28 [Oath]</a>
+xref: Swearing|<a href='/New_Beehive/toc/toc2_060/'>28 [Oath]</a>
 see: 
 page: 
 add: 

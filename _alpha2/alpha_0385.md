@@ -6,11 +6,7 @@ head:
 entry: Greatness
 topic: Greatness
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_0999/'>Unthankfullness</a>|<a href='/New_Beehive/alpha5/alpha_0940/'>thanks</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_220/'>1132 [Gratitude]</a>|<a href='/New_Beehive/toc_vol2/toc2_408/'>2349
-  [Gravity]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386 [Gratulation]</a>|<a
-  href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>635
-  [Great, rich, and eminent Persons]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_144/'>635 [Great, rich, and eminent Persons]</a>"
 see: 
 page: 
 add: 

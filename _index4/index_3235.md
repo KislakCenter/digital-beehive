@@ -3,7 +3,7 @@ pid: index_3235
 volume: Volume 3
 image_number: '38'
 head: Puritans
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>223 [a Puritane]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>223 [a Puritane]</a>"
 topic: 
 first_letter: P
 xref: 

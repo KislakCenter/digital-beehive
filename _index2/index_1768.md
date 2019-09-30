@@ -3,7 +3,7 @@ pid: index_1768
 volume: Volume 3
 image_number: '23'
 head: hatred
-entry: "<a href='/New_Beehive/alpha2/alpha_0400/'>a</a>|747 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_366/'>2009
+entry: "<a href='/New_Beehive/alpha2/alpha_0400/'>a</a>|747 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_366/'>2009
   [Hatred]</a>"
 topic: 
 first_letter: H

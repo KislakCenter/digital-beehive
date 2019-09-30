@@ -3,7 +3,7 @@ pid: index_4133
 volume: Volume 3
 image_number: '47'
 head: three
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1918 [Three and third]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1918 [Three and third]</a>"
 topic: 
 first_letter: T
 xref: 

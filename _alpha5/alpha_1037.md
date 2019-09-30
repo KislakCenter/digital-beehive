@@ -6,9 +6,7 @@ head:
 entry: Womans wit
 topic: Womans wit
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1242
-  [Woman]</a>||<a href='/New_Beehive/toc_vol2/toc2_076/'>192 [Dames governmt]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_319/'>1622 [Womans Wit]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_319/'>1622 [Womans Wit]</a>"
 see: 
 page: 
 add: 

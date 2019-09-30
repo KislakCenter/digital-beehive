@@ -6,7 +6,7 @@ head:
 entry: Queries
 topic: Queries
 first_letter: Q
-xref: "<a href='/New_Beehive/alpha2/alpha_0293/'>Examination</a>|<a href='/New_Beehive/toc_vol2/toc2_205/'>1058
+xref: "<a href='/New_Beehive/alpha2/alpha_0293/'>Examination</a>|<a href='/New_Beehive/toc/toc2_205/'>1058
   [Queries]</a>"
 see: 
 page: 

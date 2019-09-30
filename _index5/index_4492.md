@@ -3,8 +3,8 @@ pid: index_4492
 volume: Volume 3
 image_number: '52'
 head: water
-entry: "<a href='/New_Beehive/alpha5/alpha_1015/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_304/'>1546
-  [Waters]</a>|<a href='/New_Beehive/toc_vol2/toc2_380/'>2147 [Water]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1015/'>a</a>|<a href='/New_Beehive/toc/toc2_304/'>1546
+  [Waters]</a>|<a href='/New_Beehive/toc/toc2_380/'>2147 [Water]</a>"
 topic: 
 first_letter: W
 xref: 

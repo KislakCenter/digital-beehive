@@ -3,7 +3,7 @@ pid: index_2090
 volume: Volume 3
 image_number: '26'
 head: invasion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>628 [Invasion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>628 [Invasion]</a>"
 topic: 
 first_letter: I/J
 xref: 

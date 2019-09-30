@@ -3,7 +3,7 @@ pid: index_4193
 volume: Volume 3
 image_number: '48'
 head: top knot
-entry: "<a href='/New_Beehive/toc_vol2/toc2_423/'>4454 [Top knots]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_423/'>4454 [Top knots]</a>"
 topic: 
 first_letter: T
 xref: 

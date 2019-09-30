@@ -3,7 +3,7 @@ pid: index_0037
 volume: Volume 3
 image_number: '7'
 head: activity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>703 [Nimble]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Nimble]</a>"
 topic: 
 first_letter: A
 xref: 

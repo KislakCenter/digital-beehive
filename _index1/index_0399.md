@@ -3,7 +3,7 @@ pid: index_0399
 volume: Volume 3
 image_number: '10'
 head: bluntness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>108 [Bluntness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>108 [Bluntness]</a>"
 topic: 
 first_letter: B
 xref: 

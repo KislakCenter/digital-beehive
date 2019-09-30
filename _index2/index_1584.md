@@ -3,7 +3,7 @@ pid: index_1584
 volume: Volume 3
 image_number: '21'
 head: garrulity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_110/'>430 [Babbling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_110/'>430 [Babbling]</a>"
 topic: 
 first_letter: G
 xref: 

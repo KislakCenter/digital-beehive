@@ -3,8 +3,7 @@ pid: index_2976
 volume: Volume 3
 image_number: '35'
 head: petition
-entry: "<a href='/New_Beehive/toc_vol2/toc2_146/'>652 [Petition request]</a>|4767
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_146/'>652 [Petition request]</a>|4767 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

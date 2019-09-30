@@ -3,7 +3,7 @@ pid: index_1145
 volume: Volume 3
 image_number: '17'
 head: Drawing near to God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_414/'>2394 [Coming to God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
 topic: 
 first_letter: D
 xref: 

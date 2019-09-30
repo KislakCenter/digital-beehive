@@ -3,7 +3,7 @@ pid: index_0664
 volume: Volume 3
 image_number: '13'
 head: Churchman
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1381 [Churchman]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1381 [Churchman]</a>"
 topic: 
 first_letter: C
 xref: 

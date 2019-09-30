@@ -6,7 +6,7 @@ head:
 entry: Wound
 topic: Wound
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
+xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc/toc2_223/'>1146
   [Wound]</a>"
 see: 
 page: 

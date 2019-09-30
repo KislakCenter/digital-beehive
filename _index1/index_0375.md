@@ -3,7 +3,7 @@ pid: index_0375
 volume: Volume 3
 image_number: '10'
 head: birds
-entry: "<a href='/New_Beehive/toc_vol2/toc2_097/'>341 [Birds]</a>|<a href='/New_Beehive/toc_vol2/toc2_338/'>1738
+entry: "<a href='/New_Beehive/toc/toc2_097/'>341 [Birds]</a>|<a href='/New_Beehive/toc/toc2_338/'>1738
   [Birds]</a>"
 topic: 
 first_letter: B

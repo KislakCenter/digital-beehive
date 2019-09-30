@@ -3,7 +3,7 @@ pid: index_4313
 volume: Volume 3
 image_number: '49'
 head: Venus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_274/'>1402 [Lasciviousness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
 topic: 
 first_letter: U/V
 xref: 

@@ -3,8 +3,8 @@ pid: index_1643
 volume: Volume 3
 image_number: '22'
 head: God within
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>36 [God with & in men]</a>|<a href='/New_Beehive/toc_vol2/toc2_087/'>267
-  [God is in us]</a>|<a href='/New_Beehive/toc_vol2/toc2_175/'>937 [Union with God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>36 [God with & in men]</a>|<a href='/New_Beehive/toc/toc2_087/'>267
+  [God is in us]</a>|<a href='/New_Beehive/toc/toc2_175/'>937 [Union with God]</a>"
 topic: 
 first_letter: G
 xref: 

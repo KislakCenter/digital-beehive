@@ -3,8 +3,7 @@ pid: index_3407
 volume: Volume 3
 image_number: '40'
 head: revenues. ecclesiastical
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>34 [Ecclesiastical (:excessive:)
-  Revenues]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>34 [Ecclesiastical (:excessive:) Revenues]</a>"
 topic: 
 first_letter: R
 xref: 

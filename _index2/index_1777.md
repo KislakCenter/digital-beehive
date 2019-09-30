@@ -3,7 +3,7 @@ pid: index_1777
 volume: Volume 3
 image_number: '23'
 head: health
-entry: "<a href='/New_Beehive/alpha2/alpha_0402/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1506
+entry: "<a href='/New_Beehive/alpha2/alpha_0402/'>a</a>|<a href='/New_Beehive/toc/toc2_295/'>1506
   [Health]</a>"
 topic: 
 first_letter: H

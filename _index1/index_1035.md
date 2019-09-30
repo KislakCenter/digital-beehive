@@ -3,7 +3,7 @@ pid: index_1035
 volume: Volume 3
 image_number: '16'
 head: devils to be saved
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>44 [Unity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_061/'>44 [Unity]</a>"
 topic: 
 first_letter: D
 xref: 

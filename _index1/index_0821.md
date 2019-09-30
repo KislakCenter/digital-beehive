@@ -3,7 +3,7 @@ pid: index_0821
 volume: Volume 3
 image_number: '14'
 head: contempt
-entry: "<a href='/New_Beehive/alpha1/alpha_0173/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_087/'>269
+entry: "<a href='/New_Beehive/alpha1/alpha_0173/'>a</a>|<a href='/New_Beehive/toc/toc2_087/'>269
   [Contempt]</a>|4775 [PAGE_MISSING]"
 topic: 
 first_letter: C

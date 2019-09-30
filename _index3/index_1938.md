@@ -3,8 +3,8 @@ pid: index_1938
 volume: Volume 3
 image_number: '25'
 head: jesting
-entry: "<a href='/New_Beehive/alpha3/alpha_0446/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_217/'>1119
-  [Jest]</a>|<a href='/New_Beehive/toc_vol2/toc2_422/'>4450 [Jest]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0446/'>a</a>|<a href='/New_Beehive/toc/toc2_217/'>1119
+  [Jest]</a>|<a href='/New_Beehive/toc/toc2_422/'>4450 [Jest]</a>"
 topic: 
 first_letter: I/J
 xref: 

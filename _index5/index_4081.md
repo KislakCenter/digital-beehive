@@ -3,7 +3,7 @@ pid: index_4081
 volume: Volume 3
 image_number: '47'
 head: temperance
-entry: "<a href='/New_Beehive/alpha5/alpha_0933/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_247/'>1269
+entry: "<a href='/New_Beehive/alpha5/alpha_0933/'>a</a>|<a href='/New_Beehive/toc/toc2_247/'>1269
   [Temperance]</a>"
 topic: 
 first_letter: T

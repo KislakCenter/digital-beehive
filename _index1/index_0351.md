@@ -3,7 +3,7 @@ pid: index_0351
 volume: Volume 3
 image_number: '10'
 head: benum[m]b'd
-entry: "<a href='/New_Beehive/toc_vol2/toc2_428/'>4488 [Benumm'ed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_428/'>4488 [Benumm'ed]</a>"
 topic: 
 first_letter: B
 xref: 

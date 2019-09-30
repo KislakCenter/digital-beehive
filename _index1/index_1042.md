@@ -3,7 +3,7 @@ pid: index_1042
 volume: Volume 3
 image_number: '16'
 head: diamant
-entry: "<a href='/New_Beehive/toc_vol2/toc2_322/'>1639 [Spectacles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
 topic: 
 first_letter: D
 xref: 

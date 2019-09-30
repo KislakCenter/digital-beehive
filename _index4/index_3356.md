@@ -3,7 +3,7 @@ pid: index_3356
 volume: Volume 3
 image_number: '39'
 head: remedyless
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>620 [Despair]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>620 [Despair]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_2793
 volume: Volume 3
 image_number: '33'
 head: Sin of Onan
-entry: "<a href='/New_Beehive/toc_vol2/toc2_112/'>447 [Sodomy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_112/'>447 [Sodomy]</a>"
 topic: 
 first_letter: O
 xref: 

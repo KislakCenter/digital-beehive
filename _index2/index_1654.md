@@ -3,7 +3,7 @@ pid: index_1654
 volume: Volume 3
 image_number: '22'
 head: God's promises
-entry: "<a href='/New_Beehive/toc_vol2/toc2_120/'>497 [God's promises]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_120/'>497 [God's promises]</a>"
 topic: 
 first_letter: G
 xref: 

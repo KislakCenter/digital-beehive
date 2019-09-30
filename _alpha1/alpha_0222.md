@@ -6,9 +6,7 @@ head:
 entry: Demoniack
 topic: Demoniack
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0171/'>Considerateness</a>|<a href='/New_Beehive/alpha3/alpha_0579/'>Meditation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_272/'>1395 [Deluge]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2157
-  [Demoniack]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_381/'>2157 [Demoniack]</a>"
 see: 
 page: 
 add: 

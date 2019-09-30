@@ -6,8 +6,7 @@ head:
 entry: Beard
 topic: Beard
 first_letter: B
-xref: "<a href='/New_Beehive/alpha5/alpha_1021/'>Whoredom</a>||<a href='/New_Beehive/toc_vol2/toc2_286/'>1462
-  [Beard]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_286/'>1462 [Beard]</a>"
 see: 
 page: 
 add: 

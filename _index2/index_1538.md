@@ -3,8 +3,8 @@ pid: index_1538
 volume: Volume 3
 image_number: '21'
 head: free will
-entry: "<a href='/New_Beehive/alpha2/alpha_0346/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_204/'>1052
-  [Free Will]</a>|<a href='/New_Beehive/toc_vol2/toc2_404/'>2307 [Free Will]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0346/'>a</a>|<a href='/New_Beehive/toc/toc2_204/'>1052
+  [Free Will]</a>|<a href='/New_Beehive/toc/toc2_404/'>2307 [Free Will]</a>"
 topic: 
 first_letter: F
 xref: 

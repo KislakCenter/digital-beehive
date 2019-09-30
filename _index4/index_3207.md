@@ -3,8 +3,8 @@ pid: index_3207
 volume: Volume 3
 image_number: '37'
 head: protestants
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>83 [Protestant]</a>|<a href='/New_Beehive/toc_vol2/toc2_297/'>1511
-  [protestant Religion]</a>|<a href='/New_Beehive/toc_vol2/toc2_396/'>2264 [Protestants]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>83 [Protestant]</a>|<a href='/New_Beehive/toc/toc2_297/'>1511
+  [protestant Religion]</a>|<a href='/New_Beehive/toc/toc2_396/'>2264 [Protestants]</a>"
 topic: 
 first_letter: P
 xref: 

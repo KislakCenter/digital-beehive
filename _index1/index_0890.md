@@ -3,7 +3,7 @@ pid: index_0890
 volume: Volume 3
 image_number: '15'
 head: cowardize
-entry: "<a href='/New_Beehive/alpha1/alpha_0188/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2066
+entry: "<a href='/New_Beehive/alpha1/alpha_0188/'>a</a>|<a href='/New_Beehive/toc/toc2_372/'>2066
   [Cowardly]</a>"
 topic: 
 first_letter: C

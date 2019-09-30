@@ -3,7 +3,7 @@ pid: index_3589
 volume: Volume 3
 image_number: '41'
 head: security
-entry: "<a href='/New_Beehive/alpha4/alpha_0835/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_170/'>914
+entry: "<a href='/New_Beehive/alpha4/alpha_0835/'>a</a>|<a href='/New_Beehive/toc/toc2_170/'>914
   [security]</a>|2410 [PAGE_MISSING]"
 topic: 
 first_letter: S

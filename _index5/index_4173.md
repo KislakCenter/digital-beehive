@@ -3,7 +3,7 @@ pid: index_4173
 volume: Volume 3
 image_number: '48'
 head: tomorrow
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1908 [Tomorrow]</a>|4668 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1908 [Tomorrow]</a>|4668 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 

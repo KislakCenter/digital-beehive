@@ -6,9 +6,7 @@ head:
 entry: Simulation
 topic: Simulation
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0871/'>Sincerity</a>|<a href='/New_Beehive/toc_vol2/toc2_061/'>45
-  [Little will suffice Nature]</a>|<a href='/New_Beehive/toc_vol2/toc2_306/'>1559
-  [Simplicity]</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1150 [Simulation]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_223/'>1150 [Simulation]</a>"
 see: 
 page: 
 add: 

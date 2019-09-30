@@ -3,7 +3,7 @@ pid: index_4026
 volume: Volume 3
 image_number: '46'
 head: to swing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_350/'>1832 [To Swing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_350/'>1832 [To Swing]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Hope
 topic: Hope
 first_letter: H
-xref: Desperation|<a href='/New_Beehive/alpha1/alpha_0156/'>false Comfort</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1126
+xref: Desperation|<a href='/New_Beehive/alpha1/alpha_0156/'>false Comfort</a>|<a href='/New_Beehive/toc/toc2_219/'>1126
   [Hope]</a>
 see: 
 page: 

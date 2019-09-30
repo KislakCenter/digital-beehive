@@ -3,7 +3,7 @@ pid: index_1450
 volume: Volume 3
 image_number: '20'
 head: finger
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1902 [Finger]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1902 [Finger]</a>"
 topic: 
 first_letter: F
 xref: 

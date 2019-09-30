@@ -3,8 +3,8 @@ pid: index_1785
 volume: Volume 3
 image_number: '23'
 head: heaven
-entry: "<a href='/New_Beehive/alpha2/alpha_0406/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1176
-  [Heaven]</a>|<a href='/New_Beehive/toc_vol2/toc2_331/'>1683 [Heaven]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0406/'>a</a>|<a href='/New_Beehive/toc/toc2_229/'>1176
+  [Heaven]</a>|<a href='/New_Beehive/toc/toc2_331/'>1683 [Heaven]</a>"
 topic: 
 first_letter: H
 xref: 

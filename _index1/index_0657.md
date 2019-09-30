@@ -3,7 +3,7 @@ pid: index_0657
 volume: Volume 3
 image_number: '13'
 head: chronology
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1008 [Chronology]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1008 [Chronology]</a>"
 topic: 
 first_letter: C
 xref: 

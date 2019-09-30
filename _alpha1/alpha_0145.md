@@ -6,8 +6,7 @@ head:
 entry: Christendom
 topic: Christendom
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0448/'>Jesus</a>|<a href='/New_Beehive/toc_vol2/toc2_087/'>266
-  [Christ]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2037 [Nominal Christians]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_369/'>2037 [Nominal Christians]</a>"
 see: 
 page: 
 add: 

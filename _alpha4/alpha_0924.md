@@ -7,7 +7,7 @@ entry: Suspition
 topic: Suspition
 first_letter: S
 xref: "<a href='/New_Beehive/alpha1/alpha_0245/'>distrust</a>|<a href='/New_Beehive/alpha3/alpha_0445/'>Jealousy</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_249/'>1277 [Suspition]</a>"
+  href='/New_Beehive/toc/toc2_249/'>1277 [Suspition]</a>"
 see: 
 page: 
 add: 

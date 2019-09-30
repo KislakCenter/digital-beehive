@@ -3,7 +3,7 @@ pid: index_2515
 volume: Volume 3
 image_number: '30'
 head: milky way
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1575 [Milky way]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1575 [Milky way]</a>"
 topic: 
 first_letter: M
 xref: 

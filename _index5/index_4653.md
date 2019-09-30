@@ -3,8 +3,8 @@ pid: index_4653
 volume: Volume 3
 image_number: '53'
 head: youth
-entry: "<a href='/New_Beehive/alpha5/alpha_1060/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_115/'>467
-  [youth]</a>|<a href='/New_Beehive/toc_vol2/toc2_408/'>2347 [Youth]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1060/'>a</a>|<a href='/New_Beehive/toc/toc2_115/'>467
+  [youth]</a>|<a href='/New_Beehive/toc/toc2_408/'>2347 [Youth]</a>"
 topic: 
 first_letter: Y
 xref: 

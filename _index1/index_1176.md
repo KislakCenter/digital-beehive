@@ -3,7 +3,7 @@ pid: index_1176
 volume: Volume 3
 image_number: '18'
 head: family duties
-entry: "<a href='/New_Beehive/toc_vol2/toc2_164/'>885 [Family Duties]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_164/'>885 [Family Duties]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_4258
 volume: Volume 3
 image_number: '49'
 head: truth from ye pulpits
-entry: "<a href='/New_Beehive/toc_vol2/toc2_125/'>530 [Truth from the pulpit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_125/'>530 [Truth from the pulpit]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Too soon
 topic: Too soon
 first_letter: T
-xref: "<a href='/New_Beehive/alpha4/alpha_0879/'>Slowness</a>|too late|<a href='/New_Beehive/toc_vol2/toc2_059/'>20
-  [Too late]</a>||Hast"
+xref: Hast
 see: 
 page: 
 add: 

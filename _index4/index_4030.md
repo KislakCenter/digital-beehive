@@ -3,7 +3,7 @@ pid: index_4030
 volume: Volume 3
 image_number: '46'
 head: sword
-entry: "<a href='/New_Beehive/toc_vol2/toc2_228/'>1175 [Weapons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_228/'>1175 [Weapons]</a>"
 topic: 
 first_letter: S
 xref: 

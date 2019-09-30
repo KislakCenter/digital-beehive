@@ -3,7 +3,7 @@ pid: index_0259
 volume: Volume 3
 image_number: '9'
 head: Baal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1919 [Baal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1919 [Baal]</a>"
 topic: 
 first_letter: B
 xref: 

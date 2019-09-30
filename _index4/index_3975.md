@@ -3,7 +3,7 @@ pid: index_3975
 volume: Volume 3
 image_number: '45'
 head: sufficient
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>218 [Sufficient]</a>|<a href='/New_Beehive/toc_vol2/toc2_277/'>1419
+entry: "<a href='/New_Beehive/toc/toc2_080/'>218 [Sufficient]</a>|<a href='/New_Beehive/toc/toc2_277/'>1419
   [Enough]</a>"
 topic: 
 first_letter: S

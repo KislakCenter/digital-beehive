@@ -3,7 +3,7 @@ pid: index_0318
 volume: Volume 3
 image_number: '9'
 head: beard
-entry: "<a href='/New_Beehive/alpha1/alpha_0067/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_286/'>1462
+entry: "<a href='/New_Beehive/alpha1/alpha_0067/'>a</a>|<a href='/New_Beehive/toc/toc2_286/'>1462
   [Beard]</a>"
 topic: 
 first_letter: B

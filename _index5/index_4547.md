@@ -3,7 +3,7 @@ pid: index_4547
 volume: Volume 3
 image_number: '52'
 head: wife
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc_vol2/toc2_290/'>1483
+entry: "<a href='/New_Beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc/toc2_290/'>1483
   [Wife]</a>"
 topic: 
 first_letter: W

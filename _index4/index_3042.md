@@ -3,7 +3,7 @@ pid: index_3042
 volume: Volume 3
 image_number: '36'
 head: to plead
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1924 [to Plead]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1924 [to Plead]</a>"
 topic: 
 first_letter: P
 xref: 

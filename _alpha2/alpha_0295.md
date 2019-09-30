@@ -6,8 +6,7 @@ head:
 entry: Excuse
 topic: Excuse
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0457/'>Imitation</a>|<a href='/New_Beehive/toc_vol2/toc2_090/'>290
-  [Example]</a>"
+xref: 756 [PAGE_MISSING]
 see: 
 page: 
 add: 

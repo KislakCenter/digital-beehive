@@ -3,7 +3,7 @@ pid: index_3775
 volume: Volume 3
 image_number: '43'
 head: sobriety
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>303 [Sobriety or Soberness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>303 [Sobriety or Soberness]</a>"
 topic: 
 first_letter: S
 xref: 

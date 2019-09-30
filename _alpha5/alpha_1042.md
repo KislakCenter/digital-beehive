@@ -6,8 +6,7 @@ head:
 entry: Words
 topic: Words
 first_letter: W
-xref: Timber|<a href='/New_Beehive/toc_vol2/toc2_377/'>2113 [Wood]</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1353
-  [Word]</a>
+xref: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>"
 see: 
 page: 
 add: 

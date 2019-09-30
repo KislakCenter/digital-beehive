@@ -7,7 +7,7 @@ entry: Slowness
 topic: Slowness
 first_letter: S
 xref: "<a href='/New_Beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1089
+  href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/toc/toc2_211/'>1089
   [Slow-footed]</a>"
 see: 
 page: 

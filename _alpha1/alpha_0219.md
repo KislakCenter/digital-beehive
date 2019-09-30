@@ -6,7 +6,7 @@ head:
 entry: Delay
 topic: Delay
 first_letter: D
-xref: "<a href='/New_Beehive/toc_vol2/toc2_218/'>1123 [Delay]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_218/'>1123 [Delay]</a>"
 see: 
 page: 
 add: 

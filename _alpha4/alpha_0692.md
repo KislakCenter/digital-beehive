@@ -6,7 +6,7 @@ head:
 entry: Pedantry
 topic: Pedantry
 first_letter: P
-xref: Pretender to Learning|downright Scholar|<a href='/New_Beehive/toc_vol2/toc2_238/'>1224
+xref: Pretender to Learning|downright Scholar|<a href='/New_Beehive/toc/toc2_238/'>1224
   [Pedantry]</a>
 see: 
 page: 

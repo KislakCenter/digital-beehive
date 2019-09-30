@@ -3,7 +3,7 @@ pid: index_1564
 volume: Volume 3
 image_number: '21'
 head: fund
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>632 [Stock]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>632 [Stock]</a>"
 topic: 
 first_letter: F
 xref: 

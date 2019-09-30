@@ -3,7 +3,7 @@ pid: index_3553
 volume: Volume 3
 image_number: '41'
 head: scolding words
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [to Chide]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1747
+entry: "<a href='/New_Beehive/toc/toc2_151/'>680 [to Chide]</a>|<a href='/New_Beehive/toc/toc2_339/'>1747
   [Scurrilous Epithets, Scheltwort]</a>"
 topic: 
 first_letter: S

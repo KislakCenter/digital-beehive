@@ -3,9 +3,9 @@ pid: index_1034
 volume: Volume 3
 image_number: '16'
 head: devil
-entry: "<a href='/New_Beehive/alpha1/alpha_0228/'>a</a>|747 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_274/'>1405
-  [Devil]</a>|<a href='/New_Beehive/toc_vol2/toc2_305/'>1552 [Devil]</a>|<a href='/New_Beehive/toc_vol2/toc2_366/'>2006
-  [Devils]</a>|<a href='/New_Beehive/toc_vol2/toc2_394/'>2253 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0228/'>a</a>|747 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_274/'>1405
+  [Devil]</a>|<a href='/New_Beehive/toc/toc2_305/'>1552 [Devil]</a>|<a href='/New_Beehive/toc/toc2_366/'>2006
+  [Devils]</a>|<a href='/New_Beehive/toc/toc2_394/'>2253 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: D
 xref: 

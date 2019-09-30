@@ -3,7 +3,7 @@ pid: index_2144
 volume: Volume 3
 image_number: '27'
 head: justice and mercy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_237/'>1216 [Covetous]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_237/'>1216 [Covetous]</a>"
 topic: 
 first_letter: I/J
 xref: 

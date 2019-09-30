@@ -3,7 +3,7 @@ pid: index_1787
 volume: Volume 3
 image_number: '23'
 head: heavenly minded
-entry: "<a href='/New_Beehive/toc_vol2/toc2_199/'>1026 [Heavenly minded]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_199/'>1026 [Heavenly minded]</a>"
 topic: 
 first_letter: H
 xref: 

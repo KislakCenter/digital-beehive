@@ -3,7 +3,7 @@ pid: index_2812
 volume: Volume 3
 image_number: '33'
 head: opprobrious words
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [Opprobrious words]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>680 [Opprobrious words]</a>"
 topic: 
 first_letter: O
 xref: 

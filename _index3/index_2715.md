@@ -3,7 +3,7 @@ pid: index_2715
 volume: Volume 3
 image_number: '32'
 head: nitre
-entry: "<a href='/New_Beehive/toc_vol2/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
 topic: 
 first_letter: N
 xref: 

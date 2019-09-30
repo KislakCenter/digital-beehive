@@ -3,7 +3,7 @@ pid: index_4339
 volume: Volume 3
 image_number: '49'
 head: virago
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>192 [Dames governmt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_076/'>192 [Dames governmt]</a>"
 topic: 
 first_letter: U/V
 xref: 

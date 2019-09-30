@@ -3,7 +3,7 @@ pid: index_3280
 volume: Volume 3
 image_number: '38'
 head: radish
-entry: "<a href='/New_Beehive/toc_vol2/toc2_154/'>691 [Radishes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_154/'>691 [Radishes]</a>"
 topic: 
 first_letter: R
 xref: 

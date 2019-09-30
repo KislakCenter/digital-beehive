@@ -3,8 +3,8 @@ pid: index_3708
 volume: Volume 3
 image_number: '43'
 head: silence
-entry: "<a href='/New_Beehive/alpha4/alpha_0865/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_111/'>436
-  [Silence]</a>|<a href='/New_Beehive/toc_vol2/toc2_253/'>1299 [Silence & Reservedness]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0865/'>a</a>|<a href='/New_Beehive/toc/toc2_111/'>436
+  [Silence]</a>|<a href='/New_Beehive/toc/toc2_253/'>1299 [Silence & Reservedness]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_1590
 volume: Volume 3
 image_number: '21'
 head: genealogy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_164/'>881 [Genealogy]</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>921
+entry: "<a href='/New_Beehive/toc/toc2_164/'>881 [Genealogy]</a>|<a href='/New_Beehive/toc/toc2_172/'>921
   [Genealogy]</a>"
 topic: 
 first_letter: G

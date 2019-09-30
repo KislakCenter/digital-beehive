@@ -3,7 +3,7 @@ pid: index_2868
 volume: Volume 3
 image_number: '34'
 head: panacea
-entry: "<a href='/New_Beehive/toc_vol2/toc2_422/'>4450 [Papacea or All-heal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_422/'>4450 [Papacea or All-heal]</a>"
 topic: 
 first_letter: P
 xref: 

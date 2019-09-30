@@ -3,7 +3,7 @@ pid: index_2097
 volume: Volume 3
 image_number: '26'
 head: invocation of Saints
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1906 [Invocation of Saints]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1906 [Invocation of Saints]</a>"
 topic: 
 first_letter: I/J
 xref: 

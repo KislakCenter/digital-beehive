@@ -3,7 +3,7 @@ pid: index_3662
 volume: Volume 3
 image_number: '42'
 head: shameless
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>471 [Impudence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>471 [Impudence]</a>"
 topic: 
 first_letter: S
 xref: 

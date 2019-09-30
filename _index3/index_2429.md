@@ -3,7 +3,7 @@ pid: index_2429
 volume: Volume 3
 image_number: '30'
 head: market
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>714 [Market]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>714 [Market]</a>"
 topic: 
 first_letter: M
 xref: 

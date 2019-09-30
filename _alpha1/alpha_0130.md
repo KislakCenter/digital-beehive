@@ -6,7 +6,7 @@ head:
 entry: Cause of Sin
 topic: Cause of Sin
 first_letter: C
-xref: Motive|
+xref: 
 see: 
 page: 
 add: 

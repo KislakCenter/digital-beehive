@@ -6,8 +6,7 @@ head:
 entry: Night
 topic: Night
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/New_Beehive/toc_vol2/toc2_244/'>1252
-  [News]</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1131 [Night]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_220/'>1131 [Night]</a>"
 see: 
 page: 
 add: 

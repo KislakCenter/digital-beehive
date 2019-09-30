@@ -3,7 +3,7 @@ pid: index_2050
 volume: Volume 3
 image_number: '26'
 head: Inkhorn
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>410 [Ink-horn]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>410 [Ink-horn]</a>"
 topic: 
 first_letter: I/J
 xref: 

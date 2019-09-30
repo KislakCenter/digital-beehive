@@ -6,8 +6,7 @@ head:
 entry: "[WORD_MISSING]"
 topic: Bounty
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0193/'>Credit</a>|<a href='/New_Beehive/alpha3/alpha_0526/'>Lending</a>|<a
-  href='/New_Beehive/alpha2/alpha_0371/'>goodness</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0371/'>goodness</a>"
 see: 
 page: 
 add: 

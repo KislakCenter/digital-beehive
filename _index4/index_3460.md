@@ -3,7 +3,7 @@ pid: index_3460
 volume: Volume 3
 image_number: '40'
 head: to rub
-entry: "<a href='/New_Beehive/toc_vol2/toc2_376/'>2101 [Rubbing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_376/'>2101 [Rubbing]</a>"
 topic: 
 first_letter: R
 xref: 

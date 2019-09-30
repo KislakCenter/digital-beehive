@@ -3,7 +3,7 @@ pid: index_0310
 volume: Volume 3
 image_number: '9'
 head: battery
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>708 [Beating]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>708 [Beating]</a>"
 topic: 
 first_letter: B
 xref: 

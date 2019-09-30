@@ -6,10 +6,7 @@ head:
 entry: Name of God
 topic: Name of God
 first_letter: N
-xref: "<a href='/New_Beehive/toc_vol2/toc2_058/'>11 [Ill Name]</a>|<a href='/New_Beehive/toc_vol2/toc2_062/'>54
-  [false Names]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>181 [Nick-name]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_085/'>252 [Surnames]</a>|<a href='/New_Beehive/toc_vol2/toc2_085/'>254
-  [Name]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1944 [Name of God]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_358/'>1944 [Name of God]</a>"
 see: 
 page: 
 add: 

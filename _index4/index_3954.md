@@ -3,7 +3,7 @@ pid: index_3954
 volume: Volume 3
 image_number: '45'
 head: subjects
-entry: "<a href='/New_Beehive/alpha4/alpha_0914/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1368
+entry: "<a href='/New_Beehive/alpha4/alpha_0914/'>a</a>|<a href='/New_Beehive/toc/toc2_267/'>1368
   [the duties of Subjects]</a>"
 topic: 
 first_letter: S

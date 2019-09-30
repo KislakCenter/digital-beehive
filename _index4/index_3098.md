@@ -3,7 +3,7 @@ pid: index_3098
 volume: Volume 3
 image_number: '36'
 head: poverty parts friendship
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>16 [Poverty parts good fellowship]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>16 [Poverty parts good fellowship]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Courage
 topic: Courage
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0562/'>Magnanimity</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1143
+xref: "<a href='/New_Beehive/alpha3/alpha_0562/'>Magnanimity</a>|<a href='/New_Beehive/toc/toc2_222/'>1143
   [Courage]</a>"
 see: 
 page: 

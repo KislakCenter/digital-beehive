@@ -3,7 +3,7 @@ pid: index_3184
 volume: Volume 3
 image_number: '37'
 head: progress
-entry: "<a href='/New_Beehive/alpha4/alpha_0737/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1387
+entry: "<a href='/New_Beehive/alpha4/alpha_0737/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1387
   [Progress]</a>|4740 [PAGE_MISSING]"
 topic: 
 first_letter: P

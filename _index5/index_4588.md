@@ -3,8 +3,8 @@ pid: index_4588
 volume: Volume 3
 image_number: '53'
 head: woman
-entry: "<a href='/New_Beehive/alpha5/alpha_1034/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1242
-  [Woman]</a>|<a href='/New_Beehive/toc_vol2/toc2_389/'>2227 [Woman]</a>|<a href='/New_Beehive/toc_vol2/toc2_394/'>2255
+entry: "<a href='/New_Beehive/alpha5/alpha_1034/'>a</a>|<a href='/New_Beehive/toc/toc2_242/'>1242
+  [Woman]</a>|<a href='/New_Beehive/toc/toc2_389/'>2227 [Woman]</a>|<a href='/New_Beehive/toc/toc2_394/'>2255
   [Woman]</a>"
 topic: 
 first_letter: W

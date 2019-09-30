@@ -3,9 +3,9 @@ pid: index_0966
 volume: Volume 3
 image_number: '15'
 head: death
-entry: "<a href='/New_Beehive/alpha1/alpha_0210/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>507
-  [Death passed upon all men]</a>|<a href='/New_Beehive/toc_vol2/toc2_227/'>1166 [Death]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_243/'>1247 [Death]</a>|<a href='/New_Beehive/toc_vol2/toc2_414/'>2391
+entry: "<a href='/New_Beehive/alpha1/alpha_0210/'>a</a>|<a href='/New_Beehive/toc/toc2_121/'>507
+  [Death passed upon all men]</a>|<a href='/New_Beehive/toc/toc2_227/'>1166 [Death]</a>|<a
+  href='/New_Beehive/toc/toc2_243/'>1247 [Death]</a>|<a href='/New_Beehive/toc/toc2_414/'>2391
   [Death]</a>"
 topic: 
 first_letter: D

@@ -6,8 +6,8 @@ head:
 entry: Writing
 topic: Writing
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/toc_vol2/toc2_107/'>412
-  [Writing]</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1376 [Writing]</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/toc/toc2_107/'>412
+  [Writing]</a>|<a href='/New_Beehive/toc/toc2_269/'>1376 [Writing]</a>"
 see: 
 page: 
 add: 

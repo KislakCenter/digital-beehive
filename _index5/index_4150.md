@@ -3,7 +3,7 @@ pid: index_4150
 volume: Volume 3
 image_number: '47'
 head: tile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>362 [Shingle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>362 [Shingle]</a>"
 topic: 
 first_letter: T
 xref: 

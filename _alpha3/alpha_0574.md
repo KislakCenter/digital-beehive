@@ -6,8 +6,7 @@ head:
 entry: Mathematicks
 topic: Mathematicks
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0851/'>Servant</a>|<a href='/New_Beehive/toc_vol2/toc2_258/'>1323
-  [Master]</a>|"
+xref: 
 see: 
 page: 
 add: 

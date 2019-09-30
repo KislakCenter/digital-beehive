@@ -3,7 +3,7 @@ pid: index_0698
 volume: Volume 3
 image_number: '13'
 head: cloister
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>395 [Cloister]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>395 [Cloister]</a>"
 topic: 
 first_letter: C
 xref: 

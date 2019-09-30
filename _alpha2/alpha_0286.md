@@ -6,7 +6,7 @@ head:
 entry: Epitaph
 topic: Epitaph
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0478/'>Inscriptions</a>|<a href='/New_Beehive/toc_vol2/toc2_084/'>245
+xref: "<a href='/New_Beehive/alpha3/alpha_0478/'>Inscriptions</a>|<a href='/New_Beehive/toc/toc2_084/'>245
   [Epitaphs]</a>"
 see: 
 page: 

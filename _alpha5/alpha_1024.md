@@ -6,8 +6,8 @@ head:
 entry: Will
 topic: Will
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_0936/'>Testamt</a>|<a href='/New_Beehive/toc_vol2/toc2_238/'>1226
-  [Nobility]</a>|<a href='/New_Beehive/toc_vol2/toc2_239/'>1226 [Nobility]</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_0936/'>Testamt</a>|<a href='/New_Beehive/toc/toc2_238/'>1226
+  [Nobility]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226 [Nobility]</a>"
 see: 
 page: 
 add: 

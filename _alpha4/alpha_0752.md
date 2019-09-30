@@ -6,7 +6,7 @@ head:
 entry: Pudding
 topic: Pudding
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0872/'>Singing</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -6,7 +6,7 @@ head:
 entry: Curiosity
 topic: Curiosity
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0640/'>Novelty</a>|Strange Business|<a href='/New_Beehive/toc_vol2/toc2_315/'>1602
+xref: "<a href='/New_Beehive/alpha3/alpha_0640/'>Novelty</a>|Strange Business|<a href='/New_Beehive/toc/toc2_315/'>1602
   [Curiosity]</a>"
 see: 
 page: 

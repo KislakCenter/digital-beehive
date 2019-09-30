@@ -3,7 +3,7 @@ pid: index_1382
 volume: Volume 3
 image_number: '20'
 head: fairs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_203/'>1050 [Fairs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_203/'>1050 [Fairs]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,7 +3,7 @@ pid: index_2766
 volume: Volume 3
 image_number: '33'
 head: occasion
-entry: "<a href='/New_Beehive/alpha4/alpha_0649/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_157/'>706
+entry: "<a href='/New_Beehive/alpha4/alpha_0649/'>a</a>|<a href='/New_Beehive/toc/toc2_157/'>706
   [Occasion]</a>"
 topic: 
 first_letter: O

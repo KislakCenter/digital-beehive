@@ -6,8 +6,7 @@ head:
 entry: Remission of Sins
 topic: Remission of Sins
 first_letter: R
-xref: Old rags|<a href='/New_Beehive/toc_vol2/toc2_270/'>1385 [Reliques]</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1363
-  [Pardon and Remission of Sins]</a>
+xref: "<a href='/New_Beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
 see: 
 page: 
 add: 

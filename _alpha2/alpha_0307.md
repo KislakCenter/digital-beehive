@@ -6,7 +6,7 @@ head:
 entry: Fair words
 topic: Fair words
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0279/'>eloquence</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2370
+xref: "<a href='/New_Beehive/alpha2/alpha_0279/'>eloquence</a>|<a href='/New_Beehive/toc/toc2_411/'>2370
   [Fair Words]</a>"
 see: 
 page: 

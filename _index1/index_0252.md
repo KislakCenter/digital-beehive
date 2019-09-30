@@ -3,7 +3,7 @@ pid: index_0252
 volume: Volume 3
 image_number: '9'
 head: aurum potabile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>700 [Chymistry]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [Chymistry]</a>"
 topic: 
 first_letter: A
 xref: 

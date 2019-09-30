@@ -3,7 +3,7 @@ pid: index_1737
 volume: Volume 3
 image_number: '23'
 head: hail
-entry: "<a href='/New_Beehive/toc_vol2/toc2_263/'>1346 [Hailstones]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Hailstones]</a>"
 topic: 
 first_letter: H
 xref: 

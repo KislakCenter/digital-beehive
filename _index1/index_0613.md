@@ -3,7 +3,7 @@ pid: index_0613
 volume: Volume 3
 image_number: '12'
 head: charter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Frog
 topic: Frog
 first_letter: F
-xref: familiarity|<a href='/New_Beehive/toc_vol2/toc2_058/'>1 [Familiarity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_110/'>429 [Friendship]</a>|<a href='/New_Beehive/toc_vol2/toc2_389/'>2228
-  [Frog & Toad]</a>
+xref: "<a href='/New_Beehive/toc/toc2_389/'>2228 [Frog & Toad]</a>"
 see: 
 page: 
 add: 

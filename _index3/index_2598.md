@@ -3,7 +3,7 @@ pid: index_2598
 volume: Volume 3
 image_number: '31'
 head: motion
-entry: "<a href='/New_Beehive/alpha3/alpha_0607/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>958
+entry: "<a href='/New_Beehive/alpha3/alpha_0607/'>a</a>|<a href='/New_Beehive/toc/toc2_178/'>958
   [Motions]</a>"
 topic: 
 first_letter: M

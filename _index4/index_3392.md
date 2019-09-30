@@ -3,7 +3,7 @@ pid: index_3392
 volume: Volume 3
 image_number: '39'
 head: rest or residue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>716 [the Rest]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>716 [the Rest]</a>"
 topic: 
 first_letter: R
 xref: 

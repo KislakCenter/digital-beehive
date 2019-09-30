@@ -3,9 +3,8 @@ pid: index_2238
 volume: Volume 3
 image_number: '28'
 head: learning
-entry: "<a href='/New_Beehive/alpha3/alpha_0525/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1139
-  [Learning]</a>|<a href='/New_Beehive/toc_vol2/toc2_362/'>1973 [Learning]</a>|4747
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0525/'>a</a>|<a href='/New_Beehive/toc/toc2_221/'>1139
+  [Learning]</a>|<a href='/New_Beehive/toc/toc2_362/'>1973 [Learning]</a>|4747 [PAGE_MISSING]"
 topic: 
 first_letter: L
 xref: 

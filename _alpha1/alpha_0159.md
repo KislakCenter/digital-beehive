@@ -6,9 +6,7 @@ head:
 entry: Common goods
 topic: Common goods
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0338/'>Forbidden things</a>|<a href='/New_Beehive/alpha4/alpha_0738/'>Prohibition</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_202/'>1041 [Com[m]andents]</a>|<a href='/New_Beehive/toc_vol2/toc2_228/'>1172
-  [Community of Goods]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_228/'>1172 [Community of Goods]</a>"
 see: 
 page: 
 add: 

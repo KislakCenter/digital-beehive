@@ -3,7 +3,7 @@ pid: index_0459
 volume: Volume 3
 image_number: '11'
 head: brimstone
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>911 [Brimstone]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [Brimstone]</a>"
 topic: 
 first_letter: B
 xref: 

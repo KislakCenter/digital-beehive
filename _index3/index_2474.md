@@ -3,7 +3,7 @@ pid: index_2474
 volume: Volume 3
 image_number: '30'
 head: meetings silent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>295 [Silent meetings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>295 [Silent meetings]</a>"
 topic: 
 first_letter: M
 xref: 

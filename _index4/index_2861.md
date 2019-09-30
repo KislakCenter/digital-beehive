@@ -3,7 +3,7 @@ pid: index_2861
 volume: Volume 3
 image_number: '34'
 head: Pallas
-entry: "<a href='/New_Beehive/toc_vol2/toc2_197/'>1019 [Pallas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_197/'>1019 [Pallas]</a>"
 topic: 
 first_letter: P
 xref: 

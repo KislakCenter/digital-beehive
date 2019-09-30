@@ -6,7 +6,7 @@ head:
 entry: Spirit
 topic: Spirit
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0358/'>H. Ghost</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1341
+xref: "<a href='/New_Beehive/alpha2/alpha_0358/'>H. Ghost</a>|<a href='/New_Beehive/toc/toc2_262/'>1341
   [Spirits]</a>"
 see: 
 page: 

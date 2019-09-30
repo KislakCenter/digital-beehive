@@ -3,7 +3,7 @@ pid: index_3561
 volume: Volume 3
 image_number: '41'
 head: Scriptures explained
-entry: "<a href='/New_Beehive/toc_vol2/toc2_198/'>1025 [Scripture places Explained]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_198/'>1025 [Scripture places Explained]</a>"
 topic: 
 first_letter: S
 xref: 

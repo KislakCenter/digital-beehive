@@ -3,7 +3,7 @@ pid: index_3150
 volume: Volume 3
 image_number: '37'
 head: prey
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>871 [Prey]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [Prey]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_3175
 volume: Volume 3
 image_number: '37'
 head: proclamation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_250/'>1285 [an Wist]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_250/'>1285 [an Wist]</a>"
 topic: 
 first_letter: P
 xref: 

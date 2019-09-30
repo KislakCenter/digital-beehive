@@ -6,10 +6,7 @@ head:
 entry: vine
 topic: vine
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotchpotch</a>|<a href='/New_Beehive/alpha2/alpha_0568/'>many
-  men</a>|<a href='/New_Beehive/alpha5/alpha_0998/'>unstableness</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1540
-  [Poisoning]</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1108 [Virtue]</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1649
-  [Vinegar]</a>|"
+xref: 
 see: 
 page: 
 add: 

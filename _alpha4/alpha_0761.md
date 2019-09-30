@@ -6,7 +6,7 @@ head:
 entry: Quick
 topic: Quick
 first_letter: Q
-xref: "<a href='/New_Beehive/toc_vol2/toc2_090/'>292 [Drowsiness]</a>|<a href='/New_Beehive/toc_vol2/toc2_127/'>541
+xref: "<a href='/New_Beehive/toc/toc2_090/'>292 [Drowsiness]</a>|<a href='/New_Beehive/toc/toc2_127/'>541
   [Alacrity]</a>"
 see: 
 page: 

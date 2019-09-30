@@ -3,7 +3,7 @@ pid: index_3208
 volume: Volume 3
 image_number: '37'
 head: protestation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_428/'>4491 [Protestation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_428/'>4491 [Protestation]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -7,7 +7,7 @@ entry: Idleness
 topic: Idleness
 first_letter: I/J
 xref: "<a href='/New_Beehive/alpha3/alpha_0631/'>Negligence</a>|<a href='/New_Beehive/alpha3/alpha_0521/'>Laziness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_176/'>943 [Idleness]</a>"
+  href='/New_Beehive/toc/toc2_176/'>943 [Idleness]</a>"
 see: 
 page: 
 add: 

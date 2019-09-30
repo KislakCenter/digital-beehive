@@ -3,7 +3,7 @@ pid: index_1270
 volume: Volume 3
 image_number: '18'
 head: to entangle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_247/'>1269 [Entangle & disentangle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_247/'>1269 [Entangle & disentangle]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Prison
 topic: Prison
 first_letter: P
-xref: Jailer|Workhouse|<a href='/New_Beehive/toc_vol2/toc2_132/'>572 [Prison]</a>
+xref: Jailer|Workhouse|<a href='/New_Beehive/toc/toc2_132/'>572 [Prison]</a>
 see: 
 page: 
 add: 

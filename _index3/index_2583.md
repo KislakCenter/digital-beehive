@@ -3,7 +3,7 @@ pid: index_2583
 volume: Volume 3
 image_number: '31'
 head: morning
-entry: "<a href='/New_Beehive/alpha3/alpha_0604/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_180/'>969
+entry: "<a href='/New_Beehive/alpha3/alpha_0604/'>a</a>|<a href='/New_Beehive/toc/toc2_180/'>969
   [morning]</a>|4540 [PAGE_MISSING]"
 topic: 
 first_letter: M

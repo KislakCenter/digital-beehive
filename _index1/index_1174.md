@@ -3,8 +3,8 @@ pid: index_1174
 volume: Volume 3
 image_number: '18'
 head: duty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_240/'>1232 [Do what thou oughtst]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_266/'>1362 [Duties of Believers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_240/'>1232 [Do what thou oughtst]</a>|<a href='/New_Beehive/toc/toc2_266/'>1362
+  [Duties of Believers]</a>"
 topic: 
 first_letter: D
 xref: 

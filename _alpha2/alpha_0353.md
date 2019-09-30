@@ -6,8 +6,7 @@ head:
 entry: Future
 topic: Future
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1071
-  [Funeral Comendation]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1421 [Future]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_278/'>1421 [Future]</a>"
 see: 
 page: 
 add: 

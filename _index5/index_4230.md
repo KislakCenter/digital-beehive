@@ -3,7 +3,7 @@ pid: index_4230
 volume: Volume 3
 image_number: '48'
 head: to treat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>358 [to Treat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>358 [to Treat]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,8 +3,8 @@ pid: index_4553
 volume: Volume 3
 image_number: '52'
 head: willingness
-entry: "<a href='/New_Beehive/alpha5/alpha_1026/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>321
-  [Willingness]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1446 [Willingness]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1026/'>a</a>|<a href='/New_Beehive/toc/toc2_094/'>321
+  [Willingness]</a>|<a href='/New_Beehive/toc/toc2_283/'>1446 [Willingness]</a>"
 topic: 
 first_letter: W
 xref: 

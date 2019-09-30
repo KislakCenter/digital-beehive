@@ -3,7 +3,7 @@ pid: index_0632
 volume: Volume 3
 image_number: '12'
 head: childbed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>601 [Childbed]</a>|<a href='/New_Beehive/toc_vol2/toc2_355/'>1922
+entry: "<a href='/New_Beehive/toc/toc2_137/'>601 [Childbed]</a>|<a href='/New_Beehive/toc/toc2_355/'>1922
   [Childbed]</a>"
 topic: 
 first_letter: C

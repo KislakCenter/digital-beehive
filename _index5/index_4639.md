@@ -3,7 +3,7 @@ pid: index_4639
 volume: Volume 3
 image_number: '53'
 head: yawning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>704 [to Gape]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>704 [to Gape]</a>"
 topic: 
 first_letter: Y
 xref: 

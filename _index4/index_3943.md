@@ -3,7 +3,7 @@ pid: index_3943
 volume: Volume 3
 image_number: '45'
 head: string
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>348 [A rope]</a>|773 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [A rope]</a>|773 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

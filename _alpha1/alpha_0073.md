@@ -6,7 +6,7 @@ head:
 entry: Begging
 topic: Begging
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>Alms</a>|<a href='/New_Beehive/toc_vol2/toc2_260/'>1335
+xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>Alms</a>|<a href='/New_Beehive/toc/toc2_260/'>1335
   [Begging]</a>"
 see: 
 page: 

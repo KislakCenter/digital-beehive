@@ -3,7 +3,7 @@ pid: index_3414
 volume: Volume 3
 image_number: '40'
 head: rhetorick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>472 [Rhetorick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>472 [Rhetorick]</a>"
 topic: 
 first_letter: R
 xref: 

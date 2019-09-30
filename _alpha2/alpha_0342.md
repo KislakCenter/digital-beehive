@@ -6,7 +6,7 @@ head:
 entry: Fortune
 topic: Fortune
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0392/'>Happiness</a>|<a href='/New_Beehive/toc_vol2/toc2_225/'>1159
+xref: "<a href='/New_Beehive/alpha2/alpha_0392/'>Happiness</a>|<a href='/New_Beehive/toc/toc2_225/'>1159
   [Folly]</a>"
 see: 
 page: 

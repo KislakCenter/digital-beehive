@@ -7,7 +7,7 @@ entry: Monk
 topic: Monk
 first_letter: M
 xref: "<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/New_Beehive/alpha2/alpha_0417/'>Hermit</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_114/'>462 [Monks]</a>"
+  href='/New_Beehive/toc/toc2_114/'>462 [Monks]</a>"
 see: 
 page: 
 add: 

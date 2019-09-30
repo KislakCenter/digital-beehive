@@ -3,7 +3,7 @@ pid: index_0858
 volume: Volume 3
 image_number: '14'
 head: corpulent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>644 [Corpulent]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>644 [Corpulent]</a>"
 topic: 
 first_letter: C
 xref: 

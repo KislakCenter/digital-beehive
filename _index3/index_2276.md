@@ -3,9 +3,9 @@ pid: index_2276
 volume: Volume 3
 image_number: '28'
 head: liberty of Conscience
-entry: "<a href='/New_Beehive/alpha3/alpha_0532/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>557
-  [Liberty of Conscience]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2282 [Liberty
-  of Conscience]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0532/'>a</a>|<a href='/New_Beehive/toc/toc2_129/'>557
+  [Liberty of Conscience]</a>|<a href='/New_Beehive/toc/toc2_400/'>2282 [Liberty of
+  Conscience]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_2375
 volume: Volume 3
 image_number: '29'
 head: Machiavellus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_129/'>556 [Machiavellus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [Machiavellus]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,7 +3,7 @@ pid: index_3972
 volume: Volume 3
 image_number: '45'
 head: to suffer or bear
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1383 [To bear]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [To bear]</a>"
 topic: 
 first_letter: S
 xref: 

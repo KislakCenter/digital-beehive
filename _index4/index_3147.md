@@ -3,7 +3,7 @@ pid: index_3147
 volume: Volume 3
 image_number: '37'
 head: to prevail
-entry: "<a href='/New_Beehive/toc_vol2/toc2_198/'>1021 [Prevail]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_198/'>1021 [Prevail]</a>"
 topic: 
 first_letter: P
 xref: 

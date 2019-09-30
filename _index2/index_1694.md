@@ -3,7 +3,7 @@ pid: index_1694
 volume: Volume 3
 image_number: '22'
 head: grapes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_181/'>973 [Grapes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_181/'>973 [Grapes]</a>"
 topic: 
 first_letter: G
 xref: 

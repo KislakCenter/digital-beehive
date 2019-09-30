@@ -3,7 +3,7 @@ pid: index_3159
 volume: Volume 3
 image_number: '37'
 head: primum mobile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_229/'>1176 [Heaven]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_229/'>1176 [Heaven]</a>"
 topic: 
 first_letter: P
 xref: 

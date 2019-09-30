@@ -3,8 +3,8 @@ pid: index_3725
 volume: Volume 3
 image_number: '43'
 head: sincerity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1786 [Since]</a>|<a href='/New_Beehive/toc_vol2/toc2_309/'>1571
-  [Sincerity]</a>|<a href='/New_Beehive/toc_vol2/toc2_409/'>2355 [Sincerity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1786 [Since]</a>|<a href='/New_Beehive/toc/toc2_309/'>1571
+  [Sincerity]</a>|<a href='/New_Beehive/toc/toc2_409/'>2355 [Sincerity]</a>"
 topic: 
 first_letter: S
 xref: 

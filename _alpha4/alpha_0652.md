@@ -6,8 +6,7 @@ head:
 entry: Officer
 topic: Officer
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0113/'>Calling</a>|<a href='/New_Beehive/toc_vol2/toc2_198/'>1021
-  [Officers]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_198/'>1021 [Officers]</a>"
 see: 
 page: 
 add: 

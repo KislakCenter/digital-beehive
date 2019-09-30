@@ -6,8 +6,7 @@ head:
 entry: Honesty
 topic: Honesty
 first_letter: H
-xref: Pilgrimage|<a href='/New_Beehive/toc_vol2/toc2_283/'>1446 [Dwell]</a>|<a href='/New_Beehive/alpha1/alpha_0184/'>native
-  Country</a>|<a href='/New_Beehive/toc_vol2/toc2_254/'>1303 [Honesty]</a>
+xref: "<a href='/New_Beehive/toc/toc2_254/'>1303 [Honesty]</a>"
 see: 
 page: 
 add: 

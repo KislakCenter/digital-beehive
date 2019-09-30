@@ -3,7 +3,7 @@ pid: index_4520
 volume: Volume 3
 image_number: '52'
 head: well! welldone
-entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_321/'>1631 [Well done]</a>
+entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_321/'>1631 [Well done]</a>
 topic: 
 first_letter: W
 xref: 

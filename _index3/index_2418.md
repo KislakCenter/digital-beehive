@@ -3,7 +3,7 @@ pid: index_2418
 volume: Volume 3
 image_number: '29'
 head: manufactures
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>714 [Wares]</a>|<a href='/New_Beehive/toc_vol2/toc2_364/'>1991
+entry: "<a href='/New_Beehive/toc/toc2_158/'>714 [Wares]</a>|<a href='/New_Beehive/toc/toc2_364/'>1991
   [Manufactures]</a>"
 topic: 
 first_letter: M

@@ -6,11 +6,7 @@ head:
 entry: Tobacco
 topic: Tobacco
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha3/alpha_0579/'>meditation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_182/'>982 [Thoughts]</a>|||<a href='/New_Beehive/toc_vol2/toc2_263/'>1346
-  [Thunder & Lightning]</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>554 [Tithes]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_280/'>1435 [Titles of honour]</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>935
-  [Tobacco]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_174/'>935 [Tobacco]</a>"
 see: 
 page: 
 add: 

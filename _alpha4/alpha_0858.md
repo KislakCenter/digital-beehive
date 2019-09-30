@@ -6,7 +6,7 @@ head:
 entry: Sheep
 topic: Sheep
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|face|form"
+xref: 4525 [PAGE_MISSING]
 see: 
 page: 
 add: 

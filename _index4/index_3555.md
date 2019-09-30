@@ -3,7 +3,7 @@ pid: index_3555
 volume: Volume 3
 image_number: '41'
 head: scratching
-entry: "<a href='/New_Beehive/toc_vol2/toc2_326/'>1657 [Scratch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_326/'>1657 [Scratch]</a>"
 topic: 
 first_letter: S
 xref: 

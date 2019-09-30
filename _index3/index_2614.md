@@ -3,7 +3,7 @@ pid: index_2614
 volume: Volume 3
 image_number: '31'
 head: mum[m]y
-entry: "<a href='/New_Beehive/toc_vol2/toc2_320/'>1629 [Mummy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_320/'>1629 [Mummy]</a>"
 topic: 
 first_letter: M
 xref: 

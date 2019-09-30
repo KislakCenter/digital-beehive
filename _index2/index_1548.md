@@ -3,7 +3,7 @@ pid: index_1548
 volume: Volume 3
 image_number: '21'
 head: friendship parted by poverty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>16 [Poverty parts good friendship]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>16 [Poverty parts good friendship]</a>"
 topic: 
 first_letter: F
 xref: 

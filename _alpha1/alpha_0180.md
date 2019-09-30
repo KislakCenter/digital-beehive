@@ -6,7 +6,7 @@ head:
 entry: Covetousness
 topic: Covetousness
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_067/'>103 [Sordidness]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>190
+xref: "<a href='/New_Beehive/toc/toc2_067/'>103 [Sordidness]</a>|<a href='/New_Beehive/toc/toc2_075/'>190
   [Covetousness]</a>"
 see: 
 page: 

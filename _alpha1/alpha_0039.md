@@ -6,8 +6,8 @@ head:
 entry: Apostle
 topic: Apostle
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0023/'>Ambassage</a>|<a href='/New_Beehive/toc_vol2/toc2_095/'>328
-  [Peter]</a>|<a href='/New_Beehive/toc_vol2/toc2_177/'>947 [Apostle]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0023/'>Ambassage</a>|<a href='/New_Beehive/toc/toc2_095/'>328
+  [Peter]</a>|<a href='/New_Beehive/toc/toc2_177/'>947 [Apostle]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3360
 volume: Volume 3
 image_number: '39'
 head: to remit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_277/'>1418 [To Remit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_277/'>1418 [To Remit]</a>"
 topic: 
 first_letter: R
 xref: 

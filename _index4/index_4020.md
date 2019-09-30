@@ -3,7 +3,7 @@ pid: index_4020
 volume: Volume 3
 image_number: '46'
 head: Swedes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1340 [Swedland & Denmark]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1340 [Swedland & Denmark]</a>"
 topic: 
 first_letter: S
 xref: 

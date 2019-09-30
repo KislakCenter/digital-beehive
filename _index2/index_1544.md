@@ -3,7 +3,7 @@ pid: index_1544
 volume: Volume 3
 image_number: '21'
 head: fribler
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4806 [Coquets]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4806 [Coquets]</a>"
 topic: 
 first_letter: F
 xref: 

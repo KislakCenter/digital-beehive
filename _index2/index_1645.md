@@ -3,7 +3,7 @@ pid: index_1645
 volume: Volume 3
 image_number: '22'
 head: God's friends
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1936 [God's friends]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1936 [God's friends]</a>"
 topic: 
 first_letter: G
 xref: 

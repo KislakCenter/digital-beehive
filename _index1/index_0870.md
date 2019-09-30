@@ -3,7 +3,7 @@ pid: index_0870
 volume: Volume 3
 image_number: '15'
 head: cough
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>594 [Catarrhs, Inveterate Coughs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>594 [Catarrhs, Inveterate Coughs]</a>"
 topic: 
 first_letter: C
 xref: 

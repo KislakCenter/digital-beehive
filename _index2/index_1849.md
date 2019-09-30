@@ -3,7 +3,7 @@ pid: index_1849
 volume: Volume 3
 image_number: '24'
 head: to hit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_392/'>2244 [NUMERICAL_ENTRY_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_392/'>2244 [NUMERICAL_ENTRY_MISSING]</a>"
 topic: 
 first_letter: H
 xref: 

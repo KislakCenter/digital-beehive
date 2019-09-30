@@ -7,7 +7,7 @@ entry: Regeneration
 topic: Regeneration
 first_letter: R
 xref: "<a href='/New_Beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/New_Beehive/alpha4/alpha_0885/'>Sonship</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_199/'>1026 [Regeneration]</a>"
+  href='/New_Beehive/toc/toc2_199/'>1026 [Regeneration]</a>"
 see: 
 page: 
 add: 

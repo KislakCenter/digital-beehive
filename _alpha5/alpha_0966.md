@@ -6,7 +6,7 @@ head:
 entry: Travelling
 topic: Travelling
 first_letter: T
-xref: "<a href='/New_Beehive/alpha5/alpha_0976/'>Vagabonds</a>|Departure|<a href='/New_Beehive/toc_vol2/toc2_223/'>1149
+xref: "<a href='/New_Beehive/alpha5/alpha_0976/'>Vagabonds</a>|Departure|<a href='/New_Beehive/toc/toc2_223/'>1149
   [Travelling]</a>"
 see: 
 page: 

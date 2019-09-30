@@ -3,7 +3,7 @@ pid: index_0672
 volume: Volume 3
 image_number: '13'
 head: circumcision
-entry: "<a href='/New_Beehive/alpha1/alpha_0148/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_314/'>1599
+entry: "<a href='/New_Beehive/alpha1/alpha_0148/'>a</a>|<a href='/New_Beehive/toc/toc2_314/'>1599
   [Circumcision]</a>"
 topic: 
 first_letter: C

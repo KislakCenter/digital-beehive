@@ -3,7 +3,7 @@ pid: index_1504
 volume: Volume 3
 image_number: '21'
 head: forever
-entry: "<a href='/New_Beehive/toc_vol2/toc2_321/'>1632 [Forever]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_321/'>1632 [Forever]</a>"
 topic: 
 first_letter: F
 xref: 

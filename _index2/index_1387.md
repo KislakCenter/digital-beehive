@@ -3,7 +3,7 @@ pid: index_1387
 volume: Volume 3
 image_number: '20'
 head: faithlessness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_132/'>570 [Faithless]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_132/'>570 [Faithless]</a>"
 topic: 
 first_letter: F
 xref: 

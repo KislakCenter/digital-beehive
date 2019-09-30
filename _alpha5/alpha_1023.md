@@ -6,9 +6,7 @@ head:
 entry: Widowhood
 topic: Widowhood
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>malignity</a>|<a href='/New_Beehive/alpha3/alpha_0628/'>naughtiness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_095/'>324 [Wickedness]</a>|<a href='/New_Beehive/toc_vol2/toc2_317/'>1615
-  [Widow]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_317/'>1615 [Widow]</a>"
 see: 
 page: 
 add: 

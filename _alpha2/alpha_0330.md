@@ -6,7 +6,7 @@ head:
 entry: Flesh
 topic: Flesh
 first_letter: F
-xref: Plausible Popularity||<a href='/New_Beehive/toc_vol2/toc2_124/'>522 [Flesh]</a>
+xref: "<a href='/New_Beehive/toc/toc2_124/'>522 [Flesh]</a>"
 see: 
 page: 
 add: 

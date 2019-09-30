@@ -6,7 +6,7 @@ head:
 entry: Sense
 topic: Sense
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0479/'>Insensibleness</a>|<a href='/New_Beehive/toc_vol2/toc2_181/'>971
+xref: "<a href='/New_Beehive/alpha3/alpha_0479/'>Insensibleness</a>|<a href='/New_Beehive/toc/toc2_181/'>971
   [NUMERICAL_ENTRY_MISSING]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_4383
 volume: Volume 3
 image_number: '50'
 head: unhappy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>716 [Unhappiness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>716 [Unhappiness]</a>"
 topic: 
 first_letter: U/V
 xref: 

@@ -3,7 +3,7 @@ pid: index_1119
 volume: Volume 3
 image_number: '17'
 head: divorcement
-entry: "<a href='/New_Beehive/alpha1/alpha_0252/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_293/'>1498
+entry: "<a href='/New_Beehive/alpha1/alpha_0252/'>a</a>|<a href='/New_Beehive/toc/toc2_293/'>1498
   [Divorsement]</a>"
 topic: 
 first_letter: D

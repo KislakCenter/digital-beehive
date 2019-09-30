@@ -3,7 +3,7 @@ pid: index_3726
 volume: Volume 3
 image_number: '43'
 head: sinew
-entry: "<a href='/New_Beehive/toc_vol2/toc2_323/'>1641 [Nerve or Sinew]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_323/'>1641 [Nerve or Sinew]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_4212
 volume: Volume 3
 image_number: '48'
 head: train
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>866 [Train]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [Train]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_0395
 volume: Volume 3
 image_number: '10'
 head: bloodletting
-entry: "<a href='/New_Beehive/alpha1/alpha_0088/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2158
+entry: "<a href='/New_Beehive/alpha1/alpha_0088/'>a</a>|<a href='/New_Beehive/toc/toc2_381/'>2158
   [Blood-letting]</a>"
 topic: 
 first_letter: B

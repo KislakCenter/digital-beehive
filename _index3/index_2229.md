@@ -3,7 +3,7 @@ pid: index_2229
 volume: Volume 3
 image_number: '28'
 head: laypeople
-entry: "<a href='/New_Beehive/toc_vol2/toc2_167/'>899 [Lay people]</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1813
+entry: "<a href='/New_Beehive/toc/toc2_167/'>899 [Lay people]</a>|<a href='/New_Beehive/toc/toc2_348/'>1813
   [Lay people]</a>"
 topic: 
 first_letter: L

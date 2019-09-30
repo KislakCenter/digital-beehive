@@ -6,8 +6,7 @@ head:
 entry: Dancing
 topic: Dancing
 first_letter: D
-xref: "<a href='/New_Beehive/alpha3/alpha_0548/'>Losse</a>|WORD_ILLEGIBLE|<a href='/New_Beehive/toc_vol2/toc2_278/'>1422
-  [Dam[m]age]</a>|<a href='/New_Beehive/toc_vol2/toc2_299/'>1525 [Dancing]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_299/'>1525 [Dancing]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_4050
 volume: Volume 3
 image_number: '46'
 head: talebearing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_097/'>340 [Talebearing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_097/'>340 [Talebearing]</a>"
 topic: 
 first_letter: T
 xref: 

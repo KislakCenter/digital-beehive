@@ -6,7 +6,7 @@ head:
 entry: Money
 topic: Money
 first_letter: M
-xref: "<a href='/New_Beehive/alpha5/alpha_0968/'>Treasure</a>|<a href='/New_Beehive/toc_vol2/toc2_109/'>426
+xref: "<a href='/New_Beehive/alpha5/alpha_0968/'>Treasure</a>|<a href='/New_Beehive/toc/toc2_109/'>426
   [Money]</a>"
 see: 
 page: 

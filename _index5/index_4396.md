@@ -3,7 +3,7 @@ pid: index_4396
 volume: Volume 3
 image_number: '50'
 head: unicorn
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1530 [Unicorn]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1530 [Unicorn]</a>"
 topic: 
 first_letter: U/V
 xref: 

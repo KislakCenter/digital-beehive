@@ -3,7 +3,7 @@ pid: index_3477
 volume: Volume 3
 image_number: '40'
 head: Sabbath Journey
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1624 [Mile]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1624 [Mile]</a>"
 topic: 
 first_letter: S
 xref: 

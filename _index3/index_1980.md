@@ -3,7 +3,7 @@ pid: index_1980
 volume: Volume 3
 image_number: '25'
 head: improbable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>246 [Probability]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_084/'>246 [Probability]</a>"
 topic: 
 first_letter: I/J
 xref: 

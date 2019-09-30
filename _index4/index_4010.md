@@ -3,7 +3,7 @@ pid: index_4010
 volume: Volume 3
 image_number: '46'
 head: surveyor
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>407 [Surveyors]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_106/'>407 [Surveyors]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,8 +3,8 @@ pid: index_2879
 volume: Volume 3
 image_number: '34'
 head: pardon
-entry: "<a href='/New_Beehive/alpha4/alpha_0672/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_210/'>1081
-  [Forgiveness]</a>|<a href='/New_Beehive/toc_vol2/toc2_341/'>1764 [Forgiveness]</a>|4561
+entry: "<a href='/New_Beehive/alpha4/alpha_0672/'>a</a>|<a href='/New_Beehive/toc/toc2_210/'>1081
+  [Forgiveness]</a>|<a href='/New_Beehive/toc/toc2_341/'>1764 [Forgiveness]</a>|4561
   [PAGE_MISSING]"
 topic: 
 first_letter: P

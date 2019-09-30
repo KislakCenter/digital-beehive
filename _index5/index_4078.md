@@ -3,7 +3,7 @@ pid: index_4078
 volume: Volume 3
 image_number: '47'
 head: Te Deum
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1318 [Te Deum]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1318 [Te Deum]</a>"
 topic: 
 first_letter: T
 xref: 

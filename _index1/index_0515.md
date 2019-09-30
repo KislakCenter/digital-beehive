@@ -3,7 +3,7 @@ pid: index_0515
 volume: Volume 3
 image_number: '11'
 head: calumny
-entry: "<a href='/New_Beehive/toc_vol2/toc2_147/'>653 [Slander]</a>|<a href='/New_Beehive/toc_vol2/toc2_370/'>2050
+entry: "<a href='/New_Beehive/toc/toc2_147/'>653 [Slander]</a>|<a href='/New_Beehive/toc/toc2_370/'>2050
   [Slander]</a>"
 topic: 
 first_letter: C

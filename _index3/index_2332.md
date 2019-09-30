@@ -3,7 +3,7 @@ pid: index_2332
 volume: Volume 3
 image_number: '29'
 head: loquacity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_110/'>430 [Babbling]</a>|<a href='/New_Beehive/toc_vol2/toc2_337/'>1728
+entry: "<a href='/New_Beehive/toc/toc2_110/'>430 [Babbling]</a>|<a href='/New_Beehive/toc/toc2_337/'>1728
   [Babbling]</a>"
 topic: 
 first_letter: L

@@ -3,9 +3,9 @@ pid: index_2967
 volume: Volume 3
 image_number: '35'
 head: persecution
-entry: "<a href='/New_Beehive/alpha4/alpha_0694/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_212/'>1092
-  [Persecution]</a>|<a href='/New_Beehive/toc_vol2/toc2_340/'>1756 [Persecution]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_398/'>2272 [Persecution]</a>|<a href='/New_Beehive/toc_vol2/toc2_426/'>4473
+entry: "<a href='/New_Beehive/alpha4/alpha_0694/'>a</a>|<a href='/New_Beehive/toc/toc2_212/'>1092
+  [Persecution]</a>|<a href='/New_Beehive/toc/toc2_340/'>1756 [Persecution]</a>|<a
+  href='/New_Beehive/toc/toc2_398/'>2272 [Persecution]</a>|<a href='/New_Beehive/toc/toc2_426/'>4473
   [Persecution]</a>"
 topic: 
 first_letter: P

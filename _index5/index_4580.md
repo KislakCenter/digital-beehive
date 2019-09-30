@@ -3,7 +3,7 @@ pid: index_4580
 volume: Volume 3
 image_number: '53'
 head: Geo. Wither
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1585 [Abr. Cowly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Abr. Cowly]</a>"
 topic: 
 first_letter: W
 xref: 

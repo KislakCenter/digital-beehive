@@ -3,8 +3,8 @@ pid: index_4269
 volume: Volume 3
 image_number: '49'
 head: turn in
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>489 [Turn in!]</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1671
-  [Turn in!]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2281 [Turn in. Inward]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_119/'>489 [Turn in!]</a>|<a href='/New_Beehive/toc/toc2_329/'>1671
+  [Turn in!]</a>|<a href='/New_Beehive/toc/toc2_400/'>2281 [Turn in. Inward]</a>"
 topic: 
 first_letter: T
 xref: 

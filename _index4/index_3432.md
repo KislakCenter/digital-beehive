@@ -3,7 +3,7 @@ pid: index_3432
 volume: Volume 3
 image_number: '40'
 head: ring
-entry: "<a href='/New_Beehive/alpha4/alpha_0802/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_289/'>1480
+entry: "<a href='/New_Beehive/alpha4/alpha_0802/'>a</a>|<a href='/New_Beehive/toc/toc2_289/'>1480
   [Ring]</a>"
 topic: 
 first_letter: R

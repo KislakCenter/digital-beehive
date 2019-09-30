@@ -3,7 +3,7 @@ pid: index_1294
 volume: Volume 3
 image_number: '19'
 head: Erbpacht
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>352 [Erbpacht]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>352 [Erbpacht]</a>"
 topic: 
 first_letter: E
 xref: 

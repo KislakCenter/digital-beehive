@@ -3,7 +3,7 @@ pid: index_1648
 volume: Volume 3
 image_number: '22'
 head: God hiding himself
-entry: "<a href='/New_Beehive/toc_vol2/toc2_366/'>2003 [God hides himself]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_366/'>2003 [God hides himself]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -3,7 +3,7 @@ pid: index_4085
 volume: Volume 3
 image_number: '47'
 head: temporizing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>643 [Temporising]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>643 [Temporising]</a>"
 topic: 
 first_letter: T
 xref: 

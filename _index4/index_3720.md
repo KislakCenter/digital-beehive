@@ -3,7 +3,7 @@ pid: index_3720
 volume: Volume 3
 image_number: '43'
 head: sin agt. h. Ghost
-entry: "<a href='/New_Beehive/toc_vol2/toc2_094/'>320 [Sin agt. the holy Ghost]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_094/'>320 [Sin agt. the holy Ghost]</a>"
 topic: 
 first_letter: S
 xref: 

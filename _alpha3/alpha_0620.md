@@ -6,9 +6,7 @@ head:
 entry: Mystery
 topic: Mystery
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0135/'>change</a>|<a href='/New_Beehive/alpha5/alpha_0978/'>Variety</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_083/'>244 [Mutation]</a>|<a href='/New_Beehive/toc_vol2/toc2_195/'>1006
-  [Mystery]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_195/'>1006 [Mystery]</a>"
 see: 
 page: 
 add: 

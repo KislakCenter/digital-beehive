@@ -3,7 +3,7 @@ pid: index_1640
 volume: Volume 3
 image_number: '22'
 head: God be praised
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>82 [Praise God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>82 [Praise God]</a>"
 topic: 
 first_letter: G
 xref: 

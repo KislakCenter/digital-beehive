@@ -3,9 +3,9 @@ pid: index_2283
 volume: Volume 3
 image_number: '28'
 head: life
-entry: "<a href='/New_Beehive/alpha3/alpha_0535/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_245/'>1260
-  [Life]</a>|<a href='/New_Beehive/toc_vol2/toc2_379/'>2139 [Life]</a>|<a href='/New_Beehive/toc_vol2/toc2_063/'>69
-  [Life]</a>|<a href='/New_Beehive/toc_vol2/toc2_431/'>4812 [Life]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0535/'>a</a>|<a href='/New_Beehive/toc/toc2_245/'>1260
+  [Life]</a>|<a href='/New_Beehive/toc/toc2_379/'>2139 [Life]</a>|<a href='/New_Beehive/toc/toc2_063/'>69
+  [Life]</a>|<a href='/New_Beehive/toc/toc2_431/'>4812 [Life]</a>"
 topic: 
 first_letter: L
 xref: 

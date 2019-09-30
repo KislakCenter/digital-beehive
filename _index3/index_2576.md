@@ -3,7 +3,7 @@ pid: index_2576
 volume: Volume 3
 image_number: '31'
 head: moose
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1529 [Moose or Elk]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1529 [Moose or Elk]</a>"
 topic: 
 first_letter: M
 xref: 

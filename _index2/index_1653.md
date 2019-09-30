@@ -3,7 +3,7 @@ pid: index_1653
 volume: Volume 3
 image_number: '22'
 head: God's mercy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_097/'>338 [Mercy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_097/'>338 [Mercy]</a>"
 topic: 
 first_letter: G
 xref: 

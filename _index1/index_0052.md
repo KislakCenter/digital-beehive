@@ -3,9 +3,9 @@ pid: index_0052
 volume: Volume 3
 image_number: '7'
 head: adultery
-entry: "<a href='/New_Beehive/alpha1/alpha_0011/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>556
-  [Advocate]</a>|<a href='/New_Beehive/toc_vol2/toc2_186/'>1002 [Adultery]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_275/'>1406 [break Wedlock]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0011/'>a</a>|<a href='/New_Beehive/toc/toc2_129/'>556
+  [Advocate]</a>|<a href='/New_Beehive/toc/toc2_186/'>1002 [Adultery]</a>|<a href='/New_Beehive/toc/toc2_275/'>1406
+  [break Wedlock]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Magistrate
 topic: Magistrate
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0847/'>Selfprofit</a>|<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_244/'>1252 [Gainful]</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>318
-  [Magistrates]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_094/'>318 [Magistrates]</a>"
 see: 
 page: 
 add: 

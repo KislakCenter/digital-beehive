@@ -3,8 +3,8 @@ pid: index_2870
 volume: Volume 3
 image_number: '34'
 head: papists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>403 [Papists]</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1668
-  [Papists]</a>|<a href='/New_Beehive/toc_vol2/toc2_349/'>1821 [Papists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_106/'>403 [Papists]</a>|<a href='/New_Beehive/toc/toc2_328/'>1668
+  [Papists]</a>|<a href='/New_Beehive/toc/toc2_349/'>1821 [Papists]</a>"
 topic: 
 first_letter: P
 xref: 

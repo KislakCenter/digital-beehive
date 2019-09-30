@@ -3,7 +3,7 @@ pid: index_2316
 volume: Volume 3
 image_number: '28'
 head: loadstone
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1615 [Loadstone]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1615 [Loadstone]</a>"
 topic: 
 first_letter: L
 xref: 

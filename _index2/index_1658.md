@@ -3,7 +3,7 @@ pid: index_1658
 volume: Volume 3
 image_number: '22'
 head: God's teaching
-entry: "<a href='/New_Beehive/toc_vol2/toc2_205/'>1057 [God's work]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_205/'>1057 [God's work]</a>"
 topic: 
 first_letter: G
 xref: 

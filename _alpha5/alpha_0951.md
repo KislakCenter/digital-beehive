@@ -7,7 +7,7 @@ entry: Tongue
 topic: Tongue
 first_letter: T
 xref: "<a href='/New_Beehive/alpha4/alpha_0892/'>Speech</a>|<a href='/New_Beehive/alpha3/alpha_0507/'>language</a>|<a
-  href='/New_Beehive/alpha1/alpha_0050/'>babling</a>|<a href='/New_Beehive/toc_vol2/toc2_231/'>1186
+  href='/New_Beehive/alpha1/alpha_0050/'>babling</a>|<a href='/New_Beehive/toc/toc2_231/'>1186
   [Tongue]</a>"
 see: 
 page: 

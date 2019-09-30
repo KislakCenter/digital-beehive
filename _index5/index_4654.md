@@ -3,9 +3,9 @@ pid: index_4654
 volume: Volume 3
 image_number: '53'
 head: Zeal
-entry: "<a href='/New_Beehive/alpha5/alpha_1061/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1013
-  [Zeal]</a>|<a href='/New_Beehive/toc_vol2/toc2_334/'>1697 [Zeal]</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2014
-  [Zeal]</a>|<a href='/New_Beehive/toc_vol2/toc2_402/'>Entry; 2295 [Zeal]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1061/'>a</a>|<a href='/New_Beehive/toc/toc2_196/'>1013
+  [Zeal]</a>|<a href='/New_Beehive/toc/toc2_334/'>1697 [Zeal]</a>|<a href='/New_Beehive/toc/toc2_367/'>2014
+  [Zeal]</a>|<a href='/New_Beehive/toc/toc2_402/'>Entry; 2295 [Zeal]</a>"
 topic: 
 first_letter: Z
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Late Repentance
 topic: Late Repentance
 first_letter: R
-xref: "<a href='/New_Beehive/toc_vol2/toc2_092/'>307 [repentance]</a>|<a href='/New_Beehive/alpha1/alpha_0219/'>Delay</a>"
+xref: "<a href='/New_Beehive/toc/toc2_092/'>307 [repentance]</a>|<a href='/New_Beehive/alpha1/alpha_0219/'>Delay</a>"
 see: 
 page: 
 add: 

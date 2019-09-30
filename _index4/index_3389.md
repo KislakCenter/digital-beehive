@@ -3,7 +3,7 @@ pid: index_3389
 volume: Volume 3
 image_number: '39'
 head: resolution
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>441 [Resolutions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>441 [Resolutions]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,8 +3,8 @@ pid: index_1518
 volume: Volume 3
 image_number: '21'
 head: forsake all
-entry: "<a href='/New_Beehive/toc_vol2/toc2_175/'>938 [Forsake all for Christ's sake]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_369/'>2035 [Forsake]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_175/'>938 [Forsake all for Christ's sake]</a>|<a
+  href='/New_Beehive/toc/toc2_369/'>2035 [Forsake]</a>"
 topic: 
 first_letter: F
 xref: 

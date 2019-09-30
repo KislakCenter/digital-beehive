@@ -3,7 +3,7 @@ pid: index_1492
 volume: Volume 3
 image_number: '21'
 head: fodder
-entry: "<a href='/New_Beehive/toc_vol2/toc2_163/'>878 [Pasture]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Pasture]</a>"
 topic: 
 first_letter: F
 xref: 

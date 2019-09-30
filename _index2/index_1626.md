@@ -3,7 +3,7 @@ pid: index_1626
 volume: Volume 3
 image_number: '22'
 head: glory to God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_290/'>1484 [Soli Deo gloria]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_290/'>1484 [Soli Deo gloria]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Flies
 topic: Flies
 first_letter: F
-xref: Plausible Popularity||<a href='/New_Beehive/toc_vol2/toc2_124/'>522 [Flesh]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_186/'>1002 [Flies]</a>
+xref: "<a href='/New_Beehive/toc/toc2_186/'>1002 [Flies]</a>"
 see: 
 page: 
 add: 

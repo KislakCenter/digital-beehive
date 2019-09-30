@@ -3,7 +3,7 @@ pid: index_2962
 volume: Volume 3
 image_number: '35'
 head: periwig
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1337 [Hair & Perriwigs]</a>|<a href='/New_Beehive/toc_vol2/toc2_418/'>2422
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1337 [Hair & Perriwigs]</a>|<a href='/New_Beehive/toc/toc2_418/'>2422
   [Hair & Periwigs]</a>"
 topic: 
 first_letter: P

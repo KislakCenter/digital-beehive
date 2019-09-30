@@ -3,7 +3,7 @@ pid: index_1455
 volume: Volume 3
 image_number: '20'
 head: fiery or passionate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>119 [Passions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_068/'>119 [Passions]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,7 +3,7 @@ pid: index_4456
 volume: Volume 3
 image_number: '51'
 head: Wafers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_305/'>1551 [Wafer]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_305/'>1551 [Wafer]</a>"
 topic: 
 first_letter: W
 xref: 

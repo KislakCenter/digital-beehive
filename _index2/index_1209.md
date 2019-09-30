@@ -3,7 +3,7 @@ pid: index_1209
 volume: Volume 3
 image_number: '18'
 head: edom
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1901 [Edom]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1901 [Edom]</a>"
 topic: 
 first_letter: E
 xref: 

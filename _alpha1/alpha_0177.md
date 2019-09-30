@@ -6,9 +6,7 @@ head:
 entry: Conversion
 topic: Conversion
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_077/'>201 [Taverns]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>201
-  [Taverns]</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>901 [Contradiction]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_309/'>1572 [Conversion]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_309/'>1572 [Conversion]</a>"
 see: 
 page: 
 add: 

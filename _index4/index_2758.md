@@ -3,7 +3,7 @@ pid: index_2758
 volume: Volume 3
 image_number: '33'
 head: I'm oblig'd to you
-entry: "<a href='/New_Beehive/toc_vol2/toc2_428/'>4493 [I am Oblig'd to you]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_428/'>4493 [I am Oblig'd to you]</a>"
 topic: 
 first_letter: O
 xref: 

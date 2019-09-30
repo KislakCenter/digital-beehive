@@ -3,7 +3,7 @@ pid: index_3724
 volume: Volume 3
 image_number: '43'
 head: since
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1786 [Since]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1786 [Since]</a>"
 topic: 
 first_letter: S
 xref: 

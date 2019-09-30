@@ -3,8 +3,8 @@ pid: index_1329
 volume: Volume 3
 image_number: '19'
 head: example
-entry: "<a href='/New_Beehive/alpha2/alpha_0294/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_090/'>290
-  [Example]</a>|<a href='/New_Beehive/toc_vol2/toc2_319/'>1625 [Example]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2038
+entry: "<a href='/New_Beehive/alpha2/alpha_0294/'>a</a>|<a href='/New_Beehive/toc/toc2_090/'>290
+  [Example]</a>|<a href='/New_Beehive/toc/toc2_319/'>1625 [Example]</a>|<a href='/New_Beehive/toc/toc2_369/'>2038
   [Example]</a>"
 topic: 
 first_letter: E

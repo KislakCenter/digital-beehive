@@ -3,7 +3,7 @@ pid: index_4341
 volume: Volume 3
 image_number: '49'
 head: Virginia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_299/'>1521 [Virginia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_299/'>1521 [Virginia]</a>"
 topic: 
 first_letter: U/V
 xref: 

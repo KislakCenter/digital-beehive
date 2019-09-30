@@ -3,7 +3,7 @@ pid: index_2385
 volume: Volume 3
 image_number: '29'
 head: Mahomet
-entry: "<a href='/New_Beehive/toc_vol2/toc2_251/'>1290 [Religion of Mahomet]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_251/'>1290 [Religion of Mahomet]</a>"
 topic: 
 first_letter: M
 xref: 

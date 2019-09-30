@@ -3,8 +3,8 @@ pid: index_1639
 volume: Volume 3
 image_number: '22'
 head: God
-entry: "<a href='/New_Beehive/alpha2/alpha_0364/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1361
-  [God]</a>|<a href='/New_Beehive/toc_vol2/toc2_390/'>2233 [God]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0364/'>a</a>|<a href='/New_Beehive/toc/toc2_266/'>1361
+  [God]</a>|<a href='/New_Beehive/toc/toc2_390/'>2233 [God]</a>"
 topic: 
 first_letter: G
 xref: 

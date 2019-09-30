@@ -3,7 +3,7 @@ pid: index_3524
 volume: Volume 3
 image_number: '41'
 head: Satyre
-entry: "<a href='/New_Beehive/alpha4/alpha_0823/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_270/'>1384
+entry: "<a href='/New_Beehive/alpha4/alpha_0823/'>a</a>|<a href='/New_Beehive/toc/toc2_270/'>1384
   [Satyr]</a>"
 topic: 
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_0381
 volume: Volume 3
 image_number: '10'
 head: blackness
-entry: "<a href='/New_Beehive/alpha1/alpha_0083/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_307/'>1563
+entry: "<a href='/New_Beehive/alpha1/alpha_0083/'>a</a>|<a href='/New_Beehive/toc/toc2_307/'>1563
   [Blackness]</a>"
 topic: 
 first_letter: B

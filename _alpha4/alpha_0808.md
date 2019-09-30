@@ -6,8 +6,7 @@ head:
 entry: Rose
 topic: Rose
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1450
-  [Rome]</a>|<a href='/New_Beehive/toc_vol2/toc2_355/'>1928 [Rose]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_355/'>1928 [Rose]</a>"
 see: 
 page: 
 add: 

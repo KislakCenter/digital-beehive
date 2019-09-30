@@ -3,7 +3,7 @@ pid: index_0444
 volume: Volume 3
 image_number: '11'
 head: breakfast
-entry: "<a href='/New_Beehive/toc_vol2/toc2_237/'>1218 [Break-fast]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_237/'>1218 [Break-fast]</a>"
 topic: 
 first_letter: B
 xref: 

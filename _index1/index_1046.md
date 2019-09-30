@@ -3,7 +3,7 @@ pid: index_1046
 volume: Volume 3
 image_number: '16'
 head: to die colours
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1704 [Tictare, Colour or Dye]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1704 [Tictare, Colour or Dye]</a>"
 topic: 
 first_letter: D
 xref: 

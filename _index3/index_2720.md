@@ -3,9 +3,8 @@ pid: index_2720
 volume: Volume 3
 image_number: '32'
 head: nobility
-entry: "<a href='/New_Beehive/alpha3/alpha_0637/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_238/'>1226
-  [Instinct]</a>|<a href='/New_Beehive/toc_vol2/toc2_239/'>1226 [Instinct]</a>|4710
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0637/'>a</a>|<a href='/New_Beehive/toc/toc2_238/'>1226
+  [Instinct]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226 [Instinct]</a>|4710 [PAGE_MISSING]"
 topic: 
 first_letter: N
 xref: 

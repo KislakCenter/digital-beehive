@@ -6,8 +6,7 @@ head:
 entry: Seed
 topic: Seed
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/New_Beehive/toc_vol2/toc2_224/'>1152
-  [Seducing]</a>||<a href='/New_Beehive/toc_vol2/toc2_205/'>1059 [Seed]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_205/'>1059 [Seed]</a>"
 see: 
 page: 
 add: 

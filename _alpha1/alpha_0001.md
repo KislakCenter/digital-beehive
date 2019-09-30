@@ -6,9 +6,8 @@ head:
 entry: Absence
 topic: Absence
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0723/'>Presence</a>|<a href='/New_Beehive/toc_vol2/toc2_273/'>1397
-  [Absence]</a>|<a href='/New_Beehive/toc_vol2/toc2_086/'>261 [Absence & Presence
-  of Xst.]</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0723/'>Presence</a>|<a href='/New_Beehive/toc/toc2_273/'>1397
+  [Absence]</a>|<a href='/New_Beehive/toc/toc2_086/'>261 [Absence & Presence of Xst.]</a>"
 see: 
 page: 
 add: 

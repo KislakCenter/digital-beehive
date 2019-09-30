@@ -3,7 +3,7 @@ pid: index_3679
 volume: Volume 3
 image_number: '42'
 head: shipwrack
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>396 [Shipwrack]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>396 [Shipwrack]</a>"
 topic: 
 first_letter: S
 xref: 

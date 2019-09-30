@@ -3,7 +3,7 @@ pid: index_3155
 volume: Volume 3
 image_number: '37'
 head: priestcraft
-entry: "<a href='/New_Beehive/toc_vol2/toc2_342/'>1768 [Ecclesiastical Tyranny & Priestcraft]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_342/'>1768 [Ecclesiastical Tyranny & Priestcraft]</a>"
 topic: 
 first_letter: P
 xref: 

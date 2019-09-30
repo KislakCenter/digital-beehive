@@ -3,9 +3,9 @@ pid: index_2342
 volume: Volume 3
 image_number: '29'
 head: love of ye brethren
-entry: "<a href='/New_Beehive/alpha3/alpha_0553/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_255/'>1309
-  [Love to God & the Brethren]</a>|<a href='/New_Beehive/toc_vol2/toc2_368/'>2030
-  [Love of the Brethren]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0553/'>a</a>|<a href='/New_Beehive/toc/toc2_255/'>1309
+  [Love to God & the Brethren]</a>|<a href='/New_Beehive/toc/toc2_368/'>2030 [Love
+  of the Brethren]</a>"
 topic: 
 first_letter: L
 xref: 

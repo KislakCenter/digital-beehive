@@ -3,7 +3,7 @@ pid: index_1203
 volume: Volume 3
 image_number: '18'
 head: ecclesiasticus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_424/'>4464 [Ecclesiasticus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [Ecclesiasticus]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -3,7 +3,7 @@ pid: index_4374
 volume: Volume 3
 image_number: '50'
 head: to undervalue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_087/'>269 [Contempt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_087/'>269 [Contempt]</a>"
 topic: 
 first_letter: U/V
 xref: 

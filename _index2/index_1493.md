@@ -3,7 +3,7 @@ pid: index_1493
 volume: Volume 3
 image_number: '21'
 head: to fold
-entry: "<a href='/New_Beehive/toc_vol2/toc2_169/'>907 [To fold or wrap]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_169/'>907 [To fold or wrap]</a>"
 topic: 
 first_letter: F
 xref: 

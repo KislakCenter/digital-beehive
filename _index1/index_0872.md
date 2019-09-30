@@ -3,7 +3,7 @@ pid: index_0872
 volume: Volume 3
 image_number: '15'
 head: counsel
-entry: "<a href='/New_Beehive/alpha1/alpha_0182/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_236/'>1215
+entry: "<a href='/New_Beehive/alpha1/alpha_0182/'>a</a>|<a href='/New_Beehive/toc/toc2_236/'>1215
   [Counsel]</a>|4753 [PAGE_MISSING]"
 topic: 
 first_letter: C

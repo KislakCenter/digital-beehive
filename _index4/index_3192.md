@@ -3,7 +3,7 @@ pid: index_3192
 volume: Volume 3
 image_number: '37'
 head: proof, or trial
-entry: "<a href='/New_Beehive/alpha4/alpha_0741/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_118/'>487
+entry: "<a href='/New_Beehive/alpha4/alpha_0741/'>a</a>|<a href='/New_Beehive/toc/toc2_118/'>487
   [Proof. Try all]</a>"
 topic: 
 first_letter: P

@@ -6,11 +6,7 @@ head:
 entry: Eel
 topic: Eel
 first_letter: E
-xref: Excommunication|<a href='/New_Beehive/toc_vol2/toc2_064/'>74 [the Judge of religious
-  Controversies]</a>|<a href='/New_Beehive/toc_vol2/toc2_106/'>402 [Order & Discipline
-  of the Church of Christ]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1616 [Eccho]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_175/'>936 [Eclipse]</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1647
-  [Eel]</a>
+xref: "<a href='/New_Beehive/toc/toc2_324/'>1647 [Eel]</a>"
 see: 
 page: 
 add: 

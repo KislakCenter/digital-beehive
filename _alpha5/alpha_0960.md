@@ -6,8 +6,7 @@ head:
 entry: Toothach
 topic: Toothach
 first_letter: T
-xref: "<a href='/New_Beehive/alpha4/alpha_0879/'>Slowness</a>|too late|<a href='/New_Beehive/toc_vol2/toc2_059/'>20
-  [Too late]</a>||Hast|<a href='/New_Beehive/toc_vol2/toc2_251/'>1286 [Tooth]</a>|"
+xref: 
 see: 
 page: p.377 [Image 2.199]
 add: 

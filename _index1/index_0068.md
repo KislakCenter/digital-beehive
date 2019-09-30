@@ -3,8 +3,7 @@ pid: index_0068
 volume: Volume 3
 image_number: '7'
 head: after sweet sowre
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>10 [After high floods (.come:) low
-  ebbs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>10 [After high floods (.come:) low ebbs]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,9 +3,8 @@ pid: index_1378
 volume: Volume 3
 image_number: '20'
 head: failings of Saints
-entry: "<a href='/New_Beehive/toc_vol2/toc2_178/'>956 [Failings of good men]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_234/'>1203 [Faults]</a>|<a href='/New_Beehive/toc_vol2/toc2_393/'>2248
-  [Church of England]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_178/'>956 [Failings of good men]</a>|<a href='/New_Beehive/toc/toc2_234/'>1203
+  [Faults]</a>|<a href='/New_Beehive/toc/toc2_393/'>2248 [Church of England]</a>"
 topic: 
 first_letter: F
 xref: 

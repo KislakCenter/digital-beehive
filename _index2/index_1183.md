@@ -3,7 +3,7 @@ pid: index_1183
 volume: Volume 3
 image_number: '18'
 head: ear
-entry: "<a href='/New_Beehive/alpha2/alpha_0269/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1402
+entry: "<a href='/New_Beehive/alpha2/alpha_0269/'>a</a>|<a href='/New_Beehive/toc/toc2_274/'>1402
   [Ear]</a>"
 topic: 
 first_letter: E

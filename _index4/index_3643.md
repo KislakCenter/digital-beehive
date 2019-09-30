@@ -3,7 +3,7 @@ pid: index_3643
 volume: Volume 3
 image_number: '42'
 head: seriousness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_078/'>202 [Seriousness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_078/'>202 [Seriousness]</a>"
 topic: 
 first_letter: S
 xref: 

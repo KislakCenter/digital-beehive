@@ -3,7 +3,7 @@ pid: index_2471
 volume: Volume 3
 image_number: '30'
 head: meekness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_273/'>1397 [Meekness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_273/'>1397 [Meekness]</a>"
 topic: 
 first_letter: M
 xref: 

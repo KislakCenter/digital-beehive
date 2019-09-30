@@ -3,7 +3,7 @@ pid: index_3271
 volume: Volume 3
 image_number: '38'
 head: to quit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_236/'>1212 [To Leave off]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_236/'>1212 [To Leave off]</a>"
 topic: 
 first_letter: Q
 xref: 

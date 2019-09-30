@@ -3,7 +3,7 @@ pid: index_2443
 volume: Volume 3
 image_number: '30'
 head: mason
-entry: "<a href='/New_Beehive/toc_vol2/toc2_169/'>907 [Mason]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_169/'>907 [Mason]</a>"
 topic: 
 first_letter: M
 xref: 

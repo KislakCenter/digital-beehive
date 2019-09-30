@@ -3,7 +3,7 @@ pid: index_2199
 volume: Volume 3
 image_number: '27'
 head: lapidaria
-entry: "<a href='/New_Beehive/toc_vol2/toc2_275/'>EntryL 1406 [Lapidaria]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_275/'>EntryL 1406 [Lapidaria]</a>"
 topic: 
 first_letter: L
 xref: 

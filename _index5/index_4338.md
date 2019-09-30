@@ -3,7 +3,7 @@ pid: index_4338
 volume: Volume 3
 image_number: '49'
 head: viper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_302/'>1539 [Serpents]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_302/'>1539 [Serpents]</a>"
 topic: 
 first_letter: U/V
 xref: 

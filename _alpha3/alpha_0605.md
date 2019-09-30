@@ -6,10 +6,7 @@ head:
 entry: Mortality
 topic: Mortality
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>880
-  [Moral Philos]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1357 [Moon]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_180/'>969 [morning]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1075
-  [Mortality]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_208/'>1075 [Mortality]</a>"
 see: 
 page: 
 add: 

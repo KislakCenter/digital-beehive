@@ -6,9 +6,7 @@ head:
 entry: Fasting
 topic: Fasting|Fasting days
 first_letter: F
-xref: Departure|<a href='/New_Beehive/alpha1/alpha_0055/'>Banishmt</a>|<a href='/New_Beehive/toc_vol2/toc2_150/'>675
-  [Farewell]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386 [Fashion of the Country]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_163/'>876 [Fasting]</a>
+xref: "<a href='/New_Beehive/toc/toc2_163/'>876 [Fasting]</a>"
 see: 
 page: 
 add: 

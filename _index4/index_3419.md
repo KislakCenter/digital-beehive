@@ -3,7 +3,7 @@ pid: index_3419
 volume: Volume 3
 image_number: '40'
 head: riband
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>348 [a Band]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [a Band]</a>"
 topic: 
 first_letter: R
 xref: 

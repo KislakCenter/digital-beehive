@@ -6,9 +6,8 @@ head:
 entry: Fall
 topic: Fall
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0909/'>Strappado</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>10
-  [After high floods come low ebbs]</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>983
-  [Fall]</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0909/'>Strappado</a>|<a href='/New_Beehive/toc/toc2_058/'>10
+  [After high floods come low ebbs]</a>|<a href='/New_Beehive/toc/toc2_183/'>983 [Fall]</a>"
 see: 
 page: 
 add: 

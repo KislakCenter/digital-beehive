@@ -3,7 +3,7 @@ pid: index_3409
 volume: Volume 3
 image_number: '40'
 head: to review
-entry: "<a href='/New_Beehive/toc_vol2/toc2_284/'>1452 [To Review]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_284/'>1452 [To Review]</a>"
 topic: 
 first_letter: R
 xref: 

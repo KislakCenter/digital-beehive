@@ -3,7 +3,7 @@ pid: index_3782
 volume: Volume 3
 image_number: '43'
 head: soft
-entry: "<a href='/New_Beehive/alpha4/alpha_0883/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_138/'>603
+entry: "<a href='/New_Beehive/alpha4/alpha_0883/'>a</a>|<a href='/New_Beehive/toc/toc2_138/'>603
   [Flaxid]</a>"
 topic: 
 first_letter: S

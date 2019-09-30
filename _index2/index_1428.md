@@ -3,7 +3,7 @@ pid: index_1428
 volume: Volume 3
 image_number: '20'
 head: fellowship
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>283 [Company]</a>|<a href='/New_Beehive/toc_vol2/toc2_360/'>1964
+entry: "<a href='/New_Beehive/toc/toc2_089/'>283 [Company]</a>|<a href='/New_Beehive/toc/toc2_360/'>1964
   [Company]</a>"
 topic: 
 first_letter: F

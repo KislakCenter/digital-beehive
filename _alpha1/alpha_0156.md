@@ -6,11 +6,7 @@ head:
 entry: False Comfort
 topic: False Comfort
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/New_Beehive/alpha3/alpha_0641/'>Nun</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_105/'>395 [Cloister]</a>||<a href='/New_Beehive/toc_vol2/toc2_376/'>2102
-  [Cold]</a>|<a href='/New_Beehive/toc_vol2/toc2_169/'>909 [Comedies]</a>|<a href='/New_Beehive/toc_vol2/toc2_332/'>1690
-  [Comet]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>182 [Comfort]</a>|<a href='/New_Beehive/toc_vol2/toc2_299/'>1525
-  [False Comfort]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_299/'>1525 [False Comfort]</a>"
 see: 
 page: 
 add: 

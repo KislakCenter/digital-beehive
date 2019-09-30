@@ -3,7 +3,7 @@ pid: index_2334
 volume: Volume 3
 image_number: '29'
 head: Loretto
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1319 [Loretto]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1319 [Loretto]</a>"
 topic: 
 first_letter: L
 xref: 

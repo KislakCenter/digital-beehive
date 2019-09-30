@@ -3,8 +3,8 @@ pid: index_1339
 volume: Volume 3
 image_number: '19'
 head: excuse
-entry: "<a href='/New_Beehive/alpha2/alpha_0295/'>a</a>|756 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_279/'>1427
-  [Excuse]</a>|<a href='/New_Beehive/toc_vol2/toc2_441/'>4869 [Excuse]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0295/'>a</a>|756 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_279/'>1427
+  [Excuse]</a>|<a href='/New_Beehive/toc/toc2_441/'>4869 [Excuse]</a>"
 topic: 
 first_letter: E
 xref: 

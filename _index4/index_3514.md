@@ -3,7 +3,7 @@ pid: index_3514
 volume: Volume 3
 image_number: '41'
 head: of the same time
-entry: "<a href='/New_Beehive/toc_vol2/toc2_237/'>1220 [Of the same time]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
 topic: 
 first_letter: S
 xref: 

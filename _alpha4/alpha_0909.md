@@ -6,7 +6,7 @@ head:
 entry: Strappado
 topic: Strappado
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>|Torturing"
+xref: Torturing
 see: 
 page: 
 add: 

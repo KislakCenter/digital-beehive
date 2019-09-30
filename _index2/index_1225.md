@@ -3,7 +3,7 @@ pid: index_1225
 volume: Volume 3
 image_number: '18'
 head: Elijah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>288 [Elijah]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_090/'>288 [Elijah]</a>"
 topic: 
 first_letter: E
 xref: 

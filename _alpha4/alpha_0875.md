@@ -6,8 +6,7 @@ head:
 entry: Skin
 topic: Skin
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0299/'>experience</a>|<a href='/New_Beehive/alpha3/alpha_0503/'>knowledge</a>|ability|<a
-  href='/New_Beehive/toc_vol2/toc2_147/'>654 [Hide]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_147/'>654 [Hide]</a>"
 see: 
 page: 
 add: 

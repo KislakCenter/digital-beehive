@@ -6,8 +6,7 @@ head:
 entry: Health
 topic: Health
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0283/'>enmity</a>||<a href='/New_Beehive/toc_vol2/toc2_295/'>1506
-  [Health]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_295/'>1506 [Health]</a>"
 see: 
 page: 
 add: 

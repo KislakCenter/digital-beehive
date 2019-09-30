@@ -3,7 +3,7 @@ pid: index_3793
 volume: Volume 3
 image_number: '44'
 head: Son of God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_283/'>1449 [Son of God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_283/'>1449 [Son of God]</a>"
 topic: 
 first_letter: S
 xref: 

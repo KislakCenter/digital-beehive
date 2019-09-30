@@ -3,7 +3,7 @@ pid: index_2638
 volume: Volume 3
 image_number: '32'
 head: false names
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>54 [false Names]</a>|<a href='/New_Beehive/toc_vol2/toc2_087/'>272
+entry: "<a href='/New_Beehive/toc/toc2_062/'>54 [false Names]</a>|<a href='/New_Beehive/toc/toc2_087/'>272
   [False names]</a>"
 topic: 
 first_letter: N

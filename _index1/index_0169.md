@@ -3,9 +3,9 @@ pid: index_0169
 volume: Volume 3
 image_number: '8'
 head: apostacy
-entry: "<a href='/New_Beehive/alpha1/alpha_0038/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>553
-  [Apostate]</a>|<a href='/New_Beehive/toc_vol2/toc2_202/'>1045 [Apostacy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_347/'>1807 [Apostacy]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0038/'>a</a>|<a href='/New_Beehive/toc/toc2_129/'>553
+  [Apostate]</a>|<a href='/New_Beehive/toc/toc2_202/'>1045 [Apostacy]</a>|<a href='/New_Beehive/toc/toc2_347/'>1807
+  [Apostacy]</a>"
 topic: 
 first_letter: A
 xref: 

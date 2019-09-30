@@ -3,7 +3,7 @@ pid: index_3378
 volume: Volume 3
 image_number: '39'
 head: reproach
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>381 [Invective]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>381 [Invective]</a>"
 topic: 
 first_letter: R
 xref: 

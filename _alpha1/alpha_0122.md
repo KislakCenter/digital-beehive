@@ -6,10 +6,7 @@ head:
 entry: Carriage
 topic: Carriage
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>638
-  [Capital Offences]</a>|<a href='/New_Beehive/alpha3/alpha_0522/'>Leader</a>|<a href='/New_Beehive/alpha2/alpha_0399/'>Hat</a>|<a
-  href='/New_Beehive/alpha4/alpha_0706/'>Play</a>|<a href='/New_Beehive/toc_vol2/toc2_147/'>654
-  [Care]</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1162 [Carriage]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 see: 
 page: 
 add: 

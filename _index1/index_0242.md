@@ -3,7 +3,7 @@ pid: index_0242
 volume: Volume 3
 image_number: '9'
 head: attorney
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>721 [Attorney]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>721 [Attorney]</a>"
 topic: 
 first_letter: A
 xref: 

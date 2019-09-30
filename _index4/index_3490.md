@@ -3,7 +3,7 @@ pid: index_3490
 volume: Volume 3
 image_number: '40'
 head: saffron
-entry: "<a href='/New_Beehive/toc_vol2/toc2_324/'>1646 [Saffron]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_324/'>1646 [Saffron]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_2806
 volume: Volume 3
 image_number: '33'
 head: opinion
-entry: "<a href='/New_Beehive/alpha4/alpha_0659/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1029
+entry: "<a href='/New_Beehive/alpha4/alpha_0659/'>a</a>|<a href='/New_Beehive/toc/toc2_199/'>1029
   [Opinion]</a>"
 topic: 
 first_letter: O

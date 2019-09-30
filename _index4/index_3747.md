@@ -3,8 +3,8 @@ pid: index_3747
 volume: Volume 3
 image_number: '43'
 head: sleep
-entry: "<a href='/New_Beehive/alpha4/alpha_0877/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>925
-  [Sleep]</a>|<a href='/New_Beehive/toc_vol2/toc2_228/'>1172 [Sleep]</a>|4723 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha4/alpha_0877/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>925
+  [Sleep]</a>|<a href='/New_Beehive/toc/toc2_228/'>1172 [Sleep]</a>|4723 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Vanity
 topic: Vanity
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha5/alpha_0965/'>Transitory</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1659
+xref: "<a href='/New_Beehive/alpha5/alpha_0965/'>Transitory</a>|<a href='/New_Beehive/toc/toc2_326/'>1659
   [Vanitatis Triumphus]</a>"
 see: 
 page: 

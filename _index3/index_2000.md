@@ -3,7 +3,7 @@ pid: index_2000
 volume: Volume 3
 image_number: '25'
 head: incompatible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_427/'>4476 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_427/'>4476 [WORD_MISSING]</a>"
 topic: 
 first_letter: I/J
 xref: 

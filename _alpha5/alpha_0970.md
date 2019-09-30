@@ -6,9 +6,7 @@ head:
 entry: Trinity
 topic: Trinity
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0599/'>Money</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1509
-  [Treasure]</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1648 [Trees]</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>639
-  [Trinity]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_144/'>639 [Trinity]</a>"
 see: 
 page: 
 add: 

@@ -3,9 +3,9 @@ pid: index_3560
 volume: Volume 3
 image_number: '41'
 head: Scriptures
-entry: "<a href='/New_Beehive/alpha4/alpha_0829/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>922
-  [a Scripture]</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1028 [H. Scriptures]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_390/'>2235 [H: Scriptures]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0829/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>922
+  [a Scripture]</a>|<a href='/New_Beehive/toc/toc2_199/'>1028 [H. Scriptures]</a>|<a
+  href='/New_Beehive/toc/toc2_390/'>2235 [H: Scriptures]</a>"
 topic: 
 first_letter: S
 xref: 

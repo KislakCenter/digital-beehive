@@ -3,7 +3,7 @@ pid: index_4124
 volume: Volume 3
 image_number: '47'
 head: 'Tho: of Kempis'
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1009 [Thomas of Kempis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1009 [Thomas of Kempis]</a>"
 topic: 
 first_letter: T
 xref: 

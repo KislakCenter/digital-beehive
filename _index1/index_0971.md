@@ -3,10 +3,9 @@ pid: index_0971
 volume: Volume 3
 image_number: '15'
 head: fear of death
-entry: "<a href='/New_Beehive/alpha1/alpha_0211/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_109/'>424
-  [Fear of death]</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1177 [Fear of Death]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_240/'>1234 [Fear & contempt of Death]</a>|4605
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha1/alpha_0211/'>a</a>|<a href='/New_Beehive/toc/toc2_109/'>424
+  [Fear of death]</a>|<a href='/New_Beehive/toc/toc2_229/'>1177 [Fear of Death]</a>|<a
+  href='/New_Beehive/toc/toc2_240/'>1234 [Fear & contempt of Death]</a>|4605 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 

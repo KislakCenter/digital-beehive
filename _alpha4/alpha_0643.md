@@ -6,10 +6,7 @@ head:
 entry: Oats
 topic: Oats
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>|<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a
-  href='/New_Beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>524
-  [Novelty]</a>|<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1937
-  [Nut]</a>|"
+xref: 
 see: 
 page: 
 add: 

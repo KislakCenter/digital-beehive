@@ -3,7 +3,7 @@ pid: index_1451
 volume: Volume 3
 image_number: '20'
 head: to finish
-entry: "<a href='/New_Beehive/toc_vol2/toc2_163/'>878 [To Finish]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [To Finish]</a>"
 topic: 
 first_letter: F
 xref: 

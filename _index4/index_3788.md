@@ -3,7 +3,7 @@ pid: index_3788
 volume: Volume 3
 image_number: '43'
 head: Solomon
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>314 [Solomon]</a>|<a href='/New_Beehive/toc_vol2/toc2_311/'>1583
+entry: "<a href='/New_Beehive/toc/toc2_093/'>314 [Solomon]</a>|<a href='/New_Beehive/toc/toc2_311/'>1583
   [Solomon]</a>"
 topic: 
 first_letter: S

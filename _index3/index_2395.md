@@ -3,7 +3,7 @@ pid: index_2395
 volume: Volume 3
 image_number: '29'
 head: malabaria
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1465 [Malabrians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1465 [Malabrians]</a>"
 topic: 
 first_letter: M
 xref: 

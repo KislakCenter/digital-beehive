@@ -6,10 +6,7 @@ head:
 entry: God's help
 topic: God's help
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0484/'>Interpretation</a>|<a href='/New_Beehive/alpha5/alpha_0963/'>Tradition</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_069/'>121 [Gloss]</a>||<a href='/New_Beehive/toc_vol2/toc2_093/'>310
-  [Gods]</a>||<a href='/New_Beehive/toc_vol2/toc2_097/'>337 [Gods goodness]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_072/'>160 [Gods help]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_072/'>160 [Gods help]</a>"
 see: 
 page: 
 add: 

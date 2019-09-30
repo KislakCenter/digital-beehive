@@ -3,7 +3,7 @@ pid: index_4023
 volume: Volume 3
 image_number: '46'
 head: swelling
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>916 [Swelling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Swelling]</a>"
 topic: 
 first_letter: S
 xref: 

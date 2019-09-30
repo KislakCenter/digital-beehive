@@ -3,7 +3,7 @@ pid: index_0807
 volume: Volume 3
 image_number: '14'
 head: consequently
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1710 [Needs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1710 [Needs]</a>"
 topic: 
 first_letter: C
 xref: 

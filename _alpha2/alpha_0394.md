@@ -6,7 +6,7 @@ head:
 entry: Hardning
 topic: Hardning
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2374
+xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc/toc2_412/'>2374
   [Hardning]</a>"
 see: 
 page: 

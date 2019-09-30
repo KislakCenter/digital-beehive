@@ -3,7 +3,7 @@ pid: index_4060
 volume: Volume 3
 image_number: '46'
 head: tarantula
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>458 [Spider]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>458 [Spider]</a>"
 topic: 
 first_letter: T
 xref: 

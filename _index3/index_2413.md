@@ -3,8 +3,8 @@ pid: index_2413
 volume: Volume 3
 image_number: '29'
 head: manifest
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>186 [Manifest]</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1047
-  [Manifest]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4478 [Manifest]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_075/'>186 [Manifest]</a>|<a href='/New_Beehive/toc/toc2_203/'>1047
+  [Manifest]</a>|<a href='/New_Beehive/toc/toc2_427/'>4478 [Manifest]</a>"
 topic: 
 first_letter: M
 xref: 

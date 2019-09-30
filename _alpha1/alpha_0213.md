@@ -6,8 +6,7 @@ head:
 entry: Dedication
 topic: Dedication
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0686/'>Payment</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1352
-  [Debt]</a>|<a href='/New_Beehive/toc_vol2/toc2_263/'>1348 [Epistle Dedicatory]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_263/'>1348 [Epistle Dedicatory]</a>"
 see: 
 page: 
 add: 

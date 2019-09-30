@@ -3,7 +3,7 @@ pid: index_0978
 volume: Volume 3
 image_number: '16'
 head: decay
-entry: "<a href='/New_Beehive/toc_vol2/toc2_083/'>244 [Decay]</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>587
+entry: "<a href='/New_Beehive/toc/toc2_083/'>244 [Decay]</a>|<a href='/New_Beehive/toc/toc2_135/'>587
   [mouldy]</a>"
 topic: 
 first_letter: D

@@ -3,7 +3,7 @@ pid: index_0743
 volume: Volume 3
 image_number: '13'
 head: common
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>164 [Common]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>164 [Common]</a>"
 topic: 
 first_letter: C
 xref: 

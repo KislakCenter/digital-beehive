@@ -6,8 +6,7 @@ head:
 entry: the Lords Supper
 topic: the Lords Supper
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will Worship</a>|<a href='/New_Beehive/toc_vol2/toc2_176/'>946
-  [Superstition]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>274 [Lords Supper]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_088/'>274 [Lords Supper]</a>"
 see: 
 page: 
 add: 

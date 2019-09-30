@@ -3,8 +3,8 @@ pid: index_3143
 volume: Volume 3
 image_number: '37'
 head: pretender to learning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>105 [a Pretender to learning]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_387/'>2212 [Pretender to learning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>105 [a Pretender to learning]</a>|<a
+  href='/New_Beehive/toc/toc2_387/'>2212 [Pretender to learning]</a>"
 topic: 
 first_letter: P
 xref: 

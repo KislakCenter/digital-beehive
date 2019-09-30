@@ -3,7 +3,7 @@ pid: index_0319
 volume: Volume 3
 image_number: '9'
 head: beast
-entry: "<a href='/New_Beehive/alpha1/alpha_0068/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1185
+entry: "<a href='/New_Beehive/alpha1/alpha_0068/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1185
   [Beasts]</a>"
 topic: 
 first_letter: B

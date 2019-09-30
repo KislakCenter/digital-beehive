@@ -3,7 +3,7 @@ pid: index_0278
 volume: Volume 3
 image_number: '9'
 head: ball
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>295 [Ball-playing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>295 [Ball-playing]</a>"
 topic: 
 first_letter: B
 xref: 

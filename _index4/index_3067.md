@@ -3,7 +3,7 @@ pid: index_3067
 volume: Volume 3
 image_number: '36'
 head: polygamy
-entry: "<a href='/New_Beehive/alpha4/alpha_0711/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_180/'>969
+entry: "<a href='/New_Beehive/alpha4/alpha_0711/'>a</a>|<a href='/New_Beehive/toc/toc2_180/'>969
   [Polygamy]</a>"
 topic: 
 first_letter: P

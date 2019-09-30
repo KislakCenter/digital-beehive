@@ -3,7 +3,7 @@ pid: index_0980
 volume: Volume 3
 image_number: '16'
 head: decently
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>624 [Handsomness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>624 [Handsomness]</a>"
 topic: 
 first_letter: D
 xref: 

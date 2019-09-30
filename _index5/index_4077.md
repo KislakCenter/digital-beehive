@@ -3,7 +3,7 @@ pid: index_4077
 volume: Volume 3
 image_number: '47'
 head: tedious
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>662 [Irksomness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>662 [Irksomness]</a>"
 topic: 
 first_letter: T
 xref: 

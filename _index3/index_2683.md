@@ -3,7 +3,7 @@ pid: index_2683
 volume: Volume 3
 image_number: '32'
 head: Nemesis
-entry: "<a href='/New_Beehive/toc_vol2/toc2_267/'>1366 [Justice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_267/'>1366 [Justice]</a>"
 topic: 
 first_letter: N
 xref: 

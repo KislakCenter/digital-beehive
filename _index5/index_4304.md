@@ -3,7 +3,7 @@ pid: index_4304
 volume: Volume 3
 image_number: '49'
 head: vegetables
-entry: "<a href='/New_Beehive/toc_vol2/toc2_323/'>1644 [Vegetables]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_323/'>1644 [Vegetables]</a>"
 topic: 
 first_letter: U/V
 xref: 

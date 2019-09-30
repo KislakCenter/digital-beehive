@@ -3,9 +3,9 @@ pid: index_1916
 volume: Volume 3
 image_number: '24'
 head: hypocrisy
-entry: "<a href='/New_Beehive/alpha2/alpha_0440/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_213/'>1100
-  [Hypocrisy]</a>|<a href='/New_Beehive/toc_vol2/toc2_304/'>1549 [Hypocrisy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_362/'>1975 [Hypocrisie]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0440/'>a</a>|<a href='/New_Beehive/toc/toc2_213/'>1100
+  [Hypocrisy]</a>|<a href='/New_Beehive/toc/toc2_304/'>1549 [Hypocrisy]</a>|<a href='/New_Beehive/toc/toc2_362/'>1975
+  [Hypocrisie]</a>"
 topic: 
 first_letter: H
 xref: 

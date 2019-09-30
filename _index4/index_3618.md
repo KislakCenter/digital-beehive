@@ -3,7 +3,7 @@ pid: index_3618
 volume: Volume 3
 image_number: '42'
 head: Self hatred
-entry: "<a href='/New_Beehive/alpha4/alpha_0842/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_162/'>874
+entry: "<a href='/New_Beehive/alpha4/alpha_0842/'>a</a>|<a href='/New_Beehive/toc/toc2_162/'>874
   [Self-hatred]</a>"
 topic: 
 first_letter: S

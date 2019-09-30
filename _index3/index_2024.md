@@ -3,7 +3,7 @@ pid: index_2024
 volume: Volume 3
 image_number: '26'
 head: inequality
-entry: "<a href='/New_Beehive/alpha3/alpha_0469/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_275/'>1407
+entry: "<a href='/New_Beehive/alpha3/alpha_0469/'>a</a>|<a href='/New_Beehive/toc/toc2_275/'>1407
   [Inequality]</a>"
 topic: 
 first_letter: I/J

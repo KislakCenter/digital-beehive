@@ -3,7 +3,7 @@ pid: index_0600
 volume: Volume 3
 image_number: '12'
 head: chaos
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1324 [Creation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1324 [Creation]</a>"
 topic: 
 first_letter: C
 xref: 

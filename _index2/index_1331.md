@@ -3,7 +3,7 @@ pid: index_1331
 volume: Volume 3
 image_number: '19'
 head: excellent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>535 [Excellent]</a>|<a href='/New_Beehive/toc_vol2/toc2_276/'>1412
+entry: "<a href='/New_Beehive/toc/toc2_126/'>535 [Excellent]</a>|<a href='/New_Beehive/toc/toc2_276/'>1412
   [Excellent]</a>"
 topic: 
 first_letter: E

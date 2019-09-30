@@ -3,7 +3,7 @@ pid: index_2466
 volume: Volume 3
 image_number: '30'
 head: medicoru[m] nomina
-entry: "<a href='/New_Beehive/toc_vol2/toc2_389/'>2228 [Noia medicorum]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_389/'>2228 [Noia medicorum]</a>"
 topic: 
 first_letter: M
 xref: 

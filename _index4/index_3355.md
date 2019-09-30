@@ -3,7 +3,7 @@ pid: index_3355
 volume: Volume 3
 image_number: '39'
 head: remedy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1625 [Remedy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1625 [Remedy]</a>"
 topic: 
 first_letter: R
 xref: 

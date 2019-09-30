@@ -3,8 +3,8 @@ pid: index_0746
 volume: Volume 3
 image_number: '13'
 head: common prayer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>259 [Com[m]on Prayer Book]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_422/'>4449 [Common Prayer]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>259 [Com[m]on Prayer Book]</a>|<a href='/New_Beehive/toc/toc2_422/'>4449
+  [Common Prayer]</a>"
 topic: 
 first_letter: C
 xref: 

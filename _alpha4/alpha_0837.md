@@ -6,8 +6,7 @@ head:
 entry: Sedition vid. Rebellion
 topic: Sedition vid. Rebellion
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/New_Beehive/toc_vol2/toc2_224/'>1152
-  [Seducing]</a>|"
+xref: 
 see: 
 page: 
 add: 

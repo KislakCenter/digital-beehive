@@ -3,7 +3,7 @@ pid: index_1392
 volume: Volume 3
 image_number: '20'
 head: falshood
-entry: "<a href='/New_Beehive/alpha2/alpha_0311/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_182/'>979
+entry: "<a href='/New_Beehive/alpha2/alpha_0311/'>a</a>|<a href='/New_Beehive/toc/toc2_182/'>979
   [Falsehood]</a>"
 topic: 
 first_letter: F

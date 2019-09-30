@@ -3,7 +3,7 @@ pid: index_3104
 volume: Volume 3
 image_number: '36'
 head: practise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_262/'>1345 [Experience]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_262/'>1345 [Experience]</a>"
 topic: 
 first_letter: P
 xref: 

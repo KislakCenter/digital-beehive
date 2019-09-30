@@ -3,7 +3,7 @@ pid: index_1430
 volume: Volume 3
 image_number: '20'
 head: felo de se
-entry: "<a href='/New_Beehive/toc_vol2/toc2_229/'>1180 [Self Murder]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_229/'>1180 [Self Murder]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,8 +3,8 @@ pid: index_3912
 volume: Volume 3
 image_number: '45'
 head: stones
-entry: "<a href='/New_Beehive/alpha4/alpha_0905/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_136/'>596
-  [The Stone Gravel of the Kidneys]</a>|<a href='/New_Beehive/toc_vol2/toc2_377/'>2116
+entry: "<a href='/New_Beehive/alpha4/alpha_0905/'>a</a>|<a href='/New_Beehive/toc/toc2_136/'>596
+  [The Stone Gravel of the Kidneys]</a>|<a href='/New_Beehive/toc/toc2_377/'>2116
   [Stones]</a>"
 topic: 
 first_letter: S

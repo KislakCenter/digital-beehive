@@ -6,7 +6,7 @@ head:
 entry: Reconcilemt
 topic: Reconcilemt
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0704/'>Placableness</a>|<a href='/New_Beehive/toc_vol2/toc2_102/'>379
+xref: "<a href='/New_Beehive/alpha4/alpha_0704/'>Placableness</a>|<a href='/New_Beehive/toc/toc2_102/'>379
   [Reconciliatio universalis]</a>"
 see: 
 page: 

@@ -7,8 +7,8 @@ entry: Scripture
 topic: Scripture
 first_letter: S
 xref: "<a href='/New_Beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/New_Beehive/alpha5/alpha_1057/'>Writing</a>|<a
-  href='/New_Beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>77
-  [Scripture]</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>77 [Scriptures]</a>"
+  href='/New_Beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/New_Beehive/toc/toc2_064/'>77
+  [Scripture]</a>|<a href='/New_Beehive/toc/toc2_064/'>77 [Scriptures]</a>"
 see: 
 page: 
 add: 

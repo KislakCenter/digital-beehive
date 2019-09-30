@@ -3,7 +3,7 @@ pid: index_3873
 volume: Volume 3
 image_number: '44'
 head: to stagger
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>706 [to Stumble]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>706 [to Stumble]</a>"
 topic: 
 first_letter: S
 xref: 

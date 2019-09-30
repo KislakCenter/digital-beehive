@@ -3,7 +3,7 @@ pid: index_3616
 volume: Volume 3
 image_number: '42'
 head: Self examina[ti]on
-entry: "<a href='/New_Beehive/toc_vol2/toc2_216/'>1111 [Examine]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2284
+entry: "<a href='/New_Beehive/toc/toc2_216/'>1111 [Examine]</a>|<a href='/New_Beehive/toc/toc2_400/'>2284
   [Self-Examination]</a>"
 topic: 
 first_letter: S

@@ -6,8 +6,7 @@ head:
 entry: Foot
 topic: Foot
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|<a href='/New_Beehive/toc_vol2/toc2_225/'>1159
-  [Folly]</a>|<a href='/New_Beehive/toc_vol2/toc2_282/'>1444 [Riches]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_282/'>1444 [Riches]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0947
 volume: Volume 3
 image_number: '15'
 head: darkness
-entry: "<a href='/New_Beehive/alpha1/alpha_0207/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_237/'>1220
+entry: "<a href='/New_Beehive/alpha1/alpha_0207/'>a</a>|<a href='/New_Beehive/toc/toc2_237/'>1220
   [Darkness]</a>"
 topic: 
 first_letter: D

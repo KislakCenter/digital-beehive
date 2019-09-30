@@ -3,7 +3,7 @@ pid: index_3985
 volume: Volume 3
 image_number: '46'
 head: sunday
-entry: "<a href='/New_Beehive/toc_vol2/toc2_122/'>511 [First day of the Week]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
 topic: 
 first_letter: S
 xref: 

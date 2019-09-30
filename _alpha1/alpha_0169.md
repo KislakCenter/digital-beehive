@@ -6,10 +6,7 @@ head:
 entry: Conscience
 topic: Conscience
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0225/'>Deprecation</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1046
-  [Confess]</a>|<a href='/New_Beehive/toc_vol2/toc2_363/'>1981 [Confession]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_175/'>940 [Auricular Confession]</a>|<a href='/New_Beehive/toc_vol2/toc2_070/'>140
-  [Conscience]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_070/'>140 [Conscience]</a>"
 see: 
 page: 
 add: 

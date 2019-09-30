@@ -6,9 +6,7 @@ head:
 entry: Creature
 topic: Creature
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0345/'>fraud</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_239/'>1228 [Craftiness]</a>|<a href='/New_Beehive/toc_vol2/toc2_424/'>4458
-  [Creature]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_424/'>4458 [Creature]</a>"
 see: 
 page: 
 add: 

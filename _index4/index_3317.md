@@ -3,7 +3,7 @@ pid: index_3317
 volume: Volume 3
 image_number: '38'
 head: reckon[n]ing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>237 [Reckoning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>237 [Reckoning]</a>"
 topic: 
 first_letter: R
 xref: 

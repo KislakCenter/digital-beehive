@@ -3,7 +3,7 @@ pid: index_3852
 volume: Volume 3
 image_number: '44'
 head: spiritual pride
-entry: "<a href='/New_Beehive/toc_vol2/toc2_064/'>75 [Self-righteousness]</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>319
+entry: "<a href='/New_Beehive/toc/toc2_064/'>75 [Self-righteousness]</a>|<a href='/New_Beehive/toc/toc2_094/'>319
   [Righteous]</a>"
 topic: 
 first_letter: S

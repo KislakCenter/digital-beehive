@@ -3,7 +3,7 @@ pid: index_1372
 volume: Volume 3
 image_number: '19'
 head: eye bright
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>682 [Eye-bright]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>682 [Eye-bright]</a>"
 topic: 
 first_letter: E
 xref: 

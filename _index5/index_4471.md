@@ -3,7 +3,7 @@ pid: index_4471
 volume: Volume 3
 image_number: '51'
 head: want of love
-entry: "<a href='/New_Beehive/toc_vol2/toc2_186/'>1003 [Want of Love]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_186/'>1003 [Want of Love]</a>"
 topic: 
 first_letter: W
 xref: 

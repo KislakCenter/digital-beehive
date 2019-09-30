@@ -3,7 +3,7 @@ pid: index_3794
 volume: Volume 3
 image_number: '44'
 head: 'Son: sonship'
-entry: "<a href='/New_Beehive/alpha4/alpha_0885/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>311
+entry: "<a href='/New_Beehive/alpha4/alpha_0885/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>311
   [Sonship]</a>"
 topic: 
 first_letter: S

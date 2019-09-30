@@ -3,7 +3,7 @@ pid: index_0270
 volume: Volume 3
 image_number: '9'
 head: bad man
-entry: "<a href='/New_Beehive/toc_vol2/toc2_341/'>1759 [ill natur'd man]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_341/'>1759 [ill natur'd man]</a>"
 topic: 
 first_letter: B
 xref: 

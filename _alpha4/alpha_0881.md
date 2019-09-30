@@ -6,10 +6,7 @@ head:
 entry: Snake
 topic: Snake
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1089
-  [Slow-footed]</a>|<a href='/New_Beehive/toc_vol2/toc2_315/'>1603 [Smell]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_243/'>1250 [Serpent]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Serpent]</a>"
 see: 
 page: 
 add: 

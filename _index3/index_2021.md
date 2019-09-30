@@ -3,7 +3,7 @@ pid: index_2021
 volume: Volume 3
 image_number: '26'
 head: indifferency
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 

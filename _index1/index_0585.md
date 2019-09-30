@@ -3,8 +3,8 @@ pid: index_0585
 volume: Volume 3
 image_number: '12'
 head: certainty
-entry: "<a href='/New_Beehive/alpha1/alpha_0134/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_169/'>908
-  [Certainty]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2180 [Certainty]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0134/'>a</a>|<a href='/New_Beehive/toc/toc2_169/'>908
+  [Certainty]</a>|<a href='/New_Beehive/toc/toc2_383/'>2180 [Certainty]</a>"
 topic: 
 first_letter: C
 xref: 

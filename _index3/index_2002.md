@@ -3,7 +3,7 @@ pid: index_2002
 volume: Volume 3
 image_number: '25'
 head: inconsiderable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>224 [Considerable]</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>589
+entry: "<a href='/New_Beehive/toc/toc2_080/'>224 [Considerable]</a>|<a href='/New_Beehive/toc/toc2_135/'>589
   [Base]</a>"
 topic: 
 first_letter: I/J

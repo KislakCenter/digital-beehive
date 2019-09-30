@@ -3,7 +3,7 @@ pid: index_3361
 volume: Volume 3
 image_number: '39'
 head: remora
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1534 [Remora]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1534 [Remora]</a>"
 topic: 
 first_letter: R
 xref: 

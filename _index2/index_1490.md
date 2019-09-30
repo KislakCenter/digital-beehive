@@ -3,7 +3,7 @@ pid: index_1490
 volume: Volume 3
 image_number: '21'
 head: flux & reflux
-entry: "<a href='/New_Beehive/toc_vol2/toc2_434/'>4835 [Flux and reflux]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_434/'>4835 [Flux and reflux]</a>"
 topic: 
 first_letter: F
 xref: 

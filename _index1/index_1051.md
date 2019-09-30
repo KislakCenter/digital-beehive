@@ -3,7 +3,7 @@ pid: index_1051
 volume: Volume 3
 image_number: '16'
 head: digression
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>347 [Digression]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>347 [Digression]</a>"
 topic: 
 first_letter: D
 xref: 

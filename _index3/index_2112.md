@@ -3,8 +3,8 @@ pid: index_2112
 volume: Volume 3
 image_number: '26'
 head: joy
-entry: "<a href='/New_Beehive/alpha3/alpha_0487/'>a</a>|832 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_272/'>1392
-  [Joy]</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1940 [Joy]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0487/'>a</a>|832 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_272/'>1392
+  [Joy]</a>|<a href='/New_Beehive/toc/toc2_357/'>1940 [Joy]</a>"
 topic: 
 first_letter: I/J
 xref: 

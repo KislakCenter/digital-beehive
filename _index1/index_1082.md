@@ -3,7 +3,7 @@ pid: index_1082
 volume: Volume 3
 image_number: '17'
 head: to disjoint
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>593 [disjoint]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>593 [disjoint]</a>"
 topic: 
 first_letter: D
 xref: 

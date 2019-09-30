@@ -3,7 +3,7 @@ pid: index_0856
 volume: Volume 3
 image_number: '14'
 head: corporations
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>634 [Trade]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>634 [Trade]</a>"
 topic: 
 first_letter: C
 xref: 

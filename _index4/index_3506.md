@@ -3,7 +3,7 @@ pid: index_3506
 volume: Volume 3
 image_number: '41'
 head: saltpetre
-entry: "<a href='/New_Beehive/toc_vol2/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
 topic: 
 first_letter: S
 xref: 

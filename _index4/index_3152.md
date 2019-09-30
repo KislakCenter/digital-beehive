@@ -3,8 +3,8 @@ pid: index_3152
 volume: Volume 3
 image_number: '37'
 head: pride
-entry: "<a href='/New_Beehive/alpha4/alpha_0725/'>a</a>|819 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_336/'>1712
-  [Pride]</a>|<a href='/New_Beehive/toc_vol2/toc2_432/'>4818 [Pride]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0725/'>a</a>|819 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_336/'>1712
+  [Pride]</a>|<a href='/New_Beehive/toc/toc2_432/'>4818 [Pride]</a>"
 topic: 
 first_letter: P
 xref: 

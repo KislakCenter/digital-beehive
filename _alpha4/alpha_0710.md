@@ -6,7 +6,7 @@ head:
 entry: Politick
 topic: Politick
 first_letter: P
-xref: Temporizing|<a href='/New_Beehive/toc_vol2/toc2_186/'>1001 [Politick]</a>
+xref: Temporizing|<a href='/New_Beehive/toc/toc2_186/'>1001 [Politick]</a>
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2637
 volume: Volume 3
 image_number: '32'
 head: namesake
-entry: "<a href='/New_Beehive/toc_vol2/toc2_129/'>555 [Synonomasticon]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_129/'>555 [Synonomasticon]</a>"
 topic: 
 first_letter: N
 xref: 

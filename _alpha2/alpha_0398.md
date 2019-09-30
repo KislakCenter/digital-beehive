@@ -7,7 +7,7 @@ entry: Haste
 topic: Haste
 first_letter: H
 xref: "<a href='/New_Beehive/alpha5/alpha_0958/'>Too Soon</a>|<a href='/New_Beehive/alpha5/alpha_0952/'>too
-  hasty</a>|<a href='/New_Beehive/alpha4/alpha_0886/'>Soon</a>|dispatch|<a href='/New_Beehive/toc_vol2/toc2_165/'>886
+  hasty</a>|<a href='/New_Beehive/alpha4/alpha_0886/'>Soon</a>|dispatch|<a href='/New_Beehive/toc/toc2_165/'>886
   [Haste]</a>"
 see: 
 page: 

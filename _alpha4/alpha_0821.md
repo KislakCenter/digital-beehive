@@ -6,7 +6,7 @@ head:
 entry: Salvation
 topic: Salvation
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/New_Beehive/toc_vol2/toc2_068/'>111
+xref: "<a href='/New_Beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/New_Beehive/toc/toc2_068/'>111
   [Salvation]</a>"
 see: 
 page: 

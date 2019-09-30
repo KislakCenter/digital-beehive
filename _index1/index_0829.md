@@ -3,7 +3,7 @@ pid: index_0829
 volume: Volume 3
 image_number: '14'
 head: contradiction
-entry: "<a href='/New_Beehive/alpha1/alpha_0176/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>901
+entry: "<a href='/New_Beehive/alpha1/alpha_0176/'>a</a>|<a href='/New_Beehive/toc/toc2_168/'>901
   [Contradiction]</a>"
 topic: 
 first_letter: C

@@ -3,7 +3,7 @@ pid: index_3755
 volume: Volume 3
 image_number: '43'
 head: sloe
-entry: "<a href='/New_Beehive/toc_vol2/toc2_154/'>695 [Sloe_bush]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_154/'>695 [Sloe_bush]</a>"
 topic: 
 first_letter: S
 xref: 

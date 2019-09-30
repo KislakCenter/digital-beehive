@@ -6,8 +6,7 @@ head:
 entry: Execution
 topic: Execution
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0457/'>Imitation</a>|<a href='/New_Beehive/toc_vol2/toc2_090/'>290
-  [Example]</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3976
 volume: Volume 3
 image_number: '45'
 head: sufficient light
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1328 [the Sufficiency of the Light]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1328 [the Sufficiency of the Light]</a>"
 topic: 
 first_letter: S
 xref: 

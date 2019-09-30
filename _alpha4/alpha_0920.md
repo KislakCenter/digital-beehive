@@ -7,7 +7,7 @@ entry: Superfluity
 topic: Superfluity
 first_letter: S
 xref: "<a href='/New_Beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/New_Beehive/alpha5/alpha_0955/'>Too
-  much</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1245 [Superfluous]</a>"
+  much</a>|<a href='/New_Beehive/toc/toc2_242/'>1245 [Superfluous]</a>"
 see: 
 page: 
 add: 

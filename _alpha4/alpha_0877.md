@@ -6,9 +6,7 @@ head:
 entry: Sleep
 topic: Sleep
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/New_Beehive/alpha4/alpha_0823/'>Satyre</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_147/'>653 [Slander]</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>925
-  [Sleep]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_172/'>925 [Sleep]</a>"
 see: 
 page: 
 add: 

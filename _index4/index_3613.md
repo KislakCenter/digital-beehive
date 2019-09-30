@@ -3,7 +3,7 @@ pid: index_3613
 volume: Volume 3
 image_number: '42'
 head: Self defence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_337/'>1722 [Defend]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_337/'>1722 [Defend]</a>"
 topic: 
 first_letter: S
 xref: 

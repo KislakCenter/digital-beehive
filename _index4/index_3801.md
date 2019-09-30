@@ -3,7 +3,7 @@ pid: index_3801
 volume: Volume 3
 image_number: '44'
 head: sope
-entry: "<a href='/New_Beehive/toc_vol2/toc2_173/'>927 [Sope]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_173/'>927 [Sope]</a>"
 topic: 
 first_letter: S
 xref: 

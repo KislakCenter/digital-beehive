@@ -3,7 +3,7 @@ pid: index_1825
 volume: Volume 3
 image_number: '24'
 head: heterodox
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>373 [Heterodox]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>373 [Heterodox]</a>"
 topic: 
 first_letter: H
 xref: 

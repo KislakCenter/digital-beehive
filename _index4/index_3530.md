@@ -3,7 +3,7 @@ pid: index_3530
 volume: Volume 3
 image_number: '41'
 head: Saxony
-entry: "<a href='/New_Beehive/toc_vol2/toc2_268/'>1372 [According]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_268/'>1372 [According]</a>"
 topic: 
 first_letter: S
 xref: 

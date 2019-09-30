@@ -3,7 +3,7 @@ pid: index_0670
 volume: Volume 3
 image_number: '13'
 head: circle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>867 [a Circle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_161/'>867 [a Circle]</a>"
 topic: 
 first_letter: C
 xref: 

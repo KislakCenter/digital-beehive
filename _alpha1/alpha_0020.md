@@ -6,9 +6,7 @@ head:
 entry: Alliance
 topic: Alliance
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc_vol2/toc2_259/'>1326
-  [Alchymie]</a>|<a href='/New_Beehive/toc_vol2/toc2_108/'>415 [All]</a>|<a href='/New_Beehive/toc_vol2/toc2_270/'>1384
-  [Alliance]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_270/'>1384 [Alliance]</a>"
 see: 
 page: 
 add: 

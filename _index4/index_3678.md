@@ -3,7 +3,7 @@ pid: index_3678
 volume: Volume 3
 image_number: '42'
 head: ship
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>354 [Ship]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2032
+entry: "<a href='/New_Beehive/toc/toc2_099/'>354 [Ship]</a>|<a href='/New_Beehive/toc/toc2_369/'>2032
   [Ship]</a>"
 topic: 
 first_letter: S

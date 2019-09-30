@@ -3,7 +3,7 @@ pid: index_3989
 volume: Volume 3
 image_number: '46'
 head: superlative
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>365 [Superlative]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>365 [Superlative]</a>"
 topic: 
 first_letter: S
 xref: 

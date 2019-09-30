@@ -3,7 +3,7 @@ pid: index_3779
 volume: Volume 3
 image_number: '43'
 head: Socinians
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>48 [Socinians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_061/'>48 [Socinians]</a>"
 topic: 
 first_letter: S
 xref: 

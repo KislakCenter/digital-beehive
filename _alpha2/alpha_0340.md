@@ -6,7 +6,7 @@ head:
 entry: Forgetfulness
 topic: Forgetfulness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha3/alpha_0582/'>memory</a>|<a href='/New_Beehive/toc_vol2/toc2_155/'>697
+xref: "<a href='/New_Beehive/alpha3/alpha_0582/'>memory</a>|<a href='/New_Beehive/toc/toc2_155/'>697
   [Forgetfulness]</a>"
 see: 
 page: 

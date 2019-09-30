@@ -3,7 +3,7 @@ pid: index_0710
 volume: Volume 3
 image_number: '13'
 head: cobweb
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>458 [Spider]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>458 [Spider]</a>"
 topic: 
 first_letter: C
 xref: 

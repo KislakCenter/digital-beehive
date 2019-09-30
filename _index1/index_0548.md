@@ -3,7 +3,7 @@ pid: index_0548
 volume: Volume 3
 image_number: '12'
 head: carraway
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>677 [Carraways]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>677 [Carraways]</a>"
 topic: 
 first_letter: C
 xref: 

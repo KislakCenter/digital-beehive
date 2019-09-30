@@ -3,7 +3,7 @@ pid: index_1338
 volume: Volume 3
 image_number: '19'
 head: excrements
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>314 [Foam]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_093/'>314 [Foam]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -3,7 +3,7 @@ pid: index_3048
 volume: Volume 3
 image_number: '36'
 head: plough
-entry: "<a href='/New_Beehive/toc_vol2/toc2_219/'>1130 [Agriculture]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_219/'>1130 [Agriculture]</a>"
 topic: 
 first_letter: P
 xref: 

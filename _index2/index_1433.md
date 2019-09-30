@@ -3,7 +3,7 @@ pid: index_1433
 volume: Volume 3
 image_number: '20'
 head: fennel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>683 [Fennel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>683 [Fennel]</a>"
 topic: 
 first_letter: F
 xref: 

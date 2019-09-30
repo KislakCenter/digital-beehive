@@ -3,7 +3,7 @@ pid: index_0598
 volume: Volume 3
 image_number: '12'
 head: change of names
-entry: "<a href='/New_Beehive/toc_vol2/toc2_085/'>253 [change name]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_085/'>253 [change name]</a>"
 topic: 
 first_letter: C
 xref: 

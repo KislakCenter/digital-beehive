@@ -3,7 +3,7 @@ pid: index_0620
 volume: Volume 3
 image_number: '12'
 head: cheese
-entry: "<a href='/New_Beehive/alpha1/alpha_0137/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1649
+entry: "<a href='/New_Beehive/alpha1/alpha_0137/'>a</a>|<a href='/New_Beehive/toc/toc2_324/'>1649
   [Cheese]</a>"
 topic: 
 first_letter: C

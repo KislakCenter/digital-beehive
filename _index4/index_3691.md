@@ -3,7 +3,7 @@ pid: index_3691
 volume: Volume 3
 image_number: '42'
 head: shrovetide
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>222 [Shrovetide]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>222 [Shrovetide]</a>"
 topic: 
 first_letter: S
 xref: 

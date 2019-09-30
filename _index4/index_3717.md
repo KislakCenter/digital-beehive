@@ -3,7 +3,7 @@ pid: index_3717
 volume: Volume 3
 image_number: '43'
 head: simplicity
-entry: "<a href='/New_Beehive/alpha4/alpha_0868/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_306/'>1559
+entry: "<a href='/New_Beehive/alpha4/alpha_0868/'>a</a>|<a href='/New_Beehive/toc/toc2_306/'>1559
   [Simplicity]</a>"
 topic: 
 first_letter: S

@@ -6,7 +6,7 @@ head:
 entry: Merchandize
 topic: Merchandize
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_067/'>109 [a Shop Keeper]</a>|<a href='/New_Beehive/toc_vol2/toc2_143/'>631
+xref: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop Keeper]</a>|<a href='/New_Beehive/toc/toc2_143/'>631
   [Merchants]</a>"
 see: 
 page: 

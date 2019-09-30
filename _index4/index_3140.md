@@ -3,7 +3,7 @@ pid: index_3140
 volume: Volume 3
 image_number: '37'
 head: prester John
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1622 [Prester John]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1622 [Prester John]</a>"
 topic: 
 first_letter: P
 xref: 

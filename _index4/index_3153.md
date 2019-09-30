@@ -3,7 +3,7 @@ pid: index_3153
 volume: Volume 3
 image_number: '37'
 head: pricking
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>684 [To prick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>684 [To prick]</a>"
 topic: 
 first_letter: P
 xref: 

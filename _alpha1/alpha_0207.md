@@ -6,8 +6,7 @@ head:
 entry: Darkness
 topic: Darkness
 first_letter: D
-xref: Pinch|<a href='/New_Beehive/toc_vol2/toc2_150/'>673 [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_237/'>1220
-  [Darkness]</a>
+xref: "<a href='/New_Beehive/toc/toc2_237/'>1220 [Darkness]</a>"
 see: 
 page: 
 add: 

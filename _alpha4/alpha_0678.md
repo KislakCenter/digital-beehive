@@ -6,7 +6,7 @@ head:
 entry: Parsly
 topic: Parsly
 first_letter: P
-xref: Expenses|<a href='/New_Beehive/toc_vol2/toc2_216/'>1115 [Frugality]</a>|
+xref: 
 see: 
 page: 
 add: 

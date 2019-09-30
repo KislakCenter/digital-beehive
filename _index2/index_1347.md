@@ -3,8 +3,8 @@ pid: index_1347
 volume: Volume 3
 image_number: '19'
 head: exhortation
-entry: 843 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_205/'>1060 [Admonishing
-  & Warning]</a>
+entry: 843 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_205/'>1060 [Admonishing &
+  Warning]</a>
 topic: 
 first_letter: E
 xref: 

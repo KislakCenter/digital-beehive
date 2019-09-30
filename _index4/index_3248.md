@@ -3,7 +3,7 @@ pid: index_3248
 volume: Volume 3
 image_number: '38'
 head: Quakers affirmation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_383/'>2175 [Quakers Affirmation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_383/'>2175 [Quakers Affirmation]</a>"
 topic: 
 first_letter: Q
 xref: 

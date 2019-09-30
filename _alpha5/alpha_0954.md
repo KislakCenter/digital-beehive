@@ -6,8 +6,7 @@ head:
 entry: too suspicious
 topic: too suspicious
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>Haste</a>|[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc_vol2/toc2_179/'>961
-  [Too hasty]</a>|<a href='/New_Beehive/alpha3/alpha_0539/'>littleness</a>|"
+xref: 
 see: 
 page: 
 add: 

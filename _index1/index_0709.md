@@ -3,7 +3,7 @@ pid: index_0709
 volume: Volume 3
 image_number: '13'
 head: coal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_220/'>1134 [Coal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_220/'>1134 [Coal]</a>"
 topic: 
 first_letter: C
 xref: 

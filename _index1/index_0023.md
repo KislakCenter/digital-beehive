@@ -3,7 +3,7 @@ pid: index_0023
 volume: Volume 3
 image_number: '7'
 head: acceptable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_165/'>889 [Agreable]</a>|<a href='/New_Beehive/toc_vol2/toc2_275/'>1408
+entry: "<a href='/New_Beehive/toc/toc2_165/'>889 [Agreable]</a>|<a href='/New_Beehive/toc/toc2_275/'>1408
   [Acceptable]</a>"
 topic: 
 first_letter: A

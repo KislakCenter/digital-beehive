@@ -3,7 +3,7 @@ pid: index_0006
 volume: Volume 3
 image_number: '7'
 head: abhorring
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1320 [Unacceptable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
 topic: 
 first_letter: A
 xref: 

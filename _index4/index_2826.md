@@ -3,8 +3,8 @@ pid: index_2826
 volume: Volume 3
 image_number: '33'
 head: original Sin
-entry: "<a href='/New_Beehive/alpha4/alpha_0662/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_243/'>1248
-  [Original Sin]</a>|<a href='/New_Beehive/toc_vol2/toc2_414/'>2393 [Original Pollution]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0662/'>a</a>|<a href='/New_Beehive/toc/toc2_243/'>1248
+  [Original Sin]</a>|<a href='/New_Beehive/toc/toc2_414/'>2393 [Original Pollution]</a>"
 topic: 
 first_letter: O
 xref: 

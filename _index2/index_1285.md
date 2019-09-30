@@ -3,8 +3,8 @@ pid: index_1285
 volume: Volume 3
 image_number: '19'
 head: epitaphs
-entry: "<a href='/New_Beehive/alpha2/alpha_0286/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_084/'>245
-  [Epitaphs]</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1466 [Epitaphs]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0286/'>a</a>|<a href='/New_Beehive/toc/toc2_084/'>245
+  [Epitaphs]</a>|<a href='/New_Beehive/toc/toc2_287/'>1466 [Epitaphs]</a>"
 topic: 
 first_letter: E
 xref: 

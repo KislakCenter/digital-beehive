@@ -3,9 +3,9 @@ pid: index_1309
 volume: Volume 3
 image_number: '19'
 head: eternity
-entry: "<a href='/New_Beehive/alpha2/alpha_0292/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>Entry
-  1142 [Eternity]</a>|<a href='/New_Beehive/toc_vol2/toc2_410/'>2358 [Eternity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_426/'>4474 [Eternity]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0292/'>a</a>|<a href='/New_Beehive/toc/toc2_222/'>Entry
+  1142 [Eternity]</a>|<a href='/New_Beehive/toc/toc2_410/'>2358 [Eternity]</a>|<a
+  href='/New_Beehive/toc/toc2_426/'>4474 [Eternity]</a>"
 topic: 
 first_letter: E
 xref: 

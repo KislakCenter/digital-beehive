@@ -3,7 +3,7 @@ pid: index_4241
 volume: Volume 3
 image_number: '48'
 head: trifles
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>199 [Toys]</a>|<a href='/New_Beehive/toc_vol2/toc2_233/'>1196
+entry: "<a href='/New_Beehive/toc/toc2_076/'>199 [Toys]</a>|<a href='/New_Beehive/toc/toc2_233/'>1196
   [Trifling]</a>"
 topic: 
 first_letter: T

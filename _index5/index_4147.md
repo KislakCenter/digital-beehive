@@ -3,7 +3,7 @@ pid: index_4147
 volume: Volume 3
 image_number: '47'
 head: to tickle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_120/'>497 [To tickle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_120/'>497 [To tickle]</a>"
 topic: 
 first_letter: T
 xref: 

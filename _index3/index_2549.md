@@ -3,7 +3,7 @@ pid: index_2549
 volume: Volume 3
 image_number: '31'
 head: to mitigate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>704 [To Mitigate]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>704 [To Mitigate]</a>"
 topic: 
 first_letter: M
 xref: 

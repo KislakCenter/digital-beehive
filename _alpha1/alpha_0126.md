@@ -6,9 +6,7 @@ head:
 entry: Catholick
 topic: Catholick
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_341/'>1761 [Cat]</a>|<a href='/New_Beehive/toc_vol2/toc2_300/'>1529
-  [wild Cats]</a>|<a href='/New_Beehive/alpha3/alpha_0473/'>Information</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1814
-  [Catholick]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_348/'>1814 [Catholick]</a>"
 see: 
 page: 
 add: 

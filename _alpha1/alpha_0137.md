@@ -6,8 +6,7 @@ head:
 entry: Cheese
 topic: Cheese
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0755/'>Purity</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1649
-  [Cheese]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_324/'>1649 [Cheese]</a>"
 see: 
 page: 
 add: 

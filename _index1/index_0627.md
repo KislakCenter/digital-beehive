@@ -3,7 +3,7 @@ pid: index_0627
 volume: Volume 3
 image_number: '12'
 head: chiding
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>680 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: C
 xref: 

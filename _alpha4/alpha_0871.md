@@ -6,7 +6,7 @@ head:
 entry: Sincerity
 topic: Sincerity
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0868/'>Simplicity</a>|<a href='/New_Beehive/toc_vol2/toc2_257/'>1317
+xref: "<a href='/New_Beehive/alpha4/alpha_0868/'>Simplicity</a>|<a href='/New_Beehive/toc/toc2_257/'>1317
   [Sincerity]</a>"
 see: 
 page: 

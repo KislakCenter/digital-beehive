@@ -7,7 +7,7 @@ entry: Trusting
 topic: Trusting
 first_letter: T
 xref: "<a href='/New_Beehive/alpha1/alpha_0245/'>Distrust</a>|<a href='/New_Beehive/alpha4/alpha_0789/'>resignation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_159/'>719 [Confidence]</a>"
+  href='/New_Beehive/toc/toc2_159/'>719 [Confidence]</a>"
 see: 
 page: 
 add: 

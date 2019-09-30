@@ -3,7 +3,7 @@ pid: index_1812
 volume: Volume 3
 image_number: '24'
 head: heresy
-entry: "<a href='/New_Beehive/alpha2/alpha_0414/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>558
+entry: "<a href='/New_Beehive/alpha2/alpha_0414/'>a</a>|<a href='/New_Beehive/toc/toc2_130/'>558
   [Heresy]</a>|1841 [PAGE_MISSING]"
 topic: 
 first_letter: H

@@ -3,7 +3,7 @@ pid: index_1286
 volume: Volume 3
 image_number: '19'
 head: equality
-entry: "<a href='/New_Beehive/alpha2/alpha_0287/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1129
+entry: "<a href='/New_Beehive/alpha2/alpha_0287/'>a</a>|<a href='/New_Beehive/toc/toc2_219/'>1129
   [Equality]</a>"
 topic: 
 first_letter: E

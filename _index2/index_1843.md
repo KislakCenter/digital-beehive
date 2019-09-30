@@ -3,8 +3,8 @@ pid: index_1843
 volume: Volume 3
 image_number: '24'
 head: hireling
-entry: "<a href='/New_Beehive/alpha2/alpha_0421/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_250/'>1282
-  [Hirelings]</a>|<a href='/New_Beehive/toc_vol2/toc2_417/'>2414 [Hirelings]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0421/'>a</a>|<a href='/New_Beehive/toc/toc2_250/'>1282
+  [Hirelings]</a>|<a href='/New_Beehive/toc/toc2_417/'>2414 [Hirelings]</a>"
 topic: 
 first_letter: H
 xref: 

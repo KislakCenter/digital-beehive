@@ -6,7 +6,7 @@ head:
 entry: Lord
 topic: Lord
 first_letter: L
-xref: Stare|<a href='/New_Beehive/toc_vol2/toc2_280/'>1433 [To Look]</a>|
+xref: 
 see: 
 page: 
 add: 

@@ -3,8 +3,8 @@ pid: index_1943
 volume: Volume 3
 image_number: '25'
 head: Jews
-entry: "<a href='/New_Beehive/alpha3/alpha_0449/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_131/'>564
-  [Jews]</a>|<a href='/New_Beehive/toc_vol2/toc2_291/'>1487 [Jews]</a>|<a href='/New_Beehive/toc_vol2/toc2_368/'>2027
+entry: "<a href='/New_Beehive/alpha3/alpha_0449/'>a</a>|<a href='/New_Beehive/toc/toc2_131/'>564
+  [Jews]</a>|<a href='/New_Beehive/toc/toc2_291/'>1487 [Jews]</a>|<a href='/New_Beehive/toc/toc2_368/'>2027
   [Jew]</a>"
 topic: 
 first_letter: I/J

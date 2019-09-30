@@ -3,8 +3,8 @@ pid: index_1989
 volume: Volume 3
 image_number: '25'
 head: inamoured
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1324 [Inamoured]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1716
-  [Inamoured]</a>|<a href='/New_Beehive/toc_vol2/toc2_440/'>4862 [Inamoured]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1324 [Inamoured]</a>|<a href='/New_Beehive/toc/toc2_336/'>1716
+  [Inamoured]</a>|<a href='/New_Beehive/toc/toc2_440/'>4862 [Inamoured]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,8 +3,8 @@ pid: index_0260
 volume: Volume 3
 image_number: '9'
 head: Babbling
-entry: "<a href='/New_Beehive/alpha1/alpha_0050/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>430
-  [Babbling]</a>|<a href='/New_Beehive/toc_vol2/toc2_337/'>1728 [Babbling]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0050/'>a</a>|<a href='/New_Beehive/toc/toc2_110/'>430
+  [Babbling]</a>|<a href='/New_Beehive/toc/toc2_337/'>1728 [Babbling]</a>"
 topic: 
 first_letter: B
 xref: 

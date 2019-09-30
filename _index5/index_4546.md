@@ -3,7 +3,7 @@ pid: index_4546
 volume: Volume 3
 image_number: '52'
 head: widowhood
-entry: "<a href='/New_Beehive/alpha5/alpha_1023/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_317/'>1615
+entry: "<a href='/New_Beehive/alpha5/alpha_1023/'>a</a>|<a href='/New_Beehive/toc/toc2_317/'>1615
   [Widow]</a>"
 topic: 
 first_letter: W

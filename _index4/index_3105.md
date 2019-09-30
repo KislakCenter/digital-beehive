@@ -3,7 +3,7 @@ pid: index_3105
 volume: Volume 3
 image_number: '36'
 head: pr[ae]fiscine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_395/'>2256 [Pr[ae]fiscine]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_395/'>2256 [Pr[ae]fiscine]</a>"
 topic: 
 first_letter: P
 xref: 

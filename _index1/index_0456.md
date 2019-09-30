@@ -3,7 +3,7 @@ pid: index_0456
 volume: Volume 3
 image_number: '11'
 head: briefly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_174/'>932 [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_385/'>2193
+entry: "<a href='/New_Beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/New_Beehive/toc/toc2_385/'>2193
   [Briefly]</a>"
 topic: 
 first_letter: B

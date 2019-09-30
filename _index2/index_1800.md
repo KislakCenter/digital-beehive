@@ -3,7 +3,7 @@ pid: index_1800
 volume: Volume 3
 image_number: '23'
 head: hemlock
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>368 [Hemlock]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>368 [Hemlock]</a>"
 topic: 
 first_letter: H
 xref: 

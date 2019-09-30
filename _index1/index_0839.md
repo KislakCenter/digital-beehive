@@ -3,8 +3,8 @@ pid: index_0839
 volume: Volume 3
 image_number: '14'
 head: conviction
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>362 [Conviction]</a>|<a href='/New_Beehive/toc_vol2/toc2_335/'>1706
-  [Convicting]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2039 [Conviction]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>362 [Conviction]</a>|<a href='/New_Beehive/toc/toc2_335/'>1706
+  [Convicting]</a>|<a href='/New_Beehive/toc/toc2_369/'>2039 [Conviction]</a>"
 topic: 
 first_letter: C
 xref: 

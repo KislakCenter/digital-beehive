@@ -3,8 +3,8 @@ pid: index_2532
 volume: Volume 3
 image_number: '30'
 head: miracle
-entry: "<a href='/New_Beehive/alpha3/alpha_0593/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_083/'>243
-  [Miracles]</a>|<a href='/New_Beehive/toc_vol2/toc2_379/'>2134 [Miracle]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0593/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>243
+  [Miracles]</a>|<a href='/New_Beehive/toc/toc2_379/'>2134 [Miracle]</a>"
 topic: 
 first_letter: M
 xref: 

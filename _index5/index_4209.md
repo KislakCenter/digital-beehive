@@ -3,8 +3,8 @@ pid: index_4209
 volume: Volume 3
 image_number: '48'
 head: trade
-entry: "<a href='/New_Beehive/alpha5/alpha_0962/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_143/'>634
-  [Trade]</a>|<a href='/New_Beehive/toc_vol2/toc2_365/'>1997 [Trade]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0962/'>a</a>|<a href='/New_Beehive/toc/toc2_143/'>634
+  [Trade]</a>|<a href='/New_Beehive/toc/toc2_365/'>1997 [Trade]</a>"
 topic: 
 first_letter: T
 xref: 

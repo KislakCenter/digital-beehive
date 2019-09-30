@@ -3,7 +3,7 @@ pid: index_3744
 volume: Volume 3
 image_number: '43'
 head: slate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>873 [Paper]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_162/'>873 [Paper]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_0111
 volume: Volume 3
 image_number: '7'
 head: alphabetu[m] rhytmicu[m]
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1701 [Patience]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1701 [Patience]</a>"
 topic: 
 first_letter: A
 xref: 

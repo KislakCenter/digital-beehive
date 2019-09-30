@@ -3,7 +3,7 @@ pid: index_0914
 volume: Volume 3
 image_number: '15'
 head: cross
-entry: "<a href='/New_Beehive/alpha1/alpha_0196/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1505
+entry: "<a href='/New_Beehive/alpha1/alpha_0196/'>a</a>|<a href='/New_Beehive/toc/toc2_295/'>1505
   [Cross]</a>"
 topic: 
 first_letter: C

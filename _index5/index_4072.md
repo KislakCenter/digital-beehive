@@ -3,7 +3,7 @@ pid: index_4072
 volume: Volume 3
 image_number: '47'
 head: teach me o Lord
-entry: "<a href='/New_Beehive/toc_vol2/toc2_292/'>1491 [Teach me o Lord]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_292/'>1491 [Teach me o Lord]</a>"
 topic: 
 first_letter: T
 xref: 

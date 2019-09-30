@@ -3,7 +3,7 @@ pid: index_3666
 volume: Volume 3
 image_number: '42'
 head: sheath
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>871 [a Sheath]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [a Sheath]</a>"
 topic: 
 first_letter: S
 xref: 

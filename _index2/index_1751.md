@@ -3,8 +3,8 @@ pid: index_1751
 volume: Volume 3
 image_number: '23'
 head: happiness of the wicked
-entry: "<a href='/New_Beehive/alpha2/alpha_0393/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>923
-  [Blessings of God are upon the wicked]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1745
+entry: "<a href='/New_Beehive/alpha2/alpha_0393/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>923
+  [Blessings of God are upon the wicked]</a>|<a href='/New_Beehive/toc/toc2_339/'>1745
   [Happiness of the Wicked]</a>"
 topic: 
 first_letter: H

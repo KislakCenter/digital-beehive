@@ -3,9 +3,9 @@ pid: index_2986
 volume: Volume 3
 image_number: '35'
 head: philosophy
-entry: "<a href='/New_Beehive/alpha4/alpha_0698/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>453
-  [Philosophy]</a>|<a href='/New_Beehive/toc_vol2/toc2_334/'>1698 [Philosophy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_433/'>4824 [Philosophy]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0698/'>a</a>|<a href='/New_Beehive/toc/toc2_113/'>453
+  [Philosophy]</a>|<a href='/New_Beehive/toc/toc2_334/'>1698 [Philosophy]</a>|<a href='/New_Beehive/toc/toc2_433/'>4824
+  [Philosophy]</a>"
 topic: 
 first_letter: P
 xref: 

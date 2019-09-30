@@ -3,7 +3,7 @@ pid: index_0575
 volume: Volume 3
 image_number: '12'
 head: celandine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_150/'>674 [Celandine]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_150/'>674 [Celandine]</a>"
 topic: 
 first_letter: C
 xref: 

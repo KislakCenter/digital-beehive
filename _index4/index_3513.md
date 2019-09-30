@@ -3,7 +3,7 @@ pid: index_3513
 volume: Volume 3
 image_number: '41'
 head: the same
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>264 [The Same]</a>|<a href='/New_Beehive/toc_vol2/toc2_319/'>1621
+entry: "<a href='/New_Beehive/toc/toc2_086/'>264 [The Same]</a>|<a href='/New_Beehive/toc/toc2_319/'>1621
   [The Same]</a>"
 topic: 
 first_letter: S

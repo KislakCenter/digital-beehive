@@ -6,8 +6,7 @@ head:
 entry: Deer
 topic: Deer
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_1044/'>Works</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1137
-  [Deed]</a>|"
+xref: 
 see: 
 page: 
 add: 

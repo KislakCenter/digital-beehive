@@ -3,7 +3,7 @@ pid: index_3157
 volume: Volume 3
 image_number: '37'
 head: primitive Xtians
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1064 [Primitive Christians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
 topic: 
 first_letter: P
 xref: 

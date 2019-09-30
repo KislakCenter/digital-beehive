@@ -3,7 +3,7 @@ pid: index_2548
 volume: Volume 3
 image_number: '31'
 head: misunderstanding
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>118 [Misunderstanding]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_068/'>118 [Misunderstanding]</a>"
 topic: 
 first_letter: M
 xref: 

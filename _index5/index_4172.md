@@ -3,7 +3,7 @@ pid: index_4172
 volume: Volume 3
 image_number: '48'
 head: toleration
-entry: "<a href='/New_Beehive/toc_vol2/toc2_131/'>565 [License]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_131/'>565 [License]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_3166
 volume: Volume 3
 image_number: '37'
 head: privateer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>344 [Privateers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>344 [Privateers]</a>"
 topic: 
 first_letter: P
 xref: 

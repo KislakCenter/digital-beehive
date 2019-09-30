@@ -6,7 +6,7 @@ head:
 entry: Usury
 topic: Usury
 first_letter: U/V
-xref: glutton|<a href='/New_Beehive/toc_vol2/toc2_151/'>677 [Voracity]</a>
+xref: 862 [PAGE_MISSING]
 see: 
 page: 
 add: 

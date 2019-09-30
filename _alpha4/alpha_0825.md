@@ -6,7 +6,7 @@ head:
 entry: Scabine
 topic: Scabine
 first_letter: S
-xref: French Pocks|<a href='/New_Beehive/toc_vol2/toc2_233/'>1199 [Itch]</a>|
+xref: 
 see: 
 page: 
 add: 

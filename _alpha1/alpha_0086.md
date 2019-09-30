@@ -7,7 +7,7 @@ entry: Blockhead
 topic: Blockhead
 first_letter: B
 xref: "<a href='/New_Beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/New_Beehive/alpha4/alpha_0903/'>Stockfish</a>|<a
-  href='/New_Beehive/alpha3/alpha_0465/'>Incivility</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>668
+  href='/New_Beehive/alpha3/alpha_0465/'>Incivility</a>|<a href='/New_Beehive/toc/toc2_149/'>668
   [Peasant]</a>|Stupidity"
 see: 
 page: 

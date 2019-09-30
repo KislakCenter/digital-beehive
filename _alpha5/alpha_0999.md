@@ -6,7 +6,7 @@ head:
 entry: Unthankfull
 topic: Unthankfull
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_098/'>347
+xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>gratitude</a>|<a href='/New_Beehive/toc/toc2_098/'>347
   [Unthankful]</a>"
 see: 
 page: 

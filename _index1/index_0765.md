@@ -3,7 +3,7 @@ pid: index_0765
 volume: Volume 3
 image_number: '14'
 head: complexions
-entry: "<a href='/New_Beehive/toc_vol2/toc2_276/'>1414 [Seven Planets]</a>|1889 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_276/'>1414 [Seven Planets]</a>|1889 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

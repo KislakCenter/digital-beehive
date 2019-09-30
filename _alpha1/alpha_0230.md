@@ -6,8 +6,7 @@ head:
 entry: Dew
 topic: Dew
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0702/'>Piety</a>|<a href='/New_Beehive/toc_vol2/toc2_119/'>489
-  [Turn in!]</a>|<a href='/New_Beehive/toc_vol2/toc2_388/'>2223 [Devotion]</a>|"
+xref: 
 see: 
 page: 
 add: 

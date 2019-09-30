@@ -3,7 +3,7 @@ pid: index_3880
 volume: Volume 3
 image_number: '44'
 head: star slough
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
 topic: 
 first_letter: S
 xref: 

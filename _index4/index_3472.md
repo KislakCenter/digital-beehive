@@ -3,7 +3,7 @@ pid: index_3472
 volume: Volume 3
 image_number: '40'
 head: ruptures
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>593 [Ruptures]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>593 [Ruptures]</a>"
 topic: 
 first_letter: R
 xref: 

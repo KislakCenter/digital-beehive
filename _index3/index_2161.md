@@ -3,7 +3,7 @@ pid: index_2161
 volume: Volume 3
 image_number: '27'
 head: kindred
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>168 [Kindred]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>168 [Kindred]</a>"
 topic: 
 first_letter: K
 xref: 

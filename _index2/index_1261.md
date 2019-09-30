@@ -3,7 +3,7 @@ pid: index_1261
 volume: Volume 3
 image_number: '18'
 head: English poets
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

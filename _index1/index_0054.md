@@ -3,7 +3,7 @@ pid: index_0054
 volume: Volume 3
 image_number: '7'
 head: "[AE]olus"
-entry: "<a href='/New_Beehive/toc_vol2/toc2_381/'>2160 [Wind]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_381/'>2160 [Wind]</a>"
 topic: 
 first_letter: A
 xref: 

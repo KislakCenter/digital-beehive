@@ -3,7 +3,7 @@ pid: index_1385
 volume: Volume 3
 image_number: '20'
 head: Faith & Works
-entry: "<a href='/New_Beehive/toc_vol2/toc2_183/'>987 [Faith & Works]</a>|<a href='/New_Beehive/toc_vol2/toc2_434/'>4840
+entry: "<a href='/New_Beehive/toc/toc2_183/'>987 [Faith & Works]</a>|<a href='/New_Beehive/toc/toc2_434/'>4840
   [Faith and Works]</a>"
 topic: 
 first_letter: F

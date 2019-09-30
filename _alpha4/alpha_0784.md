@@ -6,7 +6,7 @@ head:
 entry: Repentance
 topic: Repentance
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0461/'>Impenitence</a>|<a href='/New_Beehive/toc_vol2/toc2_092/'>307
+xref: "<a href='/New_Beehive/alpha3/alpha_0461/'>Impenitence</a>|<a href='/New_Beehive/toc/toc2_092/'>307
   \ [Repentance]</a>"
 see: 
 page: 

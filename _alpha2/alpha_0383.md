@@ -6,9 +6,7 @@ head:
 entry: Gratulation
 topic: Gratulation
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_0999/'>Unthankfullness</a>|<a href='/New_Beehive/alpha5/alpha_0940/'>thanks</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_220/'>1132 [Gratitude]</a>|<a href='/New_Beehive/toc_vol2/toc2_408/'>2349
-  [Gravity]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386 [Gratulation]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
 see: 
 page: 
 add: 

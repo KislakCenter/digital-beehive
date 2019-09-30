@@ -3,8 +3,8 @@ pid: index_2132
 volume: Volume 3
 image_number: '27'
 head: judge of controversie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_064/'>74 [the Judge of religious Controversies]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_274/'>1403 [Rule of faith and life]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_064/'>74 [the Judge of religious Controversies]</a>|<a
+  href='/New_Beehive/toc/toc2_274/'>1403 [Rule of faith and life]</a>"
 topic: 
 first_letter: I/J
 xref: 

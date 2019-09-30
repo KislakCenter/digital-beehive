@@ -3,7 +3,7 @@ pid: index_3865
 volume: Volume 3
 image_number: '44'
 head: spring. frühling
-entry: "<a href='/New_Beehive/alpha4/alpha_0897/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1749
+entry: "<a href='/New_Beehive/alpha4/alpha_0897/'>a</a>|<a href='/New_Beehive/toc/toc2_339/'>1749
   [Spring]</a>"
 topic: 
 first_letter: S

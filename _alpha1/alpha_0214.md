@@ -6,7 +6,7 @@ head:
 entry: Deed
 topic: Deed
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_1044/'>Works</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1137
+xref: "<a href='/New_Beehive/alpha5/alpha_1044/'>Works</a>|<a href='/New_Beehive/toc/toc2_221/'>1137
   [Deed]</a>"
 see: 
 page: 

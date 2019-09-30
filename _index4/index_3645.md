@@ -3,8 +3,8 @@ pid: index_3645
 volume: Volume 3
 image_number: '42'
 head: serpent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1250 [Serpent]</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1539
-  [Serpents]</a>|<a href='/New_Beehive/toc_vol2/toc2_377/'>2119 [Serpents]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Serpent]</a>|<a href='/New_Beehive/toc/toc2_302/'>1539
+  [Serpents]</a>|<a href='/New_Beehive/toc/toc2_377/'>2119 [Serpents]</a>"
 topic: 
 first_letter: S
 xref: 

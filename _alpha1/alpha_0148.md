@@ -6,8 +6,7 @@ head:
 entry: Circumcision
 topic: Circumcision
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0160/'>Com[m]union</a>|<a href='/New_Beehive/toc_vol2/toc2_079/'>211
-  [Church]</a>|<a href='/New_Beehive/toc_vol2/toc2_314/'>1599 [Circumsion]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_314/'>1599 [Circumsion]</a>"
 see: 
 page: 
 add: 

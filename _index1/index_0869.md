@@ -3,9 +3,9 @@ pid: index_0869
 volume: Volume 3
 image_number: '15'
 head: covetousness
-entry: "<a href='/New_Beehive/alpha1/alpha_0180/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>190
-  [Covetousness]</a>|848 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_237/'>1216
-  [Covetous men]</a>|<a href='/New_Beehive/toc_vol2/toc2_349/'>1823 [Covetousness]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0180/'>a</a>|<a href='/New_Beehive/toc/toc2_075/'>190
+  [Covetousness]</a>|848 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_237/'>1216
+  [Covetous men]</a>|<a href='/New_Beehive/toc/toc2_349/'>1823 [Covetousness]</a>"
 topic: 
 first_letter: C
 xref: 

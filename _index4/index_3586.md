@@ -3,7 +3,7 @@ pid: index_3586
 volume: Volume 3
 image_number: '41'
 head: secret writing or num.
-entry: "<a href='/New_Beehive/toc_vol2/toc2_290/'>1481 [Secret Writing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_290/'>1481 [Secret Writing]</a>"
 topic: 
 first_letter: S
 xref: 

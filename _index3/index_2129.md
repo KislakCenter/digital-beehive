@@ -3,7 +3,7 @@ pid: index_2129
 volume: Volume 3
 image_number: '27'
 head: Judas
-entry: "<a href='/New_Beehive/alpha3/alpha_0491/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>520
+entry: "<a href='/New_Beehive/alpha3/alpha_0491/'>a</a>|<a href='/New_Beehive/toc/toc2_124/'>520
   [Judas]</a>"
 topic: 
 first_letter: I/J

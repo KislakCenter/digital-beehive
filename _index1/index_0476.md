@@ -3,7 +3,7 @@ pid: index_0476
 volume: Volume 3
 image_number: '11'
 head: bung
-entry: "<a href='/New_Beehive/toc_vol2/toc2_134/'>585 [Bung]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_134/'>585 [Bung]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Agriculture
 topic: Agriculture
 first_letter: A
-xref: "<a href='/New_Beehive/alpha2/alpha_0439/'>Husbandry</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1130
+xref: "<a href='/New_Beehive/alpha2/alpha_0439/'>Husbandry</a>|<a href='/New_Beehive/toc/toc2_219/'>1130
   [Agriculture]</a>"
 see: 
 page: 

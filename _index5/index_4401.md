@@ -3,7 +3,7 @@ pid: index_4401
 volume: Volume 3
 image_number: '50'
 head: unlearned
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>66 [Unlearned]</a>|<a href='/New_Beehive/toc_vol2/toc2_346/'>1797
+entry: "<a href='/New_Beehive/toc/toc2_063/'>66 [Unlearned]</a>|<a href='/New_Beehive/toc/toc2_346/'>1797
   [Unlearned]</a>"
 topic: 
 first_letter: U/V

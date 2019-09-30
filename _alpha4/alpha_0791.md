@@ -7,7 +7,7 @@ entry: Rest
 topic: Rest
 first_letter: R
 xref: "<a href='/New_Beehive/alpha4/alpha_0762/'>Quietness</a>|<a href='/New_Beehive/alpha4/alpha_0812/'>Sabbath</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_322/'>1638 [Nothing]</a>"
+  href='/New_Beehive/toc/toc2_322/'>1638 [Nothing]</a>"
 see: 
 page: 
 add: 

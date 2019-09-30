@@ -3,7 +3,7 @@ pid: index_2767
 volume: Volume 3
 image_number: '33'
 head: to occupy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>239 [Possession]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>239 [Possession]</a>"
 topic: 
 first_letter: O
 xref: 

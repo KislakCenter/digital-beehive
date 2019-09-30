@@ -3,7 +3,7 @@ pid: index_2157
 volume: Volume 3
 image_number: '27'
 head: to kill
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>619 [to Kill]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>619 [to Kill]</a>"
 topic: 
 first_letter: K
 xref: 

@@ -3,7 +3,7 @@ pid: index_3547
 volume: Volume 3
 image_number: '41'
 head: schole
-entry: "<a href='/New_Beehive/alpha4/alpha_0827/'>a</a>|839 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_409/'>2354
+entry: "<a href='/New_Beehive/alpha4/alpha_0827/'>a</a>|839 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_409/'>2354
   [Schoole]</a>"
 topic: 
 first_letter: S

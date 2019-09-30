@@ -3,7 +3,7 @@ pid: index_2475
 volume: Volume 3
 image_number: '30'
 head: meeting houses
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>220 [Meeting houses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>220 [Meeting houses]</a>"
 topic: 
 first_letter: M
 xref: 

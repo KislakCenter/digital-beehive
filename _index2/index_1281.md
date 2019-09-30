@@ -3,7 +3,7 @@ pid: index_1281
 volume: Volume 3
 image_number: '19'
 head: epidemical
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1330 [To infect]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: E
 xref: 

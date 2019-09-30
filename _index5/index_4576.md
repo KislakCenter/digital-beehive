@@ -3,7 +3,7 @@ pid: index_4576
 volume: Volume 3
 image_number: '53'
 head: witchcraft natural
-entry: "<a href='/New_Beehive/toc_vol2/toc2_303/'>1543 [Falcination]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_303/'>1543 [Falcination]</a>"
 topic: 
 first_letter: W
 xref: 

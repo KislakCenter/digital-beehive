@@ -6,7 +6,7 @@ head:
 entry: Disputation
 topic: Disputation
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0911/'>Strife</a>|<a href='/New_Beehive/toc_vol2/toc2_073/'>170
+xref: "<a href='/New_Beehive/alpha4/alpha_0911/'>Strife</a>|<a href='/New_Beehive/toc/toc2_073/'>170
   [Disputation]</a>"
 see: 
 page: 

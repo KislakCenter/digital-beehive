@@ -3,7 +3,7 @@ pid: index_1963
 volume: Volume 3
 image_number: '25'
 head: im[m]ortal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>474 [Immortal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>474 [Immortal]</a>"
 topic: 
 first_letter: I/J
 xref: 

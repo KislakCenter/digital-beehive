@@ -3,7 +3,7 @@ pid: index_1462
 volume: Volume 3
 image_number: '20'
 head: first fruits
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1902 [First fruits]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1902 [First fruits]</a>"
 topic: 
 first_letter: F
 xref: 

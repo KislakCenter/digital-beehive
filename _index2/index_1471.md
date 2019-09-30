@@ -3,7 +3,7 @@ pid: index_1471
 volume: Volume 3
 image_number: '20'
 head: flagging
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>603 [Flaccid]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_138/'>603 [Flaccid]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,7 +3,7 @@ pid: index_1830
 volume: Volume 3
 image_number: '24'
 head: hierarchy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_342/'>1767 [Hierarchy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_342/'>1767 [Hierarchy]</a>"
 topic: 
 first_letter: H
 xref: 

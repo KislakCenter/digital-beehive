@@ -3,7 +3,7 @@ pid: index_3445
 volume: Volume 3
 image_number: '40'
 head: Rome
-entry: "<a href='/New_Beehive/alpha4/alpha_0807/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1450
+entry: "<a href='/New_Beehive/alpha4/alpha_0807/'>a</a>|<a href='/New_Beehive/toc/toc2_283/'>1450
   [Rome]</a>"
 topic: 
 first_letter: R

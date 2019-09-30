@@ -3,9 +3,8 @@ pid: index_1934
 volume: Volume 3
 image_number: '25'
 head: Jealousie
-entry: "<a href='/New_Beehive/alpha3/alpha_0445/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_254/'>1301
-  [Jealous]</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1656 [Jealousie]</a>|4622
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0445/'>a</a>|<a href='/New_Beehive/toc/toc2_254/'>1301
+  [Jealous]</a>|<a href='/New_Beehive/toc/toc2_326/'>1656 [Jealousie]</a>|4622 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 

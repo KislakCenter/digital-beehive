@@ -3,8 +3,8 @@ pid: index_2488
 volume: Volume 3
 image_number: '30'
 head: merchandize
-entry: "<a href='/New_Beehive/alpha3/alpha_0583/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_067/'>109
-  [a Shop keeper]</a>|<a href='/New_Beehive/toc_vol2/toc2_158/'>714 [Market]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0583/'>a</a>|<a href='/New_Beehive/toc/toc2_067/'>109
+  [a Shop keeper]</a>|<a href='/New_Beehive/toc/toc2_158/'>714 [Market]</a>"
 topic: 
 first_letter: M
 xref: 

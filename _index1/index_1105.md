@@ -3,7 +3,7 @@ pid: index_1105
 volume: Volume 3
 image_number: '17'
 head: distinction
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1793 [the distinction]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1793 [the distinction]</a>"
 topic: 
 first_letter: D
 xref: 

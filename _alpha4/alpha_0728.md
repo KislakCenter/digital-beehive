@@ -6,9 +6,7 @@ head:
 entry: Printing
 topic: Printing
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0498/'>King</a>|<a href='/New_Beehive/alpha3/alpha_0598/'>Monarchy</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_231/'>1186 [Prince]</a>|<a href='/New_Beehive/toc_vol2/toc2_253/'>1296
-  [Printing]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_253/'>1296 [Printing]</a>"
 see: 
 page: 
 add: 

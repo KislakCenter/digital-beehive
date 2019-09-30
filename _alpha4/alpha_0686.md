@@ -6,7 +6,7 @@ head:
 entry: Payment
 topic: Payment
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0212/'>Debt</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1131
+xref: "<a href='/New_Beehive/alpha1/alpha_0212/'>Debt</a>|<a href='/New_Beehive/toc/toc2_220/'>1131
   [Payment]</a>"
 see: 
 page: 

@@ -6,7 +6,7 @@ head:
 entry: Difficulty
 topic: Difficulty
 first_letter: D
-xref: "<a href='/New_Beehive/alpha2/alpha_0408/'>Heaviness</a>|<a href='/New_Beehive/toc_vol2/toc2_066/'>100
+xref: "<a href='/New_Beehive/alpha2/alpha_0408/'>Heaviness</a>|<a href='/New_Beehive/toc/toc2_066/'>100
   [Difficulty]</a>"
 see: 
 page: 

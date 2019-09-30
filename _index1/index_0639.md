@@ -3,7 +3,7 @@ pid: index_0639
 volume: Volume 3
 image_number: '12'
 head: chiromancy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1531 [Chiromancy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1531 [Chiromancy]</a>"
 topic: 
 first_letter: C
 xref: 

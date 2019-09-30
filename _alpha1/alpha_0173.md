@@ -6,7 +6,7 @@ head:
 entry: Contempt
 topic: Contempt
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>Derision</a>|Disregard|<a href='/New_Beehive/toc_vol2/toc2_087/'>269
+xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>Derision</a>|Disregard|<a href='/New_Beehive/toc/toc2_087/'>269
   [Contempt]</a>"
 see: 
 page: 

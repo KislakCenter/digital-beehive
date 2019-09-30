@@ -3,7 +3,7 @@ pid: index_0034
 volume: Volume 3
 image_number: '7'
 head: acquaintance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>86 [Acquaintance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>86 [Acquaintance]</a>"
 topic: 
 first_letter: A
 xref: 

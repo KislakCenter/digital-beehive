@@ -3,7 +3,7 @@ pid: index_4430
 volume: Volume 3
 image_number: '51'
 head: voluptuousness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>189 [Luxury]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_075/'>189 [Luxury]</a>"
 topic: 
 first_letter: U/V
 xref: 

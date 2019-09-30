@@ -3,7 +3,7 @@ pid: index_3637
 volume: Volume 3
 image_number: '42'
 head: sensible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_207/'>1070 [Inkurible]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_207/'>1070 [Inkurible]</a>"
 topic: 
 first_letter: S
 xref: 

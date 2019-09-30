@@ -3,7 +3,7 @@ pid: index_2494
 volume: Volume 3
 image_number: '30'
 head: merry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_272/'>1392 [Joy]</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1940
+entry: "<a href='/New_Beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/New_Beehive/toc/toc2_357/'>1940
   [Joy]</a>"
 topic: 
 first_letter: M

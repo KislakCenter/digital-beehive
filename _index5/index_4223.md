@@ -3,7 +3,7 @@ pid: index_4223
 volume: Volume 3
 image_number: '48'
 head: treachery
-entry: "<a href='/New_Beehive/alpha5/alpha_0967/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>933
+entry: "<a href='/New_Beehive/alpha5/alpha_0967/'>a</a>|<a href='/New_Beehive/toc/toc2_174/'>933
   [Treachery]</a>"
 topic: 
 first_letter: T

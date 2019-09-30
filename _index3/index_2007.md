@@ -3,7 +3,7 @@ pid: index_2007
 volume: Volume 3
 image_number: '25'
 head: incurable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>620 [Despair]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>620 [Despair]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -7,7 +7,7 @@ entry: Calling
 topic: Calling
 first_letter: C
 xref: "<a href='/New_Beehive/alpha4/alpha_0651/'>office</a>|<a href='/New_Beehive/alpha4/alpha_0867/'>Simony</a>|Ordination|<a
-  href='/New_Beehive/toc_vol2/toc2_168/'>904 [Calling]</a>"
+  href='/New_Beehive/toc/toc2_168/'>904 [Calling]</a>"
 see: 
 page: 
 add: 

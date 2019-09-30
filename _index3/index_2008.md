@@ -3,7 +3,7 @@ pid: index_2008
 volume: Volume 3
 image_number: '25'
 head: increase
-entry: "<a href='/New_Beehive/alpha3/alpha_0468/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_138/'>604
+entry: "<a href='/New_Beehive/alpha3/alpha_0468/'>a</a>|<a href='/New_Beehive/toc/toc2_138/'>604
   [Increase]</a>"
 topic: 
 first_letter: I/J

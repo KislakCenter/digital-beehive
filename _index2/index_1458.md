@@ -3,7 +3,7 @@ pid: index_1458
 volume: Volume 3
 image_number: '20'
 head: firmamt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>383 [Firmament]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Firmament]</a>"
 topic: 
 first_letter: F
 xref: 

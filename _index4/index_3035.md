@@ -3,7 +3,7 @@ pid: index_3035
 volume: Volume 3
 image_number: '35'
 head: plantain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_380/'>2143 [Plantain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_380/'>2143 [Plantain]</a>"
 topic: 
 first_letter: P
 xref: 

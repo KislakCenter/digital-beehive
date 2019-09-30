@@ -3,7 +3,7 @@ pid: index_1411
 volume: Volume 3
 image_number: '20'
 head: fasting
-entry: "<a href='/New_Beehive/alpha2/alpha_0314/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>876
+entry: "<a href='/New_Beehive/alpha2/alpha_0314/'>a</a>|<a href='/New_Beehive/toc/toc2_163/'>876
   [Fasting]</a>"
 topic: 
 first_letter: F

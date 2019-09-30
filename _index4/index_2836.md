@@ -3,7 +3,7 @@ pid: index_2836
 volume: Volume 3
 image_number: '34'
 head: oven
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>869 [Oven]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_161/'>869 [Oven]</a>"
 topic: 
 first_letter: O
 xref: 

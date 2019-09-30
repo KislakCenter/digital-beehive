@@ -3,8 +3,8 @@ pid: index_1634
 volume: Volume 3
 image_number: '22'
 head: church governmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_314/'>1600 [Church Discipline]</a>|<a href='/New_Beehive/toc_vol2/toc2_347/'>1808
+entry: "<a href='/New_Beehive/toc/toc2_106/'>402 [Order & Discipline in the Church]</a>|<a
+  href='/New_Beehive/toc/toc2_314/'>1600 [Church Discipline]</a>|<a href='/New_Beehive/toc/toc2_347/'>1808
   [Church Governmt]</a>"
 topic: 
 first_letter: G

@@ -3,7 +3,7 @@ pid: index_0805
 volume: Volume 3
 image_number: '14'
 head: consent of parents
-entry: "<a href='/New_Beehive/toc_vol2/toc2_282/'>1442 [marry without Consent of Parents
+entry: "<a href='/New_Beehive/toc/toc2_282/'>1442 [marry without Consent of Parents
   or Guardians]</a>"
 topic: 
 first_letter: C

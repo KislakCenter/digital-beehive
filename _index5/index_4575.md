@@ -3,10 +3,9 @@ pid: index_4575
 volume: Volume 3
 image_number: '53'
 head: witchcraft
-entry: "<a href='/New_Beehive/alpha5/alpha_1032/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_256/'>1312
-  [Witchcraft]</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1536 [Witchcraft]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_306/'>1556 [Bewitch]</a>|<a href='/New_Beehive/toc_vol2/toc2_392/'>2243
-  [Sorcery or Witchcraft]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1032/'>a</a>|<a href='/New_Beehive/toc/toc2_256/'>1312
+  [Witchcraft]</a>|<a href='/New_Beehive/toc/toc2_302/'>1536 [Witchcraft]</a>|<a href='/New_Beehive/toc/toc2_306/'>1556
+  [Bewitch]</a>|<a href='/New_Beehive/toc/toc2_392/'>2243 [Sorcery or Witchcraft]</a>"
 topic: 
 first_letter: W
 xref: 

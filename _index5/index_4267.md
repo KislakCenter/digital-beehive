@@ -3,7 +3,7 @@ pid: index_4267
 volume: Volume 3
 image_number: '49'
 head: turky
-entry: "<a href='/New_Beehive/toc_vol2/toc2_274/'>1404 [Turky-cock]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_274/'>1404 [Turky-cock]</a>"
 topic: 
 first_letter: T
 xref: 

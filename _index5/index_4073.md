@@ -3,9 +3,9 @@ pid: index_4073
 volume: Volume 3
 image_number: '47'
 head: teachers
-entry: "<a href='/New_Beehive/alpha5/alpha_0931/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_104/'>393
-  [Teacher]</a>|<a href='/New_Beehive/toc_vol2/toc2_200/'>1031 [Teachers]</a>|<a href='/New_Beehive/toc_vol2/toc2_313/'>1592
-  [Teachers]</a>|<a href='/New_Beehive/toc_vol2/toc2_419/'>2428 [Teachers]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0931/'>a</a>|<a href='/New_Beehive/toc/toc2_104/'>393
+  [Teacher]</a>|<a href='/New_Beehive/toc/toc2_200/'>1031 [Teachers]</a>|<a href='/New_Beehive/toc/toc2_313/'>1592
+  [Teachers]</a>|<a href='/New_Beehive/toc/toc2_419/'>2428 [Teachers]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_2940
 volume: Volume 3
 image_number: '35'
 head: pedlars
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>109 [a Shop keeper]</a>|<a href='/New_Beehive/toc_vol2/toc2_158/'>714
+entry: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop keeper]</a>|<a href='/New_Beehive/toc/toc2_158/'>714
   [Market]</a>"
 topic: 
 first_letter: P

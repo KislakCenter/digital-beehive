@@ -3,7 +3,7 @@ pid: index_0963
 volume: Volume 3
 image_number: '15'
 head: deafness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_117/'>479 [Deaf]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_117/'>479 [Deaf]</a>"
 topic: 
 first_letter: D
 xref: 

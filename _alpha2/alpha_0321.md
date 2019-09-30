@@ -6,8 +6,7 @@ head:
 entry: Feast
 topic: Feast
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc_vol2/toc2_212/'>1093
-  [holy days]</a>|<a href='/New_Beehive/toc_vol2/toc2_073/'>165 [Feast]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_073/'>165 [Feast]</a>"
 see: 
 page: 
 add: 

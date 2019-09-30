@@ -3,7 +3,7 @@ pid: index_2922
 volume: Volume 3
 image_number: '34'
 head: patriarchs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_434/'>4839 [Patriarchs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_434/'>4839 [Patriarchs]</a>"
 topic: 
 first_letter: P
 xref: 

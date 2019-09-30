@@ -3,8 +3,8 @@ pid: index_4086
 volume: Volume 3
 image_number: '47'
 head: temptation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_124/'>525 [Temptation]</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1435
-  [Temptation]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2283 [Free Will]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_124/'>525 [Temptation]</a>|<a href='/New_Beehive/toc/toc2_280/'>1435
+  [Temptation]</a>|<a href='/New_Beehive/toc/toc2_400/'>2283 [Free Will]</a>"
 topic: 
 first_letter: T
 xref: 

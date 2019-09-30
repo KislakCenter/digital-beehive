@@ -3,7 +3,7 @@ pid: index_1900
 volume: Volume 3
 image_number: '24'
 head: to humble
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1326 [debase]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1326 [debase]</a>"
 topic: 
 first_letter: H
 xref: 

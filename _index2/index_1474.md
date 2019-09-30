@@ -3,7 +3,7 @@ pid: index_1474
 volume: Volume 3
 image_number: '20'
 head: flattery
-entry: "<a href='/New_Beehive/alpha2/alpha_0328/'>a</a>|810 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_347/'>1810
+entry: "<a href='/New_Beehive/alpha2/alpha_0328/'>a</a>|810 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_347/'>1810
   [Flattery]</a>"
 topic: 
 first_letter: F

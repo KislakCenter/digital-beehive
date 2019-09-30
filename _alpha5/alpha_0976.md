@@ -6,7 +6,7 @@ head:
 entry: Vagabonds
 topic: Vagabonds
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha5/alpha_0966/'>Travelling</a>|<a href='/New_Beehive/toc_vol2/toc2_142/'>623
+xref: "<a href='/New_Beehive/alpha5/alpha_0966/'>Travelling</a>|<a href='/New_Beehive/toc/toc2_142/'>623
   [Vagabond]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_3074
 volume: Volume 3
 image_number: '36'
 head: poppy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_236/'>1213 [Poppy-Juice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_236/'>1213 [Poppy-Juice]</a>"
 topic: 
 first_letter: P
 xref: 

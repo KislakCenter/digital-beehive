@@ -3,7 +3,7 @@ pid: index_0972
 volume: Volume 3
 image_number: '15'
 head: deathly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_373/'>2078 [Mortal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_373/'>2078 [Mortal]</a>"
 topic: 
 first_letter: D
 xref: 

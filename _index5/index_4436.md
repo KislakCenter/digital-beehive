@@ -3,7 +3,7 @@ pid: index_4436
 volume: Volume 3
 image_number: '51'
 head: to upbraid
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>386 [upbraid]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>386 [upbraid]</a>"
 topic: 
 first_letter: U/V
 xref: 

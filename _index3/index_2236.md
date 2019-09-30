@@ -3,7 +3,7 @@ pid: index_2236
 volume: Volume 3
 image_number: '28'
 head: lean[n]ess
-entry: "<a href='/New_Beehive/alpha3/alpha_0523/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>310
+entry: "<a href='/New_Beehive/alpha3/alpha_0523/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>310
   [Leanness]</a>"
 topic: 
 first_letter: L

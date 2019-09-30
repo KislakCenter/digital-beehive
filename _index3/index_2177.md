@@ -3,8 +3,8 @@ pid: index_2177
 volume: Volume 3
 image_number: '27'
 head: knowledge
-entry: "<a href='/New_Beehive/alpha3/alpha_0503/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2098
-  [Knowledge]</a>|<a href='/New_Beehive/toc_vol2/toc2_405/'>2315 [Knowledge]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0503/'>a</a>|<a href='/New_Beehive/toc/toc2_375/'>2098
+  [Knowledge]</a>|<a href='/New_Beehive/toc/toc2_405/'>2315 [Knowledge]</a>"
 topic: 
 first_letter: K
 xref: 

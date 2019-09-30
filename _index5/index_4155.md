@@ -3,8 +3,8 @@ pid: index_4155
 volume: Volume 3
 image_number: '47'
 head: time
-entry: "<a href='/New_Beehive/alpha5/alpha_0947/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_238/'>1225
-  [Time]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2059 [Time]</a>|<a href='/New_Beehive/toc_vol2/toc2_431/'>4815
+entry: "<a href='/New_Beehive/alpha5/alpha_0947/'>a</a>|<a href='/New_Beehive/toc/toc2_238/'>1225
+  [Time]</a>|<a href='/New_Beehive/toc/toc2_371/'>2059 [Time]</a>|<a href='/New_Beehive/toc/toc2_431/'>4815
   [Time]</a>"
 topic: 
 first_letter: T

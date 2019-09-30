@@ -3,7 +3,7 @@ pid: index_1613
 volume: Volume 3
 image_number: '22'
 head: gipsy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>623 [Vagabond]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>623 [Vagabond]</a>"
 topic: 
 first_letter: G
 xref: 

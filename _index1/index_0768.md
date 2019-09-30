@@ -3,8 +3,7 @@ pid: index_0768
 volume: Volume 3
 image_number: '14'
 head: compulsion in matters of rel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_203/'>1049 [Compulsion (in Matters of
-  Religion)]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_203/'>1049 [Compulsion (in Matters of Religion)]</a>"
 topic: 
 first_letter: C
 xref: 

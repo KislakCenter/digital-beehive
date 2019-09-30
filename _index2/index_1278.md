@@ -3,7 +3,7 @@ pid: index_1278
 volume: Volume 3
 image_number: '19'
 head: Epictetus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_204/'>1054 [Epictetus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_204/'>1054 [Epictetus]</a>"
 topic: 
 first_letter: E
 xref: 

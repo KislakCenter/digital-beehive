@@ -6,8 +6,7 @@ head:
 entry: Blood-letting
 topic: Blood-letting
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_178/'>956 [Blood]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2158
-  [Blood-letting]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_381/'>2158 [Blood-letting]</a>"
 see: 
 page: 
 add: 

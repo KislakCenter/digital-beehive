@@ -3,7 +3,7 @@ pid: index_2978
 volume: Volume 3
 image_number: '35'
 head: petticoat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_419/'>2426 [Petticoat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_419/'>2426 [Petticoat]</a>"
 topic: 
 first_letter: P
 xref: 

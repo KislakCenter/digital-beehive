@@ -7,7 +7,7 @@ entry: Star
 topic: Star
 first_letter: S
 xref: Astrology|<a href='/New_Beehive/alpha1/alpha_0154/'>Comet</a>|<a href='/New_Beehive/alpha4/alpha_0705/'>Planets</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_265/'>1358 [Star]</a>
+  href='/New_Beehive/toc/toc2_265/'>1358 [Star]</a>
 see: 
 page: 
 add: 

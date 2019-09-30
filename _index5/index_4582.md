@@ -3,7 +3,7 @@ pid: index_4582
 volume: Volume 3
 image_number: '53'
 head: without Christ
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>284 [without Xst]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_089/'>284 [without Xst]</a>"
 topic: 
 first_letter: W
 xref: 

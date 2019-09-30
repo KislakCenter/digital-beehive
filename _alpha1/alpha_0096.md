@@ -6,9 +6,7 @@ head:
 entry: Bread
 topic: Bread
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0193/'>Credit</a>|<a href='/New_Beehive/alpha3/alpha_0526/'>Lending</a>|<a
-  href='/New_Beehive/alpha2/alpha_0371/'>goodness</a>|<a href='/New_Beehive/toc_vol2/toc2_377/'>2115
-  [Bread]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_377/'>2115 [Bread]</a>"
 see: 
 page: 
 add: 

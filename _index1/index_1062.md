@@ -3,7 +3,7 @@ pid: index_1062
 volume: Volume 3
 image_number: '16'
 head: disappointmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>470 [Disappointmt]</a>|1861 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>470 [Disappointmt]</a>|1861 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 

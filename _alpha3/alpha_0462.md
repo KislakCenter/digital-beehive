@@ -6,7 +6,7 @@ head:
 entry: Imperfection
 topic: Imperfection
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0693/'>Perfect</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>205
+xref: "<a href='/New_Beehive/alpha4/alpha_0693/'>Perfect</a>|<a href='/New_Beehive/toc/toc2_078/'>205
   [Imperfection]</a>"
 see: 
 page: 

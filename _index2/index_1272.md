@@ -3,7 +3,7 @@ pid: index_1272
 volume: Volume 3
 image_number: '18'
 head: entertainmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>348 [to Treat]</a>|<a href='/New_Beehive/toc_vol2/toc2_275/'>1408
+entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [to Treat]</a>|<a href='/New_Beehive/toc/toc2_275/'>1408
   [entertainmt]</a>"
 topic: 
 first_letter: E

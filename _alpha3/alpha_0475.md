@@ -6,9 +6,9 @@ head:
 entry: Injustice
 topic: Injustice
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>5
-  [Wrong]</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>6 [Unjust Substance]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_239/'>1227 [Injustice]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/New_Beehive/toc/toc2_058/'>5
+  [Wrong]</a>|<a href='/New_Beehive/toc/toc2_058/'>6 [Unjust Substance]</a>|<a href='/New_Beehive/toc/toc2_239/'>1227
+  [Injustice]</a>"
 see: 
 page: 
 add: 

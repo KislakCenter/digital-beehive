@@ -3,7 +3,7 @@ pid: index_2496
 volume: Volume 3
 image_number: '30'
 head: Messenger
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>87 [Messenger]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>87 [Messenger]</a>"
 topic: 
 first_letter: M
 xref: 

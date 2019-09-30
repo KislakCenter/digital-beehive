@@ -3,7 +3,7 @@ pid: index_0557
 volume: Volume 3
 image_number: '12'
 head: casuists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_266/'>1364 [Casuists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_266/'>1364 [Casuists]</a>"
 topic: 
 first_letter: C
 xref: 

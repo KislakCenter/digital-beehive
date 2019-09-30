@@ -6,9 +6,7 @@ head:
 entry: Lending
 topic: Lending
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a href='/New_Beehive/alpha4/alpha_0827/'>School</a>|<a
-  href='/New_Beehive/alpha4/alpha_0913/'>Student</a>|<a href='/New_Beehive/toc_vol2/toc2_079/'>212
-  [Learning]</a>|<a href='/New_Beehive/alpha1/alpha_0093/'>Borrowing</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0093/'>Borrowing</a>"
 see: 
 page: 
 add: 

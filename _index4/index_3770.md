@@ -3,7 +3,7 @@ pid: index_3770
 volume: Volume 3
 image_number: '43'
 head: snot
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>621 [Snot]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>621 [Snot]</a>"
 topic: 
 first_letter: S
 xref: 

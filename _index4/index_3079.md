@@ -3,7 +3,7 @@ pid: index_3079
 volume: Volume 3
 image_number: '36'
 head: portugal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4798 [Portugal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4798 [Portugal]</a>"
 topic: 
 first_letter: P
 xref: 

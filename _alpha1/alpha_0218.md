@@ -6,7 +6,7 @@ head:
 entry: Degree
 topic: Degree
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1377
+xref: "<a href='/New_Beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/New_Beehive/toc/toc2_269/'>1377
   [Great with young]</a>"
 see: 
 page: 

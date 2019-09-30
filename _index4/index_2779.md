@@ -3,7 +3,7 @@ pid: index_2779
 volume: Volume 3
 image_number: '33'
 head: oil
-entry: "<a href='/New_Beehive/alpha4/alpha_0654/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_353/'>1910
+entry: "<a href='/New_Beehive/alpha4/alpha_0654/'>a</a>|<a href='/New_Beehive/toc/toc2_353/'>1910
   [Oil]</a>"
 topic: 
 first_letter: O

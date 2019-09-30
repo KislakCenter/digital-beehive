@@ -3,7 +3,7 @@ pid: index_4148
 volume: Volume 3
 image_number: '47'
 head: tide
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1246 [Ebbing and Flowing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
 topic: 
 first_letter: T
 xref: 

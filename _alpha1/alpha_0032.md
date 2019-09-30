@@ -6,8 +6,7 @@ head:
 entry: Ant
 topic: Ant
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0759/'>Queries</a>|refutation|<a href='/New_Beehive/toc_vol2/toc2_083/'>243
-  [Answer]</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2722
 volume: Volume 3
 image_number: '32'
 head: to nod. wincken
-entry: "<a href='/New_Beehive/toc_vol2/toc2_386/'>2202 [To Nod]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_386/'>2202 [To Nod]</a>"
 topic: 
 first_letter: N
 xref: 

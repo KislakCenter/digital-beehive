@@ -3,7 +3,7 @@ pid: index_2372
 volume: Volume 3
 image_number: '29'
 head: luxury
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>189 [Luxury]</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1183
+entry: "<a href='/New_Beehive/toc/toc2_075/'>189 [Luxury]</a>|<a href='/New_Beehive/toc/toc2_230/'>1183
   [Luxury]</a>"
 topic: 
 first_letter: L

@@ -6,7 +6,7 @@ head:
 entry: Sonship
 topic: Sonship
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>311
+xref: "<a href='/New_Beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/New_Beehive/toc/toc2_093/'>311
   [Sonship]</a>"
 see: 
 page: 

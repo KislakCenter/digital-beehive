@@ -6,8 +6,7 @@ head:
 entry: Person
 topic: Person
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
-  href='/New_Beehive/toc_vol2/toc2_064/'>71 [Persecution]</a>|"
+xref: 
 see: 
 page: 
 add: 

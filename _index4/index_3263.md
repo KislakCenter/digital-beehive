@@ -3,7 +3,7 @@ pid: index_3263
 volume: Volume 3
 image_number: '38'
 head: quickgrass
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>679 [Quickagrass]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>679 [Quickagrass]</a>"
 topic: 
 first_letter: Q
 xref: 

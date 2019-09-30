@@ -3,7 +3,7 @@ pid: index_3165
 volume: Volume 3
 image_number: '37'
 head: privacy
-entry: "<a href='/New_Beehive/alpha4/alpha_0731/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1178
+entry: "<a href='/New_Beehive/alpha4/alpha_0731/'>a</a>|<a href='/New_Beehive/toc/toc2_229/'>1178
   [Privacy]</a>"
 topic: 
 first_letter: P

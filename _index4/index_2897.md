@@ -3,7 +3,7 @@ pid: index_2897
 volume: Volume 3
 image_number: '34'
 head: partakers
-entry: "<a href='/New_Beehive/alpha4/alpha_0679/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2364
+entry: "<a href='/New_Beehive/alpha4/alpha_0679/'>a</a>|<a href='/New_Beehive/toc/toc2_411/'>2364
   [To communicate & partake]</a>"
 topic: 
 first_letter: P

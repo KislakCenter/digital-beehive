@@ -3,7 +3,7 @@ pid: index_1053
 volume: Volume 3
 image_number: '16'
 head: diligence
-entry: "<a href='/New_Beehive/alpha1/alpha_0235/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>924
+entry: "<a href='/New_Beehive/alpha1/alpha_0235/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>924
   [Diligence]</a>"
 topic: 
 first_letter: D

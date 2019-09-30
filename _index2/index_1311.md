@@ -3,7 +3,7 @@ pid: index_1311
 volume: Volume 3
 image_number: '19'
 head: ethiopian
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>382 [Neger or Negro]</a>|<a href='/New_Beehive/toc_vol2/toc2_320/'>1628
+entry: "<a href='/New_Beehive/toc/toc2_103/'>382 [Neger or Negro]</a>|<a href='/New_Beehive/toc/toc2_320/'>1628
   [Negro]</a>"
 topic: 
 first_letter: E

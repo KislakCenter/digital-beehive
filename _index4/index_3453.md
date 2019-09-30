@@ -3,7 +3,7 @@ pid: index_3453
 volume: Volume 3
 image_number: '40'
 head: rosin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_380/'>2145 [rosin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_380/'>2145 [rosin]</a>"
 topic: 
 first_letter: R
 xref: 

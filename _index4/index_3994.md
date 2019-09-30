@@ -3,7 +3,7 @@ pid: index_3994
 volume: Volume 3
 image_number: '46'
 head: supposing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_095/'>327 [Supposing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_095/'>327 [Supposing]</a>"
 topic: 
 first_letter: S
 xref: 

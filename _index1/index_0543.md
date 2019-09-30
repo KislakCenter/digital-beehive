@@ -3,7 +3,7 @@ pid: index_0543
 volume: Volume 3
 image_number: '12'
 head: carkass
-entry: "<a href='/New_Beehive/toc_vol2/toc2_109/'>427 [Carkass]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_109/'>427 [Carkass]</a>"
 topic: 
 first_letter: C
 xref: 

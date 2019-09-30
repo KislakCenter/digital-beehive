@@ -3,7 +3,7 @@ pid: index_3859
 volume: Volume 3
 image_number: '44'
 head: spoiled
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>587 [mouldy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [mouldy]</a>"
 topic: 
 first_letter: S
 xref: 

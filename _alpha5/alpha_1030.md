@@ -6,7 +6,7 @@ head:
 entry: Wisedom
 topic: Wisedom
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0750/'>Prudence</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1107
+xref: "<a href='/New_Beehive/alpha4/alpha_0750/'>Prudence</a>|<a href='/New_Beehive/toc/toc2_215/'>1107
   [Wisdom]</a>"
 see: 
 page: 

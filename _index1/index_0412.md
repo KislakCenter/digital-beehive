@@ -3,7 +3,7 @@ pid: index_0412
 volume: Volume 3
 image_number: '10'
 head: books for the fire
-entry: "<a href='/New_Beehive/toc_vol2/toc2_435/'>4844 [Vain Books]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_435/'>4844 [Vain Books]</a>"
 topic: 
 first_letter: B
 xref: 

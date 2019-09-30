@@ -3,7 +3,7 @@ pid: index_1317
 volume: Volume 3
 image_number: '19'
 head: evening
-entry: "<a href='/New_Beehive/toc_vol2/toc2_304/'>1546 [Evening]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_304/'>1546 [Evening]</a>"
 topic: 
 first_letter: E
 xref: 

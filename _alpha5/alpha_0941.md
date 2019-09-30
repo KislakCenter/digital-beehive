@@ -6,8 +6,7 @@ head:
 entry: Thirst
 topic: Thirst
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1132
-  [Gratitude]</a>|<a href='/New_Beehive/alpha1/alpha_0262/'>Drink</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0262/'>Drink</a>"
 see: 
 page: 
 add: 

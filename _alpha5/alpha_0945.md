@@ -6,8 +6,7 @@ head:
 entry: to Thrust
 topic: to Thrust
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha3/alpha_0579/'>meditation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_182/'>982 [Thoughts]</a>||"
+xref: 
 see: 
 page: 
 add: 

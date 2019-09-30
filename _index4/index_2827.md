@@ -3,7 +3,7 @@ pid: index_2827
 volume: Volume 3
 image_number: '33'
 head: original tongues
-entry: "<a href='/New_Beehive/alpha4/alpha_0663/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_376/'>2105
+entry: "<a href='/New_Beehive/alpha4/alpha_0663/'>a</a>|<a href='/New_Beehive/toc/toc2_376/'>2105
   [Original Tongues]</a>"
 topic: 
 first_letter: O

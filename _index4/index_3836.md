@@ -3,7 +3,7 @@ pid: index_3836
 volume: Volume 3
 image_number: '44'
 head: Dr. Spener
-entry: "<a href='/New_Beehive/toc_vol2/toc2_275/'>1410 [Dr. Phillip James Spener]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_275/'>1410 [Dr. Phillip James Spener]</a>"
 topic: 
 first_letter: S
 xref: 

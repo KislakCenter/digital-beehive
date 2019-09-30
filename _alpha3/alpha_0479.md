@@ -6,7 +6,7 @@ head:
 entry: Insensibleness
 topic: Insensibleness
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0849/'>Sense</a>|<a href='/New_Beehive/toc_vol2/toc2_072/'>152
+xref: "<a href='/New_Beehive/alpha4/alpha_0849/'>Sense</a>|<a href='/New_Beehive/toc/toc2_072/'>152
   [Insensibleness]</a>"
 see: 
 page: 

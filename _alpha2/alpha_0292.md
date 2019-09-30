@@ -6,7 +6,7 @@ head:
 entry: Eternity
 topic: Eternity
 first_letter: E
-xref: Always|Immortality|<a href='/New_Beehive/toc_vol2/toc2_222/'>1142 [Eternity]</a>
+xref: Always|Immortality|<a href='/New_Beehive/toc/toc2_222/'>1142 [Eternity]</a>
 see: 
 page: 
 add: 

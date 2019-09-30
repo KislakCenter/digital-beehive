@@ -3,7 +3,7 @@ pid: index_3201
 volume: Volume 3
 image_number: '37'
 head: proportion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>916 [Proportion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Proportion]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Thunder
 topic: Thunder
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha3/alpha_0579/'>meditation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_182/'>982 [Thoughts]</a>|||<a href='/New_Beehive/toc_vol2/toc2_263/'>1346
-  [Thunder & Lightning]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Thunder & Lightning]</a>"
 see: 
 page: 
 add: 

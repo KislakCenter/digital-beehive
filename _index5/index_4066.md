@@ -3,7 +3,7 @@ pid: index_4066
 volume: Volume 3
 image_number: '46'
 head: taste
-entry: "<a href='/New_Beehive/toc_vol2/toc2_072/'>156 [Taste]</a>|<a href='/New_Beehive/toc_vol2/toc2_376/'>2103
+entry: "<a href='/New_Beehive/toc/toc2_072/'>156 [Taste]</a>|<a href='/New_Beehive/toc/toc2_376/'>2103
   [Taste]</a>"
 topic: 
 first_letter: T

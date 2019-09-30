@@ -6,7 +6,7 @@ head:
 entry: Eloquence
 topic: Eloquence
 first_letter: E
-xref: "<a href='/New_Beehive/alpha2/alpha_0307/'>fair words</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1659
+xref: "<a href='/New_Beehive/alpha2/alpha_0307/'>fair words</a>|<a href='/New_Beehive/toc/toc2_326/'>1659
   [Eloquence]</a>"
 see: 
 page: 

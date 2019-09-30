@@ -3,7 +3,7 @@ pid: index_3711
 volume: Volume 3
 image_number: '43'
 head: silkworm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_306/'>1558 [Silkworm]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_306/'>1558 [Silkworm]</a>"
 topic: 
 first_letter: S
 xref: 

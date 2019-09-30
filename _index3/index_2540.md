@@ -3,7 +3,7 @@ pid: index_2540
 volume: Volume 3
 image_number: '31'
 head: misplaced love
-entry: "<a href='/New_Beehive/toc_vol2/toc2_423/'>4454 [Disordinate Love]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
 topic: 
 first_letter: M
 xref: 

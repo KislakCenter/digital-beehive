@@ -3,7 +3,7 @@ pid: index_1180
 volume: Volume 3
 image_number: '18'
 head: dying bed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1065 [Agony]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1065 [Agony]</a>"
 topic: 
 first_letter: D
 xref: 

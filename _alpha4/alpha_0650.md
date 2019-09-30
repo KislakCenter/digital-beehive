@@ -6,8 +6,7 @@ head:
 entry: Oeconomy
 topic: Oeconomy
 first_letter: O
-xref: "<a href='/New_Beehive/alpha5/alpha_1000/'>Untimely</a>|<a href='/New_Beehive/alpha5/alpha_0947/'>Time</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_157/'>706 [Occasion]</a>|<a href='/New_Beehive/alpha2/alpha_0439/'>Husbandry</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0439/'>Husbandry</a>"
 see: 
 page: p.379 [Image 2.202]
 add: 

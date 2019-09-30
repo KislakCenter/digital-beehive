@@ -6,8 +6,7 @@ head:
 entry: Shells of Snails
 topic: Shells of Snails
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|face|form|<a
-  href='/New_Beehive/alpha5/alpha_0961/'>Tortoise</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_0961/'>Tortoise</a>"
 see: 
 page: 
 add: 

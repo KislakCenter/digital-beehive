@@ -3,7 +3,7 @@ pid: index_1086
 volume: Volume 3
 image_number: '17'
 head: disobedience
-entry: "<a href='/New_Beehive/alpha1/alpha_0242/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_351/'>1898
+entry: "<a href='/New_Beehive/alpha1/alpha_0242/'>a</a>|<a href='/New_Beehive/toc/toc2_351/'>1898
   [Disobedience]</a>"
 topic: 
 first_letter: D

@@ -3,7 +3,7 @@ pid: index_3173
 volume: Volume 3
 image_number: '37'
 head: process in law
-entry: "<a href='/New_Beehive/alpha4/alpha_0733/'>a</a>|790 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_423/'>4451
+entry: "<a href='/New_Beehive/alpha4/alpha_0733/'>a</a>|790 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_423/'>4451
   [WORD_MISSING]</a>"
 topic: 
 first_letter: P

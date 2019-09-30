@@ -3,7 +3,7 @@ pid: index_1300
 volume: Volume 3
 image_number: '19'
 head: essay
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>633 [essay]</a>|4578 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>633 [essay]</a>|4578 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

@@ -3,7 +3,7 @@ pid: index_4018
 volume: Volume 3
 image_number: '46'
 head: swearing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>90 [Swearing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>90 [Swearing]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,9 +3,9 @@ pid: index_3340
 volume: Volume 3
 image_number: '39'
 head: regeneration
-entry: "<a href='/New_Beehive/alpha4/alpha_0779/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1026
-  [Regeneration]</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2013 [Regeneration]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_402/'>2293 [Regeneration. New birth]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0779/'>a</a>|<a href='/New_Beehive/toc/toc2_199/'>1026
+  [Regeneration]</a>|<a href='/New_Beehive/toc/toc2_367/'>2013 [Regeneration]</a>|<a
+  href='/New_Beehive/toc/toc2_402/'>2293 [Regeneration. New birth]</a>"
 topic: 
 first_letter: R
 xref: 

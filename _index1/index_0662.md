@@ -3,7 +3,7 @@ pid: index_0662
 volume: Volume 3
 image_number: '13'
 head: church history
-entry: "<a href='/New_Beehive/toc_vol2/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
 topic: 
 first_letter: C
 xref: 

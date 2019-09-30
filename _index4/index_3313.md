@@ -3,7 +3,7 @@ pid: index_3313
 volume: Volume 3
 image_number: '38'
 head: to rebuke
-entry: "<a href='/New_Beehive/toc_vol2/toc2_266/'>1365 [Rebuke, Reprove]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_266/'>1365 [Rebuke, Reprove]</a>"
 topic: 
 first_letter: R
 xref: 

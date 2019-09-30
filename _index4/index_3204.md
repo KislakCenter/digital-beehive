@@ -3,7 +3,7 @@ pid: index_3204
 volume: Volume 3
 image_number: '37'
 head: proselyte
-entry: 836 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_331/'>1682 [Proselyse]</a>
+entry: 836 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_331/'>1682 [Proselyse]</a>
 topic: 
 first_letter: P
 xref: 

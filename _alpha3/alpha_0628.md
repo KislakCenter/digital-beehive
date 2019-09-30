@@ -7,7 +7,7 @@ entry: Naughtiness
 topic: Naughtiness
 first_letter: N
 xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>Malignity</a>|<a href='/New_Beehive/alpha5/alpha_1022/'>Wickedness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_280/'>1432 [Naughtiness]</a>"
+  href='/New_Beehive/toc/toc2_280/'>1432 [Naughtiness]</a>"
 see: 
 page: 
 add: 

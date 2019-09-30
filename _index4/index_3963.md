@@ -3,7 +3,7 @@ pid: index_3963
 volume: Volume 3
 image_number: '45'
 head: subtlety
-entry: "<a href='/New_Beehive/toc_vol2/toc2_239/'>1228 [Craftiness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 topic: 
 first_letter: S
 xref: 

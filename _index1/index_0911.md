@@ -3,7 +3,7 @@ pid: index_0911
 volume: Volume 3
 image_number: '15'
 head: crocodile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>704 [Crocodile]</a>|4730 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>704 [Crocodile]</a>|4730 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

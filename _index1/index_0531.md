@@ -3,7 +3,7 @@ pid: index_0531
 volume: Volume 3
 image_number: '11'
 head: canting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>360 [Canting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>360 [Canting]</a>"
 topic: 
 first_letter: C
 xref: 

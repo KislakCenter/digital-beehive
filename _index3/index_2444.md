@@ -3,7 +3,7 @@ pid: index_2444
 volume: Volume 3
 image_number: '30'
 head: mass
-entry: "<a href='/New_Beehive/alpha3/alpha_0571/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1668
+entry: "<a href='/New_Beehive/alpha3/alpha_0571/'>a</a>|<a href='/New_Beehive/toc/toc2_328/'>1668
   [Mass]</a>"
 topic: 
 first_letter: M

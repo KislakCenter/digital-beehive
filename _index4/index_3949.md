@@ -3,7 +3,7 @@ pid: index_3949
 volume: Volume 3
 image_number: '45'
 head: stuffs to wear
-entry: "<a href='/New_Beehive/toc_vol2/toc2_274/'>1404 [Stuffs to wear]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_274/'>1404 [Stuffs to wear]</a>"
 topic: 
 first_letter: S
 xref: 

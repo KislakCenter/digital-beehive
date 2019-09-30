@@ -3,10 +3,9 @@ pid: index_3973
 volume: Volume 3
 image_number: '45'
 head: sufferings
-entry: "<a href='/New_Beehive/alpha4/alpha_0916/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>498
-  [Sufferings]</a>|<a href='/New_Beehive/toc_vol2/toc2_263/'>1349 [Affliction]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_367/'>2020 [Sufferings]</a>|<a href='/New_Beehive/toc_vol2/toc2_425/'>4467
-  [Sufferings]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0916/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>498
+  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_263/'>1349 [Affliction]</a>|<a href='/New_Beehive/toc/toc2_367/'>2020
+  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_425/'>4467 [Sufferings]</a>"
 topic: 
 first_letter: S
 xref: 

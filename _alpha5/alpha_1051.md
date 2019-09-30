@@ -6,8 +6,7 @@ head:
 entry: Worthiness
 topic: Worthiness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0921/'>Superstition</a>|<a href='/New_Beehive/toc_vol2/toc2_119/'>490
-  [Will-Worship]</a>|<a href='/New_Beehive/alpha5/alpha_1002/'>Unworthy</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_1002/'>Unworthy</a>"
 see: 
 page: 
 add: 

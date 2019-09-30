@@ -6,9 +6,7 @@ head:
 entry: Dog
 topic: Dog
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/New_Beehive/alpha3/alpha_0525/'>Learning</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_421/'>2440 [To Teach]</a>|<a href='/New_Beehive/toc_vol2/toc2_261/'>1338
-  [Dog]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_261/'>1338 [Dog]</a>"
 see: 
 page: 
 add: 

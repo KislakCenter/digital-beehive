@@ -3,7 +3,7 @@ pid: index_2364
 volume: Volume 3
 image_number: '29'
 head: lump
-entry: "<a href='/New_Beehive/toc_vol2/toc2_139/'>612 [Shoe Clout]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: L
 xref: 

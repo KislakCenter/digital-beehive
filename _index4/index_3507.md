@@ -3,8 +3,8 @@ pid: index_3507
 volume: Volume 3
 image_number: '41'
 head: salvation
-entry: "<a href='/New_Beehive/alpha4/alpha_0821/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_068/'>111
-  [Salvation]</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1587 [Salvation]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0821/'>a</a>|<a href='/New_Beehive/toc/toc2_068/'>111
+  [Salvation]</a>|<a href='/New_Beehive/toc/toc2_312/'>1587 [Salvation]</a>"
 topic: 
 first_letter: S
 xref: 

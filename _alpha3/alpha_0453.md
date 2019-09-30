@@ -6,7 +6,7 @@ head:
 entry: Illumination
 topic: Illumination
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0793/'>revelation</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1027
+xref: "<a href='/New_Beehive/alpha4/alpha_0793/'>revelation</a>|<a href='/New_Beehive/toc/toc2_199/'>1027
   [Illumination]</a>"
 see: 
 page: 

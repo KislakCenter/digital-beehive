@@ -6,8 +6,7 @@ head:
 entry: Liberty
 topic: Liberty
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_219/'>1127 [Liberality]</a>"
+xref: 769 [PAGE_MISSING]
 see: 
 page: 
 add: 

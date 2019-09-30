@@ -6,9 +6,7 @@ head:
 entry: Miller
 topic: Miller
 first_letter: M
-xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1164
-  [Metal]</a>||<a href='/New_Beehive/alpha3/alpha_0578/'>Mediocrity</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1434
-  [Milk]</a>
+xref: 1873 [PAGE_MISSING]
 see: 
 page: 
 add: 

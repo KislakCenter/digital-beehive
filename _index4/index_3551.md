@@ -3,7 +3,7 @@ pid: index_3551
 volume: Volume 3
 image_number: '41'
 head: sciences
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>169 [Art]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>169 [Art]</a>"
 topic: 
 first_letter: S
 xref: 

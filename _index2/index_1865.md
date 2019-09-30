@@ -3,7 +3,7 @@ pid: index_1865
 volume: Volume 3
 image_number: '24'
 head: honesty
-entry: "<a href='/New_Beehive/alpha2/alpha_0425/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_254/'>1303
+entry: "<a href='/New_Beehive/alpha2/alpha_0425/'>a</a>|<a href='/New_Beehive/toc/toc2_254/'>1303
   [Honesty]</a>"
 topic: 
 first_letter: H

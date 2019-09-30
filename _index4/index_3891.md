@@ -3,7 +3,7 @@ pid: index_3891
 volume: Volume 3
 image_number: '45'
 head: stealing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>866 [Stealing]</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2094
+entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/New_Beehive/toc/toc2_375/'>2094
   [Theft]</a>"
 topic: 
 first_letter: S

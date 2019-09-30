@@ -3,7 +3,7 @@ pid: index_1735
 volume: Volume 3
 image_number: '23'
 head: a gypsie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_307/'>1561 [[AE]gyptians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_307/'>1561 [[AE]gyptians]</a>"
 topic: 
 first_letter: G
 xref: 

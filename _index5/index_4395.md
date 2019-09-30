@@ -3,7 +3,7 @@ pid: index_4395
 volume: Volume 3
 image_number: '50'
 head: university degrees
-entry: "<a href='/New_Beehive/toc_vol2/toc2_330/'>1679 [University Degrees]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_330/'>1679 [University Degrees]</a>"
 topic: 
 first_letter: U/V
 xref: 

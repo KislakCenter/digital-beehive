@@ -3,7 +3,7 @@ pid: index_3601
 volume: Volume 3
 image_number: '41'
 head: Selandia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1575 [Selandia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1575 [Selandia]</a>"
 topic: 
 first_letter: S
 xref: 

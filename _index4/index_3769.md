@@ -3,7 +3,7 @@ pid: index_3769
 volume: Volume 3
 image_number: '43'
 head: snorting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>601 [Snorting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>601 [Snorting]</a>"
 topic: 
 first_letter: S
 xref: 

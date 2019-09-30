@@ -6,8 +6,7 @@ head:
 entry: Misery
 topic: Misery
 first_letter: M
-xref: "<a href='/New_Beehive/alpha5/alpha_1040/'>wonderfull things</a>|<a href='/New_Beehive/toc_vol2/toc2_083/'>243
-  [Miracles]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1370 [Misery]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_267/'>1370 [Misery]</a>"
 see: 
 page: 
 add: 

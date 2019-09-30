@@ -6,7 +6,7 @@ head:
 entry: Temptation
 topic: Temptation
 first_letter: T
-xref: Instigation|Provocation|<a href='/New_Beehive/toc_vol2/toc2_078/'>206 [Temptation]</a>
+xref: Instigation|Provocation|<a href='/New_Beehive/toc/toc2_078/'>206 [Temptation]</a>
 see: 
 page: 
 add: 

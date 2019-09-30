@@ -3,7 +3,7 @@ pid: index_1588
 volume: Volume 3
 image_number: '21'
 head: to geld
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>304 [To geld]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>304 [To geld]</a>"
 topic: 
 first_letter: G
 xref: 

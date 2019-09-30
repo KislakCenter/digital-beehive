@@ -6,7 +6,7 @@ head:
 entry: Letters
 topic: Letters
 first_letter: L
-xref: "<a href='/New_Beehive/toc_vol2/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/New_Beehive/toc_vol2/toc2_236/'>1214
+xref: "<a href='/New_Beehive/toc/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/New_Beehive/toc/toc2_236/'>1214
   [Letters]</a>"
 see: 
 page: 

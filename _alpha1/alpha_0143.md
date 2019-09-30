@@ -6,9 +6,7 @@ head:
 entry: Choice
 topic: Choice
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0157/'>Coming of Xst</a>|<a href='/New_Beehive/toc_vol2/toc2_105/'>398
-  [Fifth-monarchy men]</a>|Restoration||<a href='/New_Beehive/toc_vol2/toc2_214/'>1103
-  [Choice]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_214/'>1103 [Choice]</a>"
 see: 
 page: 
 add: 

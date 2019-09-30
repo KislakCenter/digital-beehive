@@ -3,8 +3,8 @@ pid: index_3072
 volume: Volume 3
 image_number: '36'
 head: pope
-entry: "<a href='/New_Beehive/alpha4/alpha_0712/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_167/'>898
-  [Pope]</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha4/alpha_0712/'>a</a>|<a href='/New_Beehive/toc/toc2_167/'>898
+  [Pope]</a>|<a href='/New_Beehive/toc/toc2_287/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

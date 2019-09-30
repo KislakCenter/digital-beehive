@@ -3,7 +3,7 @@ pid: index_4501
 volume: Volume 3
 image_number: '52'
 head: weapons
-entry: "<a href='/New_Beehive/alpha5/alpha_1018/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_228/'>1175
+entry: "<a href='/New_Beehive/alpha5/alpha_1018/'>a</a>|<a href='/New_Beehive/toc/toc2_228/'>1175
   [Weapons]</a>"
 topic: 
 first_letter: W

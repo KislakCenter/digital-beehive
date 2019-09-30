@@ -3,7 +3,7 @@ pid: index_4203
 volume: Volume 3
 image_number: '48'
 head: tournamt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1325 [Tournament]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1325 [Tournament]</a>"
 topic: 
 first_letter: T
 xref: 

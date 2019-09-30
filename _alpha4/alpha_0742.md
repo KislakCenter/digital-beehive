@@ -6,7 +6,7 @@ head:
 entry: Proof
 topic: Proof
 first_letter: P
-xref: "<a href='/New_Beehive/alpha5/alpha_0939/'>Testimony</a>|argument|<a href='/New_Beehive/toc_vol2/toc2_170/'>913
+xref: "<a href='/New_Beehive/alpha5/alpha_0939/'>Testimony</a>|argument|<a href='/New_Beehive/toc/toc2_170/'>913
   [Proof]</a>"
 see: 
 page: 

@@ -7,7 +7,7 @@ entry: Sunday
 topic: Sunday
 first_letter: S
 xref: "<a href='/New_Beehive/alpha2/alpha_0321/'>feast</a>|<a href='/New_Beehive/alpha4/alpha_0812/'>Sabbath</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_122/'>511 [First day of the week]</a>"
+  href='/New_Beehive/toc/toc2_122/'>511 [First day of the week]</a>"
 see: 
 page: 
 add: 

@@ -7,7 +7,7 @@ entry: Saviour
 topic: Saviour
 first_letter: S
 xref: "<a href='/New_Beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/New_Beehive/alpha3/alpha_0448/'>Jesus</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_180/'>966 [Saviour]</a>"
+  href='/New_Beehive/toc/toc2_180/'>966 [Saviour]</a>"
 see: 
 page: 
 add: 

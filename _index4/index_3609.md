@@ -3,7 +3,7 @@ pid: index_3609
 volume: Volume 3
 image_number: '42'
 head: Self condemnation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>418 [Renouncing]</a>|<a href='/New_Beehive/toc_vol2/toc2_398/'>2275
+entry: "<a href='/New_Beehive/toc/toc2_108/'>418 [Renouncing]</a>|<a href='/New_Beehive/toc/toc2_398/'>2275
   [Recantation]</a>"
 topic: 
 first_letter: S

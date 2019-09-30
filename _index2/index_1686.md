@@ -3,7 +3,7 @@ pid: index_1686
 volume: Volume 3
 image_number: '22'
 head: Grace universal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>231 [Universal grace]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>231 [Universal grace]</a>"
 topic: 
 first_letter: G
 xref: 

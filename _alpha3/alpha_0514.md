@@ -6,8 +6,7 @@ head:
 entry: To Last
 topic: To Last
 first_letter: L
-xref: "<a href='/New_Beehive/toc_vol2/toc2_060/'>33 [Last day]</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>988
-  [Last day of Judgmt]</a>||||<a href='/New_Beehive/toc_vol2/toc2_121/'>503 [Perseverance]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_121/'>503 [Perseverance]</a>"
 see: 
 page: 
 add: 

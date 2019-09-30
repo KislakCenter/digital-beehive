@@ -3,7 +3,7 @@ pid: index_4310
 volume: Volume 3
 image_number: '49'
 head: Venice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>440 [Venice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>440 [Venice]</a>"
 topic: 
 first_letter: U/V
 xref: 

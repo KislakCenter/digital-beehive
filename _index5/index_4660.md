@@ -3,7 +3,7 @@ pid: index_4660
 volume: Volume 3
 image_number: '53'
 head: Zuz
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1917 [Zuz]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1917 [Zuz]</a>"
 topic: 
 first_letter: Z
 xref: 

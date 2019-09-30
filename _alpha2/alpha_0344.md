@@ -6,8 +6,7 @@ head:
 entry: Fox
 topic: Fox
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0392/'>Happiness</a>|<a href='/New_Beehive/toc_vol2/toc2_225/'>1159
-  [Folly]</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1011 [Ground & Foundation]</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3944
 volume: Volume 3
 image_number: '45'
 head: stroker
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>372 [Stroker]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>372 [Stroker]</a>"
 topic: 
 first_letter: S
 xref: 

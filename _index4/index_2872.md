@@ -3,8 +3,8 @@ pid: index_2872
 volume: Volume 3
 image_number: '34'
 head: parable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_267/'>1370 [of the Parables & Similitudes
-  which Christ spake]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_267/'>1370 [of the Parables & Similitudes which
+  Christ spake]</a>"
 topic: 
 first_letter: P
 xref: 

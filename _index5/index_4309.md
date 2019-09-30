@@ -3,7 +3,7 @@ pid: index_4309
 volume: Volume 3
 image_number: '49'
 head: venial sin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>335 [mortal & venial sins]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>"
 topic: 
 first_letter: U/V
 xref: 

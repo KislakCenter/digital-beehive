@@ -3,9 +3,9 @@ pid: index_0309
 volume: Volume 3
 image_number: '9'
 head: battel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>235 [Battel]</a>|<a href='/New_Beehive/toc_vol2/toc2_248/'>1273
-  [the Battel]</a>|<a href='/New_Beehive/toc_vol2/toc2_330/'>1676 [Battel]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_398/'>2271 [Battel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>235 [Battel]</a>|<a href='/New_Beehive/toc/toc2_248/'>1273
+  [the Battel]</a>|<a href='/New_Beehive/toc/toc2_330/'>1676 [Battel]</a>|<a href='/New_Beehive/toc/toc2_398/'>2271
+  [Battel]</a>"
 topic: 
 first_letter: B
 xref: 

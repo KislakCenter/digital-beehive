@@ -3,7 +3,7 @@ pid: index_1390
 volume: Volume 3
 image_number: '20'
 head: falling sickness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_238/'>1226 [Falling Sickness]</a>|<a href='/New_Beehive/toc_vol2/toc2_239/'>1226
+entry: "<a href='/New_Beehive/toc/toc2_238/'>1226 [Falling Sickness]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226
   [Falling Sickness]</a>"
 topic: 
 first_letter: F

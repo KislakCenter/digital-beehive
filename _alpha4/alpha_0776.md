@@ -7,7 +7,7 @@ entry: Reformation
 topic: Reformation
 first_letter: R
 xref: "<a href='/New_Beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/New_Beehive/alpha1/alpha_0135/'>Change</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_118/'>486 [Reformation]</a>"
+  href='/New_Beehive/toc/toc2_118/'>486 [Reformation]</a>"
 see: 
 page: 
 add: 

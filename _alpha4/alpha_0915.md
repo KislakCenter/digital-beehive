@@ -6,9 +6,7 @@ head:
 entry: Suck
 topic: Suck
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1368
-  [the duties of Subjects]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2207 [devil's
-  Sucking the Sorceress]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_386/'>2207 [devil's Sucking the Sorceress]</a>"
 see: 
 page: 
 add: 

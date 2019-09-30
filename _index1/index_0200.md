@@ -3,7 +3,7 @@ pid: index_0200
 volume: Volume 3
 image_number: '8'
 head: argus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4795 [Argus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4795 [Argus]</a>"
 topic: 
 first_letter: A
 xref: 

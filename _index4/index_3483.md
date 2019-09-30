@@ -3,7 +3,7 @@ pid: index_3483
 volume: Volume 3
 image_number: '40'
 head: Sacriledge
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>247 [Sacriledge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_084/'>247 [Sacriledge]</a>"
 topic: 
 first_letter: S
 xref: 

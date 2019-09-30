@@ -6,7 +6,7 @@ head:
 entry: Bothways
 topic: Bothways
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0193/'>Credit</a>|<a href='/New_Beehive/alpha3/alpha_0526/'>Lending</a>"
+xref: 777 [PAGE_MISSING]
 see: 
 page: 
 add: 

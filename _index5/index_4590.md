@@ -3,7 +3,7 @@ pid: index_4590
 volume: Volume 3
 image_number: '53'
 head: womanish
-entry: "<a href='/New_Beehive/alpha5/alpha_1038/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1388
+entry: "<a href='/New_Beehive/alpha5/alpha_1038/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1388
   [Love of women]</a>"
 topic: 
 first_letter: W

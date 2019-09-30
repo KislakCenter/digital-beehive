@@ -3,7 +3,7 @@ pid: index_3127
 volume: Volume 3
 image_number: '36'
 head: preparation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_144/'>636 [Preparation]</a>|<a href='/New_Beehive/toc_vol2/toc2_234/'>1201
+entry: "<a href='/New_Beehive/toc/toc2_144/'>636 [Preparation]</a>|<a href='/New_Beehive/toc/toc2_234/'>1201
   [Preparation]</a>"
 topic: 
 first_letter: P

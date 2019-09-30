@@ -3,7 +3,7 @@ pid: index_3082
 volume: Volume 3
 image_number: '36'
 head: possam
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>602 [Possam]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>602 [Possam]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_3398
 volume: Volume 3
 image_number: '39'
 head: to retain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>866 [To Retain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [To Retain]</a>"
 topic: 
 first_letter: R
 xref: 

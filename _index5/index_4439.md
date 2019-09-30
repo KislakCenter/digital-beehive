@@ -3,7 +3,7 @@ pid: index_4439
 volume: Volume 3
 image_number: '51'
 head: upright
-entry: "<a href='/New_Beehive/toc_vol2/toc2_365/'>2000 [Upright]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_365/'>2000 [Upright]</a>"
 topic: 
 first_letter: U/V
 xref: 

@@ -3,7 +3,7 @@ pid: index_4435
 volume: Volume 3
 image_number: '51'
 head: voyage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_223/'>1149 [Travelling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_223/'>1149 [Travelling]</a>"
 topic: 
 first_letter: U/V
 xref: 

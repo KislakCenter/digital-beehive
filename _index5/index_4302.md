@@ -3,7 +3,7 @@ pid: index_4302
 volume: Volume 3
 image_number: '49'
 head: vault
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>911 [a Vault]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [a Vault]</a>"
 topic: 
 first_letter: U/V
 xref: 

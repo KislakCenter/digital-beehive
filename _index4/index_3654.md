@@ -3,7 +3,7 @@ pid: index_3654
 volume: Volume 3
 image_number: '42'
 head: sex
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>167 [Sexes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>167 [Sexes]</a>"
 topic: 
 first_letter: S
 xref: 

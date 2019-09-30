@@ -3,7 +3,7 @@ pid: index_2275
 volume: Volume 3
 image_number: '28'
 head: liberty
-entry: "<a href='/New_Beehive/alpha3/alpha_0531/'>a</a>|769 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_215/'>1108
+entry: "<a href='/New_Beehive/alpha3/alpha_0531/'>a</a>|769 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_215/'>1108
   [Liberty]</a>|4606 [PAGE_MISSING]"
 topic: 
 first_letter: L

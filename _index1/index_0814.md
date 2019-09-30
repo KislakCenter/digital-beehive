@@ -3,8 +3,8 @@ pid: index_0814
 volume: Volume 3
 image_number: '14'
 head: constancy
-entry: "<a href='/New_Beehive/alpha1/alpha_0172/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_216/'>1112
-  [Constancy of mind]</a>|<a href='/New_Beehive/toc_vol2/toc2_420/'>2435 [Constancy]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0172/'>a</a>|<a href='/New_Beehive/toc/toc2_216/'>1112
+  [Constancy of mind]</a>|<a href='/New_Beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: C
 xref: 

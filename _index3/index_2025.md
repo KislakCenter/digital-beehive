@@ -3,7 +3,7 @@ pid: index_2025
 volume: Volume 3
 image_number: '26'
 head: inexorable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_285/'>1457 [Inexorable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_285/'>1457 [Inexorable]</a>"
 topic: 
 first_letter: I/J
 xref: 

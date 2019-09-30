@@ -7,7 +7,7 @@ entry: Ignorance
 topic: Ignorance
 first_letter: I/J
 xref: "<a href='/New_Beehive/alpha3/alpha_0503/'>Knowledge</a>|<a href='/New_Beehive/alpha5/alpha_0995/'>Unknown</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_145/'>642 [Ignorance]</a>"
+  href='/New_Beehive/toc/toc2_145/'>642 [Ignorance]</a>"
 see: 
 page: 
 add: 

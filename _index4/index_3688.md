@@ -3,7 +3,7 @@ pid: index_3688
 volume: Volume 3
 image_number: '42'
 head: short writing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_112/'>445 [the Art of Short-writing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_112/'>445 [the Art of Short-writing]</a>"
 topic: 
 first_letter: S
 xref: 

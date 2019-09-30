@@ -3,7 +3,7 @@ pid: index_4570
 volume: Volume 3
 image_number: '53'
 head: 7. wise men of Greece
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>460 [Wise men of Greece]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>460 [Wise men of Greece]</a>"
 topic: 
 first_letter: W
 xref: 

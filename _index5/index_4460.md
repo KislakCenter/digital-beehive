@@ -3,7 +3,7 @@ pid: index_4460
 volume: Volume 3
 image_number: '51'
 head: waggon
-entry: "<a href='/New_Beehive/toc_vol2/toc2_226/'>1162 [Carriage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 topic: 
 first_letter: W
 xref: 

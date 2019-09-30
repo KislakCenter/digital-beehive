@@ -3,7 +3,7 @@ pid: index_2503
 volume: Volume 3
 image_number: '30'
 head: metempsychosis
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>55 [Metempsychosis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>55 [Metempsychosis]</a>"
 topic: 
 first_letter: M
 xref: 

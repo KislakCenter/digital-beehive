@@ -6,9 +6,7 @@ head:
 entry: Turk
 topic: Turk
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|<a href='/New_Beehive/alpha3/alpha_0534/'>Lie</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_244/'>1253 [Truth]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2053
-  [Turk]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_371/'>2053 [Turk]</a>"
 see: 
 page: 
 add: 

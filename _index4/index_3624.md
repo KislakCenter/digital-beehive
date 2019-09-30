@@ -3,7 +3,7 @@ pid: index_3624
 volume: Volume 3
 image_number: '42'
 head: Self opinioned
-entry: "<a href='/New_Beehive/toc_vol2/toc2_437/'>4853 [Selfopinionated]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_437/'>4853 [Selfopinionated]</a>"
 topic: 
 first_letter: S
 xref: 

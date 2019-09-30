@@ -7,7 +7,7 @@ entry: Impartiality
 topic: Impartiality
 first_letter: I/J
 xref: "<a href='/New_Beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/New_Beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_277/'>1417 [Impartial]</a>|Indifferency"
+  href='/New_Beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
 see: 
 page: 
 add: 

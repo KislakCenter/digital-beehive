@@ -3,8 +3,8 @@ pid: index_1646
 volume: Volume 3
 image_number: '22'
 head: God's goodness
-entry: "<a href='/New_Beehive/alpha2/alpha_0366/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_097/'>338
-  [Mercy]</a>|<a href='/New_Beehive/toc_vol2/toc2_403/'>2299 [God's goodness]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0366/'>a</a>|<a href='/New_Beehive/toc/toc2_097/'>338
+  [Mercy]</a>|<a href='/New_Beehive/toc/toc2_403/'>2299 [God's goodness]</a>"
 topic: 
 first_letter: G
 xref: 

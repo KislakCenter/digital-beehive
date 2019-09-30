@@ -3,8 +3,8 @@ pid: index_2811
 volume: Volume 3
 image_number: '33'
 head: oppression
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>197 [Oppression]</a>|<a href='/New_Beehive/toc_vol2/toc2_116/'>474
-  [Oppression]</a>|<a href='/New_Beehive/toc_vol2/toc2_401/'>2287 [Oppressions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_076/'>197 [Oppression]</a>|<a href='/New_Beehive/toc/toc2_116/'>474
+  [Oppression]</a>|<a href='/New_Beehive/toc/toc2_401/'>2287 [Oppressions]</a>"
 topic: 
 first_letter: O
 xref: 

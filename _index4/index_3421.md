@@ -3,7 +3,7 @@ pid: index_3421
 volume: Volume 3
 image_number: '40'
 head: Richelieu
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1323 [Richelieu]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1323 [Richelieu]</a>"
 topic: 
 first_letter: R
 xref: 

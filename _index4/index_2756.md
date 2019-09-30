@@ -3,7 +3,7 @@ pid: index_2756
 volume: Volume 3
 image_number: '33'
 head: objections
-entry: "<a href='/New_Beehive/toc_vol2/toc2_083/'>241 [Objections]</a>|<a href='/New_Beehive/toc_vol2/toc2_204/'>1053
+entry: "<a href='/New_Beehive/toc/toc2_083/'>241 [Objections]</a>|<a href='/New_Beehive/toc/toc2_204/'>1053
   [Objections agt. the Quakers answered]</a>"
 topic: 
 first_letter: O

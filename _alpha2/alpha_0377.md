@@ -6,8 +6,7 @@ head:
 entry: Grace of God
 topic: Grace of God
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1014
-  [Grace]</a>|<a href='/New_Beehive/toc_vol2/toc2_145/'>646 [Grace of God]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_145/'>646 [Grace of God]</a>"
 see: 
 page: 
 add: 

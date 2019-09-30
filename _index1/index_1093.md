@@ -3,7 +3,7 @@ pid: index_1093
 volume: Volume 3
 image_number: '17'
 head: displeasure
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>615 [displeasure]</a>|<a href='/New_Beehive/toc_vol2/toc2_290/'>1482
+entry: "<a href='/New_Beehive/toc/toc2_140/'>615 [displeasure]</a>|<a href='/New_Beehive/toc/toc2_290/'>1482
   [Displeasure]</a>"
 topic: 
 first_letter: D

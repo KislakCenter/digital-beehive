@@ -3,8 +3,8 @@ pid: index_3722
 volume: Volume 3
 image_number: '43'
 head: sin venial
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>335 [mortal & venial sins]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_128/'>546 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>|<a href='/New_Beehive/toc/toc2_128/'>546
+  [WORD_MISSING]</a>"
 topic: 
 first_letter: S
 xref: 

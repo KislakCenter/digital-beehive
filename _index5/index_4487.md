@@ -3,7 +3,7 @@ pid: index_4487
 volume: Volume 3
 image_number: '52'
 head: waste
-entry: "<a href='/New_Beehive/toc_vol2/toc2_134/'>583 [Body]</a>|753 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_134/'>583 [Body]</a>|753 [PAGE_MISSING]"
 topic: 
 first_letter: W
 xref: 

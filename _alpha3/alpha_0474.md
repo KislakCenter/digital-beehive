@@ -6,8 +6,7 @@ head:
 entry: Inhumanity
 topic: Inhumanity
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_229/'>1176 [Inform]</a>|<a href='/New_Beehive/alpha2/alpha_0435/'>humanity</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0435/'>humanity</a>"
 see: 
 page: 
 add: 

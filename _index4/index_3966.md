@@ -3,7 +3,7 @@ pid: index_3966
 volume: Volume 3
 image_number: '45'
 head: succession
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>221 [Order]</a>|<a href='/New_Beehive/toc_vol2/toc2_359/'>1953
+entry: "<a href='/New_Beehive/toc/toc2_080/'>221 [Order]</a>|<a href='/New_Beehive/toc/toc2_359/'>1953
   [Succession]</a>"
 topic: 
 first_letter: S

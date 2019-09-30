@@ -3,7 +3,7 @@ pid: index_0806
 volume: Volume 3
 image_number: '14'
 head: consequence
-entry: "<a href='/New_Beehive/alpha1/alpha_0170/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1447
+entry: "<a href='/New_Beehive/alpha1/alpha_0170/'>a</a>|<a href='/New_Beehive/toc/toc2_283/'>1447
   [Consequence]</a>"
 topic: 
 first_letter: C

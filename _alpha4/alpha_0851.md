@@ -6,7 +6,7 @@ head:
 entry: Service
 topic: Service
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0573/'>Master</a>|<a href='/New_Beehive/toc_vol2/toc2_258/'>1322
+xref: "<a href='/New_Beehive/alpha3/alpha_0573/'>Master</a>|<a href='/New_Beehive/toc/toc2_258/'>1322
   [Capucins]</a>"
 see: 
 page: 

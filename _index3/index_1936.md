@@ -3,7 +3,7 @@ pid: index_1936
 volume: Volume 3
 image_number: '25'
 head: Jersey
-entry: "<a href='/New_Beehive/toc_vol2/toc2_146/'>647 [West Jarsey]</a>|<a href='/New_Beehive/toc_vol2/toc2_299/'>1522
+entry: "<a href='/New_Beehive/toc/toc2_146/'>647 [West Jarsey]</a>|<a href='/New_Beehive/toc/toc2_299/'>1522
   [New Jersey]</a>"
 topic: 
 first_letter: I/J

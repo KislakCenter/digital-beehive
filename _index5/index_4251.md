@@ -3,7 +3,7 @@ pid: index_4251
 volume: Volume 3
 image_number: '48'
 head: truce
-entry: "<a href='/New_Beehive/toc_vol2/toc2_070/'>137 [Truce]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_070/'>137 [Truce]</a>"
 topic: 
 first_letter: T
 xref: 

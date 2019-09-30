@@ -3,7 +3,7 @@ pid: index_3249
 volume: Volume 3
 image_number: '38'
 head: to quake
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>629 [to Quake]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>629 [to Quake]</a>"
 topic: 
 first_letter: Q
 xref: 

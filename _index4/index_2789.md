@@ -3,7 +3,7 @@ pid: index_2789
 volume: Volume 3
 image_number: '33'
 head: omision
-entry: "<a href='/New_Beehive/toc_vol2/toc2_087/'>268 [Omission]</a>|4787 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_087/'>268 [Omission]</a>|4787 [PAGE_MISSING]"
 topic: 
 first_letter: O
 xref: 

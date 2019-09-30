@@ -7,8 +7,8 @@ entry: Knowledge
 topic: Knowledge
 first_letter: K
 xref: "<a href='/New_Beehive/alpha3/alpha_0452/'>Ignorance</a>|<a href='/New_Beehive/alpha4/alpha_0874/'>Skill</a>|<a
-  href='/New_Beehive/alpha5/alpha_0995/'>Unknown</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>185
-  [Knowledge]</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>455 [Self-profit]</a>"
+  href='/New_Beehive/alpha5/alpha_0995/'>Unknown</a>|<a href='/New_Beehive/toc/toc2_075/'>185
+  [Knowledge]</a>|<a href='/New_Beehive/toc/toc2_113/'>455 [Self-profit]</a>"
 see: 
 page: 
 add: 

@@ -6,9 +6,7 @@ head:
 entry: Baker
 topic: Baker
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0807/'>Rome</a>|<a href='/New_Beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_177/'>952 [Babel]</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>222
-  [Shrovetide]</a>"
+xref: 4625 [PAGE_MISSING]
 see: 
 page: 
 add: 

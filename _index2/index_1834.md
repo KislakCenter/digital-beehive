@@ -3,7 +3,7 @@ pid: index_1834
 volume: Volume 3
 image_number: '24'
 head: highness
-entry: "<a href='/New_Beehive/alpha2/alpha_0419/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_164/'>883
+entry: "<a href='/New_Beehive/alpha2/alpha_0419/'>a</a>|<a href='/New_Beehive/toc/toc2_164/'>883
   [highness]</a>"
 topic: 
 first_letter: H

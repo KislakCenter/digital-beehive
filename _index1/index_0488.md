@@ -3,7 +3,7 @@ pid: index_0488
 volume: Volume 3
 image_number: '11'
 head: busie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>18 [Busie]</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1179
+entry: "<a href='/New_Beehive/toc/toc2_059/'>18 [Busie]</a>|<a href='/New_Beehive/toc/toc2_229/'>1179
   [Business]</a>"
 topic: 
 first_letter: B

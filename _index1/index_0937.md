@@ -3,7 +3,7 @@ pid: index_0937
 volume: Volume 3
 image_number: '15'
 head: to cut off
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>659 [Purge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [Purge]</a>"
 topic: 
 first_letter: C
 xref: 

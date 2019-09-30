@@ -3,7 +3,7 @@ pid: index_3169
 volume: Volume 3
 image_number: '37'
 head: privy house
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>607 [Privy house]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_138/'>607 [Privy house]</a>"
 topic: 
 first_letter: P
 xref: 

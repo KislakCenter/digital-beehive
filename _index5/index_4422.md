@@ -3,8 +3,8 @@ pid: index_4422
 volume: Volume 3
 image_number: '51'
 head: unthankful
-entry: "<a href='/New_Beehive/alpha5/alpha_0999/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_098/'>347
-  [Unthankful]</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1135 [Unthankfulness]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0999/'>a</a>|<a href='/New_Beehive/toc/toc2_098/'>347
+  [Unthankful]</a>|<a href='/New_Beehive/toc/toc2_220/'>1135 [Unthankfulness]</a>"
 topic: 
 first_letter: U/V
 xref: 

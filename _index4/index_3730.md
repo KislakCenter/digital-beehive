@@ -3,7 +3,7 @@ pid: index_3730
 volume: Volume 3
 image_number: '43'
 head: to sink
-entry: "<a href='/New_Beehive/toc_vol2/toc2_306/'>1560 [Sink]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_306/'>1560 [Sink]</a>"
 topic: 
 first_letter: S
 xref: 

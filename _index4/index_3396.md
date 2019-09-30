@@ -3,7 +3,7 @@ pid: index_3396
 volume: Volume 3
 image_number: '39'
 head: retaliation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>150 [Retaliation]</a>|<a href='/New_Beehive/toc_vol2/toc2_165/'>886
+entry: "<a href='/New_Beehive/toc/toc2_071/'>150 [Retaliation]</a>|<a href='/New_Beehive/toc/toc2_165/'>886
   [Retaliation]</a>"
 topic: 
 first_letter: R

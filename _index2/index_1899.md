@@ -3,7 +3,7 @@ pid: index_1899
 volume: Volume 3
 image_number: '24'
 head: humbly be it spoken
-entry: "<a href='/New_Beehive/toc_vol2/toc2_081/'>225 [Love of enemies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_081/'>225 [Love of enemies]</a>"
 topic: 
 first_letter: H
 xref: 

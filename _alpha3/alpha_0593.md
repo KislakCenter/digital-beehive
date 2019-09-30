@@ -6,7 +6,7 @@ head:
 entry: Miracles
 topic: Miracles
 first_letter: M
-xref: "<a href='/New_Beehive/alpha5/alpha_1040/'>wonderfull things</a>|<a href='/New_Beehive/toc_vol2/toc2_083/'>243
+xref: "<a href='/New_Beehive/alpha5/alpha_1040/'>wonderfull things</a>|<a href='/New_Beehive/toc/toc2_083/'>243
   [Miracles]</a>"
 see: 
 page: 

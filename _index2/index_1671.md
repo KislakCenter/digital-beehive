@@ -3,7 +3,7 @@ pid: index_1671
 volume: Volume 3
 image_number: '22'
 head: good. gültig
-entry: "<a href='/New_Beehive/toc_vol2/toc2_204/'>1052 [Good]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_204/'>1052 [Good]</a>"
 topic: 
 first_letter: G
 xref: 

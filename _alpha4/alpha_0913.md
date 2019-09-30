@@ -7,7 +7,7 @@ entry: Student
 topic: Student
 first_letter: S
 xref: "<a href='/New_Beehive/alpha3/alpha_0525/'>Learning</a>|<a href='/New_Beehive/alpha4/alpha_0692/'>Pedantery</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_067/'>105 [a Pretender to Learning]</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1341
+  href='/New_Beehive/toc/toc2_067/'>105 [a Pretender to Learning]</a>|<a href='/New_Beehive/toc/toc2_262/'>1341
   [Student]</a>"
 see: 
 page: 

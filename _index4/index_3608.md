@@ -3,7 +3,7 @@ pid: index_3608
 volume: Volume 3
 image_number: '42'
 head: Self condemned
-entry: "<a href='/New_Beehive/toc_vol2/toc2_186/'>1001 [Self-Condemned]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_186/'>1001 [Self-Condemned]</a>"
 topic: 
 first_letter: S
 xref: 

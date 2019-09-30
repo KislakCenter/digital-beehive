@@ -6,10 +6,7 @@ head:
 entry: Comet
 topic: Comet
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/New_Beehive/alpha3/alpha_0641/'>Nun</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_105/'>395 [Cloister]</a>||<a href='/New_Beehive/toc_vol2/toc2_376/'>2102
-  [Cold]</a>|<a href='/New_Beehive/toc_vol2/toc2_169/'>909 [Comedies]</a>|<a href='/New_Beehive/toc_vol2/toc2_332/'>1690
-  [Comet]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_332/'>1690 [Comet]</a>"
 see: 
 page: 
 add: 

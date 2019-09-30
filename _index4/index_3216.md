@@ -3,7 +3,7 @@ pid: index_3216
 volume: Volume 3
 image_number: '37'
 head: prudence
-entry: "<a href='/New_Beehive/alpha4/alpha_0750/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_359/'>1954
+entry: "<a href='/New_Beehive/alpha4/alpha_0750/'>a</a>|<a href='/New_Beehive/toc/toc2_359/'>1954
   [Prudence]</a>"
 topic: 
 first_letter: P

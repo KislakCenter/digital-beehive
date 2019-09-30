@@ -7,7 +7,7 @@ entry: Craftiness
 topic: Craftiness
 first_letter: C
 xref: "<a href='/New_Beehive/alpha2/alpha_0345/'>fraud</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_239/'>1228 [Craftiness]</a>"
+  href='/New_Beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 see: 
 page: 
 add: 

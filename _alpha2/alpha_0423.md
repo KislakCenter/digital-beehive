@@ -6,9 +6,7 @@ head:
 entry: Holiness
 topic: Holiness
 first_letter: H
-xref: "<a href='/New_Beehive/toc_vol2/toc2_133/'>576 [Hinderance]</a>|Disappoint|<a
-  href='/New_Beehive/toc_vol2/toc2_128/'>549 [Hirelings]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1741
-  [Hog]</a>|<a href='/New_Beehive/toc_vol2/toc2_184/'>990 [Holiness]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_184/'>990 [Holiness]</a>"
 see: 
 page: 
 add: 

@@ -6,8 +6,7 @@ head:
 entry: Original Sin
 topic: Original Sin
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>221
-  [Order]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>276 [Original Sin]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_088/'>276 [Original Sin]</a>"
 see: 
 page: 
 add: 

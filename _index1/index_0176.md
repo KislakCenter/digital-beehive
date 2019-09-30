@@ -3,9 +3,9 @@ pid: index_0176
 volume: Volume 3
 image_number: '8'
 head: apparitions
-entry: "<a href='/New_Beehive/alpha1/alpha_0042/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2218
-  [Apparitions]</a>|<a href='/New_Beehive/toc_vol2/toc2_256/'>1313 [Spectres]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_315/'>1604 [Apparitions]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0042/'>a</a>|<a href='/New_Beehive/toc/toc2_387/'>2218
+  [Apparitions]</a>|<a href='/New_Beehive/toc/toc2_256/'>1313 [Spectres]</a>|<a href='/New_Beehive/toc/toc2_315/'>1604
+  [Apparitions]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_0574
 volume: Volume 3
 image_number: '12'
 head: cedar
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1920 [Cedar]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1920 [Cedar]</a>"
 topic: 
 first_letter: C
 xref: 

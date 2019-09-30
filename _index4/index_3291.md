@@ -3,7 +3,7 @@ pid: index_3291
 volume: Volume 3
 image_number: '38'
 head: rape
-entry: "<a href='/New_Beehive/alpha4/alpha_0768/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_085/'>253
+entry: "<a href='/New_Beehive/alpha4/alpha_0768/'>a</a>|<a href='/New_Beehive/toc/toc2_085/'>253
   [Rape]</a>"
 topic: 
 first_letter: R

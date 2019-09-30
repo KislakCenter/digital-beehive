@@ -3,7 +3,7 @@ pid: index_2416
 volume: Volume 3
 image_number: '29'
 head: man[n]a
-entry: "<a href='/New_Beehive/toc_vol2/toc2_212/'>1095 [Manna]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_212/'>1095 [Manna]</a>"
 topic: 
 first_letter: M
 xref: 

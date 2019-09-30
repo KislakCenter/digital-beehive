@@ -3,7 +3,7 @@ pid: index_1667
 volume: Volume 3
 image_number: '22'
 head: gold
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>251 [Gold]</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2097
+entry: "<a href='/New_Beehive/toc/toc2_084/'>251 [Gold]</a>|<a href='/New_Beehive/toc/toc2_375/'>2097
   [Gold]</a>"
 topic: 
 first_letter: G

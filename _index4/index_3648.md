@@ -3,7 +3,7 @@ pid: index_3648
 volume: Volume 3
 image_number: '42'
 head: servitude
-entry: "<a href='/New_Beehive/alpha4/alpha_0852/'>a</a>|813 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_240/'>1233
+entry: "<a href='/New_Beehive/alpha4/alpha_0852/'>a</a>|813 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_240/'>1233
   [the friendlist office]</a>"
 topic: 
 first_letter: S

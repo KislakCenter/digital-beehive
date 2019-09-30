@@ -3,7 +3,7 @@ pid: index_2202
 volume: Volume 3
 image_number: '27'
 head: lascivious
-entry: "<a href='/New_Beehive/alpha3/alpha_0508/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1402
+entry: "<a href='/New_Beehive/alpha3/alpha_0508/'>a</a>|<a href='/New_Beehive/toc/toc2_274/'>1402
   [Lasciviousness]</a>|4646 [PAGE_MISSING]"
 topic: 
 first_letter: L

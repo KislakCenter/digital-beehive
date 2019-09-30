@@ -3,7 +3,7 @@ pid: index_1933
 volume: Volume 3
 image_number: '25'
 head: idolatry
-entry: "<a href='/New_Beehive/alpha3/alpha_0444/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_139/'>610
+entry: "<a href='/New_Beehive/alpha3/alpha_0444/'>a</a>|<a href='/New_Beehive/toc/toc2_139/'>610
   [Idolatry]</a>|1887 [PAGE_MISSING]"
 topic: 
 first_letter: I/J

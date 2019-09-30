@@ -3,7 +3,7 @@ pid: index_0239
 volume: Volume 3
 image_number: '9'
 head: at random
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>919 [Absurd]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>919 [Absurd]</a>"
 topic: 
 first_letter: A
 xref: 

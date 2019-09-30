@@ -3,7 +3,7 @@ pid: index_1690
 volume: Volume 3
 image_number: '22'
 head: granaries
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>664 [Granaries]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>664 [Granaries]</a>"
 topic: 
 first_letter: G
 xref: 

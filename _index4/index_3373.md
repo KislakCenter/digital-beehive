@@ -3,7 +3,7 @@ pid: index_3373
 volume: Volume 3
 image_number: '39'
 head: report
-entry: "<a href='/New_Beehive/alpha4/alpha_0786/'>a</a>|779 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_392/'>2242
+entry: "<a href='/New_Beehive/alpha4/alpha_0786/'>a</a>|779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242
   [Report & hear-say]</a>"
 topic: 
 first_letter: R

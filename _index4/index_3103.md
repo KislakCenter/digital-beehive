@@ -3,7 +3,7 @@ pid: index_3103
 volume: Volume 3
 image_number: '36'
 head: power
-entry: "<a href='/New_Beehive/alpha4/alpha_0716/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2362
+entry: "<a href='/New_Beehive/alpha4/alpha_0716/'>a</a>|<a href='/New_Beehive/toc/toc2_411/'>2362
   [Power]</a>"
 topic: 
 first_letter: P

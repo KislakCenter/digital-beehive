@@ -3,7 +3,7 @@ pid: index_1245
 volume: Volume 3
 image_number: '18'
 head: enchantmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>282 [Enchantmt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_089/'>282 [Enchantmt]</a>"
 topic: 
 first_letter: E
 xref: 

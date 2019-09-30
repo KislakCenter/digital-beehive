@@ -6,8 +6,7 @@ head:
 entry: Anatomizing
 topic: Anatomizing
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a href='/New_Beehive/toc_vol2/toc2_115/'>464
-  [Amending]</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1078 [Anagram]</a>||"
+xref: 
 see: 
 page: 
 add: 

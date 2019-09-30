@@ -3,7 +3,7 @@ pid: index_0080
 volume: Volume 3
 image_number: '7'
 head: to agree
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1471 [To Agree]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1471 [To Agree]</a>"
 topic: 
 first_letter: A
 xref: 

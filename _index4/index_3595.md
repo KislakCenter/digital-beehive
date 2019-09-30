@@ -3,7 +3,7 @@ pid: index_3595
 volume: Volume 3
 image_number: '41'
 head: seeking
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>114 [Seeking]</a>|<a href='/New_Beehive/toc_vol2/toc2_355/'>1927
+entry: "<a href='/New_Beehive/toc/toc2_068/'>114 [Seeking]</a>|<a href='/New_Beehive/toc/toc2_355/'>1927
   [Seeking]</a>"
 topic: 
 first_letter: S

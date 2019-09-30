@@ -3,7 +3,7 @@ pid: index_4049
 volume: Volume 3
 image_number: '46'
 head: to take heed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_417/'>2407 [to Take heed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_417/'>2407 [to Take heed]</a>"
 topic: 
 first_letter: T
 xref: 

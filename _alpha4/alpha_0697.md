@@ -6,8 +6,7 @@ head:
 entry: Pestilence
 topic: Pestilence
 first_letter: P
-xref: Conviction|<a href='/New_Beehive/toc_vol2/toc2_361/'>1969 [Perswasion]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_338/'>1734 [Pestilence]</a>
+xref: "<a href='/New_Beehive/toc/toc2_338/'>1734 [Pestilence]</a>"
 see: 
 page: 
 add: 

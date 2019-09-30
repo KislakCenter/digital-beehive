@@ -3,7 +3,7 @@ pid: index_0446
 volume: Volume 3
 image_number: '11'
 head: breeches
-entry: "<a href='/New_Beehive/toc_vol2/toc2_424/'>4457 [Breeches]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_424/'>4457 [Breeches]</a>"
 topic: 
 first_letter: B
 xref: 

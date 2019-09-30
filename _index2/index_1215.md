@@ -3,7 +3,7 @@ pid: index_1215
 volume: Volume 3
 image_number: '18'
 head: efficacy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_139/'>611 [Efficacy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_139/'>611 [Efficacy]</a>"
 topic: 
 first_letter: E
 xref: 

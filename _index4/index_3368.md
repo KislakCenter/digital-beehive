@@ -3,7 +3,7 @@ pid: index_3368
 volume: Volume 3
 image_number: '39'
 head: to repair
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>699 [to Repair]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>699 [to Repair]</a>"
 topic: 
 first_letter: R
 xref: 

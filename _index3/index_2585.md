@@ -3,7 +3,7 @@ pid: index_2585
 volume: Volume 3
 image_number: '31'
 head: mortal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_373/'>2078 [Mortal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_373/'>2078 [Mortal]</a>"
 topic: 
 first_letter: M
 xref: 

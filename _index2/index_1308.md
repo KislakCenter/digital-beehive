@@ -3,8 +3,8 @@ pid: index_1308
 volume: Volume 3
 image_number: '19'
 head: "&c"
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>374 [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>932
-  [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1674 [&c]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>374 [Brevity]</a>|<a href='/New_Beehive/toc/toc2_174/'>932
+  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_329/'>1674 [&c]</a>"
 topic: 
 first_letter: E
 xref: 

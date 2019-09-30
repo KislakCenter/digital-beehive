@@ -3,7 +3,7 @@ pid: index_0938
 volume: Volume 3
 image_number: '15'
 head: cynicks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_226/'>1161 [Cynicks]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_226/'>1161 [Cynicks]</a>"
 topic: 
 first_letter: C
 xref: 

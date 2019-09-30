@@ -6,8 +6,7 @@ head:
 entry: Navigation
 topic: Navigation
 first_letter: N
-xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>Malignity</a>|<a href='/New_Beehive/alpha5/alpha_1022/'>Wickedness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_280/'>1432 [Naughtiness]</a>"
+xref: 848 [PAGE_MISSING]
 see: 
 page: 
 add: 

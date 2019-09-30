@@ -6,7 +6,7 @@ head:
 entry: Self profit
 topic: Self profit
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0560/'>Lucre</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>455
+xref: "<a href='/New_Beehive/alpha3/alpha_0560/'>Lucre</a>|<a href='/New_Beehive/toc/toc2_113/'>455
   [self-profit]</a>"
 see: 
 page: 

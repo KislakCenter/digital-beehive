@@ -6,8 +6,7 @@ head:
 entry: Apparition
 topic: Apparition
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>19 [Clothes]</a>|<a href='/New_Beehive/toc_vol2/toc2_076/'>194
-  [Apparel]</a>|<a href='/New_Beehive/toc_vol2/toc2_256/'>1313 [Spectres]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_256/'>1313 [Spectres]</a>"
 see: 
 page: 
 add: 

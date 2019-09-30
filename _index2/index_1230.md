@@ -3,7 +3,7 @@ pid: index_1230
 volume: Volume 3
 image_number: '18'
 head: eloquence
-entry: "<a href='/New_Beehive/alpha2/alpha_0279/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1659
+entry: "<a href='/New_Beehive/alpha2/alpha_0279/'>a</a>|<a href='/New_Beehive/toc/toc2_326/'>1659
   [Eloquence]</a>"
 topic: 
 first_letter: E

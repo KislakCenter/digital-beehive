@@ -3,7 +3,7 @@ pid: index_4384
 volume: Volume 3
 image_number: '50'
 head: unheard of
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1318 [Unheard of]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1318 [Unheard of]</a>"
 topic: 
 first_letter: U/V
 xref: 

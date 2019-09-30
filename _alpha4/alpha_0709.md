@@ -6,7 +6,7 @@ head:
 entry: Poesie
 topic: Poesie
 first_letter: P
-xref: Bag|<a href='/New_Beehive/toc_vol2/toc2_113/'>454 [Poesie]</a>
+xref: "<a href='/New_Beehive/toc/toc2_113/'>454 [Poesie]</a>"
 see: 
 page: 
 add: 

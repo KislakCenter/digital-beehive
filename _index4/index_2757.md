@@ -3,7 +3,7 @@ pid: index_2757
 volume: Volume 3
 image_number: '33'
 head: obligation
-entry: "<a href='/New_Beehive/alpha4/alpha_0646/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_273/'>1396
+entry: "<a href='/New_Beehive/alpha4/alpha_0646/'>a</a>|<a href='/New_Beehive/toc/toc2_273/'>1396
   [Obliga[ti]on]</a>"
 topic: 
 first_letter: O

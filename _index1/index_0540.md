@@ -3,7 +3,7 @@ pid: index_0540
 volume: Volume 3
 image_number: '11'
 head: I care not
-entry: "<a href='/New_Beehive/toc_vol2/toc2_427/'>4482 [Disregard]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_427/'>4482 [Disregard]</a>"
 topic: 
 first_letter: C
 xref: 

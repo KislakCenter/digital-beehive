@@ -3,7 +3,7 @@ pid: index_1423
 volume: Volume 3
 image_number: '20'
 head: feast, i.e. banquet
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>165 [Feast]</a>|1836 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>165 [Feast]</a>|1836 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 

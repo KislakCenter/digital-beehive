@@ -3,8 +3,8 @@ pid: index_3233
 volume: Volume 3
 image_number: '38'
 head: a purge
-entry: "<a href='/New_Beehive/toc_vol2/toc2_149/'>665 [a Purge]</a>|<a href='/New_Beehive/toc_vol2/toc2_338/'>1731
-  [A Purge]</a>|<a href='/New_Beehive/toc_vol2/toc2_420/'>2435 [Constancy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_149/'>665 [a Purge]</a>|<a href='/New_Beehive/toc/toc2_338/'>1731
+  [A Purge]</a>|<a href='/New_Beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: P
 xref: 

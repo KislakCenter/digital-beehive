@@ -3,7 +3,7 @@ pid: index_0076
 volume: Volume 3
 image_number: '7'
 head: aggravate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_132/'>573 [Worse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_132/'>573 [Worse]</a>"
 topic: 
 first_letter: A
 xref: 

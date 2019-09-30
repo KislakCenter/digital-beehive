@@ -3,7 +3,7 @@ pid: index_1032
 volume: Volume 3
 image_number: '16'
 head: detriment
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>587 [Corrupted]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [Corrupted]</a>"
 topic: 
 first_letter: D
 xref: 

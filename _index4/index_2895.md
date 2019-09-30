@@ -3,7 +3,7 @@ pid: index_2895
 volume: Volume 3
 image_number: '34'
 head: part
-entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_184/'>993 [Part]</a>
+entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_184/'>993 [Part]</a>
 topic: 
 first_letter: P
 xref: 

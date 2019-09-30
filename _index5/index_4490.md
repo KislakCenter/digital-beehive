@@ -3,7 +3,7 @@ pid: index_4490
 volume: Volume 3
 image_number: '52'
 head: watch word
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1526 [Watch-word]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1526 [Watch-word]</a>"
 topic: 
 first_letter: W
 xref: 

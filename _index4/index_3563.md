@@ -3,7 +3,7 @@ pid: index_3563
 volume: Volume 3
 image_number: '41'
 head: scriptures impro[per] express
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>725 [Catachresis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>725 [Catachresis]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Vineyard
 topic: Vineyard
 first_letter: U/V
-xref: "<a href='/New_Beehive/toc_vol2/toc2_181/'>973 [Grapes]</a>|<a href='/New_Beehive/toc_vol2/toc2_364/'>1990
+xref: "<a href='/New_Beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/New_Beehive/toc/toc2_364/'>1990
   [Vineyards]</a>"
 see: 
 page: 

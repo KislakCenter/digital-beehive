@@ -3,7 +3,7 @@ pid: index_2370
 volume: Volume 3
 image_number: '29'
 head: Luther
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>112 [Lutherans]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_068/'>112 [Lutherans]</a>"
 topic: 
 first_letter: L
 xref: 

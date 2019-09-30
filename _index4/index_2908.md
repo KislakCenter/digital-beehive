@@ -3,7 +3,7 @@ pid: index_2908
 volume: Volume 3
 image_number: '34'
 head: passions
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>119 [Passion]</a>|<a href='/New_Beehive/toc_vol2/toc2_370/'>2043
+entry: "<a href='/New_Beehive/toc/toc2_068/'>119 [Passion]</a>|<a href='/New_Beehive/toc/toc2_370/'>2043
   [Passions]</a>"
 topic: 
 first_letter: P

@@ -6,8 +6,7 @@ head:
 entry: Partakers
 topic: Partakers
 first_letter: P
-xref: Expenses|<a href='/New_Beehive/toc_vol2/toc2_216/'>1115 [Frugality]</a>||<a
-  href='/New_Beehive/toc_vol2/toc2_411/'>2364 [To Com[m]unicate & partake]</a>
+xref: "<a href='/New_Beehive/toc/toc2_411/'>2364 [To Com[m]unicate & partake]</a>"
 see: 
 page: 
 add: 

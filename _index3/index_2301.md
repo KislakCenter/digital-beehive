@@ -3,7 +3,7 @@ pid: index_2301
 volume: Volume 3
 image_number: '28'
 head: linsey woolsey
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1613 [Linsey Woolsey]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1613 [Linsey Woolsey]</a>"
 topic: 
 first_letter: L
 xref: 

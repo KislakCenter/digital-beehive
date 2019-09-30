@@ -3,7 +3,7 @@ pid: index_2431
 volume: Volume 3
 image_number: '30'
 head: Marlborough
-entry: "<a href='/New_Beehive/toc_vol2/toc2_260/'>1334 [Marlborough]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_260/'>1334 [Marlborough]</a>"
 topic: 
 first_letter: M
 xref: 

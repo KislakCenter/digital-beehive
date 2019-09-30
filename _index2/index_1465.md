@@ -3,7 +3,7 @@ pid: index_1465
 volume: Volume 3
 image_number: '20'
 head: fishery
-entry: "<a href='/New_Beehive/toc_vol2/toc2_395/'>2257 [Fishery]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_395/'>2257 [Fishery]</a>"
 topic: 
 first_letter: F
 xref: 

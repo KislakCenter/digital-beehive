@@ -3,7 +3,7 @@ pid: index_1875
 volume: Volume 3
 image_number: '24'
 head: horse Courser
-entry: "<a href='/New_Beehive/toc_vol2/toc2_339/'>1743 [Horse-Courser]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_339/'>1743 [Horse-Courser]</a>"
 topic: 
 first_letter: H
 xref: 

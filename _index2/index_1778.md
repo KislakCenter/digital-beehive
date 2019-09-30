@@ -3,7 +3,7 @@ pid: index_1778
 volume: Volume 3
 image_number: '23'
 head: drinking of health
-entry: "<a href='/New_Beehive/alpha2/alpha_0403/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1403
+entry: "<a href='/New_Beehive/alpha2/alpha_0403/'>a</a>|<a href='/New_Beehive/toc/toc2_274/'>1403
   [Drinking of healths]</a>"
 topic: 
 first_letter: H

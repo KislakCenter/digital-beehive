@@ -3,8 +3,8 @@ pid: index_4461
 volume: Volume 3
 image_number: '51'
 head: waiting upon God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>65 [Waiting upon the Lord in silence]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_409/'>2351 [Wait upon God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_063/'>65 [Waiting upon the Lord in silence]</a>|<a
+  href='/New_Beehive/toc/toc2_409/'>2351 [Wait upon God]</a>"
 topic: 
 first_letter: W
 xref: 

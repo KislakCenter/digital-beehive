@@ -3,7 +3,7 @@ pid: index_0584
 volume: Volume 3
 image_number: '12'
 head: certainly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security]</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2213
+entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security]</a>|<a href='/New_Beehive/toc/toc2_387/'>2213
   [I am sure]</a>"
 topic: 
 first_letter: C

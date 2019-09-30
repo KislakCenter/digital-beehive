@@ -3,7 +3,7 @@ pid: index_2881
 volume: Volume 3
 image_number: '34'
 head: parents
-entry: "<a href='/New_Beehive/alpha4/alpha_0673/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_431/'>4811
+entry: "<a href='/New_Beehive/alpha4/alpha_0673/'>a</a>|<a href='/New_Beehive/toc/toc2_431/'>4811
   [WORD_MISSING]</a>"
 topic: 
 first_letter: P

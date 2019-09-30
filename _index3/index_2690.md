@@ -3,7 +3,7 @@ pid: index_2690
 volume: Volume 3
 image_number: '32'
 head: never
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>25 [Never]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>25 [Never]</a>"
 topic: 
 first_letter: N
 xref: 

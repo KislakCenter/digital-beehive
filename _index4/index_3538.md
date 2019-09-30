@@ -3,7 +3,7 @@ pid: index_3538
 volume: Volume 3
 image_number: '41'
 head: scarce
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>702</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>702</a>"
 topic: 
 first_letter: S
 xref: 

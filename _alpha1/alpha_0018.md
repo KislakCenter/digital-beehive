@@ -6,7 +6,7 @@ head:
 entry: Alchymie
 topic: Alchymie
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc_vol2/toc2_259/'>1326
+xref: "<a href='/New_Beehive/toc/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc/toc2_259/'>1326
   [Alchymie]</a>"
 see: 
 page: 

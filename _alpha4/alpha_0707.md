@@ -7,7 +7,7 @@ entry: Pleasure
 topic: Pleasure
 first_letter: P
 xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/alpha3/alpha_0508/'>Lasciviousness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_164/'>882 [Pleasure]</a>"
+  href='/New_Beehive/toc/toc2_164/'>882 [Pleasure]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0796
 volume: Volume 3
 image_number: '14'
 head: conjunctions
-entry: "<a href='/New_Beehive/toc_vol2/toc2_370/'>2044 [Particles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_370/'>2044 [Particles]</a>"
 topic: 
 first_letter: C
 xref: 

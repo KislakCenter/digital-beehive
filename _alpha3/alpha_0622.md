@@ -6,10 +6,9 @@ head:
 entry: Name
 topic: Name
 first_letter: N
-xref: "<a href='/New_Beehive/toc_vol2/toc2_058/'>11 [Ill Name]</a>|<a href='/New_Beehive/toc_vol2/toc2_062/'>54
-  [false Names]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>181 [Nick-name]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_085/'>252 [Surnames]</a>|<a href='/New_Beehive/toc_vol2/toc2_085/'>254
-  [Name]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_058/'>11 [Ill Name]</a>|<a href='/New_Beehive/toc/toc2_062/'>54
+  [false Names]</a>|<a href='/New_Beehive/toc/toc2_075/'>181 [Nick-name]</a>|<a href='/New_Beehive/toc/toc2_085/'>252
+  [Surnames]</a>|<a href='/New_Beehive/toc/toc2_085/'>254 [Name]</a>"
 see: 
 page: 
 add: 

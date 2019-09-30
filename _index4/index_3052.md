@@ -3,7 +3,7 @@ pid: index_3052
 volume: Volume 3
 image_number: '36'
 head: to plunder
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1339 [To plunder]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [To plunder]</a>"
 topic: 
 first_letter: P
 xref: 

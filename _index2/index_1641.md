@@ -3,7 +3,7 @@ pid: index_1641
 volume: Volume 3
 image_number: '22'
 head: God be thanks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_279/'>1426 [Thanks be to God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_279/'>1426 [Thanks be to God]</a>"
 topic: 
 first_letter: G
 xref: 

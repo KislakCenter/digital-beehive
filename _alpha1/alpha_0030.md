@@ -6,7 +6,7 @@ head:
 entry: Anger
 topic: Anger
 first_letter: A
-xref: "<a href='/New_Beehive/alpha5/alpha_1054/'>Wrath</a>|<a href='/New_Beehive/toc_vol2/toc2_125/'>529
+xref: "<a href='/New_Beehive/alpha5/alpha_1054/'>Wrath</a>|<a href='/New_Beehive/toc/toc2_125/'>529
   [Angry]</a>"
 see: 
 page: 

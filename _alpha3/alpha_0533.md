@@ -6,9 +6,7 @@ head:
 entry: Library
 topic: Library
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_219/'>1127 [Liberality]</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>557
-  [Liberty of Conscience]</a>|<a href='/New_Beehive/alpha1/alpha_0092/'>Book</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0092/'>Book</a>"
 see: 
 page: 
 add: 

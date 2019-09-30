@@ -3,8 +3,8 @@ pid: index_4651
 volume: Volume 3
 image_number: '53'
 head: the young of beasts
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1061 [The young or little ones of
-  all beasts]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1061 [The young or little ones of all
+  beasts]</a>"
 topic: 
 first_letter: Y
 xref: 

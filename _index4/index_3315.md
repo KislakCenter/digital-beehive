@@ -3,7 +3,7 @@ pid: index_3315
 volume: Volume 3
 image_number: '38'
 head: to recant
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>418 [Renouncing]</a>|<a href='/New_Beehive/toc_vol2/toc2_398/'>2275
+entry: "<a href='/New_Beehive/toc/toc2_108/'>418 [Renouncing]</a>|<a href='/New_Beehive/toc/toc2_398/'>2275
   [Recantation]</a>"
 topic: 
 first_letter: R

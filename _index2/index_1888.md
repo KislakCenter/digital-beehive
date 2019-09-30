@@ -3,7 +3,7 @@ pid: index_1888
 volume: Volume 3
 image_number: '24'
 head: hourly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_338/'>1731 [Hourly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_338/'>1731 [Hourly]</a>"
 topic: 
 first_letter: H
 xref: 

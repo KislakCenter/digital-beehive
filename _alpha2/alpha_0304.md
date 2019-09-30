@@ -6,8 +6,7 @@ head:
 entry: lust of the eye
 topic: lust of the eye
 first_letter: E
-xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will-Worship</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>207
-  [Outside Religion]</a>|<a href='/New_Beehive/alpha2/alpha_0285/'>epicurism</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>epicurism</a>"
 see: 
 page: 
 add: 

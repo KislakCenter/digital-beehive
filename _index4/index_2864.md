@@ -3,7 +3,7 @@ pid: index_2864
 volume: Volume 3
 image_number: '34'
 head: palsie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>596 [The Palsie]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>596 [The Palsie]</a>"
 topic: 
 first_letter: P
 xref: 

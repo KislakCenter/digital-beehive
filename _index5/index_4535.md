@@ -3,7 +3,7 @@ pid: index_4535
 volume: Volume 3
 image_number: '52'
 head: whimsies
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>299 [idle fancies]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4481
+entry: "<a href='/New_Beehive/toc/toc2_091/'>299 [idle fancies]</a>|<a href='/New_Beehive/toc/toc2_427/'>4481
   [Whimsies]</a>"
 topic: 
 first_letter: W

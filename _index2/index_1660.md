@@ -3,7 +3,7 @@ pid: index_1660
 volume: Volume 3
 image_number: '22'
 head: God's voice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>178 [God's voice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>178 [God's voice]</a>"
 topic: 
 first_letter: G
 xref: 

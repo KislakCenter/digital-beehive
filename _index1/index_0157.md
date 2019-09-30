@@ -3,7 +3,7 @@ pid: index_0157
 volume: Volume 3
 image_number: '8'
 head: antidote
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>162 [Antidote]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>162 [Antidote]</a>"
 topic: 
 first_letter: A
 xref: 

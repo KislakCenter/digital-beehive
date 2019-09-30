@@ -6,8 +6,7 @@ head:
 entry: Cloke
 topic: Cloke
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/New_Beehive/alpha3/alpha_0641/'>Nun</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_105/'>395 [Cloister]</a>|"
+xref: 
 see: 
 page: 
 add: 

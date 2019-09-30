@@ -6,7 +6,7 @@ head:
 entry: Hell
 topic: Hell
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>Condemnation</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1076
+xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>Condemnation</a>|<a href='/New_Beehive/toc/toc2_209/'>1076
   [Hell]</a>"
 see: 
 page: 

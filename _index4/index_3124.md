@@ -3,7 +3,7 @@ pid: index_3124
 volume: Volume 3
 image_number: '36'
 head: prejudice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>607 [Prejudice]</a>|<a href='/New_Beehive/toc_vol2/toc2_382/'>2168
+entry: "<a href='/New_Beehive/toc/toc2_138/'>607 [Prejudice]</a>|<a href='/New_Beehive/toc/toc2_382/'>2168
   [Prejudice]</a>"
 topic: 
 first_letter: P

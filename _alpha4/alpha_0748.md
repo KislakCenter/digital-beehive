@@ -6,8 +6,7 @@ head:
 entry: Proverbs
 topic: Proverbs
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0216/'>Defence</a>|<a href='/New_Beehive/alpha2/alpha_0367/'>Gods
-  help</a>|"
+xref: 
 see: 
 page: 
 add: 

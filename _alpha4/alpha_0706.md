@@ -7,7 +7,7 @@ entry: Play
 topic: Play
 first_letter: P
 xref: "<a href='/New_Beehive/alpha1/alpha_0120/'>Cards</a>|<a href='/New_Beehive/alpha1/alpha_0231/'>Dice</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_159/'>720 [Playing]</a>"
+  href='/New_Beehive/toc/toc2_159/'>720 [Playing]</a>"
 see: 
 page: 
 add: 

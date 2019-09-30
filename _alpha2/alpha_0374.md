@@ -6,8 +6,7 @@ head:
 entry: Gout
 topic: Gout
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_0938/'>New Testament</a>|<a href='/New_Beehive/toc_vol2/toc2_180/'>967
-  [Gospel]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1241 [Gout]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_242/'>1241 [Gout]</a>"
 see: 
 page: 
 add: 

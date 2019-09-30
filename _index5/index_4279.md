@@ -3,7 +3,7 @@ pid: index_4279
 volume: Volume 3
 image_number: '49'
 head: two headed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1612 [Double-headed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1612 [Double-headed]</a>"
 topic: 
 first_letter: T
 xref: 

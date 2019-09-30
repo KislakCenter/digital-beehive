@@ -3,7 +3,7 @@ pid: index_4024
 volume: Volume 3
 image_number: '46'
 head: swiftness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>293 [Swiftness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_090/'>293 [Swiftness]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_0447
 volume: Volume 3
 image_number: '11'
 head: breathing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>688 [Breathing with difficulty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Breathing with difficulty]</a>"
 topic: 
 first_letter: B
 xref: 

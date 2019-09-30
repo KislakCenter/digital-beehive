@@ -3,7 +3,7 @@ pid: index_0648
 volume: Volume 3
 image_number: '12'
 head: Christ's descension
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1330 [Apostle's Creed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [Apostle's Creed]</a>"
 topic: 
 first_letter: C
 xref: 

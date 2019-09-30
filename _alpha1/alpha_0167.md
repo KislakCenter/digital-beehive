@@ -6,8 +6,8 @@ head:
 entry: Confession
 topic: Confession
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0225/'>Deprecation</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1046
-  [Confess]</a>|<a href='/New_Beehive/toc_vol2/toc2_363/'>1981 [Confession]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0225/'>Deprecation</a>|<a href='/New_Beehive/toc/toc2_203/'>1046
+  [Confess]</a>|<a href='/New_Beehive/toc/toc2_363/'>1981 [Confession]</a>"
 see: 
 page: 
 add: 

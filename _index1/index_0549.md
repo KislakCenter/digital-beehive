@@ -3,7 +3,7 @@ pid: index_0549
 volume: Volume 3
 image_number: '12'
 head: carriage
-entry: "<a href='/New_Beehive/alpha1/alpha_0122/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1162
+entry: "<a href='/New_Beehive/alpha1/alpha_0122/'>a</a>|<a href='/New_Beehive/toc/toc2_226/'>1162
   [Carriage]</a>"
 topic: 
 first_letter: C

@@ -3,7 +3,7 @@ pid: index_2734
 volume: Volume 3
 image_number: '32'
 head: nota benè
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>104 [NB. Nota benè]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>104 [NB. Nota benè]</a>"
 topic: 
 first_letter: N
 xref: 

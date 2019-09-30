@@ -3,7 +3,7 @@ pid: index_4451
 volume: Volume 3
 image_number: '51'
 head: Utopia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>348 [Utopia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [Utopia]</a>"
 topic: 
 first_letter: U/V
 xref: 

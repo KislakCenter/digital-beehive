@@ -6,8 +6,7 @@ head:
 entry: Hunger
 topic: Hunger
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>917
-  [Humility]</a>|<a href='/New_Beehive/toc_vol2/toc2_157/'>710 [Hunger]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_157/'>710 [Hunger]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_4429
 volume: Volume 3
 image_number: '51'
 head: void
-entry: "<a href='/New_Beehive/toc_vol2/toc2_315/'>1603 [Unlawful]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_315/'>1603 [Unlawful]</a>"
 topic: 
 first_letter: U/V
 xref: 

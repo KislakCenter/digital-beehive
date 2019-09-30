@@ -3,7 +3,7 @@ pid: index_2628
 volume: Volume 3
 image_number: '31'
 head: mystery
-entry: "<a href='/New_Beehive/alpha3/alpha_0620/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_195/'>1006
+entry: "<a href='/New_Beehive/alpha3/alpha_0620/'>a</a>|<a href='/New_Beehive/toc/toc2_195/'>1006
   [Mystery]</a>"
 topic: 
 first_letter: M

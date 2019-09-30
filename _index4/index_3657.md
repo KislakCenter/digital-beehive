@@ -3,7 +3,7 @@ pid: index_3657
 volume: Volume 3
 image_number: '42'
 head: to shake
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>873 [To Tremble]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_162/'>873 [To Tremble]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Tailor
 topic: Tailor
 first_letter: T
-xref: Seamster|to sell|<a href='/New_Beehive/toc_vol2/toc2_338/'>1733 [Tailor]</a>
+xref: Seamster|to sell|<a href='/New_Beehive/toc/toc2_338/'>1733 [Tailor]</a>
 see: 
 page: 
 add: 

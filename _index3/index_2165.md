@@ -3,7 +3,7 @@ pid: index_2165
 volume: Volume 3
 image_number: '27'
 head: kiss
-entry: "<a href='/New_Beehive/alpha3/alpha_0501/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_352/'>1905
+entry: "<a href='/New_Beehive/alpha3/alpha_0501/'>a</a>|<a href='/New_Beehive/toc/toc2_352/'>1905
   [Kissing]</a>"
 topic: 
 first_letter: K

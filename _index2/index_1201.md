@@ -3,10 +3,9 @@ pid: index_1201
 volume: Volume 3
 image_number: '18'
 head: ecclesiastical discipline
-entry: "<a href='/New_Beehive/alpha2/alpha_0273/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_106/'>402
-  [Order & Discipline in the Church]</a>|<a href='/New_Beehive/toc_vol2/toc2_314/'>1600
-  [Church - Discipline]</a>|<a href='/New_Beehive/toc_vol2/toc2_347/'>1808 [Church
-  Governmnt]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0273/'>a</a>|<a href='/New_Beehive/toc/toc2_106/'>402
+  [Order & Discipline in the Church]</a>|<a href='/New_Beehive/toc/toc2_314/'>1600
+  [Church - Discipline]</a>|<a href='/New_Beehive/toc/toc2_347/'>1808 [Church Governmnt]</a>"
 topic: 
 first_letter: E
 xref: 

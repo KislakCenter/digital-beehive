@@ -3,7 +3,7 @@ pid: index_2979
 volume: Volume 3
 image_number: '35'
 head: pewter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_324/'>1650 [Pewter]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_324/'>1650 [Pewter]</a>"
 topic: 
 first_letter: P
 xref: 

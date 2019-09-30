@@ -3,8 +3,8 @@ pid: index_4217
 volume: Volume 3
 image_number: '48'
 head: transitory
-entry: "<a href='/New_Beehive/alpha5/alpha_0965/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_224/'>1153
-  [Transitory]</a>|<a href='/New_Beehive/toc_vol2/toc2_425/'>4470 [Transitory]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0965/'>a</a>|<a href='/New_Beehive/toc/toc2_224/'>1153
+  [Transitory]</a>|<a href='/New_Beehive/toc/toc2_425/'>4470 [Transitory]</a>"
 topic: 
 first_letter: T
 xref: 

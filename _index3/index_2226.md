@@ -3,8 +3,8 @@ pid: index_2226
 volume: Volume 3
 image_number: '28'
 head: lawyer
-entry: "<a href='/New_Beehive/alpha3/alpha_0520/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>559
-  [Lawyer]</a>|<a href='/New_Beehive/toc_vol2/toc2_342/'>1770 [Lawyer]</a>|1845 [PAGE_MISSING]|4497
+entry: "<a href='/New_Beehive/alpha3/alpha_0520/'>a</a>|<a href='/New_Beehive/toc/toc2_130/'>559
+  [Lawyer]</a>|<a href='/New_Beehive/toc/toc2_342/'>1770 [Lawyer]</a>|1845 [PAGE_MISSING]|4497
   [PAGE_MISSING]"
 topic: 
 first_letter: L

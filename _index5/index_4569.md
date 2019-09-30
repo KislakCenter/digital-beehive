@@ -3,9 +3,8 @@ pid: index_4569
 volume: Volume 3
 image_number: '53'
 head: the wise man
-entry: "<a href='/New_Beehive/toc_vol2/toc2_253/'>1296 [Wise man]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1387
-  [Wise Man]</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1691 [Persons of unspotted
-  Reputation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_253/'>1296 [Wise man]</a>|<a href='/New_Beehive/toc/toc2_271/'>1387
+  [Wise Man]</a>|<a href='/New_Beehive/toc/toc2_333/'>1691 [Persons of unspotted Reputation]</a>"
 topic: 
 first_letter: W
 xref: 

@@ -3,7 +3,7 @@ pid: index_3762
 volume: Volume 3
 image_number: '43'
 head: smith
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>306 [Smith]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>306 [Smith]</a>"
 topic: 
 first_letter: S
 xref: 

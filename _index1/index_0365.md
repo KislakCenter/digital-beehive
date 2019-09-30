@@ -3,7 +3,7 @@ pid: index_0365
 volume: Volume 3
 image_number: '10'
 head: better
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>539 [beter]</a>|4583 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>539 [beter]</a>|4583 [PAGE_MISSING]"
 topic: 
 first_letter: B
 xref: 

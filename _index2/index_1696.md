@@ -3,7 +3,7 @@ pid: index_1696
 volume: Volume 3
 image_number: '22'
 head: grasshopper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1250 [Grasshopper]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Grasshopper]</a>"
 topic: 
 first_letter: G
 xref: 

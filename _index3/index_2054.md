@@ -3,7 +3,7 @@ pid: index_2054
 volume: Volume 3
 image_number: '26'
 head: in[n]umerable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_144/'>639 [Innumerable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_144/'>639 [Innumerable]</a>"
 topic: 
 first_letter: I/J
 xref: 

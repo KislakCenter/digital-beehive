@@ -6,8 +6,7 @@ head:
 entry: Antipathy
 topic: Antipathy
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>905
-  [AntiChrist]</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>670 [Antipathy]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_149/'>670 [Antipathy]</a>"
 see: 
 page: 
 add: 

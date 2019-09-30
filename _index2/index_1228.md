@@ -3,7 +3,7 @@ pid: index_1228
 volume: Volume 3
 image_number: '18'
 head: elk
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1529 [Elk]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1529 [Elk]</a>"
 topic: 
 first_letter: E
 xref: 

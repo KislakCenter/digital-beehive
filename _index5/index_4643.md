@@ -3,7 +3,7 @@ pid: index_4643
 volume: Volume 3
 image_number: '53'
 head: yeoman
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1464 [Yeoman, Ingenuus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1464 [Yeoman, Ingenuus]</a>"
 topic: 
 first_letter: Y
 xref: 

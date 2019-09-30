@@ -3,7 +3,7 @@ pid: index_1271
 volume: Volume 3
 image_number: '18'
 head: to enter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>916 [To go or enter in]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [To go or enter in]</a>"
 topic: 
 first_letter: E
 xref: 

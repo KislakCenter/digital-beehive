@@ -7,7 +7,7 @@ entry: Poverty
 topic: Poverty
 first_letter: P
 xref: "<a href='/New_Beehive/alpha5/alpha_1008/'>Want</a>|<a href='/New_Beehive/alpha4/alpha_0708/'>Pocket</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_067/'>110 [a Poor man]</a>"
+  href='/New_Beehive/toc/toc2_067/'>110 [a Poor man]</a>"
 see: 
 page: 
 add: 

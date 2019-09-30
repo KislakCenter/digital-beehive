@@ -3,7 +3,7 @@ pid: index_4406
 volume: Volume 3
 image_number: '50'
 head: unmerciful
-entry: "<a href='/New_Beehive/alpha5/alpha_0996/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_394/'>2251
+entry: "<a href='/New_Beehive/alpha5/alpha_0996/'>a</a>|<a href='/New_Beehive/toc/toc2_394/'>2251
   [Unmerciful]</a>"
 topic: 
 first_letter: U/V

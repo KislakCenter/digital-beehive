@@ -3,7 +3,7 @@ pid: index_4067
 volume: Volume 3
 image_number: '46'
 head: taverns
-entry: "<a href='/New_Beehive/toc_vol2/toc2_077/'>201 [Taverns]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>201
+entry: "<a href='/New_Beehive/toc/toc2_077/'>201 [Taverns]</a>|<a href='/New_Beehive/toc/toc2_078/'>201
   [Taverns]</a>"
 topic: 
 first_letter: T

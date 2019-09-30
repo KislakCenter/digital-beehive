@@ -3,7 +3,7 @@ pid: index_1499
 volume: Volume 3
 image_number: '21'
 head: forbearance
-entry: "<a href='/New_Beehive/alpha2/alpha_0337/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1669
+entry: "<a href='/New_Beehive/alpha2/alpha_0337/'>a</a>|<a href='/New_Beehive/toc/toc2_328/'>1669
   [forbearance]</a>"
 topic: 
 first_letter: F

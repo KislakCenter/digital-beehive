@@ -3,7 +3,7 @@ pid: index_1972
 volume: Volume 3
 image_number: '25'
 head: imploymt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_240/'>1232 [Imploymt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_240/'>1232 [Imploymt]</a>"
 topic: 
 first_letter: I/J
 xref: 

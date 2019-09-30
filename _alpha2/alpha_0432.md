@@ -6,8 +6,7 @@ head:
 entry: Hospitality
 topic: Hospitality
 first_letter: H
-xref: "<a href='/New_Beehive/toc_vol2/toc2_361/'>1969 [Hospital]</a>|<a href='/New_Beehive/toc_vol2/toc2_276/'>1415
-  [Hospita]</a>|Oprhan house|"
+xref: 
 see: 
 page: 
 add: 

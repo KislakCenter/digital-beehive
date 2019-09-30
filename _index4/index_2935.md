@@ -3,7 +3,7 @@ pid: index_2935
 volume: Volume 3
 image_number: '34'
 head: pearl
-entry: "<a href='/New_Beehive/toc_vol2/toc2_377/'>2111 [Pearls]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_377/'>2111 [Pearls]</a>"
 topic: 
 first_letter: P
 xref: Jewel

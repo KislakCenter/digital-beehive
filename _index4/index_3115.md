@@ -3,8 +3,8 @@ pid: index_3115
 volume: Volume 3
 image_number: '36'
 head: preaching
-entry: "<a href='/New_Beehive/alpha4/alpha_0720/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>512
-  [Preaching]</a>|<a href='/New_Beehive/toc_vol2/toc2_361/'>1967 [Preaching]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0720/'>a</a>|<a href='/New_Beehive/toc/toc2_122/'>512
+  [Preaching]</a>|<a href='/New_Beehive/toc/toc2_361/'>1967 [Preaching]</a>"
 topic: 
 first_letter: P
 xref: 

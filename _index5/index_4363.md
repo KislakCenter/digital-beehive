@@ -3,7 +3,7 @@ pid: index_4363
 volume: Volume 3
 image_number: '50'
 head: uncharitableness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_066/'>97 [Uncharitable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_066/'>97 [Uncharitable]</a>"
 topic: 
 first_letter: U/V
 xref: 

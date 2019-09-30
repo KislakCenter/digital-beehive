@@ -3,7 +3,7 @@ pid: index_0115
 volume: Volume 3
 image_number: '7'
 head: altogether
-entry: 755 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_304/'>1550 [Altogether]</a>
+entry: 755 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_304/'>1550 [Altogether]</a>
 topic: 
 first_letter: A
 xref: 

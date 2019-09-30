@@ -3,7 +3,7 @@ pid: index_4598
 volume: Volume 3
 image_number: '53'
 head: woman's speaking in ye Church
-entry: "<a href='/New_Beehive/toc_vol2/toc2_081/'>230 [Womans Speaking in the church]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_081/'>230 [Womans Speaking in the church]</a>"
 topic: 
 first_letter: W
 xref: 

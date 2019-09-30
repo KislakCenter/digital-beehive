@@ -3,7 +3,7 @@ pid: index_1197
 volume: Volume 3
 image_number: '18'
 head: easy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>233 [Easy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>233 [Easy]</a>"
 topic: 
 first_letter: E
 xref: 

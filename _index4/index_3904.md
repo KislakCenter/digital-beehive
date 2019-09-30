@@ -3,7 +3,7 @@ pid: index_3904
 volume: Volume 3
 image_number: '45'
 head: a still
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>592 [Distilling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>592 [Distilling]</a>"
 topic: 
 first_letter: S
 xref: 

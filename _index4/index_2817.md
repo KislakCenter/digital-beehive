@@ -3,7 +3,7 @@ pid: index_2817
 volume: Volume 3
 image_number: '33'
 head: oration
-entry: "<a href='/New_Beehive/toc_vol2/toc2_275/'>1409 [a Sermon]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_275/'>1409 [a Sermon]</a>"
 topic: 
 first_letter: O
 xref: 

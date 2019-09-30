@@ -3,7 +3,7 @@ pid: index_2977
 volume: Volume 3
 image_number: '35'
 head: petitio principij
-entry: "<a href='/New_Beehive/toc_vol2/toc2_306/'>1556 [Petitio principij]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_306/'>1556 [Petitio principij]</a>"
 topic: 
 first_letter: P
 xref: 

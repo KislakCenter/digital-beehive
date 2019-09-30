@@ -3,7 +3,7 @@ pid: index_3970
 volume: Volume 3
 image_number: '45'
 head: sudden
-entry: "<a href='/New_Beehive/toc_vol2/toc2_279/'>1430 [Suddenness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_279/'>1430 [Suddenness]</a>"
 topic: 
 first_letter: S
 xref: 

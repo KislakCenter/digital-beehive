@@ -3,8 +3,8 @@ pid: index_2487
 volume: Volume 3
 image_number: '30'
 head: merchants rules
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1463 [One friend Counsel the other who
+  newly begun to Merchandize]</a>"
 topic: 
 first_letter: M
 xref: 

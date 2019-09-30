@@ -3,7 +3,7 @@ pid: index_3053
 volume: Volume 3
 image_number: '36'
 head: plural
-entry: "<a href='/New_Beehive/toc_vol2/toc2_269/'>1377 [Plural]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_269/'>1377 [Plural]</a>"
 topic: 
 first_letter: P
 xref: 

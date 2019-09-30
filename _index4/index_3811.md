@@ -3,7 +3,7 @@ pid: index_3811
 volume: Volume 3
 image_number: '44'
 head: souldier
-entry: "<a href='/New_Beehive/alpha4/alpha_0889/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_207/'>1066</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0889/'>a</a>|<a href='/New_Beehive/toc/toc2_207/'>1066</a>"
 topic: 
 first_letter: S
 xref: 

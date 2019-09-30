@@ -3,8 +3,8 @@ pid: index_0701
 volume: Volume 3
 image_number: '13'
 head: clothes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>194 [Apparel]</a>|<a href='/New_Beehive/toc_vol2/toc2_162/'>872
-  [Clothes]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1424 [Clothes]</a>|<a href='/New_Beehive/toc_vol2/toc2_341/'>1762
+entry: "<a href='/New_Beehive/toc/toc2_076/'>194 [Apparel]</a>|<a href='/New_Beehive/toc/toc2_162/'>872
+  [Clothes]</a>|<a href='/New_Beehive/toc/toc2_278/'>1424 [Clothes]</a>|<a href='/New_Beehive/toc/toc2_341/'>1762
   [Clothes]</a>"
 topic: 
 first_letter: C

@@ -6,7 +6,7 @@ head:
 entry: Oracle
 topic: Oracle
 first_letter: O
-xref: Divination|<a href='/New_Beehive/toc_vol2/toc2_298/'>1518 [Oracle]</a>
+xref: Divination|<a href='/New_Beehive/toc/toc2_298/'>1518 [Oracle]</a>
 see: 
 page: 
 add: 

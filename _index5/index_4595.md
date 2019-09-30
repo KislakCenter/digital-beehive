@@ -3,9 +3,9 @@ pid: index_4595
 volume: Volume 3
 image_number: '53'
 head: woman's imperiousness
-entry: "<a href='/New_Beehive/alpha5/alpha_1036/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_076/'>192
-  [Dames governmt]</a>|<a href='/New_Beehive/toc_vol2/toc2_338/'>1737 [Womans Imperiousness]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_432/'>4820 [Bad & imperious Women]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1036/'>a</a>|<a href='/New_Beehive/toc/toc2_076/'>192
+  [Dames governmt]</a>|<a href='/New_Beehive/toc/toc2_338/'>1737 [Womans Imperiousness]</a>|<a
+  href='/New_Beehive/toc/toc2_432/'>4820 [Bad & imperious Women]</a>"
 topic: 
 first_letter: W
 xref: 

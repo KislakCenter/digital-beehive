@@ -3,7 +3,7 @@ pid: index_0674
 volume: Volume 3
 image_number: '13'
 head: circumstance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>173 [Circumstances]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>173 [Circumstances]</a>"
 topic: 
 first_letter: C
 xref: 

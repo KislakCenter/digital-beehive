@@ -6,8 +6,7 @@ head:
 entry: Untimely
 topic: Untimely
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_098/'>347
-  [Unthankful]</a>|<a href='/New_Beehive/alpha4/alpha_0649/'>Occasion</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0649/'>Occasion</a>"
 see: 
 page: 
 add: 

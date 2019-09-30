@@ -3,7 +3,7 @@ pid: index_3438
 volume: Volume 3
 image_number: '40'
 head: robbery
-entry: "<a href='/New_Beehive/alpha4/alpha_0805/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>499
+entry: "<a href='/New_Beehive/alpha4/alpha_0805/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>499
   [Robbery]</a>|4511 [PAGE_MISSING]"
 topic: 
 first_letter: R

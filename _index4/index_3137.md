@@ -3,7 +3,7 @@ pid: index_3137
 volume: Volume 3
 image_number: '37'
 head: preservation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_218/'>1124 [Preserved]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_218/'>1124 [Preserved]</a>"
 topic: 
 first_letter: P
 xref: 

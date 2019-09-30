@@ -3,7 +3,7 @@ pid: index_4516
 volume: Volume 3
 image_number: '52'
 head: Welch tongue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [Welch Tongue]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Welch Tongue]</a>"
 topic: 
 first_letter: W
 xref: 

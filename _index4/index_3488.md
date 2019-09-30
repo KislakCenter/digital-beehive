@@ -3,7 +3,7 @@ pid: index_3488
 volume: Volume 3
 image_number: '40'
 head: safety
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Safety]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Safety]</a>"
 topic: 
 first_letter: S
 xref: 

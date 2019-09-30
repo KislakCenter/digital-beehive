@@ -6,9 +6,7 @@ head:
 entry: Ass
 topic: Ass
 first_letter: A
-xref: Confirm|<a href='/New_Beehive/toc_vol2/toc2_275/'>1407 [Approbation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_114/'>457 [Arithmetick]</a>|<a href='/New_Beehive/toc_vol2/toc2_134/'>581
-  [Articles of faith]</a>|<a href='/New_Beehive/alpha1/alpha_0086/'>Blockhead</a>
+xref: "<a href='/New_Beehive/alpha1/alpha_0086/'>Blockhead</a>"
 see: 
 page: 
 add: 

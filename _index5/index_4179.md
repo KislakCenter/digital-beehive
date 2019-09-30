@@ -3,7 +3,7 @@ pid: index_4179
 volume: Volume 3
 image_number: '48'
 head: too late
-entry: "<a href='/New_Beehive/toc_vol2/toc2_244/'>1255 [Too Late]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_244/'>1255 [Too Late]</a>"
 topic: 
 first_letter: T
 xref: 

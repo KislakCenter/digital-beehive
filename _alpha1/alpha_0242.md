@@ -6,8 +6,7 @@ head:
 entry: Disobedience
 topic: Disobedience
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0989/'>Unanimity</a>|<a href='/New_Beehive/alpha3/alpha_0596/'>Modesty</a>||<a
-  href='/New_Beehive/toc_vol2/toc2_351/'>1898 [Disobedience]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
 see: 
 page: 
 add: 

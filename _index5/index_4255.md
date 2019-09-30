@@ -3,7 +3,7 @@ pid: index_4255
 volume: Volume 3
 image_number: '48'
 head: trusting in men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_276/'>1413 [Trusting in Men]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_276/'>1413 [Trusting in Men]</a>"
 topic: 
 first_letter: T
 xref: 

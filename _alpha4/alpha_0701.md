@@ -6,7 +6,7 @@ head:
 entry: Pie
 topic: Pie
 first_letter: P
-xref: painting|
+xref: 
 see: 
 page: 
 add: 

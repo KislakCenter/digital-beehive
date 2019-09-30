@@ -6,8 +6,8 @@ head:
 entry: Friendship
 topic: Friendship
 first_letter: F
-xref: familiarity|<a href='/New_Beehive/toc_vol2/toc2_058/'>1 [Familiarity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_110/'>429 [Friendship]</a>
+xref: familiarity|<a href='/New_Beehive/toc/toc2_058/'>1 [Familiarity]</a>|<a href='/New_Beehive/toc/toc2_110/'>429
+  [Friendship]</a>
 see: 
 page: 
 add: 

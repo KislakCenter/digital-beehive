@@ -6,7 +6,7 @@ head:
 entry: Husk
 topic: Husk
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>falshood</a>||"
+xref: 
 see: 
 page: 
 add: 

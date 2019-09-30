@@ -3,9 +3,9 @@ pid: index_0754
 volume: Volume 3
 image_number: '13'
 head: company
-entry: "<a href='/New_Beehive/alpha1/alpha_0161/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_089/'>283
-  [Company]</a>|<a href='/New_Beehive/toc_vol2/toc2_176/'>942 [Comany]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1358
-  [Company]</a>|<a href='/New_Beehive/toc_vol2/toc2_360/'>1964 [Company]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0161/'>a</a>|<a href='/New_Beehive/toc/toc2_089/'>283
+  [Company]</a>|<a href='/New_Beehive/toc/toc2_176/'>942 [Comany]</a>|<a href='/New_Beehive/toc/toc2_265/'>1358
+  [Company]</a>|<a href='/New_Beehive/toc/toc2_360/'>1964 [Company]</a>"
 topic: 
 first_letter: C
 xref: 

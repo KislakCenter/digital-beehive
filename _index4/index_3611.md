@@ -3,9 +3,8 @@ pid: index_3611
 volume: Volume 3
 image_number: '42'
 head: Self dam[m]age
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>59 [Self-hurt or dammage]</a>|862
-  [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_307/'>1562 [Self damage]</a>|4774
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>|862 [PAGE_MISSING]|<a
+  href='/New_Beehive/toc/toc2_307/'>1562 [Self damage]</a>|4774 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

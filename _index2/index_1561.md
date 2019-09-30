@@ -3,7 +3,7 @@ pid: index_1561
 volume: Volume 3
 image_number: '21'
 head: full
-entry: "<a href='/New_Beehive/toc_vol2/toc2_139/'>609 [Fullness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_139/'>609 [Fullness]</a>"
 topic: 
 first_letter: F
 xref: 

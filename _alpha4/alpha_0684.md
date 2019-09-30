@@ -6,7 +6,7 @@ head:
 entry: Patience
 topic: Patience
 first_letter: P
-xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/alpha3/alpha_0460/'>Impat</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>509
+xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/alpha3/alpha_0460/'>Impat</a>|<a href='/New_Beehive/toc/toc2_122/'>509
   [Patience]</a>"
 see: 
 page: 

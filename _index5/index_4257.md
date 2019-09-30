@@ -3,8 +3,8 @@ pid: index_4257
 volume: Volume 3
 image_number: '49'
 head: truth
-entry: "<a href='/New_Beehive/alpha5/alpha_0972/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_244/'>1253
-  [Truth]</a>|<a href='/New_Beehive/toc_vol2/toc2_388/'>2221 [Truth]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0972/'>a</a>|<a href='/New_Beehive/toc/toc2_244/'>1253
+  [Truth]</a>|<a href='/New_Beehive/toc/toc2_388/'>2221 [Truth]</a>"
 topic: 
 first_letter: T
 xref: 

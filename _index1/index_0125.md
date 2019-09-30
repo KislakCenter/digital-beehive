@@ -3,8 +3,8 @@ pid: index_0125
 volume: Volume 3
 image_number: '8'
 head: amending
-entry: "<a href='/New_Beehive/alpha1/alpha_0025/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_115/'>464
-  [Amending]</a>|<a href='/New_Beehive/toc_vol2/toc2_417/'>2408 [Amendment]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0025/'>a</a>|<a href='/New_Beehive/toc/toc2_115/'>464
+  [Amending]</a>|<a href='/New_Beehive/toc/toc2_417/'>2408 [Amendment]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_3843
 volume: Volume 3
 image_number: '44'
 head: spikenard
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1938 [Lavander]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1938 [Lavander]</a>"
 topic: 
 first_letter: S
 xref: 

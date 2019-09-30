@@ -3,7 +3,7 @@ pid: index_3544
 volume: Volume 3
 image_number: '41'
 head: scepticism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_244/'>1254 [Scepticism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_244/'>1254 [Scepticism]</a>"
 topic: 
 first_letter: S
 xref: 

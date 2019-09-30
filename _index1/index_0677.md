@@ -3,7 +3,7 @@ pid: index_0677
 volume: Volume 3
 image_number: '13'
 head: city
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>162 [City]</a>|1878 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>162 [City]</a>|1878 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

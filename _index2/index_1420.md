@@ -3,8 +3,8 @@ pid: index_1420
 volume: Volume 3
 image_number: '20'
 head: fear
-entry: "<a href='/New_Beehive/alpha2/alpha_0319/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_131/'>566
-  [Fear]</a>|<a href='/New_Beehive/toc_vol2/toc2_225/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha2/alpha_0319/'>a</a>|<a href='/New_Beehive/toc/toc2_131/'>566
+  [Fear]</a>|<a href='/New_Beehive/toc/toc2_225/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 

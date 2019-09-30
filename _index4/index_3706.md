@@ -3,7 +3,7 @@ pid: index_3706
 volume: Volume 3
 image_number: '43'
 head: signature
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>660 [Signature]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>660 [Signature]</a>"
 topic: 
 first_letter: S
 xref: 

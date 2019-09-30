@@ -6,7 +6,7 @@ head:
 entry: Love of the brethren
 topic: Love of the brethren
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/New_Beehive/toc_vol2/toc2_255/'>1309
+xref: "<a href='/New_Beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/New_Beehive/toc/toc2_255/'>1309
   [Love to God & the Brethren]</a>"
 see: 
 page: 

@@ -6,7 +6,7 @@ head:
 entry: Spectacles
 topic: Spectacles
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0360/'>glass</a>|<a href='/New_Beehive/toc_vol2/toc2_322/'>1639
+xref: "<a href='/New_Beehive/alpha2/alpha_0360/'>glass</a>|<a href='/New_Beehive/toc/toc2_322/'>1639
   [Spectacles]</a>"
 see: 
 page: 

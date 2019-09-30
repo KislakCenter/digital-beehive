@@ -3,7 +3,7 @@ pid: index_2026
 volume: Volume 3
 image_number: '26'
 head: inexpressible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>359 [Unspeakable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>359 [Unspeakable]</a>"
 topic: 
 first_letter: I/J
 xref: 

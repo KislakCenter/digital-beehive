@@ -3,8 +3,8 @@ pid: index_1146
 volume: Volume 3
 image_number: '17'
 head: dream
-entry: "<a href='/New_Beehive/toc_vol2/toc2_268/'>1374 [Dream]</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1535
-  [Dream]</a>|<a href='/New_Beehive/toc_vol2/toc2_370/'>2045 [Dreams]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_268/'>1374 [Dream]</a>|<a href='/New_Beehive/toc/toc2_301/'>1535
+  [Dream]</a>|<a href='/New_Beehive/toc/toc2_370/'>2045 [Dreams]</a>"
 topic: 
 first_letter: D
 xref: 

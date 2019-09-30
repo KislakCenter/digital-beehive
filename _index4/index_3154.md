@@ -3,10 +3,9 @@ pid: index_3154
 volume: Volume 3
 image_number: '37'
 head: priests
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>42 [False ministers]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>879
-  [False teachers]</a>|<a href='/New_Beehive/toc_vol2/toc2_198/'>1023 [Clergy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_344/'>1784 [False Teachers]</a>|<a href='/New_Beehive/toc_vol2/toc2_422/'>4448
-  [False Teachers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_061/'>42 [False ministers]</a>|<a href='/New_Beehive/toc/toc2_163/'>879
+  [False teachers]</a>|<a href='/New_Beehive/toc/toc2_198/'>1023 [Clergy]</a>|<a href='/New_Beehive/toc/toc2_344/'>1784
+  [False Teachers]</a>|<a href='/New_Beehive/toc/toc2_422/'>4448 [False Teachers]</a>"
 topic: 
 first_letter: P
 xref: 

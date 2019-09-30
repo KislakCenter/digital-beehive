@@ -3,7 +3,7 @@ pid: index_1601
 volume: Volume 3
 image_number: '22'
 head: George
-entry: "<a href='/New_Beehive/toc_vol2/toc2_384/'>2188 [George]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_384/'>2188 [George]</a>"
 topic: 
 first_letter: G
 xref: 

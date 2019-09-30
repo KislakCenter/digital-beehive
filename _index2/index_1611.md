@@ -3,8 +3,8 @@ pid: index_1611
 volume: Volume 3
 image_number: '22'
 head: gift
-entry: "<a href='/New_Beehive/alpha2/alpha_0359/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>506
-  [Gift]</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1430 [Gift]</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2217
+entry: "<a href='/New_Beehive/alpha2/alpha_0359/'>a</a>|<a href='/New_Beehive/toc/toc2_121/'>506
+  [Gift]</a>|<a href='/New_Beehive/toc/toc2_279/'>1430 [Gift]</a>|<a href='/New_Beehive/toc/toc2_387/'>2217
   [Gift]</a>"
 topic: 
 first_letter: G

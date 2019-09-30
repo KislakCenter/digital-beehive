@@ -3,7 +3,7 @@ pid: index_1973
 volume: Volume 3
 image_number: '25'
 head: of importance
-entry: 855 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_428/'>4490 [Considerable]</a>
+entry: 855 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_428/'>4490 [Considerable]</a>
 topic: 
 first_letter: I/J
 xref: 

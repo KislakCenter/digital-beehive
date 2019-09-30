@@ -3,9 +3,9 @@ pid: index_0062
 volume: Volume 3
 image_number: '7'
 head: affliction
-entry: "<a href='/New_Beehive/toc_vol2/toc2_094/'>316 [Affliction]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1367
-  [Afflictions]</a>|<a href='/New_Beehive/toc_vol2/toc2_268/'>1372 [Afflictions]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_367/'>2020 [Sufferings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_094/'>316 [Affliction]</a>|<a href='/New_Beehive/toc/toc2_267/'>1367
+  [Afflictions]</a>|<a href='/New_Beehive/toc/toc2_268/'>1372 [Afflictions]</a>|<a
+  href='/New_Beehive/toc/toc2_367/'>2020 [Sufferings]</a>"
 topic: 
 first_letter: A
 xref: 

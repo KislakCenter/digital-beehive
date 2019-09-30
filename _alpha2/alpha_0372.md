@@ -6,9 +6,7 @@ head:
 entry: Goose
 topic: Goose
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_1025/'>Will of God</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>227
-  [Gods Providence]</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1090 [Godfathers]</a>||<a
-  href='/New_Beehive/alpha1/alpha_0095/'>Bounty</a>"
+xref: 4620 [PAGE_MISSING]
 see: 
 page: 
 add: 

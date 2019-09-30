@@ -3,7 +3,7 @@ pid: index_2616
 volume: Volume 3
 image_number: '31'
 head: murder
-entry: "<a href='/New_Beehive/alpha3/alpha_0614/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_294/'>1504
+entry: "<a href='/New_Beehive/alpha3/alpha_0614/'>a</a>|<a href='/New_Beehive/toc/toc2_294/'>1504
   [Murder]</a>"
 topic: 
 first_letter: M

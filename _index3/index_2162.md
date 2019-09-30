@@ -3,7 +3,7 @@ pid: index_2162
 volume: Volume 3
 image_number: '27'
 head: king
-entry: "<a href='/New_Beehive/alpha3/alpha_0498/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1207
+entry: "<a href='/New_Beehive/alpha3/alpha_0498/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1207
   [King]</a>|1873 [PAGE_MISSING]"
 topic: 
 first_letter: K

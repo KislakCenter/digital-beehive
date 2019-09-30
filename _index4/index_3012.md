@@ -3,7 +3,7 @@ pid: index_3012
 volume: Volume 3
 image_number: '35'
 head: pills
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>699 [Pills]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>699 [Pills]</a>"
 topic: 
 first_letter: P
 xref: 

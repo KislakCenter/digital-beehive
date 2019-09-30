@@ -6,8 +6,7 @@ head:
 entry: Leanness
 topic: Leanness
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/New_Beehive/toc_vol2/toc2_249/'>1280
-  [Leader]</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>310 [Leanness]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_093/'>310 [Leanness]</a>"
 see: 
 page: 
 add: 

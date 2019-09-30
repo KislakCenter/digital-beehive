@@ -3,7 +3,7 @@ pid: index_2554
 volume: Volume 3
 image_number: '31'
 head: modesty
-entry: "<a href='/New_Beehive/alpha3/alpha_0596/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_281/'>1437
+entry: "<a href='/New_Beehive/alpha3/alpha_0596/'>a</a>|<a href='/New_Beehive/toc/toc2_281/'>1437
   [Modesty]</a>"
 topic: 
 first_letter: M

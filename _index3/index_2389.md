@@ -3,7 +3,7 @@ pid: index_2389
 volume: Volume 3
 image_number: '29'
 head: Rabbi Maimony
-entry: "<a href='/New_Beehive/toc_vol2/toc2_305/'>1553 [Rabbies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_305/'>1553 [Rabbies]</a>"
 topic: 
 first_letter: M
 xref: 

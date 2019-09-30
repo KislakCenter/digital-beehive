@@ -3,7 +3,7 @@ pid: index_4348
 volume: Volume 3
 image_number: '49'
 head: vitriol
-entry: "<a href='/New_Beehive/toc_vol2/toc2_379/'>2131 [Vitriolum]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_379/'>2131 [Vitriolum]</a>"
 topic: 
 first_letter: U/V
 xref: 

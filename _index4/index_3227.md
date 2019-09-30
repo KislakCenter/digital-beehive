@@ -3,7 +3,7 @@ pid: index_3227
 volume: Volume 3
 image_number: '38'
 head: punch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>336 [Punch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>336 [Punch]</a>"
 topic: 
 first_letter: P
 xref: 

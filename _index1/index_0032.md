@@ -3,7 +3,7 @@ pid: index_0032
 volume: Volume 3
 image_number: '7'
 head: acknowledgmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>354 [to acknowledge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>354 [to acknowledge]</a>"
 topic: 
 first_letter: A
 xref: 

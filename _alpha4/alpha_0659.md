@@ -6,7 +6,7 @@ head:
 entry: Opinion
 topic: Opinion
 first_letter: O
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1029
+xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/toc/toc2_199/'>1029
   [Opinion]</a>"
 see: 
 page: 

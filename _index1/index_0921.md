@@ -3,7 +3,7 @@ pid: index_0921
 volume: Volume 3
 image_number: '15'
 head: cry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>367 [Cry]</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2214
+entry: "<a href='/New_Beehive/toc/toc2_101/'>367 [Cry]</a>|<a href='/New_Beehive/toc/toc2_387/'>2214
   [Cry]</a>"
 topic: 
 first_letter: C

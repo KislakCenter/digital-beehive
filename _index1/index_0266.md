@@ -3,7 +3,7 @@ pid: index_0266
 volume: Volume 3
 image_number: '9'
 head: backsliding
-entry: "<a href='/New_Beehive/toc_vol2/toc2_320/'>1628 [Relapses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_320/'>1628 [Relapses]</a>"
 topic: 
 first_letter: B
 xref: 

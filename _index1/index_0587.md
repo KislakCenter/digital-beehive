@@ -3,7 +3,7 @@ pid: index_0587
 volume: Volume 3
 image_number: '12'
 head: chaff
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>314 [Dirt]</a>|<a href='/New_Beehive/toc_vol2/toc2_417/'>2412
+entry: "<a href='/New_Beehive/toc/toc2_093/'>314 [Dirt]</a>|<a href='/New_Beehive/toc/toc2_417/'>2412
   [Chaff]</a>"
 topic: 
 first_letter: C

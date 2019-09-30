@@ -3,7 +3,7 @@ pid: index_3980
 volume: Volume 3
 image_number: '46'
 head: sum[m]er
-entry: "<a href='/New_Beehive/toc_vol2/toc2_249/'>1280 [Summer]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_249/'>1280 [Summer]</a>"
 topic: 
 first_letter: S
 xref: 

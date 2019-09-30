@@ -3,7 +3,7 @@ pid: index_0150
 volume: Volume 3
 image_number: '8'
 head: anointing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_174/'>935 [To anoint]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_174/'>935 [To anoint]</a>"
 topic: 
 first_letter: A
 xref: 

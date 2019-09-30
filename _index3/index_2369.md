@@ -3,7 +3,7 @@ pid: index_2369
 volume: Volume 3
 image_number: '29'
 head: lusty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_164/'>882 [Pleasure]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_164/'>882 [Pleasure]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -6,13 +6,7 @@ head:
 entry: Parasite
 topic: Parasite
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>221
-  [Order]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>276 [Original Sin]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_376/'>2105 [Original Tongues]</a>|<a href='/New_Beehive/alpha2/alpha_0386/'>Guardians</a>||<a
-  href='/New_Beehive/toc_vol2/toc2_357/'>1939 [Own]</a>||<a href='/New_Beehive/toc_vol2/toc2_225/'>1158
-  [Pain]</a>|<a href='/New_Beehive/toc_vol2/toc2_321/'>1633 [Paradise]</a>|<a href='/New_Beehive/toc_vol2/toc2_077/'>201
-  [Orthodox Paradoxes]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>201 [Orthodox
-  Paradoxes]</a>"
+xref: 4641 [PAGE_MISSING]
 see: 
 page: 
 add: 

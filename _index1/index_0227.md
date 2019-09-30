@@ -3,7 +3,7 @@ pid: index_0227
 volume: Volume 3
 image_number: '8'
 head: assurance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security]</a>"
 topic: 
 first_letter: A
 xref: 

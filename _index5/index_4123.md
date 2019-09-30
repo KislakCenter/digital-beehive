@@ -3,7 +3,7 @@ pid: index_4123
 volume: Volume 3
 image_number: '47'
 head: Thomas
-entry: "<a href='/New_Beehive/toc_vol2/toc2_344/'>1782 [Thomas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_344/'>1782 [Thomas]</a>"
 topic: 
 first_letter: T
 xref: 

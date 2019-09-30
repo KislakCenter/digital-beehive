@@ -6,7 +6,7 @@ head:
 entry: Authority
 topic: Authority
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0788/'>Reputation</a>|<a href='/New_Beehive/toc_vol2/toc2_408/'>2346
+xref: "<a href='/New_Beehive/alpha4/alpha_0788/'>Reputation</a>|<a href='/New_Beehive/toc/toc2_408/'>2346
   [Authority]</a>"
 see: 
 page: 

@@ -6,7 +6,7 @@ head:
 entry: Humility
 topic: Humility
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>917
+xref: "<a href='/New_Beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/New_Beehive/toc/toc2_171/'>917
   [Humility]</a>"
 see: 
 page: 

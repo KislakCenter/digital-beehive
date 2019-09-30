@@ -6,8 +6,7 @@ head:
 entry: Property
 topic: Property
 first_letter: P
-xref: "<a href='/New_Beehive/alpha5/alpha_0939/'>Testimony</a>|argument|<a href='/New_Beehive/toc_vol2/toc2_170/'>913
-  [Proof]</a>|<a href='/New_Beehive/alpha3/alpha_0627/'>Nature</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0627/'>Nature</a>"
 see: 
 page: 
 add: 

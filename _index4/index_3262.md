@@ -3,7 +3,7 @@ pid: index_3262
 volume: Volume 3
 image_number: '38'
 head: to quicken
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>911 [To Quicken]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [To Quicken]</a>"
 topic: 
 first_letter: Q
 xref: 

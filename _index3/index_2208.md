@@ -3,8 +3,8 @@ pid: index_2208
 volume: Volume 3
 image_number: '27'
 head: last words
-entry: "<a href='/New_Beehive/alpha3/alpha_0515/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_403/'>2298
-  [Last Words]</a>|<a href='/New_Beehive/toc_vol2/toc2_403/'>2300 [Last Words]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0515/'>a</a>|<a href='/New_Beehive/toc/toc2_403/'>2298
+  [Last Words]</a>|<a href='/New_Beehive/toc/toc2_403/'>2300 [Last Words]</a>"
 topic: 
 first_letter: L
 xref: 

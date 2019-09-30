@@ -6,8 +6,7 @@ head:
 entry: Weeping
 topic: Weeping
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0736/'>Prognostic</a>|<a href='/New_Beehive/toc_vol2/toc2_143/'>630
-  [Weeping]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_143/'>630 [Weeping]</a>"
 see: 
 page: 
 add: 

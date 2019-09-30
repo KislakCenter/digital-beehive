@@ -3,8 +3,8 @@ pid: index_0067
 volume: Volume 3
 image_number: '7'
 head: after sowre sweet
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>4 [After Sowre comes the Sweet]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_404/'>2301 [After Soure comes Sweet]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>4 [After Sowre comes the Sweet]</a>|<a
+  href='/New_Beehive/toc/toc2_404/'>2301 [After Soure comes Sweet]</a>"
 topic: 
 first_letter: A
 xref: 

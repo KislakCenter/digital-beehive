@@ -3,7 +3,7 @@ pid: index_4285
 volume: Volume 3
 image_number: '49'
 head: Tyrus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1929 [Tyrus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1929 [Tyrus]</a>"
 topic: 
 first_letter: T
 xref: 

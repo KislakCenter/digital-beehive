@@ -6,10 +6,7 @@ head:
 entry: Judas
 topic: Judas
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>923
-  [Interpretation]</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2373 [Inward Man]</a>|||<a
-  href='/New_Beehive/toc_vol2/toc2_269/'>1379 [Italy]</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>520
-  [Judas]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_124/'>520 [Judas]</a>"
 see: 
 page: 
 add: 

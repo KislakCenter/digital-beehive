@@ -3,7 +3,7 @@ pid: index_4170
 volume: Volume 3
 image_number: '48'
 head: together
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1383 [Together]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [Together]</a>"
 topic: 
 first_letter: T
 xref: 

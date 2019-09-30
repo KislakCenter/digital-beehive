@@ -3,7 +3,7 @@ pid: index_4412
 volume: Volume 3
 image_number: '51'
 head: unready
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>541 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>541 [WORD_MISSING]</a>"
 topic: 
 first_letter: U/V
 xref: 

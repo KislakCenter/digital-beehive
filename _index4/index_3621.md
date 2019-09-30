@@ -3,7 +3,7 @@ pid: index_3621
 volume: Volume 3
 image_number: '42'
 head: Self learning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1573 [Self learning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1573 [Self learning]</a>"
 topic: 
 first_letter: S
 xref: 

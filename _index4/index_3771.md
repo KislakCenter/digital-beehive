@@ -3,7 +3,7 @@ pid: index_3771
 volume: Volume 3
 image_number: '43'
 head: snow
-entry: "<a href='/New_Beehive/alpha4/alpha_0882/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1672
+entry: "<a href='/New_Beehive/alpha4/alpha_0882/'>a</a>|<a href='/New_Beehive/toc/toc2_329/'>1672
   [Snow]</a>"
 topic: 
 first_letter: S

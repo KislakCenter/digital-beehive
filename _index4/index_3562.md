@@ -3,8 +3,8 @@ pid: index_3562
 volume: Volume 3
 image_number: '41'
 head: Scriptures imperfection
-entry: "<a href='/New_Beehive/toc_vol2/toc2_197/'>1016 [Scriptures are imperfect as
-  to number]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_197/'>1016 [Scriptures are imperfect as to
+  number]</a>"
 topic: 
 first_letter: S
 xref: 

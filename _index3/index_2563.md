@@ -3,7 +3,7 @@ pid: index_2563
 volume: Volume 3
 image_number: '31'
 head: monarchy
-entry: "<a href='/New_Beehive/alpha3/alpha_0598/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_341/'>1763
+entry: "<a href='/New_Beehive/alpha3/alpha_0598/'>a</a>|<a href='/New_Beehive/toc/toc2_341/'>1763
   [Monarchy]</a>"
 topic: 
 first_letter: M

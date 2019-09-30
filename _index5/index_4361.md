@@ -3,7 +3,7 @@ pid: index_4361
 volume: Volume 3
 image_number: '50'
 head: uncertain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>918 [Doubtful]</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2061
+entry: "<a href='/New_Beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/New_Beehive/toc/toc2_372/'>2061
   [Doubt]</a>"
 topic: 
 first_letter: U/V

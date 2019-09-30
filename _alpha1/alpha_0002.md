@@ -6,7 +6,7 @@ head:
 entry: Absurdity
 topic: Absurdity
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_135/'>589 [Nonsense]</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>919
+xref: "<a href='/New_Beehive/toc/toc2_135/'>589 [Nonsense]</a>|<a href='/New_Beehive/toc/toc2_171/'>919
   [Absurd]</a>"
 see: 
 page: 

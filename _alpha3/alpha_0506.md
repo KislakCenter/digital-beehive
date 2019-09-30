@@ -6,7 +6,7 @@ head:
 entry: Lame
 topic: Lame
 first_letter: L
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|<a href='/New_Beehive/toc_vol2/toc2_379/'>2140
+xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|<a href='/New_Beehive/toc/toc2_379/'>2140
   [Lame]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_3845
 volume: Volume 3
 image_number: '44'
 head: spinster
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1464 [Spinster]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1464 [Spinster]</a>"
 topic: 
 first_letter: S
 xref: 

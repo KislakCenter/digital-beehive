@@ -3,7 +3,7 @@ pid: index_4495
 volume: Volume 3
 image_number: '52'
 head: waving
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1917 [Waving]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1917 [Waving]</a>"
 topic: 
 first_letter: W
 xref: 

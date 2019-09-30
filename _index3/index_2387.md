@@ -3,7 +3,7 @@ pid: index_2387
 volume: Volume 3
 image_number: '29'
 head: majesty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_064/'>72 [Majesty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_064/'>72 [Majesty]</a>"
 topic: 
 first_letter: M
 xref: 

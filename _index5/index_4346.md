@@ -3,8 +3,8 @@ pid: index_4346
 volume: Volume 3
 image_number: '49'
 head: day of Visitn
-entry: "<a href='/New_Beehive/alpha5/alpha_0987/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_249/'>1276
-  [Day of Visitation]</a>|<a href='/New_Beehive/toc_vol2/toc2_416/'>2402 [Day of Visitation]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0987/'>a</a>|<a href='/New_Beehive/toc/toc2_249/'>1276
+  [Day of Visitation]</a>|<a href='/New_Beehive/toc/toc2_416/'>2402 [Day of Visitation]</a>"
 topic: 
 first_letter: U/V
 xref: 

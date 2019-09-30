@@ -3,7 +3,7 @@ pid: index_4108
 volume: Volume 3
 image_number: '47'
 head: thee & thou
-entry: "<a href='/New_Beehive/toc_vol2/toc2_297/'>1512 [Thee & thou]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_297/'>1512 [Thee & thou]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_3760
 volume: Volume 3
 image_number: '43'
 head: smart
-entry: "<a href='/New_Beehive/toc_vol2/toc2_147/'>658 [Grief]</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2096
+entry: "<a href='/New_Beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/New_Beehive/toc/toc2_375/'>2096
   [Smart]</a>"
 topic: 
 first_letter: S

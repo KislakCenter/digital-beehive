@@ -3,7 +3,7 @@ pid: index_2833
 volume: Volume 3
 image_number: '34'
 head: orthography
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>476 [Orthography]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>476 [Orthography]</a>"
 topic: 
 first_letter: O
 xref: 

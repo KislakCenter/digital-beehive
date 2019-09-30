@@ -3,8 +3,8 @@ pid: index_1049
 volume: Volume 3
 image_number: '16'
 head: difficulty
-entry: "<a href='/New_Beehive/alpha1/alpha_0234/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_066/'>100
-  [Difficulty]</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1290 [Difficulty]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0234/'>a</a>|<a href='/New_Beehive/toc/toc2_066/'>100
+  [Difficulty]</a>|<a href='/New_Beehive/toc/toc2_251/'>1290 [Difficulty]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_0653
 volume: Volume 3
 image_number: '13'
 head: christians primitive
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1064 [Primitive Christians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
 topic: 
 first_letter: C
 xref: 

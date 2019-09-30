@@ -3,7 +3,7 @@ pid: index_0149
 volume: Volume 3
 image_number: '8'
 head: annihilation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4807 [Annihilation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4807 [Annihilation]</a>"
 topic: 
 first_letter: A
 xref: 

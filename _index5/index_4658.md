@@ -3,7 +3,7 @@ pid: index_4658
 volume: Volume 3
 image_number: '53'
 head: Zodiack
-entry: "<a href='/New_Beehive/toc_vol2/toc2_329/'>1672 [Zodiak]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_329/'>1672 [Zodiak]</a>"
 topic: 
 first_letter: Z
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Worldly
 topic: Worldly|Worldlymindedness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/toc_vol2/toc2_201/'>1037
+xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/toc/toc2_201/'>1037
   [Worldly]</a>"
 see: 
 page: 

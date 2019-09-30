@@ -3,7 +3,7 @@ pid: index_2135
 volume: Volume 3
 image_number: '27'
 head: judgmt of God
-entry: "<a href='/New_Beehive/alpha3/alpha_0494/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1742
+entry: "<a href='/New_Beehive/alpha3/alpha_0494/'>a</a>|<a href='/New_Beehive/toc/toc2_339/'>1742
   [Judgmt of God]</a>"
 topic: 
 first_letter: I/J

@@ -6,7 +6,7 @@ head:
 entry: Tradition
 topic: Tradition
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|hearsay|<a href='/New_Beehive/toc_vol2/toc2_118/'>484
+xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|hearsay|<a href='/New_Beehive/toc/toc2_118/'>484
   [Tradition]</a>"
 see: 
 page: 

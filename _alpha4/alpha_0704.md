@@ -6,9 +6,7 @@ head:
 entry: Placableness
 topic: Placableness
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1532
-  [Godliness]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1073 [Pietism]</a>||<a
-  href='/New_Beehive/alpha4/alpha_0773/'>Reconcilemt</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0773/'>Reconcilemt</a>"
 see: 
 page: 
 add: 

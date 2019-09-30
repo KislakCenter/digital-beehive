@@ -3,7 +3,7 @@ pid: index_1663
 volume: Volume 3
 image_number: '22'
 head: Gods
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>310 [Gods]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_093/'>310 [Gods]</a>"
 topic: 
 first_letter: G
 xref: 

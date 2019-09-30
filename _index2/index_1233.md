@@ -3,7 +3,7 @@ pid: index_1233
 volume: Volume 3
 image_number: '18'
 head: emblems
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>250 [Emblems]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_084/'>250 [Emblems]</a>"
 topic: 
 first_letter: E
 xref: 

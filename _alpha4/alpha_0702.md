@@ -6,8 +6,8 @@ head:
 entry: Piety
 topic: Piety
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1532
-  [Godliness]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1073 [Pietism]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/New_Beehive/toc/toc2_301/'>1532
+  [Godliness]</a>|<a href='/New_Beehive/toc/toc2_208/'>1073 [Pietism]</a>"
 see: 
 page: 
 add: 

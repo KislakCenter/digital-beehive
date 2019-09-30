@@ -6,9 +6,7 @@ head:
 entry: Horseman
 topic: Horseman
 first_letter: H
-xref: Desperation|<a href='/New_Beehive/alpha1/alpha_0156/'>false Comfort</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1126
-  [Hope]</a>|<a href='/New_Beehive/toc_vol2/toc2_166/'>892 [Horse]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1750
-  [Horseman]</a>
+xref: "<a href='/New_Beehive/toc/toc2_339/'>1750 [Horseman]</a>"
 see: 
 page: 
 add: 

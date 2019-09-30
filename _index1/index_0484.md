@@ -3,7 +3,7 @@ pid: index_0484
 volume: Volume 3
 image_number: '11'
 head: burning mountains
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>163 [Mountain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>163 [Mountain]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -3,9 +3,8 @@ pid: index_2406
 volume: Volume 3
 image_number: '29'
 head: brave man
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>200 [a man of admirable]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_341/'>1760 [Gallant]</a>|<a href='/New_Beehive/toc_vol2/toc2_409/'>2353
-  [Brave men]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_076/'>200 [a man of admirable]</a>|<a href='/New_Beehive/toc/toc2_341/'>1760
+  [Gallant]</a>|<a href='/New_Beehive/toc/toc2_409/'>2353 [Brave men]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,7 +3,7 @@ pid: index_1094
 volume: Volume 3
 image_number: '17'
 head: to dispossess
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>683 [To Dispossess]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>683 [To Dispossess]</a>"
 topic: 
 first_letter: D
 xref: 

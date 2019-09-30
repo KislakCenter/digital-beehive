@@ -6,8 +6,7 @@ head:
 entry: Drinking of Health
 topic: Drinking of Health
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0283/'>enmity</a>||<a href='/New_Beehive/toc_vol2/toc2_295/'>1506
-  [Health]</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1403 [Drinking of healths]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_274/'>1403 [Drinking of healths]</a>"
 see: 
 page: 
 add: 

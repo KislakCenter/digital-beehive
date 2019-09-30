@@ -3,7 +3,7 @@ pid: index_3543
 volume: Volume 3
 image_number: '41'
 head: to scatter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_118/'>485 [to Scatter]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_118/'>485 [to Scatter]</a>"
 topic: 
 first_letter: S
 xref: 

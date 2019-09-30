@@ -6,8 +6,7 @@ head:
 entry: Mediocrity
 topic: Mediocrity
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>665
-  [Medicines]</a>|<a href='/New_Beehive/toc_vol2/toc2_214/'>1103 [Mediocrity]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_214/'>1103 [Mediocrity]</a>"
 see: 
 page: 
 add: 

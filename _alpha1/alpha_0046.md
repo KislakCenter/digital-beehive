@@ -6,9 +6,7 @@ head:
 entry: Articles of faith
 topic: Articles of faith
 first_letter: A
-xref: Confirm|<a href='/New_Beehive/toc_vol2/toc2_275/'>1407 [Approbation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_114/'>457 [Arithmetick]</a>|<a href='/New_Beehive/toc_vol2/toc2_134/'>581
-  [Articles of faith]</a>
+xref: "<a href='/New_Beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
 see: 
 page: 
 add: 

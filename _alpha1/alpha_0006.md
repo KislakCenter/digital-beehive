@@ -6,9 +6,7 @@ head:
 entry: Adiaphory
 topic: Adiaphory
 first_letter: A
-xref: "<a href='/New_Beehive/alpha5/alpha_0955/'>Too much</a>|<a href='/New_Beehive/alpha4/alpha_0920/'>Superfluity</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_214/'>1102 [Abuse]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>278
-  [Accusation]</a>|<a href='/New_Beehive/toc_vol2/toc2_074/'>176 [Indifferency]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_074/'>176 [Indifferency]</a>"
 see: 
 page: 
 add: 

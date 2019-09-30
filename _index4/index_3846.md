@@ -3,7 +3,7 @@ pid: index_3846
 volume: Volume 3
 image_number: '44'
 head: Frz. Spira
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>619 [Francis Spira]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>619 [Francis Spira]</a>"
 topic: 
 first_letter: S
 xref: 

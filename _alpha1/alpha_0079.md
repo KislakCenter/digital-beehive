@@ -7,7 +7,7 @@ entry: Benefit
 topic: Benefit
 first_letter: B
 xref: "<a href='/New_Beehive/alpha1/alpha_0008/'>advantage</a>|<a href='/New_Beehive/alpha5/alpha_1005/'>utility</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_214/'>1104 [Benefits]</a>"
+  href='/New_Beehive/toc/toc2_214/'>1104 [Benefits]</a>"
 see: 
 page: 
 add: 

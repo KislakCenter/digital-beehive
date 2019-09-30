@@ -3,7 +3,7 @@ pid: index_3077
 volume: Volume 3
 image_number: '36'
 head: pore
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1596 [Pore]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1596 [Pore]</a>"
 topic: 
 first_letter: P
 xref: 

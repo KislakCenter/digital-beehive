@@ -6,7 +6,7 @@ head:
 entry: Agreeableness
 topic: Agreeableness
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/New_Beehive/toc_vol2/toc2_165/'>889
+xref: "<a href='/New_Beehive/toc/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/New_Beehive/toc/toc2_165/'>889
   [Agreeable]</a>"
 see: 
 page: 

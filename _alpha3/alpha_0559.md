@@ -6,8 +6,7 @@ head:
 entry: Lowse
 topic: Lowse
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0173/'>contempt</a>|<a href='/New_Beehive/toc_vol2/toc2_319/'>1623
-  [Love potions]</a>|"
+xref: 
 see: 
 page: 
 add: 

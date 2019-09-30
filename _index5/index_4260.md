@@ -3,8 +3,8 @@ pid: index_4260
 volume: Volume 3
 image_number: '49'
 head: try all things
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>47 [Try & Prove all things]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_125/'>530 [Try all things]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|<a href='/New_Beehive/toc/toc2_125/'>530
+  [Try all things]</a>"
 topic: 
 first_letter: T
 xref: 

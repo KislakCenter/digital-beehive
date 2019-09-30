@@ -3,8 +3,8 @@ pid: index_0238
 volume: Volume 3
 image_number: '9'
 head: attacking
-entry: '742 [PAGE_MISSING]|<a href=''/New_Beehive/toc_vol2/toc2_261/''>1338 [To Assult
-  : besiege]</a>|<a href=''/New_Beehive/toc_vol2/toc2_373/''>2075 [Attack]</a>'
+entry: '742 [PAGE_MISSING]|<a href=''/New_Beehive/toc/toc2_261/''>1338 [To Assult
+  : besiege]</a>|<a href=''/New_Beehive/toc/toc2_373/''>2075 [Attack]</a>'
 topic: 
 first_letter: A
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Fashion of the Country
 topic: Fashion of the Country
 first_letter: F
-xref: Departure|<a href='/New_Beehive/alpha1/alpha_0055/'>Banishmt</a>|<a href='/New_Beehive/toc_vol2/toc2_150/'>675
-  [Farewell]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386 [Fashion of the Country]</a>
+xref: "<a href='/New_Beehive/toc/toc2_271/'>1386 [Fashion of the Country]</a>"
 see: 
 page: 
 add: 

@@ -6,9 +6,7 @@ head:
 entry: Equivocation
 topic: Equivocation
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/New_Beehive/alpha3/alpha_0519/'>Law</a>|<a
-  href='/New_Beehive/alpha4/alpha_0801/'>Right</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1540
-  [Equivocation]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_302/'>1540 [Equivocation]</a>"
 see: 
 page: 
 add: 

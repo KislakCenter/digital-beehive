@@ -3,7 +3,7 @@ pid: index_3481
 volume: Volume 3
 image_number: '40'
 head: sack cloath
-entry: "<a href='/New_Beehive/toc_vol2/toc2_291/'>1487 [Jews]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_291/'>1487 [Jews]</a>"
 topic: 
 first_letter: S
 xref: 

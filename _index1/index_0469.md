@@ -3,7 +3,7 @@ pid: index_0469
 volume: Volume 3
 image_number: '11'
 head: to bruise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>718 [Piece]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>718 [Piece]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Philosophy
 topic: Philosophy
 first_letter: P
-xref: Conviction|<a href='/New_Beehive/toc_vol2/toc2_361/'>1969 [Perswasion]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_338/'>1734 [Pestilence]</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>453
-  [Philosophy]</a>
+xref: "<a href='/New_Beehive/toc/toc2_113/'>453 [Philosophy]</a>"
 see: 
 page: 
 add: 

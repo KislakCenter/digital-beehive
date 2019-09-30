@@ -3,7 +3,7 @@ pid: index_4007
 volume: Volume 3
 image_number: '46'
 head: to surrender
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1474 [Yielding]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1474 [Yielding]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_2602
 volume: Volume 3
 image_number: '31'
 head: mouldy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>587 [mouldy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [mouldy]</a>"
 topic: 
 first_letter: M
 xref: 

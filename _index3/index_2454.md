@@ -3,7 +3,7 @@ pid: index_2454
 volume: Volume 3
 image_number: '30'
 head: mead
-entry: "<a href='/New_Beehive/toc_vol2/toc2_204/'>1051 [Mead]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_204/'>1051 [Mead]</a>"
 topic: 
 first_letter: M
 xref: 

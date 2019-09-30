@@ -3,7 +3,7 @@ pid: index_2146
 volume: Volume 3
 image_number: '27'
 head: justs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1325 [a Tournament]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1325 [a Tournament]</a>"
 topic: 
 first_letter: I/J
 xref: 

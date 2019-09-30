@@ -3,7 +3,7 @@ pid: index_1072
 volume: Volume 3
 image_number: '17'
 head: discourse
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>291 [Discourse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_090/'>291 [Discourse]</a>"
 topic: 
 first_letter: D
 xref: 

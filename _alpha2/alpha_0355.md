@@ -6,9 +6,7 @@ head:
 entry: Garden Garlick
 topic: Garden Garlick
 first_letter: G
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1071
-  [Funeral Comendation]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1421 [Future]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_152/'>685 [Garlick]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_152/'>685 [Garlick]</a>"
 see: 
 page: 
 add: 

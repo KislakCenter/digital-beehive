@@ -6,8 +6,7 @@ head:
 entry: Oftness
 topic: Oftness
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0113/'>Calling</a>|<a href='/New_Beehive/toc_vol2/toc2_198/'>1021
-  [Officers]</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1694 [Often]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_333/'>1694 [Often]</a>"
 see: 
 page: 
 add: 

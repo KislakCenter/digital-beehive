@@ -3,7 +3,7 @@ pid: index_4463
 volume: Volume 3
 image_number: '51'
 head: Waldenses
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>62 [Waldenses or Lyonists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_063/'>62 [Waldenses or Lyonists]</a>"
 topic: 
 first_letter: W
 xref: 

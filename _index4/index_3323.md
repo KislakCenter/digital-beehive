@@ -3,7 +3,7 @@ pid: index_3323
 volume: Volume 3
 image_number: '39'
 head: to recover
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>408 [To Recover]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>408 [To Recover]</a>"
 topic: 
 first_letter: R
 xref: 

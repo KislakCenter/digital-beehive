@@ -3,7 +3,7 @@ pid: index_4222
 volume: Volume 3
 image_number: '48'
 head: travelling
-entry: "<a href='/New_Beehive/alpha5/alpha_0966/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1149
+entry: "<a href='/New_Beehive/alpha5/alpha_0966/'>a</a>|<a href='/New_Beehive/toc/toc2_223/'>1149
   [Travelling]</a>"
 topic: 
 first_letter: T

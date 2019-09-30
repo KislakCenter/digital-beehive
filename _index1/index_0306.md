@@ -3,7 +3,7 @@ pid: index_0306
 volume: Volume 3
 image_number: '9'
 head: bat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>689 [a Bat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>689 [a Bat]</a>"
 topic: 
 first_letter: B
 xref: 

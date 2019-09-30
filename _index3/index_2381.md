@@ -3,9 +3,8 @@ pid: index_2381
 volume: Volume 3
 image_number: '29'
 head: magnanimity
-entry: "<a href='/New_Beehive/alpha3/alpha_0562/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_125/'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_239/'>1229
-  [Magnanimity]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0562/'>a</a>|<a href='/New_Beehive/toc/toc2_125/'>529
+  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_239/'>1229 [Magnanimity]</a>"
 topic: 
 first_letter: M
 xref: 

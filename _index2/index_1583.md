@@ -3,7 +3,7 @@ pid: index_1583
 volume: Volume 3
 image_number: '21'
 head: garlick
-entry: "<a href='/New_Beehive/alpha2/alpha_0355/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_152/'>685
+entry: "<a href='/New_Beehive/alpha2/alpha_0355/'>a</a>|<a href='/New_Beehive/toc/toc2_152/'>685
   [Garlick]</a>"
 topic: 
 first_letter: G

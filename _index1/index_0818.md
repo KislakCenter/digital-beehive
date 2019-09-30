@@ -3,7 +3,7 @@ pid: index_0818
 volume: Volume 3
 image_number: '14'
 head: contagious
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1330 [To infect]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: C
 xref: 

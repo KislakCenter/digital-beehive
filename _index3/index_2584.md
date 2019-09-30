@@ -3,7 +3,7 @@ pid: index_2584
 volume: Volume 3
 image_number: '31'
 head: morose
-entry: "<a href='/New_Beehive/toc_vol2/toc2_147/'>655 [Sternness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_147/'>655 [Sternness]</a>"
 topic: 
 first_letter: M
 xref: 

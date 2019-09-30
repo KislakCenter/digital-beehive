@@ -6,9 +6,7 @@ head:
 entry: God
 topic: God
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0484/'>Interpretation</a>|<a href='/New_Beehive/alpha5/alpha_0963/'>Tradition</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_069/'>121 [Gloss]</a>||<a href='/New_Beehive/toc_vol2/toc2_093/'>310
-  [Gods]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_093/'>310 [Gods]</a>"
 see: 
 page: 
 add: 

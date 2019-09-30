@@ -3,7 +3,7 @@ pid: index_0625
 volume: Volume 3
 image_number: '12'
 head: chevy-chase
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4802 [Chevy-chase]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4802 [Chevy-chase]</a>"
 topic: 
 first_letter: C
 xref: 

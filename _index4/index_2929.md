@@ -3,7 +3,7 @@ pid: index_2929
 volume: Volume 3
 image_number: '34'
 head: paymt
-entry: "<a href='/New_Beehive/alpha4/alpha_0686/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1131
+entry: "<a href='/New_Beehive/alpha4/alpha_0686/'>a</a>|<a href='/New_Beehive/toc/toc2_220/'>1131
   [Payment]</a>"
 topic: 
 first_letter: P

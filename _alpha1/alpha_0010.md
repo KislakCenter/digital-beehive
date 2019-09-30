@@ -6,7 +6,7 @@ head:
 entry: Adversity
 topic: Adversity
 first_letter: A
-xref: Gods affection|<a href='/New_Beehive/toc_vol2/toc2_158/'>712 [Adversity]</a>
+xref: Gods affection|<a href='/New_Beehive/toc/toc2_158/'>712 [Adversity]</a>
 see: 
 page: 
 add: 

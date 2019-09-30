@@ -3,7 +3,7 @@ pid: index_3856
 volume: Volume 3
 image_number: '44'
 head: to split
-entry: "<a href='/New_Beehive/toc_vol2/toc2_323/'>1644 [To Split]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_323/'>1644 [To Split]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_0084
 volume: Volume 3
 image_number: '7'
 head: alacrity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1316 [Alarcity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1316 [Alarcity]</a>"
 topic: 
 first_letter: A
 xref: 

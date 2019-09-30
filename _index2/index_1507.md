@@ -3,7 +3,7 @@ pid: index_1507
 volume: Volume 3
 image_number: '21'
 head: foretaste
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>546 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
 topic: 
 first_letter: F
 xref: 

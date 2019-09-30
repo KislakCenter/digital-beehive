@@ -3,7 +3,7 @@ pid: index_2139
 volume: Volume 3
 image_number: '27'
 head: juniper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>687 [Juniper Bush]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>687 [Juniper Bush]</a>"
 topic: 
 first_letter: I/J
 xref: 

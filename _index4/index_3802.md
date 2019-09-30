@@ -3,7 +3,7 @@ pid: index_3802
 volume: Volume 3
 image_number: '44'
 head: sophistry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_088/'>277 [Sophistry]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_088/'>277 [Sophistry]</a>"
 topic: 
 first_letter: S
 xref: 

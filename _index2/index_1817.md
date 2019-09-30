@@ -3,7 +3,7 @@ pid: index_1817
 volume: Volume 3
 image_number: '24'
 head: hermit
-entry: "<a href='/New_Beehive/alpha2/alpha_0417/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2093
+entry: "<a href='/New_Beehive/alpha2/alpha_0417/'>a</a>|<a href='/New_Beehive/toc/toc2_375/'>2093
   [Hermit]</a>"
 topic: 
 first_letter: H

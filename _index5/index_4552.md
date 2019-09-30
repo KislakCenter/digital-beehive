@@ -3,7 +3,7 @@ pid: index_4552
 volume: Volume 3
 image_number: '52'
 head: will with a wisp
-entry: "<a href='/New_Beehive/toc_vol2/toc2_312/'>1589 [Ignis fatuus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_312/'>1589 [Ignis fatuus]</a>"
 topic: 
 first_letter: W
 xref: 

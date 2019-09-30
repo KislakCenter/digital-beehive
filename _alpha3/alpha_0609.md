@@ -6,7 +6,7 @@ head:
 entry: Mountebank
 topic: Mountebank
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physician</a>|Juggling|<a href='/New_Beehive/toc_vol2/toc2_260/'>1333
+xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physician</a>|Juggling|<a href='/New_Beehive/toc/toc2_260/'>1333
   [Mountebank]</a>"
 see: 
 page: 

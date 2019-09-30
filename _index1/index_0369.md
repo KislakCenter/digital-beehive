@@ -3,7 +3,7 @@ pid: index_0369
 volume: Volume 3
 image_number: '10'
 head: bible
-entry: "<a href='/New_Beehive/alpha1/alpha_0080/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_108/'>421
+entry: "<a href='/New_Beehive/alpha1/alpha_0080/'>a</a>|<a href='/New_Beehive/toc/toc2_108/'>421
   [Bible]</a>"
 topic: 
 first_letter: B

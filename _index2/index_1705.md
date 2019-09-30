@@ -3,7 +3,7 @@ pid: index_1705
 volume: Volume 3
 image_number: '23'
 head: grazing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_364/'>1988 [Grazing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_364/'>1988 [Grazing]</a>"
 topic: 
 first_letter: G
 xref: 

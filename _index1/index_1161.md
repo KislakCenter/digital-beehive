@@ -3,7 +3,7 @@ pid: index_1161
 volume: Volume 3
 image_number: '17'
 head: drugs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>617 [Druggs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>617 [Druggs]</a>"
 topic: 
 first_letter: D
 xref: 

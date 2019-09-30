@@ -3,7 +3,7 @@ pid: index_3015
 volume: Volume 3
 image_number: '35'
 head: pinch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>645 [Pinch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>645 [Pinch]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,8 +3,8 @@ pid: index_1027
 volume: Volume 3
 image_number: '16'
 head: desperation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>8 [Desperation]</a>|<a href='/New_Beehive/toc_vol2/toc2_141/'>620
-  [Despair]</a>|<a href='/New_Beehive/toc_vol2/toc2_332/'>1689 [Despair]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>8 [Desperation]</a>|<a href='/New_Beehive/toc/toc2_141/'>620
+  [Despair]</a>|<a href='/New_Beehive/toc/toc2_332/'>1689 [Despair]</a>"
 topic: 
 first_letter: D
 xref: 

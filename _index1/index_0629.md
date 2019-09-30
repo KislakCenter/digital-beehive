@@ -3,7 +3,7 @@ pid: index_0629
 volume: Volume 3
 image_number: '12'
 head: chiefly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>702 [Chiefly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>702 [Chiefly]</a>"
 topic: 
 first_letter: C
 xref: 

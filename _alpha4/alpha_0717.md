@@ -6,7 +6,7 @@ head:
 entry: Praise of God & of men
 topic: Praise of God & of men
 first_letter: P
-xref: "<a href='/New_Beehive/alpha2/alpha_0427/'>Honour</a>|Flatterers|<a href='/New_Beehive/toc_vol2/toc2_216/'>1112
+xref: "<a href='/New_Beehive/alpha2/alpha_0427/'>Honour</a>|Flatterers|<a href='/New_Beehive/toc/toc2_216/'>1112
   [Praise of God or Men]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_0726
 volume: Volume 3
 image_number: '13'
 head: colour
-entry: 788 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_308/'>1568 [Colours]</a>
+entry: 788 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_308/'>1568 [Colours]</a>
 topic: 
 first_letter: C
 xref: 

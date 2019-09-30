@@ -3,7 +3,7 @@ pid: index_3635
 volume: Volume 3
 image_number: '42'
 head: Seneca
-entry: "<a href='/New_Beehive/toc_vol2/toc2_213/'>1099 [Seneca]</a>|<a href='/New_Beehive/toc_vol2/toc2_238/'>1223
+entry: "<a href='/New_Beehive/toc/toc2_213/'>1099 [Seneca]</a>|<a href='/New_Beehive/toc/toc2_238/'>1223
   [Seneca]</a>"
 topic: 
 first_letter: S

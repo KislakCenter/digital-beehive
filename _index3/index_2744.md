@@ -3,7 +3,7 @@ pid: index_2744
 volume: Volume 3
 image_number: '32'
 head: nourishmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_322/'>1637 [Nourishmt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_322/'>1637 [Nourishmt]</a>"
 topic: 
 first_letter: N
 xref: 

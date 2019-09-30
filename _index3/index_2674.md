@@ -3,7 +3,7 @@ pid: index_2674
 volume: Volume 3
 image_number: '32'
 head: necromancy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1912 [Necromancy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1912 [Necromancy]</a>"
 topic: 
 first_letter: N
 xref: 

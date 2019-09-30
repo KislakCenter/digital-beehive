@@ -6,8 +6,7 @@ head:
 entry: Pope
 topic: Pope
 first_letter: P
-xref: Bigamy|<a href='/New_Beehive/toc_vol2/toc2_180/'>969 [Polygamy]</a>|<a href='/New_Beehive/toc_vol2/toc2_112/'>446
-  [Pope]</a>
+xref: "<a href='/New_Beehive/toc/toc2_112/'>446 [Pope]</a>"
 see: 
 page: 
 add: 

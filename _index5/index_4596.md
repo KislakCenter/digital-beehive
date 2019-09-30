@@ -3,7 +3,7 @@ pid: index_4596
 volume: Volume 3
 image_number: '53'
 head: woman's longings
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>688 [Womens Longings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Womens Longings]</a>"
 topic: 
 first_letter: W
 xref: 

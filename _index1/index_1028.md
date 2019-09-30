@@ -3,7 +3,7 @@ pid: index_1028
 volume: Volume 3
 image_number: '16'
 head: despight
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>614 [Meaning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>614 [Meaning]</a>"
 topic: 
 first_letter: D
 xref: 

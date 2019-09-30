@@ -3,8 +3,8 @@ pid: index_3619
 volume: Volume 3
 image_number: '42'
 head: Self holiness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>300 [selfholiness, selfrighteousness]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_424/'>4459 [Self holiness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>300 [selfholiness, selfrighteousness]</a>|<a
+  href='/New_Beehive/toc/toc2_424/'>4459 [Self holiness]</a>"
 topic: 
 first_letter: S
 xref: 

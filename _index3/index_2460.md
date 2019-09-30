@@ -3,7 +3,7 @@ pid: index_2460
 volume: Volume 3
 image_number: '30'
 head: measels
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1939 [Measels]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Measels]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -7,7 +7,7 @@ entry: Monster
 topic: Monster
 first_letter: M
 xref: "<a href='/New_Beehive/alpha4/alpha_0766/'>rarity</a>|<a href='/New_Beehive/alpha5/alpha_1040/'>wonderfull
-  things</a>|<a href='/New_Beehive/toc_vol2/toc2_365/'>1996 [Monster]</a>"
+  things</a>|<a href='/New_Beehive/toc/toc2_365/'>1996 [Monster]</a>"
 see: 
 page: 
 add: 

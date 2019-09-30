@@ -3,7 +3,7 @@ pid: index_4390
 volume: Volume 3
 image_number: '50'
 head: unison
-entry: "<a href='/New_Beehive/toc_vol2/toc2_308/'>1569 [Unity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_308/'>1569 [Unity]</a>"
 topic: 
 first_letter: U/V
 xref: 

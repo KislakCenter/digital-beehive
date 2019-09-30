@@ -3,7 +3,7 @@ pid: index_1406
 volume: Volume 3
 image_number: '20'
 head: fart
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>598 [Fart]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>598 [Fart]</a>"
 topic: 
 first_letter: F
 xref: 

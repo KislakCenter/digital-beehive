@@ -3,7 +3,7 @@ pid: index_2383
 volume: Volume 3
 image_number: '29'
 head: magnificence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>912 [Magnificen(ce:)]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [Magnificen(ce:)]</a>"
 topic: 
 first_letter: M
 xref: 

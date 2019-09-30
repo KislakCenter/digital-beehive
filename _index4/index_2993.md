@@ -3,7 +3,7 @@ pid: index_2993
 volume: Volume 3
 image_number: '35'
 head: phylacteries
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1911 [Phylacteries]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1911 [Phylacteries]</a>"
 topic: 
 first_letter: P
 xref: 

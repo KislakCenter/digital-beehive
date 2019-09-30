@@ -3,7 +3,7 @@ pid: index_2542
 volume: Volume 3
 image_number: '31'
 head: to miss
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>618 [To Miss]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>618 [To Miss]</a>"
 topic: 
 first_letter: M
 xref: 

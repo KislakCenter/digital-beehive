@@ -6,7 +6,7 @@ head:
 entry: Trance
 topic: Trance
 first_letter: T
-xref: "<a href='/New_Beehive/toc_vol2/toc2_251/'>1286 [Extasies]</a>|Enthusiasm"
+xref: "<a href='/New_Beehive/toc/toc2_251/'>1286 [Extasies]</a>|Enthusiasm"
 see: 
 page: 
 add: 

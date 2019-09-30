@@ -6,8 +6,7 @@ head:
 entry: Custody
 topic: Custody
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0640/'>Novelty</a>|Strange Business|<a href='/New_Beehive/toc_vol2/toc2_315/'>1602
-  [Curiosity]</a>|Jailer"
+xref: Jailer
 see: 
 page: 
 add: 

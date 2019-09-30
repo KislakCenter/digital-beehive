@@ -3,7 +3,7 @@ pid: index_2878
 volume: Volume 3
 image_number: '34'
 head: parchment
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1323 [Parchment]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1323 [Parchment]</a>"
 topic: 
 first_letter: P
 xref: 

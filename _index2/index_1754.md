@@ -3,7 +3,7 @@ pid: index_1754
 volume: Volume 3
 image_number: '23'
 head: hardship
-entry: "<a href='/New_Beehive/toc_vol2/toc2_251/'>1290 [Difficulty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_251/'>1290 [Difficulty]</a>"
 topic: 
 first_letter: H
 xref: 

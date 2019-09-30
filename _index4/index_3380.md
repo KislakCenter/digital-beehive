@@ -3,8 +3,8 @@ pid: index_3380
 volume: Volume 3
 image_number: '39'
 head: reproof
-entry: "<a href='/New_Beehive/alpha4/alpha_0787/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1365
-  [Rebuke, Reprove]</a>|<a href='/New_Beehive/toc_vol2/toc2_284/'>1454 [Reproof]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0787/'>a</a>|<a href='/New_Beehive/toc/toc2_266/'>1365
+  [Rebuke, Reprove]</a>|<a href='/New_Beehive/toc/toc2_284/'>1454 [Reproof]</a>"
 topic: 
 first_letter: R
 xref: 

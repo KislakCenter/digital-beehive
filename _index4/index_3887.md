@@ -3,7 +3,7 @@ pid: index_3887
 volume: Volume 3
 image_number: '45'
 head: statues
-entry: "<a href='/New_Beehive/toc_vol2/toc2_178/'>955 [Images]</a>|<a href='/New_Beehive/toc_vol2/toc2_330/'>1680
+entry: "<a href='/New_Beehive/toc/toc2_178/'>955 [Images]</a>|<a href='/New_Beehive/toc/toc2_330/'>1680
   [Images]</a>"
 topic: 
 first_letter: S

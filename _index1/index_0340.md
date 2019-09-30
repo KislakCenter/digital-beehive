@@ -3,7 +3,7 @@ pid: index_0340
 volume: Volume 3
 image_number: '10'
 head: behalf
-entry: "<a href='/New_Beehive/toc_vol2/toc2_284/'>1454 [In my Behalf]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_284/'>1454 [In my Behalf]</a>"
 topic: 
 first_letter: B
 xref: 

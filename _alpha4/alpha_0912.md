@@ -6,7 +6,7 @@ head:
 entry: Stubborness
 topic: Stubborness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|waspish|<a href='/New_Beehive/toc_vol2/toc2_404/'>2303
+xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|waspish|<a href='/New_Beehive/toc/toc2_404/'>2303
   [Stubborn]</a>"
 see: 
 page: 

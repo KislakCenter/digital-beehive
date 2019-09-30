@@ -3,7 +3,7 @@ pid: index_2971
 volume: Volume 3
 image_number: '35'
 head: perspective
-entry: "<a href='/New_Beehive/toc_vol2/toc2_322/'>1639 [Spectacles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
 topic: 
 first_letter: P
 xref: 

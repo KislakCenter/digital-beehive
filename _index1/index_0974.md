@@ -3,7 +3,7 @@ pid: index_0974
 volume: Volume 3
 image_number: '15'
 head: to debase
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1326 [To debase]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1326 [To debase]</a>"
 topic: 
 first_letter: D
 xref: 

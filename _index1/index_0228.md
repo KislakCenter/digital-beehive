@@ -3,7 +3,7 @@ pid: index_0228
 volume: Volume 3
 image_number: '8'
 head: asthma
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>475 [Shortness of Breath]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>475 [Shortness of Breath]</a>"
 topic: 
 first_letter: A
 xref: 

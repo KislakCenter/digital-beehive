@@ -6,9 +6,9 @@ head:
 entry: Child
 topic: Child
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>14 [Degenerating]</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1061
-  [Whelp]</a>|<a href='/New_Beehive/alpha4/alpha_0885/'>Sonship</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>9
-  [Education]</a>|<a href='/New_Beehive/toc_vol2/toc2_092/'>308 [Children]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_059/'>14 [Degenerating]</a>|<a href='/New_Beehive/toc/toc2_206/'>1061
+  [Whelp]</a>|<a href='/New_Beehive/alpha4/alpha_0885/'>Sonship</a>|<a href='/New_Beehive/toc/toc2_058/'>9
+  [Education]</a>|<a href='/New_Beehive/toc/toc2_092/'>308 [Children]</a>"
 see: 
 page: 
 add: 

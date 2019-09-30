@@ -3,10 +3,9 @@ pid: index_0230
 volume: Volume 3
 image_number: '8'
 head: astrology
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>24 [Astrology]</a>|<a href='/New_Beehive/toc_vol2/toc2_146/'>648
-  [Astrologer]</a>|<a href='/New_Beehive/toc_vol2/toc2_250/'>1283 [Astrology]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_272/'>1392 [Astrology]</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1675
-  [Astrology]</a>|4627 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>24 [Astrology]</a>|<a href='/New_Beehive/toc/toc2_146/'>648
+  [Astrologer]</a>|<a href='/New_Beehive/toc/toc2_250/'>1283 [Astrology]</a>|<a href='/New_Beehive/toc/toc2_272/'>1392
+  [Astrology]</a>|<a href='/New_Beehive/toc/toc2_329/'>1675 [Astrology]</a>|4627 [PAGE_MISSING]"
 topic: 
 first_letter: A
 xref: 

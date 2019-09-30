@@ -3,7 +3,7 @@ pid: index_1638
 volume: Volume 3
 image_number: '22'
 head: be gone
-entry: "<a href='/New_Beehive/toc_vol2/toc2_222/'>1142 [Be gone]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_222/'>1142 [Be gone]</a>"
 topic: 
 first_letter: G
 xref: 

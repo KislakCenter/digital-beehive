@@ -3,7 +3,7 @@ pid: index_3278
 volume: Volume 3
 image_number: '38'
 head: rachel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_363/'>1976 [Rachel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_363/'>1976 [Rachel]</a>"
 topic: 
 first_letter: R
 xref: 

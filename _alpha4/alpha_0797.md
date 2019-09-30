@@ -7,7 +7,7 @@ entry: Reward
 topic: Reward
 first_letter: R
 xref: "<a href='/New_Beehive/alpha3/alpha_0585/'>merit</a>|<a href='/New_Beehive/alpha4/alpha_0819/'>Salary</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_110/'>431 [Reward]</a>"
+  href='/New_Beehive/toc/toc2_110/'>431 [Reward]</a>"
 see: 
 page: 
 add: 

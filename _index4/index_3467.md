@@ -3,7 +3,7 @@ pid: index_3467
 volume: Volume 3
 image_number: '40'
 head: rules false
-entry: "<a href='/New_Beehive/toc_vol2/toc2_070/'>138 [False Rules]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_070/'>138 [False Rules]</a>"
 topic: 
 first_letter: R
 xref: 

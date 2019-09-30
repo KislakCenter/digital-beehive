@@ -6,7 +6,7 @@ head:
 entry: Slavery
 topic: Slavery
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0852/'>Servitude</a>|Captivity|<a href='/New_Beehive/toc_vol2/toc2_222/'>1141
+xref: "<a href='/New_Beehive/alpha4/alpha_0852/'>Servitude</a>|Captivity|<a href='/New_Beehive/toc/toc2_222/'>1141
   [Slavery]</a>"
 see: 
 page: 

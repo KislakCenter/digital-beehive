@@ -3,7 +3,7 @@ pid: index_0948
 volume: Volume 3
 image_number: '15'
 head: to dare
-entry: "<a href='/New_Beehive/toc_vol2/toc2_424/'>4464 [I dare]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [I dare]</a>"
 topic: 
 first_letter: D
 xref: 

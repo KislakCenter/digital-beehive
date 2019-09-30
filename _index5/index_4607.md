@@ -3,7 +3,7 @@ pid: index_4607
 volume: Volume 3
 image_number: '53'
 head: words
-entry: "<a href='/New_Beehive/toc_vol2/toc2_264/'>1353 [Word]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2058
+entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>|<a href='/New_Beehive/toc/toc2_371/'>2058
   [Words]</a>"
 topic: 
 first_letter: W

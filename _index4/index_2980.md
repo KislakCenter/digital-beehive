@@ -3,7 +3,7 @@ pid: index_2980
 volume: Volume 3
 image_number: '35'
 head: phantastick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>299 [idle fancies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>299 [idle fancies]</a>"
 topic: 
 first_letter: P
 xref: 

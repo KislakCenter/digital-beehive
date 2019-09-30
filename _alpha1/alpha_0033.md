@@ -6,7 +6,7 @@ head:
 entry: AntiChrist
 topic: AntiChrist
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>905
+xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc/toc2_168/'>905
   [AntiChrist]</a>"
 see: 
 page: 

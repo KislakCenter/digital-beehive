@@ -3,8 +3,8 @@ pid: index_0510
 volume: Volume 3
 image_number: '11'
 head: calling
-entry: "<a href='/New_Beehive/alpha1/alpha_0113/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>904
-  [Calling]</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>953 [Call]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0113/'>a</a>|<a href='/New_Beehive/toc/toc2_168/'>904
+  [Calling]</a>|<a href='/New_Beehive/toc/toc2_178/'>953 [Call]</a>"
 topic: 
 first_letter: C
 xref: 

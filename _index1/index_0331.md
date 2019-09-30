@@ -3,7 +3,7 @@ pid: index_0331
 volume: Volume 3
 image_number: '9'
 head: bedlam
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1317 [Bedlam]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1317 [Bedlam]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -3,7 +3,7 @@ pid: index_2010
 volume: Volume 3
 image_number: '25'
 head: incredulous
-entry: "<a href='/New_Beehive/toc_vol2/toc2_244/'>1254 [Scepticism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_244/'>1254 [Scepticism]</a>"
 topic: 
 first_letter: I/J
 xref: 

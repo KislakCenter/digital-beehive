@@ -3,7 +3,7 @@ pid: index_4002
 volume: Volume 3
 image_number: '46'
 head: surity. sicher
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security, Safety]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, Safety]</a>"
 topic: 
 first_letter: S
 xref: 

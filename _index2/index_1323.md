@@ -3,7 +3,7 @@ pid: index_1323
 volume: Volume 3
 image_number: '19'
 head: europe
-entry: "<a href='/New_Beehive/toc_vol2/toc2_104/'>391 [European]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_104/'>391 [European]</a>"
 topic: 
 first_letter: E
 xref: 

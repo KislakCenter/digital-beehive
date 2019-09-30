@@ -3,9 +3,9 @@ pid: index_4545
 volume: Volume 3
 image_number: '52'
 head: wickedness
-entry: "<a href='/New_Beehive/alpha5/alpha_1022/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_095/'>324
-  [Wickedness]</a>|<a href='/New_Beehive/toc_vol2/toc2_272/'>1394 [Wicked]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_396/'>2265 [Wickedness]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1022/'>a</a>|<a href='/New_Beehive/toc/toc2_095/'>324
+  [Wickedness]</a>|<a href='/New_Beehive/toc/toc2_272/'>1394 [Wicked]</a>|<a href='/New_Beehive/toc/toc2_396/'>2265
+  [Wickedness]</a>"
 topic: 
 first_letter: W
 xref: 

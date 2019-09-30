@@ -3,7 +3,7 @@ pid: index_1937
 volume: Volume 3
 image_number: '25'
 head: Jerusalem
-entry: "<a href='/New_Beehive/toc_vol2/toc2_104/'>388 [(New) Jerusalem]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_104/'>388 [(New) Jerusalem]</a>"
 topic: 
 first_letter: I/J
 xref: 

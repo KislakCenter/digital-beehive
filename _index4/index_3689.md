@@ -3,7 +3,7 @@ pid: index_3689
 volume: Volume 3
 image_number: '42'
 head: short of breath
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>475 [Shortness of breath]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_3060
 volume: Volume 3
 image_number: '36'
 head: poets
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

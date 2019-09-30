@@ -6,7 +6,7 @@ head:
 entry: Apparel
 topic: Apparel
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>19 [Clothes]</a>|<a href='/New_Beehive/toc_vol2/toc2_076/'>194
+xref: "<a href='/New_Beehive/toc/toc2_059/'>19 [Clothes]</a>|<a href='/New_Beehive/toc/toc2_076/'>194
   [Apparel]</a>"
 see: 
 page: 

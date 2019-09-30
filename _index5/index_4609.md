@@ -3,7 +3,7 @@ pid: index_4609
 volume: Volume 3
 image_number: '53'
 head: strange words
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>536 [Rare words]</a>|<a href='/New_Beehive/toc_vol2/toc2_320/'>1629
+entry: "<a href='/New_Beehive/toc/toc2_126/'>536 [Rare words]</a>|<a href='/New_Beehive/toc/toc2_320/'>1629
   [Rare words]</a>"
 topic: 
 first_letter: W

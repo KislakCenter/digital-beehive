@@ -6,7 +6,7 @@ head:
 entry: Faintheartedness
 topic: Faintheartedness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2366
+xref: "<a href='/New_Beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/New_Beehive/toc/toc2_411/'>2366
   [Fainthearted]</a>"
 see: 
 page: 

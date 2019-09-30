@@ -3,7 +3,7 @@ pid: index_3683
 volume: Volume 3
 image_number: '42'
 head: shoemaker
-entry: "<a href='/New_Beehive/toc_vol2/toc2_220/'>1134 [Shoemaker]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_220/'>1134 [Shoemaker]</a>"
 topic: 
 first_letter: S
 xref: 

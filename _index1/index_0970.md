@@ -3,7 +3,7 @@ pid: index_0970
 volume: Volume 3
 image_number: '15'
 head: death of bad men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1247 [Death of bad men]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1247 [Death of bad men]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_2491
 volume: Volume 3
 image_number: '30'
 head: merit
-entry: "<a href='/New_Beehive/alpha3/alpha_0585/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1667
+entry: "<a href='/New_Beehive/alpha3/alpha_0585/'>a</a>|<a href='/New_Beehive/toc/toc2_328/'>1667
   [Merit]</a>"
 topic: 
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_2796
 volume: Volume 3
 image_number: '33'
 head: onions
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>542 [Onion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>542 [Onion]</a>"
 topic: 
 first_letter: O
 xref: 

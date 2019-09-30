@@ -3,7 +3,7 @@ pid: index_2700
 volume: Volume 3
 image_number: '32'
 head: new year
-entry: "<a href='/New_Beehive/toc_vol2/toc2_338/'>1735 [New Year]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_338/'>1735 [New Year]</a>"
 topic: 
 first_letter: N
 xref: 

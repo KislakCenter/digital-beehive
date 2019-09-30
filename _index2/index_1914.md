@@ -3,7 +3,7 @@ pid: index_1914
 volume: Volume 3
 image_number: '24'
 head: hydra
-entry: "<a href='/New_Beehive/toc_vol2/toc2_377/'>2119 [Serpents]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_377/'>2119 [Serpents]</a>"
 topic: 
 first_letter: H
 xref: 

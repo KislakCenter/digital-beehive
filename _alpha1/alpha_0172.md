@@ -6,7 +6,7 @@ head:
 entry: Constancy
 topic: Constancy
 first_letter: C
-xref: "<a href='/New_Beehive/alpha5/alpha_0998/'>Unstableness</a>|<a href='/New_Beehive/toc_vol2/toc2_216/'>1112
+xref: "<a href='/New_Beehive/alpha5/alpha_0998/'>Unstableness</a>|<a href='/New_Beehive/toc/toc2_216/'>1112
   [Constancy of mind]</a>"
 see: 
 page: 

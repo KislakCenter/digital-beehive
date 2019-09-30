@@ -3,7 +3,7 @@ pid: index_3646
 volume: Volume 3
 image_number: '42'
 head: servant & service
-entry: "<a href='/New_Beehive/alpha4/alpha_0851/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_240/'>1233
+entry: "<a href='/New_Beehive/alpha4/alpha_0851/'>a</a>|<a href='/New_Beehive/toc/toc2_240/'>1233
   [Servants]</a>|4553 [PAGE_MISSING]"
 topic: 
 first_letter: S

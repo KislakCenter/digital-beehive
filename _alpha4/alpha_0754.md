@@ -6,11 +6,7 @@ head:
 entry: Purgatory
 topic: Purgatory
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0237/'>Discipline</a>|<a href='/New_Beehive/alpha4/alpha_0787/'>Reproof</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_063/'>64 [sin in his Punishmt]</a>|<a href='/New_Beehive/toc_vol2/toc2_096/'>330
-  [Impunity]</a>|<a href='/New_Beehive/alpha1/alpha_0117/'>Capital Offence</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_216/'>1113 [Punishment]</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1534
-  [Purgatory]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_301/'>1534 [Purgatory]</a>"
 see: 
 page: 
 add: 

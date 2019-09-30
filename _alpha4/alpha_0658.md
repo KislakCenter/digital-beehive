@@ -6,8 +6,7 @@ head:
 entry: Omnipresence
 topic: Omnipresence
 first_letter: O
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>461
-  [Old age]</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1027 [Omnipresence]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_199/'>1027 [Omnipresence]</a>"
 see: 
 page: 
 add: 

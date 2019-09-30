@@ -3,7 +3,7 @@ pid: index_2305
 volume: Volume 3
 image_number: '28'
 head: to list sould
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>490 [To list souldiers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_119/'>490 [To list souldiers]</a>"
 topic: 
 first_letter: L
 xref: 

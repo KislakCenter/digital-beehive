@@ -3,8 +3,8 @@ pid: index_3745
 volume: Volume 3
 image_number: '43'
 head: slavery
-entry: "<a href='/New_Beehive/alpha4/alpha_0878/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1141
-  [Slavery]</a>|<a href='/New_Beehive/toc_vol2/toc2_418/'>2425 [Slavery]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0878/'>a</a>|<a href='/New_Beehive/toc/toc2_222/'>1141
+  [Slavery]</a>|<a href='/New_Beehive/toc/toc2_418/'>2425 [Slavery]</a>"
 topic: 
 first_letter: S
 xref: 

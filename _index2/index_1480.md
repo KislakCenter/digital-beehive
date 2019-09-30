@@ -3,7 +3,7 @@ pid: index_1480
 volume: Volume 3
 image_number: '20'
 head: flexible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_413/'>2381 [Tough]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_413/'>2381 [Tough]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,7 +3,7 @@ pid: index_3905
 volume: Volume 3
 image_number: '45'
 head: stillness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>436 [Silence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>436 [Silence]</a>"
 topic: 
 first_letter: S
 xref: 

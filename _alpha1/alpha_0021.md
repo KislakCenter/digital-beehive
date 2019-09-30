@@ -6,7 +6,7 @@ head:
 entry: Almanack
 topic: Almanack
 first_letter: A
-xref: Astrology|<a href='/New_Beehive/toc_vol2/toc2_248/'>1275 [Almanack]</a>
+xref: Astrology|<a href='/New_Beehive/toc/toc2_248/'>1275 [Almanack]</a>
 see: 
 page: 
 add: 

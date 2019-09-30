@@ -3,7 +3,7 @@ pid: index_3281
 volume: Volume 3
 image_number: '38'
 head: rage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>417 [Rage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>417 [Rage]</a>"
 topic: 
 first_letter: R
 xref: 

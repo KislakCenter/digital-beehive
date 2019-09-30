@@ -3,7 +3,7 @@ pid: index_1720
 volume: Volume 3
 image_number: '23'
 head: growth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>491 [Growth]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_119/'>491 [Growth]</a>"
 topic: 
 first_letter: G
 xref: 

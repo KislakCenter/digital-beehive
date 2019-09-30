@@ -3,9 +3,9 @@ pid: index_3213
 volume: Volume 3
 image_number: '37'
 head: Gods providence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_081/'>227 [Gods Providence]</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1691
-  [Gods Providence]</a>|<a href='/New_Beehive/toc_vol2/toc2_361/'>1968 [God's Providence]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_409/'>2355 [God's Providence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_081/'>227 [Gods Providence]</a>|<a href='/New_Beehive/toc/toc2_333/'>1691
+  [Gods Providence]</a>|<a href='/New_Beehive/toc/toc2_361/'>1968 [God's Providence]</a>|<a
+  href='/New_Beehive/toc/toc2_409/'>2355 [God's Providence]</a>"
 topic: 
 first_letter: P
 xref: 

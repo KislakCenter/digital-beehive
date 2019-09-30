@@ -3,7 +3,7 @@ pid: index_2402
 volume: Volume 3
 image_number: '29'
 head: Mamut
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1317 [Mamut]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1317 [Mamut]</a>"
 topic: 
 first_letter: M
 xref: 

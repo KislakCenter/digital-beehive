@@ -3,7 +3,7 @@ pid: index_1175
 volume: Volume 3
 image_number: '18'
 head: duty towards God, parents
-entry: "<a href='/New_Beehive/toc_vol2/toc2_281/'>1439 [Duty towards God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_281/'>1439 [Duty towards God]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_2687
 volume: Volume 3
 image_number: '32'
 head: net
-entry: 773 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_338/'>1739 [Snare]</a>
+entry: 773 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_338/'>1739 [Snare]</a>
 topic: 
 first_letter: N
 xref: 

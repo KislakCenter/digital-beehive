@@ -3,7 +3,7 @@ pid: index_2378
 volume: Volume 3
 image_number: '29'
 head: magick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_327/'>1661 [Magick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_327/'>1661 [Magick]</a>"
 topic: 
 first_letter: M
 xref: 

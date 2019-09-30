@@ -3,7 +3,7 @@ pid: index_2535
 volume: Volume 3
 image_number: '31'
 head: mischief
-entry: "<a href='/New_Beehive/toc_vol2/toc2_278/'>1422 [Dammage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [Dammage]</a>"
 topic: 
 first_letter: M
 xref: 

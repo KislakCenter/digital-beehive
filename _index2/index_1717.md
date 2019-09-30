@@ -3,7 +3,7 @@ pid: index_1717
 volume: Volume 3
 image_number: '23'
 head: grinding stone
-entry: "<a href='/New_Beehive/toc_vol2/toc2_250/'>1284 [a Whetstone]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
 topic: 
 first_letter: G
 xref: 

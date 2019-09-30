@@ -7,7 +7,7 @@ entry: Negligenge
 topic: Negligenge
 first_letter: N
 xref: "<a href='/New_Beehive/alpha3/alpha_0443/'>Idleness</a>|<a href='/New_Beehive/alpha3/alpha_0521/'>Laziness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_306/'>1558 [To Neglect]</a>"
+  href='/New_Beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
 see: 
 page: 
 add: 

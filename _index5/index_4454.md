@@ -3,7 +3,7 @@ pid: index_4454
 volume: Volume 3
 image_number: '51'
 head: the vulgar
-entry: "<a href='/New_Beehive/alpha5/alpha_1006/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1136
+entry: "<a href='/New_Beehive/alpha5/alpha_1006/'>a</a>|<a href='/New_Beehive/toc/toc2_221/'>1136
   [Vulgar]</a>"
 topic: 
 first_letter: U/V

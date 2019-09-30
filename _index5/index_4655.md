@@ -3,7 +3,7 @@ pid: index_4655
 volume: Volume 3
 image_number: '53'
 head: Zen[ae]ton
-entry: "<a href='/New_Beehive/toc_vol2/toc2_379/'>2132 [Zene[ae]ton]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_379/'>2132 [Zene[ae]ton]</a>"
 topic: 
 first_letter: Z
 xref: 

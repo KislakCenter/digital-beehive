@@ -3,9 +3,9 @@ pid: index_1337
 volume: Volume 3
 image_number: '19'
 head: excom[m]unication
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>26 [Excommunication]</a>|<a href='/New_Beehive/toc_vol2/toc2_167/'>897
-  [Excommunication]</a>|<a href='/New_Beehive/toc_vol2/toc2_177/'>951 [Excommunication]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_345/'>1792: [Excommunication]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>26 [Excommunication]</a>|<a href='/New_Beehive/toc/toc2_167/'>897
+  [Excommunication]</a>|<a href='/New_Beehive/toc/toc2_177/'>951 [Excommunication]</a>|<a
+  href='/New_Beehive/toc/toc2_345/'>1792: [Excommunication]</a>"
 topic: 
 first_letter: E
 xref: 

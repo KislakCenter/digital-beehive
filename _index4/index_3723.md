@@ -3,7 +3,7 @@ pid: index_3723
 volume: Volume 3
 image_number: '43'
 head: sin always
-entry: "<a href='/New_Beehive/toc_vol2/toc2_334/'>1700 [Continuance]</a>|<a href='/New_Beehive/toc_vol2/toc2_419/'>2427
+entry: "<a href='/New_Beehive/toc/toc2_334/'>1700 [Continuance]</a>|<a href='/New_Beehive/toc/toc2_419/'>2427
   [to Sin as long as we live]</a>"
 topic: 
 first_letter: S

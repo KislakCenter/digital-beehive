@@ -3,7 +3,7 @@ pid: index_1816
 volume: Volume 3
 image_number: '24'
 head: hermes Trism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_212/'>1094 [Mercurius or Hermes trismegistus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_212/'>1094 [Mercurius or Hermes trismegistus]</a>"
 topic: 
 first_letter: H
 xref: 

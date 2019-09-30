@@ -3,7 +3,7 @@ pid: index_1247
 volume: Volume 3
 image_number: '18'
 head: encouragement
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>606 [Encouragement]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_138/'>606 [Encouragement]</a>"
 topic: 
 first_letter: E
 xref: 

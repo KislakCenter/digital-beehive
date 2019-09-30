@@ -6,9 +6,7 @@ head:
 entry: Free will
 topic: Free will
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/New_Beehive/toc_vol2/toc2_103/'>384
-  [Fraud]</a>|<a href='/New_Beehive/alpha4/alpha_0790/'>Resistance</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0790/'>Resistance</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2867
 volume: Volume 3
 image_number: '34'
 head: to pant
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>688 [Breathing with difficulty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Breathing with difficulty]</a>"
 topic: 
 first_letter: P
 xref: 

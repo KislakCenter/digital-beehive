@@ -3,7 +3,7 @@ pid: index_1154
 volume: Volume 3
 image_number: '17'
 head: to drive away
-entry: "<a href='/New_Beehive/toc_vol2/toc2_238/'>1223 [To Chase]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_238/'>1223 [To Chase]</a>"
 topic: 
 first_letter: D
 xref: 

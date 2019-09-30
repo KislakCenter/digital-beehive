@@ -3,7 +3,7 @@ pid: index_3800
 volume: Volume 3
 image_number: '44'
 head: sop
-entry: "<a href='/New_Beehive/alpha4/alpha_0887/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_127/'>540
+entry: "<a href='/New_Beehive/alpha4/alpha_0887/'>a</a>|<a href='/New_Beehive/toc/toc2_127/'>540
   [WORD_MISSING]</a>"
 topic: 
 first_letter: S

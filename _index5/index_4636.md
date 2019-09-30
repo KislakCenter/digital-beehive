@@ -3,7 +3,7 @@ pid: index_4636
 volume: Volume 3
 image_number: '53'
 head: wrong
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>5 [Wrong]</a>|<a href='/New_Beehive/toc_vol2/toc2_217/'>1116
+entry: "<a href='/New_Beehive/toc/toc2_058/'>5 [Wrong]</a>|<a href='/New_Beehive/toc/toc2_217/'>1116
   [Injury]</a>"
 topic: 
 first_letter: W

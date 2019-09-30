@@ -3,7 +3,7 @@ pid: index_1052
 volume: Volume 3
 image_number: '16'
 head: dilem[m]a
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>232 [Dilem[m]a]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>232 [Dilem[m]a]</a>"
 topic: 
 first_letter: D
 xref: 

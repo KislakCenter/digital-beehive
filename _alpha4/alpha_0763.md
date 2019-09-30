@@ -7,7 +7,7 @@ entry: Railing
 topic: Railing
 first_letter: R
 xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>|<a href='/New_Beehive/alpha1/alpha_0114/'>Calumny</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_060/'>37 [WORD_MISSING]</a>"
+  href='/New_Beehive/toc/toc2_060/'>37 [WORD_MISSING]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3057
 volume: Volume 3
 image_number: '36'
 head: pocks small
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>371 [small pocks]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>371 [small pocks]</a>"
 topic: 
 first_letter: P
 xref: 

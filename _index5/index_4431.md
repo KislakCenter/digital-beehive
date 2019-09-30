@@ -3,7 +3,7 @@ pid: index_4431
 volume: Volume 3
 image_number: '51'
 head: vomit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>301 [Vomit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>301 [Vomit]</a>"
 topic: 
 first_letter: U/V
 xref: 

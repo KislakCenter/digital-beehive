@@ -7,7 +7,7 @@ entry: Alms
 topic: Alms
 first_letter: A
 xref: "<a href='/New_Beehive/alpha1/alpha_0073/'>Begging</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>Gift</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_125/'>528 [Alms]</a>"
+  href='/New_Beehive/toc/toc2_125/'>528 [Alms]</a>"
 see: 
 page: 
 add: 

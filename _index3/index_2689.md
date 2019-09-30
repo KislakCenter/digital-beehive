@@ -3,7 +3,7 @@ pid: index_2689
 volume: Volume 3
 image_number: '32'
 head: nettles
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>685 [Nettles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>685 [Nettles]</a>"
 topic: 
 first_letter: N
 xref: 

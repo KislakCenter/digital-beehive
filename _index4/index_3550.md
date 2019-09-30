@@ -3,7 +3,7 @@ pid: index_3550
 volume: Volume 3
 image_number: '41'
 head: scholars
-entry: "<a href='/New_Beehive/toc_vol2/toc2_181/'>975 [Disciples]</a>|<a href='/New_Beehive/toc_vol2/toc2_307/'>1564
+entry: "<a href='/New_Beehive/toc/toc2_181/'>975 [Disciples]</a>|<a href='/New_Beehive/toc/toc2_307/'>1564
   [Scholars]</a>"
 topic: 
 first_letter: S

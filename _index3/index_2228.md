@@ -3,7 +3,7 @@ pid: index_2228
 volume: Volume 3
 image_number: '28'
 head: to lay down
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>417 [Layed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>417 [Layed]</a>"
 topic: 
 first_letter: L
 xref: 

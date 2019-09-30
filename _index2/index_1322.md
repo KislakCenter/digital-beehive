@@ -3,7 +3,7 @@ pid: index_1322
 volume: Volume 3
 image_number: '19'
 head: eunuch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>333 [Eunuch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>333 [Eunuch]</a>"
 topic: 
 first_letter: E
 xref: 

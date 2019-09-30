@@ -3,7 +3,7 @@ pid: index_2608
 volume: Volume 3
 image_number: '31'
 head: much
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>294 [Much]</a>|4760 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_090/'>294 [Much]</a>|4760 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

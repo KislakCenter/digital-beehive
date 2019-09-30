@@ -3,7 +3,7 @@ pid: index_3821
 volume: Volume 3
 image_number: '44'
 head: spaw waters
-entry: "<a href='/New_Beehive/toc_vol2/toc2_330/'>1680 [Hot baths]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_330/'>1680 [Hot baths]</a>"
 topic: 
 first_letter: S
 xref: 

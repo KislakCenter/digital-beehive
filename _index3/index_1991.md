@@ -3,7 +3,7 @@ pid: index_1991
 volume: Volume 3
 image_number: '25'
 head: incarnation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_125/'>527 [Incarnation]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1449
+entry: "<a href='/New_Beehive/toc/toc2_125/'>527 [Incarnation]</a>|<a href='/New_Beehive/toc/toc2_283/'>1449
   [Incarnation of Christ]</a>"
 topic: 
 first_letter: I/J

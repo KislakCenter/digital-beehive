@@ -3,7 +3,7 @@ pid: index_4243
 volume: Volume 3
 image_number: '48'
 head: Trismegist
-entry: "<a href='/New_Beehive/toc_vol2/toc2_212/'>1094 [Mercurius trismegistus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_212/'>1094 [Mercurius trismegistus]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_2028
 volume: Volume 3
 image_number: '26'
 head: infamy
-entry: 737 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_058/'>11 [Ill Name]</a>
+entry: 737 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_058/'>11 [Ill Name]</a>
 topic: 
 first_letter: I/J
 xref: 

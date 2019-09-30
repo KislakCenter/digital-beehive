@@ -3,7 +3,7 @@ pid: index_1699
 volume: Volume 3
 image_number: '22'
 head: gratulation
-entry: "<a href='/New_Beehive/alpha2/alpha_0383/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386
+entry: "<a href='/New_Beehive/alpha2/alpha_0383/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1386
   [Gratulation]</a>"
 topic: 
 first_letter: G

@@ -3,9 +3,8 @@ pid: index_2432
 volume: Volume 3
 image_number: '30'
 head: marriage
-entry: "<a href='/New_Beehive/alpha3/alpha_0569/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_282/'>1443
-  [Marriage]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1619 [Marriage]</a>|4647
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0569/'>a</a>|<a href='/New_Beehive/toc/toc2_282/'>1443
+  [Marriage]</a>|<a href='/New_Beehive/toc/toc2_318/'>1619 [Marriage]</a>|4647 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

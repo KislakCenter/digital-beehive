@@ -3,7 +3,7 @@ pid: index_4533
 volume: Volume 3
 image_number: '52'
 head: a little while
-entry: "<a href='/New_Beehive/toc_vol2/toc2_204/'>1053 [Sometimes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_204/'>1053 [Sometimes]</a>"
 topic: 
 first_letter: W
 xref: 

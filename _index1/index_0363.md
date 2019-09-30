@@ -3,7 +3,7 @@ pid: index_0363
 volume: Volume 3
 image_number: '10'
 head: to bestow
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>715 [To Swap]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [To Swap]</a>"
 topic: 
 first_letter: B
 xref: 

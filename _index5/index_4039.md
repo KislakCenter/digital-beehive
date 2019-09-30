@@ -3,7 +3,7 @@ pid: index_4039
 volume: Volume 3
 image_number: '46'
 head: T
-entry: "<a href='/New_Beehive/toc_vol2/toc2_241/'>1236 [Crux ansata]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_241/'>1236 [Crux ansata]</a>"
 topic: 
 first_letter: T
 xref: 

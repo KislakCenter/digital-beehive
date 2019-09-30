@@ -3,7 +3,7 @@ pid: index_1351
 volume: Volume 3
 image_number: '19'
 head: expectation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>489 [Expectation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_119/'>489 [Expectation]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -3,7 +3,7 @@ pid: index_3314
 volume: Volume 3
 image_number: '38'
 head: rebus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>250 [Embleme]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_084/'>250 [Embleme]</a>"
 topic: 
 first_letter: R
 xref: 

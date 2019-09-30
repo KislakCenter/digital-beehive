@@ -3,7 +3,7 @@ pid: index_4146
 volume: Volume 3
 image_number: '47'
 head: Tiberius C[ae]sar
-entry: "<a href='/New_Beehive/toc_vol2/toc2_411/'>2361 [Tiberius C[ae]sar]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_411/'>2361 [Tiberius C[ae]sar]</a>"
 topic: 
 first_letter: T
 xref: 

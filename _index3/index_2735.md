@@ -3,7 +3,7 @@ pid: index_2735
 volume: Volume 3
 image_number: '32'
 head: notary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>260 [Scribe or publick Notary]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
 topic: 
 first_letter: N
 xref: 

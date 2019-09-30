@@ -3,7 +3,7 @@ pid: index_4204
 volume: Volume 3
 image_number: '48'
 head: towardliness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_289/'>1477 [Hopeful Children]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_289/'>1477 [Hopeful Children]</a>"
 topic: 
 first_letter: T
 xref: 

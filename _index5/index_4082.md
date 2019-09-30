@@ -3,7 +3,7 @@ pid: index_4082
 volume: Volume 3
 image_number: '47'
 head: tempests
-entry: "<a href='/New_Beehive/toc_vol2/toc2_263/'>1346 [Thunder & Lightning, Hailstones]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Thunder & Lightning, Hailstones]</a>"
 topic: 
 first_letter: T
 xref: 

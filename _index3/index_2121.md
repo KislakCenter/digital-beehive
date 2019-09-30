@@ -3,7 +3,7 @@ pid: index_2121
 volume: Volume 3
 image_number: '27'
 head: irreligion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_278/'>1421 [Atheism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_278/'>1421 [Atheism]</a>"
 topic: 
 first_letter: I/J
 xref: 

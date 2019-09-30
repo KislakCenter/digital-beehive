@@ -3,7 +3,7 @@ pid: index_3848
 volume: Volume 3
 image_number: '44'
 head: spiritus mundi
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1599 [Spiritus mundi]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1599 [Spiritus mundi]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,10 +3,9 @@ pid: index_3974
 volume: Volume 3
 image_number: '45'
 head: sufferings of Qrs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_123/'>515 [horrid Cruelties practiced
-  by Papists upon Protestants]</a>|<a href='/New_Beehive/toc_vol2/toc2_248/'>1273
-  [Sufferings of the Qu]</a>|<a href='/New_Beehive/toc_vol2/toc2_397/'>2269 [Suffering
-  of the Qus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_123/'>515 [horrid Cruelties practiced by Papists
+  upon Protestants]</a>|<a href='/New_Beehive/toc/toc2_248/'>1273 [Sufferings of the
+  Qu]</a>|<a href='/New_Beehive/toc/toc2_397/'>2269 [Suffering of the Qus]</a>"
 topic: 
 first_letter: S
 xref: 

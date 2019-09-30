@@ -6,8 +6,7 @@ head:
 entry: Wonder
 topic: Wonder
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_271/'>1388 [Love of Women]</a>|<a href='/New_Beehive/toc_vol2/toc2_232/'>1192
-  [Effeminate]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1423 [Wonder]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_278/'>1423 [Wonder]</a>"
 see: 
 page: 
 add: 

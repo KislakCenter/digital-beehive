@@ -3,7 +3,7 @@ pid: index_4169
 volume: Volume 3
 image_number: '48'
 head: token
-entry: "<a href='/New_Beehive/toc_vol2/toc2_072/'>158 [Sign]</a>|4736 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_072/'>158 [Sign]</a>|4736 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 

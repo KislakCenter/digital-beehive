@@ -3,7 +3,7 @@ pid: index_3627
 volume: Volume 3
 image_number: '42'
 head: Self profit
-entry: "<a href='/New_Beehive/alpha4/alpha_0847/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>455
+entry: "<a href='/New_Beehive/alpha4/alpha_0847/'>a</a>|<a href='/New_Beehive/toc/toc2_113/'>455
   [Self-profit]</a>"
 topic: 
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_4405
 volume: Volume 3
 image_number: '50'
 head: unlimited
-entry: "<a href='/New_Beehive/toc_vol2/toc2_418/'>2416 [Unlimited]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_418/'>2416 [Unlimited]</a>"
 topic: 
 first_letter: U/V
 xref: 

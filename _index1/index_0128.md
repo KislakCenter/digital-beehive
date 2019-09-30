@@ -3,7 +3,7 @@ pid: index_0128
 volume: Volume 3
 image_number: '8'
 head: amnestia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>Entry; 697 [Forgetfulness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>Entry; 697 [Forgetfulness]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_0002
 volume: Volume 3
 image_number: '7'
 head: Abatemt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1326 [to debase]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1326 [to debase]</a>"
 topic: 
 first_letter: A
 xref: 

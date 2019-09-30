@@ -3,7 +3,7 @@ pid: index_4393
 volume: Volume 3
 image_number: '50'
 head: universalists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_066/'>91 [Universalists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_066/'>91 [Universalists]</a>"
 topic: 
 first_letter: U/V
 xref: 

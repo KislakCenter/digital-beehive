@@ -3,7 +3,7 @@ pid: index_3436
 volume: Volume 3
 image_number: '40'
 head: rival
-entry: "<a href='/New_Beehive/toc_vol2/toc2_423/'>4455 [Rival]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_423/'>4455 [Rival]</a>"
 topic: 
 first_letter: R
 xref: 

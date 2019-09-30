@@ -3,7 +3,7 @@ pid: index_3840
 volume: Volume 3
 image_number: '44'
 head: spie
-entry: 825 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_294/'>1502 [Spy]</a>
+entry: 825 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_294/'>1502 [Spy]</a>
 topic: 
 first_letter: S
 xref: 

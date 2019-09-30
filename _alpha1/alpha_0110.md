@@ -6,9 +6,7 @@ head:
 entry: Butter
 topic: Butter
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0352/'>funeral</a>|<a href='/New_Beehive/alpha2/alpha_0384/'>grave</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_166/'>894 [Burial]</a>|<a href='/New_Beehive/toc_vol2/toc2_351/'>1895
-  [Butter]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_351/'>1895 [Butter]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_1260
 volume: Volume 3
 image_number: '18'
 head: English man and woman
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1473 [England]</a>|4498 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1473 [England]</a>|4498 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

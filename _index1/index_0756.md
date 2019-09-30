@@ -3,7 +3,7 @@ pid: index_0756
 volume: Volume 3
 image_number: '13'
 head: comparison of hands
-entry: "<a href='/New_Beehive/toc_vol2/toc2_118/'>487 [Proof Try all]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_118/'>487 [Proof Try all]</a>"
 topic: 
 first_letter: C
 xref: 

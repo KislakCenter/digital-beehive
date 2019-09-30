@@ -3,7 +3,7 @@ pid: index_2140
 volume: Volume 3
 image_number: '27'
 head: Ivory
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1937 [Ivory]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1937 [Ivory]</a>"
 topic: 
 first_letter: I/J
 xref: 

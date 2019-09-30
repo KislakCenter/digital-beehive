@@ -3,7 +3,7 @@ pid: index_2094
 volume: Volume 3
 image_number: '26'
 head: invisible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>179 [Invisibility]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>179 [Invisibility]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,7 +3,7 @@ pid: index_1184
 volume: Volume 3
 image_number: '18'
 head: ear ringing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_241/'>1239 [Ringing in the Ear]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_241/'>1239 [Ringing in the Ear]</a>"
 topic: 
 first_letter: E
 xref: 

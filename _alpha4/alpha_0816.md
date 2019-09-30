@@ -6,8 +6,7 @@ head:
 entry: Sage
 topic: Sage
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0580/'>melancholy</a>|<a href='/New_Beehive/alpha3/alpha_0610/'>mourning</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_230/'>1181 [Mourning, Sadness]</a>|"
+xref: 
 see: 
 page: 
 add: 

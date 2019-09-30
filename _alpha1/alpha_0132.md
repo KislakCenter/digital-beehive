@@ -6,7 +6,7 @@ head:
 entry: Celibate
 topic: Celibate
 first_letter: C
-xref: "<a href='/New_Beehive/alpha5/alpha_0986/'>Virginity</a>|<a href='/New_Beehive/toc_vol2/toc2_254/'>1304
+xref: "<a href='/New_Beehive/alpha5/alpha_0986/'>Virginity</a>|<a href='/New_Beehive/toc/toc2_254/'>1304
   [Celibate]</a>"
 see: 
 page: 

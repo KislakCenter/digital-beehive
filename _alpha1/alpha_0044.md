@@ -6,7 +6,7 @@ head:
 entry: Approbation
 topic: Approbation
 first_letter: A
-xref: Confirm|<a href='/New_Beehive/toc_vol2/toc2_275/'>1407 [Approbation]</a>
+xref: Confirm|<a href='/New_Beehive/toc/toc2_275/'>1407 [Approbation]</a>
 see: 
 page: 
 add: 

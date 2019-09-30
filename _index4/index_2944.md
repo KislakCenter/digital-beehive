@@ -3,7 +3,7 @@ pid: index_2944
 volume: Volume 3
 image_number: '35'
 head: penal laws
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>551 [WORD_MISSING]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1950
+entry: "<a href='/New_Beehive/toc/toc2_128/'>551 [WORD_MISSING]</a>|<a href='/New_Beehive/toc/toc2_358/'>1950
   [Penal Laws]</a>"
 topic: 
 first_letter: P

@@ -6,9 +6,7 @@ head:
 entry: Brother
 topic: Brother
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_058/'>7 [Husband & Wife]</a>|Wedding|<a
-  href='/New_Beehive/toc_vol2/toc2_351/'>1893 [Be[tro]thing or Espousing]</a>|||Love
-  of Brethren"
+xref: Love of Brethren
 see: 
 page: 
 add: 

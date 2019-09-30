@@ -3,8 +3,8 @@ pid: index_2633
 volume: Volume 3
 image_number: '31'
 head: nakedness
-entry: "<a href='/New_Beehive/alpha3/alpha_0621/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>499
-  [Nackedness]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4479 [Nakedness]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0621/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>499
+  [Nackedness]</a>|<a href='/New_Beehive/toc/toc2_427/'>4479 [Nakedness]</a>"
 topic: 
 first_letter: N
 xref: 

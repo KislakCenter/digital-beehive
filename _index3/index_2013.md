@@ -3,7 +3,7 @@ pid: index_2013
 volume: Volume 3
 image_number: '25'
 head: indeed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_278/'>1422 [In (very) Deed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [In (very) Deed]</a>"
 topic: 
 first_letter: I/J
 xref: 

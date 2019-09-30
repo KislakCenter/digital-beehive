@@ -3,7 +3,7 @@ pid: index_3960
 volume: Volume 3
 image_number: '45'
 head: substance
-entry: 732 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_411/'>2365 [Substance]</a>
+entry: 732 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_411/'>2365 [Substance]</a>
 topic: 
 first_letter: S
 xref: 

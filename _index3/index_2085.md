@@ -3,7 +3,7 @@ pid: index_2085
 volume: Volume 3
 image_number: '26'
 head: intrigue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>645 [Intrigue]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>645 [Intrigue]</a>"
 topic: 
 first_letter: I/J
 xref: 

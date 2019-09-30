@@ -3,7 +3,7 @@ pid: index_0811
 volume: Volume 3
 image_number: '14'
 head: consistory
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>399 [Consistory]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>399 [Consistory]</a>"
 topic: 
 first_letter: C
 xref: 

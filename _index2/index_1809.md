@@ -3,7 +3,7 @@ pid: index_1809
 volume: Volume 3
 image_number: '23'
 head: herdsmen
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1929 [Shepherds]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
 topic: 
 first_letter: H
 xref: 

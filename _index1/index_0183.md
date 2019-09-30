@@ -3,7 +3,7 @@ pid: index_0183
 volume: Volume 3
 image_number: '8'
 head: apples. appletree
-entry: "<a href='/New_Beehive/alpha1/alpha_0043/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1940
+entry: "<a href='/New_Beehive/alpha1/alpha_0043/'>a</a>|<a href='/New_Beehive/toc/toc2_357/'>1940
   [Apple-Tree]</a>"
 topic: 
 first_letter: A

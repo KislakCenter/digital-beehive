@@ -3,7 +3,7 @@ pid: index_4250
 volume: Volume 3
 image_number: '48'
 head: troy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1709 [Troy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1709 [Troy]</a>"
 topic: 
 first_letter: T
 xref: 

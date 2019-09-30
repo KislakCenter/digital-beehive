@@ -3,7 +3,7 @@ pid: index_1773
 volume: Volume 3
 image_number: '23'
 head: hawk
-entry: "<a href='/New_Beehive/toc_vol2/toc2_264/'>1351 [a kite. a hawk]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_264/'>1351 [a kite. a hawk]</a>"
 topic: 
 first_letter: H
 xref: 

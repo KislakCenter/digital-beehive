@@ -3,7 +3,7 @@ pid: index_3522
 volume: Volume 3
 image_number: '41'
 head: satisfaction
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>547 [Satisfaction]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
 topic: 
 first_letter: S
 xref: 

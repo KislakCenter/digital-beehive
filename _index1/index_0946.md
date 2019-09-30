@@ -3,7 +3,7 @@ pid: index_0946
 volume: Volume 3
 image_number: '15'
 head: past danger
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>411 [Past all danger]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>411 [Past all danger]</a>"
 topic: 
 first_letter: D
 xref: 

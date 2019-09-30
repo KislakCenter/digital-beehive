@@ -3,7 +3,7 @@ pid: index_0203
 volume: Volume 3
 image_number: '8'
 head: arithmetick
-entry: "<a href='/New_Beehive/alpha1/alpha_0045/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>457
+entry: "<a href='/New_Beehive/alpha1/alpha_0045/'>a</a>|<a href='/New_Beehive/toc/toc2_114/'>457
   [Arithmetick]</a>"
 topic: 
 first_letter: A

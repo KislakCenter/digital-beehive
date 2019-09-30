@@ -7,7 +7,7 @@ entry: Learning
 topic: Learning
 first_letter: L
 xref: "<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a href='/New_Beehive/alpha4/alpha_0827/'>School</a>|<a
-  href='/New_Beehive/alpha4/alpha_0913/'>Student</a>|<a href='/New_Beehive/toc_vol2/toc2_079/'>212
+  href='/New_Beehive/alpha4/alpha_0913/'>Student</a>|<a href='/New_Beehive/toc/toc2_079/'>212
   [Learning]</a>"
 see: 
 page: 

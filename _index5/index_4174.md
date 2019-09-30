@@ -3,7 +3,7 @@ pid: index_4174
 volume: Volume 3
 image_number: '48'
 head: tongue
-entry: "<a href='/New_Beehive/alpha5/alpha_0951/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_231/'>1186
+entry: "<a href='/New_Beehive/alpha5/alpha_0951/'>a</a>|<a href='/New_Beehive/toc/toc2_231/'>1186
   [Tongue]</a>"
 topic: 
 first_letter: T

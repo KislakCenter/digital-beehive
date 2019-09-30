@@ -3,7 +3,7 @@ pid: index_1251
 volume: Volume 3
 image_number: '18'
 head: endowed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>440 [Qualities]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>440 [Qualities]</a>"
 topic: 
 first_letter: E
 xref: 

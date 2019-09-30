@@ -6,8 +6,7 @@ head:
 entry: Shadow
 topic: Shadow
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0878/'>Slavery</a>|Neger|<a href='/New_Beehive/alpha1/alpha_0199/'>Cruelty</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_145/'>641 [the Shadow]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_145/'>641 [the Shadow]</a>"
 see: 
 page: 
 add: 

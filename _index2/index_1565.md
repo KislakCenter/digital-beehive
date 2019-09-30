@@ -3,8 +3,8 @@ pid: index_1565
 volume: Volume 3
 image_number: '21'
 head: funeral Com[m]endations
-entry: "<a href='/New_Beehive/toc_vol2/toc2_208/'>1071 [Funeral Commendation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_264/'>1351 [Funeral Commendations]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_208/'>1071 [Funeral Commendation]</a>|<a href='/New_Beehive/toc/toc2_264/'>1351
+  [Funeral Commendations]</a>"
 topic: 
 first_letter: F
 xref: 

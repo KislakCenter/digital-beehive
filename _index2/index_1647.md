@@ -3,9 +3,9 @@ pid: index_1647
 volume: Volume 3
 image_number: '22'
 head: God's help
-entry: "<a href='/New_Beehive/alpha2/alpha_0367/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_072/'>160
-  [Gods help]</a>|<a href='/New_Beehive/toc_vol2/toc2_334/'>1698 [God's help]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_399/'>2277 [God's help]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0367/'>a</a>|<a href='/New_Beehive/toc/toc2_072/'>160
+  [Gods help]</a>|<a href='/New_Beehive/toc/toc2_334/'>1698 [God's help]</a>|<a href='/New_Beehive/toc/toc2_399/'>2277
+  [God's help]</a>"
 topic: 
 first_letter: G
 xref: 

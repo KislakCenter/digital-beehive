@@ -3,7 +3,7 @@ pid: index_0166
 volume: Volume 3
 image_number: '8'
 head: apocrypha
-entry: "<a href='/New_Beehive/alpha1/alpha_0037/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>959
+entry: "<a href='/New_Beehive/alpha1/alpha_0037/'>a</a>|<a href='/New_Beehive/toc/toc2_179/'>959
   [Apocryphis]</a>"
 topic: 
 first_letter: A

@@ -3,8 +3,8 @@ pid: index_0976
 volume: Volume 3
 image_number: '16'
 head: debt
-entry: "<a href='/New_Beehive/alpha1/alpha_0212/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1352
-  [Debt]</a>|<a href='/New_Beehive/toc_vol2/toc2_418/'>Entry 2418 [Debt]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0212/'>a</a>|<a href='/New_Beehive/toc/toc2_264/'>1352
+  [Debt]</a>|<a href='/New_Beehive/toc/toc2_418/'>Entry 2418 [Debt]</a>"
 topic: 
 first_letter: D
 xref: 

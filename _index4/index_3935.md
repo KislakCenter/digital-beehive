@@ -3,7 +3,7 @@ pid: index_3935
 volume: Volume 3
 image_number: '45'
 head: straw
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>409 [Straw]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>409 [Straw]</a>"
 topic: 
 first_letter: S
 xref: 

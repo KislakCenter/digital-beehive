@@ -3,7 +3,7 @@ pid: index_3363
 volume: Volume 3
 image_number: '39'
 head: to render
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>405 [Restitution]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_106/'>405 [Restitution]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_3021
 volume: Volume 3
 image_number: '35'
 head: pirate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>344 [A Pyrat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>344 [A Pyrat]</a>"
 topic: 
 first_letter: P
 xref: 

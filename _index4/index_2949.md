@@ -3,7 +3,7 @@ pid: index_2949
 volume: Volume 3
 image_number: '35'
 head: pen[n]ance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_113/'>450 [Pennance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_113/'>450 [Pennance]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Orphan
 topic: Orphan|Orphanage
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>221
-  [Order]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>276 [Original Sin]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_376/'>2105 [Original Tongues]</a>|<a href='/New_Beehive/alpha2/alpha_0386/'>Guardians</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0386/'>Guardians</a>"
 see: 
 page: 
 add: 

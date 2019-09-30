@@ -3,7 +3,7 @@ pid: index_4025
 volume: Volume 3
 image_number: '46'
 head: to swim
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>238 [Swim]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>238 [Swim]</a>"
 topic: 
 first_letter: S
 xref: 

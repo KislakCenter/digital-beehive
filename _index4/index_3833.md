@@ -3,7 +3,7 @@ pid: index_3833
 volume: Volume 3
 image_number: '44'
 head: spell or charm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_303/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,8 +3,8 @@ pid: index_0117
 volume: Volume 3
 image_number: '7'
 head: always
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>287 [Always]</a>|<a href='/New_Beehive/toc_vol2/toc2_099/'>356
-  [Allways]</a>|<a href='/New_Beehive/toc_vol2/toc2_202/'>1043 [Always]</a>|<a href='/New_Beehive/toc_vol2/toc2_433/'>4823
+entry: "<a href='/New_Beehive/toc/toc2_090/'>287 [Always]</a>|<a href='/New_Beehive/toc/toc2_099/'>356
+  [Allways]</a>|<a href='/New_Beehive/toc/toc2_202/'>1043 [Always]</a>|<a href='/New_Beehive/toc/toc2_433/'>4823
   [Always]</a>"
 topic: 
 first_letter: A

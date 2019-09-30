@@ -3,7 +3,7 @@ pid: index_2338
 volume: Volume 3
 image_number: '29'
 head: lotteries
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>89 [Lotteries (Glückshafen)]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_065/'>89 [Lotteries (Glückshafen)]</a>"
 topic: 
 first_letter: L
 xref: 

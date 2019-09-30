@@ -3,7 +3,7 @@ pid: index_3875
 volume: Volume 3
 image_number: '44'
 head: stair
-entry: "<a href='/New_Beehive/alpha4/alpha_0899/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1206
+entry: "<a href='/New_Beehive/alpha4/alpha_0899/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1206
   [Ladder]</a>"
 topic: 
 first_letter: S

@@ -6,7 +6,7 @@ head:
 entry: Buffoonry
 topic: Buffoonry
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0446/'>Jesting</a>|<a href='/New_Beehive/toc_vol2/toc2_281/'>1436
+xref: "<a href='/New_Beehive/alpha3/alpha_0446/'>Jesting</a>|<a href='/New_Beehive/toc/toc2_281/'>1436
   [Buffoons]</a>"
 see: 
 page: 

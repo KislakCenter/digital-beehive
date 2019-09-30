@@ -7,7 +7,7 @@ entry: Baptism
 topic: Baptism
 first_letter: B
 xref: "<a href='/New_Beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/New_Beehive/alpha5/alpha_1012/'>Washing</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_107/'>413 [Infant-baptism]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>273
+  href='/New_Beehive/toc/toc2_107/'>413 [Infant-baptism]</a>|<a href='/New_Beehive/toc/toc2_088/'>273
   [Baptism]</a>"
 see: 
 page: 

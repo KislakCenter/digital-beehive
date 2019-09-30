@@ -3,7 +3,7 @@ pid: index_1320
 volume: Volume 3
 image_number: '19'
 head: evil
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1901 [Evil]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1901 [Evil]</a>"
 topic: 
 first_letter: E
 xref: 

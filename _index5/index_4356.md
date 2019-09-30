@@ -3,9 +3,9 @@ pid: index_4356
 volume: Volume 3
 image_number: '50'
 head: unanimity
-entry: "<a href='/New_Beehive/alpha5/alpha_0989/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>312
-  [unanimity]</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>962 [Unanimity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_308/'>1569 [Unity]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0989/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>312
+  [unanimity]</a>|<a href='/New_Beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a href='/New_Beehive/toc/toc2_308/'>1569
+  [Unity]</a>"
 topic: 
 first_letter: U/V
 xref: 

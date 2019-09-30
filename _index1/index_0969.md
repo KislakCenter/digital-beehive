@@ -3,9 +3,9 @@ pid: index_0969
 volume: Volume 3
 image_number: '15'
 head: death of good men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>626 [the Death of good & holy men]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_360/'>1963 [the Death of good & great men]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_446/'>4914 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>626 [the Death of good & holy men]</a>|<a
+  href='/New_Beehive/toc/toc2_360/'>1963 [the Death of good & great men]</a>|<a href='/New_Beehive/toc/toc2_446/'>4914
+  [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: D
 xref: 

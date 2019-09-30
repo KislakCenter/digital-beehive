@@ -3,7 +3,7 @@ pid: index_0194
 volume: Volume 3
 image_number: '8'
 head: arabia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_268/'>1375 [Arabians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_268/'>1375 [Arabians]</a>"
 topic: 
 first_letter: A
 xref: 

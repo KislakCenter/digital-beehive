@@ -3,7 +3,7 @@ pid: index_1760
 volume: Volume 3
 image_number: '23'
 head: harp
-entry: "<a href='/New_Beehive/toc_vol2/toc2_348/'>1812 [Musick]</a>|<a href='/New_Beehive/toc_vol2/toc2_408/'>2341
+entry: "<a href='/New_Beehive/toc/toc2_348/'>1812 [Musick]</a>|<a href='/New_Beehive/toc/toc2_408/'>2341
   [Harp]</a>"
 topic: 
 first_letter: H

@@ -3,7 +3,7 @@ pid: index_4011
 volume: Volume 3
 image_number: '46'
 head: suspition
-entry: "<a href='/New_Beehive/alpha4/alpha_0924/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_249/'>1277
+entry: "<a href='/New_Beehive/alpha4/alpha_0924/'>a</a>|<a href='/New_Beehive/toc/toc2_249/'>1277
   [Suspition]</a>"
 topic: 
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_4521
 volume: Volume 3
 image_number: '52'
 head: wen
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>681 [Wen]</a>|<a href='/New_Beehive/toc_vol2/toc2_380/'>2146
+entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Wen]</a>|<a href='/New_Beehive/toc/toc2_380/'>2146
   [Wen]</a>"
 topic: 
 first_letter: W

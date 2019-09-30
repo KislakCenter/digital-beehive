@@ -3,7 +3,7 @@ pid: index_2053
 volume: Volume 3
 image_number: '26'
 head: Innovations
-entry: "<a href='/New_Beehive/toc_vol2/toc2_124/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_124/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,8 +3,8 @@ pid: index_3009
 volume: Volume 3
 image_number: '35'
 head: to pill
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>659 [to shale, decorticaze & tear,
-  to shell]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [to shale, decorticaze & tear, to
+  shell]</a>"
 topic: 
 first_letter: P
 xref: 

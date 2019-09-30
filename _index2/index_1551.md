@@ -3,7 +3,7 @@ pid: index_1551
 volume: Volume 3
 image_number: '21'
 head: frog
-entry: "<a href='/New_Beehive/alpha2/alpha_0349/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_389/'>2228
+entry: "<a href='/New_Beehive/alpha2/alpha_0349/'>a</a>|<a href='/New_Beehive/toc/toc2_389/'>2228
   [Frog & Toad]</a>"
 topic: 
 first_letter: F

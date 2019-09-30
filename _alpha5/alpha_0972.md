@@ -7,7 +7,7 @@ entry: Truth
 topic: Truth
 first_letter: T
 xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|<a href='/New_Beehive/alpha3/alpha_0534/'>Lie</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_244/'>1253 [Truth]</a>"
+  href='/New_Beehive/toc/toc2_244/'>1253 [Truth]</a>"
 see: 
 page: 
 add: 

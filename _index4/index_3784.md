@@ -3,7 +3,7 @@ pid: index_3784
 volume: Volume 3
 image_number: '43'
 head: soil
-entry: "<a href='/New_Beehive/toc_vol2/toc2_110/'>432 [Land]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_110/'>432 [Land]</a>"
 topic: 
 first_letter: S
 xref: 

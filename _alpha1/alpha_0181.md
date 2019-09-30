@@ -6,8 +6,7 @@ head:
 entry: Council
 topic: Council
 first_letter: C
-xref: "<a href='/New_Beehive/toc_vol2/toc2_067/'>103 [Sordidness]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>190
-  [Covetousness]</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1016 [Councils]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_197/'>1016 [Councils]</a>"
 see: 
 page: 
 add: 

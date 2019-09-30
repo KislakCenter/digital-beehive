@@ -6,7 +6,7 @@ head:
 entry: Superstition
 topic: Superstition
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will Worship</a>|<a href='/New_Beehive/toc_vol2/toc2_176/'>946
+xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will Worship</a>|<a href='/New_Beehive/toc/toc2_176/'>946
   [Superstition]</a>"
 see: 
 page: 

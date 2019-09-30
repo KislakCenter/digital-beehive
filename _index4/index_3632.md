@@ -3,7 +3,7 @@ pid: index_3632
 volume: Volume 3
 image_number: '42'
 head: Selling. to sell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>604 [to Sell]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_138/'>604 [to Sell]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Baldness
 topic: Baldness
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0807/'>Rome</a>|<a href='/New_Beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_177/'>952 [Babel]</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>222
-  [Shrovetide]</a>|<a href='/New_Beehive/toc_vol2/toc2_434/'>4831 [WORD_ILLEGIBLE]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_434/'>4831 [WORD_ILLEGIBLE]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_1975
 volume: Volume 3
 image_number: '25'
 head: impostumes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>597 [Impostumes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>597 [Impostumes]</a>"
 topic: 
 first_letter: I/J
 xref: 

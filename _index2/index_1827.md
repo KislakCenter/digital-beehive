@@ -3,7 +3,7 @@ pid: index_1827
 volume: Volume 3
 image_number: '24'
 head: hickock
-entry: "<a href='/New_Beehive/toc_vol2/toc2_236/'>1211 [Belchings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_236/'>1211 [Belchings]</a>"
 topic: 
 first_letter: H
 xref: 

@@ -3,8 +3,8 @@ pid: index_2225
 volume: Volume 3
 image_number: '28'
 head: lawsuit
-entry: 790 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_282/'>1445 [Law Suit]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_423/'>4451 [WORD_MISSING]</a>
+entry: 790 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_282/'>1445 [Law Suit]</a>|<a
+  href='/New_Beehive/toc/toc2_423/'>4451 [WORD_MISSING]</a>
 topic: 
 first_letter: L
 xref: 

@@ -3,8 +3,8 @@ pid: index_3413
 volume: Volume 3
 image_number: '40'
 head: reward
-entry: "<a href='/New_Beehive/alpha4/alpha_0797/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>431
-  [Reward]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4480 [Reward]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0797/'>a</a>|<a href='/New_Beehive/toc/toc2_110/'>431
+  [Reward]</a>|<a href='/New_Beehive/toc/toc2_427/'>4480 [Reward]</a>"
 topic: 
 first_letter: R
 xref: 

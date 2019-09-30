@@ -6,9 +6,7 @@ head:
 entry: Mind
 topic: Mind
 first_letter: M
-xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1164
-  [Metal]</a>||<a href='/New_Beehive/alpha3/alpha_0578/'>Mediocrity</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1434
-  [Milk]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1620 [Mind]</a>
+xref: "<a href='/New_Beehive/toc/toc2_318/'>1620 [Mind]</a>"
 see: 
 page: 
 add: 

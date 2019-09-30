@@ -3,7 +3,7 @@ pid: index_2521
 volume: Volume 3
 image_number: '30'
 head: minerva
-entry: "<a href='/New_Beehive/toc_vol2/toc2_197/'>1019 [Spinning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_197/'>1019 [Spinning]</a>"
 topic: 
 first_letter: M
 xref: 

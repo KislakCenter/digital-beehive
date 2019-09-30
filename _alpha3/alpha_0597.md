@@ -6,9 +6,7 @@ head:
 entry: Mole
 topic: Mole
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/New_Beehive/alpha1/alpha_0240/'>Discretness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_281/'>1437 [Modesty]</a>|<a href='/New_Beehive/toc_vol2/toc2_314/'>1596
-  [Pore]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_314/'>1596 [Pore]</a>"
 see: 
 page: 
 add: 

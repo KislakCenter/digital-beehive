@@ -6,7 +6,7 @@ head:
 entry: Treachery
 topic: Treachery
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0309/'>faithfullness</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>933
+xref: "<a href='/New_Beehive/alpha2/alpha_0309/'>faithfullness</a>|<a href='/New_Beehive/toc/toc2_174/'>933
   [Treachery]</a>"
 see: 
 page: 

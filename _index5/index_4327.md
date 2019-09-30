@@ -3,8 +3,8 @@ pid: index_4327
 volume: Volume 3
 image_number: '49'
 head: victuals
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>359 [Meat]</a>|<a href='/New_Beehive/toc_vol2/toc2_155/'>696
-  [Dainty meats]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2156 [Meat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>359 [Meat]</a>|<a href='/New_Beehive/toc/toc2_155/'>696
+  [Dainty meats]</a>|<a href='/New_Beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: U/V
 xref: 

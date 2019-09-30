@@ -3,7 +3,7 @@ pid: index_0865
 volume: Volume 3
 image_number: '15'
 head: cosmographical books
-entry: "<a href='/New_Beehive/toc_vol2/toc2_186/'>1005 [Self will]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_186/'>1005 [Self will]</a>"
 topic: 
 first_letter: C
 xref: 

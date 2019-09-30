@@ -6,7 +6,7 @@ head:
 entry: University
 topic: University
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha4/alpha_0827/'>Schoole</a>|Professors|<a href='/New_Beehive/toc_vol2/toc2_168/'>902
+xref: "<a href='/New_Beehive/alpha4/alpha_0827/'>Schoole</a>|Professors|<a href='/New_Beehive/toc/toc2_168/'>902
   [University]</a>"
 see: 
 page: 

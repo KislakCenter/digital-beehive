@@ -3,7 +3,7 @@ pid: index_0386
 volume: Volume 3
 image_number: '10'
 head: blanc verse
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1585 [Verses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>"
 topic: 
 first_letter: B
 xref: 

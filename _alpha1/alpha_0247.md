@@ -6,9 +6,7 @@ head:
 entry: Theologia ethnicorum
 topic: Theologia ethnicorum
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/New_Beehive/alpha4/alpha_0924/'>Suspition</a>|<a
-  href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|<a href='/New_Beehive/toc_vol2/toc2_268/'>1371
-  [WORD_MISSING]</a>|"
+xref: 
 see: 
 page: 
 add: 

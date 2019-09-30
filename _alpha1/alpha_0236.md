@@ -6,7 +6,7 @@ head:
 entry: Dirt
 topic: Dirt
 first_letter: D
-xref: Tares|<a href='/New_Beehive/toc_vol2/toc2_093/'>314 [Dirt]</a>
+xref: Tares|<a href='/New_Beehive/toc/toc2_093/'>314 [Dirt]</a>
 see: 
 page: 
 add: 

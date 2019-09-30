@@ -3,7 +3,7 @@ pid: index_0364
 volume: Volume 3
 image_number: '10'
 head: betony
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1531 [Betonica]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1531 [Betonica]</a>"
 topic: 
 first_letter: B
 xref: 

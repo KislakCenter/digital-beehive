@@ -3,7 +3,7 @@ pid: index_1676
 volume: Volume 3
 image_number: '22'
 head: governmt
-entry: "<a href='/New_Beehive/alpha2/alpha_0375/'>a</a>|752 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_344/'>1783
+entry: "<a href='/New_Beehive/alpha2/alpha_0375/'>a</a>|752 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_344/'>1783
   [Governments]</a>"
 topic: 
 first_letter: G

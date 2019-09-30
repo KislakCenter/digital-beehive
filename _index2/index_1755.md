@@ -3,7 +3,7 @@ pid: index_1755
 volume: Volume 3
 image_number: '23'
 head: hardning
-entry: "<a href='/New_Beehive/alpha2/alpha_0394/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2374
+entry: "<a href='/New_Beehive/alpha2/alpha_0394/'>a</a>|<a href='/New_Beehive/toc/toc2_412/'>2374
   [Hardning]</a>"
 topic: 
 first_letter: H

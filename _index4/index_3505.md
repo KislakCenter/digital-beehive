@@ -3,8 +3,8 @@ pid: index_3505
 volume: Volume 3
 image_number: '41'
 head: salt
-entry: "<a href='/New_Beehive/alpha4/alpha_0820/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_322/'>1640
-  [Salt]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1946 [Salt]</a>|<a href='/New_Beehive/toc_vol2/toc2_378/'>2124
+entry: "<a href='/New_Beehive/alpha4/alpha_0820/'>a</a>|<a href='/New_Beehive/toc/toc2_322/'>1640
+  [Salt]</a>|<a href='/New_Beehive/toc/toc2_358/'>1946 [Salt]</a>|<a href='/New_Beehive/toc/toc2_378/'>2124
   [Salt]</a>"
 topic: 
 first_letter: S

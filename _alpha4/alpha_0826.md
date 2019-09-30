@@ -6,7 +6,7 @@ head:
 entry: Scandal
 topic: Scandal
 first_letter: S
-xref: French Pocks|<a href='/New_Beehive/toc_vol2/toc2_233/'>1199 [Itch]</a>|
+xref: 4658 [PAGE_MISSING]
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2659
 volume: Volume 3
 image_number: '32'
 head: naturaliza[ti]on
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>297 [Naturalization]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>297 [Naturalization]</a>"
 topic: 
 first_letter: N
 xref: 

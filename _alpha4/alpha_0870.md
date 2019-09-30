@@ -7,7 +7,7 @@ entry: Sin
 topic: Sin
 first_letter: S
 xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/alpha3/alpha_0556/'>love
-  of Sin</a>|<a href='/New_Beehive/alpha5/alpha_1022/'>Wickedness</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>322
+  of Sin</a>|<a href='/New_Beehive/alpha5/alpha_1022/'>Wickedness</a>|<a href='/New_Beehive/toc/toc2_094/'>322
   [Sin]</a>"
 see: 
 page: 

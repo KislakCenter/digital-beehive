@@ -6,7 +6,7 @@ head:
 entry: Will-Worship
 topic: Will-Worship
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0921/'>Superstition</a>|<a href='/New_Beehive/toc_vol2/toc2_119/'>490
+xref: "<a href='/New_Beehive/alpha4/alpha_0921/'>Superstition</a>|<a href='/New_Beehive/toc/toc2_119/'>490
   [Will-Worship]</a>"
 see: 
 page: 

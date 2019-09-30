@@ -3,7 +3,7 @@ pid: index_2898
 volume: Volume 3
 image_number: '34'
 head: 'partakers of oth: Sins'
-entry: "<a href='/New_Beehive/toc_vol2/toc2_417/'>2415 [Partake not with the wicked]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
 topic: 
 first_letter: P
 xref: 

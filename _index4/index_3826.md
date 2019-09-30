@@ -3,7 +3,7 @@ pid: index_3826
 volume: Volume 3
 image_number: '44'
 head: species
-entry: "<a href='/New_Beehive/toc_vol2/toc2_370/'>2041 [Sort]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_370/'>2041 [Sort]</a>"
 topic: 
 first_letter: S
 xref: 

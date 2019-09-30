@@ -3,7 +3,7 @@ pid: index_0314
 volume: Volume 3
 image_number: '9'
 head: a pair of beads
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>305 [A pair of Beads]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>305 [A pair of Beads]</a>"
 topic: 
 first_letter: B
 xref: 

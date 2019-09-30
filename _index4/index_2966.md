@@ -3,7 +3,7 @@ pid: index_2966
 volume: Volume 3
 image_number: '35'
 head: perplexity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>661 [Perplexity]</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1354
+entry: "<a href='/New_Beehive/toc/toc2_148/'>661 [Perplexity]</a>|<a href='/New_Beehive/toc/toc2_264/'>1354
   [Perplexity]</a>"
 topic: 
 first_letter: P

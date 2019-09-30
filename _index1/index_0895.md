@@ -3,7 +3,7 @@ pid: index_0895
 volume: Volume 3
 image_number: '15'
 head: cramp
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>597 [Surfeits]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>597 [Surfeits]</a>"
 topic: 
 first_letter: C
 xref: 

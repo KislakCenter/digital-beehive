@@ -3,7 +3,7 @@ pid: index_1598
 volume: Volume 3
 image_number: '22'
 head: gentleness
-entry: "<a href='/New_Beehive/alpha2/alpha_0356/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1206
+entry: "<a href='/New_Beehive/alpha2/alpha_0356/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1206
   [Gentleness]</a>|4683 [PAGE_MISSING]"
 topic: 
 first_letter: G

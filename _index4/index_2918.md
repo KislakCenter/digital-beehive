@@ -3,9 +3,9 @@ pid: index_2918
 volume: Volume 3
 image_number: '34'
 head: patience
-entry: "<a href='/New_Beehive/alpha4/alpha_0684/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>509
-  [Patience]</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1433 [Patience]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_335/'>1701 [Patience]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0684/'>a</a>|<a href='/New_Beehive/toc/toc2_122/'>509
+  [Patience]</a>|<a href='/New_Beehive/toc/toc2_280/'>1433 [Patience]</a>|<a href='/New_Beehive/toc/toc2_335/'>1701
+  [Patience]</a>"
 topic: 
 first_letter: P
 xref: 

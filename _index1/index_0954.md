@@ -3,7 +3,7 @@ pid: index_0954
 volume: Volume 3
 image_number: '15'
 head: day
-entry: "<a href='/New_Beehive/alpha1/alpha_0208/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1447
+entry: "<a href='/New_Beehive/alpha1/alpha_0208/'>a</a>|<a href='/New_Beehive/toc/toc2_283/'>1447
   [Day]</a>"
 topic: 
 first_letter: D

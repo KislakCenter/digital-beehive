@@ -3,7 +3,7 @@ pid: index_3996
 volume: Volume 3
 image_number: '46'
 head: I am sure
-entry: "<a href='/New_Beehive/toc_vol2/toc2_387/'>2213 [I am Sure]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_387/'>2213 [I am Sure]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_1130
 volume: Volume 3
 image_number: '17'
 head: to domineer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_235/'>1209 [To Domineer]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_235/'>1209 [To Domineer]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_1219
 volume: Volume 3
 image_number: '18'
 head: elder
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>642 [Ignorance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>642 [Ignorance]</a>"
 topic: 
 first_letter: E
 xref: 

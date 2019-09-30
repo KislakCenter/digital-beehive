@@ -6,7 +6,7 @@ head:
 entry: Blood
 topic: Blood
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_178/'>956 [Blood]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_178/'>956 [Blood]</a>"
 see: 
 page: 
 add: 

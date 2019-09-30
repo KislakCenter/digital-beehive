@@ -7,7 +7,7 @@ entry: Physician
 topic: Physician
 first_letter: P
 xref: "<a href='/New_Beehive/alpha3/alpha_0577/'>medicine</a>|<a href='/New_Beehive/alpha3/alpha_0609/'>Montebank</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_150/'>671 [Physician]</a>"
+  href='/New_Beehive/toc/toc2_150/'>671 [Physician]</a>"
 see: 
 page: 
 add: 

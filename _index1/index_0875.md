@@ -3,7 +3,7 @@ pid: index_0875
 volume: Volume 3
 image_number: '15'
 head: counterfeit books, physick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1336 [Counterfeit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1336 [Counterfeit]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Dream
 topic: Dream
 first_letter: D
-xref: Perplexity|Pinch|Scepticsm|<a href='/New_Beehive/toc_vol2/toc2_156/'>705 [Doubtfulness]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_268/'>1374 [Dream]</a>
+xref: "<a href='/New_Beehive/toc/toc2_268/'>1374 [Dream]</a>"
 see: 
 page: 
 add: 

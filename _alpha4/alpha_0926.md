@@ -6,9 +6,7 @@ head:
 entry: Sweat
 topic: Sweat
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0245/'>distrust</a>|<a href='/New_Beehive/alpha3/alpha_0445/'>Jealousy</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_249/'>1277 [Suspition]</a>||<a href='/New_Beehive/toc_vol2/toc2_339/'>1748
-  [Sweat]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_339/'>1748 [Sweat]</a>"
 see: 
 page: 
 add: 

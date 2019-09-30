@@ -3,7 +3,7 @@ pid: index_3139
 volume: Volume 3
 image_number: '37'
 head: to press souldiers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>490 [Will-worship]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_119/'>490 [Will-worship]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_1531
 volume: Volume 3
 image_number: '21'
 head: fragments
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>716 [Rest]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>716 [Rest]</a>"
 topic: 
 first_letter: F
 xref: 

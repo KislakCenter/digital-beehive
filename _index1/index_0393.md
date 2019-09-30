@@ -3,7 +3,7 @@ pid: index_0393
 volume: Volume 3
 image_number: '10'
 head: blood
-entry: "<a href='/New_Beehive/alpha1/alpha_0087/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>956
+entry: "<a href='/New_Beehive/alpha1/alpha_0087/'>a</a>|<a href='/New_Beehive/toc/toc2_178/'>956
   [Blood]</a>"
 topic: 
 first_letter: B

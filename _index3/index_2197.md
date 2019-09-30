@@ -3,7 +3,7 @@ pid: index_2197
 volume: Volume 3
 image_number: '27'
 head: language
-entry: "<a href='/New_Beehive/alpha3/alpha_0507/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_276/'>1413
+entry: "<a href='/New_Beehive/alpha3/alpha_0507/'>a</a>|<a href='/New_Beehive/toc/toc2_276/'>1413
   [Languages]</a>|4755 [PAGE_MISSING]"
 topic: 
 first_letter: L

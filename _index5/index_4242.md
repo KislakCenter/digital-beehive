@@ -3,8 +3,8 @@ pid: index_4242
 volume: Volume 3
 image_number: '48'
 head: trinity
-entry: "<a href='/New_Beehive/alpha5/alpha_0970/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>639
-  [Trinity]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1450 [Trinity]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0970/'>a</a>|<a href='/New_Beehive/toc/toc2_144/'>639
+  [Trinity]</a>|<a href='/New_Beehive/toc/toc2_283/'>1450 [Trinity]</a>"
 topic: 
 first_letter: T
 xref: 

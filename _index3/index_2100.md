@@ -3,7 +3,7 @@ pid: index_2100
 volume: Volume 3
 image_number: '26'
 head: Job
-entry: "<a href='/New_Beehive/toc_vol2/toc2_295/'>1507 [Job]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_295/'>1507 [Job]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,7 +3,7 @@ pid: index_0641
 volume: Volume 3
 image_number: '12'
 head: chocolate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_263/'>1346 [Coffee & Tea; Chocolate]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Coffee & Tea; Chocolate]</a>"
 topic: 
 first_letter: C
 xref: 

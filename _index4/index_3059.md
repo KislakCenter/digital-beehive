@@ -3,8 +3,8 @@ pid: index_3059
 volume: Volume 3
 image_number: '36'
 head: poesie
-entry: "<a href='/New_Beehive/alpha4/alpha_0709/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>454
-  [Poesie]</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1586 [Poesy]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0709/'>a</a>|<a href='/New_Beehive/toc/toc2_113/'>454
+  [Poesie]</a>|<a href='/New_Beehive/toc/toc2_312/'>1586 [Poesy]</a>"
 topic: 
 first_letter: P
 xref: 

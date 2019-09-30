@@ -6,7 +6,7 @@ head:
 entry: Logick
 topic: Logick
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0244/'>disputation</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>879
+xref: "<a href='/New_Beehive/alpha1/alpha_0244/'>disputation</a>|<a href='/New_Beehive/toc/toc2_163/'>879
   [Logick]</a>"
 see: 
 page: 

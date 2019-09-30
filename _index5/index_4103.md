@@ -3,7 +3,7 @@ pid: index_4103
 volume: Volume 3
 image_number: '47'
 head: testimonial
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1007 [Witnesses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1007 [Witnesses]</a>"
 topic: 
 first_letter: T
 xref: 

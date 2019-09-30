@@ -6,8 +6,7 @@ head:
 entry: Propriety
 topic: Propriety
 first_letter: P
-xref: "<a href='/New_Beehive/toc_vol2/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc_vol2/toc2_185/'>1000
-  [Prophets]</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2012 [Propriety]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_367/'>2012 [Propriety]</a>"
 see: 
 page: 
 add: 

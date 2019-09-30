@@ -3,7 +3,7 @@ pid: index_3217
 volume: Volume 3
 image_number: '37'
 head: to prune
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>659 [Purge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [Purge]</a>"
 topic: 
 first_letter: P
 xref: 

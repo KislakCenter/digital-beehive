@@ -6,7 +6,7 @@ head:
 entry: Zeal
 topic: Zeal
 first_letter: Z
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|Lukewarmness|<a href='/New_Beehive/toc_vol2/toc2_074/'>180
+xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|Lukewarmness|<a href='/New_Beehive/toc/toc2_074/'>180
   [Zeal]</a>"
 see: 
 page: 

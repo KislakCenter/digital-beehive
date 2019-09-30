@@ -6,9 +6,7 @@ head:
 entry: Washing of feet
 topic: Washing of feet
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/New_Beehive/alpha4/alpha_0755/'>Purity</a>|<a
-  href='/New_Beehive/alpha3/alpha_0612/'>mouth</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1061
-  [Washing]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_206/'>1061 [Washing]</a>"
 see: 
 page: 
 add: 

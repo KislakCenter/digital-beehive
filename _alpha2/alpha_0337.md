@@ -6,7 +6,7 @@ head:
 entry: Forbearance
 topic: Forbearance
 first_letter: F
-xref: "<a href='/New_Beehive/alpha3/alpha_0544/'>Longsufferance</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1669
+xref: "<a href='/New_Beehive/alpha3/alpha_0544/'>Longsufferance</a>|<a href='/New_Beehive/toc/toc2_328/'>1669
   [Langer]</a>"
 see: 
 page: 

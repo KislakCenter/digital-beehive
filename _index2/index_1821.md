@@ -3,7 +3,7 @@ pid: index_1821
 volume: Volume 3
 image_number: '24'
 head: Herr
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1794 [Mr. Hales]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1794 [Mr. Hales]</a>"
 topic: 
 first_letter: H
 xref: 

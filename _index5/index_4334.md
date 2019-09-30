@@ -3,7 +3,7 @@ pid: index_4334
 volume: Volume 3
 image_number: '49'
 head: vineyard
-entry: "<a href='/New_Beehive/alpha5/alpha_0984/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_364/'>1990
+entry: "<a href='/New_Beehive/alpha5/alpha_0984/'>a</a>|<a href='/New_Beehive/toc/toc2_364/'>1990
   [Vin[e]yards]</a>"
 topic: 
 first_letter: U/V

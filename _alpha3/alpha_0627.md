@@ -7,7 +7,7 @@ entry: Nature
 topic: Nature
 first_letter: N
 xref: "<a href='/New_Beehive/alpha4/alpha_0715/'>Poverty</a>|<a href='/New_Beehive/alpha1/alpha_0203/'>Custom</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_327/'>1663 [Nature]</a>"
+  href='/New_Beehive/toc/toc2_327/'>1663 [Nature]</a>"
 see: 
 page: 
 add: 

@@ -6,7 +6,7 @@ head:
 entry: Member
 topic: Member
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0090/'>body</a>|<a href='/New_Beehive/toc_vol2/toc2_182/'>979
+xref: "<a href='/New_Beehive/alpha1/alpha_0090/'>body</a>|<a href='/New_Beehive/toc/toc2_182/'>979
   [Members]</a>"
 see: 
 page: 

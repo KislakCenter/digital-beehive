@@ -3,7 +3,7 @@ pid: index_3094
 volume: Volume 3
 image_number: '36'
 head: pottage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>540 [Pottages]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>540 [Pottages]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -7,7 +7,7 @@ entry: Grandeur
 topic: Grandeur
 first_letter: G
 xref: "<a href='/New_Beehive/alpha4/alpha_0725/'>Pride</a>|<a href='/New_Beehive/alpha2/alpha_0419/'>highness</a>|<a
-  href='/New_Beehive/alpha3/alpha_0562/'>magnanimity</a>|<a href='/New_Beehive/toc_vol2/toc2_164/'>883
+  href='/New_Beehive/alpha3/alpha_0562/'>magnanimity</a>|<a href='/New_Beehive/toc/toc2_164/'>883
   [highness]</a>"
 see: 
 page: 

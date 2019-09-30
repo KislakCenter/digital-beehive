@@ -3,8 +3,7 @@ pid: index_2524
 volume: Volume 3
 image_number: '30'
 head: ministers of State
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>174 [Ministers of State]</a>|1843
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>174 [Ministers of State]</a>|1843 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

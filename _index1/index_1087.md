@@ -3,7 +3,7 @@ pid: index_1087
 volume: Volume 3
 image_number: '17'
 head: disorder
-entry: "<a href='/New_Beehive/alpha1/alpha_0243/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>929
+entry: "<a href='/New_Beehive/alpha1/alpha_0243/'>a</a>|<a href='/New_Beehive/toc/toc2_173/'>929
   [Disorder]</a>"
 topic: 
 first_letter: D

@@ -3,7 +3,7 @@ pid: index_3034
 volume: Volume 3
 image_number: '35'
 head: planets
-entry: "<a href='/New_Beehive/alpha4/alpha_0705/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_276/'>1414
+entry: "<a href='/New_Beehive/alpha4/alpha_0705/'>a</a>|<a href='/New_Beehive/toc/toc2_276/'>1414
   [Seven Planets]</a>|1874 [PAGE_MISSING]"
 topic: 
 first_letter: P

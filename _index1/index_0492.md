@@ -3,7 +3,7 @@ pid: index_0492
 volume: Volume 3
 image_number: '11'
 head: butchering
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>350 [Butchering]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>350 [Butchering]</a>"
 topic: 
 first_letter: B
 xref: 

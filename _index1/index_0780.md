@@ -3,7 +3,7 @@ pid: index_0780
 volume: Volume 3
 image_number: '14'
 head: condemnation of ones fault
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>418 [Renouncing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>418 [Renouncing]</a>"
 topic: 
 first_letter: C
 xref: 

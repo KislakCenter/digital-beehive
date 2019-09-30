@@ -3,7 +3,7 @@ pid: index_0404
 volume: Volume 3
 image_number: '10'
 head: bodily shapes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_289/'>1476 [Bodily Shape]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_289/'>1476 [Bodily Shape]</a>"
 topic: 
 first_letter: B
 xref: 

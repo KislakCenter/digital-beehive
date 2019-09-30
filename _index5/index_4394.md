@@ -3,7 +3,7 @@ pid: index_4394
 volume: Volume 3
 image_number: '50'
 head: universities
-entry: "<a href='/New_Beehive/alpha5/alpha_0994/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_247/'>1270
+entry: "<a href='/New_Beehive/alpha5/alpha_0994/'>a</a>|<a href='/New_Beehive/toc/toc2_247/'>1270
   [Universities]</a>"
 topic: 
 first_letter: U/V

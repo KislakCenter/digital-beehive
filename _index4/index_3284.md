@@ -3,7 +3,7 @@ pid: index_3284
 volume: Volume 3
 image_number: '38'
 head: rain
-entry: "<a href='/New_Beehive/alpha4/alpha_0764/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1588</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0764/'>a</a>|<a href='/New_Beehive/toc/toc2_312/'>1588</a>"
 topic: 
 first_letter: R
 xref: 

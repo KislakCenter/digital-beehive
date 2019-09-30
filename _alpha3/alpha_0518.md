@@ -6,7 +6,7 @@ head:
 entry: Laughter
 topic: Laughter
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>|<a href='/New_Beehive/toc_vol2/toc2_244/'>1254
+xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>|<a href='/New_Beehive/toc/toc2_244/'>1254
   [Laughter]</a>"
 see: 
 page: 

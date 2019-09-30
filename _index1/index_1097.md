@@ -3,7 +3,7 @@ pid: index_1097
 volume: Volume 3
 image_number: '17'
 head: dissenters
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>492 [Dissenters]</a>|<a href='/New_Beehive/toc_vol2/toc2_382/'>2169
+entry: "<a href='/New_Beehive/toc/toc2_119/'>492 [Dissenters]</a>|<a href='/New_Beehive/toc/toc2_382/'>2169
   [Dissenters]</a>"
 topic: 
 first_letter: D

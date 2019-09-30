@@ -3,7 +3,7 @@ pid: index_1659
 volume: Volume 3
 image_number: '22'
 head: God's vengeange
-entry: "<a href='/New_Beehive/toc_vol2/toc2_115/'>466 [Gods Vengeance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_115/'>466 [Gods Vengeance]</a>"
 topic: 
 first_letter: G
 xref: 

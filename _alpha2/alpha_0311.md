@@ -8,7 +8,7 @@ topic: Falshood
 first_letter: F
 xref: "<a href='/New_Beehive/alpha2/alpha_0440/'>Hypocrisie</a>|<a href='/New_Beehive/alpha1/alpha_0156/'>false
   Comfort</a>|<a href='/New_Beehive/alpha1/alpha_0191/'>craftiness</a>|<a href='/New_Beehive/alpha4/alpha_0869/'>Simulation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_182/'>979 [Falsehood]</a>"
+  href='/New_Beehive/toc/toc2_182/'>979 [Falsehood]</a>"
 see: 
 page: 
 add: 

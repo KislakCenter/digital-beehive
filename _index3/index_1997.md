@@ -3,7 +3,7 @@ pid: index_1997
 volume: Volume 3
 image_number: '25'
 head: incognito
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>262 [Anonymous or Nameless]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>262 [Anonymous or Nameless]</a>"
 topic: 
 first_letter: I/J
 xref: 

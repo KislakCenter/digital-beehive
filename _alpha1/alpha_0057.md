@@ -6,7 +6,7 @@ head:
 entry: Bancrupt
 topic: Bancrupt
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_082/'>237 [Reckoning]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_082/'>237 [Reckoning]</a>"
 see: 
 page: 
 add: 

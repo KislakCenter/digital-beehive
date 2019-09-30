@@ -3,7 +3,7 @@ pid: index_4583
 volume: Volume 3
 image_number: '53'
 head: witnesses
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1007 [Witnesses]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2209
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1007 [Witnesses]</a>|<a href='/New_Beehive/toc/toc2_386/'>2209
   [Witness]</a>"
 topic: 
 first_letter: W

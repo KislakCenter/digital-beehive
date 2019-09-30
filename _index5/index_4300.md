@@ -3,8 +3,8 @@ pid: index_4300
 volume: Volume 3
 image_number: '49'
 head: various lections
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>301 [Uncertainty of the Scriptures]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_086/'>263 [Dittology]</a>|<a href='/New_Beehive/toc_vol2/toc2_198/'>1022
+entry: "<a href='/New_Beehive/toc/toc2_091/'>301 [Uncertainty of the Scriptures]</a>|<a
+  href='/New_Beehive/toc/toc2_086/'>263 [Dittology]</a>|<a href='/New_Beehive/toc/toc2_198/'>1022
   [Uncertainty of the Scriptures]</a>"
 topic: 
 first_letter: U/V

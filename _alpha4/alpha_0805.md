@@ -6,7 +6,7 @@ head:
 entry: Robbery
 topic: Robbery
 first_letter: R
-xref: Steal|<a href='/New_Beehive/toc_vol2/toc2_120/'>499 [Robbery]</a>
+xref: Steal|<a href='/New_Beehive/toc/toc2_120/'>499 [Robbery]</a>
 see: 
 page: 
 add: 

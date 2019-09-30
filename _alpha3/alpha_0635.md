@@ -6,7 +6,7 @@ head:
 entry: News
 topic: News
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/New_Beehive/toc_vol2/toc2_244/'>1252
+xref: "<a href='/New_Beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/New_Beehive/toc/toc2_244/'>1252
   [News]</a>"
 see: 
 page: 

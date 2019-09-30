@@ -3,7 +3,7 @@ pid: index_0728
 volume: Volume 3
 image_number: '13'
 head: comb
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>663 [Comb]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>663 [Comb]</a>"
 topic: 
 first_letter: C
 xref: 

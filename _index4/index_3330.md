@@ -3,7 +3,7 @@ pid: index_3330
 volume: Volume 3
 image_number: '39'
 head: to reel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>701 [To Reel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>701 [To Reel]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_2871
 volume: Volume 3
 image_number: '34'
 head: papists cruelty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_123/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_123/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

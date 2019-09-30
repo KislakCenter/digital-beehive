@@ -3,8 +3,8 @@ pid: index_4237
 volume: Volume 3
 image_number: '48'
 head: tribulation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_094/'>316 [Affliction and adversity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_267/'>1367 [Afflictions]</a>|<a href='/New_Beehive/toc_vol2/toc2_263/'>1349
+entry: "<a href='/New_Beehive/toc/toc2_094/'>316 [Affliction and adversity]</a>|<a
+  href='/New_Beehive/toc/toc2_267/'>1367 [Afflictions]</a>|<a href='/New_Beehive/toc/toc2_263/'>1349
   [Affliction]</a>"
 topic: 
 first_letter: T

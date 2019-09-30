@@ -3,7 +3,7 @@ pid: index_0532
 volume: Volume 3
 image_number: '11'
 head: cap
-entry: "<a href='/New_Beehive/toc_vol2/toc2_337/'>1724 [Cap]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_337/'>1724 [Cap]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -3,7 +3,7 @@ pid: index_3224
 volume: Volume 3
 image_number: '38'
 head: pulpit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_122/'>512 [Preaching]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1942
+entry: "<a href='/New_Beehive/toc/toc2_122/'>512 [Preaching]</a>|<a href='/New_Beehive/toc/toc2_358/'>1942
   [Pulpit]</a>"
 topic: 
 first_letter: P

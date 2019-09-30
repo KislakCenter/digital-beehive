@@ -3,8 +3,7 @@ pid: index_3469
 volume: Volume 3
 image_number: '40'
 head: rumor
-entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_392/'>2242 [Report &
-  hear-say]</a>
+entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>
 topic: 
 first_letter: R
 xref: 

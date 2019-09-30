@@ -3,7 +3,7 @@ pid: index_1238
 volume: Volume 3
 image_number: '18'
 head: embroidery
-entry: "<a href='/New_Beehive/toc_vol2/toc2_336/'>1717 [Embroidery]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_336/'>1717 [Embroidery]</a>"
 topic: 
 first_letter: E
 xref: 

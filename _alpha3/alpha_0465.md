@@ -6,8 +6,7 @@ head:
 entry: Incivility
 topic: Incivility
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0713/'>Possibility</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>79
-  [Imputation]</a>|Civil"
+xref: Civil
 see: 
 page: 
 add: 

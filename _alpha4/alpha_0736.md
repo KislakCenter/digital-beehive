@@ -6,10 +6,7 @@ head:
 entry: Prognostications
 topic: Prognostications
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0847/'>Self profit</a>|<a href='/New_Beehive/alpha3/alpha_0560/'>Lucre</a>|<a
-  href='/New_Beehive/alpha5/alpha_0997/'>Unprofitable</a>|<a href='/New_Beehive/alpha5/alpha_1005/'>Utility</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_333/'>1692 [Gain]</a>|<a href='/New_Beehive/toc_vol2/toc2_072/'>158
-  [Sign]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_072/'>158 [Sign]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0804
 volume: Volume 3
 image_number: '14'
 head: consent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_146/'>649 [consent]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_146/'>649 [consent]</a>"
 topic: 
 first_letter: C
 xref: 

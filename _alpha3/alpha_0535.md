@@ -6,8 +6,7 @@ head:
 entry: Life
 topic: Life
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/New_Beehive/toc_vol2/toc2_122/'>513
-  [Lies]</a>|"
+xref: 
 see: 
 page: 
 add: 

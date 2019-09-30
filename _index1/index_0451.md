@@ -3,8 +3,8 @@ pid: index_0451
 volume: Volume 3
 image_number: '11'
 head: bribe
-entry: "<a href='/New_Beehive/alpha1/alpha_0099/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>587
-  [Corrupted]</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>588 [Bribe]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0099/'>a</a>|<a href='/New_Beehive/toc/toc2_135/'>587
+  [Corrupted]</a>|<a href='/New_Beehive/toc/toc2_135/'>588 [Bribe]</a>"
 topic: 
 first_letter: B
 xref: 

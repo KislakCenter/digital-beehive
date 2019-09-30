@@ -3,7 +3,7 @@ pid: index_1596
 volume: Volume 3
 image_number: '22'
 head: genius
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4799 [Genius]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4799 [Genius]</a>"
 topic: 
 first_letter: G
 xref: 

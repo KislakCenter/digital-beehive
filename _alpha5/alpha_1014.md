@@ -6,7 +6,7 @@ head:
 entry: Watchfullness
 topic: Watchfullness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1363
+xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc/toc2_266/'>1363
   [Watchfulness]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_3181
 volume: Volume 3
 image_number: '37'
 head: proffer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_276/'>1411 [Profferd kindness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_276/'>1411 [Profferd kindness]</a>"
 topic: 
 first_letter: P
 xref: 

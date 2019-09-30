@@ -3,9 +3,9 @@ pid: index_2973
 volume: Volume 3
 image_number: '35'
 head: perverting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>122 [Perverting]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>279
-  [Perverting]</a>|<a href='/New_Beehive/toc_vol2/toc2_249/'>1278 [Perverting]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_419/'>2429 [Perverting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_069/'>122 [Perverting]</a>|<a href='/New_Beehive/toc/toc2_088/'>279
+  [Perverting]</a>|<a href='/New_Beehive/toc/toc2_249/'>1278 [Perverting]</a>|<a href='/New_Beehive/toc/toc2_419/'>2429
+  [Perverting]</a>"
 topic: 
 first_letter: P
 xref: 

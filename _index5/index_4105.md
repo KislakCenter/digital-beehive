@@ -3,7 +3,7 @@ pid: index_4105
 volume: Volume 3
 image_number: '47'
 head: thanks
-entry: "<a href='/New_Beehive/alpha5/alpha_0940/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1132
+entry: "<a href='/New_Beehive/alpha5/alpha_0940/'>a</a>|<a href='/New_Beehive/toc/toc2_220/'>1132
   [Gratitude]</a>|4623 [PAGE_MISSING]"
 topic: 
 first_letter: T

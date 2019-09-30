@@ -3,7 +3,7 @@ pid: index_2411
 volume: Volume 3
 image_number: '29'
 head: manstealing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>600 [Manstealing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>600 [Manstealing]</a>"
 topic: 
 first_letter: M
 xref: 

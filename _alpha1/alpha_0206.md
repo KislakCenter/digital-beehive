@@ -6,7 +6,7 @@ head:
 entry: Danger
 topic: Danger
 first_letter: D
-xref: Pinch|<a href='/New_Beehive/toc_vol2/toc2_150/'>673 [Danger]</a>
+xref: Pinch|<a href='/New_Beehive/toc/toc2_150/'>673 [Danger]</a>
 see: 
 page: 
 add: 

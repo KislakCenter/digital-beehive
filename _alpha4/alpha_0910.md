@@ -6,7 +6,7 @@ head:
 entry: Stratagem
 topic: Stratagem
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1673
+xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/toc/toc2_329/'>1673
   [Stratagem]</a>"
 see: 
 page: 

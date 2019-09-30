@@ -6,7 +6,7 @@ head:
 entry: Incontinence
 topic: Incontinence
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0171/'>Consid</a>|<a href='/New_Beehive/alpha1/alpha_0175/'>Continency</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0175/'>Continency</a>"
 see: 
 page: 
 add: 

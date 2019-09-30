@@ -3,7 +3,7 @@ pid: index_2982
 volume: Volume 3
 image_number: '35'
 head: pharisees
-entry: "<a href='/New_Beehive/toc_vol2/toc2_094/'>319 [Pharisees]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_094/'>319 [Pharisees]</a>"
 topic: 
 first_letter: P
 xref: 

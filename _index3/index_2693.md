@@ -3,8 +3,8 @@ pid: index_2693
 volume: Volume 3
 image_number: '32'
 head: neutrality
-entry: "<a href='/New_Beehive/alpha3/alpha_0633/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_099/'>357
-  [Neutrality]</a>|<a href='/New_Beehive/toc_vol2/toc2_428/'>4495 [Neutrality]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0633/'>a</a>|<a href='/New_Beehive/toc/toc2_099/'>357
+  [Neutrality]</a>|<a href='/New_Beehive/toc/toc2_428/'>4495 [Neutrality]</a>"
 topic: 
 first_letter: N
 xref: 

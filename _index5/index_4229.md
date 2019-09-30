@@ -3,7 +3,7 @@ pid: index_4229
 volume: Volume 3
 image_number: '48'
 head: treasurer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_327/'>1665 [Treasureship]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_327/'>1665 [Treasureship]</a>"
 topic: 
 first_letter: T
 xref: 

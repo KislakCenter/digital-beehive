@@ -3,7 +3,7 @@ pid: index_4297
 volume: Volume 3
 image_number: '49'
 head: vanity
-entry: "<a href='/New_Beehive/alpha5/alpha_0977/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1659
+entry: "<a href='/New_Beehive/alpha5/alpha_0977/'>a</a>|<a href='/New_Beehive/toc/toc2_326/'>1659
   [Vanitatis Triumphus]</a>"
 topic: 
 first_letter: U/V

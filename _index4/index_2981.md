@@ -3,7 +3,7 @@ pid: index_2981
 volume: Volume 3
 image_number: '35'
 head: phanatick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>616 [Fanatick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>616 [Fanatick]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_1418
 volume: Volume 3
 image_number: '20'
 head: favour & disfavours
-entry: "<a href='/New_Beehive/toc_vol2/toc2_265/'>1359 [Favour]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_265/'>1359 [Favour]</a>"
 topic: 
 first_letter: F
 xref: 

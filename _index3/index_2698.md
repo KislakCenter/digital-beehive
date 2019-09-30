@@ -3,7 +3,7 @@ pid: index_2698
 volume: Volume 3
 image_number: '32'
 head: new inventions
-entry: "<a href='/New_Beehive/toc_vol2/toc2_088/'>275 [New Inventions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_088/'>275 [New Inventions]</a>"
 topic: 
 first_letter: N
 xref: 

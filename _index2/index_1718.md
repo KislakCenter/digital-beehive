@@ -3,7 +3,7 @@ pid: index_1718
 volume: Volume 3
 image_number: '23'
 head: gripes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>303 [Cholick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>303 [Cholick]</a>"
 topic: 
 first_letter: G
 xref: 

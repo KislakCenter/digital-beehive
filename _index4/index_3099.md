@@ -3,7 +3,7 @@ pid: index_3099
 volume: Volume 3
 image_number: '36'
 head: to pound
-entry: "<a href='/New_Beehive/toc_vol2/toc2_339/'>1743 [Pounded]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_339/'>1743 [Pounded]</a>"
 topic: 
 first_letter: P
 xref: 

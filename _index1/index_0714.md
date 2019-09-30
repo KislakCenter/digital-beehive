@@ -3,7 +3,7 @@ pid: index_0714
 volume: Volume 3
 image_number: '13'
 head: coetaneous
-entry: "<a href='/New_Beehive/toc_vol2/toc2_237/'>1220 [Of the same time]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
 topic: 
 first_letter: C
 xref: 

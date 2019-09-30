@@ -6,9 +6,7 @@ head:
 entry: Rain
 topic: Rain
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>|<a href='/New_Beehive/alpha1/alpha_0114/'>Calumny</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_060/'>37 [WORD_MISSING]</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1588
-  [Rain]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_312/'>1588 [Rain]</a>"
 see: 
 page: 
 add: 

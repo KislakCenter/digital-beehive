@@ -3,7 +3,7 @@ pid: index_2459
 volume: Volume 3
 image_number: '30'
 head: means
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>172 [Means]</a>|4703 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>172 [Means]</a>|4703 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

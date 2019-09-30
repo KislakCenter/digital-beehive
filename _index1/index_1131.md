@@ -3,7 +3,7 @@ pid: index_1131
 volume: Volume 3
 image_number: '17'
 head: Dominica
-entry: "<a href='/New_Beehive/toc_vol2/toc2_297/'>1513 [Dominica]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_297/'>1513 [Dominica]</a>"
 topic: 
 first_letter: D
 xref: 

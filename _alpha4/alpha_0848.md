@@ -6,7 +6,7 @@ head:
 entry: Selfwilledness
 topic: Selfwilledness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc_vol2/toc2_186/'>1005
+xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc/toc2_186/'>1005
   [Self will]</a>"
 see: 
 page: 

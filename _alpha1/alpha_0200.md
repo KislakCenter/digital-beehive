@@ -6,10 +6,7 @@ head:
 entry: Cuckow
 topic: Cuckow
 first_letter: C
-xref: "<a href='/New_Beehive/alpha5/alpha_0975/'>Tyran[n]y</a>|<a href='/New_Beehive/alpha4/alpha_0853/'>Severity</a>|Oppression|<a
-  href='/New_Beehive/toc_vol2/toc2_131/'>565 [horrid Cruelties practised by the Papists
-  upon Protestants]</a>|<a href='/New_Beehive/toc_vol2/toc2_123/'>514 [Cruelty]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_337/'>1730 [Cuckolds]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_337/'>1730 [Cuckolds]</a>"
 see: 
 page: 
 add: 

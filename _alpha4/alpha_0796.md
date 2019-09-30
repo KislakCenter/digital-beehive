@@ -6,9 +6,7 @@ head:
 entry: Revenge
 topic: Revenge
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/alpha3/alpha_0481/'>Intemperance</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_184/'>990 [Revelling]</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>504
-  [Revenge]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_121/'>504 [Revenge]</a>"
 see: 
 page: 
 add: 

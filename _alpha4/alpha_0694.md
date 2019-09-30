@@ -7,7 +7,7 @@ entry: Persecution
 topic: Persecution
 first_letter: P
 xref: "<a href='/New_Beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
-  href='/New_Beehive/toc_vol2/toc2_064/'>71 [Persecution]</a>"
+  href='/New_Beehive/toc/toc2_064/'>71 [Persecution]</a>"
 see: 
 page: 
 add: 

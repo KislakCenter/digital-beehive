@@ -3,7 +3,7 @@ pid: index_1908
 volume: Volume 3
 image_number: '24'
 head: hunting
-entry: "<a href='/New_Beehive/alpha2/alpha_0438/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_268/'>1371
+entry: "<a href='/New_Beehive/alpha2/alpha_0438/'>a</a>|<a href='/New_Beehive/toc/toc2_268/'>1371
   [Hunting]</a>"
 topic: 
 first_letter: H

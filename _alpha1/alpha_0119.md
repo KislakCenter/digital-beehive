@@ -6,8 +6,7 @@ head:
 entry: Cardinal
 topic: Cardinal
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>638
-  [Capital Offences]</a>|<a href='/New_Beehive/alpha3/alpha_0522/'>Leader</a>|<a href='/New_Beehive/alpha2/alpha_0399/'>Hat</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0399/'>Hat</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3058
 volume: Volume 3
 image_number: '36'
 head: pocks french
-entry: "<a href='/New_Beehive/toc_vol2/toc2_144/'>637 [French pocks]</a>|<a href='/New_Beehive/toc_vol2/toc2_379/'>2138
+entry: "<a href='/New_Beehive/toc/toc2_144/'>637 [French pocks]</a>|<a href='/New_Beehive/toc/toc2_379/'>2138
   [French pocks]</a>"
 topic: 
 first_letter: P

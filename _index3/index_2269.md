@@ -3,7 +3,7 @@ pid: index_2269
 volume: Volume 3
 image_number: '28'
 head: Levites
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1909 [Levites]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1909 [Levites]</a>"
 topic: 
 first_letter: L
 xref: 

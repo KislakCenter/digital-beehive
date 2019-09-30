@@ -3,7 +3,7 @@ pid: index_4104
 volume: Volume 3
 image_number: '47'
 head: thalmud
-entry: "<a href='/New_Beehive/toc_vol2/toc2_120/'>500 [Thalmud]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_120/'>500 [Thalmud]</a>"
 topic: 
 first_letter: T
 xref: 

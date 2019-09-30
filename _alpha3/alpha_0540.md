@@ -6,7 +6,7 @@ head:
 entry: Livelihood
 topic: Livelihood
 first_letter: L
-xref: "<a href='/New_Beehive/alpha5/alpha_0962/'>Trade</a>|<a href='/New_Beehive/toc_vol2/toc2_321/'>1635
+xref: "<a href='/New_Beehive/alpha5/alpha_0962/'>Trade</a>|<a href='/New_Beehive/toc/toc2_321/'>1635
   [Livelyhood]</a>"
 see: 
 page: 

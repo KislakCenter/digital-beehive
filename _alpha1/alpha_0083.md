@@ -6,7 +6,7 @@ head:
 entry: Blackness
 topic: Blackness
 first_letter: B
-xref: Neger|<a href='/New_Beehive/toc_vol2/toc2_307/'>1563 [Blackness]</a>|<a href='/New_Beehive/toc_vol2/toc2_359/'>1951
+xref: Neger|<a href='/New_Beehive/toc/toc2_307/'>1563 [Blackness]</a>|<a href='/New_Beehive/toc/toc2_359/'>1951
   [White]</a>
 see: 
 page: 

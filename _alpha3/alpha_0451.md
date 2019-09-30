@@ -6,7 +6,7 @@ head:
 entry: Ignoble
 topic: Ignoble
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0637/'>Nobility</a>|<a href='/New_Beehive/toc_vol2/toc2_443/'>4884
+xref: "<a href='/New_Beehive/alpha3/alpha_0637/'>Nobility</a>|<a href='/New_Beehive/toc/toc2_443/'>4884
   [Ignoble]</a>"
 see: 
 page: 

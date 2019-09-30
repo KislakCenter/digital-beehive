@@ -6,7 +6,7 @@ head:
 entry: Chiliasm
 topic: Chiliasm
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0157/'>Coming of Xst</a>|<a href='/New_Beehive/toc_vol2/toc2_105/'>398
+xref: "<a href='/New_Beehive/alpha1/alpha_0157/'>Coming of Xst</a>|<a href='/New_Beehive/toc/toc2_105/'>398
   [Fifth-monarchy men]</a>|Restoration"
 see: 
 page: 

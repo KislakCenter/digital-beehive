@@ -6,10 +6,7 @@ head:
 entry: French
 topic: French
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/New_Beehive/toc_vol2/toc2_103/'>384
-  [Fraud]</a>|<a href='/New_Beehive/alpha4/alpha_0790/'>Resistance</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1288
-  [French]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_251/'>1288 [French]</a>"
 see: 
 page: 
 add: 

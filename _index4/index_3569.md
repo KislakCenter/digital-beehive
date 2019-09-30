@@ -3,7 +3,7 @@ pid: index_3569
 volume: Volume 3
 image_number: '41'
 head: scurvy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>593 [Scurvy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>593 [Scurvy]</a>"
 topic: 
 first_letter: S
 xref: 

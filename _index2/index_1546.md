@@ -3,7 +3,7 @@ pid: index_1546
 volume: Volume 3
 image_number: '21'
 head: friend union
-entry: "<a href='/New_Beehive/toc_vol2/toc2_253/'>1300 [Union of Friends]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_253/'>1300 [Union of Friends]</a>"
 topic: 
 first_letter: F
 xref: 

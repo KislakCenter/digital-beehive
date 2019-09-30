@@ -6,7 +6,7 @@ head:
 entry: Willingness
 topic: Willingness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_1001/'>Unwilling</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>321
+xref: "<a href='/New_Beehive/alpha5/alpha_1001/'>Unwilling</a>|<a href='/New_Beehive/toc/toc2_094/'>321
   [Willingness]</a>"
 see: 
 page: 

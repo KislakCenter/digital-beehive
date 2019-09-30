@@ -3,7 +3,7 @@ pid: index_3019
 volume: Volume 3
 image_number: '35'
 head: pious frauds
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1791 [holy Cheats]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1791 [holy Cheats]</a>"
 topic: 
 first_letter: P
 xref: 

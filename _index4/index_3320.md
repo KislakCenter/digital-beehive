@@ -3,8 +3,8 @@ pid: index_3320
 volume: Volume 3
 image_number: '38'
 head: reconciliation
-entry: 770 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_268/'>1375 [Reconciliation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_359/'>1957 [Reconciliation]</a>
+entry: 770 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_268/'>1375 [Reconciliation]</a>|<a
+  href='/New_Beehive/toc/toc2_359/'>1957 [Reconciliation]</a>
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_1685
 volume: Volume 3
 image_number: '22'
 head: Grace of God
-entry: "<a href='/New_Beehive/alpha2/alpha_0377/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_145/'>646
+entry: "<a href='/New_Beehive/alpha2/alpha_0377/'>a</a>|<a href='/New_Beehive/toc/toc2_145/'>646
   [Grace of God]</a>"
 topic: 
 first_letter: G

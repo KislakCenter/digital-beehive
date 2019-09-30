@@ -3,7 +3,7 @@ pid: index_0265
 volume: Volume 3
 image_number: '9'
 head: backbiting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>375 [Backbiting]</a>|<a href='/New_Beehive/toc_vol2/toc2_422/'>4449
+entry: "<a href='/New_Beehive/toc/toc2_102/'>375 [Backbiting]</a>|<a href='/New_Beehive/toc/toc2_422/'>4449
   [Backbiting]</a>"
 topic: 
 first_letter: B

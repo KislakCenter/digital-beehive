@@ -3,8 +3,8 @@ pid: index_1250
 volume: Volume 3
 image_number: '18'
 head: endeavour
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>550 [Endeavour]</a>|<a href='/New_Beehive/toc_vol2/toc2_258/'>1324
-  [Endeavour]</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2017 [Endeavour]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>550 [Endeavour]</a>|<a href='/New_Beehive/toc/toc2_258/'>1324
+  [Endeavour]</a>|<a href='/New_Beehive/toc/toc2_367/'>2017 [Endeavour]</a>"
 topic: 
 first_letter: E
 xref: 

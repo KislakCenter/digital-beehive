@@ -3,7 +3,7 @@ pid: index_1384
 volume: Volume 3
 image_number: '20'
 head: Faith & Patience
-entry: "<a href='/New_Beehive/toc_vol2/toc2_070/'>132 [Faith & Patience]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_070/'>132 [Faith & Patience]</a>"
 topic: 
 first_letter: F
 xref: 

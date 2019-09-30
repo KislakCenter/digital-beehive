@@ -6,8 +6,7 @@ head:
 entry: Gog & Magog
 topic: Gog & Magog
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_1025/'>Will of God</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>227
-  [Gods Providence]</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1090 [Godfathers]</a>|"
+xref: 
 see: 
 page: 
 add: 

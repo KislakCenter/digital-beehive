@@ -3,7 +3,7 @@ pid: index_3312
 volume: Volume 3
 image_number: '38'
 head: rebellion
-entry: "<a href='/New_Beehive/alpha4/alpha_0771/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_233/'>1197
+entry: "<a href='/New_Beehive/alpha4/alpha_0771/'>a</a>|<a href='/New_Beehive/toc/toc2_233/'>1197
   [Rebellion]</a>"
 topic: 
 first_letter: R

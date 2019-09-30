@@ -3,7 +3,7 @@ pid: index_0009
 volume: Volume 3
 image_number: '7'
 head: abolishing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>363 [Annulling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>363 [Annulling]</a>"
 topic: 
 first_letter: A
 xref: 

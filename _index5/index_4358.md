@@ -3,7 +3,7 @@ pid: index_4358
 volume: Volume 3
 image_number: '50'
 head: unawares
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>703 [Unawares]</a>|<a href='/New_Beehive/toc_vol2/toc2_350/'>1831
+entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Unawares]</a>|<a href='/New_Beehive/toc/toc2_350/'>1831
   [Unawares]</a>"
 topic: 
 first_letter: U/V

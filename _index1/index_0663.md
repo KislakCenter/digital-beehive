@@ -3,7 +3,7 @@ pid: index_0663
 volume: Volume 3
 image_number: '13'
 head: church yard
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4809 [Church-yard]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4809 [Church-yard]</a>"
 topic: 
 first_letter: C
 xref: 

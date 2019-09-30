@@ -3,7 +3,7 @@ pid: index_1207
 volume: Volume 3
 image_number: '18'
 head: edict
-entry: "<a href='/New_Beehive/toc_vol2/toc2_250/'>1285 [an Edict]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_250/'>1285 [an Edict]</a>"
 topic: 
 first_letter: E
 xref: 

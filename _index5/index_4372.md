@@ -3,7 +3,7 @@ pid: index_4372
 volume: Volume 3
 image_number: '50'
 head: understanding
-entry: "<a href='/New_Beehive/alpha5/alpha_0992/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1693
+entry: "<a href='/New_Beehive/alpha5/alpha_0992/'>a</a>|<a href='/New_Beehive/toc/toc2_333/'>1693
   [Understanding]</a>"
 topic: 
 first_letter: U/V

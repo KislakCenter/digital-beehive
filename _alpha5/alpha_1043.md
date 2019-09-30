@@ -6,8 +6,7 @@ head:
 entry: Word of God
 topic: Word of God
 first_letter: W
-xref: Timber|<a href='/New_Beehive/toc_vol2/toc2_377/'>2113 [Wood]</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1353
-  [Word]</a>|<a href='/New_Beehive/toc_vol2/toc2_167/'>900 [Word of God]</a>
+xref: "<a href='/New_Beehive/toc/toc2_167/'>900 [Word of God]</a>"
 see: 
 page: 
 add: 

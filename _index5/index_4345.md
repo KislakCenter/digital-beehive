@@ -3,7 +3,7 @@ pid: index_4345
 volume: Volume 3
 image_number: '49'
 head: visitation
-entry: "<a href='/New_Beehive/alpha5/alpha_0988/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1429
+entry: "<a href='/New_Beehive/alpha5/alpha_0988/'>a</a>|<a href='/New_Beehive/toc/toc2_279/'>1429
   [Visit]</a>"
 topic: 
 first_letter: U/V

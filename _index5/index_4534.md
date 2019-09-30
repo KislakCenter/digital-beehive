@@ -3,7 +3,7 @@ pid: index_4534
 volume: Volume 3
 image_number: '52'
 head: whigs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_346/'>1800 [Whigs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_346/'>1800 [Whigs]</a>"
 topic: 
 first_letter: W
 xref: 

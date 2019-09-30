@@ -3,7 +3,7 @@ pid: index_2366
 volume: Volume 3
 image_number: '29'
 head: lunaticks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_313/'>1591 [Lunaticks]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_313/'>1591 [Lunaticks]</a>"
 topic: 
 first_letter: L
 xref: 

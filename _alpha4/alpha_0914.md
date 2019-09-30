@@ -6,7 +6,7 @@ head:
 entry: Subjects
 topic: Subjects
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1368
+xref: "<a href='/New_Beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc/toc2_267/'>1368
   [the duties of Subjects]</a>"
 see: 
 page: 

@@ -6,7 +6,7 @@ head:
 entry: Youth
 topic: Youth
 first_letter: Y
-xref: "<a href='/New_Beehive/alpha1/alpha_0140/'>Childhood</a>|Boy|<a href='/New_Beehive/toc_vol2/toc2_115/'>467
+xref: "<a href='/New_Beehive/alpha1/alpha_0140/'>Childhood</a>|Boy|<a href='/New_Beehive/toc/toc2_115/'>467
   [Youth]</a>"
 see: 
 page: 

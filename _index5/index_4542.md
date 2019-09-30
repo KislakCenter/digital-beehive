@@ -3,8 +3,8 @@ pid: index_4542
 volume: Volume 3
 image_number: '52'
 head: whoredom
-entry: "<a href='/New_Beehive/alpha5/alpha_1021/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_132/'>571
-  [Fornication or whoredom]</a>|<a href='/New_Beehive/toc_vol2/toc2_300/'>1528 [Whoredom]</a>|4514
+entry: "<a href='/New_Beehive/alpha5/alpha_1021/'>a</a>|<a href='/New_Beehive/toc/toc2_132/'>571
+  [Fornication or whoredom]</a>|<a href='/New_Beehive/toc/toc2_300/'>1528 [Whoredom]</a>|4514
   [PAGE_MISSING]"
 topic: 
 first_letter: W

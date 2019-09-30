@@ -3,9 +3,9 @@ pid: index_0994
 volume: Volume 3
 image_number: '16'
 head: degree
-entry: "<a href='/New_Beehive/alpha1/alpha_0218/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1377
-  [Great with young]</a>|<a href='/New_Beehive/toc_vol2/toc2_417/'>2409 [Degree]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_330/'>1679 [University-Degrees]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0218/'>a</a>|<a href='/New_Beehive/toc/toc2_269/'>1377
+  [Great with young]</a>|<a href='/New_Beehive/toc/toc2_417/'>2409 [Degree]</a>|<a
+  href='/New_Beehive/toc/toc2_330/'>1679 [University-Degrees]</a>"
 topic: 
 first_letter: D
 xref: 

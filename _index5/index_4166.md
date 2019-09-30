@@ -3,9 +3,8 @@ pid: index_4166
 volume: Volume 3
 image_number: '48'
 head: tobacco
-entry: "<a href='/New_Beehive/alpha5/alpha_0950/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>935
-  [Tobacco]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1423 [Tobacco]</a>|4585
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha5/alpha_0950/'>a</a>|<a href='/New_Beehive/toc/toc2_174/'>935
+  [Tobacco]</a>|<a href='/New_Beehive/toc/toc2_278/'>1423 [Tobacco]</a>|4585 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 

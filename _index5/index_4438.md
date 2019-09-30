@@ -3,7 +3,7 @@ pid: index_4438
 volume: Volume 3
 image_number: '51'
 head: to uphold
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1339 [To maintain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: U/V
 xref: 

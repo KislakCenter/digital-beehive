@@ -3,7 +3,7 @@ pid: index_0609
 volume: Volume 3
 image_number: '12'
 head: Charles I
-entry: "<a href='/New_Beehive/toc_vol2/toc2_291/'>1488 [K. Charles I]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_291/'>1488 [K. Charles I]</a>"
 topic: 
 first_letter: C
 xref: 

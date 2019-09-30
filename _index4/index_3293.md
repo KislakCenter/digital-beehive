@@ -3,7 +3,7 @@ pid: index_3293
 volume: Volume 3
 image_number: '38'
 head: rarity
-entry: "<a href='/New_Beehive/alpha4/alpha_0766/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1429
+entry: "<a href='/New_Beehive/alpha4/alpha_0766/'>a</a>|<a href='/New_Beehive/toc/toc2_279/'>1429
   [Rarity]</a>"
 topic: 
 first_letter: R

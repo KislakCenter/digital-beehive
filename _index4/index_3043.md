@@ -3,8 +3,8 @@ pid: index_3043
 volume: Volume 3
 image_number: '36'
 head: pleasure
-entry: "<a href='/New_Beehive/alpha4/alpha_0707/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_164/'>882
-  [Pleasure]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1947 [Pleasure]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0707/'>a</a>|<a href='/New_Beehive/toc/toc2_164/'>882
+  [Pleasure]</a>|<a href='/New_Beehive/toc/toc2_358/'>1947 [Pleasure]</a>"
 topic: 
 first_letter: P
 xref: 

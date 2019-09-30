@@ -6,9 +6,7 @@ head:
 entry: Motions
 topic: Motions
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0197/'>Cross of Xst</a>|<a href='/New_Beehive/alpha5/alpha_1017/'>Small
-  Way</a>|<a href='/New_Beehive/toc_vol2/toc2_112/'>448 [Mortification]</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>958
-  [Motions]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_178/'>958 [Motions]</a>"
 see: 
 page: 
 add: 

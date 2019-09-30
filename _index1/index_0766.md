@@ -3,7 +3,7 @@ pid: index_0766
 volume: Volume 3
 image_number: '14'
 head: complices
-entry: "<a href='/New_Beehive/toc_vol2/toc2_417/'>2415 [Partake not with the wicked]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
 topic: 
 first_letter: C
 xref: 

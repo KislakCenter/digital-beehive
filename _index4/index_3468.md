@@ -3,8 +3,8 @@ pid: index_3468
 volume: Volume 3
 image_number: '40'
 head: rules for young merchants
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1463 [Counsel the other who newly
-  begun Merchandise]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1463 [Counsel the other who newly begun
+  Merchandise]</a>"
 topic: 
 first_letter: R
 xref: 

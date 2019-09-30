@@ -3,7 +3,7 @@ pid: index_2874
 volume: Volume 3
 image_number: '34'
 head: paradise
-entry: "<a href='/New_Beehive/alpha4/alpha_0669/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_321/'>1633
+entry: "<a href='/New_Beehive/alpha4/alpha_0669/'>a</a>|<a href='/New_Beehive/toc/toc2_321/'>1633
   [Paradise]</a>"
 topic: 
 first_letter: P

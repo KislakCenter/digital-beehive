@@ -6,8 +6,7 @@ head:
 entry: Omnipotency
 topic: Omnipotency
 first_letter: O
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>461
-  [Old age]</a>"
+xref: 4630 [PAGE_MISSING]
 see: 
 page: 
 add: 

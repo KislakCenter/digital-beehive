@@ -3,7 +3,7 @@ pid: index_4627
 volume: Volume 3
 image_number: '53'
 head: wounds
-entry: "<a href='/New_Beehive/alpha5/alpha_1052/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
+entry: "<a href='/New_Beehive/alpha5/alpha_1052/'>a</a>|<a href='/New_Beehive/toc/toc2_223/'>1146
   [Wound]</a>"
 topic: 
 first_letter: W

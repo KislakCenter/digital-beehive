@@ -6,9 +6,7 @@ head:
 entry: Old Adam
 topic: Old Adam
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0113/'>Calling</a>|<a href='/New_Beehive/toc_vol2/toc2_198/'>1021
-  [Officers]</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1694 [Often]</a>|<a href='/New_Beehive/toc_vol2/toc2_353/'>1910
-  [Oil]</a>|<a href='/New_Beehive/toc_vol2/toc2_334/'>1697 [Old Adam]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_334/'>1697 [Old Adam]</a>"
 see: 
 page: 
 add: 

@@ -6,9 +6,7 @@ head:
 entry: Battery
 topic: Battery
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0539/'>Little</a>|<a href='/New_Beehive/alpha2/alpha_0436/'>humility</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_135/'>589 [Base]</a>|<a href='/New_Beehive/toc_vol2/toc2_181/'>972
-  [Bastard]</a>|<a href='/New_Beehive/toc_vol2/toc2_157/'>708 [Beating]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_157/'>708 [Beating]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0998
 volume: Volume 3
 image_number: '16'
 head: delay
-entry: "<a href='/New_Beehive/alpha1/alpha_0219/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_218/'>1123
+entry: "<a href='/New_Beehive/alpha1/alpha_0219/'>a</a>|<a href='/New_Beehive/toc/toc2_218/'>1123
   [delay]</a>"
 topic: 
 first_letter: D

@@ -3,8 +3,8 @@ pid: index_4421
 volume: Volume 3
 image_number: '51'
 head: unstable
-entry: "<a href='/New_Beehive/alpha5/alpha_0998/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_161/'>870
-  [Inconstancy]</a>|<a href='/New_Beehive/toc_vol2/toc2_319/'>1624 [Inconstant]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0998/'>a</a>|<a href='/New_Beehive/toc/toc2_161/'>870
+  [Inconstancy]</a>|<a href='/New_Beehive/toc/toc2_319/'>1624 [Inconstant]</a>"
 topic: 
 first_letter: U/V
 xref: 

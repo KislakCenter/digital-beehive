@@ -3,7 +3,7 @@ pid: index_1701
 volume: Volume 3
 image_number: '23'
 head: gravel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>596 [The Stone Gravel of the Kidneys]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>596 [The Stone Gravel of the Kidneys]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Nakedness
 topic: Nakedness
 first_letter: N
-xref: "<a href='/New_Beehive/alpha1/alpha_0135/'>change</a>|<a href='/New_Beehive/alpha5/alpha_0978/'>Variety</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_083/'>244 [Mutation]</a>|<a href='/New_Beehive/toc_vol2/toc2_195/'>1006
-  [Mystery]</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>499 [Nackedness]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_120/'>499 [Nackedness]</a>"
 see: 
 page: 
 add: 

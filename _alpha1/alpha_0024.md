@@ -6,7 +6,7 @@ head:
 entry: Ambition
 topic: Ambition
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0721/'>Precedency</a>|<a href='/New_Beehive/toc_vol2/toc2_225/'>Xref:1156
+xref: "<a href='/New_Beehive/alpha4/alpha_0721/'>Precedency</a>|<a href='/New_Beehive/toc/toc2_225/'>Xref:1156
   [Ambition]</a>"
 see: 
 page: 

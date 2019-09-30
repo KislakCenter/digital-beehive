@@ -3,7 +3,7 @@ pid: index_0558
 volume: Volume 3
 image_number: '12'
 head: cat
-entry: "<a href='/New_Beehive/alpha1/alpha_0124/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_341/'>1761
+entry: "<a href='/New_Beehive/alpha1/alpha_0124/'>a</a>|<a href='/New_Beehive/toc/toc2_341/'>1761
   [Cat]</a>"
 topic: 
 first_letter: C

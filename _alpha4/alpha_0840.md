@@ -6,8 +6,7 @@ head:
 entry: Self
 topic: Self
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|Substantial|<a
-  href='/New_Beehive/toc_vol2/toc2_164/'>884 [Self]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_164/'>884 [Self]</a>"
 see: 
 page: 
 add: 

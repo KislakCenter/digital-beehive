@@ -3,7 +3,7 @@ pid: index_0902
 volume: Volume 3
 image_number: '15'
 head: credulity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>439 [Credulity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>439 [Credulity]</a>"
 topic: 
 first_letter: C
 xref: 

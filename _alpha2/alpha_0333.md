@@ -6,9 +6,7 @@ head:
 entry: Flower
 topic: Flower
 first_letter: F
-xref: Plausible Popularity||<a href='/New_Beehive/toc_vol2/toc2_124/'>522 [Flesh]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_186/'>1002 [Flies]</a>|<a href='/New_Beehive/toc_vol2/toc2_148/'>660
-  [Flight]</a>|
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3231
 volume: Volume 3
 image_number: '38'
 head: purgation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_286/'>1462 [Purgation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_286/'>1462 [Purgation]</a>"
 topic: 
 first_letter: P
 xref: 

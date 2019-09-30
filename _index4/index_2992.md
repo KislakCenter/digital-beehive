@@ -3,7 +3,7 @@ pid: index_2992
 volume: Volume 3
 image_number: '35'
 head: phrase
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [Bombast Expressions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Bombast Expressions]</a>"
 topic: 
 first_letter: P
 xref: 

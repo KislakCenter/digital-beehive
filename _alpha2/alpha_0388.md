@@ -6,8 +6,7 @@ head:
 entry: Gun
 topic: Gun
 first_letter: G
-xref: Executor|<a href='/New_Beehive/alpha4/alpha_0664/'>Orphan</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>959
-  [Guardian]</a>|<a href='/New_Beehive/toc_vol2/toc2_097/'>339 [Guns]</a>
+xref: "<a href='/New_Beehive/toc/toc2_097/'>339 [Guns]</a>"
 see: 
 page: 
 add: 

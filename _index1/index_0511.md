@@ -3,7 +3,7 @@ pid: index_0511
 volume: Volume 3
 image_number: '11'
 head: calling to the ministry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_168/'>904 [Calling]</a>|<a href='/New_Beehive/toc_vol2/toc2_396/'>2261
+entry: "<a href='/New_Beehive/toc/toc2_168/'>904 [Calling]</a>|<a href='/New_Beehive/toc/toc2_396/'>2261
   [Call]</a>"
 topic: 
 first_letter: C

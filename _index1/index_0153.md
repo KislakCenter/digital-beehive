@@ -3,7 +3,7 @@ pid: index_0153
 volume: Volume 3
 image_number: '8'
 head: answer to books
-entry: "<a href='/New_Beehive/toc_vol2/toc2_293/'>1500 [Answer to Advers. Books]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_293/'>1500 [Answer to Advers. Books]</a>"
 topic: 
 first_letter: A
 xref: 

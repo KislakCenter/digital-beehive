@@ -3,7 +3,7 @@ pid: index_2809
 volume: Volume 3
 image_number: '33'
 head: opposers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>401 [Opposers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_106/'>401 [Opposers]</a>"
 topic: 
 first_letter: O
 xref: 

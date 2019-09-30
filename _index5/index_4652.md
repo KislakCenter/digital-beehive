@@ -3,8 +3,8 @@ pid: index_4652
 volume: Volume 3
 image_number: '53'
 head: to grow young
-entry: "<a href='/New_Beehive/toc_vol2/toc2_244/'>1255 [To grow young again]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_380/'>2150 [To grow young again]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_244/'>1255 [To grow young again]</a>|<a href='/New_Beehive/toc/toc2_380/'>2150
+  [To grow young again]</a>"
 topic: 
 first_letter: Y
 xref: 

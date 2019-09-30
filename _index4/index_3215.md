@@ -3,7 +3,7 @@ pid: index_3215
 volume: Volume 3
 image_number: '37'
 head: provocation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>120 [Provoke]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_068/'>120 [Provoke]</a>"
 topic: 
 first_letter: P
 xref: 

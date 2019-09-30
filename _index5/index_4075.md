@@ -3,7 +3,7 @@ pid: index_4075
 volume: Volume 3
 image_number: '47'
 head: beasts teach
-entry: "<a href='/New_Beehive/toc_vol2/toc2_213/'>1096 [Beasts to learn of]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
 topic: 
 first_letter: T
 xref: 

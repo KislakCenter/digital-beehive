@@ -3,7 +3,7 @@ pid: index_2109
 volume: Volume 3
 image_number: '26'
 head: Joseph
-entry: "<a href='/New_Beehive/toc_vol2/toc2_323/'>1642 [Joseph]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_323/'>1642 [Joseph]</a>"
 topic: 
 first_letter: I/J
 xref: 

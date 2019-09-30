@@ -3,7 +3,7 @@ pid: index_1236
 volume: Volume 3
 image_number: '18'
 head: To embrace
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1938 [Embracing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1938 [Embracing]</a>"
 topic: 
 first_letter: E
 xref: 

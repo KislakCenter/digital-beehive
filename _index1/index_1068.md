@@ -3,8 +3,8 @@ pid: index_1068
 volume: Volume 3
 image_number: '16'
 head: discontentmt
-entry: "<a href='/New_Beehive/alpha1/alpha_0238/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>508
-  [Discontentmt]</a>|<a href='/New_Beehive/toc_vol2/toc2_359/'>1952 [Discontentmt]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0238/'>a</a>|<a href='/New_Beehive/toc/toc2_122/'>508
+  [Discontentmt]</a>|<a href='/New_Beehive/toc/toc2_359/'>1952 [Discontentmt]</a>"
 topic: 
 first_letter: D
 xref: 

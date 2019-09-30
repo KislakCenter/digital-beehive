@@ -3,7 +3,7 @@ pid: index_3759
 volume: Volume 3
 image_number: '43'
 head: smallpooks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>371 [small pocks]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>371 [small pocks]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,8 +3,8 @@ pid: index_1844
 volume: Volume 3
 image_number: '24'
 head: history
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>31 [History]</a>|<a href='/New_Beehive/toc_vol2/toc2_185/'>997
-  [History]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1746 [Chroniclers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>31 [History]</a>|<a href='/New_Beehive/toc/toc2_185/'>997
+  [History]</a>|<a href='/New_Beehive/toc/toc2_339/'>1746 [Chroniclers]</a>"
 topic: 
 first_letter: H
 xref: 

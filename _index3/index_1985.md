@@ -3,7 +3,7 @@ pid: index_1985
 volume: Volume 3
 image_number: '25'
 head: impunity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>330 [Impunity]</a>|<a href='/New_Beehive/toc_vol2/toc2_232/'>1192
+entry: "<a href='/New_Beehive/toc/toc2_096/'>330 [Impunity]</a>|<a href='/New_Beehive/toc/toc2_232/'>1192
   [Want of Punishmt]</a>"
 topic: 
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_2961
 volume: Volume 3
 image_number: '35'
 head: perjury
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>146 [Perjury]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_071/'>146 [Perjury]</a>"
 topic: 
 first_letter: P
 xref: 

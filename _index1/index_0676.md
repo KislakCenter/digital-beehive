@@ -3,7 +3,7 @@ pid: index_0676
 volume: Volume 3
 image_number: '13'
 head: citron
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1614 [Citron]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1614 [Citron]</a>"
 topic: 
 first_letter: C
 xref: 

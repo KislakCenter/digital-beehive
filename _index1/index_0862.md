@@ -3,7 +3,7 @@ pid: index_0862
 volume: Volume 3
 image_number: '15'
 head: corrupted
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>587 [Corrupted]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [Corrupted]</a>"
 topic: 
 first_letter: C
 xref: 

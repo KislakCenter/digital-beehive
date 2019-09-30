@@ -3,7 +3,7 @@ pid: index_1252
 volume: Volume 3
 image_number: '18'
 head: to endure
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1383 [To bear]</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>983
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [To bear]</a>|<a href='/New_Beehive/toc/toc2_183/'>983
   [To endure]</a>"
 topic: 
 first_letter: E

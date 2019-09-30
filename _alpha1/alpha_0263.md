@@ -6,8 +6,7 @@ head:
 entry: Drunkeness
 topic: Drunkeness
 first_letter: D
-xref: "<a href='/New_Beehive/alpha2/alpha_0403/'>Drinking of healths</a>|<a href='/New_Beehive/alpha5/alpha_0941/'>Thirst</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_073/'>161 [Drunkeness]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_073/'>161 [Drunkeness]</a>"
 see: 
 page: 
 add: 

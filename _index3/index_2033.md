@@ -3,7 +3,7 @@ pid: index_2033
 volume: Volume 3
 image_number: '26'
 head: infidelity
-entry: "<a href='/New_Beehive/alpha3/alpha_0471/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2380
+entry: "<a href='/New_Beehive/alpha3/alpha_0471/'>a</a>|<a href='/New_Beehive/toc/toc2_412/'>2380
   [Unfaithful]</a>"
 topic: 
 first_letter: I/J

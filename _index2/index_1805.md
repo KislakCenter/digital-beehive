@@ -3,7 +3,7 @@ pid: index_1805
 volume: Volume 3
 image_number: '23'
 head: Heraclitus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
 topic: 
 first_letter: H
 xref: 

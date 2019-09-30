@@ -3,7 +3,7 @@ pid: index_3482
 volume: Volume 3
 image_number: '40'
 head: Sacrifice
-entry: "<a href='/New_Beehive/alpha4/alpha_0814/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1244
+entry: "<a href='/New_Beehive/alpha4/alpha_0814/'>a</a>|<a href='/New_Beehive/toc/toc2_242/'>1244
   [Sacrifice]</a>"
 topic: 
 first_letter: S

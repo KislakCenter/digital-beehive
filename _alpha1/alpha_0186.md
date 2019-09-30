@@ -6,8 +6,7 @@ head:
 entry: Court
 topic: Court
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0562/'>Magnanimity</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1143
-  [Courage]</a>"
+xref: 1879 [PAGE_MISSING]
 see: 
 page: 
 add: 

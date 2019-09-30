@@ -3,7 +3,7 @@ pid: index_3990
 volume: Volume 3
 image_number: '46'
 head: superstition
-entry: "<a href='/New_Beehive/alpha4/alpha_0921/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_176/'>946
+entry: "<a href='/New_Beehive/alpha4/alpha_0921/'>a</a>|<a href='/New_Beehive/toc/toc2_176/'>946
   [Superstition]</a>"
 topic: 
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_0960
 volume: Volume 3
 image_number: '15'
 head: dead men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_308/'>1566 [Dead people]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_308/'>1566 [Dead people]</a>"
 topic: 
 first_letter: D
 xref: 

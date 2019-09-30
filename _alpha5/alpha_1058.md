@@ -6,9 +6,7 @@ head:
 entry: Year
 topic: Year
 first_letter: Y
-xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/toc_vol2/toc2_107/'>412
-  [Writing]</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1376 [Writing]</a>|<a href='/New_Beehive/toc_vol2/toc2_277/'>1418
-  [ENTRY_MISSING; release]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_277/'>1418 [ENTRY_MISSING; release]</a>"
 see: 
 page: 
 add: 

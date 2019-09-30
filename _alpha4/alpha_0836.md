@@ -6,7 +6,7 @@ head:
 entry: Seducing
 topic: Seducing
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/New_Beehive/toc_vol2/toc2_224/'>1152
+xref: "<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/New_Beehive/toc/toc2_224/'>1152
   [Seducing]</a>"
 see: 
 page: 

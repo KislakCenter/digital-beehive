@@ -3,7 +3,7 @@ pid: index_2514
 volume: Volume 3
 image_number: '30'
 head: milk
-entry: "<a href='/New_Beehive/alpha3/alpha_0589/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1434
+entry: "<a href='/New_Beehive/alpha3/alpha_0589/'>a</a>|<a href='/New_Beehive/toc/toc2_280/'>1434
   [Milk]</a>"
 topic: 
 first_letter: M

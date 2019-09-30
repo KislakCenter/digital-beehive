@@ -3,7 +3,7 @@ pid: index_1674
 volume: Volume 3
 image_number: '22'
 head: gospel
-entry: "<a href='/New_Beehive/alpha2/alpha_0373/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_180/'>967
+entry: "<a href='/New_Beehive/alpha2/alpha_0373/'>a</a>|<a href='/New_Beehive/toc/toc2_180/'>967
   [Gospel]</a>"
 topic: 
 first_letter: G

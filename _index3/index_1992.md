@@ -3,7 +3,7 @@ pid: index_1992
 volume: Volume 3
 image_number: '25'
 head: incendiary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>369 [Incendiary]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>369 [Incendiary]</a>"
 topic: 
 first_letter: I/J
 xref: 

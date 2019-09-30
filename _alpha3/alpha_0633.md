@@ -7,7 +7,7 @@ entry: Neutrality
 topic: Neutrality
 first_letter: N
 xref: "<a href='/New_Beehive/alpha3/alpha_0459/'>Impartiality</a>|Indifferency|<a
-  href='/New_Beehive/toc_vol2/toc2_066/'>91 [Universalists]</a>|<a href='/New_Beehive/toc_vol2/toc2_099/'>357
+  href='/New_Beehive/toc/toc2_066/'>91 [Universalists]</a>|<a href='/New_Beehive/toc/toc2_099/'>357
   [Neutrality]</a>"
 see: 
 page: 

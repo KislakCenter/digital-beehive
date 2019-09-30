@@ -3,7 +3,7 @@ pid: index_3520
 volume: Volume 3
 image_number: '41'
 head: Sarah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_351/'>1892 [Sarah]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_351/'>1892 [Sarah]</a>"
 topic: 
 first_letter: S
 xref: 

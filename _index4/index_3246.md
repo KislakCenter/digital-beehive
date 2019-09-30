@@ -3,7 +3,7 @@ pid: index_3246
 volume: Volume 3
 image_number: '38'
 head: quails
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1913 [Quails]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1913 [Quails]</a>"
 topic: 
 first_letter: Q
 xref: 

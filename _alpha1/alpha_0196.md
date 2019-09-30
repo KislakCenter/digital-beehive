@@ -6,8 +6,8 @@ head:
 entry: Cross
 topic: Cross
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0010/'>Adversity</a>|Crucifix|<a href='/New_Beehive/toc_vol2/toc2_120/'>498
-  [Sufferings]</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1505 [Cross]</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0010/'>Adversity</a>|Crucifix|<a href='/New_Beehive/toc/toc2_120/'>498
+  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_295/'>1505 [Cross]</a>"
 see: 
 page: 
 add: 

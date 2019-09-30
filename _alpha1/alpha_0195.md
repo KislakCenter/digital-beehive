@@ -7,7 +7,7 @@ entry: Criticism
 topic: Criticism
 first_letter: C
 xref: "<a href='/New_Beehive/alpha4/alpha_0823/'>Satyre</a>|<a href='/New_Beehive/alpha5/alpha_1062/'>Zoilus</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_320/'>1627 [Criticism]</a>"
+  href='/New_Beehive/toc/toc2_320/'>1627 [Criticism]</a>"
 see: 
 page: 
 add: 

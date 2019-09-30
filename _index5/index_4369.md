@@ -3,7 +3,7 @@ pid: index_4369
 volume: Volume 3
 image_number: '50'
 head: undeniable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>284 [To own]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_089/'>284 [To own]</a>"
 topic: 
 first_letter: U/V
 xref: 

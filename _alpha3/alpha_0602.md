@@ -6,7 +6,7 @@ head:
 entry: Moral Philosophy
 topic: Moral Philosophy
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>880
+xref: "<a href='/New_Beehive/toc/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc/toc2_163/'>880
   [Moral Philos]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_1801
 volume: Volume 3
 image_number: '23'
 head: hemp
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>679 [Hemp]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>679 [Hemp]</a>"
 topic: 
 first_letter: H
 xref: 

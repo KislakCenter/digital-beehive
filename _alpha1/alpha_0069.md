@@ -6,7 +6,7 @@ head:
 entry: "[WORD_MISSING]"
 topic: Beauty
 first_letter: B
-xref: "[WORD_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_140/'>616 [Beauty]</a>"
+xref: "[WORD_MISSING]|<a href='/New_Beehive/toc/toc2_140/'>616 [Beauty]</a>"
 see: 
 page: 
 add: 

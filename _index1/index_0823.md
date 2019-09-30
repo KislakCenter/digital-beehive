@@ -3,7 +3,7 @@ pid: index_0823
 volume: Volume 3
 image_number: '14'
 head: contempt of the world
-entry: "<a href='/New_Beehive/toc_vol2/toc2_356/'>1931 [Contempt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_356/'>1931 [Contempt]</a>"
 topic: 
 first_letter: C
 xref: 

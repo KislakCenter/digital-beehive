@@ -3,7 +3,7 @@ pid: index_3780
 volume: Volume 3
 image_number: '43'
 head: Socrates
-entry: "<a href='/New_Beehive/toc_vol2/toc2_221/'>1140 [Socrates]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_221/'>1140 [Socrates]</a>"
 topic: 
 first_letter: S
 xref: 

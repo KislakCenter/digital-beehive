@@ -3,7 +3,7 @@ pid: index_2065
 volume: Volume 3
 image_number: '26'
 head: to inspect
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4801 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4801 [WORD_MISSING]</a>"
 topic: 
 first_letter: I/J
 xref: 

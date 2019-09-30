@@ -3,7 +3,7 @@ pid: index_2442
 volume: Volume 3
 image_number: '30'
 head: masquerade
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>129 [Vizard]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_069/'>129 [Vizard]</a>"
 topic: 
 first_letter: M
 xref: 

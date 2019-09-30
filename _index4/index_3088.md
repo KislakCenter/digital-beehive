@@ -3,7 +3,7 @@ pid: index_3088
 volume: Volume 3
 image_number: '36'
 head: post Script
-entry: "<a href='/New_Beehive/toc_vol2/toc2_310/'>1579 [Post Script]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_310/'>1579 [Post Script]</a>"
 topic: 
 first_letter: P
 xref: 

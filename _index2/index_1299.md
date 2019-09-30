@@ -3,7 +3,7 @@ pid: index_1299
 volume: Volume 3
 image_number: '19'
 head: escape
-entry: "<a href='/New_Beehive/toc_vol2/toc2_087/'>271 [To escape]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_087/'>271 [To escape]</a>"
 topic: 
 first_letter: E
 xref: 

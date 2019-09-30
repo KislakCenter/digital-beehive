@@ -3,7 +3,7 @@ pid: index_4017
 volume: Volume 3
 image_number: '46'
 head: to swap
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>715 [To Swap]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [To Swap]</a>"
 topic: 
 first_letter: S
 xref: 

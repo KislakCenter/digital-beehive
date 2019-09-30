@@ -3,7 +3,7 @@ pid: index_0295
 volume: Volume 3
 image_number: '9'
 head: barefooted
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1939 [Barefooted]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Barefooted]</a>"
 topic: 
 first_letter: B
 xref: 

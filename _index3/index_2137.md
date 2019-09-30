@@ -3,7 +3,7 @@ pid: index_2137
 volume: Volume 3
 image_number: '27'
 head: juice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_241/'>1240 [Juice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_241/'>1240 [Juice]</a>"
 topic: 
 first_letter: I/J
 xref: 

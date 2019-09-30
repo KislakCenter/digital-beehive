@@ -3,7 +3,7 @@ pid: index_2407
 volume: Volume 3
 image_number: '29'
 head: one man ye others wolf
-entry: "<a href='/New_Beehive/toc_vol2/toc2_239/'>1230 [homo homini lupus e]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_239/'>1230 [homo homini lupus e]</a>"
 topic: 
 first_letter: M
 xref: 

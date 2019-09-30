@@ -3,7 +3,7 @@ pid: index_1657
 volume: Volume 3
 image_number: '22'
 head: God's reward
-entry: "<a href='/New_Beehive/toc_vol2/toc2_180/'>968 [Example]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_180/'>968 [Example]</a>"
 topic: 
 first_letter: G
 xref: 

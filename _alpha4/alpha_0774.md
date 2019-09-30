@@ -6,7 +6,7 @@ head:
 entry: Redhaired
 topic: Redhaired
 first_letter: R
-xref: "<a href='/New_Beehive/toc_vol2/toc2_262/'>1344 [Corinths]</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1343
+xref: "<a href='/New_Beehive/toc/toc2_262/'>1344 [Corinths]</a>|<a href='/New_Beehive/toc/toc2_262/'>1343
   [Red-(:hair:) face]</a>"
 see: 
 page: 

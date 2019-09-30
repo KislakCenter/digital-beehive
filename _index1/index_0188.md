@@ -3,7 +3,7 @@ pid: index_0188
 volume: Volume 3
 image_number: '8'
 head: approaching
-entry: "<a href='/New_Beehive/toc_vol2/toc2_134/'>581 [to Approach]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_134/'>581 [to Approach]</a>"
 topic: 
 first_letter: A
 xref: 

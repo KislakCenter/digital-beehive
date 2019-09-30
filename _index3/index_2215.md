@@ -3,7 +3,7 @@ pid: index_2215
 volume: Volume 3
 image_number: '27'
 head: latton
-entry: "<a href='/New_Beehive/toc_vol2/toc2_364/'>1992 [Latton]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_364/'>1992 [Latton]</a>"
 topic: 
 first_letter: L
 xref: 

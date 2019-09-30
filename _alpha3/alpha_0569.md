@@ -6,7 +6,7 @@ head:
 entry: Marriage
 topic: Marriage
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/New_Beehive/toc_vol2/toc2_089/'>285
+xref: "<a href='/New_Beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/New_Beehive/toc/toc2_089/'>285
   [Marriage]</a>"
 see: 
 page: 

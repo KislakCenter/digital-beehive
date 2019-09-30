@@ -3,9 +3,9 @@ pid: index_0449
 volume: Volume 3
 image_number: '11'
 head: brevity
-entry: "<a href='/New_Beehive/alpha1/alpha_0098/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_102/'>374
-  [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>932 [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_260/'>1335
-  [Brevity]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2031 [Brevity]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0098/'>a</a>|<a href='/New_Beehive/toc/toc2_102/'>374
+  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/New_Beehive/toc/toc2_260/'>1335
+  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_369/'>2031 [Brevity]</a>"
 topic: 
 first_letter: B
 xref: 

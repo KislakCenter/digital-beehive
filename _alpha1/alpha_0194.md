@@ -6,10 +6,7 @@ head:
 entry: Crime
 topic: Crime
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0345/'>fraud</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_239/'>1228 [Craftiness]</a>|<a href='/New_Beehive/toc_vol2/toc2_424/'>4458
-  [Creature]</a>|<a href='/New_Beehive/alpha1/alpha_0093/'>Borrowing</a>|<a href='/New_Beehive/alpha1/alpha_0117/'>Capital
-  offence</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0117/'>Capital offence</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_4344
 volume: Volume 3
 image_number: '49'
 head: vision
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>409 [Vision]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>409 [Vision]</a>"
 topic: 
 first_letter: U/V
 xref: 

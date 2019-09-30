@@ -3,7 +3,7 @@ pid: index_1327
 volume: Volume 3
 image_number: '19'
 head: exalting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>68 [Exaltation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_063/'>68 [Exaltation]</a>"
 topic: 
 first_letter: E
 xref: 

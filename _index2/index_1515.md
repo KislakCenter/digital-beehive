@@ -3,7 +3,7 @@ pid: index_1515
 volume: Volume 3
 image_number: '21'
 head: formerly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_242/'>1245 [Formerly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_242/'>1245 [Formerly]</a>"
 topic: 
 first_letter: F
 xref: 

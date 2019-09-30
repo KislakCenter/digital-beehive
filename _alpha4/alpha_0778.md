@@ -6,7 +6,7 @@ head:
 entry: Regarding of persons
 topic: Regarding of persons
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/New_Beehive/toc_vol2/toc2_276/'>1412
+xref: "<a href='/New_Beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/New_Beehive/toc/toc2_276/'>1412
   [Excellent]</a>"
 see: 
 page: 

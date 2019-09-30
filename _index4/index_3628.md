@@ -3,7 +3,7 @@ pid: index_3628
 volume: Volume 3
 image_number: '42'
 head: Self punishment
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>59 [Self-hurt or dammage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>"
 topic: 
 first_letter: S
 xref: 

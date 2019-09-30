@@ -6,7 +6,7 @@ head:
 entry: Perswasion
 topic: Perswasion
 first_letter: P
-xref: Conviction|<a href='/New_Beehive/toc_vol2/toc2_361/'>1969 [Perswasion]</a>
+xref: Conviction|<a href='/New_Beehive/toc/toc2_361/'>1969 [Perswasion]</a>
 see: 
 page: 
 add: 

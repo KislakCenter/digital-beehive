@@ -3,7 +3,7 @@ pid: index_0912
 volume: Volume 3
 image_number: '15'
 head: Cromwell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_235/'>1209 [Cromwell]</a>|4508 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_235/'>1209 [Cromwell]</a>|4508 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

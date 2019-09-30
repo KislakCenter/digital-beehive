@@ -3,7 +3,7 @@ pid: index_2695
 volume: Volume 3
 image_number: '32'
 head: new England
-entry: 766 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_299/'>1523 [New England]</a>
+entry: 766 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_299/'>1523 [New England]</a>
 topic: 
 first_letter: N
 xref: 

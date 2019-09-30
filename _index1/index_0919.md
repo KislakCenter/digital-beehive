@@ -3,8 +3,8 @@ pid: index_0919
 volume: Volume 3
 image_number: '15'
 head: cruelty
-entry: "<a href='/New_Beehive/alpha1/alpha_0199/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_123/'>514
-  [Cruelty]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1071 [Cruelties]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0199/'>a</a>|<a href='/New_Beehive/toc/toc2_123/'>514
+  [Cruelty]</a>|<a href='/New_Beehive/toc/toc2_208/'>1071 [Cruelties]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Sacrament
 topic: Sacrament
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0321/'>feast</a>|<a href='/New_Beehive/alpha4/alpha_0791/'>rest</a>|<a
-  href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>930
-  [Sabbath]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2033 [Sacramts]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_369/'>2033 [Sacramts]</a>"
 see: 
 page: 
 add: 

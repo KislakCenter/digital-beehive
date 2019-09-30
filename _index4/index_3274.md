@@ -3,9 +3,9 @@ pid: index_3274
 volume: Volume 3
 image_number: '38'
 head: quotations
-entry: "<a href='/New_Beehive/toc_vol2/toc2_111/'>442 [Quotation]</a>|<a href='/New_Beehive/toc_vol2/toc2_185/'>999
-  [Quotations]</a>|<a href='/New_Beehive/toc_vol2/toc2_328/'>1670 [Quotations]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_395/'>2257 [Quotation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_111/'>442 [Quotation]</a>|<a href='/New_Beehive/toc/toc2_185/'>999
+  [Quotations]</a>|<a href='/New_Beehive/toc/toc2_328/'>1670 [Quotations]</a>|<a href='/New_Beehive/toc/toc2_395/'>2257
+  [Quotation]</a>"
 topic: 
 first_letter: Q
 xref: 

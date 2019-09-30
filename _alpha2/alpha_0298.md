@@ -6,7 +6,7 @@ head:
 entry: Exorcism
 topic: Exorcism
 first_letter: E
-xref: "<a href='/New_Beehive/toc_vol2/toc2_303/'>1541 [Conjuring]</a>|<a href='/New_Beehive/toc_vol2/toc2_305/'>1551
+xref: "<a href='/New_Beehive/toc/toc2_303/'>1541 [Conjuring]</a>|<a href='/New_Beehive/toc/toc2_305/'>1551
   [Gafers]</a>"
 see: 
 page: 

@@ -6,7 +6,7 @@ head:
 entry: Disorder
 topic: Disorder
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0661/'>Order</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>929
+xref: "<a href='/New_Beehive/alpha4/alpha_0661/'>Order</a>|<a href='/New_Beehive/toc/toc2_173/'>929
   [Disorder]</a>"
 see: 
 page: 

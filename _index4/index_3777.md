@@ -3,7 +3,7 @@ pid: index_3777
 volume: Volume 3
 image_number: '43'
 head: athenian Society
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1533 [Athenian (:Oracle or:) Society]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1533 [Athenian (:Oracle or:) Society]</a>"
 topic: 
 first_letter: S
 xref: 

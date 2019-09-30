@@ -3,8 +3,8 @@ pid: index_3420
 volume: Volume 3
 image_number: '40'
 head: riches
-entry: "<a href='/New_Beehive/alpha4/alpha_0799/'>a</a>|854 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_282/'>1444
-  [Riches]</a>|<a href='/New_Beehive/toc_vol2/toc2_414/'>2392 [Riches]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0799/'>a</a>|854 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_282/'>1444
+  [Riches]</a>|<a href='/New_Beehive/toc/toc2_414/'>2392 [Riches]</a>"
 topic: 
 first_letter: R
 xref: 

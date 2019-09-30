@@ -6,7 +6,7 @@ head:
 entry: Businesses
 topic: Businesses
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>18 [Busie]</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1179
+xref: "<a href='/New_Beehive/toc/toc2_059/'>18 [Busie]</a>|<a href='/New_Beehive/toc/toc2_229/'>1179
   [Business]</a>"
 see: 
 page: 

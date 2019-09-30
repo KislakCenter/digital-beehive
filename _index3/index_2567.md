@@ -3,8 +3,8 @@ pid: index_2567
 volume: Volume 3
 image_number: '31'
 head: monk
-entry: "<a href='/New_Beehive/alpha3/alpha_0600/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>462
-  [Monks]</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1588 [Monk]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0600/'>a</a>|<a href='/New_Beehive/toc/toc2_114/'>462
+  [Monks]</a>|<a href='/New_Beehive/toc/toc2_312/'>1588 [Monk]</a>"
 topic: 
 first_letter: M
 xref: 

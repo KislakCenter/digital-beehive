@@ -3,7 +3,7 @@ pid: index_3582
 volume: Volume 3
 image_number: '41'
 head: second sight
-entry: "<a href='/New_Beehive/toc_vol2/toc2_256/'>1314 [Second sighted]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_256/'>1314 [Second sighted]</a>"
 topic: 
 first_letter: S
 xref: 

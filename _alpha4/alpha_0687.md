@@ -6,7 +6,7 @@ head:
 entry: Peace
 topic: Peace
 first_letter: P
-xref: Truce|Tranquility|<a href='/New_Beehive/toc_vol2/toc2_182/'>980 [Peace]</a>
+xref: Truce|Tranquility|<a href='/New_Beehive/toc/toc2_182/'>980 [Peace]</a>
 see: 
 page: 
 add: 

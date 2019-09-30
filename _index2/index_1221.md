@@ -3,7 +3,7 @@ pid: index_1221
 volume: Volume 3
 image_number: '18'
 head: election
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>296 [Election]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>296 [Election]</a>"
 topic: 
 first_letter: E
 xref: 

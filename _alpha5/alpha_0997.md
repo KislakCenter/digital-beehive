@@ -6,8 +6,7 @@ head:
 entry: Unprofitable
 topic: Unprofitable
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/New_Beehive/toc_vol2/toc2_394/'>2251
-  [unmerciful]</a>|<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>"
 see: 
 page: 
 add: 

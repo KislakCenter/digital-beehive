@@ -3,8 +3,8 @@ pid: index_4624
 volume: Volume 3
 image_number: '53'
 head: worship
-entry: "<a href='/New_Beehive/alpha5/alpha_1049/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_207/'>1070
-  [Worship]</a>|<a href='/New_Beehive/toc_vol2/toc2_368/'>2029 [Worship]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1049/'>a</a>|<a href='/New_Beehive/toc/toc2_207/'>1070
+  [Worship]</a>|<a href='/New_Beehive/toc/toc2_368/'>2029 [Worship]</a>"
 topic: 
 first_letter: W
 xref: 

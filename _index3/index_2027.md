@@ -3,7 +3,7 @@ pid: index_2027
 volume: Volume 3
 image_number: '26'
 head: infallibility
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>32 [Infallibility]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>32 [Infallibility]</a>"
 topic: 
 first_letter: I/J
 xref: 

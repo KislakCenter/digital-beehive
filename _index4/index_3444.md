@@ -3,7 +3,7 @@ pid: index_3444
 volume: Volume 3
 image_number: '40'
 head: Roman Empire
-entry: "<a href='/New_Beehive/toc_vol2/toc2_395/'>2260 [Roman Empire]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_395/'>2260 [Roman Empire]</a>"
 topic: 
 first_letter: R
 xref: 

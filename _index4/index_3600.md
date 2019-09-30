@@ -3,7 +3,7 @@ pid: index_3600
 volume: Volume 3
 image_number: '41'
 head: selah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1925 [Selah]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1925 [Selah]</a>"
 topic: 
 first_letter: S
 xref: 

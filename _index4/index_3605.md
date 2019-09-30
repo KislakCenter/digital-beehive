@@ -3,7 +3,7 @@ pid: index_3605
 volume: Volume 3
 image_number: '42'
 head: Self accusation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>542 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>542 [WORD_MISSING]</a>"
 topic: 
 first_letter: S
 xref: 

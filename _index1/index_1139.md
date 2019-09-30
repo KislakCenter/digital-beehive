@@ -3,7 +3,7 @@ pid: index_1139
 volume: Volume 3
 image_number: '17'
 head: dragon
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1613 [Dragons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1613 [Dragons]</a>"
 topic: 
 first_letter: D
 xref: 

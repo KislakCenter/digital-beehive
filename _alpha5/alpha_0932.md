@@ -6,8 +6,7 @@ head:
 entry: Temerity
 topic: Temerity
 first_letter: T
-xref: "<a href='/New_Beehive/toc_vol2/toc2_104/'>393 [Teacher]</a>|False Prophets|<a
-  href='/New_Beehive/alpha1/alpha_0091/'>Boldness</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0091/'>Boldness</a>"
 see: 
 page: 
 add: 

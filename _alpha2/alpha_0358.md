@@ -6,7 +6,7 @@ head:
 entry: Holy Ghost
 topic: Holy Ghost
 first_letter: G
-xref: "<a href='/New_Beehive/alpha4/alpha_0894/'>Spirit</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1012
+xref: "<a href='/New_Beehive/alpha4/alpha_0894/'>Spirit</a>|<a href='/New_Beehive/toc/toc2_196/'>1012
   [h. Ghost]</a>|<a href='/New_Beehive/alpha5/alpha_0991/'>Unction</a>|Inspiration"
 see: 
 page: 

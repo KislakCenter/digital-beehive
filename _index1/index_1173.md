@@ -3,7 +3,7 @@ pid: index_1173
 volume: Volume 3
 image_number: '18'
 head: dusk
-entry: "<a href='/New_Beehive/toc_vol2/toc2_321/'>1635 [Transparent]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_321/'>1635 [Transparent]</a>"
 topic: 
 first_letter: D
 xref: 

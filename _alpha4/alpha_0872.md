@@ -7,7 +7,7 @@ entry: Singing
 topic: Singing
 first_letter: S
 xref: "<a href='/New_Beehive/alpha3/alpha_0616/'>Musick</a>|<a href='/New_Beehive/alpha4/alpha_0751/'>Psalm</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_118/'>483 [Singing]</a>"
+  href='/New_Beehive/toc/toc2_118/'>483 [Singing]</a>"
 see: 
 page: 
 add: 

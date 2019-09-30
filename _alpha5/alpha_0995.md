@@ -6,7 +6,7 @@ head:
 entry: Unknown
 topic: Unknown
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha3/alpha_0452/'>Ignorance</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1658
+xref: "<a href='/New_Beehive/alpha3/alpha_0452/'>Ignorance</a>|<a href='/New_Beehive/toc/toc2_326/'>1658
   [Unknown]</a>"
 see: 
 page: 

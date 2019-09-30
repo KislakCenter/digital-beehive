@@ -3,7 +3,7 @@ pid: index_3842
 volume: Volume 3
 image_number: '44'
 head: spight
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>614 [Spight]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>614 [Spight]</a>"
 topic: 
 first_letter: S
 xref: 

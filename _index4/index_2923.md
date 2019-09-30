@@ -3,7 +3,7 @@ pid: index_2923
 volume: Volume 3
 image_number: '34'
 head: patriots
-entry: "<a href='/New_Beehive/toc_vol2/toc2_272/'>1394 [Patriots]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_272/'>1394 [Patriots]</a>"
 topic: 
 first_letter: P
 xref: 

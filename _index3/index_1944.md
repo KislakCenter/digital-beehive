@@ -3,7 +3,7 @@ pid: index_1944
 volume: Volume 3
 image_number: '25'
 head: wandering Jew
-entry: "<a href='/New_Beehive/toc_vol2/toc2_260/'>1332 [Wandring Jews]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_260/'>1332 [Wandring Jews]</a>"
 topic: 
 first_letter: I/J
 xref: 

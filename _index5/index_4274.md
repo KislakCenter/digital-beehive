@@ -3,7 +3,7 @@ pid: index_4274
 volume: Volume 3
 image_number: '49'
 head: turtledoves
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>588 [Dove]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>588 [Dove]</a>"
 topic: 
 first_letter: T
 xref: 

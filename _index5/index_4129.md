@@ -3,7 +3,7 @@ pid: index_4129
 volume: Volume 3
 image_number: '47'
 head: thouing
-entry: "<a href='/New_Beehive/alpha5/alpha_0942/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>217
+entry: "<a href='/New_Beehive/alpha5/alpha_0942/'>a</a>|<a href='/New_Beehive/toc/toc2_080/'>217
   [Thouing]</a>"
 topic: 
 first_letter: T

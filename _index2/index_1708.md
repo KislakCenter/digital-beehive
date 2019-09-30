@@ -3,7 +3,7 @@ pid: index_1708
 volume: Volume 3
 image_number: '23'
 head: great men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_254/'>1305 [Great men]</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2064
+entry: "<a href='/New_Beehive/toc/toc2_254/'>1305 [Great men]</a>|<a href='/New_Beehive/toc/toc2_372/'>2064
   [Persons of quality]</a>"
 topic: 
 first_letter: G

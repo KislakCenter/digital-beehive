@@ -3,7 +3,7 @@ pid: index_4163
 volume: Volume 3
 image_number: '47'
 head: titles
-entry: "<a href='/New_Beehive/alpha5/alpha_0949/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1435
+entry: "<a href='/New_Beehive/alpha5/alpha_0949/'>a</a>|<a href='/New_Beehive/toc/toc2_280/'>1435
   [Titles of honour]</a>"
 topic: 
 first_letter: T

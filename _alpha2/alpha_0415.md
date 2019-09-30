@@ -6,7 +6,7 @@ head:
 entry: Heritage
 topic: Heritage
 first_letter: H
-xref: Clergy|<a href='/New_Beehive/toc_vol2/toc2_334/'>1700 [Inheritage]</a>
+xref: Clergy|<a href='/New_Beehive/toc/toc2_334/'>1700 [Inheritage]</a>
 see: 
 page: 
 add: 

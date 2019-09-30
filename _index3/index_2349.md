@@ -3,7 +3,7 @@ pid: index_2349
 volume: Volume 3
 image_number: '29'
 head: wanton love
-entry: "<a href='/New_Beehive/toc_vol2/toc2_274/'>1402 [Lasciviousness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_0955
 volume: Volume 3
 image_number: '15'
 head: day of humiliation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_091/'>298 [Day of humiliation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_091/'>298 [Day of humiliation]</a>"
 topic: 
 first_letter: D
 xref: 

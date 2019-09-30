@@ -3,7 +3,7 @@ pid: index_3579
 volume: Volume 3
 image_number: '41'
 head: seasonable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_133/'>578 [Seasonable]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2203
+entry: "<a href='/New_Beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/New_Beehive/toc/toc2_386/'>2203
   [Seasonable Opportunity]</a>"
 topic: 
 first_letter: S

@@ -3,8 +3,8 @@ pid: index_4248
 volume: Volume 3
 image_number: '48'
 head: trouble
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>282 [Troublesom]</a>|<a href='/New_Beehive/toc_vol2/toc2_148/'>661
-  [To trouble]</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1354 [Perplexity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_089/'>282 [Troublesom]</a>|<a href='/New_Beehive/toc/toc2_148/'>661
+  [To trouble]</a>|<a href='/New_Beehive/toc/toc2_264/'>1354 [Perplexity]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -7,7 +7,7 @@ entry: Whoredom
 topic: Whoredom
 first_letter: W
 xref: "<a href='/New_Beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/New_Beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
-  href='/New_Beehive/toc_vol2/toc2_132/'>571 [Fornication or Whoredom]</a>"
+  href='/New_Beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
 see: 
 page: 
 add: 

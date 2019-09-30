@@ -7,7 +7,7 @@ entry: Power
 topic: Power
 first_letter: P
 xref: "<a href='/New_Beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/New_Beehive/alpha2/alpha_0339/'>Force</a>|<a
-  href='/New_Beehive/alpha3/alpha_0472/'>Infirmity</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2362
+  href='/New_Beehive/alpha3/alpha_0472/'>Infirmity</a>|<a href='/New_Beehive/toc/toc2_411/'>2362
   [Power]</a>"
 see: 
 page: 

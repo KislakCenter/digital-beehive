@@ -3,7 +3,7 @@ pid: index_1509
 volume: Volume 3
 image_number: '21'
 head: foreward
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>541 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>541 [WORD_MISSING]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,8 +3,8 @@ pid: index_3476
 volume: Volume 3
 image_number: '40'
 head: Sabbath
-entry: "<a href='/New_Beehive/alpha4/alpha_0812/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>930
-  [Sabbath]</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1589 [Sabbath]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0812/'>a</a>|<a href='/New_Beehive/toc/toc2_173/'>930
+  [Sabbath]</a>|<a href='/New_Beehive/toc/toc2_312/'>1589 [Sabbath]</a>"
 topic: 
 first_letter: S
 xref: 

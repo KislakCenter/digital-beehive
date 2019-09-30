@@ -3,7 +3,7 @@ pid: index_4266
 volume: Volume 3
 image_number: '49'
 head: turk
-entry: "<a href='/New_Beehive/alpha5/alpha_0973/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2053
+entry: "<a href='/New_Beehive/alpha5/alpha_0973/'>a</a>|<a href='/New_Beehive/toc/toc2_371/'>2053
   [Turk]</a>"
 topic: 
 first_letter: T

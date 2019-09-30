@@ -6,8 +6,8 @@ head:
 entry: Calumny
 topic: Calumny
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/New_Beehive/toc_vol2/toc2_147/'>653
-  [Slander]</a>|<a href='/New_Beehive/toc_vol2/toc2_151/'>680 [Scheltwort]</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/New_Beehive/toc/toc2_147/'>653
+  [Slander]</a>|<a href='/New_Beehive/toc/toc2_151/'>680 [Scheltwort]</a>"
 see: 
 page: 
 add: 

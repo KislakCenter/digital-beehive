@@ -6,7 +6,7 @@ head:
 entry: Increase
 topic: Increase
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/New_Beehive/toc_vol2/toc2_138/'>604
+xref: "<a href='/New_Beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/New_Beehive/toc/toc2_138/'>604
   [Increase]</a>"
 see: 
 page: 

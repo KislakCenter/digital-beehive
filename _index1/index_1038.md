@@ -3,7 +3,7 @@ pid: index_1038
 volume: Volume 3
 image_number: '16'
 head: devour
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1926 [Swallowing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1926 [Swallowing]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Misfortunes
 topic: Misfortunes
 first_letter: M
-xref: Unhappiness|<a href='/New_Beehive/toc_vol2/toc2_336/'>1714 [Misfortune]</a>
+xref: Unhappiness|<a href='/New_Beehive/toc/toc2_336/'>1714 [Misfortune]</a>
 see: 
 page: 
 add: 

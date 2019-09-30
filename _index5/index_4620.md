@@ -3,8 +3,8 @@ pid: index_4620
 volume: Volume 3
 image_number: '53'
 head: worldly
-entry: "<a href='/New_Beehive/alpha5/alpha_1048/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_201/'>1037
-  [Worldly]</a>|<a href='/New_Beehive/toc_vol2/toc2_304/'>1549 [Worldly]</a>|<a href='/New_Beehive/toc_vol2/toc2_447/'>4919
+entry: "<a href='/New_Beehive/alpha5/alpha_1048/'>a</a>|<a href='/New_Beehive/toc/toc2_201/'>1037
+  [Worldly]</a>|<a href='/New_Beehive/toc/toc2_304/'>1549 [Worldly]</a>|<a href='/New_Beehive/toc/toc2_447/'>4919
   [Worldly]</a>"
 topic: 
 first_letter: W

@@ -3,7 +3,7 @@ pid: index_2926
 volume: Volume 3
 image_number: '34'
 head: pavemt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_441/'>4871 [Pavement]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_441/'>4871 [Pavement]</a>"
 topic: 
 first_letter: P
 xref: 

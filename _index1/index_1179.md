@@ -3,7 +3,7 @@ pid: index_1179
 volume: Volume 3
 image_number: '18'
 head: to dwell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_283/'>1446 [To Dwell]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_283/'>1446 [To Dwell]</a>"
 topic: 
 first_letter: D
 xref: 

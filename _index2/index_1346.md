@@ -3,7 +3,7 @@ pid: index_1346
 volume: Volume 3
 image_number: '19'
 head: exercise
-entry: "<a href='/New_Beehive/alpha2/alpha_0297/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1345
+entry: "<a href='/New_Beehive/alpha2/alpha_0297/'>a</a>|<a href='/New_Beehive/toc/toc2_262/'>1345
   [Exercise]</a>"
 topic: 
 first_letter: E

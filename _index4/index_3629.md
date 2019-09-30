@@ -3,7 +3,7 @@ pid: index_3629
 volume: Volume 3
 image_number: '42'
 head: Self righteousness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_064/'>75 [Self-righteousness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_064/'>75 [Self-righteousness]</a>"
 topic: 
 first_letter: S
 xref: 

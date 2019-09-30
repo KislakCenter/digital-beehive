@@ -3,9 +3,8 @@ pid: index_0730
 volume: Volume 3
 image_number: '13'
 head: comedy
-entry: "<a href='/New_Beehive/alpha1/alpha_0153/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_169/'>909
-  [Comedies]</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1380 [Comedie]</a>|4558
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha1/alpha_0153/'>a</a>|<a href='/New_Beehive/toc/toc2_169/'>909
+  [Comedies]</a>|<a href='/New_Beehive/toc/toc2_269/'>1380 [Comedie]</a>|4558 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

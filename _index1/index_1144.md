@@ -3,7 +3,7 @@ pid: index_1144
 volume: Volume 3
 image_number: '17'
 head: Drawings of God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>642 [To Draw]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>642 [To Draw]</a>"
 topic: 
 first_letter: D
 xref: 

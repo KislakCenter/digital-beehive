@@ -3,7 +3,7 @@ pid: index_3898
 volume: Volume 3
 image_number: '45'
 head: stern
-entry: "<a href='/New_Beehive/toc_vol2/toc2_147/'>655 [Sterness]</a>|4738 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_147/'>655 [Sterness]</a>|4738 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

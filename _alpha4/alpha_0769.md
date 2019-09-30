@@ -6,9 +6,7 @@ head:
 entry: Reading
 topic: Reading
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0339/'>Force</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1049
-  [of Compulsion in Matters of Religion]</a>|<a href='/New_Beehive/toc_vol2/toc2_085/'>253
-  [Rape]</a>|<a href='/New_Beehive/toc_vol2/toc2_212/'>1091 [Reading]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_212/'>1091 [Reading]</a>"
 see: 
 page: 
 add: 

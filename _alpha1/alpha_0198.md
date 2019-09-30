@@ -6,9 +6,7 @@ head:
 entry: Crown
 topic: Crown
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0682/'>Passion</a>|<a href='/New_Beehive/alpha3/alpha_0570/'>Martyr</a>|<a
-  href='/New_Beehive/alpha3/alpha_0606/'>Mortifying</a>|<a href='/New_Beehive/alpha5/alpha_1017/'>Small
-  Way</a>"
+xref: 4544 [PAGE_MISSING]
 see: 
 page: 
 add: 

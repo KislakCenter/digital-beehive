@@ -3,7 +3,7 @@ pid: index_3835
 volume: Volume 3
 image_number: '44'
 head: to spend
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>715 [Expenses]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>878
+entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [Expenses]</a>|<a href='/New_Beehive/toc/toc2_163/'>878
   [to Spend]</a>"
 topic: 
 first_letter: S

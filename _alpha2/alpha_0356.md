@@ -7,7 +7,7 @@ entry: Gentleness
 topic: Gentleness
 first_letter: G
 xref: "<a href='/New_Beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/New_Beehive/alpha2/alpha_0435/'>Humanity</a>|Moderation|<a
-  href='/New_Beehive/toc_vol2/toc2_235/'>1206 [Gentleness]</a>"
+  href='/New_Beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
 see: 
 page: 
 add: 

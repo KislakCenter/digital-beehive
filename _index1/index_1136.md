@@ -3,9 +3,9 @@ pid: index_1136
 volume: Volume 3
 image_number: '17'
 head: doubt
-entry: "<a href='/New_Beehive/alpha1/alpha_0259/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_156/'>705
-  [Doubtfulness]</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>918 [Doubtful]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_372/'>2061 [Doubt]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0259/'>a</a>|<a href='/New_Beehive/toc/toc2_156/'>705
+  [Doubtfulness]</a>|<a href='/New_Beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/New_Beehive/toc/toc2_372/'>2061
+  [Doubt]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_3336
 volume: Volume 3
 image_number: '39'
 head: refusal
-entry: 806 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_386/'>2204 [Refusal]</a>
+entry: 806 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_386/'>2204 [Refusal]</a>
 topic: 
 first_letter: R
 xref: 

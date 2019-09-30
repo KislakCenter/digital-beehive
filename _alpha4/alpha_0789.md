@@ -6,8 +6,7 @@ head:
 entry: Resignation
 topic: Resignation
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0049/'>Authority</a>|Esteem|<a href='/New_Beehive/alpha4/alpha_0783/'>Renown</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_175/'>937 [Resignation]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_175/'>937 [Resignation]</a>"
 see: 
 page: 
 add: 

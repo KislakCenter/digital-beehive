@@ -6,8 +6,7 @@ head:
 entry: Certainty
 topic: Certainty
 first_letter: C
-xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc_vol2/toc2_218/'>1125 [Ceremonies]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_169/'>908 [Certainty]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_169/'>908 [Certainty]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0638
 volume: Volume 3
 image_number: '12'
 head: China
-entry: "<a href='/New_Beehive/toc_vol2/toc2_364/'>1993 [China]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_364/'>1993 [China]</a>"
 topic: 
 first_letter: C
 xref: 

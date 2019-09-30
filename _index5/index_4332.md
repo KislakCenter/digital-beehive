@@ -3,7 +3,7 @@ pid: index_4332
 volume: Volume 3
 image_number: '49'
 head: St Vincent
-entry: "<a href='/New_Beehive/toc_vol2/toc2_297/'>1513 [St. Vincent]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_297/'>1513 [St. Vincent]</a>"
 topic: 
 first_letter: U/V
 xref: 

@@ -3,7 +3,7 @@ pid: index_4509
 volume: Volume 3
 image_number: '52'
 head: wedding
-entry: "<a href='/New_Beehive/toc_vol2/toc2_235/'>1208 [Wedding]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_235/'>1208 [Wedding]</a>"
 topic: 
 first_letter: W
 xref: 

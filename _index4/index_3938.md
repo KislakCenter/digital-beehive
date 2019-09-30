@@ -3,7 +3,7 @@ pid: index_3938
 volume: Volume 3
 image_number: '45'
 head: strength
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>663 [Strength]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>663 [Strength]</a>"
 topic: 
 first_letter: S
 xref: 

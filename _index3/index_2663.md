@@ -3,7 +3,7 @@ pid: index_2663
 volume: Volume 3
 image_number: '32'
 head: naughtiness
-entry: "<a href='/New_Beehive/alpha3/alpha_0628/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_280/'>1432
+entry: "<a href='/New_Beehive/alpha3/alpha_0628/'>a</a>|<a href='/New_Beehive/toc/toc2_280/'>1432
   [Naughtiness]</a>"
 topic: 
 first_letter: N

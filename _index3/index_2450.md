@@ -3,8 +3,8 @@ pid: index_2450
 volume: Volume 3
 image_number: '30'
 head: matter, eijter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>587 [Corruption & Matter, Eijter]</a>|831
-  [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_313/'>1592 [Teachers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [Corruption & Matter, Eijter]</a>|831
+  [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_313/'>1592 [Teachers]</a>"
 topic: 
 first_letter: M
 xref: 

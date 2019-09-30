@@ -3,7 +3,7 @@ pid: index_2752
 volume: Volume 3
 image_number: '33'
 head: nymph[ae]
-entry: "<a href='/New_Beehive/toc_vol2/toc2_377/'>2120 [Nymphe]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_377/'>2120 [Nymphe]</a>"
 topic: 
 first_letter: N
 xref: 

@@ -3,7 +3,7 @@ pid: index_3910
 volume: Volume 3
 image_number: '45'
 head: Stoicks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_207/'>1067 [Stoicks]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_207/'>1067 [Stoicks]</a>"
 topic: 
 first_letter: S
 xref: 

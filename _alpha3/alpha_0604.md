@@ -6,9 +6,7 @@ head:
 entry: Morning
 topic: Morning
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>880
-  [Moral Philos]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1357 [Moon]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_180/'>969 [morning]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_180/'>969 [morning]</a>"
 see: 
 page: 
 add: 

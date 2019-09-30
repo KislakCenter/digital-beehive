@@ -6,7 +6,7 @@ head:
 entry: Beast
 topic: Beast
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0128/'>Cattel</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1185
+xref: "<a href='/New_Beehive/alpha1/alpha_0128/'>Cattel</a>|<a href='/New_Beehive/toc/toc2_230/'>1185
   [Beasts]</a>"
 see: 
 page: 

@@ -3,9 +3,9 @@ pid: index_0645
 volume: Volume 3
 image_number: '12'
 head: Christ
-entry: "<a href='/New_Beehive/alpha1/alpha_0144/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_087/'>266
-  [Christ]</a>|<a href='/New_Beehive/toc_vol2/toc2_125/'>526 [Xst Jesus]</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1046
-  [Christ]</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1361 [Christ Jesus]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0144/'>a</a>|<a href='/New_Beehive/toc/toc2_087/'>266
+  [Christ]</a>|<a href='/New_Beehive/toc/toc2_125/'>526 [Xst Jesus]</a>|<a href='/New_Beehive/toc/toc2_203/'>1046
+  [Christ]</a>|<a href='/New_Beehive/toc/toc2_266/'>1361 [Christ Jesus]</a>"
 topic: 
 first_letter: C
 xref: 

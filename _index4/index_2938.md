@@ -3,7 +3,7 @@ pid: index_2938
 volume: Volume 3
 image_number: '35'
 head: peccadillo
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>546 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
 topic: 
 first_letter: P
 xref: 

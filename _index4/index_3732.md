@@ -3,7 +3,7 @@ pid: index_3732
 volume: Volume 3
 image_number: '43'
 head: Sirach
-entry: "<a href='/New_Beehive/toc_vol2/toc2_424/'>4464 [Ecclassiaticas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [Ecclassiaticas]</a>"
 topic: 
 first_letter: S
 xref: 

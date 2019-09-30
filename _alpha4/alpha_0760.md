@@ -6,8 +6,7 @@ head:
 entry: Quicksilver
 topic: Quicksilver
 first_letter: Q
-xref: "<a href='/New_Beehive/alpha2/alpha_0293/'>Examination</a>|<a href='/New_Beehive/toc_vol2/toc2_205/'>1058
-  [Queries]</a>|<a href='/New_Beehive/toc_vol2/toc2_308/'>1566 [Quicksilver]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
 see: 
 page: 
 add: 

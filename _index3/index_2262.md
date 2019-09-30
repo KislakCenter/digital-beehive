@@ -3,7 +3,7 @@ pid: index_2262
 volume: Volume 3
 image_number: '28'
 head: lethargy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>292 [Drowsiness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_090/'>292 [Drowsiness]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,9 +3,8 @@ pid: index_0093
 volume: Volume 3
 image_number: '7'
 head: Alexand M.
-entry: "<a href='/New_Beehive/toc_vol2/toc2_219/'>1128 [Alexander M]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1711
-  [Alexander the Great]</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2067 [Alexander
-  M]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_219/'>1128 [Alexander M]</a>|<a href='/New_Beehive/toc/toc2_336/'>1711
+  [Alexander the Great]</a>|<a href='/New_Beehive/toc/toc2_372/'>2067 [Alexander M]</a>"
 topic: 
 first_letter: A
 xref: 

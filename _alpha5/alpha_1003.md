@@ -6,7 +6,7 @@ head:
 entry: Voracity
 topic: Voracity
 first_letter: U/V
-xref: glutton|<a href='/New_Beehive/toc_vol2/toc2_151/'>677 [Voracity]</a>
+xref: glutton|<a href='/New_Beehive/toc/toc2_151/'>677 [Voracity]</a>
 see: 
 page: 
 add: 

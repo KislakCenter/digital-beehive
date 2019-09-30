@@ -3,7 +3,7 @@ pid: index_2445
 volume: Volume 3
 image_number: '30'
 head: master
-entry: "<a href='/New_Beehive/alpha3/alpha_0573/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_258/'>1323
+entry: "<a href='/New_Beehive/alpha3/alpha_0573/'>a</a>|<a href='/New_Beehive/toc/toc2_258/'>1323
   [Master's]</a>|4618 [PAGE_MISSING]"
 topic: 
 first_letter: M

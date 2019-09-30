@@ -3,8 +3,8 @@ pid: index_3044
 volume: Volume 3
 image_number: '36'
 head: be pleased
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>333 [Exclamations of Interjections]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_214/'>1102 [Be blessed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>333 [Exclamations of Interjections]</a>|<a
+  href='/New_Beehive/toc/toc2_214/'>1102 [Be blessed]</a>"
 topic: 
 first_letter: P
 xref: 

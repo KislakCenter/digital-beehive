@@ -3,7 +3,7 @@ pid: index_2946
 volume: Volume 3
 image_number: '35'
 head: Is. Penington
-entry: "<a href='/New_Beehive/toc_vol2/toc2_203/'>1050 [Isaac Penington]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_203/'>1050 [Isaac Penington]</a>"
 topic: 
 first_letter: P
 xref: 

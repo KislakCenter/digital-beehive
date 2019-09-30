@@ -3,8 +3,8 @@ pid: index_0652
 volume: Volume 3
 image_number: '13'
 head: christians
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>216 [christians]</a>|<a href='/New_Beehive/toc_vol2/toc2_340/'>1751
-  [Christians]</a>|<a href='/New_Beehive/toc_vol2/toc2_392/'>2245 [Failings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>216 [christians]</a>|<a href='/New_Beehive/toc/toc2_340/'>1751
+  [Christians]</a>|<a href='/New_Beehive/toc/toc2_392/'>2245 [Failings]</a>"
 topic: 
 first_letter: C
 xref: 

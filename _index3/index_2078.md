@@ -3,7 +3,7 @@ pid: index_2078
 volume: Volume 3
 image_number: '26'
 head: interpretation
-entry: "<a href='/New_Beehive/alpha3/alpha_0484/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>923
+entry: "<a href='/New_Beehive/alpha3/alpha_0484/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>923
   [Interpretation]</a>"
 topic: 
 first_letter: I/J

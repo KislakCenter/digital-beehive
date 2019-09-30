@@ -6,7 +6,7 @@ head:
 entry: Obscurity
 topic: Obscurity
 first_letter: O
-xref: Plainness|<a href='/New_Beehive/toc_vol2/toc2_252/'>1292 [Obscurity]</a>
+xref: Plainness|<a href='/New_Beehive/toc/toc2_252/'>1292 [Obscurity]</a>
 see: 
 page: 
 add: 

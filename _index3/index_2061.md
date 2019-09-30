@@ -3,7 +3,7 @@ pid: index_2061
 volume: Volume 3
 image_number: '26'
 head: inseparable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_124/'>521 [Inseparable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_124/'>521 [Inseparable]</a>"
 topic: 
 first_letter: I/J
 xref: 

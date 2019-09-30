@@ -6,9 +6,7 @@ head:
 entry: Stomach
 topic: Stomach
 first_letter: S
-xref: Astrology|<a href='/New_Beehive/alpha1/alpha_0154/'>Comet</a>|<a href='/New_Beehive/alpha4/alpha_0705/'>Planets</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_265/'>1358 [Star]</a>||||<a href='/New_Beehive/toc_vol2/toc2_380/'>2144
-  [Stomach]</a>
+xref: "<a href='/New_Beehive/toc/toc2_380/'>2144 [Stomach]</a>"
 see: 
 page: 
 add: 

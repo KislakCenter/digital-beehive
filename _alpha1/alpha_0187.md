@@ -6,8 +6,7 @@ head:
 entry: to Court or to Wooe
 topic: to Court or to Wooe
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0562/'>Magnanimity</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1143
-  [Courage]</a>|<a href='/New_Beehive/toc_vol2/toc2_170/'>912 [To Wooe]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_170/'>912 [To Wooe]</a>"
 see: 
 page: 
 add: 

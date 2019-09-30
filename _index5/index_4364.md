@@ -3,7 +3,7 @@ pid: index_4364
 volume: Volume 3
 image_number: '50'
 head: unclean
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1916 [Unclean]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1916 [Unclean]</a>"
 topic: 
 first_letter: U/V
 xref: 

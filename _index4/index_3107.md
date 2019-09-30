@@ -3,7 +3,7 @@ pid: index_3107
 volume: Volume 3
 image_number: '36'
 head: praise of men
-entry: "<a href='/New_Beehive/toc_vol2/toc2_216/'>1112 [Praise of God]</a>|1871 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_216/'>1112 [Praise of God]</a>|1871 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

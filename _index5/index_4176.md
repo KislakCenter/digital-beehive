@@ -3,7 +3,7 @@ pid: index_4176
 volume: Volume 3
 image_number: '48'
 head: too consciec.
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1598 [Too Good]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1598 [Too Good]</a>"
 topic: 
 first_letter: T
 xref: 

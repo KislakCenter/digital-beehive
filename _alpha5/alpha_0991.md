@@ -6,8 +6,7 @@ head:
 entry: Unction
 topic: Unction
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0308/'>faith</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2070
-  [unbelief]</a>|"
+xref: 
 see: 
 page: 
 add: 

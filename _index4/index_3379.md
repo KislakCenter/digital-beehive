@@ -3,7 +3,7 @@ pid: index_3379
 volume: Volume 3
 image_number: '39'
 head: reprobates
-entry: "<a href='/New_Beehive/toc_vol2/toc2_070/'>139 [Reprobates]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_070/'>139 [Reprobates]</a>"
 topic: 
 first_letter: R
 xref: 

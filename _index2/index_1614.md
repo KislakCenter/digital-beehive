@@ -3,7 +3,7 @@ pid: index_1614
 volume: Volume 3
 image_number: '22'
 head: to gird
-entry: "<a href='/New_Beehive/toc_vol2/toc2_154/'>691 [to Gird]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_154/'>691 [to Gird]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -3,7 +3,7 @@ pid: index_0448
 volume: Volume 3
 image_number: '11'
 head: breed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_364/'>1994 [good Breed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_364/'>1994 [good Breed]</a>"
 topic: 
 first_letter: B
 xref: 

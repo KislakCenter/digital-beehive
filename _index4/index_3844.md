@@ -3,7 +3,7 @@ pid: index_3844
 volume: Volume 3
 image_number: '44'
 head: to spin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>706 [To Spin]</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1019
+entry: "<a href='/New_Beehive/toc/toc2_157/'>706 [To Spin]</a>|<a href='/New_Beehive/toc/toc2_197/'>1019
   [Spinning]</a>"
 topic: 
 first_letter: S

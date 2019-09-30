@@ -3,7 +3,7 @@ pid: index_0031
 volume: Volume 3
 image_number: '7'
 head: acidul[ae]
-entry: "<a href='/New_Beehive/toc_vol2/toc2_330/'>1680 [Hot Baths]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_330/'>1680 [Hot Baths]</a>"
 topic: 
 first_letter: A
 xref: 

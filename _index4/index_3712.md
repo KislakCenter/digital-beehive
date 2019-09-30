@@ -3,7 +3,7 @@ pid: index_3712
 volume: Volume 3
 image_number: '43'
 head: silver
-entry: "<a href='/New_Beehive/toc_vol2/toc2_165/'>887 [Silver]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_165/'>887 [Silver]</a>"
 topic: 
 first_letter: S
 xref: 

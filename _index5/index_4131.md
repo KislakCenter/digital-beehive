@@ -3,7 +3,7 @@ pid: index_4131
 volume: Volume 3
 image_number: '47'
 head: threshing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_382/'>2164 [Threshing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_382/'>2164 [Threshing]</a>"
 topic: 
 first_letter: T
 xref: 

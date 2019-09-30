@@ -3,7 +3,7 @@ pid: index_0573
 volume: Volume 3
 image_number: '12'
 head: to cease
-entry: "<a href='/New_Beehive/toc_vol2/toc2_087/'>268 [to Cease]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_087/'>268 [to Cease]</a>"
 topic: 
 first_letter: C
 xref: 

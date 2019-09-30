@@ -3,8 +3,8 @@ pid: index_3387
 volume: Volume 3
 image_number: '39'
 head: resignation
-entry: "<a href='/New_Beehive/alpha4/alpha_0789/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_227/'>1167
-  [Resignation]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2285 [Resignation]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0789/'>a</a>|<a href='/New_Beehive/toc/toc2_227/'>1167
+  [Resignation]</a>|<a href='/New_Beehive/toc/toc2_400/'>2285 [Resignation]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,8 +3,8 @@ pid: index_2545
 volume: Volume 3
 image_number: '31'
 head: mistake
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>234 [Mistake]</a>|<a href='/New_Beehive/toc_vol2/toc2_306/'>1560
-  [Mistake]</a>|<a href='/New_Beehive/toc_vol2/toc2_422/'>4446 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>234 [Mistake]</a>|<a href='/New_Beehive/toc/toc2_306/'>1560
+  [Mistake]</a>|<a href='/New_Beehive/toc/toc2_422/'>4446 [WORD_MISSING]</a>"
 topic: 
 first_letter: M
 xref: 

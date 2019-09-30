@@ -3,8 +3,8 @@ pid: index_2281
 volume: Volume 3
 image_number: '28'
 head: lie
-entry: "<a href='/New_Beehive/alpha3/alpha_0534/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>513
-  [Lies]</a>|<a href='/New_Beehive/toc_vol2/toc2_374/'>2085 [Lying]</a>|<a href='/New_Beehive/toc_vol2/toc2_432/'>4816
+entry: "<a href='/New_Beehive/alpha3/alpha_0534/'>a</a>|<a href='/New_Beehive/toc/toc2_122/'>513
+  [Lies]</a>|<a href='/New_Beehive/toc/toc2_374/'>2085 [Lying]</a>|<a href='/New_Beehive/toc/toc2_432/'>4816
   [WORD_MISSING]</a>"
 topic: 
 first_letter: L

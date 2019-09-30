@@ -6,9 +6,7 @@ head:
 entry: Longsufferance
 topic: Longsufferance
 first_letter: L
-xref: "<a href='/New_Beehive/toc_vol2/toc2_065/'>84 [Antiquary]</a>|<a href='/New_Beehive/toc_vol2/toc2_074/'>172
-  [Means and Cause]</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1468 [London]</a>|<a
-  href='/New_Beehive/alpha2/alpha_0337/'>forbearance</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0337/'>forbearance</a>"
 see: 
 page: 
 add: 

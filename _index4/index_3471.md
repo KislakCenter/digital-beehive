@@ -3,7 +3,7 @@ pid: index_3471
 volume: Volume 3
 image_number: '40'
 head: run away
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1339 [Run away]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [Run away]</a>"
 topic: 
 first_letter: R
 xref: 

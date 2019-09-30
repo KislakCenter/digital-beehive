@@ -3,7 +3,7 @@ pid: index_4231
 volume: Volume 3
 image_number: '48'
 head: trees
-entry: "<a href='/New_Beehive/alpha5/alpha_0969/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1648
+entry: "<a href='/New_Beehive/alpha5/alpha_0969/'>a</a>|<a href='/New_Beehive/toc/toc2_324/'>1648
   [Trees]</a>"
 topic: 
 first_letter: T

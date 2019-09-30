@@ -3,7 +3,7 @@ pid: index_2697
 volume: Volume 3
 image_number: '32'
 head: new Jersey
-entry: "<a href='/New_Beehive/toc_vol2/toc2_299/'>1522 [New Jersey]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_299/'>1522 [New Jersey]</a>"
 topic: 
 first_letter: N
 xref: 

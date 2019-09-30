@@ -3,7 +3,7 @@ pid: index_0898
 volume: Volume 3
 image_number: '15'
 head: creator
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1705 [Creators]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1705 [Creators]</a>"
 topic: 
 first_letter: C
 xref: 

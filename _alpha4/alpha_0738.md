@@ -6,8 +6,7 @@ head:
 entry: Prohibition
 topic: Prohibition
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0468/'>Increase</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha2/alpha_0338/'>forbidden things</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0338/'>forbidden things</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0554
 volume: Volume 3
 image_number: '12'
 head: to cast down
-entry: "<a href='/New_Beehive/toc_vol2/toc2_167/'>897 [To cast down]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_167/'>897 [To cast down]</a>"
 topic: 
 first_letter: C
 xref: 

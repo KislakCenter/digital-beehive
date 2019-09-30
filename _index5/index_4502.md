@@ -3,7 +3,7 @@ pid: index_4502
 volume: Volume 3
 image_number: '52'
 head: weary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>719 [Weariness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>719 [Weariness]</a>"
 topic: 
 first_letter: W
 xref: 

@@ -3,8 +3,8 @@ pid: index_3727
 volume: Volume 3
 image_number: '43'
 head: Singing
-entry: "<a href='/New_Beehive/alpha4/alpha_0872/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_118/'>483
-  [Singing]</a>|<a href='/New_Beehive/toc_vol2/toc2_293/'>1499 [Singing]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0872/'>a</a>|<a href='/New_Beehive/toc/toc2_118/'>483
+  [Singing]</a>|<a href='/New_Beehive/toc/toc2_293/'>1499 [Singing]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_3556
 volume: Volume 3
 image_number: '41'
 head: scorpion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_264/'>1353 [Scorpion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Scorpion]</a>"
 topic: 
 first_letter: S
 xref: 

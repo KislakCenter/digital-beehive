@@ -3,9 +3,9 @@ pid: index_1627
 volume: Volume 3
 image_number: '22'
 head: gloss
-entry: "<a href='/New_Beehive/alpha2/alpha_0362/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_069/'>121
-  [Gloss]</a>|<a href='/New_Beehive/toc_vol2/toc2_091/'>299 [idle fancies]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_370/'>2046 [Gloss]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0362/'>a</a>|<a href='/New_Beehive/toc/toc2_069/'>121
+  [Gloss]</a>|<a href='/New_Beehive/toc/toc2_091/'>299 [idle fancies]</a>|<a href='/New_Beehive/toc/toc2_370/'>2046
+  [Gloss]</a>"
 topic: 
 first_letter: G
 xref: 

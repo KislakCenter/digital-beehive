@@ -3,9 +3,9 @@ pid: index_4649
 volume: Volume 3
 image_number: '53'
 head: yielding
-entry: "<a href='/New_Beehive/alpha5/alpha_1059/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_147/'>657
-  [Yielding or Submission]</a>|<a href='/New_Beehive/toc_vol2/toc2_241/'>1239 [Yielding]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_288/'>1474 [Yielding]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1059/'>a</a>|<a href='/New_Beehive/toc/toc2_147/'>657
+  [Yielding or Submission]</a>|<a href='/New_Beehive/toc/toc2_241/'>1239 [Yielding]</a>|<a
+  href='/New_Beehive/toc/toc2_288/'>1474 [Yielding]</a>"
 topic: 
 first_letter: Y
 xref: 

@@ -3,7 +3,7 @@ pid: index_0014
 volume: Volume 3
 image_number: '7'
 head: absolutely
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1475 [Absolutely]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1475 [Absolutely]</a>"
 topic: 
 first_letter: A
 xref: 

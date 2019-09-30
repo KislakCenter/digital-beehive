@@ -3,7 +3,7 @@ pid: index_4446
 volume: Volume 3
 image_number: '51'
 head: usurpation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>628 [Invasion]</a>|<a href='/New_Beehive/toc_vol2/toc2_361/'>1970
+entry: "<a href='/New_Beehive/toc/toc2_142/'>628 [Invasion]</a>|<a href='/New_Beehive/toc/toc2_361/'>1970
   [Usurpation]</a>"
 topic: 
 first_letter: U/V

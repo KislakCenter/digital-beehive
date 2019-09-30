@@ -3,7 +3,7 @@ pid: index_4076
 volume: Volume 3
 image_number: '47'
 head: to tear
-entry: "<a href='/New_Beehive/toc_vol2/toc2_338/'>1740 [To tear]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_338/'>1740 [To tear]</a>"
 topic: 
 first_letter: T
 xref: 

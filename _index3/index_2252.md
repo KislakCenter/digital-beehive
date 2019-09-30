@@ -3,7 +3,7 @@ pid: index_2252
 volume: Volume 3
 image_number: '28'
 head: legion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1529 [Legion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1529 [Legion]</a>"
 topic: 
 first_letter: L
 xref: 

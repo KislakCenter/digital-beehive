@@ -3,7 +3,7 @@ pid: index_0535
 volume: Volume 3
 image_number: '11'
 head: captivity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>351 [Captivity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>351 [Captivity]</a>"
 topic: 
 first_letter: C
 xref: 

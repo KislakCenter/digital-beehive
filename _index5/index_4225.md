@@ -3,7 +3,7 @@ pid: index_4225
 volume: Volume 3
 image_number: '48'
 head: to tread upon
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>396 [To tread (down) upon]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>396 [To tread (down) upon]</a>"
 topic: 
 first_letter: T
 xref: 

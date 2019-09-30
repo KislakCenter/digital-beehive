@@ -3,7 +3,7 @@ pid: index_2798
 volume: Volume 3
 image_number: '33'
 head: onomantia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_085/'>254 [Name]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_085/'>254 [Name]</a>"
 topic: 
 first_letter: O
 xref: 

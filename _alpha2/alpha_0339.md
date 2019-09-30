@@ -6,8 +6,7 @@ head:
 entry: Force
 topic: Force
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0158/'>Com[m]andmt</a>|<a href='/New_Beehive/alpha4/alpha_0738/'>Prohibitions</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_203/'>1049 [Persecution]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_203/'>1049 [Persecution]</a>"
 see: 
 page: 
 add: 

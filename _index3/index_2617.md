@@ -3,8 +3,8 @@ pid: index_2617
 volume: Volume 3
 image_number: '31'
 head: murmuring
-entry: "<a href='/New_Beehive/toc_vol2/toc2_251/'>1288 [Murmurings agt God]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_418/'>2419 [Murmuring]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_251/'>1288 [Murmurings agt God]</a>|<a href='/New_Beehive/toc/toc2_418/'>2419
+  [Murmuring]</a>"
 topic: 
 first_letter: M
 xref: 

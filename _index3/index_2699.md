@@ -3,8 +3,8 @@ pid: index_2699
 volume: Volume 3
 image_number: '32'
 head: new terms
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [Terms in didascalia]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_266/'>1364 [Casuists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Terms in didascalia]</a>|<a href='/New_Beehive/toc/toc2_266/'>1364
+  [Casuists]</a>"
 topic: 
 first_letter: N
 xref: 

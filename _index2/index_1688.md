@@ -3,7 +3,7 @@ pid: index_1688
 volume: Volume 3
 image_number: '22'
 head: grafting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>372 [Grafting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>372 [Grafting]</a>"
 topic: 
 first_letter: G
 xref: 

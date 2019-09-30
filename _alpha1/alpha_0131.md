@@ -7,7 +7,7 @@ entry: Caution
 topic: Caution
 first_letter: C
 xref: "<a href='/New_Beehive/alpha1/alpha_0171/'>Considerateness</a>|<a href='/New_Beehive/alpha4/alpha_0749/'>Providence</a>|<a
-  href='/New_Beehive/alpha1/alpha_0007/'>Admonishing</a>|<a href='/New_Beehive/toc_vol2/toc2_297/'>1511
+  href='/New_Beehive/alpha1/alpha_0007/'>Admonishing</a>|<a href='/New_Beehive/toc/toc2_297/'>1511
   [Warning]</a>"
 see: 
 page: 

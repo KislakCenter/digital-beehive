@@ -6,7 +6,7 @@ head:
 entry: Wars miseries
 topic: Wars miseries
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_139/'>608 [Ruin]</a>|<a href='/New_Beehive/toc_vol2/toc2_277/'>1416
+xref: "<a href='/New_Beehive/toc/toc2_139/'>608 [Ruin]</a>|<a href='/New_Beehive/toc/toc2_277/'>1416
   [Evils of war]</a>"
 see: 
 page: 

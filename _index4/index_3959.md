@@ -3,7 +3,7 @@ pid: index_3959
 volume: Volume 3
 image_number: '45'
 head: subscriptions in lett
-entry: "<a href='/New_Beehive/toc_vol2/toc2_310/'>1576 [Common Subscriptions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_310/'>1576 [Common Subscriptions]</a>"
 topic: 
 first_letter: S
 xref: 

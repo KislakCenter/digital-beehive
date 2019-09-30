@@ -3,7 +3,7 @@ pid: index_0160
 volume: Volume 3
 image_number: '8'
 head: antipathy
-entry: "<a href='/New_Beehive/alpha1/alpha_0034/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>670
+entry: "<a href='/New_Beehive/alpha1/alpha_0034/'>a</a>|<a href='/New_Beehive/toc/toc2_149/'>670
   [Antipathy]</a>"
 topic: 
 first_letter: A

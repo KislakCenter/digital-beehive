@@ -3,7 +3,7 @@ pid: index_0356
 volume: Volume 3
 image_number: '10'
 head: Bermuda
-entry: "<a href='/New_Beehive/toc_vol2/toc2_297/'>1513 [Bermudas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_297/'>1513 [Bermudas]</a>"
 topic: 
 first_letter: B
 xref: 

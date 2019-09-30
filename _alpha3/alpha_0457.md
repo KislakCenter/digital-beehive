@@ -6,8 +6,7 @@ head:
 entry: Imitation
 topic: Imitation
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0659/'>opinion</a>|<a href='/New_Beehive/alpha5/alpha_0943/'>thought</a>|<a
-  href='/New_Beehive/alpha2/alpha_0294/'>Example</a>"
+xref: "<a href='/New_Beehive/alpha2/alpha_0294/'>Example</a>"
 see: 
 page: 
 add: 

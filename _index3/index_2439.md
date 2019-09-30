@@ -3,7 +3,7 @@ pid: index_2439
 volume: Volume 3
 image_number: '30'
 head: Queen Mary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_287/'>1466 [Queen Mary's]</a>|<a href='/New_Beehive/toc_vol2/toc2_385/'>2195
+entry: "<a href='/New_Beehive/toc/toc2_287/'>1466 [Queen Mary's]</a>|<a href='/New_Beehive/toc/toc2_385/'>2195
   [Queen Mary]</a>"
 topic: 
 first_letter: M

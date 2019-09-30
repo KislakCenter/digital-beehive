@@ -7,7 +7,7 @@ entry: Gift
 topic: Gift
 first_letter: G
 xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha3/alpha_0530/'>liberality</a>|<a
-  href='/New_Beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>506
+  href='/New_Beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/New_Beehive/toc/toc2_121/'>506
   [Gift]</a>"
 see: 
 page: 

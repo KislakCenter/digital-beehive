@@ -3,7 +3,7 @@ pid: index_2792
 volume: Volume 3
 image_number: '33'
 head: omnisciency
-entry: "<a href='/New_Beehive/toc_vol2/toc2_404/'>2304 [Omnisciency]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_404/'>2304 [Omnisciency]</a>"
 topic: 
 first_letter: O
 xref: 

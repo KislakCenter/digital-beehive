@@ -3,7 +3,7 @@ pid: index_1926
 volume: Volume 3
 image_number: '25'
 head: Jansenism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_295/'>1508 [Jansenism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_295/'>1508 [Jansenism]</a>"
 topic: 
 first_letter: I/J
 xref: 

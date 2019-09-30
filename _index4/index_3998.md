@@ -3,7 +3,7 @@ pid: index_3998
 volume: Volume 3
 image_number: '46'
 head: surfeits
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>597 [Surfeits]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>597 [Surfeits]</a>"
 topic: 
 first_letter: S
 xref: 

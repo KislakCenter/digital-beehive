@@ -3,7 +3,7 @@ pid: index_0747
 volume: Volume 3
 image_number: '13'
 head: common calamities
-entry: "<a href='/New_Beehive/toc_vol2/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
 topic: 
 first_letter: C
 xref: 

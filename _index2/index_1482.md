@@ -3,8 +3,8 @@ pid: index_1482
 volume: Volume 3
 image_number: '20'
 head: flight
-entry: "<a href='/New_Beehive/alpha2/alpha_0332/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_148/'>660
-  [Flight]</a>|<a href='/New_Beehive/toc_vol2/toc2_260/'>1333 [Flight]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0332/'>a</a>|<a href='/New_Beehive/toc/toc2_148/'>660
+  [Flight]</a>|<a href='/New_Beehive/toc/toc2_260/'>1333 [Flight]</a>"
 topic: 
 first_letter: F
 xref: 

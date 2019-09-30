@@ -3,7 +3,7 @@ pid: index_1965
 volume: Volume 3
 image_number: '25'
 head: impatience
-entry: "<a href='/New_Beehive/alpha3/alpha_0460/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1147
+entry: "<a href='/New_Beehive/alpha3/alpha_0460/'>a</a>|<a href='/New_Beehive/toc/toc2_223/'>1147
   [Impatience]</a>"
 topic: 
 first_letter: I/J

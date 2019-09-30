@@ -3,7 +3,7 @@ pid: index_2527
 volume: Volume 3
 image_number: '30'
 head: ministry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_343/'>1771 [Ministry]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_343/'>1771 [Ministry]</a>"
 topic: 
 first_letter: M
 xref: 

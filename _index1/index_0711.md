@@ -3,7 +3,7 @@ pid: index_0711
 volume: Volume 3
 image_number: '13'
 head: cockatrice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_264/'>1353 [Basilisk or Cockatrice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Basilisk or Cockatrice]</a>"
 topic: 
 first_letter: C
 xref: 

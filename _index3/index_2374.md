@@ -3,7 +3,7 @@ pid: index_2374
 volume: Volume 3
 image_number: '29'
 head: lycanthropia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1535 [Lycanthropia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
 topic: 
 first_letter: L
 xref: 

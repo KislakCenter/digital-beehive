@@ -3,7 +3,7 @@ pid: index_1726
 volume: Volume 3
 image_number: '23'
 head: Guiana
-entry: "<a href='/New_Beehive/toc_vol2/toc2_298/'>1517 [Guiana]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_298/'>1517 [Guiana]</a>"
 topic: 
 first_letter: G
 xref: 

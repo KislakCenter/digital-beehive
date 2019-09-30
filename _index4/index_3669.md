@@ -3,7 +3,7 @@ pid: index_3669
 volume: Volume 3
 image_number: '42'
 head: to shell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>659 [to Shale]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [to Shale]</a>"
 topic: 
 first_letter: S
 xref: 

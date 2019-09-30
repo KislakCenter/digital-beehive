@@ -3,7 +3,7 @@ pid: index_3270
 volume: Volume 3
 image_number: '38'
 head: quintessence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1596 [Quintessence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1596 [Quintessence]</a>"
 topic: 
 first_letter: Q
 xref: 

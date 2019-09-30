@@ -3,7 +3,7 @@ pid: index_3290
 volume: Volume 3
 image_number: '38'
 head: Ranters
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>52 [Ranterism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>52 [Ranterism]</a>"
 topic: 
 first_letter: R
 xref: 

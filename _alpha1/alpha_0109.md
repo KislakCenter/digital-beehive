@@ -7,7 +7,7 @@ entry: Burial
 topic: Burial
 first_letter: B
 xref: "<a href='/New_Beehive/alpha2/alpha_0352/'>funeral</a>|<a href='/New_Beehive/alpha2/alpha_0384/'>grave</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_166/'>894 [Burial]</a>"
+  href='/New_Beehive/toc/toc2_166/'>894 [Burial]</a>"
 see: 
 page: 
 add: 

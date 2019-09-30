@@ -3,7 +3,7 @@ pid: index_0559
 volume: Volume 3
 image_number: '12'
 head: catachresis
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>725 [Catachresis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>725 [Catachresis]</a>"
 topic: 
 first_letter: C
 xref: 

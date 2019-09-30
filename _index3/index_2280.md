@@ -3,7 +3,7 @@ pid: index_2280
 volume: Volume 3
 image_number: '28'
 head: Lidford law
-entry: "<a href='/New_Beehive/toc_vol2/toc2_179/'>961 [Too hasty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_179/'>961 [Too hasty]</a>"
 topic: 
 first_letter: L
 xref: 

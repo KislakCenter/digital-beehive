@@ -6,8 +6,7 @@ head:
 entry: Day
 topic: Day
 first_letter: D
-xref: Pinch|<a href='/New_Beehive/toc_vol2/toc2_150/'>673 [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_237/'>1220
-  [Darkness]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1447 [Day]</a>
+xref: "<a href='/New_Beehive/toc/toc2_283/'>1447 [Day]</a>"
 see: 
 page: 
 add: 

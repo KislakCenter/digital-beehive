@@ -3,7 +3,7 @@ pid: index_4263
 volume: Volume 3
 image_number: '49'
 head: to tumble
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>916 [To Tumble]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [To Tumble]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Tax
 topic: Tax
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/New_Beehive/toc_vol2/toc2_213/'>1097
-  [Tautology]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1359 [The Favour of Princes]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_265/'>1359 [The Favour of Princes]</a>"
 see: 
 page: 
 add: 

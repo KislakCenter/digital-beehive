@@ -3,7 +3,7 @@ pid: index_2319
 volume: Volume 3
 image_number: '28'
 head: locust
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1250 [Grasshoppers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Grasshoppers]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_3729
 volume: Volume 3
 image_number: '43'
 head: singularity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_218/'>1121 [Singularity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_218/'>1121 [Singularity]</a>"
 topic: 
 first_letter: S
 xref: 

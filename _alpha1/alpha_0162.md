@@ -7,7 +7,7 @@ entry: Compassion
 topic: Compassion
 first_letter: C
 xref: "<a href='/New_Beehive/alpha3/alpha_0584/'>Mercy</a>|Quarter|<a href='/New_Beehive/alpha3/alpha_0594/'>misery</a>|Sympathy|<a
-  href='/New_Beehive/alpha1/alpha_0155/'>Comfort</a>|<a href='/New_Beehive/toc_vol2/toc2_281/'>1436
+  href='/New_Beehive/alpha1/alpha_0155/'>Comfort</a>|<a href='/New_Beehive/toc/toc2_281/'>1436
   [Commiseration]</a>"
 see: 
 page: 

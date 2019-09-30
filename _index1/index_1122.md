@@ -3,7 +3,7 @@ pid: index_1122
 volume: Volume 3
 image_number: '17'
 head: doctor
-entry: "<a href='/New_Beehive/alpha1/alpha_0254/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>964
+entry: "<a href='/New_Beehive/alpha1/alpha_0254/'>a</a>|<a href='/New_Beehive/toc/toc2_179/'>964
   [Doctor]</a>|4643 [PAGE_MISSING]"
 topic: 
 first_letter: D

@@ -3,7 +3,7 @@ pid: index_3047
 volume: Volume 3
 image_number: '36'
 head: plots
-entry: "<a href='/New_Beehive/toc_vol2/toc2_295/'>1505 [Popists plots]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_295/'>1505 [Popists plots]</a>"
 topic: 
 first_letter: P
 xref: 

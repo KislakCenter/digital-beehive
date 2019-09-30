@@ -6,7 +6,7 @@ head:
 entry: Rome
 topic: Rome
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1450
+xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc/toc2_283/'>1450
   [Rome]</a>"
 see: 
 page: 

@@ -6,8 +6,7 @@ head:
 entry: Envy
 topic: Envy
 first_letter: E
-xref: "<a href='/New_Beehive/alpha2/alpha_0400/'>Hatred</a>|<a href='/New_Beehive/alpha3/alpha_0555/'>Love
-  of enemies</a>"
+xref: 730 [PAGE_MISSING]
 see: 
 page: 
 add: 

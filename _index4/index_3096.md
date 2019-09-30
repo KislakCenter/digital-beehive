@@ -3,7 +3,7 @@ pid: index_3096
 volume: Volume 3
 image_number: '36'
 head: gun pouder
-entry: "<a href='/New_Beehive/toc_vol2/toc2_234/'>1203 [Pistol Pouder]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_234/'>1203 [Pistol Pouder]</a>"
 topic: 
 first_letter: P
 xref: 

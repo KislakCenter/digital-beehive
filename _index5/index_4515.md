@@ -3,7 +3,7 @@ pid: index_4515
 volume: Volume 3
 image_number: '52'
 head: Welch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_113/'>451 [Welsh or Old Britan]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_113/'>451 [Welsh or Old Britan]</a>"
 topic: 
 first_letter: W
 xref: 

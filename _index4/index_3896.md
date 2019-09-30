@@ -3,7 +3,7 @@ pid: index_3896
 volume: Volume 3
 image_number: '45'
 head: Stephen
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>331 [St. Stephen]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>331 [St. Stephen]</a>"
 topic: 
 first_letter: S
 xref: 

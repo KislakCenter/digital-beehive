@@ -3,8 +3,8 @@ pid: index_3660
 volume: Volume 3
 image_number: '42'
 head: shame
-entry: "<a href='/New_Beehive/alpha4/alpha_0855/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_117/'>478
-  [Shame]</a>|<a href='/New_Beehive/toc_vol2/toc2_443/'>4885 [Shames]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0855/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>478
+  [Shame]</a>|<a href='/New_Beehive/toc/toc2_443/'>4885 [Shames]</a>"
 topic: 
 first_letter: S
 xref: 

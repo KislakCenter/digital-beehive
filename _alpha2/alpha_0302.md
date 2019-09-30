@@ -6,7 +6,7 @@ head:
 entry: 'Extern : Worship'
 topic: External Worship
 first_letter: E
-xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will-Worship</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>207
+xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will-Worship</a>|<a href='/New_Beehive/toc/toc2_078/'>207
   [Outside Religion]</a>"
 see: 
 page: 

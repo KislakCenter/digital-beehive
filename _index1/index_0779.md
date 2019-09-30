@@ -3,7 +3,7 @@ pid: index_0779
 volume: Volume 3
 image_number: '14'
 head: condemnation
-entry: "<a href='/New_Beehive/alpha1/alpha_0165/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1817
+entry: "<a href='/New_Beehive/alpha1/alpha_0165/'>a</a>|<a href='/New_Beehive/toc/toc2_348/'>1817
   [Damnation]</a>"
 topic: 
 first_letter: C

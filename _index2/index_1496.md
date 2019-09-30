@@ -3,7 +3,7 @@ pid: index_1496
 volume: Volume 3
 image_number: '21'
 head: fool & folly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_225/'>1159 [Folly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_225/'>1159 [Folly]</a>"
 topic: 
 first_letter: F
 xref: 

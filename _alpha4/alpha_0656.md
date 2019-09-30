@@ -6,7 +6,7 @@ head:
 entry: Old age
 topic: Old age
 first_letter: O
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc_vol2/toc2_114/'>461
+xref: "<a href='/New_Beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc/toc2_114/'>461
   [Old age]</a>"
 see: 
 page: 

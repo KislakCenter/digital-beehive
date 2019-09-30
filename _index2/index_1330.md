@@ -3,7 +3,7 @@ pid: index_1330
 volume: Volume 3
 image_number: '19'
 head: ex. gr.
-entry: "<a href='/New_Beehive/toc_vol2/toc2_278/'>1422 [Ex. gr.]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [Ex. gr.]</a>"
 topic: 
 first_letter: E
 xref: 

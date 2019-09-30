@@ -3,10 +3,10 @@ pid: index_0885
 volume: Volume 3
 image_number: '15'
 head: to court
-entry: "<a href='/New_Beehive/alpha1/alpha_0187/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_170/'>912
-  [To Wooe]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1389 [Courting women]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_317/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc_vol2/toc2_442/'>4880 [Courtship]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0187/'>a</a>|<a href='/New_Beehive/toc/toc2_170/'>912
+  [To Wooe]</a>|<a href='/New_Beehive/toc/toc2_271/'>1389 [Courting women]</a>|<a
+  href='/New_Beehive/toc/toc2_317/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_442/'>4880
+  [Courtship]</a>"
 topic: 
 first_letter: C
 xref: 

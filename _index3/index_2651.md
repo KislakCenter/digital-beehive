@@ -3,8 +3,8 @@ pid: index_2651
 volume: Volume 3
 image_number: '33'
 head: oath
-entry: "<a href='/New_Beehive/alpha4/alpha_0644/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_133/'>576
-  [Oath]</a>|<a href='/New_Beehive/toc_vol2/toc2_248/'>1272 [Oath]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0644/'>a</a>|<a href='/New_Beehive/toc/toc2_133/'>576
+  [Oath]</a>|<a href='/New_Beehive/toc/toc2_248/'>1272 [Oath]</a>"
 topic: 
 first_letter: N
 xref: 

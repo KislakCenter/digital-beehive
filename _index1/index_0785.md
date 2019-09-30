@@ -3,7 +3,7 @@ pid: index_0785
 volume: Volume 3
 image_number: '14'
 head: confession
-entry: "<a href='/New_Beehive/alpha1/alpha_0167/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_363/'>1981
+entry: "<a href='/New_Beehive/alpha1/alpha_0167/'>a</a>|<a href='/New_Beehive/toc/toc2_363/'>1981
   [Confession]</a>"
 topic: 
 first_letter: C

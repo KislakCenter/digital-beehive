@@ -3,7 +3,7 @@ pid: index_3716
 volume: Volume 3
 image_number: '43'
 head: simples
-entry: "<a href='/New_Beehive/toc_vol2/toc2_154/'>695 [Simples]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_154/'>695 [Simples]</a>"
 topic: 
 first_letter: S
 xref: 

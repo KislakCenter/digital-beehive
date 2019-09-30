@@ -6,7 +6,7 @@ head:
 entry: Rules
 topic: Rules
 first_letter: R
-xref: "<a href='/New_Beehive/toc_vol2/toc2_062/'>51 [Rule]</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>434
+xref: "<a href='/New_Beehive/toc/toc2_062/'>51 [Rule]</a>|<a href='/New_Beehive/toc/toc2_110/'>434
   [Rules]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_3337
 volume: Volume 3
 image_number: '39'
 head: refutation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_083/'>242 [Refutation]</a>|<a href='/New_Beehive/toc_vol2/toc2_250/'>1285
+entry: "<a href='/New_Beehive/toc/toc2_083/'>242 [Refutation]</a>|<a href='/New_Beehive/toc/toc2_250/'>1285
   [Refutation]</a>|1866 [PAGE_MISSING]|4780 [PAGE_MISSING]"
 topic: 
 first_letter: R

@@ -3,7 +3,7 @@ pid: index_0536
 volume: Volume 3
 image_number: '11'
 head: capucins
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1322 [Capucins]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1322 [Capucins]</a>"
 topic: 
 first_letter: C
 xref: 

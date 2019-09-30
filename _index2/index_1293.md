@@ -3,7 +3,7 @@ pid: index_1293
 volume: Volume 3
 image_number: '19'
 head: Erasmus Rot
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1573 [Erasmus Rot]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1573 [Erasmus Rot]</a>"
 topic: 
 first_letter: E
 xref: 

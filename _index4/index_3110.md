@@ -3,8 +3,8 @@ pid: index_3110
 volume: Volume 3
 image_number: '36'
 head: pray!
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>333 [Exclamations or Interjections]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_214/'>1102 [Be blessed]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>333 [Exclamations or Interjections]</a>|<a
+  href='/New_Beehive/toc/toc2_214/'>1102 [Be blessed]</a>"
 topic: 
 first_letter: P
 xref: 

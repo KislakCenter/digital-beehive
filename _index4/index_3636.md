@@ -3,8 +3,8 @@ pid: index_3636
 volume: Volume 3
 image_number: '42'
 head: sense
-entry: "<a href='/New_Beehive/alpha4/alpha_0849/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_181/'>971
-  [Senses]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2057 [Senses]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0849/'>a</a>|<a href='/New_Beehive/toc/toc2_181/'>971
+  [Senses]</a>|<a href='/New_Beehive/toc/toc2_371/'>2057 [Senses]</a>"
 topic: 
 first_letter: S
 xref: 

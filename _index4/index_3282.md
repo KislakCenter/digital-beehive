@@ -3,7 +3,7 @@ pid: index_3282
 volume: Volume 3
 image_number: '38'
 head: ragg
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>123 [Raggs]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_069/'>123 [Raggs]</a>"
 topic: 
 first_letter: R
 xref: 

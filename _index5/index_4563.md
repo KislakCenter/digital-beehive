@@ -3,7 +3,7 @@ pid: index_4563
 volume: Volume 3
 image_number: '53'
 head: artificial Wines
-entry: "<a href='/New_Beehive/toc_vol2/toc2_135/'>590 [artificial Wines]</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1940
+entry: "<a href='/New_Beehive/toc/toc2_135/'>590 [artificial Wines]</a>|<a href='/New_Beehive/toc/toc2_357/'>1940
   [Artificial Wines]</a>"
 topic: 
 first_letter: W

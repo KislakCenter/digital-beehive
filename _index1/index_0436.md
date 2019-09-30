@@ -3,7 +3,7 @@ pid: index_0436
 volume: Volume 3
 image_number: '11'
 head: branded
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>707 [Branded]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>707 [Branded]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -3,7 +3,7 @@ pid: index_1771
 volume: Volume 3
 image_number: '23'
 head: haughtiness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_238/'>1224 [Insolence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_238/'>1224 [Insolence]</a>"
 topic: 
 first_letter: H
 xref: 

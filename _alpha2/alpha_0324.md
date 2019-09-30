@@ -6,7 +6,7 @@ head:
 entry: Fire
 topic: Fire
 first_letter: F
-xref: Incendiary|Coal|<a href='/New_Beehive/toc_vol2/toc2_224/'>1152 [Fire]</a>
+xref: Incendiary|Coal|<a href='/New_Beehive/toc/toc2_224/'>1152 [Fire]</a>
 see: 
 page: 
 add: 

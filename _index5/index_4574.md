@@ -3,7 +3,7 @@ pid: index_4574
 volume: Volume 3
 image_number: '53'
 head: John de Wit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_263/'>1349 [John de Wit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_263/'>1349 [John de Wit]</a>"
 topic: 
 first_letter: W
 xref: 

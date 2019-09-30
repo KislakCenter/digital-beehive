@@ -3,7 +3,7 @@ pid: index_3384
 volume: Volume 3
 image_number: '39'
 head: to request
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>336 [To pray]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>336 [To pray]</a>"
 topic: 
 first_letter: R
 xref: 

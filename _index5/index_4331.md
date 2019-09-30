@@ -3,7 +3,7 @@ pid: index_4331
 volume: Volume 3
 image_number: '49'
 head: village
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>162 [City]</a>|1878 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_073/'>162 [City]</a>|1878 [PAGE_MISSING]"
 topic: 
 first_letter: U/V
 xref: 

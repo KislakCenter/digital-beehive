@@ -3,7 +3,7 @@ pid: index_2916
 volume: Volume 3
 image_number: '34'
 head: womens patches
-entry: "<a href='/New_Beehive/toc_vol2/toc2_421/'>2445 [Patches]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_421/'>2445 [Patches]</a>"
 topic: 
 first_letter: P
 xref: 

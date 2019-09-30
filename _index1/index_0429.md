@@ -3,7 +3,7 @@ pid: index_0429
 volume: Volume 3
 image_number: '10'
 head: bowling greens
-entry: "<a href='/New_Beehive/toc_vol2/toc2_350/'>1828 [Bowling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_350/'>1828 [Bowling]</a>"
 topic: 
 first_letter: B
 xref: 

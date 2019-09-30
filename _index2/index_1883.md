@@ -3,7 +3,7 @@ pid: index_1883
 volume: Volume 3
 image_number: '24'
 head: hostage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_372/'>2065 [To give Hostage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_372/'>2065 [To give Hostage]</a>"
 topic: 
 first_letter: H
 xref: 

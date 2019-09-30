@@ -3,7 +3,7 @@ pid: index_0338
 volume: Volume 3
 image_number: '9'
 head: begging the question
-entry: "<a href='/New_Beehive/toc_vol2/toc2_087/'>270 [Begging the Question]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_087/'>270 [Begging the Question]</a>"
 topic: 
 first_letter: B
 xref: 

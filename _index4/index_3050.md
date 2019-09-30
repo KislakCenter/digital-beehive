@@ -3,7 +3,7 @@ pid: index_3050
 volume: Volume 3
 image_number: '36'
 head: plumage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_085/'>257 [Feathers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_085/'>257 [Feathers]</a>"
 topic: 
 first_letter: P
 xref: 

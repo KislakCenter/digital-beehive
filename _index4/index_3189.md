@@ -3,8 +3,8 @@ pid: index_3189
 volume: Volume 3
 image_number: '37'
 head: promise
-entry: "<a href='/New_Beehive/alpha4/alpha_0739/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1428
-  [Promised]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2178 [Promise]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0739/'>a</a>|<a href='/New_Beehive/toc/toc2_279/'>1428
+  [Promised]</a>|<a href='/New_Beehive/toc/toc2_383/'>2178 [Promise]</a>"
 topic: 
 first_letter: P
 xref: 

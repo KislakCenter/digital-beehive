@@ -3,7 +3,7 @@ pid: index_1257
 volume: Volume 3
 image_number: '18'
 head: English histories
-entry: "<a href='/New_Beehive/toc_vol2/toc2_294/'>1503 [Histories of England, Scotland,
+entry: "<a href='/New_Beehive/toc/toc2_294/'>1503 [Histories of England, Scotland,
   &c.]</a>"
 topic: 
 first_letter: E

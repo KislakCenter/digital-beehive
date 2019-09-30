@@ -3,7 +3,7 @@ pid: index_4095
 volume: Volume 3
 image_number: '47'
 head: terms
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [WORD_ILLEGIBLE]</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1364
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [WORD_ILLEGIBLE]</a>|<a href='/New_Beehive/toc/toc2_266/'>1364
   [Casuists]</a>"
 topic: 
 first_letter: T

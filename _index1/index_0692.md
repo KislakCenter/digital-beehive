@@ -3,7 +3,7 @@ pid: index_0692
 volume: Volume 3
 image_number: '13'
 head: clergy benefit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1611 [benefit of the Clergy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1611 [benefit of the Clergy]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Hand
 topic: Hand
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0378/'>gray hairs</a>|<a href='/New_Beehive/alpha4/alpha_0774/'>red
-  haired</a>|<a href='/New_Beehive/toc_vol2/toc2_261/'>1337 [Hair and Perriwigs]</a>|"
+xref: 
 see: 
 page: 
 add: 

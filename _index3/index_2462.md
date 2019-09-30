@@ -3,8 +3,8 @@ pid: index_2462
 volume: Volume 3
 image_number: '30'
 head: meat
-entry: "<a href='/New_Beehive/alpha3/alpha_0575/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_100/'>359
-  [Meat]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2156 [Meat]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0575/'>a</a>|<a href='/New_Beehive/toc/toc2_100/'>359
+  [Meat]</a>|<a href='/New_Beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: M
 xref: 

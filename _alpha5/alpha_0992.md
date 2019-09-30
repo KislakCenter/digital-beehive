@@ -7,7 +7,7 @@ entry: Understanding
 topic: Understanding
 first_letter: U/V
 xref: "<a href='/New_Beehive/alpha3/alpha_0503/'>Knowledge</a>|<a href='/New_Beehive/alpha3/alpha_0525/'>Learning</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_333/'>1693 [Understanding]</a>"
+  href='/New_Beehive/toc/toc2_333/'>1693 [Understanding]</a>"
 see: 
 page: 
 add: 

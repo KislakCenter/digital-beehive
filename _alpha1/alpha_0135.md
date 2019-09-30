@@ -6,10 +6,9 @@ head:
 entry: Change
 topic: Change
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0619/'>Mutation</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>4
-  [After sowre comes the sweet]</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>10 [After
-  high floods (:come:) low ebbs]</a>|<a href='/New_Beehive/toc_vol2/toc2_247/'>1268
-  [Change]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0619/'>Mutation</a>|<a href='/New_Beehive/toc/toc2_058/'>4
+  [After sowre comes the sweet]</a>|<a href='/New_Beehive/toc/toc2_058/'>10 [After
+  high floods (:come:) low ebbs]</a>|<a href='/New_Beehive/toc/toc2_247/'>1268 [Change]</a>"
 see: 
 page: 
 add: 

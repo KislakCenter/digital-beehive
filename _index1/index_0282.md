@@ -3,8 +3,8 @@ pid: index_0282
 volume: Volume 3
 image_number: '9'
 head: bands
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc_vol2/toc2_354/'>1919 [Bands]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
+  href='/New_Beehive/toc/toc2_354/'>1919 [Bands]</a>"
 topic: 
 first_letter: B
 xref: 

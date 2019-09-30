@@ -3,7 +3,7 @@ pid: index_2561
 volume: Volume 3
 image_number: '31'
 head: Moloch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_318/'>1618 [Moloch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_318/'>1618 [Moloch]</a>"
 topic: 
 first_letter: M
 xref: 

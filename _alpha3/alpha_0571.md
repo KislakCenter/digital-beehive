@@ -6,7 +6,7 @@ head:
 entry: Mass
 topic: Mass
 first_letter: M
-xref: Vespers|<a href='/New_Beehive/toc_vol2/toc2_328/'>1668 [Mass]</a>
+xref: Vespers|<a href='/New_Beehive/toc/toc2_328/'>1668 [Mass]</a>
 see: 
 page: 
 add: 

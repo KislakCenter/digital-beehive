@@ -3,7 +3,7 @@ pid: index_1232
 volume: Volume 3
 image_number: '18'
 head: embalm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_320/'>1629 [Mummy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_320/'>1629 [Mummy]</a>"
 topic: 
 first_letter: E
 xref: 

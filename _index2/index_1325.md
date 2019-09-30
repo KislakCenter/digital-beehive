@@ -3,7 +3,7 @@ pid: index_1325
 volume: Volume 3
 image_number: '19'
 head: exactness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>147 [Exactness]</a>|4582 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_071/'>147 [Exactness]</a>|4582 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

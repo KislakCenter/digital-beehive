@@ -6,7 +6,7 @@ head:
 entry: Doubt
 topic: Doubt
 first_letter: D
-xref: Perplexity|Pinch|Scepticsm|<a href='/New_Beehive/toc_vol2/toc2_156/'>705 [Doubtfulness]</a>
+xref: Perplexity|Pinch|Scepticsm|<a href='/New_Beehive/toc/toc2_156/'>705 [Doubtfulness]</a>
 see: 
 page: 
 add: 

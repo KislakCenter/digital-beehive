@@ -3,8 +3,8 @@ pid: index_0812
 volume: Volume 3
 image_number: '14'
 head: conspiracy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>398 [Fifth-monarchy men]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_295/'>1505 [Conspiracy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>398 [Fifth-monarchy men]</a>|<a href='/New_Beehive/toc/toc2_295/'>1505
+  [Conspiracy]</a>"
 topic: 
 first_letter: C
 xref: 

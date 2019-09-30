@@ -3,7 +3,7 @@ pid: index_2098
 volume: Volume 3
 image_number: '26'
 head: inward
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>489 [Turn in!]</a>|<a href='/New_Beehive/toc_vol2/toc2_400/'>2281
+entry: "<a href='/New_Beehive/toc/toc2_119/'>489 [Turn in!]</a>|<a href='/New_Beehive/toc/toc2_400/'>2281
   [Turn in. Inward]</a>"
 topic: 
 first_letter: I/J

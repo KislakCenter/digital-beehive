@@ -3,7 +3,7 @@ pid: index_4041
 volume: Volume 3
 image_number: '46'
 head: tabernacle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_134/'>582 [Articles of faith]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_134/'>582 [Articles of faith]</a>"
 topic: 
 first_letter: T
 xref: 

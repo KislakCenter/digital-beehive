@@ -3,7 +3,7 @@ pid: index_3768
 volume: Volume 3
 image_number: '43'
 head: sneez
-entry: "<a href='/New_Beehive/toc_vol2/toc2_112/'>447 [Snuff]</a>|<a href='/New_Beehive/toc_vol2/toc2_116/'>476
+entry: "<a href='/New_Beehive/toc/toc2_112/'>447 [Snuff]</a>|<a href='/New_Beehive/toc/toc2_116/'>476
   [Sneezing]</a>"
 topic: 
 first_letter: S

@@ -3,7 +3,7 @@ pid: index_1923
 volume: Volume 3
 image_number: '25'
 head: Jacobites
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1789 [Jacobites]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1789 [Jacobites]</a>"
 topic: 
 first_letter: I/J
 xref: 

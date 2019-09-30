@@ -7,7 +7,7 @@ entry: Worshipping
 topic: Worshipping
 first_letter: W
 xref: "<a href='/New_Beehive/alpha4/alpha_0780/'>Religion</a>|<a href='/New_Beehive/alpha2/alpha_0302/'>external
-  worship</a>|<a href='/New_Beehive/toc_vol2/toc2_113/'>456 [Worship]</a>"
+  worship</a>|<a href='/New_Beehive/toc/toc2_113/'>456 [Worship]</a>"
 see: 
 page: 
 add: 

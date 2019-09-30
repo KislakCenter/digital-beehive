@@ -3,8 +3,8 @@ pid: index_1950
 volume: Volume 3
 image_number: '25'
 head: ignorance
-entry: "<a href='/New_Beehive/alpha3/alpha_0452/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_145/'>642
-  [Ignorance]</a>|<a href='/New_Beehive/toc_vol2/toc2_346/'>1798 [the Ignorance]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0452/'>a</a>|<a href='/New_Beehive/toc/toc2_145/'>642
+  [Ignorance]</a>|<a href='/New_Beehive/toc/toc2_346/'>1798 [the Ignorance]</a>"
 topic: 
 first_letter: I/J
 xref: 

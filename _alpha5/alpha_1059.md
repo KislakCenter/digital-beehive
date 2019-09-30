@@ -7,7 +7,7 @@ entry: Yielding
 topic: Yielding
 first_letter: Y
 xref: "<a href='/New_Beehive/alpha1/alpha_0216/'>defence</a>|<a href='/New_Beehive/alpha4/alpha_0790/'>resistance</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_147/'>657 [Yielding or Submission]</a>"
+  href='/New_Beehive/toc/toc2_147/'>657 [Yielding or Submission]</a>"
 see: 
 page: 
 add: 

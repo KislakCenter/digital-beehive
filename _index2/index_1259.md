@@ -3,7 +3,7 @@ pid: index_1259
 volume: Volume 3
 image_number: '18'
 head: English Church latin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_196/'>1015 [English Church Latin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_196/'>1015 [English Church Latin]</a>"
 topic: 
 first_letter: E
 xref: 

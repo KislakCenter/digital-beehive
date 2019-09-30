@@ -3,7 +3,7 @@ pid: index_1256
 volume: Volume 3
 image_number: '18'
 head: English Church
-entry: "<a href='/New_Beehive/toc_vol2/toc2_265/'>1360 [English Church]</a>|<a href='/New_Beehive/toc_vol2/toc2_393/'>2248
+entry: "<a href='/New_Beehive/toc/toc2_265/'>1360 [English Church]</a>|<a href='/New_Beehive/toc/toc2_393/'>2248
   [Church of England]</a>"
 topic: 
 first_letter: E

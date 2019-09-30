@@ -3,7 +3,7 @@ pid: index_0512
 volume: Volume 3
 image_number: '11'
 head: Callis
-entry: "<a href='/New_Beehive/toc_vol2/toc2_287/'>1467 [Callis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_287/'>1467 [Callis]</a>"
 topic: 
 first_letter: C
 xref: 

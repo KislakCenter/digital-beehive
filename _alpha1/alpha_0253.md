@@ -6,11 +6,7 @@ head:
 entry: Discharge
 topic: Discharge
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/New_Beehive/alpha4/alpha_0924/'>Suspition</a>|<a
-  href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|<a href='/New_Beehive/toc_vol2/toc2_268/'>1371
-  [WORD_MISSING]</a>||<a href='/New_Beehive/toc_vol2/toc2_346/'>1799 [Theologia Scholastica]</a>|||<a
-  href='/New_Beehive/alpha1/alpha_0233/'>Difference</a>|<a href='/New_Beehive/toc_vol2/toc2_293/'>1498
-  [Divorsement]</a>|<a href='/New_Beehive/toc_vol2/toc2_282/'>1445 [Dismissing]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
 see: 
 page: 
 add: 

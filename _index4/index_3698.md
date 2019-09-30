@@ -3,7 +3,7 @@ pid: index_3698
 volume: Volume 3
 image_number: '43'
 head: sider
-entry: "<a href='/New_Beehive/toc_vol2/toc2_289/'>1480 [Cider]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_289/'>1480 [Cider]</a>"
 topic: 
 first_letter: S
 xref: 

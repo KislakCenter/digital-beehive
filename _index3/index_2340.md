@@ -3,7 +3,7 @@ pid: index_2340
 volume: Volume 3
 image_number: '29'
 head: love of God
-entry: "<a href='/New_Beehive/alpha3/alpha_0551/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2040
+entry: "<a href='/New_Beehive/alpha3/alpha_0551/'>a</a>|<a href='/New_Beehive/toc/toc2_369/'>2040
   [Love of God]</a>"
 topic: 
 first_letter: L

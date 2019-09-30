@@ -3,7 +3,7 @@ pid: index_2627
 volume: Volume 3
 image_number: '31'
 head: myrrh
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1928 [Myrrh]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1928 [Myrrh]</a>"
 topic: 
 first_letter: M
 xref: 

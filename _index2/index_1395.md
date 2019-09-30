@@ -3,7 +3,7 @@ pid: index_1395
 volume: Volume 3
 image_number: '20'
 head: familiarity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 

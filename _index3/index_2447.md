@@ -3,7 +3,7 @@ pid: index_2447
 volume: Volume 3
 image_number: '30'
 head: materia prima
-entry: "<a href='/New_Beehive/toc_vol2/toc2_331/'>1681 [Creation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_331/'>1681 [Creation]</a>"
 topic: 
 first_letter: M
 xref: 

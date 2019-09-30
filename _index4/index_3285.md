@@ -3,7 +3,7 @@ pid: index_3285
 volume: Volume 3
 image_number: '38'
 head: rainbow
-entry: "<a href='/New_Beehive/alpha4/alpha_0765/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_312/'>1590
+entry: "<a href='/New_Beehive/alpha4/alpha_0765/'>a</a>|<a href='/New_Beehive/toc/toc2_312/'>1590
   [Rainbow]</a>"
 topic: 
 first_letter: R

@@ -3,7 +3,7 @@ pid: index_3268
 volume: Volume 3
 image_number: '38'
 head: quill
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>411 [Quill]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>411 [Quill]</a>"
 topic: 
 first_letter: Q
 xref: 

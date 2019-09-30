@@ -3,8 +3,8 @@ pid: index_4512
 volume: Volume 3
 image_number: '52'
 head: weeping
-entry: "<a href='/New_Beehive/alpha5/alpha_1020/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_143/'>630
-  [Weeping]</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1428 [Weeping]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1020/'>a</a>|<a href='/New_Beehive/toc/toc2_143/'>630
+  [Weeping]</a>|<a href='/New_Beehive/toc/toc2_279/'>1428 [Weeping]</a>"
 topic: 
 first_letter: W
 xref: 

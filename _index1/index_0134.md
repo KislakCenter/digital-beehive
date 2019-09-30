@@ -3,7 +3,7 @@ pid: index_0134
 volume: Volume 3
 image_number: '8'
 head: anagrams
-entry: "<a href='/New_Beehive/alpha1/alpha_0026/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1078
+entry: "<a href='/New_Beehive/alpha1/alpha_0026/'>a</a>|<a href='/New_Beehive/toc/toc2_209/'>1078
   [Anagrams]</a>"
 topic: 
 first_letter: A

@@ -3,8 +3,8 @@ pid: index_2037
 volume: Volume 3
 image_number: '26'
 head: influence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_285/'>1460 [The Influence of the Planets]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_313/'>1593 [Influence]</a>|<a href='/New_Beehive/toc_vol2/toc2_380/'>2148
+entry: "<a href='/New_Beehive/toc/toc2_285/'>1460 [The Influence of the Planets]</a>|<a
+  href='/New_Beehive/toc/toc2_313/'>1593 [Influence]</a>|<a href='/New_Beehive/toc/toc2_380/'>2148
   [Influence]</a>"
 topic: 
 first_letter: I/J

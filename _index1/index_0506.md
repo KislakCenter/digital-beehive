@@ -3,7 +3,7 @@ pid: index_0506
 volume: Volume 3
 image_number: '11'
 head: Cain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_298/'>1520 [Cain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_298/'>1520 [Cain]</a>"
 topic: 
 first_letter: C
 xref: 

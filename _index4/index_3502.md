@@ -3,7 +3,7 @@ pid: index_3502
 volume: Volume 3
 image_number: '40'
 head: salique Law
-entry: "<a href='/New_Beehive/toc_vol2/toc2_338/'>1737 [Womens Imperiosness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_338/'>1737 [Womens Imperiosness]</a>"
 topic: 
 first_letter: S
 xref: 

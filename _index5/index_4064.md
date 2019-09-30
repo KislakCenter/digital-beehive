@@ -3,7 +3,7 @@ pid: index_4064
 volume: Volume 3
 image_number: '46'
 head: tartar
-entry: "<a href='/New_Beehive/toc_vol2/toc2_379/'>2133 [Tartar]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_379/'>2133 [Tartar]</a>"
 topic: 
 first_letter: T
 xref: 

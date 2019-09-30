@@ -3,7 +3,7 @@ pid: index_2068
 volume: Volume 3
 image_number: '26'
 head: instigation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>602 [Instigation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>602 [Instigation]</a>"
 topic: 
 first_letter: I/J
 xref: 

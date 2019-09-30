@@ -3,7 +3,7 @@ pid: index_4194
 volume: Volume 3
 image_number: '48'
 head: tophet
-entry: "<a href='/New_Beehive/toc_vol2/toc2_383/'>2171 [Tophet]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_383/'>2171 [Tophet]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Judgmt of God
 topic: Judgmt of God
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/New_Beehive/toc_vol2/toc2_200/'>1032
-  [Judgmt]</a>|<a href='/New_Beehive/toc_vol2/toc2_339/'>1742 [Judgmt of God]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_339/'>1742 [Judgmt of God]</a>"
 see: 
 page: 
 add: 

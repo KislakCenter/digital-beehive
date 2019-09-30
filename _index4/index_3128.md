@@ -3,7 +3,7 @@ pid: index_3128
 volume: Volume 3
 image_number: '36'
 head: preposterous
-entry: "<a href='/New_Beehive/toc_vol2/toc2_251/'>1287 [Preposterously]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_251/'>1287 [Preposterously]</a>"
 topic: 
 first_letter: P
 xref: 

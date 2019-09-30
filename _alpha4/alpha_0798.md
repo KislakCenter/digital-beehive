@@ -6,8 +6,7 @@ head:
 entry: Rheum
 topic: Rheum
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0585/'>merit</a>|<a href='/New_Beehive/alpha4/alpha_0819/'>Salary</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_110/'>431 [Reward]</a>|"
+xref: 
 see: 
 page: 
 add: 

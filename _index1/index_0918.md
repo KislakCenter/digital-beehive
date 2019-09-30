@@ -3,7 +3,7 @@ pid: index_0918
 volume: Volume 3
 image_number: '15'
 head: to crucify
-entry: "<a href='/New_Beehive/toc_vol2/toc2_243/'>1246 [to Crucify]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_243/'>1246 [to Crucify]</a>"
 topic: 
 first_letter: C
 xref: 

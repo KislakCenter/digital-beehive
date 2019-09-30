@@ -3,7 +3,7 @@ pid: index_1284
 volume: Volume 3
 image_number: '19'
 head: epistolography
-entry: "<a href='/New_Beehive/toc_vol2/toc2_310/'>1576 [Vulgar Titles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_310/'>1576 [Vulgar Titles]</a>"
 topic: 
 first_letter: E
 xref: 

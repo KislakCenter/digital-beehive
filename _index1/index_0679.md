@@ -3,7 +3,7 @@ pid: index_0679
 volume: Volume 3
 image_number: '13'
 head: civil war
-entry: "<a href='/New_Beehive/toc_vol2/toc2_232/'>1195 [Civil war]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_232/'>1195 [Civil war]</a>"
 topic: 
 first_letter: C
 xref: 

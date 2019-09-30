@@ -3,7 +3,7 @@ pid: index_2570
 volume: Volume 3
 image_number: '31'
 head: monster
-entry: "<a href='/New_Beehive/alpha3/alpha_0601/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_365/'>1996
+entry: "<a href='/New_Beehive/alpha3/alpha_0601/'>a</a>|<a href='/New_Beehive/toc/toc2_365/'>1996
   [Monster]</a>"
 topic: 
 first_letter: M

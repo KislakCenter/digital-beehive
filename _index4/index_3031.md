@@ -3,7 +3,7 @@ pid: index_3031
 volume: Volume 3
 image_number: '35'
 head: plainness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>113 [Plainness]</a>|<a href='/New_Beehive/toc_vol2/toc2_349/'>1825
+entry: "<a href='/New_Beehive/toc/toc2_068/'>113 [Plainness]</a>|<a href='/New_Beehive/toc/toc2_349/'>1825
   [Plain]</a>"
 topic: 
 first_letter: P

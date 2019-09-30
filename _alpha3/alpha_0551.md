@@ -6,8 +6,8 @@ head:
 entry: Love of God
 topic: Love of God
 first_letter: L
-xref: "<a href='/New_Beehive/toc_vol2/toc2_255/'>1309 [Love to God & the Brethren]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_369/'>2040 [Love of God]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_255/'>1309 [Love to God & the Brethren]</a>|<a
+  href='/New_Beehive/toc/toc2_369/'>2040 [Love of God]</a>"
 see: 
 page: 
 add: 

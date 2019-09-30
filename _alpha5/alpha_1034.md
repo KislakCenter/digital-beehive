@@ -6,7 +6,7 @@ head:
 entry: Woman
 topic: Woman
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1242
+xref: "<a href='/New_Beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc/toc2_242/'>1242
   [Woman]</a>"
 see: 
 page: 

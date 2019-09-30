@@ -3,7 +3,7 @@ pid: index_2595
 volume: Volume 3
 image_number: '31'
 head: moth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_313/'>1591 [Moth]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_313/'>1591 [Moth]</a>"
 topic: 
 first_letter: M
 xref: 

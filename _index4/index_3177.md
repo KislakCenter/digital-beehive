@@ -3,7 +3,7 @@ pid: index_3177
 volume: Volume 3
 image_number: '37'
 head: procreation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1597 [Generation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1597 [Generation]</a>"
 topic: 
 first_letter: P
 xref: 

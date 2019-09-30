@@ -3,7 +3,7 @@ pid: index_1716
 volume: Volume 3
 image_number: '23'
 head: grinding
-entry: "<a href='/New_Beehive/toc_vol2/toc2_227/'>1167 [To whet]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_227/'>1167 [To whet]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Pasquil
 topic: Pasquil
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0459/'>Impart</a>|<a href='/New_Beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
-  href='/New_Beehive/alpha4/alpha_0778/'>Regarding of persons</a>"
+xref: 1836 [PAGE_MISSING]
 see: 
 page: 
 add: 

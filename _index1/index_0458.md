@@ -3,7 +3,7 @@ pid: index_0458
 volume: Volume 3
 image_number: '11'
 head: brier
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>615 [Thorns]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>615 [Thorns]</a>"
 topic: 
 first_letter: B
 xref: 

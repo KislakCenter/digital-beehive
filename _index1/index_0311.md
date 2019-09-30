@@ -3,7 +3,7 @@ pid: index_0311
 volume: Volume 3
 image_number: '9'
 head: baudry
-entry: "<a href='/New_Beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_372/'>2068
+entry: "<a href='/New_Beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_372/'>2068
   [Bawdry]</a>"
 topic: 
 first_letter: B

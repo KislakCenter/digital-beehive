@@ -3,8 +3,8 @@ pid: index_0332
 volume: Volume 3
 image_number: '9'
 head: bee
-entry: "<a href='/New_Beehive/alpha1/alpha_0071/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_062/'>54
-  [False Names]</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1208 [Bees]</a>|<a href='/New_Beehive/toc_vol2/toc2_335/'>1703
+entry: "<a href='/New_Beehive/alpha1/alpha_0071/'>a</a>|<a href='/New_Beehive/toc/toc2_062/'>54
+  [False Names]</a>|<a href='/New_Beehive/toc/toc2_235/'>1208 [Bees]</a>|<a href='/New_Beehive/toc/toc2_335/'>1703
   [Bees]</a>"
 topic: 
 first_letter: B

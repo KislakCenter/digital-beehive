@@ -7,7 +7,7 @@ entry: Temperance
 topic: Temperance
 first_letter: T
 xref: "<a href='/New_Beehive/alpha1/alpha_0232/'>Diet</a>|<a href='/New_Beehive/alpha3/alpha_0481/'>Intemperance</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_247/'>1269 [Temperance]</a>"
+  href='/New_Beehive/toc/toc2_247/'>1269 [Temperance]</a>"
 see: 
 page: 
 add: 

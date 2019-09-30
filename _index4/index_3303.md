@@ -3,7 +3,7 @@ pid: index_3303
 volume: Volume 3
 image_number: '38'
 head: raven
-entry: "<a href='/New_Beehive/alpha4/alpha_0767/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1351
+entry: "<a href='/New_Beehive/alpha4/alpha_0767/'>a</a>|<a href='/New_Beehive/toc/toc2_264/'>1351
   [a kite. a hawk]</a>"
 topic: 
 first_letter: R

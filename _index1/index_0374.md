@@ -3,7 +3,7 @@ pid: index_0374
 volume: Volume 3
 image_number: '10'
 head: to bind
-entry: "<a href='/New_Beehive/toc_vol2/toc2_138/'>605 [To tye]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_138/'>605 [To tye]</a>"
 topic: 
 first_letter: B
 xref: 

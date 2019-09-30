@@ -3,7 +3,7 @@ pid: index_2201
 volume: Volume 3
 image_number: '27'
 head: large
-entry: "<a href='/New_Beehive/toc_vol2/toc2_144/'>635 [Great, rich & eminent Persons]</a>|800
+entry: "<a href='/New_Beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>|800
   [PAGE_MISSING]"
 topic: 
 first_letter: L

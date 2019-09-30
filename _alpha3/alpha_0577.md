@@ -6,7 +6,7 @@ head:
 entry: Medicine
 topic: Medicine
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>665
+xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/New_Beehive/toc/toc2_149/'>665
   [Medicines]</a>"
 see: 
 page: 

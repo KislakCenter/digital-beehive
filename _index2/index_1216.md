@@ -3,7 +3,7 @@ pid: index_1216
 volume: Volume 3
 image_number: '18'
 head: egg
-entry: "<a href='/New_Beehive/alpha2/alpha_0277/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_325/'>1651
+entry: "<a href='/New_Beehive/alpha2/alpha_0277/'>a</a>|<a href='/New_Beehive/toc/toc2_325/'>1651
   [Eggs]</a>"
 topic: 
 first_letter: E

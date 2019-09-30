@@ -3,7 +3,7 @@ pid: index_3187
 volume: Volume 3
 image_number: '37'
 head: prolixness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_089/'>286 [Prolixness]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2177
+entry: "<a href='/New_Beehive/toc/toc2_089/'>286 [Prolixness]</a>|<a href='/New_Beehive/toc/toc2_383/'>2177
   [Prolixity]</a>"
 topic: 
 first_letter: P

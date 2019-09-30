@@ -3,7 +3,7 @@ pid: index_2520
 volume: Volume 3
 image_number: '30'
 head: mind
-entry: "<a href='/New_Beehive/alpha3/alpha_0591/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1620
+entry: "<a href='/New_Beehive/alpha3/alpha_0591/'>a</a>|<a href='/New_Beehive/toc/toc2_318/'>1620
   [Mind]</a>"
 topic: 
 first_letter: M

@@ -3,7 +3,7 @@ pid: index_4284
 volume: Volume 3
 image_number: '49'
 head: tyranny
-entry: "<a href='/New_Beehive/alpha5/alpha_0975/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1209
+entry: "<a href='/New_Beehive/alpha5/alpha_0975/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1209
   [Tyranny]</a>"
 topic: 
 first_letter: T

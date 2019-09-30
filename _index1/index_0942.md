@@ -3,7 +3,7 @@ pid: index_0942
 volume: Volume 3
 image_number: '15'
 head: dam[m]age
-entry: "<a href='/New_Beehive/alpha1/alpha_0204/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1422
+entry: "<a href='/New_Beehive/alpha1/alpha_0204/'>a</a>|<a href='/New_Beehive/toc/toc2_278/'>1422
   [Damage]</a>"
 topic: 
 first_letter: D

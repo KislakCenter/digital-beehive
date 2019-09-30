@@ -7,7 +7,7 @@ entry: Custom
 topic: Custom
 first_letter: C
 xref: "<a href='/New_Beehive/alpha2/alpha_0313/'>Fashion of the Country</a>|Accustoming|<a
-  href='/New_Beehive/toc_vol2/toc2_218/'>1121 [Custom]</a>"
+  href='/New_Beehive/toc/toc2_218/'>1121 [Custom]</a>"
 see: 
 page: 
 add: 

@@ -6,7 +6,7 @@ head:
 entry: God's Providence
 topic: God's Providence
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_1025/'>Will of God</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>227
+xref: "<a href='/New_Beehive/alpha5/alpha_1025/'>Will of God</a>|<a href='/New_Beehive/toc/toc2_081/'>227
   [Gods Providence]</a>"
 see: 
 page: 

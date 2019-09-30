@@ -3,7 +3,7 @@ pid: index_0837
 volume: Volume 3
 image_number: '14'
 head: conversation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>124 [Conversation]</a>|<a href='/New_Beehive/toc_vol2/toc2_253/'>1297
+entry: "<a href='/New_Beehive/toc/toc2_069/'>124 [Conversation]</a>|<a href='/New_Beehive/toc/toc2_253/'>1297
   [Govermt of thoughts]</a>"
 topic: 
 first_letter: C

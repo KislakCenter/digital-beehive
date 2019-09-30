@@ -3,7 +3,7 @@ pid: index_0984
 volume: Volume 3
 image_number: '16'
 head: deed
-entry: "<a href='/New_Beehive/alpha1/alpha_0214/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1137
+entry: "<a href='/New_Beehive/alpha1/alpha_0214/'>a</a>|<a href='/New_Beehive/toc/toc2_221/'>1137
   [Deed]</a>"
 topic: 
 first_letter: D

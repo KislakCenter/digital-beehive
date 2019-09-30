@@ -3,7 +3,7 @@ pid: index_3005
 volume: Volume 3
 image_number: '35'
 head: pietists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_208/'>1073 [Pietism]</a>|<a href='/New_Beehive/toc_vol2/toc2_410/'>2356
+entry: "<a href='/New_Beehive/toc/toc2_208/'>1073 [Pietism]</a>|<a href='/New_Beehive/toc/toc2_410/'>2356
   [Pietism]</a>"
 topic: 
 first_letter: P

@@ -6,8 +6,7 @@ head:
 entry: Love
 topic: Love
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0204/'>dam[m]age</a>|<a href='/New_Beehive/toc_vol2/toc2_224/'>1151
-  [Loss]</a>||<a href='/New_Beehive/toc_vol2/toc2_111/'>438 [Love]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_111/'>438 [Love]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3925
 volume: Volume 3
 image_number: '45'
 head: to strain a sinew
-entry: "<a href='/New_Beehive/toc_vol2/toc2_398/'>2275 [Luxation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_398/'>2275 [Luxation]</a>"
 topic: 
 first_letter: S
 xref: 

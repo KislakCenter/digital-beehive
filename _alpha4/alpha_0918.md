@@ -6,7 +6,7 @@ head:
 entry: Sun
 topic: Sun
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_245/'>1256 [World]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1357
+xref: "<a href='/New_Beehive/toc/toc2_245/'>1256 [World]</a>|<a href='/New_Beehive/toc/toc2_265/'>1357
   [Sun]</a>"
 see: 
 page: 

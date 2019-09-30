@@ -6,7 +6,7 @@ head:
 entry: Necessity
 topic: Necessity
 first_letter: N
-xref: "<a href='/New_Beehive/alpha5/alpha_1008/'>Want</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>918
+xref: "<a href='/New_Beehive/alpha5/alpha_1008/'>Want</a>|<a href='/New_Beehive/toc/toc2_171/'>918
   [PAGE_MISSING]</a>"
 see: 
 page: 

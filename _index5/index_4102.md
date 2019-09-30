@@ -3,8 +3,8 @@ pid: index_4102
 volume: Volume 3
 image_number: '47'
 head: testimony
-entry: "<a href='/New_Beehive/alpha5/alpha_0939/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_063/'>61
-  [Testimony]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2209 [Witness]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0939/'>a</a>|<a href='/New_Beehive/toc/toc2_063/'>61
+  [Testimony]</a>|<a href='/New_Beehive/toc/toc2_386/'>2209 [Witness]</a>"
 topic: 
 first_letter: T
 xref: 

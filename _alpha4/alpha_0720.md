@@ -6,7 +6,7 @@ head:
 entry: Preaching
 topic: Preaching
 first_letter: P
-xref: "<a href='/New_Beehive/toc_vol2/toc2_061/'>42 [False ministers]</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>512
+xref: "<a href='/New_Beehive/toc/toc2_061/'>42 [False ministers]</a>|<a href='/New_Beehive/toc/toc2_122/'>512
   [Preaching]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_2840
 volume: Volume 3
 image_number: '34'
 head: overmeasure
-entry: "<a href='/New_Beehive/toc_vol2/toc2_284/'>1452 [An Over measure]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_284/'>1452 [An Over measure]</a>"
 topic: 
 first_letter: O
 xref: 

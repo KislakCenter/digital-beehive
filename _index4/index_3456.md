@@ -3,7 +3,7 @@ pid: index_3456
 volume: Volume 3
 image_number: '40'
 head: to rot
-entry: "<a href='/New_Beehive/toc_vol2/toc2_161/'>866 [To Rot]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [To Rot]</a>"
 topic: 
 first_letter: R
 xref: 

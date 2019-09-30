@@ -3,7 +3,7 @@ pid: index_0930
 volume: Volume 3
 image_number: '15'
 head: currans
-entry: "<a href='/New_Beehive/toc_vol2/toc2_262/'>1344 [Corinths]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_262/'>1344 [Corinths]</a>"
 topic: 
 first_letter: C
 xref: 

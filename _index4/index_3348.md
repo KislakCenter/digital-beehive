@@ -3,7 +3,7 @@ pid: index_3348
 volume: Volume 3
 image_number: '39'
 head: relation. freündschafft
-entry: "<a href='/New_Beehive/toc_vol2/toc2_112/'>445 [Relation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_112/'>445 [Relation]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Justification
 topic: Justification
 first_letter: I/J
-xref: Righteousness|<a href='/New_Beehive/toc_vol2/toc2_104/'>390 [Justification]</a>
+xref: Righteousness|<a href='/New_Beehive/toc/toc2_104/'>390 [Justification]</a>
 see: 
 page: 
 add: 

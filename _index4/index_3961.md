@@ -3,7 +3,7 @@ pid: index_3961
 volume: Volume 3
 image_number: '45'
 head: substantial
-entry: "<a href='/New_Beehive/toc_vol2/toc2_066/'>92 [Substantial]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_066/'>92 [Substantial]</a>"
 topic: 
 first_letter: S
 xref: 

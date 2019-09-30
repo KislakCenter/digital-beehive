@@ -3,7 +3,7 @@ pid: index_2032
 volume: Volume 3
 image_number: '26'
 head: to infect
-entry: "<a href='/New_Beehive/toc_vol2/toc2_259/'>1330 [To infect]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: I/J
 xref: 

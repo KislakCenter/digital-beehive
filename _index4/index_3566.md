@@ -3,7 +3,7 @@ pid: index_3566
 volume: Volume 3
 image_number: '41'
 head: scrupulous
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>918 [Doubtful]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>918 [Doubtful]</a>"
 topic: 
 first_letter: S
 xref: 

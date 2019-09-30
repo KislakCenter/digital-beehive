@@ -3,7 +3,7 @@ pid: index_2508
 volume: Volume 3
 image_number: '30'
 head: Mevis
-entry: "<a href='/New_Beehive/toc_vol2/toc2_298/'>1519 [Mevis or Nevis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_298/'>1519 [Mevis or Nevis]</a>"
 topic: 
 first_letter: M
 xref: 

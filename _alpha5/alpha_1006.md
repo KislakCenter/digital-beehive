@@ -6,7 +6,7 @@ head:
 entry: the Vulgar
 topic: the Vulgar
 first_letter: U/V
-xref: "<a href='/New_Beehive/toc_vol2/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1136
+xref: "<a href='/New_Beehive/toc/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/New_Beehive/toc/toc2_221/'>1136
   [Vulgar]</a>"
 see: 
 page: 

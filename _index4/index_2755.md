@@ -3,9 +3,9 @@ pid: index_2755
 volume: Volume 3
 image_number: '33'
 head: obedience
-entry: "<a href='/New_Beehive/alpha4/alpha_0645/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>985
-  [Obedience]</a>|1837 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_384/'>2189
-  [Passive Obedience & nonresistance]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0645/'>a</a>|<a href='/New_Beehive/toc/toc2_183/'>985
+  [Obedience]</a>|1837 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_384/'>2189 [Passive
+  Obedience & nonresistance]</a>"
 topic: 
 first_letter: O
 xref: 

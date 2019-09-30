@@ -7,7 +7,7 @@ entry: Death
 topic: Death
 first_letter: D
 xref: "<a href='/New_Beehive/alpha1/alpha_0013/'>Agony</a>|<a href='/New_Beehive/alpha3/alpha_0605/'>Mortality</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_121/'>507 [Death]</a>"
+  href='/New_Beehive/toc/toc2_121/'>507 [Death]</a>"
 see: 
 page: 
 add: 

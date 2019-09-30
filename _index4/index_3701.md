@@ -3,7 +3,7 @@ pid: index_3701
 volume: Volume 3
 image_number: '43'
 head: sighs
-entry: "<a href='/New_Beehive/alpha4/alpha_0863/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_338/'>1740
+entry: "<a href='/New_Beehive/alpha4/alpha_0863/'>a</a>|<a href='/New_Beehive/toc/toc2_338/'>1740
   [Sighe]</a>"
 topic: 
 first_letter: S

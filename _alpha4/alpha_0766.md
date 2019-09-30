@@ -7,7 +7,7 @@ entry: Rarity
 topic: Rarity
 first_letter: R
 xref: "<a href='/New_Beehive/alpha3/alpha_0601/'>monster</a>|<a href='/New_Beehive/alpha2/alpha_0323/'>Fewness</a>|Obsolete|<a
-  href='/New_Beehive/toc_vol2/toc2_279/'>1429 [Rarity]</a>"
+  href='/New_Beehive/toc/toc2_279/'>1429 [Rarity]</a>"
 see: 
 page: 
 add: 

@@ -6,8 +6,7 @@ head:
 entry: Wrinkle
 topic: Wrinkle
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
-  [Wound]</a>||<a href='/New_Beehive/alpha1/alpha_0030/'>anger</a>||"
+xref: 
 see: 
 page: 
 add: 

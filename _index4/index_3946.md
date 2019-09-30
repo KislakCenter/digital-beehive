@@ -3,7 +3,7 @@ pid: index_3946
 volume: Volume 3
 image_number: '45'
 head: Stuart
-entry: "<a href='/New_Beehive/toc_vol2/toc2_291/'>1488 [Stuart]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_291/'>1488 [Stuart]</a>"
 topic: 
 first_letter: S
 xref: 

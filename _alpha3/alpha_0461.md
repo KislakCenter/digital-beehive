@@ -6,7 +6,7 @@ head:
 entry: Impenitence
 topic: Impenitence
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0784/'>repentance</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1945
+xref: "<a href='/New_Beehive/alpha4/alpha_0784/'>repentance</a>|<a href='/New_Beehive/toc/toc2_358/'>1945
   [Impenitence]</a>"
 see: 
 page: 

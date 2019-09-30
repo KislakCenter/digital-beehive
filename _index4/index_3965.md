@@ -3,7 +3,7 @@ pid: index_3965
 volume: Volume 3
 image_number: '45'
 head: success
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>102 [Success]</a>|<a href='/New_Beehive/toc_vol2/toc2_275/'>1410
+entry: "<a href='/New_Beehive/toc/toc2_067/'>102 [Success]</a>|<a href='/New_Beehive/toc/toc2_275/'>1410
   [Success]</a>"
 topic: 
 first_letter: S

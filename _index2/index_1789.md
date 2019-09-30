@@ -3,7 +3,7 @@ pid: index_1789
 volume: Volume 3
 image_number: '23'
 head: hebrew
-entry: "<a href='/New_Beehive/toc_vol2/toc2_183/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_183/'>986 [Hebrew]</a>|1858 [PAGE_MISSING]"
 topic: 
 first_letter: H
 xref: 

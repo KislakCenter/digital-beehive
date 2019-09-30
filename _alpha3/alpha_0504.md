@@ -6,7 +6,7 @@ head:
 entry: Labour
 topic: Labour
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc_vol2/toc2_177/'>948
+xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc/toc2_177/'>948
   [Labour]</a>"
 see: 
 page: 

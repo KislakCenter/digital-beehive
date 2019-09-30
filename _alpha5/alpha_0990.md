@@ -6,7 +6,7 @@ head:
 entry: Unbelief
 topic: Unbelief
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0308/'>faith</a>|<a href='/New_Beehive/toc_vol2/toc2_372/'>2070
+xref: "<a href='/New_Beehive/alpha2/alpha_0308/'>faith</a>|<a href='/New_Beehive/toc/toc2_372/'>2070
   [unbelief]</a>"
 see: 
 page: 

@@ -3,8 +3,8 @@ pid: index_4561
 volume: Volume 3
 image_number: '53'
 head: wine
-entry: "<a href='/New_Beehive/alpha5/alpha_1028/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>590
-  [artificial Wines]</a>|<a href='/New_Beehive/toc_vol2/toc2_340/'>1752 [Wine]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1028/'>a</a>|<a href='/New_Beehive/toc/toc2_135/'>590
+  [artificial Wines]</a>|<a href='/New_Beehive/toc/toc2_340/'>1752 [Wine]</a>"
 topic: 
 first_letter: W
 xref: 

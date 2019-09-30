@@ -3,8 +3,8 @@ pid: index_2671
 volume: Volume 3
 image_number: '32'
 head: necessity
-entry: "<a href='/New_Beehive/alpha3/alpha_0630/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_171/'>918
-  [Necessity]</a>|<a href='/New_Beehive/toc_vol2/toc2_368/'>2024 [Necessity]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0630/'>a</a>|<a href='/New_Beehive/toc/toc2_171/'>918
+  [Necessity]</a>|<a href='/New_Beehive/toc/toc2_368/'>2024 [Necessity]</a>"
 topic: 
 first_letter: N
 xref: 

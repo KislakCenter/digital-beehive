@@ -6,8 +6,7 @@ head:
 entry: Sop
 topic: Sop
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>hast</a>|<a href='/New_Beehive/alpha5/alpha_0958/'>too
-  soon</a>|dispatch|<a href='/New_Beehive/toc_vol2/toc2_127/'>540 [Pottages]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_127/'>540 [Pottages]</a>"
 see: 
 page: 
 add: 

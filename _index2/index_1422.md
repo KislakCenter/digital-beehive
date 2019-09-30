@@ -3,7 +3,7 @@ pid: index_1422
 volume: Volume 3
 image_number: '20'
 head: fear of death
-entry: "<a href='/New_Beehive/toc_vol2/toc2_240/'>1234 [Fear - Contempt of Death]</a>|4605
+entry: "<a href='/New_Beehive/toc/toc2_240/'>1234 [Fear - Contempt of Death]</a>|4605
   [PAGE_MISSING]"
 topic: 
 first_letter: F

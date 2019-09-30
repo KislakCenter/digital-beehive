@@ -3,9 +3,8 @@ pid: index_2486
 volume: Volume 3
 image_number: '30'
 head: merchants
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>109 [a Shop keeper]</a>|<a href='/New_Beehive/toc_vol2/toc2_158/'>714
-  [Market]</a>|<a href='/New_Beehive/toc_vol2/toc2_286/'>1464 [Merchant]</a>|4610
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop keeper]</a>|<a href='/New_Beehive/toc/toc2_158/'>714
+  [Market]</a>|<a href='/New_Beehive/toc/toc2_286/'>1464 [Merchant]</a>|4610 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

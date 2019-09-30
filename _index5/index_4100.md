@@ -3,8 +3,8 @@ pid: index_4100
 volume: Volume 3
 image_number: '47'
 head: testament new
-entry: "<a href='/New_Beehive/alpha5/alpha_0938/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_173/'>926
-  [New Testament]</a>|<a href='/New_Beehive/toc_vol2/toc2_419/'>2426 [New Testamt]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0938/'>a</a>|<a href='/New_Beehive/toc/toc2_173/'>926
+  [New Testament]</a>|<a href='/New_Beehive/toc/toc2_419/'>2426 [New Testamt]</a>"
 topic: 
 first_letter: T
 xref: 

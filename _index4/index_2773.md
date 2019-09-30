@@ -3,7 +3,7 @@ pid: index_2773
 volume: Volume 3
 image_number: '33'
 head: offerings
-entry: "<a href='/New_Beehive/toc_vol2/toc2_121/'>506 [Gift]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_121/'>506 [Gift]</a>"
 topic: 
 first_letter: O
 xref: 

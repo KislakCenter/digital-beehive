@@ -3,8 +3,8 @@ pid: index_2621
 volume: Volume 3
 image_number: '31'
 head: musick
-entry: "<a href='/New_Beehive/alpha3/alpha_0616/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_109/'>425
-  [Musick]</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1812 [Musick]</a>|<a href='/New_Beehive/toc_vol2/toc2_395/'>2258
+entry: "<a href='/New_Beehive/alpha3/alpha_0616/'>a</a>|<a href='/New_Beehive/toc/toc2_109/'>425
+  [Musick]</a>|<a href='/New_Beehive/toc/toc2_348/'>1812 [Musick]</a>|<a href='/New_Beehive/toc/toc2_395/'>2258
   [Musick]</a>"
 topic: 
 first_letter: M

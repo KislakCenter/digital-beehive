@@ -6,10 +6,7 @@ head:
 entry: Self knowledge
 topic: Self knowledge
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|Substantial|<a
-  href='/New_Beehive/toc_vol2/toc2_164/'>884 [Self]</a>|<a href='/New_Beehive/toc_vol2/toc2_175/'>938
-  [Self denial]</a>|<a href='/New_Beehive/toc_vol2/toc2_162/'>874 [Self hatred]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_079/'>210 [Self-knowledge]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_079/'>210 [Self-knowledge]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0940
 volume: Volume 3
 image_number: '15'
 head: dairy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_280/'>1434 [Milk]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_280/'>1434 [Milk]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_0880
 volume: Volume 3
 image_number: '15'
 head: couple
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>187 [Two]</a>|<a href='/New_Beehive/toc_vol2/toc2_096/'>332
+entry: "<a href='/New_Beehive/toc/toc2_075/'>187 [Two]</a>|<a href='/New_Beehive/toc/toc2_096/'>332
   [Two]</a>"
 topic: 
 first_letter: C

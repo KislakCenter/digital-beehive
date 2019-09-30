@@ -6,8 +6,7 @@ head:
 entry: Gray Hairs
 topic: Gray Hairs
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1014
-  [Grace]</a>|<a href='/New_Beehive/toc_vol2/toc2_145/'>646 [Grace of God]</a>|"
+xref: 
 see: 
 page: 
 add: 

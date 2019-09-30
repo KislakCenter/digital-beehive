@@ -3,9 +3,9 @@ pid: index_0082
 volume: Volume 3
 image_number: '7'
 head: agriculture
-entry: "<a href='/New_Beehive/alpha1/alpha_0016/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1130
-  [Agriculture]</a>|<a href='/New_Beehive/toc_vol2/toc2_440/'>4863 [Agriculture &
-  Country life]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0016/'>a</a>|<a href='/New_Beehive/toc/toc2_219/'>1130
+  [Agriculture]</a>|<a href='/New_Beehive/toc/toc2_440/'>4863 [Agriculture & Country
+  life]</a>"
 topic: 
 first_letter: A
 xref: 

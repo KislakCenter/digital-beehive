@@ -6,7 +6,7 @@ head:
 entry: Reliques
 topic: Reliques
 first_letter: R
-xref: Old rags|<a href='/New_Beehive/toc_vol2/toc2_270/'>1385 [Reliques]</a>
+xref: Old rags|<a href='/New_Beehive/toc/toc2_270/'>1385 [Reliques]</a>
 see: 
 page: 
 add: 

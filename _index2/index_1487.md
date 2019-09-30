@@ -3,7 +3,7 @@ pid: index_1487
 volume: Volume 3
 image_number: '21'
 head: to flow
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>678 [To flow]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>678 [To flow]</a>"
 topic: 
 first_letter: F
 xref: 

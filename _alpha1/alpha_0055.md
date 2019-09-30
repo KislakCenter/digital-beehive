@@ -6,7 +6,7 @@ head:
 entry: Banishment
 topic: Banishment
 first_letter: B
-xref: Pilgrimage|<a href='/New_Beehive/toc_vol2/toc2_230/'>1182 [Banishment]</a>
+xref: Pilgrimage|<a href='/New_Beehive/toc/toc2_230/'>1182 [Banishment]</a>
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2889
 volume: Volume 3
 image_number: '34'
 head: paronomasia
-entry: "<a href='/New_Beehive/toc_vol2/toc2_434/'>4835 [Paronomasia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_434/'>4835 [Paronomasia]</a>"
 topic: 
 first_letter: P
 xref: 

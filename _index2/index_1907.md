@@ -3,7 +3,7 @@ pid: index_1907
 volume: Volume 3
 image_number: '24'
 head: hungary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>682 [Hungary]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>682 [Hungary]</a>"
 topic: 
 first_letter: H
 xref: 

@@ -3,7 +3,7 @@ pid: index_0334
 volume: Volume 3
 image_number: '9'
 head: beetles
-entry: "<a href='/New_Beehive/toc_vol2/toc2_186/'>1002 [Flies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_186/'>1002 [Flies]</a>"
 topic: 
 first_letter: B
 xref: 

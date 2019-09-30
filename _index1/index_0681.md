@@ -3,7 +3,7 @@ pid: index_0681
 volume: Volume 3
 image_number: '13'
 head: claim
-entry: "<a href='/New_Beehive/toc_vol2/toc2_271/'>1389 [Courting women]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_271/'>1389 [Courting women]</a>"
 topic: 
 first_letter: C
 xref: 

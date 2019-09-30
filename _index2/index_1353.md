@@ -3,7 +3,7 @@ pid: index_1353
 volume: Volume 3
 image_number: '19'
 head: expenses
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>715 [Expenses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [Expenses]</a>"
 topic: 
 first_letter: E
 xref: 

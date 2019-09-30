@@ -3,8 +3,8 @@ pid: index_2574
 volume: Volume 3
 image_number: '31'
 head: moon
-entry: "<a href='/New_Beehive/alpha3/alpha_0603/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1357
-  [Moon]</a>|<a href='/New_Beehive/toc_vol2/toc2_376/'>2110 [Moon]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0603/'>a</a>|<a href='/New_Beehive/toc/toc2_265/'>1357
+  [Moon]</a>|<a href='/New_Beehive/toc/toc2_376/'>2110 [Moon]</a>"
 topic: 
 first_letter: M
 xref: 

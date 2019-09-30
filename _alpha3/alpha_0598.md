@@ -6,7 +6,7 @@ head:
 entry: Monarchy
 topic: Monarchy
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0498/'>King</a>|<a href='/New_Beehive/toc_vol2/toc2_341/'>1763
+xref: "<a href='/New_Beehive/alpha3/alpha_0498/'>King</a>|<a href='/New_Beehive/toc/toc2_341/'>1763
   [Monarchy]</a>"
 see: 
 page: 

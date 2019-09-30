@@ -3,7 +3,7 @@ pid: index_4418
 volume: Volume 3
 image_number: '51'
 head: unsensible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_100/'>358 [Unsensible]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_100/'>358 [Unsensible]</a>"
 topic: 
 first_letter: U/V
 xref: 

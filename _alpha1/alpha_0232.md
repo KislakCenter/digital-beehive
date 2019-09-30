@@ -6,7 +6,7 @@ head:
 entry: Diet
 topic: Diet
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/New_Beehive/toc_vol2/toc2_100/'>359
+xref: "<a href='/New_Beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/New_Beehive/toc/toc2_100/'>359
   [Meat]</a>"
 see: 
 page: 

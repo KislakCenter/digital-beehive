@@ -3,8 +3,7 @@ pid: index_0209
 volume: Volume 3
 image_number: '8'
 head: army
-entry: 864 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_351/'>1891 [Armies or
-  hosts]</a>
+entry: 864 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_351/'>1891 [Armies or hosts]</a>
 topic: 
 first_letter: A
 xref: 

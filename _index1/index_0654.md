@@ -3,7 +3,7 @@ pid: index_0654
 volume: Volume 3
 image_number: '13'
 head: christmas
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1598 [Christmas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1598 [Christmas]</a>"
 topic: 
 first_letter: C
 xref: 

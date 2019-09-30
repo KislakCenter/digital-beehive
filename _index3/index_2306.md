@@ -3,7 +3,7 @@ pid: index_2306
 volume: Volume 3
 image_number: '28'
 head: little
-entry: "<a href='/New_Beehive/alpha3/alpha_0539/'>a</a>|767 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_323/'>1641
+entry: "<a href='/New_Beehive/alpha3/alpha_0539/'>a</a>|767 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_323/'>1641
   [Littleness]</a>"
 topic: 
 first_letter: L

@@ -3,7 +3,7 @@ pid: index_2018
 volume: Volume 3
 image_number: '25'
 head: Indian Corn
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1702 [Maiz]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1702 [Maiz]</a>"
 topic: 
 first_letter: I/J
 xref: 

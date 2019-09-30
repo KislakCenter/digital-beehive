@@ -6,8 +6,7 @@ head:
 entry: Faithfulness
 topic: Faithfulness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha5/alpha_0990/'>unbelief</a>|<a href='/New_Beehive/toc_vol2/toc2_105/'>397
-  [Faith]</a>|<a href='/New_Beehive/alpha5/alpha_0967/'>Treachery</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_0967/'>Treachery</a>"
 see: 
 page: 
 add: 

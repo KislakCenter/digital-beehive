@@ -3,7 +3,7 @@ pid: index_0096
 volume: Volume 3
 image_number: '7'
 head: allegiance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc_vol2/toc2_401/'>2290
+entry: "<a href='/New_Beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc/toc2_401/'>2290
   [Allegiance]</a>"
 topic: 
 first_letter: A

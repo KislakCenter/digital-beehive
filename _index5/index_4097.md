@@ -3,7 +3,7 @@ pid: index_4097
 volume: Volume 3
 image_number: '47'
 head: terrour
-entry: "<a href='/New_Beehive/alpha5/alpha_0935/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>669
+entry: "<a href='/New_Beehive/alpha5/alpha_0935/'>a</a>|<a href='/New_Beehive/toc/toc2_149/'>669
   [Terrrour]</a>"
 topic: 
 first_letter: T

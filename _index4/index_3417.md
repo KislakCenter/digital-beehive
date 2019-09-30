@@ -3,7 +3,7 @@ pid: index_3417
 volume: Volume 3
 image_number: '40'
 head: ABC rhymes & meeters
-entry: "<a href='/New_Beehive/toc_vol2/toc2_335/'>1701 [Patience]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_335/'>1701 [Patience]</a>"
 topic: 
 first_letter: R
 xref: 

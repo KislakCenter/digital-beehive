@@ -3,7 +3,7 @@ pid: index_0622
 volume: Volume 3
 image_number: '12'
 head: cherubims
-entry: "<a href='/New_Beehive/toc_vol2/toc2_351/'>1897 [Cherubims]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_351/'>1897 [Cherubims]</a>"
 topic: 
 first_letter: C
 xref: 

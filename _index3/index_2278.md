@@ -3,7 +3,7 @@ pid: index_2278
 volume: Volume 3
 image_number: '28'
 head: license
-entry: "<a href='/New_Beehive/toc_vol2/toc2_131/'>565 [License]</a>|<a href='/New_Beehive/toc_vol2/toc2_428/'>4489
+entry: "<a href='/New_Beehive/toc/toc2_131/'>565 [License]</a>|<a href='/New_Beehive/toc/toc2_428/'>4489
   [License]</a>"
 topic: 
 first_letter: L

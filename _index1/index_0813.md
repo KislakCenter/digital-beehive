@@ -3,7 +3,7 @@ pid: index_0813
 volume: Volume 3
 image_number: '14'
 head: constable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>106 [Serjant or Catchpoll]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>106 [Serjant or Catchpoll]</a>"
 topic: 
 first_letter: C
 xref: 

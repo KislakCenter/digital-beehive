@@ -3,7 +3,7 @@ pid: index_2311
 volume: Volume 3
 image_number: '28'
 head: to live well
-entry: "<a href='/New_Beehive/toc_vol2/toc2_295/'>1506 [To live well]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_295/'>1506 [To live well]</a>"
 topic: 
 first_letter: L
 xref: 

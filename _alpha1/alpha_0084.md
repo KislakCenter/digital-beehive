@@ -6,7 +6,7 @@ head:
 entry: Blasphemy
 topic: Blasphemy
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/New_Beehive/toc_vol2/toc2_284/'>1455
+xref: "<a href='/New_Beehive/alpha1/alpha_0048/'>Atheism</a>|<a href='/New_Beehive/toc/toc2_284/'>1455
   [Swearing]</a>"
 see: 
 page: 

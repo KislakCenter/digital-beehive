@@ -3,7 +3,7 @@ pid: index_0764
 volume: Volume 3
 image_number: '14'
 head: complements
-entry: "<a href='/New_Beehive/alpha1/alpha_0163/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_103/'>380
+entry: "<a href='/New_Beehive/alpha1/alpha_0163/'>a</a>|<a href='/New_Beehive/toc/toc2_103/'>380
   [Complements]</a>|4496 [PAGE_MISSING]"
 topic: 
 first_letter: C

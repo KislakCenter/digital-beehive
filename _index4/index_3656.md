@@ -3,7 +3,7 @@ pid: index_3656
 volume: Volume 3
 image_number: '42'
 head: shadow
-entry: "<a href='/New_Beehive/alpha4/alpha_0854/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_145/'>641
+entry: "<a href='/New_Beehive/alpha4/alpha_0854/'>a</a>|<a href='/New_Beehive/toc/toc2_145/'>641
   [the Shadow]</a>"
 topic: 
 first_letter: S

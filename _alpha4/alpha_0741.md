@@ -6,8 +6,8 @@ head:
 entry: Proof
 topic: Proof
 first_letter: P
-xref: "<a href='/New_Beehive/toc_vol2/toc2_061/'>47 [Try & Prove all things]</a>|Trial|essay|<a
-  href='/New_Beehive/toc_vol2/toc2_118/'>487 [Proof, Try all]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|Trial|essay|<a
+  href='/New_Beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
 see: 
 page: 
 add: 

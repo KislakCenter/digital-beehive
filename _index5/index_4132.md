@@ -3,7 +3,7 @@ pid: index_4132
 volume: Volume 3
 image_number: '47'
 head: threatning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>3 [Threatnings]</a>|<a href='/New_Beehive/toc_vol2/toc2_306/'>1557
+entry: "<a href='/New_Beehive/toc/toc2_058/'>3 [Threatnings]</a>|<a href='/New_Beehive/toc/toc2_306/'>1557
   [Threatning]</a>"
 topic: 
 first_letter: T

@@ -6,7 +6,7 @@ head:
 entry: Satyre
 topic: Satyre
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1062/'>Zoilus</a>|<a href='/New_Beehive/toc_vol2/toc2_270/'>1384
+xref: "<a href='/New_Beehive/alpha5/alpha_1062/'>Zoilus</a>|<a href='/New_Beehive/toc/toc2_270/'>1384
   [Satyr]</a>"
 see: 
 page: 

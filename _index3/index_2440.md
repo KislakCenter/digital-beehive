@@ -3,7 +3,7 @@ pid: index_2440
 volume: Volume 3
 image_number: '30'
 head: Maryland
-entry: "<a href='/New_Beehive/toc_vol2/toc2_299/'>1521 [Maryland]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_299/'>1521 [Maryland]</a>"
 topic: 
 first_letter: M
 xref: 

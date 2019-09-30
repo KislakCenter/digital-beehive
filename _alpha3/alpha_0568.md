@@ -6,8 +6,7 @@ head:
 entry: Many men, many minds
 topic: Many men, many minds
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0485/'>inward man</a>|<a href='/New_Beehive/toc_vol2/toc2_218/'>1124
-  [Man]</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1088 [Many men, many minds]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Many men, many minds]</a>"
 see: 
 page: 
 add: 

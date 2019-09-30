@@ -3,7 +3,7 @@ pid: index_3164
 volume: Volume 3
 image_number: '37'
 head: prison
-entry: "<a href='/New_Beehive/toc_vol2/toc2_132/'>572 [Prison]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1720
+entry: "<a href='/New_Beehive/toc/toc2_132/'>572 [Prison]</a>|<a href='/New_Beehive/toc/toc2_336/'>1720
   [Prison]</a>|4607 [PAGE_MISSING]"
 topic: 
 first_letter: P

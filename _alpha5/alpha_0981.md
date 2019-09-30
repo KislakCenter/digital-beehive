@@ -6,9 +6,7 @@ head:
 entry: Victory
 topic: Victory
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotchpotch</a>|<a href='/New_Beehive/alpha2/alpha_0568/'>many
-  men</a>|<a href='/New_Beehive/alpha5/alpha_0998/'>unstableness</a>|<a href='/New_Beehive/toc_vol2/toc2_302/'>1540
-  [Poisoning]</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1108 [Virtue]</a>"
+xref: 784 [PAGE_MISSING]
 see: 
 page: 
 add: 

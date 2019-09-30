@@ -3,7 +3,7 @@ pid: index_2721
 volume: Volume 3
 image_number: '32'
 head: land of nod
-entry: "<a href='/New_Beehive/toc_vol2/toc2_319/'>1621 [Nod]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_319/'>1621 [Nod]</a>"
 topic: 
 first_letter: N
 xref: 

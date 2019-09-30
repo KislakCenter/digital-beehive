@@ -3,7 +3,7 @@ pid: index_1227
 volume: Volume 3
 image_number: '18'
 head: Elizabeth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_295/'>1508 [Q Elizabeth]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_295/'>1508 [Q Elizabeth]</a>"
 topic: 
 first_letter: E
 xref: 

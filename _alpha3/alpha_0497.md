@@ -6,8 +6,7 @@ head:
 entry: Key
 topic: Key
 first_letter: K
-xref: Righteousness|<a href='/New_Beehive/toc_vol2/toc2_104/'>390 [Justification]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_252/'>1294 [Keys]</a>
+xref: "<a href='/New_Beehive/toc/toc2_252/'>1294 [Keys]</a>"
 see: 
 page: 
 add: 

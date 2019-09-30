@@ -3,7 +3,7 @@ pid: index_2373
 volume: Volume 3
 image_number: '29'
 head: to lye with one
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [To use a woman]</a>|<a href='/New_Beehive/toc_vol2/toc2_315/'>1601
+entry: "<a href='/New_Beehive/toc/toc2_114/'>459 [To use a woman]</a>|<a href='/New_Beehive/toc/toc2_315/'>1601
   [First love]</a>"
 topic: 
 first_letter: L

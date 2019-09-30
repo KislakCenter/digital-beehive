@@ -6,7 +6,7 @@ head:
 entry: Unstableness
 topic: Unstableness
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha1/alpha_0172/'>Constancy</a>|<a href='/New_Beehive/toc_vol2/toc2_161/'>870
+xref: "<a href='/New_Beehive/alpha1/alpha_0172/'>Constancy</a>|<a href='/New_Beehive/toc/toc2_161/'>870
   [Inconstancy]</a>|Renouncing|<a href='/New_Beehive/alpha5/alpha_0976/'>Vagabonds</a>|<a
   href='/New_Beehive/alpha5/alpha_0965/'>Transitory</a>|<a href='/New_Beehive/alpha5/alpha_0977/'>Vanity</a>|<a
   href='/New_Beehive/alpha3/alpha_0639/'>Nothing</a>"

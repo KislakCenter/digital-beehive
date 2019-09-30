@@ -3,7 +3,7 @@ pid: index_2650
 volume: Volume 3
 image_number: '32'
 head: nativity calculators of
-entry: "<a href='/New_Beehive/toc_vol2/toc2_250/'>1283 [Calculators of Nativity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_250/'>1283 [Calculators of Nativity]</a>"
 topic: 
 first_letter: N
 xref: 

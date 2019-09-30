@@ -3,7 +3,7 @@ pid: index_2211
 volume: Volume 3
 image_number: '27'
 head: at last
-entry: "<a href='/New_Beehive/toc_vol2/toc2_173/'>928 [Last]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_173/'>928 [Last]</a>"
 topic: 
 first_letter: L
 xref: 

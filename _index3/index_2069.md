@@ -3,7 +3,7 @@ pid: index_2069
 volume: Volume 3
 image_number: '26'
 head: instinct
-entry: "<a href='/New_Beehive/toc_vol2/toc2_238/'>1226 [Instinct]</a>|<a href='/New_Beehive/toc_vol2/toc2_239/'>1226
+entry: "<a href='/New_Beehive/toc/toc2_238/'>1226 [Instinct]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226
   [Instinct]</a>"
 topic: 
 first_letter: I/J

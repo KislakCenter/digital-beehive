@@ -6,7 +6,7 @@ head:
 entry: Reason
 topic: Reason
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>921
+xref: "<a href='/New_Beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/New_Beehive/toc/toc2_172/'>921
   [Reason]</a>"
 see: 
 page: 

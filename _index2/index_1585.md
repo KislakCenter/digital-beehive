@@ -3,7 +3,7 @@ pid: index_1585
 volume: Volume 3
 image_number: '21'
 head: gates
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>621 [Door]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>621 [Door]</a>"
 topic: 
 first_letter: G
 xref: 

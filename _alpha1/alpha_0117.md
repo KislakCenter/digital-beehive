@@ -6,7 +6,7 @@ head:
 entry: Capital offence
 topic: Capital offence
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>638
+xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/toc/toc2_144/'>638
   [Capital Offences]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_3652
 volume: Volume 3
 image_number: '42'
 head: to sew
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>624 [To Sew]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>624 [To Sew]</a>"
 topic: 
 first_letter: S
 xref: 

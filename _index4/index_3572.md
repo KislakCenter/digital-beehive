@@ -3,7 +3,7 @@ pid: index_3572
 volume: Volume 3
 image_number: '41'
 head: Sea devil
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1472 [Sea-devil]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1472 [Sea-devil]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_3125
 volume: Volume 3
 image_number: '36'
 head: preludium
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>546 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
 topic: 
 first_letter: P
 xref: 

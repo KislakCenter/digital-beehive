@@ -6,8 +6,7 @@ head:
 entry: Bell
 topic: Bell
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0325/'>first</a>|<a href='/New_Beehive/toc_vol2/toc2_128/'>550
-  [Beginn]</a>||<a href='/New_Beehive/toc_vol2/toc2_165/'>888 [Bell]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_165/'>888 [Bell]</a>"
 see: 
 page: 
 add: 

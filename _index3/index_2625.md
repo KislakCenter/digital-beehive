@@ -3,7 +3,7 @@ pid: index_2625
 volume: Volume 3
 image_number: '31'
 head: mutation
-entry: "<a href='/New_Beehive/alpha3/alpha_0619/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_083/'>244
+entry: "<a href='/New_Beehive/alpha3/alpha_0619/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>244
   [Mutation]</a>"
 topic: 
 first_letter: M

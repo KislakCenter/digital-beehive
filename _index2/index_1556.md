@@ -3,7 +3,7 @@ pid: index_1556
 volume: Volume 3
 image_number: '21'
 head: frugality
-entry: "<a href='/New_Beehive/toc_vol2/toc2_216/'>1115 [Frugality]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_216/'>1115 [Frugality]</a>"
 topic: 
 first_letter: F
 xref: 

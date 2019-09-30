@@ -3,7 +3,7 @@ pid: index_0759
 volume: Volume 3
 image_number: '14'
 head: compassion
-entry: "<a href='/New_Beehive/alpha1/alpha_0162/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_281/'>1436
+entry: "<a href='/New_Beehive/alpha1/alpha_0162/'>a</a>|<a href='/New_Beehive/toc/toc2_281/'>1436
   [Obscenity]</a>"
 topic: 
 first_letter: C

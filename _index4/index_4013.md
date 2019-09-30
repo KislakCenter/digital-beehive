@@ -3,8 +3,8 @@ pid: index_4013
 volume: Volume 3
 image_number: '46'
 head: suttler
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>714 [Market, Wares, to rid one of
-  his money, a haggler]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>714 [Market, Wares, to rid one of his
+  money, a haggler]</a>"
 topic: 
 first_letter: S
 xref: 

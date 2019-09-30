@@ -3,7 +3,7 @@ pid: index_4489
 volume: Volume 3
 image_number: '52'
 head: watch
-entry: 758 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_268/'>1374 [a Clock]</a>
+entry: 758 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_268/'>1374 [a Clock]</a>
 topic: 
 first_letter: W
 xref: 

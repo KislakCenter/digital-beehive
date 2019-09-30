@@ -3,7 +3,7 @@ pid: index_3610
 volume: Volume 3
 image_number: '42'
 head: Self confident
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>128 [Self-confident]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_069/'>128 [Self-confident]</a>"
 topic: 
 first_letter: S
 xref: 

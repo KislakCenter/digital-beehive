@@ -3,8 +3,8 @@ pid: index_2553
 volume: Volume 3
 image_number: '31'
 head: moderate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>21 [Moderate]</a>|<a href='/New_Beehive/toc_vol2/toc2_260/'>1331
-  [Moderation]</a>|<a href='/New_Beehive/toc_vol2/toc2_446/'>4916 [Moderation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>21 [Moderate]</a>|<a href='/New_Beehive/toc/toc2_260/'>1331
+  [Moderation]</a>|<a href='/New_Beehive/toc/toc2_446/'>4916 [Moderation]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,8 +3,8 @@ pid: index_4127
 volume: Volume 3
 image_number: '47'
 head: thoughts
-entry: "<a href='/New_Beehive/alpha5/alpha_0943/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_182/'>982
-  [Thoughts]</a>|<a href='/New_Beehive/toc_vol2/toc2_415/'>2397 [Thoughts]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0943/'>a</a>|<a href='/New_Beehive/toc/toc2_182/'>982
+  [Thoughts]</a>|<a href='/New_Beehive/toc/toc2_415/'>2397 [Thoughts]</a>"
 topic: 
 first_letter: T
 xref: 

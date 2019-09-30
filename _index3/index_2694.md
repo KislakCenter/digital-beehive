@@ -3,7 +3,7 @@ pid: index_2694
 volume: Volume 3
 image_number: '32'
 head: new
-entry: "<a href='/New_Beehive/alpha3/alpha_0634/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1656
+entry: "<a href='/New_Beehive/alpha3/alpha_0634/'>a</a>|<a href='/New_Beehive/toc/toc2_326/'>1656
   [New coyn'd News]</a>"
 topic: 
 first_letter: N

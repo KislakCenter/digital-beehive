@@ -6,7 +6,7 @@ head:
 entry: Soul
 topic: Soul
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0591/'>mind</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>507
+xref: "<a href='/New_Beehive/alpha3/alpha_0591/'>mind</a>|<a href='/New_Beehive/toc/toc2_121/'>507
   [Death]</a>"
 see: 
 page: 

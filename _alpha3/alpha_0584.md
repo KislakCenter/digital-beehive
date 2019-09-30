@@ -7,7 +7,7 @@ entry: Mercy
 topic: Mercy
 first_letter: M
 xref: clemency|<a href='/New_Beehive/alpha1/alpha_0162/'>Compassion</a>|<a href='/New_Beehive/alpha2/alpha_0376/'>grace</a>|<a
-  href='/New_Beehive/alpha5/alpha_0996/'>unmercifull</a>|<a href='/New_Beehive/toc_vol2/toc2_097/'>338
+  href='/New_Beehive/alpha5/alpha_0996/'>unmercifull</a>|<a href='/New_Beehive/toc/toc2_097/'>338
   [Mercy]</a>
 see: 
 page: 

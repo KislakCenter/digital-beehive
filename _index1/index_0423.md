@@ -3,7 +3,7 @@ pid: index_0423
 volume: Volume 3
 image_number: '10'
 head: bouhours
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4796 [Bouhours]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4796 [Bouhours]</a>"
 topic: 
 first_letter: B
 xref: 

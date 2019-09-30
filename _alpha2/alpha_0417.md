@@ -6,7 +6,7 @@ head:
 entry: Hermit
 topic: Hermit
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0884/'>Solitude</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2093
+xref: "<a href='/New_Beehive/alpha4/alpha_0884/'>Solitude</a>|<a href='/New_Beehive/toc/toc2_375/'>2093
   [Hermit]</a>"
 see: 
 page: 

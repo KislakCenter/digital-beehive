@@ -7,7 +7,7 @@ entry: Building
 topic: Building
 first_letter: B
 xref: "<a href='/New_Beehive/alpha2/alpha_0343/'>foundation</a>|<a href='/New_Beehive/alpha2/alpha_0434/'>house</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_327/'>1662 [Architecture]</a>"
+  href='/New_Beehive/toc/toc2_327/'>1662 [Architecture]</a>"
 see: 
 page: 
 add: 

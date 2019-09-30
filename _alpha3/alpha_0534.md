@@ -6,7 +6,7 @@ head:
 entry: Lie
 topic: Lie
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/New_Beehive/toc_vol2/toc2_122/'>513
+xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/New_Beehive/toc/toc2_122/'>513
   [Lies]</a>"
 see: 
 page: 

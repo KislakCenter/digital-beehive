@@ -6,9 +6,7 @@ head:
 entry: Original tongues
 topic: Original tongues
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>221
-  [Order]</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>276 [Original Sin]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_376/'>2105 [Original Tongues]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_376/'>2105 [Original Tongues]</a>"
 see: 
 page: 
 add: 

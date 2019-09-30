@@ -3,7 +3,7 @@ pid: index_4035
 volume: Volume 3
 image_number: '46'
 head: Sympathy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>144 [Sympathy]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1616
+entry: "<a href='/New_Beehive/toc/toc2_071/'>144 [Sympathy]</a>|<a href='/New_Beehive/toc/toc2_318/'>1616
   [Sympathy]</a>"
 topic: 
 first_letter: S

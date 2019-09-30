@@ -3,7 +3,7 @@ pid: index_1602
 volume: Volume 3
 image_number: '22'
 head: Germany
-entry: "<a href='/New_Beehive/alpha2/alpha_0357/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1378
+entry: "<a href='/New_Beehive/alpha2/alpha_0357/'>a</a>|<a href='/New_Beehive/toc/toc2_269/'>1378
   [Germany]</a>"
 topic: 
 first_letter: G

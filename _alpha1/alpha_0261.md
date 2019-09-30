@@ -6,9 +6,7 @@ head:
 entry: Drieness
 topic: Drieness
 first_letter: D
-xref: Perplexity|Pinch|Scepticsm|<a href='/New_Beehive/toc_vol2/toc2_156/'>705 [Doubtfulness]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_268/'>1374 [Dream]</a>|<a href='/New_Beehive/toc_vol2/toc2_300/'>1526
-  [Drought or Driness]</a>
+xref: "<a href='/New_Beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
 see: 
 page: 
 add: 

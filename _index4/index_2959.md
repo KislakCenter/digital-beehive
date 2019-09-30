@@ -3,7 +3,7 @@ pid: index_2959
 volume: Volume 3
 image_number: '35'
 head: peripatetici
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1064 [Peripatetick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1064 [Peripatetick]</a>"
 topic: 
 first_letter: P
 xref: 

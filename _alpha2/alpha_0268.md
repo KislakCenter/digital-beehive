@@ -6,9 +6,7 @@ head:
 entry: Eagle
 topic: Eagle
 first_letter: E
-xref: "<a href='/New_Beehive/alpha2/alpha_0403/'>Drinking of healths</a>|<a href='/New_Beehive/alpha5/alpha_0941/'>Thirst</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_073/'>161 [Drunkeness]</a>||<a href='/New_Beehive/toc_vol2/toc2_258/'>1325
-  [Duel]</a>||<a href='/New_Beehive/toc_vol2/toc2_258/'>1322 [Mamuts Valet]</a>|"
+xref: 
 see: 
 page: 
 add: 

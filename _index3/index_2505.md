@@ -3,7 +3,7 @@ pid: index_2505
 volume: Volume 3
 image_number: '30'
 head: methuselah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_351/'>1897 [Methuselah]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_351/'>1897 [Methuselah]</a>"
 topic: 
 first_letter: M
 xref: 

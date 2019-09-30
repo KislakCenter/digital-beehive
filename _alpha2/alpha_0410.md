@@ -6,7 +6,7 @@ head:
 entry: Help
 topic: Help
 first_letter: H
-xref: "<a href='/New_Beehive/toc_vol2/toc2_142/'>627 [Help]</a>|<a href='/New_Beehive/alpha3/alpha_0480/'>Instrument</a>|<a
+xref: "<a href='/New_Beehive/toc/toc2_142/'>627 [Help]</a>|<a href='/New_Beehive/alpha3/alpha_0480/'>Instrument</a>|<a
   href='/New_Beehive/alpha4/alpha_0740/'>Promoting</a>|<a href='/New_Beehive/alpha2/alpha_0367/'>God's
   Help</a>"
 see: 

@@ -3,7 +3,7 @@ pid: index_3144
 volume: Volume 3
 image_number: '37'
 head: pretention
-entry: "<a href='/New_Beehive/toc_vol2/toc2_271/'>1389 [Pretension]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_271/'>1389 [Pretension]</a>"
 topic: 
 first_letter: P
 xref: 

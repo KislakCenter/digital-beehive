@@ -3,7 +3,7 @@ pid: index_1138
 volume: Volume 3
 image_number: '17'
 head: dowry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>544 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>544 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: D
 xref: 

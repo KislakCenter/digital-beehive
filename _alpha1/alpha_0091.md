@@ -6,8 +6,7 @@ head:
 entry: Boldness
 topic: Boldness
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0581/'>Member</a>|<a href='/New_Beehive/toc_vol2/toc2_134/'>583
-  [Body]</a>|<a href='/New_Beehive/alpha5/alpha_0932/'>Temerity</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_0932/'>Temerity</a>"
 see: 
 page: 
 add: 

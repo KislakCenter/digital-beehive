@@ -3,7 +3,7 @@ pid: index_4589
 volume: Volume 3
 image_number: '53'
 head: brave woman
-entry: "<a href='/New_Beehive/toc_vol2/toc2_289/'>1477 [Brave Woman]</a>|<a href='/New_Beehive/toc_vol2/toc2_393/'>2250
+entry: "<a href='/New_Beehive/toc/toc2_289/'>1477 [Brave Woman]</a>|<a href='/New_Beehive/toc/toc2_393/'>2250
   [Brave Woman]</a>"
 topic: 
 first_letter: W

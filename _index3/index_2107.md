@@ -3,7 +3,7 @@ pid: index_2107
 volume: Volume 3
 image_number: '26'
 head: Jonas
-entry: "<a href='/New_Beehive/toc_vol2/toc2_166/'>891 [Jonas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_166/'>891 [Jonas]</a>"
 topic: 
 first_letter: I/J
 xref: 

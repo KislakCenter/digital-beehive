@@ -3,7 +3,7 @@ pid: index_2200
 volume: Volume 3
 image_number: '27'
 head: laplanders
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1316 [Laplanders]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1316 [Laplanders]</a>"
 topic: 
 first_letter: L
 xref: 

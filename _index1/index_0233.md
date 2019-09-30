@@ -3,8 +3,8 @@ pid: index_0233
 volume: Volume 3
 image_number: '9'
 head: atheism
-entry: "<a href='/New_Beehive/alpha1/alpha_0048/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_083/'>240
-  [Atheism]</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1421 [Atheism]</a>|<a href='/New_Beehive/toc_vol2/toc2_363/'>1983
+entry: "<a href='/New_Beehive/alpha1/alpha_0048/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>240
+  [Atheism]</a>|<a href='/New_Beehive/toc/toc2_278/'>1421 [Atheism]</a>|<a href='/New_Beehive/toc/toc2_363/'>1983
   [Atheism]</a>"
 topic: 
 first_letter: A

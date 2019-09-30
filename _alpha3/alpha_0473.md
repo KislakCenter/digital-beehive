@@ -7,7 +7,7 @@ entry: Information
 topic: Information
 first_letter: I/J
 xref: "<a href='/New_Beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_229/'>1176 [Inform]</a>"
+  href='/New_Beehive/toc/toc2_229/'>1176 [Inform]</a>"
 see: 
 page: 
 add: 

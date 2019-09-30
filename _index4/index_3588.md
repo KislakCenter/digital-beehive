@@ -3,8 +3,8 @@ pid: index_3588
 volume: Volume 3
 image_number: '41'
 head: sect
-entry: "<a href='/New_Beehive/alpha4/alpha_0834/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_121/'>505
-  [Sect]</a>|<a href='/New_Beehive/toc_vol2/toc2_268/'>1373 [Sects]</a>|<a href='/New_Beehive/toc_vol2/toc2_402/'>2291
+entry: "<a href='/New_Beehive/alpha4/alpha_0834/'>a</a>|<a href='/New_Beehive/toc/toc2_121/'>505
+  [Sect]</a>|<a href='/New_Beehive/toc/toc2_268/'>1373 [Sects]</a>|<a href='/New_Beehive/toc/toc2_402/'>2291
   [Sect]</a>|4724 [PAGE_MISSING]"
 topic: 
 first_letter: S

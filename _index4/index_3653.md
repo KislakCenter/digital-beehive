@@ -3,7 +3,7 @@ pid: index_3653
 volume: Volume 3
 image_number: '42'
 head: sewet. adeps
-entry: "<a href='/New_Beehive/toc_vol2/toc2_379/'>2136 [Fat. Sewet.]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_379/'>2136 [Fat. Sewet.]</a>"
 topic: 
 first_letter: S
 xref: 

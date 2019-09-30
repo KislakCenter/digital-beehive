@@ -3,8 +3,8 @@ pid: index_2931
 volume: Volume 3
 image_number: '34'
 head: peacemaker
-entry: "<a href='/New_Beehive/alpha4/alpha_0688/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
-  [Peacemak.]</a>|<a href='/New_Beehive/toc_vol2/toc2_351/'>1900 [Peacemak.]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0688/'>a</a>|<a href='/New_Beehive/toc/toc2_223/'>1146
+  [Peacemak.]</a>|<a href='/New_Beehive/toc/toc2_351/'>1900 [Peacemak.]</a>"
 topic: 
 first_letter: P
 xref: 

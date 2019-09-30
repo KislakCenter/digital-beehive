@@ -6,7 +6,7 @@ head:
 entry: Thanks
 topic: Thanks
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/New_Beehive/toc_vol2/toc2_220/'>1132
+xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/New_Beehive/toc/toc2_220/'>1132
   [Gratitude]</a>"
 see: 
 page: 

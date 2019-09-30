@@ -3,9 +3,9 @@ pid: index_4398
 volume: Volume 3
 image_number: '50'
 head: unjust goods
-entry: "<a href='/New_Beehive/toc_vol2/toc2_058/'>6 [Unjust substance]</a>|<a href='/New_Beehive/toc_vol2/toc2_095/'>326
-  [Ill gotten goods & gains]</a>|<a href='/New_Beehive/toc_vol2/toc2_337/'>1727 [Ill
-  gotten goods]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/New_Beehive/toc/toc2_095/'>326
+  [Ill gotten goods & gains]</a>|<a href='/New_Beehive/toc/toc2_337/'>1727 [Ill gotten
+  goods]</a>"
 topic: 
 first_letter: U/V
 xref: 

@@ -3,7 +3,7 @@ pid: index_2323
 volume: Volume 3
 image_number: '29'
 head: long agoe
-entry: "<a href='/New_Beehive/toc_vol2/toc2_084/'>248 [Long ago]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4477
+entry: "<a href='/New_Beehive/toc/toc2_084/'>248 [Long ago]</a>|<a href='/New_Beehive/toc/toc2_427/'>4477
   [Long ago]</a>"
 topic: 
 first_letter: L

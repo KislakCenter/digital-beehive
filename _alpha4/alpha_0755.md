@@ -7,7 +7,7 @@ entry: Purity
 topic: Purity
 first_letter: P
 xref: "<a href='/New_Beehive/alpha1/alpha_0136/'>Chastity</a>|<a href='/New_Beehive/alpha2/alpha_0423/'>Holiness</a>|Cleanliness|<a
-  href='/New_Beehive/alpha5/alpha_1012/'>Washing</a>|<a href='/New_Beehive/toc_vol2/toc2_175/'>936
+  href='/New_Beehive/alpha5/alpha_1012/'>Washing</a>|<a href='/New_Beehive/toc/toc2_175/'>936
   [Purity]</a>"
 see: 
 page: 

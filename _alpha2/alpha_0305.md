@@ -7,7 +7,7 @@ entry: Fable
 topic: Fable
 first_letter: F
 xref: "<a href='/New_Beehive/alpha4/alpha_0806/'>Romance</a>|talker of trifles|<a
-  href='/New_Beehive/toc_vol2/toc2_274/'>1405 [Fable]</a>"
+  href='/New_Beehive/toc/toc2_274/'>1405 [Fable]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_1374
 volume: Volume 3
 image_number: '19'
 head: Ezekiel
-entry: "<a href='/New_Beehive/toc_vol2/toc2_382/'>2164 [Ezekiel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_382/'>2164 [Ezekiel]</a>"
 topic: 
 first_letter: E
 xref: 

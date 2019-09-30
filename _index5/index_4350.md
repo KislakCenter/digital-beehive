@@ -3,7 +3,7 @@ pid: index_4350
 volume: Volume 3
 image_number: '50'
 head: ulcer
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>916 [Sore]</a>|4550 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Sore]</a>|4550 [PAGE_MISSING]"
 topic: 
 first_letter: U/V
 xref: 

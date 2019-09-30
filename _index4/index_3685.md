@@ -3,7 +3,7 @@ pid: index_3685
 volume: Volume 3
 image_number: '42'
 head: shopkeeper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>109 [a Shop-keeper]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
 topic: 
 first_letter: S
 xref: 

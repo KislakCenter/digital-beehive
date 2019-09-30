@@ -3,7 +3,7 @@ pid: index_1262
 volume: Volume 3
 image_number: '18'
 head: English tongue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_116/'>473 [English Tongue]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_116/'>473 [English Tongue]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -3,7 +3,7 @@ pid: index_1298
 volume: Volume 3
 image_number: '19'
 head: Esau
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1901 [Esau]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1901 [Esau]</a>"
 topic: 
 first_letter: E
 xref: 

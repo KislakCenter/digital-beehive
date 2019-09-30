@@ -3,7 +3,7 @@ pid: index_3113
 volume: Volume 3
 image_number: '36'
 head: prayers in Latin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_328/'>1666 [Prayer in Latin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_328/'>1666 [Prayer in Latin]</a>"
 topic: 
 first_letter: P
 xref: 

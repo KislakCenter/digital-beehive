@@ -3,7 +3,7 @@ pid: index_2313
 volume: Volume 3
 image_number: '28'
 head: livery or badge
-entry: "<a href='/New_Beehive/toc_vol2/toc2_424/'>4464 [Livery or Badge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_1942
 volume: Volume 3
 image_number: '25'
 head: Jesuite
-entry: "<a href='/New_Beehive/alpha3/alpha_0447/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_252/'>1292
+entry: "<a href='/New_Beehive/alpha3/alpha_0447/'>a</a>|<a href='/New_Beehive/toc/toc2_252/'>1292
   [Jesuites]</a>"
 topic: 
 first_letter: I/J

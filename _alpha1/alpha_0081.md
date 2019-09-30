@@ -6,9 +6,7 @@ head:
 entry: Big with child
 topic: Big with child
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/alpha4/alpha_0769/'>Reading</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_108/'>421 [Bible]</a>|<a href='/New_Beehive/toc_vol2/toc2_269/'>1377
-  [Great with young]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_269/'>1377 [Great with young]</a>"
 see: 
 page: 
 add: 

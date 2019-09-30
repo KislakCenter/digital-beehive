@@ -3,7 +3,7 @@ pid: index_4183
 volume: Volume 3
 image_number: '48'
 head: too much liberty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_131/'>565 [too much liberty]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_131/'>565 [too much liberty]</a>"
 topic: 
 first_letter: T
 xref: 

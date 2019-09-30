@@ -3,7 +3,7 @@ pid: index_0965
 volume: Volume 3
 image_number: '15'
 head: dearth
-entry: "<a href='/New_Beehive/alpha1/alpha_0209/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>563
+entry: "<a href='/New_Beehive/alpha1/alpha_0209/'>a</a>|<a href='/New_Beehive/toc/toc2_130/'>563
   [Dearth]</a>"
 topic: 
 first_letter: D

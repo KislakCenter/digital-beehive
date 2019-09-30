@@ -3,8 +3,8 @@ pid: index_4610
 volume: Volume 3
 image_number: '53'
 head: old & new words
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4810 [Old & obsolete words: New
-  fangled words]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4810 [Old & obsolete words: New fangled
+  words]</a>"
 topic: 
 first_letter: W
 xref: 

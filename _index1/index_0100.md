@@ -3,7 +3,7 @@ pid: index_0100
 volume: Volume 3
 image_number: '7'
 head: all one
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_2988
 volume: Volume 3
 image_number: '35'
 head: philosophy par[ae]netick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_202/'>1041 [Commandments]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_202/'>1041 [Commandments]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_4554
 volume: Volume 3
 image_number: '52'
 head: willful
-entry: "<a href='/New_Beehive/toc_vol2/toc2_094/'>321 [Willingness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_094/'>321 [Willingness]</a>"
 topic: 
 first_letter: W
 xref: 

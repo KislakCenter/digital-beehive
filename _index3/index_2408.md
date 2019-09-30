@@ -3,7 +3,7 @@ pid: index_2408
 volume: Volume 3
 image_number: '29'
 head: mandrakes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1939 [Mandrakes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Mandrakes]</a>"
 topic: 
 first_letter: M
 xref: 

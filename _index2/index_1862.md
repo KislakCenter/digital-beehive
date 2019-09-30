@@ -3,7 +3,7 @@ pid: index_1862
 volume: Volume 3
 image_number: '24'
 head: homebred
-entry: "<a href='/New_Beehive/toc_vol2/toc2_209/'>1076 [Natives]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_209/'>1076 [Natives]</a>"
 topic: 
 first_letter: H
 xref: 

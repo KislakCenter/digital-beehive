@@ -3,9 +3,9 @@ pid: index_1254
 volume: Volume 3
 image_number: '18'
 head: England
-entry: "<a href='/New_Beehive/alpha2/alpha_0282/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_263/'>1347
-  [England]</a>|<a href='/New_Beehive/toc_vol2/toc2_288/'>1473 [England]</a>|1840
-  [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_270/'>1381 [Great Britain]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0282/'>a</a>|<a href='/New_Beehive/toc/toc2_263/'>1347
+  [England]</a>|<a href='/New_Beehive/toc/toc2_288/'>1473 [England]</a>|1840 [PAGE_MISSING]|<a
+  href='/New_Beehive/toc/toc2_270/'>1381 [Great Britain]</a>"
 topic: 
 first_letter: E
 xref: 

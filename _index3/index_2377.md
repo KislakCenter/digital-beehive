@@ -3,7 +3,7 @@ pid: index_2377
 volume: Volume 3
 image_number: '29'
 head: Magellanica
-entry: "<a href='/New_Beehive/toc_vol2/toc2_223/'>1147 [Magellanica]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_223/'>1147 [Magellanica]</a>"
 topic: 
 first_letter: M
 xref: 

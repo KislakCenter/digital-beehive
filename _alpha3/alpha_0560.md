@@ -7,7 +7,7 @@ entry: Lucre
 topic: Lucre
 first_letter: L
 xref: "<a href='/New_Beehive/alpha4/alpha_0847/'>Selfprofit</a>|<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_244/'>1252 [Gainful]</a>"
+  href='/New_Beehive/toc/toc2_244/'>1252 [Gainful]</a>"
 see: 
 page: 
 add: 

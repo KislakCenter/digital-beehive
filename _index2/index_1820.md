@@ -3,7 +3,7 @@ pid: index_1820
 volume: Volume 3
 image_number: '24'
 head: herod
-entry: "<a href='/New_Beehive/toc_vol2/toc2_433/'>4828 [Herod]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_433/'>4828 [Herod]</a>"
 topic: 
 first_letter: H
 xref: 

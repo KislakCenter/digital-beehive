@@ -3,7 +3,7 @@ pid: index_3778
 volume: Volume 3
 image_number: '43'
 head: royal Society
-entry: "<a href='/New_Beehive/toc_vol2/toc2_205/'>1056 [Royal Society]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_205/'>1056 [Royal Society]</a>"
 topic: 
 first_letter: S
 xref: 

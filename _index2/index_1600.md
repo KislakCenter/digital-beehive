@@ -3,7 +3,7 @@ pid: index_1600
 volume: Volume 3
 image_number: '22'
 head: geometry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_248/'>1274 [Geometry]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_248/'>1274 [Geometry]</a>"
 topic: 
 first_letter: G
 xref: 

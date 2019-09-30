@@ -3,7 +3,7 @@ pid: index_0755
 volume: Volume 3
 image_number: '13'
 head: comparison
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>534 [Comparison]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>534 [Comparison]</a>"
 topic: 
 first_letter: C
 xref: 

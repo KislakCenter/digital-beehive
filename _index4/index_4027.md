@@ -3,7 +3,7 @@ pid: index_4027
 volume: Volume 3
 image_number: '46'
 head: Switzers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>351 [Switzerland]</a>|<a href='/New_Beehive/toc_vol2/toc2_268/'>1371
+entry: "<a href='/New_Beehive/toc/toc2_099/'>351 [Switzerland]</a>|<a href='/New_Beehive/toc/toc2_268/'>1371
   [Switzers]</a>"
 topic: 
 first_letter: S

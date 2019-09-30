@@ -6,7 +6,7 @@ head:
 entry: Intercession
 topic: Intercession
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0576/'>Mediator</a>|<a href='/New_Beehive/toc_vol2/toc2_421/'>2443
+xref: "<a href='/New_Beehive/alpha3/alpha_0576/'>Mediator</a>|<a href='/New_Beehive/toc/toc2_421/'>2443
   [Intercession]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_1903
 volume: Volume 3
 image_number: '24'
 head: 4 humours
-entry: "<a href='/New_Beehive/toc_vol2/toc2_376/'>2104 [the 4 humours]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_376/'>2104 [the 4 humours]</a>"
 topic: 
 first_letter: H
 xref: 

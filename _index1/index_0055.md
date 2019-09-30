@@ -3,7 +3,7 @@ pid: index_0055
 volume: Volume 3
 image_number: '7'
 head: "[AE]sop"
-entry: "<a href='/New_Beehive/toc_vol2/toc2_092/'>305 [[AE]sop]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_092/'>305 [[AE]sop]</a>"
 topic: 
 first_letter: A
 xref: 

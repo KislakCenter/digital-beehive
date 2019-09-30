@@ -3,7 +3,7 @@ pid: index_0939
 volume: Volume 3
 image_number: '15'
 head: Dainty meats
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>696</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>696</a>"
 topic: 
 first_letter: D
 xref: 

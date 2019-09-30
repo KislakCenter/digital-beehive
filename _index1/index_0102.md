@@ -3,7 +3,7 @@ pid: index_0102
 volume: Volume 3
 image_number: '7'
 head: allum
-entry: "<a href='/New_Beehive/toc_vol2/toc2_380/'>2146 [Allum]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_380/'>2146 [Allum]</a>"
 topic: 
 first_letter: A
 xref: 

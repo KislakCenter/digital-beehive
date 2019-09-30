@@ -6,7 +6,7 @@ head:
 entry: Answer
 topic: Answer
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0759/'>Queries</a>|refutation|<a href='/New_Beehive/toc_vol2/toc2_083/'>243
+xref: "<a href='/New_Beehive/alpha4/alpha_0759/'>Queries</a>|refutation|<a href='/New_Beehive/toc/toc2_083/'>243
   [Answer]</a>"
 see: 
 page: 

@@ -3,9 +3,8 @@ pid: index_1912
 volume: Volume 3
 image_number: '24'
 head: husbandry and huswifery
-entry: "<a href='/New_Beehive/alpha2/alpha_0439/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_089/'>281
-  [Husbandry]</a>|<a href='/New_Beehive/toc_vol2/toc2_362/'>1971 [Husbandry]</a>|4621
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha2/alpha_0439/'>a</a>|<a href='/New_Beehive/toc/toc2_089/'>281
+  [Husbandry]</a>|<a href='/New_Beehive/toc/toc2_362/'>1971 [Husbandry]</a>|4621 [PAGE_MISSING]"
 topic: 
 first_letter: H
 xref: 

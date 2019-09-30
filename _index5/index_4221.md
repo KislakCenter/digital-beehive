@@ -3,8 +3,8 @@ pid: index_4221
 volume: Volume 3
 image_number: '48'
 head: transsubstantia[ti]on
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>414 [Transsubstantiation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_363/'>1977 [Transsubstantiation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>414 [Transsubstantiation]</a>|<a href='/New_Beehive/toc/toc2_363/'>1977
+  [Transsubstantiation]</a>"
 topic: 
 first_letter: T
 xref: 

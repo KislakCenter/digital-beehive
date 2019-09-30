@@ -3,7 +3,7 @@ pid: index_3596
 volume: Volume 3
 image_number: '41'
 head: seeking God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_414/'>2394 [Coming to God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
 topic: 
 first_letter: S
 xref: 

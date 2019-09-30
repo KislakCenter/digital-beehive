@@ -3,8 +3,8 @@ pid: index_0809
 volume: Volume 3
 image_number: '14'
 head: considerable and to consider
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>224 [Considerable]</a>|855 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc_vol2/toc2_428/'>4490 [Considerable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>224 [Considerable]</a>|855 [PAGE_MISSING]|<a
+  href='/New_Beehive/toc/toc2_428/'>4490 [Considerable]</a>"
 topic: 
 first_letter: C
 xref: 

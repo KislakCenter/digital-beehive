@@ -3,7 +3,7 @@ pid: index_0280
 volume: Volume 3
 image_number: '9'
 head: ballance
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>219 [Balance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>219 [Balance]</a>"
 topic: 
 first_letter: B
 xref: 

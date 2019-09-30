@@ -3,7 +3,7 @@ pid: index_2803
 volume: Volume 3
 image_number: '33'
 head: open. openly
-entry: "<a href='/New_Beehive/toc_vol2/toc2_124/'>521 [Openly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_124/'>521 [Openly]</a>"
 topic: 
 first_letter: O
 xref: 

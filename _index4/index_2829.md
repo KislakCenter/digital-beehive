@@ -3,7 +3,7 @@ pid: index_2829
 volume: Volume 3
 image_number: '33'
 head: ornament
-entry: "<a href='/New_Beehive/toc_vol2/toc2_076/'>195 [Ornament]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1715
+entry: "<a href='/New_Beehive/toc/toc2_076/'>195 [Ornament]</a>|<a href='/New_Beehive/toc/toc2_336/'>1715
   [Ornament]</a>"
 topic: 
 first_letter: O

@@ -3,7 +3,7 @@ pid: index_2984
 volume: Volume 3
 image_number: '35'
 head: Philada
-entry: "<a href='/New_Beehive/toc_vol2/toc2_212/'>1094 [Philadelphia]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_212/'>1094 [Philadelphia]</a>"
 topic: 
 first_letter: P
 xref: 

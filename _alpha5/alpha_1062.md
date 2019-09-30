@@ -7,7 +7,7 @@ entry: Zoilus
 topic: Zoilus
 first_letter: Z
 xref: "<a href='/New_Beehive/alpha4/alpha_0823/'>Satyre</a>|<a href='/New_Beehive/alpha4/alpha_0681/'>Pasquil</a>|<a
-  href='/New_Beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/New_Beehive/toc_vol2/toc2_143/'>629
+  href='/New_Beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/New_Beehive/toc/toc2_143/'>629
   [Zoilus]</a>"
 see: 
 page: 

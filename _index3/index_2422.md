@@ -3,9 +3,9 @@ pid: index_2422
 volume: Volume 3
 image_number: '29'
 head: many men many minds
-entry: "<a href='/New_Beehive/alpha3/alpha_0568/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1088
-  [Many men, many minds]</a>|<a href='/New_Beehive/toc_vol2/toc2_426/'>4474 [Many
-  heads, many minds]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0568/'>a</a>|<a href='/New_Beehive/toc/toc2_211/'>1088
+  [Many men, many minds]</a>|<a href='/New_Beehive/toc/toc2_426/'>4474 [Many heads,
+  many minds]</a>"
 topic: 
 first_letter: M
 xref: 

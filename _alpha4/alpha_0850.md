@@ -6,9 +6,7 @@ head:
 entry: Serjeant
 topic: Serjeant
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0479/'>Insensibleness</a>|<a href='/New_Beehive/toc_vol2/toc2_181/'>971
-  [NUMERICAL_ENTRY_MISSING]</a>|<a href='/New_Beehive/toc_vol2/toc2_067/'>106 [Serjant
-  or Catchpoll]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_067/'>106 [Serjant or Catchpoll]</a>"
 see: 
 page: 
 add: 

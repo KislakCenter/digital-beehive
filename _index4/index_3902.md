@@ -3,7 +3,7 @@ pid: index_3902
 volume: Volume 3
 image_number: '45'
 head: stiff
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>686 [Firm]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>686 [Firm]</a>"
 topic: 
 first_letter: S
 xref: 

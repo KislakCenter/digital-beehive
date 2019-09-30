@@ -8,7 +8,7 @@ topic: Epicurism
 first_letter: E
 xref: "<a href='/New_Beehive/alpha4/alpha_0795/'>Revelling</a>|<a href='/New_Beehive/alpha2/alpha_0304/'>lust
   of the eye</a>|<a href='/New_Beehive/alpha4/alpha_0707/'>Pleasure</a>|<a href='/New_Beehive/alpha5/alpha_1048/'>Worldly</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_211/'>1087 [Epicures]</a>"
+  href='/New_Beehive/toc/toc2_211/'>1087 [Epicures]</a>"
 see: 
 page: 
 add: 

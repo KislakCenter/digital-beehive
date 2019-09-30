@@ -6,7 +6,7 @@ head:
 entry: Sect
 topic: Sect
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0414/'>Heresy</a>|<a href='/New_Beehive/toc_vol2/toc2_063/'>70
+xref: "<a href='/New_Beehive/alpha2/alpha_0414/'>Heresy</a>|<a href='/New_Beehive/toc/toc2_063/'>70
   [Sect]</a>"
 see: 
 page: 

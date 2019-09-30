@@ -3,7 +3,7 @@ pid: index_1567
 volume: Volume 3
 image_number: '21'
 head: furniture
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>718 [Household Stuff]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>718 [Household Stuff]</a>"
 topic: 
 first_letter: F
 xref: 

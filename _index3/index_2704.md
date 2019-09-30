@@ -3,7 +3,7 @@ pid: index_2704
 volume: Volume 3
 image_number: '32'
 head: next
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>703 [Near]</a>|813 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Near]</a>|813 [PAGE_MISSING]"
 topic: 
 first_letter: N
 xref: 

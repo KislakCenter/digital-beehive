@@ -6,8 +6,7 @@ head:
 entry: Obligation
 topic: Obligation
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0242/'>disobed</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>985
-  [Obedience]</a>|<a href='/New_Beehive/toc_vol2/toc2_273/'>1396 [Obliga[ti]on]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_273/'>1396 [Obliga[ti]on]</a>"
 see: 
 page: 
 add: 

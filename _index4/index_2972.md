@@ -3,7 +3,7 @@ pid: index_2972
 volume: Volume 3
 image_number: '35'
 head: perswasion
-entry: "<a href='/New_Beehive/alpha4/alpha_0696/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_361/'>1969
+entry: "<a href='/New_Beehive/alpha4/alpha_0696/'>a</a>|<a href='/New_Beehive/toc/toc2_361/'>1969
   [Perswasion]</a>"
 topic: 
 first_letter: P

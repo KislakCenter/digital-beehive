@@ -3,7 +3,7 @@ pid: index_1368
 volume: Volume 3
 image_number: '19'
 head: extremity
-entry: 749 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_227/'>1169 [Extremity]</a>
+entry: 749 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_227/'>1169 [Extremity]</a>
 topic: 
 first_letter: E
 xref: 

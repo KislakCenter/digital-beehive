@@ -3,8 +3,8 @@ pid: index_0871
 volume: Volume 3
 image_number: '15'
 head: councils
-entry: "<a href='/New_Beehive/alpha1/alpha_0181/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1016
-  [Councils]</a>|<a href='/New_Beehive/toc_vol2/toc2_344/'>1782 [Councils]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0181/'>a</a>|<a href='/New_Beehive/toc/toc2_197/'>1016
+  [Councils]</a>|<a href='/New_Beehive/toc/toc2_344/'>1782 [Councils]</a>"
 topic: 
 first_letter: C
 xref: 

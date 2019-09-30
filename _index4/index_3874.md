@@ -3,7 +3,7 @@ pid: index_3874
 volume: Volume 3
 image_number: '44'
 head: staiedman
-entry: "<a href='/New_Beehive/toc_vol2/toc2_067/'>101 [A Staied man]</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1144
+entry: "<a href='/New_Beehive/toc/toc2_067/'>101 [A Staied man]</a>|<a href='/New_Beehive/toc/toc2_222/'>1144
   [Staied man]</a>"
 topic: 
 first_letter: S

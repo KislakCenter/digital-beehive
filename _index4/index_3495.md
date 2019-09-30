@@ -3,7 +3,7 @@ pid: index_3495
 volume: Volume 3
 image_number: '40'
 head: sailer
-entry: 764 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_421/'>2445 [Sailer]</a>
+entry: 764 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_421/'>2445 [Sailer]</a>
 topic: 
 first_letter: S
 xref: 

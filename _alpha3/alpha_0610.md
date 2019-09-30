@@ -7,7 +7,7 @@ entry: Mourning
 topic: Mourning
 first_letter: M
 xref: "<a href='/New_Beehive/alpha4/alpha_0815/'>Sadness</a>|<a href='/New_Beehive/alpha3/alpha_0580/'>melancholy</a>|Lamentation|<a
-  href='/New_Beehive/toc_vol2/toc2_201/'>1036 [Mourn]</a>"
+  href='/New_Beehive/toc/toc2_201/'>1036 [Mourn]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3326
 volume: Volume 3
 image_number: '39'
 head: to rectify
-entry: "<a href='/New_Beehive/toc_vol2/toc2_115/'>464 [Amending]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_115/'>464 [Amending]</a>"
 topic: 
 first_letter: R
 xref: 

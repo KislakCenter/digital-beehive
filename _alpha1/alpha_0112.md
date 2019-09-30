@@ -6,9 +6,7 @@ head:
 entry: Cabal
 topic: Cabal
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0352/'>funeral</a>|<a href='/New_Beehive/alpha2/alpha_0384/'>grave</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_166/'>894 [Burial]</a>|<a href='/New_Beehive/toc_vol2/toc2_351/'>1895
-  [Butter]</a>|<a href='/New_Beehive/toc_vol2/toc2_321/'>1632 [To Buy]</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_0132
 volume: Volume 3
 image_number: '8'
 head: anabaptists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_072/'>157 [Anabaptist]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_072/'>157 [Anabaptist]</a>"
 topic: 
 first_letter: A
 xref: 

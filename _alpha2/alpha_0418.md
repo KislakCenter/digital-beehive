@@ -6,8 +6,7 @@ head:
 entry: Hieroglyphicks
 topic: Hieroglyphicks
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0884/'>Solitude</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2093
-  [Hermit]</a>|"
+xref: 
 see: 
 page: 
 add: 

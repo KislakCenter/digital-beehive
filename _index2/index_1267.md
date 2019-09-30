@@ -3,7 +3,7 @@ pid: index_1267
 volume: Volume 3
 image_number: '18'
 head: enough
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>218 [Sufficient]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>218 [Sufficient]</a>"
 topic: 
 first_letter: E
 xref: 

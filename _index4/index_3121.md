@@ -3,8 +3,8 @@ pid: index_3121
 volume: Volume 3
 image_number: '36'
 head: predestination
-entry: "<a href='/New_Beehive/alpha4/alpha_0722/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>228
-  [Predestination]</a>|<a href='/New_Beehive/toc_vol2/toc2_389/'>2230 [Predestination]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0722/'>a</a>|<a href='/New_Beehive/toc/toc2_081/'>228
+  [Predestination]</a>|<a href='/New_Beehive/toc/toc2_389/'>2230 [Predestination]</a>"
 topic: 
 first_letter: P
 xref: 

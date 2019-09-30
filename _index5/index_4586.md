@@ -3,7 +3,7 @@ pid: index_4586
 volume: Volume 3
 image_number: '53'
 head: woe to you!
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>333 [Exclammations or Interjections]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>333 [Exclammations or Interjections]</a>"
 topic: 
 first_letter: W
 xref: 

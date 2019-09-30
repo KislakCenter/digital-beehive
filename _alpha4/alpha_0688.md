@@ -6,7 +6,7 @@ head:
 entry: Peacemaker
 topic: Peacemaker
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0576/'>mediator</a>|<a href='/New_Beehive/toc_vol2/toc2_165/'>888
+xref: "<a href='/New_Beehive/alpha3/alpha_0576/'>mediator</a>|<a href='/New_Beehive/toc/toc2_165/'>888
   [Peace-making]</a>"
 see: 
 page: 

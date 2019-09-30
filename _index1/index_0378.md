@@ -3,8 +3,8 @@ pid: index_0378
 volume: Volume 3
 image_number: '10'
 head: bishop
-entry: "<a href='/New_Beehive/alpha1/alpha_0082/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_119/'>494
-  [Bishop]</a>|<a href='/New_Beehive/toc_vol2/toc2_420/'>2431 [Bishop]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0082/'>a</a>|<a href='/New_Beehive/toc/toc2_119/'>494
+  [Bishop]</a>|<a href='/New_Beehive/toc/toc2_420/'>2431 [Bishop]</a>"
 topic: 
 first_letter: B
 xref: 

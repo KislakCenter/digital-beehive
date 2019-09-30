@@ -3,7 +3,7 @@ pid: index_3441
 volume: Volume 3
 image_number: '40'
 head: rogue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>707 [Roguery]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>707 [Roguery]</a>"
 topic: 
 first_letter: R
 xref: 

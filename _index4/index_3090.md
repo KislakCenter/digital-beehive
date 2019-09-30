@@ -3,7 +3,7 @@ pid: index_3090
 volume: Volume 3
 image_number: '36'
 head: posthumus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_315/'>1603 [Posthumus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_315/'>1603 [Posthumus]</a>"
 topic: 
 first_letter: P
 xref: 

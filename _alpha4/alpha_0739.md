@@ -6,9 +6,7 @@ head:
 entry: Promise
 topic: Promise
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0468/'>Increase</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha2/alpha_0338/'>forbidden things</a>|<a href='/New_Beehive/toc_vol2/toc2_162/'>872
-  [Promise]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_162/'>872 [Promise]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3950
 volume: Volume 3
 image_number: '45'
 head: to stumble
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>706 [to Stumble]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>706 [to Stumble]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Communion
 topic: Communion
 first_letter: C
-xref: Unity|<a href='/New_Beehive/alpha1/alpha_0147/'>Church</a>|<a href='/New_Beehive/toc_vol2/toc2_345/'>1790
+xref: Unity|<a href='/New_Beehive/alpha1/alpha_0147/'>Church</a>|<a href='/New_Beehive/toc/toc2_345/'>1790
   [Communion]</a>
 see: 
 page: 

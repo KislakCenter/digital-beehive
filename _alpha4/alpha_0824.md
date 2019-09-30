@@ -6,7 +6,7 @@ head:
 entry: Scab
 topic: Scab
 first_letter: S
-xref: French Pocks|<a href='/New_Beehive/toc_vol2/toc2_233/'>1199 [Itch]</a>
+xref: French Pocks|<a href='/New_Beehive/toc/toc2_233/'>1199 [Itch]</a>
 see: 
 page: 
 add: 

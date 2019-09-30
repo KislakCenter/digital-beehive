@@ -3,7 +3,7 @@ pid: index_3515
 volume: Volume 3
 image_number: '41'
 head: Samson
-entry: "<a href='/New_Beehive/toc_vol2/toc2_307/'>1565 [Samson]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_307/'>1565 [Samson]</a>"
 topic: 
 first_letter: S
 xref: 

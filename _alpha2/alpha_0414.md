@@ -6,7 +6,7 @@ head:
 entry: Heresy
 topic: Heresy
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0834/'>Sect</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>558
+xref: "<a href='/New_Beehive/alpha4/alpha_0834/'>Sect</a>|<a href='/New_Beehive/toc/toc2_130/'>558
   [Heresy]</a>"
 see: 
 page: 

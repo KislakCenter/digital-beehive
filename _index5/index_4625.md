@@ -3,8 +3,8 @@ pid: index_4625
 volume: Volume 3
 image_number: '53'
 head: will worship
-entry: "<a href='/New_Beehive/alpha5/alpha_1050/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_119/'>490
-  [Will-worship]</a>|<a href='/New_Beehive/toc_vol2/toc2_413/'>2390 [Will-worship]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1050/'>a</a>|<a href='/New_Beehive/toc/toc2_119/'>490
+  [Will-worship]</a>|<a href='/New_Beehive/toc/toc2_413/'>2390 [Will-worship]</a>"
 topic: 
 first_letter: W
 xref: 

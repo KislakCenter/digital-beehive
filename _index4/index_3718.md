@@ -3,8 +3,8 @@ pid: index_3718
 volume: Volume 3
 image_number: '43'
 head: simulation
-entry: "<a href='/New_Beehive/alpha4/alpha_0869/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1150
-  [Simulation]</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1289 [Simulation]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0869/'>a</a>|<a href='/New_Beehive/toc/toc2_223/'>1150
+  [Simulation]</a>|<a href='/New_Beehive/toc/toc2_251/'>1289 [Simulation]</a>"
 topic: 
 first_letter: S
 xref: 

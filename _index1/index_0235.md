@@ -3,7 +3,7 @@ pid: index_0235
 volume: Volume 3
 image_number: '9'
 head: athens
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>314 [Athens]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_093/'>314 [Athens]</a>"
 topic: 
 first_letter: A
 xref: 

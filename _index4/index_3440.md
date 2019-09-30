@@ -3,7 +3,7 @@ pid: index_3440
 volume: Volume 3
 image_number: '40'
 head: rod
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>871 [a Rod]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2208
+entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/New_Beehive/toc/toc2_386/'>2208
   [Rod]</a>"
 topic: 
 first_letter: R

@@ -3,10 +3,10 @@ pid: index_1383
 volume: Volume 3
 image_number: '20'
 head: Faith
-entry: "<a href='/New_Beehive/alpha2/alpha_0308/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_070/'>132
-  [Faith & Patience]</a>|<a href='/New_Beehive/toc_vol2/toc2_105/'>397 [Faith]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_333/'>1693 [Faith]</a>|<a href='/New_Beehive/toc_vol2/toc2_378/'>2127
-  [Faith]</a>|<a href='/New_Beehive/toc_vol2/toc2_112/'>449 [Implicite Faith]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0308/'>a</a>|<a href='/New_Beehive/toc/toc2_070/'>132
+  [Faith & Patience]</a>|<a href='/New_Beehive/toc/toc2_105/'>397 [Faith]</a>|<a href='/New_Beehive/toc/toc2_333/'>1693
+  [Faith]</a>|<a href='/New_Beehive/toc/toc2_378/'>2127 [Faith]</a>|<a href='/New_Beehive/toc/toc2_112/'>449
+  [Implicite Faith]</a>"
 topic: 
 first_letter: F
 xref: 

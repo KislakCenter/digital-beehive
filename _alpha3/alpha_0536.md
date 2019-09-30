@@ -6,7 +6,7 @@ head:
 entry: Light
 topic: Light
 first_letter: L
-xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>562
+xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc/toc2_130/'>562
   [Light]</a>"
 see: 
 page: 

@@ -3,7 +3,7 @@ pid: index_0060
 volume: Volume 3
 image_number: '7'
 head: affirmation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_097/'>342 [Affirmatively]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_097/'>342 [Affirmatively]</a>"
 topic: 
 first_letter: A
 xref: 

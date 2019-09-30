@@ -3,7 +3,7 @@ pid: index_3443
 volume: Volume 3
 image_number: '40'
 head: romance
-entry: "<a href='/New_Beehive/alpha4/alpha_0806/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_272/'>1393
+entry: "<a href='/New_Beehive/alpha4/alpha_0806/'>a</a>|<a href='/New_Beehive/toc/toc2_272/'>1393
   [Romances]</a>"
 topic: 
 first_letter: R

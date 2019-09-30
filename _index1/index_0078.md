@@ -3,7 +3,7 @@ pid: index_0078
 volume: Volume 3
 image_number: '7'
 head: agony
-entry: "<a href='/New_Beehive/alpha1/alpha_0013/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1065
+entry: "<a href='/New_Beehive/alpha1/alpha_0013/'>a</a>|<a href='/New_Beehive/toc/toc2_206/'>1065
   [Agony]</a>"
 topic: 
 first_letter: A

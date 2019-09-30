@@ -3,7 +3,7 @@ pid: index_3512
 volume: Volume 3
 image_number: '41'
 head: samaritans
-entry: "<a href='/New_Beehive/toc_vol2/toc2_362/'>1974 [Samaritans]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_362/'>1974 [Samaritans]</a>"
 topic: 
 first_letter: S
 xref: 

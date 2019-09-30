@@ -6,9 +6,7 @@ head:
 entry: Parricidal
 topic: Parricidal
 first_letter: P
-xref: Children|<a href='/New_Beehive/toc_vol2/toc2_431/'>4811 [WORD_MISSING]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_252/'>1293 [Paris]</a>|<a href='/New_Beehive/toc_vol2/toc2_430/'>4804
-  [Parrot]</a>|
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3370
 volume: Volume 3
 image_number: '39'
 head: repentance
-entry: "<a href='/New_Beehive/alpha4/alpha_0784/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_176/'>944
+entry: "<a href='/New_Beehive/alpha4/alpha_0784/'>a</a>|<a href='/New_Beehive/toc/toc2_176/'>944
   [Repentance]</a>"
 topic: 
 first_letter: R

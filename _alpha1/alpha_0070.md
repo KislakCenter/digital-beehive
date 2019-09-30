@@ -6,7 +6,7 @@ head:
 entry: Bed
 topic: Bed
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0877/'>Sleep</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>523
+xref: "<a href='/New_Beehive/alpha4/alpha_0877/'>Sleep</a>|<a href='/New_Beehive/toc/toc2_124/'>523
   [Bed]</a>"
 see: 
 page: 

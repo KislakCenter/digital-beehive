@@ -3,7 +3,7 @@ pid: index_2070
 volume: Volume 3
 image_number: '26'
 head: instrumt
-entry: "<a href='/New_Beehive/alpha3/alpha_0480/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2378
+entry: "<a href='/New_Beehive/alpha3/alpha_0480/'>a</a>|<a href='/New_Beehive/toc/toc2_412/'>2378
   [Instruments]</a>"
 topic: 
 first_letter: I/J

@@ -3,7 +3,7 @@ pid: index_1609
 volume: Volume 3
 image_number: '22'
 head: giddiness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_137/'>599 [Giddiness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_137/'>599 [Giddiness]</a>"
 topic: 
 first_letter: G
 xref: 

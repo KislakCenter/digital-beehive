@@ -3,7 +3,7 @@ pid: index_1155
 volume: Volume 3
 image_number: '17'
 head: dromedary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_166/'>892 [Horse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_166/'>892 [Horse]</a>"
 topic: 
 first_letter: D
 xref: 

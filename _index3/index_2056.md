@@ -3,7 +3,7 @@ pid: index_2056
 volume: Volume 3
 image_number: '26'
 head: inquisition
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>400 [Inquisition]</a>|<a href='/New_Beehive/toc_vol2/toc2_305/'>1551
+entry: "<a href='/New_Beehive/toc/toc2_105/'>400 [Inquisition]</a>|<a href='/New_Beehive/toc/toc2_305/'>1551
   [Inquisitors]</a>"
 topic: 
 first_letter: I/J

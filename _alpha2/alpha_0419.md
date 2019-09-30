@@ -6,7 +6,7 @@ head:
 entry: Highness
 topic: Highness
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0380/'>Grandeur</a>|<a href='/New_Beehive/toc_vol2/toc2_164/'>883
+xref: "<a href='/New_Beehive/alpha2/alpha_0380/'>Grandeur</a>|<a href='/New_Beehive/toc/toc2_164/'>883
   [highness]</a>"
 see: 
 page: 

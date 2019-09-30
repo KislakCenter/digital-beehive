@@ -3,7 +3,7 @@ pid: index_1151
 volume: Volume 3
 image_number: '17'
 head: drift
-entry: "<a href='/New_Beehive/toc_vol2/toc2_158/'>711 [Drift]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_158/'>711 [Drift]</a>"
 topic: 
 first_letter: D
 xref: 

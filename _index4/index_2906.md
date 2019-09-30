@@ -3,7 +3,7 @@ pid: index_2906
 volume: Volume 3
 image_number: '34'
 head: passover
-entry: "<a href='/New_Beehive/toc_vol2/toc2_196/'>1011 [Passover]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_196/'>1011 [Passover]</a>"
 topic: 
 first_letter: P
 xref: 

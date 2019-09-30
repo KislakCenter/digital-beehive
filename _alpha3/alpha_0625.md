@@ -6,7 +6,7 @@ head:
 entry: Natural
 topic: Natural
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1086
+xref: "<a href='/New_Beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/New_Beehive/toc/toc2_211/'>1086
   [Natural]</a>"
 see: 
 page: 

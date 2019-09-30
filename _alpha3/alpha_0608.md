@@ -6,7 +6,7 @@ head:
 entry: Motto
 topic: Motto
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0478/'>Inscription</a>|<a href='/New_Beehive/toc_vol2/toc2_084/'>250
+xref: "<a href='/New_Beehive/alpha3/alpha_0478/'>Inscription</a>|<a href='/New_Beehive/toc/toc2_084/'>250
   [Embleme]</a>"
 see: 
 page: 

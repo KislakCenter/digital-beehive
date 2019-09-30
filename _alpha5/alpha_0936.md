@@ -6,7 +6,7 @@ head:
 entry: Testament
 topic: Testament
 first_letter: T
-xref: "<a href='/New_Beehive/alpha5/alpha_1024/'>Will</a>|<a href='/New_Beehive/toc_vol2/toc2_389/'>2226
+xref: "<a href='/New_Beehive/alpha5/alpha_1024/'>Will</a>|<a href='/New_Beehive/toc/toc2_389/'>2226
   [Will]</a>"
 see: 
 page: 

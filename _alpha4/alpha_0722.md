@@ -6,7 +6,7 @@ head:
 entry: Predestination
 topic: Predestination
 first_letter: P
-xref: Reprobates|<a href='/New_Beehive/alpha2/alpha_0315/'>Fate</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>228
+xref: Reprobates|<a href='/New_Beehive/alpha2/alpha_0315/'>Fate</a>|<a href='/New_Beehive/toc/toc2_081/'>228
   [Predestination]</a>
 see: 
 page: 

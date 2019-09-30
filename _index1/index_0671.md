@@ -3,7 +3,7 @@ pid: index_0671
 volume: Volume 3
 image_number: '13'
 head: circulation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_324/'>1648 [Circulatio]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_324/'>1648 [Circulatio]</a>"
 topic: 
 first_letter: C
 xref: 

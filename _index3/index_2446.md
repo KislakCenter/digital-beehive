@@ -3,7 +3,7 @@ pid: index_2446
 volume: Volume 3
 image_number: '30'
 head: master of arts
-entry: "<a href='/New_Beehive/alpha3/alpha_0572/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_117/'>480
+entry: "<a href='/New_Beehive/alpha3/alpha_0572/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>480
   [Master of arts]</a>"
 topic: 
 first_letter: M

@@ -3,8 +3,8 @@ pid: index_2723
 volume: Volume 3
 image_number: '32'
 head: noise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>148 [Noise]</a>|<a href='/New_Beehive/toc_vol2/toc2_322/'>1640
-  [Sound]</a>|<a href='/New_Beehive/toc_vol2/toc2_362/'>1971 [Noise]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_071/'>148 [Noise]</a>|<a href='/New_Beehive/toc/toc2_322/'>1640
+  [Sound]</a>|<a href='/New_Beehive/toc/toc2_362/'>1971 [Noise]</a>"
 topic: 
 first_letter: N
 xref: 

@@ -3,7 +3,7 @@ pid: index_2774
 volume: Volume 3
 image_number: '33'
 head: office
-entry: "<a href='/New_Beehive/alpha4/alpha_0651/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_240/'>1232
+entry: "<a href='/New_Beehive/alpha4/alpha_0651/'>a</a>|<a href='/New_Beehive/toc/toc2_240/'>1232
   [publick Offices]</a>"
 topic: 
 first_letter: O

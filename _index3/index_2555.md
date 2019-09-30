@@ -3,7 +3,7 @@ pid: index_2555
 volume: Volume 3
 image_number: '31'
 head: mogshade
-entry: "<a href='/New_Beehive/toc_vol2/toc2_145/'>641 [mogshade]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_145/'>641 [mogshade]</a>"
 topic: 
 first_letter: M
 xref: 

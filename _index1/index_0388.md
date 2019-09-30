@@ -3,7 +3,7 @@ pid: index_0388
 volume: Volume 3
 image_number: '10'
 head: to bleach
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>723 [To Bleach]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>723 [To Bleach]</a>"
 topic: 
 first_letter: B
 xref: 

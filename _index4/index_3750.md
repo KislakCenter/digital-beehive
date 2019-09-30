@@ -3,7 +3,7 @@ pid: index_3750
 volume: Volume 3
 image_number: '43'
 head: slender
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>310 [Leanness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_093/'>310 [Leanness]</a>"
 topic: 
 first_letter: S
 xref: 

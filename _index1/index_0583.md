@@ -3,7 +3,7 @@ pid: index_0583
 volume: Volume 3
 image_number: '12'
 head: ceremony
-entry: "<a href='/New_Beehive/alpha1/alpha_0133/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_218/'>1125
+entry: "<a href='/New_Beehive/alpha1/alpha_0133/'>a</a>|<a href='/New_Beehive/toc/toc2_218/'>1125
   [Ceremonies]</a>"
 topic: 
 first_letter: C

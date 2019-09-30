@@ -7,7 +7,7 @@ entry: Guilt
 topic: Guilt
 first_letter: G
 xref: "<a href='/New_Beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/New_Beehive/alpha2/alpha_0317/'>fault</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_318/'>1620 [Guilt]</a>|<a href='/New_Beehive/toc_vol2/toc2_115/'>468
+  href='/New_Beehive/toc/toc2_318/'>1620 [Guilt]</a>|<a href='/New_Beehive/toc/toc2_115/'>468
   [Self-guilty]</a>"
 see: 
 page: 

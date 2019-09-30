@@ -6,8 +6,7 @@ head:
 entry: Moon
 topic: Moon
 first_letter: M
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc_vol2/toc2_163/'>880
-  [Moral Philos]</a>|<a href='/New_Beehive/toc_vol2/toc2_265/'>1357 [Moon]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_265/'>1357 [Moon]</a>"
 see: 
 page: 
 add: 

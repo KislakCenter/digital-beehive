@@ -3,8 +3,8 @@ pid: index_4465
 volume: Volume 3
 image_number: '51'
 head: to walk with God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_410/'>2359 [How to walk with God all the
-  day long]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_410/'>2359 [How to walk with God all the day
+  long]</a>"
 topic: 
 first_letter: W
 xref: 

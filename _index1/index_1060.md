@@ -3,8 +3,8 @@ pid: index_1060
 volume: Volume 3
 image_number: '16'
 head: dirt
-entry: "<a href='/New_Beehive/alpha1/alpha_0236/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>314
-  [Solomon]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2159 [Dirt]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0236/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>314
+  [Solomon]</a>|<a href='/New_Beehive/toc/toc2_381/'>2159 [Dirt]</a>"
 topic: 
 first_letter: D
 xref: 

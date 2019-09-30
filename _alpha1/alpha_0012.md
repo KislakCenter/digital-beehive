@@ -6,7 +6,7 @@ head:
 entry: Affections
 topic: Affections
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0164/'>Concupiscence</a>|<a href='/New_Beehive/toc_vol2/toc2_231/'>1187
+xref: "<a href='/New_Beehive/alpha1/alpha_0164/'>Concupiscence</a>|<a href='/New_Beehive/toc/toc2_231/'>1187
   [Affections]</a>"
 see: 
 page: 

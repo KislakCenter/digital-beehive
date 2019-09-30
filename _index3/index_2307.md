@@ -3,8 +3,8 @@ pid: index_2307
 volume: Volume 3
 image_number: '28'
 head: little sufficeth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>45 [Little will suffice Nature]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_225/'>1160 [a Little is sufficient]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_061/'>45 [Little will suffice Nature]</a>|<a
+  href='/New_Beehive/toc/toc2_225/'>1160 [a Little is sufficient]</a>"
 topic: 
 first_letter: L
 xref: 

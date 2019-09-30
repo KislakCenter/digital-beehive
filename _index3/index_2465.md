@@ -3,9 +3,8 @@ pid: index_2465
 volume: Volume 3
 image_number: '30'
 head: medicine
-entry: "<a href='/New_Beehive/alpha3/alpha_0577/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>665
-  [Medicines]</a>|<a href='/New_Beehive/toc_vol2/toc2_323/'>1642 [Medicines]</a>|4513
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0577/'>a</a>|<a href='/New_Beehive/toc/toc2_149/'>665
+  [Medicines]</a>|<a href='/New_Beehive/toc/toc2_323/'>1642 [Medicines]</a>|4513 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

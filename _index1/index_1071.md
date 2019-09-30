@@ -3,7 +3,7 @@ pid: index_1071
 volume: Volume 3
 image_number: '17'
 head: discourage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>701 [Discourage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>701 [Discourage]</a>"
 topic: 
 first_letter: D
 xref: 

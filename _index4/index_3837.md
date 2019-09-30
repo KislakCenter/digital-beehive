@@ -3,7 +3,7 @@ pid: index_3837
 volume: Volume 3
 image_number: '44'
 head: sperma
-entry: "<a href='/New_Beehive/toc_vol2/toc2_205/'>1059 [Sperma]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_205/'>1059 [Sperma]</a>"
 topic: 
 first_letter: S
 xref: 

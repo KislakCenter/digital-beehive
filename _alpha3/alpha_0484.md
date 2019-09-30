@@ -6,7 +6,7 @@ head:
 entry: Interpretation
 topic: Interpretation
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>923
+xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|<a href='/New_Beehive/toc/toc2_172/'>923
   [Interpretation]</a>"
 see: 
 page: 

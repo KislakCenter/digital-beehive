@@ -3,7 +3,7 @@ pid: index_3546
 volume: Volume 3
 image_number: '41'
 head: schism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_121/'>505 [Sect]</a>|<a href='/New_Beehive/toc_vol2/toc2_268/'>1373
+entry: "<a href='/New_Beehive/toc/toc2_121/'>505 [Sect]</a>|<a href='/New_Beehive/toc/toc2_268/'>1373
   [Sects]</a>"
 topic: 
 first_letter: S

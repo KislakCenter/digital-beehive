@@ -3,10 +3,9 @@ pid: index_2955
 volume: Volume 3
 image_number: '35'
 head: perfection
-entry: "<a href='/New_Beehive/alpha4/alpha_0693/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_062/'>60
-  [Perfection]</a>|<a href='/New_Beehive/toc_vol2/toc2_131/'>569 [Perfection]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_210/'>1084 [Perfection]</a>|<a href='/New_Beehive/toc_vol2/toc2_340/'>1753
-  [Sinless Perfection]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0693/'>a</a>|<a href='/New_Beehive/toc/toc2_062/'>60
+  [Perfection]</a>|<a href='/New_Beehive/toc/toc2_131/'>569 [Perfection]</a>|<a href='/New_Beehive/toc/toc2_210/'>1084
+  [Perfection]</a>|<a href='/New_Beehive/toc/toc2_340/'>1753 [Sinless Perfection]</a>"
 topic: 
 first_letter: P
 xref: 

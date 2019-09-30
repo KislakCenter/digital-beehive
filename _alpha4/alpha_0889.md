@@ -6,7 +6,7 @@ head:
 entry: Souldier
 topic: Souldier
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1009/'>War</a>|<a href='/New_Beehive/toc_vol2/toc2_207/'>1066
+xref: "<a href='/New_Beehive/alpha5/alpha_1009/'>War</a>|<a href='/New_Beehive/toc/toc2_207/'>1066
   [Souldier]</a>"
 see: 
 page: 

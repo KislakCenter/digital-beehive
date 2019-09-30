@@ -7,7 +7,7 @@ entry: Bible
 topic: Bible
 first_letter: B
 xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/alpha4/alpha_0769/'>Reading</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_108/'>421 [Bible]</a>"
+  href='/New_Beehive/toc/toc2_108/'>421 [Bible]</a>"
 see: 
 page: 
 add: 

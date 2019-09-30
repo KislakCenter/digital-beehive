@@ -3,8 +3,8 @@ pid: index_0156
 volume: Volume 3
 image_number: '8'
 head: antiChrist
-entry: "<a href='/New_Beehive/alpha1/alpha_0033/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>905
-  [AntiChrist]</a>|<a href='/New_Beehive/toc_vol2/toc2_420/'>2432 [AntiChrist]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0033/'>a</a>|<a href='/New_Beehive/toc/toc2_168/'>905
+  [AntiChrist]</a>|<a href='/New_Beehive/toc/toc2_420/'>2432 [AntiChrist]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_0214
 volume: Volume 3
 image_number: '8'
 head: arse
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>458 [Privy parts]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>458 [Privy parts]</a>"
 topic: 
 first_letter: A
 xref: 

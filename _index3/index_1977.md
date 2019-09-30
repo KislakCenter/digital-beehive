@@ -3,7 +3,7 @@ pid: index_1977
 volume: Volume 3
 image_number: '25'
 head: imprecation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_209/'>1078 [Curse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_209/'>1078 [Curse]</a>"
 topic: 
 first_letter: I/J
 xref: 

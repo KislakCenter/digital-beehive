@@ -3,8 +3,8 @@ pid: index_2948
 volume: Volume 3
 image_number: '35'
 head: pen[n]
-entry: "<a href='/New_Beehive/toc_vol2/toc2_107/'>410 [Pen]</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>501
-  [Pen]</a>|<a href='/New_Beehive/toc_vol2/toc2_346/'>1801 [Penn]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_107/'>410 [Pen]</a>|<a href='/New_Beehive/toc/toc2_120/'>501
+  [Pen]</a>|<a href='/New_Beehive/toc/toc2_346/'>1801 [Penn]</a>"
 topic: 
 first_letter: P
 xref: 

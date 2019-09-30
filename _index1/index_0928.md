@@ -3,7 +3,7 @@ pid: index_0928
 volume: Volume 3
 image_number: '15'
 head: curiosity
-entry: "<a href='/New_Beehive/alpha1/alpha_0201/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_315/'>1602
+entry: "<a href='/New_Beehive/alpha1/alpha_0201/'>a</a>|<a href='/New_Beehive/toc/toc2_315/'>1602
   [Curiosity]</a>"
 topic: 
 first_letter: C

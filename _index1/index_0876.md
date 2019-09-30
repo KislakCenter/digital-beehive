@@ -3,7 +3,7 @@ pid: index_0876
 volume: Volume 3
 image_number: '15'
 head: Counter-witchcraft
-entry: "<a href='/New_Beehive/toc_vol2/toc2_387/'>2215 [Counter mining of Witchcraft]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_387/'>2215 [Counter mining of Witchcraft]</a>"
 topic: 
 first_letter: C
 xref: 

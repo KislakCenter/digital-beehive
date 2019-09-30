@@ -3,7 +3,7 @@ pid: index_1929
 volume: Volume 3
 image_number: '25'
 head: jaundise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_237/'>1217 [Jaundise]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_237/'>1217 [Jaundise]</a>"
 topic: 
 first_letter: I/J
 xref: 

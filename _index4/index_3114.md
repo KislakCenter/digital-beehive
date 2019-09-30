@@ -3,8 +3,8 @@ pid: index_3114
 volume: Volume 3
 image_number: '36'
 head: book prayers
-entry: "<a href='/New_Beehive/alpha4/alpha_0719/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_086/'>259
-  [Book Prayers]</a>|<a href='/New_Beehive/toc_vol2/toc2_331/'>1684 [Prayer Books]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0719/'>a</a>|<a href='/New_Beehive/toc/toc2_086/'>259
+  [Book Prayers]</a>|<a href='/New_Beehive/toc/toc2_331/'>1684 [Prayer Books]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_4234
 volume: Volume 3
 image_number: '48'
 head: trial
-entry: "<a href='/New_Beehive/toc_vol2/toc2_118/'>487 [Proof, Try all]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
 topic: 
 first_letter: T
 xref: 

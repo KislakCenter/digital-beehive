@@ -6,8 +6,7 @@ head:
 entry: To Bring
 topic: To Bring
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_058/'>7 [Husband & Wife]</a>|Wedding|<a
-  href='/New_Beehive/toc_vol2/toc2_351/'>1893 [Be[tro]thing or Espousing]</a>||"
+xref: 
 see: 
 page: 
 add: 

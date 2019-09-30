@@ -3,7 +3,7 @@ pid: index_0859
 volume: Volume 3
 image_number: '14'
 head: correlata
-entry: "<a href='/New_Beehive/toc_vol2/toc2_321/'>1633 [Correlate]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_321/'>1633 [Correlate]</a>"
 topic: 
 first_letter: C
 xref: 

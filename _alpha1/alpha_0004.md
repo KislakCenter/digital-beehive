@@ -6,8 +6,7 @@ head:
 entry: Abuse
 topic: Abuse
 first_letter: A
-xref: "<a href='/New_Beehive/alpha5/alpha_0955/'>Too much</a>|<a href='/New_Beehive/alpha4/alpha_0920/'>Superfluity</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_214/'>1102 [Abuse]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_214/'>1102 [Abuse]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3924
 volume: Volume 3
 image_number: '45'
 head: to Strain a gnat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_074/'>177 [Strain a gnat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_074/'>177 [Strain a gnat]</a>"
 topic: 
 first_letter: S
 xref: 

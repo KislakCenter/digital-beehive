@@ -3,8 +3,8 @@ pid: index_2339
 volume: Volume 3
 image_number: '29'
 head: love
-entry: "<a href='/New_Beehive/alpha3/alpha_0550/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_111/'>438
-  [Love]</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1077 [Love]</a>|<a href='/New_Beehive/toc_vol2/toc2_423/'>4452
+entry: "<a href='/New_Beehive/alpha3/alpha_0550/'>a</a>|<a href='/New_Beehive/toc/toc2_111/'>438
+  [Love]</a>|<a href='/New_Beehive/toc/toc2_209/'>1077 [Love]</a>|<a href='/New_Beehive/toc/toc2_423/'>4452
   [Love]</a>"
 topic: 
 first_letter: L

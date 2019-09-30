@@ -3,7 +3,7 @@ pid: index_2183
 volume: Volume 3
 image_number: '27'
 head: labyrinth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_132/'>574 [Labyrinth or Maze]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_132/'>574 [Labyrinth or Maze]</a>"
 topic: 
 first_letter: L
 xref: 

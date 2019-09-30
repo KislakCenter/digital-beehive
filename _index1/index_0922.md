@@ -3,7 +3,7 @@ pid: index_0922
 volume: Volume 3
 image_number: '15'
 head: crystal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_323/'>1645 [Chrystall]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_323/'>1645 [Chrystall]</a>"
 topic: 
 first_letter: C
 xref: 

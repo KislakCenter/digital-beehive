@@ -3,7 +3,7 @@ pid: index_1140
 volume: Volume 3
 image_number: '17'
 head: Fr. Drake
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>353 [Francis Drake]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>353 [Francis Drake]</a>"
 topic: 
 first_letter: D
 xref: 

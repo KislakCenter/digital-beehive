@@ -3,8 +3,8 @@ pid: index_1095
 volume: Volume 3
 image_number: '17'
 head: disputation
-entry: "<a href='/New_Beehive/alpha1/alpha_0244/'>a</a>|803 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_254/'>1302
-  [Disputation]</a>|<a href='/New_Beehive/toc_vol2/toc2_323/'>1643 [Disputing]</a>|4750
+entry: "<a href='/New_Beehive/alpha1/alpha_0244/'>a</a>|803 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_254/'>1302
+  [Disputation]</a>|<a href='/New_Beehive/toc/toc2_323/'>1643 [Disputing]</a>|4750
   [PAGE_MISSING]"
 topic: 
 first_letter: D

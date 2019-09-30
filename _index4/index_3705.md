@@ -3,7 +3,7 @@ pid: index_3705
 volume: Volume 3
 image_number: '43'
 head: sign posts
-entry: "<a href='/New_Beehive/toc_vol2/toc2_166/'>892 [Mark]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_166/'>892 [Mark]</a>"
 topic: 
 first_letter: S
 xref: 

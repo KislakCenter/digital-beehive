@@ -6,8 +6,7 @@ head:
 entry: Pitch
 topic: Pitch
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1532
-  [Godliness]</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1073 [Pietism]</a>|"
+xref: 
 see: 
 page: 
 add: 

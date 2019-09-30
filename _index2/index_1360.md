@@ -3,7 +3,7 @@ pid: index_1360
 volume: Volume 3
 image_number: '19'
 head: extemporary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>416 [Extemporality]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>416 [Extemporality]</a>"
 topic: 
 first_letter: E
 xref: 

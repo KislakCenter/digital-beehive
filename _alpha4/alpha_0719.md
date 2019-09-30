@@ -6,9 +6,7 @@ head:
 entry: Book prayers
 topic: Book prayers
 first_letter: P
-xref: "<a href='/New_Beehive/alpha2/alpha_0427/'>Honour</a>|Flatterers|<a href='/New_Beehive/toc_vol2/toc2_216/'>1112
-  [Praise of God or Men]</a>|<a href='/New_Beehive/toc_vol2/toc2_093/'>309 [Prayers]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_086/'>259 [Book Prayers]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_086/'>259 [Book Prayers]</a>"
 see: 
 page: 
 add: 

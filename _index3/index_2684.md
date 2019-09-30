@@ -3,7 +3,7 @@ pid: index_2684
 volume: Volume 3
 image_number: '32'
 head: Neptune
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1383 [Neptune]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [Neptune]</a>"
 topic: 
 first_letter: N
 xref: 

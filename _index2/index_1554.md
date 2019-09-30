@@ -3,7 +3,7 @@ pid: index_1554
 volume: Volume 3
 image_number: '21'
 head: froth
-entry: "<a href='/New_Beehive/toc_vol2/toc2_304/'>1547 [Juggling]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_304/'>1547 [Juggling]</a>"
 topic: 
 first_letter: F
 xref: 

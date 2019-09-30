@@ -3,7 +3,7 @@ pid: index_1063
 volume: Volume 3
 image_number: '16'
 head: disbelieve
-entry: "<a href='/New_Beehive/toc_vol2/toc2_156/'>705 [believe]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_156/'>705 [believe]</a>"
 topic: 
 first_letter: D
 xref: 

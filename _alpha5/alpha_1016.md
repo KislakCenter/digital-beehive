@@ -6,9 +6,7 @@ head:
 entry: Way
 topic: Way
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc_vol2/toc2_266/'>1363
-  [Watchfulness]</a>|<a href='/New_Beehive/toc_vol2/toc2_304/'>1546 [Water]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_195/'>1007 [Way]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_195/'>1007 [Way]</a>"
 see: 
 page: 
 add: 

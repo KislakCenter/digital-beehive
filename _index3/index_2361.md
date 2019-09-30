@@ -3,7 +3,7 @@ pid: index_2361
 volume: Volume 3
 image_number: '29'
 head: Ludov. XIV
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1319 [Ludovicus XIV]</a>|<a href='/New_Beehive/toc_vol2/toc2_363/'>1984
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1319 [Ludovicus XIV]</a>|<a href='/New_Beehive/toc/toc2_363/'>1984
   [Ludovicus XIV]</a>"
 topic: 
 first_letter: L

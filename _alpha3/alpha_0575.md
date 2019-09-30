@@ -6,7 +6,7 @@ head:
 entry: Meat
 topic: Meat
 first_letter: M
-xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotch potch</a>|<a href='/New_Beehive/toc_vol2/toc2_100/'>359
+xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotch potch</a>|<a href='/New_Beehive/toc/toc2_100/'>359
   [Meat]</a>"
 see: 
 page: 

@@ -3,9 +3,8 @@ pid: index_3787
 volume: Volume 3
 image_number: '43'
 head: solitude
-entry: "<a href='/New_Beehive/alpha4/alpha_0884/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_227/'>1170
-  [Solitude]</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1617 [Solitude]</a>|4564
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha4/alpha_0884/'>a</a>|<a href='/New_Beehive/toc/toc2_227/'>1170
+  [Solitude]</a>|<a href='/New_Beehive/toc/toc2_318/'>1617 [Solitude]</a>|4564 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 

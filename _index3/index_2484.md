@@ -3,7 +3,7 @@ pid: index_2484
 volume: Volume 3
 image_number: '30'
 head: menonists
-entry: "<a href='/New_Beehive/toc_vol2/toc2_072/'>157 [Anabaptist]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_072/'>157 [Anabaptist]</a>"
 topic: 
 first_letter: M
 xref: 

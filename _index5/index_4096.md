@@ -3,7 +3,7 @@ pid: index_4096
 volume: Volume 3
 image_number: '47'
 head: terra sigillata
-entry: "<a href='/New_Beehive/toc_vol2/toc2_227/'>1168 [Terra Sigillata]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_227/'>1168 [Terra Sigillata]</a>"
 topic: 
 first_letter: T
 xref: 

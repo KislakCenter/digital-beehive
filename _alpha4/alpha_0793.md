@@ -6,8 +6,8 @@ head:
 entry: Revelation
 topic: Revelation
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc_vol2/toc2_107/'>409
-  [Vision]</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>960 [Revelation]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc/toc2_107/'>409
+  [Vision]</a>|<a href='/New_Beehive/toc/toc2_179/'>960 [Revelation]</a>"
 see: 
 page: 
 add: 

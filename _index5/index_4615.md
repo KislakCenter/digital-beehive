@@ -3,7 +3,7 @@ pid: index_4615
 volume: Volume 3
 image_number: '53'
 head: Works without faith
-entry: "<a href='/New_Beehive/toc_vol2/toc2_110/'>433 [Works without faith]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_110/'>433 [Works without faith]</a>"
 topic: 
 first_letter: W
 xref: 

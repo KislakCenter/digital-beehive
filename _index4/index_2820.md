@@ -3,8 +3,8 @@ pid: index_2820
 volume: Volume 3
 image_number: '33'
 head: Sacramt of Os or Ordination
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>221 [Sacrament of Orders]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_346/'>1805 [Ordination]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_080/'>221 [Sacrament of Orders]</a>|<a href='/New_Beehive/toc/toc2_346/'>1805
+  [Ordination]</a>"
 topic: 
 first_letter: O
 xref: 

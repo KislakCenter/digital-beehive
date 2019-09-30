@@ -7,7 +7,7 @@ entry: Salary
 topic: Salary
 first_letter: S
 xref: "<a href='/New_Beehive/alpha2/alpha_0421/'>Hireling</a>|<a href='/New_Beehive/alpha4/alpha_0797/'>Reward</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_265/'>1360 [Salary]</a>"
+  href='/New_Beehive/toc/toc2_265/'>1360 [Salary]</a>"
 see: 
 page: 
 add: 

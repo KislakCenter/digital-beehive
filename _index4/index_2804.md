@@ -3,7 +3,7 @@ pid: index_2804
 volume: Volume 3
 image_number: '33'
 head: to open
-entry: "<a href='/New_Beehive/toc_vol2/toc2_124/'>521 [to Open]</a>|<a href='/New_Beehive/toc_vol2/toc2_395/'>2260
+entry: "<a href='/New_Beehive/toc/toc2_124/'>521 [to Open]</a>|<a href='/New_Beehive/toc/toc2_395/'>2260
   [To Open]</a>"
 topic: 
 first_letter: O

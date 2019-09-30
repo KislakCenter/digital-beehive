@@ -3,8 +3,8 @@ pid: index_3229
 volume: Volume 3
 image_number: '38'
 head: punishmt
-entry: "<a href='/New_Beehive/alpha4/alpha_0753/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_235/'>1210
-  [Punishmt]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2179 [Punishment]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0753/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1210
+  [Punishmt]</a>|<a href='/New_Beehive/toc/toc2_383/'>2179 [Punishment]</a>"
 topic: 
 first_letter: P
 xref: 

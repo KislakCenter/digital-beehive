@@ -6,7 +6,7 @@ head:
 entry: Funeral
 topic: Funeral
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc_vol2/toc2_208/'>1071
+xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc/toc2_208/'>1071
   [Funeral Comendation]</a>"
 see: 
 page: 

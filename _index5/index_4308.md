@@ -3,7 +3,7 @@ pid: index_4308
 volume: Volume 3
 image_number: '49'
 head: vengeange
-entry: "<a href='/New_Beehive/toc_vol2/toc2_121/'>504 [Revenge]</a>|<a href='/New_Beehive/toc_vol2/toc2_393/'>2246
+entry: "<a href='/New_Beehive/toc/toc2_121/'>504 [Revenge]</a>|<a href='/New_Beehive/toc/toc2_393/'>2246
   [Revenge]</a>"
 topic: 
 first_letter: U/V

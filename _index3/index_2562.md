@@ -3,7 +3,7 @@ pid: index_2562
 volume: Volume 3
 image_number: '31'
 head: moment
-entry: "<a href='/New_Beehive/toc_vol2/toc2_308/'>1569 [Prescience]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_308/'>1569 [Prescience]</a>"
 topic: 
 first_letter: M
 xref: 

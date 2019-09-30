@@ -3,8 +3,8 @@ pid: index_2947
 volume: Volume 3
 image_number: '35'
 head: Wm. Pen[n]
-entry: "<a href='/New_Beehive/toc_vol2/toc2_212/'>1095 [William Penn]</a>|<a href='/New_Beehive/toc_vol2/toc2_330/'>1678
-  [Wm. Penn]</a>|<a href='/New_Beehive/toc_vol2/toc2_361/'>1970 [Wm. Penn]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_212/'>1095 [William Penn]</a>|<a href='/New_Beehive/toc/toc2_330/'>1678
+  [Wm. Penn]</a>|<a href='/New_Beehive/toc/toc2_361/'>1970 [Wm. Penn]</a>"
 topic: 
 first_letter: P
 xref: 

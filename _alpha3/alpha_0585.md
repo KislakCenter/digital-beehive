@@ -7,8 +7,8 @@ entry: Merit
 topic: Merit
 first_letter: M
 xref: "<a href='/New_Beehive/alpha4/alpha_0797/'>Reward</a>|<a href='/New_Beehive/alpha5/alpha_1051/'>Worthiness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_186/'>1004 [Christ's outward Satisfaction]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_328/'>1667 [Merit]</a>"
+  href='/New_Beehive/toc/toc2_186/'>1004 [Christ's outward Satisfaction]</a>|<a href='/New_Beehive/toc/toc2_328/'>1667
+  [Merit]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2500
 volume: Volume 3
 image_number: '30'
 head: metamorphosing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_146/'>650 [Transformation]</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1650
+entry: "<a href='/New_Beehive/toc/toc2_146/'>650 [Transformation]</a>|<a href='/New_Beehive/toc/toc2_324/'>1650
   [Transformation]</a>"
 topic: 
 first_letter: M

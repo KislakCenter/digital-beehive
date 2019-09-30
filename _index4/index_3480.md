@@ -3,7 +3,7 @@ pid: index_3480
 volume: Volume 3
 image_number: '40'
 head: Sacheverell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_330/'>1677 [Sacheverell]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_330/'>1677 [Sacheverell]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_3406
 volume: Volume 3
 image_number: '40'
 head: revenue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_131/'>568 [Rent of Revenue]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_131/'>568 [Rent of Revenue]</a>"
 topic: 
 first_letter: R
 xref: 

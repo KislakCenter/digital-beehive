@@ -3,7 +3,7 @@ pid: index_0817
 volume: Volume 3
 image_number: '14'
 head: consumption
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>594 [Dropsie]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>594 [Dropsie]</a>"
 topic: 
 first_letter: C
 xref: 

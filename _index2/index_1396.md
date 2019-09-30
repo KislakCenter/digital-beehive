@@ -3,7 +3,7 @@ pid: index_1396
 volume: Volume 3
 image_number: '20'
 head: familiar spirits
-entry: "<a href='/New_Beehive/toc_vol2/toc2_256/'>1311 [Familiar Spirits]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_256/'>1311 [Familiar Spirits]</a>"
 topic: 
 first_letter: F
 xref: 

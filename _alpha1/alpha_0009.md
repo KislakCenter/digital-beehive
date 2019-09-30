@@ -6,7 +6,7 @@ head:
 entry: Adventure
 topic: Adventure
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0123/'>Casualty</a>|<a href='/New_Beehive/toc_vol2/toc2_142/'>623
+xref: "<a href='/New_Beehive/alpha1/alpha_0123/'>Casualty</a>|<a href='/New_Beehive/toc/toc2_142/'>623
   [Adventure]</a>"
 see: 
 page: 

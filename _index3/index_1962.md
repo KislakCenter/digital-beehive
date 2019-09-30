@@ -3,7 +3,7 @@ pid: index_1962
 volume: Volume 3
 image_number: '25'
 head: im[m]ensity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>260 [Immensity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>260 [Immensity]</a>"
 topic: 
 first_letter: I/J
 xref: 

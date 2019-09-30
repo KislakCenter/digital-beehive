@@ -3,7 +3,7 @@ pid: index_0126
 volume: Volume 3
 image_number: '8'
 head: America
-entry: "<a href='/New_Beehive/toc_vol2/toc2_104/'>391 [America]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_104/'>391 [America]</a>"
 topic: 
 first_letter: A
 xref: 

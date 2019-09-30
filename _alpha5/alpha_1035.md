@@ -6,8 +6,7 @@ head:
 entry: Womans beating
 topic: Womans beating
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1242
-  [Woman]</a>|"
+xref: 
 see: 
 page: 
 add: 

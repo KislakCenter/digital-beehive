@@ -3,7 +3,7 @@ pid: index_1628
 volume: Volume 3
 image_number: '22'
 head: gloves
-entry: "<a href='/New_Beehive/toc_vol2/toc2_059/'>23 [Gloves]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_059/'>23 [Gloves]</a>"
 topic: 
 first_letter: G
 xref: 

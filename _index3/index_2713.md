@@ -3,7 +3,7 @@ pid: index_2713
 volume: Volume 3
 image_number: '32'
 head: Nile
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1574 [Nile]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1574 [Nile]</a>"
 topic: 
 first_letter: N
 xref: 

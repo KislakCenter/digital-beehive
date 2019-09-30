@@ -3,7 +3,7 @@ pid: index_1110
 volume: Volume 3
 image_number: '17'
 head: ditch
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>676 [a Ditch]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>676 [a Ditch]</a>"
 topic: 
 first_letter: D
 xref: 

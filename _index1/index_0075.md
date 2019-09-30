@@ -3,7 +3,7 @@ pid: index_0075
 volume: Volume 3
 image_number: '7'
 head: every Ages humour
-entry: "<a href='/New_Beehive/toc_vol2/toc2_236/'>1213 [Every Age's humour]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_236/'>1213 [Every Age's humour]</a>"
 topic: 
 first_letter: A
 xref: 

@@ -3,7 +3,7 @@ pid: index_3267
 volume: Volume 3
 image_number: '38'
 head: quietness
-entry: "<a href='/New_Beehive/alpha4/alpha_0762/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_181/'>976
+entry: "<a href='/New_Beehive/alpha4/alpha_0762/'>a</a>|<a href='/New_Beehive/toc/toc2_181/'>976
   [Quietness]</a>"
 topic: 
 first_letter: Q

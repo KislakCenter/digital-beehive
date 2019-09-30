@@ -3,9 +3,9 @@ pid: index_1363
 volume: Volume 3
 image_number: '19'
 head: external worship
-entry: "<a href='/New_Beehive/alpha2/alpha_0302/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>207
-  [Outside religion]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1369 [Outside Religion]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_365/'>1998 [External Worship]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0302/'>a</a>|<a href='/New_Beehive/toc/toc2_078/'>207
+  [Outside religion]</a>|<a href='/New_Beehive/toc/toc2_267/'>1369 [Outside Religion]</a>|<a
+  href='/New_Beehive/toc/toc2_365/'>1998 [External Worship]</a>"
 topic: 
 first_letter: E
 xref: 

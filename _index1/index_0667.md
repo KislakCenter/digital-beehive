@@ -3,7 +3,7 @@ pid: index_0667
 volume: Volume 3
 image_number: '13'
 head: Cicero
-entry: "<a href='/New_Beehive/toc_vol2/toc2_236/'>1212 [Cicero]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_236/'>1212 [Cicero]</a>"
 topic: 
 first_letter: C
 xref: 

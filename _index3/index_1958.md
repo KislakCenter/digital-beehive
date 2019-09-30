@@ -3,8 +3,8 @@ pid: index_1958
 volume: Volume 3
 image_number: '25'
 head: imagination
-entry: "<a href='/New_Beehive/alpha3/alpha_0456/'>a</a>|736 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_322/'>1637
-  [Imagination]</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2210 [Imagination]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0456/'>a</a>|736 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_322/'>1637
+  [Imagination]</a>|<a href='/New_Beehive/toc/toc2_386/'>2210 [Imagination]</a>"
 topic: 
 first_letter: I/J
 xref: 

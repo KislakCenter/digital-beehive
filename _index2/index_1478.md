@@ -3,7 +3,7 @@ pid: index_1478
 volume: Volume 3
 image_number: '20'
 head: flegm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_396/'>2262 [Phelgm or Flegm]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_396/'>2262 [Phelgm or Flegm]</a>"
 topic: 
 first_letter: F
 xref: 

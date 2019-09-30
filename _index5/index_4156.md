@@ -3,7 +3,7 @@ pid: index_4156
 volume: Volume 3
 image_number: '47'
 head: complaint of times
-entry: "<a href='/New_Beehive/toc_vol2/toc2_213/'>1098 [Complaint of Times]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>"
 topic: 
 first_letter: T
 xref: 

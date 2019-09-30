@@ -3,7 +3,7 @@ pid: index_4256
 volume: Volume 3
 image_number: '48'
 head: true story
-entry: "<a href='/New_Beehive/toc_vol2/toc2_252/'>1291 [True Story]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_252/'>1291 [True Story]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_3644
 volume: Volume 3
 image_number: '42'
 head: sermon
-entry: "<a href='/New_Beehive/toc_vol2/toc2_275/'>1409 [a Sermon]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_275/'>1409 [a Sermon]</a>"
 topic: 
 first_letter: S
 xref: 

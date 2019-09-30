@@ -3,7 +3,7 @@ pid: index_1783
 volume: Volume 3
 image_number: '23'
 head: heathens
-entry: "<a href='/New_Beehive/alpha2/alpha_0405/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_285/'>1456
+entry: "<a href='/New_Beehive/alpha2/alpha_0405/'>a</a>|<a href='/New_Beehive/toc/toc2_285/'>1456
   [Heathens]</a>"
 topic: 
 first_letter: H

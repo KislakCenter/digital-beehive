@@ -3,7 +3,7 @@ pid: index_2599
 volume: Volume 3
 image_number: '31'
 head: motions involuntary
-entry: "<a href='/New_Beehive/toc_vol2/toc2_218/'>1122 [Involuntary Motions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_218/'>1122 [Involuntary Motions]</a>"
 topic: 
 first_letter: M
 xref: 

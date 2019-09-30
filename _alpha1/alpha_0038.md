@@ -6,10 +6,7 @@ head:
 entry: Apostacy
 topic: Apostacy
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc_vol2/toc2_168/'>905
-  [AntiChrist]</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>670 [Antipathy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_291/'>1489 [Antipodes]</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>959
-  [apocryphis]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>204 [Apostacy]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_078/'>204 [Apostacy]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_2740
 volume: Volume 3
 image_number: '32'
 head: notorious
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>186 [Manifest]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_075/'>186 [Manifest]</a>"
 topic: 
 first_letter: N
 xref: 

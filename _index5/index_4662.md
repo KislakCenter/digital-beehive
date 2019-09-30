@@ -3,7 +3,7 @@ pid: index_4662
 volume: Volume 3
 image_number: '53'
 head: Zunfften
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
 topic: 
 first_letter: Z
 xref: 

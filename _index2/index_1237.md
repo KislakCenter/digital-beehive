@@ -3,7 +3,7 @@ pid: index_1237
 volume: Volume 3
 image_number: '18'
 head: embryo
-entry: "<a href='/New_Beehive/toc_vol2/toc2_288/'>1474 [Embryo]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_288/'>1474 [Embryo]</a>"
 topic: 
 first_letter: E
 xref: 

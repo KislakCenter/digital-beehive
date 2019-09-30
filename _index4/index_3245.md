@@ -3,7 +3,7 @@ pid: index_3245
 volume: Volume 3
 image_number: '38'
 head: Pythagoras
-entry: "<a href='/New_Beehive/toc_vol2/toc2_205/'>1056 [Pythagoras]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_205/'>1056 [Pythagoras]</a>"
 topic: 
 first_letter: P
 xref: 

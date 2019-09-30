@@ -6,8 +6,7 @@ head:
 entry: Laziness
 topic: Laziness
 first_letter: L
-xref: "<a href='/New_Beehive/alpha4/alpha_0801/'>Right</a>|<a href='/New_Beehive/alpha5/alpha_0937/'>Old
-  Testamt</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>559 [Lawyer]</a>|negligence"
+xref: negligence
 see: 
 page: 
 add: 

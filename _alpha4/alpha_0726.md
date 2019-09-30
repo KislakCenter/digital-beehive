@@ -6,7 +6,7 @@ head:
 entry: Priesthood
 topic: Priesthood
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0089/'>Boasting</a>|<a href='/New_Beehive/alpha2/alpha_0380/'>Grandeur</a>|"
+xref: 
 see: 
 page: 
 add: 

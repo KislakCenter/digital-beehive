@@ -3,7 +3,7 @@ pid: index_4213
 volume: Volume 3
 image_number: '48'
 head: trance
-entry: "<a href='/New_Beehive/alpha5/alpha_0964/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1286
+entry: "<a href='/New_Beehive/alpha5/alpha_0964/'>a</a>|<a href='/New_Beehive/toc/toc2_251/'>1286
   [Extasies]</a>"
 topic: 
 first_letter: T

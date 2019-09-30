@@ -7,7 +7,7 @@ entry: Happiness
 topic: Happiness
 first_letter: H
 xref: "<a href='/New_Beehive/alpha2/alpha_0342/'>Fortune</a>|Success|Unhappiness|<a
-  href='/New_Beehive/toc_vol2/toc2_159/'>716 [unhappiness]</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1106
+  href='/New_Beehive/toc/toc2_159/'>716 [unhappiness]</a>|<a href='/New_Beehive/toc/toc2_215/'>1106
   [happy]</a>"
 see: 
 page: 

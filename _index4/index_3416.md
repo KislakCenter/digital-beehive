@@ -3,7 +3,7 @@ pid: index_3416
 volume: Volume 3
 image_number: '40'
 head: rhine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1008 [Rhine]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1008 [Rhine]</a>"
 topic: 
 first_letter: R
 xref: 

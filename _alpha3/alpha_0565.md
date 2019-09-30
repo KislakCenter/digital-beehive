@@ -6,7 +6,7 @@ head:
 entry: Malediction
 topic: Malediction
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0027/'>Anathema</a>|<a href='/New_Beehive/toc_vol2/toc2_060/'>29
+xref: "<a href='/New_Beehive/alpha1/alpha_0027/'>Anathema</a>|<a href='/New_Beehive/toc/toc2_060/'>29
   [Curse]</a>"
 see: 
 page: 

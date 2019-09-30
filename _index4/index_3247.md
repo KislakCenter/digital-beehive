@@ -3,9 +3,9 @@ pid: index_3247
 volume: Volume 3
 image_number: '38'
 head: Quakers
-entry: "<a href='/New_Beehive/alpha4/alpha_0757/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1063
-  [Quakers]</a>|<a href='/New_Beehive/toc_vol2/toc2_298/'>1516 [Quaker]</a>|<a href='/New_Beehive/toc_vol2/toc2_394/'>2252
-  [Quakers]</a>|<a href='/New_Beehive/toc_vol2/toc2_420/'>2433 [Quakers]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0757/'>a</a>|<a href='/New_Beehive/toc/toc2_206/'>1063
+  [Quakers]</a>|<a href='/New_Beehive/toc/toc2_298/'>1516 [Quaker]</a>|<a href='/New_Beehive/toc/toc2_394/'>2252
+  [Quakers]</a>|<a href='/New_Beehive/toc/toc2_420/'>2433 [Quakers]</a>"
 topic: 
 first_letter: Q
 xref: 

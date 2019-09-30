@@ -3,7 +3,7 @@ pid: index_4199
 volume: Volume 3
 image_number: '48'
 head: torturing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>419 [Torturing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>419 [Torturing]</a>"
 topic: 
 first_letter: T
 xref: 

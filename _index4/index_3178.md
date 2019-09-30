@@ -3,7 +3,7 @@ pid: index_3178
 volume: Volume 3
 image_number: '37'
 head: prodigality
-entry: "<a href='/New_Beehive/alpha4/alpha_0734/'>a</a>|753 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_373/'>2072
+entry: "<a href='/New_Beehive/alpha4/alpha_0734/'>a</a>|753 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_373/'>2072
   [Prodigality]</a>"
 topic: 
 first_letter: P

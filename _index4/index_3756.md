@@ -3,7 +3,7 @@ pid: index_3756
 volume: Volume 3
 image_number: '43'
 head: sloven
-entry: "<a href='/New_Beehive/toc_vol2/toc2_393/'>2246 [Slovenry or Slovenliness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_393/'>2246 [Slovenry or Slovenliness]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_2888
 volume: Volume 3
 image_number: '34'
 head: parricide
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4808 [Parricide]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4808 [Parricide]</a>"
 topic: 
 first_letter: P
 xref: 

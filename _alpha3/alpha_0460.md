@@ -6,7 +6,7 @@ head:
 entry: Impatience
 topic: Impatience
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0684/'>Patience</a>|<a href='/New_Beehive/toc_vol2/toc2_223/'>1147
+xref: "<a href='/New_Beehive/alpha4/alpha_0684/'>Patience</a>|<a href='/New_Beehive/toc/toc2_223/'>1147
   [Impatience]</a>"
 see: 
 page: 

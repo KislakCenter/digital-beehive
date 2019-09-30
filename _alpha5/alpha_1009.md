@@ -7,8 +7,8 @@ entry: War
 topic: War
 first_letter: W
 xref: "<a href='/New_Beehive/alpha4/alpha_0889/'>Souldier</a>|<a href='/New_Beehive/alpha4/alpha_0771/'>Rebellion</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_234/'>1204 [War]</a>"
+  href='/New_Beehive/toc/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
+  href='/New_Beehive/toc/toc2_234/'>1204 [War]</a>"
 see: 
 page: 
 add: 

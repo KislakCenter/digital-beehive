@@ -3,7 +3,7 @@ pid: index_4305
 volume: Volume 3
 image_number: '49'
 head: vehicles
-entry: "<a href='/New_Beehive/toc_vol2/toc2_419/'>2429 [Vehicles]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_419/'>2429 [Vehicles]</a>"
 topic: 
 first_letter: U/V
 xref: 

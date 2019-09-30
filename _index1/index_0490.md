@@ -3,7 +3,7 @@ pid: index_0490
 volume: Volume 3
 image_number: '11'
 head: business
-entry: "<a href='/New_Beehive/alpha1/alpha_0108/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1179
+entry: "<a href='/New_Beehive/alpha1/alpha_0108/'>a</a>|<a href='/New_Beehive/toc/toc2_229/'>1179
   [Business]</a>"
 topic: 
 first_letter: B

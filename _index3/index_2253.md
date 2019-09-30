@@ -3,7 +3,7 @@ pid: index_2253
 volume: Volume 3
 image_number: '28'
 head: legislature
-entry: "<a href='/New_Beehive/toc_vol2/toc2_343/'>1778 [Legislative power]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_343/'>1778 [Legislative power]</a>"
 topic: 
 first_letter: L
 xref: 

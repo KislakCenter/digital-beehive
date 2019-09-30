@@ -7,7 +7,7 @@ entry: Wickedness
 topic: Wickedness
 first_letter: W
 xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>malignity</a>|<a href='/New_Beehive/alpha3/alpha_0628/'>naughtiness</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_095/'>324 [Wickedness]</a>"
+  href='/New_Beehive/toc/toc2_095/'>324 [Wickedness]</a>"
 see: 
 page: 
 add: 

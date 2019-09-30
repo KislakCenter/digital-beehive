@@ -3,7 +3,7 @@ pid: index_2493
 volume: Volume 3
 image_number: '30'
 head: Ambros. Merlin
-entry: "<a href='/New_Beehive/toc_vol2/toc2_285/'>1459 [Ambrosius Merlin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_285/'>1459 [Ambrosius Merlin]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,7 +3,7 @@ pid: index_4214
 volume: Volume 3
 image_number: '48'
 head: Tranquebar
-entry: "<a href='/New_Beehive/toc_vol2/toc2_411/'>2368 [Tranquebar]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_411/'>2368 [Tranquebar]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Broad & small way
 topic: Broad & small way
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0606/'>Mortifying</a>|<a href='/New_Beehive/toc_vol2/toc2_443/'>4887
+xref: "<a href='/New_Beehive/alpha3/alpha_0606/'>Mortifying</a>|<a href='/New_Beehive/toc/toc2_443/'>4887
   [broad & small Way]</a>"
 see: 
 page: 

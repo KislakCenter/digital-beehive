@@ -6,7 +6,7 @@ head:
 entry: Romances
 topic: Romances
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0305/'>Fables</a>|<a href='/New_Beehive/toc_vol2/toc2_272/'>1393
+xref: "<a href='/New_Beehive/alpha2/alpha_0305/'>Fables</a>|<a href='/New_Beehive/toc/toc2_272/'>1393
   [Romances]</a>"
 see: 
 page: 

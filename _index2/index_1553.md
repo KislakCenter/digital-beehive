@@ -3,7 +3,7 @@ pid: index_1553
 volume: Volume 3
 image_number: '21'
 head: frost
-entry: "<a href='/New_Beehive/toc_vol2/toc2_324/'>1649 [Frost]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_324/'>1649 [Frost]</a>"
 topic: 
 first_letter: F
 xref: 

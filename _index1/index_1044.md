@@ -3,7 +3,7 @@ pid: index_1044
 volume: Volume 3
 image_number: '16'
 head: dictionaries
-entry: "<a href='/New_Beehive/toc_vol2/toc2_133/'>579 [Dictionaries]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_133/'>579 [Dictionaries]</a>"
 topic: 
 first_letter: D
 xref: 

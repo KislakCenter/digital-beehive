@@ -3,7 +3,7 @@ pid: index_2159
 volume: Volume 3
 image_number: '27'
 head: to kindle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>369 [To Kindle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>369 [To Kindle]</a>"
 topic: 
 first_letter: K
 xref: 

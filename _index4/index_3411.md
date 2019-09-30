@@ -3,7 +3,7 @@ pid: index_3411
 volume: Volume 3
 image_number: '40'
 head: to revoke
-entry: "<a href='/New_Beehive/toc_vol2/toc2_108/'>418 [Renouncing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_108/'>418 [Renouncing]</a>"
 topic: 
 first_letter: R
 xref: 

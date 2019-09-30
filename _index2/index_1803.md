@@ -3,7 +3,7 @@ pid: index_1803
 volume: Volume 3
 image_number: '23'
 head: Henry IV. K. of Fr
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1321 [Henry IV.]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1321 [Henry IV.]</a>"
 topic: 
 first_letter: H
 xref: 

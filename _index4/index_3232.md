@@ -3,7 +3,7 @@ pid: index_3232
 volume: Volume 3
 image_number: '38'
 head: purgatory
-entry: "<a href='/New_Beehive/alpha4/alpha_0754/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1534
+entry: "<a href='/New_Beehive/alpha4/alpha_0754/'>a</a>|<a href='/New_Beehive/toc/toc2_301/'>1534
   [Purgatory]</a>"
 topic: 
 first_letter: P

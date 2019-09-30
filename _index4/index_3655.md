@@ -3,7 +3,7 @@ pid: index_3655
 volume: Volume 3
 image_number: '42'
 head: sexton
-entry: "<a href='/New_Beehive/toc_vol2/toc2_129/'>556 [Sexton]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [Sexton]</a>"
 topic: 
 first_letter: S
 xref: 

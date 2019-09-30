@@ -3,7 +3,7 @@ pid: index_0602
 volume: Volume 3
 image_number: '12'
 head: chapters
-entry: "<a href='/New_Beehive/toc_vol2/toc2_412/'>2376 [Chapters & Verses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_412/'>2376 [Chapters & Verses]</a>"
 topic: 
 first_letter: C
 xref: 

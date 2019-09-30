@@ -3,7 +3,7 @@ pid: index_3475
 volume: Volume 3
 image_number: '40'
 head: rye
-entry: "<a href='/New_Beehive/toc_vol2/toc2_148/'>664 [Rye]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_148/'>664 [Rye]</a>"
 topic: 
 first_letter: R
 xref: 

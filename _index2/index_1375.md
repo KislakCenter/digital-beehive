@@ -3,7 +3,7 @@ pid: index_1375
 volume: Volume 3
 image_number: '20'
 head: Fables
-entry: "<a href='/New_Beehive/alpha2/alpha_0305/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1405
+entry: "<a href='/New_Beehive/alpha2/alpha_0305/'>a</a>|<a href='/New_Beehive/toc/toc2_274/'>1405
   [Fable]</a>"
 topic: 
 first_letter: F

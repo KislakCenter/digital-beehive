@@ -6,8 +6,7 @@ head:
 entry: Banquetting Stuff
 topic: Banquetting Stuff
 first_letter: B
-xref: "<a href='/New_Beehive/toc_vol2/toc2_082/'>237 [Reckoning]</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>76
-  [Dainty meats]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_064/'>76 [Dainty meats]</a>"
 see: 
 page: 
 add: 

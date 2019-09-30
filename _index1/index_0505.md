@@ -3,7 +3,7 @@ pid: index_0505
 volume: Volume 3
 image_number: '11'
 head: cacao
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1530 [Cacao]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1530 [Cacao]</a>"
 topic: 
 first_letter: C
 xref: 

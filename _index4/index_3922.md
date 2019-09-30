@@ -3,7 +3,7 @@ pid: index_3922
 volume: Volume 3
 image_number: '45'
 head: stoutness
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1319 [Stoutness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1319 [Stoutness]</a>"
 topic: 
 first_letter: S
 xref: 

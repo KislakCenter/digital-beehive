@@ -3,8 +3,8 @@ pid: index_3942
 volume: Volume 3
 image_number: '45'
 head: strife
-entry: "<a href='/New_Beehive/alpha4/alpha_0911/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_099/'>352
-  [Strife]</a>|<a href='/New_Beehive/toc_vol2/toc2_382/'>2167 [Strife]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0911/'>a</a>|<a href='/New_Beehive/toc/toc2_099/'>352
+  [Strife]</a>|<a href='/New_Beehive/toc/toc2_382/'>2167 [Strife]</a>"
 topic: 
 first_letter: S
 xref: 

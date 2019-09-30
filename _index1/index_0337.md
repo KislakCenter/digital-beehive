@@ -3,8 +3,8 @@ pid: index_0337
 volume: Volume 3
 image_number: '9'
 head: begging
-entry: "<a href='/New_Beehive/alpha1/alpha_0073/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_260/'>1335
-  [Begging]</a>|<a href='/New_Beehive/toc_vol2/toc2_397/'>2270 [Begging]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0073/'>a</a>|<a href='/New_Beehive/toc/toc2_260/'>1335
+  [Begging]</a>|<a href='/New_Beehive/toc/toc2_397/'>2270 [Begging]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -3,7 +3,7 @@ pid: index_1579
 volume: Volume 3
 image_number: '21'
 head: galilee
-entry: "<a href='/New_Beehive/toc_vol2/toc2_441/'>4868 [Galileans]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_441/'>4868 [Galileans]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -6,9 +6,7 @@ head:
 entry: Winter
 topic: Winter
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1316 [Laplanders]</a>|<a href='/New_Beehive/toc_vol2/toc2_248/'>1271
-  [Wind]</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>590 [artificial Wines]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_211/'>1088 [Winter]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Winter]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_4523
 volume: Volume 3
 image_number: '52'
 head: West Indies
-entry: "<a href='/New_Beehive/toc_vol2/toc2_081/'>228 [West Indies]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_081/'>228 [West Indies]</a>"
 topic: 
 first_letter: W
 xref: 

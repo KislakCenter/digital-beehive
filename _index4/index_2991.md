@@ -3,7 +3,7 @@ pid: index_2991
 volume: Volume 3
 image_number: '35'
 head: phoenix
-entry: "<a href='/New_Beehive/toc_vol2/toc2_308/'>1568 [Phoenix]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_308/'>1568 [Phoenix]</a>"
 topic: 
 first_letter: P
 xref: 

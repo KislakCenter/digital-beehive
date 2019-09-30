@@ -3,7 +3,7 @@ pid: index_3381
 volume: Volume 3
 image_number: '39'
 head: republick
-entry: "<a href='/New_Beehive/toc_vol2/toc2_104/'>389 [a Republick]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_104/'>389 [a Republick]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_1141
 volume: Volume 3
 image_number: '17'
 head: draught
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>633 [essay]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>633 [essay]</a>"
 topic: 
 first_letter: D
 xref: 

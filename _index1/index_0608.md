@@ -3,7 +3,7 @@ pid: index_0608
 volume: Volume 3
 image_number: '12'
 head: charitable construction
-entry: "<a href='/New_Beehive/toc_vol2/toc2_130/'>560 [Charitable Construction]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_130/'>560 [Charitable Construction]</a>"
 topic: 
 first_letter: C
 xref: 

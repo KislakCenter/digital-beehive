@@ -6,9 +6,7 @@ head:
 entry: Wolf
 topic: Wolf
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0383/'>gratulation</a>|<a href='/New_Beehive/toc_vol2/toc2_162/'>875
-  [Wish]</a>|<a href='/New_Beehive/toc_vol2/toc2_256/'>1312 [Witchcraft]</a>|<a href='/New_Beehive/toc_vol2/toc2_301/'>1535
-  [Lycanthropia]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
 see: 
 page: 
 add: 

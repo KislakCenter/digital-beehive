@@ -3,7 +3,7 @@ pid: index_3832
 volume: Volume 3
 image_number: '44'
 head: speechless
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>551 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>551 [WORD_MISSING]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_3799
 volume: Volume 3
 image_number: '44'
 head: soothsayers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc_vol2/toc2_309/'>1571
+entry: "<a href='/New_Beehive/toc/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc/toc2_309/'>1571
   [Soothsayers]</a>"
 topic: 
 first_letter: S

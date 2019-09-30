@@ -3,7 +3,7 @@ pid: index_1083
 volume: Volume 3
 image_number: '17'
 head: disinhereting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_435/'>4842 [Disheriting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_435/'>4842 [Disheriting]</a>"
 topic: 
 first_letter: D
 xref: 

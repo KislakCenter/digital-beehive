@@ -6,8 +6,7 @@ head:
 entry: Agony
 topic: Agony
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0164/'>Concupiscence</a>|<a href='/New_Beehive/toc_vol2/toc2_231/'>1187
-  [Affections]</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1065 [Agony]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_206/'>1065 [Agony]</a>"
 see: 
 page: 
 add: 

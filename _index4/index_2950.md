@@ -3,7 +3,7 @@ pid: index_2950
 volume: Volume 3
 image_number: '35'
 head: Pen[n]silvania
-entry: "<a href='/New_Beehive/toc_vol2/toc2_273/'>1399 [Pennsylvania]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_273/'>1399 [Pennsylvania]</a>"
 topic: 
 first_letter: P
 xref: 

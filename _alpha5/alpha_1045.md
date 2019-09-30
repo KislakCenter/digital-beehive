@@ -6,7 +6,7 @@ head:
 entry: good Works
 topic: good Works
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0214/'>Deed</a>|<a href='/New_Beehive/toc_vol2/toc2_206/'>1062
+xref: "<a href='/New_Beehive/alpha1/alpha_0214/'>Deed</a>|<a href='/New_Beehive/toc/toc2_206/'>1062
   [Good Works]</a>"
 see: 
 page: 

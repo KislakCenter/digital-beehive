@@ -6,10 +6,7 @@ head:
 entry: Letter
 topic: Letter
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a href='/New_Beehive/alpha4/alpha_0827/'>School</a>|<a
-  href='/New_Beehive/alpha4/alpha_0913/'>Student</a>|<a href='/New_Beehive/toc_vol2/toc2_079/'>212
-  [Learning]</a>|<a href='/New_Beehive/alpha1/alpha_0093/'>Borrowing</a>|<a href='/New_Beehive/toc_vol2/toc2_380/'>2141
-  [Leprosie]</a>|<a href='/New_Beehive/toc_vol2/toc2_117/'>481 [Letter]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_117/'>481 [Letter]</a>"
 see: 
 page: 
 add: 

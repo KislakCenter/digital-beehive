@@ -3,7 +3,7 @@ pid: index_2297
 volume: Volume 3
 image_number: '28'
 head: limit
-entry: 749 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_346/'>1802 [Limit]</a>
+entry: 749 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_346/'>1802 [Limit]</a>
 topic: 
 first_letter: L
 xref: 

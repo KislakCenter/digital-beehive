@@ -3,7 +3,7 @@ pid: index_4517
 volume: Volume 3
 image_number: '52'
 head: welcome
-entry: "<a href='/New_Beehive/toc_vol2/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/New_Beehive/toc_vol2/toc2_264/'>1354
+entry: "<a href='/New_Beehive/toc/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/New_Beehive/toc/toc2_264/'>1354
   [Welcome]</a>"
 topic: 
 first_letter: W

@@ -3,7 +3,7 @@ pid: index_4525
 volume: Volume 3
 image_number: '52'
 head: whale
-entry: "<a href='/New_Beehive/toc_vol2/toc2_273/'>1398 [Whale]</a>|<a href='/New_Beehive/toc_vol2/toc2_300/'>1530
+entry: "<a href='/New_Beehive/toc/toc2_273/'>1398 [Whale]</a>|<a href='/New_Beehive/toc/toc2_300/'>1530
   [Whale]</a>"
 topic: 
 first_letter: W

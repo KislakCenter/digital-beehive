@@ -3,8 +3,8 @@ pid: index_2784
 volume: Volume 3
 image_number: '33'
 head: old age
-entry: "<a href='/New_Beehive/alpha4/alpha_0656/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_272/'>1393
-  [Old Age]</a>|<a href='/New_Beehive/toc_vol2/toc2_349/'>1824 [Old Age]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0656/'>a</a>|<a href='/New_Beehive/toc/toc2_272/'>1393
+  [Old Age]</a>|<a href='/New_Beehive/toc/toc2_349/'>1824 [Old Age]</a>"
 topic: 
 first_letter: O
 xref: 

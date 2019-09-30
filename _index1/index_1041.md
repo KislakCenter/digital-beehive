@@ -3,7 +3,7 @@ pid: index_1041
 volume: Volume 3
 image_number: '16'
 head: dialogue
-entry: "<a href='/New_Beehive/toc_vol2/toc2_367/'>2019 [Dialogue]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_367/'>2019 [Dialogue]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_4324
 volume: Volume 3
 image_number: '49'
 head: vice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_228/'>1175 [Vices]</a>|<a href='/New_Beehive/toc_vol2/toc2_366/'>2010
+entry: "<a href='/New_Beehive/toc/toc2_228/'>1175 [Vices]</a>|<a href='/New_Beehive/toc/toc2_366/'>2010
   [Vices]</a>"
 topic: 
 first_letter: U/V

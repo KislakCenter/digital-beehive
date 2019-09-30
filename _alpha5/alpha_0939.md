@@ -6,7 +6,7 @@ head:
 entry: Testimony
 topic: Testimony
 first_letter: T
-xref: "<a href='/New_Beehive/alpha4/alpha_0741/'>Proof</a>|<a href='/New_Beehive/toc_vol2/toc2_063/'>61
+xref: "<a href='/New_Beehive/alpha4/alpha_0741/'>Proof</a>|<a href='/New_Beehive/toc/toc2_063/'>61
   [Prosecution]</a>"
 see: 
 page: 

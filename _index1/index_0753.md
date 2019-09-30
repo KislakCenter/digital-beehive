@@ -3,7 +3,7 @@ pid: index_0753
 volume: Volume 3
 image_number: '13'
 head: communion
-entry: "<a href='/New_Beehive/alpha1/alpha_0160/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_345/'>1790
+entry: "<a href='/New_Beehive/alpha1/alpha_0160/'>a</a>|<a href='/New_Beehive/toc/toc2_345/'>1790
   [Communion]</a>"
 topic: 
 first_letter: C

@@ -3,8 +3,8 @@ pid: index_3264
 volume: Volume 3
 image_number: '38'
 head: quicksilver
-entry: "<a href='/New_Beehive/alpha4/alpha_0760/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_308/'>1566
-  [Quick Silver]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2153 [Mercurius]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0760/'>a</a>|<a href='/New_Beehive/toc/toc2_308/'>1566
+  [Quick Silver]</a>|<a href='/New_Beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
 topic: 
 first_letter: Q
 xref: 

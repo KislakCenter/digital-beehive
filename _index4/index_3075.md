@@ -3,7 +3,7 @@ pid: index_3075
 volume: Volume 3
 image_number: '36'
 head: popularity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>377 [Popularity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>377 [Popularity]</a>"
 topic: 
 first_letter: P
 xref: 

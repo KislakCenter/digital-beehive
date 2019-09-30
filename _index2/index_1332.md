@@ -3,7 +3,7 @@ pid: index_1332
 volume: Volume 3
 image_number: '19'
 head: to excell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>539 [beter]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>539 [beter]</a>"
 topic: 
 first_letter: E
 xref: 

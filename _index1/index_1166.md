@@ -3,7 +3,7 @@ pid: index_1166
 volume: Volume 3
 image_number: '18'
 head: duel
-entry: "<a href='/New_Beehive/alpha1/alpha_0265/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_258/'>1325
+entry: "<a href='/New_Beehive/alpha1/alpha_0265/'>a</a>|<a href='/New_Beehive/toc/toc2_258/'>1325
   [Duel]</a>"
 topic: 
 first_letter: D

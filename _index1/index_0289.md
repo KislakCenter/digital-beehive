@@ -3,9 +3,9 @@ pid: index_0289
 volume: Volume 3
 image_number: '9'
 head: baptism
-entry: "<a href='/New_Beehive/alpha1/alpha_0059/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_088/'>273
-  [Baptism]</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1018 [Baptism]</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1048
-  [Baptism]</a>|<a href='/New_Beehive/toc_vol2/toc2_388/'>2225 [Baptism]</a>|<a href='/New_Beehive/toc_vol2/toc2_391/'>2239
+entry: "<a href='/New_Beehive/alpha1/alpha_0059/'>a</a>|<a href='/New_Beehive/toc/toc2_088/'>273
+  [Baptism]</a>|<a href='/New_Beehive/toc/toc2_197/'>1018 [Baptism]</a>|<a href='/New_Beehive/toc/toc2_203/'>1048
+  [Baptism]</a>|<a href='/New_Beehive/toc/toc2_388/'>2225 [Baptism]</a>|<a href='/New_Beehive/toc/toc2_391/'>2239
   [Baptism]</a>"
 topic: 
 first_letter: B

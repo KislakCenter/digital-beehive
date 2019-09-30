@@ -3,7 +3,7 @@ pid: index_3076
 volume: Volume 3
 image_number: '36'
 head: populosity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_207/'>1067 [Many]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_207/'>1067 [Many]</a>"
 topic: 
 first_letter: P
 xref: 

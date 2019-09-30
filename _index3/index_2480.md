@@ -3,7 +3,7 @@ pid: index_2480
 volume: Volume 3
 image_number: '30'
 head: memoirs
-entry: "<a href='/New_Beehive/toc_vol2/toc2_277/'>1418 [Notes & Papers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_277/'>1418 [Notes & Papers]</a>"
 topic: 
 first_letter: M
 xref: 

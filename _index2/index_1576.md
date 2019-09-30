@@ -3,7 +3,7 @@ pid: index_1576
 volume: Volume 3
 image_number: '21'
 head: gall
-entry: "<a href='/New_Beehive/toc_vol2/toc2_211/'>1090 [Gall]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_211/'>1090 [Gall]</a>"
 topic: 
 first_letter: G
 xref: 

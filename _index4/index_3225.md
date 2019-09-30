@@ -3,7 +3,7 @@ pid: index_3225
 volume: Volume 3
 image_number: '38'
 head: pulse
-entry: "<a href='/New_Beehive/toc_vol2/toc2_277/'>1417 [Pulse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_277/'>1417 [Pulse]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Lasciviousness
 topic: Lasciviousness
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1402
+xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/toc/toc2_274/'>1402
   [Lasciviousness]</a>"
 see: 
 page: 

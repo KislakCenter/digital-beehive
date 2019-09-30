@@ -3,7 +3,7 @@ pid: index_3993
 volume: Volume 3
 image_number: '46'
 head: supply
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>677 [Supplying]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>677 [Supplying]</a>"
 topic: 
 first_letter: S
 xref: 

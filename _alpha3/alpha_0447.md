@@ -6,8 +6,7 @@ head:
 entry: Jesuite
 topic: Jesuite
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0106/'>buffoonry</a>|<a href='/New_Beehive/toc_vol2/toc2_217/'>1119
-  [Jest]</a>|<a href='/New_Beehive/toc_vol2/toc2_252/'>1292 [Jesuites]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_252/'>1292 [Jesuites]</a>"
 see: 
 page: 
 add: 

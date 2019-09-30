@@ -3,7 +3,7 @@ pid: index_1336
 volume: Volume 3
 image_number: '19'
 head: exclamation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>333 [Exclamation]</a>|4645 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>333 [Exclamation]</a>|4645 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Favour
 topic: Favour
 first_letter: F
-xref: Disfavour|<a href='/New_Beehive/toc_vol2/toc2_265/'>1359 [Favour]</a>
+xref: Disfavour|<a href='/New_Beehive/toc/toc2_265/'>1359 [Favour]</a>
 see: 
 page: 
 add: 

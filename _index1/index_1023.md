@@ -3,7 +3,7 @@ pid: index_1023
 volume: Volume 3
 image_number: '16'
 head: design
-entry: "<a href='/New_Beehive/toc_vol2/toc2_139/'>608 [Ruin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_139/'>608 [Ruin]</a>"
 topic: 
 first_letter: D
 xref: 

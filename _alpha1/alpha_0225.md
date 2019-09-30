@@ -6,9 +6,7 @@ head:
 entry: Deprecation
 topic: Deprecation
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0777/'>Refusal</a>|<a href='/New_Beehive/alpha4/alpha_0841/'>Selfdenial</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_288/'>1475 [Denial]</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1816
-  [Degradation]</a>|"
+xref: 
 see: 
 page: 
 add: 

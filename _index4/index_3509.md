@@ -3,7 +3,7 @@ pid: index_3509
 volume: Volume 3
 image_number: '41'
 head: salvo honore
-entry: "<a href='/New_Beehive/toc_vol2/toc2_282/'>1441 [With permission]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_282/'>1441 [With permission]</a>"
 topic: 
 first_letter: S
 xref: 

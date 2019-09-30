@@ -6,7 +6,7 @@ head:
 entry: Banner
 topic: Banner
 first_letter: B
-xref: Pilgrimage|<a href='/New_Beehive/toc_vol2/toc2_230/'>1182 [Banishment]</a>|
+xref: 
 see: 
 page: 
 add: 

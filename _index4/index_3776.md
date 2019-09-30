@@ -3,8 +3,7 @@ pid: index_3776
 volume: Volume 3
 image_number: '43'
 head: Societies
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1532 [Societies for Reformation
-  of Manner]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1532 [Societies for Reformation of Manner]</a>"
 topic: 
 first_letter: S
 xref: 

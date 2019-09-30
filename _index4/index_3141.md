@@ -3,7 +3,7 @@ pid: index_3141
 volume: Volume 3
 image_number: '37'
 head: presumption
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>57 [Presumption]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>57 [Presumption]</a>"
 topic: 
 first_letter: P
 xref: 

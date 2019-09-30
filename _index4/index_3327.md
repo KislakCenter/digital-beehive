@@ -3,7 +3,7 @@ pid: index_3327
 volume: Volume 3
 image_number: '39'
 head: red
-entry: "<a href='/New_Beehive/toc_vol2/toc2_262/'>1343 [Red- (:hair:)face]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_262/'>1343 [Red- (:hair:)face]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_2084
 volume: Volume 3
 image_number: '26'
 head: intricate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_247/'>1269 [to Entangle & disentangle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_247/'>1269 [to Entangle & disentangle]</a>"
 topic: 
 first_letter: I/J
 xref: 

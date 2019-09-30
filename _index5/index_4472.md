@@ -3,7 +3,7 @@ pid: index_4472
 volume: Volume 3
 image_number: '51'
 head: want of punishmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_232/'>1192 [Want of Punishmt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_232/'>1192 [Want of Punishmt]</a>"
 topic: 
 first_letter: W
 xref: 

@@ -3,7 +3,7 @@ pid: index_0781
 volume: Volume 3
 image_number: '14'
 head: condescension
-entry: "<a href='/New_Beehive/toc_vol2/toc2_062/'>58 [acts of Forbearance or Condescension]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_062/'>58 [acts of Forbearance or Condescension]</a>"
 topic: 
 first_letter: C
 xref: 

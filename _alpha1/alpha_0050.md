@@ -6,7 +6,7 @@ head:
 entry: Babbling
 topic: Babbling
 first_letter: B
-xref: "<a href='/New_Beehive/alpha5/alpha_0929/'>Tautology</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>430
+xref: "<a href='/New_Beehive/alpha5/alpha_0929/'>Tautology</a>|<a href='/New_Beehive/toc/toc2_110/'>430
   [Babbling]</a>"
 see: 
 page: 

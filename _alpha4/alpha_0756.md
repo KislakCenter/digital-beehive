@@ -6,8 +6,8 @@ head:
 entry: Purpose
 topic: Purpose
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0482/'>Intention</a>|<a href='/New_Beehive/toc_vol2/toc2_169/'>907
-  [Purposely, to the end]</a>|<a href='/New_Beehive/toc_vol2/toc2_366/'>2001 [Purpose]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0482/'>Intention</a>|<a href='/New_Beehive/toc/toc2_169/'>907
+  [Purposely, to the end]</a>|<a href='/New_Beehive/toc/toc2_366/'>2001 [Purpose]</a>"
 see: 
 page: 
 add: 

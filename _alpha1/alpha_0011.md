@@ -7,7 +7,7 @@ entry: "[WORD_MISSING]"
 topic: Adultery
 first_letter: A
 xref: "<a href='/New_Beehive/alpha1/alpha_0065/'>Baudry</a>|<a href='/New_Beehive/alpha5/alpha_1021/'>Whoredom</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_186/'>1002 [Adultery]</a>"
+  href='/New_Beehive/toc/toc2_186/'>1002 [Adultery]</a>"
 see: 
 page: 
 add: 

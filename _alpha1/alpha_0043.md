@@ -6,9 +6,7 @@ head:
 entry: Apples
 topic: Apples
 first_letter: A
-xref: "<a href='/New_Beehive/toc_vol2/toc2_059/'>19 [Clothes]</a>|<a href='/New_Beehive/toc_vol2/toc2_076/'>194
-  [Apparel]</a>|<a href='/New_Beehive/toc_vol2/toc2_256/'>1313 [Spectres]</a>|<a href='/New_Beehive/toc_vol2/toc2_357/'>1940
-  [Apple-Tree]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_357/'>1940 [Apple-Tree]</a>"
 see: 
 page: 
 add: 

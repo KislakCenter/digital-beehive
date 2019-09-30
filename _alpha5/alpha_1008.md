@@ -7,7 +7,7 @@ entry: Want
 topic: Want
 first_letter: W
 xref: "<a href='/New_Beehive/alpha3/alpha_0630/'>Necessity</a>|<a href='/New_Beehive/alpha4/alpha_0715/'>Poverty</a>|Impotency|<a
-  href='/New_Beehive/toc_vol2/toc2_263/'>1350 [Want]</a>"
+  href='/New_Beehive/toc/toc2_263/'>1350 [Want]</a>"
 see: 
 page: 
 add: 

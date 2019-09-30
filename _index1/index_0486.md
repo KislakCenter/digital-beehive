@@ -3,7 +3,7 @@ pid: index_0486
 volume: Volume 3
 image_number: '11'
 head: Dr Burnet
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4800 [Dr Burnet]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4800 [Dr Burnet]</a>"
 topic: 
 first_letter: B
 xref: 

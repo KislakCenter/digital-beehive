@@ -6,8 +6,7 @@ head:
 entry: Mushroom
 topic: Mushroom
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0470/'>Infant Killing</a>|<a href='/New_Beehive/alpha4/alpha_0845/'>Self-murd</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_294/'>1504 [Murder]</a>|"
+xref: 
 see: 
 page: 
 add: 

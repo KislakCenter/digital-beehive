@@ -3,7 +3,7 @@ pid: index_1994
 volume: Volume 3
 image_number: '25'
 head: incest
-entry: "<a href='/New_Beehive/toc_vol2/toc2_132/'>570 [Incest]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_132/'>570 [Incest]</a>"
 topic: 
 first_letter: I/J
 xref: 

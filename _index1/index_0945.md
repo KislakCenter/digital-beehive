@@ -3,8 +3,8 @@ pid: index_0945
 volume: Volume 3
 image_number: '15'
 head: danger
-entry: "<a href='/New_Beehive/alpha1/alpha_0206/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_150/'>673
-  [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_257/'>1320 [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_360/'>1964
+entry: "<a href='/New_Beehive/alpha1/alpha_0206/'>a</a>|<a href='/New_Beehive/toc/toc2_150/'>673
+  [Danger]</a>|<a href='/New_Beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/New_Beehive/toc/toc2_360/'>1964
   [Danger]</a>"
 topic: 
 first_letter: D

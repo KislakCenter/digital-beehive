@@ -3,7 +3,7 @@ pid: index_0283
 volume: Volume 3
 image_number: '9'
 head: banishmt
-entry: "<a href='/New_Beehive/alpha1/alpha_0055/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1182
+entry: "<a href='/New_Beehive/alpha1/alpha_0055/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1182
   [Banishment]</a>"
 topic: 
 first_letter: B

@@ -3,7 +3,7 @@ pid: index_1642
 volume: Volume 3
 image_number: '22'
 head: God willing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_279/'>1429 [God willing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_279/'>1429 [God willing]</a>"
 topic: 
 first_letter: G
 xref: 

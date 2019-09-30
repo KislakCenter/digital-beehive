@@ -3,7 +3,7 @@ pid: index_3714
 volume: Volume 3
 image_number: '43'
 head: Simon Magus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_098/'>346 [Simon Magus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_098/'>346 [Simon Magus]</a>"
 topic: 
 first_letter: S
 xref: 

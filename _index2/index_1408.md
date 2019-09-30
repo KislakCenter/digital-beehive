@@ -3,7 +3,7 @@ pid: index_1408
 volume: Volume 3
 image_number: '20'
 head: fashion of the Country
-entry: "<a href='/New_Beehive/alpha2/alpha_0313/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1386
+entry: "<a href='/New_Beehive/alpha2/alpha_0313/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1386
   [Fashion of the Country]</a>|1872 [PAGE_MISSING]"
 topic: 
 first_letter: F

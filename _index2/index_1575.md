@@ -3,7 +3,7 @@ pid: index_1575
 volume: Volume 3
 image_number: '21'
 head: Galenus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_389/'>2228 [Noia Medicorum]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
 topic: 
 first_letter: G
 xref: 

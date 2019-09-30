@@ -6,8 +6,7 @@ head:
 entry: Silence
 topic: Silence
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1020/'>Weeping</a>|<a href='/New_Beehive/toc_vol2/toc2_338/'>1740
-  [Sighs]</a>||<a href='/New_Beehive/toc_vol2/toc2_111/'>436 [Silence]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_111/'>436 [Silence]</a>"
 see: 
 page: 
 add: 

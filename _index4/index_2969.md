@@ -3,7 +3,7 @@ pid: index_2969
 volume: Volume 3
 image_number: '35'
 head: Persians
-entry: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1318 [Persians]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_257/'>1318 [Persians]</a>"
 topic: 
 first_letter: P
 xref: 

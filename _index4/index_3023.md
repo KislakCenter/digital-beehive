@@ -3,7 +3,7 @@ pid: index_3023
 volume: Volume 3
 image_number: '35'
 head: pit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_355/'>1924 [Pit]</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1509
+entry: "<a href='/New_Beehive/toc/toc2_355/'>1924 [Pit]</a>|<a href='/New_Beehive/toc/toc2_295/'>1509
   [Common Places]</a>"
 topic: 
 first_letter: P

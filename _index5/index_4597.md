@@ -3,7 +3,7 @@ pid: index_4597
 volume: Volume 3
 image_number: '53'
 head: woman's preeminence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_325/'>1654 [Woman's Preeminence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_325/'>1654 [Woman's Preeminence]</a>"
 topic: 
 first_letter: W
 xref: 

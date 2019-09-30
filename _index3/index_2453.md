@@ -3,7 +3,7 @@ pid: index_2453
 volume: Volume 3
 image_number: '30'
 head: Maxims
-entry: "<a href='/New_Beehive/toc_vol2/toc2_370/'>2048 [Maxims]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_370/'>2048 [Maxims]</a>"
 topic: 
 first_letter: M
 xref: 

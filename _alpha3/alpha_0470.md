@@ -6,8 +6,7 @@ head:
 entry: Infant Killing
 topic: Infant Killing
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0287/'>Equality</a>|<a href='/New_Beehive/toc_vol2/toc2_275/'>1407
-  [Inequality]</a>|"
+xref: 
 see: 
 page: 
 add: 

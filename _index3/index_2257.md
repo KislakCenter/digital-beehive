@@ -3,7 +3,7 @@ pid: index_2257
 volume: Volume 3
 image_number: '28'
 head: leprosie
-entry: "<a href='/New_Beehive/alpha3/alpha_0527/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_380/'>2141
+entry: "<a href='/New_Beehive/alpha3/alpha_0527/'>a</a>|<a href='/New_Beehive/toc/toc2_380/'>2141
   [Leprosie]</a>"
 topic: 
 first_letter: L

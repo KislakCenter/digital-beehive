@@ -3,7 +3,7 @@ pid: index_1159
 volume: Volume 3
 image_number: '17'
 head: drowning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>684 [Drowning]</a>|<a href='/New_Beehive/toc_vol2/toc2_437/'>4857
+entry: "<a href='/New_Beehive/toc/toc2_152/'>684 [Drowning]</a>|<a href='/New_Beehive/toc/toc2_437/'>4857
   [Drowning]</a>"
 topic: 
 first_letter: D

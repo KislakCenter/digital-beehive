@@ -3,7 +3,7 @@ pid: index_3580
 volume: Volume 3
 image_number: '41'
 head: 4. seasons
-entry: "<a href='/New_Beehive/toc_vol2/toc2_403/'>2296 [Four Seasons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_403/'>2296 [Four Seasons]</a>"
 topic: 
 first_letter: S
 xref: 

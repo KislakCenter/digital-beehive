@@ -3,7 +3,7 @@ pid: index_4606
 volume: Volume 3
 image_number: '53'
 head: word
-entry: "<a href='/New_Beehive/toc_vol2/toc2_264/'>1353 [Word]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>"
 topic: 
 first_letter: W
 xref: 

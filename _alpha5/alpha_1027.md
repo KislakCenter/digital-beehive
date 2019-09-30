@@ -6,7 +6,7 @@ head:
 entry: Wind
 topic: Wind
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_257/'>1316 [Laplanders]</a>|<a href='/New_Beehive/toc_vol2/toc2_248/'>1271
+xref: "<a href='/New_Beehive/toc/toc2_257/'>1316 [Laplanders]</a>|<a href='/New_Beehive/toc/toc2_248/'>1271
   [Wind]</a>"
 see: 
 page: 

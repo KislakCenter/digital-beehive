@@ -3,8 +3,8 @@ pid: index_1388
 volume: Volume 3
 image_number: '20'
 head: fall
-entry: "<a href='/New_Beehive/alpha2/alpha_0310/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_183/'>983
-  [Fall]</a>|<a href='/New_Beehive/toc_vol2/toc2_412/'>2379 [Fall]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0310/'>a</a>|<a href='/New_Beehive/toc/toc2_183/'>983
+  [Fall]</a>|<a href='/New_Beehive/toc/toc2_412/'>2379 [Fall]</a>"
 topic: 
 first_letter: F
 xref: 

@@ -3,8 +3,8 @@ pid: index_1738
 volume: Volume 3
 image_number: '23'
 head: hair
-entry: "<a href='/New_Beehive/alpha2/alpha_0390/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_261/'>1337
-  [Hair & Perriwigs]</a>|<a href='/New_Beehive/toc_vol2/toc2_418/'>2422 [Hair & Periwigs]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0390/'>a</a>|<a href='/New_Beehive/toc/toc2_261/'>1337
+  [Hair & Perriwigs]</a>|<a href='/New_Beehive/toc/toc2_418/'>2422 [Hair & Periwigs]</a>"
 topic: 
 first_letter: H
 xref: 

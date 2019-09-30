@@ -6,9 +6,7 @@ head:
 entry: England
 topic: England
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/alpha5/alpha_1047/'>World's
-  End</a>|<a href='/New_Beehive/toc_vol2/toc2_161/'>868 [End]</a>|<a href='/New_Beehive/toc_vol2/toc2_263/'>1347
-  [England]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_263/'>1347 [England]</a>"
 see: 
 page: 
 add: 

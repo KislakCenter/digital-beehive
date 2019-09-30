@@ -3,7 +3,7 @@ pid: index_0586
 volume: Volume 3
 image_number: '12'
 head: certificate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_195/'>1007 [a Testimonial]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_195/'>1007 [a Testimonial]</a>"
 topic: 
 first_letter: C
 xref: 

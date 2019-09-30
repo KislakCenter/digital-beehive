@@ -3,7 +3,7 @@ pid: index_0437
 volume: Volume 3
 image_number: '11'
 head: brandywine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>166 [Brandy-wine]</a>|<a href='/New_Beehive/toc_vol2/toc2_255/'>1310
+entry: "<a href='/New_Beehive/toc/toc2_073/'>166 [Brandy-wine]</a>|<a href='/New_Beehive/toc/toc2_255/'>1310
   [Brandy]</a>"
 topic: 
 first_letter: B

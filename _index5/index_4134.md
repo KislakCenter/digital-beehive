@@ -3,8 +3,8 @@ pid: index_4134
 volume: Volume 3
 image_number: '47'
 head: threefold Cord of Satan
-entry: "<a href='/New_Beehive/toc_vol2/toc2_332/'>1687 [the Devils threefold Snare]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_442/'>4879 [Trinitus Idolatrica]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_332/'>1687 [the Devils threefold Snare]</a>|<a
+  href='/New_Beehive/toc/toc2_442/'>4879 [Trinitus Idolatrica]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_3494
 volume: Volume 3
 image_number: '40'
 head: to sail
-entry: "<a href='/New_Beehive/toc_vol2/toc2_397/'>2266 [To Sail]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_397/'>2266 [To Sail]</a>"
 topic: 
 first_letter: S
 xref: 

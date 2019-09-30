@@ -3,7 +3,7 @@ pid: index_2294
 volume: Volume 3
 image_number: '28'
 head: likewise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_308/'>1566 [Likewise]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_308/'>1566 [Likewise]</a>"
 topic: 
 first_letter: L
 xref: 

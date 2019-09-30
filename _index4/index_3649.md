@@ -3,7 +3,7 @@ pid: index_3649
 volume: Volume 3
 image_number: '42'
 head: to settle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>143 [Establishmt]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_071/'>143 [Establishmt]</a>"
 topic: 
 first_letter: S
 xref: 

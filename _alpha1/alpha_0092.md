@@ -7,7 +7,7 @@ entry: Book
 topic: Book
 first_letter: B
 xref: "<a href='/New_Beehive/alpha3/alpha_0533/'>Library</a>|<a href='/New_Beehive/alpha4/alpha_0728/'>Printing</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_202/'>1044 [Books]</a>"
+  href='/New_Beehive/toc/toc2_202/'>1044 [Books]</a>"
 see: 
 page: 
 add: 

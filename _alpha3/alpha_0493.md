@@ -6,7 +6,7 @@ head:
 entry: Judgment
 topic: Judgment
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/New_Beehive/toc_vol2/toc2_200/'>1032
+xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/New_Beehive/toc/toc2_200/'>1032
   [Judgmt]</a>"
 see: 
 page: 

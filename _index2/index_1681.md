@@ -3,7 +3,7 @@ pid: index_1681
 volume: Volume 3
 image_number: '22'
 head: gout
-entry: "<a href='/New_Beehive/alpha2/alpha_0374/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_242/'>1241
+entry: "<a href='/New_Beehive/alpha2/alpha_0374/'>a</a>|<a href='/New_Beehive/toc/toc2_242/'>1241
   [Gout]</a>"
 topic: 
 first_letter: G

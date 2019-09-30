@@ -3,7 +3,7 @@ pid: index_3748
 volume: Volume 3
 image_number: '43'
 head: sleepwalkers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_316/'>1610 [Sleeping-Walk]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_316/'>1610 [Sleeping-Walk]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_2688
 volume: Volume 3
 image_number: '32'
 head: netherlands
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>351 [Holland]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>351 [Holland]</a>"
 topic: 
 first_letter: N
 xref: 

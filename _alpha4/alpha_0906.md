@@ -6,8 +6,7 @@ head:
 entry: Stork
 topic: Stork
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_250/'>1284 [Whetstone]</a>|"
+xref: 
 see: 
 page: 
 add: 

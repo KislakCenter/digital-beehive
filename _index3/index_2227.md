@@ -3,7 +3,7 @@ pid: index_2227
 volume: Volume 3
 image_number: '28'
 head: Lawrence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>613 [St. Lawrence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>613 [St. Lawrence]</a>"
 topic: 
 first_letter: L
 xref: 

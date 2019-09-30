@@ -3,7 +3,7 @@ pid: index_3868
 volume: Volume 3
 image_number: '44'
 head: square
-entry: "<a href='/New_Beehive/toc_vol2/toc2_169/'>907 [Square]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_169/'>907 [Square]</a>"
 topic: 
 first_letter: S
 xref: 

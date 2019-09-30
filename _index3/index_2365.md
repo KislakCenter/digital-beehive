@@ -3,7 +3,7 @@ pid: index_2365
 volume: Volume 3
 image_number: '29'
 head: Lully
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4796 [Lully's]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4796 [Lully's]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_1858
 volume: Volume 3
 image_number: '24'
 head: holy water
-entry: "<a href='/New_Beehive/toc_vol2/toc2_300/'>1528 [Holy Water]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_300/'>1528 [Holy Water]</a>"
 topic: 
 first_letter: H
 xref: 

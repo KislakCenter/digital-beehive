@@ -6,8 +6,7 @@ head:
 entry: Riddles
 topic: Riddles
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0003/'>Abundance</a>|<a href='/New_Beehive/toc_vol2/toc2_388/'>2224
-  [Riddle]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_388/'>2224 [Riddle]</a>"
 see: 
 page: 
 add: 

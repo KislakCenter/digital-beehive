@@ -3,7 +3,7 @@ pid: index_2419
 volume: Volume 3
 image_number: '29'
 head: manuscripts
-entry: "<a href='/New_Beehive/toc_vol2/toc2_273/'>1398 [Manuscripts]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_273/'>1398 [Manuscripts]</a>"
 topic: 
 first_letter: M
 xref: 

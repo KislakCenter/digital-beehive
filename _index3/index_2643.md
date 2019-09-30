@@ -3,7 +3,7 @@ pid: index_2643
 volume: Volume 3
 image_number: '32'
 head: nard
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1938 [Lavender]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1938 [Lavender]</a>"
 topic: 
 first_letter: N
 xref: 

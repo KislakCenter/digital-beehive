@@ -7,7 +7,7 @@ entry: Quietness
 topic: Quietness
 first_letter: Q
 xref: "<a href='/New_Beehive/alpha4/alpha_0687/'>Peace</a>|<a href='/New_Beehive/alpha4/alpha_0791/'>Rest</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_181/'>976 [Quietness]</a>"
+  href='/New_Beehive/toc/toc2_181/'>976 [Quietness]</a>"
 see: 
 page: 
 add: 

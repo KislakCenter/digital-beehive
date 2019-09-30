@@ -6,7 +6,7 @@ head:
 entry: Coming of Christ
 topic: Coming of Christ
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0141/'>Chiliasm</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1047
+xref: "<a href='/New_Beehive/alpha1/alpha_0141/'>Chiliasm</a>|<a href='/New_Beehive/toc/toc2_203/'>1047
   [Coming of God and Christ]</a>"
 see: 
 page: 

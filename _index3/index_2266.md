@@ -3,7 +3,7 @@ pid: index_2266
 volume: Volume 3
 image_number: '28'
 head: letters of friends
-entry: "<a href='/New_Beehive/toc_vol2/toc2_293/'>1500 [Epistle of Friends]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_293/'>1500 [Epistle of Friends]</a>"
 topic: 
 first_letter: L
 xref: 

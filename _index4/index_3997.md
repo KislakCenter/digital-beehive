@@ -3,7 +3,7 @@ pid: index_3997
 volume: Volume 3
 image_number: '46'
 head: surely
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security, Safety]</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2213
+entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, Safety]</a>|<a href='/New_Beehive/toc/toc2_387/'>2213
   [I am Sure]</a>"
 topic: 
 first_letter: S

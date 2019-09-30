@@ -3,7 +3,7 @@ pid: index_0357
 volume: Volume 3
 image_number: '10'
 head: beseeming
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>709 [Unseemly]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_157/'>709 [Unseemly]</a>"
 topic: 
 first_letter: B
 xref: 

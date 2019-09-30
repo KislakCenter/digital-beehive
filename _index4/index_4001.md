@@ -3,7 +3,7 @@ pid: index_4001
 volume: Volume 3
 image_number: '46'
 head: Surinam
-entry: "<a href='/New_Beehive/toc_vol2/toc2_371/'>2052 [Surinam]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_371/'>2052 [Surinam]</a>"
 topic: 
 first_letter: S
 xref: 

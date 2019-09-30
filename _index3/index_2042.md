@@ -3,7 +3,7 @@ pid: index_2042
 volume: Volume 3
 image_number: '26'
 head: inhabitants
-entry: "<a href='/New_Beehive/toc_vol2/toc2_397/'>2270 [Inhabitants]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_397/'>2270 [Inhabitants]</a>"
 topic: 
 first_letter: I/J
 xref: 

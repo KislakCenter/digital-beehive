@@ -3,7 +3,7 @@ pid: index_4152
 volume: Volume 3
 image_number: '47'
 head: tilt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_258/'>1325 [Duel, a Tournament]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_258/'>1325 [Duel, a Tournament]</a>"
 topic: 
 first_letter: T
 xref: 

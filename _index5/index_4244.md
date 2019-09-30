@@ -3,7 +3,7 @@ pid: index_4244
 volume: Volume 3
 image_number: '48'
 head: trivial
-entry: "<a href='/New_Beehive/toc_vol2/toc2_080/'>224 [Considerable]</a>|<a href='/New_Beehive/toc_vol2/toc2_122/'>510
+entry: "<a href='/New_Beehive/toc/toc2_080/'>224 [Considerable]</a>|<a href='/New_Beehive/toc/toc2_122/'>510
   [So trivial a thing]</a>"
 topic: 
 first_letter: T

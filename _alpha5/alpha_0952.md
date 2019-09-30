@@ -6,7 +6,7 @@ head:
 entry: Too hasty
 topic: Too hasty
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>Haste</a>|[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc_vol2/toc2_179/'>961
+xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>Haste</a>|[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc/toc2_179/'>961
   [Too hasty]</a>"
 see: 
 page: 

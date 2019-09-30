@@ -3,7 +3,7 @@ pid: index_0752
 volume: Volume 3
 image_number: '13'
 head: to comunicate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_411/'>2364 [To Comunicate & partake]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_411/'>2364 [To Comunicate & partake]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -3,7 +3,7 @@ pid: index_3757
 volume: Volume 3
 image_number: '43'
 head: slowness
-entry: "<a href='/New_Beehive/alpha4/alpha_0879/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1089
+entry: "<a href='/New_Beehive/alpha4/alpha_0879/'>a</a>|<a href='/New_Beehive/toc/toc2_211/'>1089
   [Slow-footed]</a>"
 topic: 
 first_letter: S

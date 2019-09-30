@@ -3,7 +3,7 @@ pid: index_0864
 volume: Volume 3
 image_number: '15'
 head: cosmography
-entry: "<a href='/New_Beehive/toc_vol2/toc2_146/'>647 [Cosmography]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_146/'>647 [Cosmography]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -3,7 +3,7 @@ pid: index_2490
 volume: Volume 3
 image_number: '30'
 head: mercy
-entry: "<a href='/New_Beehive/alpha3/alpha_0584/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_097/'>338
+entry: "<a href='/New_Beehive/alpha3/alpha_0584/'>a</a>|<a href='/New_Beehive/toc/toc2_097/'>338
   [Mercy]</a>"
 topic: 
 first_letter: M

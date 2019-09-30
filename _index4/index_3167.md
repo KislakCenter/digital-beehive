@@ -3,7 +3,7 @@ pid: index_3167
 volume: Volume 3
 image_number: '37'
 head: privation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_317/'>1613 [Privation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_317/'>1613 [Privation]</a>"
 topic: 
 first_letter: P
 xref: 

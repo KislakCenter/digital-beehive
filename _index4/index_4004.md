@@ -3,7 +3,7 @@ pid: index_4004
 volume: Volume 3
 image_number: '46'
 head: surnames
-entry: "<a href='/New_Beehive/toc_vol2/toc2_085/'>252 [Surnames]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_085/'>252 [Surnames]</a>"
 topic: 
 first_letter: S
 xref: 

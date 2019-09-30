@@ -3,7 +3,7 @@ pid: index_0924
 volume: Volume 3
 image_number: '15'
 head: cucumers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>678 [Cucumers]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>678 [Cucumers]</a>"
 topic: 
 first_letter: C
 xref: 

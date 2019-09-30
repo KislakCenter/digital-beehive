@@ -6,7 +6,7 @@ head:
 entry: Terrour
 topic: Terrour
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0319/'>fear</a>|<a href='/New_Beehive/toc_vol2/toc2_149/'>669
+xref: "<a href='/New_Beehive/alpha2/alpha_0319/'>fear</a>|<a href='/New_Beehive/toc/toc2_149/'>669
   [Terrour]</a>"
 see: 
 page: 

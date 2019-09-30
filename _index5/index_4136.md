@@ -3,7 +3,7 @@ pid: index_4136
 volume: Volume 3
 image_number: '47'
 head: throat
-entry: "<a href='/New_Beehive/toc_vol2/toc2_152/'>681 [Throat]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Throat]</a>"
 topic: 
 first_letter: T
 xref: 

@@ -3,7 +3,7 @@ pid: index_2603
 volume: Volume 3
 image_number: '31'
 head: mountain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_073/'>163 [Mountain]</a>|<a href='/New_Beehive/toc_vol2/toc2_374/'>2084
+entry: "<a href='/New_Beehive/toc/toc2_073/'>163 [Mountain]</a>|<a href='/New_Beehive/toc/toc2_374/'>2084
   [Mountain]</a>"
 topic: 
 first_letter: M

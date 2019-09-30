@@ -3,9 +3,9 @@ pid: index_4475
 volume: Volume 3
 image_number: '51'
 head: war
-entry: "<a href='/New_Beehive/alpha5/alpha_1009/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_234/'>1204
-  [War]</a>|<a href='/New_Beehive/toc_vol2/toc2_292/'>1492 [Warfare]</a>|<a href='/New_Beehive/toc_vol2/toc2_387/'>2220
-  [War]</a>|<a href='/New_Beehive/toc_vol2/toc2_446/'>4913 [War]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_1009/'>a</a>|<a href='/New_Beehive/toc/toc2_234/'>1204
+  [War]</a>|<a href='/New_Beehive/toc/toc2_292/'>1492 [Warfare]</a>|<a href='/New_Beehive/toc/toc2_387/'>2220
+  [War]</a>|<a href='/New_Beehive/toc/toc2_446/'>4913 [War]</a>"
 topic: 
 first_letter: W
 xref: 

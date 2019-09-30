@@ -3,7 +3,7 @@ pid: index_0952
 volume: Volume 3
 image_number: '15'
 head: David
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1582 [David]</a>|4751 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1582 [David]</a>|4751 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 

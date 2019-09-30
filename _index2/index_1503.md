@@ -3,7 +3,7 @@ pid: index_1503
 volume: Volume 3
 image_number: '21'
 head: foregoing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_343/'>1779 [Foregoing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_343/'>1779 [Foregoing]</a>"
 topic: 
 first_letter: F
 xref: 

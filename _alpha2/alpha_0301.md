@@ -6,8 +6,7 @@ head:
 entry: External conversation
 topic: External conversation
 first_letter: E
-xref: "<a href='/New_Beehive/alpha4/alpha_0839/'>Seeming</a>|<a href='/New_Beehive/alpha4/alpha_0857/'>Shapes</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_111/'>437 [External Appearance]</a>|Conversation"
+xref: Conversation
 see: 
 page: 
 add: 

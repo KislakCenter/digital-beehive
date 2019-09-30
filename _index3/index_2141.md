@@ -3,7 +3,7 @@ pid: index_2141
 volume: Volume 3
 image_number: '27'
 head: jury
-entry: "<a href='/New_Beehive/toc_vol2/toc2_129/'>552 [Juries]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_129/'>552 [Juries]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,7 +3,7 @@ pid: index_1519
 volume: Volume 3
 image_number: '21'
 head: forsake sins
-entry: "<a href='/New_Beehive/toc_vol2/toc2_334/'>1700 [Inheritance]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
 topic: 
 first_letter: F
 xref: 

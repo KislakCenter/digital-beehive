@@ -3,7 +3,7 @@ pid: index_2220
 volume: Volume 3
 image_number: '27'
 head: Laver
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1908 [Laver]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1908 [Laver]</a>"
 topic: 
 first_letter: L
 xref: 

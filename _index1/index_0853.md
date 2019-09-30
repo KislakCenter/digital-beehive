@@ -3,7 +3,7 @@ pid: index_0853
 volume: Volume 3
 image_number: '14'
 head: corns
-entry: "<a href='/New_Beehive/toc_vol2/toc2_261/'>1337 [Corns. Wart's]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_261/'>1337 [Corns. Wart's]</a>"
 topic: 
 first_letter: C
 xref: 

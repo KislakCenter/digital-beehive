@@ -3,7 +3,7 @@ pid: index_2753
 volume: Volume 3
 image_number: '33'
 head: Oak
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>687 [Oak]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>687 [Oak]</a>"
 topic: 
 first_letter: O
 xref: 

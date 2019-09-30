@@ -7,7 +7,7 @@ entry: Providence
 topic: Providence
 first_letter: P
 xref: "<a href='/New_Beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_271/'>1390 [Providence]</a>"
+  href='/New_Beehive/toc/toc2_271/'>1390 [Providence]</a>"
 see: 
 page: 
 add: 

@@ -6,8 +6,7 @@ head:
 entry: Herring
 topic: Herring
 first_letter: H
-xref: Clergy|<a href='/New_Beehive/toc_vol2/toc2_334/'>1700 [Inheritage]</a>|<a href='/New_Beehive/toc_vol2/toc2_397/'>2266
-  [Herring]</a>
+xref: "<a href='/New_Beehive/toc/toc2_397/'>2266 [Herring]</a>"
 see: 
 page: 
 add: 

@@ -6,7 +6,7 @@ head:
 entry: Weapons of the apostolical warfare
 topic: Weapons of the apostolical warfare
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0388/'>Gun</a>|<a href='/New_Beehive/toc_vol2/toc2_228/'>1175
+xref: "<a href='/New_Beehive/alpha2/alpha_0388/'>Gun</a>|<a href='/New_Beehive/toc/toc2_228/'>1175
   [Weapons]</a>"
 see: 
 page: 

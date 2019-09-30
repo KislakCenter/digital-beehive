@@ -3,8 +3,8 @@ pid: index_2592
 volume: Volume 3
 image_number: '31'
 head: Moses
-entry: "<a href='/New_Beehive/toc_vol2/toc2_168/'>901 [Moses]</a>|<a href='/New_Beehive/toc_vol2/toc2_311/'>1583
-  [Moses]</a>|<a href='/New_Beehive/toc_vol2/toc2_355/'>1921 [Moses]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_168/'>901 [Moses]</a>|<a href='/New_Beehive/toc/toc2_311/'>1583
+  [Moses]</a>|<a href='/New_Beehive/toc/toc2_355/'>1921 [Moses]</a>"
 topic: 
 first_letter: M
 xref: 

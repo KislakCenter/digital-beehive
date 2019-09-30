@@ -3,7 +3,7 @@ pid: index_2164
 volume: Volume 3
 image_number: '27'
 head: kings Evil
-entry: "<a href='/New_Beehive/alpha3/alpha_0500/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_386/'>2201
+entry: "<a href='/New_Beehive/alpha3/alpha_0500/'>a</a>|<a href='/New_Beehive/toc/toc2_386/'>2201
   [King's evil]</a>"
 topic: 
 first_letter: K

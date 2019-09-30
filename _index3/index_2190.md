@@ -3,7 +3,7 @@ pid: index_2190
 volume: Volume 3
 image_number: '27'
 head: lamentation
-entry: "<a href='/New_Beehive/toc_vol2/toc2_127/'>539 [Lamentation]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_127/'>539 [Lamentation]</a>"
 topic: 
 first_letter: L
 xref: 

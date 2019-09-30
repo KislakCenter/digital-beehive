@@ -6,9 +6,7 @@ head:
 entry: Angel
 topic: Angel
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a href='/New_Beehive/toc_vol2/toc2_115/'>464
-  [Amending]</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1078 [Anagram]</a>|||<a
-  href='/New_Beehive/toc_vol2/toc2_093/'>315 [Angels]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_093/'>315 [Angels]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_4052
 volume: Volume 3
 image_number: '46'
 head: talismans
-entry: "<a href='/New_Beehive/toc_vol2/toc2_303/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
 topic: 
 first_letter: T
 xref: 

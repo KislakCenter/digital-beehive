@@ -3,7 +3,7 @@ pid: index_3737
 volume: Volume 3
 image_number: '43'
 head: skeleton
-entry: "<a href='/New_Beehive/toc_vol2/toc2_270/'>1381 [Skeleton]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_270/'>1381 [Skeleton]</a>"
 topic: 
 first_letter: S
 xref: 

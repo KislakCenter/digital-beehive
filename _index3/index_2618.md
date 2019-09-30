@@ -3,7 +3,7 @@ pid: index_2618
 volume: Volume 3
 image_number: '31'
 head: murrain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_382/'>2170 [Murrain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_382/'>2170 [Murrain]</a>"
 topic: 
 first_letter: M
 xref: 

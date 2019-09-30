@@ -6,7 +6,7 @@ head:
 entry: Will of God
 topic: Will of God
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/New_Beehive/toc_vol2/toc2_197/'>1019
+xref: "<a href='/New_Beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/New_Beehive/toc/toc2_197/'>1019
   [Gods Will]</a>"
 see: 
 page: 

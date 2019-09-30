@@ -6,10 +6,8 @@ head:
 entry: Inn & Innkeeper
 topic: Inn & Innkeeper
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>5
-  [Wrong]</a>|<a href='/New_Beehive/toc_vol2/toc2_058/'>6 [Unjust Substance]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_239/'>1227 [Injustice]</a>|<a href='/New_Beehive/toc_vol2/toc2_077/'>201
-  [Taverns]</a>|<a href='/New_Beehive/toc_vol2/toc2_078/'>201 [Taverns]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_077/'>201 [Taverns]</a>|<a href='/New_Beehive/toc/toc2_078/'>201
+  [Taverns]</a>"
 see: 
 page: 
 add: 

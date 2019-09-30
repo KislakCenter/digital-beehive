@@ -3,7 +3,7 @@ pid: index_1999
 volume: Volume 3
 image_number: '25'
 head: incomparable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,7 +3,7 @@ pid: index_1878
 volume: Volume 3
 image_number: '24'
 head: horse traces
-entry: "<a href='/New_Beehive/toc_vol2/toc2_162/'>871 [traces]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [traces]</a>"
 topic: 
 first_letter: H
 xref: 

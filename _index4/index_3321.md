@@ -3,7 +3,7 @@ pid: index_3321
 volume: Volume 3
 image_number: '38'
 head: reconciliation universal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_102/'>379 [Reconciliato universalis]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_102/'>379 [Reconciliato universalis]</a>"
 topic: 
 first_letter: R
 xref: 

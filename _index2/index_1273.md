@@ -3,7 +3,7 @@ pid: index_1273
 volume: Volume 3
 image_number: '18'
 head: enthusiasm
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>35 [Enthusiasm]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>35 [Enthusiasm]</a>"
 topic: 
 first_letter: E
 xref: 

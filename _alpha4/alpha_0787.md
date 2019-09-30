@@ -6,9 +6,9 @@ head:
 entry: Reproof
 topic: Reproof
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0753/'>Punishmt</a>|<a href='/New_Beehive/toc_vol2/toc2_074/'>177
-  [Strain a gnat]</a>|<a href='/New_Beehive/toc_vol2/toc2_075/'>188 [Reproof]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_173/'>928 [Reproof]</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0753/'>Punishmt</a>|<a href='/New_Beehive/toc/toc2_074/'>177
+  [Strain a gnat]</a>|<a href='/New_Beehive/toc/toc2_075/'>188 [Reproof]</a>|<a href='/New_Beehive/toc/toc2_173/'>928
+  [Reproof]</a>"
 see: 
 page: 
 add: 

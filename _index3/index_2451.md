@@ -3,7 +3,7 @@ pid: index_2451
 volume: Volume 3
 image_number: '30'
 head: Mauritius
-entry: "<a href='/New_Beehive/toc_vol2/toc2_246/'>1262 [Mauritius]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_246/'>1262 [Mauritius]</a>"
 topic: 
 first_letter: M
 xref: 

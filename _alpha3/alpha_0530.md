@@ -7,7 +7,7 @@ entry: Liberality
 topic: Liberality
 first_letter: L
 xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_219/'>1127 [Liberality]</a>"
+  href='/New_Beehive/toc/toc2_219/'>1127 [Liberality]</a>"
 see: 
 page: 
 add: 

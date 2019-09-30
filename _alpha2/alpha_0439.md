@@ -7,7 +7,7 @@ entry: Husbandry
 topic: Husbandry
 first_letter: H
 xref: "<a href='/New_Beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/New_Beehive/alpha4/alpha_0650/'>Oeconomy</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_089/'>281 [Husbandry]</a>"
+  href='/New_Beehive/toc/toc2_089/'>281 [Husbandry]</a>"
 see: 
 page: 
 add: 

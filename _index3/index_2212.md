@@ -3,7 +3,7 @@ pid: index_2212
 volume: Volume 3
 image_number: '27'
 head: lasting
-entry: "<a href='/New_Beehive/toc_vol2/toc2_366/'>2002 [Lasting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_366/'>2002 [Lasting]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_2052
 volume: Volume 3
 image_number: '26'
 head: innocence
-entry: "<a href='/New_Beehive/alpha3/alpha_0477/'>a</a>|761 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_387/'>2219
+entry: "<a href='/New_Beehive/alpha3/alpha_0477/'>a</a>|761 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_387/'>2219
   [Innocence]</a>"
 topic: 
 first_letter: I/J

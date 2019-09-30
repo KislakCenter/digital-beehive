@@ -3,7 +3,7 @@ pid: index_3767
 volume: Volume 3
 image_number: '43'
 head: snare
-entry: 773 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_354/'>1919 [Ambush]</a>
+entry: 773 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_354/'>1919 [Ambush]</a>
 topic: 
 first_letter: S
 xref: 

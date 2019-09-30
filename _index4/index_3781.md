@@ -3,7 +3,7 @@ pid: index_3781
 volume: Volume 3
 image_number: '43'
 head: Sodom and Sodomy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_112/'>447 [Sodomy]</a>|<a href='/New_Beehive/toc_vol2/toc2_345/'>1787
+entry: "<a href='/New_Beehive/toc/toc2_112/'>447 [Sodomy]</a>|<a href='/New_Beehive/toc/toc2_345/'>1787
   [Sodom & Sodomy]</a>"
 topic: 
 first_letter: S

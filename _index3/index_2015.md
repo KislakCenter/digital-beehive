@@ -3,7 +3,7 @@ pid: index_2015
 volume: Volume 3
 image_number: '25'
 head: independency
-entry: "<a href='/New_Beehive/toc_vol2/toc2_240/'>1231 [Independent]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_240/'>1231 [Independent]</a>"
 topic: 
 first_letter: I/J
 xref: 

@@ -3,7 +3,7 @@ pid: index_1349
 volume: Volume 3
 image_number: '19'
 head: exorable
-entry: "<a href='/New_Beehive/toc_vol2/toc2_285/'>1457 [Exorable]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_285/'>1457 [Exorable]</a>"
 topic: 
 first_letter: E
 xref: 

@@ -3,9 +3,9 @@ pid: index_2379
 volume: Volume 3
 image_number: '29'
 head: magistrate
-entry: "<a href='/New_Beehive/alpha3/alpha_0561/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_094/'>318
-  [Magistrates]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1366 [Magistracy]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_402/'>2292 [Magistrate]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0561/'>a</a>|<a href='/New_Beehive/toc/toc2_094/'>318
+  [Magistrates]</a>|<a href='/New_Beehive/toc/toc2_267/'>1366 [Magistracy]</a>|<a
+  href='/New_Beehive/toc/toc2_402/'>2292 [Magistrate]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Wrath
 topic: Wrath
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
-  [Wound]</a>||<a href='/New_Beehive/alpha1/alpha_0030/'>anger</a>"
+xref: "<a href='/New_Beehive/alpha1/alpha_0030/'>anger</a>"
 see: 
 page: 
 add: 

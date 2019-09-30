@@ -6,9 +6,7 @@ head:
 entry: Nothing
 topic: Nothing
 first_letter: N
-xref: "<a href='/New_Beehive/alpha2/alpha_0385/'>great</a>|<a href='/New_Beehive/alpha3/alpha_0451/'>ignoble</a>|ancestors|<a
-  href='/New_Beehive/toc_vol2/toc2_076/'>193 [Nobility]</a>|<a href='/New_Beehive/toc_vol2/toc2_378/'>2123
-  [Nose]</a>|<a href='/New_Beehive/toc_vol2/toc2_322/'>1638 [Nothing]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_322/'>1638 [Nothing]</a>"
 see: 
 page: 
 add: 

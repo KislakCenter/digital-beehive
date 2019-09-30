@@ -6,7 +6,7 @@ head:
 entry: Transitory
 topic: Transitory
 first_letter: T
-xref: "<a href='/New_Beehive/alpha5/alpha_0977/'>Vanity</a>|<a href='/New_Beehive/toc_vol2/toc2_172/'>922
+xref: "<a href='/New_Beehive/alpha5/alpha_0977/'>Vanity</a>|<a href='/New_Beehive/toc/toc2_172/'>922
   [Transitory]</a>"
 see: 
 page: 

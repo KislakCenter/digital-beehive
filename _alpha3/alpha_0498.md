@@ -7,7 +7,7 @@ entry: King
 topic: King
 first_letter: K
 xref: "<a href='/New_Beehive/alpha4/alpha_0727/'>Prince</a>|<a href='/New_Beehive/alpha3/alpha_0598/'>Monarchy</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_235/'>1207 [King]</a>"
+  href='/New_Beehive/toc/toc2_235/'>1207 [King]</a>"
 see: 
 page: 
 add: 

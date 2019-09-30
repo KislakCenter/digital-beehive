@@ -3,7 +3,7 @@ pid: index_2296
 volume: Volume 3
 image_number: '28'
 head: lime
-entry: "<a href='/New_Beehive/toc_vol2/toc2_273/'>1396 [Lime]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_273/'>1396 [Lime]</a>"
 topic: 
 first_letter: L
 xref: 

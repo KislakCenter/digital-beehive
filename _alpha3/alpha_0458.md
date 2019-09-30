@@ -6,9 +6,7 @@ head:
 entry: Imitation of Christ
 topic: Imitation of Christ
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0659/'>opinion</a>|<a href='/New_Beehive/alpha5/alpha_0943/'>thought</a>|<a
-  href='/New_Beehive/alpha2/alpha_0294/'>Example</a>|<a href='/New_Beehive/toc_vol2/toc2_195/'>1010
-  [The Following of Christ]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_195/'>1010 [The Following of Christ]</a>"
 see: 
 page: 
 add: 

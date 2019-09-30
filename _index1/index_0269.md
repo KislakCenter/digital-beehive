@@ -3,7 +3,7 @@ pid: index_0269
 volume: Volume 3
 image_number: '9'
 head: bad
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>618 [Bad]</a>|<a href='/New_Beehive/toc_vol2/toc2_385/'>2197
+entry: "<a href='/New_Beehive/toc/toc2_141/'>618 [Bad]</a>|<a href='/New_Beehive/toc/toc2_385/'>2197
   [Bad]</a>"
 topic: 
 first_letter: B

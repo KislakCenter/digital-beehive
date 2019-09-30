@@ -3,7 +3,7 @@ pid: index_3197
 volume: Volume 3
 image_number: '37'
 head: property
-entry: "<a href='/New_Beehive/alpha4/alpha_0743/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2012
+entry: "<a href='/New_Beehive/alpha4/alpha_0743/'>a</a>|<a href='/New_Beehive/toc/toc2_367/'>2012
   [Propriety]</a>"
 topic: 
 first_letter: P

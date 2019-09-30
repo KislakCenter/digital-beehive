@@ -3,7 +3,7 @@ pid: index_4440
 volume: Volume 3
 image_number: '51'
 head: to urge
-entry: "<a href='/New_Beehive/toc_vol2/toc2_204/'>1054 [To Urge]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_204/'>1054 [To Urge]</a>"
 topic: 
 first_letter: U/V
 xref: 

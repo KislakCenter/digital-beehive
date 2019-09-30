@@ -3,7 +3,7 @@ pid: index_2519
 volume: Volume 3
 image_number: '30'
 head: milt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_136/'>595 [Liver]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_136/'>595 [Liver]</a>"
 topic: 
 first_letter: M
 xref: 

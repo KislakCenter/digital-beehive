@@ -3,7 +3,7 @@ pid: index_3236
 volume: Volume 3
 image_number: '38'
 head: purity
-entry: "<a href='/New_Beehive/alpha4/alpha_0755/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_175/'>936
+entry: "<a href='/New_Beehive/alpha4/alpha_0755/'>a</a>|<a href='/New_Beehive/toc/toc2_175/'>936
   [Purity]</a>"
 topic: 
 first_letter: P

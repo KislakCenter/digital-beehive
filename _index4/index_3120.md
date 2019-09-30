@@ -3,7 +3,7 @@ pid: index_3120
 volume: Volume 3
 image_number: '36'
 head: precise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_071/'>147 [Exactness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_071/'>147 [Exactness]</a>"
 topic: 
 first_letter: P
 xref: 

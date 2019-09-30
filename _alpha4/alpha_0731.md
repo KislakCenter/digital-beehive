@@ -7,7 +7,7 @@ entry: Privacy
 topic: Privacy
 first_letter: P
 xref: "<a href='/New_Beehive/alpha4/alpha_0884/'>Solitude</a>|<a href='/New_Beehive/alpha2/alpha_0424/'>Home</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_074/'>171 [Private]</a>"
+  href='/New_Beehive/toc/toc2_074/'>171 [Private]</a>"
 see: 
 page: 
 add: 

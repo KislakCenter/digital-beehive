@@ -3,7 +3,7 @@ pid: index_2544
 volume: Volume 3
 image_number: '31'
 head: mist
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>383 [A mist]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [A mist]</a>"
 topic: 
 first_letter: M
 xref: 

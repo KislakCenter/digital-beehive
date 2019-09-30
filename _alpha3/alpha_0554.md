@@ -6,9 +6,7 @@ head:
 entry: Love of our Neighbour
 topic: Love of our Neighbour
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/New_Beehive/toc_vol2/toc2_255/'>1309
-  [Love to God & the Brethren]</a>|<a href='/New_Beehive/toc_vol2/toc2_209/'>1079
-  [Love of Neighbours]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_209/'>1079 [Love of Neighbours]</a>"
 see: 
 page: 
 add: 

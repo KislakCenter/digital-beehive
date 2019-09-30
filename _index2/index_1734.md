@@ -3,7 +3,7 @@ pid: index_1734
 volume: Volume 3
 image_number: '23'
 head: guns
-entry: "<a href='/New_Beehive/alpha2/alpha_0388/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_097/'>339
+entry: "<a href='/New_Beehive/alpha2/alpha_0388/'>a</a>|<a href='/New_Beehive/toc/toc2_097/'>339
   [Guns]</a>"
 topic: 
 first_letter: G

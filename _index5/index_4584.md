@@ -3,7 +3,7 @@ pid: index_4584
 volume: Volume 3
 image_number: '53'
 head: 2. Witnesses slain
-entry: "<a href='/New_Beehive/toc_vol2/toc2_302/'>1539 [Two Witnesses Slain]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_302/'>1539 [Two Witnesses Slain]</a>"
 topic: 
 first_letter: W
 xref: 

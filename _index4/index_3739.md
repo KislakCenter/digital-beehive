@@ -3,7 +3,7 @@ pid: index_3739
 volume: Volume 3
 image_number: '43'
 head: skie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>383 [Clouds]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Clouds]</a>"
 topic: 
 first_letter: S
 xref: 

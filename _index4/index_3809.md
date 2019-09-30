@@ -3,8 +3,8 @@ pid: index_3809
 volume: Volume 3
 image_number: '44'
 head: soul
-entry: "<a href='/New_Beehive/alpha4/alpha_0888/'>a</a>|835 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_277/'>1419
-  [Soul]</a>|<a href='/New_Beehive/toc_vol2/toc2_316/'>1607 [Soul]</a>|<a href='/New_Beehive/toc_vol2/toc2_410/'>2357
+entry: "<a href='/New_Beehive/alpha4/alpha_0888/'>a</a>|835 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_277/'>1419
+  [Soul]</a>|<a href='/New_Beehive/toc/toc2_316/'>1607 [Soul]</a>|<a href='/New_Beehive/toc/toc2_410/'>2357
   [Soul]</a>"
 topic: 
 first_letter: S

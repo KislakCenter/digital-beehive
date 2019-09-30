@@ -3,7 +3,7 @@ pid: index_1224
 volume: Volume 3
 image_number: '18'
 head: elephant
-entry: "<a href='/New_Beehive/toc_vol2/toc2_363/'>1980 [Elephant]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_363/'>1980 [Elephant]</a>"
 topic: 
 first_letter: E
 xref: 

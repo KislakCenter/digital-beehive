@@ -3,9 +3,9 @@ pid: index_3333
 volume: Volume 3
 image_number: '39'
 head: reformation
-entry: "<a href='/New_Beehive/alpha4/alpha_0776/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_118/'>486
-  [Reformation]</a>|<a href='/New_Beehive/toc_vol2/toc2_333/'>1695 [Reformation]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_356/'>1934 [Reformation]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0776/'>a</a>|<a href='/New_Beehive/toc/toc2_118/'>486
+  [Reformation]</a>|<a href='/New_Beehive/toc/toc2_333/'>1695 [Reformation]</a>|<a
+  href='/New_Beehive/toc/toc2_356/'>1934 [Reformation]</a>"
 topic: 
 first_letter: R
 xref: 

@@ -3,7 +3,7 @@ pid: index_1412
 volume: Volume 3
 image_number: '20'
 head: fat. aroina
-entry: "<a href='/New_Beehive/toc_vol2/toc2_379/'>2136 [Fat. Sewet.]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_379/'>2136 [Fat. Sewet.]</a>"
 topic: 
 first_letter: F
 xref: 

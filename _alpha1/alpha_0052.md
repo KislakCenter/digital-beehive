@@ -6,9 +6,7 @@ head:
 entry: Bacchanals
 topic: Bacchanals
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0807/'>Rome</a>|<a href='/New_Beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_177/'>952 [Babel]</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>222
-  [Shrovetide]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_080/'>222 [Shrovetide]</a>"
 see: 
 page: 
 add: 

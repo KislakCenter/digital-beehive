@@ -3,7 +3,7 @@ pid: index_1712
 volume: Volume 3
 image_number: '23'
 head: green
-entry: "<a href='/New_Beehive/toc_vol2/toc2_340/'>1757 [Green]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_340/'>1757 [Green]</a>"
 topic: 
 first_letter: G
 xref: 

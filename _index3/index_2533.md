@@ -3,7 +3,7 @@ pid: index_2533
 volume: Volume 3
 image_number: '31'
 head: misapply
-entry: "<a href='/New_Beehive/toc_vol2/toc2_200/'>1032 [misapply]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_200/'>1032 [misapply]</a>"
 topic: 
 first_letter: M
 xref: 

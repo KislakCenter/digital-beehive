@@ -6,7 +6,7 @@ head:
 entry: Doctor
 topic: Doctor|Doctorship
 first_letter: D
-xref: "<a href='/New_Beehive/alpha3/alpha_0572/'>Master of Arts</a>|<a href='/New_Beehive/toc_vol2/toc2_179/'>964
+xref: "<a href='/New_Beehive/alpha3/alpha_0572/'>Master of Arts</a>|<a href='/New_Beehive/toc/toc2_179/'>964
   [Doctor]</a>"
 see: 
 page: 

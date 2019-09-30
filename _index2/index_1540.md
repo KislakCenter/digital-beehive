@@ -3,7 +3,7 @@ pid: index_1540
 volume: Volume 3
 image_number: '21'
 head: french
-entry: "<a href='/New_Beehive/alpha2/alpha_0347/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1288
+entry: "<a href='/New_Beehive/alpha2/alpha_0347/'>a</a>|<a href='/New_Beehive/toc/toc2_251/'>1288
   [French]</a>|4644 [PAGE_MISSING]"
 topic: 
 first_letter: F

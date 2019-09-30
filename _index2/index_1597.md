@@ -3,7 +3,7 @@ pid: index_1597
 volume: Volume 3
 image_number: '22'
 head: Genoa
-entry: "<a href='/New_Beehive/toc_vol2/toc2_252/'>1294 [Genoa]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_252/'>1294 [Genoa]</a>"
 topic: 
 first_letter: G
 xref: 

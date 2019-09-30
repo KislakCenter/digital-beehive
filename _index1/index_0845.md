@@ -3,7 +3,7 @@ pid: index_0845
 volume: Volume 3
 image_number: '14'
 head: copy
-entry: "<a href='/New_Beehive/toc_vol2/toc2_113/'>452 [Copy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_113/'>452 [Copy]</a>"
 topic: 
 first_letter: C
 xref: 

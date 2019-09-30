@@ -3,7 +3,7 @@ pid: index_1220
 volume: Volume 3
 image_number: '18'
 head: elders
-entry: "<a href='/New_Beehive/toc_vol2/toc2_140/'>614 [Meaning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_140/'>614 [Meaning]</a>"
 topic: 
 first_letter: E
 xref: 

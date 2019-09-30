@@ -3,7 +3,7 @@ pid: index_2495
 volume: Volume 3
 image_number: '30'
 head: Mermaids
-entry: "<a href='/New_Beehive/toc_vol2/toc2_307/'>1563 [Mermain & Mermaids]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_307/'>1563 [Mermain & Mermaids]</a>"
 topic: 
 first_letter: M
 xref: 

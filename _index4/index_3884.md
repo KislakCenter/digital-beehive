@@ -3,7 +3,7 @@ pid: index_3884
 volume: Volume 3
 image_number: '45'
 head: man's States
-entry: "<a href='/New_Beehive/toc_vol2/toc2_201/'>1040 [Man's State]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_201/'>1040 [Man's State]</a>"
 topic: 
 first_letter: S
 xref: 

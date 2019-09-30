@@ -7,8 +7,8 @@ entry: Quaker
 topic: Quaker
 first_letter: Q
 xref: "<a href='/New_Beehive/alpha1/alpha_0146/'>Christianity</a>|<a href='/New_Beehive/alpha4/alpha_0817/'>Saints</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_204/'>1053 [Objections of the Quakers answered]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_079/'>214 [Quakers]</a>"
+  href='/New_Beehive/toc/toc2_204/'>1053 [Objections of the Quakers answered]</a>|<a
+  href='/New_Beehive/toc/toc2_079/'>214 [Quakers]</a>"
 see: 
 page: 
 add: 

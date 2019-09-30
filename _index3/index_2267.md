@@ -3,7 +3,7 @@ pid: index_2267
 volume: Volume 3
 image_number: '28'
 head: letters of Uriah
-entry: "<a href='/New_Beehive/toc_vol2/toc2_337/'>1721 [Bellerophontis Literas]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
 topic: 
 first_letter: L
 xref: 

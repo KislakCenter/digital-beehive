@@ -3,8 +3,8 @@ pid: index_2325
 volume: Volume 3
 image_number: '29'
 head: womens longing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_153/'>688 [Womens Longing]</a>|<a href='/New_Beehive/toc_vol2/toc2_238/'>1226
-  [Womens Longing]</a>|<a href='/New_Beehive/toc_vol2/toc2_239/'>1226 [Womens Longing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Womens Longing]</a>|<a href='/New_Beehive/toc/toc2_238/'>1226
+  [Womens Longing]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226 [Womens Longing]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_2657
 volume: Volume 3
 image_number: '32'
 head: natural defect
-entry: "<a href='/New_Beehive/toc_vol2/toc2_321/'>1635 [Natural Defect]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_321/'>1635 [Natural Defect]</a>"
 topic: 
 first_letter: N
 xref: 

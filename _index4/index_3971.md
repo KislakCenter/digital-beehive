@@ -3,7 +3,7 @@ pid: index_3971
 volume: Volume 3
 image_number: '45'
 head: sudden motion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_218/'>1122 [Involuntary Motions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_218/'>1122 [Involuntary Motions]</a>"
 topic: 
 first_letter: S
 xref: 

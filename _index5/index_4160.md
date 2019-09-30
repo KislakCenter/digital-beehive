@@ -3,7 +3,7 @@ pid: index_4160
 volume: Volume 3
 image_number: '47'
 head: tinder
-entry: "<a href='/New_Beehive/toc_vol2/toc2_081/'>229 [Tinder]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_081/'>229 [Tinder]</a>"
 topic: 
 first_letter: T
 xref: 

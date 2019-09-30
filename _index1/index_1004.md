@@ -3,7 +3,7 @@ pid: index_1004
 volume: Volume 3
 image_number: '16'
 head: deluge
-entry: "<a href='/New_Beehive/alpha1/alpha_0221/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_272/'>1395
+entry: "<a href='/New_Beehive/alpha1/alpha_0221/'>a</a>|<a href='/New_Beehive/toc/toc2_272/'>1395
   [Deluge]</a>"
 topic: 
 first_letter: D

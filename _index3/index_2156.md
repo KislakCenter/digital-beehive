@@ -3,7 +3,7 @@ pid: index_2156
 volume: Volume 3
 image_number: '27'
 head: kidneys
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1905 [Kidneys]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1905 [Kidneys]</a>"
 topic: 
 first_letter: K
 xref: 

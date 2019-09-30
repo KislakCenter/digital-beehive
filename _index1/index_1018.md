@@ -3,7 +3,7 @@ pid: index_1018
 volume: Volume 3
 image_number: '16'
 head: derision
-entry: "<a href='/New_Beehive/alpha1/alpha_0226/'>a</a>|773 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_372/'>2063
+entry: "<a href='/New_Beehive/alpha1/alpha_0226/'>a</a>|773 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_372/'>2063
   [Derision]</a>"
 topic: 
 first_letter: D

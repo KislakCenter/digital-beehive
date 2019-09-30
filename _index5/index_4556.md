@@ -3,7 +3,7 @@ pid: index_4556
 volume: Volume 3
 image_number: '52'
 head: King William
-entry: "<a href='/New_Beehive/toc_vol2/toc2_344/'>1781 [King William]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_344/'>1781 [King William]</a>"
 topic: 
 first_letter: W
 xref: 

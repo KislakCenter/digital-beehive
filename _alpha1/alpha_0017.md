@@ -6,7 +6,7 @@ head:
 entry: Alamode
 topic: Alamode
 first_letter: A
-xref: Clothes|<a href='/New_Beehive/toc_vol2/toc2_084/'>249 [Alamode]</a>
+xref: Clothes|<a href='/New_Beehive/toc/toc2_084/'>249 [Alamode]</a>
 see: 
 page: 
 add: 

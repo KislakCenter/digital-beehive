@@ -7,7 +7,7 @@ entry: Company
 topic: Company
 first_letter: C
 xref: "<a href='/New_Beehive/alpha2/alpha_0294/'>Example</a>|<a href='/New_Beehive/alpha4/alpha_0884/'>Solitude</a>|Stock|Train|<a
-  href='/New_Beehive/toc_vol2/toc2_089/'>283 [Company]</a>"
+  href='/New_Beehive/toc/toc2_089/'>283 [Company]</a>"
 see: 
 page: 
 add: 

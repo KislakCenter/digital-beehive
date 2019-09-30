@@ -3,7 +3,7 @@ pid: index_2152
 volume: Volume 3
 image_number: '27'
 head: key
-entry: "<a href='/New_Beehive/alpha3/alpha_0497/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_252/'>1294
+entry: "<a href='/New_Beehive/alpha3/alpha_0497/'>a</a>|<a href='/New_Beehive/toc/toc2_252/'>1294
   [Keys]</a>"
 topic: 
 first_letter: K

@@ -3,7 +3,7 @@ pid: index_0472
 volume: Volume 3
 image_number: '11'
 head: buffoon
-entry: "<a href='/New_Beehive/alpha1/alpha_0104/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_281/'>1436
+entry: "<a href='/New_Beehive/alpha1/alpha_0104/'>a</a>|<a href='/New_Beehive/toc/toc2_281/'>1436
   [Buffoons]</a>"
 topic: 
 first_letter: B

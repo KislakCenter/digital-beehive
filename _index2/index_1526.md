@@ -3,8 +3,8 @@ pid: index_1526
 volume: Volume 3
 image_number: '21'
 head: foundation
-entry: "<a href='/New_Beehive/alpha2/alpha_0343/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_196/'>1011
-  [Ground & Formation]</a>|<a href='/New_Beehive/toc_vol2/toc2_399/'>2276 [Foundation]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0343/'>a</a>|<a href='/New_Beehive/toc/toc2_196/'>1011
+  [Ground & Formation]</a>|<a href='/New_Beehive/toc/toc2_399/'>2276 [Foundation]</a>"
 topic: 
 first_letter: F
 xref: 

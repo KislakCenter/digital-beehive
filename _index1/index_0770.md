@@ -3,7 +3,7 @@ pid: index_0770
 volume: Volume 3
 image_number: '14'
 head: concentration
-entry: "<a href='/New_Beehive/toc_vol2/toc2_325/'>1655 [Concentration]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_325/'>1655 [Concentration]</a>"
 topic: 
 first_letter: C
 xref: 

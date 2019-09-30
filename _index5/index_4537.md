@@ -3,7 +3,7 @@ pid: index_4537
 volume: Volume 3
 image_number: '52'
 head: to whisper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_163/'>876 [to Whisper]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_163/'>876 [to Whisper]</a>"
 topic: 
 first_letter: W
 xref: 

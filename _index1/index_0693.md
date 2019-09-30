@@ -3,7 +3,7 @@ pid: index_0693
 volume: Volume 3
 image_number: '13'
 head: clerk
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>260 [Scribe]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>260 [Scribe]</a>"
 topic: 
 first_letter: C
 xref: 

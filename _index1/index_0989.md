@@ -3,8 +3,8 @@ pid: index_0989
 volume: Volume 3
 image_number: '16'
 head: defence
-entry: "<a href='/New_Beehive/alpha1/alpha_0216/'>a</a>|739 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_337/'>1722
-  [to Defend]</a>|<a href='/New_Beehive/toc_vol2/toc2_424/'>4465 [Defence]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0216/'>a</a>|739 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_337/'>1722
+  [to Defend]</a>|<a href='/New_Beehive/toc/toc2_424/'>4465 [Defence]</a>"
 topic: 
 first_letter: D
 xref: 

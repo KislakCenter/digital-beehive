@@ -6,7 +6,7 @@ head:
 entry: Maimed
 topic: Maimed
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0851/'>Servant</a>|<a href='/New_Beehive/alpha5/alpha_1052/'>Wound</a>"
+xref: "<a href='/New_Beehive/alpha5/alpha_1052/'>Wound</a>"
 see: 
 page: 
 add: 

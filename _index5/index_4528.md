@@ -3,7 +3,7 @@ pid: index_4528
 volume: Volume 3
 image_number: '52'
 head: whelp
-entry: "<a href='/New_Beehive/toc_vol2/toc2_206/'>1061 [The young or little ones]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_206/'>1061 [The young or little ones]</a>"
 topic: 
 first_letter: W
 xref: 

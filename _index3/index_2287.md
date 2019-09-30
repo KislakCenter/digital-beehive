@@ -3,7 +3,7 @@ pid: index_2287
 volume: Volume 3
 image_number: '28'
 head: light nicknamed
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>40 [Light]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>40 [Light]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,7 +3,7 @@ pid: index_2501
 volume: Volume 3
 image_number: '30'
 head: metaphor
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>265 [Metaphor or figurative Speech]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>265 [Metaphor or figurative Speech]</a>"
 topic: 
 first_letter: M
 xref: 

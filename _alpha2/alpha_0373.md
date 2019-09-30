@@ -6,7 +6,7 @@ head:
 entry: Gospel
 topic: Gospel
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_0938/'>New Testament</a>|<a href='/New_Beehive/toc_vol2/toc2_180/'>967
+xref: "<a href='/New_Beehive/alpha5/alpha_0938/'>New Testament</a>|<a href='/New_Beehive/toc/toc2_180/'>967
   [Gospel]</a>"
 see: 
 page: 

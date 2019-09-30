@@ -6,7 +6,7 @@ head:
 entry: Idolatry
 topic: Idolatry
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0454/'>Images</a>|<a href='/New_Beehive/toc_vol2/toc2_139/'>610
+xref: "<a href='/New_Beehive/alpha3/alpha_0454/'>Images</a>|<a href='/New_Beehive/toc/toc2_139/'>610
   [Idolatry]</a>"
 see: 
 page: 

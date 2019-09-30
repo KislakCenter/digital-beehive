@@ -3,8 +3,8 @@ pid: index_3350
 volume: Volume 3
 image_number: '39'
 head: religion
-entry: "<a href='/New_Beehive/alpha4/alpha_0780/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>226
-  [Religion]</a>|<a href='/New_Beehive/toc_vol2/toc2_347/'>1809 [Religion]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0780/'>a</a>|<a href='/New_Beehive/toc/toc2_081/'>226
+  [Religion]</a>|<a href='/New_Beehive/toc/toc2_347/'>1809 [Religion]</a>"
 topic: 
 first_letter: R
 xref: 

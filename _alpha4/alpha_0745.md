@@ -6,7 +6,7 @@ head:
 entry: Prophet
 topic: Prophet
 first_letter: P
-xref: "<a href='/New_Beehive/toc_vol2/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc_vol2/toc2_185/'>1000
+xref: "<a href='/New_Beehive/toc/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc/toc2_185/'>1000
   [Prophets]</a>"
 see: 
 page: 

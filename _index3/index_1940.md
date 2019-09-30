@@ -3,7 +3,7 @@ pid: index_1940
 volume: Volume 3
 image_number: '25'
 head: jester
-entry: "<a href='/New_Beehive/toc_vol2/toc2_281/'>1436 [Buffoons]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_281/'>1436 [Buffoons]</a>"
 topic: 
 first_letter: I/J
 xref: 

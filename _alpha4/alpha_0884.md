@@ -8,7 +8,7 @@ topic: Solitude
 first_letter: S
 xref: "<a href='/New_Beehive/alpha4/alpha_0731/'>Privacy</a>|<a href='/New_Beehive/alpha1/alpha_0161/'>Company</a>|<a
   href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/New_Beehive/alpha4/alpha_0729/'>Prison</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_160/'>722 [Solitude]</a>"
+  href='/New_Beehive/toc/toc2_160/'>722 [Solitude]</a>"
 see: 
 page: 
 add: 

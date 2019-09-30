@@ -7,7 +7,7 @@ entry: Strife
 topic: Strife
 first_letter: S
 xref: "<a href='/New_Beehive/alpha1/alpha_0244/'>disputation</a>|<a href='/New_Beehive/alpha1/alpha_0239/'>discord</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_099/'>352 [Strife]</a>"
+  href='/New_Beehive/toc/toc2_099/'>352 [Strife]</a>"
 see: 
 page: 
 add: 

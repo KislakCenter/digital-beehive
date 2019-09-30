@@ -3,7 +3,7 @@ pid: index_1005
 volume: Volume 3
 image_number: '16'
 head: demand
-entry: "<a href='/New_Beehive/toc_vol2/toc2_238/'>1225 [To Demand]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_238/'>1225 [To Demand]</a>"
 topic: 
 first_letter: D
 xref: 

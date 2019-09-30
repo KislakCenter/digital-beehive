@@ -6,8 +6,7 @@ head:
 entry: Strange
 topic: Strange
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_250/'>1284 [Whetstone]</a>|"
+xref: 4519 [PAGE_MISSING]
 see: 
 page: 
 add: 

@@ -3,9 +3,9 @@ pid: index_0802
 volume: Volume 3
 image_number: '14'
 head: conscience
-entry: "<a href='/New_Beehive/alpha1/alpha_0169/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_071/'>141
-  [Conscience]</a>|<a href='/New_Beehive/toc_vol2/toc2_071/'>142 [Civil Conscience]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_210/'>1085 [Conscience]</a>|<a href='/New_Beehive/toc_vol2/toc2_359/'>1958
+entry: "<a href='/New_Beehive/alpha1/alpha_0169/'>a</a>|<a href='/New_Beehive/toc/toc2_071/'>141
+  [Conscience]</a>|<a href='/New_Beehive/toc/toc2_071/'>142 [Civil Conscience]</a>|<a
+  href='/New_Beehive/toc/toc2_210/'>1085 [Conscience]</a>|<a href='/New_Beehive/toc/toc2_359/'>1958
   [Conscience]</a>"
 topic: 
 first_letter: C

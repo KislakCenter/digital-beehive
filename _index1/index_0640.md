@@ -3,7 +3,7 @@ pid: index_0640
 volume: Volume 3
 image_number: '12'
 head: chirurgeons
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>917 [Surgery]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>917 [Surgery]</a>"
 topic: 
 first_letter: C
 xref: 

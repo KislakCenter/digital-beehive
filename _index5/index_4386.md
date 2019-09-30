@@ -3,7 +3,7 @@ pid: index_4386
 volume: Volume 3
 image_number: '50'
 head: Uniformity
-entry: "<a href='/New_Beehive/toc_vol2/toc2_119/'>492 [forced Uniformity]</a>|<a href='/New_Beehive/toc_vol2/toc2_417/'>2413
+entry: "<a href='/New_Beehive/toc/toc2_119/'>492 [forced Uniformity]</a>|<a href='/New_Beehive/toc/toc2_417/'>2413
   [forced Uniformity]</a>"
 topic: 
 first_letter: U/V

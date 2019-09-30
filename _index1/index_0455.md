@@ -3,7 +3,7 @@ pid: index_0455
 volume: Volume 3
 image_number: '11'
 head: bridewell
-entry: "<a href='/New_Beehive/toc_vol2/toc2_249/'>1279 [Bridewell]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
 topic: 
 first_letter: B
 xref: 

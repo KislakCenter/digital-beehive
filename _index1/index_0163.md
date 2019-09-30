@@ -3,7 +3,7 @@ pid: index_0163
 volume: Volume 3
 image_number: '8'
 head: antropomorphism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>39 [Muggletonians]</a>|<a href='/New_Beehive/toc_vol2/toc2_204/'>1054
+entry: "<a href='/New_Beehive/toc/toc2_060/'>39 [Muggletonians]</a>|<a href='/New_Beehive/toc/toc2_204/'>1054
   [Muggletonians]</a>"
 topic: 
 first_letter: A

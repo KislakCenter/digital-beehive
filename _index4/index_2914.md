@@ -3,7 +3,7 @@ pid: index_2914
 volume: Volume 3
 image_number: '34'
 head: pasture
-entry: "<a href='/New_Beehive/toc_vol2/toc2_163/'>878 [Pasture]</a>|<a href='/New_Beehive/toc_vol2/toc2_381/'>2151
+entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Pasture]</a>|<a href='/New_Beehive/toc/toc2_381/'>2151
   [Grass & Pasture]</a>"
 topic: 
 first_letter: P

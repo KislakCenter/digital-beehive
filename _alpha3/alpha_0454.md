@@ -6,7 +6,7 @@ head:
 entry: Images
 topic: Images
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0444/'>Idolatry</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>955
+xref: "<a href='/New_Beehive/alpha3/alpha_0444/'>Idolatry</a>|<a href='/New_Beehive/toc/toc2_178/'>955
   [Images]</a>"
 see: 
 page: 

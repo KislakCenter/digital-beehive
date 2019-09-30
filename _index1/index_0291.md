@@ -3,7 +3,7 @@ pid: index_0291
 volume: Volume 3
 image_number: '9'
 head: barbarism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>537 [Welch Tongues]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Welch Tongues]</a>"
 topic: 
 first_letter: B
 xref: 

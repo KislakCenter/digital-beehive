@@ -3,7 +3,7 @@ pid: index_3435
 volume: Volume 3
 image_number: '40'
 head: to rise
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>912 [Ripeness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [Ripeness]</a>"
 topic: 
 first_letter: R
 xref: 

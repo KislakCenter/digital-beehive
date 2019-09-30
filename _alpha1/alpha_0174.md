@@ -7,7 +7,7 @@ entry: Contentment
 topic: Contentment|Contentedness
 first_letter: C
 xref: "<a href='/New_Beehive/alpha1/alpha_0238/'>Discont</a>|<a href='/New_Beehive/alpha2/alpha_0288/'>Equanimity</a>|Easy
-  in Living|<a href='/New_Beehive/alpha4/alpha_0789/'>Resignation</a>|<a href='/New_Beehive/toc_vol2/toc2_092/'>302
+  in Living|<a href='/New_Beehive/alpha4/alpha_0789/'>Resignation</a>|<a href='/New_Beehive/toc/toc2_092/'>302
   [Contentment]</a>"
 see: 
 page: 

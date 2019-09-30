@@ -7,7 +7,7 @@ entry: Diligence
 topic: Diligence
 first_letter: D
 xref: "<a href='/New_Beehive/alpha3/alpha_0504/'>Labour</a>|<a href='/New_Beehive/alpha3/alpha_0521/'>Laziness</a>|Watchfulness|<a
-  href='/New_Beehive/toc_vol2/toc2_172/'>924 [Diligence]</a>"
+  href='/New_Beehive/toc/toc2_172/'>924 [Diligence]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3612
 volume: Volume 3
 image_number: '42'
 head: Self deceit
-entry: "<a href='/New_Beehive/toc_vol2/toc2_269/'>1380 [Self-deceit]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_269/'>1380 [Self-deceit]</a>"
 topic: 
 first_letter: S
 xref: 

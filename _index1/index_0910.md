@@ -3,7 +3,7 @@ pid: index_0910
 volume: Volume 3
 image_number: '15'
 head: criticism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_320/'>1627 [Criticism]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_320/'>1627 [Criticism]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -3,7 +3,7 @@ pid: index_0202
 volume: Volume 3
 image_number: '8'
 head: aristoenetus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4805 [Aristoenetus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4805 [Aristoenetus]</a>"
 topic: 
 first_letter: A
 xref: 

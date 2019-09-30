@@ -3,7 +3,7 @@ pid: index_0139
 volume: Volume 3
 image_number: '8'
 head: anchor
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>551 [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>551 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: A
 xref: 

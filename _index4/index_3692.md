@@ -3,7 +3,7 @@ pid: index_3692
 volume: Volume 3
 image_number: '42'
 head: to shun
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>719 [To Avoid]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>719 [To Avoid]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -7,7 +7,7 @@ entry: Coward
 topic: Coward
 first_letter: C
 xref: "<a href='/New_Beehive/alpha2/alpha_0319/'>fear</a>|<a href='/New_Beehive/alpha2/alpha_0306/'>fainthearted</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_372/'>2066 [Cowardly]</a>"
+  href='/New_Beehive/toc/toc2_372/'>2066 [Cowardly]</a>"
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_1502
 volume: Volume 3
 image_number: '21'
 head: force
-entry: "<a href='/New_Beehive/alpha2/alpha_0339/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_203/'>1049
+entry: "<a href='/New_Beehive/alpha2/alpha_0339/'>a</a>|<a href='/New_Beehive/toc/toc2_203/'>1049
   [Compulsion in Matters of Religion]</a>"
 topic: 
 first_letter: F

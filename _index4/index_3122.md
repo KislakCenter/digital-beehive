@@ -3,9 +3,8 @@ pid: index_3122
 volume: Volume 3
 image_number: '36'
 head: preface
-entry: "<a href='/New_Beehive/toc_vol2/toc2_141/'>621 [prefatory]</a>|<a href='/New_Beehive/toc_vol2/toc2_101/'>366
-  [Preface]</a>|<a href='/New_Beehive/toc_vol2/toc2_306/'>1558 [Preface]</a>|4600
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_141/'>621 [prefatory]</a>|<a href='/New_Beehive/toc/toc2_101/'>366
+  [Preface]</a>|<a href='/New_Beehive/toc/toc2_306/'>1558 [Preface]</a>|4600 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 

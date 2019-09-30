@@ -3,7 +3,7 @@ pid: index_1258
 volume: Volume 3
 image_number: '18'
 head: English Church government
-entry: "<a href='/New_Beehive/toc_vol2/toc2_429/'>4792 [Rule of faith & life]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_429/'>4792 [Rule of faith & life]</a>"
 topic: 
 first_letter: E
 xref: 

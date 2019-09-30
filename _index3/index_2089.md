@@ -3,7 +3,7 @@ pid: index_2089
 volume: Volume 3
 image_number: '26'
 head: invalid
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1788 [Invalidity]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1788 [Invalidity]</a>"
 topic: 
 first_letter: I/J
 xref: 

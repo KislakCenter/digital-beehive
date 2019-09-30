@@ -3,7 +3,7 @@ pid: index_3746
 volume: Volume 3
 image_number: '43'
 head: slaughter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>235 [Battel]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>235 [Battel]</a>"
 topic: 
 first_letter: S
 xref: 

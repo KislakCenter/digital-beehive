@@ -3,7 +3,7 @@ pid: index_1952
 volume: Volume 3
 image_number: '25'
 head: iliack passion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_222/'>1144 [Iliack passion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_222/'>1144 [Iliack passion]</a>"
 topic: 
 first_letter: I/J
 xref: 

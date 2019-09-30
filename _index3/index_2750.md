@@ -3,7 +3,7 @@ pid: index_2750
 volume: Volume 3
 image_number: '33'
 head: nurse
-entry: "<a href='/New_Beehive/toc_vol2/toc2_313/'>1593 [Nurse]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_313/'>1593 [Nurse]</a>"
 topic: 
 first_letter: N
 xref: 

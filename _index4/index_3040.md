@@ -3,7 +3,7 @@ pid: index_3040
 volume: Volume 3
 image_number: '36'
 head: plausible
-entry: "<a href='/New_Beehive/toc_vol2/toc2_066/'>94 [a Plausible man]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_066/'>94 [a Plausible man]</a>"
 topic: 
 first_letter: P
 xref: 

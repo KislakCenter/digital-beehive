@@ -3,8 +3,8 @@ pid: index_1868
 volume: Volume 3
 image_number: '24'
 head: hope
-entry: "<a href='/New_Beehive/alpha2/alpha_0428/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_219/'>1126
-  [Hope]</a>|<a href='/New_Beehive/toc_vol2/toc2_367/'>2015 [Hope]</a>|<a href='/New_Beehive/toc_vol2/toc2_415/'>2399
+entry: "<a href='/New_Beehive/alpha2/alpha_0428/'>a</a>|<a href='/New_Beehive/toc/toc2_219/'>1126
+  [Hope]</a>|<a href='/New_Beehive/toc/toc2_367/'>2015 [Hope]</a>|<a href='/New_Beehive/toc/toc2_415/'>2399
   [Hope]</a>"
 topic: 
 first_letter: H

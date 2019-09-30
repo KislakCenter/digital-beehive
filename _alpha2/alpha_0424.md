@@ -6,7 +6,7 @@ head:
 entry: Home
 topic: Home
 first_letter: H
-xref: Pilgrimage|<a href='/New_Beehive/toc_vol2/toc2_283/'>1446 [Dwell]</a>|<a href='/New_Beehive/alpha1/alpha_0184/'>native
+xref: Pilgrimage|<a href='/New_Beehive/toc/toc2_283/'>1446 [Dwell]</a>|<a href='/New_Beehive/alpha1/alpha_0184/'>native
   Country</a>
 see: 
 page: 

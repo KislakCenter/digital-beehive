@@ -3,7 +3,7 @@ pid: index_0158
 volume: Volume 3
 image_number: '8'
 head: antimonium
-entry: "<a href='/New_Beehive/toc_vol2/toc2_171/'>917 [Antimonium]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_171/'>917 [Antimonium]</a>"
 topic: 
 first_letter: A
 xref: 

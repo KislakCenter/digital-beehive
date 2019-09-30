@@ -3,7 +3,7 @@ pid: index_1013
 volume: Volume 3
 image_number: '16'
 head: deposition
-entry: "<a href='/New_Beehive/alpha1/alpha_0224/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_348/'>1816
+entry: "<a href='/New_Beehive/alpha1/alpha_0224/'>a</a>|<a href='/New_Beehive/toc/toc2_348/'>1816
   [Degradation]</a>"
 topic: 
 first_letter: D

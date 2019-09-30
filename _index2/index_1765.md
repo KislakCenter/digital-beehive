@@ -3,7 +3,7 @@ pid: index_1765
 volume: Volume 3
 image_number: '23'
 head: haste
-entry: "<a href='/New_Beehive/alpha2/alpha_0398/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_165/'>886
+entry: "<a href='/New_Beehive/alpha2/alpha_0398/'>a</a>|<a href='/New_Beehive/toc/toc2_165/'>886
   [Haste]</a>"
 topic: 
 first_letter: H

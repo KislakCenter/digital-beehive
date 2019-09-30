@@ -7,7 +7,7 @@ entry: Trade
 topic: Trade
 first_letter: T
 xref: "<a href='/New_Beehive/alpha3/alpha_0540/'>Livelyhood</a>|Shopkeeper|Butcher|<a
-  href='/New_Beehive/toc_vol2/toc2_143/'>634 [Trade]</a>"
+  href='/New_Beehive/toc/toc2_143/'>634 [Trade]</a>"
 see: 
 page: 
 add: 

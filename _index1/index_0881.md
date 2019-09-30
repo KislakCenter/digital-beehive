@@ -3,7 +3,7 @@ pid: index_0881
 volume: Volume 3
 image_number: '15'
 head: courage
-entry: "<a href='/New_Beehive/alpha1/alpha_0185/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_222/'>1143
+entry: "<a href='/New_Beehive/alpha1/alpha_0185/'>a</a>|<a href='/New_Beehive/toc/toc2_222/'>1143
   [Courage]</a>"
 topic: 
 first_letter: C

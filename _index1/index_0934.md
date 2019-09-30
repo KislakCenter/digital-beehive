@@ -3,7 +3,7 @@ pid: index_0934
 volume: Volume 3
 image_number: '15'
 head: customers
-entry: "<a href='/New_Beehive/toc_vol2/toc2_321/'>1632 [To Buy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_321/'>1632 [To Buy]</a>"
 topic: 
 first_letter: C
 xref: 

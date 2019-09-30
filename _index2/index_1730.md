@@ -3,7 +3,7 @@ pid: index_1730
 volume: Volume 3
 image_number: '23'
 head: guilt
-entry: "<a href='/New_Beehive/alpha2/alpha_0389/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_318/'>1620
+entry: "<a href='/New_Beehive/alpha2/alpha_0389/'>a</a>|<a href='/New_Beehive/toc/toc2_318/'>1620
   [Guilt]</a>"
 topic: 
 first_letter: G

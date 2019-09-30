@@ -3,9 +3,9 @@ pid: index_2222
 volume: Volume 3
 image_number: '27'
 head: Law
-entry: "<a href='/New_Beehive/alpha3/alpha_0519/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_184/'>991
-  [Law]</a>|<a href='/New_Beehive/toc_vol2/toc2_335/'>1707 [Law inwardly engraven]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_362/'>1972 [Laws]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0519/'>a</a>|<a href='/New_Beehive/toc/toc2_184/'>991
+  [Law]</a>|<a href='/New_Beehive/toc/toc2_335/'>1707 [Law inwardly engraven]</a>|<a
+  href='/New_Beehive/toc/toc2_362/'>1972 [Laws]</a>"
 topic: 
 first_letter: L
 xref: 

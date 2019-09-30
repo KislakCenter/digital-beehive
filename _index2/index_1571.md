@@ -3,7 +3,7 @@ pid: index_1571
 volume: Volume 3
 image_number: '21'
 head: future
-entry: "<a href='/New_Beehive/alpha2/alpha_0353/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_278/'>1421
+entry: "<a href='/New_Beehive/alpha2/alpha_0353/'>a</a>|<a href='/New_Beehive/toc/toc2_278/'>1421
   [Future]</a>"
 topic: 
 first_letter: F

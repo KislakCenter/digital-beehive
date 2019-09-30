@@ -3,7 +3,7 @@ pid: index_4564
 volume: Volume 3
 image_number: '53'
 head: wink
-entry: "<a href='/New_Beehive/toc_vol2/toc2_433/'>4822 [a Winking]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_433/'>4822 [a Winking]</a>"
 topic: 
 first_letter: W
 xref: 

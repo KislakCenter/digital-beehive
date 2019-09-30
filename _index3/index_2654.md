@@ -3,7 +3,7 @@ pid: index_2654
 volume: Volume 3
 image_number: '32'
 head: natural man
-entry: "<a href='/New_Beehive/toc_vol2/toc2_061/'>50 [Natural man]</a>|<a href='/New_Beehive/toc_vol2/toc2_373/'>2080
+entry: "<a href='/New_Beehive/toc/toc2_061/'>50 [Natural man]</a>|<a href='/New_Beehive/toc/toc2_373/'>2080
   [Natural man]</a>"
 topic: 
 first_letter: N

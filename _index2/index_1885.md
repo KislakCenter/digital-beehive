@@ -3,7 +3,7 @@ pid: index_1885
 volume: Volume 3
 image_number: '24'
 head: hotchpotch
-entry: "<a href='/New_Beehive/alpha2/alpha_0433/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_202/'>1043
+entry: "<a href='/New_Beehive/alpha2/alpha_0433/'>a</a>|<a href='/New_Beehive/toc/toc2_202/'>1043
   [Hotch-potch]</a>"
 topic: 
 first_letter: H

@@ -6,7 +6,7 @@ head:
 entry: Metal
 topic: Metal
 first_letter: M
-xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1164
+xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc/toc2_226/'>1164
   [Metal]</a>
 see: 
 page: 

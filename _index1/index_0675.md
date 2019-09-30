@@ -3,7 +3,7 @@ pid: index_0675
 volume: Volume 3
 image_number: '13'
 head: cisterns
-entry: "<a href='/New_Beehive/toc_vol2/toc2_374/'>2081 [Cisterns]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_374/'>2081 [Cisterns]</a>"
 topic: 
 first_letter: C
 xref: 

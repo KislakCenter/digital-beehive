@@ -3,7 +3,7 @@ pid: index_3013
 volume: Volume 3
 image_number: '35'
 head: pimples
-entry: "<a href='/New_Beehive/toc_vol2/toc2_230/'>1183 [Pimples]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_230/'>1183 [Pimples]</a>"
 topic: 
 first_letter: P
 xref: 

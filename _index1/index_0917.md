@@ -3,7 +3,7 @@ pid: index_0917
 volume: Volume 3
 image_number: '15'
 head: crucifixes
-entry: "<a href='/New_Beehive/toc_vol2/toc2_075/'>184 [Crucifixes]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_075/'>184 [Crucifixes]</a>"
 topic: 
 first_letter: C
 xref: 

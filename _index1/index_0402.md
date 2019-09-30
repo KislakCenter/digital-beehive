@@ -3,7 +3,7 @@ pid: index_0402
 volume: Volume 3
 image_number: '10'
 head: body of Christ
-entry: "<a href='/New_Beehive/toc_vol2/toc2_134/'>583 [Body]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_134/'>583 [Body]</a>"
 topic: 
 first_letter: B
 xref: 

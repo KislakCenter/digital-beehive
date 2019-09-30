@@ -3,7 +3,7 @@ pid: index_3923
 volume: Volume 3
 image_number: '45'
 head: to Strain liquor
-entry: "<a href='/New_Beehive/toc_vol2/toc2_229/'>1177 [to Strain liquor]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_229/'>1177 [to Strain liquor]</a>"
 topic: 
 first_letter: S
 xref: 

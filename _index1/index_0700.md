@@ -3,7 +3,7 @@ pid: index_0700
 volume: Volume 3
 image_number: '13'
 head: close
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>371 [Leak or leakage]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>371 [Leak or leakage]</a>"
 topic: 
 first_letter: C
 xref: 

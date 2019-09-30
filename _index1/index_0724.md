@@ -3,7 +3,7 @@ pid: index_0724
 volume: Volume 3
 image_number: '13'
 head: collusion
-entry: "<a href='/New_Beehive/toc_vol2/toc2_105/'>398 [Prevarication]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_105/'>398 [Prevarication]</a>"
 topic: 
 first_letter: C
 xref: 

@@ -3,9 +3,8 @@ pid: index_2605
 volume: Volume 3
 image_number: '31'
 head: mourning
-entry: "<a href='/New_Beehive/alpha3/alpha_0610/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1181
-  [Mourning]</a>|<a href='/New_Beehive/toc_vol2/toc2_336/'>1713 [Mourning]</a>|4731
-  [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0610/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1181
+  [Mourning]</a>|<a href='/New_Beehive/toc/toc2_336/'>1713 [Mourning]</a>|4731 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 

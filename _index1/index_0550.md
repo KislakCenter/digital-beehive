@@ -3,7 +3,7 @@ pid: index_0550
 volume: Volume 3
 image_number: '12'
 head: carrots
-entry: "<a href='/New_Beehive/toc_vol2/toc2_151/'>676 [Carrots]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_151/'>676 [Carrots]</a>"
 topic: 
 first_letter: C
 xref: 

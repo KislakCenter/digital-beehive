@@ -3,7 +3,7 @@ pid: index_0362
 volume: Volume 3
 image_number: '10'
 head: best
-entry: 732 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_373/'>2071 [Best]</a>
+entry: 732 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_373/'>2071 [Best]</a>
 topic: 
 first_letter: B
 xref: 

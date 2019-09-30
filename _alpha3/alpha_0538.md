@@ -6,8 +6,7 @@ head:
 entry: Lion
 topic: Lion
 first_letter: L
-xref: Probability|<a href='/New_Beehive/alpha4/alpha_0866/'>Similitude</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1088
-  [Lion]</a>
+xref: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Lion]</a>"
 see: 
 page: 
 add: 

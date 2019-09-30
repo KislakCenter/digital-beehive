@@ -3,7 +3,7 @@ pid: index_2676
 volume: Volume 3
 image_number: '32'
 head: needless
-entry: "<a href='/New_Beehive/toc_vol2/toc2_242/'>1245 [Superfluous or Needless]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_242/'>1245 [Superfluous or Needless]</a>"
 topic: 
 first_letter: N
 xref: 

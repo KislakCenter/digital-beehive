@@ -6,7 +6,7 @@ head:
 entry: Polygamy
 topic: Polygamy
 first_letter: P
-xref: Bigamy|<a href='/New_Beehive/toc_vol2/toc2_180/'>969 [Polygamy]</a>
+xref: Bigamy|<a href='/New_Beehive/toc/toc2_180/'>969 [Polygamy]</a>
 see: 
 page: 
 add: 

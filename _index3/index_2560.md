@@ -3,7 +3,7 @@ pid: index_2560
 volume: Volume 3
 image_number: '31'
 head: Molinos
-entry: "<a href='/New_Beehive/toc_vol2/toc2_175/'>939 [Quietists]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_175/'>939 [Quietists]</a>"
 topic: 
 first_letter: M
 xref: 

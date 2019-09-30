@@ -3,8 +3,8 @@ pid: index_3486
 volume: Volume 3
 image_number: '40'
 head: sadness
-entry: "<a href='/New_Beehive/alpha4/alpha_0815/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_230/'>1181
-  [Sadness]</a>|<a href='/New_Beehive/toc_vol2/toc2_382/'>2165 [Sorrow]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0815/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1181
+  [Sadness]</a>|<a href='/New_Beehive/toc/toc2_382/'>2165 [Sorrow]</a>"
 topic: 
 first_letter: S
 xref: 

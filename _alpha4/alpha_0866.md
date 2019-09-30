@@ -6,9 +6,9 @@ head:
 entry: Similitude
 topic: Similitude
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0537/'>Likelihood</a>|<a href='/New_Beehive/toc_vol2/toc2_085/'>256
-  [Allusions]</a>|comparison|<a href='/New_Beehive/toc_vol2/toc2_267/'>1370 [Parables
-  & Similitudes which Christ spake]</a>"
+xref: "<a href='/New_Beehive/alpha3/alpha_0537/'>Likelihood</a>|<a href='/New_Beehive/toc/toc2_085/'>256
+  [Allusions]</a>|comparison|<a href='/New_Beehive/toc/toc2_267/'>1370 [Parables &
+  Similitudes which Christ spake]</a>"
 see: 
 page: 
 add: 

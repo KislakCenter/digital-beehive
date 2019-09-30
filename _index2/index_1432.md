@@ -3,8 +3,8 @@ pid: index_1432
 volume: Volume 3
 image_number: '20'
 head: fencing
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>698 [the art of Fencing]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_272/'>1391 [Fencing]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>698 [the art of Fencing]</a>|<a href='/New_Beehive/toc/toc2_272/'>1391
+  [Fencing]</a>"
 topic: 
 first_letter: F
 xref: 

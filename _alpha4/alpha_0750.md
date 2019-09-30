@@ -6,7 +6,7 @@ head:
 entry: Prudence
 topic: Prudence
 first_letter: P
-xref: "<a href='/New_Beehive/alpha5/alpha_1030/'>Wisdom</a>|Wit|<a href='/New_Beehive/toc_vol2/toc2_359/'>1954
+xref: "<a href='/New_Beehive/alpha5/alpha_1030/'>Wisdom</a>|Wit|<a href='/New_Beehive/toc/toc2_359/'>1954
   [Prudence]</a>"
 see: 
 page: 

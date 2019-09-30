@@ -6,7 +6,7 @@ head:
 entry: Experience
 topic: Experience
 first_letter: E
-xref: "<a href='/New_Beehive/alpha4/alpha_0874/'>Skill</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1345
+xref: "<a href='/New_Beehive/alpha4/alpha_0874/'>Skill</a>|<a href='/New_Beehive/toc/toc2_262/'>1345
   [Experience]</a>"
 see: 
 page: 

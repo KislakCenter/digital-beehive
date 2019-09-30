@@ -3,7 +3,7 @@ pid: index_1312
 volume: Volume 3
 image_number: '19'
 head: etymology
-entry: "<a href='/New_Beehive/toc_vol2/toc2_085/'>256 [Allusions]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_085/'>256 [Allusions]</a>"
 topic: 
 first_letter: E
 xref: 

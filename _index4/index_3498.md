@@ -3,7 +3,7 @@ pid: index_3498
 volume: Volume 3
 image_number: '40'
 head: salamander
-entry: "<a href='/New_Beehive/toc_vol2/toc2_242/'>1245 [Salamander]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_242/'>1245 [Salamander]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,9 +3,9 @@ pid: index_4387
 volume: Volume 3
 image_number: '50'
 head: union with God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>36 [God with & in men]</a>|<a href='/New_Beehive/toc_vol2/toc2_175/'>937
-  [Union with God]</a>|<a href='/New_Beehive/toc_vol2/toc2_368/'>2026 [Conformity]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_413/'>2389 [Union with God]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_060/'>36 [God with & in men]</a>|<a href='/New_Beehive/toc/toc2_175/'>937
+  [Union with God]</a>|<a href='/New_Beehive/toc/toc2_368/'>2026 [Conformity]</a>|<a
+  href='/New_Beehive/toc/toc2_413/'>2389 [Union with God]</a>"
 topic: 
 first_letter: U/V
 xref: 

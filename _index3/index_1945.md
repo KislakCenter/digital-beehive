@@ -3,7 +3,7 @@ pid: index_1945
 volume: Volume 3
 image_number: '25'
 head: Jewel
-entry: "<a href='/New_Beehive/alpha3/alpha_0450/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_326/'>1657
+entry: "<a href='/New_Beehive/alpha3/alpha_0450/'>a</a>|<a href='/New_Beehive/toc/toc2_326/'>1657
   [Jewel]</a>"
 topic: 
 first_letter: I/J

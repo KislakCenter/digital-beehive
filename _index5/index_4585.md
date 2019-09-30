@@ -3,8 +3,8 @@ pid: index_4585
 volume: Volume 3
 image_number: '53'
 head: to woe
-entry: "<a href='/New_Beehive/toc_vol2/toc2_170/'>912 [To Wooe]</a>|<a href='/New_Beehive/toc_vol2/toc2_271/'>1389
-  [of Courting women]</a>|<a href='/New_Beehive/toc_vol2/toc2_317/'>1614 [Courting]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [To Wooe]</a>|<a href='/New_Beehive/toc/toc2_271/'>1389
+  [of Courting women]</a>|<a href='/New_Beehive/toc/toc2_317/'>1614 [Courting]</a>"
 topic: 
 first_letter: W
 xref: 

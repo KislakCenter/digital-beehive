@@ -3,7 +3,7 @@ pid: index_2034
 volume: Volume 3
 image_number: '26'
 head: infinite
-entry: "<a href='/New_Beehive/toc_vol2/toc2_106/'>406 [Infinitness]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_106/'>406 [Infinitness]</a>"
 topic: 
 first_letter: I/J
 xref: 

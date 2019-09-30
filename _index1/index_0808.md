@@ -3,7 +3,7 @@ pid: index_0808
 volume: Volume 3
 image_number: '14'
 head: conserve
-entry: "<a href='/New_Beehive/toc_vol2/toc2_155/'>700 [To Conserve]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [To Conserve]</a>"
 topic: 
 first_letter: C
 xref: 

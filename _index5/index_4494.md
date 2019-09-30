@@ -3,7 +3,7 @@ pid: index_4494
 volume: Volume 3
 image_number: '52'
 head: waves
-entry: "<a href='/New_Beehive/toc_vol2/toc2_101/'>370 [Storm]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_101/'>370 [Storm]</a>"
 topic: 
 first_letter: W
 xref: 

@@ -6,11 +6,7 @@ head:
 entry: Soft
 topic: Soft
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/toc_vol2/toc2_211/'>1089
-  [Slow-footed]</a>|<a href='/New_Beehive/toc_vol2/toc2_315/'>1603 [Smell]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_243/'>1250 [Serpent]</a>|<a href='/New_Beehive/toc_vol2/toc2_329/'>1672
-  [Snow]</a>|<a href='/New_Beehive/toc_vol2/toc2_138/'>603 [Flacid]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_138/'>603 [Flacid]</a>"
 see: 
 page: 
 add: 

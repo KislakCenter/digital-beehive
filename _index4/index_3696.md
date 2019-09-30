@@ -3,9 +3,9 @@ pid: index_3696
 volume: Volume 3
 image_number: '42'
 head: sickness
-entry: "<a href='/New_Beehive/alpha4/alpha_0862/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_251/'>1287
-  [Distemper]</a>|<a href='/New_Beehive/toc_vol2/toc2_320/'>1626 [Distemper]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_425/'>4469 [Sickness]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0862/'>a</a>|<a href='/New_Beehive/toc/toc2_251/'>1287
+  [Distemper]</a>|<a href='/New_Beehive/toc/toc2_320/'>1626 [Distemper]</a>|<a href='/New_Beehive/toc/toc2_425/'>4469
+  [Sickness]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -6,7 +6,7 @@ head:
 entry: Fault
 topic: Fault
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0291/'>Error</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>956
+xref: "<a href='/New_Beehive/alpha2/alpha_0291/'>Error</a>|<a href='/New_Beehive/toc/toc2_178/'>956
   [Failings of good men]</a>"
 see: 
 page: 

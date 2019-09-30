@@ -3,7 +3,7 @@ pid: index_0704
 volume: Volume 3
 image_number: '13'
 head: clown
-entry: "<a href='/New_Beehive/toc_vol2/toc2_149/'>668 [Peasant]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_149/'>668 [Peasant]</a>"
 topic: 
 first_letter: C
 xref: 

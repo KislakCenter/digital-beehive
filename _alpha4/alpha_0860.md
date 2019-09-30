@@ -6,9 +6,7 @@ head:
 entry: Shoe
 topic: Shoe
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|face|form|<a
-  href='/New_Beehive/alpha5/alpha_0961/'>Tortoise</a>|<a href='/New_Beehive/toc_vol2/toc2_287/'>1469
-  [Shoe]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_287/'>1469 [Shoe]</a>"
 see: 
 page: 
 add: 

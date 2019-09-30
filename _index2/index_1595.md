@@ -3,7 +3,7 @@ pid: index_1595
 volume: Volume 3
 image_number: '22'
 head: Geneva
-entry: "<a href='/New_Beehive/toc_vol2/toc2_268/'>1373 [Geneva]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_268/'>1373 [Geneva]</a>"
 topic: 
 first_letter: G
 xref: 

@@ -3,7 +3,7 @@ pid: index_1226
 volume: Volume 3
 image_number: '18'
 head: elixir
-entry: "<a href='/New_Beehive/toc_vol2/toc2_314/'>1596 [Quintessence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_314/'>1596 [Quintessence]</a>"
 topic: 
 first_letter: E
 xref: 

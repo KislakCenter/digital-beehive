@@ -3,7 +3,7 @@ pid: index_3703
 volume: Volume 3
 image_number: '43'
 head: sigils
-entry: "<a href='/New_Beehive/toc_vol2/toc2_250/'>1284 [Original Sin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_250/'>1284 [Original Sin]</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,9 +3,9 @@ pid: index_4254
 volume: Volume 3
 image_number: '48'
 head: trusting in the Lord
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>67 [Trusting in the Lord]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_328/'>1666 [Trusting in the Lord]</a>|<a href='/New_Beehive/toc_vol2/toc2_423/'>4453
-  [Trusting in the Lord]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_063/'>67 [Trusting in the Lord]</a>|<a href='/New_Beehive/toc/toc2_328/'>1666
+  [Trusting in the Lord]</a>|<a href='/New_Beehive/toc/toc2_423/'>4453 [Trusting in
+  the Lord]</a>"
 topic: 
 first_letter: T
 xref: 

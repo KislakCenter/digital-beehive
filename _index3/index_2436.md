@@ -3,8 +3,8 @@ pid: index_2436
 volume: Volume 3
 image_number: '30'
 head: martyr
-entry: "<a href='/New_Beehive/alpha3/alpha_0570/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_104/'>387
-  [Martyrs]</a>|<a href='/New_Beehive/toc_vol2/toc2_226/'>1165 [Martyrs]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0570/'>a</a>|<a href='/New_Beehive/toc/toc2_104/'>387
+  [Martyrs]</a>|<a href='/New_Beehive/toc/toc2_226/'>1165 [Martyrs]</a>"
 topic: 
 first_letter: M
 xref: 

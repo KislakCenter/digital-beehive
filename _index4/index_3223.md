@@ -3,7 +3,7 @@ pid: index_3223
 volume: Volume 3
 image_number: '38'
 head: to pull
-entry: "<a href='/New_Beehive/toc_vol2/toc2_169/'>907 [To pull or pluck]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
 topic: 
 first_letter: P
 xref: 

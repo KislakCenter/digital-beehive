@@ -3,7 +3,7 @@ pid: index_3817
 volume: Volume 3
 image_number: '44'
 head: Andr. Sowle
-entry: "<a href='/New_Beehive/toc_vol2/toc2_363/'>1985 [Andrew Sowle]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_363/'>1985 [Andrew Sowle]</a>"
 topic: 
 first_letter: S
 xref: 

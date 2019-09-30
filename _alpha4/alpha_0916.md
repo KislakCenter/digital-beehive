@@ -6,8 +6,8 @@ head:
 entry: Suffering
 topic: Suffering
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0682/'>Passion</a>|<a href='/New_Beehive/toc_vol2/toc2_123/'>515
-  [horrid Cruelties, practiced by Papists upon Protestants]</a>|<a href='/New_Beehive/toc_vol2/toc2_120/'>498
+xref: "<a href='/New_Beehive/alpha4/alpha_0682/'>Passion</a>|<a href='/New_Beehive/toc/toc2_123/'>515
+  [horrid Cruelties, practiced by Papists upon Protestants]</a>|<a href='/New_Beehive/toc/toc2_120/'>498
   [Sufferings]</a>"
 see: 
 page: 

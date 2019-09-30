@@ -3,7 +3,7 @@ pid: index_2952
 volume: Volume 3
 image_number: '35'
 head: pepper
-entry: "<a href='/New_Beehive/toc_vol2/toc2_378/'>2121 [Pepper]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_378/'>2121 [Pepper]</a>"
 topic: 
 first_letter: P
 xref: 

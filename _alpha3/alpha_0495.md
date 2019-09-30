@@ -7,7 +7,7 @@ entry: Justice
 topic: Justice
 first_letter: I/J
 xref: "<a href='/New_Beehive/alpha2/alpha_0289/'>Equity</a>|<a href='/New_Beehive/alpha3/alpha_0475/'>Injust</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_267/'>1366 [Justice]</a>"
+  href='/New_Beehive/toc/toc2_267/'>1366 [Justice]</a>"
 see: 
 page: 
 add: 

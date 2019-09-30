@@ -3,7 +3,7 @@ pid: index_3391
 volume: Volume 3
 image_number: '39'
 head: rest & restless
-entry: "<a href='/New_Beehive/alpha4/alpha_0791/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_322/'>1638
+entry: "<a href='/New_Beehive/alpha4/alpha_0791/'>a</a>|<a href='/New_Beehive/toc/toc2_322/'>1638
   [Rest]</a>"
 topic: 
 first_letter: R

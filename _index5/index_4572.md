@@ -3,7 +3,7 @@ pid: index_4572
 volume: Volume 3
 image_number: '53'
 head: wit. witticism
-entry: "<a href='/New_Beehive/toc_vol2/toc2_093/'>313 [Wit]</a>|<a href='/New_Beehive/toc_vol2/toc2_413/'>2383
+entry: "<a href='/New_Beehive/toc/toc2_093/'>313 [Wit]</a>|<a href='/New_Beehive/toc/toc2_413/'>2383
   [Wit]</a>"
 topic: 
 first_letter: W

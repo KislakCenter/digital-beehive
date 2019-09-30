@@ -6,7 +6,7 @@ head:
 entry: Christianity
 topic: Christianity
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0895/'>Spiritual</a>|<a href='/New_Beehive/toc_vol2/toc2_080/'>216
+xref: "<a href='/New_Beehive/alpha4/alpha_0895/'>Spiritual</a>|<a href='/New_Beehive/toc/toc2_080/'>216
   [Christians]</a>"
 see: 
 page: 

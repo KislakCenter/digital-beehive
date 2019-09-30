@@ -3,7 +3,7 @@ pid: index_1091
 volume: Volume 3
 image_number: '17'
 head: dispensations of God
-entry: "<a href='/New_Beehive/toc_vol2/toc2_292/'>1493 [Dispensations]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_292/'>1493 [Dispensations]</a>"
 topic: 
 first_letter: D
 xref: 

@@ -3,7 +3,7 @@ pid: index_0763
 volume: Volume 3
 image_number: '14'
 head: complaint of the damned
-entry: "<a href='/New_Beehive/toc_vol2/toc2_357/'>1936 [Complaint of ye Damned]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_357/'>1936 [Complaint of ye Damned]</a>"
 topic: 
 first_letter: C
 xref: 

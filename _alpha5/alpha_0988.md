@@ -6,9 +6,7 @@ head:
 entry: Visit
 topic: Visit
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/New_Beehive/alpha1/alpha_0136/'>Chastity</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_366/'>2008 [Virgins]</a>|<a href='/New_Beehive/toc_vol2/toc2_249/'>1276
-  [Day of Visitation]</a>|<a href='/New_Beehive/toc_vol2/toc2_279/'>1429 [Visit]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_279/'>1429 [Visit]</a>"
 see: 
 page: 
 add: 

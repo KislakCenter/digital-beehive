@@ -6,7 +6,7 @@ head:
 entry: Farewell
 topic: Farewell
 first_letter: F
-xref: Departure|<a href='/New_Beehive/alpha1/alpha_0055/'>Banishmt</a>|<a href='/New_Beehive/toc_vol2/toc2_150/'>675
+xref: Departure|<a href='/New_Beehive/alpha1/alpha_0055/'>Banishmt</a>|<a href='/New_Beehive/toc/toc2_150/'>675
   [Farewell]</a>
 see: 
 page: 

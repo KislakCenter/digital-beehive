@@ -3,7 +3,7 @@ pid: index_3882
 volume: Volume 3
 image_number: '45'
 head: state
-entry: "<a href='/New_Beehive/toc_vol2/toc2_166/'>891 [State]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_166/'>891 [State]</a>"
 topic: 
 first_letter: S
 xref: 

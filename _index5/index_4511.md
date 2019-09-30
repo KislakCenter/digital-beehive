@@ -3,7 +3,7 @@ pid: index_4511
 volume: Volume 3
 image_number: '52'
 head: week
-entry: "<a href='/New_Beehive/toc_vol2/toc2_114/'>460 [Week]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_114/'>460 [Week]</a>"
 topic: 
 first_letter: W
 xref: 

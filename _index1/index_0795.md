@@ -3,7 +3,7 @@ pid: index_0795
 volume: Volume 3
 image_number: '14'
 head: conjectures
-entry: "<a href='/New_Beehive/toc_vol2/toc2_069/'>125 [Conjectures]</a>|<a href='/New_Beehive/toc_vol2/toc2_174/'>932
+entry: "<a href='/New_Beehive/toc/toc2_069/'>125 [Conjectures]</a>|<a href='/New_Beehive/toc/toc2_174/'>932
   [Conjecture]</a>"
 topic: 
 first_letter: C

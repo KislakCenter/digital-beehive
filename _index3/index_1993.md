@@ -3,7 +3,7 @@ pid: index_1993
 volume: Volume 3
 image_number: '25'
 head: incense
-entry: "<a href='/New_Beehive/toc_vol2/toc2_352/'>1904 [Incense]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_352/'>1904 [Incense]</a>"
 topic: 
 first_letter: I/J
 xref: 

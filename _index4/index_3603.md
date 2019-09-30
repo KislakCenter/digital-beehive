@@ -3,7 +3,7 @@ pid: index_3603
 volume: Volume 3
 image_number: '42'
 head: Self
-entry: "<a href='/New_Beehive/alpha4/alpha_0840/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_164/'>884
+entry: "<a href='/New_Beehive/alpha4/alpha_0840/'>a</a>|<a href='/New_Beehive/toc/toc2_164/'>884
   [Self]</a>"
 topic: 
 first_letter: S

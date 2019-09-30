@@ -6,7 +6,7 @@ head:
 entry: Hindrance
 topic: Hindrance
 first_letter: H
-xref: "<a href='/New_Beehive/toc_vol2/toc2_133/'>576 [Hinderance]</a>|Disappoint"
+xref: "<a href='/New_Beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
 see: 
 page: 
 add: 

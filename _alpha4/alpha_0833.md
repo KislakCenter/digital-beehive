@@ -6,11 +6,7 @@ head:
 entry: Secretary
 topic: Secretary|Secretaryship
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/New_Beehive/alpha5/alpha_1057/'>Writing</a>|<a
-  href='/New_Beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>77
-  [Scripture]</a>|<a href='/New_Beehive/toc_vol2/toc2_064/'>77 [Scriptures]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_287/'>1470 [Sea]</a>|<a href='/New_Beehive/toc_vol2/toc2_358/'>1941
-  [Seal]</a>|"
+xref: 
 see: 
 page: 
 add: 

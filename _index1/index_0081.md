@@ -3,7 +3,7 @@ pid: index_0081
 volume: Volume 3
 image_number: '7'
 head: agreemt
-entry: "<a href='/New_Beehive/alpha1/alpha_0015/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_234/'>1201
+entry: "<a href='/New_Beehive/alpha1/alpha_0015/'>a</a>|<a href='/New_Beehive/toc/toc2_234/'>1201
   [Agreement]</a>"
 topic: 
 first_letter: A

@@ -3,9 +3,8 @@ pid: index_2473
 volume: Volume 3
 image_number: '30'
 head: meetings
-entry: "<a href='/New_Beehive/toc_vol2/toc2_068/'>116 [Meetings]</a>|<a href='/New_Beehive/toc_vol2/toc2_249/'>1276
-  [Meetings to worship God in]</a>|<a href='/New_Beehive/toc_vol2/toc2_398/'>2273
-  [Meetings]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_068/'>116 [Meetings]</a>|<a href='/New_Beehive/toc/toc2_249/'>1276
+  [Meetings to worship God in]</a>|<a href='/New_Beehive/toc/toc2_398/'>2273 [Meetings]</a>"
 topic: 
 first_letter: M
 xref: 

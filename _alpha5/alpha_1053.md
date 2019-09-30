@@ -6,8 +6,7 @@ head:
 entry: Christs Wounds
 topic: Christs Wounds
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc_vol2/toc2_223/'>1146
-  [Wound]</a>|"
+xref: 
 see: 
 page: 
 add: 

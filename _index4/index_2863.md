@@ -3,7 +3,7 @@ pid: index_2863
 volume: Volume 3
 image_number: '34'
 head: palmistrie
-entry: "<a href='/New_Beehive/toc_vol2/toc2_301/'>1531 [Chiromancy]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_301/'>1531 [Chiromancy]</a>"
 topic: 
 first_letter: P
 xref: 

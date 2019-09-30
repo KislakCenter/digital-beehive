@@ -3,7 +3,7 @@ pid: index_0787
 volume: Volume 3
 image_number: '14'
 head: confidence
-entry: "<a href='/New_Beehive/toc_vol2/toc2_159/'>719 [Confidence]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_159/'>719 [Confidence]</a>"
 topic: 
 first_letter: C
 xref: 

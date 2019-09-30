@@ -3,7 +3,7 @@ pid: index_1631
 volume: Volume 3
 image_number: '22'
 head: glyster
-entry: "<a href='/New_Beehive/toc_vol2/toc2_380/'>2145 [Glyster]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_380/'>2145 [Glyster]</a>"
 topic: 
 first_letter: G
 xref: 

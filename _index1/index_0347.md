@@ -3,7 +3,7 @@ pid: index_0347
 volume: Volume 3
 image_number: '10'
 head: Bellarmine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_346/'>1804 [Bellarmine]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_346/'>1804 [Bellarmine]</a>"
 topic: 
 first_letter: B
 xref: 

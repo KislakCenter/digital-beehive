@@ -6,7 +6,7 @@ head:
 entry: Beer
 topic: Beer
 first_letter: B
-xref: Brewing|<a href='/New_Beehive/toc_vol2/toc2_379/'>2137 [Beer]</a>
+xref: Brewing|<a href='/New_Beehive/toc/toc2_379/'>2137 [Beer]</a>
 see: 
 page: 
 add: 

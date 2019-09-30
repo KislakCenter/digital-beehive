@@ -3,7 +3,7 @@ pid: index_2886
 volume: Volume 3
 image_number: '34'
 head: parliamt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_142/'>628 [Parliament]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_142/'>628 [Parliament]</a>"
 topic: 
 first_letter: P
 xref: 

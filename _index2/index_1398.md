@@ -3,7 +3,7 @@ pid: index_1398
 volume: Volume 3
 image_number: '20'
 head: famine
-entry: "<a href='/New_Beehive/toc_vol2/toc2_157/'>710 [Hunger]</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2095
+entry: "<a href='/New_Beehive/toc/toc2_157/'>710 [Hunger]</a>|<a href='/New_Beehive/toc/toc2_375/'>2095
   [Hunger]</a>"
 topic: 
 first_letter: F

@@ -3,8 +3,8 @@ pid: index_4459
 volume: Volume 3
 image_number: '51'
 head: wages
-entry: "<a href='/New_Beehive/toc_vol2/toc2_128/'>549 [Hirelings]</a>|<a href='/New_Beehive/toc_vol2/toc2_427/'>4480
-  [Reward]</a>|<a href='/New_Beehive/toc_vol2/toc2_110/'>431 [Reward]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_128/'>549 [Hirelings]</a>|<a href='/New_Beehive/toc/toc2_427/'>4480
+  [Reward]</a>|<a href='/New_Beehive/toc/toc2_110/'>431 [Reward]</a>"
 topic: 
 first_letter: W
 xref: 

@@ -3,10 +3,9 @@ pid: index_0215
 volume: Volume 3
 image_number: '8'
 head: articles of faith
-entry: "<a href='/New_Beehive/alpha1/alpha_0046/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_134/'>581
-  [Articles of faith]</a>|<a href='/New_Beehive/toc_vol2/toc2_331/'>1684 [Points of
-  Christian Religion]</a>|<a href='/New_Beehive/toc_vol2/toc2_411/'>2367 [Articles
-  of Faith]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0046/'>a</a>|<a href='/New_Beehive/toc/toc2_134/'>581
+  [Articles of faith]</a>|<a href='/New_Beehive/toc/toc2_331/'>1684 [Points of Christian
+  Religion]</a>|<a href='/New_Beehive/toc/toc2_411/'>2367 [Articles of Faith]</a>"
 topic: 
 first_letter: A
 xref: 

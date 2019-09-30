@@ -3,7 +3,7 @@ pid: index_0302
 volume: Volume 3
 image_number: '9'
 head: baseness
-entry: "<a href='/New_Beehive/alpha1/alpha_0062/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_135/'>589
+entry: "<a href='/New_Beehive/alpha1/alpha_0062/'>a</a>|<a href='/New_Beehive/toc/toc2_135/'>589
   [Base]</a>"
 topic: 
 first_letter: B

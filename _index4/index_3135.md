@@ -3,7 +3,7 @@ pid: index_3135
 volume: Volume 3
 image_number: '37'
 head: presence of Christ
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>261 [Absence & Presence of Xst]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>261 [Absence & Presence of Xst]</a>"
 topic: 
 first_letter: P
 xref: 

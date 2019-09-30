@@ -6,8 +6,7 @@ head:
 entry: Spiritual
 topic: Spiritual
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0358/'>H. Ghost</a>|<a href='/New_Beehive/toc_vol2/toc2_262/'>1341
-  [Spirits]</a>|<a href='/New_Beehive/toc_vol2/toc2_184/'>989 [Spiritual]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_184/'>989 [Spiritual]</a>"
 see: 
 page: 
 add: 

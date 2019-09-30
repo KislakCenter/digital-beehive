@@ -3,7 +3,7 @@ pid: index_0889
 volume: Volume 3
 image_number: '15'
 head: cowley
-entry: "<a href='/New_Beehive/toc_vol2/toc2_430/'>4802 [Mr. Cowley]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_430/'>4802 [Mr. Cowley]</a>"
 topic: 
 first_letter: C
 xref: 

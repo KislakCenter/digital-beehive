@@ -3,7 +3,7 @@ pid: index_1889
 volume: Volume 3
 image_number: '24'
 head: hourglass
-entry: "<a href='/New_Beehive/toc_vol2/toc2_163/'>878 [Hourglass]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Hourglass]</a>"
 topic: 
 first_letter: H
 xref: 

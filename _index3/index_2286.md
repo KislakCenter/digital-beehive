@@ -3,8 +3,8 @@ pid: index_2286
 volume: Volume 3
 image_number: '28'
 head: light
-entry: "<a href='/New_Beehive/alpha3/alpha_0536/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_210/'>1082
-  [Light]</a>|<a href='/New_Beehive/toc_vol2/toc2_390/'>2234 [Light]</a>|4766 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/alpha3/alpha_0536/'>a</a>|<a href='/New_Beehive/toc/toc2_210/'>1082
+  [Light]</a>|<a href='/New_Beehive/toc/toc2_390/'>2234 [Light]</a>|4766 [PAGE_MISSING]"
 topic: 
 first_letter: L
 xref: 

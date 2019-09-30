@@ -6,8 +6,7 @@ head:
 entry: Past
 topic: Past
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0197/'>Cross of Christ</a>|<a href='/New_Beehive/alpha4/alpha_0916/'>Suffering</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_185/'>998 [Passion or Suffering of Xst]</a>"
+xref: 865 [PAGE_MISSING]
 see: 
 page: 
 add: 

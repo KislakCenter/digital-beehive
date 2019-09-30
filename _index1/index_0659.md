@@ -3,8 +3,8 @@ pid: index_0659
 volume: Volume 3
 image_number: '13'
 head: church
-entry: "<a href='/New_Beehive/alpha1/alpha_0147/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_079/'>211
-  [Church]</a>|<a href='/New_Beehive/toc_vol2/toc2_199/'>1030 [Church]</a>|<a href='/New_Beehive/toc_vol2/toc2_267/'>1369
+entry: "<a href='/New_Beehive/alpha1/alpha_0147/'>a</a>|<a href='/New_Beehive/toc/toc2_079/'>211
+  [Church]</a>|<a href='/New_Beehive/toc/toc2_199/'>1030 [Church]</a>|<a href='/New_Beehive/toc/toc2_267/'>1369
   [Church of Christ]</a>|4721 [PAGE_MISSING]"
 topic: 
 first_letter: C

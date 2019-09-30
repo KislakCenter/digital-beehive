@@ -3,7 +3,7 @@ pid: index_4442
 volume: Volume 3
 image_number: '51'
 head: Urim & Thum[m]im
-entry: "<a href='/New_Beehive/toc_vol2/toc2_063/'>63 [Urim and Thummim]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_063/'>63 [Urim and Thummim]</a>"
 topic: 
 first_letter: U/V
 xref: 

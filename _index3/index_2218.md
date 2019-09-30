@@ -3,7 +3,7 @@ pid: index_2218
 volume: Volume 3
 image_number: '27'
 head: latin English
-entry: "<a href='/New_Beehive/toc_vol2/toc2_196/'>1015 [Some English Latin]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_196/'>1015 [Some English Latin]</a>"
 topic: 
 first_letter: L
 xref: 

@@ -3,8 +3,8 @@ pid: index_2265
 volume: Volume 3
 image_number: '28'
 head: letters
-entry: "<a href='/New_Beehive/alpha3/alpha_0529/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_310/'>1580
-  [I have thought fit to]</a>|<a href='/New_Beehive/toc_vol2/toc2_379/'>2135 [Letters]</a>"
+entry: "<a href='/New_Beehive/alpha3/alpha_0529/'>a</a>|<a href='/New_Beehive/toc/toc2_310/'>1580
+  [I have thought fit to]</a>|<a href='/New_Beehive/toc/toc2_379/'>2135 [Letters]</a>"
 topic: 
 first_letter: L
 xref: 

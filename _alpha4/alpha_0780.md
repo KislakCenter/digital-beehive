@@ -6,7 +6,7 @@ head:
 entry: Religion
 topic: Religion
 first_letter: R
-xref: "<a href='/New_Beehive/alpha5/alpha_1049/'>Worship</a>|<a href='/New_Beehive/toc_vol2/toc2_081/'>226
+xref: "<a href='/New_Beehive/alpha5/alpha_1049/'>Worship</a>|<a href='/New_Beehive/toc/toc2_081/'>226
   [Religion]</a>"
 see: 
 page: 

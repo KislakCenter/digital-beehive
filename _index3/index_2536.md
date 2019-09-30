@@ -3,7 +3,7 @@ pid: index_2536
 volume: Volume 3
 image_number: '31'
 head: miserere mei
-entry: "<a href='/New_Beehive/toc_vol2/toc2_222/'>1144 [Iliack passion]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_222/'>1144 [Iliack passion]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -6,8 +6,7 @@ head:
 entry: Image of God
 topic: Image of God
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0444/'>Idolatry</a>|<a href='/New_Beehive/toc_vol2/toc2_178/'>955
-  [Images]</a>|<a href='/New_Beehive/toc_vol2/toc2_373/'>2077 [Image of God]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_373/'>2077 [Image of God]</a>"
 see: 
 page: 
 add: 

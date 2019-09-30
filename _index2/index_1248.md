@@ -3,7 +3,7 @@ pid: index_1248
 volume: Volume 3
 image_number: '18'
 head: encyclopady
-entry: "<a href='/New_Beehive/toc_vol2/toc2_362/'>1973 [Learning]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_362/'>1973 [Learning]</a>"
 topic: 
 first_letter: E
 xref: 

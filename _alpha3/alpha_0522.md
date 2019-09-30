@@ -6,7 +6,7 @@ head:
 entry: Leader
 topic: Leader
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/New_Beehive/toc_vol2/toc2_249/'>1280
+xref: "<a href='/New_Beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/New_Beehive/toc/toc2_249/'>1280
   [Leader]</a>"
 see: 
 page: 

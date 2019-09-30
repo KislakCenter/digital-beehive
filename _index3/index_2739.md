@@ -3,7 +3,7 @@ pid: index_2739
 volume: Volume 3
 image_number: '32'
 head: to give notice
-entry: "<a href='/New_Beehive/toc_vol2/toc2_096/'>331 [to give Notice]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_096/'>331 [to give Notice]</a>"
 topic: 
 first_letter: N
 xref: 

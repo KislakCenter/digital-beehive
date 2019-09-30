@@ -3,7 +3,7 @@ pid: index_2433
 volume: Volume 3
 image_number: '30'
 head: mars
-entry: "<a href='/New_Beehive/toc_vol2/toc2_277/'>1416 [Evils of War]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_277/'>1416 [Evils of War]</a>"
 topic: 
 first_letter: M
 xref: 

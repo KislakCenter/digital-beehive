@@ -3,7 +3,7 @@ pid: index_2360
 volume: Volume 3
 image_number: '29'
 head: lucre
-entry: "<a href='/New_Beehive/alpha3/alpha_0560/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_244/'>1252
+entry: "<a href='/New_Beehive/alpha3/alpha_0560/'>a</a>|<a href='/New_Beehive/toc/toc2_244/'>1252
   [Gainful]</a>"
 topic: 
 first_letter: L

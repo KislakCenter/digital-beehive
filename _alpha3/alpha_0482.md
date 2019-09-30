@@ -6,7 +6,7 @@ head:
 entry: Intention
 topic: Intention
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0756/'>Purpose</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1109
+xref: "<a href='/New_Beehive/alpha4/alpha_0756/'>Purpose</a>|<a href='/New_Beehive/toc/toc2_215/'>1109
   [Intention]</a>"
 see: 
 page: 

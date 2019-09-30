@@ -3,8 +3,8 @@ pid: index_1464
 volume: Volume 3
 image_number: '20'
 head: fish
-entry: "<a href='/New_Beehive/alpha2/alpha_0327/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_324/'>1646
-  [Fish]</a>|<a href='/New_Beehive/toc_vol2/toc2_384/'>2187 [Fish]</a>"
+entry: "<a href='/New_Beehive/alpha2/alpha_0327/'>a</a>|<a href='/New_Beehive/toc/toc2_324/'>1646
+  [Fish]</a>|<a href='/New_Beehive/toc/toc2_384/'>2187 [Fish]</a>"
 topic: 
 first_letter: F
 xref: 

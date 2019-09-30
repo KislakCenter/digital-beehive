@@ -6,7 +6,7 @@ head:
 entry: Ceremony
 topic: Ceremony
 first_letter: C
-xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc_vol2/toc2_218/'>1125 [Ceremonies]</a>"
+xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc/toc2_218/'>1125 [Ceremonies]</a>"
 see: 
 page: 
 add: 

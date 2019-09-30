@@ -6,8 +6,7 @@ head:
 entry: Wager
 topic: Wager
 first_letter: W
-xref: "<a href='/New_Beehive/toc_vol2/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/New_Beehive/toc_vol2/toc2_221/'>1136
-  [Vulgar]</a>|"
+xref: 
 see: 
 page: 
 add: 

@@ -3,7 +3,7 @@ pid: index_3908
 volume: Volume 3
 image_number: '45'
 head: stocks
-entry: "<a href='/New_Beehive/toc_vol2/toc2_143/'>632 [Stock]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_143/'>632 [Stock]</a>"
 topic: 
 first_letter: S
 xref: 

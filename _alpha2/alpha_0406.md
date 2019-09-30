@@ -6,9 +6,7 @@ head:
 entry: Heaven
 topic: Heaven
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0097/'>Breast</a>|<a href='/New_Beehive/toc_vol2/toc2_295/'>1507
-  [Heart]</a>|<a href='/New_Beehive/toc_vol2/toc2_285/'>1456 [Heathens]</a>|<a href='/New_Beehive/toc_vol2/toc2_229/'>1176
-  [Heaven]</a>"
+xref: "<a href='/New_Beehive/toc/toc2_229/'>1176 [Heaven]</a>"
 see: 
 page: 
 add: 

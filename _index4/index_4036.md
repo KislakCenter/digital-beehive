@@ -3,7 +3,7 @@ pid: index_4036
 volume: Volume 3
 image_number: '46'
 head: synagogues
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1916 [Synagogues]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1916 [Synagogues]</a>"
 topic: 
 first_letter: S
 xref: 

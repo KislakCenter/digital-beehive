@@ -6,7 +6,7 @@ head:
 entry: Fear of Death
 topic: Fear of Death
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0845/'>Self-murther</a>|<a href='/New_Beehive/toc_vol2/toc2_109/'>424
+xref: "<a href='/New_Beehive/alpha4/alpha_0845/'>Self-murther</a>|<a href='/New_Beehive/toc/toc2_109/'>424
   [Fear of Death]</a>"
 see: 
 page: 

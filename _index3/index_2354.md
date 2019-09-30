@@ -3,7 +3,7 @@ pid: index_2354
 volume: Volume 3
 image_number: '29'
 head: first love
-entry: "<a href='/New_Beehive/toc_vol2/toc2_315/'>1601 [First Love]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_315/'>1601 [First Love]</a>"
 topic: 
 first_letter: L
 xref: 

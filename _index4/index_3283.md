@@ -3,8 +3,8 @@ pid: index_3283
 volume: Volume 3
 image_number: '38'
 head: railing
-entry: "<a href='/New_Beehive/alpha4/alpha_0763/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_060/'>37
-  [WORD_MISSING]</a>|<a href='/New_Beehive/toc_vol2/toc2_165/'>890 [Railing]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0763/'>a</a>|<a href='/New_Beehive/toc/toc2_060/'>37
+  [WORD_MISSING]</a>|<a href='/New_Beehive/toc/toc2_165/'>890 [Railing]</a>"
 topic: 
 first_letter: R
 xref: 

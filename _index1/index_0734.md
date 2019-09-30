@@ -3,8 +3,8 @@ pid: index_0734
 volume: Volume 3
 image_number: '13'
 head: comfort false
-entry: "<a href='/New_Beehive/alpha1/alpha_0156/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_299/'>1525
-  [False Comfort]</a>|<a href='/New_Beehive/toc_vol2/toc2_369/'>2036 [False Comfort]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0156/'>a</a>|<a href='/New_Beehive/toc/toc2_299/'>1525
+  [False Comfort]</a>|<a href='/New_Beehive/toc/toc2_369/'>2036 [False Comfort]</a>"
 topic: 
 first_letter: C
 xref: 

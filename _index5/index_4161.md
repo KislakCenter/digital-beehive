@@ -3,9 +3,9 @@ pid: index_4161
 volume: Volume 3
 image_number: '47'
 head: tithes
-entry: "<a href='/New_Beehive/alpha5/alpha_0948/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_129/'>554
-  [Tithes]</a>|<a href='/New_Beehive/toc_vol2/toc2_323/'>1643 [Of the Duty of Tithes]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_416/'>2404 [Tithes]</a>"
+entry: "<a href='/New_Beehive/alpha5/alpha_0948/'>a</a>|<a href='/New_Beehive/toc/toc2_129/'>554
+  [Tithes]</a>|<a href='/New_Beehive/toc/toc2_323/'>1643 [Of the Duty of Tithes]</a>|<a
+  href='/New_Beehive/toc/toc2_416/'>2404 [Tithes]</a>"
 topic: 
 first_letter: T
 xref: 

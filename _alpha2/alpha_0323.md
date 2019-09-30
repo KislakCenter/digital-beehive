@@ -6,9 +6,7 @@ head:
 entry: Fewness
 topic: Fewness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc_vol2/toc2_212/'>1093
-  [holy days]</a>|<a href='/New_Beehive/toc_vol2/toc2_073/'>165 [Feast]</a>|<a href='/New_Beehive/toc_vol2/toc2_375/'>2099
-  [Fever]</a>|<a href='/New_Beehive/alpha4/alpha_0766/'>Rarity</a>"
+xref: "<a href='/New_Beehive/alpha4/alpha_0766/'>Rarity</a>"
 see: 
 page: 
 add: 

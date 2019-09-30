@@ -7,7 +7,7 @@ entry: Condemnation
 topic: Condemnation
 first_letter: C
 xref: "<a href='/New_Beehive/alpha3/alpha_0493/'>Judgment</a>|<a href='/New_Beehive/alpha2/alpha_0409/'>Hell</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_348/'>1817 [Damnation]</a>"
+  href='/New_Beehive/toc/toc2_348/'>1817 [Damnation]</a>"
 see: 
 page: 
 add: 

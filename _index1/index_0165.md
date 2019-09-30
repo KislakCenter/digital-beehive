@@ -3,7 +3,7 @@ pid: index_0165
 volume: Volume 3
 image_number: '8'
 head: ape
-entry: "<a href='/New_Beehive/alpha1/alpha_0036/'>a</a>|802 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_320/'>1630
+entry: "<a href='/New_Beehive/alpha1/alpha_0036/'>a</a>|802 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_320/'>1630
   [Apes]</a>"
 topic: 
 first_letter: A

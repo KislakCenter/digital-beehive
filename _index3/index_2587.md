@@ -3,7 +3,7 @@ pid: index_2587
 volume: Volume 3
 image_number: '31'
 head: mortar
-entry: "<a href='/New_Beehive/toc_vol2/toc2_339/'>1743 [Pounded]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_339/'>1743 [Pounded]</a>"
 topic: 
 first_letter: M
 xref: 

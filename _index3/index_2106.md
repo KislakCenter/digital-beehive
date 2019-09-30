@@ -3,7 +3,7 @@ pid: index_2106
 volume: Volume 3
 image_number: '26'
 head: joints
-entry: "<a href='/New_Beehive/toc_vol2/toc2_324/'>1647 [Joints]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_324/'>1647 [Joints]</a>"
 topic: 
 first_letter: I/J
 xref: 

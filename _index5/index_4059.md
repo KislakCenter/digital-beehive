@@ -3,7 +3,7 @@ pid: index_4059
 volume: Volume 3
 image_number: '46'
 head: tapistry
-entry: "<a href='/New_Beehive/toc_vol2/toc2_364/'>1987 [Tapistry]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_364/'>1987 [Tapistry]</a>"
 topic: 
 first_letter: T
 xref: 

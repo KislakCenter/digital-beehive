@@ -6,7 +6,7 @@ head:
 entry: Perfection
 topic: Perfection
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0462/'>Imperfect</a>|<a href='/New_Beehive/toc_vol2/toc2_062/'>60
+xref: "<a href='/New_Beehive/alpha3/alpha_0462/'>Imperfect</a>|<a href='/New_Beehive/toc/toc2_062/'>60
   [Perfection]</a>"
 see: 
 page: 

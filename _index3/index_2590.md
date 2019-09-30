@@ -3,7 +3,7 @@ pid: index_2590
 volume: Volume 3
 image_number: '31'
 head: Tho. Morus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_309/'>1574 [Tho. Morus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_309/'>1574 [Tho. Morus]</a>"
 topic: 
 first_letter: M
 xref: 

@@ -3,7 +3,7 @@ pid: index_2428
 volume: Volume 3
 image_number: '30'
 head: mark
-entry: "<a href='/New_Beehive/toc_vol2/toc2_166/'>892 [Mark]</a>|<a href='/New_Beehive/toc_vol2/toc2_201/'>1040
+entry: "<a href='/New_Beehive/toc/toc2_166/'>892 [Mark]</a>|<a href='/New_Beehive/toc/toc2_201/'>1040
   [Signs]</a>"
 topic: 
 first_letter: M

@@ -6,9 +6,7 @@ head:
 entry: Easter
 topic: Easter
 first_letter: E
-xref: "<a href='/New_Beehive/alpha5/alpha_1046/'>World</a>|<a href='/New_Beehive/toc_vol2/toc2_378/'>2130
-  [Earth]</a>|<a href='/New_Beehive/toc_vol2/toc2_241/'>1237 [Earthquakes]</a>|Passover
-  Feast"
+xref: Passover Feast
 see: 
 page: 
 add: 

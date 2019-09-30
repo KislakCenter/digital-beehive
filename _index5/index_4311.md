@@ -3,7 +3,7 @@ pid: index_4311
 volume: Volume 3
 image_number: '49'
 head: venison
-entry: "<a href='/New_Beehive/toc_vol2/toc2_376/'>2106 [Venison]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_376/'>2106 [Venison]</a>"
 topic: 
 first_letter: U/V
 xref: 

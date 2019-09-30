@@ -3,7 +3,7 @@ pid: index_1288
 volume: Volume 3
 image_number: '19'
 head: equinox
-entry: "<a href='/New_Beehive/toc_vol2/toc2_211/'>1088 [Equinox]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Equinox]</a>"
 topic: 
 first_letter: E
 xref: 

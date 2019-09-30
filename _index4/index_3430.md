@@ -3,7 +3,7 @@ pid: index_3430
 volume: Volume 3
 image_number: '40'
 head: rime. reiff
-entry: "<a href='/New_Beehive/toc_vol2/toc2_103/'>383 [Rime upon the ground]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Rime upon the ground]</a>"
 topic: 
 first_letter: R
 xref: 

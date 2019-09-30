@@ -3,8 +3,7 @@ pid: index_1781
 volume: Volume 3
 image_number: '23'
 head: hear-say
-entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc_vol2/toc2_392/'>2242 [Report &
-  hear-say]</a>
+entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>
 topic: 
 first_letter: H
 xref: 

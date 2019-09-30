@@ -3,8 +3,8 @@ pid: index_3766
 volume: Volume 3
 image_number: '43'
 head: snake
-entry: "<a href='/New_Beehive/alpha4/alpha_0881/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_243/'>1250</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_377/'>2119</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0881/'>a</a>|<a href='/New_Beehive/toc/toc2_243/'>1250</a>|<a
+  href='/New_Beehive/toc/toc2_377/'>2119</a>"
 topic: 
 first_letter: S
 xref: 

@@ -3,7 +3,7 @@ pid: index_0408
 volume: Volume 3
 image_number: '10'
 head: bonfire
-entry: "<a href='/New_Beehive/toc_vol2/toc2_205/'>1058 [Bonfires]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_205/'>1058 [Bonfires]</a>"
 topic: 
 first_letter: B
 xref: 

@@ -3,7 +3,7 @@ pid: index_1416
 volume: Volume 3
 image_number: '20'
 head: fatness
-entry: "<a href='/New_Beehive/alpha2/alpha_0316/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_144/'>636
+entry: "<a href='/New_Beehive/alpha2/alpha_0316/'>a</a>|<a href='/New_Beehive/toc/toc2_144/'>636
   [Fatness]</a>"
 topic: 
 first_letter: F

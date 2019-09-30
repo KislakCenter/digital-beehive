@@ -3,7 +3,7 @@ pid: index_3146
 volume: Volume 3
 image_number: '37'
 head: pretty
-entry: "<a href='/New_Beehive/toc_vol2/toc2_126/'>535 [Incomparable]</a>|<a href='/New_Beehive/toc_vol2/toc2_126/'>535
+entry: "<a href='/New_Beehive/toc/toc2_126/'>535 [Incomparable]</a>|<a href='/New_Beehive/toc/toc2_126/'>535
   [Excellent]</a>"
 topic: 
 first_letter: P

@@ -3,7 +3,7 @@ pid: index_3237
 volume: Volume 3
 image_number: '38'
 head: purple
-entry: "<a href='/New_Beehive/toc_vol2/toc2_353/'>1913 [Purple]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_353/'>1913 [Purple]</a>"
 topic: 
 first_letter: P
 xref: 

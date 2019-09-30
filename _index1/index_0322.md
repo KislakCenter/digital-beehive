@@ -3,7 +3,7 @@ pid: index_0322
 volume: Volume 3
 image_number: '9'
 head: a beau
-entry: "<a href='/New_Beehive/toc_vol2/toc2_437/'>4851 [WORD_MISSING]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_437/'>4851 [WORD_MISSING]</a>"
 topic: 
 first_letter: B
 xref: 

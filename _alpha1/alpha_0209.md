@@ -6,9 +6,7 @@ head:
 entry: Dearth
 topic: Dearth
 first_letter: D
-xref: Pinch|<a href='/New_Beehive/toc_vol2/toc2_150/'>673 [Danger]</a>|<a href='/New_Beehive/toc_vol2/toc2_237/'>1220
-  [Darkness]</a>|<a href='/New_Beehive/toc_vol2/toc2_283/'>1447 [Day]</a>|<a href='/New_Beehive/toc_vol2/toc2_130/'>563
-  [Dearth]</a>
+xref: "<a href='/New_Beehive/toc/toc2_130/'>563 [Dearth]</a>"
 see: 
 page: 
 add: 

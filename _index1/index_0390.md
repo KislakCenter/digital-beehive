@@ -3,7 +3,7 @@ pid: index_0390
 volume: Volume 3
 image_number: '10'
 head: temporal blessings
-entry: "<a href='/New_Beehive/toc_vol2/toc2_339/'>1745 [Happiness of the Wicked]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_339/'>1745 [Happiness of the Wicked]</a>"
 topic: 
 first_letter: B
 xref: 

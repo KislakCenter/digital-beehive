@@ -3,7 +3,7 @@ pid: index_1111
 volume: Volume 3
 image_number: '17'
 head: ditto
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>263 [Repetition]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>263 [Repetition]</a>"
 topic: 
 first_letter: D
 xref: 

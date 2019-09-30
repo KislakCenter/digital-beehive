@@ -6,7 +6,7 @@ head:
 entry: Wood
 topic: Wood
 first_letter: W
-xref: Timber|<a href='/New_Beehive/toc_vol2/toc2_377/'>2113 [Wood]</a>
+xref: Timber|<a href='/New_Beehive/toc/toc2_377/'>2113 [Wood]</a>
 see: 
 page: 
 add: 

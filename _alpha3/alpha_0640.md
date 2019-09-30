@@ -7,7 +7,7 @@ entry: Novelty
 topic: Novelty
 first_letter: N
 xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>|<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a
-  href='/New_Beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/New_Beehive/toc_vol2/toc2_124/'>524
+  href='/New_Beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/New_Beehive/toc/toc2_124/'>524
   [Novelty]</a>"
 see: 
 page: 

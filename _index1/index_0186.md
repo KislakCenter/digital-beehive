@@ -3,7 +3,7 @@ pid: index_0186
 volume: Volume 3
 image_number: '8'
 head: appointmt
-entry: "<a href='/New_Beehive/toc_vol2/toc2_160/'>724 [To Appoint]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_160/'>724 [To Appoint]</a>"
 topic: 
 first_letter: A
 xref: 

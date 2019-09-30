@@ -3,7 +3,7 @@ pid: index_1810
 volume: Volume 3
 image_number: '23'
 head: hereafter
-entry: "<a href='/New_Beehive/toc_vol2/toc2_280/'>1431 [Hereafter]</a>|<a href='/New_Beehive/toc_vol2/toc2_090/'>292
+entry: "<a href='/New_Beehive/toc/toc2_280/'>1431 [Hereafter]</a>|<a href='/New_Beehive/toc/toc2_090/'>292
   [Afterwards]</a>"
 topic: 
 first_letter: H

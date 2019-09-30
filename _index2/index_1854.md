@@ -3,7 +3,7 @@ pid: index_1854
 volume: Volume 3
 image_number: '24'
 head: hole
-entry: "<a href='/New_Beehive/toc_vol2/toc2_164/'>881 [make a hole]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_164/'>881 [make a hole]</a>"
 topic: 
 first_letter: H
 xref: 

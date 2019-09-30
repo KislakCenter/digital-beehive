@@ -3,7 +3,7 @@ pid: index_4340
 volume: Volume 3
 image_number: '49'
 head: virgil
-entry: "<a href='/New_Beehive/toc_vol2/toc2_345/'>1788 [Virgil's]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_345/'>1788 [Virgil's]</a>"
 topic: 
 first_letter: U/V
 xref: 

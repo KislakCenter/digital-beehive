@@ -3,8 +3,8 @@ pid: index_0841
 volume: Volume 3
 image_number: '14'
 head: cookery
-entry: "<a href='/New_Beehive/alpha1/alpha_0178/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_082/'>236
-  [Cookery]</a>|<a href='/New_Beehive/toc_vol2/toc2_371/'>2054 [Cookery]</a>"
+entry: "<a href='/New_Beehive/alpha1/alpha_0178/'>a</a>|<a href='/New_Beehive/toc/toc2_082/'>236
+  [Cookery]</a>|<a href='/New_Beehive/toc/toc2_371/'>2054 [Cookery]</a>"
 topic: 
 first_letter: C
 xref: 

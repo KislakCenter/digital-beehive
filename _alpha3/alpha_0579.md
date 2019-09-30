@@ -7,7 +7,7 @@ entry: Meditation
 topic: Meditation
 first_letter: M
 xref: "<a href='/New_Beehive/alpha1/alpha_0220/'>deliberation</a>|Contemplation|<a
-  href='/New_Beehive/toc_vol2/toc2_161/'>868 [Meditation]</a>"
+  href='/New_Beehive/toc/toc2_161/'>868 [Meditation]</a>"
 see: 
 page: 
 add: 

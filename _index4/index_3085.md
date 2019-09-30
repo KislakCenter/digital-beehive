@@ -3,7 +3,7 @@ pid: index_3085
 volume: Volume 3
 image_number: '36'
 head: possession
-entry: "<a href='/New_Beehive/toc_vol2/toc2_082/'>239 [Possession]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_082/'>239 [Possession]</a>"
 topic: 
 first_letter: P
 xref: 

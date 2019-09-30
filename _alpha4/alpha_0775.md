@@ -7,7 +7,7 @@ entry: Redemption
 topic: Redemption
 first_letter: R
 xref: "<a href='/New_Beehive/alpha4/alpha_0822/'>Saviour</a>|deliverance|<a href='/New_Beehive/alpha4/alpha_0821/'>Salvation</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_404/'>2306 [Redemption]</a>"
+  href='/New_Beehive/toc/toc2_404/'>2306 [Redemption]</a>"
 see: 
 page: 
 add: 

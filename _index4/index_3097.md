@@ -3,8 +3,8 @@ pid: index_3097
 volume: Volume 3
 image_number: '36'
 head: poverty
-entry: "<a href='/New_Beehive/alpha4/alpha_0715/'>a</a>|<a href='/New_Beehive/toc_vol2/toc2_217/'>1117
-  [Poverty]</a>|<a href='/New_Beehive/toc_vol2/toc2_410/'>2360 [Poverty]</a>"
+entry: "<a href='/New_Beehive/alpha4/alpha_0715/'>a</a>|<a href='/New_Beehive/toc/toc2_217/'>1117
+  [Poverty]</a>|<a href='/New_Beehive/toc/toc2_410/'>2360 [Poverty]</a>"
 topic: 
 first_letter: P
 xref: 

@@ -3,7 +3,7 @@ pid: index_1649
 volume: Volume 3
 image_number: '22'
 head: God's invitations
-entry: "<a href='/New_Beehive/toc_vol2/toc2_095/'>329 [Gods Invitations]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_095/'>329 [Gods Invitations]</a>"
 topic: 
 first_letter: G
 xref: 

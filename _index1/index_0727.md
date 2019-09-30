@@ -3,7 +3,7 @@ pid: index_0727
 volume: Volume 3
 image_number: '13'
 head: Columbus
-entry: "<a href='/New_Beehive/toc_vol2/toc2_099/'>353 [Columbus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_099/'>353 [Columbus]</a>"
 topic: 
 first_letter: C
 xref: 

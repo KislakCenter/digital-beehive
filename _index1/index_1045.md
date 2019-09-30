@@ -3,7 +3,7 @@ pid: index_1045
 volume: Volume 3
 image_number: '16'
 head: to die
-entry: "<a href='/New_Beehive/toc_vol2/toc2_245/'>1257 [To Die]</a>|<a href='/New_Beehive/toc_vol2/toc2_383/'>2176
+entry: "<a href='/New_Beehive/toc/toc2_245/'>1257 [To Die]</a>|<a href='/New_Beehive/toc/toc2_383/'>2176
   [To Die]</a>"
 topic: 
 first_letter: D

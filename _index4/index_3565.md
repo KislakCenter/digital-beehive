@@ -3,7 +3,7 @@ pid: index_3565
 volume: Volume 3
 image_number: '41'
 head: scrivener
-entry: "<a href='/New_Beehive/toc_vol2/toc2_086/'>260 [Scribe]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_086/'>260 [Scribe]</a>"
 topic: 
 first_letter: S
 xref: 

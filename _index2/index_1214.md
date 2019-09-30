@@ -3,7 +3,7 @@ pid: index_1214
 volume: Volume 3
 image_number: '18'
 head: effeminate
-entry: "<a href='/New_Beehive/toc_vol2/toc2_232/'>1192 [Effeminate]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_232/'>1192 [Effeminate]</a>"
 topic: 
 first_letter: E
 xref: 

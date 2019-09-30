@@ -3,7 +3,7 @@ pid: index_0797
 volume: Volume 3
 image_number: '14'
 head: conjuring
-entry: "<a href='/New_Beehive/toc_vol2/toc2_303/'>1541 [Conjuring]</a>|1864 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_303/'>1541 [Conjuring]</a>|1864 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 

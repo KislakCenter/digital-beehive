@@ -3,8 +3,8 @@ pid: index_3465
 volume: Volume 3
 image_number: '40'
 head: rule of faith & life
-entry: "<a href='/New_Beehive/toc_vol2/toc2_064/'>74 [The Judge of religious Controversies]</a>|<a
-  href='/New_Beehive/toc_vol2/toc2_106/'>404 [Rule of faith & life]</a>|<a href='/New_Beehive/toc_vol2/toc2_274/'>1403
+entry: "<a href='/New_Beehive/toc/toc2_064/'>74 [The Judge of religious Controversies]</a>|<a
+  href='/New_Beehive/toc/toc2_106/'>404 [Rule of faith & life]</a>|<a href='/New_Beehive/toc/toc2_274/'>1403
   [Rule of faith & life]</a>"
 topic: 
 first_letter: R

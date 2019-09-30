@@ -3,7 +3,7 @@ pid: index_2130
 volume: Volume 3
 image_number: '27'
 head: Judith
-entry: "<a href='/New_Beehive/toc_vol2/toc2_437/'>4860 [Judith]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_437/'>4860 [Judith]</a>"
 topic: 
 first_letter: I/J
 xref: 

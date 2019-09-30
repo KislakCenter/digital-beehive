@@ -3,7 +3,7 @@ pid: index_0221
 volume: Volume 3
 image_number: '8'
 head: Asaph
-entry: "<a href='/New_Beehive/toc_vol2/toc2_311/'>1582 [Asaph]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_311/'>1582 [Asaph]</a>"
 topic: 
 first_letter: A
 xref: 

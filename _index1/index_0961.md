@@ -3,7 +3,7 @@ pid: index_0961
 volume: Volume 3
 image_number: '15'
 head: dead mens candles
-entry: "<a href='/New_Beehive/toc_vol2/toc2_312/'>1589 [Ignis Fatunus]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_312/'>1589 [Ignis Fatunus]</a>"
 topic: 
 first_letter: D
 xref: 

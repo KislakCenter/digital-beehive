@@ -3,7 +3,7 @@ pid: index_4056
 volume: Volume 3
 image_number: '46'
 head: tanning
-entry: "<a href='/New_Beehive/toc_vol2/toc2_147/'>654 [Hide]</a>|767 [PAGE_MISSING]"
+entry: "<a href='/New_Beehive/toc/toc2_147/'>654 [Hide]</a>|767 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 
