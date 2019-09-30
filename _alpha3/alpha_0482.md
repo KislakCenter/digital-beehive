@@ -6,13 +6,15 @@ head:
 entry: Intention
 topic: Intention
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0756/'>Purpose</a>|<a href='/New_Beehive/toc_vol2/toc2_215/'>1109
+xref: "<a href='/New_Beehive/alpha4/alpha_0756/'>Purpose</a>|<a href='/New_Beehive/toc/toc2_215/'>1109
   [Intention]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2074/'>intention</a>"
+insertion_xref: 
+insertion: 
 item: "#item-cfea063e5"
 unparsed: 
 line: 'Entry: Intention|Topic: Intention|Xref: Purpose|Xref: 1109 [Intention]|Index:
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,72
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564761333451
 order: '482'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,727,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,727,3065,493/full/0/default.jpg
 label: Intention
 layout: alpha_item

@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index2/index_1763/'>hart</a>"
+insertion_xref: 
+insertion: 
 item: "#item-7736252de"
 unparsed: 
 line: 'Entry: Hart|Topic: Hart|Xref: Deer|Index: hart|#item-7736252de'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,35
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564604734310
 order: '396'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,1487,136/full/0/default.jpg
 label: Hart
 layout: alpha_item

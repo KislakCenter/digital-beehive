@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_3117/'>precedency</a>"
+insertion_xref: 
+insertion: 
 item: "#item-bec3cfc6a"
 unparsed: 
 line: 'Entry: Precedency|Topic: Precedency|Xref: ambition|Xref: first|Index: precedency|#item-bec3cfc6a'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,14
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528376145438
 order: '721'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,1400,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,1400,2990,416/full/0/default.jpg
 label: Precedency
 layout: alpha_item

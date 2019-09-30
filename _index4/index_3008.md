@@ -3,7 +3,7 @@ pid: index_3008
 volume: Volume 3
 image_number: '35'
 head: pilgrimage
-entry: "<a href='/New_Beehive/toc_vol2/toc2_060/'>30 [Pilgrimage]</a>|<a href='/New_Beehive/toc_vol2/toc2_127/'>543
+entry: "<a href='/New_Beehive/toc/toc2_060/'>30 [Pilgrimage]</a>|<a href='/New_Beehive/toc/toc2_127/'>543
   [Pilgrimage]</a>|4545 [PAGE_MISSING]"
 topic: 
 first_letter: P
@@ -13,6 +13,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d00fd8377"
 unparsed: 
 line: 'Head: pilgrimage|Entry: 30 [Pilgrimage]|Entry: 543 [Pilgrimage]|Entry: 4545
@@ -21,7 +23,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1539976199833
 order: '3008'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1014,767,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1014,767,175/full/0/default.jpg
 label: pilgrimage
 layout: index_item

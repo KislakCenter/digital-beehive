@@ -3,8 +3,8 @@ pid: index_0117
 volume: Volume 3
 image_number: '7'
 head: always
-entry: "<a href='/New_Beehive/toc_vol2/toc2_090/'>287 [Always]</a>|<a href='/New_Beehive/toc_vol2/toc2_099/'>356
-  [Allways]</a>|<a href='/New_Beehive/toc_vol2/toc2_202/'>1043 [Always]</a>|<a href='/New_Beehive/toc_vol2/toc2_433/'>4823
+entry: "<a href='/New_Beehive/toc/toc2_090/'>287 [Always]</a>|<a href='/New_Beehive/toc/toc2_099/'>356
+  [Allways]</a>|<a href='/New_Beehive/toc/toc2_202/'>1043 [Always]</a>|<a href='/New_Beehive/toc/toc2_433/'>4823
   [Always]</a>"
 topic: 
 first_letter: A
@@ -14,6 +14,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-d282d24d1"
 unparsed: 
 line: 'Head: always|Entry: 287 [Always]|Entry: 356 [Allways]|Entry: 1043 [Always]|Entry:
@@ -22,7 +24,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1584,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564771011583
 order: '117'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1584,2918,647,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1584,2918,647,166/full/0/default.jpg
 label: always
 layout: index_item

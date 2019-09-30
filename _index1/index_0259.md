@@ -3,7 +3,7 @@ pid: index_0259
 volume: Volume 3
 image_number: '9'
 head: Baal
-entry: "<a href='/New_Beehive/toc_vol2/toc2_354/'>1919 [Baal]</a>"
+entry: "<a href='/New_Beehive/toc/toc2_354/'>1919 [Baal]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-b0c6e8a96"
 unparsed: 
 line: 'Head: Baal|Entry: 1919 [Baal]|#item-b0c6e8a96'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,27
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1504210675155
 order: '259'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/full/0/default.jpg
 label: Baal
 layout: index_item

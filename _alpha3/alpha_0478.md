@@ -13,6 +13,8 @@ page: p.2 [Image 1.62]|p.3 [Image 1.63]|p.4 [Image 1.64]|p.5 [Image 1.65]|p.6 [I
 add: 
 type: 
 index: "<a href='/New_Beehive/index3/index_2058/'>inscriptions</a>"
+insertion_xref: 
+insertion: 
 item: "#item-454cfd666"
 unparsed: 
 line: 'Entry: Inscription|Topic: Inscription|Xref: epitaph|Xref: motto|Page: p.2 [Image
@@ -23,7 +25,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,36
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564760992756
 order: '478'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,3666,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,3666,3000,541/full/0/default.jpg
 label: Inscription
 layout: alpha_item

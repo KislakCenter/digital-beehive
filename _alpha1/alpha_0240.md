@@ -12,6 +12,8 @@ page:
 add: 
 type: 
 index: "<a href='/New_Beehive/index1/index_1074/'>discretness</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b1771a258"
 unparsed: 
 line: 'Entry: Discretness|Topic: Discretness|Xref: Modesty|Index: discretness|#item-b1771a258'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,25
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1508175280093
 order: '240'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,2989,144/full/0/default.jpg
 label: Discretness
 layout: alpha_item

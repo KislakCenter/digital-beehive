@@ -6,12 +6,14 @@ head:
 entry: Picture
 topic: Picture
 first_letter: P
-xref: painting|4516 [PAGE_MISSING]
+xref: painting
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_2999/'>picture</a>"
+insertion_xref: 
+insertion: 
 item: "#item-4aea507cf"
 unparsed: 
 line: 'Entry: Picture|Topic: Picture|Xref: painting|Xref: 4516 [PAGE_MISSING]|Index:
@@ -20,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,29
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1528333852684
 order: '700'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,2958,468/full/0/default.jpg
 label: Picture
 layout: alpha_item

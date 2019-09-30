@@ -6,13 +6,14 @@ head:
 entry: Surety
 topic: Surety|Suretyship
 first_letter: S
-xref: "<a href='/New_Beehive/toc_vol2/toc2_170/'>914 [Security, he that promises for
-  another]</a>|4509 [PAGE_MISSING]"
+xref: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, he that promises for another]</a>"
 see: 
 page: 
 add: 
 type: 
 index: "<a href='/New_Beehive/index4/index_4003/'>surity. bürger</a>"
+insertion_xref: 
+insertion: 
 item: "#item-b60087f8f"
 unparsed: 
 line: 'Entry: Surety|Topic: Surety|Topic: Suretyship|Xref: 914 [Security, he that
@@ -21,7 +22,7 @@ selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,70
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532551883286
 order: '923'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,704,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,704,3125,426/full/0/default.jpg
 label: Surety
 layout: alpha_item

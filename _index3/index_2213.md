@@ -9,9 +9,11 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: repentance
+add: "<a href='/New_Beehive/index4/index_3371/'>repentance</a>"
 type: 
 index: 
+insertion_xref: 
+insertion: 
 item: "#item-4294c44c6"
 unparsed: 
 line: 'Head: late|Entry: a|Add: repentance|#item-4294c44c6'
@@ -19,7 +21,7 @@ selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559836429486
 order: '2213'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/100,/0/default.jpg
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/full/0/default.jpg
 label: late
 layout: index_item
