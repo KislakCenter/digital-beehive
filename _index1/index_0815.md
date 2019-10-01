@@ -9,7 +9,7 @@ first_letter: C
 xref: 
 see: 
 page: 
-add: charitable
+add: "<a href='/New_Beehive/index1/index_0608/'>charitable</a>"
 type: 
 index: 
 insertion_xref: 

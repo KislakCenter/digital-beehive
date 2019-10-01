@@ -11,7 +11,7 @@ first_letter: O
 xref: 
 see: 
 page: 
-add: passive
+add: "<a href='/New_Beehive/index4/index_2905/'>passive</a>"
 type: 
 index: 
 insertion_xref: 

@@ -12,7 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4669/'>to boult, lift, fan or
+  winnow</a>"
 insertion: 
 item: "#item-322678def"
 unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'

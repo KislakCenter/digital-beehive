@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: "<a href='/New_Beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: shells
+add: "<a href='/New_Beehive/index4/index_3668/'>shells</a>"
 type: 
 index: 
 insertion_xref: 

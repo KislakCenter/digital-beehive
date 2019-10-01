@@ -12,7 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4665/'>to scare, affright, or
+  fright</a>|<a href='/New_Beehive/index5/index_4666/'>fringes</a>"
 insertion: 
 item: "#item-d8eeffd36"
 unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'

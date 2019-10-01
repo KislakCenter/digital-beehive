@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: Divinity
+add: "<a href='/New_Beehive/index1/index_1116/'>Divinity</a>"
 type: 
 index: 
 insertion_xref: 

@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: Judgmt
+add: "<a href='/New_Beehive/index3/index_2134/'>Judgmt</a>"
 type: 
 index: 
 insertion_xref: 

@@ -10,7 +10,7 @@ first_letter: M
 xref: 
 see: 
 page: 
-add: Self
+add: "<a href='/New_Beehive/index4/index_3623/'>Self</a>"
 type: 
 index: 
 insertion_xref: 

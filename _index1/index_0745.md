@@ -9,7 +9,7 @@ first_letter: C
 xref: 
 see: 
 page: 
-add: Best
+add: "<a href='/New_Beehive/index1/index_0362/'>Best</a>"
 type: 
 index: 
 insertion_xref: 

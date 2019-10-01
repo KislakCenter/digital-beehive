@@ -9,7 +9,7 @@ first_letter: P
 xref: 
 see: 
 page: 
-add: prayer
+add: "<a href='/New_Beehive/index4/index_3111/'>prayer</a>"
 type: 
 index: 
 insertion_xref: 

@@ -10,7 +10,7 @@ first_letter: M
 xref: 
 see: 
 page: 
-add: thing|theme
+add: "<a href='/New_Beehive/index5/index_4118/'>thing</a>|<a href='/New_Beehive/index5/index_4112/'>theme</a>"
 type: 
 index: 
 insertion_xref: 

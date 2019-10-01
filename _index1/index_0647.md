@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: <a href='/New_Beehive/index5/index_4702/'>"Christ's absence"</a>
 insertion: 
 item: "#item-3600e4f41"
 unparsed: 'Type: Index|Insertion Xref: [:33.]|#item-3600e4f41'

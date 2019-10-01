@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4681/'>publ. Calam.</a>|<a href='/New_Beehive/index5/index_4682/'>calamity</a>"
 insertion: 
 item: "#item-c3d3453fc"
 unparsed: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'

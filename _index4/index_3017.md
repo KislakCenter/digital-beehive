@@ -12,7 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4697/'>pink. gillifl.</a>|<a href='/New_Beehive/index5/index_4698/'>pindar</a>|<a
+  href='/New_Beehive/index5/index_4699/'>pin money</a>"
 insertion: 
 item: "#item-d81cc2858"
 unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'

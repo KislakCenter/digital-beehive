@@ -9,7 +9,7 @@ first_letter: I/J
 xref: 
 see: 
 page: 
-add: adiaph
+add: "<a href='/New_Beehive/index1/index_0042/'>adiaph</a>"
 type: 
 index: 
 insertion_xref: 

@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4693/'>Dr. Burnet</a>"
 insertion: 
 item: "#item-dc183efb8"
 unparsed: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'

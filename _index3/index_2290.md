@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4732/'>to like</a>"
 insertion: 
 item: "#item-6a37d515c"
 unparsed: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'

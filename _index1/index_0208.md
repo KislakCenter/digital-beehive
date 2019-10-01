@@ -9,7 +9,7 @@ first_letter: A
 xref: 
 see: 
 page: "<a href='/New_Beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
-add: Weapons
+add: "<a href='/New_Beehive/index5/index_4501/'>Weapons</a>"
 type: 
 index: 
 insertion_xref: 

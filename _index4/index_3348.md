@@ -9,7 +9,7 @@ first_letter: R
 xref: 
 see: 
 page: 
-add: history
+add: "<a href='/New_Beehive/index2/index_1844/'>history</a>"
 type: 
 index: 
 insertion_xref: 

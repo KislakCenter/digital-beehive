@@ -10,7 +10,7 @@ first_letter: A
 xref: 
 see: 
 page: 
-add: Old
+add: "<a href='/New_Beehive/index4/index_2783/'>Old</a>"
 type: 
 index: 
 insertion_xref: 

@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4670/'>12 Tribes of Isr</a>"
 insertion: 
 item: "#item-549c2d359"
 unparsed: 'Type: Index|Insertion Xref: [:6.]|#item-549c2d359'

@@ -12,7 +12,8 @@ first_letter: B
 xref: 
 see: 
 page: 
-add: Arab|Infant baptism
+add: "<a href='/New_Beehive/index1/index_0194/'>Arab</a>|<a href='/New_Beehive/index3/index_2030/'>Infant
+  baptism</a>"
 type: 
 index: 
 insertion_xref: 

@@ -10,7 +10,7 @@ first_letter: I/J
 xref: 
 see: 
 page: 
-add: last day
+add: "<a href='/New_Beehive/index3/index_2204/'>last day</a>"
 type: 
 index: 
 insertion_xref: 

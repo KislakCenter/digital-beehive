@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: bacchanals
+add: "<a href='/New_Beehive/index1/index_0262/'>bacchanals</a>"
 type: 
 index: 
 insertion_xref: 

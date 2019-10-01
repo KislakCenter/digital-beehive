@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4689/'>pike, Hecht</a>"
 insertion: 
 item: "#item-af87e25ee"
 unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'

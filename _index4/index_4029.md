@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4685/'>Syllogism</a>"
 insertion: 
 item: "#item-54fbea411"
 unparsed: 'Type: Index|Insertion Xref: [:20.]|#item-54fbea411'

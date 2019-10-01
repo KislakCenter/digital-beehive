@@ -10,7 +10,7 @@ first_letter: M
 xref: 
 see: 
 page: "<a href='/New_Beehive/toc_vol1/toc1_081/'>p.31 [Image 1.91]</a>"
-add: Counterfeit
+add: "<a href='/New_Beehive/index1/index_0874/'>Counterfeit</a>"
 type: 
 index: 
 insertion_xref: 

@@ -9,7 +9,7 @@ first_letter: T
 xref: 
 see: 
 page: 
-add: neck
+add: "<a href='/New_Beehive/index3/index_2672/'>neck</a>"
 type: 
 index: 
 insertion_xref: 

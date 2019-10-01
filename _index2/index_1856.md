@@ -12,7 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4679/'>holiness of places and
+  times</a>"
 insertion: 
 item: "#item-eb07b77b2"
 unparsed: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'

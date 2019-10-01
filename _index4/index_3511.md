@@ -12,7 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4705/'>Salvation of Children &
+  Idiots</a>"
 insertion: 
 item: "#item-df57c1fe1"
 unparsed: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'

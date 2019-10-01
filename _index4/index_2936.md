@@ -9,7 +9,7 @@ first_letter: P
 xref: 
 see: 
 page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
-add: Jewel
+add: "<a href='/New_Beehive/index3/index_1945/'>Jewel</a>"
 type: 
 index: 
 insertion_xref: 

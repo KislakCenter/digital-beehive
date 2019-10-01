@@ -9,7 +9,7 @@ first_letter: D
 xref: 
 see: 
 page: 
-add: Eccles.|martial
+add: "<a href='/New_Beehive/index2/index_1201/'>Eccles.</a>|<a href='/New_Beehive/index3/index_2435/'>martial</a>"
 type: 
 index: 
 insertion_xref: 

@@ -9,7 +9,8 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: Concup|lasciv|pleasure|eye
+add: "<a href='/New_Beehive/index1/index_0778/'>Concup</a>|<a href='/New_Beehive/index3/index_2202/'>lasciv</a>|<a
+  href='/New_Beehive/index4/index_3043/'>pleasure</a>|<a href='/New_Beehive/index2/index_1373/'>eye</a>"
 type: 
 index: 
 insertion_xref: 

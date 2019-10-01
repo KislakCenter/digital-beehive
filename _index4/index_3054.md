@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: 
+insertion_xref: "<a href='/New_Beehive/index5/index_4718/'>Pluto & Proserp.</a>"
 insertion: 
 item: "#item-926825644"
 unparsed: 'Type: Index|Insertion Xref: [:49.]|#item-926825644'

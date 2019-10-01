@@ -9,7 +9,7 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: term
+add: "<a href='/New_Beehive/index5/index_4093/'>term</a>"
 type: 
 index: 
 insertion_xref: 
