@@ -26,6 +26,7 @@ order: '117'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/378,2569,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/378,2569,3024,601/full/0/default.jpg
 label: Capital offence
+location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

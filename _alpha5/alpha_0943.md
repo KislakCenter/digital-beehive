@@ -26,6 +26,7 @@ order: '943'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,2998,688/full/0/default.jpg
 label: Thought
+location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

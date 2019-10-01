@@ -25,6 +25,7 @@ order: '846'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/316,3461,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/316,3461,3016,329/full/0/default.jpg
 label: Self praise
+location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

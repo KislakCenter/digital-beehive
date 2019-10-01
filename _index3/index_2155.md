@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4703/'>kidnapper</a>"
+insertion_xref: 
 insertion: 
 item: "#item-1cb4bc6fb"
 unparsed: 'Type: Index|Insertion Xref: [:34.]|#item-1cb4bc6fb'
@@ -24,6 +24,7 @@ order: '2155'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1347,459,237,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1347,459,237,151/full/0/default.jpg
 label: "[:34.]"
+location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -26,6 +26,7 @@ order: '707'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,3078,429/full/0/default.jpg
 label: Pleasure
+location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

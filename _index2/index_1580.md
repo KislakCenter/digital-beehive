@@ -24,6 +24,7 @@ order: '1580'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/full/0/default.jpg
 label: gaping
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

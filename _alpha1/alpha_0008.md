@@ -26,6 +26,7 @@ order: '8'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,3011,473/full/0/default.jpg
 label: Advantage
+location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -24,6 +24,7 @@ order: '1993'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1573,737,451,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1573,737,451,117/full/0/default.jpg
 label: incense
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

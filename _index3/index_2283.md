@@ -27,6 +27,7 @@ order: '2283'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/full/0/default.jpg
 label: life
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

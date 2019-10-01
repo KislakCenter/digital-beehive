@@ -24,6 +24,7 @@ order: '743'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,594,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,594,2999,293/full/0/default.jpg
 label: Property
+location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -25,6 +25,7 @@ order: '3745'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,1928,733,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,1928,733,117/full/0/default.jpg
 label: slavery
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

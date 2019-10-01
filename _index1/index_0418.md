@@ -24,6 +24,7 @@ order: '418'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1782,2368,408,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1782,2368,408,90/full/0/default.jpg
 label: Boston
+location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

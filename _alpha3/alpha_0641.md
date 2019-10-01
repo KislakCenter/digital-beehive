@@ -24,6 +24,7 @@ order: '641'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,3029,368/full/0/default.jpg
 label: Nun
+location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

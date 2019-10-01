@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4719/'>Charon</a>"
+insertion_xref: 
 insertion: 
 item: "#item-f368c1523"
 unparsed: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
@@ -24,6 +24,7 @@ order: '611'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/full/0/default.jpg
 label: "[:50.]"
+location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

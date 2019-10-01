@@ -24,6 +24,7 @@ order: '522'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1577,1651,459,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1577,1651,459,98/full/0/default.jpg
 label: I can not
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

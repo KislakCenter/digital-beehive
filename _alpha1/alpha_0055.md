@@ -25,6 +25,7 @@ order: '55'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/324,427,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/324,427,3068,479/full/0/default.jpg
 label: Banishment
+location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

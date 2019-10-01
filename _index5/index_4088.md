@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4724/'>tenant</a>"
+insertion_xref: 
 insertion: 
 item: "#item-8ada9c323"
 unparsed: 'Type: Index|Insertion Xref: [:55.]|#item-8ada9c323'
@@ -24,6 +24,7 @@ order: '4088'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/full/0/default.jpg
 label: "[:55.]"
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

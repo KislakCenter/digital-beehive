@@ -24,6 +24,7 @@ order: '454'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/171,2292,537,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/171,2292,537,164/full/0/default.jpg
 label: bridle
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

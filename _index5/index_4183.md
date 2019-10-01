@@ -24,6 +24,7 @@ order: '4183'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/452,1760,581,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/452,1760,581,129/full/0/default.jpg
 label: too much liberty
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

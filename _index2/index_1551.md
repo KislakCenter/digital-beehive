@@ -25,6 +25,7 @@ order: '1551'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/835,2956,656,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/835,2956,656,173/full/0/default.jpg
 label: frog
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

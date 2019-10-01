@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4688/'>Chalk</a>"
+insertion_xref: 
 insertion: 
 item: "#item-6e8c2ccdb"
 unparsed: 'Type: Index|Insertion Xref: [:22.]|#item-6e8c2ccdb'
@@ -24,6 +24,7 @@ order: '590'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1637,2394,178,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1637,2394,178,157/full/0/default.jpg
 label: "[:22.]"
+location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

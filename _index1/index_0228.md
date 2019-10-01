@@ -24,6 +24,7 @@ order: '228'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2991,431,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2991,431,111/full/0/default.jpg
 label: asthma
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

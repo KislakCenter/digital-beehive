@@ -27,6 +27,7 @@ order: '230'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/full/0/default.jpg
 label: astrology
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

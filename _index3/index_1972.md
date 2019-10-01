@@ -24,6 +24,7 @@ order: '1972'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/full/0/default.jpg
 label: imploymt
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

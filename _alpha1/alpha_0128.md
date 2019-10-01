@@ -24,6 +24,7 @@ order: '128'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,2974,600/full/0/default.jpg
 label: Cattel
+location: "<a href='/New_Beehive/toc/toc1_430/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

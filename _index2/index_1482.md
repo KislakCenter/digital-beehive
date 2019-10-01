@@ -25,6 +25,7 @@ order: '1482'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1802,3244,635,238/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1802,3244,635,238/full/0/default.jpg
 label: flight
+location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -24,6 +24,7 @@ order: '4471'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,1620,454,97/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,1620,454,97/full/0/default.jpg
 label: want of love
+location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -11,7 +11,7 @@ first_letter: O
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_2905/'>passive</a>"
+add: passive
 type: 
 index: 
 insertion_xref: 
@@ -27,6 +27,7 @@ order: '2755'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/full/0/default.jpg
 label: obedience
+location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

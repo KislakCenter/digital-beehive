@@ -24,6 +24,7 @@ order: '250'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/412,1173,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/412,1173,3038,286/full/0/default.jpg
 label: Division
+location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

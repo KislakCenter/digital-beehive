@@ -24,6 +24,7 @@ order: '544'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,3076,506/full/0/default.jpg
 label: Longsufferance
+location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

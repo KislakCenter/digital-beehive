@@ -26,6 +26,7 @@ order: '631'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
 label: Negligenge
+location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

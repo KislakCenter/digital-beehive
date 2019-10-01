@@ -25,6 +25,7 @@ order: '4535'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1780,247,695,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1780,247,695,132/full/0/default.jpg
 label: whimsies
+location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -25,6 +25,7 @@ order: '1890'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1835,879,489,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1835,879,489,128/full/0/default.jpg
 label: house
+location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -25,6 +25,7 @@ order: '1256'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1814,1651,761,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1814,1651,761,169/full/0/default.jpg
 label: English Church
+location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

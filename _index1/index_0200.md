@@ -24,6 +24,7 @@ order: '200'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1817,350,329,71/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1817,350,329,71/full/0/default.jpg
 label: argus
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

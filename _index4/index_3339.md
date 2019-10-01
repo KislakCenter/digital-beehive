@@ -25,6 +25,7 @@ order: '3339'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/92,2053,874,213/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/92,2053,874,213/full/0/default.jpg
 label: regarding of persons
+location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

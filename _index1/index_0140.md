@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4696/'>ἀνδρωποπαδῶς</a>"
+insertion_xref: 
 insertion: 
 item: "#item-21d93425d"
 unparsed: 'Type: Index|Insertion Xref: [:30.]|#item-21d93425d'
@@ -24,6 +24,7 @@ order: '140'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/931,1622,201,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/931,1622,201,103/full/0/default.jpg
 label: "[:30.]"
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

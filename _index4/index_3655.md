@@ -24,6 +24,7 @@ order: '3655'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/full/0/default.jpg
 label: sexton
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

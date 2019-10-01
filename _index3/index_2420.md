@@ -25,6 +25,7 @@ order: '2420'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/full/0/default.jpg
 label: manuscripts of mine own
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

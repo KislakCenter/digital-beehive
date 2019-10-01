@@ -24,6 +24,7 @@ order: '382'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,3059,273/full/0/default.jpg
 label: Gravity
+location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

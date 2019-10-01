@@ -25,6 +25,7 @@ order: '934'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,3154,565/full/0/default.jpg
 label: Temptation
+location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

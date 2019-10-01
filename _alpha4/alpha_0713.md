@@ -25,6 +25,7 @@ order: '713'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/337,2950,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/337,2950,3042,478/full/0/default.jpg
 label: Possibility
+location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -26,6 +26,7 @@ order: '107'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,2941,492/full/0/default.jpg
 label: Building
+location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

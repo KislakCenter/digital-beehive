@@ -27,6 +27,7 @@ order: '237'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/807,985,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/807,985,2972,520/full/0/default.jpg
 label: Discipline
+location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -25,6 +25,7 @@ order: '558'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/714,1621,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/714,1621,3051,542/full/0/default.jpg
 label: Love potions
+location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

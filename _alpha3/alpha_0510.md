@@ -26,6 +26,7 @@ order: '510'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,2989,369/full/0/default.jpg
 label: Last day of Judgmt
+location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

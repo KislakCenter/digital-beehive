@@ -24,6 +24,7 @@ order: '437'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/792,1513,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/792,1513,2912,589/full/0/default.jpg
 label: Hunger
+location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

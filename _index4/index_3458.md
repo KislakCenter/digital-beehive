@@ -24,6 +24,7 @@ order: '3458'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2264,486,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2264,486,125/full/0/default.jpg
 label: royalists
+location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

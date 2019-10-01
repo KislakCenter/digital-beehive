@@ -24,6 +24,7 @@ order: '2518'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/full/0/default.jpg
 label: Milton
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

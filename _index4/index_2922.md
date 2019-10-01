@@ -24,6 +24,7 @@ order: '2922'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/full/0/default.jpg
 label: patriarchs
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

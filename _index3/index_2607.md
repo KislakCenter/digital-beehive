@@ -24,6 +24,7 @@ order: '2607'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1562,834,660,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1562,834,660,148/full/0/default.jpg
 label: mouth
+location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

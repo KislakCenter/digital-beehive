@@ -25,6 +25,7 @@ order: '1291'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/full/0/default.jpg
 label: equivocation
+location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

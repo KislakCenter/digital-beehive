@@ -24,6 +24,7 @@ order: '901'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/285,2406,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/285,2406,3073,299/full/0/default.jpg
 label: Stepfather
+location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

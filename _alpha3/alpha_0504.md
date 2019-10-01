@@ -25,6 +25,7 @@ order: '504'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,2982,712/full/0/default.jpg
 label: Labour
+location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

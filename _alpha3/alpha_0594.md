@@ -24,6 +24,7 @@ order: '594'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/358,1465,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/358,1465,3045,456/full/0/default.jpg
 label: Misery
+location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -24,6 +24,7 @@ order: '112'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/347,898,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/347,898,3072,426/full/0/default.jpg
 label: Cabal
+location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

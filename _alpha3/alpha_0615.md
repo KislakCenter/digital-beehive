@@ -24,6 +24,7 @@ order: '615'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/716,3588,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/716,3588,3051,319/full/0/default.jpg
 label: Mushroom
+location: "<a href='/New_Beehive/toc/toc2_024/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

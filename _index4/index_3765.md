@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: "<a href='/New_Beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: "<a href='/New_Beehive/index4/index_3668/'>shells</a>"
+add: shells
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '3765'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/full/0/default.jpg
 label: snail
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

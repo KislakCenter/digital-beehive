@@ -24,6 +24,7 @@ order: '1074'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,737,480,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,737,480,150/full/0/default.jpg
 label: discretness
+location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,6 +24,7 @@ order: '3789'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3357,530,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3357,530,167/full/0/default.jpg
 label: solstice
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

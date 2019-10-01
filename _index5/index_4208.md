@@ -25,6 +25,7 @@ order: '4208'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/full/0/default.jpg
 label: toys
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

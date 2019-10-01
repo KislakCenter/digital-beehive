@@ -27,6 +27,7 @@ order: '2178'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/full/0/default.jpg
 label: knowledge of God
+location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -25,6 +25,7 @@ order: '554'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,3082,538/full/0/default.jpg
 label: Love of our Neighbour
+location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

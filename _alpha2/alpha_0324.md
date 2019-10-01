@@ -25,6 +25,7 @@ order: '324'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,3031,424/full/0/default.jpg
 label: Fire
+location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

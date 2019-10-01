@@ -25,6 +25,7 @@ order: '270'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,2960,651/full/0/default.jpg
 label: Earth
+location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

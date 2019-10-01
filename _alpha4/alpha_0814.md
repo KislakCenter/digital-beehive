@@ -24,6 +24,7 @@ order: '814'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/333,3280,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/333,3280,2990,366/full/0/default.jpg
 label: Sacrifice
+location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

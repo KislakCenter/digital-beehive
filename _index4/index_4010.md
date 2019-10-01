@@ -24,6 +24,7 @@ order: '4010'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1094,697,431,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1094,697,431,108/full/0/default.jpg
 label: surveyor
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

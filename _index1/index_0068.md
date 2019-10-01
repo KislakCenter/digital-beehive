@@ -24,6 +24,7 @@ order: '68'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/full/0/default.jpg
 label: after sweet sowre
+location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

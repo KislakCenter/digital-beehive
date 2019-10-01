@@ -26,6 +26,7 @@ order: '2406'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1526,1599,812,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1526,1599,812,156/full/0/default.jpg
 label: brave man
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

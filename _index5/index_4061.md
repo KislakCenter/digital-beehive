@@ -24,6 +24,7 @@ order: '4061'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1824,2690,505,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1824,2690,505,105/full/0/default.jpg
 label: tares
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

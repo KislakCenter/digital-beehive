@@ -27,6 +27,7 @@ order: '293'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/783,3300,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/783,3300,2976,674/full/0/default.jpg
 label: Examination
+location: "<a href='/New_Beehive/toc/toc1_444/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

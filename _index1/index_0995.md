@@ -24,6 +24,7 @@ order: '995'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/336,2580,695,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/336,2580,695,123/full/0/default.jpg
 label: degrees to marry in
+location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

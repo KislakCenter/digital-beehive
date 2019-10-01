@@ -25,6 +25,7 @@ order: '262'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/183,3038,669,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/183,3038,669,116/full/0/default.jpg
 label: bacchanals
+location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

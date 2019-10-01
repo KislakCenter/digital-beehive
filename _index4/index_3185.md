@@ -24,6 +24,7 @@ order: '3185'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,2609,471,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,2609,471,154/full/0/default.jpg
 label: prohibition
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

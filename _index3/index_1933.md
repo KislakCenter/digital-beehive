@@ -25,6 +25,7 @@ order: '1933'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1125,660,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1125,660,161/full/0/default.jpg
 label: idolatry
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

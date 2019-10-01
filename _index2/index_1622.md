@@ -24,6 +24,7 @@ order: '1622'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/full/0/default.jpg
 label: gleanings
+location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

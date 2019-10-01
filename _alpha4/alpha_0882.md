@@ -24,6 +24,7 @@ order: '882'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/797,1347,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/797,1347,2965,346/full/0/default.jpg
 label: Snow
+location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

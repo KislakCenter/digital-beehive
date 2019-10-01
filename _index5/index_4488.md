@@ -24,6 +24,7 @@ order: '4488'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/552,817,418,81/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/552,817,418,81/full/0/default.jpg
 label: waste Coat
+location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -27,6 +27,7 @@ order: '1647'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1969,704,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1969,704,98/full/0/default.jpg
 label: God's help
+location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

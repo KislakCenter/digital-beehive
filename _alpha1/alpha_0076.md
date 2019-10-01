@@ -24,6 +24,7 @@ order: '76'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/864,2531,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/864,2531,2909,269/full/0/default.jpg
 label: Bell
+location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

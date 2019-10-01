@@ -24,6 +24,7 @@ order: '4570'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1081,694,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1081,694,119/full/0/default.jpg
 label: 7. wise men of Greece
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

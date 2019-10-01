@@ -24,6 +24,7 @@ order: '3051'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/full/0/default.jpg
 label: plums
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '942'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,2986,549/full/0/default.jpg
 label: Thouing
+location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

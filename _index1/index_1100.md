@@ -24,6 +24,7 @@ order: '1100'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/127,3395,600,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/127,3395,600,143/full/0/default.jpg
 label: to dissolve
+location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

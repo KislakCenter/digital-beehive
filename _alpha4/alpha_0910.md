@@ -26,6 +26,7 @@ order: '910'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,3038,547/full/0/default.jpg
 label: Stratagem
+location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

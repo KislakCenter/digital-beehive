@@ -24,6 +24,7 @@ order: '1717'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,1593,392,66/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,1593,392,66/full/0/default.jpg
 label: grinding stone
+location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

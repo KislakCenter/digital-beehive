@@ -24,6 +24,7 @@ order: '2031'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/440,1275,469,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/440,1275,469,173/full/0/default.jpg
 label: infant killing
+location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

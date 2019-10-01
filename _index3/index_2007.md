@@ -24,6 +24,7 @@ order: '2007'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1569,2350,487,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1569,2350,487,101/full/0/default.jpg
 label: incurable
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

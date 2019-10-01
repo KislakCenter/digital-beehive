@@ -25,6 +25,7 @@ order: '2273'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1132,1644,601,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1132,1644,601,167/full/0/default.jpg
 label: liberality
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

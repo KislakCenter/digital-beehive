@@ -9,8 +9,7 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0778/'>Concup</a>|<a href='/New_Beehive/index3/index_2202/'>lasciv</a>|<a
-  href='/New_Beehive/index4/index_3043/'>pleasure</a>|<a href='/New_Beehive/index2/index_1373/'>eye</a>"
+add: Concup|lasciv|pleasure|eye
 type: 
 index: 
 insertion_xref: 
@@ -26,6 +25,7 @@ order: '2368'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/full/0/default.jpg
 label: lust
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

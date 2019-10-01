@@ -24,6 +24,7 @@ order: '1314'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/full/0/default.jpg
 label: evangelists
+location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

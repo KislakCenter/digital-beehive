@@ -25,6 +25,7 @@ order: '987'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,4529,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,4529,2995,298/full/0/default.jpg
 label: Day of Visitation
+location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -27,6 +27,7 @@ order: '1510'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,2638,795,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,2638,795,128/full/0/default.jpg
 label: forgetfulness
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

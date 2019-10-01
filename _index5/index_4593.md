@@ -24,6 +24,7 @@ order: '4593'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/full/0/default.jpg
 label: bad woman
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

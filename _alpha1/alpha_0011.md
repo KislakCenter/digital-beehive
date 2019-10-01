@@ -26,6 +26,7 @@ order: '11'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,224,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,224,3138,432/full/0/default.jpg
 label: "[WORD_MISSING]"
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

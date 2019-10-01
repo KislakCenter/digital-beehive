@@ -24,6 +24,7 @@ order: '3685'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/full/0/default.jpg
 label: shopkeeper
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

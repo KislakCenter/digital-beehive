@@ -25,6 +25,7 @@ order: '677'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,4398,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,4398,2951,673/full/0/default.jpg
 label: Parsimony
+location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

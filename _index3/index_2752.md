@@ -24,6 +24,7 @@ order: '2752'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/149,1155,578,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/149,1155,578,147/full/0/default.jpg
 label: nymph[ae]
+location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

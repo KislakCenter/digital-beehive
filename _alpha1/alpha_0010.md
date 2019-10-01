@@ -25,6 +25,7 @@ order: '10'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,3048,673/full/0/default.jpg
 label: Adversity
+location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

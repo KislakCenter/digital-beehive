@@ -26,6 +26,7 @@ order: '905'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,3032,329/full/0/default.jpg
 label: Stone
+location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

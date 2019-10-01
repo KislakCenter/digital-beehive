@@ -9,7 +9,7 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_3111/'>prayer</a>"
+add: prayer
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '2333'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/full/0/default.jpg
 label: Lord
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

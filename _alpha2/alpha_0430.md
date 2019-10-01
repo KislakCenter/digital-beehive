@@ -24,6 +24,7 @@ order: '430'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/368,3622,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/368,3622,3028,460/full/0/default.jpg
 label: Horseman
+location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

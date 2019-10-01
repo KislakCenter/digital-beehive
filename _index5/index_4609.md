@@ -25,6 +25,7 @@ order: '4609'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/full/0/default.jpg
 label: strange words
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

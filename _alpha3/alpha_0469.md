@@ -26,6 +26,7 @@ order: '469'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/279,518,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/279,518,3040,403/full/0/default.jpg
 label: Inequality
+location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

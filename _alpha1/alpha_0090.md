@@ -25,6 +25,7 @@ order: '90'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/360,2980,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/360,2980,3058,563/full/0/default.jpg
 label: Body
+location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

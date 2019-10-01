@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4721/'>Fistula</a>"
+insertion_xref: 
 insertion: 
 item: "#item-23667846e"
 unparsed: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
@@ -24,6 +24,7 @@ order: '1467'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/full/0/default.jpg
 label: "[:52.]"
+location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

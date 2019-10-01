@@ -25,6 +25,7 @@ order: '2875'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/full/0/default.jpg
 label: paradox
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -9,7 +9,7 @@ first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index2/index_1201/'>Eccles.</a>|<a href='/New_Beehive/index3/index_2435/'>martial</a>"
+add: Eccles.|martial
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '1067'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/full/0/default.jpg
 label: discipline
+location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

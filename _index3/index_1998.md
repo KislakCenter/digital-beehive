@@ -24,6 +24,7 @@ order: '1998'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,1246,531,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,1246,531,146/full/0/default.jpg
 label: incom[m]odity
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

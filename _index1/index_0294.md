@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4683/'>Barclay</a>"
+insertion_xref: 
 insertion: 
 item: "#item-e054b74df"
 unparsed: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
@@ -24,6 +24,7 @@ order: '294'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1410,2729,170,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1410,2729,170,121/full/0/default.jpg
 label: "[:18.]"
+location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

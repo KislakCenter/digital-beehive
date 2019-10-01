@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4715/'>to gild</a>"
+insertion_xref: 
 insertion: 
 item: "#item-1e8f21771"
 unparsed: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
@@ -24,6 +24,7 @@ order: '1612'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/full/0/default.jpg
 label: "[:46.]"
+location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

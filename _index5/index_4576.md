@@ -24,6 +24,7 @@ order: '4576'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,1766,535,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,1766,535,104/full/0/default.jpg
 label: witchcraft natural
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

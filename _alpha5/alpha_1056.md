@@ -24,6 +24,7 @@ order: '1056'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,2998,413/full/0/default.jpg
 label: Wrinkle
+location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

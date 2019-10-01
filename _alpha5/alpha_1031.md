@@ -25,6 +25,7 @@ order: '1031'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,3046,500/full/0/default.jpg
 label: Wish
+location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

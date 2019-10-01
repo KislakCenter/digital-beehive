@@ -24,6 +24,7 @@ order: '3621'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/372,1805,642,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/372,1805,642,111/full/0/default.jpg
 label: Self learning
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

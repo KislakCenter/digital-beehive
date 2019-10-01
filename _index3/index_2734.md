@@ -24,6 +24,7 @@ order: '2734'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1844,2203,535,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1844,2203,535,92/full/0/default.jpg
 label: nota benè
+location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

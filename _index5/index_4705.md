@@ -25,6 +25,7 @@ order: '4705'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1074,1865,707,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1074,1865,707,186/full/0/default.jpg
 label: Salvation of Children & Idiots
+location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

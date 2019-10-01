@@ -26,6 +26,7 @@ order: '978'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,1785,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,1785,2998,457/full/0/default.jpg
 label: Variety
+location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -24,6 +24,7 @@ order: '932'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,3114,549/full/0/default.jpg
 label: Temerity
+location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

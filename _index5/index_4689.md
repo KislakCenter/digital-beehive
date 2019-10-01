@@ -24,6 +24,7 @@ order: '4689'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/full/0/default.jpg
 label: pike, Hecht
+location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

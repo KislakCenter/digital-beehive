@@ -24,6 +24,7 @@ order: '1007'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/363,2253,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/363,2253,2981,401/full/0/default.jpg
 label: Wager
+location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

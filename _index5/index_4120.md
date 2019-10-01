@@ -24,6 +24,7 @@ order: '4120'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/919,1890,352,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/919,1890,352,101/full/0/default.jpg
 label: thirst
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

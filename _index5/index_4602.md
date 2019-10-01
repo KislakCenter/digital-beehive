@@ -24,6 +24,7 @@ order: '4602'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/full/0/default.jpg
 label: wonderful things
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

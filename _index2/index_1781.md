@@ -24,6 +24,7 @@ order: '1781'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1557,818,638,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1557,818,638,93/full/0/default.jpg
 label: hear-say
+location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

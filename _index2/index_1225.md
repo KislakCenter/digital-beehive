@@ -24,6 +24,7 @@ order: '1225'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2409,376,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2409,376,147/full/0/default.jpg
 label: Elijah
+location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

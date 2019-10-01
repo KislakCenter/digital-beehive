@@ -27,6 +27,7 @@ order: '4387'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1147,1037,696,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1147,1037,696,176/full/0/default.jpg
 label: union with God
+location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -27,6 +27,7 @@ order: '319'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,712,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,712,3049,495/full/0/default.jpg
 label: Fear
+location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

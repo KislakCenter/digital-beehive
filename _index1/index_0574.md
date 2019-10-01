@@ -24,6 +24,7 @@ order: '574'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1070,756,653,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1070,756,653,127/full/0/default.jpg
 label: cedar
+location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

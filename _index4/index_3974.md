@@ -27,6 +27,7 @@ order: '3974'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/full/0/default.jpg
 label: sufferings of Qrs
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '823'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/full/0/default.jpg
 label: contempt of the world
+location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -25,6 +25,7 @@ order: '4222'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1094,2915,622,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1094,2915,622,176/full/0/default.jpg
 label: travelling
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

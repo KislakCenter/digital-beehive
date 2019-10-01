@@ -24,6 +24,7 @@ order: '118'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/358,3102,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/358,3102,3045,632/full/0/default.jpg
 label: Captain
+location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

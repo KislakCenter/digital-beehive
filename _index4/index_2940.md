@@ -25,6 +25,7 @@ order: '2940'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/97,660,608,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/97,660,608,129/full/0/default.jpg
 label: pedlars
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

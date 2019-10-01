@@ -25,6 +25,7 @@ order: '672'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/143,2249,644,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/143,2249,644,122/full/0/default.jpg
 label: circumcision
+location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

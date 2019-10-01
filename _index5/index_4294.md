@@ -12,8 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4669/'>to boult, lift, fan or
-  winnow</a>"
+insertion_xref: 
 insertion: 
 item: "#item-322678def"
 unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
@@ -25,6 +24,7 @@ order: '4294'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/full/0/default.jpg
 label: "[:5.]"
+location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

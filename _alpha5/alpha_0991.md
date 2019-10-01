@@ -24,6 +24,7 @@ order: '991'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/825,948,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/825,948,2946,440/full/0/default.jpg
 label: Unction
+location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -10,7 +10,7 @@ first_letter: A
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_2783/'>Old</a>"
+add: Old
 type: 
 index: 
 insertion_xref: 
@@ -25,6 +25,7 @@ order: '39'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/161,3443,624,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/161,3443,624,169/full/0/default.jpg
 label: Adam
+location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

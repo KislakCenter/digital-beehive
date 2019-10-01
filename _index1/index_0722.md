@@ -24,6 +24,7 @@ order: '722'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/full/0/default.jpg
 label: collections of friends books
+location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

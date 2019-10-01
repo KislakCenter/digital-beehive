@@ -24,6 +24,7 @@ order: '664'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,3061,526/full/0/default.jpg
 label: Orphan
+location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

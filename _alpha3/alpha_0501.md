@@ -24,6 +24,7 @@ order: '501'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
 label: Kiss
+location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

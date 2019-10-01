@@ -28,6 +28,7 @@ order: '885'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/145,2466,720,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/145,2466,720,143/full/0/default.jpg
 label: to court
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

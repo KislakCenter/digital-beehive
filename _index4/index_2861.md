@@ -24,6 +24,7 @@ order: '2861'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,3168,469,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,3168,469,156/full/0/default.jpg
 label: Pallas
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

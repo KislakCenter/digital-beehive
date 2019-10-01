@@ -24,6 +24,7 @@ order: '660'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,2993,371/full/0/default.jpg
 label: Oracle
+location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

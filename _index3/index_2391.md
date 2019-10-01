@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4668/'>Lord Major</a>"
+insertion_xref: 
 insertion: 
 item: "#item-9a06bbb61"
 unparsed: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
@@ -24,6 +24,7 @@ order: '2391'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2139,370,183,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2139,370,183,131/full/0/default.jpg
 label: "[:4.]"
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

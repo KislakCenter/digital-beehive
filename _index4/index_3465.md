@@ -27,6 +27,7 @@ order: '3465'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/full/0/default.jpg
 label: rule of faith & life
+location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -26,6 +26,7 @@ order: '1958'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/full/0/default.jpg
 label: imagination
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

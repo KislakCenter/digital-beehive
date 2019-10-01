@@ -24,6 +24,7 @@ order: '3157'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/full/0/default.jpg
 label: primitive Xtians
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

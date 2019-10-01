@@ -25,6 +25,7 @@ order: '4605'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/full/0/default.jpg
 label: word of God
+location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

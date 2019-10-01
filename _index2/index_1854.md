@@ -24,6 +24,7 @@ order: '1854'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1126,1088,337,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1126,1088,337,122/full/0/default.jpg
 label: hole
+location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

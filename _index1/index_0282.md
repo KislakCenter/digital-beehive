@@ -25,6 +25,7 @@ order: '282'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1314,668,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1314,668,138/full/0/default.jpg
 label: bands
+location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

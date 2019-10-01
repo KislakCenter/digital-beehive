@@ -26,6 +26,7 @@ order: '986'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/359,4209,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/359,4209,2952,398/full/0/default.jpg
 label: Virginity
+location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -9,7 +9,7 @@ first_letter: F
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_4008/'>surreptitious</a>"
+add: surreptitious
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '1393'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/full/0/default.jpg
 label: false brethren
+location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

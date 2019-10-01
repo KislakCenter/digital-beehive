@@ -25,6 +25,7 @@ order: '1398'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/381,2515,756,194/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/381,2515,756,194/full/0/default.jpg
 label: famine
+location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

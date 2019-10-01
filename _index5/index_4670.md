@@ -24,6 +24,7 @@ order: '4670'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/367,1186,709,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/367,1186,709,159/full/0/default.jpg
 label: 12 Tribes of Isr
+location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

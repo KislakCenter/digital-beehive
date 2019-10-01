@@ -24,6 +24,7 @@ order: '2571'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/full/0/default.jpg
 label: months
+location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

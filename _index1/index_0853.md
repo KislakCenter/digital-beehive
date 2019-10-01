@@ -24,6 +24,7 @@ order: '853'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1823,2995,409,86/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1823,2995,409,86/full/0/default.jpg
 label: corns
+location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

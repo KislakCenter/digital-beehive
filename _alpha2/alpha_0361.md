@@ -24,6 +24,7 @@ order: '361'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/785,2714,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/785,2714,2953,343/full/0/default.jpg
 label: Glory
+location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

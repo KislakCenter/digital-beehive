@@ -26,6 +26,7 @@ order: '171'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/765,1761,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/765,1761,3094,535/full/0/default.jpg
 label: Considerateness
+location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

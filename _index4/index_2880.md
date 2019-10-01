@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4720/'>Parc[ae</a>"
+insertion_xref: 
 insertion: 
 item: "#item-77c3e5e78"
 unparsed: 'Type: Index|Insertion Xref: [:51.]|#item-77c3e5e78'
@@ -24,6 +24,7 @@ order: '2880'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1661,1673,177,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1661,1673,177,113/full/0/default.jpg
 label: "[:51.]"
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

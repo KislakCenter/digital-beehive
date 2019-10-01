@@ -24,6 +24,7 @@ order: '2946'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/115,1184,665,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/115,1184,665,135/full/0/default.jpg
 label: Is. Penington
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

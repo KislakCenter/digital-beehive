@@ -24,6 +24,7 @@ order: '3092'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1170,2441,500,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1170,2441,500,184/full/0/default.jpg
 label: posture
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

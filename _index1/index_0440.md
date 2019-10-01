@@ -25,6 +25,7 @@ order: '440'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/full/0/default.jpg
 label: bread
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

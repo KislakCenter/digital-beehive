@@ -26,6 +26,7 @@ order: '601'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/363,3784,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/363,3784,3002,343/full/0/default.jpg
 label: Monster
+location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

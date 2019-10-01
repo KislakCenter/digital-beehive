@@ -25,6 +25,7 @@ order: '843'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,3051,427/full/0/default.jpg
 label: Self knowledge
+location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

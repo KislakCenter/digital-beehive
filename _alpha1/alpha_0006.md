@@ -24,6 +24,7 @@ order: '6'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,3234,432/full/0/default.jpg
 label: Adiaphory
+location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

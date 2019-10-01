@@ -25,6 +25,7 @@ order: '3178'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/full/0/default.jpg
 label: prodigality
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

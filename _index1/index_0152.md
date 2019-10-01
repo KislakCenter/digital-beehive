@@ -25,6 +25,7 @@ order: '152'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/full/0/default.jpg
 label: answer
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

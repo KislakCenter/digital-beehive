@@ -27,6 +27,7 @@ order: '4237'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
 label: tribulation
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

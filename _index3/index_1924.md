@@ -24,6 +24,7 @@ order: '1924'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/full/0/default.jpg
 label: Jailer
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

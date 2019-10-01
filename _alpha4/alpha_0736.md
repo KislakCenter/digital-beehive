@@ -24,6 +24,7 @@ order: '736'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,3051,604/full/0/default.jpg
 label: Prognostications
+location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

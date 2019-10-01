@@ -27,6 +27,7 @@ order: '4161'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1592,3029,679,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1592,3029,679,167/full/0/default.jpg
 label: tithes
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

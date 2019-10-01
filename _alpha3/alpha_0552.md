@@ -24,6 +24,7 @@ order: '552'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,3028,682/full/0/default.jpg
 label: Love of Christ
+location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

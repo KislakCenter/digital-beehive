@@ -24,6 +24,7 @@ order: '3923'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,981,458,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,981,458,93/full/0/default.jpg
 label: to Strain liquor
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

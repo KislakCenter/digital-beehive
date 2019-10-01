@@ -24,6 +24,7 @@ order: '2529'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1839,3095,328,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1839,3095,328,94/full/0/default.jpg
 label: mint
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

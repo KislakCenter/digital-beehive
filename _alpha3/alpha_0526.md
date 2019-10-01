@@ -24,6 +24,7 @@ order: '526'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,3020,304/full/0/default.jpg
 label: Lending
+location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

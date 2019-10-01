@@ -24,6 +24,7 @@ order: '1026'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1051,2692,774,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1051,2692,774,114/full/0/default.jpg
 label: desola[ti]on
+location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

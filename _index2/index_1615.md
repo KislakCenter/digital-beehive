@@ -24,6 +24,7 @@ order: '1615'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/full/0/default.jpg
 label: girl
+location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

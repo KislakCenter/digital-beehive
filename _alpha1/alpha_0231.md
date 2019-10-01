@@ -24,6 +24,7 @@ order: '231'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/440,3631,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/440,3631,2994,266/full/0/default.jpg
 label: Dice
+location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -24,6 +24,7 @@ order: '4128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/full/0/default.jpg
 label: thought governmt of th
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

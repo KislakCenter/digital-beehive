@@ -24,6 +24,7 @@ order: '1982'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/832,2837,530,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/832,2837,530,104/full/0/default.jpg
 label: to improve
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

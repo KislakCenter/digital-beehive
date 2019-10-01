@@ -26,6 +26,7 @@ order: '12'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/701,486,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/701,486,3175,594/full/0/default.jpg
 label: Affections
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

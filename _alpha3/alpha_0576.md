@@ -25,6 +25,7 @@ order: '576'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/355,4602,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/355,4602,3019,409/full/0/default.jpg
 label: Mediatour
+location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

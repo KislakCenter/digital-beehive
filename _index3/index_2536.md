@@ -24,6 +24,7 @@ order: '2536'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,467,587,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,467,587,124/full/0/default.jpg
 label: miserere mei
+location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

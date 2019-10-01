@@ -26,6 +26,7 @@ order: '439'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,2963,554/full/0/default.jpg
 label: Husbandry
+location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

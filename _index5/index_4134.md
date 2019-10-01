@@ -26,6 +26,7 @@ order: '4134'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3284,762,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3284,762,134/full/0/default.jpg
 label: threefold Cord of Satan
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

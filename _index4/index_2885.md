@@ -24,6 +24,7 @@ order: '2885'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1127,2008,606,215/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1127,2008,606,215/full/0/default.jpg
 label: park
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '330'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,2963,413/full/0/default.jpg
 label: Flesh
+location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

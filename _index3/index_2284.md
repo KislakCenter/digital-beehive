@@ -9,7 +9,7 @@ first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4093/'>term</a>"
+add: term
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '2284'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
 label: to live well
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

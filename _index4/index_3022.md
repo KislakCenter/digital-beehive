@@ -24,6 +24,7 @@ order: '3022'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1526,2161,410,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1526,2161,410,150/full/0/default.jpg
 label: piss
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

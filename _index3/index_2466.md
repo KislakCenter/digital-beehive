@@ -24,6 +24,7 @@ order: '2466'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/full/0/default.jpg
 label: medicoru[m] nomina
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

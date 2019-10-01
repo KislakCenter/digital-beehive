@@ -24,6 +24,7 @@ order: '3336'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/91,1643,691,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/91,1643,691,154/full/0/default.jpg
 label: refusal
+location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

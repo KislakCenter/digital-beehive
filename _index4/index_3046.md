@@ -24,6 +24,7 @@ order: '3046'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/full/0/default.jpg
 label: pleurisie
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

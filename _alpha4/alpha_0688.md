@@ -26,6 +26,7 @@ order: '688'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,3036,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,3036,3061,433/full/0/default.jpg
 label: Peacemaker
+location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

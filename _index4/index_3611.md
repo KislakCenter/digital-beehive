@@ -26,6 +26,7 @@ order: '3611'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/full/0/default.jpg
 label: Self dam[m]age
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

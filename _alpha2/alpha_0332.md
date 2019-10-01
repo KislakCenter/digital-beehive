@@ -24,6 +24,7 @@ order: '332'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,3051,589/full/0/default.jpg
 label: Flight
+location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

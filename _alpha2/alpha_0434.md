@@ -25,6 +25,7 @@ order: '434'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,2961,409/full/0/default.jpg
 label: House
+location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

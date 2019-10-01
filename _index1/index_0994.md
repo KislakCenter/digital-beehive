@@ -11,7 +11,7 @@ first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4395/'>university degrees</a>"
+add: university degrees
 type: 
 index: 
 insertion_xref: 
@@ -27,6 +27,7 @@ order: '994'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/367,2409,765,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/367,2409,765,183/full/0/default.jpg
 label: degree
+location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

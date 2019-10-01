@@ -26,6 +26,7 @@ order: '1025'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,2904,470/full/0/default.jpg
 label: Will of God
+location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

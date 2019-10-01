@@ -25,6 +25,7 @@ order: '995'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,2928,488/full/0/default.jpg
 label: Unknown
+location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

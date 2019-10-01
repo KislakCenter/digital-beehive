@@ -25,6 +25,7 @@ order: '710'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,3109,510/full/0/default.jpg
 label: Politick
+location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

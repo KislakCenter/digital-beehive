@@ -25,6 +25,7 @@ order: '1750'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/842,1108,681,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/842,1108,681,122/full/0/default.jpg
 label: happiness
+location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

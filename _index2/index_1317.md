@@ -24,6 +24,7 @@ order: '1317'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/864,1179,476,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/864,1179,476,145/full/0/default.jpg
 label: evening
+location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

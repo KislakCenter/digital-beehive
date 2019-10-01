@@ -24,6 +24,7 @@ order: '491'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/723,3853,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/723,3853,2980,336/full/0/default.jpg
 label: Judas
+location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

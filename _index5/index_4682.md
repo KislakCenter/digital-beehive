@@ -24,6 +24,7 @@ order: '4682'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/full/0/default.jpg
 label: calamity
+location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

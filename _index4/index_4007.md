@@ -24,6 +24,7 @@ order: '4007'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1088,415,770,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1088,415,770,118/full/0/default.jpg
 label: to surrender
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

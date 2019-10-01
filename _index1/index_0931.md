@@ -25,6 +25,7 @@ order: '931'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/full/0/default.jpg
 label: curse
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

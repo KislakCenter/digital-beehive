@@ -12,8 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4679/'>holiness of places and
-  times</a>"
+insertion_xref: 
 insertion: 
 item: "#item-eb07b77b2"
 unparsed: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'
@@ -25,6 +24,7 @@ order: '1856'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1696,1249,165,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1696,1249,165,117/full/0/default.jpg
 label: "[:15.]"
+location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

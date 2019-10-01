@@ -25,6 +25,7 @@ order: '4433'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
 label: to vote
+location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

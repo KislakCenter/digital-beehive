@@ -24,6 +24,7 @@ order: '3204'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1483,1540,680,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1483,1540,680,115/full/0/default.jpg
 label: proselyte
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

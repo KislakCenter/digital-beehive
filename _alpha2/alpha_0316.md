@@ -24,6 +24,7 @@ order: '316'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/749,4303,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/749,4303,3010,445/full/0/default.jpg
 label: Fatness
+location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

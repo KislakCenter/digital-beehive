@@ -24,6 +24,7 @@ order: '4037'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1104,3216,532,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1104,3216,532,126/full/0/default.jpg
 label: synecdoche
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

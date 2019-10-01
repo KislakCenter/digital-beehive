@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4677/'>trespass</a>"
+insertion_xref: 
 insertion: 
 item: "#item-1719be50c"
 unparsed: 'Type: Index|Insertion Xref: [:13.]|#item-1719be50c'
@@ -24,6 +24,7 @@ order: '4233'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2343,896,154,89/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2343,896,154,89/full/0/default.jpg
 label: "[:13.]"
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

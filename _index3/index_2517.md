@@ -24,6 +24,7 @@ order: '2517'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2021,446,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2021,446,93/full/0/default.jpg
 label: miller
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

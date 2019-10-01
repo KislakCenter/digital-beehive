@@ -26,6 +26,7 @@ order: '238'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,2995,558/full/0/default.jpg
 label: Discontentment
+location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

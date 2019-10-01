@@ -24,6 +24,7 @@ order: '803'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,1359,641,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,1359,641,140/full/0/default.jpg
 label: consecration
+location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,6 +24,7 @@ order: '3714'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,2077,635,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,2077,635,156/full/0/default.jpg
 label: Simon Magus
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

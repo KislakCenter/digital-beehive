@@ -24,6 +24,7 @@ order: '2976'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/847,1371,636,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/847,1371,636,155/full/0/default.jpg
 label: petition
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

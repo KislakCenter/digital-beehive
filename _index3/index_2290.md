@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4732/'>to like</a>"
+insertion_xref: 
 insertion: 
 item: "#item-6a37d515c"
 unparsed: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'
@@ -24,6 +24,7 @@ order: '2290'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/2403,379,140,195/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/2403,379,140,195/full/0/default.jpg
 label: "[:62.]"
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

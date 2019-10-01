@@ -24,6 +24,7 @@ order: '2345'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/full/0/default.jpg
 label: love of money
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

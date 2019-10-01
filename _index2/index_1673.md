@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4730/'>gossipping</a>"
+insertion_xref: 
 insertion: 
 item: "#item-9d0c4a311"
 unparsed: 'Type: Index|Insertion Xref: [:60:]|#item-3430e220e'
@@ -24,6 +24,7 @@ order: '1673'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/2389,698,179,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/2389,698,179,141/full/0/default.jpg
 label: "[:60.]"
+location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -9,7 +9,7 @@ first_letter: C
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_3642/'>Serjeant</a>"
+add: Serjeant
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '813'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/full/0/default.jpg
 label: constable
+location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

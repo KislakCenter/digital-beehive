@@ -26,6 +26,7 @@ order: '956'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
 label: Too slow or quick
+location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

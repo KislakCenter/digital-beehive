@@ -24,6 +24,7 @@ order: '192'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,2987,452/full/0/default.jpg
 label: Creature
+location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

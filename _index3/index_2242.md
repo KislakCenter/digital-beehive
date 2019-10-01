@@ -24,6 +24,7 @@ order: '2242'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,2498,468,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,2498,468,111/full/0/default.jpg
 label: leather
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

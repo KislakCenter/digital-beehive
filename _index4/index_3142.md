@@ -24,6 +24,7 @@ order: '3142'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/full/0/default.jpg
 label: the pretender
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '131'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/343,870,568,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/343,870,568,155/full/0/default.jpg
 label: amphibious
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

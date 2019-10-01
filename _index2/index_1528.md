@@ -24,6 +24,7 @@ order: '1528'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,1084,664,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,1084,664,136/full/0/default.jpg
 label: fowling
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

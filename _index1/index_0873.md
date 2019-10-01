@@ -24,6 +24,7 @@ order: '873'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/full/0/default.jpg
 label: countenance
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

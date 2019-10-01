@@ -25,6 +25,7 @@ order: '2340'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/173,2023,503,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/173,2023,503,92/full/0/default.jpg
 label: love of God
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

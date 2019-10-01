@@ -24,6 +24,7 @@ order: '3364'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/full/0/default.jpg
 label: renovation
+location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

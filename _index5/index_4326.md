@@ -25,6 +25,7 @@ order: '4326'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/full/0/default.jpg
 label: victory
+location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

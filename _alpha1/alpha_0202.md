@@ -24,6 +24,7 @@ order: '202'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/355,1183,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/355,1183,3061,363/full/0/default.jpg
 label: Custody
+location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

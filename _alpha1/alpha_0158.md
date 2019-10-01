@@ -26,6 +26,7 @@ order: '158'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/339,648,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/339,648,3120,495/full/0/default.jpg
 label: Com[m]andments
+location: "<a href='/New_Beehive/toc/toc1_433/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

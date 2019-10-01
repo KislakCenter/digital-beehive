@@ -24,6 +24,7 @@ order: '2938'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/113,378,526,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/113,378,526,155/full/0/default.jpg
 label: peccadillo
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

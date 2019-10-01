@@ -24,6 +24,7 @@ order: '810'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/307,1848,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/307,1848,3023,247/full/0/default.jpg
 label: Rue
+location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

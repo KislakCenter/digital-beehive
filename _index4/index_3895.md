@@ -24,6 +24,7 @@ order: '3895'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
 label: stepfather
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

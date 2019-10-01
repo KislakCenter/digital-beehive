@@ -24,6 +24,7 @@ order: '128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/391,580,503,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/391,580,503,158/full/0/default.jpg
 label: amnestia
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

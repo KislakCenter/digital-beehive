@@ -25,6 +25,7 @@ order: '823'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
 label: Satyre
+location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

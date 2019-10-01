@@ -27,6 +27,7 @@ order: '1329'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/839,2468,685,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/839,2468,685,154/full/0/default.jpg
 label: example
+location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

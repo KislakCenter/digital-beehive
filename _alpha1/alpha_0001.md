@@ -26,6 +26,7 @@ order: '1'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,208,3241,610/full/0/default.jpg
 label: Absence
+location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

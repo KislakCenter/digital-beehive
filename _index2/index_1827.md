@@ -24,6 +24,7 @@ order: '1827'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/425,1453,458,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/425,1453,458,119/full/0/default.jpg
 label: hickock
+location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -24,6 +24,7 @@ order: '3430'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/full/0/default.jpg
 label: rime. reiff
+location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '2324'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,412,488,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,412,488,148/full/0/default.jpg
 label: long sufferance
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

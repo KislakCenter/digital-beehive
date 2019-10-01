@@ -24,6 +24,7 @@ order: '809'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/297,1780,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/297,1780,3042,165/full/0/default.jpg
 label: Rust
+location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -24,6 +24,7 @@ order: '148'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,3026,425/full/0/default.jpg
 label: Circumcision
+location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

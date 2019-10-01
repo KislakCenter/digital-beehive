@@ -24,6 +24,7 @@ order: '2853'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/442,2332,742,197/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/442,2332,742,197/full/0/default.jpg
 label: Pacification
+location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

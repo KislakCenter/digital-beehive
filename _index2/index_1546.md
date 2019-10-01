@@ -24,6 +24,7 @@ order: '1546'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/862,2456,510,62/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/862,2456,510,62/full/0/default.jpg
 label: friend union
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

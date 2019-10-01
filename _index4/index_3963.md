@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4572/'>Wit</a>"
+add: Wit
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '3963'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/full/0/default.jpg
 label: subtlety
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

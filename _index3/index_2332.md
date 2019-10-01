@@ -25,6 +25,7 @@ order: '2332'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/full/0/default.jpg
 label: loquacity
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

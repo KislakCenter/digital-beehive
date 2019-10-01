@@ -26,6 +26,7 @@ order: '529'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,3352,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,3352,3051,505/full/0/default.jpg
 label: Letters
+location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

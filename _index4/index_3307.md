@@ -10,7 +10,7 @@ first_letter: R
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4300/'>various</a>"
+add: various
 type: 
 index: 
 insertion_xref: 
@@ -25,6 +25,7 @@ order: '3307'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
 label: reading
+location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

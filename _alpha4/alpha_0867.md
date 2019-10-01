@@ -24,6 +24,7 @@ order: '867'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/307,700,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/307,700,3089,250/full/0/default.jpg
 label: Simony
+location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

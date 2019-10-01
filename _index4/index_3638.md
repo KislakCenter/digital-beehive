@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index3/index_2134/'>Judgmt</a>"
+add: Judgmt
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '3638'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
 label: sentences
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '4082'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/189,1514,465,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/189,1514,465,123/full/0/default.jpg
 label: tempests
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

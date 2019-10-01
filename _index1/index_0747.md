@@ -24,6 +24,7 @@ order: '747'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/full/0/default.jpg
 label: common calamities
+location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,6 +24,7 @@ order: '280'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,3092,305/full/0/default.jpg
 label: Empire
+location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

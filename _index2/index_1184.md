@@ -24,6 +24,7 @@ order: '1184'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/full/0/default.jpg
 label: ear ringing
+location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

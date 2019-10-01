@@ -24,6 +24,7 @@ order: '1548'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/858,2676,727,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/858,2676,727,153/full/0/default.jpg
 label: friendship parted by poverty
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

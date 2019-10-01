@@ -24,6 +24,7 @@ order: '64'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/405,3721,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/405,3721,3016,352/full/0/default.jpg
 label: Battery
+location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

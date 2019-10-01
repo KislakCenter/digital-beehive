@@ -25,6 +25,7 @@ order: '301'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/416,1978,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/416,1978,3054,285/full/0/default.jpg
 label: External conversation
+location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

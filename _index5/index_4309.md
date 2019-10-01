@@ -24,6 +24,7 @@ order: '4309'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/full/0/default.jpg
 label: venial sin
+location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

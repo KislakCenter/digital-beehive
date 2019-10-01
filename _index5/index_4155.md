@@ -11,7 +11,7 @@ first_letter: T
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index3/index_2295/'>lilly time</a>"
+add: lilly time
 type: 
 index: 
 insertion_xref: 
@@ -27,6 +27,7 @@ order: '4155'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/full/0/default.jpg
 label: time
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -24,6 +24,7 @@ order: '3140'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,848,591,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,848,591,148/full/0/default.jpg
 label: prester John
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

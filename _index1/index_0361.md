@@ -24,6 +24,7 @@ order: '361'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/360,2558,536,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/360,2558,536,144/full/0/default.jpg
 label: besom
+location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

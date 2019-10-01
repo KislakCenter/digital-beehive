@@ -24,6 +24,7 @@ order: '35'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/full/0/default.jpg
 label: acquittance
+location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

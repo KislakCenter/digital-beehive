@@ -24,6 +24,7 @@ order: '3174'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,1293,500,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,1293,500,124/full/0/default.jpg
 label: procession
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

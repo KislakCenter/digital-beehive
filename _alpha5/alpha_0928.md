@@ -25,6 +25,7 @@ order: '928'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,3116,395/full/0/default.jpg
 label: Tailor
+location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

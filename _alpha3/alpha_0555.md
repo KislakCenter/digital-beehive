@@ -25,6 +25,7 @@ order: '555'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,3006,558/full/0/default.jpg
 label: Love of enemies
+location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

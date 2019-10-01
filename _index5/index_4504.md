@@ -24,6 +24,7 @@ order: '4504'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/465,2946,663,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/465,2946,663,140/full/0/default.jpg
 label: weather
+location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

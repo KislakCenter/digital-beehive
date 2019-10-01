@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4680/'>Cures. curable</a>"
+insertion_xref: 
 insertion: 
 item: "#item-73acd12ec"
 unparsed: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
@@ -24,6 +24,7 @@ order: '929'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/full/0/default.jpg
 label: "[:16.]"
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

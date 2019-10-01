@@ -24,6 +24,7 @@ order: '1754'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1468,456,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1468,456,129/full/0/default.jpg
 label: hardship
+location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

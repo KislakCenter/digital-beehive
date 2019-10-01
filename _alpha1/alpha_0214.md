@@ -25,6 +25,7 @@ order: '214'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,2064,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,2064,2943,569/full/0/default.jpg
 label: Deed
+location: "<a href='/New_Beehive/toc/toc1_438/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

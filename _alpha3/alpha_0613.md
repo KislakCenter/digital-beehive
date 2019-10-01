@@ -25,6 +25,7 @@ order: '613'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,3069,485/full/0/default.jpg
 label: Multitude
+location: "<a href='/New_Beehive/toc/toc2_024/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

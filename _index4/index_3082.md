@@ -24,6 +24,7 @@ order: '3082'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1161,1406,492,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1161,1406,492,87/full/0/default.jpg
 label: possam
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -26,6 +26,7 @@ order: '920'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/774,4090,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/774,4090,2962,578/full/0/default.jpg
 label: Superfluity
+location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

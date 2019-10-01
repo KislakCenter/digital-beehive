@@ -24,6 +24,7 @@ order: '4274'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/full/0/default.jpg
 label: turtledoves
+location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

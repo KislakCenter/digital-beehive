@@ -25,6 +25,7 @@ order: '4665'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,517,733,217/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,517,733,217/full/0/default.jpg
 label: to scare, affright, or fright
+location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

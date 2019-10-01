@@ -24,6 +24,7 @@ order: '2437'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/full/0/default.jpg
 label: martyrologies
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

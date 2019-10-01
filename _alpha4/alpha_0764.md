@@ -24,6 +24,7 @@ order: '764'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,3033,368/full/0/default.jpg
 label: Rain
+location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

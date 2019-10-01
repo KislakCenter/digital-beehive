@@ -27,6 +27,7 @@ order: '2037'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/425,2055,774,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/425,2055,774,138/full/0/default.jpg
 label: influence
+location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

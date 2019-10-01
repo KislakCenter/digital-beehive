@@ -26,6 +26,7 @@ order: '650'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/134,329,684,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/134,329,684,185/full/0/default.jpg
 label: christendom
+location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

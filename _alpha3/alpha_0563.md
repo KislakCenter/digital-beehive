@@ -24,6 +24,7 @@ order: '563'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/748,3547,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/748,3547,2988,536/full/0/default.jpg
 label: Maid
+location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

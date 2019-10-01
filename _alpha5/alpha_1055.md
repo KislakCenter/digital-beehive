@@ -24,6 +24,7 @@ order: '1055'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,3004,346/full/0/default.jpg
 label: Wrath of God
+location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -25,6 +25,7 @@ order: '1533'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/full/0/default.jpg
 label: fraud
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

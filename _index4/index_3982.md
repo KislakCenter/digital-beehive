@@ -24,6 +24,7 @@ order: '3982'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,843,588,69/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,843,588,69/full/0/default.jpg
 label: Sum[m]um bonu[m]
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

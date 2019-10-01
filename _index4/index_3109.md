@@ -25,6 +25,7 @@ order: '3109'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1895,742,701,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1895,742,701,130/full/0/default.jpg
 label: praised be God!
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

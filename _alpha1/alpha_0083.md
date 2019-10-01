@@ -26,6 +26,7 @@ order: '83'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/262,254,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/262,254,3187,516/full/0/default.jpg
 label: Blackness
+location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

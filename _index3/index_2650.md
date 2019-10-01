@@ -24,6 +24,7 @@ order: '2650'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/full/0/default.jpg
 label: nativity calculators of
+location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

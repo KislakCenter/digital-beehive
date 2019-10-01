@@ -24,6 +24,7 @@ order: '99'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/848,1654,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/848,1654,2995,533/full/0/default.jpg
 label: Bribe
+location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

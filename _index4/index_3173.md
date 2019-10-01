@@ -25,6 +25,7 @@ order: '3173'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/802,1187,662,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/802,1187,662,152/full/0/default.jpg
 label: process in law
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -26,6 +26,7 @@ order: '146'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/757,673,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/757,673,3116,784/full/0/default.jpg
 label: Christianity
+location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

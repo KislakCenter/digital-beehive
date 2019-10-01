@@ -26,6 +26,7 @@ order: '778'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,2905,513/full/0/default.jpg
 label: Regarding of persons
+location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

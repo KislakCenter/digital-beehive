@@ -24,6 +24,7 @@ order: '2460'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/full/0/default.jpg
 label: measels
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

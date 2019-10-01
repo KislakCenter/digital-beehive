@@ -26,6 +26,7 @@ order: '306'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,3024,546/full/0/default.jpg
 label: Faintheartedness
+location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

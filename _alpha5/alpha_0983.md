@@ -24,6 +24,7 @@ order: '983'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,3787,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,3787,2960,140/full/0/default.jpg
 label: vine
+location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

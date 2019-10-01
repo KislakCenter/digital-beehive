@@ -24,6 +24,7 @@ order: '3739'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1346,541,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1346,541,114/full/0/default.jpg
 label: skie
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

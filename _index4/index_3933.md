@@ -25,6 +25,7 @@ order: '3933'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/full/0/default.jpg
 label: stratagem
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

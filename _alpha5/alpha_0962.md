@@ -26,6 +26,7 @@ order: '962'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,213,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,213,2965,490/full/0/default.jpg
 label: Trade
+location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -24,6 +24,7 @@ order: '82'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/807,4522,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/807,4522,2906,543/full/0/default.jpg
 label: Bishop
+location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

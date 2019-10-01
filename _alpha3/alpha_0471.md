@@ -24,6 +24,7 @@ order: '471'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,3041,282/full/0/default.jpg
 label: Infidelity
+location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

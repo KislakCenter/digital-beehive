@@ -25,6 +25,7 @@ order: '21'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,2974,349/full/0/default.jpg
 label: Almanack
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

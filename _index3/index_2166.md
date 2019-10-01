@@ -24,6 +24,7 @@ order: '2166'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/864,1558,430,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/864,1558,430,143/full/0/default.jpg
 label: kitchin
+location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

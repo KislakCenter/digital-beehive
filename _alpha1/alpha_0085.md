@@ -24,6 +24,7 @@ order: '85'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/299,1144,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/299,1144,3110,486/full/0/default.jpg
 label: Blessing
+location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

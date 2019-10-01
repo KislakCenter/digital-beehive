@@ -24,6 +24,7 @@ order: '282'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,3092,623/full/0/default.jpg
 label: England
+location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -24,6 +24,7 @@ order: '4071'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,295,510,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,295,510,116/full/0/default.jpg
 label: to teach
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

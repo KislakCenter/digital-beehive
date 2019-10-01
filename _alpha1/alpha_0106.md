@@ -26,6 +26,7 @@ order: '106'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/851,3858,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/851,3858,2906,581/full/0/default.jpg
 label: Buffoonry
+location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

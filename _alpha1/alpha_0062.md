@@ -26,6 +26,7 @@ order: '62'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/380,3001,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/380,3001,3026,389/full/0/default.jpg
 label: Baseness
+location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

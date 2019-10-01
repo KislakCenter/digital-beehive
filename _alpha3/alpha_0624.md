@@ -24,6 +24,7 @@ order: '624'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/294,1772,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/294,1772,3077,314/full/0/default.jpg
 label: Nativity
+location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

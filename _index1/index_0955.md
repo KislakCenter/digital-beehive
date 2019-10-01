@@ -9,7 +9,7 @@ first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4345/'>Visitation</a>"
+add: Visitation
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '955'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/full/0/default.jpg
 label: day of humiliation
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

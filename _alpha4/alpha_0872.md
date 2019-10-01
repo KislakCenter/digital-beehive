@@ -26,6 +26,7 @@ order: '872'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,3078,576/full/0/default.jpg
 label: Singing
+location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -25,6 +25,7 @@ order: '1019'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,2949,509/full/0/default.jpg
 label: Weather
+location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

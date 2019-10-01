@@ -26,6 +26,7 @@ order: '783'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,3039,480/full/0/default.jpg
 label: Renown
+location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

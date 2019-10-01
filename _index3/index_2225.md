@@ -26,6 +26,7 @@ order: '2225'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/full/0/default.jpg
 label: lawsuit
+location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

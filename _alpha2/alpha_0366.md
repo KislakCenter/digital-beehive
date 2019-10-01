@@ -25,6 +25,7 @@ order: '366'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,3076,355/full/0/default.jpg
 label: God's goodness
+location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

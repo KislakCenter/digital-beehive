@@ -10,7 +10,7 @@ first_letter: M
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4118/'>thing</a>|<a href='/New_Beehive/index5/index_4112/'>theme</a>"
+add: thing|theme
 type: 
 index: 
 insertion_xref: 
@@ -26,6 +26,7 @@ order: '2450'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/full/0/default.jpg
 label: matter, eijter
+location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

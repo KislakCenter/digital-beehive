@@ -24,6 +24,7 @@ order: '577'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1121,1108,382,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1121,1108,382,103/full/0/default.jpg
 label: cellar
+location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

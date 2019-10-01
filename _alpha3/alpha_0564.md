@@ -24,6 +24,7 @@ order: '564'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,2974,394/full/0/default.jpg
 label: Maimed
+location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

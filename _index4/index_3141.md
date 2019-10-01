@@ -24,6 +24,7 @@ order: '3141'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/full/0/default.jpg
 label: presumption
+location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

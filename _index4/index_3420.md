@@ -26,6 +26,7 @@ order: '3420'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/full/0/default.jpg
 label: riches
+location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

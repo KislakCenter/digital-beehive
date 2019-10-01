@@ -24,6 +24,7 @@ order: '1117'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/730,1789,672,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/730,1789,672,117/full/0/default.jpg
 label: divination
+location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

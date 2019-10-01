@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_1116/'>Divinity</a>"
+add: Divinity
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '3549'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/full/0/default.jpg
 label: schole terms
+location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

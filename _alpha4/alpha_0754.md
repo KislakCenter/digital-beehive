@@ -24,6 +24,7 @@ order: '754'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,3093,378/full/0/default.jpg
 label: Purgatory
+location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

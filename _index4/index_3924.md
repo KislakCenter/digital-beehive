@@ -24,6 +24,7 @@ order: '3924'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/890,1050,540,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/890,1050,540,80/full/0/default.jpg
 label: to Strain a gnat
+location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -24,6 +24,7 @@ order: '297'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,547,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,547,3103,303/full/0/default.jpg
 label: Exercise
+location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

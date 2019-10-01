@@ -10,7 +10,7 @@ first_letter: M
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_3623/'>Self</a>"
+add: Self
 type: 
 index: 
 insertion_xref: 
@@ -25,6 +25,7 @@ order: '2616'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1572,557,191/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1572,557,191/full/0/default.jpg
 label: murder
+location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -25,6 +25,7 @@ order: '437'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/169,610,656,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/169,610,656,135/full/0/default.jpg
 label: brandywine
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

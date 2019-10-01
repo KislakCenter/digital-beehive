@@ -28,6 +28,7 @@ order: '199'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/327,208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/327,208,3104,511/full/0/default.jpg
 label: Cruelty
+location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

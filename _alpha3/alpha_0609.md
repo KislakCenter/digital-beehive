@@ -26,6 +26,7 @@ order: '609'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,1430,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,1430,3057,460/full/0/default.jpg
 label: Mountebank
+location: "<a href='/New_Beehive/toc/toc2_024/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

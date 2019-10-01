@@ -25,6 +25,7 @@ order: '1945'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/full/0/default.jpg
 label: Jewel
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

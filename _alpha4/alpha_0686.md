@@ -25,6 +25,7 @@ order: '686'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,3083,351/full/0/default.jpg
 label: Payment
+location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

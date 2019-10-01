@@ -24,6 +24,7 @@ order: '2334'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/180,1483,387,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/180,1483,387,143/full/0/default.jpg
 label: Loretto
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -26,6 +26,7 @@ order: '468'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,3086,413/full/0/default.jpg
 label: Increase
+location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

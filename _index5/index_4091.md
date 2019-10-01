@@ -24,6 +24,7 @@ order: '4091'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/149,2226,490,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/149,2226,490,135/full/0/default.jpg
 label: tennis Court
+location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -25,6 +25,7 @@ order: '725'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/845,2963,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/845,2963,2941,644/full/0/default.jpg
 label: Pride
+location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

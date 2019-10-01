@@ -26,6 +26,7 @@ order: '637'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,2930,430/full/0/default.jpg
 label: Nobility
+location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

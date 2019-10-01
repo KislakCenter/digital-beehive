@@ -9,7 +9,7 @@ first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0599/'>change</a>"
+add: change
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '3654'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/full/0/default.jpg
 label: sex
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

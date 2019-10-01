@@ -26,6 +26,7 @@ order: '2947'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1315,705,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1315,705,147/full/0/default.jpg
 label: Wm. Pen[n]
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

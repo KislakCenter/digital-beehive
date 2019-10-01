@@ -25,6 +25,7 @@ order: '403'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,3055,384/full/0/default.jpg
 label: Drinking of Health
+location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

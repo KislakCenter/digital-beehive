@@ -24,6 +24,7 @@ order: '946'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,2942,382/full/0/default.jpg
 label: Thunder
+location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

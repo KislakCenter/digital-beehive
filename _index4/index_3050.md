@@ -24,6 +24,7 @@ order: '3050'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/full/0/default.jpg
 label: plumage
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

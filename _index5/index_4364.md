@@ -9,7 +9,7 @@ first_letter: U/V
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_1060/'>dirt</a>"
+add: dirt
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '4364'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/441,1908,514,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/441,1908,514,155/full/0/default.jpg
 label: unclean
+location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

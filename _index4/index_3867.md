@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4694/'>Spur</a>"
+insertion_xref: 
 insertion: 
 item: "#item-d37b25233"
 unparsed: 'Type: Index|Insertion Xref: [:28.]|#item-d37b25233'
@@ -24,6 +24,7 @@ order: '3867'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2314,1927,203,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2314,1927,203,153/full/0/default.jpg
 label: "[:28.]"
+location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

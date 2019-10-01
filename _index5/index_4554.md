@@ -9,7 +9,7 @@ first_letter: W
 xref: 
 see: "<a href='/New_Beehive/index4/index_3947/'>stubborn</a>"
 page: 
-add: "<a href='/New_Beehive/index5/index_4625/'>worship</a>"
+add: worship
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '4554'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/full/0/default.jpg
 label: willful
+location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

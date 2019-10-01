@@ -24,6 +24,7 @@ order: '28'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/288,1020,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/288,1020,3159,494/full/0/default.jpg
 label: Anatomizing
+location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4667/'>mam[m]on</a>"
+insertion_xref: 
 insertion: 
 item: "#item-074bb9712"
 unparsed: 'Type: Index|Insertion Xref: [:3.]|#item-074bb9712'
@@ -24,6 +24,7 @@ order: '2401'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2129,1203,189,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2129,1203,189,139/full/0/default.jpg
 label: "[:3.]"
+location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

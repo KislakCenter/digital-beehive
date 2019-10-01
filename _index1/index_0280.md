@@ -24,6 +24,7 @@ order: '280'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/918,1196,406,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/918,1196,406,91/full/0/default.jpg
 label: ballance
+location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

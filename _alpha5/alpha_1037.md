@@ -25,6 +25,7 @@ order: '1037'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,2914,321/full/0/default.jpg
 label: Womans wit
+location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

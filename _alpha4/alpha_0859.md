@@ -25,6 +25,7 @@ order: '859'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
 label: Shells of Snails
+location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

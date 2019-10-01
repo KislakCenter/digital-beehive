@@ -26,6 +26,7 @@ order: '542'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,3042,309/full/0/default.jpg
 label: London
+location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

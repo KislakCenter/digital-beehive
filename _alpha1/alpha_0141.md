@@ -26,6 +26,7 @@ order: '141'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/318,3229,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/318,3229,3107,600/full/0/default.jpg
 label: Chiliasm
+location: "<a href='/New_Beehive/toc/toc1_431/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

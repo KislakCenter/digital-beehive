@@ -24,6 +24,7 @@ order: '4002'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/full/0/default.jpg
 label: surity. sicher
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

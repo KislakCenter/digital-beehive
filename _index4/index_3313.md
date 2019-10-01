@@ -24,6 +24,7 @@ order: '3313'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1839,2440,524,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1839,2440,524,164/full/0/default.jpg
 label: to rebuke
+location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

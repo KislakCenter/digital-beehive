@@ -9,7 +9,7 @@ first_letter: F
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index3/index_1960/'>Imitation</a>"
+add: Imitation
 type: 
 index: 
 insertion_xref: 
@@ -24,6 +24,7 @@ order: '1494'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,988,533,191/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,988,533,191/full/0/default.jpg
 label: following
+location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

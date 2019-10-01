@@ -24,6 +24,7 @@ order: '13'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,953,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,953,3181,422/full/0/default.jpg
 label: Agony
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

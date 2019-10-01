@@ -24,6 +24,7 @@ order: '4001'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/482,3024,537,82/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/482,3024,537,82/full/0/default.jpg
 label: Surinam
+location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

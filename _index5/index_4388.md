@@ -24,6 +24,7 @@ order: '4388'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/full/0/default.jpg
 label: union of friends
+location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

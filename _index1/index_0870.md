@@ -24,6 +24,7 @@ order: '870'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,1125,411,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,1125,411,165/full/0/default.jpg
 label: cough
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

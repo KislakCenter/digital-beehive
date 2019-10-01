@@ -10,7 +10,7 @@ first_letter: W
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0572/'>caution</a>"
+add: caution
 type: 
 index: 
 insertion_xref: 
@@ -26,6 +26,7 @@ order: '4480'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/full/0/default.jpg
 label: warning
+location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

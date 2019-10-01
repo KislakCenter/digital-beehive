@@ -25,6 +25,7 @@ order: '343'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,832,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,832,3073,441/full/0/default.jpg
 label: Foundation
+location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

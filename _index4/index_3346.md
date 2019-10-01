@@ -26,6 +26,7 @@ order: '3346'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/117,2663,731,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/117,2663,731,129/full/0/default.jpg
 label: rejuvenescency
+location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

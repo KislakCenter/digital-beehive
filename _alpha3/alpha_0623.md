@@ -25,6 +25,7 @@ order: '623'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,3061,529/full/0/default.jpg
 label: Name of God
+location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

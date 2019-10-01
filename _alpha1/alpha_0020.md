@@ -24,6 +24,7 @@ order: '20'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/785,3052,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/785,3052,3007,505/full/0/default.jpg
 label: Alliance
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

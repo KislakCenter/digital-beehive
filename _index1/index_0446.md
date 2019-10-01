@@ -24,6 +24,7 @@ order: '446'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/185,1487,502,97/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/185,1487,502,97/full/0/default.jpg
 label: breeches
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,6 +24,7 @@ order: '369'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/343,1130,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/343,1130,3064,349/full/0/default.jpg
 label: Godfather
+location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

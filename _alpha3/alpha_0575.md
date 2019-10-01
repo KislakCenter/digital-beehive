@@ -25,6 +25,7 @@ order: '575'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,3001,425/full/0/default.jpg
 label: Meat
+location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

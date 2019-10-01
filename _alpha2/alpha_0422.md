@@ -24,6 +24,7 @@ order: '422'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/780,4561,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/780,4561,2949,542/full/0/default.jpg
 label: Hog
+location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

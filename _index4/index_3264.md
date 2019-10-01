@@ -25,6 +25,7 @@ order: '3264'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1162,1201,699,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1162,1201,699,109/full/0/default.jpg
 label: quicksilver
+location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -26,6 +26,7 @@ order: '476'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/343,2735,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/343,2735,3009,558/full/0/default.jpg
 label: Inn & Innkeeper
+location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

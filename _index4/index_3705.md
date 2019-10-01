@@ -24,6 +24,7 @@ order: '3705'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/196,1044,477,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/196,1044,477,93/full/0/default.jpg
 label: sign posts
+location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

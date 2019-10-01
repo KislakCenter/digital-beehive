@@ -24,6 +24,7 @@ order: '796'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,1721,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,1721,2949,597/full/0/default.jpg
 label: Revenge
+location: "<a href='/New_Beehive/toc/toc2_038/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -24,6 +24,7 @@ order: '4191'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/443,2744,390,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/443,2744,390,122/full/0/default.jpg
 label: toothach
+location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

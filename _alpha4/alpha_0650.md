@@ -25,6 +25,7 @@ order: '650'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
 label: Oeconomy
+location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -24,6 +24,7 @@ order: '256'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/170,2262,631,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/170,2262,631,167/full/0/default.jpg
 label: autumn
+location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

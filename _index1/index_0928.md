@@ -25,6 +25,7 @@ order: '928'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/full/0/default.jpg
 label: curiosity
+location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

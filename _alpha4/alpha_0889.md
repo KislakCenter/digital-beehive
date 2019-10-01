@@ -25,6 +25,7 @@ order: '889'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,2927,714/full/0/default.jpg
 label: Souldier
+location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

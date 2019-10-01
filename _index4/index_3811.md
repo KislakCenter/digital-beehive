@@ -24,6 +24,7 @@ order: '3811'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/546,2604,552,192/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/546,2604,552,192/full/0/default.jpg
 label: souldier
+location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

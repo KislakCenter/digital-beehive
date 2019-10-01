@@ -26,6 +26,7 @@ order: '18'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/723,2582,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/723,2582,3141,341/full/0/default.jpg
 label: Alchymie
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

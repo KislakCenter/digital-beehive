@@ -24,6 +24,7 @@ order: '29'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/290,1311,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/290,1311,3154,436/full/0/default.jpg
 label: Angel
+location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

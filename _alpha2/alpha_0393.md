@@ -25,6 +25,7 @@ order: '393'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,2919,442/full/0/default.jpg
 label: Happiness of the Wicked
+location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

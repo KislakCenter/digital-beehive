@@ -26,6 +26,7 @@ order: '191'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/835,1124,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/835,1124,2959,691/full/0/default.jpg
 label: Craftiness
+location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

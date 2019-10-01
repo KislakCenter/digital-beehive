@@ -25,6 +25,7 @@ order: '1013'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,2989,349/full/0/default.jpg
 label: Washing of feet
+location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

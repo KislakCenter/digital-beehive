@@ -24,6 +24,7 @@ order: '276'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,3061,175/full/0/default.jpg
 label: Eel
+location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

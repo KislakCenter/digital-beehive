@@ -25,6 +25,7 @@ order: '393'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2795,441,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2795,441,104/full/0/default.jpg
 label: blood
+location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -25,6 +25,7 @@ order: '409'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/789,504,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/789,504,3007,513/full/0/default.jpg
 label: Hell
+location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

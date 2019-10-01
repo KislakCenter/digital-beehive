@@ -24,6 +24,7 @@ order: '2982'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/859,1981,437,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/859,1981,437,158/full/0/default.jpg
 label: pharisees
+location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

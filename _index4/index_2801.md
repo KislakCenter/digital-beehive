@@ -25,6 +25,7 @@ order: '2801'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/845,3523,896,199/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/845,3523,896,199/full/0/default.jpg
 label: F.D.P.s onomast.
+location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

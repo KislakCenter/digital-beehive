@@ -25,6 +25,7 @@ order: '248'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/409,727,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/409,727,3027,279/full/0/default.jpg
 label: Theola Scholastica
+location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -24,6 +24,7 @@ order: '133'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/409,1057,494,88/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/409,1057,494,88/full/0/default.jpg
 label: anacreon
+location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

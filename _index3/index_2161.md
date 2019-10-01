@@ -24,6 +24,7 @@ order: '2161'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/full/0/default.jpg
 label: kindred
+location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

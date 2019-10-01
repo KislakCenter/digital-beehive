@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4733/'>Dinah</a>"
+insertion_xref: 
 insertion: 
 item: "#item-b38c1d5b6"
 unparsed: 'Type: Index|Insertion Xref: [:63.]|#item-b38c1d5b6'
@@ -24,6 +24,7 @@ order: '1056'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/2333,2126,201,199/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/2333,2126,201,199/full/0/default.jpg
 label: "[:63.]"
+location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

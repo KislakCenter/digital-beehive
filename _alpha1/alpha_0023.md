@@ -25,6 +25,7 @@ order: '23'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/823,4079,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/823,4079,2960,391/full/0/default.jpg
 label: Ambassage
+location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

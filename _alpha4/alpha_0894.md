@@ -25,6 +25,7 @@ order: '894'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/271,237,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/271,237,3109,640/full/0/default.jpg
 label: Spirit
+location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

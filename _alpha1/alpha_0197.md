@@ -27,6 +27,7 @@ order: '197'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/827,3819,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/827,3819,2975,597/full/0/default.jpg
 label: Cross of Christ
+location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

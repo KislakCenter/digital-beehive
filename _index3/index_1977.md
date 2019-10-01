@@ -24,6 +24,7 @@ order: '1977'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/866,2412,544,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/866,2412,544,119/full/0/default.jpg
 label: imprecation
+location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -25,6 +25,7 @@ order: '713'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/844,2697,658,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/844,2697,658,162/full/0/default.jpg
 label: cock
+location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,6 +24,7 @@ order: '3062'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/444,2662,577,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/444,2662,577,141/full/0/default.jpg
 label: poetical toys
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

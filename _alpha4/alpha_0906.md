@@ -24,6 +24,7 @@ order: '906'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,3035,198/full/0/default.jpg
 label: Stork
+location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

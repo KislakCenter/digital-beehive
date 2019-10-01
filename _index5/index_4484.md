@@ -24,6 +24,7 @@ order: '4484'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/full/0/default.jpg
 label: washing dub
+location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

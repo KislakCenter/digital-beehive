@@ -28,6 +28,7 @@ order: '892'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,2979,846/full/0/default.jpg
 label: Speech
+location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

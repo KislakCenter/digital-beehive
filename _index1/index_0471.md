@@ -24,6 +24,7 @@ order: '471'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,497,400,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,497,400,110/full/0/default.jpg
 label: buffoonry
+location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

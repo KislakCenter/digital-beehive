@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4710/'>Albigenses</a>"
+insertion_xref: 
 insertion: 
 item: "#item-85db7c9d8"
 unparsed: 'Type: Index|Insertion Xref: [:41.]|#item-85db7c9d8'
@@ -24,6 +24,7 @@ order: '87'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2196,675,157,78/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2196,675,157,78/full/0/default.jpg
 label: "[:41.]"
+location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

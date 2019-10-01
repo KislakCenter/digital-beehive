@@ -24,6 +24,7 @@ order: '3263'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,1084,440,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,1084,440,175/full/0/default.jpg
 label: quickgrass
+location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

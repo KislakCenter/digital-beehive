@@ -25,6 +25,7 @@ order: '3620'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/full/0/default.jpg
 label: Self knowledge
+location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

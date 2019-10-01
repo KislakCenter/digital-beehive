@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4674/'>Duke</a>"
+insertion_xref: 
 insertion: 
 item: "#item-ab49125f3"
 unparsed: 'Type: Index|Insertion Xref: [:10.]|#item-ab49125f3'
@@ -24,6 +24,7 @@ order: '1167'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1016,484,188,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1016,484,188,109/full/0/default.jpg
 label: "[:10.]"
+location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -25,6 +25,7 @@ order: '415'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/761,2470,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/761,2470,2999,475/full/0/default.jpg
 label: Heritage
+location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

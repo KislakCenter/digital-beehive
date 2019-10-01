@@ -24,6 +24,7 @@ order: '277'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,3076,319/full/0/default.jpg
 label: Egg
+location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

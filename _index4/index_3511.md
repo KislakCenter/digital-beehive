@@ -12,8 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4705/'>Salvation of Children &
-  Idiots</a>"
+insertion_xref: 
 insertion: 
 item: "#item-df57c1fe1"
 unparsed: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
@@ -25,6 +24,7 @@ order: '3511'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/783,1105,151,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/783,1105,151,124/full/0/default.jpg
 label: "[:36.]"
+location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

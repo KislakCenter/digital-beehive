@@ -25,6 +25,7 @@ order: '3059'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/full/0/default.jpg
 label: poesie
+location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

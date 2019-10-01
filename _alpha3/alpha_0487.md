@@ -24,6 +24,7 @@ order: '487'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/704,2591,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/704,2591,3028,710/full/0/default.jpg
 label: Joy
+location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

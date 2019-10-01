@@ -24,6 +24,7 @@ order: '304'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,3025,456/full/0/default.jpg
 label: lust of the eye
+location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

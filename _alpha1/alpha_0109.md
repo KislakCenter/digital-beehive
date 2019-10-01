@@ -26,6 +26,7 @@ order: '109'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,3106,447/full/0/default.jpg
 label: Burial
+location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

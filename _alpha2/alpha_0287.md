@@ -26,6 +26,7 @@ order: '287'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,3017,572/full/0/default.jpg
 label: Equality
+location: "<a href='/New_Beehive/toc/toc1_444/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---
