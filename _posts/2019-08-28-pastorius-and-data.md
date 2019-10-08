@@ -43,7 +43,7 @@ Here, the choice is not so obvious. Pastorius lists "Security," "Security, he th
 
 The index entry for "Kropf" is similarly complex.
 
-![Pastorius's entry "Kropf"](https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg)
+![Pastorius's entry "Kropf"](https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,2781,326,122/full/0/default.jpg)
 
 The index entry for "Kropf," meaning goiter or canker in German, leads to entry 681, which we see below:
 
