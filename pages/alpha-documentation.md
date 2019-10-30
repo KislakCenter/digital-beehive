@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Using the Alphabetical Section
-permalink: /alphabetical/alpha-documentation/
+permalink: /alphabetical/documentation/
 ---
 
 Pastorius's Alphabetical Hive contains entries organized by concept. These concepts can be a single word but sometimes also encompass larger ideas. The Alphabetical Section is the first part of a large collection of commonplaced material, referred to by Pastorius as the _Alvearium_. Pastorius's _Alvearium_ takes up the end of [Volume 1](tocvol1.md) and the vast majority of [Volume 2](tocvol2.md). Each entry in the _Alvearium_ collects commonplaced material related to the topic. The Digital Beehive presents annotated versions of these entries which highlight the links to other entries.
