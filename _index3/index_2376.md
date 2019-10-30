@@ -3,7 +3,7 @@ pid: index_2376
 volume: Volume 3
 image_number: '29'
 head: madness
-entry: 804 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_284/'>1453 [Mad]</a>|4519
+entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_284/'>1453 [Mad]</a>|4519
   [PAGE_MISSING]
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2376'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,2000,697,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,2000,697,146/full/0/default.jpg
 label: madness
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

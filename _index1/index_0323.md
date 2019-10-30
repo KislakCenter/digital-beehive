@@ -3,8 +3,8 @@ pid: index_0323
 volume: Volume 3
 image_number: '9'
 head: beauty
-entry: "<a href='/New_Beehive/alpha1/alpha_0069/'>a</a>|<a href='/New_Beehive/toc/toc2_140/'>616
-  [Beauty]</a>|<a href='/New_Beehive/toc/toc2_316/'>1609 [Beauty]</a>|<a href='/New_Beehive/toc/toc2_431/'>4814
+entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/toc/toc2_140/'>616
+  [Beauty]</a>|<a href='/digital-beehive/toc/toc2_316/'>1609 [Beauty]</a>|<a href='/digital-beehive/toc/toc2_431/'>4814
   [Beauty]</a>"
 topic: 
 first_letter: B
@@ -27,7 +27,7 @@ order: '323'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/full/0/default.jpg
 label: beauty
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

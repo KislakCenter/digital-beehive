@@ -3,8 +3,8 @@ pid: index_3233
 volume: Volume 3
 image_number: '38'
 head: a purge
-entry: "<a href='/New_Beehive/toc/toc2_149/'>665 [a Purge]</a>|<a href='/New_Beehive/toc/toc2_338/'>1731
-  [A Purge]</a>|<a href='/New_Beehive/toc/toc2_420/'>2435 [Constancy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_149/'>665 [a Purge]</a>|<a href='/digital-beehive/toc/toc2_338/'>1731
+  [A Purge]</a>|<a href='/digital-beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3233'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,1505,801,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,1505,801,127/full/0/default.jpg
 label: a purge
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

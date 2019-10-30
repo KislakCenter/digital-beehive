@@ -3,8 +3,8 @@ pid: index_0746
 volume: Volume 3
 image_number: '13'
 head: common prayer
-entry: "<a href='/New_Beehive/toc/toc2_086/'>259 [Com[m]on Prayer Book]</a>|<a href='/New_Beehive/toc/toc2_422/'>4449
-  [Common Prayer]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_086/'>259 [Com[m]on Prayer Book]</a>|<a
+  href='/digital-beehive/toc/toc2_422/'>4449 [Common Prayer]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '746'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2611,658,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2611,658,109/full/0/default.jpg
 label: common prayer
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

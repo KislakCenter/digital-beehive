@@ -3,7 +3,7 @@ pid: index_4526
 volume: Volume 3
 image_number: '52'
 head: wheat
-entry: "<a href='/New_Beehive/toc/toc2_148/'>664 [Barley]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Barley]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4526'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1079,2443,453,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1079,2443,453,126/full/0/default.jpg
 label: wheat
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

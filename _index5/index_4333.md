@@ -3,13 +3,13 @@ pid: index_4333
 volume: Volume 3
 image_number: '49'
 head: vine
-entry: "<a href='/New_Beehive/alpha5/alpha_0983/'>a</a>|<a href='/New_Beehive/toc/toc2_364/'>1990
+entry: "<a href='/digital-beehive/alpha5/alpha_0983/'>a</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
   [Vin[e]yards]</a>"
 topic: 
 first_letter: U/V
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '4333'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/full/0/default.jpg
 label: vine
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

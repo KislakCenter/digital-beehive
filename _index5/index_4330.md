@@ -3,7 +3,7 @@ pid: index_4330
 volume: Volume 3
 image_number: '49'
 head: vile
-entry: "<a href='/New_Beehive/toc/toc2_135/'>589 [Base]</a>|<a href='/New_Beehive/toc/toc2_418/'>2421
+entry: "<a href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_418/'>2421
   [Vile]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4330'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/full/0/default.jpg
 label: vile
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

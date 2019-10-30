@@ -3,7 +3,7 @@ pid: index_1436
 volume: Volume 3
 image_number: '20'
 head: fever
-entry: "<a href='/New_Beehive/alpha2/alpha_0322/'>a</a>|<a href='/New_Beehive/toc/toc2_375/'>2099
+entry: "<a href='/digital-beehive/alpha2/alpha_0322/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2099
   [Fever]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1436'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1099,2507,567,199/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1099,2507,567,199/full/0/default.jpg
 label: fever
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

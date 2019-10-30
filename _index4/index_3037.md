@@ -3,7 +3,7 @@ pid: index_3037
 volume: Volume 3
 image_number: '36'
 head: plants
-entry: "<a href='/New_Beehive/toc/toc2_323/'>1645 [Plants]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1645 [Plants]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3037'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/487,369,453,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/487,369,453,128/full/0/default.jpg
 label: plants
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0680/'>civility</a>"
+see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '886'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/full/0/default.jpg
 label: courtesie
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

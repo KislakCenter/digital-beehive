@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index3/index_2388/'>maimed</a>"
+see: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '905'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/859,1150,678,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/859,1150,678,160/full/0/default.jpg
 label: creeple
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0502
 volume: Volume 3
 image_number: '11'
 head: Cabal
-entry: "<a href='/New_Beehive/alpha1/alpha_0112/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0112/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '502'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/864,3351,409,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/864,3351,409,114/full/0/default.jpg
 label: Cabal
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

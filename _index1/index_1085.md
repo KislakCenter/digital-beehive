@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: divorcemt|<a href='/New_Beehive/index1/index_1013/'>deposition</a>
+see: divorcemt|<a href='/digital-beehive/index1/index_1013/'>deposition</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1085'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,1720,709,212/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,1720,709,212/full/0/default.jpg
 label: dismiss
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Too much
 topic: Too much
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/New_Beehive/alpha4/alpha_0920/'>Superfluity</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/digital-beehive/alpha4/alpha_0920/'>Superfluity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4182/'>too much</a>"
+index: "<a href='/digital-beehive/index5/index_4182/'>too much</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5b4f65a9f"
@@ -25,7 +25,7 @@ order: '955'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/344,2948,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/344,2948,3001,585/full/0/default.jpg
 label: Too much
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

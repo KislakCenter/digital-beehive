@@ -6,13 +6,13 @@ head:
 entry: Thanks
 topic: Thanks
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/New_Beehive/toc/toc2_220/'>1132
+xref: "<a href='/digital-beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/digital-beehive/toc/toc2_220/'>1132
   [Gratitude]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4105/'>thanks</a>"
+index: "<a href='/digital-beehive/index5/index_4105/'>thanks</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a4c335091"
@@ -25,7 +25,7 @@ order: '940'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/768,2298,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/768,2298,3010,466/full/0/default.jpg
 label: Thanks
-location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

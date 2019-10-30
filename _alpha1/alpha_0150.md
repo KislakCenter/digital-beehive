@@ -6,13 +6,13 @@ head:
 entry: Cloister
 topic: Cloister
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/New_Beehive/alpha3/alpha_0641/'>Nun</a>|<a
-  href='/New_Beehive/toc/toc2_105/'>395 [Cloister]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0600/'>Monk</a>|<a href='/digital-beehive/alpha3/alpha_0641/'>Nun</a>|<a
+  href='/digital-beehive/toc/toc2_105/'>395 [Cloister]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0698/'>cloister</a>"
+index: "<a href='/digital-beehive/index1/index_0698/'>cloister</a>"
 insertion_xref: 
 insertion: 
 item: "#item-baae14d3b"
@@ -26,7 +26,7 @@ order: '150'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/886,2684,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/886,2684,2912,448/full/0/default.jpg
 label: Cloister
-location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

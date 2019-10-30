@@ -3,7 +3,7 @@ pid: index_3051
 volume: Volume 3
 image_number: '36'
 head: plums
-entry: "<a href='/New_Beehive/toc/toc2_154/'>691 [Plums]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [Plums]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3051'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/full/0/default.jpg
 label: plums
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

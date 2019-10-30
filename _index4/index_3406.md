@@ -3,7 +3,7 @@ pid: index_3406
 volume: Volume 3
 image_number: '40'
 head: revenue
-entry: "<a href='/New_Beehive/toc/toc2_131/'>568 [Rent of Revenue]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Rent of Revenue]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3406'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,248,470,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,248,470,132/full/0/default.jpg
 label: revenue
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

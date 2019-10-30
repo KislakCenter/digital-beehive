@@ -3,8 +3,9 @@ pid: index_3152
 volume: Volume 3
 image_number: '37'
 head: pride
-entry: "<a href='/New_Beehive/alpha4/alpha_0725/'>a</a>|819 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_336/'>1712
-  [Pride]</a>|<a href='/New_Beehive/toc/toc2_432/'>4818 [Pride]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0725/'>a</a>|819 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_336/'>1712 [Pride]</a>|<a href='/digital-beehive/toc/toc2_432/'>4818
+  [Pride]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -26,7 +27,7 @@ order: '3152'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/full/0/default.jpg
 label: pride
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

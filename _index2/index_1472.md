@@ -8,7 +8,7 @@ topic:
 first_letter: F
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1472'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2247,423,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2247,423,177/full/0/default.jpg
 label: flame
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

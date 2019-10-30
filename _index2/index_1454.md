@@ -3,13 +3,13 @@ pid: index_1454
 volume: Volume 3
 image_number: '20'
 head: fire
-entry: "<a href='/New_Beehive/alpha2/alpha_0324/'>a</a>|<a href='/New_Beehive/toc/toc2_224/'>1152
-  [Fire]</a>|<a href='/New_Beehive/toc/toc2_359/'>1956 [Fire]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0324/'>a</a>|<a href='/digital-beehive/toc/toc2_224/'>1152
+  [Fire]</a>|<a href='/digital-beehive/toc/toc2_359/'>1956 [Fire]</a>"
 topic: 
 first_letter: F
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '1454'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1793,816,740,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1793,816,740,187/full/0/default.jpg
 label: fire
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

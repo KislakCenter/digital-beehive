@@ -3,7 +3,7 @@ pid: index_0604
 volume: Volume 3
 image_number: '12'
 head: characters magical
-entry: "<a href='/New_Beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '604'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,3376,585,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,3376,585,116/full/0/default.jpg
 label: characters magical
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

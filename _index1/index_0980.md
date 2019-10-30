@@ -3,7 +3,7 @@ pid: index_0980
 volume: Volume 3
 image_number: '16'
 head: decently
-entry: "<a href='/New_Beehive/toc/toc2_142/'>624 [Handsomness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [Handsomness]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '980'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/389,812,402,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/389,812,402,165/full/0/default.jpg
 label: decently
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,8 +3,8 @@ pid: index_2947
 volume: Volume 3
 image_number: '35'
 head: Wm. Pen[n]
-entry: "<a href='/New_Beehive/toc/toc2_212/'>1095 [William Penn]</a>|<a href='/New_Beehive/toc/toc2_330/'>1678
-  [Wm. Penn]</a>|<a href='/New_Beehive/toc/toc2_361/'>1970 [Wm. Penn]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_212/'>1095 [William Penn]</a>|<a href='/digital-beehive/toc/toc2_330/'>1678
+  [Wm. Penn]</a>|<a href='/digital-beehive/toc/toc2_361/'>1970 [Wm. Penn]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -26,7 +26,7 @@ order: '2947'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1315,705,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1315,705,147/full/0/default.jpg
 label: Wm. Pen[n]
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

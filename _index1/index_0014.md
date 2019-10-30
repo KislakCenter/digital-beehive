@@ -3,7 +3,7 @@ pid: index_0014
 volume: Volume 3
 image_number: '7'
 head: absolutely
-entry: "<a href='/New_Beehive/toc/toc2_288/'>1475 [Absolutely]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1475 [Absolutely]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '14'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/202,1255,532,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/202,1255,532,117/full/0/default.jpg
 label: absolutely
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,13 +6,13 @@ head:
 entry: Tradition
 topic: Tradition
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0362/'>Gloss</a>|hearsay|<a href='/New_Beehive/toc/toc2_118/'>484
+xref: "<a href='/digital-beehive/alpha2/alpha_0362/'>Gloss</a>|hearsay|<a href='/digital-beehive/toc/toc2_118/'>484
   [Tradition]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4210/'>tradition</a>"
+index: "<a href='/digital-beehive/index5/index_4210/'>tradition</a>"
 insertion_xref: 
 insertion: 
 item: "#item-606ddb1f8"
@@ -26,7 +26,7 @@ order: '963'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,3000,488/full/0/default.jpg
 label: Tradition
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

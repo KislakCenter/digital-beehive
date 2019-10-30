@@ -3,7 +3,7 @@ pid: index_3910
 volume: Volume 3
 image_number: '45'
 head: Stoicks
-entry: "<a href='/New_Beehive/toc/toc2_207/'>1067 [Stoicks]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_207/'>1067 [Stoicks]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3910'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,3042,470,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,3042,470,121/full/0/default.jpg
 label: Stoicks
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

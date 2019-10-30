@@ -6,13 +6,13 @@ head:
 entry: Reason
 topic: Reason
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/New_Beehive/toc/toc2_172/'>921
+xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/digital-beehive/toc/toc2_172/'>921
   [Reason]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3311/'>reason</a>"
+index: "<a href='/digital-beehive/index4/index_3311/'>reason</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4e263b65d"
@@ -25,7 +25,7 @@ order: '770'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/822,197,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/822,197,2990,575/full/0/default.jpg
 label: Reason
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

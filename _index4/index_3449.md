@@ -3,12 +3,12 @@ pid: index_3449
 volume: Volume 3
 image_number: '40'
 head: rope
-entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [A rope]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [A rope]</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3449'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1172,1463,454,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1172,1463,454,111/full/0/default.jpg
 label: rope
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

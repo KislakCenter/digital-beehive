@@ -6,13 +6,13 @@ head:
 entry: Disputation
 topic: Disputation
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0911/'>Strife</a>|<a href='/New_Beehive/toc/toc2_073/'>170
+xref: "<a href='/digital-beehive/alpha4/alpha_0911/'>Strife</a>|<a href='/digital-beehive/toc/toc2_073/'>170
   [Disputation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1095/'>disputation</a>"
+index: "<a href='/digital-beehive/index1/index_1095/'>disputation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8b68258ba"
@@ -26,7 +26,7 @@ order: '244'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,3901,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,3901,2937,649/full/0/default.jpg
 label: Disputation
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

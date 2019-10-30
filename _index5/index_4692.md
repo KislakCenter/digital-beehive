@@ -3,7 +3,7 @@ pid: index_4692
 volume: Volume 3
 image_number: '54'
 head: Turpentine
-entry: "<a href='/New_Beehive/toc/toc2_380/'>2145 [Turpentine]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_380/'>2145 [Turpentine]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4692'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1074,440,693,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1074,440,693,152/full/0/default.jpg
 label: Turpentine
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

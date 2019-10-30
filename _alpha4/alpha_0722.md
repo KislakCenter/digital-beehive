@@ -6,13 +6,13 @@ head:
 entry: Predestination
 topic: Predestination
 first_letter: P
-xref: Reprobates|<a href='/New_Beehive/alpha2/alpha_0315/'>Fate</a>|<a href='/New_Beehive/toc/toc2_081/'>228
+xref: Reprobates|<a href='/digital-beehive/alpha2/alpha_0315/'>Fate</a>|<a href='/digital-beehive/toc/toc2_081/'>228
   [Predestination]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3121/'>predestination</a>"
+index: "<a href='/digital-beehive/index4/index_3121/'>predestination</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d6466de3e"
@@ -26,7 +26,7 @@ order: '722'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,3008,521/full/0/default.jpg
 label: Predestination
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

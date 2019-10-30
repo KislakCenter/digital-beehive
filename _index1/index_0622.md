@@ -3,7 +3,7 @@ pid: index_0622
 volume: Volume 3
 image_number: '12'
 head: cherubims
-entry: "<a href='/New_Beehive/toc/toc2_351/'>1897 [Cherubims]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_351/'>1897 [Cherubims]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '622'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1832,1364,525,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1832,1364,525,90/full/0/default.jpg
 label: cherubims
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

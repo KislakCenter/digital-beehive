@@ -3,7 +3,7 @@ pid: index_0865
 volume: Volume 3
 image_number: '15'
 head: cosmographical books
-entry: "<a href='/New_Beehive/toc/toc2_186/'>1005 [Self will]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_186/'>1005 [Self will]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '865'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/full/0/default.jpg
 label: cosmographical books
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

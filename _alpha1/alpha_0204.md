@@ -6,13 +6,13 @@ head:
 entry: Dammage
 topic: Dammage
 first_letter: D
-xref: "<a href='/New_Beehive/alpha3/alpha_0548/'>Losse</a>|WORD_ILLEGIBLE|<a href='/New_Beehive/toc/toc2_278/'>1422
-  [Dam[m]age]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0548/'>Losse</a>|[WORD_ILLEGIBLE]|<a
+  href='/digital-beehive/toc/toc2_278/'>1422 [Dam[m]age]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0942/'>dam[m]age</a>"
+index: "<a href='/digital-beehive/index1/index_0942/'>dam[m]age</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f95d47f88"
@@ -26,7 +26,7 @@ order: '204'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/363,1926,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/363,1926,3077,498/full/0/default.jpg
 label: Dammage
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

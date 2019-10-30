@@ -3,14 +3,14 @@ pid: index_0142
 volume: Volume 3
 image_number: '8'
 head: angel
-entry: "<a href='/New_Beehive/alpha1/alpha_0029/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>315
+entry: "<a href='/digital-beehive/alpha1/alpha_0029/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>315
   [Angels]</a>"
 topic: 
 first_letter: A
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index2/index_1724/'>guardian angels</a>"
+add: "<a href='/digital-beehive/index2/index_1724/'>guardian angels</a>"
 type: 
 index: 
 insertion_xref: 
@@ -25,7 +25,7 @@ order: '142'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/363,1677,570,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/363,1677,570,155/full/0/default.jpg
 label: angel
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

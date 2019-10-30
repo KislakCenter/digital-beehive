@@ -3,7 +3,7 @@ pid: index_0998
 volume: Volume 3
 image_number: '16'
 head: delay
-entry: "<a href='/New_Beehive/alpha1/alpha_0219/'>a</a>|<a href='/New_Beehive/toc/toc2_218/'>1123
+entry: "<a href='/digital-beehive/alpha1/alpha_0219/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1123
   [delay]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '998'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/330,2818,485,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/330,2818,485,123/full/0/default.jpg
 label: delay
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

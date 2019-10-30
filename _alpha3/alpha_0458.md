@@ -6,12 +6,12 @@ head:
 entry: Imitation of Christ
 topic: Imitation of Christ
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_195/'>1010 [The Following of Christ]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_195/'>1010 [The Following of Christ]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1961/'>imitation of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_1961/'>imitation of Christ</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e6337f777"
@@ -25,7 +25,7 @@ order: '458'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/779,233,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/779,233,2986,770/full/0/default.jpg
 label: Imitation of Christ
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

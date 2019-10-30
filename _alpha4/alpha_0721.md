@@ -6,12 +6,12 @@ head:
 entry: Precedency
 topic: Precedency
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0024/'>ambition</a>|<a href='/New_Beehive/alpha2/alpha_0325/'>first</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0024/'>ambition</a>|<a href='/digital-beehive/alpha2/alpha_0325/'>first</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3117/'>precedency</a>"
+index: "<a href='/digital-beehive/index4/index_3117/'>precedency</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bec3cfc6a"
@@ -24,7 +24,7 @@ order: '721'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,1400,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,1400,2990,416/full/0/default.jpg
 label: Precedency
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

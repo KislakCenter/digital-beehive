@@ -3,7 +3,7 @@ pid: index_1323
 volume: Volume 3
 image_number: '19'
 head: europe
-entry: "<a href='/New_Beehive/toc/toc2_104/'>391 [European]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_104/'>391 [European]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1323'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/853,1737,389,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/853,1737,389,119/full/0/default.jpg
 label: europe
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

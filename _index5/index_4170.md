@@ -3,7 +3,7 @@ pid: index_4170
 volume: Volume 3
 image_number: '48'
 head: together
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [Together]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Together]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4170'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,775,524,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,775,524,136/full/0/default.jpg
 label: together
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

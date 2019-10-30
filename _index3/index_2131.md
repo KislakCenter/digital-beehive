@@ -3,13 +3,13 @@ pid: index_2131
 volume: Volume 3
 image_number: '27'
 head: judge
-entry: "<a href='/New_Beehive/alpha3/alpha_0492/'>a</a>|<a href='/New_Beehive/toc/toc2_325/'>1652
+entry: "<a href='/digital-beehive/alpha3/alpha_0492/'>a</a>|<a href='/digital-beehive/toc/toc2_325/'>1652
   [Judge]</a>|4517 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '2131'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/125,1504,734,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/125,1504,734,128/full/0/default.jpg
 label: judge
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

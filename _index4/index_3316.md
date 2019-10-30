@@ -3,7 +3,7 @@ pid: index_3316
 volume: Volume 3
 image_number: '38'
 head: to receive
-entry: "<a href='/New_Beehive/toc/toc2_272/'>1395 [To Receive]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_272/'>1395 [To Receive]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3316'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1819,2795,638,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1819,2795,638,172/full/0/default.jpg
 label: to receive
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

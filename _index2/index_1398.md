@@ -3,12 +3,12 @@ pid: index_1398
 volume: Volume 3
 image_number: '20'
 head: famine
-entry: "<a href='/New_Beehive/toc/toc2_157/'>710 [Hunger]</a>|<a href='/New_Beehive/toc/toc2_375/'>2095
+entry: "<a href='/digital-beehive/toc/toc2_157/'>710 [Hunger]</a>|<a href='/digital-beehive/toc/toc2_375/'>2095
   [Hunger]</a>"
 topic: 
 first_letter: F
 xref: 
-see: "<a href='/New_Beehive/index2/index_1906/'>hunger</a>"
+see: "<a href='/digital-beehive/index2/index_1906/'>hunger</a>"
 page: 
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '1398'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/381,2515,756,194/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/381,2515,756,194/full/0/default.jpg
 label: famine
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Womanish
 topic: Womanish
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_271/'>1388 [Love of Women]</a>|<a href='/New_Beehive/toc/toc2_232/'>1192
+xref: "<a href='/digital-beehive/toc/toc2_271/'>1388 [Love of Women]</a>|<a href='/digital-beehive/toc/toc2_232/'>1192
   [Effeminate]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4590/'>womanish</a>"
+index: "<a href='/digital-beehive/index5/index_4590/'>womanish</a>"
 insertion_xref: 
 insertion: 
 item: "#item-25cdbc304"
@@ -26,7 +26,7 @@ order: '1038'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,2949,343/full/0/default.jpg
 label: Womanish
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

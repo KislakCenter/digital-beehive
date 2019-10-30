@@ -3,7 +3,7 @@ pid: index_4151
 volume: Volume 3
 image_number: '47'
 head: till or until
-entry: "<a href='/New_Beehive/toc/toc2_273/'>1398 [Till until]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Till until]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4151'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1617,1784,571,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1617,1784,571,162/full/0/default.jpg
 label: till or until
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

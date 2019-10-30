@@ -3,7 +3,7 @@ pid: index_0338
 volume: Volume 3
 image_number: '9'
 head: begging the question
-entry: "<a href='/New_Beehive/toc/toc2_087/'>270 [Begging the Question]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_087/'>270 [Begging the Question]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '338'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1589,3499,677,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1589,3499,677,122/full/0/default.jpg
 label: begging the question
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0930
 volume: Volume 3
 image_number: '15'
 head: currans
-entry: "<a href='/New_Beehive/toc/toc2_262/'>1344 [Corinths]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Corinths]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '930'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/full/0/default.jpg
 label: currans
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0245
 volume: Volume 3
 image_number: '9'
 head: avemaria
-entry: "<a href='/New_Beehive/toc/toc2_421/'>2444 [Ave Maria]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_421/'>2444 [Ave Maria]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '245'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,1095,698,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,1095,698,102/full/0/default.jpg
 label: avemaria
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

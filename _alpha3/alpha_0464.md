@@ -6,12 +6,12 @@ head:
 entry: Imputation
 topic: Imputation
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_064/'>79 [Imputation]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_064/'>79 [Imputation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1987/'>imputation</a>"
+index: "<a href='/digital-beehive/index3/index_1987/'>imputation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5c83dacce"
@@ -24,7 +24,7 @@ order: '464'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/786,3415,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/786,3415,2929,452/full/0/default.jpg
 label: Imputation
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

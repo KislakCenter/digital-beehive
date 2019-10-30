@@ -3,7 +3,7 @@ pid: index_4207
 volume: Volume 3
 image_number: '48'
 head: town
-entry: "<a href='/New_Beehive/toc/toc2_073/'>162 [City]</a>|Entry 1878 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_073/'>162 [City]</a>|Entry 1878 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4207'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/full/0/default.jpg
 label: town
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

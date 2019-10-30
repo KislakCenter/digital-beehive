@@ -3,7 +3,8 @@ pid: index_1781
 volume: Volume 3
 image_number: '23'
 head: hear-say
-entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>
+entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_392/'>2242 [Report &
+  hear-say]</a>
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +25,7 @@ order: '1781'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1557,818,638,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1557,818,638,93/full/0/default.jpg
 label: hear-say
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

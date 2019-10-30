@@ -3,7 +3,7 @@ pid: index_0447
 volume: Volume 3
 image_number: '11'
 head: breathing
-entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Breathing with difficulty]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Breathing with difficulty]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '447'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/161,1523,499,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/161,1523,499,185/full/0/default.jpg
 label: breathing
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Apostacy
 topic: Apostacy
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_078/'>204 [Apostacy]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_078/'>204 [Apostacy]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0169/'>apostacy</a>"
+index: "<a href='/digital-beehive/index1/index_0169/'>apostacy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3d5c75e87"
@@ -24,7 +24,7 @@ order: '38'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/379,4067,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/379,4067,3091,684/full/0/default.jpg
 label: Apostacy
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

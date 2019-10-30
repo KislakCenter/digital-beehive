@@ -6,12 +6,12 @@ head:
 entry: Infidelity
 topic: Infidelity
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_412/'>2380 [Unfaithful]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_412/'>2380 [Unfaithful]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2033/'>infidelity</a>"
+index: "<a href='/digital-beehive/index3/index_2033/'>infidelity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3d1985b0c"
@@ -24,7 +24,7 @@ order: '471'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,3041,282/full/0/default.jpg
 label: Infidelity
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,8 +3,8 @@ pid: index_4461
 volume: Volume 3
 image_number: '51'
 head: waiting upon God
-entry: "<a href='/New_Beehive/toc/toc2_063/'>65 [Waiting upon the Lord in silence]</a>|<a
-  href='/New_Beehive/toc/toc2_409/'>2351 [Wait upon God]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_063/'>65 [Waiting upon the Lord in silence]</a>|<a
+  href='/digital-beehive/toc/toc2_409/'>2351 [Wait upon God]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -26,7 +26,7 @@ order: '4461'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,433,646,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,433,646,164/full/0/default.jpg
 label: waiting upon God
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

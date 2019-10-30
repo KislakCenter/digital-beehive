@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3899/'>steward</a>"
+index: "<a href='/digital-beehive/index4/index_3899/'>steward</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b729ddcd6"
@@ -24,7 +24,7 @@ order: '902'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/303,2614,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/303,2614,3035,236/full/0/default.jpg
 label: Stewardship
-location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

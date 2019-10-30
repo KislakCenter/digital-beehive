@@ -3,13 +3,13 @@ pid: index_1957
 volume: Volume 3
 image_number: '25'
 head: images
-entry: "<a href='/New_Beehive/alpha3/alpha_0454/'>a</a>|<a href='/New_Beehive/toc/toc2_178/'>955
+entry: "<a href='/digital-beehive/alpha3/alpha_0454/'>a</a>|<a href='/digital-beehive/toc/toc2_178/'>955
   [Images]</a>|4632 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '1957'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/875,502,663,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/875,502,663,141/full/0/default.jpg
 label: images
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -6,13 +6,13 @@ head:
 entry: Selfwilledness
 topic: Selfwilledness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc/toc2_186/'>1005
+xref: "<a href='/digital-beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_186/'>1005
   [Self will]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3630/'>Self will</a>"
+index: "<a href='/digital-beehive/index4/index_3630/'>Self will</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ef0ac887c"
@@ -26,7 +26,7 @@ order: '848'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,3022,366/full/0/default.jpg
 label: Selfwilledness
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

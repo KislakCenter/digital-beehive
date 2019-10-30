@@ -3,7 +3,7 @@ pid: index_0203
 volume: Volume 3
 image_number: '8'
 head: arithmetick
-entry: "<a href='/New_Beehive/alpha1/alpha_0045/'>a</a>|<a href='/New_Beehive/toc/toc2_114/'>457
+entry: "<a href='/digital-beehive/alpha1/alpha_0045/'>a</a>|<a href='/digital-beehive/toc/toc2_114/'>457
   [Arithmetick]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '203'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1795,467,634,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1795,467,634,121/full/0/default.jpg
 label: arithmetick
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

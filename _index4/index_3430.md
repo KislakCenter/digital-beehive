@@ -3,7 +3,7 @@ pid: index_3430
 volume: Volume 3
 image_number: '40'
 head: rime. reiff
-entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Rime upon the ground]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>383 [Rime upon the ground]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3430'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/full/0/default.jpg
 label: rime. reiff
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

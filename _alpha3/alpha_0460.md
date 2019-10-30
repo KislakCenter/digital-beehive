@@ -6,13 +6,13 @@ head:
 entry: Impatience
 topic: Impatience
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0684/'>Patience</a>|<a href='/New_Beehive/toc/toc2_223/'>1147
+xref: "<a href='/digital-beehive/alpha4/alpha_0684/'>Patience</a>|<a href='/digital-beehive/toc/toc2_223/'>1147
   [Impatience]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1965/'>impatience</a>"
+index: "<a href='/digital-beehive/index3/index_1965/'>impatience</a>"
 insertion_xref: 
 insertion: 
 item: "#item-267c3ac3f"
@@ -26,7 +26,7 @@ order: '460'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/746,1358,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/746,1358,2991,758/full/0/default.jpg
 label: Impatience
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3661/'>shamefaced</a>"
+index: "<a href='/digital-beehive/index4/index_3661/'>shamefaced</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bc7a8049a"
@@ -25,7 +25,7 @@ order: '856'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,2956,437/full/0/default.jpg
 label: Shamefacedness
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

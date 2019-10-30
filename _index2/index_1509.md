@@ -3,7 +3,7 @@ pid: index_1509
 volume: Volume 3
 image_number: '21'
 head: foreward
-entry: "<a href='/New_Beehive/toc/toc2_127/'>541 [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_127/'>541 [WORD_MISSING]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1509'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/189,2580,446,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/189,2580,446,85/full/0/default.jpg
 label: foreward
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,8 @@ pid: index_1277
 volume: Volume 3
 image_number: '19'
 head: envy
-entry: "<a href='/New_Beehive/alpha2/alpha_0284/'>a</a>|730 [PAGE_MISSING]|4603 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha2/alpha_0284/'>a</a>|730 [PAGE_MISSING]|4603
+  [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +25,7 @@ order: '1277'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/145,303,605,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/145,303,605,131/full/0/default.jpg
 label: envy
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

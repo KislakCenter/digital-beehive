@@ -3,7 +3,7 @@ pid: index_1258
 volume: Volume 3
 image_number: '18'
 head: English Church government
-entry: "<a href='/New_Beehive/toc/toc2_429/'>4792 [Rule of faith & life]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_429/'>4792 [Rule of faith & life]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1258'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/full/0/default.jpg
 label: English Church government
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

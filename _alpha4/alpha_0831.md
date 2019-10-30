@@ -6,12 +6,12 @@ head:
 entry: Seal
 topic: Seal
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_358/'>1941 [Seal]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_358/'>1941 [Seal]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3576/'>seal</a>"
+index: "<a href='/digital-beehive/index4/index_3576/'>seal</a>"
 insertion_xref: 
 insertion: 
 item: "#item-272840dbb"
@@ -24,7 +24,7 @@ order: '831'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/768,3794,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/768,3794,2946,442/full/0/default.jpg
 label: Seal
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

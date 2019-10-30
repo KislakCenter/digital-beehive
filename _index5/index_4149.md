@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: "<a href='/New_Beehive/index3/index_2703/'>news</a>"
+see: "<a href='/digital-beehive/index3/index_2703/'>news</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4149'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1580,1485,594,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1580,1485,594,170/full/0/default.jpg
 label: tidings
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

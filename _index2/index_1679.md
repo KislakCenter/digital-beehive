@@ -24,7 +24,7 @@ order: '1679'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1812,1121,400,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1812,1121,400,129/full/0/default.jpg
 label: gourd
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

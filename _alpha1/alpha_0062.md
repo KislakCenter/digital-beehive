@@ -6,13 +6,13 @@ head:
 entry: Baseness
 topic: Baseness
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0539/'>Little</a>|<a href='/New_Beehive/alpha2/alpha_0436/'>humility</a>|<a
-  href='/New_Beehive/toc/toc2_135/'>589 [Base]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0539/'>Little</a>|<a href='/digital-beehive/alpha2/alpha_0436/'>humility</a>|<a
+  href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0302/'>baseness</a>"
+index: "<a href='/digital-beehive/index1/index_0302/'>baseness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-588519acf"
@@ -26,7 +26,7 @@ order: '62'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/380,3001,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/380,3001,3026,389/full/0/default.jpg
 label: Baseness
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

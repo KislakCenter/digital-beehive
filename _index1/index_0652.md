@@ -3,8 +3,8 @@ pid: index_0652
 volume: Volume 3
 image_number: '13'
 head: christians
-entry: "<a href='/New_Beehive/toc/toc2_080/'>216 [christians]</a>|<a href='/New_Beehive/toc/toc2_340/'>1751
-  [Christians]</a>|<a href='/New_Beehive/toc/toc2_392/'>2245 [Failings]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_080/'>216 [christians]</a>|<a href='/digital-beehive/toc/toc2_340/'>1751
+  [Christians]</a>|<a href='/digital-beehive/toc/toc2_392/'>2245 [Failings]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -26,7 +26,7 @@ order: '652'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/144,612,771,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/144,612,771,134/full/0/default.jpg
 label: christians
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

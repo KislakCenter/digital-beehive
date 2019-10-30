@@ -3,7 +3,7 @@ pid: index_4539
 volume: Volume 3
 image_number: '52'
 head: white
-entry: "<a href='/New_Beehive/toc/toc2_359/'>1951 [White]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4539'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/full/0/default.jpg
 label: white
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

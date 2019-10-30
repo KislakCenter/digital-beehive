@@ -3,8 +3,8 @@ pid: index_2339
 volume: Volume 3
 image_number: '29'
 head: love
-entry: "<a href='/New_Beehive/alpha3/alpha_0550/'>a</a>|<a href='/New_Beehive/toc/toc2_111/'>438
-  [Love]</a>|<a href='/New_Beehive/toc/toc2_209/'>1077 [Love]</a>|<a href='/New_Beehive/toc/toc2_423/'>4452
+entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>|<a href='/digital-beehive/toc/toc2_111/'>438
+  [Love]</a>|<a href='/digital-beehive/toc/toc2_209/'>1077 [Love]</a>|<a href='/digital-beehive/toc/toc2_423/'>4452
   [Love]</a>"
 topic: 
 first_letter: L
@@ -26,7 +26,7 @@ order: '2339'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1944,713,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1944,713,104/full/0/default.jpg
 label: love
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

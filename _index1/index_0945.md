@@ -3,8 +3,8 @@ pid: index_0945
 volume: Volume 3
 image_number: '15'
 head: danger
-entry: "<a href='/New_Beehive/alpha1/alpha_0206/'>a</a>|<a href='/New_Beehive/toc/toc2_150/'>673
-  [Danger]</a>|<a href='/New_Beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/New_Beehive/toc/toc2_360/'>1964
+entry: "<a href='/digital-beehive/alpha1/alpha_0206/'>a</a>|<a href='/digital-beehive/toc/toc2_150/'>673
+  [Danger]</a>|<a href='/digital-beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964
   [Danger]</a>"
 topic: 
 first_letter: D
@@ -27,7 +27,7 @@ order: '945'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/full/0/default.jpg
 label: danger
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

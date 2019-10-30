@@ -3,8 +3,8 @@ pid: index_3373
 volume: Volume 3
 image_number: '39'
 head: report
-entry: "<a href='/New_Beehive/alpha4/alpha_0786/'>a</a>|779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242
-  [Report & hear-say]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0786/'>a</a>|779 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -25,7 +25,7 @@ order: '3373'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/full/0/default.jpg
 label: report
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

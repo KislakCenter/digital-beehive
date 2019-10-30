@@ -6,12 +6,12 @@ head:
 entry: Garden Garlick
 topic: Garden Garlick
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_152/'>685 [Garlick]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_152/'>685 [Garlick]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1583/'>garlick</a>"
+index: "<a href='/digital-beehive/index2/index_1583/'>garlick</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d6a50bdc4"
@@ -24,7 +24,7 @@ order: '355'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/740,592,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/740,592,3062,192/full/0/default.jpg
 label: Garden Garlick
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

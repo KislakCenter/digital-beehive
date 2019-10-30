@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index2/index_1885/'>hotchpotch</a>"
+see: "<a href='/digital-beehive/index2/index_1885/'>hotchpotch</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2523'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/full/0/default.jpg
 label: mingle
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

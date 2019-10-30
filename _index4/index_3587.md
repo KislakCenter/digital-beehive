@@ -3,7 +3,7 @@ pid: index_3587
 volume: Volume 3
 image_number: '41'
 head: secretary
-entry: "<a href='/New_Beehive/alpha4/alpha_0833/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3587'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1962,515,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1962,515,106/full/0/default.jpg
 label: secretary
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

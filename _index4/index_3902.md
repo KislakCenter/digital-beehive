@@ -3,7 +3,7 @@ pid: index_3902
 volume: Volume 3
 image_number: '45'
 head: stiff
-entry: "<a href='/New_Beehive/toc/toc2_153/'>686 [Firm]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Firm]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3902'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,2245,284,78/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,2245,284,78/full/0/default.jpg
 label: stiff
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

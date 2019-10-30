@@ -6,13 +6,13 @@ head:
 entry: Instrument
 topic: Instrument
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/New_Beehive/toc/toc2_412/'>2378
+xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/digital-beehive/toc/toc2_412/'>2378
   [Instruments]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2070/'>instrumt</a>"
+index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4818d98ae"
@@ -26,7 +26,7 @@ order: '480'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,3026,591/full/0/default.jpg
 label: Instrument
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

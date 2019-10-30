@@ -3,8 +3,8 @@ pid: index_3121
 volume: Volume 3
 image_number: '36'
 head: predestination
-entry: "<a href='/New_Beehive/alpha4/alpha_0722/'>a</a>|<a href='/New_Beehive/toc/toc2_081/'>228
-  [Predestination]</a>|<a href='/New_Beehive/toc/toc2_389/'>2230 [Predestination]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0722/'>a</a>|<a href='/digital-beehive/toc/toc2_081/'>228
+  [Predestination]</a>|<a href='/digital-beehive/toc/toc2_389/'>2230 [Predestination]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3121'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1871,2006,690,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1871,2006,690,160/full/0/default.jpg
 label: predestination
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

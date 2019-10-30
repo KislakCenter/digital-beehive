@@ -3,13 +3,13 @@ pid: index_3285
 volume: Volume 3
 image_number: '38'
 head: rainbow
-entry: "<a href='/New_Beehive/alpha4/alpha_0765/'>a</a>|<a href='/New_Beehive/toc/toc2_312/'>1590
+entry: "<a href='/digital-beehive/alpha4/alpha_0765/'>a</a>|<a href='/digital-beehive/toc/toc2_312/'>1590
   [Rainbow]</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '3285'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3497,652,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3497,652,134/full/0/default.jpg
 label: rainbow
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

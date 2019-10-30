@@ -3,7 +3,7 @@ pid: index_2590
 volume: Volume 3
 image_number: '31'
 head: Tho. Morus
-entry: "<a href='/New_Beehive/toc/toc2_309/'>1574 [Tho. Morus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1574 [Tho. Morus]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2590'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/805,2705,510,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/805,2705,510,118/full/0/default.jpg
 label: Tho. Morus
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -8,7 +8,7 @@ topic:
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3984'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/full/0/default.jpg
 label: sun rising, setting
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

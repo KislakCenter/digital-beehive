@@ -3,7 +3,7 @@ pid: index_2048
 volume: Volume 3
 image_number: '26'
 head: injustice
-entry: "<a href='/New_Beehive/alpha3/alpha_0475/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0475/'>a</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2048'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,3166,413,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,3166,413,128/full/0/default.jpg
 label: injustice
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

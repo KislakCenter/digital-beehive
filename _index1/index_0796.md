@@ -3,7 +3,7 @@ pid: index_0796
 volume: Volume 3
 image_number: '14'
 head: conjunctions
-entry: "<a href='/New_Beehive/toc/toc2_370/'>2044 [Particles]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_370/'>2044 [Particles]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '796'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1167,701,601,71/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1167,701,601,71/full/0/default.jpg
 label: conjunctions
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

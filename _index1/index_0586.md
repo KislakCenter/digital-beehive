@@ -3,7 +3,7 @@ pid: index_0586
 volume: Volume 3
 image_number: '12'
 head: certificate
-entry: "<a href='/New_Beehive/toc/toc2_195/'>1007 [a Testimonial]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_195/'>1007 [a Testimonial]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '586'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,1973,516,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,1973,516,127/full/0/default.jpg
 label: certificate
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

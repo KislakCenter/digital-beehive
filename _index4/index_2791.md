@@ -3,7 +3,7 @@ pid: index_2791
 volume: Volume 3
 image_number: '33'
 head: omnipresence
-entry: "<a href='/New_Beehive/alpha4/alpha_0658/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0658/'>a</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2791'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/854,2532,495,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/854,2532,495,122/full/0/default.jpg
 label: omnipresence
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

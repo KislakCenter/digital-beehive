@@ -3,7 +3,7 @@ pid: index_3209
 volume: Volume 3
 image_number: '37'
 head: protoplasts
-entry: "<a href='/New_Beehive/toc/toc2_104/'>389 [Adam]</a>|<a href='/New_Beehive/toc/toc2_378/'>2125
+entry: "<a href='/digital-beehive/toc/toc2_104/'>389 [Adam]</a>|<a href='/digital-beehive/toc/toc2_378/'>2125
   [Adam]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3209'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,2166,735,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,2166,735,137/full/0/default.jpg
 label: protoplasts
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

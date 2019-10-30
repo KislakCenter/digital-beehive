@@ -3,7 +3,7 @@ pid: index_0785
 volume: Volume 3
 image_number: '14'
 head: confession
-entry: "<a href='/New_Beehive/alpha1/alpha_0167/'>a</a>|<a href='/New_Beehive/toc/toc2_363/'>1981
+entry: "<a href='/digital-beehive/alpha1/alpha_0167/'>a</a>|<a href='/digital-beehive/toc/toc2_363/'>1981
   [Confession]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '785'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/386,2886,605,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/386,2886,605,122/full/0/default.jpg
 label: confession
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_1276
 volume: Volume 3
 image_number: '18'
 head: to entreat
-entry: "<a href='/New_Beehive/toc/toc2_096/'>336 [To pray]</a>|<a href='/New_Beehive/toc/toc2_146/'>652
+entry: "<a href='/digital-beehive/toc/toc2_096/'>336 [To pray]</a>|<a href='/digital-beehive/toc/toc2_146/'>652
   [Petition Request]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1276'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,3581,628,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,3581,628,113/full/0/default.jpg
 label: to entreat
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

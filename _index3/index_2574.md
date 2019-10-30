@@ -3,13 +3,13 @@ pid: index_2574
 volume: Volume 3
 image_number: '31'
 head: moon
-entry: "<a href='/New_Beehive/alpha3/alpha_0603/'>a</a>|<a href='/New_Beehive/toc/toc2_265/'>1357
-  [Moon]</a>|<a href='/New_Beehive/toc/toc2_376/'>2110 [Moon]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0603/'>a</a>|<a href='/digital-beehive/toc/toc2_265/'>1357
+  [Moon]</a>|<a href='/digital-beehive/toc/toc2_376/'>2110 [Moon]</a>"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_078/'>p.28 [Image 1.88]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_078/'>p.28 [Image 1.88]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '2574'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/866,1323,661,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/866,1323,661,133/full/0/default.jpg
 label: moon
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

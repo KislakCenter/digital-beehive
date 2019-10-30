@@ -3,8 +3,8 @@ pid: index_1643
 volume: Volume 3
 image_number: '22'
 head: God within
-entry: "<a href='/New_Beehive/toc/toc2_060/'>36 [God with & in men]</a>|<a href='/New_Beehive/toc/toc2_087/'>267
-  [God is in us]</a>|<a href='/New_Beehive/toc/toc2_175/'>937 [Union with God]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_060/'>36 [God with & in men]</a>|<a href='/digital-beehive/toc/toc2_087/'>267
+  [God is in us]</a>|<a href='/digital-beehive/toc/toc2_175/'>937 [Union with God]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -26,7 +26,7 @@ order: '1643'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/full/0/default.jpg
 label: God within
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

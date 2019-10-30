@@ -6,13 +6,13 @@ head:
 entry: Bed
 topic: Bed
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0877/'>Sleep</a>|<a href='/New_Beehive/toc/toc2_124/'>523
+xref: "<a href='/digital-beehive/alpha4/alpha_0877/'>Sleep</a>|<a href='/digital-beehive/toc/toc2_124/'>523
   [Bed]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0329/'>bed</a>"
+index: "<a href='/digital-beehive/index1/index_0329/'>bed</a>"
 insertion_xref: 
 insertion: 
 item: "#item-384c11b92"
@@ -25,7 +25,7 @@ order: '70'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/709,713,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/709,713,3126,430/full/0/default.jpg
 label: Bed
-location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

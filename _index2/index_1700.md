@@ -3,12 +3,12 @@ pid: index_1700
 volume: Volume 3
 image_number: '22'
 head: grave
-entry: "<a href='/New_Beehive/alpha2/alpha_0384/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0384/'>a</a>"
 topic: 
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1700'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1854,3499,513,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1854,3499,513,130/full/0/default.jpg
 label: grave
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

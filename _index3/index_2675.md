@@ -3,7 +3,7 @@ pid: index_2675
 volume: Volume 3
 image_number: '32'
 head: needs
-entry: "<a href='/New_Beehive/toc/toc2_335/'>1710 [Needs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1710 [Needs]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2675'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3208,387,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3208,387,111/full/0/default.jpg
 label: needs
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

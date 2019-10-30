@@ -3,11 +3,11 @@ pid: index_2043
 volume: Volume 3
 image_number: '26'
 head: inheritance
-entry: "<a href='/New_Beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
 topic: 
 first_letter: I/J
 xref: 
-see: "<a href='/New_Beehive/index2/index_1814/'>heritage</a>"
+see: "<a href='/digital-beehive/index2/index_1814/'>heritage</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2043'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/full/0/default.jpg
 label: inheritance
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

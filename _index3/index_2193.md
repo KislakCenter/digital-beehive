@@ -3,7 +3,7 @@ pid: index_2193
 volume: Volume 3
 image_number: '27'
 head: land
-entry: "<a href='/New_Beehive/toc/toc2_110/'>432 [Land]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_110/'>432 [Land]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2193'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1550,699,365,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1550,699,365,120/full/0/default.jpg
 label: land
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_0023
 volume: Volume 3
 image_number: '7'
 head: acceptable
-entry: "<a href='/New_Beehive/toc/toc2_165/'>889 [Agreable]</a>|<a href='/New_Beehive/toc/toc2_275/'>1408
+entry: "<a href='/digital-beehive/toc/toc2_165/'>889 [Agreable]</a>|<a href='/digital-beehive/toc/toc2_275/'>1408
   [Acceptable]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '23'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/full/0/default.jpg
 label: acceptable
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

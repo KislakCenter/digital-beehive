@@ -6,13 +6,13 @@ head:
 entry: Wisedom
 topic: Wisedom
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0750/'>Prudence</a>|<a href='/New_Beehive/toc/toc2_215/'>1107
+xref: "<a href='/digital-beehive/alpha4/alpha_0750/'>Prudence</a>|<a href='/digital-beehive/toc/toc2_215/'>1107
   [Wisdom]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4568/'>wisdom</a>"
+index: "<a href='/digital-beehive/index5/index_4568/'>wisdom</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e42300dfe"
@@ -25,7 +25,7 @@ order: '1030'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,3023,580/full/0/default.jpg
 label: Wisedom
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

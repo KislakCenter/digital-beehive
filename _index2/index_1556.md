@@ -3,7 +3,7 @@ pid: index_1556
 volume: Volume 3
 image_number: '21'
 head: frugality
-entry: "<a href='/New_Beehive/toc/toc2_216/'>1115 [Frugality]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_216/'>1115 [Frugality]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1556'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/838,3485,539,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/838,3485,539,166/full/0/default.jpg
 label: frugality
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

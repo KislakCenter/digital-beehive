@@ -3,9 +3,9 @@ pid: index_0969
 volume: Volume 3
 image_number: '15'
 head: death of good men
-entry: "<a href='/New_Beehive/toc/toc2_142/'>626 [the Death of good & holy men]</a>|<a
-  href='/New_Beehive/toc/toc2_360/'>1963 [the Death of good & great men]</a>|<a href='/New_Beehive/toc/toc2_446/'>4914
-  [WORD_ILLEGIBLE]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_142/'>626 [the Death of good & holy men]</a>|<a
+  href='/digital-beehive/toc/toc2_360/'>1963 [the Death of good & great men]</a>|<a
+  href='/digital-beehive/toc/toc2_446/'>4914 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -27,7 +27,7 @@ order: '969'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1523,3103,777,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1523,3103,777,167/full/0/default.jpg
 label: death of good men
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

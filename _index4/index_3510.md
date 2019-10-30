@@ -3,7 +3,7 @@ pid: index_3510
 volume: Volume 3
 image_number: '41'
 head: Salutation
-entry: "<a href='/New_Beehive/toc/toc2_064/'>78 [Salutations]</a>|<a href='/New_Beehive/toc/toc2_291/'>1489
+entry: "<a href='/digital-beehive/toc/toc2_064/'>78 [Salutations]</a>|<a href='/digital-beehive/toc/toc2_291/'>1489
   [Salutation]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3510'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/144,1025,635,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/144,1025,635,157/full/0/default.jpg
 label: Salutation
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3175
 volume: Volume 3
 image_number: '37'
 head: proclamation
-entry: "<a href='/New_Beehive/toc/toc2_250/'>1285 [an Wist]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1285 [an Wist]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3175'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/769,1408,640,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/769,1408,640,123/full/0/default.jpg
 label: proclamation
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

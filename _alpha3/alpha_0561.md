@@ -6,12 +6,12 @@ head:
 entry: Magistrate
 topic: Magistrate
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_094/'>318 [Magistrates]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_094/'>318 [Magistrates]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2379/'>magistrate</a>"
+index: "<a href='/digital-beehive/index3/index_2379/'>magistrate</a>"
 insertion_xref: 
 insertion: 
 item: "#item-39f583755"
@@ -24,7 +24,7 @@ order: '561'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,2747,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,2747,3032,667/full/0/default.jpg
 label: Magistrate
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

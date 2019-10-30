@@ -3,14 +3,14 @@ pid: index_2404
 volume: Volume 3
 image_number: '29'
 head: man
-entry: "<a href='/New_Beehive/alpha3/alpha_0567/'>a</a>|<a href='/New_Beehive/toc/toc2_218/'>1124
-  [Man]</a>|<a href='/New_Beehive/toc/toc2_355/'>1923 [Man]</a>|<a href='/New_Beehive/toc/toc2_390/'>2232
+entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1124
+  [Man]</a>|<a href='/digital-beehive/toc/toc2_355/'>1923 [Man]</a>|<a href='/digital-beehive/toc/toc2_390/'>2232
   [Man]</a>"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -27,7 +27,7 @@ order: '2404'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/full/0/default.jpg
 label: man
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

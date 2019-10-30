@@ -3,7 +3,7 @@ pid: index_1937
 volume: Volume 3
 image_number: '25'
 head: Jerusalem
-entry: "<a href='/New_Beehive/toc/toc2_104/'>388 [(New) Jerusalem]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_104/'>388 [(New) Jerusalem]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1937'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/full/0/default.jpg
 label: Jerusalem
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

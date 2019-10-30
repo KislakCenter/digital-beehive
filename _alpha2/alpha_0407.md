@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1786/'>heavenly things</a>"
+index: "<a href='/digital-beehive/index2/index_1786/'>heavenly things</a>"
 insertion_xref: 
 insertion: 
 item: "#item-38f299b36"
@@ -24,7 +24,7 @@ order: '407'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/402,4340,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/402,4340,3022,385/full/0/default.jpg
 label: Heavenly Things
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

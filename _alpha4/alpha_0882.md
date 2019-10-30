@@ -6,12 +6,12 @@ head:
 entry: Snow
 topic: Snow
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_329/'>1672 [Snow]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_329/'>1672 [Snow]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3771/'>snow</a>"
+index: "<a href='/digital-beehive/index4/index_3771/'>snow</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f182bb4a7"
@@ -24,7 +24,7 @@ order: '882'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/797,1347,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/797,1347,2965,346/full/0/default.jpg
 label: Snow
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

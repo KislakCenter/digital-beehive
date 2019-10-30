@@ -3,14 +3,14 @@ pid: index_3307
 volume: Volume 3
 image_number: '38'
 head: reading
-entry: "<a href='/New_Beehive/alpha4/alpha_0769/'>a</a>|<a href='/New_Beehive/toc/toc2_212/'>1091
+entry: "<a href='/digital-beehive/alpha4/alpha_0769/'>a</a>|<a href='/digital-beehive/toc/toc2_212/'>1091
   [Reading]</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4300/'>various</a>"
+add: "<a href='/digital-beehive/index5/index_4300/'>various</a>"
 type: 
 index: 
 insertion_xref: 
@@ -25,7 +25,7 @@ order: '3307'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
 label: reading
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Hunger
 topic: Hunger
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_157/'>710 [Hunger]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_157/'>710 [Hunger]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1906/'>hunger</a>"
+index: "<a href='/digital-beehive/index2/index_1906/'>hunger</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8053dee9a"
@@ -24,7 +24,7 @@ order: '437'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/792,1513,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/792,1513,2912,589/full/0/default.jpg
 label: Hunger
-location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

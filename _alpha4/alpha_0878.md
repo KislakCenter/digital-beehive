@@ -6,13 +6,13 @@ head:
 entry: Slavery
 topic: Slavery
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0852/'>Servitude</a>|Captivity|<a href='/New_Beehive/toc/toc2_222/'>1141
+xref: "<a href='/digital-beehive/alpha4/alpha_0852/'>Servitude</a>|Captivity|<a href='/digital-beehive/toc/toc2_222/'>1141
   [Slavery]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3745/'>slavery</a>"
+index: "<a href='/digital-beehive/index4/index_3745/'>slavery</a>"
 insertion_xref: 
 insertion: 
 item: "#item-60fdb7e63"
@@ -26,7 +26,7 @@ order: '878'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/778,187,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/778,187,2987,298/full/0/default.jpg
 label: Slavery
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

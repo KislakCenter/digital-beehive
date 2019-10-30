@@ -3,7 +3,7 @@ pid: index_1097
 volume: Volume 3
 image_number: '17'
 head: dissenters
-entry: "<a href='/New_Beehive/toc/toc2_119/'>492 [Dissenters]</a>|<a href='/New_Beehive/toc/toc2_382/'>2169
+entry: "<a href='/digital-beehive/toc/toc2_119/'>492 [Dissenters]</a>|<a href='/digital-beehive/toc/toc2_382/'>2169
   [Dissenters]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1097'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/135,3146,614,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/135,3146,614,115/full/0/default.jpg
 label: dissenters
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

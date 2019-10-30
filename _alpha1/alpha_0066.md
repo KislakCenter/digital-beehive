@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0315/'>bean</a>"
+index: "<a href='/digital-beehive/index1/index_0315/'>bean</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fd8d3d952"
@@ -24,7 +24,7 @@ order: '66'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/407,4309,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/407,4309,3006,260/full/0/default.jpg
 label: Bean
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

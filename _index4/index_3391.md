@@ -3,7 +3,7 @@ pid: index_3391
 volume: Volume 3
 image_number: '39'
 head: rest & restless
-entry: "<a href='/New_Beehive/alpha4/alpha_0791/'>a</a>|<a href='/New_Beehive/toc/toc2_322/'>1638
+entry: "<a href='/digital-beehive/alpha4/alpha_0791/'>a</a>|<a href='/digital-beehive/toc/toc2_322/'>1638
   [Rest]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3391'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1510,1471,752,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1510,1471,752,175/full/0/default.jpg
 label: rest & restless
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

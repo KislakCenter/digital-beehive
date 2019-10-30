@@ -3,7 +3,7 @@ pid: index_0545
 volume: Volume 3
 image_number: '12'
 head: Carolina
-entry: "<a href='/New_Beehive/toc/toc2_146/'>651 [Carolina]</a>|<a href='/New_Beehive/toc/toc2_298/'>1520
+entry: "<a href='/digital-beehive/toc/toc2_146/'>651 [Carolina]</a>|<a href='/digital-beehive/toc/toc2_298/'>1520
   [Maryland]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '545'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/406,577,643,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/406,577,643,112/full/0/default.jpg
 label: Carolina
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_1223
 volume: Volume 3
 image_number: '18'
 head: element
-entry: "<a href='/New_Beehive/alpha2/alpha_0278/'>a</a>|<a href='/New_Beehive/toc/toc2_375/'>2092
+entry: "<a href='/digital-beehive/alpha2/alpha_0278/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2092
   [Element]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1223'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1149,2294,591,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1149,2294,591,138/full/0/default.jpg
 label: element
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

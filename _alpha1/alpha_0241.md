@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1073/'>discretion</a>"
+index: "<a href='/digital-beehive/index1/index_1073/'>discretion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c8b7cc6c4"
@@ -24,7 +24,7 @@ order: '241'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,2916,220/full/0/default.jpg
 label: Discretion
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

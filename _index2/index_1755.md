@@ -3,7 +3,7 @@ pid: index_1755
 volume: Volume 3
 image_number: '23'
 head: hardning
-entry: "<a href='/New_Beehive/alpha2/alpha_0394/'>a</a>|<a href='/New_Beehive/toc/toc2_412/'>2374
+entry: "<a href='/digital-beehive/alpha2/alpha_0394/'>a</a>|<a href='/digital-beehive/toc/toc2_412/'>2374
   [Hardning]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1755'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,1523,594,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,1523,594,124/full/0/default.jpg
 label: hardning
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

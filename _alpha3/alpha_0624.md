@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2649/'>nativity</a>"
+index: "<a href='/digital-beehive/index3/index_2649/'>nativity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-688fe48b3"
@@ -24,7 +24,7 @@ order: '624'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/294,1772,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/294,1772,3077,314/full/0/default.jpg
 label: Nativity
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

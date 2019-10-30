@@ -6,12 +6,12 @@ head:
 entry: Heathenism
 topic: Heathenism
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_285/'>1456 [Heathens]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_285/'>1456 [Heathens]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1783/'>heathens</a>"
+index: "<a href='/digital-beehive/index2/index_1783/'>heathens</a>"
 insertion_xref: 
 insertion: 
 item: "#item-187d5c649"
@@ -24,7 +24,7 @@ order: '405'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/419,3455,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/419,3455,3006,560/full/0/default.jpg
 label: Heathenism
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_0031
 volume: Volume 3
 image_number: '7'
 head: acidul[ae]
-entry: "<a href='/New_Beehive/toc/toc2_330/'>1680 [Hot Baths]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_330/'>1680 [Hot Baths]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '31'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/full/0/default.jpg
 label: acidul[ae]
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_1853
 volume: Volume 3
 image_number: '24'
 head: hog
-entry: "<a href='/New_Beehive/alpha2/alpha_0422/'>a</a>|<a href='/New_Beehive/toc/toc2_339/'>1741
+entry: "<a href='/digital-beehive/alpha2/alpha_0422/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1741
   [Hog]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1853'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/full/0/default.jpg
 label: hog
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

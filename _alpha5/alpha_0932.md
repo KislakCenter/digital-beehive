@@ -6,12 +6,12 @@ head:
 entry: Temerity
 topic: Temerity
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0091/'>Boldness</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0091/'>Boldness</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4080/'>temerity</a>"
+index: "<a href='/digital-beehive/index5/index_4080/'>temerity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-71c1ec9e2"
@@ -24,7 +24,7 @@ order: '932'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,3114,549/full/0/default.jpg
 label: Temerity
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

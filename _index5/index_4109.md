@@ -3,7 +3,7 @@ pid: index_4109
 volume: Volume 3
 image_number: '47'
 head: theft
-entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/New_Beehive/toc/toc2_375/'>2094
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
   [Theft]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4109'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,950,559,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,950,559,114/full/0/default.jpg
 label: theft
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

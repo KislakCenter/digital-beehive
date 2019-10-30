@@ -3,7 +3,7 @@ pid: index_0462
 volume: Volume 3
 image_number: '11'
 head: brisk
-entry: "<a href='/New_Beehive/toc/toc2_164/'>882 [Fresh]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_164/'>882 [Fresh]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '462'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,3101,397,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,3101,397,136/full/0/default.jpg
 label: brisk
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

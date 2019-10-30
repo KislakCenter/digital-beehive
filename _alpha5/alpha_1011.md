@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2435/'>martial discipline</a>"
+index: "<a href='/digital-beehive/index3/index_2435/'>martial discipline</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9098cec91"
@@ -25,7 +25,7 @@ order: '1011'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,2965,346/full/0/default.jpg
 label: Martial disciplines
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

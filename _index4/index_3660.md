@@ -3,8 +3,8 @@ pid: index_3660
 volume: Volume 3
 image_number: '42'
 head: shame
-entry: "<a href='/New_Beehive/alpha4/alpha_0855/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>478
-  [Shame]</a>|<a href='/New_Beehive/toc/toc2_443/'>4885 [Shames]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0855/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>478
+  [Shame]</a>|<a href='/digital-beehive/toc/toc2_443/'>4885 [Shames]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3660'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1093,2655,666,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1093,2655,666,149/full/0/default.jpg
 label: shame
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

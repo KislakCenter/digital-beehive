@@ -3,7 +3,7 @@ pid: index_3932
 volume: Volume 3
 image_number: '45'
 head: strappado
-entry: "<a href='/New_Beehive/alpha4/alpha_0909/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0909/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3932'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,1864,423,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,1864,423,123/full/0/default.jpg
 label: strappado
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3475
 volume: Volume 3
 image_number: '40'
 head: rye
-entry: "<a href='/New_Beehive/toc/toc2_148/'>664 [Rye]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Rye]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3475'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1823,852,353,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1823,852,353,123/full/0/default.jpg
 label: rye
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

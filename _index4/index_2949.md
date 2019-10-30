@@ -3,7 +3,7 @@ pid: index_2949
 volume: Volume 3
 image_number: '35'
 head: pen[n]ance
-entry: "<a href='/New_Beehive/toc/toc2_113/'>450 [Pennance]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_113/'>450 [Pennance]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2949'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/140,1587,520,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/140,1587,520,127/full/0/default.jpg
 label: pen[n]ance
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_3722
 volume: Volume 3
 image_number: '43'
 head: sin venial
-entry: "<a href='/New_Beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>|<a href='/New_Beehive/toc/toc2_128/'>546
-  [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>|<a
+  href='/digital-beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3722'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/full/0/default.jpg
 label: sin venial
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

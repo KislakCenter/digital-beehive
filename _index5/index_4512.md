@@ -3,8 +3,8 @@ pid: index_4512
 volume: Volume 3
 image_number: '52'
 head: weeping
-entry: "<a href='/New_Beehive/alpha5/alpha_1020/'>a</a>|<a href='/New_Beehive/toc/toc2_143/'>630
-  [Weeping]</a>|<a href='/New_Beehive/toc/toc2_279/'>1428 [Weeping]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1020/'>a</a>|<a href='/digital-beehive/toc/toc2_143/'>630
+  [Weeping]</a>|<a href='/digital-beehive/toc/toc2_279/'>1428 [Weeping]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4512'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1081,638,719,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1081,638,719,120/full/0/default.jpg
 label: weeping
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

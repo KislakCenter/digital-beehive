@@ -6,12 +6,12 @@ head:
 entry: Name of God
 topic: Name of God
 first_letter: N
-xref: "<a href='/New_Beehive/toc/toc2_358/'>1944 [Name of God]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_358/'>1944 [Name of God]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2635/'>name of God</a>"
+index: "<a href='/digital-beehive/index3/index_2635/'>name of God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e00d8e332"
@@ -25,7 +25,7 @@ order: '623'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,3061,529/full/0/default.jpg
 label: Name of God
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

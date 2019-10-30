@@ -3,8 +3,8 @@ pid: index_1518
 volume: Volume 3
 image_number: '21'
 head: forsake all
-entry: "<a href='/New_Beehive/toc/toc2_175/'>938 [Forsake all for Christ's sake]</a>|<a
-  href='/New_Beehive/toc/toc2_369/'>2035 [Forsake]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_175/'>938 [Forsake all for Christ's sake]</a>|<a
+  href='/digital-beehive/toc/toc2_369/'>2035 [Forsake]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1518'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/full/0/default.jpg
 label: forsake all
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

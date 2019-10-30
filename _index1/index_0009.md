@@ -3,7 +3,7 @@ pid: index_0009
 volume: Volume 3
 image_number: '7'
 head: abolishing
-entry: "<a href='/New_Beehive/toc/toc2_100/'>363 [Annulling]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_100/'>363 [Annulling]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '9'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/191,784,549,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/191,784,549,156/full/0/default.jpg
 label: abolishing
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -24,7 +24,7 @@ order: '4675'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/full/0/default.jpg
 label: attributes of god
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_1941
 volume: Volume 3
 image_number: '25'
 head: Jesus
-entry: "<a href='/New_Beehive/alpha3/alpha_0448/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0448/'>a</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1941'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/162,2081,296,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/162,2081,296,176/full/0/default.jpg
 label: Jesus
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_1805
 volume: Volume 3
 image_number: '23'
 head: Heraclitus
-entry: "<a href='/New_Beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1805'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,2995,456,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,2995,456,100/full/0/default.jpg
 label: Heraclitus
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

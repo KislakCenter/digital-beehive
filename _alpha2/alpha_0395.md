@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1756/'>hare</a>"
+index: "<a href='/digital-beehive/index2/index_1756/'>hare</a>"
 insertion_xref: 
 insertion: 
 item: "#item-01e3acb48"
@@ -24,7 +24,7 @@ order: '395'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,3043,214/full/0/default.jpg
 label: Hare
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

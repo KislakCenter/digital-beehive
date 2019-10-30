@@ -3,7 +3,7 @@ pid: index_2737
 volume: Volume 3
 image_number: '32'
 head: to note
-entry: "<a href='/New_Beehive/toc/toc2_166/'>892 [Mark]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_166/'>892 [Mark]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2737'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1825,2515,456,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1825,2515,456,128/full/0/default.jpg
 label: to note
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,12 +3,12 @@ pid: index_4075
 volume: Volume 3
 image_number: '47'
 head: beasts teach
-entry: "<a href='/New_Beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_051/'>p.1 [Image 1.61]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_051/'>p.1 [Image 1.61]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4075'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/full/0/default.jpg
 label: beasts teach
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,9 +3,10 @@ pid: index_3973
 volume: Volume 3
 image_number: '45'
 head: sufferings
-entry: "<a href='/New_Beehive/alpha4/alpha_0916/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>498
-  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_263/'>1349 [Affliction]</a>|<a href='/New_Beehive/toc/toc2_367/'>2020
-  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_425/'>4467 [Sufferings]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0916/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>498
+  [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_263/'>1349 [Affliction]</a>|<a
+  href='/digital-beehive/toc/toc2_367/'>2020 [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_425/'>4467
+  [Sufferings]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -27,7 +28,7 @@ order: '3973'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1611,3109,842,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1611,3109,842,118/full/0/default.jpg
 label: sufferings
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

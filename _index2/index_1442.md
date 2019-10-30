@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: F
 xref: 
-see: battle|<a href='/New_Beehive/index4/index_3811/'>souldier</a>|<a href='/New_Beehive/index2/index_1432/'>fencing</a>
+see: battle|<a href='/digital-beehive/index4/index_3811/'>souldier</a>|<a href='/digital-beehive/index2/index_1432/'>fencing</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1442'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1102,3157,781,233/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1102,3157,781,233/full/0/default.jpg
 label: fight
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

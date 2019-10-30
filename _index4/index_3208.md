@@ -3,11 +3,11 @@ pid: index_3208
 volume: Volume 3
 image_number: '37'
 head: protestation
-entry: "<a href='/New_Beehive/toc/toc2_428/'>4491 [Protestation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_428/'>4491 [Protestation]</a>"
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index1/index_1010/'>denial</a>"
+see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3208'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1495,2043,752,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1495,2043,752,150/full/0/default.jpg
 label: protestation
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

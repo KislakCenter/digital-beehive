@@ -3,8 +3,8 @@ pid: index_3486
 volume: Volume 3
 image_number: '40'
 head: sadness
-entry: "<a href='/New_Beehive/alpha4/alpha_0815/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1181
-  [Sadness]</a>|<a href='/New_Beehive/toc/toc2_382/'>2165 [Sorrow]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/toc/toc2_230/'>1181
+  [Sadness]</a>|<a href='/digital-beehive/toc/toc2_382/'>2165 [Sorrow]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3486'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1803,1974,689,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1803,1974,689,152/full/0/default.jpg
 label: sadness
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

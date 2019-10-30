@@ -6,12 +6,12 @@ head:
 entry: Nothing
 topic: Nothing
 first_letter: N
-xref: "<a href='/New_Beehive/toc/toc2_322/'>1638 [Nothing]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_322/'>1638 [Nothing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2738/'>nothing</a>"
+index: "<a href='/digital-beehive/index3/index_2738/'>nothing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1e3912914"
@@ -24,7 +24,7 @@ order: '639'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/791,2711,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/791,2711,2986,442/full/0/default.jpg
 label: Nothing
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

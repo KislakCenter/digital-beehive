@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index5/index_4603/'>wood</a>"
+see: "<a href='/digital-beehive/index5/index_4603/'>wood</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1719'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/full/0/default.jpg
 label: groves
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

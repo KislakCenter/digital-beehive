@@ -3,7 +3,7 @@ pid: index_0128
 volume: Volume 3
 image_number: '8'
 head: amnestia
-entry: "<a href='/New_Beehive/toc/toc2_155/'>Entry; 697 [Forgetfulness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_155/'>Entry; 697 [Forgetfulness]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/391,580,503,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/391,580,503,158/full/0/default.jpg
 label: amnestia
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

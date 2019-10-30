@@ -6,13 +6,13 @@ head:
 entry: Intercession
 topic: Intercession
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0576/'>Mediator</a>|<a href='/New_Beehive/toc/toc2_421/'>2443
+xref: "<a href='/digital-beehive/alpha3/alpha_0576/'>Mediator</a>|<a href='/digital-beehive/toc/toc2_421/'>2443
   [Intercession]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2075/'>intercession</a>"
+index: "<a href='/digital-beehive/index3/index_2075/'>intercession</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d1e0e3d41"
@@ -26,7 +26,7 @@ order: '483'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/765,1023,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/765,1023,2982,582/full/0/default.jpg
 label: Intercession
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

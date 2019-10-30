@@ -6,12 +6,12 @@ head:
 entry: Refusal
 topic: Refusal
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0223/'>denial</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0223/'>denial</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3336/'>refusal</a>"
+index: "<a href='/digital-beehive/index4/index_3336/'>refusal</a>"
 insertion_xref: 
 insertion: 
 item: "#item-eabea6e4b"
@@ -25,7 +25,7 @@ order: '777'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,2912,399/full/0/default.jpg
 label: Refusal
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

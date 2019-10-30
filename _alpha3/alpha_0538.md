@@ -6,12 +6,12 @@ head:
 entry: Lion
 topic: Lion
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Lion]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Lion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2302/'>lion</a>"
+index: "<a href='/digital-beehive/index3/index_2302/'>lion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-17b85c9ea"
@@ -24,7 +24,7 @@ order: '538'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/743,3062,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/743,3062,3005,422/full/0/default.jpg
 label: Lion
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

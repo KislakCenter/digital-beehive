@@ -6,12 +6,12 @@ head:
 entry: Arithmetick
 topic: Arithmetick
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_114/'>457 [Arithmetick]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_114/'>457 [Arithmetick]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0203/'>arithmetick</a>"
+index: "<a href='/digital-beehive/index1/index_0203/'>arithmetick</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2bef0507e"
@@ -24,7 +24,7 @@ order: '45'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,1637,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,1637,3044,576/full/0/default.jpg
 label: Arithmetick
-location: "<a href='/New_Beehive/toc/toc1_424/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,8 +3,8 @@ pid: index_0029
 volume: Volume 3
 image_number: '7'
 head: accusation
-entry: "<a href='/New_Beehive/toc/toc2_088/'>278 [Accusation]</a>|<a href='/New_Beehive/toc/toc2_170/'>915
-  [Accusation]</a>|<a href='/New_Beehive/toc/toc2_326/'>1660 [Accuses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_088/'>278 [Accusation]</a>|<a href='/digital-beehive/toc/toc2_170/'>915
+  [Accusation]</a>|<a href='/digital-beehive/toc/toc2_326/'>1660 [Accuses]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -26,7 +26,7 @@ order: '29'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,2606,766,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,2606,766,137/full/0/default.jpg
 label: accusation
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

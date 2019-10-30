@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: E
 xref: 
-see: "<a href='/New_Beehive/index5/index_4213/'>trance</a>"
+see: "<a href='/digital-beehive/index5/index_4213/'>trance</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1359'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/full/0/default.jpg
 label: extasy
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

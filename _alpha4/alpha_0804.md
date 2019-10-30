@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3437/'>river</a>"
+index: "<a href='/digital-beehive/index4/index_3437/'>river</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3012057af"
@@ -24,7 +24,7 @@ order: '804'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,3047,430/full/0/default.jpg
 label: River
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,8 +3,8 @@ pid: index_0841
 volume: Volume 3
 image_number: '14'
 head: cookery
-entry: "<a href='/New_Beehive/alpha1/alpha_0178/'>a</a>|<a href='/New_Beehive/toc/toc2_082/'>236
-  [Cookery]</a>|<a href='/New_Beehive/toc/toc2_371/'>2054 [Cookery]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0178/'>a</a>|<a href='/digital-beehive/toc/toc2_082/'>236
+  [Cookery]</a>|<a href='/digital-beehive/toc/toc2_371/'>2054 [Cookery]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '841'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2118,714,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2118,714,135/full/0/default.jpg
 label: cookery
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

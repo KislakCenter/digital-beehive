@@ -3,8 +3,8 @@ pid: index_0659
 volume: Volume 3
 image_number: '13'
 head: church
-entry: "<a href='/New_Beehive/alpha1/alpha_0147/'>a</a>|<a href='/New_Beehive/toc/toc2_079/'>211
-  [Church]</a>|<a href='/New_Beehive/toc/toc2_199/'>1030 [Church]</a>|<a href='/New_Beehive/toc/toc2_267/'>1369
+entry: "<a href='/digital-beehive/alpha1/alpha_0147/'>a</a>|<a href='/digital-beehive/toc/toc2_079/'>211
+  [Church]</a>|<a href='/digital-beehive/toc/toc2_199/'>1030 [Church]</a>|<a href='/digital-beehive/toc/toc2_267/'>1369
   [Church of Christ]</a>|4721 [PAGE_MISSING]"
 topic: 
 first_letter: C
@@ -27,7 +27,7 @@ order: '659'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/163,1251,672,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/163,1251,672,133/full/0/default.jpg
 label: church
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

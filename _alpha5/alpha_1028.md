@@ -6,12 +6,12 @@ head:
 entry: Wine
 topic: Wine
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4561/'>wine</a>"
+index: "<a href='/digital-beehive/index5/index_4561/'>wine</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f6c5d1c85"
@@ -24,7 +24,7 @@ order: '1028'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,3033,422/full/0/default.jpg
 label: Wine
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

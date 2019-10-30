@@ -3,7 +3,7 @@ pid: index_2444
 volume: Volume 3
 image_number: '30'
 head: mass
-entry: "<a href='/New_Beehive/alpha3/alpha_0571/'>a</a>|<a href='/New_Beehive/toc/toc2_328/'>1668
+entry: "<a href='/digital-beehive/alpha3/alpha_0571/'>a</a>|<a href='/digital-beehive/toc/toc2_328/'>1668
   [Mass]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2444'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,1642,510,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,1642,510,142/full/0/default.jpg
 label: mass
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

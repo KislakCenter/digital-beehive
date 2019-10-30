@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index1/index_1002/'>delineation</a>"
+see: "<a href='/digital-beehive/index1/index_1002/'>delineation</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1019'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,1834,783,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,1834,783,135/full/0/default.jpg
 label: description
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

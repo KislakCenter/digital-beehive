@@ -3,7 +3,7 @@ pid: index_0735
 volume: Volume 3
 image_number: '13'
 head: coming of Christ
-entry: "<a href='/New_Beehive/alpha1/alpha_0157/'>a</a>|<a href='/New_Beehive/toc/toc2_203/'>1047
+entry: "<a href='/digital-beehive/alpha1/alpha_0157/'>a</a>|<a href='/digital-beehive/toc/toc2_203/'>1047
   [Coming of God and Christ]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '735'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1546,1660,729,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1546,1660,729,116/full/0/default.jpg
 label: coming of Christ
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

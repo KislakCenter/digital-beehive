@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4718/'>Pluto & Proserp.</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4718/'>Pluto & Proserp.</a>"
 insertion: 
 item: "#item-926825644"
 unparsed: 'Type: Index|Insertion Xref: [:49.]|#item-926825644'
@@ -24,7 +24,7 @@ order: '3054'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/977,1869,222,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/977,1869,222,125/full/0/default.jpg
 label: "[:49.]"
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

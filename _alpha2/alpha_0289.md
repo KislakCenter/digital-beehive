@@ -6,13 +6,13 @@ head:
 entry: Equity
 topic: Equity
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/New_Beehive/alpha3/alpha_0519/'>Law</a>|<a
-  href='/New_Beehive/alpha4/alpha_0801/'>Right</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/digital-beehive/alpha3/alpha_0519/'>Law</a>|<a
+  href='/digital-beehive/alpha4/alpha_0801/'>Right</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1290/'>equity</a>"
+index: "<a href='/digital-beehive/index2/index_1290/'>equity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-814bcd187"
@@ -25,7 +25,7 @@ order: '289'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/766,1367,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/766,1367,2895,301/full/0/default.jpg
 label: Equity
-location: "<a href='/New_Beehive/toc/toc1_444/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

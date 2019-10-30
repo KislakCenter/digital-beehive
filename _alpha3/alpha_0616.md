@@ -6,13 +6,13 @@ head:
 entry: Musick
 topic: Musick
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0872/'>Singing</a>|Sound|<a href='/New_Beehive/toc/toc2_109/'>425
+xref: "<a href='/digital-beehive/alpha4/alpha_0872/'>Singing</a>|Sound|<a href='/digital-beehive/toc/toc2_109/'>425
   [Musick]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2621/'>musick</a>"
+index: "<a href='/digital-beehive/index3/index_2621/'>musick</a>"
 insertion_xref: 
 insertion: 
 item: "#item-843ee86fd"
@@ -26,7 +26,7 @@ order: '616'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,3033,555/full/0/default.jpg
 label: Musick
-location: "<a href='/New_Beehive/toc/toc2_024/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

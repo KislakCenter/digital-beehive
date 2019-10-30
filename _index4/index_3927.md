@@ -3,7 +3,7 @@ pid: index_3927
 volume: Volume 3
 image_number: '45'
 head: strange
-entry: "<a href='/New_Beehive/alpha4/alpha_0907/'>a</a>|4579 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0907/'>a</a>|4579 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3927'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/894,1266,570,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/894,1266,570,139/full/0/default.jpg
 label: strange
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

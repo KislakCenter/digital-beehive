@@ -6,12 +6,12 @@ head:
 entry: Fatness
 topic: Fatness
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_144/'>636 [Fatness]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_144/'>636 [Fatness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1416/'>fatness</a>"
+index: "<a href='/digital-beehive/index2/index_1416/'>fatness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f495cc04a"
@@ -24,7 +24,7 @@ order: '316'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/749,4303,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/749,4303,3010,445/full/0/default.jpg
 label: Fatness
-location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

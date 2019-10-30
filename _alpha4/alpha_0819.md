@@ -6,13 +6,13 @@ head:
 entry: Salary
 topic: Salary
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0421/'>Hireling</a>|<a href='/New_Beehive/alpha4/alpha_0797/'>Reward</a>|<a
-  href='/New_Beehive/toc/toc2_265/'>1360 [Salary]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0421/'>Hireling</a>|<a href='/digital-beehive/alpha4/alpha_0797/'>Reward</a>|<a
+  href='/digital-beehive/toc/toc2_265/'>1360 [Salary]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3500/'>salary</a>"
+index: "<a href='/digital-beehive/index4/index_3500/'>salary</a>"
 insertion_xref: 
 insertion: 
 item: "#item-896c67008"
@@ -26,7 +26,7 @@ order: '819'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/320,4830,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/320,4830,2991,248/full/0/default.jpg
 label: Salary
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

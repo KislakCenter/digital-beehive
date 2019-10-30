@@ -3,8 +3,8 @@ pid: index_2488
 volume: Volume 3
 image_number: '30'
 head: merchandize
-entry: "<a href='/New_Beehive/alpha3/alpha_0583/'>a</a>|<a href='/New_Beehive/toc/toc2_067/'>109
-  [a Shop keeper]</a>|<a href='/New_Beehive/toc/toc2_158/'>714 [Market]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0583/'>a</a>|<a href='/digital-beehive/toc/toc2_067/'>109
+  [a Shop keeper]</a>|<a href='/digital-beehive/toc/toc2_158/'>714 [Market]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -25,7 +25,7 @@ order: '2488'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1126,2507,728,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1126,2507,728,153/full/0/default.jpg
 label: merchandize
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

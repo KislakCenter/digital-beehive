@@ -3,7 +3,7 @@ pid: index_4495
 volume: Volume 3
 image_number: '52'
 head: waving
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1917 [Waving]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1917 [Waving]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4495'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/510,1681,467,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/510,1681,467,116/full/0/default.jpg
 label: waving
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

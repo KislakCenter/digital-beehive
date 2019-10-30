@@ -3,7 +3,7 @@ pid: index_2631
 volume: Volume 3
 image_number: '31'
 head: n[ae]
-entry: "<a href='/New_Beehive/toc/toc2_397/'>2267 [ru]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [ru]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2631'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/full/0/default.jpg
 label: n[ae]
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

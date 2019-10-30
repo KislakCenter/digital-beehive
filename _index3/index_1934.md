@@ -3,8 +3,9 @@ pid: index_1934
 volume: Volume 3
 image_number: '25'
 head: Jealousie
-entry: "<a href='/New_Beehive/alpha3/alpha_0445/'>a</a>|<a href='/New_Beehive/toc/toc2_254/'>1301
-  [Jealous]</a>|<a href='/New_Beehive/toc/toc2_326/'>1656 [Jealousie]</a>|4622 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha3/alpha_0445/'>a</a>|<a href='/digital-beehive/toc/toc2_254/'>1301
+  [Jealous]</a>|<a href='/digital-beehive/toc/toc2_326/'>1656 [Jealousie]</a>|4622
+  [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
@@ -26,7 +27,7 @@ order: '1934'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,1252,716,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,1252,716,166/full/0/default.jpg
 label: Jealousie
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

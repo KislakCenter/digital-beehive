@@ -6,13 +6,13 @@ head:
 entry: Pardon
 topic: Pardon
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0782/'>Remission</a>|<a href='/New_Beehive/toc/toc2_108/'>420
+xref: "<a href='/digital-beehive/alpha4/alpha_0782/'>Remission</a>|<a href='/digital-beehive/toc/toc2_108/'>420
   [Forgiveness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2879/'>pardon</a>"
+index: "<a href='/digital-beehive/index4/index_2879/'>pardon</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e5e568bc3"
@@ -26,7 +26,7 @@ order: '672'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,3177,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,3177,3042,479/full/0/default.jpg
 label: Pardon
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -7,7 +7,7 @@ entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
 topic: 
 first_letter: F
 xref: 
-see: "<a href='/New_Beehive/index1/index_0949/'>Darling</a>"
+see: "<a href='/digital-beehive/index1/index_0949/'>Darling</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1419'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/full/0/default.jpg
 label: favorite
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

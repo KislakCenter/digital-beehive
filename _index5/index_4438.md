@@ -3,7 +3,7 @@ pid: index_4438
 volume: Volume 3
 image_number: '51'
 head: to uphold
-entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [To maintain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4438'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/full/0/default.jpg
 label: to uphold
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

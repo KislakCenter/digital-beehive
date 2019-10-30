@@ -6,12 +6,12 @@ head:
 entry: Deformity
 topic: Deformity
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0069/'>Beauty</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0069/'>Beauty</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0991/'>deformity</a>"
+index: "<a href='/digital-beehive/index1/index_0991/'>deformity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-15a565036"
@@ -25,7 +25,7 @@ order: '217'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,2943,541/full/0/default.jpg
 label: Deformity
-location: "<a href='/New_Beehive/toc/toc1_438/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2275/'>liberty</a>"
+index: "<a href='/digital-beehive/index3/index_2275/'>liberty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fd5199659"
@@ -24,7 +24,7 @@ order: '531'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/331,4259,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/331,4259,3078,448/full/0/default.jpg
 label: Liberty
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

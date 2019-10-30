@@ -3,7 +3,7 @@ pid: index_2983
 volume: Volume 3
 image_number: '35'
 head: phenomenon
-entry: "<a href='/New_Beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2983'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/854,2089,644,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/854,2089,644,185/full/0/default.jpg
 label: phenomenon
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_1533
 volume: Volume 3
 image_number: '21'
 head: fraud
-entry: "<a href='/New_Beehive/alpha2/alpha_0345/'>a</a>|<a href='/New_Beehive/toc/toc2_103/'>384
-  [Fraud]</a>|<a href='/New_Beehive/toc/toc2_221/'>1137 [Fraud]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0345/'>a</a>|<a href='/digital-beehive/toc/toc2_103/'>384
+  [Fraud]</a>|<a href='/digital-beehive/toc/toc2_221/'>1137 [Fraud]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1533'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/full/0/default.jpg
 label: fraud
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

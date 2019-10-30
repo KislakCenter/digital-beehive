@@ -3,7 +3,7 @@ pid: index_2608
 volume: Volume 3
 image_number: '31'
 head: much
-entry: "<a href='/New_Beehive/toc/toc2_090/'>294 [Much]</a>|4760 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_090/'>294 [Much]</a>|4760 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2608'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1560,933,536,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1560,933,536,151/full/0/default.jpg
 label: much
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

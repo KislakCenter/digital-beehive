@@ -6,13 +6,13 @@ head:
 entry: Sighs
 topic: Sighs
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1020/'>Weeping</a>|<a href='/New_Beehive/toc/toc2_338/'>1740
+xref: "<a href='/digital-beehive/alpha5/alpha_1020/'>Weeping</a>|<a href='/digital-beehive/toc/toc2_338/'>1740
   [Sighs]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3701/'>sighs</a>"
+index: "<a href='/digital-beehive/index4/index_3701/'>sighs</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1f1ca4933"
@@ -25,7 +25,7 @@ order: '863'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,2909,386/full/0/default.jpg
 label: Sighs
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

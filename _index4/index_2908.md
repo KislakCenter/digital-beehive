@@ -3,7 +3,7 @@ pid: index_2908
 volume: Volume 3
 image_number: '34'
 head: passions
-entry: "<a href='/New_Beehive/toc/toc2_068/'>119 [Passion]</a>|<a href='/New_Beehive/toc/toc2_370/'>2043
+entry: "<a href='/digital-beehive/toc/toc2_068/'>119 [Passion]</a>|<a href='/digital-beehive/toc/toc2_370/'>2043
   [Passions]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2908'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,791,673,237/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,791,673,237/full/0/default.jpg
 label: passions
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

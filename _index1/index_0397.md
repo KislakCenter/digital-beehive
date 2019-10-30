@@ -3,7 +3,7 @@ pid: index_0397
 volume: Volume 3
 image_number: '10'
 head: to blow
-entry: "<a href='/New_Beehive/toc/toc2_106/'>406 [To Blow]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_106/'>406 [To Blow]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '397'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1083,3306,418,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1083,3306,418,104/full/0/default.jpg
 label: to blow
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

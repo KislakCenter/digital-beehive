@@ -3,7 +3,8 @@ pid: index_1496
 volume: Volume 3
 image_number: '21'
 head: fool & folly
-entry: "<a href='/New_Beehive/toc/toc2_225/'>1159 [Folly]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>|<a href='/digital-beehive/toc/toc2_225/'>1159
+  [Folly]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +25,7 @@ order: '1496'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/170,1290,585,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/170,1290,585,128/full/0/default.jpg
 label: fool & folly
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

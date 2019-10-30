@@ -3,7 +3,7 @@ pid: index_1877
 volume: Volume 3
 image_number: '24'
 head: horseman
-entry: "<a href='/New_Beehive/alpha2/alpha_0430/'>a</a>|<a href='/New_Beehive/toc/toc2_339/'>1750
+entry: "<a href='/digital-beehive/alpha2/alpha_0430/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1750
   [Horseman]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1877'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/full/0/default.jpg
 label: horseman
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

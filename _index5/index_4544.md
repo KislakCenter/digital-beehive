@@ -3,7 +3,7 @@ pid: index_4544
 volume: Volume 3
 image_number: '52'
 head: why
-entry: "<a href='/New_Beehive/toc/toc2_133/'>579 [Why?]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_133/'>579 [Why?]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4544'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/full/0/default.jpg
 label: why
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

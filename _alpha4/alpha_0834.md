@@ -6,13 +6,13 @@ head:
 entry: Sect
 topic: Sect
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0414/'>Heresy</a>|<a href='/New_Beehive/toc/toc2_063/'>70
+xref: "<a href='/digital-beehive/alpha2/alpha_0414/'>Heresy</a>|<a href='/digital-beehive/toc/toc2_063/'>70
   [Sect]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3588/'>sect</a>"
+index: "<a href='/digital-beehive/index4/index_3588/'>sect</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7e7c690e4"
@@ -25,7 +25,7 @@ order: '834'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/764,4648,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/764,4648,2978,464/full/0/default.jpg
 label: Sect
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

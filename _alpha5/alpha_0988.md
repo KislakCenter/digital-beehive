@@ -6,12 +6,12 @@ head:
 entry: Visit
 topic: Visit
 first_letter: U/V
-xref: "<a href='/New_Beehive/toc/toc2_279/'>1429 [Visit]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_279/'>1429 [Visit]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4345/'>visitation</a>"
+index: "<a href='/digital-beehive/index5/index_4345/'>visitation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-85e05a08f"
@@ -24,7 +24,7 @@ order: '988'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,2995,300/full/0/default.jpg
 label: Visit
-location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

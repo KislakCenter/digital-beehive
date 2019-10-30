@@ -3,7 +3,7 @@ pid: index_4104
 volume: Volume 3
 image_number: '47'
 head: thalmud
-entry: "<a href='/New_Beehive/toc/toc2_120/'>500 [Thalmud]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_120/'>500 [Thalmud]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4104'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,264,411,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,264,411,162/full/0/default.jpg
 label: thalmud
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

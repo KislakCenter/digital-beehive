@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1881/'>hospitality</a>"
+index: "<a href='/digital-beehive/index2/index_1881/'>hospitality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ea292ee78"
@@ -24,7 +24,7 @@ order: '432'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,3014,395/full/0/default.jpg
 label: Hospitality
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

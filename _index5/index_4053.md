@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: "<a href='/New_Beehive/index1/index_0260/'>babbling</a>|<a href='/New_Beehive/index5/index_4607/'>words</a>|<a
-  href='/New_Beehive/index4/index_3831/'>speech</a>"
+see: "<a href='/digital-beehive/index1/index_0260/'>babbling</a>|<a href='/digital-beehive/index5/index_4607/'>words</a>|<a
+  href='/digital-beehive/index4/index_3831/'>speech</a>"
 page: 
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '4053'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/full/0/default.jpg
 label: talk
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

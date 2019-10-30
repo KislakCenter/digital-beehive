@@ -6,13 +6,13 @@ head:
 entry: Ignoble
 topic: Ignoble
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0637/'>Nobility</a>|<a href='/New_Beehive/toc/toc2_443/'>4884
+xref: "<a href='/digital-beehive/alpha3/alpha_0637/'>Nobility</a>|<a href='/digital-beehive/toc/toc2_443/'>4884
   [Ignoble]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1949/'>ignoble</a>"
+index: "<a href='/digital-beehive/index3/index_1949/'>ignoble</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bebb1e5fa"
@@ -25,7 +25,7 @@ order: '451'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/324,2060,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/324,2060,3035,514/full/0/default.jpg
 label: Ignoble
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

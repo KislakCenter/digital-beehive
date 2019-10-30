@@ -6,13 +6,13 @@ head:
 entry: Proof
 topic: Proof
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|Trial|essay|<a
-  href='/New_Beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|Trial|essay|<a
+  href='/digital-beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3192/'>proof, or trial</a>"
+index: "<a href='/digital-beehive/index4/index_3192/'>proof, or trial</a>"
 insertion_xref: 
 insertion: 
 item: "#item-46d52871a"
@@ -26,7 +26,7 @@ order: '741'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,4557,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,4557,3075,534/full/0/default.jpg
 label: Proof
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

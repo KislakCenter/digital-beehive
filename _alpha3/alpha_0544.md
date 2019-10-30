@@ -6,12 +6,12 @@ head:
 entry: Longsufferance
 topic: Longsufferance
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0337/'>forbearance</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0337/'>forbearance</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2324/'>long sufferance</a>"
+index: "<a href='/digital-beehive/index3/index_2324/'>long sufferance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8ae6416e0"
@@ -24,7 +24,7 @@ order: '544'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,3076,506/full/0/default.jpg
 label: Longsufferance
-location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

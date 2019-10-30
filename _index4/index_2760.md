@@ -3,7 +3,7 @@ pid: index_2760
 volume: Volume 3
 image_number: '33'
 head: obscurity
-entry: "<a href='/New_Beehive/alpha4/alpha_0647/'>a</a>|<a href='/New_Beehive/toc/toc2_252/'>1292
+entry: "<a href='/digital-beehive/alpha4/alpha_0647/'>a</a>|<a href='/digital-beehive/toc/toc2_252/'>1292
   [Obscurity]</a>"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2760'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/124,2247,726,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/124,2247,726,207/full/0/default.jpg
 label: obscurity
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

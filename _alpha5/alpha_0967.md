@@ -6,13 +6,13 @@ head:
 entry: Treachery
 topic: Treachery
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0309/'>faithfullness</a>|<a href='/New_Beehive/toc/toc2_174/'>933
+xref: "<a href='/digital-beehive/alpha2/alpha_0309/'>faithfullness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
   [Treachery]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4223/'>treachery</a>"
+index: "<a href='/digital-beehive/index5/index_4223/'>treachery</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cfd8402ee"
@@ -26,7 +26,7 @@ order: '967'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
 label: Treachery
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

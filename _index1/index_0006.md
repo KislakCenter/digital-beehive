@@ -3,7 +3,7 @@ pid: index_0006
 volume: Volume 3
 image_number: '7'
 head: abhorring
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '6'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,517,489,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,517,489,143/full/0/default.jpg
 label: abhorring
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

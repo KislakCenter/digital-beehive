@@ -3,7 +3,7 @@ pid: index_2407
 volume: Volume 3
 image_number: '29'
 head: one man ye others wolf
-entry: "<a href='/New_Beehive/toc/toc2_239/'>1230 [homo homini lupus e]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1230 [homo homini lupus e]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2407'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1544,1732,752,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1544,1732,752,148/full/0/default.jpg
 label: one man ye others wolf
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

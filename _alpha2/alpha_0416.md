@@ -6,12 +6,12 @@ head:
 entry: Herring
 topic: Herring
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_397/'>2266 [Herring]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_397/'>2266 [Herring]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1822/'>herring</a>"
+index: "<a href='/digital-beehive/index2/index_1822/'>herring</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1a2984eec"
@@ -24,7 +24,7 @@ order: '416'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/779,2867,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/779,2867,2939,214/full/0/default.jpg
 label: Herring
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

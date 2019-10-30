@@ -3,7 +3,7 @@ pid: index_3755
 volume: Volume 3
 image_number: '43'
 head: sloe
-entry: "<a href='/New_Beehive/toc/toc2_154/'>695 [Sloe_bush]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_154/'>695 [Sloe_bush]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3755'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/902,2811,318,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/902,2811,318,107/full/0/default.jpg
 label: sloe
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

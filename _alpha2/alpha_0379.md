@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1689/'>gram[m]ars</a>"
+index: "<a href='/digital-beehive/index2/index_1689/'>gram[m]ars</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4d8eef3d5"
@@ -24,7 +24,7 @@ order: '379'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/431,4433,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/431,4433,2991,484/full/0/default.jpg
 label: Grammar
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

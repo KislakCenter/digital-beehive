@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: H
 xref: 
-see: "<a href='/New_Beehive/index5/index_4524/'>wet</a>"
+see: "<a href='/digital-beehive/index5/index_4524/'>wet</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1901'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,1800,547,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,1800,547,107/full/0/default.jpg
 label: humidum rad
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

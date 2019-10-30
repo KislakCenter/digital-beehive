@@ -3,7 +3,7 @@ pid: index_0947
 volume: Volume 3
 image_number: '15'
 head: darkness
-entry: "<a href='/New_Beehive/alpha1/alpha_0207/'>a</a>|<a href='/New_Beehive/toc/toc2_237/'>1220
+entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/toc/toc2_237/'>1220
   [Darkness]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '947'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/full/0/default.jpg
 label: darkness
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

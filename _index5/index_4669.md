@@ -3,7 +3,7 @@ pid: index_4669
 volume: Volume 3
 image_number: '54'
 head: to boult, lift, fan or winnow
-entry: "<a href='/New_Beehive/toc/toc2_075/'>185 [Knowledge]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_075/'>185 [Knowledge]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -25,7 +25,7 @@ order: '4669'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,1026,701,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,1026,701,157/full/0/default.jpg
 label: to boult, lift, fan or winnow
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

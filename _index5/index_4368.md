@@ -3,13 +3,13 @@ pid: index_4368
 volume: Volume 3
 image_number: '50'
 head: unction
-entry: "<a href='/New_Beehive/alpha5/alpha_0991/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0991/'>a</a>"
 topic: 
 first_letter: U/V
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index3/index_2207/'>last</a>"
+add: "<a href='/digital-beehive/index3/index_2207/'>last</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '4368'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/full/0/default.jpg
 label: unction
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

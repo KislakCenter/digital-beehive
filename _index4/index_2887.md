@@ -3,7 +3,7 @@ pid: index_2887
 volume: Volume 3
 image_number: '34'
 head: paroxysm
-entry: "<a href='/New_Beehive/toc/toc2_377/'>2118 [Paroxysm]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2118 [Paroxysm]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2887'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1146,2206,578,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1146,2206,578,156/full/0/default.jpg
 label: paroxysm
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

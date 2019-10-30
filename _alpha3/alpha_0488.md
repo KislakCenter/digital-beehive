@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2123/'>island</a>"
+index: "<a href='/digital-beehive/index3/index_2123/'>island</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a2deb4cdb"
@@ -24,7 +24,7 @@ order: '488'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,3006,327/full/0/default.jpg
 label: Island
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

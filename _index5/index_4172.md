@@ -3,7 +3,7 @@ pid: index_4172
 volume: Volume 3
 image_number: '48'
 head: toleration
-entry: "<a href='/New_Beehive/toc/toc2_131/'>565 [License]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4172'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/full/0/default.jpg
 label: toleration
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

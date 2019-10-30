@@ -3,13 +3,13 @@ pid: index_3701
 volume: Volume 3
 image_number: '43'
 head: sighs
-entry: "<a href='/New_Beehive/alpha4/alpha_0863/'>a</a>|<a href='/New_Beehive/toc/toc2_338/'>1740
+entry: "<a href='/digital-beehive/alpha4/alpha_0863/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1740
   [Sighe]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '3701'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/187,538,632,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/187,538,632,170/full/0/default.jpg
 label: sighs
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

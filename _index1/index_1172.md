@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index2/index_1188/'>earth</a>"
+see: "<a href='/digital-beehive/index2/index_1188/'>earth</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1172'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,923,425,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,923,425,114/full/0/default.jpg
 label: dust
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

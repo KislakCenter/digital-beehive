@@ -3,7 +3,7 @@ pid: index_3134
 volume: Volume 3
 image_number: '37'
 head: presence
-entry: "<a href='/New_Beehive/alpha4/alpha_0723/'>a</a>|<a href='/New_Beehive/toc/toc2_327/'>1664
+entry: "<a href='/digital-beehive/alpha4/alpha_0723/'>a</a>|<a href='/digital-beehive/toc/toc2_327/'>1664
   [Presence]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3134'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/128,259,586,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/128,259,586,162/full/0/default.jpg
 label: presence
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

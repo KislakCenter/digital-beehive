@@ -3,7 +3,7 @@ pid: index_1038
 volume: Volume 3
 image_number: '16'
 head: devour
-entry: "<a href='/New_Beehive/toc/toc2_355/'>1926 [Swallowing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_355/'>1926 [Swallowing]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1038'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1827,451,521,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1827,451,521,127/full/0/default.jpg
 label: devour
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

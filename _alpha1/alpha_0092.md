@@ -6,13 +6,13 @@ head:
 entry: Book
 topic: Book
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0533/'>Library</a>|<a href='/New_Beehive/alpha4/alpha_0728/'>Printing</a>|<a
-  href='/New_Beehive/toc/toc2_202/'>1044 [Books]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0533/'>Library</a>|<a href='/digital-beehive/alpha4/alpha_0728/'>Printing</a>|<a
+  href='/digital-beehive/toc/toc2_202/'>1044 [Books]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0409/'>books</a>"
+index: "<a href='/digital-beehive/index1/index_0409/'>books</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2d96b7e19"
@@ -26,7 +26,7 @@ order: '92'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,3005,591/full/0/default.jpg
 label: Book
-location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

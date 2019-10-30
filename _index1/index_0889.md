@@ -3,7 +3,7 @@ pid: index_0889
 volume: Volume 3
 image_number: '15'
 head: cowley
-entry: "<a href='/New_Beehive/toc/toc2_430/'>4802 [Mr. Cowley]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4802 [Mr. Cowley]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '889'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/171,2897,441,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/171,2897,441,118/full/0/default.jpg
 label: cowley
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

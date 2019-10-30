@@ -6,12 +6,12 @@ head:
 entry: Almanack
 topic: Almanack
 first_letter: A
-xref: Astrology|<a href='/New_Beehive/toc/toc2_248/'>1275 [Almanack]</a>
+xref: Astrology|<a href='/digital-beehive/toc/toc2_248/'>1275 [Almanack]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0104/'>almanack</a>"
+index: "<a href='/digital-beehive/index1/index_0104/'>almanack</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3e8408a05"
@@ -25,7 +25,7 @@ order: '21'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,2974,349/full/0/default.jpg
 label: Almanack
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

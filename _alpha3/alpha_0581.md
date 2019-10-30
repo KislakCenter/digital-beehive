@@ -6,13 +6,13 @@ head:
 entry: Member
 topic: Member
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0090/'>body</a>|<a href='/New_Beehive/toc/toc2_182/'>979
+xref: "<a href='/digital-beehive/alpha1/alpha_0090/'>body</a>|<a href='/digital-beehive/toc/toc2_182/'>979
   [Members]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2479/'>members</a>"
+index: "<a href='/digital-beehive/index3/index_2479/'>members</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8617f3d8e"
@@ -25,7 +25,7 @@ order: '581'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/757,1666,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/757,1666,2973,574/full/0/default.jpg
 label: Member
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

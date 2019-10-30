@@ -3,8 +3,8 @@ pid: index_0309
 volume: Volume 3
 image_number: '9'
 head: battel
-entry: "<a href='/New_Beehive/toc/toc2_082/'>235 [Battel]</a>|<a href='/New_Beehive/toc/toc2_248/'>1273
-  [the Battel]</a>|<a href='/New_Beehive/toc/toc2_330/'>1676 [Battel]</a>|<a href='/New_Beehive/toc/toc2_398/'>2271
+entry: "<a href='/digital-beehive/toc/toc2_082/'>235 [Battel]</a>|<a href='/digital-beehive/toc/toc2_248/'>1273
+  [the Battel]</a>|<a href='/digital-beehive/toc/toc2_330/'>1676 [Battel]</a>|<a href='/digital-beehive/toc/toc2_398/'>2271
   [Battel]</a>"
 topic: 
 first_letter: B
@@ -27,7 +27,7 @@ order: '309'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,846,776,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,846,776,108/full/0/default.jpg
 label: battel
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

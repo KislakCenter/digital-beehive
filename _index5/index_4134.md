@@ -3,8 +3,8 @@ pid: index_4134
 volume: Volume 3
 image_number: '47'
 head: threefold Cord of Satan
-entry: "<a href='/New_Beehive/toc/toc2_332/'>1687 [the Devils threefold Snare]</a>|<a
-  href='/New_Beehive/toc/toc2_442/'>4879 [Trinitus Idolatrica]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_332/'>1687 [the Devils threefold Snare]</a>|<a
+  href='/digital-beehive/toc/toc2_442/'>4879 [Trinitus Idolatrica]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -26,7 +26,7 @@ order: '4134'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3284,762,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3284,762,134/full/0/default.jpg
 label: threefold Cord of Satan
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

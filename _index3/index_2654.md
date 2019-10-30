@@ -3,7 +3,7 @@ pid: index_2654
 volume: Volume 3
 image_number: '32'
 head: natural man
-entry: "<a href='/New_Beehive/toc/toc2_061/'>50 [Natural man]</a>|<a href='/New_Beehive/toc/toc2_373/'>2080
+entry: "<a href='/digital-beehive/toc/toc2_061/'>50 [Natural man]</a>|<a href='/digital-beehive/toc/toc2_373/'>2080
   [Natural man]</a>"
 topic: 
 first_letter: N
@@ -25,7 +25,7 @@ order: '2654'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/388,1691,571,51/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/388,1691,571,51/full/0/default.jpg
 label: natural man
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

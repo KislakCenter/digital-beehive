@@ -6,12 +6,12 @@ head:
 entry: Year
 topic: Year
 first_letter: Y
-xref: "<a href='/New_Beehive/toc/toc2_277/'>1418 [ENTRY_MISSING; release]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_277/'>1418 [ENTRY_MISSING; release]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4641/'>year</a>"
+index: "<a href='/digital-beehive/index5/index_4641/'>year</a>"
 insertion_xref: 
 insertion: 
 item: "#item-54e887c65"
@@ -24,7 +24,7 @@ order: '1058'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,3247,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,3247,2961,440/full/0/default.jpg
 label: Year
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

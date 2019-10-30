@@ -3,8 +3,8 @@ pid: index_3311
 volume: Volume 3
 image_number: '38'
 head: reason
-entry: "<a href='/New_Beehive/alpha4/alpha_0770/'>a</a>|<a href='/New_Beehive/toc/toc2_245/'>1258
-  [Reason]</a>|<a href='/New_Beehive/toc/toc2_333/'>1694 [Reason]</a>|<a href='/New_Beehive/toc/toc2_425/'>4466
+entry: "<a href='/digital-beehive/alpha4/alpha_0770/'>a</a>|<a href='/digital-beehive/toc/toc2_245/'>1258
+  [Reason]</a>|<a href='/digital-beehive/toc/toc2_333/'>1694 [Reason]</a>|<a href='/digital-beehive/toc/toc2_425/'>4466
   [WORD_MISSING]</a>"
 topic: 
 first_letter: R
@@ -27,7 +27,7 @@ order: '3311'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1865,2180,677,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1865,2180,677,172/full/0/default.jpg
 label: reason
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

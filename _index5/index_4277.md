@@ -24,7 +24,7 @@ order: '4277'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/212,2547,383,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/212,2547,383,104/full/0/default.jpg
 label: twins
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

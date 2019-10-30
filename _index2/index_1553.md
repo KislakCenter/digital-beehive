@@ -3,7 +3,7 @@ pid: index_1553
 volume: Volume 3
 image_number: '21'
 head: frost
-entry: "<a href='/New_Beehive/toc/toc2_324/'>1649 [Frost]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Frost]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1553'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/849,3210,378,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/849,3210,378,153/full/0/default.jpg
 label: frost
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

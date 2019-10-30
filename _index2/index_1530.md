@@ -3,7 +3,7 @@ pid: index_1530
 volume: Volume 3
 image_number: '21'
 head: 'Geo: Fox'
-entry: "<a href='/New_Beehive/toc/toc2_130/'>563 [George Fox]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_130/'>563 [George Fox]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1530'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/863,1321,497,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/863,1321,497,123/full/0/default.jpg
 label: 'Geo: Fox'
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

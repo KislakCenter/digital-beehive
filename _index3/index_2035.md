@@ -8,7 +8,7 @@ topic:
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2035'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/full/0/default.jpg
 label: infirmeries
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

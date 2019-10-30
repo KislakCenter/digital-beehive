@@ -3,7 +3,7 @@ pid: index_4468
 volume: Volume 3
 image_number: '51'
 head: to wallow
-entry: "<a href='/New_Beehive/toc/toc2_146/'>648 [To Roll]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [To Roll]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4468'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1639,1354,463,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1639,1354,463,113/full/0/default.jpg
 label: to wallow
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

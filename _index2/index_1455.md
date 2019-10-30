@@ -3,7 +3,7 @@ pid: index_1455
 volume: Volume 3
 image_number: '20'
 head: fiery or passionate
-entry: "<a href='/New_Beehive/toc/toc2_068/'>119 [Passions]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_068/'>119 [Passions]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1455'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1779,927,741,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1779,927,741,159/full/0/default.jpg
 label: fiery or passionate
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

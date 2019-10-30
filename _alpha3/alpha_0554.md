@@ -6,12 +6,12 @@ head:
 entry: Love of our Neighbour
 topic: Love of our Neighbour
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_209/'>1079 [Love of Neighbours]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_209/'>1079 [Love of Neighbours]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2343/'>love of our neighbour</a>"
+index: "<a href='/digital-beehive/index3/index_2343/'>love of our neighbour</a>"
 insertion_xref: 
 insertion: 
 item: "#item-404f51cf4"
@@ -25,7 +25,7 @@ order: '554'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,3082,538/full/0/default.jpg
 label: Love of our Neighbour
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

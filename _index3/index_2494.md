@@ -3,7 +3,7 @@ pid: index_2494
 volume: Volume 3
 image_number: '30'
 head: merry
-entry: "<a href='/New_Beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/New_Beehive/toc/toc2_357/'>1940
+entry: "<a href='/digital-beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
   [Joy]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2494'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1122,3173,593,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1122,3173,593,140/full/0/default.jpg
 label: merry
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

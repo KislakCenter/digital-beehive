@@ -3,7 +3,7 @@ pid: index_4623
 volume: Volume 3
 image_number: '53'
 head: worse & worst
-entry: "<a href='/New_Beehive/toc/toc2_132/'>573 [Worse]</a>|<a href='/New_Beehive/toc/toc2_321/'>1632
+entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [Worse]</a>|<a href='/digital-beehive/toc/toc2_321/'>1632
   [Worse]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4623'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/full/0/default.jpg
 label: worse & worst
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

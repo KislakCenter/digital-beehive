@@ -3,7 +3,7 @@ pid: index_0962
 volume: Volume 3
 image_number: '15'
 head: to speak of dead men
-entry: "<a href='/New_Beehive/toc/toc2_401/'>2290 [To speak of them that are dead]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_401/'>2290 [To speak of them that are dead]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '962'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/full/0/default.jpg
 label: to speak of dead men
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,12 +3,12 @@ pid: index_2420
 volume: Volume 3
 image_number: '29'
 head: manuscripts of mine own
-entry: "<a href='/New_Beehive/toc/toc2_297/'>1511 [Protestant Religion]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1511 [Protestant Religion]</a>"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc2_296/'>p.386 [Image 2.306]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc2_296/'>p.386 [Image 2.306]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '2420'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/full/0/default.jpg
 label: manuscripts of mine own
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

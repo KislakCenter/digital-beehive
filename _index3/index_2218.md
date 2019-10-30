@@ -3,7 +3,7 @@ pid: index_2218
 volume: Volume 3
 image_number: '27'
 head: latin English
-entry: "<a href='/New_Beehive/toc/toc2_196/'>1015 [Some English Latin]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_196/'>1015 [Some English Latin]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2218'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1507,3020,491,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1507,3020,491,134/full/0/default.jpg
 label: latin English
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

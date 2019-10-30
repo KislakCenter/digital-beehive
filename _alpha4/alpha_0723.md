@@ -6,13 +6,14 @@ head:
 entry: Presence
 topic: Presence
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0001/'>Absence</a>|<a href='/New_Beehive/toc/toc2_327/'>1664
-  [Presence]</a>|<a href='/New_Beehive/toc/toc2_086/'>261 [Absence & Presence of Xst]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0001/'>Absence</a>|<a href='/digital-beehive/toc/toc2_327/'>1664
+  [Presence]</a>|<a href='/digital-beehive/toc/toc2_086/'>261 [Absence & Presence
+  of Xst]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3134/'>presence</a>"
+index: "<a href='/digital-beehive/index4/index_3134/'>presence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7054f9e8f"
@@ -26,7 +27,7 @@ order: '723'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/781,2233,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/781,2233,3044,389/full/0/default.jpg
 label: Presence
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

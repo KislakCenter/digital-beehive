@@ -3,7 +3,7 @@ pid: index_2084
 volume: Volume 3
 image_number: '26'
 head: intricate
-entry: "<a href='/New_Beehive/toc/toc2_247/'>1269 [to Entangle & disentangle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_247/'>1269 [to Entangle & disentangle]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2084'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1859,421,475,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1859,421,475,115/full/0/default.jpg
 label: intricate
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

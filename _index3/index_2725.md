@@ -3,7 +3,7 @@ pid: index_2725
 volume: Volume 3
 image_number: '32'
 head: nonconformity
-entry: "<a href='/New_Beehive/toc/toc2_119/'>492 [Dissenters]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_119/'>492 [Dissenters]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2725'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/full/0/default.jpg
 label: nonconformity
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

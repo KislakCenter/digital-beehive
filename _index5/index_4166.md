@@ -3,13 +3,13 @@ pid: index_4166
 volume: Volume 3
 image_number: '48'
 head: tobacco
-entry: "<a href='/New_Beehive/alpha5/alpha_0950/'>a</a>|<a href='/New_Beehive/toc/toc2_174/'>935
-  [Tobacco]</a>|<a href='/New_Beehive/toc/toc2_278/'>1423 [Tobacco]</a>|4585 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha5/alpha_0950/'>a</a>|<a href='/digital-beehive/toc/toc2_174/'>935
+  [Tobacco]</a>|<a href='/digital-beehive/toc/toc2_278/'>1423 [Tobacco]</a>|4585 [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>|<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>|<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42
   [Image 1.102]</a>"
 add: 
 type: 
@@ -27,7 +27,7 @@ order: '4166'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,395,623,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,395,623,157/full/0/default.jpg
 label: tobacco
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

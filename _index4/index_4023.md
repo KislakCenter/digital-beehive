@@ -3,7 +3,7 @@ pid: index_4023
 volume: Volume 3
 image_number: '46'
 head: swelling
-entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Swelling]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_171/'>916 [Swelling]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4023'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1097,2108,424,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1097,2108,424,136/full/0/default.jpg
 label: swelling
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

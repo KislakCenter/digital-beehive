@@ -6,12 +6,12 @@ head:
 entry: Printing
 topic: Printing
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_253/'>1296 [Printing]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_253/'>1296 [Printing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3163/'>printing</a>"
+index: "<a href='/digital-beehive/index4/index_3163/'>printing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9776fdeb6"
@@ -24,7 +24,7 @@ order: '728'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,4286,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,4286,2978,396/full/0/default.jpg
 label: Printing
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

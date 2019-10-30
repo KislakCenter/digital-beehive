@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: "<a href='/New_Beehive/index4/index_2979/'>pewter</a>"
+see: "<a href='/digital-beehive/index4/index_2979/'>pewter</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4159'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/full/0/default.jpg
 label: tin
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

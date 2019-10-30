@@ -6,13 +6,13 @@ head:
 entry: Wars miseries
 topic: Wars miseries
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_139/'>608 [Ruin]</a>|<a href='/New_Beehive/toc/toc2_277/'>1416
+xref: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
   [Evils of war]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4476/'>wars miseries</a>"
+index: "<a href='/digital-beehive/index5/index_4476/'>wars miseries</a>"
 insertion_xref: 
 insertion: 
 item: "#item-05ccd66db"
@@ -26,7 +26,7 @@ order: '1010'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,3661,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,3661,2970,428/full/0/default.jpg
 label: Wars miseries
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

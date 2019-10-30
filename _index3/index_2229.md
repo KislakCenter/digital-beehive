@@ -3,7 +3,7 @@ pid: index_2229
 volume: Volume 3
 image_number: '28'
 head: laypeople
-entry: "<a href='/New_Beehive/toc/toc2_167/'>899 [Lay people]</a>|<a href='/New_Beehive/toc/toc2_348/'>1813
+entry: "<a href='/digital-beehive/toc/toc2_167/'>899 [Lay people]</a>|<a href='/digital-beehive/toc/toc2_348/'>1813
   [Lay people]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2229'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,820,653,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,820,653,138/full/0/default.jpg
 label: laypeople
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

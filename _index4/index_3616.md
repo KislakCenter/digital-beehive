@@ -3,7 +3,7 @@ pid: index_3616
 volume: Volume 3
 image_number: '42'
 head: Self examina[ti]on
-entry: "<a href='/New_Beehive/toc/toc2_216/'>1111 [Examine]</a>|<a href='/New_Beehive/toc/toc2_400/'>2284
+entry: "<a href='/digital-beehive/toc/toc2_216/'>1111 [Examine]</a>|<a href='/digital-beehive/toc/toc2_400/'>2284
   [Self-Examination]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3616'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/full/0/default.jpg
 label: Self examina[ti]on
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

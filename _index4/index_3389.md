@@ -3,7 +3,7 @@ pid: index_3389
 volume: Volume 3
 image_number: '39'
 head: resolution
-entry: "<a href='/New_Beehive/toc/toc2_111/'>441 [Resolutions]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_111/'>441 [Resolutions]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3389'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1476,1189,614,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1476,1189,614,140/full/0/default.jpg
 label: resolution
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

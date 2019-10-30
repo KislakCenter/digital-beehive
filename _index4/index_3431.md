@@ -3,7 +3,7 @@ pid: index_3431
 volume: Volume 3
 image_number: '40'
 head: rimes
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3431'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/full/0/default.jpg
 label: rimes
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_2615
 volume: Volume 3
 image_number: '31'
 head: Bp of Munster
-entry: "<a href='/New_Beehive/toc/toc2_263/'>1348 [Chr. Bernard Bishop of Munster]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Chr. Bernard Bishop of Munster]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2615'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/full/0/default.jpg
 label: Bp of Munster
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

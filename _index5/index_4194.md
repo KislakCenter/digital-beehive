@@ -3,7 +3,7 @@ pid: index_4194
 volume: Volume 3
 image_number: '48'
 head: tophet
-entry: "<a href='/New_Beehive/toc/toc2_383/'>2171 [Tophet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_383/'>2171 [Tophet]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4194'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,3024,514,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,3024,514,122/full/0/default.jpg
 label: tophet
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

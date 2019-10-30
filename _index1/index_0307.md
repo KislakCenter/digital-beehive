@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index1/index_0576/'>Celibate</a>"
+see: "<a href='/digital-beehive/index1/index_0576/'>Celibate</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '307'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,596,679,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,596,679,139/full/0/default.jpg
 label: batchelor
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

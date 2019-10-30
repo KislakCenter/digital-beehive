@@ -6,12 +6,12 @@ head:
 entry: Common goods
 topic: Common goods
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_228/'>1172 [Community of Goods]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_228/'>1172 [Community of Goods]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0744/'>common goods</a>"
+index: "<a href='/digital-beehive/index1/index_0744/'>common goods</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8f4d83e15"
@@ -25,7 +25,7 @@ order: '159'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/378,1073,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/378,1073,3053,425/full/0/default.jpg
 label: Common goods
-location: "<a href='/New_Beehive/toc/toc1_433/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

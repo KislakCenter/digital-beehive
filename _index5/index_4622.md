@@ -3,7 +3,7 @@ pid: index_4622
 volume: Volume 3
 image_number: '53'
 head: wormwood
-entry: "<a href='/New_Beehive/toc/toc2_154/'>693 [Wormwood]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_154/'>693 [Wormwood]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4622'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/full/0/default.jpg
 label: wormwood
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

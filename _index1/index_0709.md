@@ -3,7 +3,7 @@ pid: index_0709
 volume: Volume 3
 image_number: '13'
 head: coal
-entry: "<a href='/New_Beehive/toc/toc2_220/'>1134 [Coal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_220/'>1134 [Coal]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '709'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/867,2386,344,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/867,2386,344,114/full/0/default.jpg
 label: coal
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

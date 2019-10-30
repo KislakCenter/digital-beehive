@@ -6,13 +6,13 @@ head:
 entry: Love of the brethren
 topic: Love of the brethren
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/New_Beehive/toc/toc2_255/'>1309
+xref: "<a href='/digital-beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/digital-beehive/toc/toc2_255/'>1309
   [Love to God & the Brethren]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2342/'>love of ye brethren</a>"
+index: "<a href='/digital-beehive/index3/index_2342/'>love of ye brethren</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7b1286b19"
@@ -26,7 +26,7 @@ order: '553'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/320,4346,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/320,4346,3065,708/full/0/default.jpg
 label: Love of the brethren
-location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_0818
 volume: Volume 3
 image_number: '14'
 head: contagious
-entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [To infect]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '818'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/full/0/default.jpg
 label: contagious
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

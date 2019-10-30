@@ -3,7 +3,7 @@ pid: index_1226
 volume: Volume 3
 image_number: '18'
 head: elixir
-entry: "<a href='/New_Beehive/toc/toc2_314/'>1596 [Quintessence]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1596 [Quintessence]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1226'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1135,2488,434,89/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1135,2488,434,89/full/0/default.jpg
 label: elixir
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

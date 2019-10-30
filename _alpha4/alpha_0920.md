@@ -6,13 +6,13 @@ head:
 entry: Superfluity
 topic: Superfluity
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/New_Beehive/alpha5/alpha_0955/'>Too
-  much</a>|<a href='/New_Beehive/toc/toc2_242/'>1245 [Superfluous]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/digital-beehive/alpha5/alpha_0955/'>Too
+  much</a>|<a href='/digital-beehive/toc/toc2_242/'>1245 [Superfluous]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3987/'>superfluity</a>"
+index: "<a href='/digital-beehive/index4/index_3987/'>superfluity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1f1fa9dc7"
@@ -26,7 +26,7 @@ order: '920'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/774,4090,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/774,4090,2962,578/full/0/default.jpg
 label: Superfluity
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

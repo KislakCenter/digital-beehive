@@ -3,9 +3,9 @@ pid: index_2222
 volume: Volume 3
 image_number: '27'
 head: Law
-entry: "<a href='/New_Beehive/alpha3/alpha_0519/'>a</a>|<a href='/New_Beehive/toc/toc2_184/'>991
-  [Law]</a>|<a href='/New_Beehive/toc/toc2_335/'>1707 [Law inwardly engraven]</a>|<a
-  href='/New_Beehive/toc/toc2_362/'>1972 [Laws]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0519/'>a</a>|<a href='/digital-beehive/toc/toc2_184/'>991
+  [Law]</a>|<a href='/digital-beehive/toc/toc2_335/'>1707 [Law inwardly engraven]</a>|<a
+  href='/digital-beehive/toc/toc2_362/'>1972 [Laws]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -27,7 +27,7 @@ order: '2222'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1513,3350,709,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1513,3350,709,154/full/0/default.jpg
 label: Law
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

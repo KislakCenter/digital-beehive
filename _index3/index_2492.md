@@ -3,7 +3,7 @@ pid: index_2492
 volume: Volume 3
 image_number: '30'
 head: merit of Christ
-entry: "<a href='/New_Beehive/toc/toc2_186/'>1004 [Christs outward Satisfaction]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_186/'>1004 [Christs outward Satisfaction]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2492'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1107,2880,540,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1107,2880,540,147/full/0/default.jpg
 label: merit of Christ
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

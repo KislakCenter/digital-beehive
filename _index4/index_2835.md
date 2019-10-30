@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: O
 xref: 
-see: "<a href='/New_Beehive/index4/index_3108/'>praise</a>"
+see: "<a href='/digital-beehive/index4/index_3108/'>praise</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2835'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/458,540,791,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/458,540,791,193/full/0/default.jpg
 label: ostentation
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_0939
 volume: Volume 3
 image_number: '15'
 head: Dainty meats
-entry: "<a href='/New_Beehive/toc/toc2_155/'>696</a>"
+entry: "<a href='/digital-beehive/toc/toc2_155/'>696 [Dainty meats]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '939'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/full/0/default.jpg
 label: Dainty meats
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

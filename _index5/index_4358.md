@@ -3,7 +3,7 @@ pid: index_4358
 volume: Volume 3
 image_number: '50'
 head: unawares
-entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Unawares]</a>|<a href='/New_Beehive/toc/toc2_350/'>1831
+entry: "<a href='/digital-beehive/toc/toc2_156/'>703 [Unawares]</a>|<a href='/digital-beehive/toc/toc2_350/'>1831
   [Unawares]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4358'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/478,1086,633,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/478,1086,633,99/full/0/default.jpg
 label: unawares
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

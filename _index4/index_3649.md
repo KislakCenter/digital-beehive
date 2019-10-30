@@ -3,7 +3,7 @@ pid: index_3649
 volume: Volume 3
 image_number: '42'
 head: to settle
-entry: "<a href='/New_Beehive/toc/toc2_071/'>143 [Establishmt]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_071/'>143 [Establishmt]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3649'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/full/0/default.jpg
 label: to settle
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

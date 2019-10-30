@@ -3,7 +3,7 @@ pid: index_4434
 volume: Volume 3
 image_number: '51'
 head: vow
-entry: "<a href='/New_Beehive/toc/toc2_239/'>1229 [of Vows & Promises to God]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1229 [of Vows & Promises to God]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4434'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/950,311,357,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/950,311,357,146/full/0/default.jpg
 label: vow
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

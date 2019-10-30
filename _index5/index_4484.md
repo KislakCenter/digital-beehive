@@ -8,7 +8,7 @@ topic:
 first_letter: W
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4484'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/full/0/default.jpg
 label: washing dub
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_2373
 volume: Volume 3
 image_number: '29'
 head: to lye with one
-entry: "<a href='/New_Beehive/toc/toc2_114/'>459 [To use a woman]</a>|<a href='/New_Beehive/toc/toc2_315/'>1601
+entry: "<a href='/digital-beehive/toc/toc2_114/'>459 [To use a woman]</a>|<a href='/digital-beehive/toc/toc2_315/'>1601
   [First love]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2373'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,1652,699,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,1652,699,147/full/0/default.jpg
 label: to lye with one
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_3301
 volume: Volume 3
 image_number: '38'
 head: to ratify
-entry: "<a href='/New_Beehive/toc/toc2_146/'>649 [Consent]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Consent]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3301'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1871,1261,470,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1871,1261,470,145/full/0/default.jpg
 label: to ratify
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

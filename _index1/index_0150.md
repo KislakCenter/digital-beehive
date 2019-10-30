@@ -3,7 +3,7 @@ pid: index_0150
 volume: Volume 3
 image_number: '8'
 head: anointing
-entry: "<a href='/New_Beehive/toc/toc2_174/'>935 [To anoint]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_174/'>935 [To anoint]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '150'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/382,2190,471,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/382,2190,471,150/full/0/default.jpg
 label: anointing
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

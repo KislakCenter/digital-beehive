@@ -3,7 +3,7 @@ pid: index_0474
 volume: Volume 3
 image_number: '11'
 head: building
-entry: "<a href='/New_Beehive/alpha1/alpha_0107/'>a</a>|<a href='/New_Beehive/toc/toc2_327/'>1662
+entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/toc/toc2_327/'>1662
   [Architecture]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '474'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,751,540,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,751,540,147/full/0/default.jpg
 label: building
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

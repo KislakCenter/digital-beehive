@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4671/'>national Constitutions</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4671/'>national Constitutions</a>"
 insertion: 
 item: "#item-e9ecca89a"
 unparsed: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
@@ -24,7 +24,7 @@ order: '2646'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,1076,185,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,1076,185,143/full/0/default.jpg
 label: "[:7.]"
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

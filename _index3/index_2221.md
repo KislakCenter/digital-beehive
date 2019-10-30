@@ -3,7 +3,7 @@ pid: index_2221
 volume: Volume 3
 image_number: '27'
 head: laughter
-entry: "<a href='/New_Beehive/alpha3/alpha_0518/'>a</a>|<a href='/New_Beehive/toc/toc2_244/'>1254
+entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1254
   [Laughter]</a>|4557 [PAGE_MISSING]"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2221'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1526,3211,700,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1526,3211,700,176/full/0/default.jpg
 label: laughter
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

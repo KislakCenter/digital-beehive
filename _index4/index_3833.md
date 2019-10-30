@@ -3,7 +3,7 @@ pid: index_3833
 volume: Volume 3
 image_number: '44'
 head: spell or charm
-entry: "<a href='/New_Beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3833'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1112,1552,692,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1112,1552,692,143/full/0/default.jpg
 label: spell or charm
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

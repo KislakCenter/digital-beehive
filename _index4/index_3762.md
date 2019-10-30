@@ -3,12 +3,12 @@ pid: index_3762
 volume: Volume 3
 image_number: '43'
 head: smith
-entry: "<a href='/New_Beehive/toc/toc2_092/'>306 [Smith]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_092/'>306 [Smith]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3762'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,3473,563,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,3473,563,144/full/0/default.jpg
 label: smith
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

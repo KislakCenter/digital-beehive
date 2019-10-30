@@ -6,13 +6,13 @@ head:
 entry: Negligenge
 topic: Negligenge
 first_letter: N
-xref: "<a href='/New_Beehive/alpha3/alpha_0443/'>Idleness</a>|<a href='/New_Beehive/alpha3/alpha_0521/'>Laziness</a>|<a
-  href='/New_Beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0443/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0521/'>Laziness</a>|<a
+  href='/digital-beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2681/'>negligence</a>"
+index: "<a href='/digital-beehive/index3/index_2681/'>negligence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-dfd2d85c3"
@@ -26,7 +26,7 @@ order: '631'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
 label: Negligenge
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

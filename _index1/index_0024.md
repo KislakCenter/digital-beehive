@@ -3,7 +3,7 @@ pid: index_0024
 volume: Volume 3
 image_number: '7'
 head: accessary
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1384 [Alliance]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1384 [Alliance]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '24'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,2093,592,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,2093,592,104/full/0/default.jpg
 label: accessary
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

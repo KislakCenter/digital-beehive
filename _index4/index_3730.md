@@ -3,7 +3,7 @@ pid: index_3730
 volume: Volume 3
 image_number: '43'
 head: to sink
-entry: "<a href='/New_Beehive/toc/toc2_306/'>1560 [Sink]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_306/'>1560 [Sink]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3730'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/865,588,504,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/865,588,504,121/full/0/default.jpg
 label: to sink
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

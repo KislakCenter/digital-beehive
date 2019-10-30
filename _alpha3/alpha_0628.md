@@ -6,13 +6,13 @@ head:
 entry: Naughtiness
 topic: Naughtiness
 first_letter: N
-xref: "<a href='/New_Beehive/alpha3/alpha_0566/'>Malignity</a>|<a href='/New_Beehive/alpha5/alpha_1022/'>Wickedness</a>|<a
-  href='/New_Beehive/toc/toc2_280/'>1432 [Naughtiness]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0566/'>Malignity</a>|<a href='/digital-beehive/alpha5/alpha_1022/'>Wickedness</a>|<a
+  href='/digital-beehive/toc/toc2_280/'>1432 [Naughtiness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2663/'>naughtiness</a>"
+index: "<a href='/digital-beehive/index3/index_2663/'>naughtiness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c20a79fcf"
@@ -26,7 +26,7 @@ order: '628'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,3223,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,3223,2979,447/full/0/default.jpg
 label: Naughtiness
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

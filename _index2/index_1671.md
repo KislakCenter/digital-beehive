@@ -3,7 +3,7 @@ pid: index_1671
 volume: Volume 3
 image_number: '22'
 head: good. gültig
-entry: "<a href='/New_Beehive/toc/toc2_204/'>1052 [Good]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_204/'>1052 [Good]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1671'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/full/0/default.jpg
 label: good. gültig
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

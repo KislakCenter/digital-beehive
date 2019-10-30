@@ -6,13 +6,13 @@ head:
 entry: Labour
 topic: Labour
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc/toc2_177/'>948
+xref: "<a href='/digital-beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/digital-beehive/toc/toc2_177/'>948
   [Labour]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2181/'>Labour</a>"
+index: "<a href='/digital-beehive/index3/index_2181/'>Labour</a>"
 insertion_xref: 
 insertion: 
 item: "#item-151493662"
@@ -25,7 +25,7 @@ order: '504'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,2982,712/full/0/default.jpg
 label: Labour
-location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

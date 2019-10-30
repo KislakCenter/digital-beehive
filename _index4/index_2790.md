@@ -3,7 +3,7 @@ pid: index_2790
 volume: Volume 3
 image_number: '33'
 head: omnipotency
-entry: "<a href='/New_Beehive/alpha4/alpha_0657/'>a</a>|<a href='/New_Beehive/toc/toc2_320/'>1630
+entry: "<a href='/digital-beehive/alpha4/alpha_0657/'>a</a>|<a href='/digital-beehive/toc/toc2_320/'>1630
   [Apes, Altar]</a>"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2790'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/838,2376,691,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/838,2376,691,179/full/0/default.jpg
 label: omnipotency
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

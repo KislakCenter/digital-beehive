@@ -3,7 +3,7 @@ pid: index_1519
 volume: Volume 3
 image_number: '21'
 head: forsake sins
-entry: "<a href='/New_Beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1519'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/full/0/default.jpg
 label: forsake sins
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -6,12 +6,12 @@ head:
 entry: Oath
 topic: Oath
 first_letter: O
-xref: Swearing|<a href='/New_Beehive/toc/toc2_060/'>28 [Oath]</a>
+xref: Swearing|<a href='/digital-beehive/toc/toc2_060/'>28 [Oath]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2651/'>oath</a>"
+index: "<a href='/digital-beehive/index3/index_2651/'>oath</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8a41c29da"
@@ -24,7 +24,7 @@ order: '644'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,4076,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,4076,2943,433/full/0/default.jpg
 label: Oath
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

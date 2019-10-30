@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: proof|<a href='/New_Beehive/index5/index_4086/'>temptation</a>
+see: proof|<a href='/digital-beehive/index5/index_4086/'>temptation</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4259'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,536,748,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,536,748,129/full/0/default.jpg
 label: tryal
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

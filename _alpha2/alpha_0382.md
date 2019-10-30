@@ -6,12 +6,12 @@ head:
 entry: Gravity
 topic: Gravity
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_408/'>2349 [Gravity]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_408/'>2349 [Gravity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1703/'>gravity</a>"
+index: "<a href='/digital-beehive/index2/index_1703/'>gravity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-62b38a997"
@@ -24,7 +24,7 @@ order: '382'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,3059,273/full/0/default.jpg
 label: Gravity
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

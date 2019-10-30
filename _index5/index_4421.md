@@ -3,8 +3,8 @@ pid: index_4421
 volume: Volume 3
 image_number: '51'
 head: unstable
-entry: "<a href='/New_Beehive/alpha5/alpha_0998/'>a</a>|<a href='/New_Beehive/toc/toc2_161/'>870
-  [Inconstancy]</a>|<a href='/New_Beehive/toc/toc2_319/'>1624 [Inconstant]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0998/'>a</a>|<a href='/digital-beehive/toc/toc2_161/'>870
+  [Inconstancy]</a>|<a href='/digital-beehive/toc/toc2_319/'>1624 [Inconstant]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -25,7 +25,7 @@ order: '4421'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/206,1809,746,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/206,1809,746,151/full/0/default.jpg
 label: unstable
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

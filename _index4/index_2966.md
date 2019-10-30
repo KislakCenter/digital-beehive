@@ -3,7 +3,7 @@ pid: index_2966
 volume: Volume 3
 image_number: '35'
 head: perplexity
-entry: "<a href='/New_Beehive/toc/toc2_148/'>661 [Perplexity]</a>|<a href='/New_Beehive/toc/toc2_264/'>1354
+entry: "<a href='/digital-beehive/toc/toc2_148/'>661 [Perplexity]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354
   [Perplexity]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2966'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/full/0/default.jpg
 label: perplexity
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Equality
 topic: Equality
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0469/'>Inequ.y</a>|<a href='/New_Beehive/toc/toc2_219/'>1129
+xref: "<a href='/digital-beehive/alpha3/alpha_0469/'>Inequ.y</a>|<a href='/digital-beehive/toc/toc2_219/'>1129
   [Equality]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1286/'>equality</a>"
+index: "<a href='/digital-beehive/index2/index_1286/'>equality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-52585936e"
@@ -26,7 +26,7 @@ order: '287'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,3017,572/full/0/default.jpg
 label: Equality
-location: "<a href='/New_Beehive/toc/toc1_444/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4714/'>Vernish</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4714/'>Vernish</a>"
 insertion: 
 item: "#item-4bf9243e5"
 unparsed: 'Type: Index|Insertion Xref: [:45.]|#item-4bf9243e5'
@@ -24,7 +24,7 @@ order: '4315'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/full/0/default.jpg
 label: "[:45.]"
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

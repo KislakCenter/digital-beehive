@@ -3,7 +3,7 @@ pid: index_0908
 volume: Volume 3
 image_number: '15'
 head: crime
-entry: "<a href='/New_Beehive/alpha1/alpha_0194/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0194/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '908'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/881,1428,394,77/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/881,1428,394,77/full/0/default.jpg
 label: crime
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

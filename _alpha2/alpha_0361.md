@@ -6,12 +6,12 @@ head:
 entry: Glory
 topic: Glory
 first_letter: G
-xref: "<a href='/New_Beehive/alpha2/alpha_0427/'>Honour</a>|<a href='/New_Beehive/alpha4/alpha_0783/'>renown</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0427/'>Honour</a>|<a href='/digital-beehive/alpha4/alpha_0783/'>renown</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1625/'>glory</a>"
+index: "<a href='/digital-beehive/index2/index_1625/'>glory</a>"
 insertion_xref: 
 insertion: 
 item: "#item-827f53539"
@@ -24,7 +24,7 @@ order: '361'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/785,2714,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/785,2714,2953,343/full/0/default.jpg
 label: Glory
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

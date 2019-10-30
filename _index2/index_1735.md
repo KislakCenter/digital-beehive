@@ -3,7 +3,7 @@ pid: index_1735
 volume: Volume 3
 image_number: '23'
 head: a gypsie
-entry: "<a href='/New_Beehive/toc/toc2_307/'>1561 [[AE]gyptians]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1561 [[AE]gyptians]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1735'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,3127,480,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,3127,480,122/full/0/default.jpg
 label: a gypsie
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

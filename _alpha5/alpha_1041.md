@@ -6,12 +6,12 @@ head:
 entry: Wood
 topic: Wood
 first_letter: W
-xref: Timber|<a href='/New_Beehive/toc/toc2_377/'>2113 [Wood]</a>
+xref: Timber|<a href='/digital-beehive/toc/toc2_377/'>2113 [Wood]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4603/'>wood</a>"
+index: "<a href='/digital-beehive/index5/index_4603/'>wood</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ae92c0788"
@@ -24,7 +24,7 @@ order: '1041'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,2994,441/full/0/default.jpg
 label: Wood
-location: "<a href='/New_Beehive/toc/toc2_056/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

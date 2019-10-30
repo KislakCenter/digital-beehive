@@ -3,7 +3,7 @@ pid: index_0198
 volume: Volume 3
 image_number: '8'
 head: argument
-entry: 783 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_385/'>2199 [Argument]</a>
+entry: 783 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_385/'>2199 [Argument]</a>
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '198'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1818,241,694,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1818,241,694,114/full/0/default.jpg
 label: argument
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

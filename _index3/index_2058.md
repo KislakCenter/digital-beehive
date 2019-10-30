@@ -3,12 +3,12 @@ pid: index_2058
 volume: Volume 3
 image_number: '26'
 head: inscriptions
-entry: "<a href='/New_Beehive/alpha3/alpha_0478/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0478/'>a</a>"
 topic: 
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2058'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,743,678,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,743,678,183/full/0/default.jpg
 label: inscriptions
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

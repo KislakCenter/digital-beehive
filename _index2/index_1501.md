@@ -24,7 +24,7 @@ order: '1501'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/177,1817,504,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/177,1817,504,83/full/0/default.jpg
 label: forbidden books
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

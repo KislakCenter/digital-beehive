@@ -8,7 +8,7 @@ topic:
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_121/'>p.63 [Image 1.131]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_121/'>p.63 [Image 1.131]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1594'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/416,403,546,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/416,403,546,147/full/0/default.jpg
 label: genethliaeum
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

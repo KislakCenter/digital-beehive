@@ -6,13 +6,13 @@ head:
 entry: Impenitence
 topic: Impenitence
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0784/'>repentance</a>|<a href='/New_Beehive/toc/toc2_358/'>1945
+xref: "<a href='/digital-beehive/alpha4/alpha_0784/'>repentance</a>|<a href='/digital-beehive/toc/toc2_358/'>1945
   [Impenitence]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1966/'>impenitence</a>"
+index: "<a href='/digital-beehive/index3/index_1966/'>impenitence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cebd48102"
@@ -26,7 +26,7 @@ order: '461'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/730,2001,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/730,2001,3056,587/full/0/default.jpg
 label: Impenitence
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

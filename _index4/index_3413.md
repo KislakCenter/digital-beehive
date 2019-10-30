@@ -3,8 +3,8 @@ pid: index_3413
 volume: Volume 3
 image_number: '40'
 head: reward
-entry: "<a href='/New_Beehive/alpha4/alpha_0797/'>a</a>|<a href='/New_Beehive/toc/toc2_110/'>431
-  [Reward]</a>|<a href='/New_Beehive/toc/toc2_427/'>4480 [Reward]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0797/'>a</a>|<a href='/digital-beehive/toc/toc2_110/'>431
+  [Reward]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480 [Reward]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -25,7 +25,7 @@ order: '3413'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/full/0/default.jpg
 label: reward
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

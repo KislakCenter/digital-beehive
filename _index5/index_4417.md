@@ -3,7 +3,7 @@ pid: index_4417
 volume: Volume 3
 image_number: '51'
 head: unseen
-entry: "<a href='/New_Beehive/toc/toc2_163/'>879 [unseen]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_163/'>879 [unseen]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4417'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/226,1245,369,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/226,1245,369,149/full/0/default.jpg
 label: unseen
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

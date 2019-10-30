@@ -3,7 +3,7 @@ pid: index_0252
 volume: Volume 3
 image_number: '9'
 head: aurum potabile
-entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [Chymistry]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_155/'>700 [Chymistry]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '252'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1714,654,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1714,654,163/full/0/default.jpg
 label: aurum potabile
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

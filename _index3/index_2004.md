@@ -3,12 +3,12 @@ pid: index_2004
 volume: Volume 3
 image_number: '25'
 head: inconstant
-entry: "<a href='/New_Beehive/toc/toc2_161/'>870 [Inconstancy]</a>|<a href='/New_Beehive/toc/toc2_319/'>1624
+entry: "<a href='/digital-beehive/toc/toc2_161/'>870 [Inconstancy]</a>|<a href='/digital-beehive/toc/toc2_319/'>1624
   [Inconstant]</a>|4573 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
-see: "<a href='/New_Beehive/index5/index_4421/'>unstable</a>"
+see: "<a href='/digital-beehive/index5/index_4421/'>unstable</a>"
 page: 
 add: 
 type: 
@@ -26,7 +26,7 @@ order: '2004'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/full/0/default.jpg
 label: inconstant
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

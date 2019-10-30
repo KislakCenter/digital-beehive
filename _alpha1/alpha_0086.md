@@ -6,14 +6,14 @@ head:
 entry: Blockhead
 topic: Blockhead
 first_letter: B
-xref: "<a href='/New_Beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/New_Beehive/alpha4/alpha_0903/'>Stockfish</a>|<a
-  href='/New_Beehive/alpha3/alpha_0465/'>Incivility</a>|<a href='/New_Beehive/toc/toc2_149/'>668
+xref: "<a href='/digital-beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/digital-beehive/alpha4/alpha_0903/'>Stockfish</a>|<a
+  href='/digital-beehive/alpha3/alpha_0465/'>Incivility</a>|<a href='/digital-beehive/toc/toc2_149/'>668
   [Peasant]</a>|Stupidity"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0392/'>blockhead</a>"
+index: "<a href='/digital-beehive/index1/index_0392/'>blockhead</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f7569668d"
@@ -27,7 +27,7 @@ order: '86'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/344,1629,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/344,1629,3064,333/full/0/default.jpg
 label: Blockhead
-location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

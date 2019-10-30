@@ -6,12 +6,12 @@ head:
 entry: Hatred
 topic: Hatred
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0283/'>enmity</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0283/'>enmity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1768/'>hatred</a>"
+index: "<a href='/digital-beehive/index2/index_1768/'>hatred</a>"
 insertion_xref: 
 insertion: 
 item: "#item-703cad630"
@@ -24,7 +24,7 @@ order: '400'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,1372,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,1372,3043,580/full/0/default.jpg
 label: Hatred
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

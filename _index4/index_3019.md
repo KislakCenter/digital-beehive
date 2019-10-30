@@ -3,7 +3,7 @@ pid: index_3019
 volume: Volume 3
 image_number: '35'
 head: pious frauds
-entry: "<a href='/New_Beehive/toc/toc2_345/'>1791 [holy Cheats]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1791 [holy Cheats]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3019'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/full/0/default.jpg
 label: pious frauds
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

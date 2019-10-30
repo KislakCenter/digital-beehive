@@ -3,7 +3,7 @@ pid: index_2977
 volume: Volume 3
 image_number: '35'
 head: petitio principij
-entry: "<a href='/New_Beehive/toc/toc2_306/'>1556 [Petitio principij]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_306/'>1556 [Petitio principij]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2977'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/830,1472,700,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/830,1472,700,117/full/0/default.jpg
 label: petitio principij
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,11 +3,11 @@ pid: index_2000
 volume: Volume 3
 image_number: '25'
 head: incompatible
-entry: "<a href='/New_Beehive/toc/toc2_427/'>4476 [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_427/'>4476 [WORD_MISSING]</a>"
 topic: 
 first_letter: I/J
 xref: 
-see: "<a href='/New_Beehive/index1/index_0160/'>antipathy</a>"
+see: "<a href='/digital-beehive/index1/index_0160/'>antipathy</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2000'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1570,1485,763,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1570,1485,763,162/full/0/default.jpg
 label: incompatible
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -6,13 +6,13 @@ head:
 entry: Diet
 topic: Diet
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/New_Beehive/toc/toc2_100/'>359
+xref: "<a href='/digital-beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/digital-beehive/toc/toc2_100/'>359
   [Meat]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1047/'>diet</a>"
+index: "<a href='/digital-beehive/index1/index_1047/'>diet</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a44dc7143"
@@ -26,7 +26,7 @@ order: '232'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/399,3898,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/399,3898,3049,587/full/0/default.jpg
 label: Diet
-location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

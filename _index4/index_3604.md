@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index5/index_4625/'>Will worship</a>"
+see: "<a href='/digital-beehive/index5/index_4625/'>Will worship</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3604'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/448,464,719,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/448,464,719,121/full/0/default.jpg
 label: Self acting
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

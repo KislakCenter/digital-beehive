@@ -6,12 +6,12 @@ head:
 entry: Oil
 topic: Oil
 first_letter: O
-xref: "<a href='/New_Beehive/toc/toc2_353/'>1910 [Oil]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_353/'>1910 [Oil]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2779/'>oil</a>"
+index: "<a href='/digital-beehive/index4/index_2779/'>oil</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a229abb24"
@@ -24,7 +24,7 @@ order: '654'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,3043,354/full/0/default.jpg
 label: Oil
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

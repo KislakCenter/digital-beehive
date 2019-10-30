@@ -3,7 +3,7 @@ pid: index_0475
 volume: Volume 3
 image_number: '11'
 head: bunch
-entry: "<a href='/New_Beehive/toc/toc2_159/'>717 [Bossed]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>717 [Bossed]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '475'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,869,357,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,869,357,124/full/0/default.jpg
 label: bunch
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

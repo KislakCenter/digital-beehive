@@ -3,7 +3,7 @@ pid: index_3018
 volume: Volume 3
 image_number: '35'
 head: to pinch
-entry: "<a href='/New_Beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3018'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/full/0/default.jpg
 label: to pinch
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

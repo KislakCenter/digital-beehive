@@ -8,7 +8,7 @@ topic:
 first_letter: O
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_231/'>p.88 [Image 1.241]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_231/'>p.88 [Image 1.241]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2799'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/836,3327,713,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/836,3327,713,151/full/0/default.jpg
 label: onomast. Consid.
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_1943
 volume: Volume 3
 image_number: '25'
 head: Jews
-entry: "<a href='/New_Beehive/alpha3/alpha_0449/'>a</a>|<a href='/New_Beehive/toc/toc2_131/'>564
-  [Jews]</a>|<a href='/New_Beehive/toc/toc2_291/'>1487 [Jews]</a>|<a href='/New_Beehive/toc/toc2_368/'>2027
+entry: "<a href='/digital-beehive/alpha3/alpha_0449/'>a</a>|<a href='/digital-beehive/toc/toc2_131/'>564
+  [Jews]</a>|<a href='/digital-beehive/toc/toc2_291/'>1487 [Jews]</a>|<a href='/digital-beehive/toc/toc2_368/'>2027
   [Jew]</a>"
 topic: 
 first_letter: I/J
@@ -26,7 +26,7 @@ order: '1943'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,2389,675,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/160,2389,675,105/full/0/default.jpg
 label: Jews
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

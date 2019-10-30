@@ -6,12 +6,12 @@ head:
 entry: Salt
 topic: Salt
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_322/'>1640 [Salt]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_322/'>1640 [Salt]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3505/'>salt</a>"
+index: "<a href='/digital-beehive/index4/index_3505/'>salt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ea798e968"
@@ -24,7 +24,7 @@ order: '820'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,3035,397/full/0/default.jpg
 label: Salt
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

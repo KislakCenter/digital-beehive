@@ -3,7 +3,7 @@ pid: index_4515
 volume: Volume 3
 image_number: '52'
 head: Welch
-entry: "<a href='/New_Beehive/toc/toc2_113/'>451 [Welsh or Old Britan]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_113/'>451 [Welsh or Old Britan]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4515'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,951,373,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,951,373,118/full/0/default.jpg
 label: Welch
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

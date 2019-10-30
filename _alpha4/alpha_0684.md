@@ -6,13 +6,13 @@ head:
 entry: Patience
 topic: Patience
 first_letter: P
-xref: "[WORD_ILLEGIBLE]|<a href='/New_Beehive/alpha3/alpha_0460/'>Impat</a>|<a href='/New_Beehive/toc/toc2_122/'>509
-  [Patience]</a>"
+xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/alpha3/alpha_0460/'>Impat</a>|<a
+  href='/digital-beehive/toc/toc2_122/'>509 [Patience]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2918/'>patience</a>"
+index: "<a href='/digital-beehive/index4/index_2918/'>patience</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9387b1eed"
@@ -26,7 +26,7 @@ order: '684'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/298,1629,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/298,1629,3068,508/full/0/default.jpg
 label: Patience
-location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

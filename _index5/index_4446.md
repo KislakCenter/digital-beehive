@@ -3,7 +3,7 @@ pid: index_4446
 volume: Volume 3
 image_number: '51'
 head: usurpation
-entry: "<a href='/New_Beehive/toc/toc2_142/'>628 [Invasion]</a>|<a href='/New_Beehive/toc/toc2_361/'>1970
+entry: "<a href='/digital-beehive/toc/toc2_142/'>628 [Invasion]</a>|<a href='/digital-beehive/toc/toc2_361/'>1970
   [Usurpation]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4446'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/951,1608,714,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/951,1608,714,137/full/0/default.jpg
 label: usurpation
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

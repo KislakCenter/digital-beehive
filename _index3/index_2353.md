@@ -3,7 +3,7 @@ pid: index_2353
 volume: Volume 3
 image_number: '29'
 head: love potion
-entry: "<a href='/New_Beehive/alpha3/alpha_0558/'>a</a>|<a href='/New_Beehive/toc/toc2_319/'>1623
+entry: "<a href='/digital-beehive/alpha3/alpha_0558/'>a</a>|<a href='/digital-beehive/toc/toc2_319/'>1623
   [Love potions]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2353'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/full/0/default.jpg
 label: love potion
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,8 +3,8 @@ pid: index_3350
 volume: Volume 3
 image_number: '39'
 head: religion
-entry: "<a href='/New_Beehive/alpha4/alpha_0780/'>a</a>|<a href='/New_Beehive/toc/toc2_081/'>226
-  [Religion]</a>|<a href='/New_Beehive/toc/toc2_347/'>1809 [Religion]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0780/'>a</a>|<a href='/digital-beehive/toc/toc2_081/'>226
+  [Religion]</a>|<a href='/digital-beehive/toc/toc2_347/'>1809 [Religion]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -25,7 +25,7 @@ order: '3350'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/94,3226,652,182/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/94,3226,652,182/full/0/default.jpg
 label: religion
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

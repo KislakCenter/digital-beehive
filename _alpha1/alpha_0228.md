@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1034/'>devil</a>"
+index: "<a href='/digital-beehive/index1/index_1034/'>devil</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0d1928a70"
@@ -24,7 +24,7 @@ order: '228'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/370,2440,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/370,2440,3061,549/full/0/default.jpg
 label: Devil
-location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

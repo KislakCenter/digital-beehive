@@ -6,13 +6,13 @@ head:
 entry: Letters
 topic: Letters
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/New_Beehive/toc/toc2_236/'>1214
+xref: "<a href='/digital-beehive/toc/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/digital-beehive/toc/toc2_236/'>1214
   [Letters]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2265/'>letters</a>"
+index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
 insertion_xref: 
 insertion: 
 item: "#item-96d8869ae"
@@ -26,7 +26,7 @@ order: '529'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,3352,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,3352,3051,505/full/0/default.jpg
 label: Letters
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

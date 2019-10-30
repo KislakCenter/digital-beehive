@@ -9,7 +9,7 @@ first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index2/index_1795/'>hell</a>"
+add: "<a href='/digital-beehive/index2/index_1795/'>hell</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '1020'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1091,1938,559,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1091,1938,559,152/full/0/default.jpg
 label: to descend
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

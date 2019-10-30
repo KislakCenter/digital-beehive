@@ -3,8 +3,9 @@ pid: index_3611
 volume: Volume 3
 image_number: '42'
 head: Self dam[m]age
-entry: "<a href='/New_Beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>|862 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc/toc2_307/'>1562 [Self damage]</a>|4774 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>|862
+  [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_307/'>1562 [Self damage]</a>|4774
+  [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -26,7 +27,7 @@ order: '3611'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/full/0/default.jpg
 label: Self dam[m]age
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

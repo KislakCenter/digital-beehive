@@ -3,7 +3,7 @@ pid: index_3371
 volume: Volume 3
 image_number: '39'
 head: repentance late
-entry: "<a href='/New_Beehive/alpha4/alpha_0785/'>a</a>|<a href='/New_Beehive/toc/toc2_092/'>307
+entry: "<a href='/digital-beehive/alpha4/alpha_0785/'>a</a>|<a href='/digital-beehive/toc/toc2_092/'>307
   [Repentance]</a>|1885 [PAGE_MISSING]"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3371'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/full/0/default.jpg
 label: repentance late
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

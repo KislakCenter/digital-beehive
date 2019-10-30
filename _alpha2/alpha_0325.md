@@ -6,12 +6,12 @@ head:
 entry: First
 topic: First
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0074/'>Beginning</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0074/'>Beginning</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1459/'>first</a>"
+index: "<a href='/digital-beehive/index2/index_1459/'>first</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b922f4d19"
@@ -24,7 +24,7 @@ order: '325'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,3130,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,3130,3012,533/full/0/default.jpg
 label: First
-location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

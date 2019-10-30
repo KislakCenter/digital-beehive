@@ -6,12 +6,12 @@ head:
 entry: Night
 topic: Night
 first_letter: N
-xref: "<a href='/New_Beehive/toc/toc2_220/'>1131 [Night]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_220/'>1131 [Night]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2710/'>night</a>"
+index: "<a href='/digital-beehive/index3/index_2710/'>night</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1399c5577"
@@ -24,7 +24,7 @@ order: '636'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,2967,393/full/0/default.jpg
 label: Night
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

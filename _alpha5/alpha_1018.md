@@ -6,13 +6,13 @@ head:
 entry: Weapons of the apostolical warfare
 topic: Weapons of the apostolical warfare
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0388/'>Gun</a>|<a href='/New_Beehive/toc/toc2_228/'>1175
+xref: "<a href='/digital-beehive/alpha2/alpha_0388/'>Gun</a>|<a href='/digital-beehive/toc/toc2_228/'>1175
   [Weapons]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4501/'>weapons</a>"
+index: "<a href='/digital-beehive/index5/index_4501/'>weapons</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5f871b9e0"
@@ -26,7 +26,7 @@ order: '1018'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/821,1822,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/821,1822,2952,559/full/0/default.jpg
 label: Weapons of the apostolical warfare
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

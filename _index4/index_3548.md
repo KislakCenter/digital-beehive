@@ -3,7 +3,7 @@ pid: index_3548
 volume: Volume 3
 image_number: '41'
 head: schole fellows
-entry: "<a href='/New_Beehive/toc/toc2_277/'>1416 [Schoolfellow]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Schoolfellow]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3548'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/full/0/default.jpg
 label: schole fellows
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_2180
 volume: Volume 3
 image_number: '27'
 head: Kropf
-entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Wen]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Wen]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2180'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,2781,326,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,2781,326,122/full/0/default.jpg
 label: Kropf
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

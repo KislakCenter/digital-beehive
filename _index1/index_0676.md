@@ -3,7 +3,7 @@ pid: index_0676
 volume: Volume 3
 image_number: '13'
 head: citron
-entry: "<a href='/New_Beehive/toc/toc2_317/'>1614 [Citron]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1614 [Citron]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '676'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/155,2595,388,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/155,2595,388,104/full/0/default.jpg
 label: citron
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

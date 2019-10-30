@@ -3,7 +3,7 @@ pid: index_3591
 volume: Volume 3
 image_number: '41'
 head: seducing
-entry: "<a href='/New_Beehive/toc/toc2_224/'>1152 [Seducing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_224/'>1152 [Seducing]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3591'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/full/0/default.jpg
 label: seducing
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

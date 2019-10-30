@@ -3,7 +3,7 @@ pid: index_0920
 volume: Volume 3
 image_number: '15'
 head: crux ansata
-entry: "<a href='/New_Beehive/toc/toc2_241/'>1236 [Crux ansata]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_241/'>1236 [Crux ansata]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '920'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/839,2686,568,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/839,2686,568,116/full/0/default.jpg
 label: crux ansata
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

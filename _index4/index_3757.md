@@ -3,7 +3,7 @@ pid: index_3757
 volume: Volume 3
 image_number: '43'
 head: slowness
-entry: "<a href='/New_Beehive/alpha4/alpha_0879/'>a</a>|<a href='/New_Beehive/toc/toc2_211/'>1089
+entry: "<a href='/digital-beehive/alpha4/alpha_0879/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
   [Slow-footed]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3757'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/full/0/default.jpg
 label: slowness
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

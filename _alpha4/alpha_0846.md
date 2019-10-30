@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3625/'>Self praise</a>"
+index: "<a href='/digital-beehive/index4/index_3625/'>Self praise</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3e621f54a"
@@ -25,7 +25,7 @@ order: '846'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/316,3461,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/316,3461,3016,329/full/0/default.jpg
 label: Self praise
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

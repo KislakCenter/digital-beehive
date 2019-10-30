@@ -3,7 +3,7 @@ pid: index_3493
 volume: Volume 3
 image_number: '40'
 head: the said
-entry: "<a href='/New_Beehive/toc/toc2_086/'>263 [the said]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_086/'>263 [the said]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3493'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1818,2652,436,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1818,2652,436,120/full/0/default.jpg
 label: the said
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Hat
 topic: Hat
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_079/'>213 [Hat]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_079/'>213 [Hat]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1766/'>hat</a>"
+index: "<a href='/digital-beehive/index2/index_1766/'>hat</a>"
 insertion_xref: 
 insertion: 
 item: "#item-155fba134"
@@ -24,7 +24,7 @@ order: '399'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/357,1086,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/357,1086,3077,375/full/0/default.jpg
 label: Hat
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: L
 xref: 
-see: "<a href='/New_Beehive/index5/index_4144/'>thunder</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
+see: "<a href='/digital-beehive/index5/index_4144/'>thunder</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2289'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1850,285,567,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1850,285,567,173/full/0/default.jpg
 label: lightning
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_1328
 volume: Volume 3
 image_number: '19'
 head: examination
-entry: "<a href='/New_Beehive/alpha2/alpha_0293/'>a</a>|<a href='/New_Beehive/toc/toc2_277/'>1416
+entry: "<a href='/digital-beehive/alpha2/alpha_0293/'>a</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
   [To Examine]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1328'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/823,2351,710,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/823,2351,710,107/full/0/default.jpg
 label: examination
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

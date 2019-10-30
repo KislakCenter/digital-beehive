@@ -6,12 +6,12 @@ head:
 entry: Stomach
 topic: Stomach
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_380/'>2144 [Stomach]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_380/'>2144 [Stomach]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3911/'>stomach</a>"
+index: "<a href='/digital-beehive/index4/index_3911/'>stomach</a>"
 insertion_xref: 
 insertion: 
 item: "#item-655c7e5da"
@@ -24,7 +24,7 @@ order: '904'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,3040,568/full/0/default.jpg
 label: Stomach
-location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

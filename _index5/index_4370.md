@@ -3,7 +3,7 @@ pid: index_4370
 volume: Volume 3
 image_number: '50'
 head: undermost
-entry: "<a href='/New_Beehive/toc/toc2_082/'>231 [Low]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_082/'>231 [Low]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4370'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/408,2566,526,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/408,2566,526,83/full/0/default.jpg
 label: undermost
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,8 +3,8 @@ pid: index_2532
 volume: Volume 3
 image_number: '30'
 head: miracle
-entry: "<a href='/New_Beehive/alpha3/alpha_0593/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>243
-  [Miracles]</a>|<a href='/New_Beehive/toc/toc2_379/'>2134 [Miracle]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0593/'>a</a>|<a href='/digital-beehive/toc/toc2_083/'>243
+  [Miracles]</a>|<a href='/digital-beehive/toc/toc2_379/'>2134 [Miracle]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -25,7 +25,7 @@ order: '2532'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1833,3431,670,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1833,3431,670,114/full/0/default.jpg
 label: miracle
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

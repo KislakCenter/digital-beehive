@@ -3,7 +3,7 @@ pid: index_0661
 volume: Volume 3
 image_number: '13'
 head: church warden
-entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [Advocate]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Advocate]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '661'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/157,1398,465,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/157,1398,465,104/full/0/default.jpg
 label: church warden
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

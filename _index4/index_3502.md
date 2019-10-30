@@ -3,7 +3,7 @@ pid: index_3502
 volume: Volume 3
 image_number: '40'
 head: salique Law
-entry: "<a href='/New_Beehive/toc/toc2_338/'>1737 [Womens Imperiosness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_338/'>1737 [Womens Imperiosness]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3502'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,3508,582,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,3508,582,135/full/0/default.jpg
 label: salique Law
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

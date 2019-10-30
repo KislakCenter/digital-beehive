@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index2/index_1502/'>force</a>"
+see: "<a href='/digital-beehive/index2/index_1502/'>force</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '767'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/full/0/default.jpg
 label: compulsion
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

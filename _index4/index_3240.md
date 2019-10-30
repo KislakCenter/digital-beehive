@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index4/index_3055/'>pocket</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+see: "<a href='/digital-beehive/index4/index_3055/'>pocket</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3240'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/386,2257,717,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/386,2257,717,146/full/0/default.jpg
 label: purse
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: F
 xref: 
-see: "<a href='/New_Beehive/index1/index_0881/'>Courage</a>"
+see: "<a href='/digital-beehive/index1/index_0881/'>Courage</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1521'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/full/0/default.jpg
 label: fortitude
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

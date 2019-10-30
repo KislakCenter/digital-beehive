@@ -3,7 +3,7 @@ pid: index_1512
 volume: Volume 3
 image_number: '21'
 head: a fork
-entry: "<a href='/New_Beehive/toc/toc2_150/'>672 [A Fork]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [A Fork]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1512'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/207,2909,373,62/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/207,2909,373,62/full/0/default.jpg
 label: a fork
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

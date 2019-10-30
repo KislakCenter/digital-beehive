@@ -3,7 +3,7 @@ pid: index_2261
 volume: Volume 3
 image_number: '28'
 head: L'estrange
-entry: "<a href='/New_Beehive/toc/toc2_321/'>1633 [Lestrange]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_321/'>1633 [Lestrange]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2261'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1134,633,531,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1134,633,531,131/full/0/default.jpg
 label: L'estrange
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

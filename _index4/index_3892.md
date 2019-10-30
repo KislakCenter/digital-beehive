@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index3/index_2116/'>Iron</a>"
+see: "<a href='/digital-beehive/index3/index_2116/'>Iron</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3892'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/full/0/default.jpg
 label: steel
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

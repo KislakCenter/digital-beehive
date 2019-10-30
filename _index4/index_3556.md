@@ -3,12 +3,12 @@ pid: index_3556
 volume: Volume 3
 image_number: '41'
 head: scorpion
-entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Scorpion]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Scorpion]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3556'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/full/0/default.jpg
 label: scorpion
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

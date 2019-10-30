@@ -6,12 +6,12 @@ head:
 entry: Obstinacy
 topic: Obstinacy
 first_letter: O
-xref: "<a href='/New_Beehive/alpha2/alpha_0394/'>hardning</a>|<a href='/New_Beehive/alpha4/alpha_0848/'>Selfwilledness</a>|Stubbornness"
+xref: "<a href='/digital-beehive/alpha2/alpha_0394/'>hardning</a>|<a href='/digital-beehive/alpha4/alpha_0848/'>Selfwilledness</a>|Stubbornness"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2763/'>obstinacy</a>"
+index: "<a href='/digital-beehive/index4/index_2763/'>obstinacy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-54e99134f"
@@ -25,7 +25,7 @@ order: '648'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/296,819,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/296,819,3061,369/full/0/default.jpg
 label: Obstinacy
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

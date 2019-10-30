@@ -3,7 +3,7 @@ pid: index_1690
 volume: Volume 3
 image_number: '22'
 head: granaries
-entry: "<a href='/New_Beehive/toc/toc2_148/'>664 [Granaries]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Granaries]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1690'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1839,2221,457,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1839,2221,457,130/full/0/default.jpg
 label: granaries
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

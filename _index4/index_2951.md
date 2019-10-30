@@ -3,7 +3,7 @@ pid: index_2951
 volume: Volume 3
 image_number: '35'
 head: pentecost
-entry: "<a href='/New_Beehive/toc/toc2_166/'>891 [Pentecost]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [Pentecost]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2951'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/full/0/default.jpg
 label: pentecost
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

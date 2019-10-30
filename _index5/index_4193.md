@@ -3,12 +3,12 @@ pid: index_4193
 volume: Volume 3
 image_number: '48'
 head: top knot
-entry: "<a href='/New_Beehive/toc/toc2_423/'>4454 [Top knots]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Top knots]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4193'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/440,2945,664,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/440,2945,664,151/full/0/default.jpg
 label: top knot
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

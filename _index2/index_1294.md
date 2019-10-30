@@ -3,7 +3,7 @@ pid: index_1294
 volume: Volume 3
 image_number: '19'
 head: Erbpacht
-entry: "<a href='/New_Beehive/toc/toc2_099/'>352 [Erbpacht]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_099/'>352 [Erbpacht]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1294'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/120,2066,523,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/120,2066,523,149/full/0/default.jpg
 label: Erbpacht
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

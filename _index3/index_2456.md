@@ -24,7 +24,7 @@ order: '2456'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/full/0/default.jpg
 label: meal
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

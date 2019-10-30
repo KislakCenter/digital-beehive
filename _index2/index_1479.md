@@ -3,7 +3,7 @@ pid: index_1479
 volume: Volume 3
 image_number: '20'
 head: flesh
-entry: "<a href='/New_Beehive/alpha2/alpha_0330/'>a</a>|<a href='/New_Beehive/toc/toc2_124/'>522
+entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|<a href='/digital-beehive/toc/toc2_124/'>522
   [Flesh]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1479'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/full/0/default.jpg
 label: flesh
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_4185
 volume: Volume 3
 image_number: '48'
 head: too soon
-entry: "<a href='/New_Beehive/alpha5/alpha_0958/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0958/'>a</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4185'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/440,2054,420,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/440,2054,420,106/full/0/default.jpg
 label: too soon
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

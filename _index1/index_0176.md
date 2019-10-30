@@ -3,9 +3,9 @@ pid: index_0176
 volume: Volume 3
 image_number: '8'
 head: apparitions
-entry: "<a href='/New_Beehive/alpha1/alpha_0042/'>a</a>|<a href='/New_Beehive/toc/toc2_387/'>2218
-  [Apparitions]</a>|<a href='/New_Beehive/toc/toc2_256/'>1313 [Spectres]</a>|<a href='/New_Beehive/toc/toc2_315/'>1604
-  [Apparitions]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0042/'>a</a>|<a href='/digital-beehive/toc/toc2_387/'>2218
+  [Apparitions]</a>|<a href='/digital-beehive/toc/toc2_256/'>1313 [Spectres]</a>|<a
+  href='/digital-beehive/toc/toc2_315/'>1604 [Apparitions]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -27,7 +27,7 @@ order: '176'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1101,1266,712,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1101,1266,712,135/full/0/default.jpg
 label: apparitions
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

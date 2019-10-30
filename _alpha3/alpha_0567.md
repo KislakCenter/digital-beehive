@@ -6,13 +6,13 @@ head:
 entry: Man
 topic: Man
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0485/'>inward man</a>|<a href='/New_Beehive/toc/toc2_218/'>1124
+xref: "<a href='/digital-beehive/alpha3/alpha_0485/'>inward man</a>|<a href='/digital-beehive/toc/toc2_218/'>1124
   [Man]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2404/'>man</a>"
+index: "<a href='/digital-beehive/index3/index_2404/'>man</a>"
 insertion_xref: 
 insertion: 
 item: "#item-87610d91e"
@@ -25,7 +25,7 @@ order: '567'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/323,245,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/323,245,3092,840/full/0/default.jpg
 label: Man
-location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

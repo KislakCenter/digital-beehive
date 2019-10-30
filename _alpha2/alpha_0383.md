@@ -6,12 +6,12 @@ head:
 entry: Gratulation
 topic: Gratulation
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1699/'>gratulation</a>"
+index: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e07dea125"
@@ -24,7 +24,7 @@ order: '383'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,2961,435/full/0/default.jpg
 label: Gratulation
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

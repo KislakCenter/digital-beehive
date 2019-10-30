@@ -6,13 +6,13 @@ head:
 entry: Lie
 topic: Lie
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/New_Beehive/toc/toc2_122/'>513
+xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/digital-beehive/toc/toc2_122/'>513
   [Lies]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2281/'>lie</a>"
+index: "<a href='/digital-beehive/index3/index_2281/'>lie</a>"
 insertion_xref: 
 insertion: 
 item: "#item-17036b622"
@@ -26,7 +26,7 @@ order: '534'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,3014,703/full/0/default.jpg
 label: Lie
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

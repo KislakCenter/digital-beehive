@@ -3,7 +3,7 @@ pid: index_3948
 volume: Volume 3
 image_number: '45'
 head: Student
-entry: "<a href='/New_Beehive/alpha4/alpha_0913/'>a</a>|<a href='/New_Beehive/toc/toc2_262/'>1341
+entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/toc/toc2_262/'>1341
   [Student]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3948'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/905,3451,512,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/905,3451,512,127/full/0/default.jpg
 label: Student
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

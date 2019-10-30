@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: E
 xref: 
-see: "<a href='/New_Beehive/index2/index_1249/'>end</a>"
+see: "<a href='/digital-beehive/index2/index_1249/'>end</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1316'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/841,1067,492,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/841,1067,492,136/full/0/default.jpg
 label: event
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

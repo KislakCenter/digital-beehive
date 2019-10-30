@@ -3,7 +3,7 @@ pid: index_2997
 volume: Volume 3
 image_number: '35'
 head: physicians Names
-entry: "<a href='/New_Beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2997'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,3464,722,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,3464,722,165/full/0/default.jpg
 label: physicians Names
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

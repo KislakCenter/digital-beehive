@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index2/index_1274/'>enticing</a>"
+see: "<a href='/digital-beehive/index2/index_1274/'>enticing</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '101'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1715,501,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1715,501,144/full/0/default.jpg
 label: allure
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

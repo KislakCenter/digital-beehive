@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4716/'>Em (or Im)bossing</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4716/'>Em (or Im)bossing</a>"
 insertion: 
 item: "#item-9c59520af"
 unparsed: 'Type: Index|Insertion Xref: [:47.]|#item-9c59520af'
@@ -24,7 +24,7 @@ order: '1235'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1724,3268,165,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1724,3268,165,136/full/0/default.jpg
 label: "[:47.]"
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

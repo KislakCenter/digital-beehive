@@ -3,7 +3,7 @@ pid: index_0292
 volume: Volume 3
 image_number: '9'
 head: barber Surgeon
-entry: "<a href='/New_Beehive/alpha1/alpha_0060/'>a</a>|<a href='/New_Beehive/toc/toc2_171/'>917
+entry: "<a href='/digital-beehive/alpha1/alpha_0060/'>a</a>|<a href='/digital-beehive/toc/toc2_171/'>917
   [Surgery]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '292'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/905,2586,633,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/905,2586,633,135/full/0/default.jpg
 label: barber Surgeon
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

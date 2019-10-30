@@ -24,7 +24,7 @@ order: '241'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/179,919,614,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/179,919,614,119/full/0/default.jpg
 label: attonemt
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

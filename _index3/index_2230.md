@@ -3,7 +3,7 @@ pid: index_2230
 volume: Volume 3
 image_number: '28'
 head: laziness
-entry: "<a href='/New_Beehive/alpha3/alpha_0521/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0521/'>a</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2230'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,958,399,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,958,399,127/full/0/default.jpg
 label: laziness
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

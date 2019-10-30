@@ -3,7 +3,7 @@ pid: index_3314
 volume: Volume 3
 image_number: '38'
 head: rebus
-entry: "<a href='/New_Beehive/toc/toc2_084/'>250 [Embleme]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_084/'>250 [Embleme]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3314'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1834,2557,429,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1834,2557,429,139/full/0/default.jpg
 label: rebus
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

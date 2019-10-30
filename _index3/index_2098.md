@@ -3,7 +3,7 @@ pid: index_2098
 volume: Volume 3
 image_number: '26'
 head: inward
-entry: "<a href='/New_Beehive/toc/toc2_119/'>489 [Turn in!]</a>|<a href='/New_Beehive/toc/toc2_400/'>2281
+entry: "<a href='/digital-beehive/toc/toc2_119/'>489 [Turn in!]</a>|<a href='/digital-beehive/toc/toc2_400/'>2281
   [Turn in. Inward]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2098'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1871,1789,554,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1871,1789,554,134/full/0/default.jpg
 label: inward
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

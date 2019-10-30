@@ -3,12 +3,12 @@ pid: index_3919
 volume: Volume 3
 image_number: '45'
 head: stork
-entry: "<a href='/New_Beehive/alpha4/alpha_0906/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3919'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,500,394,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,500,394,130/full/0/default.jpg
 label: stork
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

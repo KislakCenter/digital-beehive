@@ -3,8 +3,8 @@ pid: index_3903
 volume: Volume 3
 image_number: '45'
 head: stile
-entry: "<a href='/New_Beehive/toc/toc2_126/'>537 [Terms in didascalia]</a>|<a href='/New_Beehive/toc/toc2_275/'>1406
-  [Lapidaria]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/toc/toc2_275/'>1406 [Lapidaria]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3903'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,2304,557,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,2304,557,149/full/0/default.jpg
 label: stile
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

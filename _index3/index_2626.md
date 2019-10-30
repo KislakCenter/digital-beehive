@@ -24,7 +24,7 @@ order: '2626'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1544,2612,443,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1544,2612,443,140/full/0/default.jpg
 label: mutual
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

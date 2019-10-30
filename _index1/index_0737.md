@@ -3,7 +3,7 @@ pid: index_0737
 volume: Volume 3
 image_number: '13'
 head: com[m]andmts
-entry: "<a href='/New_Beehive/alpha1/alpha_0158/'>a</a>|<a href='/New_Beehive/toc/toc2_202/'>1041
+entry: "<a href='/digital-beehive/alpha1/alpha_0158/'>a</a>|<a href='/digital-beehive/toc/toc2_202/'>1041
   [Com[m]andments]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '737'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,1788,596,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,1788,596,114/full/0/default.jpg
 label: com[m]andmts
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

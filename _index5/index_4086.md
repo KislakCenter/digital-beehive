@@ -3,8 +3,8 @@ pid: index_4086
 volume: Volume 3
 image_number: '47'
 head: temptation
-entry: "<a href='/New_Beehive/toc/toc2_124/'>525 [Temptation]</a>|<a href='/New_Beehive/toc/toc2_280/'>1435
-  [Temptation]</a>|<a href='/New_Beehive/toc/toc2_400/'>2283 [Free Will]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_124/'>525 [Temptation]</a>|<a href='/digital-beehive/toc/toc2_280/'>1435
+  [Temptation]</a>|<a href='/digital-beehive/toc/toc2_400/'>2283 [Free Will]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -26,7 +26,7 @@ order: '4086'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/161,2003,770,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/161,2003,770,110/full/0/default.jpg
 label: temptation
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

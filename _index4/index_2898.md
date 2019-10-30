@@ -3,7 +3,7 @@ pid: index_2898
 volume: Volume 3
 image_number: '34'
 head: 'partakers of oth: Sins'
-entry: "<a href='/New_Beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2898'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,3098,678,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,3098,678,146/full/0/default.jpg
 label: 'partakers of oth: Sins'
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

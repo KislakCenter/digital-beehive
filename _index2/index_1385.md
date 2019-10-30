@@ -3,7 +3,7 @@ pid: index_1385
 volume: Volume 3
 image_number: '20'
 head: Faith & Works
-entry: "<a href='/New_Beehive/toc/toc2_183/'>987 [Faith & Works]</a>|<a href='/New_Beehive/toc/toc2_434/'>4840
+entry: "<a href='/digital-beehive/toc/toc2_183/'>987 [Faith & Works]</a>|<a href='/digital-beehive/toc/toc2_434/'>4840
   [Faith and Works]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1385'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/344,1333,801,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/344,1333,801,134/full/0/default.jpg
 label: Faith & Works
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

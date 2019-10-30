@@ -3,7 +3,7 @@ pid: index_0054
 volume: Volume 3
 image_number: '7'
 head: "[AE]olus"
-entry: "<a href='/New_Beehive/toc/toc2_381/'>2160 [Wind]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_381/'>2160 [Wind]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '54'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1255,1251,354,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1255,1251,354,111/full/0/default.jpg
 label: "[AE]olus"
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

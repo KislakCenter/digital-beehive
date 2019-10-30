@@ -3,7 +3,7 @@ pid: index_4216
 volume: Volume 3
 image_number: '48'
 head: transform
-entry: "<a href='/New_Beehive/toc/toc2_146/'>650 [Transformation]</a>|<a href='/New_Beehive/toc/toc2_324/'>1650
+entry: "<a href='/digital-beehive/toc/toc2_146/'>650 [Transformation]</a>|<a href='/digital-beehive/toc/toc2_324/'>1650
   [Transmutation]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4216'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1116,2071,632,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1116,2071,632,145/full/0/default.jpg
 label: transform
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

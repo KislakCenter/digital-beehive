@@ -3,7 +3,7 @@ pid: index_1500
 volume: Volume 3
 image_number: '21'
 head: forbidden things
-entry: "<a href='/New_Beehive/alpha2/alpha_0338/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0338/'>a</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1500'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/165,1757,625,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/165,1757,625,124/full/0/default.jpg
 label: forbidden things
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

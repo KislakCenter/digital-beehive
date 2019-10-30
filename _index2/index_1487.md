@@ -3,7 +3,7 @@ pid: index_1487
 volume: Volume 3
 image_number: '21'
 head: to flow
-entry: "<a href='/New_Beehive/toc/toc2_151/'>678 [To flow]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_151/'>678 [To flow]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1487'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,275,559,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,275,559,102/full/0/default.jpg
 label: to flow
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

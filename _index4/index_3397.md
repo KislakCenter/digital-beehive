@@ -3,8 +3,8 @@ pid: index_3397
 volume: Volume 3
 image_number: '39'
 head: resurrection
-entry: "<a href='/New_Beehive/alpha4/alpha_0792/'>a</a>|<a href='/New_Beehive/toc/toc2_249/'>1277
-  [Resurrection]</a>|<a href='/New_Beehive/toc/toc2_391/'>2236 [Resurrection]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|<a href='/digital-beehive/toc/toc2_249/'>1277
+  [Resurrection]</a>|<a href='/digital-beehive/toc/toc2_391/'>2236 [Resurrection]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -25,7 +25,7 @@ order: '3397'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/full/0/default.jpg
 label: resurrection
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

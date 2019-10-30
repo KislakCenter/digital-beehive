@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: U/V
 xref: 
-see: perplex|<a href='/New_Beehive/index5/index_4248/'>trouble</a>
+see: perplex|<a href='/digital-beehive/index5/index_4248/'>trouble</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4323'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,371,740,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,371,740,158/full/0/default.jpg
 label: to vex
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

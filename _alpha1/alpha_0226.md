@@ -6,12 +6,12 @@ head:
 entry: Derision
 topic: Derision
 first_letter: D
-xref: jest|<a href='/New_Beehive/alpha4/alpha_0763/'>railing</a>|<a href='/New_Beehive/alpha4/alpha_0828/'>scorn</a>
+xref: jest|<a href='/digital-beehive/alpha4/alpha_0763/'>railing</a>|<a href='/digital-beehive/alpha4/alpha_0828/'>scorn</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1018/'>derision</a>"
+index: "<a href='/digital-beehive/index1/index_1018/'>derision</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9232756fa"
@@ -25,7 +25,7 @@ order: '226'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,3026,385/full/0/default.jpg
 label: Derision
-location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

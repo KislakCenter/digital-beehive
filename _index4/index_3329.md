@@ -3,7 +3,7 @@ pid: index_3329
 volume: Volume 3
 image_number: '39'
 head: redemption
-entry: "<a href='/New_Beehive/alpha4/alpha_0775/'>a</a>|<a href='/New_Beehive/toc/toc2_404/'>2306
+entry: "<a href='/digital-beehive/alpha4/alpha_0775/'>a</a>|<a href='/digital-beehive/toc/toc2_404/'>2306
   [Redemption]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3329'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/full/0/default.jpg
 label: redemption
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

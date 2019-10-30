@@ -6,12 +6,12 @@ head:
 entry: Hindrance
 topic: Hindrance
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
+xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1839/'>hinderance</a>"
+index: "<a href='/digital-beehive/index2/index_1839/'>hinderance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-526731c25"
@@ -25,7 +25,7 @@ order: '420'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/708,3722,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/708,3722,3030,580/full/0/default.jpg
 label: Hindrance
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

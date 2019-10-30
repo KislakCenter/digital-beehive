@@ -3,12 +3,12 @@ pid: index_3580
 volume: Volume 3
 image_number: '41'
 head: 4. seasons
-entry: "<a href='/New_Beehive/toc/toc2_403/'>2296 [Four Seasons]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_403/'>2296 [Four Seasons]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3580'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1224,742,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1224,742,136/full/0/default.jpg
 label: 4. seasons
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

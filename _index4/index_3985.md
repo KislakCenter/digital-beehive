@@ -3,7 +3,7 @@ pid: index_3985
 volume: Volume 3
 image_number: '46'
 head: sunday
-entry: "<a href='/New_Beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3985'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/full/0/default.jpg
 label: sunday
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

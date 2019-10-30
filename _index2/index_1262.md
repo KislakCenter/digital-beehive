@@ -3,7 +3,7 @@ pid: index_1262
 volume: Volume 3
 image_number: '18'
 head: English tongue
-entry: "<a href='/New_Beehive/toc/toc2_116/'>473 [English Tongue]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>473 [English Tongue]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1262'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1827,2086,501,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1827,2086,501,148/full/0/default.jpg
 label: English tongue
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

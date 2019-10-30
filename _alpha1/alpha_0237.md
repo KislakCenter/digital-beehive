@@ -6,14 +6,13 @@ head:
 entry: Discipline
 topic: Discipline
 first_letter: D
-xref: "<a href='/New_Beehive/alpha2/alpha_0273/'>ecclesiastical disc.</a>|<a href='/New_Beehive/alpha5/alpha_1011/'>martial
-  discipl.</a>|<a href='/New_Beehive/alpha4/alpha_0753/'>punishmt</a>|WORD_ILLEGIBLE|<a
-  href='/New_Beehive/alpha4/alpha_0787/'>Reproof</a>"
+xref: ecclesiastical disc|martial discipl|<a href='/digital-beehive/alpha4/alpha_0753/'>punishmt</a>|WORD_ILLEGIBLE|<a
+  href='/digital-beehive/alpha4/alpha_0787/'>Reproof</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1067/'>discipline</a>"
+index: "<a href='/digital-beehive/index1/index_1067/'>discipline</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a12735979"
@@ -27,7 +26,7 @@ order: '237'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/807,985,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/807,985,2972,520/full/0/default.jpg
 label: Discipline
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

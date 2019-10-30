@@ -3,7 +3,7 @@ pid: index_4160
 volume: Volume 3
 image_number: '47'
 head: tinder
-entry: "<a href='/New_Beehive/toc/toc2_081/'>229 [Tinder]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_081/'>229 [Tinder]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4160'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/full/0/default.jpg
 label: tinder
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

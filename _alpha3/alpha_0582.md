@@ -6,12 +6,12 @@ head:
 entry: Memory
 topic: Memory
 first_letter: M
-xref: "<a href='/New_Beehive/alpha2/alpha_0340/'>forgetfulness</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0340/'>forgetfulness</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2481/'>memory</a>"
+index: "<a href='/digital-beehive/index3/index_2481/'>memory</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7c5b22926"
@@ -25,7 +25,7 @@ order: '582'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/758,2028,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/758,2028,2978,663/full/0/default.jpg
 label: Memory
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

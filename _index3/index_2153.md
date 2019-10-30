@@ -3,7 +3,7 @@ pid: index_2153
 volume: Volume 3
 image_number: '27'
 head: kibes
-entry: "<a href='/New_Beehive/toc/toc2_242/'>1241 [Chilblain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_242/'>1241 [Chilblain]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2153'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/864,250,374,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/864,250,374,156/full/0/default.jpg
 label: kibes
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

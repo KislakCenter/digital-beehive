@@ -6,13 +6,13 @@ head:
 entry: Doctor
 topic: Doctor|Doctorship
 first_letter: D
-xref: "<a href='/New_Beehive/alpha3/alpha_0572/'>Master of Arts</a>|<a href='/New_Beehive/toc/toc2_179/'>964
+xref: "<a href='/digital-beehive/alpha3/alpha_0572/'>Master of Arts</a>|<a href='/digital-beehive/toc/toc2_179/'>964
   [Doctor]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1122/'>doctor</a>"
+index: "<a href='/digital-beehive/index1/index_1122/'>doctor</a>"
 insertion_xref: 
 insertion: 
 item: "#item-34ac490a3"
@@ -26,7 +26,7 @@ order: '254'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,3063,432/full/0/default.jpg
 label: Doctor
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

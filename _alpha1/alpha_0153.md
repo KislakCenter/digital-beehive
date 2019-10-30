@@ -6,12 +6,12 @@ head:
 entry: Comedy
 topic: Comedy
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_169/'>909 [Comedies]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_169/'>909 [Comedies]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0730/'>comedy</a>"
+index: "<a href='/digital-beehive/index1/index_0730/'>comedy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-778e80adc"
@@ -24,7 +24,7 @@ order: '153'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/823,3483,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/823,3483,3030,452/full/0/default.jpg
 label: Comedy
-location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

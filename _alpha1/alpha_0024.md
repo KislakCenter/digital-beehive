@@ -6,13 +6,13 @@ head:
 entry: Ambition
 topic: Ambition
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0721/'>Precedency</a>|<a href='/New_Beehive/toc/toc2_225/'>Xref:1156
+xref: "<a href='/digital-beehive/alpha4/alpha_0721/'>Precedency</a>|<a href='/digital-beehive/toc/toc2_225/'>Xref:1156
   [Ambition]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0122/'>ambition</a>"
+index: "<a href='/digital-beehive/index1/index_0122/'>ambition</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6c6b63904"
@@ -26,7 +26,7 @@ order: '24'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/800,4352,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/800,4352,2988,673/full/0/default.jpg
 label: Ambition
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

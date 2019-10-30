@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index3/index_2626/'>mutual</a>"
+see: "<a href='/digital-beehive/index3/index_2626/'>mutual</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '499'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/858,2999,744,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/858,2999,744,164/full/0/default.jpg
 label: by Course
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_2895
 volume: Volume 3
 image_number: '34'
 head: part
-entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_184/'>993 [Part]</a>
+entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_184/'>993 [Part]</a>
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2895'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/full/0/default.jpg
 label: part
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

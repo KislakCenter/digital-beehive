@@ -3,12 +3,12 @@ pid: index_1174
 volume: Volume 3
 image_number: '18'
 head: duty
-entry: "<a href='/New_Beehive/toc/toc2_240/'>1232 [Do what thou oughtst]</a>|<a href='/New_Beehive/toc/toc2_266/'>1362
-  [Duties of Believers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_240/'>1232 [Do what thou oughtst]</a>|<a
+  href='/digital-beehive/toc/toc2_266/'>1362 [Duties of Believers]</a>"
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index4/index_2774/'>office</a>"
+see: "<a href='/digital-beehive/index4/index_2774/'>office</a>"
 page: 
 add: 
 type: 
@@ -26,7 +26,7 @@ order: '1174'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/448,1047,729,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/448,1047,729,116/full/0/default.jpg
 label: duty
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

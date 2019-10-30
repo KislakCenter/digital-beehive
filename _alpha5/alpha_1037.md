@@ -6,12 +6,12 @@ head:
 entry: Womans wit
 topic: Womans wit
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_319/'>1622 [Womans Wit]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_319/'>1622 [Womans Wit]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4600/'>woman's wit</a>"
+index: "<a href='/digital-beehive/index5/index_4600/'>woman's wit</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b11b47a4f"
@@ -25,7 +25,7 @@ order: '1037'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,2914,321/full/0/default.jpg
 label: Womans wit
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

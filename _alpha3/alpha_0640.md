@@ -6,14 +6,14 @@ head:
 entry: Novelty
 topic: Novelty
 first_letter: N
-xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>|<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a
-  href='/New_Beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/New_Beehive/toc/toc2_124/'>524
+xref: "<a href='/digital-beehive/alpha1/alpha_0201/'>Curiosity</a>|<a href='/digital-beehive/alpha4/alpha_0776/'>Reformation</a>|<a
+  href='/digital-beehive/alpha1/alpha_0017/'>Alamode</a>|<a href='/digital-beehive/toc/toc2_124/'>524
   [Novelty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2742/'>novelty</a>"
+index: "<a href='/digital-beehive/index3/index_2742/'>novelty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-541931440"
@@ -27,7 +27,7 @@ order: '640'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/763,3028,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/763,3028,3007,494/full/0/default.jpg
 label: Novelty
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

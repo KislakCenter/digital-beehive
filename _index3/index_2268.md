@@ -3,7 +3,7 @@ pid: index_2268
 volume: Volume 3
 image_number: '28'
 head: Leviathan
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1920 [Leviathan]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1920 [Leviathan]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2268'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1123,1141,506,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1123,1141,506,99/full/0/default.jpg
 label: Leviathan
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

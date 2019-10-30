@@ -3,7 +3,7 @@ pid: index_2676
 volume: Volume 3
 image_number: '32'
 head: needless
-entry: "<a href='/New_Beehive/toc/toc2_242/'>1245 [Superfluous or Needless]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Superfluous or Needless]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2676'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/374,3306,508,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/374,3306,508,140/full/0/default.jpg
 label: needless
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

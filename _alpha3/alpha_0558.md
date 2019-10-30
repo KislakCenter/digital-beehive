@@ -6,12 +6,12 @@ head:
 entry: Love potions
 topic: Love potions
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_319/'>1623 [Love potions]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_319/'>1623 [Love potions]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2353/'>love potion</a>"
+index: "<a href='/digital-beehive/index3/index_2353/'>love potion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ef0dc7445"
@@ -25,7 +25,7 @@ order: '558'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/714,1621,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/714,1621,3051,542/full/0/default.jpg
 label: Love potions
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

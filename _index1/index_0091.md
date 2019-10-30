@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index4/index_3533/'>Scabine</a>"
+see: "<a href='/digital-beehive/index4/index_3533/'>Scabine</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '91'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/full/0/default.jpg
 label: alderman
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

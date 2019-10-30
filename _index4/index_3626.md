@@ -3,7 +3,7 @@ pid: index_3626
 volume: Volume 3
 image_number: '42'
 head: Self preservation
-entry: "<a href='/New_Beehive/toc/toc2_372/'>2069 [Selfpreservation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_372/'>2069 [Selfpreservation]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3626'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/full/0/default.jpg
 label: Self preservation
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

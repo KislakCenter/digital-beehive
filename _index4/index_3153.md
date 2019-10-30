@@ -3,7 +3,7 @@ pid: index_3153
 volume: Volume 3
 image_number: '37'
 head: pricking
-entry: "<a href='/New_Beehive/toc/toc2_152/'>684 [To prick]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_152/'>684 [To prick]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3153'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/full/0/default.jpg
 label: pricking
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

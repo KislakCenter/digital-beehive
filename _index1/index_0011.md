@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index5/index_4424/'>untimely</a>"
+see: "<a href='/digital-beehive/index5/index_4424/'>untimely</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '11'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/180,964,620,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/180,964,620,161/full/0/default.jpg
 label: aborsmt
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

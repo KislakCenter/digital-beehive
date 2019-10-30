@@ -3,7 +3,7 @@ pid: index_0163
 volume: Volume 3
 image_number: '8'
 head: antropomorphism
-entry: "<a href='/New_Beehive/toc/toc2_060/'>39 [Muggletonians]</a>|<a href='/New_Beehive/toc/toc2_204/'>1054
+entry: "<a href='/digital-beehive/toc/toc2_060/'>39 [Muggletonians]</a>|<a href='/digital-beehive/toc/toc2_204/'>1054
   [Muggletonians]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '163'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1114,238,692,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1114,238,692,117/full/0/default.jpg
 label: antropomorphism
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

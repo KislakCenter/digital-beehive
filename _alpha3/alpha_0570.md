@@ -6,12 +6,12 @@ head:
 entry: Martyr
 topic: Martyr
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_104/'>387 [Martyrs]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_104/'>387 [Martyrs]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2436/'>martyr</a>"
+index: "<a href='/digital-beehive/index3/index_2436/'>martyr</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d6b715c2b"
@@ -24,7 +24,7 @@ order: '570'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/347,2971,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/347,2971,3058,439/full/0/default.jpg
 label: Martyr
-location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

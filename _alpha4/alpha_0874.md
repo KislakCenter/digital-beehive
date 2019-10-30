@@ -6,12 +6,12 @@ head:
 entry: Skill
 topic: Skill
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0299/'>experience</a>|<a href='/New_Beehive/alpha3/alpha_0503/'>knowledge</a>|ability"
+xref: "<a href='/digital-beehive/alpha2/alpha_0299/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0503/'>knowledge</a>|ability"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3740/'>skill</a>"
+index: "<a href='/digital-beehive/index4/index_3740/'>skill</a>"
 insertion_xref: 
 insertion: 
 item: "#item-101189171"
@@ -25,7 +25,7 @@ order: '874'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,3029,324/full/0/default.jpg
 label: Skill
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

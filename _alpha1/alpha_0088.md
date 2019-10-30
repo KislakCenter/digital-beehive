@@ -6,12 +6,12 @@ head:
 entry: Blood-letting
 topic: Blood-letting
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_381/'>2158 [Blood-letting]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_381/'>2158 [Blood-letting]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0395/'>bloodletting</a>"
+index: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
 insertion_xref: 
 insertion: 
 item: "#item-dd06ebe15"
@@ -25,7 +25,7 @@ order: '88'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/384,2325,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/384,2325,3029,314/full/0/default.jpg
 label: Blood-letting
-location: "<a href='/New_Beehive/toc/toc1_427/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

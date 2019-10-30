@@ -6,12 +6,12 @@ head:
 entry: Tooth
 topic: Tooth
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_251/'>1286 [Tooth]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Tooth]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4190/'>tooth</a>"
+index: "<a href='/digital-beehive/index5/index_4190/'>tooth</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b808f22e1"
@@ -24,7 +24,7 @@ order: '959'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4253,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4253,2978,322/full/0/default.jpg
 label: Tooth
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

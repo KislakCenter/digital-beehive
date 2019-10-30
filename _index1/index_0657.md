@@ -3,7 +3,7 @@ pid: index_0657
 volume: Volume 3
 image_number: '13'
 head: chronology
-entry: "<a href='/New_Beehive/toc/toc2_195/'>1008 [Chronology]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_195/'>1008 [Chronology]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '657'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/146,999,578,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/146,999,578,166/full/0/default.jpg
 label: chronology
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

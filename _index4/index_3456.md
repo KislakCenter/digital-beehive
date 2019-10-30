@@ -3,7 +3,7 @@ pid: index_3456
 volume: Volume 3
 image_number: '40'
 head: to rot
-entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [To Rot]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Rot]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3456'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/full/0/default.jpg
 label: to rot
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

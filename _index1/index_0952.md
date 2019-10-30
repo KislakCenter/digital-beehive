@@ -3,7 +3,7 @@ pid: index_0952
 volume: Volume 3
 image_number: '15'
 head: David
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1582 [David]</a>|4751 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1582 [David]</a>|4751 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '952'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1532,1848,605,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1532,1848,605,84/full/0/default.jpg
 label: David
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

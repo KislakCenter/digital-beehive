@@ -6,12 +6,12 @@ head:
 entry: Self murder
 topic: Self murder
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_109/'>423 [self-murder]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_109/'>423 [self-murder]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3623/'>Self murder</a>"
+index: "<a href='/digital-beehive/index4/index_3623/'>Self murder</a>"
 insertion_xref: 
 insertion: 
 item: "#item-477bae7df"
@@ -24,7 +24,7 @@ order: '845'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/302,3243,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/302,3243,3020,288/full/0/default.jpg
 label: Self murder
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

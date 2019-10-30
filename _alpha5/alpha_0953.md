@@ -6,12 +6,12 @@ head:
 entry: Too little
 topic: Too little
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0539/'>littleness</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0539/'>littleness</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4180/'>too little</a>"
+index: "<a href='/digital-beehive/index5/index_4180/'>too little</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0d3530d71"
@@ -24,7 +24,7 @@ order: '953'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/327,2481,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/327,2481,3057,250/full/0/default.jpg
 label: Too little
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

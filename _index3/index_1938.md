@@ -3,8 +3,8 @@ pid: index_1938
 volume: Volume 3
 image_number: '25'
 head: jesting
-entry: "<a href='/New_Beehive/alpha3/alpha_0446/'>a</a>|<a href='/New_Beehive/toc/toc2_217/'>1119
-  [Jest]</a>|<a href='/New_Beehive/toc/toc2_422/'>4450 [Jest]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0446/'>a</a>|<a href='/digital-beehive/toc/toc2_217/'>1119
+  [Jest]</a>|<a href='/digital-beehive/toc/toc2_422/'>4450 [Jest]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -25,7 +25,7 @@ order: '1938'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/161,1789,635,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/161,1789,635,136/full/0/default.jpg
 label: jesting
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

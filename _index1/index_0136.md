@@ -3,7 +3,7 @@ pid: index_0136
 volume: Volume 3
 image_number: '8'
 head: anathema
-entry: "<a href='/New_Beehive/alpha1/alpha_0027/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0027/'>a</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '136'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/373,1289,507,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/373,1289,507,117/full/0/default.jpg
 label: anathema
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

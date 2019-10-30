@@ -3,7 +3,7 @@ pid: index_2402
 volume: Volume 3
 image_number: '29'
 head: Mamut
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1317 [Mamut]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Mamut]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2402'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/full/0/default.jpg
 label: Mamut
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

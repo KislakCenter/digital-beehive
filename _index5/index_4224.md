@@ -3,7 +3,7 @@ pid: index_4224
 volume: Volume 3
 image_number: '48'
 head: treacle
-entry: "<a href='/New_Beehive/toc/toc2_250/'>1281 [Treacle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1281 [Treacle]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4224'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1090,3209,470,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1090,3209,470,127/full/0/default.jpg
 label: treacle
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_2428
 volume: Volume 3
 image_number: '30'
 head: mark
-entry: "<a href='/New_Beehive/toc/toc2_166/'>892 [Mark]</a>|<a href='/New_Beehive/toc/toc2_201/'>1040
+entry: "<a href='/digital-beehive/toc/toc2_166/'>892 [Mark]</a>|<a href='/digital-beehive/toc/toc2_201/'>1040
   [Signs]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2428'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/414,224,527,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/414,224,527,135/full/0/default.jpg
 label: mark
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

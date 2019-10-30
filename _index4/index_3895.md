@@ -3,7 +3,7 @@ pid: index_3895
 volume: Volume 3
 image_number: '45'
 head: stepfather
-entry: "<a href='/New_Beehive/alpha4/alpha_0901/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0901/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3895'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
 label: stepfather
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

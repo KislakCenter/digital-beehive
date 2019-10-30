@@ -3,13 +3,13 @@ pid: index_2583
 volume: Volume 3
 image_number: '31'
 head: morning
-entry: "<a href='/New_Beehive/alpha3/alpha_0604/'>a</a>|<a href='/New_Beehive/toc/toc2_180/'>969
+entry: "<a href='/digital-beehive/alpha3/alpha_0604/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>969
   [morning]</a>|4540 [PAGE_MISSING]"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '2583'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/855,2053,844,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/855,2053,844,132/full/0/default.jpg
 label: morning
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

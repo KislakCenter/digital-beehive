@@ -3,7 +3,7 @@ pid: index_0997
 volume: Volume 3
 image_number: '16'
 head: deism
-entry: "<a href='/New_Beehive/toc/toc2_346/'>1796 [Deism]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_346/'>1796 [Deism]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '997'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/382,2766,397,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/382,2766,397,117/full/0/default.jpg
 label: deism
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

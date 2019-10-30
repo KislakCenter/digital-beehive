@@ -3,7 +3,7 @@ pid: index_2972
 volume: Volume 3
 image_number: '35'
 head: perswasion
-entry: "<a href='/New_Beehive/alpha4/alpha_0696/'>a</a>|<a href='/New_Beehive/toc/toc2_361/'>1969
+entry: "<a href='/digital-beehive/alpha4/alpha_0696/'>a</a>|<a href='/digital-beehive/toc/toc2_361/'>1969
   [Perswasion]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2972'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/815,858,663,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/815,858,663,183/full/0/default.jpg
 label: perswasion
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

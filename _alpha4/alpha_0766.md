@@ -6,13 +6,13 @@ head:
 entry: Rarity
 topic: Rarity
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0601/'>monster</a>|<a href='/New_Beehive/alpha2/alpha_0323/'>Fewness</a>|Obsolete|<a
-  href='/New_Beehive/toc/toc2_279/'>1429 [Rarity]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0601/'>monster</a>|<a href='/digital-beehive/alpha2/alpha_0323/'>Fewness</a>|Obsolete|<a
+  href='/digital-beehive/toc/toc2_279/'>1429 [Rarity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3293/'>rarity</a>"
+index: "<a href='/digital-beehive/index4/index_3293/'>rarity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d074add5b"
@@ -26,7 +26,7 @@ order: '766'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,2972,459/full/0/default.jpg
 label: Rarity
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

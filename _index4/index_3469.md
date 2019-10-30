@@ -3,7 +3,8 @@ pid: index_3469
 volume: Volume 3
 image_number: '40'
 head: rumor
-entry: 779 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>
+entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_392/'>2242 [Report &
+  hear-say]</a>
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +25,7 @@ order: '3469'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/full/0/default.jpg
 label: rumor
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

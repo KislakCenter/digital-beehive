@@ -6,12 +6,12 @@ head:
 entry: England
 topic: England
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_263/'>1347 [England]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_263/'>1347 [England]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1254/'>England</a>"
+index: "<a href='/digital-beehive/index2/index_1254/'>England</a>"
 insertion_xref: 
 insertion: 
 item: "#item-04417cb2f"
@@ -24,7 +24,7 @@ order: '282'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,3092,623/full/0/default.jpg
 label: England
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

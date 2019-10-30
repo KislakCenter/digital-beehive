@@ -3,7 +3,7 @@ pid: index_2128
 volume: Volume 3
 image_number: '27'
 head: Jubilee
-entry: "<a href='/New_Beehive/toc/toc2_114/'>463 [Jubilee]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_114/'>463 [Jubilee]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/full/0/default.jpg
 label: Jubilee
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

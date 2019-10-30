@@ -3,7 +3,7 @@ pid: index_0727
 volume: Volume 3
 image_number: '13'
 head: Columbus
-entry: "<a href='/New_Beehive/toc/toc2_099/'>353 [Columbus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_099/'>353 [Columbus]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '727'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,844,487,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,844,487,110/full/0/default.jpg
 label: Columbus
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

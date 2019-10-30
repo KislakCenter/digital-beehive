@@ -3,7 +3,7 @@ pid: index_2287
 volume: Volume 3
 image_number: '28'
 head: light nicknamed
-entry: "<a href='/New_Beehive/toc/toc2_060/'>40 [Light]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_060/'>40 [Light]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2287'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1116,3266,589,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1116,3266,589,122/full/0/default.jpg
 label: light nicknamed
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

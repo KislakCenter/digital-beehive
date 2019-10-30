@@ -3,7 +3,7 @@ pid: index_3646
 volume: Volume 3
 image_number: '42'
 head: servant & service
-entry: "<a href='/New_Beehive/alpha4/alpha_0851/'>a</a>|<a href='/New_Beehive/toc/toc2_240/'>1233
+entry: "<a href='/digital-beehive/alpha4/alpha_0851/'>a</a>|<a href='/digital-beehive/toc/toc2_240/'>1233
   [Servants]</a>|4553 [PAGE_MISSING]"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3646'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/full/0/default.jpg
 label: servant & service
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

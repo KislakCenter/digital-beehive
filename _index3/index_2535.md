@@ -3,7 +3,7 @@ pid: index_2535
 volume: Volume 3
 image_number: '31'
 head: mischief
-entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [Dammage]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_278/'>1422 [Dammage]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2535'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/165,336,702,197/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/165,336,702,197/full/0/default.jpg
 label: mischief
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

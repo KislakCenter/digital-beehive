@@ -3,7 +3,7 @@ pid: index_1278
 volume: Volume 3
 image_number: '19'
 head: Epictetus
-entry: "<a href='/New_Beehive/toc/toc2_204/'>1054 [Epictetus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_204/'>1054 [Epictetus]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1278'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/153,385,442,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/153,385,442,148/full/0/default.jpg
 label: Epictetus
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

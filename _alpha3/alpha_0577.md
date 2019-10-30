@@ -6,13 +6,13 @@ head:
 entry: Medicine
 topic: Medicine
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/New_Beehive/toc/toc2_149/'>665
+xref: "<a href='/digital-beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/digital-beehive/toc/toc2_149/'>665
   [Medicines]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2465/'>medicine</a>"
+index: "<a href='/digital-beehive/index3/index_2465/'>medicine</a>"
 insertion_xref: 
 insertion: 
 item: "#item-15f8415ce"
@@ -26,7 +26,7 @@ order: '577'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,3035,605/full/0/default.jpg
 label: Medicine
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

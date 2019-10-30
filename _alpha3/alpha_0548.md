@@ -6,13 +6,13 @@ head:
 entry: Losse
 topic: Losse
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0204/'>dam[m]age</a>|<a href='/New_Beehive/toc/toc2_224/'>1151
+xref: "<a href='/digital-beehive/alpha1/alpha_0204/'>dam[m]age</a>|<a href='/digital-beehive/toc/toc2_224/'>1151
   [Loss]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2335/'>loss</a>"
+index: "<a href='/digital-beehive/index3/index_2335/'>loss</a>"
 insertion_xref: 
 insertion: 
 item: "#item-87e1e9d3e"
@@ -25,7 +25,7 @@ order: '548'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/336,1516,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/336,1516,3060,643/full/0/default.jpg
 label: Losse
-location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

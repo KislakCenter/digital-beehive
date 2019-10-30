@@ -6,12 +6,12 @@ head:
 entry: Impossibility
 topic: Impossibility
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0713/'>Possibility</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0713/'>Possibility</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1974/'>impossible</a>"
+index: "<a href='/digital-beehive/index3/index_1974/'>impossible</a>"
 insertion_xref: 
 insertion: 
 item: "#item-dfaf3e8c6"
@@ -25,7 +25,7 @@ order: '463'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,2819,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,2819,2981,721/full/0/default.jpg
 label: Impossibility
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

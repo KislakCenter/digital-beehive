@@ -6,13 +6,13 @@ head:
 entry: University
 topic: University
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha4/alpha_0827/'>Schoole</a>|Professors|<a href='/New_Beehive/toc/toc2_168/'>902
+xref: "<a href='/digital-beehive/alpha4/alpha_0827/'>Schoole</a>|Professors|<a href='/digital-beehive/toc/toc2_168/'>902
   [University]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4394/'>universities</a>"
+index: "<a href='/digital-beehive/index5/index_4394/'>universities</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fb3f37194"
@@ -26,7 +26,7 @@ order: '994'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,2150,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,2150,2973,491/full/0/default.jpg
 label: University
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

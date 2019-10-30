@@ -3,7 +3,7 @@ pid: index_4241
 volume: Volume 3
 image_number: '48'
 head: trifles
-entry: "<a href='/New_Beehive/toc/toc2_076/'>199 [Toys]</a>|<a href='/New_Beehive/toc/toc2_233/'>1196
+entry: "<a href='/digital-beehive/toc/toc2_076/'>199 [Toys]</a>|<a href='/digital-beehive/toc/toc2_233/'>1196
   [Trifling]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4241'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1823,1644,487,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1823,1644,487,167/full/0/default.jpg
 label: trifles
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

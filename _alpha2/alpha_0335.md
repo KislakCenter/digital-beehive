@@ -6,13 +6,13 @@ head:
 entry: Fool
 topic: Fool
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|<a href='/New_Beehive/toc/toc2_225/'>1159
+xref: "<a href='/digital-beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|<a href='/digital-beehive/toc/toc2_225/'>1159
   [Folly]</a>"
 see: 
 page: 
 add: 
 type: 
-index: fool
+index: "<a href='/digital-beehive/index2/index_1496/'>fool & folly</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7fc3b2c36"
@@ -26,7 +26,7 @@ order: '335'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,3067,994/full/0/default.jpg
 label: Fool
-location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

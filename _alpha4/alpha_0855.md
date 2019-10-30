@@ -6,12 +6,12 @@ head:
 entry: Shame
 topic: Shame
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_117/'>478 [Shame]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_117/'>478 [Shame]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3660/'>shame</a>"
+index: "<a href='/digital-beehive/index4/index_3660/'>shame</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fcd85d2a0"
@@ -24,7 +24,7 @@ order: '855'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,3003,411/full/0/default.jpg
 label: Shame
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

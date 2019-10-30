@@ -6,13 +6,13 @@ head:
 entry: Light
 topic: Light
 first_letter: L
-xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc/toc2_130/'>562
+xref: "<a href='/digital-beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/digital-beehive/toc/toc2_130/'>562
   [Light]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2286/'>light</a>"
+index: "<a href='/digital-beehive/index3/index_2286/'>light</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8228fcea3"
@@ -25,7 +25,7 @@ order: '536'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/718,2066,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/718,2066,3022,753/full/0/default.jpg
 label: Light
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,8 +3,8 @@ pid: index_4260
 volume: Volume 3
 image_number: '49'
 head: try all things
-entry: "<a href='/New_Beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|<a href='/New_Beehive/toc/toc2_125/'>530
-  [Try all things]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|<a
+  href='/digital-beehive/toc/toc2_169/'>908 [Try all things]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -26,7 +26,7 @@ order: '4260'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/full/0/default.jpg
 label: try all things
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

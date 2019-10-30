@@ -6,12 +6,12 @@ head:
 entry: Unprofitable
 topic: Unprofitable
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Profit</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4409/'>unprofitable</a>"
+index: "<a href='/digital-beehive/index5/index_4409/'>unprofitable</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b19ce7f25"
@@ -24,7 +24,7 @@ order: '997'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,2943,437/full/0/default.jpg
 label: Unprofitable
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

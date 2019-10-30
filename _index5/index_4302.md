@@ -3,7 +3,7 @@ pid: index_4302
 volume: Volume 3
 image_number: '49'
 head: vault
-entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [a Vault]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>911 [a Vault]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4302'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/full/0/default.jpg
 label: vault
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

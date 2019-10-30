@@ -3,7 +3,7 @@ pid: index_4105
 volume: Volume 3
 image_number: '47'
 head: thanks
-entry: "<a href='/New_Beehive/alpha5/alpha_0940/'>a</a>|<a href='/New_Beehive/toc/toc2_220/'>1132
+entry: "<a href='/digital-beehive/alpha5/alpha_0940/'>a</a>|<a href='/digital-beehive/toc/toc2_220/'>1132
   [Gratitude]</a>|4623 [PAGE_MISSING]"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4105'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/907,433,644,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/907,433,644,98/full/0/default.jpg
 label: thanks
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

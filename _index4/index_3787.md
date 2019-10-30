@@ -3,8 +3,9 @@ pid: index_3787
 volume: Volume 3
 image_number: '43'
 head: solitude
-entry: "<a href='/New_Beehive/alpha4/alpha_0884/'>a</a>|<a href='/New_Beehive/toc/toc2_227/'>1170
-  [Solitude]</a>|<a href='/New_Beehive/toc/toc2_318/'>1617 [Solitude]</a>|4564 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0884/'>a</a>|<a href='/digital-beehive/toc/toc2_227/'>1170
+  [Solitude]</a>|<a href='/digital-beehive/toc/toc2_318/'>1617 [Solitude]</a>|4564
+  [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -26,7 +27,7 @@ order: '3787'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1587,3040,603,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1587,3040,603,172/full/0/default.jpg
 label: solitude
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

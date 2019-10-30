@@ -3,7 +3,7 @@ pid: index_3794
 volume: Volume 3
 image_number: '44'
 head: 'Son: sonship'
-entry: "<a href='/New_Beehive/alpha4/alpha_0885/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>311
+entry: "<a href='/digital-beehive/alpha4/alpha_0885/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>311
   [Sonship]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3794'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/466,594,599,89/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/466,594,599,89/full/0/default.jpg
 label: 'Son: sonship'
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

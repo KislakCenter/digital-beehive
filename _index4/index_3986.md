@@ -8,8 +8,8 @@ topic:
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/New_Beehive/toc_vol1/toc1_053/'>p.3
-  [Image 1.63]</a>|<a href='/New_Beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/digital-beehive/toc_vol1/toc1_053/'>p.3
+  [Image 1.63]</a>|<a href='/digital-beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '3986'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/full/0/default.jpg
 label: sundials
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

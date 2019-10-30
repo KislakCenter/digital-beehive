@@ -3,7 +3,7 @@ pid: index_0347
 volume: Volume 3
 image_number: '10'
 head: Bellarmine
-entry: "<a href='/New_Beehive/toc/toc2_346/'>1804 [Bellarmine]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_346/'>1804 [Bellarmine]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '347'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/372,1044,587,81/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/372,1044,587,81/full/0/default.jpg
 label: Bellarmine
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

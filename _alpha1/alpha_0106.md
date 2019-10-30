@@ -6,13 +6,13 @@ head:
 entry: Buffoonry
 topic: Buffoonry
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0446/'>Jesting</a>|<a href='/New_Beehive/toc/toc2_281/'>1436
+xref: "<a href='/digital-beehive/alpha3/alpha_0446/'>Jesting</a>|<a href='/digital-beehive/toc/toc2_281/'>1436
   [Buffoons]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0471/'>buffoonry</a>"
+index: "<a href='/digital-beehive/index1/index_0471/'>buffoonry</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8a3aacc79"
@@ -26,7 +26,7 @@ order: '106'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/851,3858,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/851,3858,2906,581/full/0/default.jpg
 label: Buffoonry
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -24,7 +24,7 @@ order: '4719'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1732,570,648,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1732,570,648,147/full/0/default.jpg
 label: Charon
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

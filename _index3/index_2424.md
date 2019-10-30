@@ -3,7 +3,7 @@ pid: index_2424
 volume: Volume 3
 image_number: '29'
 head: margent
-entry: "<a href='/New_Beehive/toc/toc2_304/'>1548 [Margent]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1548 [Margent]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2424'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3382,473,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3382,473,120/full/0/default.jpg
 label: margent
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

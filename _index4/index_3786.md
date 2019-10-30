@@ -3,7 +3,7 @@ pid: index_3786
 volume: Volume 3
 image_number: '43'
 head: Soli Deo Gloria
-entry: "<a href='/New_Beehive/toc/toc2_290/'>1484 [Soli deo gloria]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_290/'>1484 [Soli deo gloria]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3786'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/full/0/default.jpg
 label: Soli Deo Gloria
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

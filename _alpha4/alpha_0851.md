@@ -6,13 +6,13 @@ head:
 entry: Service
 topic: Service
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0573/'>Master</a>|<a href='/New_Beehive/toc/toc2_258/'>1322
+xref: "<a href='/digital-beehive/alpha3/alpha_0573/'>Master</a>|<a href='/digital-beehive/toc/toc2_258/'>1322
   [Capucins]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3646/'>servant & service</a>"
+index: "<a href='/digital-beehive/index4/index_3646/'>servant & service</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3513bb2bd"
@@ -26,7 +26,7 @@ order: '851'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/774,183,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/774,183,3043,451/full/0/default.jpg
 label: Service
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

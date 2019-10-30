@@ -3,7 +3,7 @@ pid: index_0666
 volume: Volume 3
 image_number: '13'
 head: chymist
-entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [Chymistry]</a>|<a href='/New_Beehive/toc/toc2_261/'>1340
+entry: "<a href='/digital-beehive/toc/toc2_155/'>700 [Chymistry]</a>|<a href='/digital-beehive/toc/toc2_261/'>1340
   [Chymistry]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '666'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/147,1733,574,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/147,1733,574,144/full/0/default.jpg
 label: chymist
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

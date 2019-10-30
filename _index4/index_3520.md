@@ -3,7 +3,7 @@ pid: index_3520
 volume: Volume 3
 image_number: '41'
 head: Sarah
-entry: "<a href='/New_Beehive/toc/toc2_351/'>1892 [Sarah]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_351/'>1892 [Sarah]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3520'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/full/0/default.jpg
 label: Sarah
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

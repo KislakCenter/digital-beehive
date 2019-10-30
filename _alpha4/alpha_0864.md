@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3699/'>siege</a>"
+index: "<a href='/digital-beehive/index4/index_3699/'>siege</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b678217f5"
@@ -24,7 +24,7 @@ order: '864'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,2902,321/full/0/default.jpg
 label: Siege
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

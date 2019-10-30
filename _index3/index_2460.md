@@ -3,7 +3,7 @@ pid: index_2460
 volume: Volume 3
 image_number: '30'
 head: measels
-entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Measels]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Measels]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2460'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/full/0/default.jpg
 label: measels
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

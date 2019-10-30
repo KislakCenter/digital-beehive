@@ -3,9 +3,9 @@ pid: index_1510
 volume: Volume 3
 image_number: '21'
 head: forgetfulness
-entry: "<a href='/New_Beehive/alpha2/alpha_0340/'>a</a>|<a href='/New_Beehive/toc/toc2_155/'>697
-  [Forgetfulness]</a>|<a href='/New_Beehive/toc/toc2_271/'>1388 [Forgetfulness]</a>|<a
-  href='/New_Beehive/toc/toc2_401/'>2287 [Forgetfulness]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0340/'>a</a>|<a href='/digital-beehive/toc/toc2_155/'>697
+  [Forgetfulness]</a>|<a href='/digital-beehive/toc/toc2_271/'>1388 [Forgetfulness]</a>|<a
+  href='/digital-beehive/toc/toc2_401/'>2287 [Forgetfulness]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -27,7 +27,7 @@ order: '1510'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,2638,795,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,2638,795,128/full/0/default.jpg
 label: forgetfulness
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

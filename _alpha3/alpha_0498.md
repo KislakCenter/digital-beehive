@@ -6,13 +6,13 @@ head:
 entry: King
 topic: King
 first_letter: K
-xref: "<a href='/New_Beehive/alpha4/alpha_0727/'>Prince</a>|<a href='/New_Beehive/alpha3/alpha_0598/'>Monarchy</a>|<a
-  href='/New_Beehive/toc/toc2_235/'>1207 [King]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0727/'>Prince</a>|<a href='/digital-beehive/alpha3/alpha_0598/'>Monarchy</a>|<a
+  href='/digital-beehive/toc/toc2_235/'>1207 [King]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2162/'>king</a>"
+index: "<a href='/digital-beehive/index3/index_2162/'>king</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a083a8567"
@@ -26,7 +26,7 @@ order: '498'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/337,2245,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/337,2245,3079,476/full/0/default.jpg
 label: King
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

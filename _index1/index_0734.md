@@ -3,8 +3,8 @@ pid: index_0734
 volume: Volume 3
 image_number: '13'
 head: comfort false
-entry: "<a href='/New_Beehive/alpha1/alpha_0156/'>a</a>|<a href='/New_Beehive/toc/toc2_299/'>1525
-  [False Comfort]</a>|<a href='/New_Beehive/toc/toc2_369/'>2036 [False Comfort]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0156/'>a</a>|<a href='/digital-beehive/toc/toc2_299/'>1525
+  [False Comfort]</a>|<a href='/digital-beehive/toc/toc2_369/'>2036 [False Comfort]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -26,7 +26,7 @@ order: '734'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,1544,695,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,1544,695,128/full/0/default.jpg
 label: comfort false
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

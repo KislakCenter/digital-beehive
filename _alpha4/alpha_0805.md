@@ -6,12 +6,12 @@ head:
 entry: Robbery
 topic: Robbery
 first_letter: R
-xref: Steal|<a href='/New_Beehive/toc/toc2_120/'>499 [Robbery]</a>
+xref: Steal|<a href='/digital-beehive/toc/toc2_120/'>499 [Robbery]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3438/'>robbery</a>"
+index: "<a href='/digital-beehive/index4/index_3438/'>robbery</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8f2a11623"
@@ -24,7 +24,7 @@ order: '805'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,3071,574/full/0/default.jpg
 label: Robbery
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

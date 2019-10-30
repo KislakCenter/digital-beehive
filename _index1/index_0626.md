@@ -3,7 +3,7 @@ pid: index_0626
 volume: Volume 3
 image_number: '12'
 head: chickens
-entry: "<a href='/New_Beehive/toc/toc2_206/'>1061 [Chickens]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_206/'>1061 [Chickens]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '626'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1832,1638,512,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1832,1638,512,119/full/0/default.jpg
 label: chickens
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

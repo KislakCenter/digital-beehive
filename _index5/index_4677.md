@@ -3,7 +3,7 @@ pid: index_4677
 volume: Volume 3
 image_number: '54'
 head: trespass
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1916 [Trespass]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1916 [Trespass]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4677'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/382,2096,556,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/382,2096,556,137/full/0/default.jpg
 label: trespass
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

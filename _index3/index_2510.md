@@ -7,7 +7,7 @@ entry: 765 [PAGE_MISSING]
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index3/index_2730/'>noon</a>"
+see: "<a href='/digital-beehive/index3/index_2730/'>noon</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2510'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1845,1201,652,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1845,1201,652,146/full/0/default.jpg
 label: midnight
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

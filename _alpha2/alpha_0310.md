@@ -6,13 +6,14 @@ head:
 entry: Fall
 topic: Fall
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0909/'>Strappado</a>|<a href='/New_Beehive/toc/toc2_058/'>10
-  [After high floods come low ebbs]</a>|<a href='/New_Beehive/toc/toc2_183/'>983 [Fall]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0909/'>Strappado</a>|<a href='/digital-beehive/toc/toc2_058/'>10
+  [After high floods come low ebbs]</a>|<a href='/digital-beehive/toc/toc2_183/'>983
+  [Fall]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1388/'>fall</a>"
+index: "<a href='/digital-beehive/index2/index_1388/'>fall</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ce4db9693"
@@ -26,7 +27,7 @@ order: '310'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/715,1785,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/715,1785,3050,479/full/0/default.jpg
 label: Fall
-location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

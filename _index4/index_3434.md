@@ -3,7 +3,7 @@ pid: index_3434
 volume: Volume 3
 image_number: '40'
 head: ripeness
-entry: "<a href='/New_Beehive/toc/toc2_139/'>612 [Ripeness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Ripeness]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3434'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
 label: ripeness
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

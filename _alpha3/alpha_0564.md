@@ -6,12 +6,12 @@ head:
 entry: Maimed
 topic: Maimed
 first_letter: M
-xref: "<a href='/New_Beehive/alpha5/alpha_1052/'>Wound</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1052/'>Wound</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2388/'>maimed</a>"
+index: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b9f70ee6e"
@@ -24,7 +24,7 @@ order: '564'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,2974,394/full/0/default.jpg
 label: Maimed
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

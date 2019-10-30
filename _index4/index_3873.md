@@ -3,7 +3,7 @@ pid: index_3873
 volume: Volume 3
 image_number: '44'
 head: to stagger
-entry: "<a href='/New_Beehive/toc/toc2_157/'>706 [to Stumble]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_157/'>706 [to Stumble]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3873'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1802,2637,561,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1802,2637,561,139/full/0/default.jpg
 label: to stagger
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

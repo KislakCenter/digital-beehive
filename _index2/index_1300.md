@@ -3,7 +3,7 @@ pid: index_1300
 volume: Volume 3
 image_number: '19'
 head: essay
-entry: "<a href='/New_Beehive/toc/toc2_143/'>633 [essay]</a>|4578 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_143/'>633 [essay]</a>|4578 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1300'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/full/0/default.jpg
 label: essay
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

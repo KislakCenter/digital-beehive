@@ -3,7 +3,7 @@ pid: index_1128
 volume: Volume 3
 image_number: '17'
 head: dolus bonus
-entry: "<a href='/New_Beehive/toc/toc2_284/'>1452 [good Guile]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [good Guile]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/809,3088,595,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/809,3088,595,113/full/0/default.jpg
 label: dolus bonus
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

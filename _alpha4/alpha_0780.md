@@ -6,13 +6,13 @@ head:
 entry: Religion
 topic: Religion
 first_letter: R
-xref: "<a href='/New_Beehive/alpha5/alpha_1049/'>Worship</a>|<a href='/New_Beehive/toc/toc2_081/'>226
+xref: "<a href='/digital-beehive/alpha5/alpha_1049/'>Worship</a>|<a href='/digital-beehive/toc/toc2_081/'>226
   [Religion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3350/'>religion</a>"
+index: "<a href='/digital-beehive/index4/index_3350/'>religion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4ae715664"
@@ -25,7 +25,7 @@ order: '780'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/781,4312,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/781,4312,2968,745/full/0/default.jpg
 label: Religion
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

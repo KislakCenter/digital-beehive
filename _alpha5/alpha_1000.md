@@ -6,12 +6,12 @@ head:
 entry: Untimely
 topic: Untimely
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha4/alpha_0649/'>Occasion</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0649/'>Occasion</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4424/'>untimely</a>"
+index: "<a href='/digital-beehive/index5/index_4424/'>untimely</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0e53a4bfe"
@@ -24,7 +24,7 @@ order: '1000'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,2877,454/full/0/default.jpg
 label: Untimely
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

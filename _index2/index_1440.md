@@ -3,12 +3,12 @@ pid: index_1440
 volume: Volume 3
 image_number: '20'
 head: fields
-entry: "<a href='/New_Beehive/toc/toc2_211/'>1089 [Fields]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_211/'>1089 [Fields]</a>"
 topic: 
 first_letter: F
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/New_Beehive/toc_vol1/toc1_081/'>p.31
+page: "<a href='/digital-beehive/toc_vol1/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/digital-beehive/toc_vol1/toc1_081/'>p.31
   [Image 1.91]</a>"
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '1440'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1094,2923,653,220/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1094,2923,653,220/full/0/default.jpg
 label: fields
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_0248
 volume: Volume 3
 image_number: '9'
 head: avoiding
-entry: "<a href='/New_Beehive/toc/toc2_159/'>719 [To Avoid]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [To Avoid]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '248'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/192,1330,461,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/192,1330,461,174/full/0/default.jpg
 label: avoiding
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

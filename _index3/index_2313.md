@@ -3,7 +3,7 @@ pid: index_2313
 volume: Volume 3
 image_number: '28'
 head: livery or badge
-entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2313'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/full/0/default.jpg
 label: livery or badge
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

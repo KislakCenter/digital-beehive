@@ -24,7 +24,7 @@ order: '3749'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/full/0/default.jpg
 label: Sleeve
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

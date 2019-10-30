@@ -6,12 +6,12 @@ head:
 entry: Hart
 topic: Hart
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0215/'>Deer</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0215/'>Deer</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1763/'>hart</a>"
+index: "<a href='/digital-beehive/index2/index_1763/'>hart</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7736252de"
@@ -24,7 +24,7 @@ order: '396'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,1487,136/full/0/default.jpg
 label: Hart
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

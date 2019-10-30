@@ -6,12 +6,12 @@ head:
 entry: Honey
 topic: Honey
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_352/'>1903 [Honey]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Honey]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1866/'>honey</a>"
+index: "<a href='/digital-beehive/index2/index_1866/'>honey</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f1c857c69"
@@ -24,7 +24,7 @@ order: '426'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,3124,469/full/0/default.jpg
 label: Honey
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

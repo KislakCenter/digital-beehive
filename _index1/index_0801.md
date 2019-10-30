@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index3/index_2023/'>indulgence</a>"
+see: "<a href='/digital-beehive/index3/index_2023/'>indulgence</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '801'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1067,851,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1067,851,154/full/0/default.jpg
 label: connivance
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0515
 volume: Volume 3
 image_number: '11'
 head: calumny
-entry: "<a href='/New_Beehive/toc/toc2_147/'>653 [Slander]</a>|<a href='/New_Beehive/toc/toc2_370/'>2050
+entry: "<a href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>|<a href='/digital-beehive/toc/toc2_370/'>2050
   [Slander]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '515'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1560,1099,679,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1560,1099,679,132/full/0/default.jpg
 label: calumny
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

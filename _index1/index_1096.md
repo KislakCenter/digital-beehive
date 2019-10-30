@@ -3,7 +3,7 @@ pid: index_1096
 volume: Volume 3
 image_number: '17'
 head: disregard
-entry: "<a href='/New_Beehive/toc/toc2_116/'>470 [Disregard]</a>|<a href='/New_Beehive/toc/toc2_427/'>4482
+entry: "<a href='/digital-beehive/toc/toc2_116/'>470 [Disregard]</a>|<a href='/digital-beehive/toc/toc2_427/'>4482
   [Disregard]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1096'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,3021,649,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,3021,649,141/full/0/default.jpg
 label: disregard
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

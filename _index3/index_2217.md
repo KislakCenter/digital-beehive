@@ -3,7 +3,7 @@ pid: index_2217
 volume: Volume 3
 image_number: '27'
 head: latin chimical
-entry: "<a href='/New_Beehive/toc/toc2_197/'>1020 [Chimical Latin]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_197/'>1020 [Chimical Latin]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2217'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1503,2916,548,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1503,2916,548,124/full/0/default.jpg
 label: latin chimical
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

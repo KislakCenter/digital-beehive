@@ -3,7 +3,7 @@ pid: index_4555
 volume: Volume 3
 image_number: '52'
 head: Pr. William
-entry: "<a href='/New_Beehive/toc/toc2_246/'>1262 [Prince Wm. of Orange]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_246/'>1262 [Prince Wm. of Orange]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4555'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/full/0/default.jpg
 label: Pr. William
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

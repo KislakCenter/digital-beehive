@@ -3,7 +3,7 @@ pid: index_1737
 volume: Volume 3
 image_number: '23'
 head: hail
-entry: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Hailstones]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_263/'>1346 [Hailstones]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1737'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/143,3384,363,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/143,3384,363,108/full/0/default.jpg
 label: hail
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

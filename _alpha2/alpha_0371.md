@@ -6,12 +6,12 @@ head:
 entry: Goodness
 topic: Goodness
 first_letter: G
-xref: "<a href='/New_Beehive/alpha1/alpha_0095/'>Bounty</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0095/'>Bounty</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1670/'>goodness</a>"
+index: "<a href='/digital-beehive/index2/index_1670/'>goodness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f0c950d14"
@@ -24,7 +24,7 @@ order: '371'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/339,1690,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/339,1690,3049,464/full/0/default.jpg
 label: Goodness
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Faintheartedness
 topic: Faintheartedness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/New_Beehive/toc/toc2_411/'>2366
+xref: "<a href='/digital-beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/digital-beehive/toc/toc2_411/'>2366
   [Fainthearted]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1379/'>fainthearted</a>"
+index: "<a href='/digital-beehive/index2/index_1379/'>fainthearted</a>"
 insertion_xref: 
 insertion: 
 item: "#item-335e81f7c"
@@ -26,7 +26,7 @@ order: '306'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,3024,546/full/0/default.jpg
 label: Faintheartedness
-location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

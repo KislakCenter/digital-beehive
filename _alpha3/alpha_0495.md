@@ -6,13 +6,13 @@ head:
 entry: Justice
 topic: Justice
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0289/'>Equity</a>|<a href='/New_Beehive/alpha3/alpha_0475/'>Injust</a>|<a
-  href='/New_Beehive/toc/toc2_267/'>1366 [Justice]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Equity</a>|<a href='/digital-beehive/alpha3/alpha_0475/'>Injust</a>|<a
+  href='/digital-beehive/toc/toc2_267/'>1366 [Justice]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2142/'>justice</a>"
+index: "<a href='/digital-beehive/index3/index_2142/'>justice</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b2e356724"
@@ -26,7 +26,7 @@ order: '495'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/269,665,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/269,665,3127,678/full/0/default.jpg
 label: Justice
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

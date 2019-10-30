@@ -3,11 +3,11 @@ pid: index_3076
 volume: Volume 3
 image_number: '36'
 head: populosity
-entry: "<a href='/New_Beehive/toc/toc2_207/'>1067 [Many]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_207/'>1067 [Many]</a>"
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index3/index_2421/'>many</a>"
+see: "<a href='/digital-beehive/index3/index_2421/'>many</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3076'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1192,948,754,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1192,948,754,158/full/0/default.jpg
 label: populosity
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

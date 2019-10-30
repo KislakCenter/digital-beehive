@@ -3,7 +3,7 @@ pid: index_0851
 volume: Volume 3
 image_number: '14'
 head: cork
-entry: "<a href='/New_Beehive/toc/toc2_134/'>585 [the Cork tree]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_134/'>585 [the Cork tree]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '851'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,2743,361,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,2743,361,107/full/0/default.jpg
 label: cork
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

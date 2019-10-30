@@ -3,7 +3,7 @@ pid: index_3480
 volume: Volume 3
 image_number: '40'
 head: Sacheverell
-entry: "<a href='/New_Beehive/toc/toc2_330/'>1677 [Sacheverell]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Sacheverell]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3480'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/full/0/default.jpg
 label: Sacheverell
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

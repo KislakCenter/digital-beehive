@@ -3,7 +3,7 @@ pid: index_3005
 volume: Volume 3
 image_number: '35'
 head: pietists
-entry: "<a href='/New_Beehive/toc/toc2_208/'>1073 [Pietism]</a>|<a href='/New_Beehive/toc/toc2_410/'>2356
+entry: "<a href='/digital-beehive/toc/toc2_208/'>1073 [Pietism]</a>|<a href='/digital-beehive/toc/toc2_410/'>2356
   [Pietism]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3005'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1507,894,663,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1507,894,663,111/full/0/default.jpg
 label: pietists
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

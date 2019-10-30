@@ -3,7 +3,7 @@ pid: index_2855
 volume: Volume 3
 image_number: '34'
 head: pain
-entry: "<a href='/New_Beehive/alpha4/alpha_0668/'>a</a>|<a href='/New_Beehive/toc/toc2_225/'>1158
+entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>|<a href='/digital-beehive/toc/toc2_225/'>1158
   [Pain]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2855'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/406,2588,578,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/406,2588,578,176/full/0/default.jpg
 label: pain
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

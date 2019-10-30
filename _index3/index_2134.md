@@ -3,7 +3,7 @@ pid: index_2134
 volume: Volume 3
 image_number: '27'
 head: judgmt
-entry: "<a href='/New_Beehive/alpha3/alpha_0493/'>a</a>|<a href='/New_Beehive/toc/toc2_200/'>1032
+entry: "<a href='/digital-beehive/alpha3/alpha_0493/'>a</a>|<a href='/digital-beehive/toc/toc2_200/'>1032
   [Judgmt]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2134'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/139,1837,524,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/139,1837,524,136/full/0/default.jpg
 label: judgmt
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

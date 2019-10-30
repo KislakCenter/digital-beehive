@@ -6,12 +6,12 @@ head:
 entry: Fate
 topic: Fate
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_242/'>1243 [Fate]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_242/'>1243 [Fate]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1413/'>fate</a>"
+index: "<a href='/digital-beehive/index2/index_1413/'>fate</a>"
 insertion_xref: 
 insertion: 
 item: "#item-60683e6ab"
@@ -24,7 +24,7 @@ order: '315'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,3017,355/full/0/default.jpg
 label: Fate
-location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

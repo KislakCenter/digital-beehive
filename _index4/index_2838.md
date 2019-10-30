@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: O
 xref: 
-see: "<a href='/New_Beehive/index5/index_4177/'>too hasty</a>"
+see: "<a href='/digital-beehive/index5/index_4177/'>too hasty</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2838'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,864,794,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,864,794,186/full/0/default.jpg
 label: overhasty
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

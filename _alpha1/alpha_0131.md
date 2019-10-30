@@ -6,14 +6,14 @@ head:
 entry: Caution
 topic: Caution
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0171/'>Considerateness</a>|<a href='/New_Beehive/alpha4/alpha_0749/'>Providence</a>|<a
-  href='/New_Beehive/alpha1/alpha_0007/'>Admonishing</a>|<a href='/New_Beehive/toc/toc2_297/'>1511
+xref: "<a href='/digital-beehive/alpha1/alpha_0171/'>Considerateness</a>|<a href='/digital-beehive/alpha4/alpha_0749/'>Providence</a>|<a
+  href='/digital-beehive/alpha1/alpha_0007/'>Admonishing</a>|<a href='/digital-beehive/toc/toc2_297/'>1511
   [Warning]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0572/'>caution</a>"
+index: "<a href='/digital-beehive/index1/index_0572/'>caution</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d220c7710"
@@ -27,7 +27,7 @@ order: '131'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/861,3712,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/861,3712,2949,487/full/0/default.jpg
 label: Caution
-location: "<a href='/New_Beehive/toc/toc1_430/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

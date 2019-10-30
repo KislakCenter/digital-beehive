@@ -6,13 +6,13 @@ head:
 entry: Soon
 topic: Soon
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>hast</a>|<a href='/New_Beehive/alpha5/alpha_0958/'>too
+xref: "<a href='/digital-beehive/alpha2/alpha_0398/'>hast</a>|<a href='/digital-beehive/alpha5/alpha_0958/'>too
   soon</a>|dispatch"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3796/'>soon</a>"
+index: "<a href='/digital-beehive/index4/index_3796/'>soon</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4adfacb54"
@@ -26,7 +26,7 @@ order: '886'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/766,2209,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/766,2209,2963,378/full/0/default.jpg
 label: Soon
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

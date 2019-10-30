@@ -3,7 +3,7 @@ pid: index_2385
 volume: Volume 3
 image_number: '29'
 head: Mahomet
-entry: "<a href='/New_Beehive/toc/toc2_251/'>1290 [Religion of Mahomet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_251/'>1290 [Religion of Mahomet]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2385'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/full/0/default.jpg
 label: Mahomet
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

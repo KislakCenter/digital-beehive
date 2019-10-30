@@ -6,14 +6,14 @@ head:
 entry: Happiness
 topic: Happiness
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0342/'>Fortune</a>|Success|Unhappiness|<a
-  href='/New_Beehive/toc/toc2_159/'>716 [unhappiness]</a>|<a href='/New_Beehive/toc/toc2_215/'>1106
+xref: "<a href='/digital-beehive/alpha2/alpha_0342/'>Fortune</a>|Success|Unhappiness|<a
+  href='/digital-beehive/toc/toc2_159/'>716 [unhappiness]</a>|<a href='/digital-beehive/toc/toc2_215/'>1106
   [happy]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1750/'>happiness</a>"
+index: "<a href='/digital-beehive/index2/index_1750/'>happiness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b5ca3c52d"
@@ -27,7 +27,7 @@ order: '392'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,3807,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,3807,2931,520/full/0/default.jpg
 label: Happiness
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

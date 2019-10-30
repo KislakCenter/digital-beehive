@@ -3,7 +3,7 @@ pid: index_0232
 volume: Volume 3
 image_number: '8'
 head: At last
-entry: "<a href='/New_Beehive/toc/toc2_173/'>928 [Last]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_173/'>928 [Last]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '232'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1813,3512,466,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1813,3512,466,114/full/0/default.jpg
 label: At last
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

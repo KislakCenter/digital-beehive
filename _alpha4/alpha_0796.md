@@ -6,12 +6,12 @@ head:
 entry: Revenge
 topic: Revenge
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_121/'>504 [Revenge]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_121/'>504 [Revenge]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3405/'>revenge</a>"
+index: "<a href='/digital-beehive/index4/index_3405/'>revenge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4e31ecb7b"
@@ -24,7 +24,7 @@ order: '796'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,1721,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,1721,2949,597/full/0/default.jpg
 label: Revenge
-location: "<a href='/New_Beehive/toc/toc2_038/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_0690
 volume: Volume 3
 image_number: '13'
 head: clemency
-entry: "<a href='/New_Beehive/toc/toc2_217/'>1120 [Clemency]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_217/'>1120 [Clemency]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '690'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/851,476,566,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/851,476,566,149/full/0/default.jpg
 label: clemency
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

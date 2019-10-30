@@ -6,13 +6,13 @@ head:
 entry: Grace
 topic: Grace
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/New_Beehive/toc/toc2_196/'>1014
+xref: "<a href='/digital-beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/digital-beehive/toc/toc2_196/'>1014
   [Grace]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1684/'>Grace</a>"
+index: "<a href='/digital-beehive/index2/index_1684/'>Grace</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d90660193"
@@ -25,7 +25,7 @@ order: '376'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/412,3352,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/412,3352,2978,425/full/0/default.jpg
 label: Grace
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

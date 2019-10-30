@@ -3,7 +3,7 @@ pid: index_2940
 volume: Volume 3
 image_number: '35'
 head: pedlars
-entry: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop keeper]</a>|<a href='/New_Beehive/toc/toc2_158/'>714
+entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop keeper]</a>|<a href='/digital-beehive/toc/toc2_158/'>714
   [Market]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2940'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/97,660,608,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/97,660,608,129/full/0/default.jpg
 label: pedlars
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

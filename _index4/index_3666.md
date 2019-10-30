@@ -3,7 +3,7 @@ pid: index_3666
 volume: Volume 3
 image_number: '42'
 head: sheath
-entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [a Sheath]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Sheath]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3666'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,3360,462,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,3360,462,137/full/0/default.jpg
 label: sheath
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

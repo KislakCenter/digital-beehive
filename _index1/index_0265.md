@@ -3,7 +3,7 @@ pid: index_0265
 volume: Volume 3
 image_number: '9'
 head: backbiting
-entry: "<a href='/New_Beehive/toc/toc2_102/'>375 [Backbiting]</a>|<a href='/New_Beehive/toc/toc2_422/'>4449
+entry: "<a href='/digital-beehive/toc/toc2_102/'>375 [Backbiting]</a>|<a href='/digital-beehive/toc/toc2_422/'>4449
   [Backbiting]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '265'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3290,699,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3290,699,130/full/0/default.jpg
 label: backbiting
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

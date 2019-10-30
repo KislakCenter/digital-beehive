@@ -3,7 +3,7 @@ pid: index_0708
 volume: Volume 3
 image_number: '13'
 head: coach
-entry: "<a href='/New_Beehive/toc/toc2_226/'>1162 [Carriage]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '708'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/873,2233,401,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/873,2233,401,141/full/0/default.jpg
 label: coach
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

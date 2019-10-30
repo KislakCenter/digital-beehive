@@ -3,11 +3,11 @@ pid: index_1727
 volume: Volume 3
 image_number: '23'
 head: guide
-entry: "<a href='/New_Beehive/toc/toc2_249/'>1280 [Leader]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_249/'>1280 [Leader]</a>"
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index3/index_2232/'>leader</a>"
+see: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1727'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2329,663,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2329,663,134/full/0/default.jpg
 label: guide
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_1108
 volume: Volume 3
 image_number: '17'
 head: distrust
-entry: "<a href='/New_Beehive/alpha1/alpha_0245/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0245/'>a</a>|1842 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1108'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/840,819,549,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/840,819,549,118/full/0/default.jpg
 label: distrust
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

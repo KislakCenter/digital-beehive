@@ -6,13 +6,13 @@ head:
 entry: Gratitude
 topic: Gratitude
 first_letter: G
-xref: "<a href='/New_Beehive/alpha5/alpha_0999/'>Unthankfullness</a>|<a href='/New_Beehive/alpha5/alpha_0940/'>thanks</a>|<a
-  href='/New_Beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0999/'>Unthankfullness</a>|<a href='/digital-beehive/alpha5/alpha_0940/'>thanks</a>|<a
+  href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1697/'>gratitude</a>"
+index: "<a href='/digital-beehive/index2/index_1697/'>gratitude</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6091f25b6"
@@ -26,7 +26,7 @@ order: '381'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,547,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,547,2986,586/full/0/default.jpg
 label: Gratitude
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

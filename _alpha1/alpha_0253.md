@@ -6,12 +6,12 @@ head:
 entry: Discharge
 topic: Discharge
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1065/'>discharge</a>"
+index: "<a href='/digital-beehive/index1/index_1065/'>discharge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-980f3a073"
@@ -24,7 +24,7 @@ order: '253'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,3014,176/full/0/default.jpg
 label: Discharge
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

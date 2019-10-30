@@ -3,7 +3,7 @@ pid: index_3770
 volume: Volume 3
 image_number: '43'
 head: snot
-entry: "<a href='/New_Beehive/toc/toc2_141/'>621 [Snot]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Snot]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3770'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1565,1183,378,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1565,1183,378,127/full/0/default.jpg
 label: snot
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

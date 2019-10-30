@@ -3,12 +3,12 @@ pid: index_1585
 volume: Volume 3
 image_number: '21'
 head: gates
-entry: "<a href='/New_Beehive/toc/toc2_141/'>621 [Door]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Door]</a>"
 topic: 
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_058/'>p.8 [Image 1.68]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_058/'>p.8 [Image 1.68]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1585'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1500,3012,586,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1500,3012,586,132/full/0/default.jpg
 label: gates
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

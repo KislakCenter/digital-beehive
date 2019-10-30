@@ -6,12 +6,12 @@ head:
 entry: Innocence
 topic: Innocence
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0753/'>punishmt</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0753/'>punishmt</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2052/'>innocence</a>"
+index: "<a href='/digital-beehive/index3/index_2052/'>innocence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-21351cd8c"
@@ -25,7 +25,7 @@ order: '477'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,3185,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,3185,3031,548/full/0/default.jpg
 label: Innocence
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

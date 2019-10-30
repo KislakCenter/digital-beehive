@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index2/index_1475/'>flax</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
+see: "<a href='/digital-beehive/index2/index_1475/'>flax</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3499'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1848,3167,607,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1848,3167,607,137/full/0/default.jpg
 label: salamander stone
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

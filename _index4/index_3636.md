@@ -3,8 +3,8 @@ pid: index_3636
 volume: Volume 3
 image_number: '42'
 head: sense
-entry: "<a href='/New_Beehive/alpha4/alpha_0849/'>a</a>|<a href='/New_Beehive/toc/toc2_181/'>971
-  [Senses]</a>|<a href='/New_Beehive/toc/toc2_371/'>2057 [Senses]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0849/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>971
+  [Senses]</a>|<a href='/digital-beehive/toc/toc2_371/'>2057 [Senses]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3636'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/full/0/default.jpg
 label: sense
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

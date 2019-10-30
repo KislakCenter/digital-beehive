@@ -6,12 +6,12 @@ head:
 entry: Tailor
 topic: Tailor
 first_letter: T
-xref: Seamster|to sell|<a href='/New_Beehive/toc/toc2_338/'>1733 [Tailor]</a>
+xref: Seamster|to sell|<a href='/digital-beehive/toc/toc2_338/'>1733 [Tailor]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4047/'>tailor</a>"
+index: "<a href='/digital-beehive/index5/index_4047/'>tailor</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5ba038f11"
@@ -25,7 +25,7 @@ order: '928'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,3116,395/full/0/default.jpg
 label: Tailor
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

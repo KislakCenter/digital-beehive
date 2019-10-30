@@ -3,8 +3,8 @@ pid: index_2225
 volume: Volume 3
 image_number: '28'
 head: lawsuit
-entry: 790 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_282/'>1445 [Law Suit]</a>|<a
-  href='/New_Beehive/toc/toc2_423/'>4451 [WORD_MISSING]</a>
+entry: 790 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_282/'>1445 [Law Suit]</a>|<a
+  href='/digital-beehive/toc/toc2_423/'>4451 [WORD_MISSING]</a>
 topic: 
 first_letter: L
 xref: 
@@ -26,7 +26,7 @@ order: '2225'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/full/0/default.jpg
 label: lawsuit
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

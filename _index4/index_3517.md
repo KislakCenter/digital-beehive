@@ -3,11 +3,11 @@ pid: index_3517
 volume: Volume 3
 image_number: '41'
 head: sanctification
-entry: "<a href='/New_Beehive/toc/toc2_184/'>990 [Holiness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_184/'>990 [Holiness]</a>"
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index2/index_1855/'>holiness</a>"
+see: "<a href='/digital-beehive/index2/index_1855/'>holiness</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3517'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/full/0/default.jpg
 label: sanctification
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

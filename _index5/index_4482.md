@@ -3,7 +3,7 @@ pid: index_4482
 volume: Volume 3
 image_number: '51'
 head: warts
-entry: "<a href='/New_Beehive/toc/toc2_261/'>1337 [Corns. Warts]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1337 [Corns. Warts]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4482'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/full/0/default.jpg
 label: warts
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

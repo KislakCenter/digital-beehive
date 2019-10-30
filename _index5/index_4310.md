@@ -3,7 +3,7 @@ pid: index_4310
 volume: Volume 3
 image_number: '49'
 head: Venice
-entry: "<a href='/New_Beehive/toc/toc2_111/'>440 [Venice]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_111/'>440 [Venice]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4310'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/full/0/default.jpg
 label: Venice
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

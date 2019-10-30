@@ -3,7 +3,7 @@ pid: index_0532
 volume: Volume 3
 image_number: '11'
 head: cap
-entry: "<a href='/New_Beehive/toc/toc2_337/'>1724 [Cap]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1724 [Cap]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '532'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,2668,366,79/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,2668,366,79/full/0/default.jpg
 label: cap
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

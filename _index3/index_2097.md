@@ -3,7 +3,7 @@ pid: index_2097
 volume: Volume 3
 image_number: '26'
 head: invocation of Saints
-entry: "<a href='/New_Beehive/toc/toc2_353/'>1906 [Invocation of Saints]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1906 [Invocation of Saints]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2097'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/full/0/default.jpg
 label: invocation of Saints
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

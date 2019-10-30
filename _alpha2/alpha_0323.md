@@ -6,12 +6,12 @@ head:
 entry: Fewness
 topic: Fewness
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0766/'>Rarity</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0766/'>Rarity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1438/'>fewness</a>"
+index: "<a href='/digital-beehive/index2/index_1438/'>fewness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5113dc0b5"
@@ -24,7 +24,7 @@ order: '323'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,2242,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,2242,2993,476/full/0/default.jpg
 label: Fewness
-location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Revelation
 topic: Revelation
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/New_Beehive/toc/toc2_107/'>409
-  [Vision]</a>|<a href='/New_Beehive/toc/toc2_179/'>960 [Revelation]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0453/'>illumination</a>|<a href='/digital-beehive/toc/toc2_107/'>409
+  [Vision]</a>|<a href='/digital-beehive/toc/toc2_179/'>960 [Revelation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3402/'>revelation</a>"
+index: "<a href='/digital-beehive/index4/index_3402/'>revelation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f56034c82"
@@ -26,7 +26,7 @@ order: '793'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/784,487,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/784,487,3027,715/full/0/default.jpg
 label: Revelation
-location: "<a href='/New_Beehive/toc/toc2_038/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

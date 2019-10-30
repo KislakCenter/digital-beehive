@@ -3,7 +3,7 @@ pid: index_4374
 volume: Volume 3
 image_number: '50'
 head: to undervalue
-entry: "<a href='/New_Beehive/toc/toc2_087/'>269 [Contempt]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_087/'>269 [Contempt]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4374'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/407,2960,659,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/407,2960,659,148/full/0/default.jpg
 label: to undervalue
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index2/index_1730/'>guilt</a>"
+see: "<a href='/digital-beehive/index2/index_1730/'>guilt</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '384'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,1765,541,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,1765,541,128/full/0/default.jpg
 label: blame
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

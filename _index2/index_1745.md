@@ -3,7 +3,7 @@ pid: index_1745
 volume: Volume 3
 image_number: '23'
 head: laying on of hands
-entry: "<a href='/New_Beehive/toc/toc2_116/'>475 [Laying on of hands]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>475 [Laying on of hands]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1745'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,659,634,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,659,634,111/full/0/default.jpg
 label: laying on of hands
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_0351
 volume: Volume 3
 image_number: '10'
 head: benum[m]b'd
-entry: "<a href='/New_Beehive/toc/toc2_428/'>4488 [Benumm'ed]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_428/'>4488 [Benumm'ed]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '351'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/377,1452,653,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/377,1452,653,115/full/0/default.jpg
 label: benum[m]b'd
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

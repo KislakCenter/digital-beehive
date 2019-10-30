@@ -6,13 +6,13 @@ head:
 entry: Trusting
 topic: Trusting
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0245/'>Distrust</a>|<a href='/New_Beehive/alpha4/alpha_0789/'>resignation</a>|<a
-  href='/New_Beehive/toc/toc2_159/'>719 [Confidence]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0245/'>Distrust</a>|<a href='/digital-beehive/alpha4/alpha_0789/'>resignation</a>|<a
+  href='/digital-beehive/toc/toc2_159/'>719 [Confidence]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4253/'>trusting</a>"
+index: "<a href='/digital-beehive/index5/index_4253/'>trusting</a>"
 insertion_xref: 
 insertion: 
 item: "#item-43928140f"
@@ -26,7 +26,7 @@ order: '971'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/837,3722,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/837,3722,2903,485/full/0/default.jpg
 label: Trusting
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

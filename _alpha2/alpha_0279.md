@@ -6,13 +6,13 @@ head:
 entry: Eloquence
 topic: Eloquence
 first_letter: E
-xref: "<a href='/New_Beehive/alpha2/alpha_0307/'>fair words</a>|<a href='/New_Beehive/toc/toc2_326/'>1659
+xref: "<a href='/digital-beehive/alpha2/alpha_0307/'>fair words</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
   [Eloquence]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1230/'>eloquence</a>"
+index: "<a href='/digital-beehive/index2/index_1230/'>eloquence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-eec917b43"
@@ -26,7 +26,7 @@ order: '279'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,3075,476/full/0/default.jpg
 label: Eloquence
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

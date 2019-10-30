@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index1/index_1093/'>displeasure</a>"
+see: "<a href='/digital-beehive/index1/index_1093/'>displeasure</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1084'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/154,1566,704,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/154,1566,704,153/full/0/default.jpg
 label: dislike
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

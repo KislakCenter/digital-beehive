@@ -6,12 +6,12 @@ head:
 entry: Rose
 topic: Rose
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_355/'>1928 [Rose]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_355/'>1928 [Rose]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3451/'>rose</a>"
+index: "<a href='/digital-beehive/index4/index_3451/'>rose</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f0b7d3d93"
@@ -24,7 +24,7 @@ order: '808'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1563,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1563,3058,284/full/0/default.jpg
 label: Rose
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_2857
 volume: Volume 3
 image_number: '34'
 head: a pair
-entry: "<a href='/New_Beehive/toc/toc2_096/'>332 [a Pair]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_096/'>332 [a Pair]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2857'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/421,2830,528,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/421,2830,528,164/full/0/default.jpg
 label: a pair
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,9 +3,9 @@ pid: index_2973
 volume: Volume 3
 image_number: '35'
 head: perverting
-entry: "<a href='/New_Beehive/toc/toc2_069/'>122 [Perverting]</a>|<a href='/New_Beehive/toc/toc2_088/'>279
-  [Perverting]</a>|<a href='/New_Beehive/toc/toc2_249/'>1278 [Perverting]</a>|<a href='/New_Beehive/toc/toc2_419/'>2429
-  [Perverting]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_069/'>122 [Perverting]</a>|<a href='/digital-beehive/toc/toc2_088/'>279
+  [Perverting]</a>|<a href='/digital-beehive/toc/toc2_249/'>1278 [Perverting]</a>|<a
+  href='/digital-beehive/toc/toc2_419/'>2429 [Perverting]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -27,7 +27,7 @@ order: '2973'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/823,1041,698,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/823,1041,698,159/full/0/default.jpg
 label: perverting
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

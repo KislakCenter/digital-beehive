@@ -3,7 +3,7 @@ pid: index_3865
 volume: Volume 3
 image_number: '44'
 head: spring. frühling
-entry: "<a href='/New_Beehive/alpha4/alpha_0897/'>a</a>|<a href='/New_Beehive/toc/toc2_339/'>1749
+entry: "<a href='/digital-beehive/alpha4/alpha_0897/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1749
   [Spring]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3865'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1831,1790,681,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1831,1790,681,137/full/0/default.jpg
 label: spring. frühling
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

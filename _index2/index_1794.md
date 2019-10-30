@@ -3,8 +3,8 @@ pid: index_1794
 volume: Volume 3
 image_number: '23'
 head: hell
-entry: "<a href='/New_Beehive/alpha2/alpha_0409/'>a</a>|<a href='/New_Beehive/toc/toc2_209/'>1076
-  [Hell]</a>|<a href='/New_Beehive/toc/toc2_360/'>1961 [Hell]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0409/'>a</a>|<a href='/digital-beehive/toc/toc2_209/'>1076
+  [Hell]</a>|<a href='/digital-beehive/toc/toc2_360/'>1961 [Hell]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1794'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1536,2142,513,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1536,2142,513,133/full/0/default.jpg
 label: hell
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

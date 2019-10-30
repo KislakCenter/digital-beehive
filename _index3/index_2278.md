@@ -3,7 +3,7 @@ pid: index_2278
 volume: Volume 3
 image_number: '28'
 head: license
-entry: "<a href='/New_Beehive/toc/toc2_131/'>565 [License]</a>|<a href='/New_Beehive/toc/toc2_428/'>4489
+entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>|<a href='/digital-beehive/toc/toc2_428/'>4489
   [License]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2278'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,2346,556,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,2346,556,149/full/0/default.jpg
 label: license
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

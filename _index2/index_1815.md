@@ -8,7 +8,7 @@ topic:
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1815'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/full/0/default.jpg
 label: hermaphrodite
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

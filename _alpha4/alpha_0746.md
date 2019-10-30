@@ -6,12 +6,12 @@ head:
 entry: Propriety
 topic: Propriety
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_367/'>2012 [Propriety]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_367/'>2012 [Propriety]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3203/'>propriety</a>"
+index: "<a href='/digital-beehive/index4/index_3203/'>propriety</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c9b87ff69"
@@ -24,7 +24,7 @@ order: '746'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/759,1791,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/759,1791,3027,475/full/0/default.jpg
 label: Propriety
-location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

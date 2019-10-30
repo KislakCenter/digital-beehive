@@ -6,12 +6,12 @@ head:
 entry: Day
 topic: Day
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_283/'>1447 [Day]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_283/'>1447 [Day]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0954/'>day</a>"
+index: "<a href='/digital-beehive/index1/index_0954/'>day</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e3053429e"
@@ -24,7 +24,7 @@ order: '208'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,3824,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,3824,3009,373/full/0/default.jpg
 label: Day
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

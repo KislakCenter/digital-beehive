@@ -3,7 +3,7 @@ pid: index_1200
 volume: Volume 3
 image_number: '18'
 head: ebbing & flowing
-entry: "<a href='/New_Beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1200'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/full/0/default.jpg
 label: ebbing & flowing
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

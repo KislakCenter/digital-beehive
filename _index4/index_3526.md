@@ -3,7 +3,7 @@ pid: index_3526
 volume: Volume 3
 image_number: '41'
 head: saviour
-entry: "<a href='/New_Beehive/alpha4/alpha_0822/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0822/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3526'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2156,411,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2156,411,110/full/0/default.jpg
 label: saviour
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

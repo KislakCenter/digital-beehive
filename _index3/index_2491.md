@@ -3,7 +3,7 @@ pid: index_2491
 volume: Volume 3
 image_number: '30'
 head: merit
-entry: "<a href='/New_Beehive/alpha3/alpha_0585/'>a</a>|<a href='/New_Beehive/toc/toc2_328/'>1667
+entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/toc/toc2_328/'>1667
   [Merit]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2491'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1103,2829,497,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1103,2829,497,93/full/0/default.jpg
 label: merit
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

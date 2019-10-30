@@ -3,7 +3,7 @@ pid: index_0114
 volume: Volume 3
 image_number: '7'
 head: although
-entry: "<a href='/New_Beehive/toc/toc2_087/'>270 [Although]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_087/'>270 [Although]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '114'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1583,2590,476,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1583,2590,476,167/full/0/default.jpg
 label: although
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_4414
 volume: Volume 3
 image_number: '51'
 head: unreasonable
-entry: "<a href='/New_Beehive/toc/toc2_171/'>919 [Absurd]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_171/'>919 [Absurd]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4414'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/215,844,605,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/215,844,605,160/full/0/default.jpg
 label: unreasonable
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

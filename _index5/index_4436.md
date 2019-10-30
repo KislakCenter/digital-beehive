@@ -3,7 +3,7 @@ pid: index_4436
 volume: Volume 3
 image_number: '51'
 head: to upbraid
-entry: "<a href='/New_Beehive/toc/toc2_103/'>386 [upbraid]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>386 [upbraid]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4436'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/948,558,506,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/948,558,506,129/full/0/default.jpg
 label: to upbraid
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

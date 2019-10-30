@@ -3,7 +3,7 @@ pid: index_3445
 volume: Volume 3
 image_number: '40'
 head: Rome
-entry: "<a href='/New_Beehive/alpha4/alpha_0807/'>a</a>|<a href='/New_Beehive/toc/toc2_283/'>1450
+entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1450
   [Rome]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3445'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/full/0/default.jpg
 label: Rome
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

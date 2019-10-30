@@ -3,7 +3,7 @@ pid: index_3335
 volume: Volume 3
 image_number: '39'
 head: refuge
-entry: "<a href='/New_Beehive/toc/toc2_070/'>133 [Refuge]</a>|<a href='/New_Beehive/toc/toc2_288/'>1473
+entry: "<a href='/digital-beehive/toc/toc2_070/'>133 [Refuge]</a>|<a href='/digital-beehive/toc/toc2_288/'>1473
   [Refuge]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3335'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/120,1545,550,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/120,1545,550,118/full/0/default.jpg
 label: refuge
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Laughter
 topic: Laughter
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>|<a href='/New_Beehive/toc/toc2_244/'>1254
+xref: "<a href='/digital-beehive/alpha1/alpha_0226/'>derision</a>|<a href='/digital-beehive/toc/toc2_244/'>1254
   [Laughter]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2221/'>laughter</a>"
+index: "<a href='/digital-beehive/index3/index_2221/'>laughter</a>"
 insertion_xref: 
 insertion: 
 item: "#item-565ae020d"
@@ -26,7 +26,7 @@ order: '518'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,2976,469/full/0/default.jpg
 label: Laughter
-location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

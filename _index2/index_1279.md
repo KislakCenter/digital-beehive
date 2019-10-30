@@ -3,7 +3,7 @@ pid: index_1279
 volume: Volume 3
 image_number: '19'
 head: epic poem
-entry: "<a href='/New_Beehive/toc/toc2_433/'>4826 [Epic (or narrative)]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_433/'>4826 [Epic (or narrative)]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1279'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/146,464,547,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/146,464,547,111/full/0/default.jpg
 label: epic poem
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

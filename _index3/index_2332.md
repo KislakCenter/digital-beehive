@@ -3,7 +3,7 @@ pid: index_2332
 volume: Volume 3
 image_number: '29'
 head: loquacity
-entry: "<a href='/New_Beehive/toc/toc2_110/'>430 [Babbling]</a>|<a href='/New_Beehive/toc/toc2_337/'>1728
+entry: "<a href='/digital-beehive/toc/toc2_110/'>430 [Babbling]</a>|<a href='/digital-beehive/toc/toc2_337/'>1728
   [Babbling]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2332'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/full/0/default.jpg
 label: loquacity
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

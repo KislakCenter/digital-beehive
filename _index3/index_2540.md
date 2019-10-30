@@ -3,7 +3,7 @@ pid: index_2540
 volume: Volume 3
 image_number: '31'
 head: misplaced love
-entry: "<a href='/New_Beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2540'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/192,921,640,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/192,921,640,100/full/0/default.jpg
 label: misplaced love
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

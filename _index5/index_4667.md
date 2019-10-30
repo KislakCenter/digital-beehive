@@ -3,7 +3,7 @@ pid: index_4667
 volume: Volume 3
 image_number: '54'
 head: mam[m]on
-entry: "<a href='/New_Beehive/toc/toc2_350/'>1829 [Mammon]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_350/'>1829 [Mammon]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4667'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/full/0/default.jpg
 label: mam[m]on
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_2728
 volume: Volume 3
 image_number: '32'
 head: nonsense
-entry: "<a href='/New_Beehive/toc/toc2_135/'>589 [Nonsense]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_135/'>589 [Nonsense]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2728'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,1589,473,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,1589,473,128/full/0/default.jpg
 label: nonsense
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

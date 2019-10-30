@@ -6,13 +6,13 @@ head:
 entry: Meat
 topic: Meat
 first_letter: M
-xref: "<a href='/New_Beehive/alpha2/alpha_0433/'>hotch potch</a>|<a href='/New_Beehive/toc/toc2_100/'>359
+xref: "<a href='/digital-beehive/alpha2/alpha_0433/'>hotch potch</a>|<a href='/digital-beehive/toc/toc2_100/'>359
   [Meat]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2462/'>meat</a>"
+index: "<a href='/digital-beehive/index3/index_2462/'>meat</a>"
 insertion_xref: 
 insertion: 
 item: "#item-59a688f54"
@@ -25,7 +25,7 @@ order: '575'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/385,4254,3001,425/full/0/default.jpg
 label: Meat
-location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

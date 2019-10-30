@@ -3,9 +3,9 @@ pid: index_1254
 volume: Volume 3
 image_number: '18'
 head: England
-entry: "<a href='/New_Beehive/alpha2/alpha_0282/'>a</a>|<a href='/New_Beehive/toc/toc2_263/'>1347
-  [England]</a>|<a href='/New_Beehive/toc/toc2_288/'>1473 [England]</a>|1840 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc/toc2_270/'>1381 [Great Britain]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0282/'>a</a>|<a href='/digital-beehive/toc/toc2_263/'>1347
+  [England]</a>|<a href='/digital-beehive/toc/toc2_288/'>1473 [England]</a>|1840 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_270/'>1381 [Great Britain]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -27,7 +27,7 @@ order: '1254'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,1442,745,208/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,1442,745,208/full/0/default.jpg
 label: England
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_2375
 volume: Volume 3
 image_number: '29'
 head: Machiavellus
-entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [Machiavellus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Machiavellus]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2375'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/full/0/default.jpg
 label: Machiavellus
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

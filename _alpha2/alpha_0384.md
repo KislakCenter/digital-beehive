@@ -6,12 +6,12 @@ head:
 entry: Grave
 topic: Grave
 first_letter: G
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>Burial</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1700/'>grave</a>"
+index: "<a href='/digital-beehive/index2/index_1700/'>grave</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e1efb75b2"
@@ -24,7 +24,7 @@ order: '384'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,2987,490/full/0/default.jpg
 label: Grave
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

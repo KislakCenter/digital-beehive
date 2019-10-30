@@ -3,7 +3,7 @@ pid: index_0846
 volume: Volume 3
 image_number: '14'
 head: coquets
-entry: "<a href='/New_Beehive/toc/toc2_430/'>4806 [Coquets]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4806 [Coquets]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '846'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1828,2463,488,82/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1828,2463,488,82/full/0/default.jpg
 label: coquets
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

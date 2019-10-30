@@ -3,7 +3,7 @@ pid: index_2236
 volume: Volume 3
 image_number: '28'
 head: lean[n]ess
-entry: "<a href='/New_Beehive/alpha3/alpha_0523/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>310
+entry: "<a href='/digital-beehive/alpha3/alpha_0523/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>310
   [Leanness]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2236'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/396,1644,505,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/396,1644,505,158/full/0/default.jpg
 label: lean[n]ess
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

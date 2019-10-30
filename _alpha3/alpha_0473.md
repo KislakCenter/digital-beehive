@@ -6,13 +6,13 @@ head:
 entry: Information
 topic: Information
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/New_Beehive/alpha1/alpha_0255/'>doctrine</a>|<a
-  href='/New_Beehive/toc/toc2_229/'>1176 [Inform]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/digital-beehive/alpha1/alpha_0255/'>doctrine</a>|<a
+  href='/digital-beehive/toc/toc2_229/'>1176 [Inform]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2038/'>information</a>"
+index: "<a href='/digital-beehive/index3/index_2038/'>information</a>"
 insertion_xref: 
 insertion: 
 item: "#item-aee722ed8"
@@ -26,7 +26,7 @@ order: '473'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,1358,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,1358,3019,480/full/0/default.jpg
 label: Information
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_2873
 volume: Volume 3
 image_number: '34'
 head: Paracelsus
-entry: "<a href='/New_Beehive/toc/toc2_181/'>974 [Paracelsus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_181/'>974 [Paracelsus]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2873'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/full/0/default.jpg
 label: Paracelsus
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

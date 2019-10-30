@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index5/index_4475/'>war</a>"
+see: "<a href='/digital-beehive/index5/index_4475/'>war</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2435'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/397,836,739,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/397,836,739,145/full/0/default.jpg
 label: martial discipline
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

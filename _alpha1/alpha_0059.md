@@ -6,14 +6,14 @@ head:
 entry: Baptism
 topic: Baptism
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/New_Beehive/alpha5/alpha_1012/'>Washing</a>|<a
-  href='/New_Beehive/toc/toc2_107/'>413 [Infant-baptism]</a>|<a href='/New_Beehive/toc/toc2_088/'>273
+xref: "<a href='/digital-beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/digital-beehive/alpha5/alpha_1012/'>Washing</a>|<a
+  href='/digital-beehive/toc/toc2_107/'>413 [Infant-baptism]</a>|<a href='/digital-beehive/toc/toc2_088/'>273
   [Baptism]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0289/'>baptism</a>"
+index: "<a href='/digital-beehive/index1/index_0289/'>baptism</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b6dca95d2"
@@ -27,7 +27,7 @@ order: '59'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/355,1655,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/355,1655,3066,697/full/0/default.jpg
 label: Baptism
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

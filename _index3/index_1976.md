@@ -3,7 +3,7 @@ pid: index_1976
 volume: Volume 3
 image_number: '25'
 head: impotency
-entry: "<a href='/New_Beehive/toc/toc2_096/'>334 [Impotency]</a>|<a href='/New_Beehive/toc/toc2_350/'>1833
+entry: "<a href='/digital-beehive/toc/toc2_096/'>334 [Impotency]</a>|<a href='/digital-beehive/toc/toc2_350/'>1833
   [Impotency]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1976'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/845,2361,677,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/845,2361,677,121/full/0/default.jpg
 label: impotency
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,8 +3,8 @@ pid: index_1634
 volume: Volume 3
 image_number: '22'
 head: church governmt
-entry: "<a href='/New_Beehive/toc/toc2_106/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/New_Beehive/toc/toc2_314/'>1600 [Church Discipline]</a>|<a href='/New_Beehive/toc/toc2_347/'>1808
+entry: "<a href='/digital-beehive/toc/toc2_106/'>402 [Order & Discipline in the Church]</a>|<a
+  href='/digital-beehive/toc/toc2_314/'>1600 [Church Discipline]</a>|<a href='/digital-beehive/toc/toc2_347/'>1808
   [Church Governmt]</a>"
 topic: 
 first_letter: G
@@ -27,7 +27,7 @@ order: '1634'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/full/0/default.jpg
 label: church governmt
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_1960
 volume: Volume 3
 image_number: '25'
 head: imitation
-entry: "<a href='/New_Beehive/alpha3/alpha_0457/'>a</a>|<a href='/New_Beehive/toc/toc2_094/'>317
+entry: "<a href='/digital-beehive/alpha3/alpha_0457/'>a</a>|<a href='/digital-beehive/toc/toc2_094/'>317
   [Imitation]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1960'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/868,765,596,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/868,765,596,90/full/0/default.jpg
 label: imitation
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

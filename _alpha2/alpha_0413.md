@@ -6,12 +6,12 @@ head:
 entry: Herb
 topic: Herb
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_150/'>672 [Herbs]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_150/'>672 [Herbs]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1807/'>herb</a>"
+index: "<a href='/digital-beehive/index2/index_1807/'>herb</a>"
 insertion_xref: 
 insertion: 
 item: "#item-df285cbfd"
@@ -24,7 +24,7 @@ order: '413'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,2964,442/full/0/default.jpg
 label: Herb
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

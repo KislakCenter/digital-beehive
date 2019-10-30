@@ -3,7 +3,7 @@ pid: index_3220
 volume: Volume 3
 image_number: '37'
 head: publick good
-entry: "<a href='/New_Beehive/toc/toc2_254/'>1304 [Publick good]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_254/'>1304 [Publick good]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3220'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/full/0/default.jpg
 label: publick good
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

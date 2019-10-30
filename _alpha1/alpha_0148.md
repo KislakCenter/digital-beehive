@@ -6,12 +6,12 @@ head:
 entry: Circumcision
 topic: Circumcision
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_314/'>1599 [Circumsion]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_314/'>1599 [Circumsion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0672/'>circumcision</a>"
+index: "<a href='/digital-beehive/index1/index_0672/'>circumcision</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e3e7fb1e1"
@@ -24,7 +24,7 @@ order: '148'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,3026,425/full/0/default.jpg
 label: Circumcision
-location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

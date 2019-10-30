@@ -3,14 +3,14 @@ pid: index_2368
 volume: Volume 3
 image_number: '29'
 head: lust
-entry: "<a href='/New_Beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0778/'>Concup</a>|<a href='/New_Beehive/index3/index_2202/'>lasciv</a>|<a
-  href='/New_Beehive/index4/index_3043/'>pleasure</a>|<a href='/New_Beehive/index2/index_1373/'>eye</a>"
+add: "<a href='/digital-beehive/index1/index_0778/'>Concup</a>|<a href='/digital-beehive/index3/index_2202/'>lasciv</a>|<a
+  href='/digital-beehive/index4/index_3043/'>pleasure</a>|<a href='/digital-beehive/index2/index_1373/'>eye</a>"
 type: 
 index: 
 insertion_xref: 
@@ -26,7 +26,7 @@ order: '2368'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/full/0/default.jpg
 label: lust
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

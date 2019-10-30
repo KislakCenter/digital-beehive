@@ -3,7 +3,7 @@ pid: index_4012
 volume: Volume 3
 image_number: '46'
 head: to sustain
-entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [To maintain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4012'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/full/0/default.jpg
 label: to sustain
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

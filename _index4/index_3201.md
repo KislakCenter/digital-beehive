@@ -3,7 +3,7 @@ pid: index_3201
 volume: Volume 3
 image_number: '37'
 head: proportion
-entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Proportion]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_171/'>916 [Proportion]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3201'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,1173,547,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,1173,547,129/full/0/default.jpg
 label: proportion
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

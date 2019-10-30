@@ -3,7 +3,7 @@ pid: index_2741
 volume: Volume 3
 image_number: '32'
 head: notwithstanding
-entry: "<a href='/New_Beehive/toc/toc2_181/'>973 [Not withstanding]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_181/'>973 [Not withstanding]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2741'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/full/0/default.jpg
 label: notwithstanding
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

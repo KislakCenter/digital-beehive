@@ -3,7 +3,7 @@ pid: index_0030
 volume: Volume 3
 image_number: '7'
 head: accustoming
-entry: "<a href='/New_Beehive/toc/toc2_069/'>127 [Accustoming]</a>|<a href='/New_Beehive/toc/toc2_174/'>934
+entry: "<a href='/digital-beehive/toc/toc2_069/'>127 [Accustoming]</a>|<a href='/digital-beehive/toc/toc2_174/'>934
   [Accustoming]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '30'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,2697,703,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,2697,703,172/full/0/default.jpg
 label: accustoming
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_2925
 volume: Volume 3
 image_number: '34'
 head: pattern
-entry: "<a href='/New_Beehive/toc/toc2_090/'>290 [for Example]</a>|<a href='/New_Beehive/toc/toc2_319/'>1625
+entry: "<a href='/digital-beehive/toc/toc2_090/'>290 [for Example]</a>|<a href='/digital-beehive/toc/toc2_319/'>1625
   [Example]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2925'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/full/0/default.jpg
 label: pattern
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

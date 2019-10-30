@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_4015/'>Swan</a>"
+index: "<a href='/digital-beehive/index4/index_4015/'>Swan</a>"
 insertion_xref: 
 insertion: 
 item: "#item-40ca2f920"
@@ -24,7 +24,7 @@ order: '925'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,1413,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,1413,3050,198/full/0/default.jpg
 label: Swan
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

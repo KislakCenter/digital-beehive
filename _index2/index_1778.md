@@ -3,7 +3,7 @@ pid: index_1778
 volume: Volume 3
 image_number: '23'
 head: drinking of health
-entry: "<a href='/New_Beehive/alpha2/alpha_0403/'>a</a>|<a href='/New_Beehive/toc/toc2_274/'>1403
+entry: "<a href='/digital-beehive/alpha2/alpha_0403/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1403
   [Drinking of healths]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1778'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/full/0/default.jpg
 label: drinking of health
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

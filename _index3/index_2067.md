@@ -3,7 +3,7 @@ pid: index_2067
 volume: Volume 3
 image_number: '26'
 head: inspiration
-entry: "<a href='/New_Beehive/toc/toc2_166/'>893 [Inspiration]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_166/'>893 [Inspiration]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2067'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1782,521,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1782,521,139/full/0/default.jpg
 label: inspiration
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

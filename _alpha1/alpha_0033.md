@@ -6,13 +6,13 @@ head:
 entry: AntiChrist
 topic: AntiChrist
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/New_Beehive/toc/toc2_168/'>905
+xref: "<a href='/digital-beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/digital-beehive/toc/toc2_168/'>905
   [AntiChrist]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0156/'>antiChrist</a>"
+index: "<a href='/digital-beehive/index1/index_0156/'>antiChrist</a>"
 insertion_xref: 
 insertion: 
 item: "#item-398b608d5"
@@ -26,7 +26,7 @@ order: '33'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/298,2732,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/298,2732,3150,722/full/0/default.jpg
 label: AntiChrist
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Prognostications
 topic: Prognostications
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_072/'>158 [Sign]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_072/'>158 [Sign]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3183/'>prognostica[ti]ons</a>"
+index: "<a href='/digital-beehive/index4/index_3183/'>prognostica[ti]ons</a>"
 insertion_xref: 
 insertion: 
 item: "#item-46c12529d"
@@ -24,7 +24,7 @@ order: '736'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,3051,604/full/0/default.jpg
 label: Prognostications
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

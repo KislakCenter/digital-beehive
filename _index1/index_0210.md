@@ -3,7 +3,7 @@ pid: index_0210
 volume: Volume 3
 image_number: '8'
 head: arrival
-entry: "<a href='/New_Beehive/toc/toc2_147/'>656 [Arrival]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_147/'>656 [Arrival]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '210'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1770,1115,552,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1770,1115,552,94/full/0/default.jpg
 label: arrival
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: insertion
 xref: 
-see: "<a href='/New_Beehive/index1/index_0726/'>Colour</a>"
+see: "<a href='/digital-beehive/index1/index_0726/'>Colour</a>"
 page: 
 add: 
 type: Index
@@ -24,7 +24,7 @@ order: '4714'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1048,3173,660,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1048,3173,660,152/full/0/default.jpg
 label: Vernish
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,9 +3,9 @@ pid: index_2178
 volume: Volume 3
 image_number: '27'
 head: knowledge of God
-entry: "<a href='/New_Beehive/toc/toc2_180/'>965 [Knowledge]</a>|<a href='/New_Beehive/toc/toc2_333/'>1695
-  [Knowledge]</a>|<a href='/New_Beehive/toc/toc2_375/'>2098 [Knowledge]</a>|<a href='/New_Beehive/toc/toc2_434/'>4837
-  [Knowledge]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_180/'>965 [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_333/'>1695
+  [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_375/'>2098 [Knowledge]</a>|<a
+  href='/digital-beehive/toc/toc2_434/'>4837 [Knowledge]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -27,7 +27,7 @@ order: '2178'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/full/0/default.jpg
 label: knowledge of God
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

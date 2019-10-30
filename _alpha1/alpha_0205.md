@@ -6,12 +6,12 @@ head:
 entry: Dancing
 topic: Dancing
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_299/'>1525 [Dancing]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_299/'>1525 [Dancing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0944/'>dancing</a>"
+index: "<a href='/digital-beehive/index1/index_0944/'>dancing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7fd900e31"
@@ -24,7 +24,7 @@ order: '205'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/365,2395,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/365,2395,3039,401/full/0/default.jpg
 label: Dancing
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

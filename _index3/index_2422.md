@@ -3,8 +3,8 @@ pid: index_2422
 volume: Volume 3
 image_number: '29'
 head: many men many minds
-entry: "<a href='/New_Beehive/alpha3/alpha_0568/'>a</a>|<a href='/New_Beehive/toc/toc2_211/'>1088
-  [Many men, many minds]</a>|<a href='/New_Beehive/toc/toc2_426/'>4474 [Many heads,
+entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1088
+  [Many men, many minds]</a>|<a href='/digital-beehive/toc/toc2_426/'>4474 [Many heads,
   many minds]</a>"
 topic: 
 first_letter: M
@@ -27,7 +27,7 @@ order: '2422'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1509,3250,663,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1509,3250,663,119/full/0/default.jpg
 label: many men many minds
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

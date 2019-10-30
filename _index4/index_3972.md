@@ -3,7 +3,7 @@ pid: index_3972
 volume: Volume 3
 image_number: '45'
 head: to suffer or bear
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [To bear]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [To bear]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3972'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1596,2962,669,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1596,2962,669,149/full/0/default.jpg
 label: to suffer or bear
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

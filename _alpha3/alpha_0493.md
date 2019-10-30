@@ -6,13 +6,13 @@ head:
 entry: Judgment
 topic: Judgment
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/New_Beehive/toc/toc2_200/'>1032
+xref: "<a href='/digital-beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/digital-beehive/toc/toc2_200/'>1032
   [Judgmt]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2134/'>judgmt</a>"
+index: "<a href='/digital-beehive/index3/index_2134/'>judgmt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-575849230"
@@ -26,7 +26,7 @@ order: '493'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,2983,596/full/0/default.jpg
 label: Judgment
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_4703
 volume: Volume 3
 image_number: '54'
 head: kidnapper
-entry: "<a href='/New_Beehive/toc/toc2_137/'>600 [Manstealing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_137/'>600 [Manstealing]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4703'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/full/0/default.jpg
 label: kidnapper
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_4442
 volume: Volume 3
 image_number: '51'
 head: Urim & Thum[m]im
-entry: "<a href='/New_Beehive/toc/toc2_063/'>63 [Urim and Thummim]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_063/'>63 [Urim and Thummim]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4442'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/full/0/default.jpg
 label: Urim & Thum[m]im
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

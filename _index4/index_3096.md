@@ -3,7 +3,7 @@ pid: index_3096
 volume: Volume 3
 image_number: '36'
 head: gun pouder
-entry: "<a href='/New_Beehive/toc/toc2_234/'>1203 [Pistol Pouder]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_234/'>1203 [Pistol Pouder]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3096'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,2904,648,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,2904,648,179/full/0/default.jpg
 label: gun pouder
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4349
 volume: Volume 3
 image_number: '49'
 head: vizard
-entry: "<a href='/New_Beehive/toc/toc2_069/'>129 [Vizard]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_069/'>129 [Vizard]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4349'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1646,3336,410,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1646,3336,410,161/full/0/default.jpg
 label: vizard
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

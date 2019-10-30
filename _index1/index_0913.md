@@ -24,7 +24,7 @@ order: '913'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,1953,464,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,1953,464,126/full/0/default.jpg
 label: crooked
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

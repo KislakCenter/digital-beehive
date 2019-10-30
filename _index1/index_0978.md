@@ -3,7 +3,7 @@ pid: index_0978
 volume: Volume 3
 image_number: '16'
 head: decay
-entry: "<a href='/New_Beehive/toc/toc2_083/'>244 [Decay]</a>|<a href='/New_Beehive/toc/toc2_135/'>587
+entry: "<a href='/digital-beehive/toc/toc2_083/'>244 [Decay]</a>|<a href='/digital-beehive/toc/toc2_135/'>587
   [mouldy]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '978'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/350,574,495,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/350,574,495,106/full/0/default.jpg
 label: decay
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

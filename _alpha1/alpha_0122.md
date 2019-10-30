@@ -6,12 +6,12 @@ head:
 entry: Carriage
 topic: Carriage
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_226/'>1162 [Carriage]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0549/'>carriage</a>"
+index: "<a href='/digital-beehive/index1/index_0549/'>carriage</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6ac61a69c"
@@ -24,7 +24,7 @@ order: '122'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/800,214,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/800,214,3143,367/full/0/default.jpg
 label: Carriage
-location: "<a href='/New_Beehive/toc/toc1_430/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

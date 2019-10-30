@@ -6,12 +6,12 @@ head:
 entry: Love of enemies
 topic: Love of enemies
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_081/'>225 [Love of enemies]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_081/'>225 [Love of enemies]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2344/'>love of Enemies</a>"
+index: "<a href='/digital-beehive/index3/index_2344/'>love of Enemies</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2ae1d06b7"
@@ -25,7 +25,7 @@ order: '555'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,3006,558/full/0/default.jpg
 label: Love of enemies
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

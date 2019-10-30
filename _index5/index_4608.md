@@ -3,7 +3,7 @@ pid: index_4608
 volume: Volume 3
 image_number: '53'
 head: few words
-entry: "<a href='/New_Beehive/toc/toc2_058/'>2 [Laconism]</a>|<a href='/New_Beehive/toc/toc2_227/'>1169
+entry: "<a href='/digital-beehive/toc/toc2_058/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
   [Laconism]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4608'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,1845,597,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,1845,597,132/full/0/default.jpg
 label: few words
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

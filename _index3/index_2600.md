@@ -3,7 +3,7 @@ pid: index_2600
 volume: Volume 3
 image_number: '31'
 head: motive
-entry: "<a href='/New_Beehive/toc/toc2_072/'>153 [Motive]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_072/'>153 [Motive]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2600'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/837,3483,400,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/837,3483,400,136/full/0/default.jpg
 label: motive
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

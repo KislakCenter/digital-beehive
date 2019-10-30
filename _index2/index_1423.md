@@ -3,7 +3,7 @@ pid: index_1423
 volume: Volume 3
 image_number: '20'
 head: feast, i.e. banquet
-entry: "<a href='/New_Beehive/toc/toc2_073/'>165 [Feast]</a>|1836 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_073/'>165 [Feast]</a>|1836 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1423'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1126,1345,762,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1126,1345,762,172/full/0/default.jpg
 label: feast, i.e. banquet
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

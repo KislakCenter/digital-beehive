@@ -6,12 +6,12 @@ head:
 entry: Judgmt of God
 topic: Judgmt of God
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_339/'>1742 [Judgmt of God]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_339/'>1742 [Judgmt of God]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2135/'>judgmt of God</a>"
+index: "<a href='/digital-beehive/index3/index_2135/'>judgmt of God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-06d986528"
@@ -25,7 +25,7 @@ order: '494'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/284,229,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/284,229,3096,561/full/0/default.jpg
 label: Judgmt of God
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

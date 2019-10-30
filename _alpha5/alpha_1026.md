@@ -6,13 +6,13 @@ head:
 entry: Willingness
 topic: Willingness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_1001/'>Unwilling</a>|<a href='/New_Beehive/toc/toc2_094/'>321
+xref: "<a href='/digital-beehive/alpha5/alpha_1001/'>Unwilling</a>|<a href='/digital-beehive/toc/toc2_094/'>321
   [Willingness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4553/'>willingness</a>"
+index: "<a href='/digital-beehive/index5/index_4553/'>willingness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5a590c775"
@@ -26,7 +26,7 @@ order: '1026'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/362,238,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/362,238,3021,435/full/0/default.jpg
 label: Willingness
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -8,7 +8,7 @@ topic:
 first_letter: N
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_074/'>p.24 [Image 1.84]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_074/'>p.24 [Image 1.84]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2706'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1139,2906,715,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1139,2906,715,158/full/0/default.jpg
 label: nicodemus's gospel
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

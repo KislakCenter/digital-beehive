@@ -3,7 +3,7 @@ pid: index_3791
 volume: Volume 3
 image_number: '44'
 head: some good
-entry: "<a href='/New_Beehive/toc/toc2_413/'>2384 [Some good]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_413/'>2384 [Some good]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3791'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,286,497,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,286,497,119/full/0/default.jpg
 label: some good
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

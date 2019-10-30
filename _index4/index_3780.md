@@ -3,7 +3,7 @@ pid: index_3780
 volume: Volume 3
 image_number: '43'
 head: Socrates
-entry: "<a href='/New_Beehive/toc/toc2_221/'>1140 [Socrates]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_221/'>1140 [Socrates]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3780'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/full/0/default.jpg
 label: Socrates
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_0964
 volume: Volume 3
 image_number: '15'
 head: dear friends
-entry: "<a href='/New_Beehive/toc/toc2_401/'>2286 [Dear friends]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_401/'>2286 [Dear friends]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '964'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1542,2679,579,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1542,2679,579,93/full/0/default.jpg
 label: dear friends
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

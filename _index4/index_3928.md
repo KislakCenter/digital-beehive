@@ -3,7 +3,7 @@ pid: index_3928
 volume: Volume 3
 image_number: '45'
 head: strange business
-entry: "<a href='/New_Beehive/alpha4/alpha_0908/'>a</a>|858 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0908/'>a</a>|858 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3928'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/907,1344,484,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/907,1344,484,141/full/0/default.jpg
 label: strange business
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

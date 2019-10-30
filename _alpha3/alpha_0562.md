@@ -6,12 +6,12 @@ head:
 entry: Magnanimity
 topic: Magnanimity
 first_letter: M
-xref: "<a href='/New_Beehive/alpha2/alpha_0380/'>grandeur</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0380/'>grandeur</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2381/'>magnanimity</a>"
+index: "<a href='/digital-beehive/index3/index_2381/'>magnanimity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7f4b4bc8a"
@@ -25,7 +25,7 @@ order: '562'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/716,3219,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/716,3219,3044,482/full/0/default.jpg
 label: Magnanimity
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_3689
 volume: Volume 3
 image_number: '42'
 head: short of breath
-entry: "<a href='/New_Beehive/toc/toc2_116/'>475 [Shortness of breath]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3689'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1785,2746,581,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1785,2746,581,122/full/0/default.jpg
 label: short of breath
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

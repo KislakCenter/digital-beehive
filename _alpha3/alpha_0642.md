@@ -6,12 +6,12 @@ head:
 entry: Nut
 topic: Nut
 first_letter: N
-xref: "<a href='/New_Beehive/toc/toc2_357/'>1937 [Nut]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_357/'>1937 [Nut]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2751/'>nut</a>"
+index: "<a href='/digital-beehive/index3/index_2751/'>nut</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b1b448436"
@@ -24,7 +24,7 @@ order: '642'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,3646,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,3646,2912,343/full/0/default.jpg
 label: Nut
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

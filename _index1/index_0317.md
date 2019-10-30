@@ -3,7 +3,7 @@ pid: index_0317
 volume: Volume 3
 image_number: '9'
 head: to bear
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1383 [To bear]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [To bear]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '317'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1590,428,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1590,428,103/full/0/default.jpg
 label: to bear
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

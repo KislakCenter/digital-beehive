@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index1/index_0089/'>alchymie</a>"
+see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2987'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/full/0/default.jpg
 label: philosopher stone
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4186/'>too suspicious</a>"
+index: "<a href='/digital-beehive/index5/index_4186/'>too suspicious</a>"
 insertion_xref: 
 insertion: 
 item: "#item-373d34fe6"
@@ -24,7 +24,7 @@ order: '954'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,2927,134/full/0/default.jpg
 label: too suspicious
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

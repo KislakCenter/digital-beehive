@@ -3,7 +3,7 @@ pid: index_4483
 volume: Volume 3
 image_number: '52'
 head: washing
-entry: "<a href='/New_Beehive/alpha5/alpha_1012/'>a</a>|<a href='/New_Beehive/toc/toc2_206/'>1061
+entry: "<a href='/digital-beehive/alpha5/alpha_1012/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1061
   [Washing]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4483'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/full/0/default.jpg
 label: washing
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -6,12 +6,12 @@ head:
 entry: Promise
 topic: Promise
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_162/'>872 [Promise]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_162/'>872 [Promise]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3189/'>promise</a>"
+index: "<a href='/digital-beehive/index4/index_3189/'>promise</a>"
 insertion_xref: 
 insertion: 
 item: "#item-37b8c35f1"
@@ -24,7 +24,7 @@ order: '739'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/375,3841,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/375,3841,3009,466/full/0/default.jpg
 label: Promise
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

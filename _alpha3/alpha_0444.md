@@ -6,13 +6,13 @@ head:
 entry: Idolatry
 topic: Idolatry
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0454/'>Images</a>|<a href='/New_Beehive/toc/toc2_139/'>610
+xref: "<a href='/digital-beehive/alpha3/alpha_0454/'>Images</a>|<a href='/digital-beehive/toc/toc2_139/'>610
   [Idolatry]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1933/'>idolatry</a>"
+index: "<a href='/digital-beehive/index3/index_1933/'>idolatry</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cab080c4a"
@@ -25,7 +25,7 @@ order: '444'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,4133,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,4133,3018,512/full/0/default.jpg
 label: Idolatry
-location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_0679
 volume: Volume 3
 image_number: '13'
 head: civil war
-entry: "<a href='/New_Beehive/toc/toc2_232/'>1195 [Civil war]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_232/'>1195 [Civil war]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '679'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/172,2824,484,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/172,2824,484,122/full/0/default.jpg
 label: civil war
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

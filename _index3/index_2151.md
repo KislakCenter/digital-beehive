@@ -3,7 +3,7 @@ pid: index_2151
 volume: Volume 3
 image_number: '27'
 head: Tho. of Kempis
-entry: "<a href='/New_Beehive/toc/toc2_195/'>1009 [Thomas of Kempis]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_195/'>1009 [Thomas of Kempis]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2151'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/121,3530,613,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/121,3530,613,127/full/0/default.jpg
 label: Tho. of Kempis
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

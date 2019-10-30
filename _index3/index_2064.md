@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: I/J
 xref: 
-see: "<a href='/New_Beehive/index1/index_0286/'>bankrupt</a>"
+see: "<a href='/digital-beehive/index1/index_0286/'>bankrupt</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2064'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1151,1525,710,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1151,1525,710,156/full/0/default.jpg
 label: insolvent
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

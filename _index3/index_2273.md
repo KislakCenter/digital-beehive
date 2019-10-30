@@ -3,7 +3,7 @@ pid: index_2273
 volume: Volume 3
 image_number: '28'
 head: liberality
-entry: "<a href='/New_Beehive/alpha3/alpha_0530/'>a</a>|<a href='/New_Beehive/toc/toc2_219/'>1127
+entry: "<a href='/digital-beehive/alpha3/alpha_0530/'>a</a>|<a href='/digital-beehive/toc/toc2_219/'>1127
   [Liberality]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2273'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1132,1644,601,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1132,1644,601,167/full/0/default.jpg
 label: liberality
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

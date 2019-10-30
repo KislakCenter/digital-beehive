@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index5/index_4550/'>will</a>"
+see: "<a href='/digital-beehive/index5/index_4550/'>will</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1662'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/full/0/default.jpg
 label: God's will
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

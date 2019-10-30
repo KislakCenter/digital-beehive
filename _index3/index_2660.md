@@ -3,8 +3,8 @@ pid: index_2660
 volume: Volume 3
 image_number: '32'
 head: nature
-entry: "<a href='/New_Beehive/alpha3/alpha_0627/'>a</a>|<a href='/New_Beehive/toc/toc2_327/'>1663
-  [Nature]</a>|<a href='/New_Beehive/toc/toc2_381/'>2155 [Nature]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0627/'>a</a>|<a href='/digital-beehive/toc/toc2_327/'>1663
+  [Nature]</a>|<a href='/digital-beehive/toc/toc2_381/'>2155 [Nature]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -25,7 +25,7 @@ order: '2660'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/370,2039,708,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/370,2039,708,108/full/0/default.jpg
 label: nature
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

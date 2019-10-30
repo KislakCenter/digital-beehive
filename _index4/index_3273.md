@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: Q
 xref: 
-see: "<a href='/New_Beehive/index4/index_3684/'>shooting</a>"
+see: "<a href='/digital-beehive/index4/index_3684/'>shooting</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3273'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1173,2093,631,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1173,2093,631,163/full/0/default.jpg
 label: quiver
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index1/index_0449/'>brevity</a>|<a href='/New_Beehive/index1/index_1178/'>dwarf</a>|<a
-  href='/New_Beehive/index5/index_4217/'>transitory</a>"
+see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1178/'>dwarf</a>|<a
+  href='/digital-beehive/index5/index_4217/'>transitory</a>"
 page: 
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '3687'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/full/0/default.jpg
 label: short
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

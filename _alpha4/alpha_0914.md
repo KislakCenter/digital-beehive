@@ -6,13 +6,13 @@ head:
 entry: Subjects
 topic: Subjects
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc/toc2_267/'>1368
+xref: "<a href='/digital-beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/digital-beehive/toc/toc2_267/'>1368
   [the duties of Subjects]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3954/'>subjects</a>"
+index: "<a href='/digital-beehive/index4/index_3954/'>subjects</a>"
 insertion_xref: 
 insertion: 
 item: "#item-da31c4125"
@@ -26,7 +26,7 @@ order: '914'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,3021,599/full/0/default.jpg
 label: Subjects
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

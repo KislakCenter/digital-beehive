@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0884/'>court</a>"
+index: "<a href='/digital-beehive/index1/index_0884/'>court</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e42ecf64b"
@@ -24,7 +24,7 @@ order: '186'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/339,4100,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/339,4100,3159,609/full/0/default.jpg
 label: Court
-location: "<a href='/New_Beehive/toc/toc1_435/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

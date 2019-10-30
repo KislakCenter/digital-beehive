@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index4/index_3727/'>singing</a>"
+see: "<a href='/digital-beehive/index4/index_3727/'>singing</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3797'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/598,755,510,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/598,755,510,122/full/0/default.jpg
 label: song
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

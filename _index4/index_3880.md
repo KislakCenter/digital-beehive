@@ -3,7 +3,7 @@ pid: index_3880
 volume: Volume 3
 image_number: '44'
 head: star slough
-entry: "<a href='/New_Beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3880'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,3547,501,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,3547,501,94/full/0/default.jpg
 label: star slough
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

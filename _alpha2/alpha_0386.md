@@ -6,13 +6,13 @@ head:
 entry: Guardian
 topic: Guardian
 first_letter: G
-xref: Executor|<a href='/New_Beehive/alpha4/alpha_0664/'>Orphan</a>|<a href='/New_Beehive/toc/toc2_179/'>959
+xref: Executor|<a href='/digital-beehive/alpha4/alpha_0664/'>Orphan</a>|<a href='/digital-beehive/toc/toc2_179/'>959
   [Guardian]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1723/'>guardian</a>"
+index: "<a href='/digital-beehive/index2/index_1723/'>guardian</a>"
 insertion_xref: 
 insertion: 
 item: "#item-681cd26c1"
@@ -26,7 +26,7 @@ order: '386'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/817,2185,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/817,2185,2874,493/full/0/default.jpg
 label: Guardian
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

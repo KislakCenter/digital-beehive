@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index5/index_4275/'>twilight</a>"
+see: "<a href='/digital-beehive/index5/index_4275/'>twilight</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '953'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/full/0/default.jpg
 label: dawning
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

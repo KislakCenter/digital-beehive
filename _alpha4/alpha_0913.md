@@ -6,14 +6,14 @@ head:
 entry: Student
 topic: Student
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0525/'>Learning</a>|<a href='/New_Beehive/alpha4/alpha_0692/'>Pedantery</a>|<a
-  href='/New_Beehive/toc/toc2_067/'>105 [a Pretender to Learning]</a>|<a href='/New_Beehive/toc/toc2_262/'>1341
+xref: "<a href='/digital-beehive/alpha3/alpha_0525/'>Learning</a>|<a href='/digital-beehive/alpha4/alpha_0692/'>Pedantery</a>|<a
+  href='/digital-beehive/toc/toc2_067/'>105 [a Pretender to Learning]</a>|<a href='/digital-beehive/toc/toc2_262/'>1341
   [Student]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3948/'>Student</a>"
+index: "<a href='/digital-beehive/index4/index_3948/'>Student</a>"
 insertion_xref: 
 insertion: 
 item: "#item-940dd7ef9"
@@ -27,7 +27,7 @@ order: '913'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,3081,630/full/0/default.jpg
 label: Student
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

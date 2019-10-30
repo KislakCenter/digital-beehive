@@ -6,13 +6,13 @@ head:
 entry: Redemption
 topic: Redemption
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0822/'>Saviour</a>|deliverance|<a href='/New_Beehive/alpha4/alpha_0821/'>Salvation</a>|<a
-  href='/New_Beehive/toc/toc2_404/'>2306 [Redemption]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0822/'>Saviour</a>|deliverance|<a href='/digital-beehive/alpha4/alpha_0821/'>Salvation</a>|<a
+  href='/digital-beehive/toc/toc2_404/'>2306 [Redemption]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3329/'>redemption</a>"
+index: "<a href='/digital-beehive/index4/index_3329/'>redemption</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6483207bc"
@@ -26,7 +26,7 @@ order: '775'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,2975,469/full/0/default.jpg
 label: Redemption
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

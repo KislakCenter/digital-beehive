@@ -3,12 +3,12 @@ pid: index_3169
 volume: Volume 3
 image_number: '37'
 head: privy house
-entry: "<a href='/New_Beehive/toc/toc2_138/'>607 [Privy house]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_138/'>607 [Privy house]</a>"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_060/'>p.10 [Image 1.70]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_060/'>p.10 [Image 1.70]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3169'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/742,823,671,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/742,823,671,169/full/0/default.jpg
 label: privy house
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

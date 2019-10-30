@@ -3,7 +3,7 @@ pid: index_2832
 volume: Volume 3
 image_number: '34'
 head: orthodox
-entry: "<a href='/New_Beehive/toc/toc2_061/'>46 [Orthodox]</a>|<a href='/New_Beehive/toc/toc2_329/'>1673
+entry: "<a href='/digital-beehive/toc/toc2_061/'>46 [Orthodox]</a>|<a href='/digital-beehive/toc/toc2_329/'>1673
   [Orthodox]</a>"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2832'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/499,250,631,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/499,250,631,126/full/0/default.jpg
 label: orthodox
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_0468
 volume: Volume 3
 image_number: '11'
 head: brownists
-entry: "<a href='/New_Beehive/toc/toc2_080/'>223 [Brownists]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_080/'>223 [Brownists]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '468'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/889,215,521,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/889,215,521,154/full/0/default.jpg
 label: brownists
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

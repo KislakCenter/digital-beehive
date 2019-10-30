@@ -3,7 +3,7 @@ pid: index_3071
 volume: Volume 3
 image_number: '36'
 head: poor man defendt
-entry: "<a href='/New_Beehive/toc/toc2_072/'>160 [Gods help]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_072/'>160 [Gods help]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3071'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/full/0/default.jpg
 label: poor man defendt
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

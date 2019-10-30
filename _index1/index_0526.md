@@ -3,7 +3,7 @@ pid: index_0526
 volume: Volume 3
 image_number: '11'
 head: canibal
-entry: "<a href='/New_Beehive/toc/toc2_118/'>485 [Canibal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_118/'>485 [Canibal]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '526'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,2083,517,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,2083,517,127/full/0/default.jpg
 label: canibal
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

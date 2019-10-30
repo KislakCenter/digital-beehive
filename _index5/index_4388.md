@@ -3,7 +3,7 @@ pid: index_4388
 volume: Volume 3
 image_number: '50'
 head: union of friends
-entry: "<a href='/New_Beehive/toc/toc2_253/'>1300 [Union of Friends]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_253/'>1300 [Union of Friends]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4388'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/full/0/default.jpg
 label: union of friends
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

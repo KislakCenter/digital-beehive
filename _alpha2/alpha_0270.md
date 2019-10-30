@@ -6,13 +6,13 @@ head:
 entry: Earth
 topic: Earth
 first_letter: E
-xref: "<a href='/New_Beehive/alpha5/alpha_1046/'>World</a>|<a href='/New_Beehive/toc/toc2_378/'>2130
+xref: "<a href='/digital-beehive/alpha5/alpha_1046/'>World</a>|<a href='/digital-beehive/toc/toc2_378/'>2130
   [Earth]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1188/'>earth</a>"
+index: "<a href='/digital-beehive/index2/index_1188/'>earth</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a3ac6b45a"
@@ -25,7 +25,7 @@ order: '270'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,2960,651/full/0/default.jpg
 label: Earth
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

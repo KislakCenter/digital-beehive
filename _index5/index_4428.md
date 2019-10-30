@@ -3,7 +3,7 @@ pid: index_4428
 volume: Volume 3
 image_number: '51'
 head: voice
-entry: "<a href='/New_Beehive/toc/toc2_322/'>1640 [Sound]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_322/'>1640 [Sound]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4428'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/219,2788,401,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/219,2788,401,133/full/0/default.jpg
 label: voice
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

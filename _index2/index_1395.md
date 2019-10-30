@@ -3,7 +3,7 @@ pid: index_1395
 volume: Volume 3
 image_number: '20'
 head: familiarity
-entry: "<a href='/New_Beehive/toc/toc2_058/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_058/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1395'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/376,2169,744,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/376,2169,744,157/full/0/default.jpg
 label: familiarity
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

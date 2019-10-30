@@ -3,9 +3,9 @@ pid: index_1655
 volume: Volume 3
 image_number: '22'
 head: God's providence
-entry: "<a href='/New_Beehive/alpha2/alpha_0368/'>a</a>|<a href='/New_Beehive/toc/toc2_081/'>227
-  [Gods Providence]</a>|<a href='/New_Beehive/toc/toc2_333/'>1691 [Gods Providence]</a>|<a
-  href='/New_Beehive/toc/toc2_361/'>1968 [God's Providence]</a>|<a href='/New_Beehive/toc/toc2_409/'>2355
+entry: "<a href='/digital-beehive/alpha2/alpha_0368/'>a</a>|<a href='/digital-beehive/toc/toc2_081/'>227
+  [Gods Providence]</a>|<a href='/digital-beehive/toc/toc2_333/'>1691 [Gods Providence]</a>|<a
+  href='/digital-beehive/toc/toc2_361/'>1968 [God's Providence]</a>|<a href='/digital-beehive/toc/toc2_409/'>2355
   [God's Providence]</a>"
 topic: 
 first_letter: G
@@ -28,7 +28,7 @@ order: '1655'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/full/0/default.jpg
 label: God's providence
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

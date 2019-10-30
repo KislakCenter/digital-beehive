@@ -6,13 +6,13 @@ head:
 entry: House
 topic: House
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0424/'>Home</a>|<a href='/New_Beehive/toc/toc2_230/'>1184
+xref: "<a href='/digital-beehive/alpha2/alpha_0424/'>Home</a>|<a href='/digital-beehive/toc/toc2_230/'>1184
   [house]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1890/'>house</a>"
+index: "<a href='/digital-beehive/index2/index_1890/'>house</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4ee22d882"
@@ -25,7 +25,7 @@ order: '434'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,2961,409/full/0/default.jpg
 label: House
-location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

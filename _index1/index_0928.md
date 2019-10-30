@@ -3,7 +3,7 @@ pid: index_0928
 volume: Volume 3
 image_number: '15'
 head: curiosity
-entry: "<a href='/New_Beehive/alpha1/alpha_0201/'>a</a>|<a href='/New_Beehive/toc/toc2_315/'>1602
+entry: "<a href='/digital-beehive/alpha1/alpha_0201/'>a</a>|<a href='/digital-beehive/toc/toc2_315/'>1602
   [Curiosity]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '928'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/full/0/default.jpg
 label: curiosity
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

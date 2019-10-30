@@ -3,7 +3,7 @@ pid: index_0894
 volume: Volume 3
 image_number: '15'
 head: craftiness
-entry: "<a href='/New_Beehive/alpha1/alpha_0191/'>a</a>|<a href='/New_Beehive/toc/toc2_239/'>1228
+entry: "<a href='/digital-beehive/alpha1/alpha_0191/'>a</a>|<a href='/digital-beehive/toc/toc2_239/'>1228
   [Craftiness]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '894'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,3324,673,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,3324,673,157/full/0/default.jpg
 label: craftiness
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

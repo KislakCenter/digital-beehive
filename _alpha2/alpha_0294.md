@@ -6,13 +6,13 @@ head:
 entry: Example
 topic: Example
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0457/'>Imitation</a>|<a href='/New_Beehive/toc/toc2_090/'>290
+xref: "<a href='/digital-beehive/alpha3/alpha_0457/'>Imitation</a>|<a href='/digital-beehive/toc/toc2_090/'>290
   [Example]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1329/'>example</a>"
+index: "<a href='/digital-beehive/index2/index_1329/'>example</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c5b1d56a6"
@@ -25,7 +25,7 @@ order: '294'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/687,3900,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/687,3900,3070,543/full/0/default.jpg
 label: Example
-location: "<a href='/New_Beehive/toc/toc1_444/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

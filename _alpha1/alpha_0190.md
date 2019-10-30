@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0893/'>cradle</a>"
+index: "<a href='/digital-beehive/index1/index_0893/'>cradle</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fe1918287"
@@ -24,7 +24,7 @@ order: '190'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/793,880,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/793,880,3006,307/full/0/default.jpg
 label: Cradle
-location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

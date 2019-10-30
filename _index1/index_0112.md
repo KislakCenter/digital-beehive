@@ -3,7 +3,7 @@ pid: index_0112
 volume: Volume 3
 image_number: '7'
 head: already
-entry: "<a href='/New_Beehive/toc/toc2_084/'>248 [Long ago]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_084/'>248 [Long ago]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '112'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,2469,437,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,2469,437,114/full/0/default.jpg
 label: already
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

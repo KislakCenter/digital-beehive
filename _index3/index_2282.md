@@ -3,7 +3,7 @@ pid: index_2282
 volume: Volume 3
 image_number: '28'
 head: lie given
-entry: "<a href='/New_Beehive/toc/toc2_365/'>1996 [Lie given]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_365/'>1996 [Lie given]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2282'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,2724,471,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,2724,471,112/full/0/default.jpg
 label: lie given
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

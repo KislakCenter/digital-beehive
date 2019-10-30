@@ -3,7 +3,7 @@ pid: index_3200
 volume: Volume 3
 image_number: '37'
 head: false prophets
-entry: "<a href='/New_Beehive/toc/toc2_061/'>41 [False prophets]</a>|<a href='/New_Beehive/toc/toc2_125/'>531
+entry: "<a href='/digital-beehive/toc/toc2_061/'>41 [False prophets]</a>|<a href='/digital-beehive/toc/toc2_125/'>531
   [unholy man to be a Gospel-minister]</a>"
 topic: 
 first_letter: P
@@ -26,7 +26,7 @@ order: '3200'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,1010,535,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,1010,535,135/full/0/default.jpg
 label: false prophets
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

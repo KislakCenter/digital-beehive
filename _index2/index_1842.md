@@ -3,7 +3,7 @@ pid: index_1842
 volume: Volume 3
 image_number: '24'
 head: to hire
-entry: "<a href='/New_Beehive/toc/toc2_128/'>549 [Hirelings]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1842'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/411,3150,412,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/411,3150,412,174/full/0/default.jpg
 label: to hire
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

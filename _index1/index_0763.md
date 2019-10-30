@@ -3,7 +3,7 @@ pid: index_0763
 volume: Volume 3
 image_number: '14'
 head: complaint of the damned
-entry: "<a href='/New_Beehive/toc/toc2_357/'>1936 [Complaint of ye Damned]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1936 [Complaint of ye Damned]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '763'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/443,844,708,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/443,844,708,90/full/0/default.jpg
 label: complaint of the damned
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0175
 volume: Volume 3
 image_number: '8'
 head: apparel
-entry: "<a href='/New_Beehive/alpha1/alpha_0041/'>a</a>|<a href='/New_Beehive/toc/toc2_076/'>194
+entry: "<a href='/digital-beehive/alpha1/alpha_0041/'>a</a>|<a href='/digital-beehive/toc/toc2_076/'>194
   [Apparel]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '175'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1112,1164,464,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1112,1164,464,121/full/0/default.jpg
 label: apparel
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

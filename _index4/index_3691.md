@@ -3,13 +3,13 @@ pid: index_3691
 volume: Volume 3
 image_number: '42'
 head: shrovetide
-entry: "<a href='/New_Beehive/toc/toc2_080/'>222 [Shrovetide]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_080/'>222 [Shrovetide]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0262/'>bacchanals</a>"
+add: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '3691'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/full/0/default.jpg
 label: shrovetide
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

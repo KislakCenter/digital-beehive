@@ -3,7 +3,7 @@ pid: index_2939
 volume: Volume 3
 image_number: '35'
 head: pedantery
-entry: "<a href='/New_Beehive/alpha4/alpha_0692/'>a</a>|<a href='/New_Beehive/toc/toc2_238/'>1224
+entry: "<a href='/digital-beehive/alpha4/alpha_0692/'>a</a>|<a href='/digital-beehive/toc/toc2_238/'>1224
   [Pedantry]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2939'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,505,622,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,505,622,167/full/0/default.jpg
 label: pedantery
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

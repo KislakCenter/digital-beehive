@@ -6,12 +6,12 @@ head:
 entry: Certainty
 topic: Certainty
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_169/'>908 [Certainty]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_169/'>908 [Certainty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0585/'>certainty</a>"
+index: "<a href='/digital-beehive/index1/index_0585/'>certainty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2f6fb588a"
@@ -24,7 +24,7 @@ order: '134'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/351,587,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/351,587,3014,460/full/0/default.jpg
 label: Certainty
-location: "<a href='/New_Beehive/toc/toc1_431/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

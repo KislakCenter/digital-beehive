@@ -3,7 +3,7 @@ pid: index_0970
 volume: Volume 3
 image_number: '15'
 head: death of bad men
-entry: "<a href='/New_Beehive/toc/toc2_243/'>1247 [Death of bad men]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1247 [Death of bad men]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '970'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,3193,593,95/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,3193,593,95/full/0/default.jpg
 label: death of bad men
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: F
 xref: 
-see: "<a href='/New_Beehive/index4/index_2955/'>perfection</a>"
+see: "<a href='/digital-beehive/index4/index_2955/'>perfection</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1536'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,1784,747,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,1784,747,117/full/0/default.jpg
 label: freedom from sin
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

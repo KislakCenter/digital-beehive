@@ -3,7 +3,7 @@ pid: index_3514
 volume: Volume 3
 image_number: '41'
 head: of the same time
-entry: "<a href='/New_Beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3514'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/138,1261,509,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/138,1261,509,139/full/0/default.jpg
 label: of the same time
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

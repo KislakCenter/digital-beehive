@@ -3,7 +3,7 @@ pid: index_0563
 volume: Volume 3
 image_number: '12'
 head: caterpillars
-entry: "<a href='/New_Beehive/toc/toc2_219/'>1129 [Caterpillers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1129 [Caterpillers]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '563'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/401,2759,625,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/401,2759,625,164/full/0/default.jpg
 label: caterpillars
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

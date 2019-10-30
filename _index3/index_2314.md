@@ -3,7 +3,7 @@ pid: index_2314
 volume: Volume 3
 image_number: '28'
 head: liver
-entry: "<a href='/New_Beehive/toc/toc2_136/'>595 [Liver]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2314'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1816,2647,350,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1816,2647,350,116/full/0/default.jpg
 label: liver
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

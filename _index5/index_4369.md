@@ -3,7 +3,7 @@ pid: index_4369
 volume: Volume 3
 image_number: '50'
 head: undeniable
-entry: "<a href='/New_Beehive/toc/toc2_089/'>284 [To own]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_089/'>284 [To own]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4369'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/418,2492,514,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/418,2492,514,91/full/0/default.jpg
 label: undeniable
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

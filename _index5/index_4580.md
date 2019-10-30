@@ -3,7 +3,7 @@ pid: index_4580
 volume: Volume 3
 image_number: '53'
 head: Geo. Wither
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Abr. Cowly]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Abr. Cowly]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4580'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/189,2117,502,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/189,2117,502,94/full/0/default.jpg
 label: Geo. Wither
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

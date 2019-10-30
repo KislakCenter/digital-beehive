@@ -6,12 +6,12 @@ head:
 entry: Fruit
 topic: Fruit
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_392/'>2242 [Fruits]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_392/'>2242 [Fruits]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1557/'>fruit</a>"
+index: "<a href='/digital-beehive/index2/index_1557/'>fruit</a>"
 insertion_xref: 
 insertion: 
 item: "#item-665e1b38d"
@@ -24,7 +24,7 @@ order: '350'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/419,3262,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/419,3262,2967,349/full/0/default.jpg
 label: Fruit
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

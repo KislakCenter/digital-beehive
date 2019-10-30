@@ -3,7 +3,7 @@ pid: index_1232
 volume: Volume 3
 image_number: '18'
 head: embalm
-entry: "<a href='/New_Beehive/toc/toc2_320/'>1629 [Mummy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1629 [Mummy]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1232'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1159,3028,468,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1159,3028,468,113/full/0/default.jpg
 label: embalm
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

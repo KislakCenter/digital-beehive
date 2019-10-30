@@ -3,7 +3,7 @@ pid: index_0099
 volume: Volume 3
 image_number: '7'
 head: alliance
-entry: "<a href='/New_Beehive/alpha1/alpha_0020/'>a</a>|<a href='/New_Beehive/toc/toc2_270/'>1384
+entry: "<a href='/digital-beehive/alpha1/alpha_0020/'>a</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
   [Alliance]</a>|4503 [PAGE_MISSING]"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '99'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1606,688,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1606,688,116/full/0/default.jpg
 label: alliance
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

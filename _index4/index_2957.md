@@ -7,7 +7,7 @@ entry: 4548 [PAGE_MISSING]
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index4/index_3761/'>smell</a>"
+see: "<a href='/digital-beehive/index4/index_3761/'>smell</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2957'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/87,2414,798,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/87,2414,798,184/full/0/default.jpg
 label: perfume
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

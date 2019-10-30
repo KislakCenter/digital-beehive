@@ -3,7 +3,7 @@ pid: index_2469
 volume: Volume 3
 image_number: '30'
 head: meditation
-entry: "<a href='/New_Beehive/alpha3/alpha_0579/'>a</a>|<a href='/New_Beehive/toc/toc2_161/'>868
+entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|<a href='/digital-beehive/toc/toc2_161/'>868
   [Meditation]</a>|4602 [PAGE_MISSING]"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2469'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/full/0/default.jpg
 label: meditation
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

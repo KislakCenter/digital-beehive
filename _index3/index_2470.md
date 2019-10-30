@@ -8,7 +8,7 @@ topic:
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2470'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1110,601,425,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1110,601,425,136/full/0/default.jpg
 label: medlar
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

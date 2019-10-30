@@ -3,7 +3,7 @@ pid: index_3259
 volume: Volume 3
 image_number: '38'
 head: queries
-entry: "<a href='/New_Beehive/alpha4/alpha_0759/'>a</a>|<a href='/New_Beehive/toc/toc2_205/'>1058
+entry: "<a href='/digital-beehive/alpha4/alpha_0759/'>a</a>|<a href='/digital-beehive/toc/toc2_205/'>1058
   [Queries]</a>"
 topic: 
 first_letter: Q
@@ -25,7 +25,7 @@ order: '3259'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1171,697,540,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1171,697,540,128/full/0/default.jpg
 label: queries
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

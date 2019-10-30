@@ -3,7 +3,7 @@ pid: index_4054
 volume: Volume 3
 image_number: '46'
 head: tall
-entry: "<a href='/New_Beehive/toc/toc2_164/'>883 [highness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_164/'>883 [highness]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4054'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1837,1872,290,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1837,1872,290,118/full/0/default.jpg
 label: tall
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_3790
 volume: Volume 3
 image_number: '44'
 head: some
-entry: "<a href='/New_Beehive/toc/toc2_161/'>867 [Some]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [Some]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3790'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/559,265,396,82/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/559,265,396,82/full/0/default.jpg
 label: some
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

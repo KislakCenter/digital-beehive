@@ -3,7 +3,7 @@ pid: index_1345
 volume: Volume 3
 image_number: '19'
 head: ex. gr.
-entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [Ex. gr.]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_278/'>1422 [Ex. gr.]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1345'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1547,632,414,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1547,632,414,83/full/0/default.jpg
 label: ex. gr.
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

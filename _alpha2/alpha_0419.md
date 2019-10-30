@@ -6,13 +6,13 @@ head:
 entry: Highness
 topic: Highness
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0380/'>Grandeur</a>|<a href='/New_Beehive/toc/toc2_164/'>883
+xref: "<a href='/digital-beehive/alpha2/alpha_0380/'>Grandeur</a>|<a href='/digital-beehive/toc/toc2_164/'>883
   [highness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1834/'>highness</a>"
+index: "<a href='/digital-beehive/index2/index_1834/'>highness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-61f20e887"
@@ -26,7 +26,7 @@ order: '419'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,2961,423/full/0/default.jpg
 label: Highness
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

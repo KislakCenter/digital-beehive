@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index4/index_3093/'>pot</a>"
+see: "<a href='/digital-beehive/index4/index_3093/'>pot</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '518'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,1358,424,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,1358,424,132/full/0/default.jpg
 label: can
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

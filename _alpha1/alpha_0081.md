@@ -6,12 +6,12 @@ head:
 entry: Big with child
 topic: Big with child
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_269/'>1377 [Great with young]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_269/'>1377 [Great with young]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0370/'>big with child</a>"
+index: "<a href='/digital-beehive/index1/index_0370/'>big with child</a>"
 insertion_xref: 
 insertion: 
 item: "#item-280551e59"
@@ -25,7 +25,7 @@ order: '81'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/799,4281,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/799,4281,2941,381/full/0/default.jpg
 label: Big with child
-location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

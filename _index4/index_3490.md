@@ -3,7 +3,7 @@ pid: index_3490
 volume: Volume 3
 image_number: '40'
 head: saffron
-entry: "<a href='/New_Beehive/toc/toc2_324/'>1646 [Saffron]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_324/'>1646 [Saffron]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3490'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1828,2393,432,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1828,2393,432,103/full/0/default.jpg
 label: saffron
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

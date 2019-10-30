@@ -6,13 +6,13 @@ head:
 entry: Redhaired
 topic: Redhaired
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_262/'>1344 [Corinths]</a>|<a href='/New_Beehive/toc/toc2_262/'>1343
+xref: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Corinths]</a>|<a href='/digital-beehive/toc/toc2_262/'>1343
   [Red-(:hair:) face]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3328/'>redhaired</a>"
+index: "<a href='/digital-beehive/index4/index_3328/'>redhaired</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a1062b13d"
@@ -26,7 +26,7 @@ order: '774'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,1872,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,1872,2996,407/full/0/default.jpg
 label: Redhaired
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

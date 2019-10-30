@@ -3,7 +3,7 @@ pid: index_4052
 volume: Volume 3
 image_number: '46'
 head: talismans
-entry: "<a href='/New_Beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4052'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1834,1562,521,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1834,1562,521,121/full/0/default.jpg
 label: talismans
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

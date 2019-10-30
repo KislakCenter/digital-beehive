@@ -3,8 +3,8 @@ pid: index_3160
 volume: Volume 3
 image_number: '37'
 head: prince
-entry: "<a href='/New_Beehive/alpha4/alpha_0727/'>a</a>|<a href='/New_Beehive/toc/toc2_231/'>1186
-  [Prince]</a>|<a href='/New_Beehive/toc/toc2_340/'>1758 [Prince]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0727/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
+  [Prince]</a>|<a href='/digital-beehive/toc/toc2_340/'>1758 [Prince]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3160'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/full/0/default.jpg
 label: prince
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

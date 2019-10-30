@@ -6,14 +6,14 @@ head:
 entry: Rape
 topic: Rape
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0339/'>Force</a>|<a href='/New_Beehive/toc/toc2_203/'>1049
-  [of Compulsion in Matters of Religion]</a>|<a href='/New_Beehive/toc/toc2_085/'>253
+xref: "<a href='/digital-beehive/alpha2/alpha_0339/'>Force</a>|<a href='/digital-beehive/toc/toc2_203/'>1049
+  [of Compulsion in Matters of Religion]</a>|<a href='/digital-beehive/toc/toc2_085/'>253
   [Rape]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3291/'>rape</a>"
+index: "<a href='/digital-beehive/index4/index_3291/'>rape</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6d1502d53"
@@ -27,7 +27,7 @@ order: '768'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/372,4340,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/372,4340,2982,172/full/0/default.jpg
 label: Rape
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

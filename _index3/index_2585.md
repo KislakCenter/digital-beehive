@@ -3,7 +3,7 @@ pid: index_2585
 volume: Volume 3
 image_number: '31'
 head: mortal
-entry: "<a href='/New_Beehive/toc/toc2_373/'>2078 [Mortal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_373/'>2078 [Mortal]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2585'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/846,2228,523,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/846,2228,523,85/full/0/default.jpg
 label: mortal
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

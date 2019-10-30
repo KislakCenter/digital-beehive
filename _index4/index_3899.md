@@ -3,7 +3,7 @@ pid: index_3899
 volume: Volume 3
 image_number: '45'
 head: steward
-entry: "<a href='/New_Beehive/alpha4/alpha_0902/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0902/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3899'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/224,1866,356,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/224,1866,356,144/full/0/default.jpg
 label: steward
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

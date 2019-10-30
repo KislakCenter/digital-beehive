@@ -6,12 +6,12 @@ head:
 entry: Lawyer
 topic: Lawyer
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_130/'>559 [Lawyer]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_130/'>559 [Lawyer]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2226/'>lawyer</a>"
+index: "<a href='/digital-beehive/index3/index_2226/'>lawyer</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5ced3abcf"
@@ -24,7 +24,7 @@ order: '520'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
 label: Lawyer
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

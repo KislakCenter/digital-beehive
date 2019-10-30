@@ -3,7 +3,7 @@ pid: index_3278
 volume: Volume 3
 image_number: '38'
 head: rachel
-entry: "<a href='/New_Beehive/toc/toc2_363/'>1976 [Rachel]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_363/'>1976 [Rachel]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3278'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/full/0/default.jpg
 label: rachel
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

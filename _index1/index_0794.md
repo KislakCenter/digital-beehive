@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index2/index_1699/'>gratulation</a>"
+see: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '794'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1168,472,768,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1168,472,768,155/full/0/default.jpg
 label: congrat
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

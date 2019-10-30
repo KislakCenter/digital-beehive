@@ -3,9 +3,10 @@ pid: index_0230
 volume: Volume 3
 image_number: '8'
 head: astrology
-entry: "<a href='/New_Beehive/toc/toc2_059/'>24 [Astrology]</a>|<a href='/New_Beehive/toc/toc2_146/'>648
-  [Astrologer]</a>|<a href='/New_Beehive/toc/toc2_250/'>1283 [Astrology]</a>|<a href='/New_Beehive/toc/toc2_272/'>1392
-  [Astrology]</a>|<a href='/New_Beehive/toc/toc2_329/'>1675 [Astrology]</a>|4627 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_059/'>24 [Astrology]</a>|<a href='/digital-beehive/toc/toc2_146/'>648
+  [Astrologer]</a>|<a href='/digital-beehive/toc/toc2_250/'>1283 [Astrology]</a>|<a
+  href='/digital-beehive/toc/toc2_272/'>1392 [Astrology]</a>|<a href='/digital-beehive/toc/toc2_329/'>1675
+  [Astrology]</a>|4627 [PAGE_MISSING]"
 topic: 
 first_letter: A
 xref: 
@@ -27,7 +28,7 @@ order: '230'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1800,3253,745,187/full/0/default.jpg
 label: astrology
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

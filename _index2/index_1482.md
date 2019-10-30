@@ -3,8 +3,8 @@ pid: index_1482
 volume: Volume 3
 image_number: '20'
 head: flight
-entry: "<a href='/New_Beehive/alpha2/alpha_0332/'>a</a>|<a href='/New_Beehive/toc/toc2_148/'>660
-  [Flight]</a>|<a href='/New_Beehive/toc/toc2_260/'>1333 [Flight]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0332/'>a</a>|<a href='/digital-beehive/toc/toc2_148/'>660
+  [Flight]</a>|<a href='/digital-beehive/toc/toc2_260/'>1333 [Flight]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1482'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1802,3244,635,238/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1802,3244,635,238/full/0/default.jpg
 label: flight
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

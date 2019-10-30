@@ -6,12 +6,12 @@ head:
 entry: Dwarf
 topic: Dwarf
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1178/'>dwarf</a>"
+index: "<a href='/digital-beehive/index1/index_1178/'>dwarf</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3b6571f85"
@@ -24,7 +24,7 @@ order: '267'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/740,1976,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/740,1976,3012,415/full/0/default.jpg
 label: Dwarf
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

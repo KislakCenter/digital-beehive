@@ -3,7 +3,7 @@ pid: index_4518
 volume: Volume 3
 image_number: '52'
 head: welfare
-entry: "<a href='/New_Beehive/toc/toc2_170/'>913 [Welfare]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Welfare]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4518'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/full/0/default.jpg
 label: welfare
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -6,13 +6,13 @@ head:
 entry: Self profit
 topic: Self profit
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0560/'>Lucre</a>|<a href='/New_Beehive/toc/toc2_113/'>455
+xref: "<a href='/digital-beehive/alpha3/alpha_0560/'>Lucre</a>|<a href='/digital-beehive/toc/toc2_113/'>455
   [self-profit]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3627/'>Self profit</a>"
+index: "<a href='/digital-beehive/index4/index_3627/'>Self profit</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0e15b046c"
@@ -26,7 +26,7 @@ order: '847'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,3045,418/full/0/default.jpg
 label: Self profit
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

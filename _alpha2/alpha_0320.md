@@ -6,7 +6,7 @@ head:
 entry: Feasts
 topic: Feasts
 first_letter: F
-xref: "<a href='/New_Beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/New_Beehive/toc/toc2_212/'>1093
+xref: "<a href='/digital-beehive/alpha4/alpha_0919/'>Sunday</a>|<a href='/digital-beehive/toc/toc2_212/'>1093
   [holy days]</a>"
 see: 
 page: 
@@ -26,7 +26,7 @@ order: '320'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/441,1161,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/441,1161,3026,429/full/0/default.jpg
 label: Feasts
-location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

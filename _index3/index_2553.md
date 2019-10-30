@@ -3,8 +3,8 @@ pid: index_2553
 volume: Volume 3
 image_number: '31'
 head: moderate
-entry: "<a href='/New_Beehive/toc/toc2_059/'>21 [Moderate]</a>|<a href='/New_Beehive/toc/toc2_260/'>1331
-  [Moderation]</a>|<a href='/New_Beehive/toc/toc2_446/'>4916 [Moderation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_059/'>21 [Moderate]</a>|<a href='/digital-beehive/toc/toc2_260/'>1331
+  [Moderation]</a>|<a href='/digital-beehive/toc/toc2_446/'>4916 [Moderation]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -25,7 +25,7 @@ order: '2553'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2361,699,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2361,699,124/full/0/default.jpg
 label: moderate
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

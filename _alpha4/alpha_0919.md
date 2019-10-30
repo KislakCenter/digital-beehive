@@ -6,13 +6,13 @@ head:
 entry: Sunday
 topic: Sunday
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0321/'>feast</a>|<a href='/New_Beehive/alpha4/alpha_0812/'>Sabbath</a>|<a
-  href='/New_Beehive/toc/toc2_122/'>511 [First day of the week]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0321/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0812/'>Sabbath</a>|<a
+  href='/digital-beehive/toc/toc2_122/'>511 [First day of the week]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3985/'>sunday</a>"
+index: "<a href='/digital-beehive/index4/index_3985/'>sunday</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9a748c2a7"
@@ -26,7 +26,7 @@ order: '919'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/776,3650,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/776,3650,2943,594/full/0/default.jpg
 label: Sunday
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

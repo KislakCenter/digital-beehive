@@ -3,7 +3,7 @@ pid: index_3704
 volume: Volume 3
 image_number: '43'
 head: sign
-entry: "<a href='/New_Beehive/toc/toc2_072/'>158 [Sign]</a>|<a href='/New_Beehive/toc/toc2_166/'>892
+entry: "<a href='/digital-beehive/toc/toc2_072/'>158 [Sign]</a>|<a href='/digital-beehive/toc/toc2_166/'>892
   [Mark]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3704'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/189,963,500,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/189,963,500,165/full/0/default.jpg
 label: sign
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

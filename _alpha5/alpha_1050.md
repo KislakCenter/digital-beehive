@@ -6,13 +6,13 @@ head:
 entry: Will-Worship
 topic: Will-Worship
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0921/'>Superstition</a>|<a href='/New_Beehive/toc/toc2_119/'>490
+xref: "<a href='/digital-beehive/alpha4/alpha_0921/'>Superstition</a>|<a href='/digital-beehive/toc/toc2_119/'>490
   [Will-Worship]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4625/'>will worship</a>"
+index: "<a href='/digital-beehive/index5/index_4625/'>will worship</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d4a3712ee"
@@ -26,7 +26,7 @@ order: '1050'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,854,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,854,3058,439/full/0/default.jpg
 label: Will-Worship
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

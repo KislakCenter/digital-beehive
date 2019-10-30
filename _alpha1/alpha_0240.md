@@ -6,12 +6,12 @@ head:
 entry: Discretness
 topic: Discretness
 first_letter: D
-xref: "<a href='/New_Beehive/alpha3/alpha_0596/'>Modesty</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0596/'>Modesty</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1074/'>discretness</a>"
+index: "<a href='/digital-beehive/index1/index_1074/'>discretness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b1771a258"
@@ -24,7 +24,7 @@ order: '240'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,2989,144/full/0/default.jpg
 label: Discretness
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

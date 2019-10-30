@@ -3,7 +3,7 @@ pid: index_4234
 volume: Volume 3
 image_number: '48'
 head: trial
-entry: "<a href='/New_Beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_118/'>487 [Proof, Try all]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4234'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,922,448,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,922,448,148/full/0/default.jpg
 label: trial
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,8 +3,8 @@ pid: index_4607
 volume: Volume 3
 image_number: '53'
 head: words
-entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>|<a href='/New_Beehive/toc/toc2_371/'>2058
-  [Words]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/toc/toc2_264/'>1353
+  [Word]</a>|<a href='/digital-beehive/toc/toc2_371/'>2058 [Words]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4607'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/full/0/default.jpg
 label: words
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

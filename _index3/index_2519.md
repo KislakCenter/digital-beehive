@@ -3,7 +3,7 @@ pid: index_2519
 volume: Volume 3
 image_number: '30'
 head: milt
-entry: "<a href='/New_Beehive/toc/toc2_136/'>595 [Liver]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2519'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,2096,300,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,2096,300,131/full/0/default.jpg
 label: milt
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

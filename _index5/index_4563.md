@@ -3,7 +3,7 @@ pid: index_4563
 volume: Volume 3
 image_number: '53'
 head: artificial Wines
-entry: "<a href='/New_Beehive/toc/toc2_135/'>590 [artificial Wines]</a>|<a href='/New_Beehive/toc/toc2_357/'>1940
+entry: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
   [Artificial Wines]</a>"
 topic: 
 first_letter: W
@@ -26,7 +26,7 @@ order: '4563'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/full/0/default.jpg
 label: artificial Wines
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

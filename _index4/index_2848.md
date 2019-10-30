@@ -3,12 +3,12 @@ pid: index_2848
 volume: Volume 3
 image_number: '34'
 head: owl
-entry: "<a href='/New_Beehive/alpha4/alpha_0665/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0665/'>a</a>"
 topic: 
 first_letter: O
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2848'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/453,1857,477,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/453,1857,477,134/full/0/default.jpg
 label: owl
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

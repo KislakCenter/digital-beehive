@@ -3,7 +3,7 @@ pid: index_0461
 volume: Volume 3
 image_number: '11'
 head: to bring in
-entry: "<a href='/New_Beehive/toc/toc2_328/'>1666 [To bring in]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_328/'>1666 [To bring in]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '461'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/157,2946,570,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/157,2946,570,154/full/0/default.jpg
 label: to bring in
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

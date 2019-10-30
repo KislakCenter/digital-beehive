@@ -6,12 +6,12 @@ head:
 entry: Wonder
 topic: Wonder
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_278/'>1423 [Wonder]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_278/'>1423 [Wonder]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4601/'>wonder</a>"
+index: "<a href='/digital-beehive/index5/index_4601/'>wonder</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f80f8eafe"
@@ -24,7 +24,7 @@ order: '1039'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,3021,359/full/0/default.jpg
 label: Wonder
-location: "<a href='/New_Beehive/toc/toc2_056/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -6,14 +6,14 @@ head:
 entry: Civility
 topic: Civility
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0435/'>humanity</a>|<a href='/New_Beehive/alpha3/alpha_0596/'>modesty</a>|<a
-  href='/New_Beehive/alpha2/alpha_0356/'>gentleness</a>|<a href='/New_Beehive/alpha3/alpha_0465/'>Incivility</a>|<a
-  href='/New_Beehive/toc/toc2_367/'>2011 [Civility]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0435/'>humanity</a>|<a href='/digital-beehive/alpha3/alpha_0596/'>modesty</a>|<a
+  href='/digital-beehive/alpha2/alpha_0356/'>gentleness</a>|<a href='/digital-beehive/alpha3/alpha_0465/'>Incivility</a>|<a
+  href='/digital-beehive/toc/toc2_367/'>2011 [Civility]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0680/'>civility</a>"
+index: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4fe320377"
@@ -27,7 +27,7 @@ order: '149'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/843,2219,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/843,2219,2999,609/full/0/default.jpg
 label: Civility
-location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

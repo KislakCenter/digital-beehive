@@ -3,7 +3,7 @@ pid: index_4341
 volume: Volume 3
 image_number: '49'
 head: Virginia
-entry: "<a href='/New_Beehive/toc/toc2_299/'>1521 [Virginia]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_299/'>1521 [Virginia]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4341'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/full/0/default.jpg
 label: Virginia
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

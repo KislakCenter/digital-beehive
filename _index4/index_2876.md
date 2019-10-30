@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index2/index_1627/'>gloss</a>"
+see: "<a href='/digital-beehive/index2/index_1627/'>gloss</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2876'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1139,1293,714,217/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1139,1293,714,217/full/0/default.jpg
 label: paraphrase
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

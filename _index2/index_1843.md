@@ -3,8 +3,8 @@ pid: index_1843
 volume: Volume 3
 image_number: '24'
 head: hireling
-entry: "<a href='/New_Beehive/alpha2/alpha_0421/'>a</a>|<a href='/New_Beehive/toc/toc2_250/'>1282
-  [Hirelings]</a>|<a href='/New_Beehive/toc/toc2_417/'>2414 [Hirelings]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0421/'>a</a>|<a href='/digital-beehive/toc/toc2_250/'>1282
+  [Hirelings]</a>|<a href='/digital-beehive/toc/toc2_417/'>2414 [Hirelings]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1843'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,3259,733,171/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,3259,733,171/full/0/default.jpg
 label: hireling
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

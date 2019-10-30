@@ -3,7 +3,7 @@ pid: index_0744
 volume: Volume 3
 image_number: '13'
 head: common goods
-entry: "<a href='/New_Beehive/alpha1/alpha_0159/'>a</a>|<a href='/New_Beehive/toc/toc2_228/'>1172
+entry: "<a href='/digital-beehive/alpha1/alpha_0159/'>a</a>|<a href='/digital-beehive/toc/toc2_228/'>1172
   [Community of Goods]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '744'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/full/0/default.jpg
 label: common goods
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

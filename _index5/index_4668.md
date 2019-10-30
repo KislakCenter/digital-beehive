@@ -3,7 +3,7 @@ pid: index_4668
 volume: Volume 3
 image_number: '54'
 head: Lord Major
-entry: "<a href='/New_Beehive/toc/toc2_129/'>555 [Lord Major]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_129/'>555 [Lord Major]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4668'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/378,871,581,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/378,871,581,153/full/0/default.jpg
 label: Lord Major
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

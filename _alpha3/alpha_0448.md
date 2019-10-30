@@ -6,12 +6,12 @@ head:
 entry: Jesus
 topic: Jesus
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0144/'>Christ</a>|<a href='/New_Beehive/alpha4/alpha_0822/'>Saviour</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Christ</a>|<a href='/digital-beehive/alpha4/alpha_0822/'>Saviour</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1941/'>Jesus</a>"
+index: "<a href='/digital-beehive/index3/index_1941/'>Jesus</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fc54ff4b7"
@@ -24,7 +24,7 @@ order: '448'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/315,887,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/315,887,3077,519/full/0/default.jpg
 label: Jesus
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

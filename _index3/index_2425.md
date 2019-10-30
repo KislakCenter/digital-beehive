@@ -3,7 +3,7 @@ pid: index_2425
 volume: Volume 3
 image_number: '29'
 head: marigolds
-entry: "<a href='/New_Beehive/toc/toc2_153/'>686 [Marigolds]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Marigolds]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2425'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/full/0/default.jpg
 label: marigolds
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

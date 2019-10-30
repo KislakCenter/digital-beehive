@@ -6,12 +6,12 @@ head:
 entry: Alamode
 topic: Alamode
 first_letter: A
-xref: Clothes|<a href='/New_Beehive/toc/toc2_084/'>249 [Alamode]</a>
+xref: Clothes|<a href='/digital-beehive/toc/toc2_084/'>249 [Alamode]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0085/'>alamode</a>"
+index: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d48f2cc1d"
@@ -24,7 +24,7 @@ order: '17'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/704,2287,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/704,2287,3141,352/full/0/default.jpg
 label: Alamode
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

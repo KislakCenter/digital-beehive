@@ -6,12 +6,12 @@ head:
 entry: Hypocrisy
 topic: Hypocrisy
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>falshood</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>falshood</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1916/'>hypocrisy</a>"
+index: "<a href='/digital-beehive/index2/index_1916/'>hypocrisy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5821466fa"
@@ -25,7 +25,7 @@ order: '440'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,2842,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,2842,2947,660/full/0/default.jpg
 label: Hypocrisy
-location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

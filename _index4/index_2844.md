@@ -3,7 +3,7 @@ pid: index_2844
 volume: Volume 3
 image_number: '34'
 head: out
-entry: "<a href='/New_Beehive/toc/toc2_153/'>688 [Out]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Out]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2844'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,1397,481,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,1397,481,141/full/0/default.jpg
 label: out
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

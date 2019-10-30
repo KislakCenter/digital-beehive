@@ -3,7 +3,7 @@ pid: index_3473
 volume: Volume 3
 image_number: '40'
 head: rush
-entry: "<a href='/New_Beehive/toc/toc2_151/'>676 [Rush]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_151/'>676 [Rush]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3473'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1841,584,401,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1841,584,401,141/full/0/default.jpg
 label: rush
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

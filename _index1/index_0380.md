@@ -24,7 +24,7 @@ order: '380'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1070,1356,442,192/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1070,1356,442,192/full/0/default.jpg
 label: biting
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

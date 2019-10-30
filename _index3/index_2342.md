@@ -3,8 +3,8 @@ pid: index_2342
 volume: Volume 3
 image_number: '29'
 head: love of ye brethren
-entry: "<a href='/New_Beehive/alpha3/alpha_0553/'>a</a>|<a href='/New_Beehive/toc/toc2_255/'>1309
-  [Love to God & the Brethren]</a>|<a href='/New_Beehive/toc/toc2_368/'>2030 [Love
+entry: "<a href='/digital-beehive/alpha3/alpha_0553/'>a</a>|<a href='/digital-beehive/toc/toc2_255/'>1309
+  [Love to God & the Brethren]</a>|<a href='/digital-beehive/toc/toc2_368/'>2030 [Love
   of the Brethren]</a>"
 topic: 
 first_letter: L
@@ -27,7 +27,7 @@ order: '2342'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,2158,809,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,2158,809,104/full/0/default.jpg
 label: love of ye brethren
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

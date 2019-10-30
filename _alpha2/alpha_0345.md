@@ -6,14 +6,14 @@ head:
 entry: Fraud
 topic: Fraud
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/New_Beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/New_Beehive/toc/toc2_103/'>384
+xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
+  href='/digital-beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/digital-beehive/toc/toc2_103/'>384
   [Fraud]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1533/'>fraud</a>"
+index: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ddc5b9956"
@@ -27,7 +27,7 @@ order: '345'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,1452,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,1452,3059,522/full/0/default.jpg
 label: Fraud
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,12 +6,12 @@ head:
 entry: Way
 topic: Way
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_195/'>1007 [Way]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Way]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4497/'>way</a>"
+index: "<a href='/digital-beehive/index5/index_4497/'>way</a>"
 insertion_xref: 
 insertion: 
 item: "#item-27774c1da"
@@ -24,7 +24,7 @@ order: '1016'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,2934,464/full/0/default.jpg
 label: Way
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

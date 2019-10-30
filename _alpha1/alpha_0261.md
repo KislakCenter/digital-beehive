@@ -6,12 +6,12 @@ head:
 entry: Drieness
 topic: Drieness
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1149/'>drieness</a>"
+index: "<a href='/digital-beehive/index1/index_1149/'>drieness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-edc1632ba"
@@ -24,7 +24,7 @@ order: '261'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,2969,297/full/0/default.jpg
 label: Drieness
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_4280
 volume: Volume 3
 image_number: '49'
 head: two masters
-entry: "<a href='/New_Beehive/toc/toc2_413/'>2388 [Two Masters]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_413/'>2388 [Two Masters]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4280'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/215,2860,524,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/215,2860,524,99/full/0/default.jpg
 label: two masters
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

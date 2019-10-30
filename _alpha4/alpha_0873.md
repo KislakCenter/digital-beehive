@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3733/'>Siren</a>"
+index: "<a href='/digital-beehive/index4/index_3733/'>Siren</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bff432c84"
@@ -24,7 +24,7 @@ order: '873'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/332,3302,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/332,3302,1089,104/full/0/default.jpg
 label: Siren
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

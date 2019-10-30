@@ -3,7 +3,7 @@ pid: index_0584
 volume: Volume 3
 image_number: '12'
 head: certainly
-entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security]</a>|<a href='/New_Beehive/toc/toc2_387/'>2213
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security]</a>|<a href='/digital-beehive/toc/toc2_387/'>2213
   [I am sure]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '584'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1120,1777,674,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1120,1777,674,113/full/0/default.jpg
 label: certainly
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

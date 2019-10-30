@@ -6,13 +6,13 @@ head:
 entry: Beginning
 topic: Beginning
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0325/'>first</a>|<a href='/New_Beehive/toc/toc2_128/'>550
+xref: "<a href='/digital-beehive/alpha2/alpha_0325/'>first</a>|<a href='/digital-beehive/toc/toc2_128/'>550
   [Beginn]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0339/'>beginning</a>"
+index: "<a href='/digital-beehive/index1/index_0339/'>beginning</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bb591305c"
@@ -25,7 +25,7 @@ order: '74'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,1989,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,1989,2901,556/full/0/default.jpg
 label: Beginning
-location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

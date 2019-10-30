@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1995/'>incivility</a>"
+index: "<a href='/digital-beehive/index3/index_1995/'>incivility</a>"
 insertion_xref: 
 insertion: 
 item: "#item-123fb86c5"
@@ -24,7 +24,7 @@ order: '465'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/775,3747,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/775,3747,2954,524/full/0/default.jpg
 label: Incivility
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

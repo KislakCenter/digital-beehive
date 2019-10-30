@@ -3,7 +3,7 @@ pid: index_1790
 volume: Volume 3
 image_number: '23'
 head: hector
-entry: "<a href='/New_Beehive/toc/toc2_335/'>1709 [Hector]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1709 [Hector]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1790'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1546,1695,352,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1546,1695,352,124/full/0/default.jpg
 label: hector
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

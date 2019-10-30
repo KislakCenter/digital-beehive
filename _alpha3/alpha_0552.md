@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2341/'>love of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_2341/'>love of Christ</a>"
 insertion_xref: 
 insertion: 
 item: "#item-554daa050"
@@ -24,7 +24,7 @@ order: '552'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,3028,682/full/0/default.jpg
 label: Love of Christ
-location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

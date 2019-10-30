@@ -6,12 +6,12 @@ head:
 entry: Self knowledge
 topic: Self knowledge
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_079/'>210 [Self-knowledge]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_079/'>210 [Self-knowledge]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3620/'>Self knowledge</a>"
+index: "<a href='/digital-beehive/index4/index_3620/'>Self knowledge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fb36375da"
@@ -25,7 +25,7 @@ order: '843'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,3051,427/full/0/default.jpg
 label: Self knowledge
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

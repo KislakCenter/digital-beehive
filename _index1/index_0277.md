@@ -3,12 +3,12 @@ pid: index_0277
 volume: Volume 3
 image_number: '9'
 head: baldness
-entry: "<a href='/New_Beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
 topic: 
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '277'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/full/0/default.jpg
 label: baldness
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

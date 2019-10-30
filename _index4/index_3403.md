@@ -3,7 +3,7 @@ pid: index_3403
 volume: Volume 3
 image_number: '39'
 head: book of revelations
-entry: "<a href='/New_Beehive/alpha4/alpha_0794/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0794/'>a</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3403'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,2998,550,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,2998,550,153/full/0/default.jpg
 label: book of revelations
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

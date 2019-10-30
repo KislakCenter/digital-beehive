@@ -6,12 +6,12 @@ head:
 entry: Honesty
 topic: Honesty
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_254/'>1303 [Honesty]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_254/'>1303 [Honesty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1865/'>honesty</a>"
+index: "<a href='/digital-beehive/index2/index_1865/'>honesty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4d4ef6ca7"
@@ -24,7 +24,7 @@ order: '425'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,3108,529/full/0/default.jpg
 label: Honesty
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_1891
 volume: Volume 3
 image_number: '24'
 head: house of office
-entry: "<a href='/New_Beehive/toc/toc2_138/'>607 [Privy house]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_138/'>607 [Privy house]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1891'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/full/0/default.jpg
 label: house of office
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

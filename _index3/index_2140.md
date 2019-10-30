@@ -3,7 +3,7 @@ pid: index_2140
 volume: Volume 3
 image_number: '27'
 head: Ivory
-entry: "<a href='/New_Beehive/toc/toc2_357/'>1937 [Ivory]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1937 [Ivory]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2140'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/138,2356,356,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/138,2356,356,116/full/0/default.jpg
 label: Ivory
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

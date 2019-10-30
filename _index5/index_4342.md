@@ -3,7 +3,7 @@ pid: index_4342
 volume: Volume 3
 image_number: '49'
 head: virginity
-entry: "<a href='/New_Beehive/alpha5/alpha_0986/'>a</a>|<a href='/New_Beehive/toc/toc2_366/'>2008
+entry: "<a href='/digital-beehive/alpha5/alpha_0986/'>a</a>|<a href='/digital-beehive/toc/toc2_366/'>2008
   [Virgins]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4342'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1619,2481,624,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1619,2481,624,129/full/0/default.jpg
 label: virginity
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

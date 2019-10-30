@@ -3,12 +3,12 @@ pid: index_3739
 volume: Volume 3
 image_number: '43'
 head: skie
-entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Clouds]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>383 [Clouds]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3739'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1346,541,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1346,541,114/full/0/default.jpg
 label: skie
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

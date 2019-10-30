@@ -6,12 +6,12 @@ head:
 entry: Conversion
 topic: Conversion
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_309/'>1572 [Conversion]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_309/'>1572 [Conversion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0838/'>conversion</a>"
+index: "<a href='/digital-beehive/index1/index_0838/'>conversion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bc1aed1e3"
@@ -24,7 +24,7 @@ order: '177'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/297,228,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/297,228,3189,581/full/0/default.jpg
 label: Conversion
-location: "<a href='/New_Beehive/toc/toc1_435/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

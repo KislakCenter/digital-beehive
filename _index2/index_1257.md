@@ -3,7 +3,7 @@ pid: index_1257
 volume: Volume 3
 image_number: '18'
 head: English histories
-entry: "<a href='/New_Beehive/toc/toc2_294/'>1503 [Histories of England, Scotland,
+entry: "<a href='/digital-beehive/toc/toc2_294/'>1503 [Histories of England, Scotland,
   &c.]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1257'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1826,1754,503,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1826,1754,503,121/full/0/default.jpg
 label: English histories
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

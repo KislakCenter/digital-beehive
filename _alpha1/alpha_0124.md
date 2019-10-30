@@ -6,13 +6,13 @@ head:
 entry: Cat
 topic: Cat
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_341/'>1761 [Cat]</a>|<a href='/New_Beehive/toc/toc2_300/'>1529
+xref: "<a href='/digital-beehive/toc/toc2_341/'>1761 [Cat]</a>|<a href='/digital-beehive/toc/toc2_300/'>1529
   [wild Cats]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0558/'>cat</a>"
+index: "<a href='/digital-beehive/index1/index_0558/'>cat</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e3c49318a"
@@ -25,7 +25,7 @@ order: '124'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/832,837,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/832,837,3033,347/full/0/default.jpg
 label: Cat
-location: "<a href='/New_Beehive/toc/toc1_430/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index5/index_4302/'>vault</a>"
+see: "<a href='/digital-beehive/index5/index_4302/'>vault</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '196'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1096,3244,470,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1096,3244,470,161/full/0/default.jpg
 label: arch
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3622/'>Self love</a>"
+index: "<a href='/digital-beehive/index4/index_3622/'>Self love</a>"
 insertion_xref: 
 insertion: 
 item: "#item-50089957d"
@@ -24,7 +24,7 @@ order: '844'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/310,2919,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/310,2919,3004,417/full/0/default.jpg
 label: Self love
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

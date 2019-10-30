@@ -6,13 +6,13 @@ head:
 entry: Wound
 topic: Wound
 first_letter: W
-xref: "<a href='/New_Beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/New_Beehive/toc/toc2_223/'>1146
+xref: "<a href='/digital-beehive/alpha3/alpha_0564/'>Maimed</a>|Bites|<a href='/digital-beehive/toc/toc2_223/'>1146
   [Wound]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4627/'>wounds</a>"
+index: "<a href='/digital-beehive/index5/index_4627/'>wounds</a>"
 insertion_xref: 
 insertion: 
 item: "#item-daf426cdf"
@@ -26,7 +26,7 @@ order: '1052'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1582,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1582,3034,331/full/0/default.jpg
 label: Wound
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

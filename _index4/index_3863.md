@@ -3,7 +3,7 @@ pid: index_3863
 volume: Volume 3
 image_number: '44'
 head: spoon
-entry: "<a href='/New_Beehive/toc/toc2_348/'>1819 [Spoon]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_348/'>1819 [Spoon]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3863'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1825,1647,381,78/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1825,1647,381,78/full/0/default.jpg
 label: spoon
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Eclipse
 topic: Eclipse
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_175/'>936 [Eclipse]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>936 [Eclipse]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1205/'>eclipse</a>"
+index: "<a href='/digital-beehive/index2/index_1205/'>eclipse</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3a398c693"
@@ -24,7 +24,7 @@ order: '275'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,3117,234/full/0/default.jpg
 label: Eclipse
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

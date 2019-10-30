@@ -6,12 +6,12 @@ head:
 entry: Believe
 topic: Believe
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_156/'>705 [doubtfulness, believe]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_156/'>705 [doubtfulness, believe]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0346/'>to believe</a>"
+index: "<a href='/digital-beehive/index1/index_0346/'>to believe</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7737412f6"
@@ -24,7 +24,7 @@ order: '77'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/857,2680,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/857,2680,2909,207/full/0/default.jpg
 label: Believe
-location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

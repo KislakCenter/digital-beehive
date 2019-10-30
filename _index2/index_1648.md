@@ -3,7 +3,7 @@ pid: index_1648
 volume: Volume 3
 image_number: '22'
 head: God hiding himself
-entry: "<a href='/New_Beehive/toc/toc2_366/'>2003 [God hides himself]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_366/'>2003 [God hides himself]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1648'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,2026,651,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,2026,651,85/full/0/default.jpg
 label: God hiding himself
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_0297
 volume: Volume 3
 image_number: '9'
 head: to bark
-entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [To Bark]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>911 [To Bark]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '297'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/862,2961,438,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/862,2961,438,90/full/0/default.jpg
 label: to bark
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

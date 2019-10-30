@@ -6,14 +6,14 @@ head:
 entry: Epicurism
 topic: Epicurism
 first_letter: E
-xref: "<a href='/New_Beehive/alpha4/alpha_0795/'>Revelling</a>|<a href='/New_Beehive/alpha2/alpha_0304/'>lust
-  of the eye</a>|<a href='/New_Beehive/alpha4/alpha_0707/'>Pleasure</a>|<a href='/New_Beehive/alpha5/alpha_1048/'>Worldly</a>|<a
-  href='/New_Beehive/toc/toc2_211/'>1087 [Epicures]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>Revelling</a>|<a href='/digital-beehive/alpha2/alpha_0304/'>lust
+  of the eye</a>|<a href='/digital-beehive/alpha4/alpha_0707/'>Pleasure</a>|<a href='/digital-beehive/alpha5/alpha_1048/'>Worldly</a>|<a
+  href='/digital-beehive/toc/toc2_211/'>1087 [Epicures]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1280/'>epicurism</a>"
+index: "<a href='/digital-beehive/index2/index_1280/'>epicurism</a>"
 insertion_xref: 
 insertion: 
 item: "#item-42a12e4a4"
@@ -27,7 +27,7 @@ order: '285'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,4513,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,4513,3112,601/full/0/default.jpg
 label: Epicurism
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

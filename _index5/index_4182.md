@@ -3,7 +3,8 @@ pid: index_4182
 volume: Volume 3
 image_number: '48'
 head: too much
-entry: "<a href='/New_Beehive/alpha5/alpha_0955/'>a</a>|815 [PAGE_MISSING]|4649 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha5/alpha_0955/'>a</a>|815 [PAGE_MISSING]|4649
+  [PAGE_MISSING]"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +25,7 @@ order: '4182'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/443,1635,713,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/443,1635,713,134/full/0/default.jpg
 label: too much
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

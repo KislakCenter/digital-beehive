@@ -6,12 +6,12 @@ head:
 entry: Parrot
 topic: Parrot
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_430/'>4804 [Parrot]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_430/'>4804 [Parrot]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2890/'>parrot</a>"
+index: "<a href='/digital-beehive/index4/index_2890/'>parrot</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f40fc963a"
@@ -24,7 +24,7 @@ order: '675'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/760,4163,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/760,4163,2905,282/full/0/default.jpg
 label: Parrot
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

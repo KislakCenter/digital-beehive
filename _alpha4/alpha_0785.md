@@ -6,12 +6,12 @@ head:
 entry: Late Repentance
 topic: Late Repentance
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_092/'>307 [repentance]</a>|<a href='/New_Beehive/alpha1/alpha_0219/'>Delay</a>"
+xref: "<a href='/digital-beehive/toc/toc2_092/'>307 [repentance]</a>|<a href='/digital-beehive/alpha1/alpha_0219/'>Delay</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3371/'>repentance late</a>"
+index: "<a href='/digital-beehive/index4/index_3371/'>repentance late</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d55b9edbb"
@@ -25,7 +25,7 @@ order: '785'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/319,1937,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/319,1937,3014,407/full/0/default.jpg
 label: Late Repentance
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Crime
 topic: Crime
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0117/'>Capital offence</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0117/'>Capital offence</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0908/'>crime</a>"
+index: "<a href='/digital-beehive/index1/index_0908/'>crime</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3c2215f76"
@@ -24,7 +24,7 @@ order: '194'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/800,2471,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/800,2471,3042,667/full/0/default.jpg
 label: Crime
-location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4731/'>angling</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4731/'>angling</a>"
 insertion: 
 item: "#item-dddab688a"
 unparsed: 'Type: Index|Insertion Xref: [:61.]|#item-dddab688a'
@@ -24,7 +24,7 @@ order: '144'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/967,1854,151,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/967,1854,151,99/full/0/default.jpg
 label: "[:61.]"
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

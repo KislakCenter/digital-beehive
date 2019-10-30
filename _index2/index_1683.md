@@ -3,7 +3,7 @@ pid: index_1683
 volume: Volume 3
 image_number: '22'
 head: graces before meat
-entry: "<a href='/New_Beehive/toc/toc2_440/'>4866 [Graces before and after meat]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_440/'>4866 [Graces before and after meat]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1683'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1809,1443,696,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1809,1443,696,146/full/0/default.jpg
 label: graces before meat
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

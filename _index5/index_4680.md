@@ -3,7 +3,7 @@ pid: index_4680
 volume: Volume 3
 image_number: '54'
 head: Cures. curable
-entry: "<a href='/New_Beehive/toc/toc2_363/'>1982 [Cures]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_363/'>1982 [Cures]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4680'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/379,2435,507,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/379,2435,507,162/full/0/default.jpg
 label: Cures. curable
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

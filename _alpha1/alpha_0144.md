@@ -6,13 +6,13 @@ head:
 entry: Christ
 topic: Christ
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0448/'>Jesus</a>|<a href='/New_Beehive/toc/toc2_087/'>266
+xref: "<a href='/digital-beehive/alpha3/alpha_0448/'>Jesus</a>|<a href='/digital-beehive/toc/toc2_087/'>266
   [Christ]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0645/'>Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
 insertion_xref: 
 insertion: 
 item: "#item-594547e43"
@@ -25,7 +25,7 @@ order: '144'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/355,4377,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/355,4377,3104,722/full/0/default.jpg
 label: Christ
-location: "<a href='/New_Beehive/toc/toc1_431/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

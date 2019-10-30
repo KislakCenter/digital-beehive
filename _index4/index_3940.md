@@ -3,7 +3,7 @@ pid: index_3940
 volume: Volume 3
 image_number: '45'
 head: to stretch
-entry: "<a href='/New_Beehive/toc/toc2_071/'>143 [to Stretchout]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_071/'>143 [to Stretchout]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3940'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2590,464,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2590,464,118/full/0/default.jpg
 label: to stretch
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

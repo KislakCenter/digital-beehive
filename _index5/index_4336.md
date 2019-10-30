@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: U/V
 xref: 
-see: "<a href='/New_Beehive/index2/index_1502/'>force</a>|<a href='/New_Beehive/index4/index_3920/'>storm</a>"
+see: "<a href='/digital-beehive/index2/index_1502/'>force</a>|<a href='/digital-beehive/index4/index_3920/'>storm</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4336'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/full/0/default.jpg
 label: violence
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

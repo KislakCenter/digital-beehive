@@ -3,7 +3,7 @@ pid: index_0910
 volume: Volume 3
 image_number: '15'
 head: criticism
-entry: "<a href='/New_Beehive/toc/toc2_320/'>1627 [Criticism]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1627 [Criticism]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '910'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1627,549,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1627,549,109/full/0/default.jpg
 label: criticism
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,12 +3,12 @@ pid: index_1792
 volume: Volume 3
 image_number: '23'
 head: hedgehog
-entry: "<a href='/New_Beehive/toc/toc2_315/'>1601 [Hedghogs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [Hedghogs]</a>"
 topic: 
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1792'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,1891,457,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,1891,457,105/full/0/default.jpg
 label: hedgehog
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

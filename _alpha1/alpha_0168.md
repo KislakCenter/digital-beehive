@@ -6,12 +6,12 @@ head:
 entry: Auricular Confession
 topic: Auricular Confession
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_175/'>940 [Auricular Confession]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>940 [Auricular Confession]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0786/'>confession auricular</a>"
+index: "<a href='/digital-beehive/index1/index_0786/'>confession auricular</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b300239ec"
@@ -25,7 +25,7 @@ order: '168'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/796,199,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/796,199,3069,507/full/0/default.jpg
 label: Auricular Confession
-location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

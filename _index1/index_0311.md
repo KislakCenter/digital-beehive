@@ -3,8 +3,8 @@ pid: index_0311
 volume: Volume 3
 image_number: '9'
 head: baudry
-entry: "<a href='/New_Beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_372/'>2068
-  [Bawdry]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_372/'>2068 [Bawdry]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '311'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,1084,667,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,1084,667,167/full/0/default.jpg
 label: baudry
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

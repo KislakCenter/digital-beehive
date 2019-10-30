@@ -3,13 +3,13 @@ pid: index_2890
 volume: Volume 3
 image_number: '34'
 head: parrot
-entry: "<a href='/New_Beehive/alpha4/alpha_0675/'>a</a>|<a href='/New_Beehive/toc/toc2_430/'>4804
+entry: "<a href='/digital-beehive/alpha4/alpha_0675/'>a</a>|<a href='/digital-beehive/toc/toc2_430/'>4804
   [Parrot]</a>"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '2890'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1129,2382,726,208/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1129,2382,726,208/full/0/default.jpg
 label: parrot
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

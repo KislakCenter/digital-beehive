@@ -3,9 +3,9 @@ pid: index_0449
 volume: Volume 3
 image_number: '11'
 head: brevity
-entry: "<a href='/New_Beehive/alpha1/alpha_0098/'>a</a>|<a href='/New_Beehive/toc/toc2_102/'>374
-  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/New_Beehive/toc/toc2_260/'>1335
-  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_369/'>2031 [Brevity]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0098/'>a</a>|<a href='/digital-beehive/toc/toc2_102/'>374
+  [Brevity]</a>|<a href='/digital-beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/digital-beehive/toc/toc2_260/'>1335
+  [Brevity]</a>|<a href='/digital-beehive/toc/toc2_369/'>2031 [Brevity]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -27,7 +27,7 @@ order: '449'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/145,1693,753,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/145,1693,753,145/full/0/default.jpg
 label: brevity
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_4693
 volume: Volume 3
 image_number: '54'
 head: Dr. Burnet
-entry: "<a href='/New_Beehive/toc/toc2_110/'>432 [G. Burnet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_110/'>432 [G. Burnet]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4693'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,577,654,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,577,654,162/full/0/default.jpg
 label: Dr. Burnet
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

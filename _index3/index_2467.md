@@ -8,7 +8,7 @@ topic:
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc2_191/'>p.379 [Image 2.201]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc2_191/'>p.379 [Image 2.201]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2467'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/full/0/default.jpg
 label: medicine books
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

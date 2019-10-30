@@ -6,12 +6,12 @@ head:
 entry: Banquetting Stuff
 topic: Banquetting Stuff
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_064/'>76 [Dainty meats]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_064/'>76 [Dainty meats]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0287/'>banquetting stuff</a>"
+index: "<a href='/digital-beehive/index1/index_0287/'>banquetting stuff</a>"
 insertion_xref: 
 insertion: 
 item: "#item-680b110e2"
@@ -25,7 +25,7 @@ order: '58'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,1382,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,1382,3091,375/full/0/default.jpg
 label: Banquetting Stuff
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

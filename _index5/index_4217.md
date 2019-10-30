@@ -3,8 +3,8 @@ pid: index_4217
 volume: Volume 3
 image_number: '48'
 head: transitory
-entry: "<a href='/New_Beehive/alpha5/alpha_0965/'>a</a>|<a href='/New_Beehive/toc/toc2_224/'>1153
-  [Transitory]</a>|<a href='/New_Beehive/toc/toc2_425/'>4470 [Transitory]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0965/'>a</a>|<a href='/digital-beehive/toc/toc2_224/'>1153
+  [Transitory]</a>|<a href='/digital-beehive/toc/toc2_425/'>4470 [Transitory]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -25,7 +25,7 @@ order: '4217'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1102,2210,730,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1102,2210,730,148/full/0/default.jpg
 label: transitory
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

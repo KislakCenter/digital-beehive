@@ -6,12 +6,12 @@ head:
 entry: Justification
 topic: Justification
 first_letter: I/J
-xref: Righteousness|<a href='/New_Beehive/toc/toc2_104/'>390 [Justification]</a>
+xref: Righteousness|<a href='/digital-beehive/toc/toc2_104/'>390 [Justification]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2145/'>justification</a>"
+index: "<a href='/digital-beehive/index3/index_2145/'>justification</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6329b41b8"
@@ -25,7 +25,7 @@ order: '496'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/305,1231,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/305,1231,3088,802/full/0/default.jpg
 label: Justification
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

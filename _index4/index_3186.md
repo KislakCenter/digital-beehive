@@ -3,7 +3,7 @@ pid: index_3186
 volume: Volume 3
 image_number: '37'
 head: project
-entry: "<a href='/New_Beehive/toc/toc2_139/'>608 [Undertaking]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_139/'>608 [Undertaking]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3186'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,2739,429,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,2739,429,104/full/0/default.jpg
 label: project
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

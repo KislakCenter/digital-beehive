@@ -3,7 +3,7 @@ pid: index_4490
 volume: Volume 3
 image_number: '52'
 head: watch word
-entry: "<a href='/New_Beehive/toc/toc2_300/'>1526 [Watch-word]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Watch-word]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4490'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/full/0/default.jpg
 label: watch word
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

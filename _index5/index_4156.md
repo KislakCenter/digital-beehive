@@ -3,7 +3,7 @@ pid: index_4156
 volume: Volume 3
 image_number: '47'
 head: complaint of times
-entry: "<a href='/New_Beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4156'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1576,2354,645,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1576,2354,645,122/full/0/default.jpg
 label: complaint of times
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

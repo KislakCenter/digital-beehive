@@ -3,8 +3,8 @@ pid: index_2633
 volume: Volume 3
 image_number: '31'
 head: nakedness
-entry: "<a href='/New_Beehive/alpha3/alpha_0621/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>499
-  [Nackedness]</a>|<a href='/New_Beehive/toc/toc2_427/'>4479 [Nakedness]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0621/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>499
+  [Nackedness]</a>|<a href='/digital-beehive/toc/toc2_427/'>4479 [Nakedness]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -25,7 +25,7 @@ order: '2633'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1541,3308,736,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1541,3308,736,173/full/0/default.jpg
 label: nakedness
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

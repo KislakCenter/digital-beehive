@@ -6,12 +6,12 @@ head:
 entry: Barber Surgeon
 topic: Barber Surgeon
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_171/'>917 [Surgery]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_171/'>917 [Surgery]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0292/'>barber Surgeon</a>"
+index: "<a href='/digital-beehive/index1/index_0292/'>barber Surgeon</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5b3002dd1"
@@ -25,7 +25,7 @@ order: '60'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/350,2291,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/350,2291,3066,364/full/0/default.jpg
 label: Barber Surgeon
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

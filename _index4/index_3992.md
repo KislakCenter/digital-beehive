@@ -3,10 +3,10 @@ pid: index_3992
 volume: Volume 3
 image_number: '46'
 head: Lord's Supper
-entry: "<a href='/New_Beehive/alpha4/alpha_0922/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>482
-  [Communion or Partaking]</a>|<a href='/New_Beehive/toc/toc2_343/'>1773 [Lord's Supper]</a>|<a
-  href='/New_Beehive/toc/toc2_391/'>2240 [Lord's Supper]</a>|<a href='/New_Beehive/toc/toc2_419/'>2430
-  [Lord's Supper]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0922/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>482
+  [Communion or Partaking]</a>|<a href='/digital-beehive/toc/toc2_343/'>1773 [Lord's
+  Supper]</a>|<a href='/digital-beehive/toc/toc2_391/'>2240 [Lord's Supper]</a>|<a
+  href='/digital-beehive/toc/toc2_419/'>2430 [Lord's Supper]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -28,7 +28,7 @@ order: '3992'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/full/0/default.jpg
 label: Lord's Supper
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

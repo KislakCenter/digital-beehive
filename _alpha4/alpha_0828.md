@@ -6,12 +6,12 @@ head:
 entry: Scorn
 topic: Scorn
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>derision</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0226/'>derision</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3554/'>scorn</a>"
+index: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f54674d4c"
@@ -24,7 +24,7 @@ order: '828'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,2929,496/full/0/default.jpg
 label: Scorn
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

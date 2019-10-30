@@ -8,7 +8,7 @@ topic:
 first_letter: A
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc2_191/'>p.379 [Image 2.201]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc2_191/'>p.379 [Image 2.201]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '204'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1808,550,682,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1808,550,682,120/full/0/default.jpg
 label: arithmetical books
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

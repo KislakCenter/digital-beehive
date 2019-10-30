@@ -3,7 +3,7 @@ pid: index_1140
 volume: Volume 3
 image_number: '17'
 head: Fr. Drake
-entry: "<a href='/New_Beehive/toc/toc2_099/'>353 [Francis Drake]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_099/'>353 [Francis Drake]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1140'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,1254,484,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,1254,484,119/full/0/default.jpg
 label: Fr. Drake
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

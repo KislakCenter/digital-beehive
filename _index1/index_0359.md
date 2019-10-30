@@ -3,7 +3,7 @@ pid: index_0359
 volume: Volume 3
 image_number: '10'
 head: besides the purpose
-entry: "<a href='/New_Beehive/toc/toc2_149/'>666 [In vain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_149/'>666 [In vain]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '359'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/363,2309,580,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/363,2309,580,127/full/0/default.jpg
 label: besides the purpose
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

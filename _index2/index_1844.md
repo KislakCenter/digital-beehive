@@ -3,8 +3,8 @@ pid: index_1844
 volume: Volume 3
 image_number: '24'
 head: history
-entry: "<a href='/New_Beehive/toc/toc2_060/'>31 [History]</a>|<a href='/New_Beehive/toc/toc2_185/'>997
-  [History]</a>|<a href='/New_Beehive/toc/toc2_339/'>1746 [Chroniclers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_060/'>31 [History]</a>|<a href='/digital-beehive/toc/toc2_185/'>997
+  [History]</a>|<a href='/digital-beehive/toc/toc2_339/'>1746 [Chroniclers]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1844'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/full/0/default.jpg
 label: history
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

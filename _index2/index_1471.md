@@ -3,7 +3,7 @@ pid: index_1471
 volume: Volume 3
 image_number: '20'
 head: flagging
-entry: "<a href='/New_Beehive/toc/toc2_138/'>603 [Flaccid]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_138/'>603 [Flaccid]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1471'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1789,2113,493,200/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1789,2113,493,200/full/0/default.jpg
 label: flagging
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_2561
 volume: Volume 3
 image_number: '31'
 head: Moloch
-entry: "<a href='/New_Beehive/toc/toc2_318/'>1618 [Moloch]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_318/'>1618 [Moloch]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2561'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/full/0/default.jpg
 label: Moloch
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

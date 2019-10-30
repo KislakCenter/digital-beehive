@@ -3,7 +3,7 @@ pid: index_2694
 volume: Volume 3
 image_number: '32'
 head: new
-entry: "<a href='/New_Beehive/alpha3/alpha_0634/'>a</a>|<a href='/New_Beehive/toc/toc2_326/'>1656
+entry: "<a href='/digital-beehive/alpha3/alpha_0634/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1656
   [New coyn'd News]</a>"
 topic: 
 first_letter: N
@@ -25,7 +25,7 @@ order: '2694'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/full/0/default.jpg
 label: new
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

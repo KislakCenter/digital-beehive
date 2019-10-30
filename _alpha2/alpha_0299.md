@@ -6,13 +6,13 @@ head:
 entry: Experience
 topic: Experience
 first_letter: E
-xref: "<a href='/New_Beehive/alpha4/alpha_0874/'>Skill</a>|<a href='/New_Beehive/toc/toc2_262/'>1345
+xref: "<a href='/digital-beehive/alpha4/alpha_0874/'>Skill</a>|<a href='/digital-beehive/toc/toc2_262/'>1345
   [Experience]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1354/'>experience</a>"
+index: "<a href='/digital-beehive/index2/index_1354/'>experience</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5d82b5199"
@@ -26,7 +26,7 @@ order: '299'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/375,1067,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/375,1067,3107,629/full/0/default.jpg
 label: Experience
-location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

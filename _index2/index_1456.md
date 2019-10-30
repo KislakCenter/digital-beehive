@@ -3,7 +3,7 @@ pid: index_1456
 volume: Volume 3
 image_number: '20'
 head: bonefire
-entry: "<a href='/New_Beehive/toc/toc2_205/'>1058 [Bonfires]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1058 [Bonfires]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1456'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1819,1028,516,232/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1819,1028,516,232/full/0/default.jpg
 label: bonefire
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

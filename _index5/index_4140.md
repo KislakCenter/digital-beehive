@@ -3,7 +3,7 @@ pid: index_4140
 volume: Volume 3
 image_number: '47'
 head: thrush
-entry: "<a href='/New_Beehive/alpha5/alpha_0944/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0944/'>a</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4140'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1616,533,328,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1616,533,328,114/full/0/default.jpg
 label: thrush
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_3021
 volume: Volume 3
 image_number: '35'
 head: pirate
-entry: "<a href='/New_Beehive/toc/toc2_098/'>344 [A Pyrat]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_098/'>344 [A Pyrat]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3021'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1519,2011,494,181/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1519,2011,494,181/full/0/default.jpg
 label: pirate
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

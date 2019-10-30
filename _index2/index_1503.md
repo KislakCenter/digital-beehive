@@ -3,7 +3,7 @@ pid: index_1503
 volume: Volume 3
 image_number: '21'
 head: foregoing
-entry: "<a href='/New_Beehive/toc/toc2_343/'>1779 [Foregoing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_343/'>1779 [Foregoing]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1503'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/154,1950,504,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/154,1950,504,85/full/0/default.jpg
 label: foregoing
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

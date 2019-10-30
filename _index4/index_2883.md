@@ -3,7 +3,7 @@ pid: index_2883
 volume: Volume 3
 image_number: '34'
 head: Paris
-entry: "<a href='/New_Beehive/alpha4/alpha_0674/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0674/'>a</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2883'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1125,1774,360,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1125,1774,360,173/full/0/default.jpg
 label: Paris
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

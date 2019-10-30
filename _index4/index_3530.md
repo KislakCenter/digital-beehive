@@ -3,7 +3,7 @@ pid: index_3530
 volume: Volume 3
 image_number: '41'
 head: Saxony
-entry: "<a href='/New_Beehive/toc/toc2_268/'>1372 [According]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_268/'>1372 [According]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3530'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/157,2470,482,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/157,2470,482,107/full/0/default.jpg
 label: Saxony
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

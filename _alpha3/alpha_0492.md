@@ -6,12 +6,12 @@ head:
 entry: Judge
 topic: Judge
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_325/'>1652 [Judge]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_325/'>1652 [Judge]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2131/'>judge</a>"
+index: "<a href='/digital-beehive/index3/index_2131/'>judge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-af0b7a605"
@@ -24,7 +24,7 @@ order: '492'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,4093,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,4093,2976,535/full/0/default.jpg
 label: Judge
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

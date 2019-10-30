@@ -3,7 +3,7 @@ pid: index_0765
 volume: Volume 3
 image_number: '14'
 head: complexions
-entry: "<a href='/New_Beehive/toc/toc2_276/'>1414 [Seven Planets]</a>|1889 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_276/'>1414 [Seven Planets]</a>|1889 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '765'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/431,1045,735,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/431,1045,735,135/full/0/default.jpg
 label: complexions
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

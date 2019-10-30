@@ -3,7 +3,7 @@ pid: index_3484
 volume: Volume 3
 image_number: '40'
 head: saddle
-entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [a Saddle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Saddle]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3484'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1778,1716,490,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1778,1716,490,129/full/0/default.jpg
 label: saddle
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

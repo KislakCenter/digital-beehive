@@ -3,7 +3,7 @@ pid: index_1707
 volume: Volume 3
 image_number: '23'
 head: great
-entry: "<a href='/New_Beehive/alpha2/alpha_0385/'>a</a>|<a href='/New_Beehive/toc/toc2_144/'>635
+entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|<a href='/digital-beehive/toc/toc2_144/'>635
   [Great, rich & eminent Persons]</a>|800 [PAGE_MISSING]"
 topic: 
 first_letter: G
@@ -26,7 +26,7 @@ order: '1707'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/full/0/default.jpg
 label: great
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

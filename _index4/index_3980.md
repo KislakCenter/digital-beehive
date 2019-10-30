@@ -3,7 +3,7 @@ pid: index_3980
 volume: Volume 3
 image_number: '46'
 head: sum[m]er
-entry: "<a href='/New_Beehive/toc/toc2_249/'>1280 [Summer]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_249/'>1280 [Summer]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3980'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/full/0/default.jpg
 label: sum[m]er
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

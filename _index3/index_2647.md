@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: N
 xref: 
-see: "<a href='/New_Beehive/index1/index_0877/'>Country</a>"
+see: "<a href='/digital-beehive/index1/index_0877/'>Country</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2647'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/394,1137,572,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/394,1137,572,152/full/0/default.jpg
 label: native
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

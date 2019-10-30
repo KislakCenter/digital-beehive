@@ -3,7 +3,7 @@ pid: index_0019
 volume: Volume 3
 image_number: '7'
 head: abundance
-entry: "<a href='/New_Beehive/alpha1/alpha_0003/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0003/'>a</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '19'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/180,1754,491,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/180,1754,491,118/full/0/default.jpg
 label: abundance
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

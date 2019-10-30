@@ -6,13 +6,13 @@ head:
 entry: Anger
 topic: Anger
 first_letter: A
-xref: "<a href='/New_Beehive/alpha5/alpha_1054/'>Wrath</a>|<a href='/New_Beehive/toc/toc2_125/'>529
+xref: "<a href='/digital-beehive/alpha5/alpha_1054/'>Wrath</a>|<a href='/digital-beehive/toc/toc2_125/'>529
   [Angry]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0143/'>anger</a>"
+index: "<a href='/digital-beehive/index1/index_0143/'>anger</a>"
 insertion_xref: 
 insertion: 
 item: "#item-095035ce9"
@@ -25,7 +25,7 @@ order: '30'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/264,1581,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/264,1581,3148,619/full/0/default.jpg
 label: Anger
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

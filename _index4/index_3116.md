@@ -3,9 +3,9 @@ pid: index_3116
 volume: Volume 3
 image_number: '36'
 head: bad preachers
-entry: "<a href='/New_Beehive/toc/toc2_061/'>42 [False ministers]</a>|<a href='/New_Beehive/toc/toc2_246/'>1264
-  [False Teachers]</a>|<a href='/New_Beehive/toc/toc2_344/'>1784 [False Teachers]</a>|<a
-  href='/New_Beehive/toc/toc2_396/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_061/'>42 [False ministers]</a>|<a href='/digital-beehive/toc/toc2_246/'>1264
+  [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_344/'>1784 [False Teachers]</a>|<a
+  href='/digital-beehive/toc/toc2_396/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
@@ -27,7 +27,7 @@ order: '3116'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1549,654,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1549,654,162/full/0/default.jpg
 label: bad preachers
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

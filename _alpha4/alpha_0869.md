@@ -6,12 +6,12 @@ head:
 entry: Simulation
 topic: Simulation
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_223/'>1150 [Simulation]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_223/'>1150 [Simulation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3718/'>simulation</a>"
+index: "<a href='/digital-beehive/index4/index_3718/'>simulation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c01948499"
@@ -24,7 +24,7 @@ order: '869'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/303,1369,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/303,1369,3066,547/full/0/default.jpg
 label: Simulation
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

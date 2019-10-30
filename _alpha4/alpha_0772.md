@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3318/'>recom[m]endation</a>"
+index: "<a href='/digital-beehive/index4/index_3318/'>recom[m]endation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-404bc8a22"
@@ -25,7 +25,7 @@ order: '772'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/851,1055,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/851,1055,2942,617/full/0/default.jpg
 label: Recommendation
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

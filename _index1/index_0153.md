@@ -3,7 +3,7 @@ pid: index_0153
 volume: Volume 3
 image_number: '8'
 head: answer to books
-entry: "<a href='/New_Beehive/toc/toc2_293/'>1500 [Answer to Advers. Books]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_293/'>1500 [Answer to Advers. Books]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '153'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/393,2458,569,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/393,2458,569,96/full/0/default.jpg
 label: answer to books
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

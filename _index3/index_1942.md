@@ -3,7 +3,7 @@ pid: index_1942
 volume: Volume 3
 image_number: '25'
 head: Jesuite
-entry: "<a href='/New_Beehive/alpha3/alpha_0447/'>a</a>|<a href='/New_Beehive/toc/toc2_252/'>1292
+entry: "<a href='/digital-beehive/alpha3/alpha_0447/'>a</a>|<a href='/digital-beehive/toc/toc2_252/'>1292
   [Jesuites]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1942'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/full/0/default.jpg
 label: Jesuite
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

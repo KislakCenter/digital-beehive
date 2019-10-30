@@ -3,7 +3,7 @@ pid: index_1840
 volume: Volume 3
 image_number: '24'
 head: hinges
-entry: "<a href='/New_Beehive/toc/toc2_339/'>1748 [Hinges]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_339/'>1748 [Hinges]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1840'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/406,2849,447,178/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/406,2849,447,178/full/0/default.jpg
 label: hinges
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

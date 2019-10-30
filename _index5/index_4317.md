@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: U/V
 xref: 
-see: "<a href='/New_Beehive/index1/index_1093/'>Displeasure</a>"
+see: "<a href='/digital-beehive/index1/index_1093/'>Displeasure</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4317'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/full/0/default.jpg
 label: Verdrießen
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

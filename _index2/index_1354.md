@@ -3,7 +3,7 @@ pid: index_1354
 volume: Volume 3
 image_number: '19'
 head: experience
-entry: "<a href='/New_Beehive/alpha2/alpha_0299/'>a</a>|<a href='/New_Beehive/toc/toc2_262/'>Entry
+entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>|<a href='/digital-beehive/toc/toc2_262/'>Entry
   1345 [Experience]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1354'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1517,1487,711,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1517,1487,711,135/full/0/default.jpg
 label: experience
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

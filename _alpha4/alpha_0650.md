@@ -6,12 +6,12 @@ head:
 entry: Oeconomy
 topic: Oeconomy
 first_letter: O
-xref: "<a href='/New_Beehive/alpha2/alpha_0439/'>Husbandry</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0439/'>Husbandry</a>"
 see: 
 page: p.379 [Image 2.202]
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2768/'>oeconomy</a>"
+index: "<a href='/digital-beehive/index4/index_2768/'>oeconomy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e72af992e"
@@ -25,7 +25,7 @@ order: '650'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
 label: Oeconomy
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

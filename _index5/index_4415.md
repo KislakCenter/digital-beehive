@@ -24,7 +24,7 @@ order: '4415'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/227,964,507,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/227,964,507,166/full/0/default.jpg
 label: unsatiable
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

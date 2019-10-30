@@ -3,7 +3,7 @@ pid: index_0931
 volume: Volume 3
 image_number: '15'
 head: curse
-entry: "<a href='/New_Beehive/toc/toc2_060/'>29 [Curse]</a>|<a href='/New_Beehive/toc/toc2_209/'>1078
+entry: "<a href='/digital-beehive/toc/toc2_060/'>29 [Curse]</a>|<a href='/digital-beehive/toc/toc2_209/'>1078
   [Curse]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '931'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/full/0/default.jpg
 label: curse
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

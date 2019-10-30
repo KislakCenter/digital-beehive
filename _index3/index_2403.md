@@ -3,7 +3,7 @@ pid: index_2403
 volume: Volume 3
 image_number: '29'
 head: Mamut his valet
-entry: "<a href='/New_Beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2403'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,1276,492,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,1276,492,104/full/0/default.jpg
 label: Mamut his valet
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

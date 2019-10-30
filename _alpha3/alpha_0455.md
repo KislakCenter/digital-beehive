@@ -6,12 +6,12 @@ head:
 entry: Image of God
 topic: Image of God
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_373/'>2077 [Image of God]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_373/'>2077 [Image of God]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1956/'>Image of God</a>"
+index: "<a href='/digital-beehive/index3/index_1956/'>Image of God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ab2c15b5b"
@@ -25,7 +25,7 @@ order: '455'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/321,3914,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/321,3914,3036,443/full/0/default.jpg
 label: Image of God
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_4726
 volume: Volume 3
 image_number: '54'
 head: Sap
-entry: "<a href='/New_Beehive/toc/toc2_241/'>1240 [Juice]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_241/'>1240 [Juice]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4726'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,1425,466,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,1425,466,144/full/0/default.jpg
 label: Sap
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

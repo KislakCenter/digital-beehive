@@ -6,13 +6,13 @@ head:
 entry: Old age
 topic: Old age
 first_letter: O
-xref: "<a href='/New_Beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc/toc2_114/'>461
+xref: "<a href='/digital-beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/digital-beehive/toc/toc2_114/'>461
   [Old age]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2784/'>old age</a>"
+index: "<a href='/digital-beehive/index4/index_2784/'>old age</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b98f24942"
@@ -26,7 +26,7 @@ order: '656'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,3037,506/full/0/default.jpg
 label: Old age
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

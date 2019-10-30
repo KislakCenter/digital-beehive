@@ -6,13 +6,13 @@ head:
 entry: Occasion
 topic: Occasion
 first_letter: O
-xref: "<a href='/New_Beehive/alpha5/alpha_1000/'>Untimely</a>|<a href='/New_Beehive/alpha5/alpha_0947/'>Time</a>|<a
-  href='/New_Beehive/toc/toc2_157/'>706 [Occasion]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1000/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0947/'>Time</a>|<a
+  href='/digital-beehive/toc/toc2_157/'>706 [Occasion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2766/'>occasion</a>"
+index: "<a href='/digital-beehive/index4/index_2766/'>occasion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2e7db2854"
@@ -26,7 +26,7 @@ order: '649'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,3091,397/full/0/default.jpg
 label: Occasion
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

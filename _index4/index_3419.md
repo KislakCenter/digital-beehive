@@ -3,7 +3,7 @@ pid: index_3419
 volume: Volume 3
 image_number: '40'
 head: riband
-entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [a Band]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [a Band]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3419'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/full/0/default.jpg
 label: riband
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

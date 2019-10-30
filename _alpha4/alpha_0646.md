@@ -6,12 +6,12 @@ head:
 entry: Obligation
 topic: Obligation
 first_letter: O
-xref: "<a href='/New_Beehive/toc/toc2_273/'>1396 [Obliga[ti]on]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Obliga[ti]on]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2757/'>obligation</a>"
+index: "<a href='/digital-beehive/index4/index_2757/'>obligation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3f76e6e63"
@@ -24,7 +24,7 @@ order: '646'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/276,228,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/276,228,3031,454/full/0/default.jpg
 label: Obligation
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

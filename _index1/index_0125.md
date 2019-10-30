@@ -3,8 +3,8 @@ pid: index_0125
 volume: Volume 3
 image_number: '8'
 head: amending
-entry: "<a href='/New_Beehive/alpha1/alpha_0025/'>a</a>|<a href='/New_Beehive/toc/toc2_115/'>464
-  [Amending]</a>|<a href='/New_Beehive/toc/toc2_417/'>2408 [Amendment]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0025/'>a</a>|<a href='/digital-beehive/toc/toc2_115/'>464
+  [Amending]</a>|<a href='/digital-beehive/toc/toc2_417/'>2408 [Amendment]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -25,7 +25,7 @@ order: '125'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/406,307,706,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/406,307,706,167/full/0/default.jpg
 label: amending
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

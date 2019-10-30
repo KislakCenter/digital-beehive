@@ -3,7 +3,7 @@ pid: index_0033
 volume: Volume 3
 image_number: '7'
 head: acorns
-entry: "<a href='/New_Beehive/toc/toc2_280/'>1431 [Acorns]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Acorns]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '33'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/full/0/default.jpg
 label: acorns
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

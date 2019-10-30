@@ -3,8 +3,9 @@ pid: index_0093
 volume: Volume 3
 image_number: '7'
 head: Alexand M.
-entry: "<a href='/New_Beehive/toc/toc2_219/'>1128 [Alexander M]</a>|<a href='/New_Beehive/toc/toc2_336/'>1711
-  [Alexander the Great]</a>|<a href='/New_Beehive/toc/toc2_372/'>2067 [Alexander M]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1128 [Alexander M]</a>|<a href='/digital-beehive/toc/toc2_336/'>1711
+  [Alexander the Great]</a>|<a href='/digital-beehive/toc/toc2_372/'>2067 [Alexander
+  M]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -26,7 +27,7 @@ order: '93'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1585,1101,750,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1585,1101,750,161/full/0/default.jpg
 label: Alexand M.
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

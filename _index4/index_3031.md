@@ -3,7 +3,7 @@ pid: index_3031
 volume: Volume 3
 image_number: '35'
 head: plainness
-entry: "<a href='/New_Beehive/toc/toc2_068/'>113 [Plainness]</a>|<a href='/New_Beehive/toc/toc2_349/'>1825
+entry: "<a href='/digital-beehive/toc/toc2_068/'>113 [Plainness]</a>|<a href='/digital-beehive/toc/toc2_349/'>1825
   [Plain]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3031'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,3112,641,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,3112,641,131/full/0/default.jpg
 label: plainness
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

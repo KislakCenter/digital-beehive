@@ -3,7 +3,7 @@ pid: index_2502
 volume: Volume 3
 image_number: '30'
 head: metaphysicks
-entry: "<a href='/New_Beehive/alpha3/alpha_0587/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0587/'>a</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2502'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/full/0/default.jpg
 label: metaphysicks
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

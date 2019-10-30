@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index5/index_4497/'>way</a>"
+see: "<a href='/digital-beehive/index5/index_4497/'>way</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3937'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/903,2261,423,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/903,2261,423,91/full/0/default.jpg
 label: street
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

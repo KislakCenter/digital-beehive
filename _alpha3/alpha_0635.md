@@ -6,13 +6,13 @@ head:
 entry: News
 topic: News
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/New_Beehive/toc/toc2_244/'>1252
+xref: "<a href='/digital-beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/digital-beehive/toc/toc2_244/'>1252
   [News]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2703/'>news</a>"
+index: "<a href='/digital-beehive/index3/index_2703/'>news</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9f38763ad"
@@ -26,7 +26,7 @@ order: '635'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,3077,448/full/0/default.jpg
 label: News
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

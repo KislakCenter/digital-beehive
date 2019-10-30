@@ -3,7 +3,7 @@ pid: index_3896
 volume: Volume 3
 image_number: '45'
 head: Stephen
-entry: "<a href='/New_Beehive/toc/toc2_096/'>331 [St. Stephen]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_096/'>331 [St. Stephen]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3896'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,1637,404,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,1637,404,102/full/0/default.jpg
 label: Stephen
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

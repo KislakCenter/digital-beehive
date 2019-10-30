@@ -3,7 +3,7 @@ pid: index_3695
 volume: Volume 3
 image_number: '42'
 head: Sibijl
-entry: "<a href='/New_Beehive/toc/toc2_219/'>1130 [Sibyl]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1130 [Sibyl]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3695'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/full/0/default.jpg
 label: Sibijl
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

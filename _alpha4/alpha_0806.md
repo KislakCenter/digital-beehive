@@ -6,13 +6,13 @@ head:
 entry: Romances
 topic: Romances
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0305/'>Fables</a>|<a href='/New_Beehive/toc/toc2_272/'>1393
+xref: "<a href='/digital-beehive/alpha2/alpha_0305/'>Fables</a>|<a href='/digital-beehive/toc/toc2_272/'>1393
   [Romances]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3443/'>romance</a>"
+index: "<a href='/digital-beehive/index4/index_3443/'>romance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-af75dbbde"
@@ -25,7 +25,7 @@ order: '806'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,3033,339/full/0/default.jpg
 label: Romances
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

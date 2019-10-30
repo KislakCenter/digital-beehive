@@ -6,13 +6,13 @@ head:
 entry: Impartiality
 topic: Impartiality
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/New_Beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
-  href='/New_Beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
+xref: "<a href='/digital-beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/digital-beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
+  href='/digital-beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1964/'>impartiality</a>"
+index: "<a href='/digital-beehive/index3/index_1964/'>impartiality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-37fe4196e"
@@ -26,7 +26,7 @@ order: '459'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,3084,665/full/0/default.jpg
 label: Impartiality
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

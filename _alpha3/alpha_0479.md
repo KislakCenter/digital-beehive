@@ -6,13 +6,13 @@ head:
 entry: Insensibleness
 topic: Insensibleness
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0849/'>Sense</a>|<a href='/New_Beehive/toc/toc2_072/'>152
+xref: "<a href='/digital-beehive/alpha4/alpha_0849/'>Sense</a>|<a href='/digital-beehive/toc/toc2_072/'>152
   [Insensibleness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2060/'>insensibleness</a>"
+index: "<a href='/digital-beehive/index3/index_2060/'>insensibleness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-090ffa5e5"
@@ -26,7 +26,7 @@ order: '479'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,3031,414/full/0/default.jpg
 label: Insensibleness
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -6,12 +6,12 @@ head:
 entry: Intemperance
 topic: Intemperance
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/New_Beehive/alpha4/alpha_0795/'>Revelling</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/digital-beehive/alpha4/alpha_0795/'>Revelling</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2073/'>intemperance</a>"
+index: "<a href='/digital-beehive/index3/index_2073/'>intemperance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-adc38b33f"
@@ -25,7 +25,7 @@ order: '481'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,3005,682/full/0/default.jpg
 label: Intemperance
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

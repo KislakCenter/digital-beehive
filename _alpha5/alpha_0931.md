@@ -6,12 +6,12 @@ head:
 entry: Teacher
 topic: Teacher
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_104/'>393 [Teacher]</a>|False Prophets"
+xref: "<a href='/digital-beehive/toc/toc2_104/'>393 [Teacher]</a>|False Prophets"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4073/'>teachers</a>"
+index: "<a href='/digital-beehive/index5/index_4073/'>teachers</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e5a7c5921"
@@ -25,7 +25,7 @@ order: '931'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/346,3102,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/346,3102,3049,560/full/0/default.jpg
 label: Teacher
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

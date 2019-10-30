@@ -6,12 +6,12 @@ head:
 entry: Fort
 topic: Fort
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_091/'>298 [Fortress]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_091/'>298 [Fortress]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1520/'>fort</a>"
+index: "<a href='/digital-beehive/index2/index_1520/'>fort</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6e4f34fff"
@@ -24,7 +24,7 @@ order: '341'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/381,193,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/381,193,3064,390/full/0/default.jpg
 label: Fort
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

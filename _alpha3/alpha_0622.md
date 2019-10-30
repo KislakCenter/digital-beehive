@@ -6,14 +6,15 @@ head:
 entry: Name
 topic: Name
 first_letter: N
-xref: "<a href='/New_Beehive/toc/toc2_058/'>11 [Ill Name]</a>|<a href='/New_Beehive/toc/toc2_062/'>54
-  [false Names]</a>|<a href='/New_Beehive/toc/toc2_075/'>181 [Nick-name]</a>|<a href='/New_Beehive/toc/toc2_085/'>252
-  [Surnames]</a>|<a href='/New_Beehive/toc/toc2_085/'>254 [Name]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_058/'>11 [Ill Name]</a>|<a href='/digital-beehive/toc/toc2_062/'>54
+  [false Names]</a>|<a href='/digital-beehive/toc/toc2_075/'>181 [Nick-name]</a>|<a
+  href='/digital-beehive/toc/toc2_085/'>252 [Surnames]</a>|<a href='/digital-beehive/toc/toc2_085/'>254
+  [Name]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2634/'>name</a>"
+index: "<a href='/digital-beehive/index3/index_2634/'>name</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9c1a90cef"
@@ -27,7 +28,7 @@ order: '622'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/275,1081,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/275,1081,3135,405/full/0/default.jpg
 label: Name
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_3423
 volume: Volume 3
 image_number: '40'
 head: riddle
-entry: "<a href='/New_Beehive/toc/toc2_388/'>2224 [Riddle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_388/'>2224 [Riddle]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3423'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,1933,583,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,1933,583,140/full/0/default.jpg
 label: riddle
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

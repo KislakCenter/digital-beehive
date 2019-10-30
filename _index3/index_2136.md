@@ -3,7 +3,7 @@ pid: index_2136
 volume: Volume 3
 image_number: '27'
 head: juggling
-entry: "<a href='/New_Beehive/toc/toc2_109/'>422 [Juggling]</a>|<a href='/New_Beehive/toc/toc2_304/'>1547
+entry: "<a href='/digital-beehive/toc/toc2_109/'>422 [Juggling]</a>|<a href='/digital-beehive/toc/toc2_304/'>1547
   [Juggling]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2136'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/full/0/default.jpg
 label: juggling
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_0521
 volume: Volume 3
 image_number: '11'
 head: canary bird
-entry: "<a href='/New_Beehive/alpha1/alpha_0115/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0115/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '521'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,1560,540,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,1560,540,115/full/0/default.jpg
 label: canary bird
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_4549
 volume: Volume 3
 image_number: '52'
 head: wilderness
-entry: "<a href='/New_Beehive/toc/toc2_103/'>384 [Wilderness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>384 [Wilderness]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4549'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,2074,590,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,2074,590,174/full/0/default.jpg
 label: wilderness
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

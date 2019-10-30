@@ -3,7 +3,7 @@ pid: index_4107
 volume: Volume 3
 image_number: '47'
 head: that, auffdaß
-entry: "<a href='/New_Beehive/toc/toc2_090/'>293 [That]</a>|<a href='/New_Beehive/toc/toc2_169/'>907
+entry: "<a href='/digital-beehive/toc/toc2_090/'>293 [That]</a>|<a href='/digital-beehive/toc/toc2_169/'>907
   [to the end]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4107'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/915,686,661,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/915,686,661,115/full/0/default.jpg
 label: that, auffdaß
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

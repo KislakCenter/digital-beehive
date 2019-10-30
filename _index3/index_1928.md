@@ -3,7 +3,7 @@ pid: index_1928
 volume: Volume 3
 image_number: '25'
 head: Jarsey
-entry: "<a href='/New_Beehive/toc/toc2_146/'>647 [West Jarsey]</a>|<a href='/New_Beehive/toc/toc2_299/'>1522
+entry: "<a href='/digital-beehive/toc/toc2_146/'>647 [West Jarsey]</a>|<a href='/digital-beehive/toc/toc2_299/'>1522
   [New Jersey]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1928'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/176,673,557,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/176,673,557,140/full/0/default.jpg
 label: Jarsey
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

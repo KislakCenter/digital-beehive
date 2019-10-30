@@ -6,12 +6,12 @@ head:
 entry: Right
 topic: Right
 first_letter: R
-xref: "<a href='/New_Beehive/alpha2/alpha_0289/'>equity</a>|<a href='/New_Beehive/alpha3/alpha_0519/'>Law</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0519/'>Law</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3426/'>right</a>"
+index: "<a href='/digital-beehive/index4/index_3426/'>right</a>"
 insertion_xref: 
 insertion: 
 item: "#item-779d48b46"
@@ -24,7 +24,7 @@ order: '801'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,2953,598/full/0/default.jpg
 label: Right
-location: "<a href='/New_Beehive/toc/toc2_038/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

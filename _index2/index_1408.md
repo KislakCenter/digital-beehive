@@ -3,7 +3,7 @@ pid: index_1408
 volume: Volume 3
 image_number: '20'
 head: fashion of the Country
-entry: "<a href='/New_Beehive/alpha2/alpha_0313/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1386
+entry: "<a href='/digital-beehive/alpha2/alpha_0313/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1386
   [Fashion of the Country]</a>|1872 [PAGE_MISSING]"
 topic: 
 first_letter: F
@@ -26,7 +26,7 @@ order: '1408'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/369,3161,751,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/369,3161,751,162/full/0/default.jpg
 label: fashion of the Country
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

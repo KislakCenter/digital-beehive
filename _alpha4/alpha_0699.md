@@ -6,13 +6,13 @@ head:
 entry: Physician
 topic: Physician
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0577/'>medicine</a>|<a href='/New_Beehive/alpha3/alpha_0609/'>Montebank</a>|<a
-  href='/New_Beehive/toc/toc2_150/'>671 [Physician]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0577/'>medicine</a>|<a href='/digital-beehive/alpha3/alpha_0609/'>Montebank</a>|<a
+  href='/digital-beehive/toc/toc2_150/'>671 [Physician]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2995/'>physician</a>"
+index: "<a href='/digital-beehive/index4/index_2995/'>physician</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9e1675f2b"
@@ -26,7 +26,7 @@ order: '699'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,2979,562/full/0/default.jpg
 label: Physician
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

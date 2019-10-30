@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0916/'>crown</a>"
+index: "<a href='/digital-beehive/index1/index_0916/'>crown</a>"
 insertion_xref: 
 insertion: 
 item: "#item-dbc28f448"
@@ -24,7 +24,7 @@ order: '198'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/817,4378,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/817,4378,2912,632/full/0/default.jpg
 label: Crown
-location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

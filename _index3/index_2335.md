@@ -3,7 +3,7 @@ pid: index_2335
 volume: Volume 3
 image_number: '29'
 head: loss
-entry: "<a href='/New_Beehive/alpha3/alpha_0548/'>a</a>|<a href='/New_Beehive/toc/toc2_224/'>1151
+entry: "<a href='/digital-beehive/alpha3/alpha_0548/'>a</a>|<a href='/digital-beehive/toc/toc2_224/'>1151
   [Loss]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2335'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/181,1614,347,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/181,1614,347,127/full/0/default.jpg
 label: loss
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

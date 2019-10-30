@@ -6,13 +6,13 @@ head:
 entry: Businesses
 topic: Businesses
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_059/'>18 [Busie]</a>|<a href='/New_Beehive/toc/toc2_229/'>1179
+xref: "<a href='/digital-beehive/toc/toc2_059/'>18 [Busie]</a>|<a href='/digital-beehive/toc/toc2_229/'>1179
   [Business]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0490/'>business</a>"
+index: "<a href='/digital-beehive/index1/index_0490/'>business</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b88057c8f"
@@ -26,7 +26,7 @@ order: '108'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/815,4633,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/815,4633,2916,424/full/0/default.jpg
 label: Businesses
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_1999
 volume: Volume 3
 image_number: '25'
 head: incomparable
-entry: "<a href='/New_Beehive/toc/toc2_126/'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_126/'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1999'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1575,1358,739,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1575,1358,739,161/full/0/default.jpg
 label: incomparable
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

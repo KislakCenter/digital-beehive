@@ -3,7 +3,7 @@ pid: index_2558
 volume: Volume 3
 image_number: '31'
 head: mole n[ae]vus
-entry: "<a href='/New_Beehive/toc/toc2_287/'>1468 [Mole, Müttermal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_287/'>1468 [Mole, Müttermal]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2558'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/186,2962,478,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/186,2962,478,92/full/0/default.jpg
 label: mole n[ae]vus
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

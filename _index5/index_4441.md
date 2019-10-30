@@ -3,7 +3,7 @@ pid: index_4441
 volume: Volume 3
 image_number: '51'
 head: Uriah's letters
-entry: "<a href='/New_Beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4441'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/full/0/default.jpg
 label: Uriah's letters
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

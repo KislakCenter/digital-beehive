@@ -3,7 +3,7 @@ pid: index_4002
 volume: Volume 3
 image_number: '46'
 head: surity. sicher
-entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, Safety]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, Safety]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4002'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/full/0/default.jpg
 label: surity. sicher
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

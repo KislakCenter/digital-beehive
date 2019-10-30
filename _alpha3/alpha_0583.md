@@ -6,13 +6,13 @@ head:
 entry: Merchandize
 topic: Merchandize
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop Keeper]</a>|<a href='/New_Beehive/toc/toc2_143/'>631
+xref: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop Keeper]</a>|<a href='/digital-beehive/toc/toc2_143/'>631
   [Merchants]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2488/'>merchandize</a>"
+index: "<a href='/digital-beehive/index3/index_2488/'>merchandize</a>"
 insertion_xref: 
 insertion: 
 item: "#item-062123453"
@@ -26,7 +26,7 @@ order: '583'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/723,2505,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/723,2505,2979,574/full/0/default.jpg
 label: Merchandize
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

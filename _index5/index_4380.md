@@ -3,7 +3,7 @@ pid: index_4380
 volume: Volume 3
 image_number: '50'
 head: unfledge
-entry: "<a href='/New_Beehive/toc/toc2_173/'>929 [Unripe]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_173/'>929 [Unripe]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4380'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,244,489,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,244,489,143/full/0/default.jpg
 label: unfledge
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

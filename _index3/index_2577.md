@@ -3,7 +3,7 @@ pid: index_2577
 volume: Volume 3
 image_number: '31'
 head: moral philosophy
-entry: "<a href='/New_Beehive/alpha3/alpha_0602/'>a</a>|<a href='/New_Beehive/toc/toc2_252/'>1295
+entry: "<a href='/digital-beehive/alpha3/alpha_0602/'>a</a>|<a href='/digital-beehive/toc/toc2_252/'>1295
   [Moral Philos]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2577'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/860,1658,773,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/860,1658,773,141/full/0/default.jpg
 label: moral philosophy
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

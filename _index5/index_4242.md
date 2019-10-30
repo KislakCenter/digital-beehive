@@ -3,8 +3,8 @@ pid: index_4242
 volume: Volume 3
 image_number: '48'
 head: trinity
-entry: "<a href='/New_Beehive/alpha5/alpha_0970/'>a</a>|<a href='/New_Beehive/toc/toc2_144/'>639
-  [Trinity]</a>|<a href='/New_Beehive/toc/toc2_283/'>1450 [Trinity]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0970/'>a</a>|<a href='/digital-beehive/toc/toc2_144/'>639
+  [Trinity]</a>|<a href='/digital-beehive/toc/toc2_283/'>1450 [Trinity]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -25,7 +25,7 @@ order: '4242'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1803,1788,646,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1803,1788,646,143/full/0/default.jpg
 label: trinity
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

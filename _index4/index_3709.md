@@ -3,7 +3,7 @@ pid: index_3709
 volume: Volume 3
 image_number: '43'
 head: silent meetings
-entry: "<a href='/New_Beehive/toc/toc2_091/'>295 [Silent meetings]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_091/'>295 [Silent meetings]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3709'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/190,1466,668,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/190,1466,668,161/full/0/default.jpg
 label: silent meetings
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

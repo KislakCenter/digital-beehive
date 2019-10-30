@@ -24,7 +24,7 @@ order: '1104'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/844,470,566,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/844,470,566,175/full/0/default.jpg
 label: distinctly
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,13 +3,13 @@ pid: index_3887
 volume: Volume 3
 image_number: '45'
 head: statues
-entry: "<a href='/New_Beehive/toc/toc2_178/'>955 [Images]</a>|<a href='/New_Beehive/toc/toc2_330/'>1680
+entry: "<a href='/digital-beehive/toc/toc2_178/'>955 [Images]</a>|<a href='/digital-beehive/toc/toc2_330/'>1680
   [Images]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '3887'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,872,663,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,872,663,131/full/0/default.jpg
 label: statues
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4206
 volume: Volume 3
 image_number: '48'
 head: tower
-entry: "<a href='/New_Beehive/toc/toc2_124/'>520 [Tower]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_124/'>520 [Tower]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4206'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/full/0/default.jpg
 label: tower
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

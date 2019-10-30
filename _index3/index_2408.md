@@ -3,7 +3,7 @@ pid: index_2408
 volume: Volume 3
 image_number: '29'
 head: mandrakes
-entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Mandrakes]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Mandrakes]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2408'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,1821,551,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,1821,551,121/full/0/default.jpg
 label: mandrakes
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_2172
 volume: Volume 3
 image_number: '27'
 head: knight
-entry: "<a href='/New_Beehive/toc/toc2_341/'>1760 [Knighthood]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_341/'>1760 [Knighthood]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2172'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/843,2113,460,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/843,2113,460,125/full/0/default.jpg
 label: knight
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

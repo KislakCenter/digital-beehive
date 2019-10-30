@@ -3,7 +3,7 @@ pid: index_1590
 volume: Volume 3
 image_number: '21'
 head: genealogy
-entry: "<a href='/New_Beehive/toc/toc2_164/'>881 [Genealogy]</a>|<a href='/New_Beehive/toc/toc2_172/'>921
+entry: "<a href='/digital-beehive/toc/toc2_164/'>881 [Genealogy]</a>|<a href='/digital-beehive/toc/toc2_172/'>921
   [Genealogy]</a>"
 topic: 
 first_letter: G
@@ -25,7 +25,7 @@ order: '1590'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1504,3419,705,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1504,3419,705,132/full/0/default.jpg
 label: genealogy
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

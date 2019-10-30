@@ -3,12 +3,12 @@ pid: index_0574
 volume: Volume 3
 image_number: '12'
 head: cedar
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1920 [Cedar]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1920 [Cedar]</a>"
 topic: 
 first_letter: C
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '574'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1070,756,653,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1070,756,653,127/full/0/default.jpg
 label: cedar
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,9 +3,9 @@ pid: index_1337
 volume: Volume 3
 image_number: '19'
 head: excom[m]unication
-entry: "<a href='/New_Beehive/toc/toc2_059/'>26 [Excommunication]</a>|<a href='/New_Beehive/toc/toc2_167/'>897
-  [Excommunication]</a>|<a href='/New_Beehive/toc/toc2_177/'>951 [Excommunication]</a>|<a
-  href='/New_Beehive/toc/toc2_345/'>1792: [Excommunication]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_059/'>26 [Excommunication]</a>|<a href='/digital-beehive/toc/toc2_167/'>897
+  [Excommunication]</a>|<a href='/digital-beehive/toc/toc2_177/'>951 [Excommunication]</a>|<a
+  href='/digital-beehive/toc/toc2_345/'>1792: [Excommunication]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -27,7 +27,7 @@ order: '1337'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/full/0/default.jpg
 label: excom[m]unication
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

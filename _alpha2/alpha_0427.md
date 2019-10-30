@@ -6,13 +6,13 @@ head:
 entry: Honour
 topic: Honour
 first_letter: H
-xref: "<a href='/New_Beehive/alpha2/alpha_0361/'>glory</a>|<a href='/New_Beehive/alpha2/alpha_0380/'>grandeur</a>|<a
-  href='/New_Beehive/alpha4/alpha_0783/'>Renown</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0361/'>glory</a>|<a href='/digital-beehive/alpha2/alpha_0380/'>grandeur</a>|<a
+  href='/digital-beehive/alpha4/alpha_0783/'>Renown</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1867/'>honour</a>"
+index: "<a href='/digital-beehive/index2/index_1867/'>honour</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d7d435bf3"
@@ -26,7 +26,7 @@ order: '427'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,3168,689/full/0/default.jpg
 label: Honour
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

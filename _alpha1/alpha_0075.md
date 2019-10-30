@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0343/'>behemoth</a>"
+index: "<a href='/digital-beehive/index1/index_0343/'>behemoth</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9cc13a328"
@@ -24,7 +24,7 @@ order: '75'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/864,2443,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/864,2443,2894,181/full/0/default.jpg
 label: Behemoth
-location: "<a href='/New_Beehive/toc/toc1_426/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

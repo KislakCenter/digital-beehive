@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index2/index_1750/'>happiness</a>"
+see: "<a href='/digital-beehive/index2/index_1750/'>happiness</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3205'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/full/0/default.jpg
 label: pros[per]ity
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

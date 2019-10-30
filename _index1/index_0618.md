@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index2/index_1287/'>equanimity</a>"
+see: "<a href='/digital-beehive/index2/index_1287/'>equanimity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '618'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/full/0/default.jpg
 label: chearful
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

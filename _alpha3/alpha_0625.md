@@ -6,13 +6,13 @@ head:
 entry: Natural
 topic: Natural
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/New_Beehive/toc/toc2_211/'>1086
+xref: "<a href='/digital-beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
   [Natural]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2652/'>natural</a>"
+index: "<a href='/digital-beehive/index3/index_2652/'>natural</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ce551c783"
@@ -25,7 +25,7 @@ order: '625'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,2959,402/full/0/default.jpg
 label: Natural
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

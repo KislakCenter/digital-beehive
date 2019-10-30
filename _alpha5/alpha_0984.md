@@ -6,13 +6,13 @@ head:
 entry: Vineyard
 topic: Vineyard
 first_letter: U/V
-xref: "<a href='/New_Beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/New_Beehive/toc/toc2_364/'>1990
+xref: "<a href='/digital-beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
   [Vineyards]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4334/'>vineyard</a>"
+index: "<a href='/digital-beehive/index5/index_4334/'>vineyard</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fc758dd02"
@@ -26,7 +26,7 @@ order: '984'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
 label: Vineyard
-location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

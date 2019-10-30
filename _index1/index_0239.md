@@ -3,7 +3,7 @@ pid: index_0239
 volume: Volume 3
 image_number: '9'
 head: at random
-entry: "<a href='/New_Beehive/toc/toc2_171/'>919 [Absurd]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_171/'>919 [Absurd]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '239'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/181,686,537,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/181,686,537,116/full/0/default.jpg
 label: at random
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

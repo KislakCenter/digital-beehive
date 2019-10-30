@@ -3,7 +3,7 @@ pid: index_4090
 volume: Volume 3
 image_number: '47'
 head: ten
-entry: "<a href='/New_Beehive/toc/toc2_232/'>1192 [Ten]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Ten]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4090'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/full/0/default.jpg
 label: ten
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

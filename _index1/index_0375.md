@@ -3,13 +3,13 @@ pid: index_0375
 volume: Volume 3
 image_number: '10'
 head: birds
-entry: "<a href='/New_Beehive/toc/toc2_097/'>341 [Birds]</a>|<a href='/New_Beehive/toc/toc2_338/'>1738
+entry: "<a href='/digital-beehive/toc/toc2_097/'>341 [Birds]</a>|<a href='/digital-beehive/toc/toc2_338/'>1738
   [Birds]</a>"
 topic: 
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '375'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1063,862,659,182/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1063,862,659,182/full/0/default.jpg
 label: birds
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

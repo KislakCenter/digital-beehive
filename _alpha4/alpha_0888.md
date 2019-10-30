@@ -6,13 +6,13 @@ head:
 entry: Soul
 topic: Soul
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0591/'>mind</a>|<a href='/New_Beehive/toc/toc2_121/'>507
+xref: "<a href='/digital-beehive/alpha3/alpha_0591/'>mind</a>|<a href='/digital-beehive/toc/toc2_121/'>507
   [Death]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3809/'>soul</a>"
+index: "<a href='/digital-beehive/index4/index_3809/'>soul</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7a3a1062e"
@@ -25,7 +25,7 @@ order: '888'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,2609,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,2609,2898,752/full/0/default.jpg
 label: Soul
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

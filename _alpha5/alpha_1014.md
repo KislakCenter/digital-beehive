@@ -6,13 +6,13 @@ head:
 entry: Watchfullness
 topic: Watchfullness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/New_Beehive/toc/toc2_266/'>1363
+xref: "<a href='/digital-beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/digital-beehive/toc/toc2_266/'>1363
   [Watchfulness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4491/'>watchful</a>"
+index: "<a href='/digital-beehive/index5/index_4491/'>watchful</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e237c446b"
@@ -26,7 +26,7 @@ order: '1014'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/814,231,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/814,231,2979,574/full/0/default.jpg
 label: Watchfullness
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

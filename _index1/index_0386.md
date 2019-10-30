@@ -3,7 +3,7 @@ pid: index_0386
 volume: Volume 3
 image_number: '10'
 head: blanc verse
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '386'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,1930,600,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1090,1930,600,106/full/0/default.jpg
 label: blanc verse
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,13 +6,13 @@ head:
 entry: Fortune
 topic: Fortune
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0392/'>Happiness</a>|<a href='/New_Beehive/toc/toc2_225/'>1159
+xref: "<a href='/digital-beehive/alpha2/alpha_0392/'>Happiness</a>|<a href='/digital-beehive/toc/toc2_225/'>1159
   [Folly]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1523/'>fortune</a>"
+index: "<a href='/digital-beehive/index2/index_1523/'>fortune</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7b80a010f"
@@ -25,7 +25,7 @@ order: '342'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/371,481,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/371,481,3075,408/full/0/default.jpg
 label: Fortune
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

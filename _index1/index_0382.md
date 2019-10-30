@@ -3,7 +3,7 @@ pid: index_0382
 volume: Volume 3
 image_number: '10'
 head: bladder
-entry: "<a href='/New_Beehive/toc/toc2_160/'>723 [Bladder]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_160/'>723 [Bladder]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '382'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1095,1628,475,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1095,1628,475,114/full/0/default.jpg
 label: bladder
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

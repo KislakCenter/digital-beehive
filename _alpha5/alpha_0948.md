@@ -6,12 +6,12 @@ head:
 entry: Tithes
 topic: Tithes
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_129/'>554 [Tithes]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_129/'>554 [Tithes]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4161/'>tithes</a>"
+index: "<a href='/digital-beehive/index5/index_4161/'>tithes</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a3075b99e"
@@ -24,7 +24,7 @@ order: '948'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/309,354,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/309,354,3047,510/full/0/default.jpg
 label: Tithes
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

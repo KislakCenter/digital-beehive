@@ -6,13 +6,13 @@ head:
 entry: Reformation
 topic: Reformation
 first_letter: R
-xref: "<a href='/New_Beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/New_Beehive/alpha1/alpha_0135/'>Change</a>|<a
-  href='/New_Beehive/toc/toc2_118/'>486 [Reformation]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/digital-beehive/alpha1/alpha_0135/'>Change</a>|<a
+  href='/digital-beehive/toc/toc2_118/'>486 [Reformation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3333/'>reformation</a>"
+index: "<a href='/digital-beehive/index4/index_3333/'>reformation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5a9359b30"
@@ -26,7 +26,7 @@ order: '776'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,2926,637/full/0/default.jpg
 label: Reformation
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

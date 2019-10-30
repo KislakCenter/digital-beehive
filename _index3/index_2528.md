@@ -3,7 +3,7 @@ pid: index_2528
 volume: Volume 3
 image_number: '30'
 head: minority
-entry: "<a href='/New_Beehive/toc/toc2_179/'>959 [Guardian]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_179/'>959 [Guardian]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2528'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1832,2951,657,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1832,2951,657,184/full/0/default.jpg
 label: minority
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

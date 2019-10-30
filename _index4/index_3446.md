@@ -3,7 +3,7 @@ pid: index_3446
 volume: Volume 3
 image_number: '40'
 head: roof
-entry: "<a href='/New_Beehive/toc/toc2_100/'>362 [a Shingle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_100/'>362 [a Shingle]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3446'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1158,1137,313,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1158,1137,313,116/full/0/default.jpg
 label: roof
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

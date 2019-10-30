@@ -6,12 +6,12 @@ head:
 entry: Egg
 topic: Egg
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_325/'>1651 [Eggs]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_325/'>1651 [Eggs]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1216/'>egg</a>"
+index: "<a href='/digital-beehive/index2/index_1216/'>egg</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5bacc263d"
@@ -24,7 +24,7 @@ order: '277'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,3076,319/full/0/default.jpg
 label: Egg
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

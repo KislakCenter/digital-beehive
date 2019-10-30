@@ -6,12 +6,12 @@ head:
 entry: Pope
 topic: Pope
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_112/'>446 [Pope]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_112/'>446 [Pope]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3072/'>pope</a>"
+index: "<a href='/digital-beehive/index4/index_3072/'>pope</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5317aefeb"
@@ -24,7 +24,7 @@ order: '712'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,2536,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,2536,3035,457/full/0/default.jpg
 label: Pope
-location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

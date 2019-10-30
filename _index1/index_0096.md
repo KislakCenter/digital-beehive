@@ -3,7 +3,7 @@ pid: index_0096
 volume: Volume 3
 image_number: '7'
 head: allegiance
-entry: "<a href='/New_Beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/New_Beehive/toc/toc2_401/'>2290
+entry: "<a href='/digital-beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/digital-beehive/toc/toc2_401/'>2290
   [Allegiance]</a>"
 topic: 
 first_letter: A
@@ -25,7 +25,7 @@ order: '96'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/full/0/default.jpg
 label: allegiance
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

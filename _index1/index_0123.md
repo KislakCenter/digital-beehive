@@ -3,11 +3,11 @@ pid: index_0123
 volume: Volume 3
 image_number: '7'
 head: ambush
-entry: 773 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_354/'>1919 [Ambush]</a>
+entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_354/'>1919 [Ambush]</a>
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index4/index_3767/'>Snare</a>"
+see: "<a href='/digital-beehive/index4/index_3767/'>Snare</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '123'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1594,3431,697,195/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1594,3431,697,195/full/0/default.jpg
 label: ambush
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

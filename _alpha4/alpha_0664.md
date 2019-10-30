@@ -6,12 +6,12 @@ head:
 entry: Orphan
 topic: Orphan|Orphanage
 first_letter: O
-xref: "<a href='/New_Beehive/alpha2/alpha_0386/'>Guardians</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0386/'>Guardians</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2830/'>orphanage</a>"
+index: "<a href='/digital-beehive/index4/index_2830/'>orphanage</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1d89b7ef2"
@@ -24,7 +24,7 @@ order: '664'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,3061,526/full/0/default.jpg
 label: Orphan
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

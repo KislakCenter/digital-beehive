@@ -3,7 +3,7 @@ pid: index_4215
 volume: Volume 3
 image_number: '48'
 head: tranquillity
-entry: "<a href='/New_Beehive/toc/toc2_138/'>603 [Tranquillity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_138/'>603 [Tranquillity]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4215'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1103,1952,586,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1103,1952,586,154/full/0/default.jpg
 label: tranquillity
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

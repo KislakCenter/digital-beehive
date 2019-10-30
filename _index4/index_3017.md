@@ -12,8 +12,9 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4697/'>pink. gillifl.</a>|<a href='/New_Beehive/index5/index_4698/'>pindar</a>|<a
-  href='/New_Beehive/index5/index_4699/'>pin money</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4697/'>pink. gillifl.</a>|<a
+  href='/digital-beehive/index5/index_4698/'>pindar</a>|<a href='/digital-beehive/index5/index_4699/'>pin
+  money</a>"
 insertion: 
 item: "#item-d81cc2858"
 unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
@@ -25,7 +26,7 @@ order: '3017'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/full/0/default.jpg
 label: "[:31.]"
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

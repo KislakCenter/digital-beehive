@@ -6,12 +6,12 @@ head:
 entry: Philosophy
 topic: Philosophy
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_113/'>453 [Philosophy]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_113/'>453 [Philosophy]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2986/'>philosophy</a>"
+index: "<a href='/digital-beehive/index4/index_2986/'>philosophy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f7e68601d"
@@ -24,7 +24,7 @@ order: '698'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/824,1985,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/824,1985,2960,636/full/0/default.jpg
 label: Philosophy
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

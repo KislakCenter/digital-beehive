@@ -6,12 +6,12 @@ head:
 entry: Lookingglass
 topic: Lookingglass
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_375/'>2100 [Lookingglass]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_375/'>2100 [Lookingglass]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2328/'>lookingglass</a>"
+index: "<a href='/digital-beehive/index3/index_2328/'>lookingglass</a>"
 insertion_xref: 
 insertion: 
 item: "#item-57db9a5a1"
@@ -24,7 +24,7 @@ order: '545'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/309,638,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/309,638,3081,320/full/0/default.jpg
 label: Lookingglass
-location: "<a href='/New_Beehive/toc/toc2_019/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

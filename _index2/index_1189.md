@@ -8,7 +8,7 @@ topic:
 first_letter: E
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_281/'>p.140 [Image 1.291]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_281/'>p.140 [Image 1.291]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1189'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/full/0/default.jpg
 label: earth fleas
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

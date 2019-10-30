@@ -3,13 +3,13 @@ pid: index_2962
 volume: Volume 3
 image_number: '35'
 head: periwig
-entry: "<a href='/New_Beehive/toc/toc2_261/'>1337 [Hair & Perriwigs]</a>|<a href='/New_Beehive/toc/toc2_418/'>2422
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1337 [Hair & Perriwigs]</a>|<a href='/digital-beehive/toc/toc2_418/'>2422
   [Hair & Periwigs]</a>"
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index2/index_1738/'>hair</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
+see: "<a href='/digital-beehive/index2/index_1738/'>hair</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '2962'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/164,3086,707,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/164,3086,707,145/full/0/default.jpg
 label: periwig
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

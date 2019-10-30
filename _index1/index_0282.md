@@ -3,8 +3,8 @@ pid: index_0282
 volume: Volume 3
 image_number: '9'
 head: bands
-entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
-  href='/New_Beehive/toc/toc2_354/'>1919 [Bands]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [a Band]</a>|773 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_354/'>1919 [Bands]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '282'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1314,668,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1314,668,138/full/0/default.jpg
 label: bands
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

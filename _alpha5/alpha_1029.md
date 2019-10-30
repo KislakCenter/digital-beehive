@@ -6,12 +6,12 @@ head:
 entry: Winter
 topic: Winter
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_211/'>1088 [Winter]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Winter]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4566/'>winter</a>"
+index: "<a href='/digital-beehive/index5/index_4566/'>winter</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0221ad0ac"
@@ -24,7 +24,7 @@ order: '1029'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,3023,334/full/0/default.jpg
 label: Winter
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,8 +3,8 @@ pid: index_2133
 volume: Volume 3
 image_number: '27'
 head: judge who can
-entry: "<a href='/New_Beehive/toc/toc2_120/'>496 [Judge who can]</a>|<a href='/New_Beehive/toc/toc2_307/'>1561
-  [Let heaven & earth Judge]</a>|<a href='/New_Beehive/toc/toc2_408/'>2350 [Judge
+entry: "<a href='/digital-beehive/toc/toc2_120/'>496 [Judge who can]</a>|<a href='/digital-beehive/toc/toc2_307/'>1561
+  [Let heaven & earth Judge]</a>|<a href='/digital-beehive/toc/toc2_408/'>2350 [Judge
   who can!]</a>"
 topic: 
 first_letter: I/J
@@ -27,7 +27,7 @@ order: '2133'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/137,1683,741,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/137,1683,741,107/full/0/default.jpg
 label: judge who can
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

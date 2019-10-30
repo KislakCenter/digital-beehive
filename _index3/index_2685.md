@@ -3,7 +3,7 @@ pid: index_2685
 volume: Volume 3
 image_number: '32'
 head: Nero
-entry: "<a href='/New_Beehive/toc/toc2_179/'>961 [Nero]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_179/'>961 [Nero]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2685'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,775,308,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,775,308,93/full/0/default.jpg
 label: Nero
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -6,13 +6,13 @@ head:
 entry: Imperfection
 topic: Imperfection
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0693/'>Perfect</a>|<a href='/New_Beehive/toc/toc2_078/'>205
+xref: "<a href='/digital-beehive/alpha4/alpha_0693/'>Perfect</a>|<a href='/digital-beehive/toc/toc2_078/'>205
   [Imperfection]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1968/'>imperfection</a>"
+index: "<a href='/digital-beehive/index3/index_1968/'>imperfection</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ba07ed192"
@@ -26,7 +26,7 @@ order: '462'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/756,2431,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/756,2431,2999,519/full/0/default.jpg
 label: Imperfection
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

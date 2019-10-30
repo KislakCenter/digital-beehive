@@ -6,13 +6,13 @@ head:
 entry: Yielding
 topic: Yielding
 first_letter: Y
-xref: "<a href='/New_Beehive/alpha1/alpha_0216/'>defence</a>|<a href='/New_Beehive/alpha4/alpha_0790/'>resistance</a>|<a
-  href='/New_Beehive/toc/toc2_147/'>657 [Yielding or Submission]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0216/'>defence</a>|<a href='/digital-beehive/alpha4/alpha_0790/'>resistance</a>|<a
+  href='/digital-beehive/toc/toc2_147/'>657 [Yielding or Submission]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4649/'>yielding</a>"
+index: "<a href='/digital-beehive/index5/index_4649/'>yielding</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7d8d7d646"
@@ -26,7 +26,7 @@ order: '1059'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,2978,366/full/0/default.jpg
 label: Yielding
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

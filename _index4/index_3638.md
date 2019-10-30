@@ -3,13 +3,13 @@ pid: index_3638
 volume: Volume 3
 image_number: '42'
 head: sentences
-entry: "<a href='/New_Beehive/toc/toc2_100/'>360 [a Sentence]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_100/'>360 [a Sentence]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index3/index_2134/'>Judgmt</a>"
+add: "<a href='/digital-beehive/index3/index_2134/'>Judgmt</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '3638'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
 label: sentences
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

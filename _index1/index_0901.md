@@ -3,7 +3,7 @@ pid: index_0901
 volume: Volume 3
 image_number: '15'
 head: credit
-entry: "<a href='/New_Beehive/alpha1/alpha_0193/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0193/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '901'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,679,363,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,679,363,109/full/0/default.jpg
 label: credit
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

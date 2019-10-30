@@ -3,7 +3,7 @@ pid: index_0881
 volume: Volume 3
 image_number: '15'
 head: courage
-entry: "<a href='/New_Beehive/alpha1/alpha_0185/'>a</a>|<a href='/New_Beehive/toc/toc2_222/'>1143
+entry: "<a href='/digital-beehive/alpha1/alpha_0185/'>a</a>|<a href='/digital-beehive/toc/toc2_222/'>1143
   [Courage]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '881'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,2266,548,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,2266,548,108/full/0/default.jpg
 label: courage
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

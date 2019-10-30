@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0466/'>brother</a>"
+index: "<a href='/digital-beehive/index1/index_0466/'>brother</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f8fd97935"
@@ -24,7 +24,7 @@ order: '103'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/854,2742,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/854,2742,2922,715/full/0/default.jpg
 label: Brother
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

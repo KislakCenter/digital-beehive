@@ -3,8 +3,8 @@ pid: index_0814
 volume: Volume 3
 image_number: '14'
 head: constancy
-entry: "<a href='/New_Beehive/alpha1/alpha_0172/'>a</a>|<a href='/New_Beehive/toc/toc2_216/'>1112
-  [Constancy of mind]</a>|<a href='/New_Beehive/toc/toc2_420/'>2435 [Constancy]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
+  [Constancy of mind]</a>|<a href='/digital-beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '814'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/full/0/default.jpg
 label: constancy
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

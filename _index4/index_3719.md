@@ -3,8 +3,8 @@ pid: index_3719
 volume: Volume 3
 image_number: '43'
 head: sin
-entry: "<a href='/New_Beehive/alpha4/alpha_0870/'>a</a>|<a href='/New_Beehive/toc/toc2_207/'>1069
-  [Sin]</a>|<a href='/New_Beehive/toc/toc2_275/'>1409 [Sin]</a>|<a href='/New_Beehive/toc/toc2_414/'>2395
+entry: "<a href='/digital-beehive/alpha4/alpha_0870/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1069
+  [Sin]</a>|<a href='/digital-beehive/toc/toc2_275/'>1409 [Sin]</a>|<a href='/digital-beehive/toc/toc2_414/'>2395
   [Sin]</a>"
 topic: 
 first_letter: S
@@ -26,7 +26,7 @@ order: '3719'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/192,2739,782,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/192,2739,782,129/full/0/default.jpg
 label: sin
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

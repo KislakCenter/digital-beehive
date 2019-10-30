@@ -3,7 +3,7 @@ pid: index_1269
 volume: Volume 3
 image_number: '18'
 head: ensigns
-entry: "<a href='/New_Beehive/toc/toc2_085/'>257 [Arms]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_085/'>257 [Arms]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1269'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1856,2788,384,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1856,2788,384,116/full/0/default.jpg
 label: ensigns
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

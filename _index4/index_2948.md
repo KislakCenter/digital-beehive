@@ -3,13 +3,13 @@ pid: index_2948
 volume: Volume 3
 image_number: '35'
 head: pen[n]
-entry: "<a href='/New_Beehive/toc/toc2_107/'>410 [Pen]</a>|<a href='/New_Beehive/toc/toc2_120/'>501
-  [Pen]</a>|<a href='/New_Beehive/toc/toc2_346/'>1801 [Penn]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_107/'>410 [Pen]</a>|<a href='/digital-beehive/toc/toc2_120/'>501
+  [Pen]</a>|<a href='/digital-beehive/toc/toc2_346/'>1801 [Penn]</a>"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '2948'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,1452,733,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,1452,733,146/full/0/default.jpg
 label: pen[n]
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

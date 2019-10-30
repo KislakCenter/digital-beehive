@@ -3,7 +3,7 @@ pid: index_2383
 volume: Volume 3
 image_number: '29'
 head: magnificence
-entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [Magnificen(ce:)]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [Magnificen(ce:)]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2383'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/819,2826,558,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/819,2826,558,177/full/0/default.jpg
 label: magnificence
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

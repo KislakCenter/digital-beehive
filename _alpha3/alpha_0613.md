@@ -6,7 +6,7 @@ head:
 entry: Multitude
 topic: Multitude
 first_letter: M
-xref: "<a href='/New_Beehive/alpha2/alpha_0568/'>many men</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0568/'>many men</a>"
 see: 
 page: 
 add: 
@@ -25,7 +25,7 @@ order: '613'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,3069,485/full/0/default.jpg
 label: Multitude
-location: "<a href='/New_Beehive/toc/toc2_024/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

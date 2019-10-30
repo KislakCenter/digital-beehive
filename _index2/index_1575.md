@@ -3,7 +3,7 @@ pid: index_1575
 volume: Volume 3
 image_number: '21'
 head: Galenus
-entry: "<a href='/New_Beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1575'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1556,2054,430,79/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1556,2054,430,79/full/0/default.jpg
 label: Galenus
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

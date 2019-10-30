@@ -3,7 +3,7 @@ pid: index_1112
 volume: Volume 3
 image_number: '17'
 head: diversity
-entry: "<a href='/New_Beehive/alpha1/alpha_0251/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0251/'>a</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1112'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/full/0/default.jpg
 label: diversity
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,13 +6,13 @@ head:
 entry: Truth
 topic: Truth
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0311/'>Falshood</a>|<a href='/New_Beehive/alpha3/alpha_0534/'>Lie</a>|<a
-  href='/New_Beehive/toc/toc2_244/'>1253 [Truth]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>Falshood</a>|<a href='/digital-beehive/alpha3/alpha_0534/'>Lie</a>|<a
+  href='/digital-beehive/toc/toc2_244/'>1253 [Truth]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4257/'>truth</a>"
+index: "<a href='/digital-beehive/index5/index_4257/'>truth</a>"
 insertion_xref: 
 insertion: 
 item: "#item-84ac84690"
@@ -26,7 +26,7 @@ order: '972'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,4101,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,4101,2923,981/full/0/default.jpg
 label: Truth
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

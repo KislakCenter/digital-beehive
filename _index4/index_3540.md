@@ -12,8 +12,8 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4665/'>to scare, affright, or
-  fright</a>|<a href='/New_Beehive/index5/index_4666/'>fringes</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4665/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4666/'>fringes</a>"
 insertion: 
 item: "#item-1752b8fad"
 unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
@@ -25,7 +25,7 @@ order: '3540'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/full/0/default.jpg
 label: "[:2.]"
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_4561
 volume: Volume 3
 image_number: '53'
 head: wine
-entry: "<a href='/New_Beehive/alpha5/alpha_1028/'>a</a>|<a href='/New_Beehive/toc/toc2_135/'>590
-  [artificial Wines]</a>|<a href='/New_Beehive/toc/toc2_340/'>1752 [Wine]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1028/'>a</a>|<a href='/digital-beehive/toc/toc2_135/'>590
+  [artificial Wines]</a>|<a href='/digital-beehive/toc/toc2_340/'>1752 [Wine]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4561'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,307,600,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,307,600,101/full/0/default.jpg
 label: wine
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

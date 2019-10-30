@@ -6,12 +6,12 @@ head:
 entry: Sacrament
 topic: Sacrament
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_369/'>2033 [Sacramts]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_369/'>2033 [Sacramts]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3479/'>Sacramt</a>"
+index: "<a href='/digital-beehive/index4/index_3479/'>Sacramt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-76b46aa88"
@@ -24,7 +24,7 @@ order: '813'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/305,3017,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/305,3017,3033,325/full/0/default.jpg
 label: Sacrament
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

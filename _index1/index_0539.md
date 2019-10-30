@@ -3,8 +3,8 @@ pid: index_0539
 volume: Volume 3
 image_number: '11'
 head: care
-entry: "<a href='/New_Beehive/alpha1/alpha_0121/'>a</a>|<a href='/New_Beehive/toc/toc2_147/'>654
-  [Care]</a>|<a href='/New_Beehive/toc/toc2_415/'>2398 [Care]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0121/'>a</a>|<a href='/digital-beehive/toc/toc2_147/'>654
+  [Care]</a>|<a href='/digital-beehive/toc/toc2_415/'>2398 [Care]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '539'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,3478,628,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,3478,628,84/full/0/default.jpg
 label: care
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

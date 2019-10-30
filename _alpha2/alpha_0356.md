@@ -6,13 +6,13 @@ head:
 entry: Gentleness
 topic: Gentleness
 first_letter: G
-xref: "<a href='/New_Beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/New_Beehive/alpha2/alpha_0435/'>Humanity</a>|Moderation|<a
-  href='/New_Beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0435/'>Humanity</a>|Moderation|<a
+  href='/digital-beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1598/'>gentleness</a>"
+index: "<a href='/digital-beehive/index2/index_1598/'>gentleness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-271a74ff6"
@@ -26,7 +26,7 @@ order: '356'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,2983,580/full/0/default.jpg
 label: Gentleness
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

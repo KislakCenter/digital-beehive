@@ -3,13 +3,13 @@ pid: index_0877
 volume: Volume 3
 image_number: '15'
 head: Country
-entry: "<a href='/New_Beehive/toc/toc2_146/'>649 [Country]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Country]</a>"
 topic: 
 first_letter: C
 xref: 
-see: fashions
+see: 
 page: 
-add: 
+add: fashions
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '877'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/165,1916,481,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/165,1916,481,161/full/0/default.jpg
 label: Country
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

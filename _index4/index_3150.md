@@ -3,7 +3,7 @@ pid: index_3150
 volume: Volume 3
 image_number: '37'
 head: prey
-entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [Prey]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [Prey]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3150'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,2058,381,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,2058,381,166/full/0/default.jpg
 label: prey
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

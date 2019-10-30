@@ -3,7 +3,7 @@ pid: index_1119
 volume: Volume 3
 image_number: '17'
 head: divorcement
-entry: "<a href='/New_Beehive/alpha1/alpha_0252/'>a</a>|<a href='/New_Beehive/toc/toc2_293/'>1498
+entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>|<a href='/digital-beehive/toc/toc2_293/'>1498
   [Divorsement]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1119'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/765,2043,724,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/765,2043,724,124/full/0/default.jpg
 label: divorcement
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

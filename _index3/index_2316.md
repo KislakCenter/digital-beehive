@@ -3,12 +3,12 @@ pid: index_2316
 volume: Volume 3
 image_number: '28'
 head: loadstone
-entry: "<a href='/New_Beehive/toc/toc2_317/'>1615 [Loadstone]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Loadstone]</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2316'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1818,2774,643,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1818,2774,643,141/full/0/default.jpg
 label: loadstone
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

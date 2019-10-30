@@ -3,7 +3,7 @@ pid: index_4256
 volume: Volume 3
 image_number: '48'
 head: true story
-entry: "<a href='/New_Beehive/toc/toc2_252/'>1291 [True Story]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_252/'>1291 [True Story]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4256'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1794,3481,525,197/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1794,3481,525,197/full/0/default.jpg
 label: true story
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

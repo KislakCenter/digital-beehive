@@ -3,8 +3,8 @@ pid: index_0152
 volume: Volume 3
 image_number: '8'
 head: answer
-entry: "<a href='/New_Beehive/alpha1/alpha_0031/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>243
-  [Answer]</a>|<a href='/New_Beehive/toc/toc2_358/'>1948 [Answer]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0031/'>a</a>|<a href='/digital-beehive/toc/toc2_083/'>243
+  [Answer]</a>|<a href='/digital-beehive/toc/toc2_358/'>1948 [Answer]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -25,7 +25,7 @@ order: '152'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/full/0/default.jpg
 label: answer
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_1428
 volume: Volume 3
 image_number: '20'
 head: fellowship
-entry: "<a href='/New_Beehive/toc/toc2_089/'>283 [Company]</a>|<a href='/New_Beehive/toc/toc2_360/'>1964
+entry: "<a href='/digital-beehive/toc/toc2_089/'>283 [Company]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964
   [Company]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1428'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1131,1900,717,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1131,1900,717,154/full/0/default.jpg
 label: fellowship
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

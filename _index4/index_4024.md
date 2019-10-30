@@ -3,7 +3,7 @@ pid: index_4024
 volume: Volume 3
 image_number: '46'
 head: swiftness
-entry: "<a href='/New_Beehive/toc/toc2_090/'>293 [Swiftness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_090/'>293 [Swiftness]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4024'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1095,2236,506,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1095,2236,506,143/full/0/default.jpg
 label: swiftness
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

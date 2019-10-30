@@ -3,7 +3,7 @@ pid: index_2475
 volume: Volume 3
 image_number: '30'
 head: meeting houses
-entry: "<a href='/New_Beehive/toc/toc2_080/'>220 [Meeting houses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_080/'>220 [Meeting houses]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2475'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1112,602,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1112,602,176/full/0/default.jpg
 label: meeting houses
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

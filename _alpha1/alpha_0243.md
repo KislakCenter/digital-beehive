@@ -6,13 +6,13 @@ head:
 entry: Disorder
 topic: Disorder
 first_letter: D
-xref: "<a href='/New_Beehive/alpha4/alpha_0661/'>Order</a>|<a href='/New_Beehive/toc/toc2_173/'>929
+xref: "<a href='/digital-beehive/alpha4/alpha_0661/'>Order</a>|<a href='/digital-beehive/toc/toc2_173/'>929
   [Disorder]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1087/'>disorder</a>"
+index: "<a href='/digital-beehive/index1/index_1087/'>disorder</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ec88b80d1"
@@ -25,7 +25,7 @@ order: '243'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/792,3538,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/792,3538,2943,489/full/0/default.jpg
 label: Disorder
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

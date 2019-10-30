@@ -3,7 +3,7 @@ pid: index_1086
 volume: Volume 3
 image_number: '17'
 head: disobedience
-entry: "<a href='/New_Beehive/alpha1/alpha_0242/'>a</a>|<a href='/New_Beehive/toc/toc2_351/'>1898
+entry: "<a href='/digital-beehive/alpha1/alpha_0242/'>a</a>|<a href='/digital-beehive/toc/toc2_351/'>1898
   [Disobedience]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1086'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/146,1951,704,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/146,1951,704,140/full/0/default.jpg
 label: disobedience
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

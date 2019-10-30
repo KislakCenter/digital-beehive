@@ -6,12 +6,12 @@ head:
 entry: Morning
 topic: Morning
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_180/'>969 [morning]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_180/'>969 [morning]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2583/'>morning</a>"
+index: "<a href='/digital-beehive/index3/index_2583/'>morning</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7cc95485b"
@@ -24,7 +24,7 @@ order: '604'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/353,4406,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/353,4406,3013,313/full/0/default.jpg
 label: Morning
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

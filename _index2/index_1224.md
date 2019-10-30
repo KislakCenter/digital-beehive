@@ -3,7 +3,7 @@ pid: index_1224
 volume: Volume 3
 image_number: '18'
 head: elephant
-entry: "<a href='/New_Beehive/toc/toc2_363/'>1980 [Elephant]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_363/'>1980 [Elephant]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1224'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/full/0/default.jpg
 label: elephant
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

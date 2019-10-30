@@ -3,8 +3,8 @@ pid: index_0008
 volume: Volume 3
 image_number: '7'
 head: ability
-entry: "<a href='/New_Beehive/toc/toc2_085/'>258 [Ability]</a>|<a href='/New_Beehive/toc/toc2_279/'>1426
-  [Abilities]</a>|<a href='/New_Beehive/toc/toc2_411/'>2363 [Able & unable]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_085/'>258 [Ability]</a>|<a href='/digital-beehive/toc/toc2_279/'>1426
+  [Abilities]</a>|<a href='/digital-beehive/toc/toc2_411/'>2363 [Able & unable]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -26,7 +26,7 @@ order: '8'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/178,696,720,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/178,696,720,158/full/0/default.jpg
 label: ability
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

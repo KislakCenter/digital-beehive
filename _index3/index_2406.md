@@ -3,8 +3,8 @@ pid: index_2406
 volume: Volume 3
 image_number: '29'
 head: brave man
-entry: "<a href='/New_Beehive/toc/toc2_076/'>200 [a man of admirable]</a>|<a href='/New_Beehive/toc/toc2_341/'>1760
-  [Gallant]</a>|<a href='/New_Beehive/toc/toc2_409/'>2353 [Brave men]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_076/'>200 [a man of admirable]</a>|<a href='/digital-beehive/toc/toc2_341/'>1760
+  [Gallant]</a>|<a href='/digital-beehive/toc/toc2_409/'>2353 [Brave men]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -26,7 +26,7 @@ order: '2406'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1526,1599,812,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1526,1599,812,156/full/0/default.jpg
 label: brave man
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

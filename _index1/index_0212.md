@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index4/index_3152/'>pride</a>|<a href='/New_Beehive/index4/index_3922/'>stoutness</a>"
+see: "<a href='/digital-beehive/index4/index_3152/'>pride</a>|<a href='/digital-beehive/index4/index_3922/'>stoutness</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '212'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1799,1217,594,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1799,1217,594,206/full/0/default.jpg
 label: arrogancy
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

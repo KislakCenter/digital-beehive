@@ -3,8 +3,8 @@ pid: index_3115
 volume: Volume 3
 image_number: '36'
 head: preaching
-entry: "<a href='/New_Beehive/alpha4/alpha_0720/'>a</a>|<a href='/New_Beehive/toc/toc2_122/'>512
-  [Preaching]</a>|<a href='/New_Beehive/toc/toc2_361/'>1967 [Preaching]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/toc/toc2_122/'>512
+  [Preaching]</a>|<a href='/digital-beehive/toc/toc2_361/'>1967 [Preaching]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3115'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1884,1456,685,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1884,1456,685,139/full/0/default.jpg
 label: preaching
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

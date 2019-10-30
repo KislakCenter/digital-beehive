@@ -6,13 +6,13 @@ head:
 entry: Livelihood
 topic: Livelihood
 first_letter: L
-xref: "<a href='/New_Beehive/alpha5/alpha_0962/'>Trade</a>|<a href='/New_Beehive/toc/toc2_321/'>1635
+xref: "<a href='/digital-beehive/alpha5/alpha_0962/'>Trade</a>|<a href='/digital-beehive/toc/toc2_321/'>1635
   [Livelyhood]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2312/'>livelyhood</a>"
+index: "<a href='/digital-beehive/index3/index_2312/'>livelyhood</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c59484501"
@@ -26,7 +26,7 @@ order: '540'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/753,3936,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/753,3936,2965,526/full/0/default.jpg
 label: Livelihood
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

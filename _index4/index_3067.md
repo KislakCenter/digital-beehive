@@ -3,7 +3,7 @@ pid: index_3067
 volume: Volume 3
 image_number: '36'
 head: polygamy
-entry: "<a href='/New_Beehive/alpha4/alpha_0711/'>a</a>|<a href='/New_Beehive/toc/toc2_180/'>969
+entry: "<a href='/digital-beehive/alpha4/alpha_0711/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>969
   [Polygamy]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3067'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/full/0/default.jpg
 label: polygamy
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

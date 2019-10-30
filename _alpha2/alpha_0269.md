@@ -6,12 +6,12 @@ head:
 entry: Ear
 topic: Ear
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_274/'>1402 [Ear]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Ear]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1183/'>ear</a>"
+index: "<a href='/digital-beehive/index2/index_1183/'>ear</a>"
 insertion_xref: 
 insertion: 
 item: "#item-11dea4dfd"
@@ -24,7 +24,7 @@ order: '269'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/755,2531,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/755,2531,2982,431/full/0/default.jpg
 label: Ear
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_4284
 volume: Volume 3
 image_number: '49'
 head: tyranny
-entry: "<a href='/New_Beehive/alpha5/alpha_0975/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1209
+entry: "<a href='/digital-beehive/alpha5/alpha_0975/'>a</a>|<a href='/digital-beehive/toc/toc2_235/'>1209
   [Tyranny]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4284'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/232,3401,603,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/232,3401,603,139/full/0/default.jpg
 label: tyranny
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

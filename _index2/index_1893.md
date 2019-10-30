@@ -3,7 +3,7 @@ pid: index_1893
 volume: Volume 3
 image_number: '24'
 head: house of correction
-entry: "<a href='/New_Beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1893'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,1078,600,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,1078,600,83/full/0/default.jpg
 label: house of correction
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

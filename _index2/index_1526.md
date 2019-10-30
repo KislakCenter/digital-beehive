@@ -3,8 +3,8 @@ pid: index_1526
 volume: Volume 3
 image_number: '21'
 head: foundation
-entry: "<a href='/New_Beehive/alpha2/alpha_0343/'>a</a>|<a href='/New_Beehive/toc/toc2_196/'>1011
-  [Ground & Formation]</a>|<a href='/New_Beehive/toc/toc2_399/'>2276 [Foundation]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0343/'>a</a>|<a href='/digital-beehive/toc/toc2_196/'>1011
+  [Ground & Formation]</a>|<a href='/digital-beehive/toc/toc2_399/'>2276 [Foundation]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1526'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/full/0/default.jpg
 label: foundation
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

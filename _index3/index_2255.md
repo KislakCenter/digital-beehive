@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: L
 xref: 
-see: "<a href='/New_Beehive/index3/index_2322/'>long</a>"
+see: "<a href='/digital-beehive/index3/index_2322/'>long</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2255'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1149,299,420,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1149,299,420,126/full/0/default.jpg
 label: length
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

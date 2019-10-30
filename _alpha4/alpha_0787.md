@@ -6,14 +6,14 @@ head:
 entry: Reproof
 topic: Reproof
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0753/'>Punishmt</a>|<a href='/New_Beehive/toc/toc2_074/'>177
-  [Strain a gnat]</a>|<a href='/New_Beehive/toc/toc2_075/'>188 [Reproof]</a>|<a href='/New_Beehive/toc/toc2_173/'>928
-  [Reproof]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0753/'>Punishmt</a>|<a href='/digital-beehive/toc/toc2_074/'>177
+  [Strain a gnat]</a>|<a href='/digital-beehive/toc/toc2_075/'>188 [Reproof]</a>|<a
+  href='/digital-beehive/toc/toc2_173/'>928 [Reproof]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3380/'>reproof</a>"
+index: "<a href='/digital-beehive/index4/index_3380/'>reproof</a>"
 insertion_xref: 
 insertion: 
 item: "#item-619af4159"
@@ -27,7 +27,7 @@ order: '787'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,2636,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,2636,2956,434/full/0/default.jpg
 label: Reproof
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

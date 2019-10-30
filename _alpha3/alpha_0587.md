@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2502/'>metaphysicks</a>"
+index: "<a href='/digital-beehive/index3/index_2502/'>metaphysicks</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0755d4391"
@@ -24,7 +24,7 @@ order: '587'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,3873,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,3873,2949,236/full/0/default.jpg
 label: Metaphysics
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_0199
 volume: Volume 3
 image_number: '8'
 head: argument ad hominem
-entry: "<a href='/New_Beehive/toc/toc2_384/'>2183 [Argumentum ad hominem]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_384/'>2183 [Argumentum ad hominem]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '199'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1823,305,682,54/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1823,305,682,54/full/0/default.jpg
 label: argument ad hominem
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

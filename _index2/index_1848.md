@@ -8,7 +8,7 @@ topic:
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_097/'>p.47 [Image 1.107]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_097/'>p.47 [Image 1.107]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1848'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,351,537,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,351,537,105/full/0/default.jpg
 label: histories prophane
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

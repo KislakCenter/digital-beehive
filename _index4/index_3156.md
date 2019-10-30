@@ -3,7 +3,7 @@ pid: index_3156
 volume: Volume 3
 image_number: '37'
 head: priesthood
-entry: "<a href='/New_Beehive/alpha4/alpha_0726/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0726/'>a</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3156'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,2667,473,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,2667,473,125/full/0/default.jpg
 label: priesthood
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

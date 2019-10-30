@@ -3,15 +3,15 @@ pid: index_2755
 volume: Volume 3
 image_number: '33'
 head: obedience
-entry: "<a href='/New_Beehive/alpha4/alpha_0645/'>a</a>|<a href='/New_Beehive/toc/toc2_183/'>985
-  [Obedience]</a>|1837 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_384/'>2189 [Passive
-  Obedience & nonresistance]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0645/'>a</a>|<a href='/digital-beehive/toc/toc2_183/'>985
+  [Obedience]</a>|1837 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_384/'>2189
+  [Passive Obedience & nonresistance]</a>"
 topic: 
 first_letter: O
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_2905/'>passive</a>"
+add: "<a href='/digital-beehive/index4/index_2905/'>passive</a>"
 type: 
 index: 
 insertion_xref: 
@@ -27,7 +27,7 @@ order: '2755'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,1643,787,258/full/0/default.jpg
 label: obedience
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

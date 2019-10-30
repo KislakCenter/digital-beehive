@@ -3,7 +3,7 @@ pid: index_2338
 volume: Volume 3
 image_number: '29'
 head: lotteries
-entry: "<a href='/New_Beehive/toc/toc2_065/'>89 [Lotteries (Glückshafen)]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_065/'>89 [Lotteries (Glückshafen)]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2338'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/full/0/default.jpg
 label: lotteries
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

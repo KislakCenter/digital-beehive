@@ -6,12 +6,12 @@ head:
 entry: Shells of Snails
 topic: Shells of Snails
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0961/'>Tortoise</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0961/'>Tortoise</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3668/'>shells of snails</a>"
+index: "<a href='/digital-beehive/index4/index_3668/'>shells of snails</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b3badbfc6"
@@ -25,7 +25,7 @@ order: '859'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
 label: Shells of Snails
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

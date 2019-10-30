@@ -3,8 +3,8 @@ pid: index_1697
 volume: Volume 3
 image_number: '22'
 head: gratitude
-entry: "<a href='/New_Beehive/alpha2/alpha_0381/'>a</a>|<a href='/New_Beehive/toc/toc2_214/'>1104
-  [Benefits]</a>|<a href='/New_Beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0381/'>a</a>|<a href='/digital-beehive/toc/toc2_214/'>1104
+  [Benefits]</a>|<a href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -25,7 +25,7 @@ order: '1697'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1838,3008,693,201/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1838,3008,693,201/full/0/default.jpg
 label: gratitude
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

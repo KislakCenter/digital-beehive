@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: R
 xref: 
-see: "<a href='/New_Beehive/index2/index_1388/'>Fall</a>"
+see: "<a href='/digital-beehive/index2/index_1388/'>Fall</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3352'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3433,782,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3433,782,168/full/0/default.jpg
 label: reliques of God's Image
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

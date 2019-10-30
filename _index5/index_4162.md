@@ -3,7 +3,7 @@ pid: index_4162
 volume: Volume 3
 image_number: '47'
 head: titlepage
-entry: "<a href='/New_Beehive/toc/toc2_236/'>1212 [Title page]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1212 [Title page]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4162'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1619,3158,471,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1619,3158,471,151/full/0/default.jpg
 label: titlepage
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

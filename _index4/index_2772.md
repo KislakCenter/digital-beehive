@@ -3,7 +3,7 @@ pid: index_2772
 volume: Volume 3
 image_number: '33'
 head: to offer
-entry: "<a href='/New_Beehive/toc/toc2_170/'>911 [To offer]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>911 [To offer]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2772'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/780,366,512,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/780,366,512,154/full/0/default.jpg
 label: to offer
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Worthiness
 topic: Worthiness
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_1002/'>Unworthy</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1002/'>Unworthy</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4626/'>worthiness</a>"
+index: "<a href='/digital-beehive/index5/index_4626/'>worthiness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-02c6c11ac"
@@ -24,7 +24,7 @@ order: '1051'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,3037,437/full/0/default.jpg
 label: Worthiness
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

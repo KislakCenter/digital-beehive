@@ -3,7 +3,7 @@ pid: index_2829
 volume: Volume 3
 image_number: '33'
 head: ornament
-entry: "<a href='/New_Beehive/toc/toc2_076/'>195 [Ornament]</a>|<a href='/New_Beehive/toc/toc2_336/'>1715
+entry: "<a href='/digital-beehive/toc/toc2_076/'>195 [Ornament]</a>|<a href='/digital-beehive/toc/toc2_336/'>1715
   [Ornament]</a>"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2829'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1500,3196,752,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1500,3196,752,152/full/0/default.jpg
 label: ornament
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

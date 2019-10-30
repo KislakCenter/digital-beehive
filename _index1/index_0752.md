@@ -2,8 +2,8 @@
 pid: index_0752
 volume: Volume 3
 image_number: '13'
-head: to comunicate
-entry: "<a href='/New_Beehive/toc/toc2_411/'>2364 [To Comunicate & partake]</a>"
+head: to com[m]unicate
+entry: "<a href='/digital-beehive/toc/toc2_411/'>2364 [To Comunicate & partake]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -23,8 +23,8 @@ annotation_uri: http://dev.llgc.org.uk/annotation/1537163789386
 order: '752'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1530,2915,774,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1530,2915,774,168/full/0/default.jpg
-label: to comunicate
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+label: to com[m]unicate
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

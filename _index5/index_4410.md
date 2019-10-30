@@ -3,7 +3,7 @@ pid: index_4410
 volume: Volume 3
 image_number: '51'
 head: unpunished
-entry: "<a href='/New_Beehive/toc/toc2_232/'>1192 [Want of Punishmt]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Want of Punishmt]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4410'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,261,572,200/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,261,572,200/full/0/default.jpg
 label: unpunished
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_1162
 volume: Volume 3
 image_number: '17'
 head: drum
-entry: "<a href='/New_Beehive/toc/toc2_117/'>479 [Drum]</a>|4732 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_117/'>479 [Drum]</a>|4732 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1162'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,3434,606,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,3434,606,127/full/0/default.jpg
 label: drum
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

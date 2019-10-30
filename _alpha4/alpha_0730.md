@@ -6,12 +6,12 @@ head:
 entry: Prison
 topic: Prison
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0202/'>Custody</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0202/'>Custody</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3164/'>prison</a>"
+index: "<a href='/digital-beehive/index4/index_3164/'>prison</a>"
 insertion_xref: 
 insertion: 
 item: "#item-352e6ec4b"
@@ -24,7 +24,7 @@ order: '730'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,3050,511/full/0/default.jpg
 label: Prison
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

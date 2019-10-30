@@ -3,7 +3,8 @@ pid: index_0762
 volume: Volume 3
 image_number: '14'
 head: complaint of times
-entry: "<a href='/New_Beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>|1875 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>|1875
+  [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +25,7 @@ order: '762'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/449,790,724,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/449,790,724,92/full/0/default.jpg
 label: complaint of times
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

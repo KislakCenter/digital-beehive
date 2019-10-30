@@ -6,12 +6,12 @@ head:
 entry: Fire
 topic: Fire
 first_letter: F
-xref: Incendiary|Coal|<a href='/New_Beehive/toc/toc2_224/'>1152 [Fire]</a>
+xref: Incendiary|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152 [Fire]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1454/'>fire</a>"
+index: "<a href='/digital-beehive/index2/index_1454/'>fire</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c2d913b30"
@@ -25,7 +25,7 @@ order: '324'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,3031,424/full/0/default.jpg
 label: Fire
-location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

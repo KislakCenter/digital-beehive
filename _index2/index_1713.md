@@ -3,7 +3,7 @@ pid: index_1713
 volume: Volume 3
 image_number: '23'
 head: grief
-entry: "<a href='/New_Beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/New_Beehive/toc/toc2_409/'>2352
+entry: "<a href='/digital-beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_409/'>2352
   [Grief]</a>"
 topic: 
 first_letter: G
@@ -25,7 +25,7 @@ order: '1713'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,1249,488,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,1249,488,126/full/0/default.jpg
 label: grief
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

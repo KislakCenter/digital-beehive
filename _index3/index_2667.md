@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4691/'>Neapolis</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4691/'>Neapolis</a>"
 insertion: 
 item: "#item-4c8ce4aea"
 unparsed: 'Type: Index|Insertion Xref: [:25.]|#item-4c8ce4aea'
@@ -24,7 +24,7 @@ order: '2667'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/967,2645,201,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/967,2645,201,126/full/0/default.jpg
 label: "[:25.]"
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

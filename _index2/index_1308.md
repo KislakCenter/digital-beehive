@@ -3,8 +3,8 @@ pid: index_1308
 volume: Volume 3
 image_number: '19'
 head: "&c"
-entry: "<a href='/New_Beehive/toc/toc2_102/'>374 [Brevity]</a>|<a href='/New_Beehive/toc/toc2_174/'>932
-  [Brevity]</a>|<a href='/New_Beehive/toc/toc2_329/'>1674 [&c]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_102/'>374 [Brevity]</a>|<a href='/digital-beehive/toc/toc2_174/'>932
+  [Brevity]</a>|<a href='/digital-beehive/toc/toc2_329/'>1674 [&c]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -25,7 +25,7 @@ order: '1308'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/879,261,609,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/879,261,609,137/full/0/default.jpg
 label: "&c"
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

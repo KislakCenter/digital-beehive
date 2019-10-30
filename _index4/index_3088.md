@@ -3,7 +3,7 @@ pid: index_3088
 volume: Volume 3
 image_number: '36'
 head: post Script
-entry: "<a href='/New_Beehive/toc/toc2_310/'>1579 [Post Script]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_310/'>1579 [Post Script]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3088'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1128,1958,573,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1128,1958,573,161/full/0/default.jpg
 label: post Script
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

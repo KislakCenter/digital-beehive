@@ -3,7 +3,7 @@ pid: index_4464
 volume: Volume 3
 image_number: '51'
 head: to walk
-entry: 805 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_222/'>1142 [To Go]</a>
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_222/'>1142 [To Go]</a>
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4464'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1645,926,614,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1645,926,614,107/full/0/default.jpg
 label: to walk
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

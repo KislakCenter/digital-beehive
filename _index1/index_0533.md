@@ -3,7 +3,7 @@ pid: index_0533
 volume: Volume 3
 image_number: '11'
 head: capital offence
-entry: "<a href='/New_Beehive/alpha1/alpha_0117/'>a</a>|<a href='/New_Beehive/toc/toc2_144/'>638
+entry: "<a href='/digital-beehive/alpha1/alpha_0117/'>a</a>|<a href='/digital-beehive/toc/toc2_144/'>638
   [Capital Offences]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '533'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1570,2713,718,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1570,2713,718,143/full/0/default.jpg
 label: capital offence
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

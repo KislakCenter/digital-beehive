@@ -3,7 +3,7 @@ pid: index_1072
 volume: Volume 3
 image_number: '17'
 head: discourse
-entry: "<a href='/New_Beehive/toc/toc2_090/'>291 [Discourse]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_090/'>291 [Discourse]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1072'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,519,519,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,519,519,116/full/0/default.jpg
 label: discourse
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

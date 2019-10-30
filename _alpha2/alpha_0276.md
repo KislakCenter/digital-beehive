@@ -6,12 +6,12 @@ head:
 entry: Eel
 topic: Eel
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_324/'>1647 [Eel]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Eel]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1211/'>eel</a>"
+index: "<a href='/digital-beehive/index2/index_1211/'>eel</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ab3f11547"
@@ -24,7 +24,7 @@ order: '276'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,3061,175/full/0/default.jpg
 label: Eel
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

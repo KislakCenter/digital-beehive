@@ -3,7 +3,7 @@ pid: index_2390
 volume: Volume 3
 image_number: '29'
 head: to maintain
-entry: "<a href='/New_Beehive/toc/toc2_261/'>1339 [To maintain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2390'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1556,294,532,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1556,294,532,131/full/0/default.jpg
 label: to maintain
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

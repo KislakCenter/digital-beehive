@@ -8,7 +8,7 @@ topic:
 first_letter: C
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_107/'>p.56 [Image 1.117]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_107/'>p.56 [Image 1.117]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '722'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/full/0/default.jpg
 label: collections of friends books
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

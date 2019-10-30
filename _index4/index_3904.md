@@ -3,12 +3,12 @@ pid: index_3904
 volume: Volume 3
 image_number: '45'
 head: a still
-entry: "<a href='/New_Beehive/toc/toc2_135/'>592 [Distilling]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_135/'>592 [Distilling]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3904'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/full/0/default.jpg
 label: a still
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

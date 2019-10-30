@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index4/index_3324/'>recreation</a>"
+see: "<a href='/digital-beehive/index4/index_3324/'>recreation</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1113'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/full/0/default.jpg
 label: divertismt
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

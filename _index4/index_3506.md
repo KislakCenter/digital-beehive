@@ -3,7 +3,7 @@ pid: index_3506
 volume: Volume 3
 image_number: '41'
 head: saltpetre
-entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3506'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,567,391,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,567,391,146/full/0/default.jpg
 label: saltpetre
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

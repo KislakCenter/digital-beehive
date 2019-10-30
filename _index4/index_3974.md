@@ -3,9 +3,9 @@ pid: index_3974
 volume: Volume 3
 image_number: '45'
 head: sufferings of Qrs
-entry: "<a href='/New_Beehive/toc/toc2_123/'>515 [horrid Cruelties practiced by Papists
-  upon Protestants]</a>|<a href='/New_Beehive/toc/toc2_248/'>1273 [Sufferings of the
-  Qu]</a>|<a href='/New_Beehive/toc/toc2_397/'>2269 [Suffering of the Qus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_123/'>515 [horrid Cruelties practiced by
+  Papists upon Protestants]</a>|<a href='/digital-beehive/toc/toc2_248/'>1273 [Sufferings
+  of the Qu]</a>|<a href='/digital-beehive/toc/toc2_397/'>2269 [Suffering of the Qus]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -27,7 +27,7 @@ order: '3974'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/full/0/default.jpg
 label: sufferings of Qrs
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

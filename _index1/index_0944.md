@@ -3,7 +3,7 @@ pid: index_0944
 volume: Volume 3
 image_number: '15'
 head: dancing
-entry: "<a href='/New_Beehive/alpha1/alpha_0205/'>a</a>|<a href='/New_Beehive/toc/toc2_299/'>1525
+entry: "<a href='/digital-beehive/alpha1/alpha_0205/'>a</a>|<a href='/digital-beehive/toc/toc2_299/'>1525
   [Dancing]</a>|1870 [PAGE_MISSING]"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '944'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1560,1218,716,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1560,1218,716,146/full/0/default.jpg
 label: dancing
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

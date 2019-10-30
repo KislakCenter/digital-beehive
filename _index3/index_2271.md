@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: L
 xref: 
-see: "<a href='/New_Beehive/index4/index_2903/'>pasquil</a>"
+see: "<a href='/digital-beehive/index4/index_2903/'>pasquil</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2271'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1136,1372,577,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1136,1372,577,131/full/0/default.jpg
 label: libel
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

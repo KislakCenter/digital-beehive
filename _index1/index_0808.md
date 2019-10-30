@@ -3,7 +3,7 @@ pid: index_0808
 volume: Volume 3
 image_number: '14'
 head: conserve
-entry: "<a href='/New_Beehive/toc/toc2_155/'>700 [To Conserve]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_155/'>700 [To Conserve]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '808'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,1954,522,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,1954,522,119/full/0/default.jpg
 label: conserve
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

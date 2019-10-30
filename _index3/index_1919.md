@@ -3,7 +3,7 @@ pid: index_1919
 volume: Volume 3
 image_number: '24'
 head: Jacob
-entry: "<a href='/New_Beehive/toc/toc2_352/'>1903 [Jacob]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Jacob]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1919'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1799,3590,445,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1799,3590,445,142/full/0/default.jpg
 label: Jacob
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

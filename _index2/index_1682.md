@@ -3,12 +3,12 @@ pid: index_1682
 volume: Volume 3
 image_number: '22'
 head: gown
-entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [Gown]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [Gown]</a>"
 topic: 
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1682'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1860,1376,459,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1860,1376,459,99/full/0/default.jpg
 label: gown
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

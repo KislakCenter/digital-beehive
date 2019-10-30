@@ -6,13 +6,13 @@ head:
 entry: Hospital
 topic: Hospital
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/New_Beehive/toc/toc2_276/'>1415
+xref: "<a href='/digital-beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/digital-beehive/toc/toc2_276/'>1415
   [Hospita]</a>|Oprhan house"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1879/'>hospital</a>"
+index: "<a href='/digital-beehive/index2/index_1879/'>hospital</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8c5bbd263"
@@ -26,7 +26,7 @@ order: '431'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,3013,333/full/0/default.jpg
 label: Hospital
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

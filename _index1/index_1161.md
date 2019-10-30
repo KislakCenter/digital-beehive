@@ -3,7 +3,7 @@ pid: index_1161
 volume: Volume 3
 image_number: '17'
 head: drugs
-entry: "<a href='/New_Beehive/toc/toc2_140/'>617 [Druggs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_140/'>617 [Druggs]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1161'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1464,3288,417,194/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1464,3288,417,194/full/0/default.jpg
 label: drugs
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

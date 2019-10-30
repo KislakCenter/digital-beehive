@@ -8,7 +8,7 @@ topic:
 first_letter: M
 xref: 
 see: buildings
-page: "<a href='/New_Beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2573'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/862,1140,783,201/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/862,1140,783,201/full/0/default.jpg
 label: monuments
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

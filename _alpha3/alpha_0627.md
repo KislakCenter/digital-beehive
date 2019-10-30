@@ -6,13 +6,13 @@ head:
 entry: Nature
 topic: Nature
 first_letter: N
-xref: "<a href='/New_Beehive/alpha4/alpha_0715/'>Poverty</a>|<a href='/New_Beehive/alpha1/alpha_0203/'>Custom</a>|<a
-  href='/New_Beehive/toc/toc2_327/'>1663 [Nature]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0715/'>Poverty</a>|<a href='/digital-beehive/alpha1/alpha_0203/'>Custom</a>|<a
+  href='/digital-beehive/toc/toc2_327/'>1663 [Nature]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2660/'>nature</a>"
+index: "<a href='/digital-beehive/index3/index_2660/'>nature</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ced0ebdf8"
@@ -26,7 +26,7 @@ order: '627'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,3008,507/full/0/default.jpg
 label: Nature
-location: "<a href='/New_Beehive/toc/toc2_025/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

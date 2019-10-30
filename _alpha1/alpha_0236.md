@@ -6,12 +6,12 @@ head:
 entry: Dirt
 topic: Dirt
 first_letter: D
-xref: Tares|<a href='/New_Beehive/toc/toc2_093/'>314 [Dirt]</a>
+xref: Tares|<a href='/digital-beehive/toc/toc2_093/'>314 [Dirt]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1060/'>dirt</a>"
+index: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6500f1f9d"
@@ -24,7 +24,7 @@ order: '236'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,730,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,730,2936,357/full/0/default.jpg
 label: Dirt
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_0826
 volume: Volume 3
 image_number: '14'
 head: continency
-entry: "<a href='/New_Beehive/alpha1/alpha_0175/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '826'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/full/0/default.jpg
 label: continency
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

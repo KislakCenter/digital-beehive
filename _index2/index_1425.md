@@ -3,7 +3,7 @@ pid: index_1425
 volume: Volume 3
 image_number: '20'
 head: feathers
-entry: "<a href='/New_Beehive/toc/toc2_085/'>257 [Feathers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_085/'>257 [Feathers]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1425'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1555,492,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1555,492,162/full/0/default.jpg
 label: feathers
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

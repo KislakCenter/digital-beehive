@@ -6,12 +6,12 @@ head:
 entry: Agony
 topic: Agony
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_206/'>1065 [Agony]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_206/'>1065 [Agony]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0078/'>agony</a>"
+index: "<a href='/digital-beehive/index1/index_0078/'>agony</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b7d840586"
@@ -24,7 +24,7 @@ order: '13'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,953,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,953,3181,422/full/0/default.jpg
 label: Agony
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,11 +3,11 @@ pid: index_3145
 volume: Volume 3
 image_number: '37'
 head: pretense
-entry: "<a href='/New_Beehive/toc/toc2_070/'>131 [Pretext]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_070/'>131 [Pretext]</a>"
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index2/index_1339/'>excuse</a>|pretext"
+see: "<a href='/digital-beehive/index2/index_1339/'>excuse</a>|pretext"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3145'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/86,1375,746,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/86,1375,746,206/full/0/default.jpg
 label: pretense
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

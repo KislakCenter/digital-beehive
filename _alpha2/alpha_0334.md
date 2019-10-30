@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1495/'>fontanell</a>"
+index: "<a href='/digital-beehive/index2/index_1495/'>fontanell</a>"
 insertion_xref: 
 insertion: 
 item: "#item-74981c1af"
@@ -24,7 +24,7 @@ order: '334'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/778,1996,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/778,1996,2951,331/full/0/default.jpg
 label: Fontanell
-location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

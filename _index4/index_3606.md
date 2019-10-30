@@ -3,7 +3,7 @@ pid: index_3606
 volume: Volume 3
 image_number: '42'
 head: Self conceited
-entry: "<a href='/New_Beehive/toc/toc2_437/'>4853 [Self opinionated]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_437/'>4853 [Self opinionated]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3606'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,604,567,86/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,604,567,86/full/0/default.jpg
 label: Self conceited
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

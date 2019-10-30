@@ -6,13 +6,13 @@ head:
 entry: Master
 topic: Master
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0851/'>Servant</a>|<a href='/New_Beehive/toc/toc2_258/'>1323
+xref: "<a href='/digital-beehive/alpha4/alpha_0851/'>Servant</a>|<a href='/digital-beehive/toc/toc2_258/'>1323
   [Master]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2445/'>master</a>"
+index: "<a href='/digital-beehive/index3/index_2445/'>master</a>"
 insertion_xref: 
 insertion: 
 item: "#item-25255fee1"
@@ -25,7 +25,7 @@ order: '573'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/358,3768,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/358,3768,3035,293/full/0/default.jpg
 label: Master
-location: "<a href='/New_Beehive/toc/toc2_021/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

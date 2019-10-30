@@ -3,7 +3,7 @@ pid: index_2066
 volume: Volume 3
 image_number: '26'
 head: in spight
-entry: "<a href='/New_Beehive/toc/toc2_140/'>614 [In Spight]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_140/'>614 [In Spight]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2066'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1158,1669,449,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1158,1669,449,139/full/0/default.jpg
 label: in spight
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

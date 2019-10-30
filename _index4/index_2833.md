@@ -3,7 +3,7 @@ pid: index_2833
 volume: Volume 3
 image_number: '34'
 head: orthography
-entry: "<a href='/New_Beehive/toc/toc2_116/'>476 [Orthography]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>476 [Orthography]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2833'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/full/0/default.jpg
 label: orthography
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

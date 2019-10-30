@@ -6,13 +6,13 @@ head:
 entry: Amending
 topic: Amending
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0776/'>Reformation</a>|<a href='/New_Beehive/toc/toc2_115/'>464
+xref: "<a href='/digital-beehive/alpha4/alpha_0776/'>Reformation</a>|<a href='/digital-beehive/toc/toc2_115/'>464
   [Amending]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0125/'>amending</a>"
+index: "<a href='/digital-beehive/index1/index_0125/'>amending</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8e7bab3aa"
@@ -26,7 +26,7 @@ order: '25'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/252,181,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/252,181,3150,599/full/0/default.jpg
 label: Amending
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_0302
 volume: Volume 3
 image_number: '9'
 head: baseness
-entry: "<a href='/New_Beehive/alpha1/alpha_0062/'>a</a>|<a href='/New_Beehive/toc/toc2_135/'>589
+entry: "<a href='/digital-beehive/alpha1/alpha_0062/'>a</a>|<a href='/digital-beehive/toc/toc2_135/'>589
   [Base]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '302'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/full/0/default.jpg
 label: baseness
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

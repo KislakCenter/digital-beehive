@@ -6,13 +6,13 @@ head:
 entry: Heresy
 topic: Heresy
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0834/'>Sect</a>|<a href='/New_Beehive/toc/toc2_130/'>558
+xref: "<a href='/digital-beehive/alpha4/alpha_0834/'>Sect</a>|<a href='/digital-beehive/toc/toc2_130/'>558
   [Heresy]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1812/'>heresy</a>"
+index: "<a href='/digital-beehive/index2/index_1812/'>heresy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d5165bbd3"
@@ -25,7 +25,7 @@ order: '414'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,1984,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,1984,3070,574/full/0/default.jpg
 label: Heresy
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Salvation
 topic: Salvation
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/New_Beehive/toc/toc2_068/'>111
+xref: "<a href='/digital-beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/digital-beehive/toc/toc2_068/'>111
   [Salvation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3507/'>salvation</a>"
+index: "<a href='/digital-beehive/index4/index_3507/'>salvation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3f445a110"
@@ -26,7 +26,7 @@ order: '821'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,2993,627/full/0/default.jpg
 label: Salvation
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_1366
 volume: Volume 3
 image_number: '19'
 head: extortion
-entry: "<a href='/New_Beehive/toc/toc2_330/'>1677 [Fees]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Fees]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1366'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1522,2880,504,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1522,2880,504,91/full/0/default.jpg
 label: extortion
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

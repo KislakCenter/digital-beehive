@@ -3,7 +3,7 @@ pid: index_0607
 volume: Volume 3
 image_number: '12'
 head: charity Schools
-entry: "<a href='/New_Beehive/toc/toc2_409/'>2354 [Schools]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_409/'>2354 [Schools]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '607'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1131,3581,552,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1131,3581,552,108/full/0/default.jpg
 label: charity Schools
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

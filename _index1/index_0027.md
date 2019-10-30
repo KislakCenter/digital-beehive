@@ -3,7 +3,7 @@ pid: index_0027
 volume: Volume 3
 image_number: '7'
 head: account
-entry: "<a href='/New_Beehive/toc/toc2_062/'>56 [Account]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_062/'>56 [Account]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '27'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/171,2409,511,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/171,2409,511,109/full/0/default.jpg
 label: account
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

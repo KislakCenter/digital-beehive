@@ -3,7 +3,7 @@ pid: index_0747
 volume: Volume 3
 image_number: '13'
 head: common calamities
-entry: "<a href='/New_Beehive/toc/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '747'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/full/0/default.jpg
 label: common calamities
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

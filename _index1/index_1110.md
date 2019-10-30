@@ -3,7 +3,7 @@ pid: index_1110
 volume: Volume 3
 image_number: '17'
 head: ditch
-entry: "<a href='/New_Beehive/toc/toc2_151/'>676 [a Ditch]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_151/'>676 [a Ditch]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1110'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/full/0/default.jpg
 label: ditch
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

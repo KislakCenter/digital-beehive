@@ -3,7 +3,7 @@ pid: index_0218
 volume: Volume 3
 image_number: '8'
 head: as if
-entry: "<a href='/New_Beehive/toc/toc2_343/'>1773 [Lord's Supper]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_343/'>1773 [Lord's Supper]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '218'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1787,1892,356,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1787,1892,356,119/full/0/default.jpg
 label: as if
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

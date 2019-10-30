@@ -3,7 +3,7 @@ pid: index_0342
 volume: Volume 3
 image_number: '10'
 head: beheading
-entry: "<a href='/New_Beehive/toc/toc2_157/'>709 [To Behead]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_157/'>709 [To Behead]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '342'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/399,560,502,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/399,560,502,155/full/0/default.jpg
 label: beheading
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

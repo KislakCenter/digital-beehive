@@ -3,7 +3,7 @@ pid: index_1171
 volume: Volume 3
 image_number: '18'
 head: durable
-entry: "<a href='/New_Beehive/toc/toc2_366/'>2002 [Lasting]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_366/'>2002 [Lasting]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1171'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/full/0/default.jpg
 label: durable
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

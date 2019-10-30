@@ -6,14 +6,14 @@ head:
 entry: Contentment
 topic: Contentment|Contentedness
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0238/'>Discont</a>|<a href='/New_Beehive/alpha2/alpha_0288/'>Equanimity</a>|Easy
-  in Living|<a href='/New_Beehive/alpha4/alpha_0789/'>Resignation</a>|<a href='/New_Beehive/toc/toc2_092/'>302
+xref: "<a href='/digital-beehive/alpha1/alpha_0238/'>Discont</a>|<a href='/digital-beehive/alpha2/alpha_0288/'>Equanimity</a>|Easy
+  in Living|<a href='/digital-beehive/alpha4/alpha_0789/'>Resignation</a>|<a href='/digital-beehive/toc/toc2_092/'>302
   [Contentment]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0824/'>contentmt</a>"
+index: "<a href='/digital-beehive/index1/index_0824/'>contentmt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5f770ccf9"
@@ -28,7 +28,7 @@ order: '174'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/843,3266,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/843,3266,3010,788/full/0/default.jpg
 label: Contentment
-location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

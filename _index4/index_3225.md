@@ -3,7 +3,7 @@ pid: index_3225
 volume: Volume 3
 image_number: '38'
 head: pulse
-entry: "<a href='/New_Beehive/toc/toc2_277/'>1417 [Pulse]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1417 [Pulse]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3225'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/full/0/default.jpg
 label: pulse
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

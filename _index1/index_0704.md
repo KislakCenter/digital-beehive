@@ -3,7 +3,7 @@ pid: index_0704
 volume: Volume 3
 image_number: '13'
 head: clown
-entry: "<a href='/New_Beehive/toc/toc2_149/'>668 [Peasant]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_149/'>668 [Peasant]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '704'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,2027,416,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,2027,416,96/full/0/default.jpg
 label: clown
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

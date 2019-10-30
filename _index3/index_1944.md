@@ -3,7 +3,7 @@ pid: index_1944
 volume: Volume 3
 image_number: '25'
 head: wandering Jew
-entry: "<a href='/New_Beehive/toc/toc2_260/'>1332 [Wandring Jews]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_260/'>1332 [Wandring Jews]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1944'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/149,2475,618,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/149,2475,618,134/full/0/default.jpg
 label: wandering Jew
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

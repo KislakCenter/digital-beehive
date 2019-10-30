@@ -3,7 +3,7 @@ pid: index_3003
 volume: Volume 3
 image_number: '35'
 head: to pierce
-entry: "<a href='/New_Beehive/toc/toc2_164/'>881 [To Pierce]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_164/'>881 [To Pierce]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3003'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1497,616,454,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1497,616,454,176/full/0/default.jpg
 label: to pierce
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

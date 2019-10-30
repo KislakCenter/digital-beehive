@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: N
 xref: 
-see: "<a href='/New_Beehive/index4/index_3311/'>reason</a>"
+see: "<a href='/digital-beehive/index4/index_3311/'>reason</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2655'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/389,1713,673,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/389,1713,673,106/full/0/default.jpg
 label: natural light
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

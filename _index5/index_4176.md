@@ -3,7 +3,7 @@ pid: index_4176
 volume: Volume 3
 image_number: '48'
 head: too consciec.
-entry: "<a href='/New_Beehive/toc/toc2_314/'>1598 [Too Good]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1598 [Too Good]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4176'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/472,1108,593,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/472,1108,593,137/full/0/default.jpg
 label: too consciec.
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

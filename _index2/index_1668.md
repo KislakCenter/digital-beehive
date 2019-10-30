@@ -3,7 +3,7 @@ pid: index_1668
 volume: Volume 3
 image_number: '22'
 head: golds worth
-entry: "<a href='/New_Beehive/toc/toc2_300/'>1530 [Gold's worth]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Gold's worth]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1668'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1166,3486,514,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1166,3486,514,112/full/0/default.jpg
 label: golds worth
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

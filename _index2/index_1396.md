@@ -3,7 +3,7 @@ pid: index_1396
 volume: Volume 3
 image_number: '20'
 head: familiar spirits
-entry: "<a href='/New_Beehive/toc/toc2_256/'>1311 [Familiar Spirits]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1311 [Familiar Spirits]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1396'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2270,519,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2270,519,141/full/0/default.jpg
 label: familiar spirits
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

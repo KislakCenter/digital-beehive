@@ -3,8 +3,8 @@ pid: index_1676
 volume: Volume 3
 image_number: '22'
 head: governmt
-entry: "<a href='/New_Beehive/alpha2/alpha_0375/'>a</a>|752 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_344/'>1783
-  [Governments]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0375/'>a</a>|752 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_344/'>1783 [Governments]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -25,7 +25,7 @@ order: '1676'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1842,885,664,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1842,885,664,106/full/0/default.jpg
 label: governmt
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

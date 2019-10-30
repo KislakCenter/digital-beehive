@@ -6,12 +6,12 @@ head:
 entry: Tree
 topic: Tree
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_324/'>1648 [Trees]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_324/'>1648 [Trees]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4231/'>trees</a>"
+index: "<a href='/digital-beehive/index5/index_4231/'>trees</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b309e8de8"
@@ -24,7 +24,7 @@ order: '969'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,2930,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,2930,2960,474/full/0/default.jpg
 label: Tree
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

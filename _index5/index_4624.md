@@ -3,8 +3,8 @@ pid: index_4624
 volume: Volume 3
 image_number: '53'
 head: worship
-entry: "<a href='/New_Beehive/alpha5/alpha_1049/'>a</a>|<a href='/New_Beehive/toc/toc2_207/'>1070
-  [Worship]</a>|<a href='/New_Beehive/toc/toc2_368/'>2029 [Worship]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1049/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1070
+  [Worship]</a>|<a href='/digital-beehive/toc/toc2_368/'>2029 [Worship]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4624'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/full/0/default.jpg
 label: worship
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

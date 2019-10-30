@@ -6,13 +6,13 @@ head:
 entry: Vagabonds
 topic: Vagabonds
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha5/alpha_0966/'>Travelling</a>|<a href='/New_Beehive/toc/toc2_142/'>623
+xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>Travelling</a>|<a href='/digital-beehive/toc/toc2_142/'>623
   [Vagabond]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4288/'>vagabonds</a>"
+index: "<a href='/digital-beehive/index5/index_4288/'>vagabonds</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f345db47e"
@@ -26,7 +26,7 @@ order: '976'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,1058,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,1058,3061,491/full/0/default.jpg
 label: Vagabonds
-location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

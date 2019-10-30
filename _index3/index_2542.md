@@ -3,7 +3,7 @@ pid: index_2542
 volume: Volume 3
 image_number: '31'
 head: to miss
-entry: "<a href='/New_Beehive/toc/toc2_141/'>618 [To Miss]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_141/'>618 [To Miss]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2542'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/173,1076,415,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/173,1076,415,143/full/0/default.jpg
 label: to miss
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

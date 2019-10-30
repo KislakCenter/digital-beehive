@@ -3,7 +3,7 @@ pid: index_0625
 volume: Volume 3
 image_number: '12'
 head: chevy-chase
-entry: "<a href='/New_Beehive/toc/toc2_430/'>4802 [Chevy-chase]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4802 [Chevy-chase]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '625'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1815,1579,625,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1815,1579,625,136/full/0/default.jpg
 label: chevy-chase
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

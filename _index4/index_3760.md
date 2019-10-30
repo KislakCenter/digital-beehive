@@ -3,7 +3,7 @@ pid: index_3760
 volume: Volume 3
 image_number: '43'
 head: smart
-entry: "<a href='/New_Beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/New_Beehive/toc/toc2_375/'>2096
+entry: "<a href='/digital-beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_375/'>2096
   [Smart]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3760'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/896,3247,609,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/896,3247,609,156/full/0/default.jpg
 label: smart
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

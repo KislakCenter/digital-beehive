@@ -6,13 +6,13 @@ head:
 entry: Christianity
 topic: Christianity
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0895/'>Spiritual</a>|<a href='/New_Beehive/toc/toc2_080/'>216
+xref: "<a href='/digital-beehive/alpha4/alpha_0895/'>Spiritual</a>|<a href='/digital-beehive/toc/toc2_080/'>216
   [Christians]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0651/'>christianity</a>"
+index: "<a href='/digital-beehive/index1/index_0651/'>christianity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-74b129e9c"
@@ -26,7 +26,7 @@ order: '146'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/757,673,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/757,673,3116,784/full/0/default.jpg
 label: Christianity
-location: "<a href='/New_Beehive/toc/toc1_432/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

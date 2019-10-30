@@ -3,7 +3,7 @@ pid: index_3312
 volume: Volume 3
 image_number: '38'
 head: rebellion
-entry: "<a href='/New_Beehive/alpha4/alpha_0771/'>a</a>|<a href='/New_Beehive/toc/toc2_233/'>1197
+entry: "<a href='/digital-beehive/alpha4/alpha_0771/'>a</a>|<a href='/digital-beehive/toc/toc2_233/'>1197
   [Rebellion]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3312'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1853,2269,627,210/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1853,2269,627,210/full/0/default.jpg
 label: rebellion
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

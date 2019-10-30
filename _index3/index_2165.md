@@ -3,7 +3,7 @@ pid: index_2165
 volume: Volume 3
 image_number: '27'
 head: kiss
-entry: "<a href='/New_Beehive/alpha3/alpha_0501/'>a</a>|<a href='/New_Beehive/toc/toc2_352/'>1905
+entry: "<a href='/digital-beehive/alpha3/alpha_0501/'>a</a>|<a href='/digital-beehive/toc/toc2_352/'>1905
   [Kissing]</a>"
 topic: 
 first_letter: K
@@ -25,7 +25,7 @@ order: '2165'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/852,1424,443,180/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/852,1424,443,180/full/0/default.jpg
 label: kiss
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

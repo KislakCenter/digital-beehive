@@ -6,12 +6,12 @@ head:
 entry: Paradise
 topic: Paradise
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_321/'>1633 [Paradise]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_321/'>1633 [Paradise]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2874/'>paradise</a>"
+index: "<a href='/digital-beehive/index4/index_2874/'>paradise</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f86ad4b3b"
@@ -24,7 +24,7 @@ order: '669'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/794,2222,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/794,2222,2985,421/full/0/default.jpg
 label: Paradise
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

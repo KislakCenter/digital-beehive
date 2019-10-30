@@ -3,7 +3,7 @@ pid: index_2028
 volume: Volume 3
 image_number: '26'
 head: infamy
-entry: 737 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_058/'>11 [Ill Name]</a>
+entry: 737 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_058/'>11 [Ill Name]</a>
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2028'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/455,940,524,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/455,940,524,158/full/0/default.jpg
 label: infamy
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

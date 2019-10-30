@@ -3,7 +3,7 @@ pid: index_2912
 volume: Volume 3
 image_number: '34'
 head: past remedy
-entry: "<a href='/New_Beehive/toc/toc2_141/'>620 [Despair]</a>|<a href='/New_Beehive/toc/toc2_332/'>1689
+entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689
   [Despair]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2912'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/full/0/default.jpg
 label: past remedy
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

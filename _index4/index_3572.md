@@ -3,7 +3,7 @@ pid: index_3572
 volume: Volume 3
 image_number: '41'
 head: Sea devil
-entry: "<a href='/New_Beehive/toc/toc2_288/'>1472 [Sea-devil]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1472 [Sea-devil]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3572'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1565,413,457,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1565,413,457,130/full/0/default.jpg
 label: Sea devil
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Persecution
 topic: Persecution
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
-  href='/New_Beehive/toc/toc2_064/'>71 [Persecution]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
+  href='/digital-beehive/toc/toc2_064/'>71 [Persecution]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2967/'>persecution</a>"
+index: "<a href='/digital-beehive/index4/index_2967/'>persecution</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c9e6f0e5f"
@@ -26,7 +26,7 @@ order: '694'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,3058,683/full/0/default.jpg
 label: Persecution
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

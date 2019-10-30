@@ -3,7 +3,7 @@ pid: index_0749
 volume: Volume 3
 image_number: '13'
 head: common places
-entry: "<a href='/New_Beehive/toc/toc2_295/'>1509 [Com[m]on Places]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_295/'>1509 [Com[m]on Places]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '749'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2772,494,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2772,494,131/full/0/default.jpg
 label: common places
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

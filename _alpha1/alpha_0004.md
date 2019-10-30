@@ -6,12 +6,12 @@ head:
 entry: Abuse
 topic: Abuse
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_214/'>1102 [Abuse]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_214/'>1102 [Abuse]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0020/'>abuse</a>"
+index: "<a href='/digital-beehive/index1/index_0020/'>abuse</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c1ee1f404"
@@ -24,7 +24,7 @@ order: '4'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/303,1784,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/303,1784,3157,622/full/0/default.jpg
 label: Abuse
-location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Obscurity
 topic: Obscurity
 first_letter: O
-xref: Plainness|<a href='/New_Beehive/toc/toc2_252/'>1292 [Obscurity]</a>
+xref: Plainness|<a href='/digital-beehive/toc/toc2_252/'>1292 [Obscurity]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2760/'>obscurity</a>"
+index: "<a href='/digital-beehive/index4/index_2760/'>obscurity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-02122876c"
@@ -25,7 +25,7 @@ order: '647'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,522,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,522,3076,387/full/0/default.jpg
 label: Obscurity
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

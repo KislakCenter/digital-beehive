@@ -3,8 +3,8 @@ pid: index_3380
 volume: Volume 3
 image_number: '39'
 head: reproof
-entry: "<a href='/New_Beehive/alpha4/alpha_0787/'>a</a>|<a href='/New_Beehive/toc/toc2_266/'>1365
-  [Rebuke, Reprove]</a>|<a href='/New_Beehive/toc/toc2_284/'>1454 [Reproof]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0787/'>a</a>|<a href='/digital-beehive/toc/toc2_266/'>1365
+  [Rebuke, Reprove]</a>|<a href='/digital-beehive/toc/toc2_284/'>1454 [Reproof]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -25,7 +25,7 @@ order: '3380'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/831,3292,707,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/831,3292,707,175/full/0/default.jpg
 label: reproof
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

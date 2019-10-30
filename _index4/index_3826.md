@@ -3,7 +3,7 @@ pid: index_3826
 volume: Volume 3
 image_number: '44'
 head: species
-entry: "<a href='/New_Beehive/toc/toc2_370/'>2041 [Sort]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_370/'>2041 [Sort]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3826'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1117,776,403,74/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1117,776,403,74/full/0/default.jpg
 label: species
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

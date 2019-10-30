@@ -3,7 +3,7 @@ pid: index_4443
 volume: Volume 3
 image_number: '51'
 head: urin
-entry: 805 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_373/'>2079 [Urine]</a>
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_373/'>2079 [Urine]</a>
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4443'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/955,1230,604,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/955,1230,604,133/full/0/default.jpg
 label: urin
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

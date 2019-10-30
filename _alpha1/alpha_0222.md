@@ -6,12 +6,12 @@ head:
 entry: Demoniack
 topic: Demoniack
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_381/'>2157 [Demoniack]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_381/'>2157 [Demoniack]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1008/'>demoniack</a>"
+index: "<a href='/digital-beehive/index1/index_1008/'>demoniack</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f423d53cf"
@@ -24,7 +24,7 @@ order: '222'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/311,571,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/311,571,3081,364/full/0/default.jpg
 label: Demoniack
-location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

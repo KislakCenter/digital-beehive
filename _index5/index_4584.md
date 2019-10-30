@@ -3,7 +3,7 @@ pid: index_4584
 volume: Volume 3
 image_number: '53'
 head: 2. Witnesses slain
-entry: "<a href='/New_Beehive/toc/toc2_302/'>1539 [Two Witnesses Slain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_302/'>1539 [Two Witnesses Slain]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4584'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/full/0/default.jpg
 label: 2. Witnesses slain
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

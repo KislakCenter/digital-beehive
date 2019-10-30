@@ -3,7 +3,7 @@ pid: index_0948
 volume: Volume 3
 image_number: '15'
 head: to dare
-entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [I dare]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [I dare]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '948'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1541,448,76/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1541,448,76/full/0/default.jpg
 label: to dare
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

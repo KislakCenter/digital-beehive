@@ -3,7 +3,7 @@ pid: index_4611
 volume: Volume 3
 image_number: '53'
 head: word by word
-entry: "<a href='/New_Beehive/toc/toc2_126/'>536 [Verbatim]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbatim]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4611'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/full/0/default.jpg
 label: word by word
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

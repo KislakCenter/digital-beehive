@@ -3,8 +3,8 @@ pid: index_1388
 volume: Volume 3
 image_number: '20'
 head: fall
-entry: "<a href='/New_Beehive/alpha2/alpha_0310/'>a</a>|<a href='/New_Beehive/toc/toc2_183/'>983
-  [Fall]</a>|<a href='/New_Beehive/toc/toc2_412/'>2379 [Fall]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>|<a href='/digital-beehive/toc/toc2_183/'>983
+  [Fall]</a>|<a href='/digital-beehive/toc/toc2_412/'>2379 [Fall]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1388'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/384,1680,616,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/384,1680,616,144/full/0/default.jpg
 label: fall
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

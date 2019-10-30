@@ -3,7 +3,7 @@ pid: index_2013
 volume: Volume 3
 image_number: '25'
 head: indeed
-entry: "<a href='/New_Beehive/toc/toc2_278/'>1422 [In (very) Deed]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_278/'>1422 [In (very) Deed]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2013'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1556,2688,428,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1556,2688,428,92/full/0/default.jpg
 label: indeed
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

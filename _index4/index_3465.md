@@ -3,8 +3,8 @@ pid: index_3465
 volume: Volume 3
 image_number: '40'
 head: rule of faith & life
-entry: "<a href='/New_Beehive/toc/toc2_064/'>74 [The Judge of religious Controversies]</a>|<a
-  href='/New_Beehive/toc/toc2_106/'>404 [Rule of faith & life]</a>|<a href='/New_Beehive/toc/toc2_274/'>1403
+entry: "<a href='/digital-beehive/toc/toc2_064/'>74 [The Judge of religious Controversies]</a>|<a
+  href='/digital-beehive/toc/toc2_106/'>404 [Rule of faith & life]</a>|<a href='/digital-beehive/toc/toc2_274/'>1403
   [Rule of faith & life]</a>"
 topic: 
 first_letter: R
@@ -27,7 +27,7 @@ order: '3465'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/full/0/default.jpg
 label: rule of faith & life
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4187
 volume: Volume 3
 image_number: '48'
 head: too wise
-entry: "<a href='/New_Beehive/toc/toc2_112/'>444 [Too Wise]</a>|<a href='/New_Beehive/toc/toc2_268/'>1372
+entry: "<a href='/digital-beehive/toc/toc2_112/'>444 [Too Wise]</a>|<a href='/digital-beehive/toc/toc2_268/'>1372
   [Too wise]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4187'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,2242,560,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,2242,560,160/full/0/default.jpg
 label: too wise
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

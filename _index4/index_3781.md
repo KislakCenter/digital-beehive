@@ -3,7 +3,7 @@ pid: index_3781
 volume: Volume 3
 image_number: '43'
 head: Sodom and Sodomy
-entry: "<a href='/New_Beehive/toc/toc2_112/'>447 [Sodomy]</a>|<a href='/New_Beehive/toc/toc2_345/'>1787
+entry: "<a href='/digital-beehive/toc/toc2_112/'>447 [Sodomy]</a>|<a href='/digital-beehive/toc/toc2_345/'>1787
   [Sodom & Sodomy]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3781'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/full/0/default.jpg
 label: Sodom and Sodomy
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

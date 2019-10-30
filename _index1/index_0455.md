@@ -3,12 +3,12 @@ pid: index_0455
 volume: Volume 3
 image_number: '11'
 head: bridewell
-entry: "<a href='/New_Beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
 topic: 
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '455'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/172,2437,561,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/172,2437,561,132/full/0/default.jpg
 label: bridewell
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

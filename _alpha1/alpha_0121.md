@@ -6,12 +6,12 @@ head:
 entry: Care
 topic: Care
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_147/'>654 [Care]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_147/'>654 [Care]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0539/'>care</a>"
+index: "<a href='/digital-beehive/index1/index_0539/'>care</a>"
 insertion_xref: 
 insertion: 
 item: "#item-51c02b046"
@@ -24,7 +24,7 @@ order: '121'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/273,4365,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/273,4365,3151,734/full/0/default.jpg
 label: Care
-location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

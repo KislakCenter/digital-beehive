@@ -3,7 +3,7 @@ pid: index_3107
 volume: Volume 3
 image_number: '36'
 head: praise of men
-entry: "<a href='/New_Beehive/toc/toc2_216/'>1112 [Praise of God]</a>|1871 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_216/'>1112 [Praise of God]</a>|1871 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3107'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1908,619,667,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1908,619,667,112/full/0/default.jpg
 label: praise of men
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

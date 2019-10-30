@@ -6,12 +6,12 @@ head:
 entry: Scab
 topic: Scab
 first_letter: S
-xref: French Pocks|<a href='/New_Beehive/toc/toc2_233/'>1199 [Itch]</a>
+xref: French Pocks|<a href='/digital-beehive/toc/toc2_233/'>1199 [Itch]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3532/'>scab</a>"
+index: "<a href='/digital-beehive/index4/index_3532/'>scab</a>"
 insertion_xref: 
 insertion: 
 item: "#item-185e1fcfc"
@@ -24,7 +24,7 @@ order: '824'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/794,1526,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/794,1526,2971,260/full/0/default.jpg
 label: Scab
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

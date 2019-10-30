@@ -3,7 +3,7 @@ pid: index_2614
 volume: Volume 3
 image_number: '31'
 head: mum[m]y
-entry: "<a href='/New_Beehive/toc/toc2_320/'>1629 [Mummy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1629 [Mummy]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2614'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1564,1363,416,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1564,1363,416,138/full/0/default.jpg
 label: mum[m]y
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

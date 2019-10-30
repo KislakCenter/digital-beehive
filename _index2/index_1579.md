@@ -3,7 +3,7 @@ pid: index_1579
 volume: Volume 3
 image_number: '21'
 head: galilee
-entry: "<a href='/New_Beehive/toc/toc2_441/'>4868 [Galileans]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_441/'>4868 [Galileans]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1579'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1516,2276,521,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1516,2276,521,140/full/0/default.jpg
 label: galilee
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

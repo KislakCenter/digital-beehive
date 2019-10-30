@@ -3,7 +3,7 @@ pid: index_1933
 volume: Volume 3
 image_number: '25'
 head: idolatry
-entry: "<a href='/New_Beehive/alpha3/alpha_0444/'>a</a>|<a href='/New_Beehive/toc/toc2_139/'>610
+entry: "<a href='/digital-beehive/alpha3/alpha_0444/'>a</a>|<a href='/digital-beehive/toc/toc2_139/'>610
   [Idolatry]</a>|1887 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1933'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1125,660,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1125,660,161/full/0/default.jpg
 label: idolatry
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

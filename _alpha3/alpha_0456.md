@@ -6,12 +6,12 @@ head:
 entry: Imagination
 topic: Imagination
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0659/'>opinion</a>|<a href='/New_Beehive/alpha5/alpha_0943/'>thought</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0659/'>opinion</a>|<a href='/digital-beehive/alpha5/alpha_0943/'>thought</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1958/'>imagination</a>"
+index: "<a href='/digital-beehive/index3/index_1958/'>imagination</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c17c682d7"
@@ -25,7 +25,7 @@ order: '456'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,3024,482/full/0/default.jpg
 label: Imagination
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

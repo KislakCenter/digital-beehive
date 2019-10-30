@@ -3,7 +3,7 @@ pid: index_2650
 volume: Volume 3
 image_number: '32'
 head: nativity calculators of
-entry: "<a href='/New_Beehive/toc/toc2_250/'>1283 [Calculators of Nativity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1283 [Calculators of Nativity]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2650'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1424,690,124/full/0/default.jpg
 label: nativity calculators of
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

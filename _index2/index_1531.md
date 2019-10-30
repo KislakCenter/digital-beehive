@@ -3,7 +3,7 @@ pid: index_1531
 volume: Volume 3
 image_number: '21'
 head: fragments
-entry: "<a href='/New_Beehive/toc/toc2_159/'>716 [Rest]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>716 [Rest]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1531'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/868,1435,555,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/868,1435,555,125/full/0/default.jpg
 label: fragments
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

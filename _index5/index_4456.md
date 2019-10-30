@@ -3,7 +3,7 @@ pid: index_4456
 volume: Volume 3
 image_number: '51'
 head: Wafers
-entry: "<a href='/New_Beehive/toc/toc2_305/'>1551 [Wafer]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_305/'>1551 [Wafer]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4456'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/935,3024,461,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/935,3024,461,152/full/0/default.jpg
 label: Wafers
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

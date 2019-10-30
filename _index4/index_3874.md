@@ -3,7 +3,7 @@ pid: index_3874
 volume: Volume 3
 image_number: '44'
 head: staiedman
-entry: "<a href='/New_Beehive/toc/toc2_067/'>101 [A Staied man]</a>|<a href='/New_Beehive/toc/toc2_222/'>1144
+entry: "<a href='/digital-beehive/toc/toc2_067/'>101 [A Staied man]</a>|<a href='/digital-beehive/toc/toc2_222/'>1144
   [Staied man]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3874'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1814,2773,641,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1814,2773,641,106/full/0/default.jpg
 label: staiedman
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

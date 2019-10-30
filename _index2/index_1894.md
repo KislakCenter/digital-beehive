@@ -3,7 +3,7 @@ pid: index_1894
 volume: Volume 3
 image_number: '24'
 head: household stuff
-entry: "<a href='/New_Beehive/toc/toc2_159/'>718 [Household stuff]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>718 [Household stuff]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1894'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1117,503,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1117,503,116/full/0/default.jpg
 label: household stuff
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

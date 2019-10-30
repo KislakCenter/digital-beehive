@@ -6,13 +6,13 @@ head:
 entry: Hope
 topic: Hope
 first_letter: H
-xref: Desperation|<a href='/New_Beehive/alpha1/alpha_0156/'>false Comfort</a>|<a href='/New_Beehive/toc/toc2_219/'>1126
-  [Hope]</a>
+xref: Desperation|<a href='/digital-beehive/alpha1/alpha_0156/'>false Comfort</a>|<a
+  href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1868/'>hope</a>"
+index: "<a href='/digital-beehive/index2/index_1868/'>hope</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1aa4646fe"
@@ -26,7 +26,7 @@ order: '428'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,3142,830/full/0/default.jpg
 label: Hope
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

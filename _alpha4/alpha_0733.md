@@ -6,12 +6,12 @@ head:
 entry: Process in Law
 topic: Process in Law
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0015/'>agreement</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0015/'>agreement</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3173/'>process in law</a>"
+index: "<a href='/digital-beehive/index4/index_3173/'>process in law</a>"
 insertion_xref: 
 insertion: 
 item: "#item-69f3575b3"
@@ -25,7 +25,7 @@ order: '733'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/331,1261,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/331,1261,3086,469/full/0/default.jpg
 label: Process in Law
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

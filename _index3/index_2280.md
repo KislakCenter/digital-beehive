@@ -3,7 +3,7 @@ pid: index_2280
 volume: Volume 3
 image_number: '28'
 head: Lidford law
-entry: "<a href='/New_Beehive/toc/toc2_179/'>961 [Too hasty]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_179/'>961 [Too hasty]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2280'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1088,2476,570,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1088,2476,570,154/full/0/default.jpg
 label: Lidford law
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

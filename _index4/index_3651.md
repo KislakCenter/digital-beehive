@@ -3,7 +3,7 @@ pid: index_3651
 volume: Volume 3
 image_number: '42'
 head: severity
-entry: "<a href='/New_Beehive/alpha4/alpha_0853/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0853/'>a</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3651'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1097,1570,485,166/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1097,1570,485,166/full/0/default.jpg
 label: severity
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

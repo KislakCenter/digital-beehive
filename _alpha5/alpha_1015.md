@@ -6,12 +6,12 @@ head:
 entry: Water
 topic: Water
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_304/'>1546 [Water]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_304/'>1546 [Water]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4492/'>water</a>"
+index: "<a href='/digital-beehive/index5/index_4492/'>water</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5bb81e6fc"
@@ -24,7 +24,7 @@ order: '1015'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,2971,521/full/0/default.jpg
 label: Water
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

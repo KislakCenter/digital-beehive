@@ -3,11 +3,11 @@ pid: index_0845
 volume: Volume 3
 image_number: '14'
 head: copy
-entry: "<a href='/New_Beehive/toc/toc2_113/'>452 [Copy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_113/'>452 [Copy]</a>"
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index2/index_1344/'>exemplar</a>"
+see: "<a href='/digital-beehive/index2/index_1344/'>exemplar</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '845'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/full/0/default.jpg
 label: copy
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

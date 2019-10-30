@@ -3,7 +3,7 @@ pid: index_3751
 volume: Volume 3
 image_number: '43'
 head: slime
-entry: "<a href='/New_Beehive/toc/toc2_396/'>2262 [Phlegm or Flegm]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_396/'>2262 [Phlegm or Flegm]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3751'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1301,2469,362,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1301,2469,362,96/full/0/default.jpg
 label: slime
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

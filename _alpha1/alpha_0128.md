@@ -6,12 +6,12 @@ head:
 entry: Cattel
 topic: Cattel
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0068/'>Beast</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0068/'>Beast</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0568/'>cattle</a>"
+index: "<a href='/digital-beehive/index1/index_0568/'>cattle</a>"
 insertion_xref: 
 insertion: 
 item: "#item-95d014f13"
@@ -24,7 +24,7 @@ order: '128'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,2974,600/full/0/default.jpg
 label: Cattel
-location: "<a href='/New_Beehive/toc/toc1_430/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

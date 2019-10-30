@@ -3,7 +3,7 @@ pid: index_4663
 volume: Volume 3
 image_number: '54'
 head: to oversee or overslip
-entry: "<a href='/New_Beehive/toc/toc2_340/'>1757 [To Oversee]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_340/'>1757 [To Oversee]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4663'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/372,346,695,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/372,346,695,156/full/0/default.jpg
 label: to oversee or overslip
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

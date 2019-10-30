@@ -3,8 +3,8 @@ pid: index_2693
 volume: Volume 3
 image_number: '32'
 head: neutrality
-entry: "<a href='/New_Beehive/alpha3/alpha_0633/'>a</a>|<a href='/New_Beehive/toc/toc2_099/'>357
-  [Neutrality]</a>|<a href='/New_Beehive/toc/toc2_428/'>4495 [Neutrality]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0633/'>a</a>|<a href='/digital-beehive/toc/toc2_099/'>357
+  [Neutrality]</a>|<a href='/digital-beehive/toc/toc2_428/'>4495 [Neutrality]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -25,7 +25,7 @@ order: '2693'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1163,1487,650,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1163,1487,650,183/full/0/default.jpg
 label: neutrality
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

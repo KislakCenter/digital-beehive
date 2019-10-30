@@ -3,12 +3,12 @@ pid: index_3679
 volume: Volume 3
 image_number: '42'
 head: shipwrack
-entry: "<a href='/New_Beehive/toc/toc2_105/'>396 [Shipwrack]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_105/'>396 [Shipwrack]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3679'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1445,688,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1445,688,152/full/0/default.jpg
 label: shipwrack
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Answer
 topic: Answer
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0759/'>Queries</a>|refutation|<a href='/New_Beehive/toc/toc2_083/'>243
+xref: "<a href='/digital-beehive/alpha4/alpha_0759/'>Queries</a>|refutation|<a href='/digital-beehive/toc/toc2_083/'>243
   [Answer]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0152/'>answer</a>"
+index: "<a href='/digital-beehive/index1/index_0152/'>answer</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bed49af6b"
@@ -26,7 +26,7 @@ order: '31'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/289,2052,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/289,2052,3156,616/full/0/default.jpg
 label: Answer
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -6,12 +6,12 @@ head:
 entry: God
 topic: God
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_093/'>310 [Gods]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_093/'>310 [Gods]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1639/'>God</a>"
+index: "<a href='/digital-beehive/index2/index_1639/'>God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-be3678adc"
@@ -24,7 +24,7 @@ order: '364'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/776,3713,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/776,3713,2941,760/full/0/default.jpg
 label: God
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

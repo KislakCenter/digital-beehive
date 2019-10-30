@@ -6,12 +6,12 @@ head:
 entry: Deluge
 topic: Deluge
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_272/'>1395 [Deluge]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_272/'>1395 [Deluge]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1004/'>deluge</a>"
+index: "<a href='/digital-beehive/index1/index_1004/'>deluge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a503485d3"
@@ -24,7 +24,7 @@ order: '221'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/326,197,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/326,197,3099,461/full/0/default.jpg
 label: Deluge
-location: "<a href='/New_Beehive/toc/toc1_439/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

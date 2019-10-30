@@ -3,7 +3,7 @@ pid: index_4523
 volume: Volume 3
 image_number: '52'
 head: West Indies
-entry: "<a href='/New_Beehive/toc/toc2_081/'>228 [West Indies]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_081/'>228 [West Indies]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4523'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1076,2003,483,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1076,2003,483,150/full/0/default.jpg
 label: West Indies
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

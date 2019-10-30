@@ -3,7 +3,7 @@ pid: index_3047
 volume: Volume 3
 image_number: '36'
 head: plots
-entry: "<a href='/New_Beehive/toc/toc2_295/'>1505 [Popists plots]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_295/'>1505 [Popists plots]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3047'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/464,1274,448,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/464,1274,448,130/full/0/default.jpg
 label: plots
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

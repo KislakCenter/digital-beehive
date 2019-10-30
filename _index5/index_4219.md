@@ -3,7 +3,7 @@ pid: index_4219
 volume: Volume 3
 image_number: '48'
 head: transparent
-entry: "<a href='/New_Beehive/toc/toc2_321/'>1635 [Transparent]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_321/'>1635 [Transparent]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4219'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2497,646,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2497,646,168/full/0/default.jpg
 label: transparent
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

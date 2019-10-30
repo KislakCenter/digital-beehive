@@ -3,8 +3,8 @@ pid: index_4568
 volume: Volume 3
 image_number: '53'
 head: wisdom
-entry: "<a href='/New_Beehive/alpha5/alpha_1030/'>a</a>|<a href='/New_Beehive/toc/toc2_215/'>1107
-  [Wisdom]</a>|<a href='/New_Beehive/toc/toc2_398/'>2274 [Wisdom]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1030/'>a</a>|<a href='/digital-beehive/toc/toc2_215/'>1107
+  [Wisdom]</a>|<a href='/digital-beehive/toc/toc2_398/'>2274 [Wisdom]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4568'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,807,665,82/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,807,665,82/full/0/default.jpg
 label: wisdom
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

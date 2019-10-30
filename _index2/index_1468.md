@@ -3,7 +3,7 @@ pid: index_1468
 volume: Volume 3
 image_number: '20'
 head: a fit
-entry: "<a href='/New_Beehive/toc/toc2_377/'>2118 [Fit or Paroxysm]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2118 [Fit or Paroxysm]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1468'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/full/0/default.jpg
 label: a fit
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

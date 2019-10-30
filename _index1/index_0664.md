@@ -3,7 +3,7 @@ pid: index_0664
 volume: Volume 3
 image_number: '13'
 head: Churchman
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1381 [Churchman]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1381 [Churchman]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '664'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/141,1579,547,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/141,1579,547,100/full/0/default.jpg
 label: Churchman
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

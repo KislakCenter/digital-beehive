@@ -3,12 +3,12 @@ pid: index_4557
 volume: Volume 3
 image_number: '52'
 head: willow
-entry: "<a href='/New_Beehive/toc/toc2_152/'>684 [Willow]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_152/'>684 [Willow]</a>"
 topic: 
 first_letter: W
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4557'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1797,3114,550,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1797,3114,550,141/full/0/default.jpg
 label: willow
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

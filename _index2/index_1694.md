@@ -3,7 +3,7 @@ pid: index_1694
 volume: Volume 3
 image_number: '22'
 head: grapes
-entry: "<a href='/New_Beehive/toc/toc2_181/'>973 [Grapes]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_181/'>973 [Grapes]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1694'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1846,2649,394,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1846,2649,394,113/full/0/default.jpg
 label: grapes
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

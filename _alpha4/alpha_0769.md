@@ -6,12 +6,12 @@ head:
 entry: Reading
 topic: Reading
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_212/'>1091 [Reading]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_212/'>1091 [Reading]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3307/'>reading</a>"
+index: "<a href='/digital-beehive/index4/index_3307/'>reading</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f9caaa65f"
@@ -24,7 +24,7 @@ order: '769'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/380,4461,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/380,4461,2989,489/full/0/default.jpg
 label: Reading
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

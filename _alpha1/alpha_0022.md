@@ -6,13 +6,13 @@ head:
 entry: Alms
 topic: Alms
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0073/'>Begging</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>Gift</a>|<a
-  href='/New_Beehive/toc/toc2_125/'>528 [Alms]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0073/'>Begging</a>|<a href='/digital-beehive/alpha2/alpha_0359/'>Gift</a>|<a
+  href='/digital-beehive/toc/toc2_125/'>528 [Alms]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0109/'>alms</a>"
+index: "<a href='/digital-beehive/index1/index_0109/'>alms</a>"
 insertion_xref: 
 insertion: 
 item: "#item-36ff0e636"
@@ -25,7 +25,7 @@ order: '22'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,3658,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,3658,3002,508/full/0/default.jpg
 label: Alms
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

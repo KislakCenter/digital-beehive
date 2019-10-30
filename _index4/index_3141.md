@@ -3,7 +3,7 @@ pid: index_3141
 volume: Volume 3
 image_number: '37'
 head: presumption
-entry: "<a href='/New_Beehive/toc/toc2_062/'>57 [Presumption]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_062/'>57 [Presumption]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3141'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/full/0/default.jpg
 label: presumption
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

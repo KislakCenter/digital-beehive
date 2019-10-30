@@ -3,7 +3,7 @@ pid: index_3347
 volume: Volume 3
 image_number: '39'
 head: relapse
-entry: "<a href='/New_Beehive/toc/toc2_320/'>1628 [Relapses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1628 [Relapses]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3347'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/123,2806,452,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/123,2806,452,119/full/0/default.jpg
 label: relapse
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: L
 xref: 
-see: "<a href='/New_Beehive/index3/index_2283/'>life</a>"
+see: "<a href='/digital-beehive/index3/index_2283/'>life</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2310'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2299,528,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2299,528,164/full/0/default.jpg
 label: to live
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

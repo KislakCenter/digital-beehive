@@ -3,13 +3,13 @@ pid: index_4554
 volume: Volume 3
 image_number: '52'
 head: willful
-entry: "<a href='/New_Beehive/toc/toc2_094/'>321 [Willingness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_094/'>321 [Willingness]</a>"
 topic: 
 first_letter: W
 xref: 
-see: "<a href='/New_Beehive/index4/index_3947/'>stubborn</a>"
+see: "<a href='/digital-beehive/index4/index_3947/'>stubborn</a>"
 page: 
-add: "<a href='/New_Beehive/index5/index_4625/'>worship</a>"
+add: "<a href='/digital-beehive/index5/index_4625/'>worship</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '4554'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/full/0/default.jpg
 label: willful
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

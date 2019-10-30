@@ -3,7 +3,7 @@ pid: index_0193
 volume: Volume 3
 image_number: '8'
 head: aqueduct
-entry: "<a href='/New_Beehive/toc/toc2_219/'>1126 [Aqueduct]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1126 [Aqueduct]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '193'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1095,2892,495,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1095,2892,495,116/full/0/default.jpg
 label: aqueduct
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

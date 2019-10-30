@@ -6,12 +6,12 @@ head:
 entry: Promoting
 topic: Promoting
 first_letter: P
-xref: "<a href='/New_Beehive/alpha2/alpha_0410/'>Help</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0410/'>Help</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3190/'>promoting</a>"
+index: "<a href='/digital-beehive/index4/index_3190/'>promoting</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5413ee3e8"
@@ -24,7 +24,7 @@ order: '740'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/355,4228,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/355,4228,3035,371/full/0/default.jpg
 label: Promoting
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

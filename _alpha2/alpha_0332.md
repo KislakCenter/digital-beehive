@@ -6,12 +6,12 @@ head:
 entry: Flight
 topic: Flight
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_148/'>660 [Flight]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_148/'>660 [Flight]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1482/'>flight</a>"
+index: "<a href='/digital-beehive/index2/index_1482/'>flight</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f62671716"
@@ -24,7 +24,7 @@ order: '332'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,3051,589/full/0/default.jpg
 label: Flight
-location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_4258
 volume: Volume 3
 image_number: '49'
 head: truth from ye pulpits
-entry: "<a href='/New_Beehive/toc/toc2_125/'>530 [Truth from the pulpit]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_125/'>530 [Truth from the pulpit]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4258'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,345,628,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,345,628,122/full/0/default.jpg
 label: truth from ye pulpits
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

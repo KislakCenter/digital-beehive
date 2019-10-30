@@ -24,7 +24,7 @@ order: '1823'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/full/0/default.jpg
 label: Hesiodus
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

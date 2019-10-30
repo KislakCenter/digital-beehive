@@ -6,13 +6,13 @@ head:
 entry: Death
 topic: Death
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0013/'>Agony</a>|<a href='/New_Beehive/alpha3/alpha_0605/'>Mortality</a>|<a
-  href='/New_Beehive/toc/toc2_121/'>507 [Death]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0013/'>Agony</a>|<a href='/digital-beehive/alpha3/alpha_0605/'>Mortality</a>|<a
+  href='/digital-beehive/toc/toc2_121/'>507 [Death]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0966/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0966/'>death</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7e364ca49"
@@ -26,7 +26,7 @@ order: '210'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/404,4444,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/404,4444,3011,616/full/0/default.jpg
 label: Death
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

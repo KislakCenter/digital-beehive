@@ -3,13 +3,13 @@ pid: index_2328
 volume: Volume 3
 image_number: '29'
 head: lookingglass
-entry: "<a href='/New_Beehive/alpha3/alpha_0545/'>a</a>|<a href='/New_Beehive/toc/toc2_375/'>2100
+entry: "<a href='/digital-beehive/alpha3/alpha_0545/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2100
   [Lookingglass]</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '2328'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,752,696,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,752,696,142/full/0/default.jpg
 label: lookingglass
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

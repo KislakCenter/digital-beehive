@@ -8,7 +8,7 @@ topic:
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_105/'>p.55 [Image 1.115]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_105/'>p.55 [Image 1.115]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4032'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1095,2848,715,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1095,2848,715,93/full/0/default.jpg
 label: Symboles onomastical
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

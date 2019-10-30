@@ -6,13 +6,13 @@ head:
 entry: Tautology
 topic: Tautology
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/New_Beehive/toc/toc2_213/'>1097
+xref: "<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/toc/toc2_213/'>1097
   [Tautology]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4068/'>tautology</a>"
+index: "<a href='/digital-beehive/index5/index_4068/'>tautology</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e1219527a"
@@ -26,7 +26,7 @@ order: '929'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/325,2324,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/325,2324,3132,369/full/0/default.jpg
 label: Tautology
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

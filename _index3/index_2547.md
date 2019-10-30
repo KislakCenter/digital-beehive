@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index1/index_1108/'>distrust</a>"
+see: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2547'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/162,1661,610,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/162,1661,610,151/full/0/default.jpg
 label: mistrust
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

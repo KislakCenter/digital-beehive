@@ -6,13 +6,13 @@ head:
 entry: Discontentment
 topic: Discontentment
 first_letter: D
-xref: "<a href='/New_Beehive/alpha1/alpha_0174/'>Contentmt</a>|<a href='/New_Beehive/toc/toc2_064/'>80
+xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Contentmt</a>|<a href='/digital-beehive/toc/toc2_064/'>80
   [Discontent]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1068/'>discontentmt</a>"
+index: "<a href='/digital-beehive/index1/index_1068/'>discontentmt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-868c94771"
@@ -26,7 +26,7 @@ order: '238'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,2995,558/full/0/default.jpg
 label: Discontentment
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

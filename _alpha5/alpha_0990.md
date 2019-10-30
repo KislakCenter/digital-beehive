@@ -6,13 +6,13 @@ head:
 entry: Unbelief
 topic: Unbelief
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha2/alpha_0308/'>faith</a>|<a href='/New_Beehive/toc/toc2_372/'>2070
+xref: "<a href='/digital-beehive/alpha2/alpha_0308/'>faith</a>|<a href='/digital-beehive/toc/toc2_372/'>2070
   [unbelief]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4360/'>unbelief</a>"
+index: "<a href='/digital-beehive/index5/index_4360/'>unbelief</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4cd97847c"
@@ -25,7 +25,7 @@ order: '990'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,572,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,572,2940,503/full/0/default.jpg
 label: Unbelief
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

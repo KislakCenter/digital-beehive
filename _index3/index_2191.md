@@ -3,7 +3,7 @@ pid: index_2191
 volume: Volume 3
 image_number: '27'
 head: lamp
-entry: "<a href='/New_Beehive/toc/toc2_314/'>1597 [Lamps]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1597 [Lamps]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2191'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1573,545,352,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1573,545,352,139/full/0/default.jpg
 label: lamp
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

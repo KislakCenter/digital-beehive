@@ -3,7 +3,7 @@ pid: index_2159
 volume: Volume 3
 image_number: '27'
 head: to kindle
-entry: "<a href='/New_Beehive/toc/toc2_101/'>369 [To Kindle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_101/'>369 [To Kindle]</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2159'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/835,671,493,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/835,671,493,148/full/0/default.jpg
 label: to kindle
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

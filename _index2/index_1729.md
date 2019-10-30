@@ -3,7 +3,7 @@ pid: index_1729
 volume: Volume 3
 image_number: '23'
 head: good Guile
-entry: "<a href='/New_Beehive/toc/toc2_284/'>1452 [good Guile]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [good Guile]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1729'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,2619,539,155/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,2619,539,155/full/0/default.jpg
 label: good Guile
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

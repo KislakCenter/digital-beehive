@@ -3,7 +3,7 @@ pid: index_3805
 volume: Volume 3
 image_number: '44'
 head: a sore
-entry: "<a href='/New_Beehive/toc/toc2_171/'>916 [Sore]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_171/'>916 [Sore]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3805'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,1750,352,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,1750,352,128/full/0/default.jpg
 label: a sore
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

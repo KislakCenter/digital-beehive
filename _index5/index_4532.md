@@ -3,7 +3,7 @@ pid: index_4532
 volume: Volume 3
 image_number: '52'
 head: whetstone
-entry: "<a href='/New_Beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4532'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/full/0/default.jpg
 label: whetstone
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

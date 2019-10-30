@@ -3,14 +3,14 @@ pid: index_4475
 volume: Volume 3
 image_number: '51'
 head: war
-entry: "<a href='/New_Beehive/alpha5/alpha_1009/'>a</a>|<a href='/New_Beehive/toc/toc2_234/'>1204
-  [War]</a>|<a href='/New_Beehive/toc/toc2_292/'>1492 [Warfare]</a>|<a href='/New_Beehive/toc/toc2_387/'>2220
-  [War]</a>|<a href='/New_Beehive/toc/toc2_446/'>4913 [War]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1009/'>a</a>|<a href='/digital-beehive/toc/toc2_234/'>1204
+  [War]</a>|<a href='/digital-beehive/toc/toc2_292/'>1492 [Warfare]</a>|<a href='/digital-beehive/toc/toc2_387/'>2220
+  [War]</a>|<a href='/digital-beehive/toc/toc2_446/'>4913 [War]</a>"
 topic: 
 first_letter: W
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 type: 
 index: 
@@ -27,7 +27,7 @@ order: '4475'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1630,2202,610,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1630,2202,610,158/full/0/default.jpg
 label: war
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

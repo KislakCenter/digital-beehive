@@ -6,13 +6,13 @@ head:
 entry: Monster
 topic: Monster
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0766/'>rarity</a>|<a href='/New_Beehive/alpha5/alpha_1040/'>wonderfull
-  things</a>|<a href='/New_Beehive/toc/toc2_365/'>1996 [Monster]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0766/'>rarity</a>|<a href='/digital-beehive/alpha5/alpha_1040/'>wonderfull
+  things</a>|<a href='/digital-beehive/toc/toc2_365/'>1996 [Monster]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2570/'>monster</a>"
+index: "<a href='/digital-beehive/index3/index_2570/'>monster</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2d1bb474f"
@@ -26,7 +26,7 @@ order: '601'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/363,3784,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/363,3784,3002,343/full/0/default.jpg
 label: Monster
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: W
 xref: 
-see: "<a href='/New_Beehive/index1/index_0262/'>bacchanals</a>"
+see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4462'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1633,603,679,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1633,603,679,149/full/0/default.jpg
 label: wakes
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

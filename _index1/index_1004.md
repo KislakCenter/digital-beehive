@@ -3,7 +3,7 @@ pid: index_1004
 volume: Volume 3
 image_number: '16'
 head: deluge
-entry: "<a href='/New_Beehive/alpha1/alpha_0221/'>a</a>|<a href='/New_Beehive/toc/toc2_272/'>1395
+entry: "<a href='/digital-beehive/alpha1/alpha_0221/'>a</a>|<a href='/digital-beehive/toc/toc2_272/'>1395
   [Deluge]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1004'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/full/0/default.jpg
 label: deluge
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

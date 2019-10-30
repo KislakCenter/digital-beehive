@@ -3,7 +3,7 @@ pid: index_4662
 volume: Volume 3
 image_number: '53'
 head: Zunfften
-entry: "<a href='/New_Beehive/toc/toc2_143/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_143/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
 topic: 
 first_letter: Z
 xref: 
@@ -24,7 +24,7 @@ order: '4662'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1529,3574,745,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1529,3574,745,139/full/0/default.jpg
 label: Zunfften
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_0505
 volume: Volume 3
 image_number: '11'
 head: cacao
-entry: "<a href='/New_Beehive/toc/toc2_300/'>1530 [Cacao]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Cacao]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '505'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/full/0/default.jpg
 label: cacao
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

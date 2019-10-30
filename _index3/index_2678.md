@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: N
 xref: 
-see: "<a href='/New_Beehive/index4/index_3768/'>Sneez</a>"
+see: "<a href='/digital-beehive/index4/index_3768/'>Sneez</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2678'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3510,582,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3510,582,148/full/0/default.jpg
 label: neesing
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

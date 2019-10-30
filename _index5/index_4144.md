@@ -3,13 +3,14 @@ pid: index_4144
 volume: Volume 3
 image_number: '47'
 head: thunder
-entry: "<a href='/New_Beehive/alpha5/alpha_0946/'>a</a>|<a href='/New_Beehive/toc/toc2_263/'>1346
-  [Thunder & Lightning]</a>|<a href='/New_Beehive/toc/toc2_378/'>2126 [Thunder & Lightning]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0946/'>a</a>|<a href='/digital-beehive/toc/toc2_263/'>1346
+  [Thunder & Lightning]</a>|<a href='/digital-beehive/toc/toc2_378/'>2126 [Thunder
+  & Lightning]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +27,7 @@ order: '4144'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,962,640,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,962,640,134/full/0/default.jpg
 label: thunder
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

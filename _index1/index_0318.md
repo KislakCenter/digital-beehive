@@ -3,7 +3,7 @@ pid: index_0318
 volume: Volume 3
 image_number: '9'
 head: beard
-entry: "<a href='/New_Beehive/alpha1/alpha_0067/'>a</a>|<a href='/New_Beehive/toc/toc2_286/'>1462
+entry: "<a href='/digital-beehive/alpha1/alpha_0067/'>a</a>|<a href='/digital-beehive/toc/toc2_286/'>1462
   [Beard]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '318'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,1688,447,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,1688,447,130/full/0/default.jpg
 label: beard
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

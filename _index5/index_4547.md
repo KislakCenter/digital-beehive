@@ -3,13 +3,13 @@ pid: index_4547
 volume: Volume 3
 image_number: '52'
 head: wife
-entry: "<a href='/New_Beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc/toc2_290/'>1483
+entry: "<a href='/digital-beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_290/'>1483
   [Wife]</a>"
 topic: 
 first_letter: W
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '4547'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/full/0/default.jpg
 label: wife
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

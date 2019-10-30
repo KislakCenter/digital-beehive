@@ -3,7 +3,7 @@ pid: index_0090
 volume: Volume 3
 image_number: '7'
 head: alcoran
-entry: "<a href='/New_Beehive/toc/toc2_184/'>989 [Alcoran]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Alcoran]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '90'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,813,463,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,813,463,139/full/0/default.jpg
 label: alcoran
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

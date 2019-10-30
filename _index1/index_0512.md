@@ -3,7 +3,7 @@ pid: index_0512
 volume: Volume 3
 image_number: '11'
 head: Callis
-entry: "<a href='/New_Beehive/toc/toc2_287/'>1467 [Callis]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_287/'>1467 [Callis]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '512'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,710,447,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,710,447,150/full/0/default.jpg
 label: Callis
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

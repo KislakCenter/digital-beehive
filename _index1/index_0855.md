@@ -3,7 +3,7 @@ pid: index_0855
 volume: Volume 3
 image_number: '14'
 head: corner
-entry: "<a href='/New_Beehive/toc/toc2_166/'>891 [Corner]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [Corner]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '855'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/full/0/default.jpg
 label: corner
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

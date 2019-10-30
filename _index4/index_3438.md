@@ -3,7 +3,7 @@ pid: index_3438
 volume: Volume 3
 image_number: '40'
 head: robbery
-entry: "<a href='/New_Beehive/alpha4/alpha_0805/'>a</a>|<a href='/New_Beehive/toc/toc2_120/'>499
+entry: "<a href='/digital-beehive/alpha4/alpha_0805/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>499
   [Robbery]</a>|4511 [PAGE_MISSING]"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3438'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,255,673,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,255,673,129/full/0/default.jpg
 label: robbery
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

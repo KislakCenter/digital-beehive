@@ -3,9 +3,10 @@ pid: index_2955
 volume: Volume 3
 image_number: '35'
 head: perfection
-entry: "<a href='/New_Beehive/alpha4/alpha_0693/'>a</a>|<a href='/New_Beehive/toc/toc2_062/'>60
-  [Perfection]</a>|<a href='/New_Beehive/toc/toc2_131/'>569 [Perfection]</a>|<a href='/New_Beehive/toc/toc2_210/'>1084
-  [Perfection]</a>|<a href='/New_Beehive/toc/toc2_340/'>1753 [Sinless Perfection]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0693/'>a</a>|<a href='/digital-beehive/toc/toc2_062/'>60
+  [Perfection]</a>|<a href='/digital-beehive/toc/toc2_131/'>569 [Perfection]</a>|<a
+  href='/digital-beehive/toc/toc2_210/'>1084 [Perfection]</a>|<a href='/digital-beehive/toc/toc2_340/'>1753
+  [Sinless Perfection]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -27,7 +28,7 @@ order: '2955'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/full/0/default.jpg
 label: perfection
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

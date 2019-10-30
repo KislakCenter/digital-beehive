@@ -6,12 +6,12 @@ head:
 entry: Security
 topic: Security
 first_letter: S
-xref: Preparation|<a href='/New_Beehive/toc/toc2_170/'>914 [Security]</a>
+xref: Preparation|<a href='/digital-beehive/toc/toc2_170/'>914 [Security]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3589/'>security</a>"
+index: "<a href='/digital-beehive/index4/index_3589/'>security</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d86effcab"
@@ -25,7 +25,7 @@ order: '835'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,3118,436/full/0/default.jpg
 label: Security
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

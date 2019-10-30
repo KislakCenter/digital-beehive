@@ -6,12 +6,12 @@ head:
 entry: Godfather
 topic: Godfather
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_211/'>1090 [Godfathers]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_211/'>1090 [Godfathers]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1664/'>godfather</a>"
+index: "<a href='/digital-beehive/index2/index_1664/'>godfather</a>"
 insertion_xref: 
 insertion: 
 item: "#item-40c32196e"
@@ -24,7 +24,7 @@ order: '369'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/343,1130,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/343,1130,3064,349/full/0/default.jpg
 label: Godfather
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

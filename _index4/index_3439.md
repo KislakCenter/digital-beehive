@@ -3,12 +3,12 @@ pid: index_3439
 volume: Volume 3
 image_number: '40'
 head: rock
-entry: "<a href='/New_Beehive/toc/toc2_353/'>1914 [Rock]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1914 [Rock]</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3439'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/full/0/default.jpg
 label: rock
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

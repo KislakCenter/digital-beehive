@@ -3,7 +3,7 @@ pid: index_1261
 volume: Volume 3
 image_number: '18'
 head: English poets
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>|4565 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1261'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,2001,590,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,2001,590,130/full/0/default.jpg
 label: English poets
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

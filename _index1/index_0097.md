@@ -3,11 +3,11 @@ pid: index_0097
 volume: Volume 3
 image_number: '7'
 head: allegory
-entry: "<a href='/New_Beehive/toc/toc2_086/'>265 [Metaphor or figurative Speech]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_086/'>265 [Metaphor or figurative Speech]</a>"
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index3/index_2501/'>metaphor</a>"
+see: "<a href='/digital-beehive/index3/index_2501/'>metaphor</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '97'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/full/0/default.jpg
 label: allegory
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

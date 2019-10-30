@@ -3,8 +3,8 @@ pid: index_4651
 volume: Volume 3
 image_number: '53'
 head: the young of beasts
-entry: "<a href='/New_Beehive/toc/toc2_206/'>1061 [The young or little ones of all
-  beasts]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_206/'>1061 [The young or little ones of
+  all beasts]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -25,7 +25,7 @@ order: '4651'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1578,2693,694,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1578,2693,694,136/full/0/default.jpg
 label: the young of beasts
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -24,7 +24,7 @@ order: '2852'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/467,2239,559,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/467,2239,559,150/full/0/default.jpg
 label: Oxford
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

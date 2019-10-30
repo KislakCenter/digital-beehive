@@ -3,7 +3,7 @@ pid: index_0797
 volume: Volume 3
 image_number: '14'
 head: conjuring
-entry: "<a href='/New_Beehive/toc/toc2_303/'>1541 [Conjuring]</a>|1864 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_303/'>1541 [Conjuring]</a>|1864 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '797'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1160,746,696,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1160,746,696,129/full/0/default.jpg
 label: conjuring
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Discord
 topic: Discord
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0989/'>Unanimity</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0989/'>Unanimity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1069/'>discord</a>"
+index: "<a href='/digital-beehive/index1/index_1069/'>discord</a>"
 insertion_xref: 
 insertion: 
 item: "#item-40ce07a4f"
@@ -25,7 +25,7 @@ order: '239'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,3093,725/full/0/default.jpg
 label: Discord
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

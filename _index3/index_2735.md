@@ -3,7 +3,7 @@ pid: index_2735
 volume: Volume 3
 image_number: '32'
 head: notary
-entry: "<a href='/New_Beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2735'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,2256,419,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,2256,419,129/full/0/default.jpg
 label: notary
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

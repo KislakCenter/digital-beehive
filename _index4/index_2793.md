@@ -3,7 +3,7 @@ pid: index_2793
 volume: Volume 3
 image_number: '33'
 head: Sin of Onan
-entry: "<a href='/New_Beehive/toc/toc2_112/'>447 [Sodomy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_112/'>447 [Sodomy]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2793'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/845,2749,587,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/845,2749,587,139/full/0/default.jpg
 label: Sin of Onan
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

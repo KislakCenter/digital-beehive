@@ -3,7 +3,7 @@ pid: index_1082
 volume: Volume 3
 image_number: '17'
 head: to disjoint
-entry: "<a href='/New_Beehive/toc/toc2_136/'>593 [disjoint]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_136/'>593 [disjoint]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1082'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/160,1448,511,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/160,1448,511,116/full/0/default.jpg
 label: to disjoint
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

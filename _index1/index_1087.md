@@ -3,7 +3,7 @@ pid: index_1087
 volume: Volume 3
 image_number: '17'
 head: disorder
-entry: "<a href='/New_Beehive/alpha1/alpha_0243/'>a</a>|<a href='/New_Beehive/toc/toc2_173/'>929
+entry: "<a href='/digital-beehive/alpha1/alpha_0243/'>a</a>|<a href='/digital-beehive/toc/toc2_173/'>929
   [Disorder]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1087'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,2071,535,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,2071,535,113/full/0/default.jpg
 label: disorder
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

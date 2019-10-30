@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4633/'>wrinkle</a>"
+index: "<a href='/digital-beehive/index5/index_4633/'>wrinkle</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b1b13ccc2"
@@ -24,7 +24,7 @@ order: '1056'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,2998,413/full/0/default.jpg
 label: Wrinkle
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

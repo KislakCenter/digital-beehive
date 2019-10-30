@@ -6,13 +6,13 @@ head:
 entry: Money
 topic: Money
 first_letter: M
-xref: "<a href='/New_Beehive/alpha5/alpha_0968/'>Treasure</a>|<a href='/New_Beehive/toc/toc2_109/'>426
+xref: "<a href='/digital-beehive/alpha5/alpha_0968/'>Treasure</a>|<a href='/digital-beehive/toc/toc2_109/'>426
   [Money]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2564/'>money</a>"
+index: "<a href='/digital-beehive/index3/index_2564/'>money</a>"
 insertion_xref: 
 insertion: 
 item: "#item-adf4c763a"
@@ -25,7 +25,7 @@ order: '599'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/339,2987,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/339,2987,3060,500/full/0/default.jpg
 label: Money
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

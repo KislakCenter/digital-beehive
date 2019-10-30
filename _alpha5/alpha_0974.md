@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4282/'>tyger</a>"
+index: "<a href='/digital-beehive/index5/index_4282/'>tyger</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0187356dd"
@@ -24,7 +24,7 @@ order: '974'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,931,142/full/0/default.jpg
 label: Tyger
-location: "<a href='/New_Beehive/toc/toc2_051/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

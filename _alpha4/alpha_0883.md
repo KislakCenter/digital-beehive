@@ -6,12 +6,12 @@ head:
 entry: Soft
 topic: Soft
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_138/'>603 [Flacid]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_138/'>603 [Flacid]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3782/'>soft</a>"
+index: "<a href='/digital-beehive/index4/index_3782/'>soft</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bf50f33bf"
@@ -24,7 +24,7 @@ order: '883'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/818,1496,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/818,1496,836,207/full/0/default.jpg
 label: Soft
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

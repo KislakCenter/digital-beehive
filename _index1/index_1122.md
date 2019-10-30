@@ -3,7 +3,7 @@ pid: index_1122
 volume: Volume 3
 image_number: '17'
 head: doctor
-entry: "<a href='/New_Beehive/alpha1/alpha_0254/'>a</a>|<a href='/New_Beehive/toc/toc2_179/'>964
+entry: "<a href='/digital-beehive/alpha1/alpha_0254/'>a</a>|<a href='/digital-beehive/toc/toc2_179/'>964
   [Doctor]</a>|4643 [PAGE_MISSING]"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1122'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/747,2418,710,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/747,2418,710,130/full/0/default.jpg
 label: doctor
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

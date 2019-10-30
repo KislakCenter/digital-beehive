@@ -3,7 +3,7 @@ pid: index_0840
 volume: Volume 3
 image_number: '14'
 head: convoy
-entry: "<a href='/New_Beehive/toc/toc2_397/'>2267 [To Convoy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [To Convoy]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '840'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1858,2057,426,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1858,2057,426,140/full/0/default.jpg
 label: convoy
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

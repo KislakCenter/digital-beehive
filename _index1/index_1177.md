@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4729/'>duty of husband and</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4729/'>duty of husband and</a>"
 insertion: 
 item: "#item-134701df1"
 unparsed: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
@@ -24,7 +24,7 @@ order: '1177'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/full/0/default.jpg
 label: "[:59.]"
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

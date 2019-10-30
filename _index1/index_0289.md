@@ -3,16 +3,16 @@ pid: index_0289
 volume: Volume 3
 image_number: '9'
 head: baptism
-entry: "<a href='/New_Beehive/alpha1/alpha_0059/'>a</a>|<a href='/New_Beehive/toc/toc2_088/'>273
-  [Baptism]</a>|<a href='/New_Beehive/toc/toc2_197/'>1018 [Baptism]</a>|<a href='/New_Beehive/toc/toc2_203/'>1048
-  [Baptism]</a>|<a href='/New_Beehive/toc/toc2_388/'>2225 [Baptism]</a>|<a href='/New_Beehive/toc/toc2_391/'>2239
+entry: "<a href='/digital-beehive/alpha1/alpha_0059/'>a</a>|<a href='/digital-beehive/toc/toc2_088/'>273
+  [Baptism]</a>|<a href='/digital-beehive/toc/toc2_197/'>1018 [Baptism]</a>|<a href='/digital-beehive/toc/toc2_203/'>1048
+  [Baptism]</a>|<a href='/digital-beehive/toc/toc2_388/'>2225 [Baptism]</a>|<a href='/digital-beehive/toc/toc2_391/'>2239
   [Baptism]</a>"
 topic: 
 first_letter: B
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0194/'>Arab</a>|<a href='/New_Beehive/index3/index_2030/'>Infant
+add: "<a href='/digital-beehive/index1/index_0194/'>Arab</a>|<a href='/digital-beehive/index3/index_2030/'>Infant
   baptism</a>"
 type: 
 index: 
@@ -29,7 +29,7 @@ order: '289'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,2135,713,242/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,2135,713,242/full/0/default.jpg
 label: baptism
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

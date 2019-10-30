@@ -3,7 +3,7 @@ pid: index_1376
 volume: Volume 3
 image_number: '20'
 head: factions
-entry: "<a href='/New_Beehive/toc/toc2_061/'>46 [orthodox]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_061/'>46 [orthodox]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1376'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/full/0/default.jpg
 label: factions
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

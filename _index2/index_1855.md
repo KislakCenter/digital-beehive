@@ -3,8 +3,8 @@ pid: index_1855
 volume: Volume 3
 image_number: '24'
 head: holiness
-entry: "<a href='/New_Beehive/alpha2/alpha_0423/'>a</a>|<a href='/New_Beehive/toc/toc2_184/'>990
-  [Holiness]</a>|<a href='/New_Beehive/toc/toc2_368/'>2025 [Holiness]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/toc/toc2_184/'>990
+  [Holiness]</a>|<a href='/digital-beehive/toc/toc2_368/'>2025 [Holiness]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1855'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/full/0/default.jpg
 label: holiness
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

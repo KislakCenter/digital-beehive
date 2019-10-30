@@ -3,7 +3,7 @@ pid: index_2554
 volume: Volume 3
 image_number: '31'
 head: modesty
-entry: "<a href='/New_Beehive/alpha3/alpha_0596/'>a</a>|<a href='/New_Beehive/toc/toc2_281/'>1437
+entry: "<a href='/digital-beehive/alpha3/alpha_0596/'>a</a>|<a href='/digital-beehive/toc/toc2_281/'>1437
   [Modesty]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2554'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2485,540,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2485,540,143/full/0/default.jpg
 label: modesty
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

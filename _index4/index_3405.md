@@ -3,8 +3,8 @@ pid: index_3405
 volume: Volume 3
 image_number: '39'
 head: revenge
-entry: "<a href='/New_Beehive/alpha4/alpha_0796/'>a</a>|<a href='/New_Beehive/toc/toc2_121/'>504
-  [Revenge]</a>|<a href='/New_Beehive/toc/toc2_250/'>1282 [Revenge]</a>|<a href='/New_Beehive/toc/toc2_393/'>2246
+entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>|<a href='/digital-beehive/toc/toc2_121/'>504
+  [Revenge]</a>|<a href='/digital-beehive/toc/toc2_250/'>1282 [Revenge]</a>|<a href='/digital-beehive/toc/toc2_393/'>2246
   [Revenge]</a>"
 topic: 
 first_letter: R
@@ -27,7 +27,7 @@ order: '3405'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,3244,868,237/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,3244,868,237/full/0/default.jpg
 label: revenge
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

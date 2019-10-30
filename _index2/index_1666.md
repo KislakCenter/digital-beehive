@@ -3,7 +3,7 @@ pid: index_1666
 volume: Volume 3
 image_number: '22'
 head: Gog & Magog
-entry: "<a href='/New_Beehive/alpha2/alpha_0370/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0370/'>a</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1666'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/full/0/default.jpg
 label: Gog & Magog
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

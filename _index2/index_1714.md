@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index1/index_1018/'>derision</a>|<a href='/New_Beehive/index4/index_3898/'>stern</a>"
+see: "<a href='/digital-beehive/index1/index_1018/'>derision</a>|<a href='/digital-beehive/index4/index_3898/'>stern</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1714'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/full/0/default.jpg
 label: grim[m]ace
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

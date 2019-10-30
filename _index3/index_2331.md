@@ -3,7 +3,7 @@ pid: index_2331
 volume: Volume 3
 image_number: '29'
 head: to lop
-entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [to lop]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to lop]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2331'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/163,1083,309,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/163,1083,309,145/full/0/default.jpg
 label: to lop
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

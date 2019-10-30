@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: H
 xref: 
-see: "<a href='/New_Beehive/index5/index_4389/'>unity</a>"
+see: "<a href='/digital-beehive/index5/index_4389/'>unity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1758'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/841,1855,607,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/841,1855,607,139/full/0/default.jpg
 label: harmony
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

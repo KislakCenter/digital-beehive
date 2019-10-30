@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4447/'>usury</a>"
+index: "<a href='/digital-beehive/index5/index_4447/'>usury</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c64fdb463"
@@ -24,7 +24,7 @@ order: '1004'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/324,1286,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/324,1286,3034,383/full/0/default.jpg
 label: Usury
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

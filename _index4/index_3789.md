@@ -3,7 +3,7 @@ pid: index_3789
 volume: Volume 3
 image_number: '43'
 head: solstice
-entry: "<a href='/New_Beehive/toc/toc2_249/'>1280 [Summer]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_249/'>1280 [Summer]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3789'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3357,530,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3357,530,167/full/0/default.jpg
 label: solstice
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

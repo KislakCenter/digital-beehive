@@ -3,7 +3,7 @@ pid: index_1362
 volume: Volume 3
 image_number: '19'
 head: external conversation
-entry: "<a href='/New_Beehive/alpha2/alpha_0301/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0301/'>a</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1362'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2370,630,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2370,630,121/full/0/default.jpg
 label: external conversation
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

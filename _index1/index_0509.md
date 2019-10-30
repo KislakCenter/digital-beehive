@@ -3,11 +3,11 @@ pid: index_0509
 volume: Volume 3
 image_number: '11'
 head: calf
-entry: "<a href='/New_Beehive/toc/toc2_383/'>2172 [Calf]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_383/'>2172 [Calf]</a>"
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0568/'>cattle</a>"
+see: "<a href='/digital-beehive/index1/index_0568/'>cattle</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '509'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,449,648,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,449,648,104/full/0/default.jpg
 label: calf
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

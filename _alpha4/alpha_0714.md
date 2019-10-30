@@ -6,12 +6,12 @@ head:
 entry: Posterity
 topic: Posterity
 first_letter: P
-xref: Children|<a href='/New_Beehive/alpha1/alpha_0063/'>Bastard</a>
+xref: Children|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3089/'>posterity</a>"
+index: "<a href='/digital-beehive/index4/index_3089/'>posterity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9c11c8b1f"
@@ -24,7 +24,7 @@ order: '714'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,3053,377/full/0/default.jpg
 label: Posterity
-location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

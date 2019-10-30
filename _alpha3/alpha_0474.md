@@ -6,12 +6,12 @@ head:
 entry: Inhumanity
 topic: Inhumanity
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0435/'>humanity</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0435/'>humanity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2044/'>inhumanity</a>"
+index: "<a href='/digital-beehive/index3/index_2044/'>inhumanity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-60d045282"
@@ -24,7 +24,7 @@ order: '474'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,1749,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,1749,2990,406/full/0/default.jpg
 label: Inhumanity
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

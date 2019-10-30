@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: O
 xref: 
-see: "<a href='/New_Beehive/index3/index_2563/'>monarchy</a>"
+see: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2786'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1878,778,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1878,778,177/full/0/default.jpg
 label: Oligarchy
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

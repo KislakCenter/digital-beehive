@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3211/'>proverbs</a>"
+index: "<a href='/digital-beehive/index4/index_3211/'>proverbs</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ae7b3ea31"
@@ -24,7 +24,7 @@ order: '748'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,2487,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,2487,2988,632/full/0/default.jpg
 label: Proverbs
-location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

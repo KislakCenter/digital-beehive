@@ -8,7 +8,7 @@ topic:
 first_letter: W
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc2_290/'>p.380 [Image 2.300]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc2_290/'>p.380 [Image 2.300]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4635'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/full/0/default.jpg
 label: writing secret
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

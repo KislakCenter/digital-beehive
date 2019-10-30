@@ -6,12 +6,12 @@ head:
 entry: Divorcement
 topic: Divorcement
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_293/'>1498 [Divorsement]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_293/'>1498 [Divorsement]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1119/'>divorcement</a>"
+index: "<a href='/digital-beehive/index1/index_1119/'>divorcement</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2283b131d"
@@ -24,7 +24,7 @@ order: '252'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/375,1583,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/375,1583,2995,215/full/0/default.jpg
 label: Divorcement
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

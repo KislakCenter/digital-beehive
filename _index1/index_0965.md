@@ -3,7 +3,7 @@ pid: index_0965
 volume: Volume 3
 image_number: '15'
 head: dearth
-entry: "<a href='/New_Beehive/alpha1/alpha_0209/'>a</a>|<a href='/New_Beehive/toc/toc2_130/'>563
+entry: "<a href='/digital-beehive/alpha1/alpha_0209/'>a</a>|<a href='/digital-beehive/toc/toc2_130/'>563
   [Dearth]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '965'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1537,2750,552,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1537,2750,552,87/full/0/default.jpg
 label: dearth
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

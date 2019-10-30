@@ -3,7 +3,7 @@ pid: index_3451
 volume: Volume 3
 image_number: '40'
 head: rose
-entry: "<a href='/New_Beehive/alpha4/alpha_0808/'>a</a>|<a href='/New_Beehive/toc/toc2_355/'>1928
+entry: "<a href='/digital-beehive/alpha4/alpha_0808/'>a</a>|<a href='/digital-beehive/toc/toc2_355/'>1928
   [Rose]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3451'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1670,404,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1670,404,123/full/0/default.jpg
 label: rose
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

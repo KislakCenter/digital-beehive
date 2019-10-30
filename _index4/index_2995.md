@@ -3,9 +3,9 @@ pid: index_2995
 volume: Volume 3
 image_number: '35'
 head: physician
-entry: "<a href='/New_Beehive/alpha4/alpha_0699/'>a</a>|<a href='/New_Beehive/toc/toc2_244/'>1251
-  [Physicians]</a>|<a href='/New_Beehive/toc/toc2_321/'>1634 [Physician]</a>|<a href='/New_Beehive/toc/toc2_389/'>2229
-  [Physician]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0699/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1251
+  [Physicians]</a>|<a href='/digital-beehive/toc/toc2_321/'>1634 [Physician]</a>|<a
+  href='/digital-beehive/toc/toc2_389/'>2229 [Physician]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -27,7 +27,7 @@ order: '2995'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/full/0/default.jpg
 label: physician
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3082
 volume: Volume 3
 image_number: '36'
 head: possam
-entry: "<a href='/New_Beehive/toc/toc2_137/'>602 [Possam]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_137/'>602 [Possam]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3082'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1161,1406,492,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1161,1406,492,87/full/0/default.jpg
 label: possam
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

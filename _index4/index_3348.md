@@ -3,13 +3,13 @@ pid: index_3348
 volume: Volume 3
 image_number: '39'
 head: relation. freündschafft
-entry: "<a href='/New_Beehive/toc/toc2_112/'>445 [Relation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_112/'>445 [Relation]</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index2/index_1844/'>history</a>"
+add: "<a href='/digital-beehive/index2/index_1844/'>history</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '3348'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,2934,647,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,2934,647,193/full/0/default.jpg
 label: relation. freündschafft
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Drunkeness
 topic: Drunkeness
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_073/'>161 [Drunkeness]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_073/'>161 [Drunkeness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1163/'>drunken[n]ess</a>"
+index: "<a href='/digital-beehive/index1/index_1163/'>drunken[n]ess</a>"
 insertion_xref: 
 insertion: 
 item: "#item-18aa7dc9f"
@@ -24,7 +24,7 @@ order: '263'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,2971,663/full/0/default.jpg
 label: Drunkeness
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

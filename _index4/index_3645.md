@@ -3,12 +3,12 @@ pid: index_3645
 volume: Volume 3
 image_number: '42'
 head: serpent
-entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Serpent]</a>|<a href='/New_Beehive/toc/toc2_302/'>1539
-  [Serpents]</a>|<a href='/New_Beehive/toc/toc2_377/'>2119 [Serpents]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Serpent]</a>|<a href='/digital-beehive/toc/toc2_302/'>1539
+  [Serpents]</a>|<a href='/digital-beehive/toc/toc2_377/'>2119 [Serpents]</a>"
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index4/index_3766/'>snake</a>"
+see: "<a href='/digital-beehive/index4/index_3766/'>snake</a>"
 page: 
 add: 
 type: 
@@ -26,7 +26,7 @@ order: '3645'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,916,739,236/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,916,739,236/full/0/default.jpg
 label: serpent
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

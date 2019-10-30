@@ -3,7 +3,7 @@ pid: index_1696
 volume: Volume 3
 image_number: '22'
 head: grasshopper
-entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Grasshopper]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Grasshopper]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1696'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1824,2877,575,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1824,2877,575,157/full/0/default.jpg
 label: grasshopper
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

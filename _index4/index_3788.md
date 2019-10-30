@@ -3,7 +3,7 @@ pid: index_3788
 volume: Volume 3
 image_number: '43'
 head: Solomon
-entry: "<a href='/New_Beehive/toc/toc2_093/'>314 [Solomon]</a>|<a href='/New_Beehive/toc/toc2_311/'>1583
+entry: "<a href='/digital-beehive/toc/toc2_093/'>314 [Solomon]</a>|<a href='/digital-beehive/toc/toc2_311/'>1583
   [Solomon]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3788'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3206,591,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3206,591,144/full/0/default.jpg
 label: Solomon
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

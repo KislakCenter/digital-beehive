@@ -3,8 +3,8 @@ pid: index_0018
 volume: Volume 3
 image_number: '7'
 head: absurdity
-entry: "<a href='/New_Beehive/alpha1/alpha_0002/'>a</a>|<a href='/New_Beehive/toc/toc2_171/'>919
-  [Absurd]</a>|<a href='/New_Beehive/toc/toc2_386/'>2205 [Absurd]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0002/'>a</a>|<a href='/digital-beehive/toc/toc2_171/'>919
+  [Absurd]</a>|<a href='/digital-beehive/toc/toc2_386/'>2205 [Absurd]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -25,7 +25,7 @@ order: '18'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,1631,736,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,1631,736,144/full/0/default.jpg
 label: absurdity
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

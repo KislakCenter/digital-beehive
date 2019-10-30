@@ -3,7 +3,7 @@ pid: index_2950
 volume: Volume 3
 image_number: '35'
 head: Pen[n]silvania
-entry: "<a href='/New_Beehive/toc/toc2_273/'>1399 [Pennsylvania]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1399 [Pennsylvania]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2950'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/full/0/default.jpg
 label: Pen[n]silvania
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

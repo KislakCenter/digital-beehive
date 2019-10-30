@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index4/index_3554/'>scorn</a>"
+see: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2551'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/168,2198,475,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/168,2198,475,159/full/0/default.jpg
 label: mock
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_0242
 volume: Volume 3
 image_number: '9'
 head: attorney
-entry: "<a href='/New_Beehive/toc/toc2_160/'>721 [Attorney]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_160/'>721 [Attorney]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '242'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,971,506,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,971,506,143/full/0/default.jpg
 label: attorney
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

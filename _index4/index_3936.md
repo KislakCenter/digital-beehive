@@ -3,7 +3,7 @@ pid: index_3936
 volume: Volume 3
 image_number: '45'
 head: strayed or lost
-entry: "<a href='/New_Beehive/toc/toc2_353/'>1915 [Strayed or lost]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1915 [Strayed or lost]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3936'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/893,2175,597,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/893,2175,597,128/full/0/default.jpg
 label: strayed or lost
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

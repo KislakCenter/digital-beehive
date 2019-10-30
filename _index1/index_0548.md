@@ -3,7 +3,7 @@ pid: index_0548
 volume: Volume 3
 image_number: '12'
 head: carraway
-entry: "<a href='/New_Beehive/toc/toc2_151/'>677 [Carraways]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_151/'>677 [Carraways]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '548'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,901,556,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,901,556,140/full/0/default.jpg
 label: carraway
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

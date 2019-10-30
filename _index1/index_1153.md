@@ -3,13 +3,13 @@ pid: index_1153
 volume: Volume 3
 image_number: '17'
 head: drink artificial
-entry: "<a href='/New_Beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
 topic: 
 first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index2/index_1777/'>health</a>"
+add: "<a href='/digital-beehive/index2/index_1777/'>health</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '1153'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1460,2379,605,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1460,2379,605,159/full/0/default.jpg
 label: drink artificial
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

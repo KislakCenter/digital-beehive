@@ -3,7 +3,7 @@ pid: index_1409
 volume: Volume 3
 image_number: '20'
 head: fast or firm
-entry: "<a href='/New_Beehive/toc/toc2_153/'>686 [Firm]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Firm]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1409'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,3288,549,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,3288,549,114/full/0/default.jpg
 label: fast or firm
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Order
 topic: Order
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/New_Beehive/toc/toc2_080/'>221
+xref: "<a href='/digital-beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/digital-beehive/toc/toc2_080/'>221
   [Order]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2819/'>order</a>"
+index: "<a href='/digital-beehive/index4/index_2819/'>order</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5075f85ab"
@@ -25,7 +25,7 @@ order: '661'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,3063,458/full/0/default.jpg
 label: Order
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

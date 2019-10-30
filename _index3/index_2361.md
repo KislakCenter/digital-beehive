@@ -3,7 +3,7 @@ pid: index_2361
 volume: Volume 3
 image_number: '29'
 head: Ludov. XIV
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1319 [Ludovicus XIV]</a>|<a href='/New_Beehive/toc/toc2_363/'>1984
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/toc/toc2_363/'>1984
   [Ludovicus XIV]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2361'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/full/0/default.jpg
 label: Ludov. XIV
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

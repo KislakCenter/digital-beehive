@@ -3,7 +3,8 @@ pid: index_1069
 volume: Volume 3
 image_number: '16'
 head: discord
-entry: "<a href='/New_Beehive/alpha1/alpha_0239/'>a</a>|840 [PAGE_MISSING]|1854 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0239/'>a</a>|840 [PAGE_MISSING]|1854
+  [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +25,7 @@ order: '1069'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1808,3559,636,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1808,3559,636,124/full/0/default.jpg
 label: discord
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

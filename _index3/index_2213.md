@@ -3,13 +3,13 @@ pid: index_2213
 volume: Volume 3
 image_number: '27'
 head: late
-entry: "<a href='/New_Beehive/alpha3/alpha_0517/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0517/'>a</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_3371/'>repentance</a>"
+add: "<a href='/digital-beehive/index4/index_3371/'>repentance</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '2213'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/full/0/default.jpg
 label: late
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

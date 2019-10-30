@@ -3,7 +3,7 @@ pid: index_0116
 volume: Volume 3
 image_number: '7'
 head: Duke of Alva
-entry: "<a href='/New_Beehive/toc/toc2_239/'>1227 [Duke of Alva]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1227 [Duke of Alva]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '116'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1534,2801,622,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1534,2801,622,135/full/0/default.jpg
 label: Duke of Alva
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

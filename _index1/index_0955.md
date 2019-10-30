@@ -3,13 +3,13 @@ pid: index_0955
 volume: Volume 3
 image_number: '15'
 head: day of humiliation
-entry: "<a href='/New_Beehive/toc/toc2_091/'>298 [Day of humiliation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_091/'>298 [Day of humiliation]</a>"
 topic: 
 first_letter: D
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4345/'>Visitation</a>"
+add: "<a href='/digital-beehive/index5/index_4345/'>Visitation</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '955'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/full/0/default.jpg
 label: day of humiliation
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

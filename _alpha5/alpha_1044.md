@@ -6,12 +6,12 @@ head:
 entry: Work
 topic: Work
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0214/'>Deed</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0214/'>Deed</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4612/'>work</a>"
+index: "<a href='/digital-beehive/index5/index_4612/'>work</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ca04f2c8c"
@@ -24,7 +24,7 @@ order: '1044'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,2945,495/full/0/default.jpg
 label: Work
-location: "<a href='/New_Beehive/toc/toc2_056/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

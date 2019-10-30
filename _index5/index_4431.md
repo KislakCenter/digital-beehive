@@ -3,12 +3,12 @@ pid: index_4431
 volume: Volume 3
 image_number: '51'
 head: vomit
-entry: "<a href='/New_Beehive/toc/toc2_091/'>301 [Vomit]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_091/'>301 [Vomit]</a>"
 topic: 
 first_letter: U/V
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4431'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/224,3180,506,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/224,3180,506,185/full/0/default.jpg
 label: vomit
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

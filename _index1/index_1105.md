@@ -3,7 +3,7 @@ pid: index_1105
 volume: Volume 3
 image_number: '17'
 head: distinction
-entry: "<a href='/New_Beehive/toc/toc2_345/'>1793 [the distinction]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1793 [the distinction]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1105'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/820,536,547,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/820,536,547,124/full/0/default.jpg
 label: distinction
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

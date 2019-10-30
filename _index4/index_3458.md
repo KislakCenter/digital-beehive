@@ -3,7 +3,7 @@ pid: index_3458
 volume: Volume 3
 image_number: '40'
 head: royalists
-entry: "<a href='/New_Beehive/toc/toc2_342/'>1766 [High Church]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_342/'>1766 [High Church]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3458'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2264,486,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2264,486,125/full/0/default.jpg
 label: royalists
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

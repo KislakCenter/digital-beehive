@@ -3,7 +3,7 @@ pid: index_2803
 volume: Volume 3
 image_number: '33'
 head: open. openly
-entry: "<a href='/New_Beehive/toc/toc2_124/'>521 [Openly]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_124/'>521 [Openly]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2803'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1545,386,539,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1545,386,539,135/full/0/default.jpg
 label: open. openly
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

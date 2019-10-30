@@ -3,7 +3,7 @@ pid: index_4047
 volume: Volume 3
 image_number: '46'
 head: tailor
-entry: "<a href='/New_Beehive/alpha5/alpha_0928/'>a</a>|<a href='/New_Beehive/toc/toc2_338/'>1733
+entry: "<a href='/digital-beehive/alpha5/alpha_0928/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1733
   [Tailor]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4047'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/full/0/default.jpg
 label: tailor
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

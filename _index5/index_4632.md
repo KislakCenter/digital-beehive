@@ -3,7 +3,7 @@ pid: index_4632
 volume: Volume 3
 image_number: '53'
 head: wrestling
-entry: "<a href='/New_Beehive/toc/toc2_160/'>721 [Wrastling]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_160/'>721 [Wrastling]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4632'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/full/0/default.jpg
 label: wrestling
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,9 +3,9 @@ pid: index_0971
 volume: Volume 3
 image_number: '15'
 head: fear of death
-entry: "<a href='/New_Beehive/alpha1/alpha_0211/'>a</a>|<a href='/New_Beehive/toc/toc2_109/'>424
-  [Fear of death]</a>|<a href='/New_Beehive/toc/toc2_229/'>1177 [Fear of Death]</a>|<a
-  href='/New_Beehive/toc/toc2_240/'>1234 [Fear & contempt of Death]</a>|4605 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0211/'>a</a>|<a href='/digital-beehive/toc/toc2_109/'>424
+  [Fear of death]</a>|<a href='/digital-beehive/toc/toc2_229/'>1177 [Fear of Death]</a>|<a
+  href='/digital-beehive/toc/toc2_240/'>1234 [Fear & contempt of Death]</a>|4605 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -27,7 +27,7 @@ order: '971'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1549,3306,662,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1549,3306,662,161/full/0/default.jpg
 label: fear of death
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

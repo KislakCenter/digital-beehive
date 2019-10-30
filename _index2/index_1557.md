@@ -3,12 +3,12 @@ pid: index_1557
 volume: Volume 3
 image_number: '21'
 head: fruit
-entry: "<a href='/New_Beehive/alpha2/alpha_0350/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0350/'>a</a>"
 topic: 
 first_letter: F
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1557'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1620,259,507,178/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1620,259,507,178/full/0/default.jpg
 label: fruit
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_1148
 volume: Volume 3
 image_number: '17'
 head: dress
-entry: "<a href='/New_Beehive/toc/toc2_076/'>195 [Ornament]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_076/'>195 [Ornament]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1148'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/full/0/default.jpg
 label: dress
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

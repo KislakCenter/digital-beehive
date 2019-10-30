@@ -6,13 +6,13 @@ head:
 entry: Moral Philosophy
 topic: Moral Philosophy
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/New_Beehive/toc/toc2_163/'>880
+xref: "<a href='/digital-beehive/toc/toc2_059/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/toc/toc2_163/'>880
   [Moral Philos]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2577/'>moral philosophy</a>"
+index: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ac4e76034"
@@ -26,7 +26,7 @@ order: '602'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,3045,165/full/0/default.jpg
 label: Moral Philosophy
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

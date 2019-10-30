@@ -3,8 +3,8 @@ pid: index_0233
 volume: Volume 3
 image_number: '9'
 head: atheism
-entry: "<a href='/New_Beehive/alpha1/alpha_0048/'>a</a>|<a href='/New_Beehive/toc/toc2_083/'>240
-  [Atheism]</a>|<a href='/New_Beehive/toc/toc2_278/'>1421 [Atheism]</a>|<a href='/New_Beehive/toc/toc2_363/'>1983
+entry: "<a href='/digital-beehive/alpha1/alpha_0048/'>a</a>|<a href='/digital-beehive/toc/toc2_083/'>240
+  [Atheism]</a>|<a href='/digital-beehive/toc/toc2_278/'>1421 [Atheism]</a>|<a href='/digital-beehive/toc/toc2_363/'>1983
   [Atheism]</a>"
 topic: 
 first_letter: A
@@ -27,7 +27,7 @@ order: '233'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/174,238,708,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/174,238,708,186/full/0/default.jpg
 label: atheism
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

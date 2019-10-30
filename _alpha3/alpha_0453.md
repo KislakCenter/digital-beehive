@@ -6,13 +6,13 @@ head:
 entry: Illumination
 topic: Illumination
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0793/'>revelation</a>|<a href='/New_Beehive/toc/toc2_199/'>1027
+xref: "<a href='/digital-beehive/alpha4/alpha_0793/'>revelation</a>|<a href='/digital-beehive/toc/toc2_199/'>1027
   [Illumination]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1955/'>illumination</a>"
+index: "<a href='/digital-beehive/index3/index_1955/'>illumination</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7c6ed06fa"
@@ -26,7 +26,7 @@ order: '453'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/375,2921,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/375,2921,2981,658/full/0/default.jpg
 label: Illumination
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_1749
 volume: Volume 3
 image_number: '23'
 head: hanging of thieves
-entry: "<a href='/New_Beehive/toc/toc2_248/'>1271 [Hanging of thieves]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_248/'>1271 [Hanging of thieves]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1749'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,995,562,89/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,995,562,89/full/0/default.jpg
 label: hanging of thieves
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

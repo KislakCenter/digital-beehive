@@ -6,12 +6,12 @@ head:
 entry: Fashion of the Country
 topic: Fashion of the Country
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_271/'>1386 [Fashion of the Country]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_271/'>1386 [Fashion of the Country]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1408/'>fashion of the Country</a>"
+index: "<a href='/digital-beehive/index2/index_1408/'>fashion of the Country</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4be979543"
@@ -25,7 +25,7 @@ order: '313'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/774,3189,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/774,3189,2909,587/full/0/default.jpg
 label: Fashion of the Country
-location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

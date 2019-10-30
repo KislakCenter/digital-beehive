@@ -3,7 +3,8 @@ pid: index_0068
 volume: Volume 3
 image_number: '7'
 head: after sweet sowre
-entry: "<a href='/New_Beehive/toc/toc2_058/'>10 [After high floods (.come:) low ebbs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_058/'>10 [After high floods (.come:) low
+  ebbs]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +25,7 @@ order: '68'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/full/0/default.jpg
 label: after sweet sowre
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

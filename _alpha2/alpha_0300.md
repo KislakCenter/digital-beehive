@@ -6,13 +6,13 @@ head:
 entry: External appearance
 topic: External appearance
 first_letter: E
-xref: "<a href='/New_Beehive/alpha4/alpha_0839/'>Seeming</a>|<a href='/New_Beehive/alpha4/alpha_0857/'>Shapes</a>|<a
-  href='/New_Beehive/toc/toc2_111/'>437 [External Appearance]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0839/'>Seeming</a>|<a href='/digital-beehive/alpha4/alpha_0857/'>Shapes</a>|<a
+  href='/digital-beehive/toc/toc2_111/'>437 [External Appearance]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1361/'>external appearance</a>"
+index: "<a href='/digital-beehive/index2/index_1361/'>external appearance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e1e329d42"
@@ -26,7 +26,7 @@ order: '300'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,1596,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,1596,3109,481/full/0/default.jpg
 label: External appearance
-location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

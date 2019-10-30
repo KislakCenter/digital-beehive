@@ -3,7 +3,7 @@ pid: index_0967
 volume: Volume 3
 image_number: '15'
 head: death of Christ
-entry: "<a href='/New_Beehive/toc/toc2_134/'>582 [Death of Xst]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_134/'>582 [Death of Xst]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '967'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/full/0/default.jpg
 label: death of Christ
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Book prayers
 topic: Book prayers
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_086/'>259 [Book Prayers]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_086/'>259 [Book Prayers]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3114/'>book prayers</a>"
+index: "<a href='/digital-beehive/index4/index_3114/'>book prayers</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b752fcc73"
@@ -25,7 +25,7 @@ order: '719'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/852,650,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/852,650,2961,393/full/0/default.jpg
 label: Book prayers
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

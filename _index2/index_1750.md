@@ -3,8 +3,8 @@ pid: index_1750
 volume: Volume 3
 image_number: '23'
 head: happiness
-entry: "<a href='/New_Beehive/alpha2/alpha_0392/'>a</a>|<a href='/New_Beehive/toc/toc2_215/'>1106
-  [happy]</a>|<a href='/New_Beehive/toc/toc2_279/'>1426 [Happy]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>|<a href='/digital-beehive/toc/toc2_215/'>1106
+  [happy]</a>|<a href='/digital-beehive/toc/toc2_279/'>1426 [Happy]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1750'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/842,1108,681,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/842,1108,681,122/full/0/default.jpg
 label: happiness
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

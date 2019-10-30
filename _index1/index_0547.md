@@ -8,7 +8,7 @@ topic:
 first_letter: C
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '547'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/422,786,596,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/422,786,596,117/full/0/default.jpg
 label: carpenters rule
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_2522
 volume: Volume 3
 image_number: '30'
 head: mine. minerals
-entry: "<a href='/New_Beehive/alpha3/alpha_0592/'>a</a>|<a href='/New_Beehive/toc/toc2_381/'>2154
+entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/toc/toc2_381/'>2154
   [Mineral]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2522'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1844,2248,643,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1844,2248,643,137/full/0/default.jpg
 label: mine. minerals
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

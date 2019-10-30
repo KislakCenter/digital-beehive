@@ -6,12 +6,12 @@ head:
 entry: Grace of God
 topic: Grace of God
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_145/'>646 [Grace of God]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_145/'>646 [Grace of God]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1685/'>Grace of God</a>"
+index: "<a href='/digital-beehive/index2/index_1685/'>Grace of God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f20619d2c"
@@ -25,7 +25,7 @@ order: '377'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/390,3712,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/390,3712,3011,437/full/0/default.jpg
 label: Grace of God
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

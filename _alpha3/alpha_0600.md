@@ -6,13 +6,13 @@ head:
 entry: Monk
 topic: Monk
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/New_Beehive/alpha2/alpha_0417/'>Hermit</a>|<a
-  href='/New_Beehive/toc/toc2_114/'>462 [Monks]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/digital-beehive/alpha2/alpha_0417/'>Hermit</a>|<a
+  href='/digital-beehive/toc/toc2_114/'>462 [Monks]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2567/'>monk</a>"
+index: "<a href='/digital-beehive/index3/index_2567/'>monk</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a0df82e32"
@@ -26,7 +26,7 @@ order: '600'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/374,3419,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/374,3419,3004,446/full/0/default.jpg
 label: Monk
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

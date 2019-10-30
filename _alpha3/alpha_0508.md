@@ -6,13 +6,13 @@ head:
 entry: Lasciviousness
 topic: Lasciviousness
 first_letter: L
-xref: "<a href='/New_Beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/New_Beehive/toc/toc2_274/'>1402
+xref: "<a href='/digital-beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/digital-beehive/toc/toc2_274/'>1402
   [Lasciviousness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2202/'>lascivious</a>"
+index: "<a href='/digital-beehive/index3/index_2202/'>lascivious</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8fba8eb7b"
@@ -26,7 +26,7 @@ order: '508'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/680,1688,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/680,1688,3091,616/full/0/default.jpg
 label: Lasciviousness
-location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

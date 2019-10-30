@@ -6,12 +6,12 @@ head:
 entry: Pride
 topic: Pride
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0089/'>Boasting</a>|<a href='/New_Beehive/alpha2/alpha_0380/'>Grandeur</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0089/'>Boasting</a>|<a href='/digital-beehive/alpha2/alpha_0380/'>Grandeur</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3152/'>pride</a>"
+index: "<a href='/digital-beehive/index4/index_3152/'>pride</a>"
 insertion_xref: 
 insertion: 
 item: "#item-37a8f0cc4"
@@ -25,7 +25,7 @@ order: '725'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/845,2963,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/845,2963,2941,644/full/0/default.jpg
 label: Pride
-location: "<a href='/New_Beehive/toc/toc2_032/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

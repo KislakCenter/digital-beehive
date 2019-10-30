@@ -6,12 +6,12 @@ head:
 entry: Danger
 topic: Danger
 first_letter: D
-xref: Pinch|<a href='/New_Beehive/toc/toc2_150/'>673 [Danger]</a>
+xref: Pinch|<a href='/digital-beehive/toc/toc2_150/'>673 [Danger]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0945/'>danger</a>"
+index: "<a href='/digital-beehive/index1/index_0945/'>danger</a>"
 insertion_xref: 
 insertion: 
 item: "#item-84f269f52"
@@ -24,7 +24,7 @@ order: '206'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/359,2725,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/359,2725,3117,602/full/0/default.jpg
 label: Danger
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

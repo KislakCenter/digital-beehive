@@ -6,12 +6,12 @@ head:
 entry: Parsimony
 topic: Parsimony
 first_letter: P
-xref: Expenses|<a href='/New_Beehive/toc/toc2_216/'>1115 [Frugality]</a>
+xref: Expenses|<a href='/digital-beehive/toc/toc2_216/'>1115 [Frugality]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2892/'>parsimony</a>"
+index: "<a href='/digital-beehive/index4/index_2892/'>parsimony</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c0243529d"
@@ -25,7 +25,7 @@ order: '677'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,4398,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,4398,2951,673/full/0/default.jpg
 label: Parsimony
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

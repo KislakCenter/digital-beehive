@@ -6,12 +6,12 @@ head:
 entry: Inconsiderancy
 topic: Inconsiderancy
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0171/'>Consid</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0171/'>Consid</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2003/'>inconsiderancy</a>"
+index: "<a href='/digital-beehive/index3/index_2003/'>inconsiderancy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-62a54fe6c"
@@ -25,7 +25,7 @@ order: '466'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,4155,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,4155,2909,517/full/0/default.jpg
 label: Inconsiderancy
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

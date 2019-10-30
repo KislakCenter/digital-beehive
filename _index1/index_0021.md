@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4686/'>Abyssines</a>|<a href='/New_Beehive/index5/index_4687/'>abyss</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4686/'>Abyssines</a>|<a href='/digital-beehive/index5/index_4687/'>abyss</a>"
 insertion: 
 item: "#item-4f1a94c31"
 unparsed: 'Type: Index|Insertion Xref: [:21.]|#item-4f1a94c31'
@@ -24,7 +24,7 @@ order: '21'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/744,1866,178,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/744,1866,178,101/full/0/default.jpg
 label: "[:21.]"
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,12 +3,12 @@ pid: index_3864
 volume: Volume 3
 image_number: '44'
 head: spring. brun[n]
-entry: "<a href='/New_Beehive/alpha4/alpha_0896/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0896/'>a</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3864'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1808,1705,694,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1808,1705,694,117/full/0/default.jpg
 label: spring. brun[n]
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

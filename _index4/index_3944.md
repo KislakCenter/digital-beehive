@@ -3,7 +3,7 @@ pid: index_3944
 volume: Volume 3
 image_number: '45'
 head: stroker
-entry: "<a href='/New_Beehive/toc/toc2_102/'>372 [Stroker]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_102/'>372 [Stroker]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3944'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/full/0/default.jpg
 label: stroker
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

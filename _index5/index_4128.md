@@ -3,7 +3,7 @@ pid: index_4128
 volume: Volume 3
 image_number: '47'
 head: thought governmt of th
-entry: "<a href='/New_Beehive/toc/toc2_253/'>1297 [Governmt of thoughts]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_253/'>1297 [Governmt of thoughts]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4128'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/full/0/default.jpg
 label: thought governmt of th
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

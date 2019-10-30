@@ -3,7 +3,7 @@ pid: index_0178
 volume: Volume 3
 image_number: '8'
 head: appeal
-entry: "<a href='/New_Beehive/toc/toc2_071/'>145 [Appeal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_071/'>145 [Appeal]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '178'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1109,1463,389,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1109,1463,389,119/full/0/default.jpg
 label: appeal
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

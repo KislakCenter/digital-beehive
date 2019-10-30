@@ -3,7 +3,7 @@ pid: index_2251
 volume: Volume 3
 image_number: '28'
 head: legend
-entry: "<a href='/New_Beehive/toc/toc2_304/'>1550 [Legend]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1550 [Legend]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2251'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/400,3384,462,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/400,3384,462,128/full/0/default.jpg
 label: legend
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

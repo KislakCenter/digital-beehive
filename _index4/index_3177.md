@@ -3,7 +3,7 @@ pid: index_3177
 volume: Volume 3
 image_number: '37'
 head: procreation
-entry: "<a href='/New_Beehive/toc/toc2_314/'>1597 [Generation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1597 [Generation]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3177'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/787,1663,598,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/787,1663,598,122/full/0/default.jpg
 label: procreation
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

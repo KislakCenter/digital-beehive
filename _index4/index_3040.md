@@ -3,7 +3,7 @@ pid: index_3040
 volume: Volume 3
 image_number: '36'
 head: plausible
-entry: "<a href='/New_Beehive/toc/toc2_066/'>94 [a Plausible man]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_066/'>94 [a Plausible man]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3040'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/462,605,516,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/462,605,516,144/full/0/default.jpg
 label: plausible
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

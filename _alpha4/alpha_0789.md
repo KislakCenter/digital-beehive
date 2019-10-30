@@ -6,12 +6,12 @@ head:
 entry: Resignation
 topic: Resignation
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_175/'>937 [Resignation]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>937 [Resignation]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3387/'>resignation</a>"
+index: "<a href='/digital-beehive/index4/index_3387/'>resignation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-803885c1c"
@@ -24,7 +24,7 @@ order: '789'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,2931,488/full/0/default.jpg
 label: Resignation
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

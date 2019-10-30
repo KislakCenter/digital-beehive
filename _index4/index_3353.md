@@ -3,7 +3,7 @@ pid: index_3353
 volume: Volume 3
 image_number: '39'
 head: to remain
-entry: "<a href='/New_Beehive/toc/toc2_312/'>1590 [To Last]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_312/'>1590 [To Last]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3353'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/784,246,609,204/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/784,246,609,204/full/0/default.jpg
 label: to remain
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

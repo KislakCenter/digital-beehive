@@ -3,7 +3,7 @@ pid: index_4017
 volume: Volume 3
 image_number: '46'
 head: to swap
-entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [To Swap]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_158/'>715 [To Swap]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4017'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1077,1333,421,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1077,1333,421,136/full/0/default.jpg
 label: to swap
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

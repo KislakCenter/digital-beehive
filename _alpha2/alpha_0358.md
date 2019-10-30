@@ -6,13 +6,13 @@ head:
 entry: Holy Ghost
 topic: Holy Ghost
 first_letter: G
-xref: "<a href='/New_Beehive/alpha4/alpha_0894/'>Spirit</a>|<a href='/New_Beehive/toc/toc2_196/'>1012
-  [h. Ghost]</a>|<a href='/New_Beehive/alpha5/alpha_0991/'>Unction</a>|Inspiration"
+xref: "<a href='/digital-beehive/alpha4/alpha_0894/'>Spirit</a>|<a href='/digital-beehive/toc/toc2_196/'>1012
+  [h. Ghost]</a>|<a href='/digital-beehive/alpha5/alpha_0991/'>Unction</a>|Inspiration"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1606/'>h. Ghost</a>"
+index: "<a href='/digital-beehive/index2/index_1606/'>h. Ghost</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0bb65b876"
@@ -26,7 +26,7 @@ order: '358'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/757,1440,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/757,1440,2995,633/full/0/default.jpg
 label: Holy Ghost
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

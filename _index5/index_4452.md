@@ -3,7 +3,7 @@ pid: index_4452
 volume: Volume 3
 image_number: '51'
 head: vulcan
-entry: "<a href='/New_Beehive/toc/toc2_092/'>306 [Smith]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_092/'>306 [Smith]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4452'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/968,2347,456,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/968,2347,456,112/full/0/default.jpg
 label: vulcan
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

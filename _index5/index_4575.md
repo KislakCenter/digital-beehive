@@ -3,9 +3,10 @@ pid: index_4575
 volume: Volume 3
 image_number: '53'
 head: witchcraft
-entry: "<a href='/New_Beehive/alpha5/alpha_1032/'>a</a>|<a href='/New_Beehive/toc/toc2_256/'>1312
-  [Witchcraft]</a>|<a href='/New_Beehive/toc/toc2_302/'>1536 [Witchcraft]</a>|<a href='/New_Beehive/toc/toc2_306/'>1556
-  [Bewitch]</a>|<a href='/New_Beehive/toc/toc2_392/'>2243 [Sorcery or Witchcraft]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1032/'>a</a>|<a href='/digital-beehive/toc/toc2_256/'>1312
+  [Witchcraft]</a>|<a href='/digital-beehive/toc/toc2_302/'>1536 [Witchcraft]</a>|<a
+  href='/digital-beehive/toc/toc2_306/'>1556 [Bewitch]</a>|<a href='/digital-beehive/toc/toc2_392/'>2243
+  [Sorcery or Witchcraft]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -27,7 +28,7 @@ order: '4575'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/full/0/default.jpg
 label: witchcraft
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

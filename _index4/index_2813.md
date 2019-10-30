@@ -3,7 +3,7 @@ pid: index_2813
 volume: Volume 3
 image_number: '33'
 head: optick
-entry: "<a href='/New_Beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2813'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1511,1396,500,197/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1511,1396,500,197/full/0/default.jpg
 label: optick
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_3831
 volume: Volume 3
 image_number: '44'
 head: speech
-entry: "<a href='/New_Beehive/alpha4/alpha_0892/'>a</a>|<a href='/New_Beehive/toc/toc2_232/'>1194
-  [Speech]</a>|<a href='/New_Beehive/toc/toc2_306/'>1557 [Speech]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0892/'>a</a>|<a href='/digital-beehive/toc/toc2_232/'>1194
+  [Speech]</a>|<a href='/digital-beehive/toc/toc2_306/'>1557 [Speech]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3831'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1104,1269,681,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1104,1269,681,131/full/0/default.jpg
 label: speech
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

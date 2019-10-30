@@ -6,12 +6,12 @@ head:
 entry: Duel
 topic: Duel
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_258/'>1325 [Duel]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_258/'>1325 [Duel]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1166/'>duel</a>"
+index: "<a href='/digital-beehive/index1/index_1166/'>duel</a>"
 insertion_xref: 
 insertion: 
 item: "#item-68688252a"
@@ -24,7 +24,7 @@ order: '265'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/764,1285,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/764,1285,2978,511/full/0/default.jpg
 label: Duel
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

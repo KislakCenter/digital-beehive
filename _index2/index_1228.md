@@ -3,7 +3,7 @@ pid: index_1228
 volume: Volume 3
 image_number: '18'
 head: elk
-entry: "<a href='/New_Beehive/toc/toc2_300/'>1529 [Elk]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1529 [Elk]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1228'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2663,327,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2663,327,129/full/0/default.jpg
 label: elk
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

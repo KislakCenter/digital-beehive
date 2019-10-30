@@ -3,7 +3,7 @@ pid: index_3133
 volume: Volume 3
 image_number: '36'
 head: presbyterians
-entry: 798 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_428/'>4494 [Presbyterians]</a>
+entry: 798 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_428/'>4494 [Presbyterians]</a>
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3133'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1844,3535,688,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1844,3535,688,172/full/0/default.jpg
 label: presbyterians
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

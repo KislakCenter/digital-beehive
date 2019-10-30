@@ -6,13 +6,13 @@ head:
 entry: Partiality
 topic: Partiality
 first_letter: P
-xref: "<a href='/New_Beehive/alpha3/alpha_0459/'>Impart</a>|<a href='/New_Beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
-  href='/New_Beehive/alpha4/alpha_0778/'>Regarding of persons</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0459/'>Impart</a>|<a href='/digital-beehive/alpha3/alpha_0633/'>Neutrality</a>|<a
+  href='/digital-beehive/alpha4/alpha_0778/'>Regarding of persons</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2899/'>partiality</a>"
+index: "<a href='/digital-beehive/index4/index_2899/'>partiality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0857cafe1"
@@ -26,7 +26,7 @@ order: '680'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/271,404,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/271,404,3080,423/full/0/default.jpg
 label: Partiality
-location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_3120
 volume: Volume 3
 image_number: '36'
 head: precise
-entry: "<a href='/New_Beehive/toc/toc2_071/'>147 [Exactness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_071/'>147 [Exactness]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3120'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1882,1898,446,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1882,1898,446,111/full/0/default.jpg
 label: precise
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

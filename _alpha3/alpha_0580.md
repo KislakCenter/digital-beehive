@@ -6,12 +6,12 @@ head:
 entry: Melancholy
 topic: Melancholy|Melancholyness
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha4/alpha_0815/'>Sadness</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/digital-beehive/alpha4/alpha_0815/'>Sadness</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2476/'>melancholy</a>"
+index: "<a href='/digital-beehive/index3/index_2476/'>melancholy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f7d2261c2"
@@ -25,7 +25,7 @@ order: '580'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,3045,547/full/0/default.jpg
 label: Melancholy
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

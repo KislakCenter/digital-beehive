@@ -6,13 +6,13 @@ head:
 entry: End
 topic: End
 first_letter: E
-xref: "<a href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/alpha5/alpha_1047/'>World's
-  End</a>|<a href='/New_Beehive/toc/toc2_161/'>868 [End]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0509/'>Last</a>|<a href='/digital-beehive/alpha5/alpha_1047/'>World's
+  End</a>|<a href='/digital-beehive/toc/toc2_161/'>868 [End]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1249/'>end</a>"
+index: "<a href='/digital-beehive/index2/index_1249/'>end</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3f317cb7d"
@@ -26,7 +26,7 @@ order: '281'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/365,2131,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/365,2131,3102,716/full/0/default.jpg
 label: End
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

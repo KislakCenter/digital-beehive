@@ -6,12 +6,12 @@ head:
 entry: Spiritual
 topic: Spiritual
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_184/'>989 [Spiritual]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_184/'>989 [Spiritual]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3849/'>spiritual</a>"
+index: "<a href='/digital-beehive/index4/index_3849/'>spiritual</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2a449c272"
@@ -24,7 +24,7 @@ order: '895'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/273,794,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/273,794,3110,412/full/0/default.jpg
 label: Spiritual
-location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

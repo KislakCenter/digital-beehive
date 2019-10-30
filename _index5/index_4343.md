@@ -3,7 +3,7 @@ pid: index_4343
 volume: Volume 3
 image_number: '49'
 head: virgula divinatoria
-entry: "<a href='/New_Beehive/toc/toc2_256/'>1315 [Divination]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1315 [Divination]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4343'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/full/0/default.jpg
 label: virgula divinatoria
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

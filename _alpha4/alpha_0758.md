@@ -6,12 +6,12 @@ head:
 entry: winter Quarters
 topic: winter Quarters
 first_letter: Q
-xref: "<a href='/New_Beehive/toc/toc2_335/'>1708 [quarter granted]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_335/'>1708 [quarter granted]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3255/'>quarter</a>"
+index: "<a href='/digital-beehive/index4/index_3255/'>quarter</a>"
 insertion_xref: 
 insertion: 
 item: "#item-35fe5d3ef"
@@ -25,7 +25,7 @@ order: '758'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,3063,403/full/0/default.jpg
 label: winter Quarters
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

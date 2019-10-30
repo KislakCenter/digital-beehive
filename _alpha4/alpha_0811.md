@@ -6,13 +6,13 @@ head:
 entry: Rules
 topic: Rules
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_062/'>51 [Rule]</a>|<a href='/New_Beehive/toc/toc2_110/'>434
+xref: "<a href='/digital-beehive/toc/toc2_062/'>51 [Rule]</a>|<a href='/digital-beehive/toc/toc2_110/'>434
   [Rules]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3466/'>rules</a>"
+index: "<a href='/digital-beehive/index4/index_3466/'>rules</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3a45768ac"
@@ -25,7 +25,7 @@ order: '811'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/290,2056,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/290,2056,3016,588/full/0/default.jpg
 label: Rules
-location: "<a href='/New_Beehive/toc/toc2_039/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

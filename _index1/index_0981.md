@@ -3,11 +3,11 @@ pid: index_0981
 volume: Volume 3
 image_number: '16'
 head: decree
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1920 [Decree]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1920 [Decree]</a>"
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index4/index_3389/'>resolution</a>"
+see: "<a href='/digital-beehive/index4/index_3389/'>resolution</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '981'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/363,906,705,193/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/363,906,705,193/full/0/default.jpg
 label: decree
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

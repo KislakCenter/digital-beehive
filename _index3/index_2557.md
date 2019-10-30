@@ -3,7 +3,7 @@ pid: index_2557
 volume: Volume 3
 image_number: '31'
 head: mole. talpa
-entry: a
+entry: "<a href='/digital-beehive/alpha3/alpha_0597/'>a</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2557'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/full/0/default.jpg
 label: mole. talpa
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

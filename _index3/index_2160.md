@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: K
 xref: 
-see: "<a href='/New_Beehive/index1/index_0680/'>Civility</a>|<a href='/New_Beehive/index2/index_1898/'>humanity</a>"
+see: "<a href='/digital-beehive/index1/index_0680/'>Civility</a>|<a href='/digital-beehive/index2/index_1898/'>humanity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2160'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,798,819,187/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,798,819,187/full/0/default.jpg
 label: kindness
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

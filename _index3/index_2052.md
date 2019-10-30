@@ -3,8 +3,8 @@ pid: index_2052
 volume: Volume 3
 image_number: '26'
 head: innocence
-entry: "<a href='/New_Beehive/alpha3/alpha_0477/'>a</a>|761 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_387/'>2219
-  [Innocence]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0477/'>a</a>|761 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_387/'>2219 [Innocence]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -25,7 +25,7 @@ order: '2052'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/423,3525,715,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/423,3525,715,162/full/0/default.jpg
 label: innocence
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

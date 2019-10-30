@@ -6,7 +6,7 @@ head:
 entry: Funeral
 topic: Funeral
 first_letter: F
-xref: "<a href='/New_Beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/New_Beehive/toc/toc2_208/'>1071
+xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>Burial</a>|<a href='/digital-beehive/toc/toc2_208/'>1071
   [Funeral Comendation]</a>"
 see: 
 page: 
@@ -26,7 +26,7 @@ order: '352'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/409,4068,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/409,4068,3019,385/full/0/default.jpg
 label: Funeral
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_0653
 volume: Volume 3
 image_number: '13'
 head: christians primitive
-entry: "<a href='/New_Beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '653'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/142,713,511,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/142,713,511,100/full/0/default.jpg
 label: christians primitive
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

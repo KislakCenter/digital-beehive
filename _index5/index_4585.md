@@ -3,8 +3,8 @@ pid: index_4585
 volume: Volume 3
 image_number: '53'
 head: to woe
-entry: "<a href='/New_Beehive/toc/toc2_170/'>912 [To Wooe]</a>|<a href='/New_Beehive/toc/toc2_271/'>1389
-  [of Courting women]</a>|<a href='/New_Beehive/toc/toc2_317/'>1614 [Courting]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [To Wooe]</a>|<a href='/digital-beehive/toc/toc2_271/'>1389
+  [of Courting women]</a>|<a href='/digital-beehive/toc/toc2_317/'>1614 [Courting]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -26,7 +26,7 @@ order: '4585'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,2701,683,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,2701,683,126/full/0/default.jpg
 label: to woe
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

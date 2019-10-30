@@ -3,7 +3,7 @@ pid: index_0817
 volume: Volume 3
 image_number: '14'
 head: consumption
-entry: "<a href='/New_Beehive/toc/toc2_136/'>594 [Dropsie]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_136/'>594 [Dropsie]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '817'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1116,2980,577,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1116,2980,577,111/full/0/default.jpg
 label: consumption
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

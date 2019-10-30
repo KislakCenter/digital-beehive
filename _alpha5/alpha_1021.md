@@ -6,13 +6,13 @@ head:
 entry: Whoredom
 topic: Whoredom
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/New_Beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
-  href='/New_Beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
+  href='/digital-beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4542/'>whoredom</a>"
+index: "<a href='/digital-beehive/index5/index_4542/'>whoredom</a>"
 insertion_xref: 
 insertion: 
 item: "#item-74d7d6014"
@@ -26,7 +26,7 @@ order: '1021'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
 label: Whoredom
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

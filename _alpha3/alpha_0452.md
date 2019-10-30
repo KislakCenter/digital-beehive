@@ -6,13 +6,13 @@ head:
 entry: Ignorance
 topic: Ignorance
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0503/'>Knowledge</a>|<a href='/New_Beehive/alpha5/alpha_0995/'>Unknown</a>|<a
-  href='/New_Beehive/toc/toc2_145/'>642 [Ignorance]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0503/'>Knowledge</a>|<a href='/digital-beehive/alpha5/alpha_0995/'>Unknown</a>|<a
+  href='/digital-beehive/toc/toc2_145/'>642 [Ignorance]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1950/'>ignorance</a>"
+index: "<a href='/digital-beehive/index3/index_1950/'>ignorance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7e6fdbe6f"
@@ -26,7 +26,7 @@ order: '452'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/350,2536,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/350,2536,3035,475/full/0/default.jpg
 label: Ignorance
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_2321
 volume: Volume 3
 image_number: '28'
 head: London
-entry: "<a href='/New_Beehive/alpha3/alpha_0542/'>a</a>|<a href='/New_Beehive/toc/toc2_287/'>1468
+entry: "<a href='/digital-beehive/alpha3/alpha_0542/'>a</a>|<a href='/digital-beehive/toc/toc2_287/'>1468
   [London]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2321'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1854,3414,474,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1854,3414,474,127/full/0/default.jpg
 label: London
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

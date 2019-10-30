@@ -3,7 +3,7 @@ pid: index_1404
 volume: Volume 3
 image_number: '20'
 head: farewel
-entry: "<a href='/New_Beehive/alpha2/alpha_0312/'>a</a>|<a href='/New_Beehive/toc/toc2_150/'>675
+entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/toc/toc2_150/'>675
   [Farewell]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1404'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2953,526,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2953,526,106/full/0/default.jpg
 label: farewel
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

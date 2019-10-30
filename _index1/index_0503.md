@@ -3,7 +3,7 @@ pid: index_0503
 volume: Volume 3
 image_number: '11'
 head: cabbages
-entry: "<a href='/New_Beehive/toc/toc2_150/'>675 [Cabbages]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_150/'>675 [Cabbages]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '503'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/881,3466,507,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/881,3466,507,143/full/0/default.jpg
 label: cabbages
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

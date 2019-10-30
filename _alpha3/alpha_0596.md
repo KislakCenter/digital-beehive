@@ -6,13 +6,13 @@ head:
 entry: Modesty
 topic: Modesty
 first_letter: M
-xref: "<a href='/New_Beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/New_Beehive/alpha1/alpha_0240/'>Discretness</a>|<a
-  href='/New_Beehive/toc/toc2_281/'>1437 [Modesty]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha1/alpha_0240/'>Discretness</a>|<a
+  href='/digital-beehive/toc/toc2_281/'>1437 [Modesty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2554/'>modesty</a>"
+index: "<a href='/digital-beehive/index3/index_2554/'>modesty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-15da617d5"
@@ -26,7 +26,7 @@ order: '596'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/352,2206,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/352,2206,3051,392/full/0/default.jpg
 label: Modesty
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

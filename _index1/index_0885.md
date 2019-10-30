@@ -3,10 +3,10 @@ pid: index_0885
 volume: Volume 3
 image_number: '15'
 head: to court
-entry: "<a href='/New_Beehive/alpha1/alpha_0187/'>a</a>|<a href='/New_Beehive/toc/toc2_170/'>912
-  [To Wooe]</a>|<a href='/New_Beehive/toc/toc2_271/'>1389 [Courting women]</a>|<a
-  href='/New_Beehive/toc/toc2_317/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_442/'>4880
-  [Courtship]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0187/'>a</a>|<a href='/digital-beehive/toc/toc2_170/'>912
+  [To Wooe]</a>|<a href='/digital-beehive/toc/toc2_271/'>1389 [Courting women]</a>|<a
+  href='/digital-beehive/toc/toc2_317/'>1614 [Courting]</a>|4554 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_442/'>4880 [Courtship]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -28,7 +28,7 @@ order: '885'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/145,2466,720,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/145,2466,720,143/full/0/default.jpg
 label: to court
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

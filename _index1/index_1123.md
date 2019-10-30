@@ -8,7 +8,7 @@ topic:
 first_letter: D
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_127/'>p.66.2 [Image 1.138]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_127/'>p.66.2 [Image 1.138]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1123'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/824,2488,685,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/824,2488,685,156/full/0/default.jpg
 label: doctor of divinity
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

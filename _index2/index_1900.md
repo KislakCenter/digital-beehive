@@ -3,7 +3,7 @@ pid: index_1900
 volume: Volume 3
 image_number: '24'
 head: to humble
-entry: "<a href='/New_Beehive/toc/toc2_259/'>1326 [debase]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [debase]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1900'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/full/0/default.jpg
 label: to humble
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

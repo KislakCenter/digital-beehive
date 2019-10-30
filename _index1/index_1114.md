@@ -3,7 +3,7 @@ pid: index_1114
 volume: Volume 3
 image_number: '17'
 head: divines and divinity
-entry: "<a href='/New_Beehive/alpha1/alpha_0246/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0246/'>a</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1114'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/full/0/default.jpg
 label: divines and divinity
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

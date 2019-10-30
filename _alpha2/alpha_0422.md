@@ -6,12 +6,12 @@ head:
 entry: Hog
 topic: Hog
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_339/'>1741 [Hog]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_339/'>1741 [Hog]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1853/'>hog</a>"
+index: "<a href='/digital-beehive/index2/index_1853/'>hog</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2b9e0839b"
@@ -24,7 +24,7 @@ order: '422'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/780,4561,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/780,4561,2949,542/full/0/default.jpg
 label: Hog
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

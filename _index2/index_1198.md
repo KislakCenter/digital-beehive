@@ -3,7 +3,7 @@ pid: index_1198
 volume: Volume 3
 image_number: '18'
 head: easy in living
-entry: "<a href='/New_Beehive/toc/toc2_254/'>1301 [easy in living]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_254/'>1301 [easy in living]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1198'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/full/0/default.jpg
 label: easy in living
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

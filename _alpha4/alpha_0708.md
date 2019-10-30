@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3055/'>pocket</a>"
+index: "<a href='/digital-beehive/index4/index_3055/'>pocket</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bcfac1ad7"
@@ -25,7 +25,7 @@ order: '708'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/296,972,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/296,972,3096,311/full/0/default.jpg
 label: Pocket
-location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

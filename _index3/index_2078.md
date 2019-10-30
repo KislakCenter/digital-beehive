@@ -3,7 +3,7 @@ pid: index_2078
 volume: Volume 3
 image_number: '26'
 head: interpretation
-entry: "<a href='/New_Beehive/alpha3/alpha_0484/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>923
+entry: "<a href='/digital-beehive/alpha3/alpha_0484/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>923
   [Interpretation]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2078'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/full/0/default.jpg
 label: interpretation
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

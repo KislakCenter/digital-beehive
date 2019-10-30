@@ -6,13 +6,13 @@ head:
 entry: Paradox
 topic: Paradox
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_077/'>201 [Orthodox Paradoxes]</a>|<a href='/New_Beehive/toc/toc2_078/'>201
+xref: "<a href='/digital-beehive/toc/toc2_077/'>201 [Orthodox Paradoxes]</a>|<a href='/digital-beehive/toc/toc2_078/'>201
   [Orthodox Paradoxes]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2875/'>paradox</a>"
+index: "<a href='/digital-beehive/index4/index_2875/'>paradox</a>"
 insertion_xref: 
 insertion: 
 item: "#item-294cea577"
@@ -25,7 +25,7 @@ order: '670'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/771,2481,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/771,2481,3004,361/full/0/default.jpg
 label: Paradox
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

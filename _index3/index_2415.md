@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index2/index_1513/'>form</a>|<a href='/New_Beehive/index1/index_0933/'>custom</a>"
+see: "<a href='/digital-beehive/index2/index_1513/'>form</a>|<a href='/digital-beehive/index1/index_0933/'>custom</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2415'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/full/0/default.jpg
 label: manner
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

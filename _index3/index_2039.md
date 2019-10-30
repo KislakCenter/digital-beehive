@@ -3,7 +3,7 @@ pid: index_2039
 volume: Volume 3
 image_number: '26'
 head: informer
-entry: "<a href='/New_Beehive/toc/toc2_226/'>1163 [Informer]</a>|<a href='/New_Beehive/toc/toc2_350/'>1827
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1163 [Informer]</a>|<a href='/digital-beehive/toc/toc2_350/'>1827
   [Informer]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2039'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/full/0/default.jpg
 label: informer
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -6,12 +6,12 @@ head:
 entry: Kingdom of God
 topic: Kingdom of God
 first_letter: K
-xref: "<a href='/New_Beehive/toc/toc2_169/'>906 [Kingdom]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_169/'>906 [Kingdom]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2163/'>kingdom of God</a>"
+index: "<a href='/digital-beehive/index3/index_2163/'>kingdom of God</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7bb39ac95"
@@ -25,7 +25,7 @@ order: '499'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,3081,564/full/0/default.jpg
 label: Kingdom of God
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

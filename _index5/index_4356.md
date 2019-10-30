@@ -3,9 +3,9 @@ pid: index_4356
 volume: Volume 3
 image_number: '50'
 head: unanimity
-entry: "<a href='/New_Beehive/alpha5/alpha_0989/'>a</a>|<a href='/New_Beehive/toc/toc2_093/'>312
-  [unanimity]</a>|<a href='/New_Beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a href='/New_Beehive/toc/toc2_308/'>1569
-  [Unity]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0989/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>312
+  [unanimity]</a>|<a href='/digital-beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a
+  href='/digital-beehive/toc/toc2_308/'>1569 [Unity]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -27,7 +27,7 @@ order: '4356'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/477,915,724,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/477,915,724,157/full/0/default.jpg
 label: unanimity
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

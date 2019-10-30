@@ -8,7 +8,7 @@ topic:
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1728'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,2467,441,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,2467,441,144/full/0/default.jpg
 label: guild halls
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

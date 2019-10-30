@@ -3,7 +3,7 @@ pid: index_4621
 volume: Volume 3
 image_number: '53'
 head: worms
-entry: "<a href='/New_Beehive/toc/toc2_072/'>159 [Worm]</a>|<a href='/New_Beehive/toc/toc2_262/'>1343
+entry: "<a href='/digital-beehive/toc/toc2_072/'>159 [Worm]</a>|<a href='/digital-beehive/toc/toc2_262/'>1343
   [Worms]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4621'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3228,551,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3228,551,100/full/0/default.jpg
 label: worms
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

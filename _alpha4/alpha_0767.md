@@ -6,12 +6,12 @@ head:
 entry: Raven
 topic: Raven
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_264/'>1351 [a kite, a hawk]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite, a hawk]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3303/'>raven</a>"
+index: "<a href='/digital-beehive/index4/index_3303/'>raven</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f20901ff9"
@@ -24,7 +24,7 @@ order: '767'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,4230,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,4230,2982,158/full/0/default.jpg
 label: Raven
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

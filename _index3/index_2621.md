@@ -3,14 +3,14 @@ pid: index_2621
 volume: Volume 3
 image_number: '31'
 head: musick
-entry: "<a href='/New_Beehive/alpha3/alpha_0616/'>a</a>|<a href='/New_Beehive/toc/toc2_109/'>425
-  [Musick]</a>|<a href='/New_Beehive/toc/toc2_348/'>1812 [Musick]</a>|<a href='/New_Beehive/toc/toc2_395/'>2258
+entry: "<a href='/digital-beehive/alpha3/alpha_0616/'>a</a>|<a href='/digital-beehive/toc/toc2_109/'>425
+  [Musick]</a>|<a href='/digital-beehive/toc/toc2_348/'>1812 [Musick]</a>|<a href='/digital-beehive/toc/toc2_395/'>2258
   [Musick]</a>"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
 add: 
 type: 
 index: 
@@ -27,7 +27,7 @@ order: '2621'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1555,1992,752,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1555,1992,752,179/full/0/default.jpg
 label: musick
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

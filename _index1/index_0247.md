@@ -3,7 +3,7 @@ pid: index_0247
 volume: Volume 3
 image_number: '9'
 head: augury
-entry: "<a href='/New_Beehive/toc/toc2_304/'>1546 [Augury]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1546 [Augury]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '247'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/181,1235,495,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/181,1235,495,161/full/0/default.jpg
 label: augury
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

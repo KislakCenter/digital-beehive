@@ -6,13 +6,13 @@ head:
 entry: Thought
 topic: Thought
 first_letter: T
-xref: "<a href='/New_Beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/New_Beehive/alpha3/alpha_0579/'>meditation</a>|<a
-  href='/New_Beehive/toc/toc2_182/'>982 [Thoughts]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/digital-beehive/alpha3/alpha_0579/'>meditation</a>|<a
+  href='/digital-beehive/toc/toc2_182/'>982 [Thoughts]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4127/'>thoughts</a>"
+index: "<a href='/digital-beehive/index5/index_4127/'>thoughts</a>"
 insertion_xref: 
 insertion: 
 item: "#item-de3bd0f07"
@@ -26,7 +26,7 @@ order: '943'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,2998,688/full/0/default.jpg
 label: Thought
-location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

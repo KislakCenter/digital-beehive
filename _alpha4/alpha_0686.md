@@ -6,13 +6,13 @@ head:
 entry: Payment
 topic: Payment
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0212/'>Debt</a>|<a href='/New_Beehive/toc/toc2_220/'>1131
+xref: "<a href='/digital-beehive/alpha1/alpha_0212/'>Debt</a>|<a href='/digital-beehive/toc/toc2_220/'>1131
   [Payment]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2929/'>paymt</a>"
+index: "<a href='/digital-beehive/index4/index_2929/'>paymt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-53c27424f"
@@ -25,7 +25,7 @@ order: '686'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,3083,351/full/0/default.jpg
 label: Payment
-location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

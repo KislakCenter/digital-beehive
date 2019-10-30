@@ -3,12 +3,12 @@ pid: index_3685
 volume: Volume 3
 image_number: '42'
 head: shopkeeper
-entry: "<a href='/New_Beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3685'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/full/0/default.jpg
 label: shopkeeper
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4648
 volume: Volume 3
 image_number: '53'
 head: yet
-entry: "<a href='/New_Beehive/toc/toc2_102/'>379 [Yet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_102/'>379 [Yet]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -24,7 +24,7 @@ order: '4648'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1595,2498,295,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1595,2498,295,118/full/0/default.jpg
 label: yet
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

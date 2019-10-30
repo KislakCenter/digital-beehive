@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4670/'>12 Tribes of Isr</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>12 Tribes of Isr</a>"
 insertion: 
 item: "#item-549c2d359"
 unparsed: 'Type: Index|Insertion Xref: [:6.]|#item-549c2d359'
@@ -24,7 +24,7 @@ order: '4235'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2366,962,133,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2366,962,133,107/full/0/default.jpg
 label: "[:6.]"
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

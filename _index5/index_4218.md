@@ -3,7 +3,7 @@ pid: index_4218
 volume: Volume 3
 image_number: '48'
 head: translation
-entry: "<a href='/New_Beehive/toc/toc2_172/'>923 [Interpretation]</a>|<a href='/New_Beehive/toc/toc2_281/'>1438
+entry: "<a href='/digital-beehive/toc/toc2_172/'>923 [Interpretation]</a>|<a href='/digital-beehive/toc/toc2_281/'>1438
   [Interpreta-(Transla-)tion]</a>|1857 [PAGE_MISSING]"
 topic: 
 first_letter: T
@@ -26,7 +26,7 @@ order: '4218'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2355,803,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2355,803,149/full/0/default.jpg
 label: translation
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,9 +3,9 @@ pid: index_4073
 volume: Volume 3
 image_number: '47'
 head: teachers
-entry: "<a href='/New_Beehive/alpha5/alpha_0931/'>a</a>|<a href='/New_Beehive/toc/toc2_104/'>393
-  [Teacher]</a>|<a href='/New_Beehive/toc/toc2_200/'>1031 [Teachers]</a>|<a href='/New_Beehive/toc/toc2_313/'>1592
-  [Teachers]</a>|<a href='/New_Beehive/toc/toc2_419/'>2428 [Teachers]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0931/'>a</a>|<a href='/digital-beehive/toc/toc2_104/'>393
+  [Teacher]</a>|<a href='/digital-beehive/toc/toc2_200/'>1031 [Teachers]</a>|<a href='/digital-beehive/toc/toc2_313/'>1592
+  [Teachers]</a>|<a href='/digital-beehive/toc/toc2_419/'>2428 [Teachers]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -27,7 +27,7 @@ order: '4073'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/183,530,641,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/183,530,641,159/full/0/default.jpg
 label: teachers
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

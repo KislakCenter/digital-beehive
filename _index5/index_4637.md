@@ -8,7 +8,7 @@ topic:
 first_letter: Y
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4637'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1589,1422,283,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1589,1422,283,151/full/0/default.jpg
 label: Y
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

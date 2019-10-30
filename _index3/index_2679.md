@@ -3,7 +3,7 @@ pid: index_2679
 volume: Volume 3
 image_number: '32'
 head: proof of a Negative
-entry: "<a href='/New_Beehive/toc/toc2_170/'>913 [to prove a Negative]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [to prove a Negative]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2679'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1174,242,672,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1174,242,672,154/full/0/default.jpg
 label: proof of a Negative
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

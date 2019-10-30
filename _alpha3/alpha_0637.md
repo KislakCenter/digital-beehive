@@ -6,13 +6,13 @@ head:
 entry: Nobility
 topic: Nobility
 first_letter: N
-xref: "<a href='/New_Beehive/alpha2/alpha_0385/'>great</a>|<a href='/New_Beehive/alpha3/alpha_0451/'>ignoble</a>|ancestors|<a
-  href='/New_Beehive/toc/toc2_076/'>193 [Nobility]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0385/'>great</a>|<a href='/digital-beehive/alpha3/alpha_0451/'>ignoble</a>|ancestors|<a
+  href='/digital-beehive/toc/toc2_076/'>193 [Nobility]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2720/'>nobility</a>"
+index: "<a href='/digital-beehive/index3/index_2720/'>nobility</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e6dc7a754"
@@ -26,7 +26,7 @@ order: '637'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,2930,430/full/0/default.jpg
 label: Nobility
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

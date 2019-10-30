@@ -3,7 +3,7 @@ pid: index_0057
 volume: Volume 3
 image_number: '7'
 head: affectation
-entry: "<a href='/New_Beehive/toc/toc2_066/'>96 [Affectation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_066/'>96 [Affectation]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '57'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/907,1407,517,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/907,1407,517,121/full/0/default.jpg
 label: affectation
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_3989
 volume: Volume 3
 image_number: '46'
 head: superlative
-entry: "<a href='/New_Beehive/toc/toc2_101/'>365 [Superlative]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_101/'>365 [Superlative]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3989'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/full/0/default.jpg
 label: superlative
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

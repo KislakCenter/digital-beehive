@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: "<a href='/New_Beehive/index4/index_2877/'>parasite</a>"
+see: "<a href='/digital-beehive/index4/index_2877/'>parasite</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4043'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1845,732,527,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1845,732,527,123/full/0/default.jpg
 label: table friend
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_4499
 volume: Volume 3
 image_number: '52'
 head: weakness
-entry: "<a href='/New_Beehive/toc/toc2_095/'>325 [Infirmity]</a>|<a href='/New_Beehive/toc/toc2_336/'>1719
+entry: "<a href='/digital-beehive/toc/toc2_095/'>325 [Infirmity]</a>|<a href='/digital-beehive/toc/toc2_336/'>1719
   [Infirmity]</a>|4754 [PAGE_MISSING]"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4499'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/486,2150,611,177/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/486,2150,611,177/full/0/default.jpg
 label: weakness
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

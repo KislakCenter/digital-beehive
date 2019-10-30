@@ -3,7 +3,7 @@ pid: index_2372
 volume: Volume 3
 image_number: '29'
 head: luxury
-entry: "<a href='/New_Beehive/toc/toc2_075/'>189 [Luxury]</a>|<a href='/New_Beehive/toc/toc2_230/'>1183
+entry: "<a href='/digital-beehive/toc/toc2_075/'>189 [Luxury]</a>|<a href='/digital-beehive/toc/toc2_230/'>1183
   [Luxury]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2372'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,1526,494,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,1526,494,141/full/0/default.jpg
 label: luxury
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

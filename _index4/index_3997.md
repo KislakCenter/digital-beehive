@@ -3,7 +3,7 @@ pid: index_3997
 volume: Volume 3
 image_number: '46'
 head: surely
-entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, Safety]</a>|<a href='/New_Beehive/toc/toc2_387/'>2213
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, Safety]</a>|<a href='/digital-beehive/toc/toc2_387/'>2213
   [I am Sure]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3997'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/470,2679,559,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/470,2679,559,103/full/0/default.jpg
 label: surely
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

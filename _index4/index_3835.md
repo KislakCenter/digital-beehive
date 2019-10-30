@@ -3,7 +3,7 @@ pid: index_3835
 volume: Volume 3
 image_number: '44'
 head: to spend
-entry: "<a href='/New_Beehive/toc/toc2_158/'>715 [Expenses]</a>|<a href='/New_Beehive/toc/toc2_163/'>878
+entry: "<a href='/digital-beehive/toc/toc2_158/'>715 [Expenses]</a>|<a href='/digital-beehive/toc/toc2_163/'>878
   [to Spend]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3835'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1111,1834,610,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1111,1834,610,138/full/0/default.jpg
 label: to spend
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

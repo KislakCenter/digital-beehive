@@ -3,7 +3,7 @@ pid: index_0314
 volume: Volume 3
 image_number: '9'
 head: a pair of beads
-entry: "<a href='/New_Beehive/toc/toc2_092/'>305 [A pair of Beads]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_092/'>305 [A pair of Beads]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '314'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1596,1324,600,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1596,1324,600,127/full/0/default.jpg
 label: a pair of beads
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

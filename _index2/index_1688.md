@@ -3,7 +3,7 @@ pid: index_1688
 volume: Volume 3
 image_number: '22'
 head: grafting
-entry: "<a href='/New_Beehive/toc/toc2_102/'>372 [Grafting]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_102/'>372 [Grafting]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1688'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,1887,439,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,1887,439,139/full/0/default.jpg
 label: grafting
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

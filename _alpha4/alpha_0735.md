@@ -6,14 +6,14 @@ head:
 entry: Profit
 topic: Profit
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0847/'>Self profit</a>|<a href='/New_Beehive/alpha3/alpha_0560/'>Lucre</a>|<a
-  href='/New_Beehive/alpha5/alpha_0997/'>Unprofitable</a>|<a href='/New_Beehive/alpha5/alpha_1005/'>Utility</a>|<a
-  href='/New_Beehive/toc/toc2_333/'>1692 [Gain]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0847/'>Self profit</a>|<a href='/digital-beehive/alpha3/alpha_0560/'>Lucre</a>|<a
+  href='/digital-beehive/alpha5/alpha_0997/'>Unprofitable</a>|<a href='/digital-beehive/alpha5/alpha_1005/'>Utility</a>|<a
+  href='/digital-beehive/toc/toc2_333/'>1692 [Gain]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3182/'>profit</a>"
+index: "<a href='/digital-beehive/index4/index_3182/'>profit</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c82c2327d"
@@ -27,7 +27,7 @@ order: '735'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/338,2038,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/338,2038,3032,567/full/0/default.jpg
 label: Profit
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

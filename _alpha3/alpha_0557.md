@@ -6,12 +6,12 @@ head:
 entry: Love of the world
 topic: Love of the world
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0173/'>contempt</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0173/'>contempt</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2347/'>love of the world</a>"
+index: "<a href='/digital-beehive/index3/index_2347/'>love of the world</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0b0db11ac"
@@ -25,7 +25,7 @@ order: '557'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/724,1310,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/724,1310,3024,478/full/0/default.jpg
 label: Love of the world
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

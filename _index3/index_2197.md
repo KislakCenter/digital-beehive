@@ -3,7 +3,7 @@ pid: index_2197
 volume: Volume 3
 image_number: '27'
 head: language
-entry: "<a href='/New_Beehive/alpha3/alpha_0507/'>a</a>|<a href='/New_Beehive/toc/toc2_276/'>1413
+entry: "<a href='/digital-beehive/alpha3/alpha_0507/'>a</a>|<a href='/digital-beehive/toc/toc2_276/'>1413
   [Languages]</a>|4755 [PAGE_MISSING]"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2197'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1559,915,713,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1559,915,713,131/full/0/default.jpg
 label: language
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

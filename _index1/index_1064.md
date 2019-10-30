@@ -3,8 +3,8 @@ pid: index_1064
 volume: Volume 3
 image_number: '16'
 head: discerning
-entry: "<a href='/New_Beehive/toc/toc2_101/'>365 [Discern]</a>|<a href='/New_Beehive/toc/toc2_184/'>989
-  [Spiritual discerning]</a>|<a href='/New_Beehive/toc/toc2_411/'>2369 [Spiritual
+entry: "<a href='/digital-beehive/toc/toc2_101/'>365 [Discern]</a>|<a href='/digital-beehive/toc/toc2_184/'>989
+  [Spiritual discerning]</a>|<a href='/digital-beehive/toc/toc2_411/'>2369 [Spiritual
   Discerning]</a>"
 topic: 
 first_letter: D
@@ -27,7 +27,7 @@ order: '1064'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/full/0/default.jpg
 label: discerning
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

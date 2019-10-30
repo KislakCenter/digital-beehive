@@ -3,7 +3,7 @@ pid: index_4406
 volume: Volume 3
 image_number: '50'
 head: unmerciful
-entry: "<a href='/New_Beehive/alpha5/alpha_0996/'>a</a>|<a href='/New_Beehive/toc/toc2_394/'>2251
+entry: "<a href='/digital-beehive/alpha5/alpha_0996/'>a</a>|<a href='/digital-beehive/toc/toc2_394/'>2251
   [Unmerciful]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4406'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1095,3218,648,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1095,3218,648,136/full/0/default.jpg
 label: unmerciful
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

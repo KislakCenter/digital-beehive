@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index4/index_3238/'>purpose</a>"
+see: "<a href='/digital-beehive/index4/index_3238/'>purpose</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2448'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/419,1957,651,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/419,1957,651,151/full/0/default.jpg
 label: material
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

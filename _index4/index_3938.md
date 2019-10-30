@@ -3,7 +3,7 @@ pid: index_3938
 volume: Volume 3
 image_number: '45'
 head: strength
-entry: "<a href='/New_Beehive/toc/toc2_148/'>663 [Strength]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>663 [Strength]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3938'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2350,449,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2350,449,140/full/0/default.jpg
 label: strength
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

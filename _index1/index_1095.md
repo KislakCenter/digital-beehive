@@ -3,9 +3,9 @@ pid: index_1095
 volume: Volume 3
 image_number: '17'
 head: disputation
-entry: "<a href='/New_Beehive/alpha1/alpha_0244/'>a</a>|803 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_254/'>1302
-  [Disputation]</a>|<a href='/New_Beehive/toc/toc2_323/'>1643 [Disputing]</a>|4750
-  [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0244/'>a</a>|803 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_254/'>1302 [Disputation]</a>|<a href='/digital-beehive/toc/toc2_323/'>1643
+  [Disputing]</a>|4750 [PAGE_MISSING]"
 topic: 
 first_letter: D
 xref: 
@@ -27,7 +27,7 @@ order: '1095'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/131,2899,655,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/131,2899,655,137/full/0/default.jpg
 label: disputation
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,13 +6,13 @@ head:
 entry: Distrust
 topic: Distrust
 first_letter: D
-xref: "<a href='/New_Beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/New_Beehive/alpha4/alpha_0924/'>Suspition</a>|<a
-  href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|Desperate"
+xref: "<a href='/digital-beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0924/'>Suspition</a>|<a
+  href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|Desperate"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1108/'>distrust</a>"
+index: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a95c35cba"
@@ -26,7 +26,7 @@ order: '245'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,2974,565/full/0/default.jpg
 label: Distrust
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

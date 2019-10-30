@@ -3,7 +3,7 @@ pid: index_0395
 volume: Volume 3
 image_number: '10'
 head: bloodletting
-entry: "<a href='/New_Beehive/alpha1/alpha_0088/'>a</a>|<a href='/New_Beehive/toc/toc2_381/'>2158
+entry: "<a href='/digital-beehive/alpha1/alpha_0088/'>a</a>|<a href='/digital-beehive/toc/toc2_381/'>2158
   [Blood-letting]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '395'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1091,3010,659,189/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1091,3010,659,189/full/0/default.jpg
 label: bloodletting
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

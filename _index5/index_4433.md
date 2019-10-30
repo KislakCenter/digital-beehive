@@ -3,7 +3,7 @@ pid: index_4433
 volume: Volume 3
 image_number: '51'
 head: to vote
-entry: "<a href='/New_Beehive/toc/toc2_161/'>867 [To Vote]</a>|<a href='/New_Beehive/toc/toc2_418/'>2423
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
   [Votes]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ order: '4433'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
 label: to vote
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

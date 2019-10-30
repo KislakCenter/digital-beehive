@@ -3,12 +3,12 @@ pid: index_3737
 volume: Volume 3
 image_number: '43'
 head: skeleton
-entry: "<a href='/New_Beehive/toc/toc2_270/'>1381 [Skeleton]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1381 [Skeleton]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3737'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,1185,635,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,1185,635,144/full/0/default.jpg
 label: skeleton
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

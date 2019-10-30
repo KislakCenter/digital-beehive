@@ -6,13 +6,13 @@ head:
 entry: Unanimity
 topic: Unanimity
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha1/alpha_0239/'>Discord</a>|<a href='/New_Beehive/toc/toc2_093/'>312
+xref: "<a href='/digital-beehive/alpha1/alpha_0239/'>Discord</a>|<a href='/digital-beehive/toc/toc2_093/'>312
   [Unanimity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4356/'>unanimity</a>"
+index: "<a href='/digital-beehive/index5/index_4356/'>unanimity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d65d746e6"
@@ -26,7 +26,7 @@ order: '989'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/830,239,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/830,239,2974,464/full/0/default.jpg
 label: Unanimity
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3168/'>priviledge</a>"
+index: "<a href='/digital-beehive/index4/index_3168/'>priviledge</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b0ebe4c9a"
@@ -24,7 +24,7 @@ order: '732'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/325,882,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/325,882,3058,450/full/0/default.jpg
 label: Priviledge
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

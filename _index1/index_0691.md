@@ -3,7 +3,7 @@ pid: index_0691
 volume: Volume 3
 image_number: '13'
 head: clergy
-entry: "<a href='/New_Beehive/toc/toc2_061/'>43 [Clergy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_061/'>43 [Clergy]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '691'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/862,592,394,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/862,592,394,123/full/0/default.jpg
 label: clergy
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

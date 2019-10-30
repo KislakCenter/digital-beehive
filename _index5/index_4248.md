@@ -3,8 +3,8 @@ pid: index_4248
 volume: Volume 3
 image_number: '48'
 head: trouble
-entry: "<a href='/New_Beehive/toc/toc2_089/'>282 [Troublesom]</a>|<a href='/New_Beehive/toc/toc2_148/'>661
-  [To trouble]</a>|<a href='/New_Beehive/toc/toc2_264/'>1354 [Perplexity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_089/'>282 [Troublesom]</a>|<a href='/digital-beehive/toc/toc2_148/'>661
+  [To trouble]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354 [Perplexity]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -25,7 +25,7 @@ order: '4248'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2588,691,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2588,691,148/full/0/default.jpg
 label: trouble
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

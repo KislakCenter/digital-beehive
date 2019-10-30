@@ -3,7 +3,7 @@ pid: index_4318
 volume: Volume 3
 image_number: '49'
 head: verses
-entry: "<a href='/New_Beehive/toc/toc2_311/'>1585 [Verses]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4318'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/956,3197,393,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/956,3197,393,152/full/0/default.jpg
 label: verses
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

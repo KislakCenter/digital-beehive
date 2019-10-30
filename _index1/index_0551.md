@@ -3,7 +3,7 @@ pid: index_0551
 volume: Volume 3
 image_number: '12'
 head: carving
-entry: "<a href='/New_Beehive/toc/toc2_135/'>591 [Carving]</a>|4524 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_135/'>591 [Carving]</a>|4524 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '551'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/415,1263,719,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/415,1263,719,159/full/0/default.jpg
 label: carving
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

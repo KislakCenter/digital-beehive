@@ -7,7 +7,8 @@ entry:
 topic: 
 first_letter: D
 xref: 
-see: "<a href='/New_Beehive/index1/index_0392/'>blockhead</a>|blunt|drowzy|<a href='/New_Beehive/index4/index_3951/'>stupidity</a>"
+see: "<a href='/digital-beehive/index1/index_0392/'>blockhead</a>|blunt|drowzy|<a
+  href='/digital-beehive/index4/index_3951/'>stupidity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +25,7 @@ order: '1168'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,539,747,204/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,539,747,204/full/0/default.jpg
 label: dull
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

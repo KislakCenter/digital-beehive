@@ -3,7 +3,7 @@ pid: index_1145
 volume: Volume 3
 image_number: '17'
 head: Drawing near to God
-entry: "<a href='/New_Beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1145'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1532,1533,641,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1532,1533,641,80/full/0/default.jpg
 label: Drawing near to God
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0972
 volume: Volume 3
 image_number: '15'
 head: deathly
-entry: "<a href='/New_Beehive/toc/toc2_373/'>2078 [Mortal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_373/'>2078 [Mortal]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '972'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1524,3436,512,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1524,3436,512,85/full/0/default.jpg
 label: deathly
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

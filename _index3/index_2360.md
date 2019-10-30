@@ -3,7 +3,7 @@ pid: index_2360
 volume: Volume 3
 image_number: '29'
 head: lucre
-entry: "<a href='/New_Beehive/alpha3/alpha_0560/'>a</a>|<a href='/New_Beehive/toc/toc2_244/'>1252
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1252
   [Gainful]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2360'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/875,254,451,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/875,254,451,143/full/0/default.jpg
 label: lucre
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

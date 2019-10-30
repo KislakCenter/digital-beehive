@@ -3,7 +3,7 @@ pid: index_1040
 volume: Volume 3
 image_number: '16'
 head: dial
-entry: "<a href='/New_Beehive/toc/toc2_131/'>568 [Dial]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Dial]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1040'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/full/0/default.jpg
 label: dial
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

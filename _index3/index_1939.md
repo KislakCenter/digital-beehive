@@ -8,7 +8,7 @@ topic:
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1939'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/185,1873,563,135/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/185,1873,563,135/full/0/default.jpg
 label: jocular books
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

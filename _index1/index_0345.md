@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index1/index_1034/'>Devil</a>"
+see: "<a href='/digital-beehive/index1/index_1034/'>Devil</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '345'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/386,902,506,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/386,902,506,94/full/0/default.jpg
 label: Belial
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

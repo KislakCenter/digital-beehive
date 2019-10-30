@@ -3,7 +3,7 @@ pid: index_2438
 volume: Volume 3
 image_number: '30'
 head: Mary
-entry: "<a href='/New_Beehive/toc/toc2_165/'>887 [Mary]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [Mary]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2438'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/418,1204,345,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/418,1204,345,105/full/0/default.jpg
 label: Mary
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

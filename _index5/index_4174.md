@@ -3,13 +3,13 @@ pid: index_4174
 volume: Volume 3
 image_number: '48'
 head: tongue
-entry: "<a href='/New_Beehive/alpha5/alpha_0951/'>a</a>|<a href='/New_Beehive/toc/toc2_231/'>1186
+entry: "<a href='/digital-beehive/alpha5/alpha_0951/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
   [Tongue]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '4174'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/full/0/default.jpg
 label: tongue
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

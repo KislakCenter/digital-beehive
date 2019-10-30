@@ -24,7 +24,7 @@ order: '2658'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,1837,415,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,1837,415,102/full/0/default.jpg
 label: natural fool
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

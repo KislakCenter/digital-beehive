@@ -3,7 +3,7 @@ pid: index_2598
 volume: Volume 3
 image_number: '31'
 head: motion
-entry: "<a href='/New_Beehive/alpha3/alpha_0607/'>a</a>|<a href='/New_Beehive/toc/toc2_178/'>958
+entry: "<a href='/digital-beehive/alpha3/alpha_0607/'>a</a>|<a href='/digital-beehive/toc/toc2_178/'>958
   [Motions]</a>"
 topic: 
 first_letter: M
@@ -25,7 +25,7 @@ order: '2598'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/831,3318,502,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/831,3318,502,127/full/0/default.jpg
 label: motion
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

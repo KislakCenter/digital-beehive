@@ -6,13 +6,13 @@ head:
 entry: Hotch potch
 topic: Hotch potch
 first_letter: H
-xref: "<a href='/New_Beehive/alpha5/alpha_0978/'>Variety</a>|<a href='/New_Beehive/toc/toc2_202/'>1043
+xref: "<a href='/digital-beehive/alpha5/alpha_0978/'>Variety</a>|<a href='/digital-beehive/toc/toc2_202/'>1043
   [Hotch-potch]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1885/'>hotchpotch</a>"
+index: "<a href='/digital-beehive/index2/index_1885/'>hotchpotch</a>"
 insertion_xref: 
 insertion: 
 item: "#item-17f0268cc"
@@ -26,7 +26,7 @@ order: '433'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,3004,344/full/0/default.jpg
 label: Hotch potch
-location: "<a href='/New_Beehive/toc/toc2_009/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_1219
 volume: Volume 3
 image_number: '18'
 head: elder
-entry: "<a href='/New_Beehive/toc/toc2_145/'>642 [Ignorance]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_145/'>642 [Ignorance]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1219'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1116,1939,445,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1116,1939,445,123/full/0/default.jpg
 label: elder
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

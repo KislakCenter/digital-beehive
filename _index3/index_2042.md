@@ -3,7 +3,7 @@ pid: index_2042
 volume: Volume 3
 image_number: '26'
 head: inhabitants
-entry: "<a href='/New_Beehive/toc/toc2_397/'>2270 [Inhabitants]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_397/'>2270 [Inhabitants]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2042'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/418,2569,548,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/418,2569,548,104/full/0/default.jpg
 label: inhabitants
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

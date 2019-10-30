@@ -6,14 +6,14 @@ head:
 entry: Zoilus
 topic: Zoilus
 first_letter: Z
-xref: "<a href='/New_Beehive/alpha4/alpha_0823/'>Satyre</a>|<a href='/New_Beehive/alpha4/alpha_0681/'>Pasquil</a>|<a
-  href='/New_Beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/New_Beehive/toc/toc2_143/'>629
+xref: "<a href='/digital-beehive/alpha4/alpha_0823/'>Satyre</a>|<a href='/digital-beehive/alpha4/alpha_0681/'>Pasquil</a>|<a
+  href='/digital-beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/digital-beehive/toc/toc2_143/'>629
   [Zoilus]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4659/'>Zoilus</a>"
+index: "<a href='/digital-beehive/index5/index_4659/'>Zoilus</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ff828cc66"
@@ -27,7 +27,7 @@ order: '1062'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,4674,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,4674,2998,404/full/0/default.jpg
 label: Zoilus
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

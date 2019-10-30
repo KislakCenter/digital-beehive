@@ -6,12 +6,12 @@ head:
 entry: Wolf
 topic: Wolf
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4587/'>wolf</a>"
+index: "<a href='/digital-beehive/index5/index_4587/'>wolf</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3595fd35e"
@@ -24,7 +24,7 @@ order: '1033'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,2973,344/full/0/default.jpg
 label: Wolf
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

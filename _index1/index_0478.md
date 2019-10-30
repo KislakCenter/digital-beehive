@@ -3,7 +3,7 @@ pid: index_0478
 volume: Volume 3
 image_number: '11'
 head: burden
-entry: "<a href='/New_Beehive/toc/toc2_160/'>725 [Burden]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Burden]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '478'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,1198,437,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,1198,437,114/full/0/default.jpg
 label: burden
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

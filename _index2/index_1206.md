@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: E
 xref: 
-see: blunt|<a href='/New_Beehive/index4/index_3665/'>sharp</a>
+see: blunt|<a href='/digital-beehive/index4/index_3665/'>sharp</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1206'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/full/0/default.jpg
 label: edge
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

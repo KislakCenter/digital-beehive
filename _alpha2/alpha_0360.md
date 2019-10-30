@@ -6,13 +6,13 @@ head:
 entry: Glass
 topic: Glass
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0545/'>Lookingglass</a>|<a href='/New_Beehive/toc/toc2_139/'>612
-  [Bottle]</a>|<a href='/New_Beehive/toc/toc2_325/'>1655 [Glass]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0545/'>Lookingglass</a>|<a href='/digital-beehive/toc/toc2_139/'>612
+  [Bottle]</a>|<a href='/digital-beehive/toc/toc2_325/'>1655 [Glass]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1620/'>glass</a>"
+index: "<a href='/digital-beehive/index2/index_1620/'>glass</a>"
 insertion_xref: 
 insertion: 
 item: "#item-88581f002"
@@ -26,7 +26,7 @@ order: '360'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/743,2374,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/743,2374,2996,458/full/0/default.jpg
 label: Glass
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

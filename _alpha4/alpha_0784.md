@@ -6,13 +6,13 @@ head:
 entry: Repentance
 topic: Repentance
 first_letter: R
-xref: "<a href='/New_Beehive/alpha3/alpha_0461/'>Impenitence</a>|<a href='/New_Beehive/toc/toc2_092/'>307
+xref: "<a href='/digital-beehive/alpha3/alpha_0461/'>Impenitence</a>|<a href='/digital-beehive/toc/toc2_092/'>307
   \ [Repentance]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3370/'>repentance</a>"
+index: "<a href='/digital-beehive/index4/index_3370/'>repentance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7b02c101a"
@@ -26,7 +26,7 @@ order: '784'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,3036,754/full/0/default.jpg
 label: Repentance
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: T
 xref: 
-see: "<a href='/New_Beehive/index2/index_1551/'>frog</a>"
+see: "<a href='/digital-beehive/index2/index_1551/'>frog</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4165'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/full/0/default.jpg
 label: toad
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

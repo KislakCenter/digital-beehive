@@ -3,7 +3,7 @@ pid: index_1963
 volume: Volume 3
 image_number: '25'
 head: im[m]ortal
-entry: "<a href='/New_Beehive/toc/toc2_116/'>474 [Immortal]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>474 [Immortal]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1963'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/full/0/default.jpg
 label: im[m]ortal
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

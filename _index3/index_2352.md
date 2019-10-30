@@ -24,7 +24,7 @@ order: '2352'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,2848,569,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,2848,569,122/full/0/default.jpg
 label: lovers leap
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

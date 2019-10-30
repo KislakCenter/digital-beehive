@@ -3,7 +3,7 @@ pid: index_4268
 volume: Volume 3
 image_number: '49'
 head: to turn
-entry: "<a href='/New_Beehive/toc/toc2_165/'>889 [To Turn]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_165/'>889 [To Turn]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4268'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/199,1688,419,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/199,1688,419,123/full/0/default.jpg
 label: to turn
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

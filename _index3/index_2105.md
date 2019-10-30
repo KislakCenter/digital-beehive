@@ -3,7 +3,7 @@ pid: index_2105
 volume: Volume 3
 image_number: '26'
 head: joinery
-entry: "<a href='/New_Beehive/toc/toc2_173/'>927 [Joinery]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_173/'>927 [Joinery]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2105'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1846,2380,432,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1846,2380,432,120/full/0/default.jpg
 label: joinery
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

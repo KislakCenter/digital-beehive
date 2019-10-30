@@ -3,7 +3,7 @@ pid: index_1545
 volume: Volume 3
 image_number: '21'
 head: friend in need
-entry: "<a href='/New_Beehive/toc/toc2_112/'>443 [Friend in need]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_112/'>443 [Friend in need]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1545'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/853,2369,643,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/853,2369,643,123/full/0/default.jpg
 label: friend in need
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

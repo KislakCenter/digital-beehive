@@ -3,7 +3,7 @@ pid: index_0443
 volume: Volume 3
 image_number: '11'
 head: to break through
-entry: "<a href='/New_Beehive/toc/toc2_150/'>674 [To break through]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_150/'>674 [To break through]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '443'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/156,1240,503,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/156,1240,503,85/full/0/default.jpg
 label: to break through
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

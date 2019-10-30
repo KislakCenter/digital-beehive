@@ -3,13 +3,13 @@ pid: index_1370
 volume: Volume 3
 image_number: '19'
 head: eye
-entry: "<a href='/New_Beehive/alpha2/alpha_0303/'>a</a>|757 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_312/'>Entry
-  1587 [Eyes]</a>|4728 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha2/alpha_0303/'>a</a>|757 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_312/'>Entry 1587 [Eyes]</a>|4728 [PAGE_MISSING]"
 topic: 
 first_letter: E
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '1370'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1506,3325,799,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1506,3325,799,133/full/0/default.jpg
 label: eye
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

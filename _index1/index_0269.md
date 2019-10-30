@@ -3,7 +3,7 @@ pid: index_0269
 volume: Volume 3
 image_number: '9'
 head: bad
-entry: "<a href='/New_Beehive/toc/toc2_141/'>618 [Bad]</a>|<a href='/New_Beehive/toc/toc2_385/'>2197
+entry: "<a href='/digital-beehive/toc/toc2_141/'>618 [Bad]</a>|<a href='/digital-beehive/toc/toc2_385/'>2197
   [Bad]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '269'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/911,247,553,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/911,247,553,108/full/0/default.jpg
 label: bad
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

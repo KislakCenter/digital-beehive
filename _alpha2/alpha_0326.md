@@ -6,12 +6,12 @@ head:
 entry: Firstborn
 topic: Firstborn
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_382/'>2163 [Birth-right]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_382/'>2163 [Birth-right]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1460/'>firstborn</a>"
+index: "<a href='/digital-beehive/index2/index_1460/'>firstborn</a>"
 insertion_xref: 
 insertion: 
 item: "#item-024c28ee8"
@@ -24,7 +24,7 @@ order: '326'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,3649,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,3649,3026,406/full/0/default.jpg
 label: Firstborn
-location: "<a href='/New_Beehive/toc/toc2_001/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

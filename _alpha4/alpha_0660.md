@@ -6,12 +6,12 @@ head:
 entry: Oracle
 topic: Oracle
 first_letter: O
-xref: Divination|<a href='/New_Beehive/toc/toc2_298/'>1518 [Oracle]</a>
+xref: Divination|<a href='/digital-beehive/toc/toc2_298/'>1518 [Oracle]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2815/'>oracle</a>"
+index: "<a href='/digital-beehive/index4/index_2815/'>oracle</a>"
 insertion_xref: 
 insertion: 
 item: "#item-211319dde"
@@ -24,7 +24,7 @@ order: '660'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,2993,371/full/0/default.jpg
 label: Oracle
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

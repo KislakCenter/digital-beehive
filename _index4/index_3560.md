@@ -3,9 +3,9 @@ pid: index_3560
 volume: Volume 3
 image_number: '41'
 head: Scriptures
-entry: "<a href='/New_Beehive/alpha4/alpha_0829/'>a</a>|<a href='/New_Beehive/toc/toc2_172/'>922
-  [a Scripture]</a>|<a href='/New_Beehive/toc/toc2_199/'>1028 [H. Scriptures]</a>|<a
-  href='/New_Beehive/toc/toc2_390/'>2235 [H: Scriptures]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0829/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>922
+  [a Scripture]</a>|<a href='/digital-beehive/toc/toc2_199/'>1028 [H. Scriptures]</a>|<a
+  href='/digital-beehive/toc/toc2_390/'>2235 [H: Scriptures]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -27,7 +27,7 @@ order: '3560'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2460,732,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2460,732,156/full/0/default.jpg
 label: Scriptures
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

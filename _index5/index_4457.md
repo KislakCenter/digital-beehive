@@ -3,7 +3,7 @@ pid: index_4457
 volume: Volume 3
 image_number: '51'
 head: to wag
-entry: "<a href='/New_Beehive/toc/toc2_143/'>629 [To Quake]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_143/'>629 [To Quake]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4457'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/full/0/default.jpg
 label: to wag
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

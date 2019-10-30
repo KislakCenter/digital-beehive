@@ -3,12 +3,12 @@ pid: index_2935
 volume: Volume 3
 image_number: '34'
 head: pearl
-entry: "<a href='/New_Beehive/toc/toc2_377/'>2111 [Pearls]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2111 [Pearls]</a>"
 topic: 
 first_letter: P
 xref: Jewel
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2935'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1808,3381,707,208/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1808,3381,707,208/full/0/default.jpg
 label: pearl
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

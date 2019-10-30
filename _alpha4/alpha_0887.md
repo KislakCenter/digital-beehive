@@ -6,12 +6,12 @@ head:
 entry: Sop
 topic: Sop
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_127/'>540 [Pottages]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_127/'>540 [Pottages]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3800/'>sop</a>"
+index: "<a href='/digital-beehive/index4/index_3800/'>sop</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a4a9aad85"
@@ -24,7 +24,7 @@ order: '887'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,2421,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,2421,2910,376/full/0/default.jpg
 label: Sop
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

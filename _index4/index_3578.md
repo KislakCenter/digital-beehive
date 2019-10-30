@@ -3,7 +3,7 @@ pid: index_3578
 volume: Volume 3
 image_number: '41'
 head: to search
-entry: "<a href='/New_Beehive/toc/toc2_142/'>625 [Inquiry]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_142/'>625 [Inquiry]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3578'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1569,986,456,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1569,986,456,148/full/0/default.jpg
 label: to search
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0136/'>anathema</a>"
+index: "<a href='/digital-beehive/index1/index_0136/'>anathema</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c6ca7a2a0"
@@ -24,7 +24,7 @@ order: '27'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/234,754,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/234,754,3195,322/full/0/default.jpg
 label: Anathema
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_2253
 volume: Volume 3
 image_number: '28'
 head: legislature
-entry: "<a href='/New_Beehive/toc/toc2_343/'>1778 [Legislative power]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_343/'>1778 [Legislative power]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2253'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/404,3582,562,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/404,3582,562,120/full/0/default.jpg
 label: legislature
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

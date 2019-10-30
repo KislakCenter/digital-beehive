@@ -3,7 +3,7 @@ pid: index_3750
 volume: Volume 3
 image_number: '43'
 head: slender
-entry: "<a href='/New_Beehive/toc/toc2_093/'>310 [Leanness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_093/'>310 [Leanness]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3750'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,2436,448,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,2436,448,90/full/0/default.jpg
 label: slender
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_0378
 volume: Volume 3
 image_number: '10'
 head: bishop
-entry: "<a href='/New_Beehive/alpha1/alpha_0082/'>a</a>|<a href='/New_Beehive/toc/toc2_119/'>494
-  [Bishop]</a>|<a href='/New_Beehive/toc/toc2_420/'>2431 [Bishop]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0082/'>a</a>|<a href='/digital-beehive/toc/toc2_119/'>494
+  [Bishop]</a>|<a href='/digital-beehive/toc/toc2_420/'>2431 [Bishop]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '378'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,1153,612,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,1153,612,138/full/0/default.jpg
 label: bishop
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

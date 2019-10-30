@@ -6,13 +6,13 @@ head:
 entry: Slander
 topic: Slander
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/New_Beehive/alpha4/alpha_0823/'>Satyre</a>|<a
-  href='/New_Beehive/toc/toc2_147/'>653 [Slander]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0823/'>Satyre</a>|<a
+  href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3743/'>slander</a>"
+index: "<a href='/digital-beehive/index4/index_3743/'>slander</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6f4b8314c"
@@ -26,7 +26,7 @@ order: '876'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,3030,608/full/0/default.jpg
 label: Slander
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

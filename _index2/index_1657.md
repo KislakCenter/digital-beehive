@@ -3,11 +3,11 @@ pid: index_1657
 volume: Volume 3
 image_number: '22'
 head: God's reward
-entry: "<a href='/New_Beehive/toc/toc2_180/'>968 [Example]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_180/'>968 [Example]</a>"
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index4/index_3413/'>reward</a>"
+see: "<a href='/digital-beehive/index4/index_3413/'>reward</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1657'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
 label: God's reward
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

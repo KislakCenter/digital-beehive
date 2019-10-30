@@ -3,7 +3,7 @@ pid: index_2186
 volume: Volume 3
 image_number: '27'
 head: ladder
-entry: "<a href='/New_Beehive/toc/toc2_235/'>1206 [Ladder]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_235/'>1206 [Ladder]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2186'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/full/0/default.jpg
 label: ladder
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,9 +3,9 @@ pid: index_0049
 volume: Volume 3
 image_number: '7'
 head: adversity
-entry: "<a href='/New_Beehive/alpha1/alpha_0010/'>a</a>|<a href='/New_Beehive/toc/toc2_158/'>712
-  [Adversity]</a>|<a href='/New_Beehive/toc/toc2_208/'>1074 [Adversity]</a>|<a href='/New_Beehive/toc/toc2_241/'>1238
-  [Adversity]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0010/'>a</a>|<a href='/digital-beehive/toc/toc2_158/'>712
+  [Adversity]</a>|<a href='/digital-beehive/toc/toc2_208/'>1074 [Adversity]</a>|<a
+  href='/digital-beehive/toc/toc2_241/'>1238 [Adversity]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -27,7 +27,7 @@ order: '49'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/910,858,673,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/910,858,673,117/full/0/default.jpg
 label: adversity
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

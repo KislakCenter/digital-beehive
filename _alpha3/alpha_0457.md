@@ -6,12 +6,12 @@ head:
 entry: Imitation
 topic: Imitation
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha2/alpha_0294/'>Example</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0294/'>Example</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1960/'>imitation</a>"
+index: "<a href='/digital-beehive/index3/index_1960/'>imitation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4bce0df37"
@@ -24,7 +24,7 @@ order: '457'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,4610,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,4610,2985,417/full/0/default.jpg
 label: Imitation
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

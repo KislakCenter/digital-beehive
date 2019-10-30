@@ -3,7 +3,7 @@ pid: index_1215
 volume: Volume 3
 image_number: '18'
 head: efficacy
-entry: "<a href='/New_Beehive/toc/toc2_139/'>611 [Efficacy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_139/'>611 [Efficacy]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1215'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/full/0/default.jpg
 label: efficacy
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

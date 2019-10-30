@@ -3,8 +3,8 @@ pid: index_3847
 volume: Volume 3
 image_number: '44'
 head: spirit
-entry: "<a href='/New_Beehive/alpha4/alpha_0894/'>a</a>|<a href='/New_Beehive/toc/toc2_262/'>1341
-  [Spirits]</a>|<a href='/New_Beehive/toc/toc2_322/'>1636 [Spirits]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0894/'>a</a>|<a href='/digital-beehive/toc/toc2_262/'>1341
+  [Spirits]</a>|<a href='/digital-beehive/toc/toc2_322/'>1636 [Spirits]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3847'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1094,3338,647,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1094,3338,647,125/full/0/default.jpg
 label: spirit
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

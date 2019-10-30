@@ -3,7 +3,7 @@ pid: index_2691
 volume: Volume 3
 image_number: '32'
 head: nevertheless
-entry: 857 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_181/'>973 [Not withstanding]</a>
+entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_181/'>973 [Not withstanding]</a>
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2691'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1145,1256,645,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1145,1256,645,137/full/0/default.jpg
 label: nevertheless
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

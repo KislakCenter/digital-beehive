@@ -3,7 +3,7 @@ pid: index_2485
 volume: Volume 3
 image_number: '30'
 head: to mention
-entry: "<a href='/New_Beehive/toc/toc2_279/'>1430 [To mention]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1430 [To mention]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2485'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1095,2178,599,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1095,2178,599,100/full/0/default.jpg
 label: to mention
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

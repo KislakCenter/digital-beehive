@@ -3,7 +3,7 @@ pid: index_4390
 volume: Volume 3
 image_number: '50'
 head: unison
-entry: "<a href='/New_Beehive/toc/toc2_308/'>1569 [Unity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_308/'>1569 [Unity]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4390'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1132,1394,389,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1132,1394,389,113/full/0/default.jpg
 label: unison
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_0053
 volume: Volume 3
 image_number: '7'
 head: advocate
-entry: "<a href='/New_Beehive/toc/toc2_129/'>556 [Advocate]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Advocate]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '53'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/full/0/default.jpg
 label: advocate
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

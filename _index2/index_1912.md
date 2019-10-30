@@ -3,8 +3,9 @@ pid: index_1912
 volume: Volume 3
 image_number: '24'
 head: husbandry and huswifery
-entry: "<a href='/New_Beehive/alpha2/alpha_0439/'>a</a>|<a href='/New_Beehive/toc/toc2_089/'>281
-  [Husbandry]</a>|<a href='/New_Beehive/toc/toc2_362/'>1971 [Husbandry]</a>|4621 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha2/alpha_0439/'>a</a>|<a href='/digital-beehive/toc/toc2_089/'>281
+  [Husbandry]</a>|<a href='/digital-beehive/toc/toc2_362/'>1971 [Husbandry]</a>|4621
+  [PAGE_MISSING]"
 topic: 
 first_letter: H
 xref: 
@@ -26,7 +27,7 @@ order: '1912'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1859,2784,681,201/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1859,2784,681,201/full/0/default.jpg
 label: husbandry and huswifery
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Fault
 topic: Fault
 first_letter: F
-xref: "<a href='/New_Beehive/alpha2/alpha_0291/'>Error</a>|<a href='/New_Beehive/toc/toc2_178/'>956
+xref: "<a href='/digital-beehive/alpha2/alpha_0291/'>Error</a>|<a href='/digital-beehive/toc/toc2_178/'>956
   [Failings of good men]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1417/'>fault</a>"
+index: "<a href='/digital-beehive/index2/index_1417/'>fault</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3e32c3b6e"
@@ -26,7 +26,7 @@ order: '317'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/746,4581,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/746,4581,3002,449/full/0/default.jpg
 label: Fault
-location: "<a href='/New_Beehive/toc/toc1_446/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

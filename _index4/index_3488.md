@@ -3,7 +3,7 @@ pid: index_3488
 volume: Volume 3
 image_number: '40'
 head: safety
-entry: "<a href='/New_Beehive/toc/toc2_170/'>914 [Safety]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Safety]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3488'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1833,2243,363,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1833,2243,363,113/full/0/default.jpg
 label: safety
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

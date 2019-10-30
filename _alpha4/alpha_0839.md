@@ -6,12 +6,12 @@ head:
 entry: Seeming
 topic: Seeming
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0300/'>external appearance</a>|Substantial"
+xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>external appearance</a>|Substantial"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3597/'>seemingly</a>"
+index: "<a href='/digital-beehive/index4/index_3597/'>seemingly</a>"
 insertion_xref: 
 insertion: 
 item: "#item-395603741"
@@ -25,7 +25,7 @@ order: '839'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,3089,444/full/0/default.jpg
 label: Seeming
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

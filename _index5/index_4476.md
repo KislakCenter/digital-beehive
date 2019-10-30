@@ -3,8 +3,8 @@ pid: index_4476
 volume: Volume 3
 image_number: '51'
 head: wars miseries
-entry: "<a href='/New_Beehive/alpha5/alpha_1010/'>a</a>|<a href='/New_Beehive/toc/toc2_277/'>1416
-  [Evils of war]</a>|<a href='/New_Beehive/toc/toc2_417/'>2411 [War's Miseries]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1010/'>a</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
+  [Evils of war]</a>|<a href='/digital-beehive/toc/toc2_417/'>2411 [War's Miseries]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -26,7 +26,7 @@ order: '4476'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,2312,704,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,2312,704,153/full/0/default.jpg
 label: wars miseries
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

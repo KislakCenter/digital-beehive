@@ -3,7 +3,7 @@ pid: index_0807
 volume: Volume 3
 image_number: '14'
 head: consequently
-entry: "<a href='/New_Beehive/toc/toc2_335/'>1710 [Needs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1710 [Needs]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '807'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/full/0/default.jpg
 label: consequently
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

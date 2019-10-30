@@ -3,7 +3,7 @@ pid: index_2754
 volume: Volume 3
 image_number: '33'
 head: oats
-entry: "<a href='/New_Beehive/alpha4/alpha_0643/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0643/'>a</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2754'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/175,1574,295,96/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/175,1574,295,96/full/0/default.jpg
 label: oats
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4686
 volume: Volume 3
 image_number: '54'
 head: Abyssines
-entry: "<a href='/New_Beehive/toc/toc2_320/'>1628 [Negro]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1628 [Negro]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4686'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/403,3074,638,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/403,3074,638,128/full/0/default.jpg
 label: Abyssines
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

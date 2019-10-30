@@ -3,8 +3,8 @@ pid: index_4102
 volume: Volume 3
 image_number: '47'
 head: testimony
-entry: "<a href='/New_Beehive/alpha5/alpha_0939/'>a</a>|<a href='/New_Beehive/toc/toc2_063/'>61
-  [Testimony]</a>|<a href='/New_Beehive/toc/toc2_386/'>2209 [Witness]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0939/'>a</a>|<a href='/digital-beehive/toc/toc2_063/'>61
+  [Testimony]</a>|<a href='/digital-beehive/toc/toc2_386/'>2209 [Witness]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -25,7 +25,7 @@ order: '4102'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,3390,669,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,3390,669,150/full/0/default.jpg
 label: testimony
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

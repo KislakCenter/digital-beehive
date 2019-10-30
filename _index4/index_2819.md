@@ -3,7 +3,7 @@ pid: index_2819
 volume: Volume 3
 image_number: '33'
 head: order
-entry: "<a href='/New_Beehive/alpha4/alpha_0661/'>a</a>|<a href='/New_Beehive/toc/toc2_080/'>221
+entry: "<a href='/digital-beehive/alpha4/alpha_0661/'>a</a>|<a href='/digital-beehive/toc/toc2_080/'>221
   [Order]</a>|4534 [PAGE_MISSING]"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2819'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1508,2090,725,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1508,2090,725,172/full/0/default.jpg
 label: order
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

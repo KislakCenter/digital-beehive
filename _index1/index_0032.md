@@ -3,7 +3,7 @@ pid: index_0032
 volume: Volume 3
 image_number: '7'
 head: acknowledgmt
-entry: "<a href='/New_Beehive/toc/toc2_099/'>354 [to acknowledge]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_099/'>354 [to acknowledge]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '32'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/full/0/default.jpg
 label: acknowledgmt
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

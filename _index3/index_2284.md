@@ -3,13 +3,13 @@ pid: index_2284
 volume: Volume 3
 image_number: '28'
 head: to live well
-entry: "<a href='/New_Beehive/toc/toc2_295/'>1506 [To Live well]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_295/'>1506 [To Live well]</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4093/'>term</a>"
+add: "<a href='/digital-beehive/index5/index_4093/'>term</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '2284'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
 label: to live well
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

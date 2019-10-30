@@ -8,7 +8,7 @@ topic:
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>|<a href='/New_Beehive/toc_vol1/toc2_187/'>p.375
+page: "<a href='/digital-beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>|<a href='/digital-beehive/toc_vol1/toc2_187/'>p.375
   [Image 2.197]</a>"
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '410'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,1437,729,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,1437,729,162/full/0/default.jpg
 label: books of several parts
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

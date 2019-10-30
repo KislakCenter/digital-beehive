@@ -6,14 +6,14 @@ head:
 entry: War
 topic: War
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0889/'>Souldier</a>|<a href='/New_Beehive/alpha4/alpha_0771/'>Rebellion</a>|<a
-  href='/New_Beehive/toc/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
-  href='/New_Beehive/toc/toc2_234/'>1204 [War]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0889/'>Souldier</a>|<a href='/digital-beehive/alpha4/alpha_0771/'>Rebellion</a>|<a
+  href='/digital-beehive/toc/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
+  href='/digital-beehive/toc/toc2_234/'>1204 [War]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4475/'>war</a>"
+index: "<a href='/digital-beehive/index5/index_4475/'>war</a>"
 insertion_xref: 
 insertion: 
 item: "#item-46da5ca45"
@@ -27,7 +27,7 @@ order: '1009'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,2986,749/full/0/default.jpg
 label: War
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

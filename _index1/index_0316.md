@@ -3,7 +3,7 @@ pid: index_0316
 volume: Volume 3
 image_number: '9'
 head: bear
-entry: "<a href='/New_Beehive/toc/toc2_382/'>2162 [Bears]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_382/'>2162 [Bears]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '316'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,1539,364,76/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,1539,364,76/full/0/default.jpg
 label: bear
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

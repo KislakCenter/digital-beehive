@@ -3,7 +3,7 @@ pid: index_2297
 volume: Volume 3
 image_number: '28'
 head: limit
-entry: 749 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_346/'>1802 [Limit]</a>
+entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_346/'>1802 [Limit]</a>
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2297'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1837,999,578,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1837,999,578,146/full/0/default.jpg
 label: limit
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

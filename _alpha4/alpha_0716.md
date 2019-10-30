@@ -6,14 +6,14 @@ head:
 entry: Power
 topic: Power
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/New_Beehive/alpha2/alpha_0339/'>Force</a>|<a
-  href='/New_Beehive/alpha3/alpha_0472/'>Infirmity</a>|<a href='/New_Beehive/toc/toc2_411/'>2362
+xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/digital-beehive/alpha2/alpha_0339/'>Force</a>|<a
+  href='/digital-beehive/alpha3/alpha_0472/'>Infirmity</a>|<a href='/digital-beehive/toc/toc2_411/'>2362
   [Power]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3103/'>power</a>"
+index: "<a href='/digital-beehive/index4/index_3103/'>power</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6b67d5259"
@@ -27,7 +27,7 @@ order: '716'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,3053,358/full/0/default.jpg
 label: Power
-location: "<a href='/New_Beehive/toc/toc2_031/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_4613
 volume: Volume 3
 image_number: '53'
 head: Gods Work
-entry: "<a href='/New_Beehive/toc/toc2_205/'>1057 [God's work]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4613'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/full/0/default.jpg
 label: Gods Work
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

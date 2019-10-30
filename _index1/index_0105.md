@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4672/'>almighty</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>almighty</a>"
 insertion: 
 item: "#item-149c515be"
 unparsed: 'Type: Index|Insertion Xref: [:8.]|#item-149c515be'
@@ -24,7 +24,7 @@ order: '105'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2159,1957,152,80/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2159,1957,152,80/full/0/default.jpg
 label: "[:8.]"
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

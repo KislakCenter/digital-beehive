@@ -3,7 +3,7 @@ pid: index_0542
 volume: Volume 3
 image_number: '12'
 head: caribeans
-entry: "<a href='/New_Beehive/toc/toc2_297/'>1514 [Caribee Islands]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1514 [Caribee Islands]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '542'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/417,209,553,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/417,209,553,132/full/0/default.jpg
 label: caribeans
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

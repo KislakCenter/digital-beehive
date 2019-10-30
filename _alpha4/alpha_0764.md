@@ -6,12 +6,12 @@ head:
 entry: Rain
 topic: Rain
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_312/'>1588 [Rain]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_312/'>1588 [Rain]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3284/'>rain</a>"
+index: "<a href='/digital-beehive/index4/index_3284/'>rain</a>"
 insertion_xref: 
 insertion: 
 item: "#item-96b1db4e3"
@@ -24,7 +24,7 @@ order: '764'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,3033,368/full/0/default.jpg
 label: Rain
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

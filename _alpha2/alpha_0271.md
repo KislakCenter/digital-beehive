@@ -6,12 +6,12 @@ head:
 entry: Earthquake
 topic: Earthquake
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_241/'>1237 [Earthquakes]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_241/'>1237 [Earthquakes]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1190/'>earthquake</a>"
+index: "<a href='/digital-beehive/index2/index_1190/'>earthquake</a>"
 insertion_xref: 
 insertion: 
 item: "#item-aada765c4"
@@ -24,7 +24,7 @@ order: '271'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,3029,581/full/0/default.jpg
 label: Earthquake
-location: "<a href='/New_Beehive/toc/toc1_442/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

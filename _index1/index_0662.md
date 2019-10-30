@@ -3,7 +3,7 @@ pid: index_0662
 volume: Volume 3
 image_number: '13'
 head: church history
-entry: "<a href='/New_Beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '662'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/158,1479,511,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/158,1479,511,130/full/0/default.jpg
 label: church history
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

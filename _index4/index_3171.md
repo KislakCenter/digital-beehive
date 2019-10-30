@@ -3,7 +3,7 @@ pid: index_3171
 volume: Volume 3
 image_number: '37'
 head: probability
-entry: "<a href='/New_Beehive/toc/toc2_084/'>246 [Probability]</a>|<a href='/New_Beehive/toc/toc2_386/'>2206
+entry: "<a href='/digital-beehive/toc/toc2_084/'>246 [Probability]</a>|<a href='/digital-beehive/toc/toc2_386/'>2206
   [Probability]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3171'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/full/0/default.jpg
 label: probability
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

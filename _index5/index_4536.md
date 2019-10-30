@@ -3,7 +3,7 @@ pid: index_4536
 volume: Volume 3
 image_number: '52'
 head: to whip
-entry: "<a href='/New_Beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/New_Beehive/toc/toc2_386/'>2208
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/digital-beehive/toc/toc2_386/'>2208
   [Rod]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4536'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1778,394,614,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1778,394,614,134/full/0/default.jpg
 label: to whip
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

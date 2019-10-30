@@ -3,8 +3,8 @@ pid: index_2275
 volume: Volume 3
 image_number: '28'
 head: liberty
-entry: "<a href='/New_Beehive/alpha3/alpha_0531/'>a</a>|769 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_215/'>1108
-  [Liberty]</a>|4606 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha3/alpha_0531/'>a</a>|769 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_215/'>1108 [Liberty]</a>|4606 [PAGE_MISSING]"
 topic: 
 first_letter: L
 xref: 
@@ -26,7 +26,7 @@ order: '2275'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,1972,705,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,1972,705,143/full/0/default.jpg
 label: liberty
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

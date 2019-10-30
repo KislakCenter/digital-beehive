@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index1/index_0176/'>apparitions</a>"
+see: "<a href='/digital-beehive/index1/index_0176/'>apparitions</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3829'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/full/0/default.jpg
 label: spectres
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

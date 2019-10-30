@@ -3,8 +3,9 @@ pid: index_2875
 volume: Volume 3
 image_number: '34'
 head: paradox
-entry: "<a href='/New_Beehive/alpha4/alpha_0670/'>a</a>|<a href='/New_Beehive/toc/toc2_077/'>201
-  [Orthodox Paradoxes]</a>|<a href='/New_Beehive/toc/toc2_078/'>201 [Orthodox Paradoxes]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0670/'>a</a>|<a href='/digital-beehive/toc/toc2_077/'>201
+  [Orthodox Paradoxes]</a>|<a href='/digital-beehive/toc/toc2_078/'>201 [Orthodox
+  Paradoxes]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +26,7 @@ order: '2875'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,1219,559,167/full/0/default.jpg
 label: paradox
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Inward man
 topic: Inward man
 first_letter: I/J
-xref: "<a href='/New_Beehive/toc/toc2_412/'>2373 [Inward Man]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_412/'>2373 [Inward Man]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2099/'>inward man</a>"
+index: "<a href='/digital-beehive/index3/index_2099/'>inward man</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1400086d0"
@@ -24,7 +24,7 @@ order: '485'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/684,1859,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/684,1859,3083,568/full/0/default.jpg
 label: Inward man
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

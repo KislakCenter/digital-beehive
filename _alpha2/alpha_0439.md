@@ -6,13 +6,13 @@ head:
 entry: Husbandry
 topic: Husbandry
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/New_Beehive/alpha4/alpha_0650/'>Oeconomy</a>|<a
-  href='/New_Beehive/toc/toc2_089/'>281 [Husbandry]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/digital-beehive/alpha4/alpha_0650/'>Oeconomy</a>|<a
+  href='/digital-beehive/toc/toc2_089/'>281 [Husbandry]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1912/'>husbandry and huswifery</a>"
+index: "<a href='/digital-beehive/index2/index_1912/'>husbandry and huswifery</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2ad75fadf"
@@ -26,7 +26,7 @@ order: '439'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,2963,554/full/0/default.jpg
 label: Husbandry
-location: "<a href='/New_Beehive/toc/toc2_010/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

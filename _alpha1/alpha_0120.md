@@ -6,12 +6,12 @@ head:
 entry: Cards
 topic: Cards
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0706/'>Play</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0706/'>Play</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0538/'>cards</a>"
+index: "<a href='/digital-beehive/index1/index_0538/'>cards</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ab0e05e0e"
@@ -24,7 +24,7 @@ order: '120'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,3178,347/full/0/default.jpg
 label: Cards
-location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

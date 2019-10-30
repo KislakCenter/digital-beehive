@@ -3,7 +3,7 @@ pid: index_1109
 volume: Volume 3
 image_number: '17'
 head: to disturb
-entry: "<a href='/New_Beehive/toc/toc2_283/'>1446 [To disturb]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_283/'>1446 [To disturb]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1109'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/814,911,598,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/814,911,598,144/full/0/default.jpg
 label: to disturb
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

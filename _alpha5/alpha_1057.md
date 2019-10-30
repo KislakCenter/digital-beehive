@@ -6,13 +6,13 @@ head:
 entry: Writing
 topic: Writing
 first_letter: W
-xref: "<a href='/New_Beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/New_Beehive/toc/toc2_107/'>412
-  [Writing]</a>|<a href='/New_Beehive/toc/toc2_269/'>1376 [Writing]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/digital-beehive/toc/toc2_107/'>412
+  [Writing]</a>|<a href='/digital-beehive/toc/toc2_269/'>1376 [Writing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4634/'>writing</a>"
+index: "<a href='/digital-beehive/index5/index_4634/'>writing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-434c92894"
@@ -26,7 +26,7 @@ order: '1057'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,3010,316/full/0/default.jpg
 label: Writing
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

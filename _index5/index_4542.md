@@ -3,8 +3,8 @@ pid: index_4542
 volume: Volume 3
 image_number: '52'
 head: whoredom
-entry: "<a href='/New_Beehive/alpha5/alpha_1021/'>a</a>|<a href='/New_Beehive/toc/toc2_132/'>571
-  [Fornication or whoredom]</a>|<a href='/New_Beehive/toc/toc2_300/'>1528 [Whoredom]</a>|4514
+entry: "<a href='/digital-beehive/alpha5/alpha_1021/'>a</a>|<a href='/digital-beehive/toc/toc2_132/'>571
+  [Fornication or whoredom]</a>|<a href='/digital-beehive/toc/toc2_300/'>1528 [Whoredom]</a>|4514
   [PAGE_MISSING]"
 topic: 
 first_letter: W
@@ -27,7 +27,7 @@ order: '4542'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1777,1183,705,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1777,1183,705,126/full/0/default.jpg
 label: whoredom
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

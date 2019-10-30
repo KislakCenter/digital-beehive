@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: F
 xref: 
-see: "<a href='/New_Beehive/index4/index_3383/'>reputation</a>"
+see: "<a href='/digital-beehive/index4/index_3383/'>reputation</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1394'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/380,2054,749,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/380,2054,749,141/full/0/default.jpg
 label: fame
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

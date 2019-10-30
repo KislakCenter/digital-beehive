@@ -3,7 +3,7 @@ pid: index_2555
 volume: Volume 3
 image_number: '31'
 head: mogshade
-entry: "<a href='/New_Beehive/toc/toc2_145/'>641 [mogshade]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_145/'>641 [mogshade]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2555'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/167,2604,492,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/167,2604,492,133/full/0/default.jpg
 label: mogshade
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

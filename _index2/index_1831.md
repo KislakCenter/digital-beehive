@@ -3,7 +3,7 @@ pid: index_1831
 volume: Volume 3
 image_number: '24'
 head: hieroglyphicks
-entry: "<a href='/New_Beehive/alpha2/alpha_0418/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0418/'>a</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1831'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/434,1948,551,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/434,1948,551,148/full/0/default.jpg
 label: hieroglyphicks
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

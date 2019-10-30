@@ -3,7 +3,7 @@ pid: index_1463
 volume: Volume 3
 image_number: '20'
 head: first love
-entry: "<a href='/New_Beehive/toc/toc2_315/'>1601 [First Love]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [First Love]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1463'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/full/0/default.jpg
 label: first love
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

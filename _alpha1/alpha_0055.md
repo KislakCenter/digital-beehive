@@ -6,12 +6,12 @@ head:
 entry: Banishment
 topic: Banishment
 first_letter: B
-xref: Pilgrimage|<a href='/New_Beehive/toc/toc2_230/'>1182 [Banishment]</a>
+xref: Pilgrimage|<a href='/digital-beehive/toc/toc2_230/'>1182 [Banishment]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0283/'>banishmt</a>"
+index: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ccc0b9c78"
@@ -25,7 +25,7 @@ order: '55'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/324,427,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/324,427,3068,479/full/0/default.jpg
 label: Banishment
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

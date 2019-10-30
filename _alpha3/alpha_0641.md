@@ -6,12 +6,12 @@ head:
 entry: Nun
 topic: Nun
 first_letter: N
-xref: "<a href='/New_Beehive/alpha1/alpha_0150/'>Cloister</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2749/'>nun</a>"
+index: "<a href='/digital-beehive/index3/index_2749/'>nun</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fdb9a60d2"
@@ -24,7 +24,7 @@ order: '641'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,3393,3029,368/full/0/default.jpg
 label: Nun
-location: "<a href='/New_Beehive/toc/toc2_026/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

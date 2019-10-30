@@ -3,9 +3,9 @@ pid: index_0062
 volume: Volume 3
 image_number: '7'
 head: affliction
-entry: "<a href='/New_Beehive/toc/toc2_094/'>316 [Affliction]</a>|<a href='/New_Beehive/toc/toc2_267/'>1367
-  [Afflictions]</a>|<a href='/New_Beehive/toc/toc2_268/'>1372 [Afflictions]</a>|<a
-  href='/New_Beehive/toc/toc2_367/'>2020 [Sufferings]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_094/'>316 [Affliction]</a>|<a href='/digital-beehive/toc/toc2_267/'>1367
+  [Afflictions]</a>|<a href='/digital-beehive/toc/toc2_268/'>1372 [Afflictions]</a>|<a
+  href='/digital-beehive/toc/toc2_367/'>2020 [Sufferings]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -27,7 +27,7 @@ order: '62'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/901,1828,644,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/901,1828,644,146/full/0/default.jpg
 label: affliction
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

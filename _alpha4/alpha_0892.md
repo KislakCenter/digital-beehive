@@ -6,15 +6,15 @@ head:
 entry: Speech
 topic: Speech
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0951/'>tongue</a>|<a href='/New_Beehive/alpha3/alpha_0507/'>language</a>|Laconism|<a
-  href='/New_Beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/New_Beehive/alpha4/alpha_0879/'>slow</a>|<a
-  href='/New_Beehive/alpha5/alpha_0952/'>too hasty</a>|<a href='/New_Beehive/alpha2/alpha_0279/'>Eloquence</a>|<a
-  href='/New_Beehive/toc/toc2_232/'>1194 [Speech]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0951/'>tongue</a>|<a href='/digital-beehive/alpha3/alpha_0507/'>language</a>|Laconism|<a
+  href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/alpha4/alpha_0879/'>slow</a>|<a
+  href='/digital-beehive/alpha5/alpha_0952/'>too hasty</a>|<a href='/digital-beehive/alpha2/alpha_0279/'>Eloquence</a>|<a
+  href='/digital-beehive/toc/toc2_232/'>1194 [Speech]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3831/'>speech</a>"
+index: "<a href='/digital-beehive/index4/index_3831/'>speech</a>"
 insertion_xref: 
 insertion: 
 item: "#item-34bb03e62"
@@ -28,7 +28,7 @@ order: '892'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,4006,2979,846/full/0/default.jpg
 label: Speech
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

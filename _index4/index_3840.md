@@ -3,7 +3,7 @@ pid: index_3840
 volume: Volume 3
 image_number: '44'
 head: spie
-entry: 825 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_294/'>1502 [Spy]</a>
+entry: 825 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_294/'>1502 [Spy]</a>
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3840'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/full/0/default.jpg
 label: spie
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index2/index_1331/'>excellent</a>|<a href='/New_Beehive/index5/index_4519/'>well</a>"
+see: "<a href='/digital-beehive/index2/index_1331/'>excellent</a>|<a href='/digital-beehive/index5/index_4519/'>well</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '439'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,755,729,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,755,729,161/full/0/default.jpg
 label: brave
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

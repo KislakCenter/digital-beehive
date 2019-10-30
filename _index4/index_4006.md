@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: perplex|<a href='/New_Beehive/index5/index_4358/'>unawares</a>
+see: perplex|<a href='/digital-beehive/index5/index_4358/'>unawares</a>
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4006'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,258,886,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,258,886,164/full/0/default.jpg
 label: surprise
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

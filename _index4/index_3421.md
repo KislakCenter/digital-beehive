@@ -3,7 +3,7 @@ pid: index_3421
 volume: Volume 3
 image_number: '40'
 head: Richelieu
-entry: "<a href='/New_Beehive/toc/toc2_258/'>1323 [Richelieu]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1323 [Richelieu]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3421'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/full/0/default.jpg
 label: Richelieu
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

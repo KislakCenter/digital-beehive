@@ -3,7 +3,7 @@ pid: index_0157
 volume: Volume 3
 image_number: '8'
 head: antidote
-entry: "<a href='/New_Beehive/toc/toc2_073/'>162 [Antidote]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_073/'>162 [Antidote]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '157'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/343,2820,528,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/343,2820,528,150/full/0/default.jpg
 label: antidote
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

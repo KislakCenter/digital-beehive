@@ -3,8 +3,8 @@ pid: index_4352
 volume: Volume 3
 image_number: '50'
 head: unable
-entry: "<a href='/New_Beehive/toc/toc2_085/'>258 [Ability]</a>|<a href='/New_Beehive/toc/toc2_279/'>1426
-  [Abilities]</a>|<a href='/New_Beehive/toc/toc2_411/'>2363 [Able & unable]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_085/'>258 [Ability]</a>|<a href='/digital-beehive/toc/toc2_279/'>1426
+  [Abilities]</a>|<a href='/digital-beehive/toc/toc2_411/'>2363 [Able & unable]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -26,7 +26,7 @@ order: '4352'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/480,535,681,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/480,535,681,108/full/0/default.jpg
 label: unable
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

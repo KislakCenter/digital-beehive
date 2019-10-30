@@ -3,7 +3,7 @@ pid: index_4661
 volume: Volume 3
 image_number: '53'
 head: Zone
-entry: "<a href='/New_Beehive/toc/toc2_154/'>691 [to Gird]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [to Gird]</a>"
 topic: 
 first_letter: Z
 xref: 
@@ -24,7 +24,7 @@ order: '4661'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,3499,342,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,3499,342,117/full/0/default.jpg
 label: Zone
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

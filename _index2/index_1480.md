@@ -3,7 +3,7 @@ pid: index_1480
 volume: Volume 3
 image_number: '20'
 head: flexible
-entry: "<a href='/New_Beehive/toc/toc2_413/'>2381 [Tough]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_413/'>2381 [Tough]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1480'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1784,2995,512,205/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1784,2995,512,205/full/0/default.jpg
 label: flexible
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

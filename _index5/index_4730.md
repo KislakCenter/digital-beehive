@@ -3,7 +3,7 @@ pid: index_4730
 volume: Volume 3
 image_number: '54'
 head: gossipping
-entry: "<a href='/New_Beehive/toc/toc2_437/'>4856 [Gosiping]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_437/'>4856 [Gosiping]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4730'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1761,1997,674,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1761,1997,674,127/full/0/default.jpg
 label: gossipping
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

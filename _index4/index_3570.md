@@ -3,7 +3,7 @@ pid: index_3570
 volume: Volume 3
 image_number: '41'
 head: Sea
-entry: "<a href='/New_Beehive/alpha4/alpha_0830/'>a</a>|<a href='/New_Beehive/toc/toc2_287/'>1470
+entry: "<a href='/digital-beehive/alpha4/alpha_0830/'>a</a>|<a href='/digital-beehive/toc/toc2_287/'>1470
   [Sea]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3570'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1582,255,453,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1582,255,453,137/full/0/default.jpg
 label: Sea
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

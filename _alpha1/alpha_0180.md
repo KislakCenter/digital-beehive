@@ -6,13 +6,13 @@ head:
 entry: Covetousness
 topic: Covetousness
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_067/'>103 [Sordidness]</a>|<a href='/New_Beehive/toc/toc2_075/'>190
+xref: "<a href='/digital-beehive/toc/toc2_067/'>103 [Sordidness]</a>|<a href='/digital-beehive/toc/toc2_075/'>190
   [Covetousness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0869/'>covetousness</a>"
+index: "<a href='/digital-beehive/index1/index_0869/'>covetousness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-036e87c27"
@@ -26,7 +26,7 @@ order: '180'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,1273,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,1273,3092,698/full/0/default.jpg
 label: Covetousness
-location: "<a href='/New_Beehive/toc/toc1_435/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

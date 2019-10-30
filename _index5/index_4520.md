@@ -3,7 +3,7 @@ pid: index_4520
 volume: Volume 3
 image_number: '52'
 head: well! welldone
-entry: 772 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_321/'>1631 [Well done]</a>
+entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_321/'>1631 [Well done]</a>
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4520'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1103,1564,682,221/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1103,1564,682,221/full/0/default.jpg
 label: well! welldone
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

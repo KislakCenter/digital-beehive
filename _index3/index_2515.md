@@ -3,7 +3,7 @@ pid: index_2515
 volume: Volume 3
 image_number: '30'
 head: milky way
-entry: "<a href='/New_Beehive/toc/toc2_309/'>1575 [Milky way]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Milky way]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2515'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
 label: milky way
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

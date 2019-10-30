@@ -6,12 +6,12 @@ head:
 entry: Office
 topic: Office
 first_letter: O
-xref: "<a href='/New_Beehive/alpha1/alpha_0113/'>Calling</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0113/'>Calling</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2774/'>office</a>"
+index: "<a href='/digital-beehive/index4/index_2774/'>office</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f055f382a"
@@ -24,7 +24,7 @@ order: '651'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/334,1718,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/334,1718,3064,412/full/0/default.jpg
 label: Office
-location: "<a href='/New_Beehive/toc/toc2_027/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

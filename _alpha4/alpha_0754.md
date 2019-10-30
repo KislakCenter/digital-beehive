@@ -6,12 +6,12 @@ head:
 entry: Purgatory
 topic: Purgatory
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_301/'>1534 [Purgatory]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_301/'>1534 [Purgatory]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3232/'>purgatory</a>"
+index: "<a href='/digital-beehive/index4/index_3232/'>purgatory</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cceea3136"
@@ -24,7 +24,7 @@ order: '754'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,3093,378/full/0/default.jpg
 label: Purgatory
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

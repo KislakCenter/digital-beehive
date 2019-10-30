@@ -3,8 +3,8 @@ pid: index_4652
 volume: Volume 3
 image_number: '53'
 head: to grow young
-entry: "<a href='/New_Beehive/toc/toc2_244/'>1255 [To grow young again]</a>|<a href='/New_Beehive/toc/toc2_380/'>2150
-  [To grow young again]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_244/'>1255 [To grow young again]</a>|<a
+  href='/digital-beehive/toc/toc2_380/'>2150 [To grow young again]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -26,7 +26,7 @@ order: '4652'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/full/0/default.jpg
 label: to grow young
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

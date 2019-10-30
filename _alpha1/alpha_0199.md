@@ -6,14 +6,14 @@ head:
 entry: Cruelty
 topic: Cruelty
 first_letter: C
-xref: "<a href='/New_Beehive/alpha5/alpha_0975/'>Tyran[n]y</a>|<a href='/New_Beehive/alpha4/alpha_0853/'>Severity</a>|Oppression|<a
-  href='/New_Beehive/toc/toc2_131/'>565 [horrid Cruelties practised by the Papists
-  upon Protestants]</a>|<a href='/New_Beehive/toc/toc2_123/'>514 [Cruelty]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0975/'>Tyran[n]y</a>|<a href='/digital-beehive/alpha4/alpha_0853/'>Severity</a>|Oppression|<a
+  href='/digital-beehive/toc/toc2_131/'>565 [horrid Cruelties practised by the Papists
+  upon Protestants]</a>|<a href='/digital-beehive/toc/toc2_123/'>514 [Cruelty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0919/'>cruelty</a>"
+index: "<a href='/digital-beehive/index1/index_0919/'>cruelty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-437531419"
@@ -28,7 +28,7 @@ order: '199'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/327,208,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/327,208,3104,511/full/0/default.jpg
 label: Cruelty
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

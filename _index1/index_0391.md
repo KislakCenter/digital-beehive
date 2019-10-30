@@ -3,8 +3,8 @@ pid: index_0391
 volume: Volume 3
 image_number: '10'
 head: blindness
-entry: "<a href='/New_Beehive/toc/toc2_059/'>13 [Blindness]</a>|<a href='/New_Beehive/toc/toc2_261/'>1336
-  [Blindness]</a>|<a href='/New_Beehive/toc/toc2_385/'>2200 [Blindness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_059/'>13 [Blindness]</a>|<a href='/digital-beehive/toc/toc2_261/'>1336
+  [Blindness]</a>|<a href='/digital-beehive/toc/toc2_385/'>2200 [Blindness]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '391'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/full/0/default.jpg
 label: blindness
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_4311
 volume: Volume 3
 image_number: '49'
 head: venison
-entry: "<a href='/New_Beehive/toc/toc2_376/'>2106 [Venison]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_376/'>2106 [Venison]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4311'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/full/0/default.jpg
 label: venison
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

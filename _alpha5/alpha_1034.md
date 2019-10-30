@@ -6,13 +6,13 @@ head:
 entry: Woman
 topic: Woman
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/New_Beehive/toc/toc2_242/'>1242
+xref: "<a href='/digital-beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_242/'>1242
   [Woman]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4588/'>woman</a>"
+index: "<a href='/digital-beehive/index5/index_4588/'>woman</a>"
 insertion_xref: 
 insertion: 
 item: "#item-863a24be4"
@@ -25,7 +25,7 @@ order: '1034'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/333,3218,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/333,3218,3003,786/full/0/default.jpg
 label: Woman
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

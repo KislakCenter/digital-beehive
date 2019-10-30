@@ -3,9 +3,9 @@ pid: index_0802
 volume: Volume 3
 image_number: '14'
 head: conscience
-entry: "<a href='/New_Beehive/alpha1/alpha_0169/'>a</a>|<a href='/New_Beehive/toc/toc2_071/'>141
-  [Conscience]</a>|<a href='/New_Beehive/toc/toc2_071/'>142 [Civil Conscience]</a>|<a
-  href='/New_Beehive/toc/toc2_210/'>1085 [Conscience]</a>|<a href='/New_Beehive/toc/toc2_359/'>1958
+entry: "<a href='/digital-beehive/alpha1/alpha_0169/'>a</a>|<a href='/digital-beehive/toc/toc2_071/'>141
+  [Conscience]</a>|<a href='/digital-beehive/toc/toc2_071/'>142 [Civil Conscience]</a>|<a
+  href='/digital-beehive/toc/toc2_210/'>1085 [Conscience]</a>|<a href='/digital-beehive/toc/toc2_359/'>1958
   [Conscience]</a>"
 topic: 
 first_letter: C
@@ -28,7 +28,7 @@ order: '802'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1185,675,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1185,675,179/full/0/default.jpg
 label: conscience
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

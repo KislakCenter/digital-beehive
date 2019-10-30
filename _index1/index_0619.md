@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index2/index_1533/'>fraud</a>"
+see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '619'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/full/0/default.jpg
 label: cheat
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

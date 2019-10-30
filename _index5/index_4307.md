@@ -3,7 +3,7 @@ pid: index_4307
 volume: Volume 3
 image_number: '49'
 head: vein
-entry: "<a href='/New_Beehive/toc/toc2_323/'>1644 [Vein]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1644 [Vein]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4307'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/full/0/default.jpg
 label: vein
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

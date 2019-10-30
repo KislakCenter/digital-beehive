@@ -24,7 +24,7 @@ order: '3151'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/85,2207,423,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/85,2207,423,110/full/0/default.jpg
 label: price
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

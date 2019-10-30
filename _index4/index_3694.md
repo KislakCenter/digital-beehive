@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index2/index_1420/'>fear</a>"
+see: "<a href='/digital-beehive/index2/index_1420/'>fear</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3694'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1802,3222,469,157/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1802,3222,469,157/full/0/default.jpg
 label: shy
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

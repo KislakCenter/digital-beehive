@@ -3,12 +3,12 @@ pid: index_2296
 volume: Volume 3
 image_number: '28'
 head: lime
-entry: "<a href='/New_Beehive/toc/toc2_273/'>1396 [Lime]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Lime]</a>"
 topic: 
 first_letter: L
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_081/'>p.31 [Image 1.91]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_081/'>p.31 [Image 1.91]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2296'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/full/0/default.jpg
 label: lime
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

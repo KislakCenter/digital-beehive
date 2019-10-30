@@ -3,7 +3,7 @@ pid: index_0076
 volume: Volume 3
 image_number: '7'
 head: aggravate
-entry: "<a href='/New_Beehive/toc/toc2_132/'>573 [Worse]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [Worse]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '76'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3041,696,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3041,696,125/full/0/default.jpg
 label: aggravate
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

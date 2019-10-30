@@ -6,12 +6,12 @@ head:
 entry: Adversity
 topic: Adversity
 first_letter: A
-xref: Gods affection|<a href='/New_Beehive/toc/toc2_158/'>712 [Adversity]</a>
+xref: Gods affection|<a href='/digital-beehive/toc/toc2_158/'>712 [Adversity]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0049/'>adversity</a>"
+index: "<a href='/digital-beehive/index1/index_0049/'>adversity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fb558fcd2"
@@ -25,7 +25,7 @@ order: '10'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,3048,673/full/0/default.jpg
 label: Adversity
-location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

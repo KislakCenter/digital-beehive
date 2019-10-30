@@ -3,8 +3,9 @@ pid: index_0650
 volume: Volume 3
 image_number: '13'
 head: christendom
-entry: "<a href='/New_Beehive/alpha1/alpha_0145/'>a</a>|<a href='/New_Beehive/toc/toc2_369/'>2037
-  [Nominal Christians]</a>|<a href='/New_Beehive/toc/toc2_416/'>2401 [Nominal Christians]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0145/'>a</a>|<a href='/digital-beehive/toc/toc2_369/'>2037
+  [Nominal Christians]</a>|<a href='/digital-beehive/toc/toc2_416/'>2401 [Nominal
+  Christians]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -26,7 +27,7 @@ order: '650'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/134,329,684,185/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/134,329,684,185/full/0/default.jpg
 label: christendom
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

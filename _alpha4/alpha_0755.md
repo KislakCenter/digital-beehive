@@ -6,14 +6,14 @@ head:
 entry: Purity
 topic: Purity
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0136/'>Chastity</a>|<a href='/New_Beehive/alpha2/alpha_0423/'>Holiness</a>|Cleanliness|<a
-  href='/New_Beehive/alpha5/alpha_1012/'>Washing</a>|<a href='/New_Beehive/toc/toc2_175/'>936
+xref: "<a href='/digital-beehive/alpha1/alpha_0136/'>Chastity</a>|<a href='/digital-beehive/alpha2/alpha_0423/'>Holiness</a>|Cleanliness|<a
+  href='/digital-beehive/alpha5/alpha_1012/'>Washing</a>|<a href='/digital-beehive/toc/toc2_175/'>936
   [Purity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3236/'>purity</a>"
+index: "<a href='/digital-beehive/index4/index_3236/'>purity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1853bb2f8"
@@ -27,7 +27,7 @@ order: '755'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/300,626,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/300,626,3077,390/full/0/default.jpg
 label: Purity
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

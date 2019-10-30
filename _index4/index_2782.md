@@ -3,7 +3,7 @@ pid: index_2782
 volume: Volume 3
 image_number: '33'
 head: old
-entry: "<a href='/New_Beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/New_Beehive/toc/toc2_099/'>355
+entry: "<a href='/digital-beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/digital-beehive/toc/toc2_099/'>355
   [Old]</a>|4599 [PAGE_MISSING]"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2782'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/full/0/default.jpg
 label: old
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

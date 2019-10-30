@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4684/'>forrest</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4684/'>forrest</a>"
 insertion: 
 item: "#item-5e320c6fe"
 unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
@@ -24,7 +24,7 @@ order: '1516'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/full/0/default.jpg
 label: "[:19.]"
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

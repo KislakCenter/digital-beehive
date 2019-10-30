@@ -8,7 +8,7 @@ topic:
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_095/'>p.45 [Image 1.105]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_095/'>p.45 [Image 1.105]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1847'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1166,234,646,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1166,234,646,160/full/0/default.jpg
 label: histories Biblical
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

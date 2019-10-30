@@ -3,8 +3,9 @@ pid: index_1958
 volume: Volume 3
 image_number: '25'
 head: imagination
-entry: "<a href='/New_Beehive/alpha3/alpha_0456/'>a</a>|736 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_322/'>1637
-  [Imagination]</a>|<a href='/New_Beehive/toc/toc2_386/'>2210 [Imagination]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0456/'>a</a>|736 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_322/'>1637 [Imagination]</a>|<a href='/digital-beehive/toc/toc2_386/'>2210
+  [Imagination]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -26,7 +27,7 @@ order: '1958'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/full/0/default.jpg
 label: imagination
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

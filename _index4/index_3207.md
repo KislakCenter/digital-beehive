@@ -3,8 +3,8 @@ pid: index_3207
 volume: Volume 3
 image_number: '37'
 head: protestants
-entry: "<a href='/New_Beehive/toc/toc2_065/'>83 [Protestant]</a>|<a href='/New_Beehive/toc/toc2_297/'>1511
-  [protestant Religion]</a>|<a href='/New_Beehive/toc/toc2_396/'>2264 [Protestants]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_065/'>83 [Protestant]</a>|<a href='/digital-beehive/toc/toc2_297/'>1511
+  [protestant Religion]</a>|<a href='/digital-beehive/toc/toc2_396/'>2264 [Protestants]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -26,7 +26,7 @@ order: '3207'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,1929,790,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,1929,790,133/full/0/default.jpg
 label: protestants
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

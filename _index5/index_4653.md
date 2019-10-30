@@ -3,8 +3,8 @@ pid: index_4653
 volume: Volume 3
 image_number: '53'
 head: youth
-entry: "<a href='/New_Beehive/alpha5/alpha_1060/'>a</a>|<a href='/New_Beehive/toc/toc2_115/'>467
-  [youth]</a>|<a href='/New_Beehive/toc/toc2_408/'>2347 [Youth]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/toc/toc2_115/'>467
+  [youth]</a>|<a href='/digital-beehive/toc/toc2_408/'>2347 [Youth]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -25,7 +25,7 @@ order: '4653'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1558,2894,694,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1558,2894,694,138/full/0/default.jpg
 label: youth
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,8 +3,8 @@ pid: index_1538
 volume: Volume 3
 image_number: '21'
 head: free will
-entry: "<a href='/New_Beehive/alpha2/alpha_0346/'>a</a>|<a href='/New_Beehive/toc/toc2_204/'>1052
-  [Free Will]</a>|<a href='/New_Beehive/toc/toc2_404/'>2307 [Free Will]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0346/'>a</a>|<a href='/digital-beehive/toc/toc2_204/'>1052
+  [Free Will]</a>|<a href='/digital-beehive/toc/toc2_404/'>2307 [Free Will]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1538'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/857,1913,733,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/857,1913,733,131/full/0/default.jpg
 label: free will
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

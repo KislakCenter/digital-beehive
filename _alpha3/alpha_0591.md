@@ -6,12 +6,12 @@ head:
 entry: Mind
 topic: Mind
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_318/'>1620 [Mind]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_318/'>1620 [Mind]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2520/'>mind</a>"
+index: "<a href='/digital-beehive/index3/index_2520/'>mind</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b1dacc9bc"
@@ -24,7 +24,7 @@ order: '591'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,3069,481/full/0/default.jpg
 label: Mind
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

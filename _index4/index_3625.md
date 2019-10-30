@@ -3,7 +3,7 @@ pid: index_3625
 volume: Volume 3
 image_number: '42'
 head: Self praise
-entry: "<a href='/New_Beehive/alpha4/alpha_0846/'>a</a>|784 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0846/'>a</a>|784 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3625'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/399,2117,595,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/399,2117,595,103/full/0/default.jpg
 label: Self praise
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_2322
 volume: Volume 3
 image_number: '29'
 head: long
-entry: "<a href='/New_Beehive/alpha3/alpha_0543/'>a</a>|820 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha3/alpha_0543/'>a</a>|820 [PAGE_MISSING]"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2322'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/189,224,373,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/189,224,373,162/full/0/default.jpg
 label: long
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

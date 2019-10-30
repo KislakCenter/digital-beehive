@@ -6,12 +6,12 @@ head:
 entry: Library
 topic: Library
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0092/'>Book</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0092/'>Book</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2277/'>library</a>"
+index: "<a href='/digital-beehive/index3/index_2277/'>library</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ae386080e"
@@ -24,7 +24,7 @@ order: '533'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/779,490,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/779,490,3011,546/full/0/default.jpg
 label: Library
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

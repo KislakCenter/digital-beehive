@@ -3,7 +3,7 @@ pid: index_1832
 volume: Volume 3
 image_number: '24'
 head: Hieronymus
-entry: "<a href='/New_Beehive/toc/toc2_309/'>1572 [Hieronymus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1572 [Hieronymus]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1832'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/430,2069,605,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/430,2069,605,152/full/0/default.jpg
 label: Hieronymus
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -6,13 +6,13 @@ head:
 entry: Providence
 topic: Providence
 first_letter: P
-xref: "<a href='/New_Beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/New_Beehive/alpha1/alpha_0131/'>Caution</a>|<a
-  href='/New_Beehive/toc/toc2_271/'>1390 [Providence]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|<a
+  href='/digital-beehive/toc/toc2_271/'>1390 [Providence]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3212/'>providence</a>"
+index: "<a href='/digital-beehive/index4/index_3212/'>providence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-786e4fb0f"
@@ -26,7 +26,7 @@ order: '749'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/737,2988,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/737,2988,3043,581/full/0/default.jpg
 label: Providence
-location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

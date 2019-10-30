@@ -3,7 +3,7 @@ pid: index_1094
 volume: Volume 3
 image_number: '17'
 head: to dispossess
-entry: "<a href='/New_Beehive/toc/toc2_152/'>683 [To Dispossess]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_152/'>683 [To Dispossess]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1094'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/112,2821,544,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/112,2821,544,115/full/0/default.jpg
 label: to dispossess
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,8 +3,8 @@ pid: index_0337
 volume: Volume 3
 image_number: '9'
 head: begging
-entry: "<a href='/New_Beehive/alpha1/alpha_0073/'>a</a>|<a href='/New_Beehive/toc/toc2_260/'>1335
-  [Begging]</a>|<a href='/New_Beehive/toc/toc2_397/'>2270 [Begging]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0073/'>a</a>|<a href='/digital-beehive/toc/toc2_260/'>1335
+  [Begging]</a>|<a href='/digital-beehive/toc/toc2_397/'>2270 [Begging]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '337'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,3424,729,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,3424,729,123/full/0/default.jpg
 label: begging
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

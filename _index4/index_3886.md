@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index4/index_3066/'>politick</a>"
+see: "<a href='/digital-beehive/index4/index_3066/'>politick</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3886'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/full/0/default.jpg
 label: statist
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

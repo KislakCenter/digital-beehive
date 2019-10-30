@@ -6,7 +6,7 @@ head:
 entry: Will of God
 topic: Will of God
 first_letter: W
-xref: "<a href='/New_Beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/New_Beehive/toc/toc2_197/'>1019
+xref: "<a href='/digital-beehive/alpha2/alpha_0368/'>Gods Providence</a>|<a href='/digital-beehive/toc/toc2_197/'>1019
   [Gods Will]</a>"
 see: 
 page: 
@@ -26,7 +26,7 @@ order: '1025'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/819,4597,2904,470/full/0/default.jpg
 label: Will of God
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

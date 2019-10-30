@@ -6,12 +6,12 @@ head:
 entry: Future
 topic: Future
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_278/'>1421 [Future]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Future]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1571/'>future</a>"
+index: "<a href='/digital-beehive/index2/index_1571/'>future</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bc91c9cd4"
@@ -24,7 +24,7 @@ order: '353'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,3009,655/full/0/default.jpg
 label: Future
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

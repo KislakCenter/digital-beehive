@@ -3,8 +3,8 @@ pid: index_4300
 volume: Volume 3
 image_number: '49'
 head: various lections
-entry: "<a href='/New_Beehive/toc/toc2_091/'>301 [Uncertainty of the Scriptures]</a>|<a
-  href='/New_Beehive/toc/toc2_086/'>263 [Dittology]</a>|<a href='/New_Beehive/toc/toc2_198/'>1022
+entry: "<a href='/digital-beehive/toc/toc2_091/'>301 [Uncertainty of the Scriptures]</a>|<a
+  href='/digital-beehive/toc/toc2_086/'>263 [Dittology]</a>|<a href='/digital-beehive/toc/toc2_198/'>1022
   [Uncertainty of the Scriptures]</a>"
 topic: 
 first_letter: U/V
@@ -27,7 +27,7 @@ order: '4300'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/full/0/default.jpg
 label: various lections
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

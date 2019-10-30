@@ -6,13 +6,13 @@ head:
 entry: Leader
 topic: Leader
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/New_Beehive/toc/toc2_249/'>1280
+xref: "<a href='/digital-beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/digital-beehive/toc/toc2_249/'>1280
   [Leader]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2232/'>leader</a>"
+index: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e94eb3b2e"
@@ -26,7 +26,7 @@ order: '522'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,3071,469/full/0/default.jpg
 label: Leader
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

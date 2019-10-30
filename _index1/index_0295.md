@@ -3,7 +3,7 @@ pid: index_0295
 volume: Volume 3
 image_number: '9'
 head: barefooted
-entry: "<a href='/New_Beehive/toc/toc2_357/'>1939 [Barefooted]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Barefooted]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '295'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/full/0/default.jpg
 label: barefooted
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

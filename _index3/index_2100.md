@@ -3,7 +3,7 @@ pid: index_2100
 volume: Volume 3
 image_number: '26'
 head: Job
-entry: "<a href='/New_Beehive/toc/toc2_295/'>1507 [Job]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_295/'>1507 [Job]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2100'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1825,1969,335,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1825,1969,335,136/full/0/default.jpg
 label: Job
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

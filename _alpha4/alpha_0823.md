@@ -6,13 +6,13 @@ head:
 entry: Satyre
 topic: Satyre
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1062/'>Zoilus</a>|<a href='/New_Beehive/toc/toc2_270/'>1384
+xref: "<a href='/digital-beehive/alpha5/alpha_1062/'>Zoilus</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
   [Satyr]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3524/'>Satyre</a>"
+index: "<a href='/digital-beehive/index4/index_3524/'>Satyre</a>"
 insertion_xref: 
 insertion: 
 item: "#item-407803ef9"
@@ -25,7 +25,7 @@ order: '823'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
 label: Satyre
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

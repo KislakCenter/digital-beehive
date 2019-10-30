@@ -3,7 +3,7 @@ pid: index_3799
 volume: Volume 3
 image_number: '44'
 head: soothsayers
-entry: "<a href='/New_Beehive/toc/toc2_061/'>41 [False Prophets]</a>|<a href='/New_Beehive/toc/toc2_309/'>1571
+entry: "<a href='/digital-beehive/toc/toc2_061/'>41 [False Prophets]</a>|<a href='/digital-beehive/toc/toc2_309/'>1571
   [Soothsayers]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3799'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,902,543,186/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,902,543,186/full/0/default.jpg
 label: soothsayers
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Dog
 topic: Dog
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_261/'>1338 [Dog]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_261/'>1338 [Dog]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1126/'>dog</a>"
+index: "<a href='/digital-beehive/index1/index_1126/'>dog</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b80ead891"
@@ -24,7 +24,7 @@ order: '256'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,3026,434/full/0/default.jpg
 label: Dog
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

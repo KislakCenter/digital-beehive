@@ -3,7 +3,7 @@ pid: index_3800
 volume: Volume 3
 image_number: '44'
 head: sop
-entry: "<a href='/New_Beehive/alpha4/alpha_0887/'>a</a>|<a href='/New_Beehive/toc/toc2_127/'>540
+entry: "<a href='/digital-beehive/alpha4/alpha_0887/'>a</a>|<a href='/digital-beehive/toc/toc2_127/'>540
   [WORD_MISSING]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3800'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/581,1115,367,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/581,1115,367,107/full/0/default.jpg
 label: sop
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

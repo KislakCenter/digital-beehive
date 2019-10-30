@@ -6,12 +6,12 @@ head:
 entry: Drinking of Health
 topic: Drinking of Health
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_274/'>1403 [Drinking of healths]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_274/'>1403 [Drinking of healths]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1778/'>drinking of health</a>"
+index: "<a href='/digital-beehive/index2/index_1778/'>drinking of health</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2b1f4b265"
@@ -25,7 +25,7 @@ order: '403'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,3055,384/full/0/default.jpg
 label: Drinking of Health
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

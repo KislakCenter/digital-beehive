@@ -3,7 +3,7 @@ pid: index_0773
 volume: Volume 3
 image_number: '14'
 head: concerning
-entry: "<a href='/New_Beehive/toc/toc2_230/'>1185 [Concerning]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_230/'>1185 [Concerning]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '773'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/full/0/default.jpg
 label: concerning
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

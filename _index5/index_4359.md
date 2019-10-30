@@ -3,7 +3,7 @@ pid: index_4359
 volume: Volume 3
 image_number: '50'
 head: unbecoming
-entry: "<a href='/New_Beehive/toc/toc2_157/'>709 [Unseemly]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_157/'>709 [Unseemly]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4359'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/469,1195,578,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/469,1195,578,149/full/0/default.jpg
 label: unbecoming
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

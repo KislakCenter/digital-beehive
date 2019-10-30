@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: E
 xref: 
-see: "<a href='/New_Beehive/index4/index_3471/'>run away</a>"
+see: "<a href='/digital-beehive/index4/index_3471/'>run away</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1229'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,2778,564,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,2778,564,164/full/0/default.jpg
 label: elope
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

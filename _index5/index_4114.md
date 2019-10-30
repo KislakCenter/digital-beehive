@@ -3,7 +3,7 @@ pid: index_4114
 volume: Volume 3
 image_number: '47'
 head: therefore
-entry: "<a href='/New_Beehive/toc/toc2_173/'>927 [Therefore]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_173/'>927 [Therefore]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4114'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,1263,374,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,1263,374,107/full/0/default.jpg
 label: therefore
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

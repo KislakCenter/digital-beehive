@@ -8,7 +8,7 @@ topic:
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3010'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,1280,547,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,1280,547,134/full/0/default.jpg
 label: pillar
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

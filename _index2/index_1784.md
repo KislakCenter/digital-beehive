@@ -3,7 +3,7 @@ pid: index_1784
 volume: Volume 3
 image_number: '23'
 head: heathens moderation
-entry: "<a href='/New_Beehive/toc/toc2_260/'>1331 [Moderation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_260/'>1331 [Moderation]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1784'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1540,1056,614,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1540,1056,614,85/full/0/default.jpg
 label: heathens moderation
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

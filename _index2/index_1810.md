@@ -3,7 +3,7 @@ pid: index_1810
 volume: Volume 3
 image_number: '23'
 head: hereafter
-entry: "<a href='/New_Beehive/toc/toc2_280/'>1431 [Hereafter]</a>|<a href='/New_Beehive/toc/toc2_090/'>292
+entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Hereafter]</a>|<a href='/digital-beehive/toc/toc2_090/'>292
   [Afterwards]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1810'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/full/0/default.jpg
 label: hereafter
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

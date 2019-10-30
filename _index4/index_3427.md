@@ -3,7 +3,7 @@ pid: index_3427
 volume: Volume 3
 image_number: '40'
 head: right or wrong
-entry: "<a href='/New_Beehive/toc/toc2_337/'>1727 [Ill gotten goods]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill gotten goods]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3427'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/full/0/default.jpg
 label: right or wrong
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

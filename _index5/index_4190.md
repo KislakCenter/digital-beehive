@@ -3,7 +3,7 @@ pid: index_4190
 volume: Volume 3
 image_number: '48'
 head: tooth
-entry: "<a href='/New_Beehive/alpha5/alpha_0959/'>a</a>|<a href='/New_Beehive/toc/toc2_251/'>1286
+entry: "<a href='/digital-beehive/alpha5/alpha_0959/'>a</a>|<a href='/digital-beehive/toc/toc2_251/'>1286
   [Tooth]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4190'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,2670,493,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,2670,493,116/full/0/default.jpg
 label: tooth
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

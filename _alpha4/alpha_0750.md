@@ -6,13 +6,13 @@ head:
 entry: Prudence
 topic: Prudence
 first_letter: P
-xref: "<a href='/New_Beehive/alpha5/alpha_1030/'>Wisdom</a>|Wit|<a href='/New_Beehive/toc/toc2_359/'>1954
+xref: "<a href='/digital-beehive/alpha5/alpha_1030/'>Wisdom</a>|Wit|<a href='/digital-beehive/toc/toc2_359/'>1954
   [Prudence]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3216/'>prudence</a>"
+index: "<a href='/digital-beehive/index4/index_3216/'>prudence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-65603f9c3"
@@ -26,7 +26,7 @@ order: '750'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,2996,489/full/0/default.jpg
 label: Prudence
-location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_0037
 volume: Volume 3
 image_number: '7'
 head: activity
-entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Nimble]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_156/'>703 [Nimble]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '37'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3349,463,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3349,463,131/full/0/default.jpg
 label: activity
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

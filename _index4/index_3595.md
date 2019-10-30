@@ -3,7 +3,7 @@ pid: index_3595
 volume: Volume 3
 image_number: '41'
 head: seeking
-entry: "<a href='/New_Beehive/toc/toc2_068/'>114 [Seeking]</a>|<a href='/New_Beehive/toc/toc2_355/'>1927
+entry: "<a href='/digital-beehive/toc/toc2_068/'>114 [Seeking]</a>|<a href='/digital-beehive/toc/toc2_355/'>1927
   [Seeking]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3595'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1594,3021,557,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1594,3021,557,156/full/0/default.jpg
 label: seeking
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

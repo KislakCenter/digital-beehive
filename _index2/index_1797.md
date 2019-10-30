@@ -3,7 +3,7 @@ pid: index_1797
 volume: Volume 3
 image_number: '23'
 head: helpless
-entry: "<a href='/New_Beehive/toc/toc2_141/'>620 [Despair]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1797'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1535,2353,439,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1535,2353,439,124/full/0/default.jpg
 label: helpless
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

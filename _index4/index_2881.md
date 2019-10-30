@@ -3,7 +3,7 @@ pid: index_2881
 volume: Volume 3
 image_number: '34'
 head: parents
-entry: "<a href='/New_Beehive/alpha4/alpha_0673/'>a</a>|<a href='/New_Beehive/toc/toc2_431/'>4811
+entry: "<a href='/digital-beehive/alpha4/alpha_0673/'>a</a>|<a href='/digital-beehive/toc/toc2_431/'>4811
   [WORD_MISSING]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '2881'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1159,1719,533,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1159,1719,533,102/full/0/default.jpg
 label: parents
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

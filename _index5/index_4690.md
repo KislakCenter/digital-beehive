@@ -3,7 +3,7 @@ pid: index_4690
 volume: Volume 3
 image_number: '54'
 head: womb
-entry: "<a href='/New_Beehive/toc/toc2_377/'>2114 [Womb]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2114 [Womb]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4690'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,3484,590,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,3484,590,153/full/0/default.jpg
 label: womb
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4044/'>table talks</a>"
+index: "<a href='/digital-beehive/index5/index_4044/'>table talks</a>"
 insertion_xref: 
 insertion: 
 item: "#item-16e6d7be1"
@@ -24,7 +24,7 @@ order: '927'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/329,1673,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/329,1673,3145,441/full/0/default.jpg
 label: Table-talks
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,7 +3,7 @@ pid: index_2170
 volume: Volume 3
 image_number: '27'
 head: kneeling
-entry: "<a href='/New_Beehive/alpha3/alpha_0502/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0502/'>a</a>"
 topic: 
 first_letter: K
 xref: 
@@ -24,7 +24,7 @@ order: '2170'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,1895,411,182/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,1895,411,182/full/0/default.jpg
 label: kneeling
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

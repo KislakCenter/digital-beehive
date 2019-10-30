@@ -3,7 +3,7 @@ pid: index_1451
 volume: Volume 3
 image_number: '20'
 head: to finish
-entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [To Finish]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [To Finish]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1451'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1781,521,530,203/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1781,521,530,203/full/0/default.jpg
 label: to finish
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

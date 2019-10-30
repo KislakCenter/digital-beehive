@@ -3,7 +3,7 @@ pid: index_2257
 volume: Volume 3
 image_number: '28'
 head: leprosie
-entry: "<a href='/New_Beehive/alpha3/alpha_0527/'>a</a>|<a href='/New_Beehive/toc/toc2_380/'>2141
+entry: "<a href='/digital-beehive/alpha3/alpha_0527/'>a</a>|<a href='/digital-beehive/toc/toc2_380/'>2141
   [Leprosie]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2257'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1145,392,610,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1145,392,610,123/full/0/default.jpg
 label: leprosie
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

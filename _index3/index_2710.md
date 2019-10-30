@@ -3,7 +3,7 @@ pid: index_2710
 volume: Volume 3
 image_number: '32'
 head: night
-entry: "<a href='/New_Beehive/alpha3/alpha_0636/'>a</a>|<a href='/New_Beehive/toc/toc2_220/'>1131
+entry: "<a href='/digital-beehive/alpha3/alpha_0636/'>a</a>|<a href='/digital-beehive/toc/toc2_220/'>1131
   [Night]</a>"
 topic: 
 first_letter: N
@@ -25,7 +25,7 @@ order: '2710'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,3240,492,164/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,3240,492,164/full/0/default.jpg
 label: night
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

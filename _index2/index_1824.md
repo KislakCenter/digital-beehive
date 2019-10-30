@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: H
 xref: 
-see: "<a href='/New_Beehive/index4/index_3876/'>stam[m]ering</a>|non plust"
+see: "<a href='/digital-beehive/index4/index_3876/'>stam[m]ering</a>|non plust"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1824'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/full/0/default.jpg
 label: hesitation
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

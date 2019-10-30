@@ -6,13 +6,13 @@ head:
 entry: Increase
 topic: Increase
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/New_Beehive/toc/toc2_138/'>604
+xref: "<a href='/digital-beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/digital-beehive/toc/toc2_138/'>604
   [Increase]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2008/'>increase</a>"
+index: "<a href='/digital-beehive/index3/index_2008/'>increase</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ecb0ab2df"
@@ -26,7 +26,7 @@ order: '468'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,3086,413/full/0/default.jpg
 label: Increase
-location: "<a href='/New_Beehive/toc/toc2_013/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

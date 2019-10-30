@@ -3,7 +3,7 @@ pid: index_0830
 volume: Volume 3
 image_number: '14'
 head: contrariety. ècontrà
-entry: "<a href='/New_Beehive/toc/toc2_153/'>690 [Contrariety]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>690 [Contrariety]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '830'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/full/0/default.jpg
 label: contrariety. ècontrà
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

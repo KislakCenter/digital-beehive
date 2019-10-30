@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1370/'>eye</a>"
+index: "<a href='/digital-beehive/index2/index_1370/'>eye</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a6db77dc0"
@@ -24,7 +24,7 @@ order: '303'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/399,3236,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/399,3236,3012,505/full/0/default.jpg
 label: Eye
-location: "<a href='/New_Beehive/toc/toc1_445/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

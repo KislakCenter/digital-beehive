@@ -3,8 +3,8 @@ pid: index_3073
 volume: Volume 3
 image_number: '36'
 head: popery
-entry: "<a href='/New_Beehive/toc/toc2_106/'>403 [Papists]</a>|<a href='/New_Beehive/toc/toc2_328/'>1668
-  [Papists]</a>|<a href='/New_Beehive/toc/toc2_349/'>1821 [Papists]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_106/'>403 [Papists]</a>|<a href='/digital-beehive/toc/toc2_328/'>1668
+  [Papists]</a>|<a href='/digital-beehive/toc/toc2_349/'>1821 [Papists]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3073'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1187,584,733,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1187,584,733,168/full/0/default.jpg
 label: popery
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

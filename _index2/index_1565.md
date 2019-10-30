@@ -3,8 +3,8 @@ pid: index_1565
 volume: Volume 3
 image_number: '21'
 head: funeral Com[m]endations
-entry: "<a href='/New_Beehive/toc/toc2_208/'>1071 [Funeral Commendation]</a>|<a href='/New_Beehive/toc/toc2_264/'>1351
-  [Funeral Commendations]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_208/'>1071 [Funeral Commendation]</a>|<a
+  href='/digital-beehive/toc/toc2_264/'>1351 [Funeral Commendations]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -26,7 +26,7 @@ order: '1565'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,936,792,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,936,792,165/full/0/default.jpg
 label: funeral Com[m]endations
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

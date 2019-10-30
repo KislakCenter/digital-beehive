@@ -6,12 +6,12 @@ head:
 entry: Tax
 topic: Tax
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_265/'>1359 [The Favour of Princes]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_265/'>1359 [The Favour of Princes]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4069/'>tax</a>"
+index: "<a href='/digital-beehive/index5/index_4069/'>tax</a>"
 insertion_xref: 
 insertion: 
 item: "#item-71ea8abaf"
@@ -24,7 +24,7 @@ order: '930'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/359,2644,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/359,2644,3057,494/full/0/default.jpg
 label: Tax
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

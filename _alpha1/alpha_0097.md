@@ -6,12 +6,12 @@ head:
 entry: Breast
 topic: Breast
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0404/'>heart</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0404/'>heart</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0445/'>breast</a>"
+index: "<a href='/digital-beehive/index1/index_0445/'>breast</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c36f426c7"
@@ -24,7 +24,7 @@ order: '97'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/881,1065,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/881,1065,2914,416/full/0/default.jpg
 label: Breast
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

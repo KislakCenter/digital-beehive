@@ -3,14 +3,14 @@ pid: index_2564
 volume: Volume 3
 image_number: '31'
 head: money
-entry: "<a href='/New_Beehive/alpha3/alpha_0599/'>a</a>|<a href='/New_Beehive/toc/toc2_243/'>1249
-  [Money]</a>|<a href='/New_Beehive/toc/toc2_365/'>1999 [Money]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0599/'>a</a>|<a href='/digital-beehive/toc/toc2_243/'>1249
+  [Money]</a>|<a href='/digital-beehive/toc/toc2_365/'>1999 [Money]</a>"
 topic: 
 first_letter: M
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_081/'>p.31 [Image 1.91]</a>"
-add: "<a href='/New_Beehive/index1/index_0874/'>Counterfeit</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_081/'>p.31 [Image 1.91]</a>"
+add: "<a href='/digital-beehive/index1/index_0874/'>Counterfeit</a>"
 type: 
 index: 
 insertion_xref: 
@@ -26,7 +26,7 @@ order: '2564'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/851,362,818,190/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/851,362,818,190/full/0/default.jpg
 label: money
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

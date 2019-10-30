@@ -3,8 +3,8 @@ pid: index_1420
 volume: Volume 3
 image_number: '20'
 head: fear
-entry: "<a href='/New_Beehive/alpha2/alpha_0319/'>a</a>|<a href='/New_Beehive/toc/toc2_131/'>566
-  [Fear]</a>|<a href='/New_Beehive/toc/toc2_225/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha2/alpha_0319/'>a</a>|<a href='/digital-beehive/toc/toc2_131/'>566
+  [Fear]</a>|<a href='/digital-beehive/toc/toc2_225/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
 topic: 
 first_letter: F
 xref: 
@@ -25,7 +25,7 @@ order: '1420'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1014,658,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1014,658,184/full/0/default.jpg
 label: fear
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_0849
 volume: Volume 3
 image_number: '14'
 head: cord
-entry: "<a href='/New_Beehive/toc/toc2_098/'>348 [A rope]</a>|773 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [A rope]</a>|773 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '849'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1777,2623,548,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1777,2623,548,114/full/0/default.jpg
 label: cord
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

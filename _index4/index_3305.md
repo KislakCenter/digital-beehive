@@ -3,7 +3,7 @@ pid: index_3305
 volume: Volume 3
 image_number: '38'
 head: raw
-entry: "<a href='/New_Beehive/toc/toc2_151/'>678 [Raw]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_151/'>678 [Raw]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3305'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1847,1581,425,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1847,1581,425,150/full/0/default.jpg
 label: raw
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

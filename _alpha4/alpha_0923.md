@@ -6,12 +6,13 @@ head:
 entry: Surety
 topic: Surety|Suretyship
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_170/'>914 [Security, he that promises for another]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, he that promises for
+  another]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_4003/'>surity. bürger</a>"
+index: "<a href='/digital-beehive/index4/index_4003/'>surity. bürger</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b60087f8f"
@@ -25,7 +26,7 @@ order: '923'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,704,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,704,3125,426/full/0/default.jpg
 label: Surety
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

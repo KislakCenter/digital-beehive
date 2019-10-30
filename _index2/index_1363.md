@@ -3,9 +3,9 @@ pid: index_1363
 volume: Volume 3
 image_number: '19'
 head: external worship
-entry: "<a href='/New_Beehive/alpha2/alpha_0302/'>a</a>|<a href='/New_Beehive/toc/toc2_078/'>207
-  [Outside religion]</a>|<a href='/New_Beehive/toc/toc2_267/'>1369 [Outside Religion]</a>|<a
-  href='/New_Beehive/toc/toc2_365/'>1998 [External Worship]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>|<a href='/digital-beehive/toc/toc2_078/'>207
+  [Outside religion]</a>|<a href='/digital-beehive/toc/toc2_267/'>1369 [Outside Religion]</a>|<a
+  href='/digital-beehive/toc/toc2_365/'>1998 [External Worship]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -27,7 +27,7 @@ order: '1363'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1504,2471,727,171/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1504,2471,727,171/full/0/default.jpg
 label: external worship
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_2081
 volume: Volume 3
 image_number: '26'
 head: in the mean time
-entry: "<a href='/New_Beehive/toc/toc2_140/'>613 [In the mean time]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_140/'>613 [In the mean time]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2081'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1165,3479,624,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1165,3479,624,118/full/0/default.jpg
 label: in the mean time
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

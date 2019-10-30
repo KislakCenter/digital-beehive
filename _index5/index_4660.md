@@ -3,7 +3,7 @@ pid: index_4660
 volume: Volume 3
 image_number: '53'
 head: Zuz
-entry: "<a href='/New_Beehive/toc/toc2_354/'>1917 [Zuz]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1917 [Zuz]</a>"
 topic: 
 first_letter: Z
 xref: 
@@ -24,7 +24,7 @@ order: '4660'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/2039,3496,281,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/2039,3496,281,121/full/0/default.jpg
 label: Zuz
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

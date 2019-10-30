@@ -3,7 +3,7 @@ pid: index_2199
 volume: Volume 3
 image_number: '27'
 head: lapidaria
-entry: "<a href='/New_Beehive/toc/toc2_275/'>EntryL 1406 [Lapidaria]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_275/'>1406 [Lapidaria]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -16,7 +16,7 @@ insertion_xref:
 insertion: 
 item: "#item-ac2b3087d"
 unparsed: 
-line: 'Head: lapidaria|EntryL 1406 [Lapidaria]|#item-ac2b3087d'
+line: 'Head: lapidaria|Entry: 1406 [Lapidaria]|#item-ac2b3087d'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1552,1025,502,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559835265165
@@ -24,7 +24,7 @@ order: '2199'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1552,1025,502,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1552,1025,502,156/full/0/default.jpg
 label: lapidaria
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

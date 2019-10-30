@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2116/'>iron</a>"
+index: "<a href='/digital-beehive/index3/index_2116/'>iron</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a5dae48ef"
@@ -24,7 +24,7 @@ order: '489'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/720,3378,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/720,3378,2955,378/full/0/default.jpg
 label: Iron
-location: "<a href='/New_Beehive/toc/toc2_014/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

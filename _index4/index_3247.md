@@ -3,9 +3,9 @@ pid: index_3247
 volume: Volume 3
 image_number: '38'
 head: Quakers
-entry: "<a href='/New_Beehive/alpha4/alpha_0757/'>a</a>|<a href='/New_Beehive/toc/toc2_206/'>1063
-  [Quakers]</a>|<a href='/New_Beehive/toc/toc2_298/'>1516 [Quaker]</a>|<a href='/New_Beehive/toc/toc2_394/'>2252
-  [Quakers]</a>|<a href='/New_Beehive/toc/toc2_420/'>2433 [Quakers]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1063
+  [Quakers]</a>|<a href='/digital-beehive/toc/toc2_298/'>1516 [Quaker]</a>|<a href='/digital-beehive/toc/toc2_394/'>2252
+  [Quakers]</a>|<a href='/digital-beehive/toc/toc2_420/'>2433 [Quakers]</a>"
 topic: 
 first_letter: Q
 xref: 
@@ -27,7 +27,7 @@ order: '3247'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/359,2896,1145,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/359,2896,1145,165/full/0/default.jpg
 label: Quakers
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_0460
 volume: Volume 3
 image_number: '11'
 head: to bring
-entry: "<a href='/New_Beehive/alpha1/alpha_0102/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0102/'>a</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '460'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/159,2880,395,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/159,2880,395,119/full/0/default.jpg
 label: to bring
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

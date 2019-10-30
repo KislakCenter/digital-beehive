@@ -3,7 +3,7 @@ pid: index_4636
 volume: Volume 3
 image_number: '53'
 head: wrong
-entry: "<a href='/New_Beehive/toc/toc2_058/'>5 [Wrong]</a>|<a href='/New_Beehive/toc/toc2_217/'>1116
+entry: "<a href='/digital-beehive/toc/toc2_058/'>5 [Wrong]</a>|<a href='/digital-beehive/toc/toc2_217/'>1116
   [Injury]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4636'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,1276,430,192/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,1276,430,192/full/0/default.jpg
 label: wrong
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

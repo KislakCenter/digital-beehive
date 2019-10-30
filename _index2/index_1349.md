@@ -3,7 +3,7 @@ pid: index_1349
 volume: Volume 3
 image_number: '19'
 head: exorable
-entry: "<a href='/New_Beehive/toc/toc2_285/'>1457 [Exorable]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_285/'>1457 [Exorable]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1349'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1537,1000,547,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1537,1000,547,115/full/0/default.jpg
 label: exorable
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

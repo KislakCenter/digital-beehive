@@ -3,7 +3,7 @@ pid: index_3414
 volume: Volume 3
 image_number: '40'
 head: rhetorick
-entry: "<a href='/New_Beehive/toc/toc2_116/'>472 [Rhetorick]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_116/'>472 [Rhetorick]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3414'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,996,511,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,996,511,144/full/0/default.jpg
 label: rhetorick
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

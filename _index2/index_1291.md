@@ -3,7 +3,7 @@ pid: index_1291
 volume: Volume 3
 image_number: '19'
 head: equivocation
-entry: "<a href='/New_Beehive/alpha2/alpha_0290/'>a</a>|<a href='/New_Beehive/toc/toc2_385/'>2198
+entry: "<a href='/digital-beehive/alpha2/alpha_0290/'>a</a>|<a href='/digital-beehive/toc/toc2_385/'>2198
   [Equivocation]</a>"
 topic: 
 first_letter: E
@@ -25,7 +25,7 @@ order: '1291'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/full/0/default.jpg
 label: equivocation
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

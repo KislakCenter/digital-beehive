@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: H
 xref: 
-see: "<a href='/New_Beehive/index1/index_0986/'>deer</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
+see: "<a href='/digital-beehive/index1/index_0986/'>deer</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1763'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2197,549,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2197,549,133/full/0/default.jpg
 label: hart
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

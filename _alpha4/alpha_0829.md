@@ -6,14 +6,14 @@ head:
 entry: Scripture
 topic: Scripture
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/New_Beehive/alpha5/alpha_1057/'>Writing</a>|<a
-  href='/New_Beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/New_Beehive/toc/toc2_064/'>77
-  [Scripture]</a>|<a href='/New_Beehive/toc/toc2_064/'>77 [Scriptures]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/digital-beehive/alpha5/alpha_1057/'>Writing</a>|<a
+  href='/digital-beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/digital-beehive/toc/toc2_064/'>77
+  [Scripture]</a>|<a href='/digital-beehive/toc/toc2_064/'>77 [Scriptures]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3560/'>Scriptures</a>"
+index: "<a href='/digital-beehive/index4/index_3560/'>Scriptures</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c396df05a"
@@ -27,7 +27,7 @@ order: '829'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,3024,590/full/0/default.jpg
 label: Scripture
-location: "<a href='/New_Beehive/toc/toc2_040/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

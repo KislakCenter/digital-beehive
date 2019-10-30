@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index3/index_2583/'>Morning</a>"
+see: "<a href='/digital-beehive/index3/index_2583/'>Morning</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '249'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/full/0/default.jpg
 label: aurora
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

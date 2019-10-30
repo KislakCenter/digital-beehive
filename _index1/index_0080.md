@@ -3,7 +3,7 @@ pid: index_0080
 volume: Volume 3
 image_number: '7'
 head: to agree
-entry: "<a href='/New_Beehive/toc/toc2_288/'>1471 [To Agree]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1471 [To Agree]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '80'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/892,3371,466,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/892,3371,466,132/full/0/default.jpg
 label: to agree
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

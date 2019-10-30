@@ -6,13 +6,13 @@ head:
 entry: Washing
 topic: Washing
 first_letter: W
-xref: "<a href='/New_Beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/New_Beehive/alpha4/alpha_0755/'>Purity</a>|<a
-  href='/New_Beehive/alpha3/alpha_0612/'>mouth</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/digital-beehive/alpha4/alpha_0755/'>Purity</a>|<a
+  href='/digital-beehive/alpha3/alpha_0612/'>mouth</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4483/'>washing</a>"
+index: "<a href='/digital-beehive/index5/index_4483/'>washing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1ad01851b"
@@ -26,7 +26,7 @@ order: '1012'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/330,4310,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/330,4310,3003,417/full/0/default.jpg
 label: Washing
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

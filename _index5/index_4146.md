@@ -3,7 +3,7 @@ pid: index_4146
 volume: Volume 3
 image_number: '47'
 head: Tiberius C[ae]sar
-entry: "<a href='/New_Beehive/toc/toc2_411/'>2361 [Tiberius C[ae]sar]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_411/'>2361 [Tiberius C[ae]sar]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4146'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1543,1164,686,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1543,1164,686,109/full/0/default.jpg
 label: Tiberius C[ae]sar
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

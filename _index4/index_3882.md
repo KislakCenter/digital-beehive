@@ -3,7 +3,7 @@ pid: index_3882
 volume: Volume 3
 image_number: '45'
 head: state
-entry: "<a href='/New_Beehive/toc/toc2_166/'>891 [State]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [State]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3882'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/210,281,365,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/210,281,365,105/full/0/default.jpg
 label: state
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

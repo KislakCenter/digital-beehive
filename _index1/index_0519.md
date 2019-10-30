@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0008/'>ability</a>"
+see: "<a href='/digital-beehive/index1/index_0008/'>ability</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '519'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,1449,594,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,1449,594,128/full/0/default.jpg
 label: I can
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

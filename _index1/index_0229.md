@@ -7,7 +7,7 @@ entry: 4776 [PAGE_MISSING]
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index5/index_4601/'>wonder</a>"
+see: "<a href='/digital-beehive/index5/index_4601/'>wonder</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '229'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1804,3095,663,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1804,3095,663,179/full/0/default.jpg
 label: astonishmt
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

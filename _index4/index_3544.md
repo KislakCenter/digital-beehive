@@ -3,7 +3,7 @@ pid: index_3544
 volume: Volume 3
 image_number: '41'
 head: scepticism
-entry: "<a href='/New_Beehive/toc/toc2_244/'>1254 [Scepticism]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_244/'>1254 [Scepticism]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3544'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,633,546,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,633,546,139/full/0/default.jpg
 label: scepticism
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index3/index_2333/'>Lord</a>"
+see: "<a href='/digital-beehive/index3/index_2333/'>Lord</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2546'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/185,1548,510,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/185,1548,510,156/full/0/default.jpg
 label: mistress
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

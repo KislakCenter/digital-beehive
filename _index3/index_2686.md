@@ -3,7 +3,7 @@ pid: index_2686
 volume: Volume 3
 image_number: '32'
 head: nerve
-entry: "<a href='/New_Beehive/toc/toc2_323/'>1641 [Nerve or Sinew]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1641 [Nerve or Sinew]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2686'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1173,842,392,75/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1173,842,392,75/full/0/default.jpg
 label: nerve
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

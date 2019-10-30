@@ -3,12 +3,12 @@ pid: index_3095
 volume: Volume 3
 image_number: '36'
 head: potter
-entry: "<a href='/New_Beehive/toc/toc2_167/'>897 [Potter]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_167/'>897 [Potter]</a>"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3095'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1149,2772,601,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1149,2772,601,146/full/0/default.jpg
 label: potter
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

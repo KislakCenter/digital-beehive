@@ -6,12 +6,12 @@ head:
 entry: Element
 topic: Element
 first_letter: E
-xref: "<a href='/New_Beehive/toc/toc2_375/'>2092 [Element]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_375/'>2092 [Element]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1223/'>element</a>"
+index: "<a href='/digital-beehive/index2/index_1223/'>element</a>"
 insertion_xref: 
 insertion: 
 item: "#item-741f9b803"
@@ -24,7 +24,7 @@ order: '278'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/362,1061,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/362,1061,3125,415/full/0/default.jpg
 label: Element
-location: "<a href='/New_Beehive/toc/toc1_443/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

@@ -3,7 +3,7 @@ pid: index_1281
 volume: Volume 3
 image_number: '19'
 head: epidemical
-entry: "<a href='/New_Beehive/toc/toc2_259/'>1330 [To infect]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1281'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/full/0/default.jpg
 label: epidemical
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

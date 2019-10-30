@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1581/'>garden</a>"
+index: "<a href='/digital-beehive/index2/index_1581/'>garden</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a287d6012"
@@ -24,7 +24,7 @@ order: '354'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/774,218,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/774,218,2999,501/full/0/default.jpg
 label: Garden
-location: "<a href='/New_Beehive/toc/toc2_004/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

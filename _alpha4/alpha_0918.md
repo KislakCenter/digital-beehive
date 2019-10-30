@@ -6,13 +6,13 @@ head:
 entry: Sun
 topic: Sun
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_245/'>1256 [World]</a>|<a href='/New_Beehive/toc/toc2_265/'>1357
+xref: "<a href='/digital-beehive/toc/toc2_245/'>1256 [World]</a>|<a href='/digital-beehive/toc/toc2_265/'>1357
   [Sun]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3983/'>sun</a>"
+index: "<a href='/digital-beehive/index4/index_3983/'>sun</a>"
 insertion_xref: 
 insertion: 
 item: "#item-21648fee6"
@@ -25,7 +25,7 @@ order: '918'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/771,3280,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/771,3280,2977,606/full/0/default.jpg
 label: Sun
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_0872
 volume: Volume 3
 image_number: '15'
 head: counsel
-entry: "<a href='/New_Beehive/alpha1/alpha_0182/'>a</a>|<a href='/New_Beehive/toc/toc2_236/'>1215
+entry: "<a href='/digital-beehive/alpha1/alpha_0182/'>a</a>|<a href='/digital-beehive/toc/toc2_236/'>1215
   [Counsel]</a>|4753 [PAGE_MISSING]"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '872'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/full/0/default.jpg
 label: counsel
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

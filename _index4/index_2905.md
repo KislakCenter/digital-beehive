@@ -3,7 +3,7 @@ pid: index_2905
 volume: Volume 3
 image_number: '34'
 head: passive obed
-entry: "<a href='/New_Beehive/toc/toc2_384/'>2189 [Passive obedience & non resistance]</a>|Entry
+entry: "<a href='/digital-beehive/toc/toc2_384/'>2189 [Passive obedience & non resistance]</a>|Entry
   4626 [PAGE_MISSING]"
 topic: 
 first_letter: P
@@ -26,7 +26,7 @@ order: '2905'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,424,713,198/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,424,713,198/full/0/default.jpg
 label: passive obed
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

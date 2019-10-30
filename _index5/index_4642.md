@@ -3,7 +3,7 @@ pid: index_4642
 volume: Volume 3
 image_number: '53'
 head: year of release
-entry: "<a href='/New_Beehive/toc/toc2_277/'>1418 [To Remit]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1418 [To Remit]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -24,7 +24,7 @@ order: '4642'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1601,1950,602,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1601,1950,602,124/full/0/default.jpg
 label: year of release
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

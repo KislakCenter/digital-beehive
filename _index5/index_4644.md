@@ -3,7 +3,7 @@ pid: index_4644
 volume: Volume 3
 image_number: '53'
 head: yellow
-entry: "<a href='/New_Beehive/toc/toc2_146/'>647 [Yellow]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>647 [Yellow]</a>"
 topic: 
 first_letter: Y
 xref: 
@@ -24,7 +24,7 @@ order: '4644'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1546,2134,458,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1546,2134,458,118/full/0/default.jpg
 label: yellow
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

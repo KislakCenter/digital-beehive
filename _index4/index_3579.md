@@ -3,7 +3,7 @@ pid: index_3579
 volume: Volume 3
 image_number: '41'
 head: seasonable
-entry: "<a href='/New_Beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/New_Beehive/toc/toc2_386/'>2203
+entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
   [Seasonable Opportunity]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3579'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1545,1113,761,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1545,1113,761,127/full/0/default.jpg
 label: seasonable
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

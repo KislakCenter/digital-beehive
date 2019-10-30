@@ -3,7 +3,7 @@ pid: index_0362
 volume: Volume 3
 image_number: '10'
 head: best
-entry: 732 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_373/'>2071 [Best]</a>
+entry: 732 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_373/'>2071 [Best]</a>
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '362'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/367,2695,505,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/367,2695,505,114/full/0/default.jpg
 label: best
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

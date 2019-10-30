@@ -3,7 +3,7 @@ pid: index_3771
 volume: Volume 3
 image_number: '43'
 head: snow
-entry: "<a href='/New_Beehive/alpha4/alpha_0882/'>a</a>|<a href='/New_Beehive/toc/toc2_329/'>1672
+entry: "<a href='/digital-beehive/alpha4/alpha_0882/'>a</a>|<a href='/digital-beehive/toc/toc2_329/'>1672
   [Snow]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3771'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1582,1307,500,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1582,1307,500,104/full/0/default.jpg
 label: snow
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

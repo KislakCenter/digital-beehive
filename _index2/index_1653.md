@@ -3,7 +3,7 @@ pid: index_1653
 volume: Volume 3
 image_number: '22'
 head: God's mercy
-entry: "<a href='/New_Beehive/toc/toc2_097/'>338 [Mercy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_097/'>338 [Mercy]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1653'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/full/0/default.jpg
 label: God's mercy
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

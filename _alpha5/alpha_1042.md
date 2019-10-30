@@ -6,12 +6,12 @@ head:
 entry: Words
 topic: Words
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Word]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4606/'>word</a>"
+index: "<a href='/digital-beehive/index5/index_4607/'>words</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b71918c89"
@@ -24,7 +24,7 @@ order: '1042'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/782,1457,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/782,1457,2982,410/full/0/default.jpg
 label: Words
-location: "<a href='/New_Beehive/toc/toc2_056/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

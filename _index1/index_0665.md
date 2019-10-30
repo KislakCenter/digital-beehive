@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index3/index_2044/'>inhumanity</a>"
+see: "<a href='/digital-beehive/index3/index_2044/'>inhumanity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '665'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/139,1614,728,146/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/139,1614,728,146/full/0/default.jpg
 label: churlish
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

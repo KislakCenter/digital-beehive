@@ -3,7 +3,7 @@ pid: index_2994
 volume: Volume 3
 image_number: '35'
 head: physick
-entry: "<a href='/New_Beehive/toc/toc2_149/'>665 [Medicines]</a>|4513 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_149/'>665 [Medicines]</a>|4513 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2994'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,3199,627,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,3199,627,152/full/0/default.jpg
 label: physick
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

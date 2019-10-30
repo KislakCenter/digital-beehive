@@ -3,8 +3,8 @@ pid: index_3264
 volume: Volume 3
 image_number: '38'
 head: quicksilver
-entry: "<a href='/New_Beehive/alpha4/alpha_0760/'>a</a>|<a href='/New_Beehive/toc/toc2_308/'>1566
-  [Quick Silver]</a>|<a href='/New_Beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0760/'>a</a>|<a href='/digital-beehive/toc/toc2_308/'>1566
+  [Quick Silver]</a>|<a href='/digital-beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
 topic: 
 first_letter: Q
 xref: 
@@ -25,7 +25,7 @@ order: '3264'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1162,1201,699,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1162,1201,699,109/full/0/default.jpg
 label: quicksilver
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_1567
 volume: Volume 3
 image_number: '21'
 head: furniture
-entry: "<a href='/New_Beehive/toc/toc2_159/'>718 [Household Stuff]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>718 [Household Stuff]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1567'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1544,1260,576,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1544,1260,576,138/full/0/default.jpg
 label: furniture
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

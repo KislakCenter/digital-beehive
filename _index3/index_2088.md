@@ -3,7 +3,7 @@ pid: index_2088
 volume: Volume 3
 image_number: '26'
 head: in vain
-entry: "<a href='/New_Beehive/toc/toc2_149/'>666 [In vain]</a>|<a href='/New_Beehive/toc/toc2_305/'>1553
+entry: "<a href='/digital-beehive/toc/toc2_149/'>666 [In vain]</a>|<a href='/digital-beehive/toc/toc2_305/'>1553
   [In vain]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2088'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1858,766,556,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1858,766,556,113/full/0/default.jpg
 label: in vain
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

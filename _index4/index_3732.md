@@ -3,7 +3,7 @@ pid: index_3732
 volume: Volume 3
 image_number: '43'
 head: Sirach
-entry: "<a href='/New_Beehive/toc/toc2_424/'>4464 [Ecclassiaticas]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Ecclassiaticas]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3732'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,752,462,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,752,462,117/full/0/default.jpg
 label: Sirach
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

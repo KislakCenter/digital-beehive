@@ -3,7 +3,7 @@ pid: index_0915
 volume: Volume 3
 image_number: '15'
 head: cross of Christ
-entry: "<a href='/New_Beehive/alpha1/alpha_0197/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0197/'>a</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '915'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/full/0/default.jpg
 label: cross of Christ
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,12 +6,12 @@ head:
 entry: Ringleader
 topic: Ringleader
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_384/'>2181 [Ringleader]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_384/'>2181 [Ringleader]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3433/'>ring leader</a>"
+index: "<a href='/digital-beehive/index4/index_3433/'>ring leader</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fb6fd31b4"
@@ -24,7 +24,7 @@ order: '803'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4805,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4805,2856,274/full/0/default.jpg
 label: Ringleader
-location: "<a href='/New_Beehive/toc/toc2_038/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

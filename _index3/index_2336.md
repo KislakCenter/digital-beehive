@@ -3,7 +3,7 @@ pid: index_2336
 volume: Volume 3
 image_number: '29'
 head: lost arts
-entry: "<a href='/New_Beehive/toc/toc2_316/'>1610 [Lost Arts]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_316/'>1610 [Lost Arts]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2336'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1693,453,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1693,453,109/full/0/default.jpg
 label: lost arts
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_2113
 volume: Volume 3
 image_number: '26'
 head: joy after sorrow
-entry: "<a href='/New_Beehive/toc/toc2_058/'>4 [After sowre comes the sweet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_058/'>4 [After sowre comes the sweet]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2113'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1837,3125,521,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1837,3125,521,143/full/0/default.jpg
 label: joy after sorrow
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

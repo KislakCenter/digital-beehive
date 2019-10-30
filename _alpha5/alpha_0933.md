@@ -6,13 +6,13 @@ head:
 entry: Temperance
 topic: Temperance
 first_letter: T
-xref: "<a href='/New_Beehive/alpha1/alpha_0232/'>Diet</a>|<a href='/New_Beehive/alpha3/alpha_0481/'>Intemperance</a>|<a
-  href='/New_Beehive/toc/toc2_247/'>1269 [Temperance]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0232/'>Diet</a>|<a href='/digital-beehive/alpha3/alpha_0481/'>Intemperance</a>|<a
+  href='/digital-beehive/toc/toc2_247/'>1269 [Temperance]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4081/'>temperance</a>"
+index: "<a href='/digital-beehive/index5/index_4081/'>temperance</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0211a4e15"
@@ -26,7 +26,7 @@ order: '933'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,3041,510/full/0/default.jpg
 label: Temperance
-location: "<a href='/New_Beehive/toc/toc2_047/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

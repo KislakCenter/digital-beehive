@@ -6,12 +6,12 @@ head:
 entry: Sleep
 topic: Sleep
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_172/'>925 [Sleep]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_172/'>925 [Sleep]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3747/'>sleep</a>"
+index: "<a href='/digital-beehive/index4/index_3747/'>sleep</a>"
 insertion_xref: 
 insertion: 
 item: "#item-49ddc387a"
@@ -24,7 +24,7 @@ order: '877'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/284,4341,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/284,4341,3071,736/full/0/default.jpg
 label: Sleep
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

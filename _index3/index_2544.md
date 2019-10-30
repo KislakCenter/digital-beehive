@@ -3,7 +3,7 @@ pid: index_2544
 volume: Volume 3
 image_number: '31'
 head: mist
-entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [A mist]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>383 [A mist]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2544'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/146,1321,366,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/146,1321,366,111/full/0/default.jpg
 label: mist
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

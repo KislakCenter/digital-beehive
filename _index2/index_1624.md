@@ -3,12 +3,12 @@ pid: index_1624
 volume: Volume 3
 image_number: '22'
 head: globe
-entry: "<a href='/New_Beehive/toc/toc2_091/'>295 [Ball playing]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_091/'>295 [Ball playing]</a>"
 topic: 
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_076/'>p.26 [Image 1.86]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1624'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3384,506,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3384,506,131/full/0/default.jpg
 label: globe
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

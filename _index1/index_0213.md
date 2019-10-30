@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: A
 xref: 
-see: "<a href='/New_Beehive/index4/index_3684/'>shooting</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
+see: "<a href='/digital-beehive/index4/index_3684/'>shooting</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '213'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1798,1387,740,209/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1798,1387,740,209/full/0/default.jpg
 label: arrow
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

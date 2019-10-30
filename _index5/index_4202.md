@@ -3,7 +3,7 @@ pid: index_4202
 volume: Volume 3
 image_number: '48'
 head: tough
-entry: "<a href='/New_Beehive/toc/toc2_413/'>2381 [Tough]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_413/'>2381 [Tough]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4202'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1111,434,318,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1111,434,318,145/full/0/default.jpg
 label: tough
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

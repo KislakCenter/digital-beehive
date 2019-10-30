@@ -3,7 +3,7 @@ pid: index_2652
 volume: Volume 3
 image_number: '32'
 head: natural
-entry: "<a href='/New_Beehive/alpha3/alpha_0625/'>a</a>|<a href='/New_Beehive/toc/toc2_211/'>1086
+entry: "<a href='/digital-beehive/alpha3/alpha_0625/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
   [Natural]</a>"
 topic: 
 first_letter: N
@@ -25,7 +25,7 @@ order: '2652'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/386,1583,609,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/386,1583,609,93/full/0/default.jpg
 label: natural
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

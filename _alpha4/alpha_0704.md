@@ -6,12 +6,12 @@ head:
 entry: Placableness
 topic: Placableness
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0773/'>Reconcilemt</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0773/'>Reconcilemt</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3027/'>placable</a>"
+index: "<a href='/digital-beehive/index4/index_3027/'>placable</a>"
 insertion_xref: 
 insertion: 
 item: "#item-787530525"
@@ -24,7 +24,7 @@ order: '704'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/855,4244,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/855,4244,2944,387/full/0/default.jpg
 label: Placableness
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

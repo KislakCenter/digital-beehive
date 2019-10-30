@@ -3,12 +3,12 @@ pid: index_1347
 volume: Volume 3
 image_number: '19'
 head: exhortation
-entry: 843 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_205/'>1060 [Admonishing &
-  Warning]</a>
+entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_205/'>1060 [Admonishing
+  & Warning]</a>
 topic: 
 first_letter: E
 xref: 
-see: "<a href='/New_Beehive/index1/index_0045/'>admonishing</a>"
+see: "<a href='/digital-beehive/index1/index_0045/'>admonishing</a>"
 page: 
 add: 
 type: 
@@ -26,7 +26,7 @@ order: '1347'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1527,750,845,171/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1527,750,845,171/full/0/default.jpg
 label: exhortation
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

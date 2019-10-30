@@ -3,7 +3,7 @@ pid: index_3852
 volume: Volume 3
 image_number: '44'
 head: spiritual pride
-entry: "<a href='/New_Beehive/toc/toc2_064/'>75 [Self-righteousness]</a>|<a href='/New_Beehive/toc/toc2_094/'>319
+entry: "<a href='/digital-beehive/toc/toc2_064/'>75 [Self-righteousness]</a>|<a href='/digital-beehive/toc/toc2_094/'>319
   [Righteous]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3852'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1787,621,514,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1787,621,514,113/full/0/default.jpg
 label: spiritual pride
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

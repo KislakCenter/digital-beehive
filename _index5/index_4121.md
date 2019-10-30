@@ -3,12 +3,12 @@ pid: index_4121
 volume: Volume 3
 image_number: '47'
 head: thistles
-entry: "<a href='/New_Beehive/toc/toc2_140/'>615 [Thorns]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_140/'>615 [Thorns]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4121'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/922,2002,568,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/922,2002,568,149/full/0/default.jpg
 label: thistles
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

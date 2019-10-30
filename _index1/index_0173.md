@@ -8,7 +8,7 @@ topic:
 first_letter: A
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '173'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1113,1054,406,107/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1113,1054,406,107/full/0/default.jpg
 label: apothecary shop
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

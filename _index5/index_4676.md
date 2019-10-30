@@ -3,7 +3,7 @@ pid: index_4676
 volume: Volume 3
 image_number: '54'
 head: multitude
-entry: "<a href='/New_Beehive/toc/toc2_207/'>1067 [Many]</a>|864 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_207/'>1067 [Many]</a>|864 [PAGE_MISSING]"
 topic: 
 first_letter: insertion
 xref: 
@@ -25,7 +25,7 @@ order: '4676'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/385,1970,711,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/385,1970,711,149/full/0/default.jpg
 label: multitude
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

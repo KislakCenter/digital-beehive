@@ -6,13 +6,13 @@ head:
 entry: Will
 topic: Will
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_0936/'>Testamt</a>|<a href='/New_Beehive/toc/toc2_238/'>1226
-  [Nobility]</a>|<a href='/New_Beehive/toc/toc2_239/'>1226 [Nobility]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0936/'>Testamt</a>|<a href='/digital-beehive/toc/toc2_238/'>1226
+  [Nobility]</a>|<a href='/digital-beehive/toc/toc2_239/'>1226 [Nobility]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4550/'>will</a>"
+index: "<a href='/digital-beehive/index5/index_4550/'>will</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1ef42a7f6"
@@ -25,7 +25,7 @@ order: '1024'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,4293,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,4293,2920,444/full/0/default.jpg
 label: Will
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

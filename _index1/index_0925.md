@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0894/'>craftiness</a>"
+see: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '925'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/full/0/default.jpg
 label: cunning
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

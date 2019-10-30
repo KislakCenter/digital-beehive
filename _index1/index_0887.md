@@ -3,7 +3,7 @@ pid: index_0887
 volume: Volume 3
 image_number: '15'
 head: cousin
-entry: "<a href='/New_Beehive/toc/toc2_307/'>1564 [Cousin German]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1564 [Cousin German]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '887'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2719,439,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2719,439,142/full/0/default.jpg
 label: cousin
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

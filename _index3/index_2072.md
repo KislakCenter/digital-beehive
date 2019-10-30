@@ -3,7 +3,7 @@ pid: index_2072
 volume: Volume 3
 image_number: '26'
 head: integrity
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1317 [Sincerity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Sincerity]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2072'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1151,2445,479,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1151,2445,479,124/full/0/default.jpg
 label: integrity
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

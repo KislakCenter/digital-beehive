@@ -3,7 +3,7 @@ pid: index_3513
 volume: Volume 3
 image_number: '41'
 head: the same
-entry: "<a href='/New_Beehive/toc/toc2_086/'>264 [The Same]</a>|<a href='/New_Beehive/toc/toc2_319/'>1621
+entry: "<a href='/digital-beehive/toc/toc2_086/'>264 [The Same]</a>|<a href='/digital-beehive/toc/toc2_319/'>1621
   [The Same]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3513'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/full/0/default.jpg
 label: the same
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0262/'>bacchanals</a>"
+see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '544'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/401,436,750,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/401,436,750,159/full/0/default.jpg
 label: Carnaval
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

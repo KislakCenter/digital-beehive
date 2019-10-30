@@ -3,12 +3,12 @@ pid: index_0916
 volume: Volume 3
 image_number: '15'
 head: crown
-entry: "<a href='/New_Beehive/alpha1/alpha_0198/'>a</a>|4544 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0198/'>a</a>|4544 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '916'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/full/0/default.jpg
 label: crown
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

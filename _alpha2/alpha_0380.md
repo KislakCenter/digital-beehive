@@ -6,14 +6,14 @@ head:
 entry: Grandeur
 topic: Grandeur
 first_letter: G
-xref: "<a href='/New_Beehive/alpha4/alpha_0725/'>Pride</a>|<a href='/New_Beehive/alpha2/alpha_0419/'>highness</a>|<a
-  href='/New_Beehive/alpha3/alpha_0562/'>magnanimity</a>|<a href='/New_Beehive/toc/toc2_164/'>883
+xref: "<a href='/digital-beehive/alpha4/alpha_0725/'>Pride</a>|<a href='/digital-beehive/alpha2/alpha_0419/'>highness</a>|<a
+  href='/digital-beehive/alpha3/alpha_0562/'>magnanimity</a>|<a href='/digital-beehive/toc/toc2_164/'>883
   [highness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1691/'>grandeur</a>"
+index: "<a href='/digital-beehive/index2/index_1691/'>grandeur</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d2c4ae635"
@@ -27,7 +27,7 @@ order: '380'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,2958,507/full/0/default.jpg
 label: Grandeur
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

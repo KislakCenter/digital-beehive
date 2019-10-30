@@ -6,12 +6,12 @@ head:
 entry: Perswasion
 topic: Perswasion
 first_letter: P
-xref: Conviction|<a href='/New_Beehive/toc/toc2_361/'>1969 [Perswasion]</a>
+xref: Conviction|<a href='/digital-beehive/toc/toc2_361/'>1969 [Perswasion]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2972/'>perswasion</a>"
+index: "<a href='/digital-beehive/index4/index_2972/'>perswasion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-321a39c13"
@@ -25,7 +25,7 @@ order: '696'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,1304,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,1304,3025,482/full/0/default.jpg
 label: Perswasion
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -8,7 +8,7 @@ topic:
 first_letter: O
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>|<a href='/New_Beehive/toc_vol1/toc1_089/'>p.39
+page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>|<a href='/digital-beehive/toc_vol1/toc1_089/'>p.39
   [Image 1.99]</a>"
 add: 
 type: 
@@ -25,7 +25,7 @@ order: '2824'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1503,2593,717,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1503,2593,717,153/full/0/default.jpg
 label: organs
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

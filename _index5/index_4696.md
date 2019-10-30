@@ -3,7 +3,7 @@ pid: index_4696
 volume: Volume 3
 image_number: '54'
 head: ἀνδρωποπαδῶς
-entry: "<a href='/New_Beehive/toc/toc2_160/'>725 [Catachresis]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Catachresis]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4696'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/full/0/default.jpg
 label: ἀνδρωποπαδῶς
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

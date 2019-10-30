@@ -6,13 +6,13 @@ head:
 entry: Constancy
 topic: Constancy
 first_letter: C
-xref: "<a href='/New_Beehive/alpha5/alpha_0998/'>Unstableness</a>|<a href='/New_Beehive/toc/toc2_216/'>1112
+xref: "<a href='/digital-beehive/alpha5/alpha_0998/'>Unstableness</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
   [Constancy of mind]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0814/'>constancy</a>"
+index: "<a href='/digital-beehive/index1/index_0814/'>constancy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-34711b714"
@@ -26,7 +26,7 @@ order: '172'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,2999,616/full/0/default.jpg
 label: Constancy
-location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

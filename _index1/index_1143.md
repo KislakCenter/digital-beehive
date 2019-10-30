@@ -3,7 +3,7 @@ pid: index_1143
 volume: Volume 3
 image_number: '17'
 head: to draw
-entry: "<a href='/New_Beehive/toc/toc2_145/'>642 [To Draw]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_145/'>642 [To Draw]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1143'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1519,1421,462,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1519,1421,462,123/full/0/default.jpg
 label: to draw
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

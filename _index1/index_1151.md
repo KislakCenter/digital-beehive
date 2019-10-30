@@ -3,7 +3,7 @@ pid: index_1151
 volume: Volume 3
 image_number: '17'
 head: drift
-entry: "<a href='/New_Beehive/toc/toc2_158/'>711 [Drift]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_158/'>711 [Drift]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1151'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/full/0/default.jpg
 label: drift
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

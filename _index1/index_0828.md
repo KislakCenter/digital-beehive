@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index1/index_0081/'>agreemt</a>"
+see: "<a href='/digital-beehive/index1/index_0081/'>agreemt</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '828'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1853,549,686,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1853,549,686,152/full/0/default.jpg
 label: contract
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

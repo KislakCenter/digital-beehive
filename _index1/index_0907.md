@@ -3,7 +3,7 @@ pid: index_0907
 volume: Volume 3
 image_number: '15'
 head: cricket
-entry: "<a href='/New_Beehive/toc/toc2_243/'>1250 [Grasshoppers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Grasshoppers]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '907'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/863,1283,501,128/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/863,1283,501,128/full/0/default.jpg
 label: cricket
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

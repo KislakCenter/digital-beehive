@@ -3,7 +3,7 @@ pid: index_2756
 volume: Volume 3
 image_number: '33'
 head: objections
-entry: "<a href='/New_Beehive/toc/toc2_083/'>241 [Objections]</a>|<a href='/New_Beehive/toc/toc2_204/'>1053
+entry: "<a href='/digital-beehive/toc/toc2_083/'>241 [Objections]</a>|<a href='/digital-beehive/toc/toc2_204/'>1053
   [Objections agt. the Quakers answered]</a>"
 topic: 
 first_letter: O
@@ -26,7 +26,7 @@ order: '2756'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/145,1797,749,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/145,1797,749,168/full/0/default.jpg
 label: objections
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

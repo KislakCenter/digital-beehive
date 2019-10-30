@@ -6,12 +6,12 @@ head:
 entry: Worlds end
 topic: Worlds end
 first_letter: W
-xref: "<a href='/New_Beehive/alpha5/alpha_0965/'>Transitory</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0965/'>Transitory</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4619/'>worlds. end</a>"
+index: "<a href='/digital-beehive/index5/index_4619/'>worlds. end</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cc1193c3a"
@@ -24,7 +24,7 @@ order: '1047'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,2943,375/full/0/default.jpg
 label: Worlds end
-location: "<a href='/New_Beehive/toc/toc2_056/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,8 +3,8 @@ pid: index_2811
 volume: Volume 3
 image_number: '33'
 head: oppression
-entry: "<a href='/New_Beehive/toc/toc2_076/'>197 [Oppression]</a>|<a href='/New_Beehive/toc/toc2_116/'>474
-  [Oppression]</a>|<a href='/New_Beehive/toc/toc2_401/'>2287 [Oppressions]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_076/'>197 [Oppression]</a>|<a href='/digital-beehive/toc/toc2_116/'>474
+  [Oppression]</a>|<a href='/digital-beehive/toc/toc2_401/'>2287 [Oppressions]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -26,7 +26,7 @@ order: '2811'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/full/0/default.jpg
 label: oppression
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

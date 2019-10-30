@@ -3,8 +3,8 @@ pid: index_3725
 volume: Volume 3
 image_number: '43'
 head: sincerity
-entry: "<a href='/New_Beehive/toc/toc2_345/'>1786 [Since]</a>|<a href='/New_Beehive/toc/toc2_309/'>1571
-  [Sincerity]</a>|<a href='/New_Beehive/toc/toc2_409/'>2355 [Sincerity]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1786 [Since]</a>|<a href='/digital-beehive/toc/toc2_309/'>1571
+  [Sincerity]</a>|<a href='/digital-beehive/toc/toc2_409/'>2355 [Sincerity]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -25,7 +25,7 @@ order: '3725'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,3363,742,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,3363,742,109/full/0/default.jpg
 label: sincerity
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

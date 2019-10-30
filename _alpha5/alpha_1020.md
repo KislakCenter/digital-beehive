@@ -6,12 +6,12 @@ head:
 entry: Weeping
 topic: Weeping
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_143/'>630 [Weeping]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_143/'>630 [Weeping]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4512/'>weeping</a>"
+index: "<a href='/digital-beehive/index5/index_4512/'>weeping</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a80c8d607"
@@ -24,7 +24,7 @@ order: '1020'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/825,2700,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/825,2700,2942,417/full/0/default.jpg
 label: Weeping
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

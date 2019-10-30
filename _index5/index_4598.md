@@ -3,7 +3,7 @@ pid: index_4598
 volume: Volume 3
 image_number: '53'
 head: woman's speaking in ye Church
-entry: "<a href='/New_Beehive/toc/toc2_081/'>230 [Womans Speaking in the church]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_081/'>230 [Womans Speaking in the church]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4598'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,754,823,192/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,754,823,192/full/0/default.jpg
 label: woman's speaking in ye Church
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

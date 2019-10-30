@@ -3,7 +3,7 @@ pid: index_2761
 volume: Volume 3
 image_number: '33'
 head: observation
-entry: "<a href='/New_Beehive/toc/toc2_144/'>640 [Observation]</a>|<a href='/New_Beehive/toc/toc2_288/'>1472
+entry: "<a href='/digital-beehive/toc/toc2_144/'>640 [Observation]</a>|<a href='/digital-beehive/toc/toc2_288/'>1472
   [Remarkable]</a>"
 topic: 
 first_letter: O
@@ -25,7 +25,7 @@ order: '2761'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/116,2410,839,195/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/116,2410,839,195/full/0/default.jpg
 label: observation
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_1708
 volume: Volume 3
 image_number: '23'
 head: great men
-entry: "<a href='/New_Beehive/toc/toc2_254/'>1305 [Great men]</a>|<a href='/New_Beehive/toc/toc2_372/'>2064
+entry: "<a href='/digital-beehive/toc/toc2_254/'>1305 [Great men]</a>|<a href='/digital-beehive/toc/toc2_372/'>2064
   [Persons of quality]</a>"
 topic: 
 first_letter: G
@@ -25,7 +25,7 @@ order: '1708'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,817,588,95/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,817,588,95/full/0/default.jpg
 label: great men
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

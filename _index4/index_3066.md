@@ -3,8 +3,8 @@ pid: index_3066
 volume: Volume 3
 image_number: '36'
 head: politick
-entry: "<a href='/New_Beehive/alpha4/alpha_0710/'>a</a>|<a href='/New_Beehive/toc/toc2_186/'>1001
-  [Politick]</a>|<a href='/New_Beehive/toc/toc2_339/'>1744 [Politick]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0710/'>a</a>|<a href='/digital-beehive/toc/toc2_186/'>1001
+  [Politick]</a>|<a href='/digital-beehive/toc/toc2_339/'>1744 [Politick]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3066'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/full/0/default.jpg
 label: politick
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

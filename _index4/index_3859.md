@@ -3,7 +3,7 @@ pid: index_3859
 volume: Volume 3
 image_number: '44'
 head: spoiled
-entry: "<a href='/New_Beehive/toc/toc2_135/'>587 [mouldy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_135/'>587 [mouldy]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3859'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1821,1303,379,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1821,1303,379,99/full/0/default.jpg
 label: spoiled
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

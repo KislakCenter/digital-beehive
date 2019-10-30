@@ -3,7 +3,7 @@ pid: index_3155
 volume: Volume 3
 image_number: '37'
 head: priestcraft
-entry: "<a href='/New_Beehive/toc/toc2_342/'>1768 [Ecclesiastical Tyranny & Priestcraft]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_342/'>1768 [Ecclesiastical Tyranny & Priestcraft]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3155'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/137,2607,595,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/137,2607,595,118/full/0/default.jpg
 label: priestcraft
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

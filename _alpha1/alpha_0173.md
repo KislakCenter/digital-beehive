@@ -6,13 +6,13 @@ head:
 entry: Contempt
 topic: Contempt
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0226/'>Derision</a>|Disregard|<a href='/New_Beehive/toc/toc2_087/'>269
+xref: "<a href='/digital-beehive/alpha1/alpha_0226/'>Derision</a>|Disregard|<a href='/digital-beehive/toc/toc2_087/'>269
   [Contempt]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0821/'>contempt</a>"
+index: "<a href='/digital-beehive/index1/index_0821/'>contempt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-05f1df571"
@@ -26,7 +26,7 @@ order: '173'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,2778,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,2778,3061,566/full/0/default.jpg
 label: Contempt
-location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,11 +3,11 @@ pid: index_3613
 volume: Volume 3
 image_number: '42'
 head: Self defence
-entry: "<a href='/New_Beehive/toc/toc2_337/'>1722 [Defend]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1722 [Defend]</a>"
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index1/index_0989/'>defence</a>"
+see: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3613'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/full/0/default.jpg
 label: Self defence
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

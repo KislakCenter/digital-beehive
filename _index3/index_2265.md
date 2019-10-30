@@ -3,8 +3,8 @@ pid: index_2265
 volume: Volume 3
 image_number: '28'
 head: letters
-entry: "<a href='/New_Beehive/alpha3/alpha_0529/'>a</a>|<a href='/New_Beehive/toc/toc2_310/'>1580
-  [I have thought fit to]</a>|<a href='/New_Beehive/toc/toc2_379/'>2135 [Letters]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0529/'>a</a>|<a href='/digital-beehive/toc/toc2_310/'>1580
+  [I have thought fit to]</a>|<a href='/digital-beehive/toc/toc2_379/'>2135 [Letters]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -25,7 +25,7 @@ order: '2265'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,904,698,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,904,698,104/full/0/default.jpg
 label: letters
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

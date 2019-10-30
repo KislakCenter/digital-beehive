@@ -3,7 +3,7 @@ pid: index_1432
 volume: Volume 3
 image_number: '20'
 head: fencing
-entry: "<a href='/New_Beehive/toc/toc2_155/'>698 [the art of Fencing]</a>|<a href='/New_Beehive/toc/toc2_272/'>1391
+entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [the art of Fencing]</a>|<a href='/digital-beehive/toc/toc2_272/'>1391
   [Fencing]</a>"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1432'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1114,2258,604,211/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1114,2258,604,211/full/0/default.jpg
 label: fencing
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

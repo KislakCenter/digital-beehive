@@ -6,12 +6,12 @@ head:
 entry: Rain bow
 topic: Rain bow
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_312/'>1590 [Rainbow]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_312/'>1590 [Rainbow]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3285/'>rainbow</a>"
+index: "<a href='/digital-beehive/index4/index_3285/'>rainbow</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4e33af066"
@@ -24,7 +24,7 @@ order: '765'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,3524,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,3524,2992,371/full/0/default.jpg
 label: Rain bow
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

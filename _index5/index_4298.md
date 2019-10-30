@@ -3,7 +3,7 @@ pid: index_4298
 volume: Volume 3
 image_number: '49'
 head: vapours
-entry: "<a href='/New_Beehive/toc/toc2_103/'>383 [Clouds]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_103/'>383 [Clouds]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4298'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,1418,432,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,1418,432,108/full/0/default.jpg
 label: vapours
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

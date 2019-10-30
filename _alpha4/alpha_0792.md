@@ -6,12 +6,12 @@ head:
 entry: Resurrection
 topic: Resurrection
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_121/'>502 [Resurrection]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_121/'>502 [Resurrection]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3397/'>resurrection</a>"
+index: "<a href='/digital-beehive/index4/index_3397/'>resurrection</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2ed58825b"
@@ -24,7 +24,7 @@ order: '792'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/379,4673,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/379,4673,2983,372/full/0/default.jpg
 label: Resurrection
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

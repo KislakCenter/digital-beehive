@@ -6,12 +6,12 @@ head:
 entry: Hireling
 topic: Hireling
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_128/'>549 [Hirelings]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1843/'>hireling</a>"
+index: "<a href='/digital-beehive/index2/index_1843/'>hireling</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2c8f931b4"
@@ -24,7 +24,7 @@ order: '421'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,2918,529/full/0/default.jpg
 label: Hireling
-location: "<a href='/New_Beehive/toc/toc2_008/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

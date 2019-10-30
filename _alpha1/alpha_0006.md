@@ -6,12 +6,12 @@ head:
 entry: Adiaphory
 topic: Adiaphory
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_074/'>176 [Indifferency]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_074/'>176 [Indifferency]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0042/'>adiaphory</a>"
+index: "<a href='/digital-beehive/index1/index_0042/'>adiaphory</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d38a0df93"
@@ -24,7 +24,7 @@ order: '6'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,3234,432/full/0/default.jpg
 label: Adiaphory
-location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

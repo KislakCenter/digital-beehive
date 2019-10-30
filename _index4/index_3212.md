@@ -3,7 +3,7 @@ pid: index_3212
 volume: Volume 3
 image_number: '37'
 head: providence
-entry: "<a href='/New_Beehive/alpha4/alpha_0749/'>a</a>|<a href='/New_Beehive/toc/toc2_271/'>1390
+entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1390
   [Providence]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3212'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1471,2443,653,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1471,2443,653,100/full/0/default.jpg
 label: providence
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

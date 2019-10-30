@@ -3,13 +3,13 @@ pid: index_4239
 volume: Volume 3
 image_number: '48'
 head: tricks
-entry: "<a href='/New_Beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index1/index_0894/'>craftiness</a>"
+add: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '4239'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/full/0/default.jpg
 label: tricks
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

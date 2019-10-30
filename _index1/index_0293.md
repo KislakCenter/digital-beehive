@@ -3,7 +3,7 @@ pid: index_0293
 volume: Volume 3
 image_number: '9'
 head: barbuda
-entry: "<a href='/New_Beehive/toc/toc2_297/'>1514 [Barbada or Barbuda]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1514 [Barbada or Barbuda]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '293'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/898,2715,672,140/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/898,2715,672,140/full/0/default.jpg
 label: barbuda
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

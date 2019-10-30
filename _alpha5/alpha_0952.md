@@ -6,13 +6,13 @@ head:
 entry: Too hasty
 topic: Too hasty
 first_letter: T
-xref: "<a href='/New_Beehive/alpha2/alpha_0398/'>Haste</a>|[WORD_ILLEGIBLE]|<a href='/New_Beehive/toc/toc2_179/'>961
-  [Too hasty]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0398/'>Haste</a>|[WORD_ILLEGIBLE]|<a
+  href='/digital-beehive/toc/toc2_179/'>961 [Too hasty]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4177/'>too hasty</a>"
+index: "<a href='/digital-beehive/index5/index_4177/'>too hasty</a>"
 insertion_xref: 
 insertion: 
 item: "#item-333aac4a6"
@@ -26,7 +26,7 @@ order: '952'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,2997,442/full/0/default.jpg
 label: Too hasty
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

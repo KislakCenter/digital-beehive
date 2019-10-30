@@ -3,7 +3,7 @@ pid: index_2434
 volume: Volume 3
 image_number: '30'
 head: marsh
-entry: "<a href='/New_Beehive/toc/toc2_146/'>Entry; 650 [a Fen or Marsh]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>Entry; 650 [a Fen or Marsh]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2434'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/413,744,329,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/413,744,329,101/full/0/default.jpg
 label: marsh
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

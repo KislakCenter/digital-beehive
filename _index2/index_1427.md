@@ -3,7 +3,7 @@ pid: index_1427
 volume: Volume 3
 image_number: '20'
 head: fees
-entry: "<a href='/New_Beehive/toc/toc2_330/'>1677 [Fees]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Fees]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1427'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1124,1773,362,183/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1124,1773,362,183/full/0/default.jpg
 label: fees
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

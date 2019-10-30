@@ -3,7 +3,7 @@ pid: index_3002
 volume: Volume 3
 image_number: '35'
 head: piece
-entry: "<a href='/New_Beehive/toc/toc2_159/'>718 [Piece]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_159/'>718 [Piece]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3002'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1485,518,400,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1485,518,400,130/full/0/default.jpg
 label: piece
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,12 +6,12 @@ head:
 entry: Remission of Sins
 topic: Remission of Sins
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3359/'>remission</a>"
+index: "<a href='/digital-beehive/index4/index_3359/'>remission</a>"
 insertion_xref: 
 insertion: 
 item: "#item-891f6fb74"
@@ -25,7 +25,7 @@ order: '782'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,3082,442/full/0/default.jpg
 label: Remission of Sins
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

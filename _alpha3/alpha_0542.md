@@ -6,13 +6,13 @@ head:
 entry: London
 topic: London
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_065/'>84 [Antiquary]</a>|<a href='/New_Beehive/toc/toc2_074/'>172
-  [Means and Cause]</a>|<a href='/New_Beehive/toc/toc2_287/'>1468 [London]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_065/'>84 [Antiquary]</a>|<a href='/digital-beehive/toc/toc2_074/'>172
+  [Means and Cause]</a>|<a href='/digital-beehive/toc/toc2_287/'>1468 [London]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2321/'>London</a>"
+index: "<a href='/digital-beehive/index3/index_2321/'>London</a>"
 insertion_xref: 
 insertion: 
 item: "#item-74d4d3984"
@@ -26,7 +26,7 @@ order: '542'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,3042,309/full/0/default.jpg
 label: London
-location: "<a href='/New_Beehive/toc/toc2_018/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_1057
 volume: Volume 3
 image_number: '16'
 head: dinner
-entry: "<a href='/New_Beehive/toc/toc2_237/'>1218 [Dinner]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_237/'>1218 [Dinner]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1057'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/full/0/default.jpg
 label: dinner
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

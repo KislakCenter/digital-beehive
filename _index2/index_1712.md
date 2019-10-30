@@ -3,7 +3,7 @@ pid: index_1712
 volume: Volume 3
 image_number: '23'
 head: green
-entry: "<a href='/New_Beehive/toc/toc2_340/'>1757 [Green]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_340/'>1757 [Green]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1712'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/150,1210,398,88/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/150,1210,398,88/full/0/default.jpg
 label: green
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

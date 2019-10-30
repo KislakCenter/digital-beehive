@@ -3,7 +3,7 @@ pid: index_3967
 volume: Volume 3
 image_number: '45'
 head: Successively
-entry: "<a href='/New_Beehive/toc/toc2_165/'>887 [Successively]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [Successively]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3967'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1580,2404,544,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1580,2404,544,129/full/0/default.jpg
 label: Successively
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

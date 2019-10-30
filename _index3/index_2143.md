@@ -3,7 +3,7 @@ pid: index_2143
 volume: Volume 3
 image_number: '27'
 head: justice of the peace
-entry: "<a href='/New_Beehive/toc/toc2_350/'>1835 [Justice of the Peace]</a>|4752
+entry: "<a href='/digital-beehive/toc/toc2_350/'>1835 [Justice of the Peace]</a>|4752
   [PAGE_MISSING]"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2143'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/158,2627,677,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/158,2627,677,111/full/0/default.jpg
 label: justice of the peace
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

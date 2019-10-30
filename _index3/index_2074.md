@@ -3,7 +3,7 @@ pid: index_2074
 volume: Volume 3
 image_number: '26'
 head: intention
-entry: "<a href='/New_Beehive/alpha3/alpha_0482/'>a</a>|<a href='/New_Beehive/toc/toc2_215/'>1109
+entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>|<a href='/digital-beehive/toc/toc2_215/'>1109
   [Intention]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2074'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1139,2674,602,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1139,2674,602,156/full/0/default.jpg
 label: intention
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

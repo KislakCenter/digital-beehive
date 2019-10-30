@@ -3,8 +3,8 @@ pid: index_2132
 volume: Volume 3
 image_number: '27'
 head: judge of controversie
-entry: "<a href='/New_Beehive/toc/toc2_064/'>74 [the Judge of religious Controversies]</a>|<a
-  href='/New_Beehive/toc/toc2_274/'>1403 [Rule of faith and life]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_064/'>74 [the Judge of religious Controversies]</a>|<a
+  href='/digital-beehive/toc/toc2_274/'>1403 [Rule of faith and life]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -26,7 +26,7 @@ order: '2132'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/134,1599,714,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/134,1599,714,103/full/0/default.jpg
 label: judge of controversie
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

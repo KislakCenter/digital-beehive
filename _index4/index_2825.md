@@ -3,7 +3,7 @@ pid: index_2825
 volume: Volume 3
 image_number: '33'
 head: Origines
-entry: "<a href='/New_Beehive/toc/toc2_309/'>1571 [Origenes]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1571 [Origenes]</a>"
 topic: 
 first_letter: O
 xref: 
@@ -24,7 +24,7 @@ order: '2825'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1477,2687,661,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1477,2687,661,168/full/0/default.jpg
 label: Origines
-location: "<a href='/New_Beehive/toc/toc3_33/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

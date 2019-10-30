@@ -3,7 +3,7 @@ pid: index_3851
 volume: Volume 3
 image_number: '44'
 head: spiritual iniquities
-entry: "<a href='/New_Beehive/toc/toc2_184/'>989 [Spiritual Iniquities]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Spiritual Iniquities]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3851'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,490,570,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,490,570,132/full/0/default.jpg
 label: spiritual iniquities
-location: "<a href='/New_Beehive/toc/toc3_44/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

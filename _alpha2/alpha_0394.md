@@ -6,13 +6,13 @@ head:
 entry: Hardning
 topic: Hardning
 first_letter: H
-xref: "<a href='/New_Beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/New_Beehive/toc/toc2_412/'>2374
+xref: "<a href='/digital-beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_412/'>2374
   [Hardning]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1755/'>hardning</a>"
+index: "<a href='/digital-beehive/index2/index_1755/'>hardning</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b81c3e687"
@@ -26,7 +26,7 @@ order: '394'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/791,4564,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/791,4564,2937,532/full/0/default.jpg
 label: Hardning
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

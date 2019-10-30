@@ -3,7 +3,7 @@ pid: index_1341
 volume: Volume 3
 image_number: '19'
 head: execrable
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1341'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/full/0/default.jpg
 label: execrable
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

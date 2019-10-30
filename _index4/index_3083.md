@@ -3,7 +3,7 @@ pid: index_3083
 volume: Volume 3
 image_number: '36'
 head: posies
-entry: "<a href='/New_Beehive/toc/toc2_435/'>4843 [Posies]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_435/'>4843 [Posies]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3083'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1188,1457,468,102/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1188,1457,468,102/full/0/default.jpg
 label: posies
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

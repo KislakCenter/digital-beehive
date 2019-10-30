@@ -6,12 +6,12 @@ head:
 entry: Reliques
 topic: Reliques
 first_letter: R
-xref: Old rags|<a href='/New_Beehive/toc/toc2_270/'>1385 [Reliques]</a>
+xref: Old rags|<a href='/digital-beehive/toc/toc2_270/'>1385 [Reliques]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3351/'>reliques</a>"
+index: "<a href='/digital-beehive/index4/index_3351/'>reliques</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d3ad071e9"
@@ -25,7 +25,7 @@ order: '781'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,3052,416/full/0/default.jpg
 label: Reliques
-location: "<a href='/New_Beehive/toc/toc2_037/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

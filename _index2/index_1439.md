@@ -3,7 +3,7 @@ pid: index_1439
 volume: Volume 3
 image_number: '20'
 head: fiction
-entry: "<a href='/New_Beehive/toc/toc2_274/'>1405 [fiction]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_274/'>1405 [fiction]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1439'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1110,2879,467,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1110,2879,467,144/full/0/default.jpg
 label: fiction
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1764/'>harvest</a>"
+index: "<a href='/digital-beehive/index2/index_1764/'>harvest</a>"
 insertion_xref: 
 insertion: 
 item: "#item-6372e5640"
@@ -24,7 +24,7 @@ order: '397'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,3058,361/full/0/default.jpg
 label: Harvest
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

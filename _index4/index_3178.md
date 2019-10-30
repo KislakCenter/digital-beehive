@@ -3,8 +3,8 @@ pid: index_3178
 volume: Volume 3
 image_number: '37'
 head: prodigality
-entry: "<a href='/New_Beehive/alpha4/alpha_0734/'>a</a>|753 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_373/'>2072
-  [Prodigality]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0734/'>a</a>|753 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_373/'>2072 [Prodigality]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3178'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/full/0/default.jpg
 label: prodigality
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

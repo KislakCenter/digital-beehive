@@ -3,7 +3,7 @@ pid: index_1355
 volume: Volume 3
 image_number: '19'
 head: expert
-entry: "<a href='/New_Beehive/toc/toc2_343/'>1780 [Expert]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_343/'>1780 [Expert]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1355'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/full/0/default.jpg
 label: expert
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

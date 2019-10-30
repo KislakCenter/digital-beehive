@@ -6,13 +6,13 @@ head:
 entry: Monarchy
 topic: Monarchy
 first_letter: M
-xref: "<a href='/New_Beehive/alpha3/alpha_0498/'>King</a>|<a href='/New_Beehive/toc/toc2_341/'>1763
+xref: "<a href='/digital-beehive/alpha3/alpha_0498/'>King</a>|<a href='/digital-beehive/toc/toc2_341/'>1763
   [Monarchy]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2563/'>monarchy</a>"
+index: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
 insertion_xref: 
 insertion: 
 item: "#item-713020ad5"
@@ -25,7 +25,7 @@ order: '598'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,2630,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,2630,2989,425/full/0/default.jpg
 label: Monarchy
-location: "<a href='/New_Beehive/toc/toc2_023/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

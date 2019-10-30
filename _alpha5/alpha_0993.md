@@ -6,12 +6,12 @@ head:
 entry: Unfruitfullness
 topic: Unfruitfullness
 first_letter: U/V
-xref: "<a href='/New_Beehive/alpha1/alpha_0061/'>Barrenness</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0061/'>Barrenness</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4381/'>unfruitful</a>"
+index: "<a href='/digital-beehive/index5/index_4381/'>unfruitful</a>"
 insertion_xref: 
 insertion: 
 item: "#item-699585c8d"
@@ -24,7 +24,7 @@ order: '993'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/815,1755,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/815,1755,2943,497/full/0/default.jpg
 label: Unfruitfullness
-location: "<a href='/New_Beehive/toc/toc2_052/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

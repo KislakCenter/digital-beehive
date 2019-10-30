@@ -3,7 +3,7 @@ pid: index_3217
 volume: Volume 3
 image_number: '37'
 head: to prune
-entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [Purge]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [Purge]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3217'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/full/0/default.jpg
 label: to prune
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

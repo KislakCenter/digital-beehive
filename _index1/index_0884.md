@@ -3,7 +3,7 @@ pid: index_0884
 volume: Volume 3
 image_number: '15'
 head: court
-entry: "<a href='/New_Beehive/alpha1/alpha_0186/'>a</a>|1879 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0186/'>a</a>|1879 [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '884'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/162,2396,480,95/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/162,2396,480,95/full/0/default.jpg
 label: court
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

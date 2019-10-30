@@ -3,7 +3,7 @@ pid: index_3398
 volume: Volume 3
 image_number: '39'
 head: to retain
-entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [To Retain]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Retain]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3398'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/full/0/default.jpg
 label: to retain
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Last day of Judgmt
 topic: Last day of Judgmt
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_060/'>33 [Last day]</a>|<a href='/New_Beehive/toc/toc2_183/'>988
+xref: "<a href='/digital-beehive/toc/toc2_060/'>33 [Last day]</a>|<a href='/digital-beehive/toc/toc2_183/'>988
   [Last day of Judgmt]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2204/'>last day</a>"
+index: "<a href='/digital-beehive/index3/index_2204/'>last day</a>"
 insertion_xref: 
 insertion: 
 item: "#item-aaa97c3ac"
@@ -26,7 +26,7 @@ order: '510'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,2989,369/full/0/default.jpg
 label: Last day of Judgmt
-location: "<a href='/New_Beehive/toc/toc2_016/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

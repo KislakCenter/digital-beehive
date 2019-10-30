@@ -7,7 +7,7 @@ entry: a
 topic: 
 first_letter: insertion
 xref: 
-see: "<a href='/New_Beehive/index5/index_4603/'>wood</a>"
+see: "<a href='/digital-beehive/index5/index_4603/'>wood</a>"
 page: 
 add: 
 type: Index
@@ -24,7 +24,7 @@ order: '4684'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/full/0/default.jpg
 label: forrest
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

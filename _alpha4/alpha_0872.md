@@ -6,13 +6,13 @@ head:
 entry: Singing
 topic: Singing
 first_letter: S
-xref: "<a href='/New_Beehive/alpha3/alpha_0616/'>Musick</a>|<a href='/New_Beehive/alpha4/alpha_0751/'>Psalm</a>|<a
-  href='/New_Beehive/toc/toc2_118/'>483 [Singing]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0616/'>Musick</a>|<a href='/digital-beehive/alpha4/alpha_0751/'>Psalm</a>|<a
+  href='/digital-beehive/toc/toc2_118/'>483 [Singing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3727/'>Singing</a>"
+index: "<a href='/digital-beehive/index4/index_3727/'>Singing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d8a54e24a"
@@ -26,7 +26,7 @@ order: '872'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,3078,576/full/0/default.jpg
 label: Singing
-location: "<a href='/New_Beehive/toc/toc2_043/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,11 +3,11 @@ pid: index_4489
 volume: Volume 3
 image_number: '52'
 head: watch
-entry: 758 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_268/'>1374 [a Clock]</a>
+entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_268/'>1374 [a Clock]</a>
 topic: 
 first_letter: W
 xref: 
-see: "<a href='/New_Beehive/index1/index_0696/'>Clock</a>"
+see: "<a href='/digital-beehive/index1/index_0696/'>Clock</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '4489'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/532,900,577,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/532,900,577,158/full/0/default.jpg
 label: watch
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_3091
 volume: Volume 3
 image_number: '36'
 head: postil
-entry: "<a href='/New_Beehive/toc/toc2_275/'>1409 [a Sermon]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_275/'>1409 [a Sermon]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3091'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1142,2306,506,174/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1142,2306,506,174/full/0/default.jpg
 label: postil
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

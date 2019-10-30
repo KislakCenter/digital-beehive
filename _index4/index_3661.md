@@ -3,7 +3,7 @@ pid: index_3661
 volume: Volume 3
 image_number: '42'
 head: shamefaced
-entry: "<a href='/New_Beehive/alpha4/alpha_0856/'>a</a>|789 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0856/'>a</a>|789 [PAGE_MISSING]"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3661'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1066,2785,601,158/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1066,2785,601,158/full/0/default.jpg
 label: shamefaced
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

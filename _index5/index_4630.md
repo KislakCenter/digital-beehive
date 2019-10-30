@@ -3,7 +3,7 @@ pid: index_4630
 volume: Volume 3
 image_number: '53'
 head: wrath of God
-entry: "<a href='/New_Beehive/alpha5/alpha_1055/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1055/'>a</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4630'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1579,694,397,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1579,694,397,108/full/0/default.jpg
 label: wrath of God
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

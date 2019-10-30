@@ -3,7 +3,7 @@ pid: index_4606
 volume: Volume 3
 image_number: '53'
 head: word
-entry: "<a href='/New_Beehive/toc/toc2_264/'>1353 [Word]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Word]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4606'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,1706,380,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,1706,380,87/full/0/default.jpg
 label: word
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

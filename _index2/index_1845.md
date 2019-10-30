@@ -3,7 +3,7 @@ pid: index_1845
 volume: Volume 3
 image_number: '24'
 head: history ecclesiastical
-entry: "<a href='/New_Beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1845'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/full/0/default.jpg
 label: history ecclesiastical
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

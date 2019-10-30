@@ -3,7 +3,7 @@ pid: index_4533
 volume: Volume 3
 image_number: '52'
 head: a little while
-entry: "<a href='/New_Beehive/toc/toc2_204/'>1053 [Sometimes]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_204/'>1053 [Sometimes]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4533'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/full/0/default.jpg
 label: a little while
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

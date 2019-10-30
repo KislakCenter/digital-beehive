@@ -24,7 +24,7 @@ order: '703'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/859,1964,427,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/859,1964,427,103/full/0/default.jpg
 label: cloves
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

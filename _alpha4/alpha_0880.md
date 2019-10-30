@@ -6,12 +6,12 @@ head:
 entry: Smell
 topic: Smell
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_315/'>1603 [Smell]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Smell]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3761/'>smell</a>"
+index: "<a href='/digital-beehive/index4/index_3761/'>smell</a>"
 insertion_xref: 
 insertion: 
 item: "#item-454c80e0f"
@@ -24,7 +24,7 @@ order: '880'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,2976,519/full/0/default.jpg
 label: Smell
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

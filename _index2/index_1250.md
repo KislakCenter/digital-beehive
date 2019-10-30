@@ -3,8 +3,8 @@ pid: index_1250
 volume: Volume 3
 image_number: '18'
 head: endeavour
-entry: "<a href='/New_Beehive/toc/toc2_128/'>550 [Endeavour]</a>|<a href='/New_Beehive/toc/toc2_258/'>1324
-  [Endeavour]</a>|<a href='/New_Beehive/toc/toc2_367/'>2017 [Endeavour]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_128/'>550 [Endeavour]</a>|<a href='/digital-beehive/toc/toc2_258/'>1324
+  [Endeavour]</a>|<a href='/digital-beehive/toc/toc2_367/'>2017 [Endeavour]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -26,7 +26,7 @@ order: '1250'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/full/0/default.jpg
 label: endeavour
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

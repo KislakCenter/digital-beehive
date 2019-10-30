@@ -6,13 +6,13 @@ head:
 entry: Stratagem
 topic: Stratagem
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/New_Beehive/toc/toc2_329/'>1673
+xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/digital-beehive/toc/toc2_329/'>1673
   [Stratagem]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3933/'>stratagem</a>"
+index: "<a href='/digital-beehive/index4/index_3933/'>stratagem</a>"
 insertion_xref: 
 insertion: 
 item: "#item-0e3fd711f"
@@ -26,7 +26,7 @@ order: '910'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,3038,547/full/0/default.jpg
 label: Stratagem
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

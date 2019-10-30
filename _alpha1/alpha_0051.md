@@ -6,13 +6,13 @@ head:
 entry: Babylon
 topic: Babylon
 first_letter: B
-xref: "<a href='/New_Beehive/alpha4/alpha_0807/'>Rome</a>|<a href='/New_Beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/New_Beehive/toc/toc2_177/'>952 [Babel]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0807/'>Rome</a>|<a href='/digital-beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
+  href='/digital-beehive/toc/toc2_177/'>952 [Babel]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0261/'>babylon</a>"
+index: "<a href='/digital-beehive/index1/index_0261/'>babylon</a>"
 insertion_xref: 
 insertion: 
 item: "#item-43ad5283e"
@@ -26,7 +26,7 @@ order: '51'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/826,4020,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/826,4020,2941,506/full/0/default.jpg
 label: Babylon
-location: "<a href='/New_Beehive/toc/toc1_424/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

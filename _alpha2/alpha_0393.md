@@ -6,12 +6,13 @@ head:
 entry: Happiness of the Wicked
 topic: Happiness of the Wicked
 first_letter: H
-xref: "<a href='/New_Beehive/toc/toc2_172/'>923 [Blessings of God be upon the wicked]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_172/'>923 [Blessings of God be upon the
+  wicked]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1751/'>happiness of the wicked</a>"
+index: "<a href='/digital-beehive/index2/index_1751/'>happiness of the wicked</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7b5ae19be"
@@ -25,7 +26,7 @@ order: '393'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,2919,442/full/0/default.jpg
 label: Happiness of the Wicked
-location: "<a href='/New_Beehive/toc/toc2_006/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

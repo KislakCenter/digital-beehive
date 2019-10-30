@@ -3,8 +3,8 @@ pid: index_1906
 volume: Volume 3
 image_number: '24'
 head: hunger
-entry: "<a href='/New_Beehive/alpha2/alpha_0437/'>a</a>|<a href='/New_Beehive/toc/toc2_157/'>710
-  [Hunger]</a>|<a href='/New_Beehive/toc/toc2_375/'>2095 [Hunger]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0437/'>a</a>|<a href='/digital-beehive/toc/toc2_157/'>710
+  [Hunger]</a>|<a href='/digital-beehive/toc/toc2_375/'>2095 [Hunger]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -25,7 +25,7 @@ order: '1906'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1838,2144,645,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1838,2144,645,152/full/0/default.jpg
 label: hunger
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

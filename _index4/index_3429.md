@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: R
 xref: 
-see: "<a href='/New_Beehive/index4/index_3651/'>severity</a>"
+see: "<a href='/digital-beehive/index4/index_3651/'>severity</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3429'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,2448,616,188/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,2448,616,188/full/0/default.jpg
 label: rigour
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

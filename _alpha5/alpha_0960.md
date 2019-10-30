@@ -11,7 +11,7 @@ see:
 page: p.377 [Image 2.199]
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4191/'>toothach</a>"
+index: "<a href='/digital-beehive/index5/index_4191/'>toothach</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e7678121e"
@@ -24,7 +24,7 @@ order: '960'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,2924,347/full/0/default.jpg
 label: Toothach
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

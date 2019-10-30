@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: P
 xref: 
-see: "<a href='/New_Beehive/index3/index_1949/'>ignoble</a>"
+see: "<a href='/digital-beehive/index3/index_1949/'>ignoble</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2882'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/full/0/default.jpg
 label: parentage
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

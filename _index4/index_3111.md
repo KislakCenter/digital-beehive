@@ -3,8 +3,8 @@ pid: index_3111
 volume: Volume 3
 image_number: '36'
 head: prayers & Lords prayer
-entry: "<a href='/New_Beehive/alpha4/alpha_0718/'>a</a>|<a href='/New_Beehive/toc/toc2_272/'>1391
-  [Prayer]</a>|<a href='/New_Beehive/toc/toc2_360/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>|<a href='/digital-beehive/toc/toc2_272/'>1391
+  [Prayer]</a>|<a href='/digital-beehive/toc/toc2_360/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
@@ -26,7 +26,7 @@ order: '3111'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1019,703,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1019,703,161/full/0/default.jpg
 label: prayers & Lords prayer
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

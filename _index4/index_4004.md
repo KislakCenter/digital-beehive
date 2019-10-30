@@ -3,7 +3,7 @@ pid: index_4004
 volume: Volume 3
 image_number: '46'
 head: surnames
-entry: "<a href='/New_Beehive/toc/toc2_085/'>252 [Surnames]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_085/'>252 [Surnames]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '4004'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/480,3340,477,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/480,3340,477,150/full/0/default.jpg
 label: surnames
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

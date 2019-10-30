@@ -3,7 +3,7 @@ pid: index_0026
 volume: Volume 3
 image_number: '7'
 head: according
-entry: "<a href='/New_Beehive/toc/toc2_268/'>1372 [According]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_268/'>1372 [According]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '26'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/177,2274,529,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/177,2274,529,165/full/0/default.jpg
 label: according
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

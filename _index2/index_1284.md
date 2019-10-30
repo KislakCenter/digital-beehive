@@ -3,7 +3,7 @@ pid: index_1284
 volume: Volume 3
 image_number: '19'
 head: epistolography
-entry: "<a href='/New_Beehive/toc/toc2_310/'>1576 [Vulgar Titles]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_310/'>1576 [Vulgar Titles]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1284'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,848,668,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,848,668,165/full/0/default.jpg
 label: epistolography
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

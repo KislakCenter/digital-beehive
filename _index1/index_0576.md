@@ -3,8 +3,8 @@ pid: index_0576
 volume: Volume 3
 image_number: '12'
 head: celibate
-entry: "<a href='/New_Beehive/alpha1/alpha_0132/'>a</a>|<a href='/New_Beehive/toc/toc2_254/'>1304
-  [Celibate]</a>|<a href='/New_Beehive/toc/toc2_378/'>2128 [Celibate]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0132/'>a</a>|<a href='/digital-beehive/toc/toc2_254/'>1304
+  [Celibate]</a>|<a href='/digital-beehive/toc/toc2_378/'>2128 [Celibate]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '576'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1124,990,706,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1124,990,706,121/full/0/default.jpg
 label: celibate
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

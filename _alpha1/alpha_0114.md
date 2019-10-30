@@ -6,13 +6,13 @@ head:
 entry: Calumny
 topic: Calumny
 first_letter: C
-xref: "<a href='/New_Beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/New_Beehive/toc/toc2_147/'>653
-  [Slander]</a>|<a href='/New_Beehive/toc/toc2_151/'>680 [Scheltwort]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0876/'>Slander</a>|<a href='/digital-beehive/toc/toc2_147/'>653
+  [Slander]</a>|<a href='/digital-beehive/toc/toc2_151/'>680 [Scheltwort]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0515/'>calumny</a>"
+index: "<a href='/digital-beehive/index1/index_0515/'>calumny</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d4633b6e6"
@@ -26,7 +26,7 @@ order: '114'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/296,1689,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/296,1689,3225,706/full/0/default.jpg
 label: Calumny
-location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

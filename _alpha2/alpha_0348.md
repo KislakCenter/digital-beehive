@@ -6,13 +6,13 @@ head:
 entry: Friendship
 topic: Friendship
 first_letter: F
-xref: familiarity|<a href='/New_Beehive/toc/toc2_058/'>1 [Familiarity]</a>|<a href='/New_Beehive/toc/toc2_110/'>429
-  [Friendship]</a>
+xref: familiarity|<a href='/digital-beehive/toc/toc2_058/'>1 [Familiarity]</a>|<a
+  href='/digital-beehive/toc/toc2_110/'>429 [Friendship]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1547/'>friendship</a>"
+index: "<a href='/digital-beehive/index2/index_1547/'>friendship</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5f9c379a0"
@@ -26,7 +26,7 @@ order: '348'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/397,2397,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/397,2397,3028,702/full/0/default.jpg
 label: Friendship
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

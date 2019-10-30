@@ -3,7 +3,7 @@ pid: index_4078
 volume: Volume 3
 image_number: '47'
 head: Te Deum
-entry: "<a href='/New_Beehive/toc/toc2_257/'>1318 [Te Deum]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1318 [Te Deum]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4078'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/172,1129,385,86/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/172,1129,385,86/full/0/default.jpg
 label: Te Deum
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

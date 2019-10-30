@@ -6,13 +6,13 @@ head:
 entry: Images
 topic: Images
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha3/alpha_0444/'>Idolatry</a>|<a href='/New_Beehive/toc/toc2_178/'>955
+xref: "<a href='/digital-beehive/alpha3/alpha_0444/'>Idolatry</a>|<a href='/digital-beehive/toc/toc2_178/'>955
   [Images]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_1957/'>images</a>"
+index: "<a href='/digital-beehive/index3/index_1957/'>images</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5c5901a59"
@@ -25,7 +25,7 @@ order: '454'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/389,3479,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/389,3479,3010,562/full/0/default.jpg
 label: Images
-location: "<a href='/New_Beehive/toc/toc2_011/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

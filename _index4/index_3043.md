@@ -3,8 +3,8 @@ pid: index_3043
 volume: Volume 3
 image_number: '36'
 head: pleasure
-entry: "<a href='/New_Beehive/alpha4/alpha_0707/'>a</a>|<a href='/New_Beehive/toc/toc2_164/'>882
-  [Pleasure]</a>|<a href='/New_Beehive/toc/toc2_358/'>1947 [Pleasure]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0707/'>a</a>|<a href='/digital-beehive/toc/toc2_164/'>882
+  [Pleasure]</a>|<a href='/digital-beehive/toc/toc2_358/'>1947 [Pleasure]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3043'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/457,868,741,165/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/457,868,741,165/full/0/default.jpg
 label: pleasure
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

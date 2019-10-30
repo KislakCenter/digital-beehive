@@ -6,12 +6,12 @@ head:
 entry: Bugs
 topic: Bugs
 first_letter: B
-xref: "<a href='/New_Beehive/alpha3/alpha_0559/'>Lowse</a>|<a href='/New_Beehive/alpha2/alpha_0329/'>Flea</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0559/'>Lowse</a>|<a href='/digital-beehive/alpha2/alpha_0329/'>Flea</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0473/'>bugs</a>"
+index: "<a href='/digital-beehive/index1/index_0473/'>bugs</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fe1ae6c9a"
@@ -24,7 +24,7 @@ order: '105'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/821,3600,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/821,3600,2931,304/full/0/default.jpg
 label: Bugs
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

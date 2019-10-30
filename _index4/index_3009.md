@@ -3,8 +3,8 @@ pid: index_3009
 volume: Volume 3
 image_number: '35'
 head: to pill
-entry: "<a href='/New_Beehive/toc/toc2_148/'>659 [to shale, decorticaze & tear, to
-  shell]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to shale, decorticaze & tear,
+  to shell]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -25,7 +25,7 @@ order: '3009'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/full/0/default.jpg
 label: to pill
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

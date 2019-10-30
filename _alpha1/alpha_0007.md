@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0045/'>admonishing</a>"
+index: "<a href='/digital-beehive/index1/index_0045/'>admonishing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-60ce01426"
@@ -24,7 +24,7 @@ order: '7'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/314,3220,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/314,3220,3087,603/full/0/default.jpg
 label: Admonishing
-location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

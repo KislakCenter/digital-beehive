@@ -3,7 +3,7 @@ pid: index_3522
 volume: Volume 3
 image_number: '41'
 head: satisfaction
-entry: "<a href='/New_Beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3522'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/full/0/default.jpg
 label: satisfaction
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

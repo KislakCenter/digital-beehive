@@ -3,7 +3,7 @@ pid: index_2668
 volume: Volume 3
 image_number: '32'
 head: near
-entry: "<a href='/New_Beehive/toc/toc2_156/'>703 [Near]</a>|813 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_156/'>703 [Near]</a>|813 [PAGE_MISSING]"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2668'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/378,2696,511,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/378,2696,511,85/full/0/default.jpg
 label: near
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

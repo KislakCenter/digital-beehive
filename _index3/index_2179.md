@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: K
 xref: 
-see: "<a href='/New_Beehive/index1/index_1010/'>denial</a>"
+see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2179'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/full/0/default.jpg
 label: Korb
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

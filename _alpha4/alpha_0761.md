@@ -6,13 +6,13 @@ head:
 entry: Quick
 topic: Quick
 first_letter: Q
-xref: "<a href='/New_Beehive/toc/toc2_090/'>292 [Drowsiness]</a>|<a href='/New_Beehive/toc/toc2_127/'>541
+xref: "<a href='/digital-beehive/toc/toc2_090/'>292 [Drowsiness]</a>|<a href='/digital-beehive/toc/toc2_127/'>541
   [Alacrity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3260/'>quick</a>"
+index: "<a href='/digital-beehive/index4/index_3260/'>quick</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b20118d32"
@@ -26,7 +26,7 @@ order: '761'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/367,2363,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/367,2363,2971,243/full/0/default.jpg
 label: Quick
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

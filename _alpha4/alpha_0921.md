@@ -6,13 +6,13 @@ head:
 entry: Superstition
 topic: Superstition
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_1050/'>will Worship</a>|<a href='/New_Beehive/toc/toc2_176/'>946
+xref: "<a href='/digital-beehive/alpha5/alpha_1050/'>will Worship</a>|<a href='/digital-beehive/toc/toc2_176/'>946
   [Superstition]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3990/'>superstition</a>"
+index: "<a href='/digital-beehive/index4/index_3990/'>superstition</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e36d3949a"
@@ -26,7 +26,7 @@ order: '921'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/769,4461,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/769,4461,2941,602/full/0/default.jpg
 label: Superstition
-location: "<a href='/New_Beehive/toc/toc2_046/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

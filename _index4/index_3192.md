@@ -3,7 +3,7 @@ pid: index_3192
 volume: Volume 3
 image_number: '37'
 head: proof, or trial
-entry: "<a href='/New_Beehive/alpha4/alpha_0741/'>a</a>|<a href='/New_Beehive/toc/toc2_118/'>487
+entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|<a href='/digital-beehive/toc/toc2_118/'>487
   [Proof. Try all]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3192'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,260,671,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,260,671,130/full/0/default.jpg
 label: proof, or trial
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

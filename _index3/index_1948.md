@@ -3,7 +3,7 @@ pid: index_1948
 volume: Volume 3
 image_number: '25'
 head: ignis fatuus
-entry: "<a href='/New_Beehive/toc/toc2_312/'>1589 [Ignis fatuus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_312/'>1589 [Ignis fatuus]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1948'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/156,2823,607,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/156,2823,607,168/full/0/default.jpg
 label: ignis fatuus
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

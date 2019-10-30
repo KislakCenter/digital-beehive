@@ -3,7 +3,7 @@ pid: index_2670
 volume: Volume 3
 image_number: '32'
 head: neatherlands
-entry: "<a href='/New_Beehive/toc/toc2_099/'>351 [Holland]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_099/'>351 [Holland]</a>"
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2670'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/368,2846,547,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/368,2846,547,93/full/0/default.jpg
 label: neatherlands
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

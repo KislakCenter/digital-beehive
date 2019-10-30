@@ -6,13 +6,13 @@ head:
 entry: Seducing
 topic: Seducing
 first_letter: S
-xref: "<a href='/New_Beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/New_Beehive/toc/toc2_224/'>1152
+xref: "<a href='/digital-beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/digital-beehive/toc/toc2_224/'>1152
   [Seducing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3591/'>seducing</a>"
+index: "<a href='/digital-beehive/index4/index_3591/'>seducing</a>"
 insertion_xref: 
 insertion: 
 item: "#item-cf90882e1"
@@ -26,7 +26,7 @@ order: '836'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,3104,356/full/0/default.jpg
 label: Seducing
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

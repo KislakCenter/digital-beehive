@@ -3,7 +3,7 @@ pid: index_0811
 volume: Volume 3
 image_number: '14'
 head: consistory
-entry: "<a href='/New_Beehive/toc/toc2_105/'>399 [Consistory]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_105/'>399 [Consistory]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '811'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,2277,526,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,2277,526,92/full/0/default.jpg
 label: consistory
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

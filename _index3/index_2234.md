@@ -3,7 +3,7 @@ pid: index_2234
 volume: Volume 3
 image_number: '28'
 head: to leak
-entry: "<a href='/New_Beehive/toc/toc2_101/'>371 [Leak or leakage]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_101/'>371 [Leak or leakage]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2234'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/full/0/default.jpg
 label: to leak
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

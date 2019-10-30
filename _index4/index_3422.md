@@ -3,7 +3,7 @@ pid: index_3422
 volume: Volume 3
 image_number: '40'
 head: rickets
-entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Rickets]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Rickets]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3422'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,1804,466,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,1804,466,138/full/0/default.jpg
 label: rickets
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

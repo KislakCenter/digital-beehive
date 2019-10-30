@@ -3,7 +3,7 @@ pid: index_3618
 volume: Volume 3
 image_number: '42'
 head: Self hatred
-entry: "<a href='/New_Beehive/alpha4/alpha_0842/'>a</a>|<a href='/New_Beehive/toc/toc2_162/'>874
+entry: "<a href='/digital-beehive/alpha4/alpha_0842/'>a</a>|<a href='/digital-beehive/toc/toc2_162/'>874
   [Self-hatred]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3618'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/376,1484,695,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/376,1484,695,116/full/0/default.jpg
 label: Self hatred
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

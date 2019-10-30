@@ -3,13 +3,14 @@ pid: index_0730
 volume: Volume 3
 image_number: '13'
 head: comedy
-entry: "<a href='/New_Beehive/alpha1/alpha_0153/'>a</a>|<a href='/New_Beehive/toc/toc2_169/'>909
-  [Comedies]</a>|<a href='/New_Beehive/toc/toc2_269/'>1380 [Comedie]</a>|4558 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0153/'>a</a>|<a href='/digital-beehive/toc/toc2_169/'>909
+  [Comedies]</a>|<a href='/digital-beehive/toc/toc2_269/'>1380 [Comedie]</a>|4558
+  [PAGE_MISSING]"
 topic: 
 first_letter: C
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +27,7 @@ order: '730'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/full/0/default.jpg
 label: comedy
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

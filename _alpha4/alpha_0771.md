@@ -6,12 +6,12 @@ head:
 entry: Rebellion
 topic: Rebellion
 first_letter: R
-xref: "<a href='/New_Beehive/toc/toc2_143/'>630 [Rebellion]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_143/'>630 [Rebellion]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3312/'>rebellion</a>"
+index: "<a href='/digital-beehive/index4/index_3312/'>rebellion</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7fe9ac8ca"
@@ -24,7 +24,7 @@ order: '771'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/835,623,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/835,623,2956,543/full/0/default.jpg
 label: Rebellion
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_4051
 volume: Volume 3
 image_number: '46'
 head: talent
-entry: "<a href='/New_Beehive/toc/toc2_062/'>56 [Talents]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_062/'>56 [Talents]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4051'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/full/0/default.jpg
 label: talent
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_1164
 volume: Volume 3
 image_number: '18'
 head: duck
-entry: "<a href='/New_Beehive/alpha1/alpha_0264/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0264/'>a</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1164'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/441,207,323,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/441,207,323,144/full/0/default.jpg
 label: duck
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

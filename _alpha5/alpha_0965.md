@@ -6,13 +6,13 @@ head:
 entry: Transitory
 topic: Transitory
 first_letter: T
-xref: "<a href='/New_Beehive/alpha5/alpha_0977/'>Vanity</a>|<a href='/New_Beehive/toc/toc2_172/'>922
+xref: "<a href='/digital-beehive/alpha5/alpha_0977/'>Vanity</a>|<a href='/digital-beehive/toc/toc2_172/'>922
   [Transitory]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4217/'>transitory</a>"
+index: "<a href='/digital-beehive/index5/index_4217/'>transitory</a>"
 insertion_xref: 
 insertion: 
 item: "#item-925341921"
@@ -26,7 +26,7 @@ order: '965'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/792,1250,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/792,1250,2977,528/full/0/default.jpg
 label: Transitory
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,7 +3,7 @@ pid: index_0974
 volume: Volume 3
 image_number: '15'
 head: to debase
-entry: "<a href='/New_Beehive/toc/toc2_259/'>1326 [To debase]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [To debase]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '974'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1533,3586,521,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1533,3586,521,118/full/0/default.jpg
 label: to debase
-location: "<a href='/New_Beehive/toc/toc3_15/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

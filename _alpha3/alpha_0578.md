@@ -6,12 +6,12 @@ head:
 entry: Mediocrity
 topic: Mediocrity
 first_letter: M
-xref: "<a href='/New_Beehive/toc/toc2_214/'>1103 [Mediocrity]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_214/'>1103 [Mediocrity]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2468/'>mediocrity</a>"
+index: "<a href='/digital-beehive/index3/index_2468/'>mediocrity</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8c6e50d25"
@@ -24,7 +24,7 @@ order: '578'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/743,652,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/743,652,3036,481/full/0/default.jpg
 label: Mediocrity
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

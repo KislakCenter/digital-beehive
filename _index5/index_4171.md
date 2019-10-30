@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4723/'>tomb</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4723/'>tomb</a>"
 insertion: 
 item: "#item-70d4a6a5c"
 unparsed: 'Type: Index|Insertion Xref: [:54.]|#item-70d4a6a5c'
@@ -24,7 +24,7 @@ order: '4171'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/999,820,155,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/999,820,155,130/full/0/default.jpg
 label: "[:54.]"
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

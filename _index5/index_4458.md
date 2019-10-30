@@ -3,7 +3,7 @@ pid: index_4458
 volume: Volume 3
 image_number: '51'
 head: wager
-entry: "<a href='/New_Beehive/alpha5/alpha_1007/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1007/'>a</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4458'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/966,3332,359,112/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/966,3332,359,112/full/0/default.jpg
 label: wager
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

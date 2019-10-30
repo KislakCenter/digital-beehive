@@ -6,12 +6,12 @@ head:
 entry: Angel
 topic: Angel
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_093/'>315 [Angels]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_093/'>315 [Angels]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0142/'>angel</a>"
+index: "<a href='/digital-beehive/index1/index_0142/'>angel</a>"
 insertion_xref: 
 insertion: 
 item: "#item-3a6988f22"
@@ -24,7 +24,7 @@ order: '29'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/290,1311,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/290,1311,3154,436/full/0/default.jpg
 label: Angel
-location: "<a href='/New_Beehive/toc/toc1_423/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

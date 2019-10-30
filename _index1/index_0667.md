@@ -3,7 +3,7 @@ pid: index_0667
 volume: Volume 3
 image_number: '13'
 head: Cicero
-entry: "<a href='/New_Beehive/toc/toc2_236/'>1212 [Cicero]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1212 [Cicero]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '667'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/169,1859,349,94/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/169,1859,349,94/full/0/default.jpg
 label: Cicero
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

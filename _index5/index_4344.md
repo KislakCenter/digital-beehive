@@ -3,7 +3,7 @@ pid: index_4344
 volume: Volume 3
 image_number: '49'
 head: vision
-entry: "<a href='/New_Beehive/toc/toc2_107/'>409 [Vision]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_107/'>409 [Vision]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4344'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,2752,414,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,2752,414,142/full/0/default.jpg
 label: vision
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

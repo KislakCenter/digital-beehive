@@ -24,7 +24,7 @@ order: '3921'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/897,763,371,105/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/897,763,371,105/full/0/default.jpg
 label: stove
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

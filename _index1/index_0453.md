@@ -3,12 +3,12 @@ pid: index_0453
 volume: Volume 3
 image_number: '11'
 head: bridge
-entry: "<a href='/New_Beehive/alpha1/alpha_0101/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0101/'>a</a>"
 topic: 
 first_letter: B
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '453'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/162,2133,467,173/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/162,2133,467,173/full/0/default.jpg
 label: bridge
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

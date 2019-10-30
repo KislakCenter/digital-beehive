@@ -6,13 +6,13 @@ head:
 entry: Advantage
 topic: Advantage
 first_letter: A
-xref: "<a href='/New_Beehive/alpha4/alpha_0735/'>Profit</a>|<a href='/New_Beehive/alpha1/alpha_0079/'>Benefit</a>|<a
-  href='/New_Beehive/alpha5/alpha_1005/'>Utility</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Profit</a>|<a href='/digital-beehive/alpha1/alpha_0079/'>Benefit</a>|<a
+  href='/digital-beehive/alpha5/alpha_1005/'>Utility</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0047/'>advantage</a>"
+index: "<a href='/digital-beehive/index1/index_0047/'>advantage</a>"
 insertion_xref: 
 insertion: 
 item: "#item-186cc582d"
@@ -26,7 +26,7 @@ order: '8'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,3011,473/full/0/default.jpg
 label: Advantage
-location: "<a href='/New_Beehive/toc/toc1_421/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

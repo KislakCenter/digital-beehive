@@ -3,7 +3,7 @@ pid: index_1825
 volume: Volume 3
 image_number: '24'
 head: heterodox
-entry: "<a href='/New_Beehive/toc/toc2_102/'>373 [Heterodox]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_102/'>373 [Heterodox]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1825'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/full/0/default.jpg
 label: heterodox
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

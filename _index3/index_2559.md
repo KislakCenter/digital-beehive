@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: M
 xref: 
-see: "<a href='/New_Beehive/index5/index_4248/'>trouble</a>"
+see: "<a href='/digital-beehive/index5/index_4248/'>trouble</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2559'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/151,3064,546,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/151,3064,546,184/full/0/default.jpg
 label: molest
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

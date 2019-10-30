@@ -7,8 +7,8 @@ entry:
 topic: 
 first_letter: E
 xref: 
-see: "<a href='/New_Beehive/index1/index_0375/'>Birds</a>"
-page: "<a href='/New_Beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
+see: "<a href='/digital-beehive/index1/index_0375/'>Birds</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1306'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/118,3424,692,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/118,3424,692,162/full/0/default.jpg
 label: estrich
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

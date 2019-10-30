@@ -3,7 +3,7 @@ pid: index_0305
 volume: Volume 3
 image_number: '9'
 head: bastard
-entry: "<a href='/New_Beehive/alpha1/alpha_0063/'>a</a>|<a href='/New_Beehive/toc/toc2_181/'>972
+entry: "<a href='/digital-beehive/alpha1/alpha_0063/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>972
   [Bastard]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '305'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1616,345,517,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1616,345,517,121/full/0/default.jpg
 label: bastard
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

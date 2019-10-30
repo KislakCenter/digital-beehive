@@ -3,7 +3,7 @@ pid: index_1564
 volume: Volume 3
 image_number: '21'
 head: fund
-entry: "<a href='/New_Beehive/toc/toc2_143/'>632 [Stock]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_143/'>632 [Stock]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1564'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,886,325,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,886,325,103/full/0/default.jpg
 label: fund
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

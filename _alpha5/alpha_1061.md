@@ -6,13 +6,13 @@ head:
 entry: Zeal
 topic: Zeal
 first_letter: Z
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|Lukewarmness|<a href='/New_Beehive/toc/toc2_074/'>180
-  [Zeal]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0229/'>Devotion</a>|Lukewarmness|<a
+  href='/digital-beehive/toc/toc2_074/'>180 [Zeal]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4654/'>Zeal</a>"
+index: "<a href='/digital-beehive/index5/index_4654/'>Zeal</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1ca6147fc"
@@ -26,7 +26,7 @@ order: '1061'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,4287,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,4287,3001,434/full/0/default.jpg
 label: Zeal
-location: "<a href='/New_Beehive/toc/toc2_057/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

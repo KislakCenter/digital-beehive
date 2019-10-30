@@ -3,8 +3,8 @@ pid: index_0510
 volume: Volume 3
 image_number: '11'
 head: calling
-entry: "<a href='/New_Beehive/alpha1/alpha_0113/'>a</a>|<a href='/New_Beehive/toc/toc2_168/'>904
-  [Calling]</a>|<a href='/New_Beehive/toc/toc2_178/'>953 [Call]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0113/'>a</a>|<a href='/digital-beehive/toc/toc2_168/'>904
+  [Calling]</a>|<a href='/digital-beehive/toc/toc2_178/'>953 [Call]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -25,7 +25,7 @@ order: '510'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,512,666,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,512,666,103/full/0/default.jpg
 label: calling
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

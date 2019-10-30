@@ -3,9 +3,10 @@ pid: index_0215
 volume: Volume 3
 image_number: '8'
 head: articles of faith
-entry: "<a href='/New_Beehive/alpha1/alpha_0046/'>a</a>|<a href='/New_Beehive/toc/toc2_134/'>581
-  [Articles of faith]</a>|<a href='/New_Beehive/toc/toc2_331/'>1684 [Points of Christian
-  Religion]</a>|<a href='/New_Beehive/toc/toc2_411/'>2367 [Articles of Faith]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0046/'>a</a>|<a href='/digital-beehive/toc/toc2_134/'>581
+  [Articles of faith]</a>|<a href='/digital-beehive/toc/toc2_331/'>1684 [Points of
+  Christian Religion]</a>|<a href='/digital-beehive/toc/toc2_411/'>2367 [Articles
+  of Faith]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -27,7 +28,7 @@ order: '215'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1797,1608,712,178/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1797,1608,712,178/full/0/default.jpg
 label: articles of faith
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

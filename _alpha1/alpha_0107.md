@@ -6,13 +6,13 @@ head:
 entry: Building
 topic: Building
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0343/'>foundation</a>|<a href='/New_Beehive/alpha2/alpha_0434/'>house</a>|<a
-  href='/New_Beehive/toc/toc2_327/'>1662 [Architecture]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0343/'>foundation</a>|<a href='/digital-beehive/alpha2/alpha_0434/'>house</a>|<a
+  href='/digital-beehive/toc/toc2_327/'>1662 [Architecture]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0474/'>building</a>"
+index: "<a href='/digital-beehive/index1/index_0474/'>building</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b623cd115"
@@ -26,7 +26,7 @@ order: '107'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,4265,2941,492/full/0/default.jpg
 label: Building
-location: "<a href='/New_Beehive/toc/toc1_428/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

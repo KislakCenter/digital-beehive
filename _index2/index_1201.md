@@ -3,9 +3,10 @@ pid: index_1201
 volume: Volume 3
 image_number: '18'
 head: ecclesiastical discipline
-entry: "<a href='/New_Beehive/alpha2/alpha_0273/'>a</a>|<a href='/New_Beehive/toc/toc2_106/'>402
-  [Order & Discipline in the Church]</a>|<a href='/New_Beehive/toc/toc2_314/'>1600
-  [Church - Discipline]</a>|<a href='/New_Beehive/toc/toc2_347/'>1808 [Church Governmnt]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0273/'>a</a>|<a href='/digital-beehive/toc/toc2_106/'>402
+  [Order & Discipline in the Church]</a>|<a href='/digital-beehive/toc/toc2_314/'>1600
+  [Church - Discipline]</a>|<a href='/digital-beehive/toc/toc2_347/'>1808 [Church
+  Governmnt]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -27,7 +28,7 @@ order: '1201'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1168,215,680,190/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1168,215,680,190/full/0/default.jpg
 label: ecclesiastical discipline
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

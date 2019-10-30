@@ -3,7 +3,7 @@ pid: index_2062
 volume: Volume 3
 image_number: '26'
 head: insolence
-entry: "<a href='/New_Beehive/toc/toc2_238/'>1224 [Insolence]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_238/'>1224 [Insolence]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2062'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1317,480,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1317,480,113/full/0/default.jpg
 label: insolence
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

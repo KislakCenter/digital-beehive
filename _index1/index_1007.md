@@ -3,7 +3,7 @@ pid: index_1007
 volume: Volume 3
 image_number: '16'
 head: Democritus
-entry: "<a href='/New_Beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1007'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1129,449,548,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1129,449,548,92/full/0/default.jpg
 label: Democritus
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

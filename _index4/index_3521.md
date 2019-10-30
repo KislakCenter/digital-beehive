@@ -3,7 +3,7 @@ pid: index_3521
 volume: Volume 3
 image_number: '41'
 head: satiety
-entry: "<a href='/New_Beehive/toc/toc2_080/'>218 [Sufficient]</a>|<a href='/New_Beehive/toc/toc2_237/'>1218
+entry: "<a href='/digital-beehive/toc/toc2_080/'>218 [Sufficient]</a>|<a href='/digital-beehive/toc/toc2_237/'>1218
   [Satiety]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3521'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/full/0/default.jpg
 label: satiety
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

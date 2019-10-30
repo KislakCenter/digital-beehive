@@ -6,13 +6,13 @@ head:
 entry: Burial
 topic: Burial
 first_letter: B
-xref: "<a href='/New_Beehive/alpha2/alpha_0352/'>funeral</a>|<a href='/New_Beehive/alpha2/alpha_0384/'>grave</a>|<a
-  href='/New_Beehive/toc/toc2_166/'>894 [Burial]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0352/'>funeral</a>|<a href='/digital-beehive/alpha2/alpha_0384/'>grave</a>|<a
+  href='/digital-beehive/toc/toc2_166/'>894 [Burial]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0480/'>burial</a>"
+index: "<a href='/digital-beehive/index1/index_0480/'>burial</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1fd7dd617"
@@ -26,7 +26,7 @@ order: '109'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,3106,447/full/0/default.jpg
 label: Burial
-location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

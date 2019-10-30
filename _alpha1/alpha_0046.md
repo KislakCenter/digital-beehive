@@ -6,12 +6,12 @@ head:
 entry: Articles of faith
 topic: Articles of faith
 first_letter: A
-xref: "<a href='/New_Beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0215/'>articles of faith</a>"
+index: "<a href='/digital-beehive/index1/index_0215/'>articles of faith</a>"
 insertion_xref: 
 insertion: 
 item: "#item-4a2192656"
@@ -25,7 +25,7 @@ order: '46'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,2022,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,2022,3031,671/full/0/default.jpg
 label: Articles of faith
-location: "<a href='/New_Beehive/toc/toc1_424/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

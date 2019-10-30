@@ -3,7 +3,7 @@ pid: index_1360
 volume: Volume 3
 image_number: '19'
 head: extemporary
-entry: "<a href='/New_Beehive/toc/toc2_108/'>416 [Extemporality]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_108/'>416 [Extemporality]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1360'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/full/0/default.jpg
 label: extemporary
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

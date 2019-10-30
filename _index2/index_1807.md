@@ -3,13 +3,13 @@ pid: index_1807
 volume: Volume 3
 image_number: '23'
 head: herb
-entry: "<a href='/New_Beehive/alpha2/alpha_0413/'>a</a>|<a href='/New_Beehive/toc/toc2_150/'>672
+entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|<a href='/digital-beehive/toc/toc2_150/'>672
   [Herbs]</a>"
 topic: 
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 type: 
 index: 
@@ -25,7 +25,7 @@ order: '1807'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1506,3230,507,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1506,3230,507,129/full/0/default.jpg
 label: herb
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

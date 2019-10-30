@@ -6,13 +6,13 @@ head:
 entry: Liberality
 topic: Liberality
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0022/'>alms</a>|<a href='/New_Beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/New_Beehive/toc/toc2_219/'>1127 [Liberality]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha2/alpha_0359/'>gift</a>|<a
+  href='/digital-beehive/toc/toc2_219/'>1127 [Liberality]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2273/'>liberality</a>"
+index: "<a href='/digital-beehive/index3/index_2273/'>liberality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-8b9784d52"
@@ -26,7 +26,7 @@ order: '530'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/346,3791,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/346,3791,3051,539/full/0/default.jpg
 label: Liberality
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

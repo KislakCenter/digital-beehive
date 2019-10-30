@@ -3,7 +3,7 @@ pid: index_2264
 volume: Volume 3
 image_number: '28'
 head: letter droppers
-entry: "<a href='/New_Beehive/toc/toc2_433/'>4829 [Letter droppers]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_433/'>4829 [Letter droppers]</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2264'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1129,830,548,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1129,830,548,116/full/0/default.jpg
 label: letter droppers
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

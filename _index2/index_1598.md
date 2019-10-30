@@ -3,7 +3,7 @@ pid: index_1598
 volume: Volume 3
 image_number: '22'
 head: gentleness
-entry: "<a href='/New_Beehive/alpha2/alpha_0356/'>a</a>|<a href='/New_Beehive/toc/toc2_235/'>1206
+entry: "<a href='/digital-beehive/alpha2/alpha_0356/'>a</a>|<a href='/digital-beehive/toc/toc2_235/'>1206
   [Gentleness]</a>|4683 [PAGE_MISSING]"
 topic: 
 first_letter: G
@@ -25,7 +25,7 @@ order: '1598'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/446,766,675,151/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/446,766,675,151/full/0/default.jpg
 label: gentleness
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

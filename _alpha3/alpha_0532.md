@@ -6,12 +6,12 @@ head:
 entry: Liberty of Conscience
 topic: Liberty of Conscience
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_129/'>557 [Liberty of Conscience]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_129/'>557 [Liberty of Conscience]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2276/'>liberty of Conscience</a>"
+index: "<a href='/digital-beehive/index3/index_2276/'>liberty of Conscience</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a7f5c69b7"
@@ -25,7 +25,7 @@ order: '532'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,3035,495/full/0/default.jpg
 label: Liberty of Conscience
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

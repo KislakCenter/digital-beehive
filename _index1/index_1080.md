@@ -3,7 +3,7 @@ pid: index_1080
 volume: Volume 3
 image_number: '17'
 head: dish clout
-entry: "<a href='/New_Beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1080'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/128,1340,549,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/128,1340,549,87/full/0/default.jpg
 label: dish clout
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

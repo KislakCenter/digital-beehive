@@ -3,7 +3,7 @@ pid: index_1955
 volume: Volume 3
 image_number: '25'
 head: illumination
-entry: "<a href='/New_Beehive/alpha3/alpha_0453/'>a</a>|<a href='/New_Beehive/toc/toc2_199/'>1027
+entry: "<a href='/digital-beehive/alpha3/alpha_0453/'>a</a>|<a href='/digital-beehive/toc/toc2_199/'>1027
   [Illumination]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '1955'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/884,264,614,111/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/884,264,614,111/full/0/default.jpg
 label: illumination
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

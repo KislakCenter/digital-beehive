@@ -3,7 +3,7 @@ pid: index_1739
 volume: Volume 3
 image_number: '23'
 head: Mr. Hales
-entry: "<a href='/New_Beehive/toc/toc2_345/'>1794 [Mr. Hales]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1794 [Mr. Hales]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1739'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/140,3627,571,123/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/140,3627,571,123/full/0/default.jpg
 label: Mr. Hales
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

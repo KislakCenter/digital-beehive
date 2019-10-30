@@ -3,12 +3,12 @@ pid: index_3284
 volume: Volume 3
 image_number: '38'
 head: rain
-entry: "<a href='/New_Beehive/alpha4/alpha_0764/'>a</a>|<a href='/New_Beehive/toc/toc2_312/'>1588</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>|<a href='/digital-beehive/toc/toc2_312/'>1588</a>"
 topic: 
 first_letter: R
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3284'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,3392,582,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,3392,582,152/full/0/default.jpg
 label: rain
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

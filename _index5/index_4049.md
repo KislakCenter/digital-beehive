@@ -3,7 +3,7 @@ pid: index_4049
 volume: Volume 3
 image_number: '46'
 head: to take heed
-entry: "<a href='/New_Beehive/toc/toc2_417/'>2407 [to Take heed]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_417/'>2407 [to Take heed]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4049'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1822,1246,496,71/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1822,1246,496,71/full/0/default.jpg
 label: to take heed
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

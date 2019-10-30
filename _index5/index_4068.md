@@ -3,7 +3,7 @@ pid: index_4068
 volume: Volume 3
 image_number: '46'
 head: tautology
-entry: "<a href='/New_Beehive/alpha5/alpha_0929/'>a</a>|<a href='/New_Beehive/toc/toc2_213/'>1097
+entry: "<a href='/digital-beehive/alpha5/alpha_0929/'>a</a>|<a href='/digital-beehive/toc/toc2_213/'>1097
   [Tautology]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4068'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1784,3243,593,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1784,3243,593,130/full/0/default.jpg
 label: tautology
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

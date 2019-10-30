@@ -6,12 +6,12 @@ head:
 entry: Psalms
 topic: Psalms
 first_letter: P
-xref: "<a href='/New_Beehive/alpha4/alpha_0872/'>Singing</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0872/'>Singing</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3218/'>psalm</a>"
+index: "<a href='/digital-beehive/index4/index_3218/'>psalm</a>"
 insertion_xref: 
 insertion: 
 item: "#item-863f88b4c"
@@ -25,7 +25,7 @@ order: '751'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/804,3851,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/804,3851,2937,492/full/0/default.jpg
 label: Psalms
-location: "<a href='/New_Beehive/toc/toc2_034/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,7 +3,7 @@ pid: index_1644
 volume: Volume 3
 image_number: '22'
 head: God's blessings
-entry: "<a href='/New_Beehive/alpha2/alpha_0365/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0365/'>a</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1644'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1146,1792,499,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1146,1792,499,139/full/0/default.jpg
 label: God's blessings
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_1414
 volume: Volume 3
 image_number: '20'
 head: father
-entry: "<a href='/New_Beehive/toc/toc2_090/'>289 [Father]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_090/'>289 [Father]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1414'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1141,338,399,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1141,338,399,116/full/0/default.jpg
 label: father
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

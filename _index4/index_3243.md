@@ -3,7 +3,7 @@ pid: index_3243
 volume: Volume 3
 image_number: '38'
 head: putrefaction
-entry: "<a href='/New_Beehive/toc/toc2_161/'>866 [To Rot]</a>|<a href='/New_Beehive/toc/toc2_376/'>2109
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Rot]</a>|<a href='/digital-beehive/toc/toc2_376/'>2109
   [Putrefaction]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3243'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/396,2478,753,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/396,2478,753,110/full/0/default.jpg
 label: putrefaction
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,8 +3,8 @@ pid: index_0839
 volume: Volume 3
 image_number: '14'
 head: conviction
-entry: "<a href='/New_Beehive/toc/toc2_100/'>362 [Conviction]</a>|<a href='/New_Beehive/toc/toc2_335/'>1706
-  [Convicting]</a>|<a href='/New_Beehive/toc/toc2_369/'>2039 [Conviction]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_100/'>362 [Conviction]</a>|<a href='/digital-beehive/toc/toc2_335/'>1706
+  [Convicting]</a>|<a href='/digital-beehive/toc/toc2_369/'>2039 [Conviction]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -26,7 +26,7 @@ order: '839'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/full/0/default.jpg
 label: conviction
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

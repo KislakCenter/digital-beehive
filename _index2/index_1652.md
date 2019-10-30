@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: <a href='/New_Beehive/index5/index_4727/'>"God's preserva[ti]on"</a>
+insertion_xref: <a href='/digital-beehive/index5/index_4727/'>"God's preserva[ti]on"</a>
 insertion: 
 item: "#item-9d0c4a311"
 unparsed: 'Type: Index|Insertion Xref: [:57.]|#item-9d0c4a311'
@@ -24,7 +24,7 @@ order: '1652'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1726,2181,179,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1726,2181,179,113/full/0/default.jpg
 label: "[:57.]"
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_3761
 volume: Volume 3
 image_number: '43'
 head: smell
-entry: "<a href='/New_Beehive/alpha4/alpha_0880/'>a</a>|<a href='/New_Beehive/toc/toc2_315/'>1603
+entry: "<a href='/digital-beehive/alpha4/alpha_0880/'>a</a>|<a href='/digital-beehive/toc/toc2_315/'>1603
   [Smell]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3761'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/886,3363,517,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/886,3363,517,120/full/0/default.jpg
 label: smell
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

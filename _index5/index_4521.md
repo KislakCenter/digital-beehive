@@ -3,7 +3,7 @@ pid: index_4521
 volume: Volume 3
 image_number: '52'
 head: wen
-entry: "<a href='/New_Beehive/toc/toc2_152/'>681 [Wen]</a>|<a href='/New_Beehive/toc/toc2_380/'>2146
+entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Wen]</a>|<a href='/digital-beehive/toc/toc2_380/'>2146
   [Wen]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4521'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1080,1760,584,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1080,1760,584,130/full/0/default.jpg
 label: wen
-location: "<a href='/New_Beehive/toc/toc3_52/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

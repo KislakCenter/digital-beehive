@@ -6,13 +6,13 @@ head:
 entry: Reconcilemt
 topic: Reconcilemt
 first_letter: R
-xref: "<a href='/New_Beehive/alpha4/alpha_0704/'>Placableness</a>|<a href='/New_Beehive/toc/toc2_102/'>379
+xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Placableness</a>|<a href='/digital-beehive/toc/toc2_102/'>379
   [Reconciliatio universalis]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3320/'>reconciliation</a>"
+index: "<a href='/digital-beehive/index4/index_3320/'>reconciliation</a>"
 insertion_xref: 
 insertion: 
 item: "#item-2542e44da"
@@ -26,7 +26,7 @@ order: '773'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,2892,390/full/0/default.jpg
 label: Reconcilemt
-location: "<a href='/New_Beehive/toc/toc2_036/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -6,13 +6,13 @@ head:
 entry: Government
 topic: Government
 first_letter: G
-xref: "<a href='/New_Beehive/alpha3/alpha_0561/'>Magistrate</a>|Kingdom|<a href='/New_Beehive/alpha4/alpha_0727/'>Prince</a>|post
+xref: "<a href='/digital-beehive/alpha3/alpha_0561/'>Magistrate</a>|Kingdom|<a href='/digital-beehive/alpha4/alpha_0727/'>Prince</a>|post
   titulos decem"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1676/'>governmt</a>"
+index: "<a href='/digital-beehive/index2/index_1676/'>governmt</a>"
 insertion_xref: 
 insertion: 
 item: "#item-92ec48ca2"
@@ -26,7 +26,7 @@ order: '375'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/386,3108,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/386,3108,3007,313/full/0/default.jpg
 label: Government
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

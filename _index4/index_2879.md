@@ -3,8 +3,8 @@ pid: index_2879
 volume: Volume 3
 image_number: '34'
 head: pardon
-entry: "<a href='/New_Beehive/alpha4/alpha_0672/'>a</a>|<a href='/New_Beehive/toc/toc2_210/'>1081
-  [Forgiveness]</a>|<a href='/New_Beehive/toc/toc2_341/'>1764 [Forgiveness]</a>|4561
+entry: "<a href='/digital-beehive/alpha4/alpha_0672/'>a</a>|<a href='/digital-beehive/toc/toc2_210/'>1081
+  [Forgiveness]</a>|<a href='/digital-beehive/toc/toc2_341/'>1764 [Forgiveness]</a>|4561
   [PAGE_MISSING]"
 topic: 
 first_letter: P
@@ -27,7 +27,7 @@ order: '2879'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/full/0/default.jpg
 label: pardon
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

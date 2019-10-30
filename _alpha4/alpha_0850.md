@@ -6,12 +6,12 @@ head:
 entry: Serjeant
 topic: Serjeant
 first_letter: S
-xref: "<a href='/New_Beehive/toc/toc2_067/'>106 [Serjant or Catchpoll]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_067/'>106 [Serjant or Catchpoll]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3642/'>serjeant</a>"
+index: "<a href='/digital-beehive/index4/index_3642/'>serjeant</a>"
 insertion_xref: 
 insertion: 
 item: "#item-93ac3f69f"
@@ -24,7 +24,7 @@ order: '850'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/322,4827,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/322,4827,2986,269/full/0/default.jpg
 label: Serjeant
-location: "<a href='/New_Beehive/toc/toc2_041/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

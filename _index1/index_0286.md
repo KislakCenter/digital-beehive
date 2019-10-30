@@ -3,7 +3,7 @@ pid: index_0286
 volume: Volume 3
 image_number: '9'
 head: bankrupt
-entry: "<a href='/New_Beehive/alpha1/alpha_0057/'>a</a>|4660 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0057/'>a</a>|4660 [PAGE_MISSING]"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '286'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,1810,607,162/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,1810,607,162/full/0/default.jpg
 label: bankrupt
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

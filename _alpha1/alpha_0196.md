@@ -6,13 +6,13 @@ head:
 entry: Cross
 topic: Cross
 first_letter: C
-xref: "<a href='/New_Beehive/alpha1/alpha_0010/'>Adversity</a>|Crucifix|<a href='/New_Beehive/toc/toc2_120/'>498
-  [Sufferings]</a>|<a href='/New_Beehive/toc/toc2_295/'>1505 [Cross]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|Crucifix|<a href='/digital-beehive/toc/toc2_120/'>498
+  [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_295/'>1505 [Cross]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0914/'>cross</a>"
+index: "<a href='/digital-beehive/index1/index_0914/'>cross</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7dd51f4f8"
@@ -26,7 +26,7 @@ order: '196'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/878,3354,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/878,3354,2905,581/full/0/default.jpg
 label: Cross
-location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

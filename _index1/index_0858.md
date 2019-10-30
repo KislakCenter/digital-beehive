@@ -3,7 +3,7 @@ pid: index_0858
 volume: Volume 3
 image_number: '14'
 head: corpulent
-entry: "<a href='/New_Beehive/toc/toc2_145/'>644 [Corpulent]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_145/'>644 [Corpulent]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '858'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3329,459,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3329,459,93/full/0/default.jpg
 label: corpulent
-location: "<a href='/New_Beehive/toc/toc3_14/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0620
 volume: Volume 3
 image_number: '12'
 head: cheese
-entry: "<a href='/New_Beehive/alpha1/alpha_0137/'>a</a>|<a href='/New_Beehive/toc/toc2_324/'>1649
+entry: "<a href='/digital-beehive/alpha1/alpha_0137/'>a</a>|<a href='/digital-beehive/toc/toc2_324/'>1649
   [Cheese]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '620'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1173,507,133/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1173,507,133/full/0/default.jpg
 label: cheese
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

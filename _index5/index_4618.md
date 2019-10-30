@@ -3,8 +3,8 @@ pid: index_4618
 volume: Volume 3
 image_number: '53'
 head: world
-entry: "<a href='/New_Beehive/alpha5/alpha_1046/'>a</a>|<a href='/New_Beehive/toc/toc2_245/'>1256
-  [World]</a>|<a href='/New_Beehive/toc/toc2_349/'>1822 [World]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/toc/toc2_245/'>1256
+  [World]</a>|<a href='/digital-beehive/toc/toc2_349/'>1822 [World]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4618'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,2878,673,129/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,2878,673,129/full/0/default.jpg
 label: world
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

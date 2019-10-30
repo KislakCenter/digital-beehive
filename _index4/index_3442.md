@@ -3,7 +3,7 @@ pid: index_3442
 volume: Volume 3
 image_number: '40'
 head: to roll
-entry: "<a href='/New_Beehive/toc/toc2_146/'>648 [To Roll]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [To Roll]</a>"
 topic: 
 first_letter: R
 xref: 
@@ -24,7 +24,7 @@ order: '3442'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/full/0/default.jpg
 label: to roll
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

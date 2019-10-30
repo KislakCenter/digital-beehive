@@ -6,12 +6,12 @@ head:
 entry: Incontinence
 topic: Incontinence
 first_letter: I/J
-xref: "<a href='/New_Beehive/alpha1/alpha_0175/'>Continency</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0175/'>Continency</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2005/'>incontinence</a>"
+index: "<a href='/digital-beehive/index3/index_2005/'>incontinence</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b52b4d5e1"
@@ -24,7 +24,7 @@ order: '467'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,2937,241/full/0/default.jpg
 label: Incontinence
-location: "<a href='/New_Beehive/toc/toc2_012/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

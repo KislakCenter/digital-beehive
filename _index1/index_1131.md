@@ -3,7 +3,7 @@ pid: index_1131
 volume: Volume 3
 image_number: '17'
 head: Dominica
-entry: "<a href='/New_Beehive/toc/toc2_297/'>1513 [Dominica]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1513 [Dominica]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1131'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,3488,557,148/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,3488,557,148/full/0/default.jpg
 label: Dominica
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

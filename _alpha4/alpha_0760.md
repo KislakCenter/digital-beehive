@@ -6,12 +6,12 @@ head:
 entry: Quicksilver
 topic: Quicksilver
 first_letter: Q
-xref: "<a href='/New_Beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3264/'>quicksilver</a>"
+index: "<a href='/digital-beehive/index4/index_3264/'>quicksilver</a>"
 insertion_xref: 
 insertion: 
 item: "#item-46957795f"
@@ -24,7 +24,7 @@ order: '760'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,3004,140/full/0/default.jpg
 label: Quicksilver
-location: "<a href='/New_Beehive/toc/toc2_035/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

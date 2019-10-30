@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: I/J
 xref: 
-see: "<a href='/New_Beehive/index1/index_1004/'>deluge</a>"
+see: "<a href='/digital-beehive/index1/index_1004/'>deluge</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '2096'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1867,1644,625,159/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1867,1644,625,159/full/0/default.jpg
 label: inundation
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

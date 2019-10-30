@@ -3,7 +3,7 @@ pid: index_2447
 volume: Volume 3
 image_number: '30'
 head: materia prima
-entry: "<a href='/New_Beehive/toc/toc2_331/'>1681 [Creation]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_331/'>1681 [Creation]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2447'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/384,1928,652,91/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/384,1928,652,91/full/0/default.jpg
 label: materia prima
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: B
 xref: 
-see: "<a href='/New_Beehive/index1/index_0572/'>Caution</a>"
+see: "<a href='/digital-beehive/index1/index_0572/'>Caution</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '367'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/346,3319,631,121/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/346,3319,631,121/full/0/default.jpg
 label: to beware
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

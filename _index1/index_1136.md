@@ -3,9 +3,9 @@ pid: index_1136
 volume: Volume 3
 image_number: '17'
 head: doubt
-entry: "<a href='/New_Beehive/alpha1/alpha_0259/'>a</a>|<a href='/New_Beehive/toc/toc2_156/'>705
-  [Doubtfulness]</a>|<a href='/New_Beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/New_Beehive/toc/toc2_372/'>2061
-  [Doubt]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0259/'>a</a>|<a href='/digital-beehive/toc/toc2_156/'>705
+  [Doubtfulness]</a>|<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a
+  href='/digital-beehive/toc/toc2_372/'>2061 [Doubt]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -27,7 +27,7 @@ order: '1136'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/full/0/default.jpg
 label: doubt
-location: "<a href='/New_Beehive/toc/toc3_17/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

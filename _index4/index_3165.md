@@ -3,7 +3,7 @@ pid: index_3165
 volume: Volume 3
 image_number: '37'
 head: privacy
-entry: "<a href='/New_Beehive/alpha4/alpha_0731/'>a</a>|<a href='/New_Beehive/toc/toc2_229/'>1178
+entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1178
   [Privacy]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3165'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/full/0/default.jpg
 label: privacy
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3139
 volume: Volume 3
 image_number: '37'
 head: to press souldiers
-entry: "<a href='/New_Beehive/toc/toc2_119/'>490 [Will-worship]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_119/'>490 [Will-worship]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3139'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/106,809,671,108/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/106,809,671,108/full/0/default.jpg
 label: to press souldiers
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_4094
 volume: Volume 3
 image_number: '47'
 head: term
-entry: "<a href='/New_Beehive/toc/toc2_237/'>1219 [a Term]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_237/'>1219 [a Term]</a>"
 topic: 
 first_letter: T
 xref: 
@@ -24,7 +24,7 @@ order: '4094'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/166,2528,337,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/166,2528,337,101/full/0/default.jpg
 label: term
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

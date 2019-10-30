@@ -3,12 +3,12 @@ pid: index_2147
 volume: Volume 3
 image_number: '27'
 head: ivy
-entry: "<a href='/New_Beehive/toc/toc2_324/'>1646 [Ivy]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_324/'>1646 [Ivy]</a>"
 topic: 
 first_letter: I/J
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '2147'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/130,2999,466,153/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/130,2999,466,153/full/0/default.jpg
 label: ivy
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

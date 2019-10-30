@@ -3,7 +3,7 @@ pid: index_4688
 volume: Volume 3
 image_number: '54'
 head: Chalk
-entry: "<a href='/New_Beehive/toc/toc2_374/'>2083 [Chalk]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2083 [Chalk]</a>"
 topic: 
 first_letter: insertion
 xref: 
@@ -24,7 +24,7 @@ order: '4688'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/full/0/default.jpg
 label: Chalk
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -6,12 +6,12 @@ head:
 entry: Thunder
 topic: Thunder
 first_letter: T
-xref: "<a href='/New_Beehive/toc/toc2_263/'>1346 [Thunder & Lightning]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_263/'>1346 [Thunder & Lightning]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4144/'>thunder</a>"
+index: "<a href='/digital-beehive/index5/index_4144/'>thunder</a>"
 insertion_xref: 
 insertion: 
 item: "#item-40bb469ee"
@@ -24,7 +24,7 @@ order: '946'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,2942,382/full/0/default.jpg
 label: Thunder
-location: "<a href='/New_Beehive/toc/toc2_048/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

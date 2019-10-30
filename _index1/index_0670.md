@@ -3,7 +3,7 @@ pid: index_0670
 volume: Volume 3
 image_number: '13'
 head: circle
-entry: "<a href='/New_Beehive/toc/toc2_161/'>867 [a Circle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [a Circle]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '670'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/174,2032,346,104/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/174,2032,346,104/full/0/default.jpg
 label: circle
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

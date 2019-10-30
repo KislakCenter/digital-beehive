@@ -6,12 +6,12 @@ head:
 entry: Disobedience
 topic: Disobedience
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1086/'>disobedience</a>"
+index: "<a href='/digital-beehive/index1/index_1086/'>disobedience</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ab66bd9fd"
@@ -24,7 +24,7 @@ order: '242'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,2958,716/full/0/default.jpg
 label: Disobedience
-location: "<a href='/New_Beehive/toc/toc1_440/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,7 +3,7 @@ pid: index_1543
 volume: Volume 3
 image_number: '21'
 head: fresh
-entry: "<a href='/New_Beehive/toc/toc2_164/'>882 [Fresh]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_164/'>882 [Fresh]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1543'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,2234,417,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,2234,417,118/full/0/default.jpg
 label: fresh
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

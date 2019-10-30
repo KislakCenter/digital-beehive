@@ -3,7 +3,7 @@ pid: index_1863
 volume: Volume 3
 image_number: '24'
 head: homer
-entry: "<a href='/New_Beehive/toc/toc2_433/'>4821 [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_433/'>4821 [WORD_MISSING]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1863'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1153,1811,401,90/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1153,1811,401,90/full/0/default.jpg
 label: homer
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

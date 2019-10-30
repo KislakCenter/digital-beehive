@@ -3,7 +3,7 @@ pid: index_2201
 volume: Volume 3
 image_number: '27'
 head: large
-entry: "<a href='/New_Beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>|800
+entry: "<a href='/digital-beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>|800
   [PAGE_MISSING]"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2201'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1572,1283,469,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1572,1283,469,145/full/0/default.jpg
 label: large
-location: "<a href='/New_Beehive/toc/toc3_27/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

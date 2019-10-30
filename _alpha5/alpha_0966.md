@@ -6,13 +6,13 @@ head:
 entry: Travelling
 topic: Travelling
 first_letter: T
-xref: "<a href='/New_Beehive/alpha5/alpha_0976/'>Vagabonds</a>|Departure|<a href='/New_Beehive/toc/toc2_223/'>1149
+xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Vagabonds</a>|Departure|<a href='/digital-beehive/toc/toc2_223/'>1149
   [Travelling]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4222/'>travelling</a>"
+index: "<a href='/digital-beehive/index5/index_4222/'>travelling</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d0f258fc8"
@@ -26,7 +26,7 @@ order: '966'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,2937,569/full/0/default.jpg
 label: Travelling
-location: "<a href='/New_Beehive/toc/toc2_050/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

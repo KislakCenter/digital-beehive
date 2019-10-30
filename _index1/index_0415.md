@@ -3,7 +3,7 @@ pid: index_0415
 volume: Volume 3
 image_number: '10'
 head: to bore
-entry: "<a href='/New_Beehive/toc/toc2_108/'>416 [To Bore]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_108/'>416 [To Bore]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '415'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1784,2009,422,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1784,2009,422,99/full/0/default.jpg
 label: to bore
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

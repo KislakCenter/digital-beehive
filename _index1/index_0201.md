@@ -3,7 +3,7 @@ pid: index_0201
 volume: Volume 3
 image_number: '8'
 head: aristotle
-entry: "<a href='/New_Beehive/toc/toc2_239/'>1228 [Aristotle]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Aristotle]</a>"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '201'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1814,386,480,69/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1814,386,480,69/full/0/default.jpg
 label: aristotle
-location: "<a href='/New_Beehive/toc/toc3_08/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

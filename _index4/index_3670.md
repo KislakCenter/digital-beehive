@@ -3,7 +3,7 @@ pid: index_3670
 volume: Volume 3
 image_number: '42'
 head: shepherd
-entry: "<a href='/New_Beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3670'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/full/0/default.jpg
 label: shepherd
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

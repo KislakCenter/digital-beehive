@@ -3,7 +3,7 @@ pid: index_2865
 volume: Volume 3
 image_number: '34'
 head: pamphlet
-entry: "<a href='/New_Beehive/toc/toc2_397/'>2267 [Pamphlet]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [Pamphlet]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2865'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,332,569,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1165,332,569,144/full/0/default.jpg
 label: pamphlet
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

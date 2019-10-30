@@ -6,12 +6,12 @@ head:
 entry: French
 topic: French
 first_letter: F
-xref: "<a href='/New_Beehive/toc/toc2_251/'>1288 [French]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_251/'>1288 [French]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1540/'>french</a>"
+index: "<a href='/digital-beehive/index2/index_1540/'>french</a>"
 insertion_xref: 
 insertion: 
 item: "#item-a2c7ebd98"
@@ -24,7 +24,7 @@ order: '347'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,2178,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,2178,3000,310/full/0/default.jpg
 label: French
-location: "<a href='/New_Beehive/toc/toc2_003/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

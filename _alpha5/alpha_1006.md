@@ -6,13 +6,13 @@ head:
 entry: the Vulgar
 topic: the Vulgar
 first_letter: U/V
-xref: "<a href='/New_Beehive/toc/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/New_Beehive/toc/toc2_221/'>1136
+xref: "<a href='/digital-beehive/toc/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/digital-beehive/toc/toc2_221/'>1136
   [Vulgar]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4454/'>the vulgar</a>"
+index: "<a href='/digital-beehive/index5/index_4454/'>the vulgar</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f749e0afc"
@@ -26,7 +26,7 @@ order: '1006'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,3013,331/full/0/default.jpg
 label: the Vulgar
-location: "<a href='/New_Beehive/toc/toc2_053/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

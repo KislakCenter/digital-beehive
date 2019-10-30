@@ -3,7 +3,7 @@ pid: index_0504
 volume: Volume 3
 image_number: '11'
 head: caduceus
-entry: "<a href='/New_Beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '504'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/full/0/default.jpg
 label: caduceus
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2970/'>person</a>"
+index: "<a href='/digital-beehive/index4/index_2970/'>person</a>"
 insertion_xref: 
 insertion: 
 item: "#item-dfab0619b"
@@ -24,7 +24,7 @@ order: '695'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/777,972,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/777,972,3094,447/full/0/default.jpg
 label: Person
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

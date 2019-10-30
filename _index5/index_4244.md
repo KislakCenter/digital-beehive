@@ -3,7 +3,7 @@ pid: index_4244
 volume: Volume 3
 image_number: '48'
 head: trivial
-entry: "<a href='/New_Beehive/toc/toc2_080/'>224 [Considerable]</a>|<a href='/New_Beehive/toc/toc2_122/'>510
+entry: "<a href='/digital-beehive/toc/toc2_080/'>224 [Considerable]</a>|<a href='/digital-beehive/toc/toc2_122/'>510
   [So trivial a thing]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4244'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/full/0/default.jpg
 label: trivial
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

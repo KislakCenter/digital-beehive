@@ -6,14 +6,14 @@ head:
 entry: Tongue
 topic: Tongue
 first_letter: T
-xref: "<a href='/New_Beehive/alpha4/alpha_0892/'>Speech</a>|<a href='/New_Beehive/alpha3/alpha_0507/'>language</a>|<a
-  href='/New_Beehive/alpha1/alpha_0050/'>babling</a>|<a href='/New_Beehive/toc/toc2_231/'>1186
+xref: "<a href='/digital-beehive/alpha4/alpha_0892/'>Speech</a>|<a href='/digital-beehive/alpha3/alpha_0507/'>language</a>|<a
+  href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
   [Tongue]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4174/'>tongue</a>"
+index: "<a href='/digital-beehive/index5/index_4174/'>tongue</a>"
 insertion_xref: 
 insertion: 
 item: "#item-89b60c12d"
@@ -27,7 +27,7 @@ order: '951'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/319,1597,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/319,1597,3033,535/full/0/default.jpg
 label: Tongue
-location: "<a href='/New_Beehive/toc/toc2_049/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

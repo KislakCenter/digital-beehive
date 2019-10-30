@@ -3,13 +3,13 @@ pid: index_0724
 volume: Volume 3
 image_number: '13'
 head: collusion
-entry: "<a href='/New_Beehive/toc/toc2_105/'>398 [Prevarication]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_105/'>398 [Prevarication]</a>"
 topic: 
 first_letter: C
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index5/index_4223/'>treachery</a>"
+add: "<a href='/digital-beehive/index5/index_4223/'>treachery</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '724'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1510,452,546,206/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1510,452,546,206/full/0/default.jpg
 label: collusion
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

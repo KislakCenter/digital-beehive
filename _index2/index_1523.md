@@ -3,7 +3,7 @@ pid: index_1523
 volume: Volume 3
 image_number: '21'
 head: fortune
-entry: "<a href='/New_Beehive/alpha2/alpha_0342/'>a</a>|<a href='/New_Beehive/toc/toc2_224/'>1154
+entry: "<a href='/digital-beehive/alpha2/alpha_0342/'>a</a>|<a href='/digital-beehive/toc/toc2_224/'>1154
   [Fortune]</a>|4785 [PAGE_MISSING]"
 topic: 
 first_letter: F
@@ -25,7 +25,7 @@ order: '1523'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/897,544,689,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/897,544,689,132/full/0/default.jpg
 label: fortune
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

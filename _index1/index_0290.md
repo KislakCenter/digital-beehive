@@ -3,7 +3,7 @@ pid: index_0290
 volume: Volume 3
 image_number: '9'
 head: barbadoes
-entry: "<a href='/New_Beehive/toc/toc2_297/'>1512 [Barbadoes]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1512 [Barbadoes]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '290'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/881,2307,501,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/881,2307,501,113/full/0/default.jpg
 label: barbadoes
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

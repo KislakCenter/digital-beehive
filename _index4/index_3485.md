@@ -3,7 +3,7 @@ pid: index_3485
 volume: Volume 3
 image_number: '40'
 head: sadduces
-entry: "<a href='/New_Beehive/toc/toc2_290/'>1483 [Sadduces]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_290/'>1483 [Sadduces]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3485'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1775,1845,549,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1775,1845,549,138/full/0/default.jpg
 label: sadduces
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

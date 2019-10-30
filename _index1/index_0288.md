@@ -3,7 +3,7 @@ pid: index_0288
 volume: Volume 3
 image_number: '9'
 head: banter
-entry: "<a href='/New_Beehive/toc/toc2_368/'>2022 [Banter]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_368/'>2022 [Banter]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '288'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/900,2065,508,98/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/900,2065,508,98/full/0/default.jpg
 label: banter
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

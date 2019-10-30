@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: C
 xref: 
-see: "<a href='/New_Beehive/index3/index_2339/'>love</a>"
+see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '606'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/full/0/default.jpg
 label: charity
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

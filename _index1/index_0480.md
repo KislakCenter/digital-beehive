@@ -3,8 +3,8 @@ pid: index_0480
 volume: Volume 3
 image_number: '11'
 head: burial
-entry: "<a href='/New_Beehive/alpha1/alpha_0109/'>a</a>|<a href='/New_Beehive/toc/toc2_166/'>894
-  [Burial]</a>|<a href='/New_Beehive/toc/toc2_281/'>1440 [Burial]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0109/'>a</a>|<a href='/digital-beehive/toc/toc2_166/'>894
+  [Burial]</a>|<a href='/digital-beehive/toc/toc2_281/'>1440 [Burial]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -25,7 +25,7 @@ order: '480'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/876,1410,664,118/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/876,1410,664,118/full/0/default.jpg
 label: burial
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

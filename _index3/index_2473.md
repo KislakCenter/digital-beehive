@@ -3,8 +3,8 @@ pid: index_2473
 volume: Volume 3
 image_number: '30'
 head: meetings
-entry: "<a href='/New_Beehive/toc/toc2_068/'>116 [Meetings]</a>|<a href='/New_Beehive/toc/toc2_249/'>1276
-  [Meetings to worship God in]</a>|<a href='/New_Beehive/toc/toc2_398/'>2273 [Meetings]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_068/'>116 [Meetings]</a>|<a href='/digital-beehive/toc/toc2_249/'>1276
+  [Meetings to worship God in]</a>|<a href='/digital-beehive/toc/toc2_398/'>2273 [Meetings]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -26,7 +26,7 @@ order: '2473'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/full/0/default.jpg
 label: meetings
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_1025
 volume: Volume 3
 image_number: '16'
 head: to desist
-entry: "<a href='/New_Beehive/toc/toc2_236/'>1212 [To Leave off]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1212 [To Leave off]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1025'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1135,2625,435,125/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1135,2625,435,125/full/0/default.jpg
 label: to desist
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,12 +3,12 @@ pid: index_3893
 volume: Volume 3
 image_number: '45'
 head: steeplehouses
-entry: "<a href='/New_Beehive/toc/toc2_199/'>1030 [Church]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_199/'>1030 [Church]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '3893'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/full/0/default.jpg
 label: steeplehouses
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

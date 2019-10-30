@@ -6,12 +6,12 @@ head:
 entry: Butter
 topic: Butter
 first_letter: B
-xref: "<a href='/New_Beehive/toc/toc2_351/'>1895 [Butter]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_351/'>1895 [Butter]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0494/'>butter</a>"
+index: "<a href='/digital-beehive/index1/index_0494/'>butter</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1343f1767"
@@ -24,7 +24,7 @@ order: '110'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,602,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,602,3080,275/full/0/default.jpg
 label: Butter
-location: "<a href='/New_Beehive/toc/toc1_429/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

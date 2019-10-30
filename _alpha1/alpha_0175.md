@@ -6,12 +6,12 @@ head:
 entry: Continency
 topic: Continency
 first_letter: C
-xref: "<a href='/New_Beehive/alpha3/alpha_0467/'>Incontinence</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0467/'>Incontinence</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0826/'>continency</a>"
+index: "<a href='/digital-beehive/index1/index_0826/'>continency</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7842cd78e"
@@ -24,7 +24,7 @@ order: '175'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/804,3944,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/804,3944,3045,499/full/0/default.jpg
 label: Continency
-location: "<a href='/New_Beehive/toc/toc1_434/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

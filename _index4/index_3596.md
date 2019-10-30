@@ -3,7 +3,7 @@ pid: index_3596
 volume: Volume 3
 image_number: '41'
 head: seeking God
-entry: "<a href='/New_Beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3596'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1600,3102,447,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1600,3102,447,120/full/0/default.jpg
 label: seeking God
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

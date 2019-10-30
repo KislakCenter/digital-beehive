@@ -6,12 +6,12 @@ head:
 entry: Leprosie
 topic: Leprosie
 first_letter: L
-xref: "<a href='/New_Beehive/toc/toc2_380/'>2141 [Leprosie]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_380/'>2141 [Leprosie]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2257/'>leprosie</a>"
+index: "<a href='/digital-beehive/index3/index_2257/'>leprosie</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7393ec640"
@@ -24,7 +24,7 @@ order: '527'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/379,2829,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/379,2829,3013,346/full/0/default.jpg
 label: Leprosie
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

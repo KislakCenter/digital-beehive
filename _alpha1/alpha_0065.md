@@ -6,12 +6,12 @@ head:
 entry: Baudry
 topic: Baudry
 first_letter: B
-xref: "<a href='/New_Beehive/alpha5/alpha_1021/'>Whoredom</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1021/'>Whoredom</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0311/'>baudry</a>"
+index: "<a href='/digital-beehive/index1/index_0311/'>baudry</a>"
 insertion_xref: 
 insertion: 
 item: "#item-c20186c9f"
@@ -25,7 +25,7 @@ order: '65'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,3001,327/full/0/default.jpg
 label: Baudry
-location: "<a href='/New_Beehive/toc/toc1_425/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

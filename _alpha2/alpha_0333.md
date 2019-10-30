@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1488/'>flower</a>"
+index: "<a href='/digital-beehive/index2/index_1488/'>flower</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f5f1c5829"
@@ -24,7 +24,7 @@ order: '333'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/622,1446,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/622,1446,3152,530/full/0/default.jpg
 label: Flower
-location: "<a href='/New_Beehive/toc/toc2_002/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

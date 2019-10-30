@@ -3,7 +3,7 @@ pid: index_4581
 volume: Volume 3
 image_number: '53'
 head: without
-entry: "<a href='/New_Beehive/toc/toc2_153/'>687 [Without]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_153/'>687 [Without]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4581'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,2185,421,113/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,2185,421,113/full/0/default.jpg
 label: without
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

@@ -6,12 +6,12 @@ head:
 entry: Womans imperiousness
 topic: Womans imperiousness
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_076/'>192 [Dames governmt]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_076/'>192 [Dames governmt]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4595/'>woman's imperiousness</a>"
+index: "<a href='/digital-beehive/index5/index_4595/'>woman's imperiousness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-79d4c449b"
@@ -25,7 +25,7 @@ order: '1036'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/363,4194,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/363,4194,2979,361/full/0/default.jpg
 label: Womans imperiousness
-location: "<a href='/New_Beehive/toc/toc2_055/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

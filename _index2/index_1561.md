@@ -3,7 +3,7 @@ pid: index_1561
 volume: Volume 3
 image_number: '21'
 head: full
-entry: "<a href='/New_Beehive/toc/toc2_139/'>609 [Fullness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_139/'>609 [Fullness]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1561'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,682,331,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,682,331,131/full/0/default.jpg
 label: full
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3001/'>pie</a>"
+index: "<a href='/digital-beehive/index4/index_3001/'>pie</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ff2055b13"
@@ -24,7 +24,7 @@ order: '701'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/830,3324,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/830,3324,2936,346/full/0/default.jpg
 label: Pie
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

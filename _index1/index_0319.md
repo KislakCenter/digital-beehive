@@ -3,7 +3,7 @@ pid: index_0319
 volume: Volume 3
 image_number: '9'
 head: beast
-entry: "<a href='/New_Beehive/alpha1/alpha_0068/'>a</a>|<a href='/New_Beehive/toc/toc2_230/'>1185
+entry: "<a href='/digital-beehive/alpha1/alpha_0068/'>a</a>|<a href='/digital-beehive/toc/toc2_230/'>1185
   [Beasts]</a>"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '319'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1815,472,119/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1815,472,119/full/0/default.jpg
 label: beast
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

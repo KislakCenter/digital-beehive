@@ -3,7 +3,7 @@ pid: index_2263
 volume: Volume 3
 image_number: '28'
 head: letter
-entry: "<a href='/New_Beehive/alpha3/alpha_0528/'>a</a>|<a href='/New_Beehive/toc/toc2_117/'>481
+entry: "<a href='/digital-beehive/alpha3/alpha_0528/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>481
   [Letter]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2263'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1140,789,466,85/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1140,789,466,85/full/0/default.jpg
 label: letter
-location: "<a href='/New_Beehive/toc/toc3_28/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

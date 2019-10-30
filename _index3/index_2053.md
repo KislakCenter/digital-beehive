@@ -3,7 +3,7 @@ pid: index_2053
 volume: Volume 3
 image_number: '26'
 head: Innovations
-entry: "<a href='/New_Beehive/toc/toc2_124/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_124/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '2053'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/402,3617,731,117/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/402,3617,731,117/full/0/default.jpg
 label: Innovations
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

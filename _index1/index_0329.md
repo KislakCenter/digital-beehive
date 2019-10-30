@@ -3,7 +3,7 @@ pid: index_0329
 volume: Volume 3
 image_number: '9'
 head: bed
-entry: "<a href='/New_Beehive/alpha1/alpha_0070/'>a</a>|<a href='/New_Beehive/toc/toc2_124/'>523
+entry: "<a href='/digital-beehive/alpha1/alpha_0070/'>a</a>|<a href='/digital-beehive/toc/toc2_124/'>523
   [Bed]</a>|4619 [PAGE_MISSING]"
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '329'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1506,2503,584,170/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1506,2503,584,170/full/0/default.jpg
 label: bed
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

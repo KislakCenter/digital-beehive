@@ -3,7 +3,7 @@ pid: index_0672
 volume: Volume 3
 image_number: '13'
 head: circumcision
-entry: "<a href='/New_Beehive/alpha1/alpha_0148/'>a</a>|<a href='/New_Beehive/toc/toc2_314/'>1599
+entry: "<a href='/digital-beehive/alpha1/alpha_0148/'>a</a>|<a href='/digital-beehive/toc/toc2_314/'>1599
   [Circumcision]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '672'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/143,2249,644,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/143,2249,644,122/full/0/default.jpg
 label: circumcision
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_2495
 volume: Volume 3
 image_number: '30'
 head: Mermaids
-entry: "<a href='/New_Beehive/toc/toc2_307/'>1563 [Mermain & Mermaids]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1563 [Mermain & Mermaids]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2495'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1101,3261,462,127/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1101,3261,462,127/full/0/default.jpg
 label: Mermaids
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

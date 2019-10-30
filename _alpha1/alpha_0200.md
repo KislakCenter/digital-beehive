@@ -6,7 +6,7 @@ head:
 entry: Cuckow
 topic: Cuckow
 first_letter: C
-xref: "<a href='/New_Beehive/toc/toc2_337/'>1730 [Cuckolds]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_337/'>1730 [Cuckolds]</a>"
 see: 
 page: 
 add: 
@@ -24,7 +24,7 @@ order: '200'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/300,656,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/300,656,3127,261/full/0/default.jpg
 label: Cuckow
-location: "<a href='/New_Beehive/toc/toc1_437/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

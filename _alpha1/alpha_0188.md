@@ -6,13 +6,13 @@ head:
 entry: Coward
 topic: Coward
 first_letter: C
-xref: "<a href='/New_Beehive/alpha2/alpha_0319/'>fear</a>|<a href='/New_Beehive/alpha2/alpha_0306/'>fainthearted</a>|<a
-  href='/New_Beehive/toc/toc2_372/'>2066 [Cowardly]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0319/'>fear</a>|<a href='/digital-beehive/alpha2/alpha_0306/'>fainthearted</a>|<a
+  href='/digital-beehive/toc/toc2_372/'>2066 [Cowardly]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0890/'>cowardize</a>"
+index: "<a href='/digital-beehive/index1/index_0890/'>cowardize</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1aabd9a98"
@@ -26,7 +26,7 @@ order: '188'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/761,210,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/761,210,3077,562/full/0/default.jpg
 label: Coward
-location: "<a href='/New_Beehive/toc/toc1_436/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

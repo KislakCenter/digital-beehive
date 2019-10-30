@@ -6,12 +6,12 @@ head:
 entry: Maid
 topic: Maid
 first_letter: M
-xref: "<a href='/New_Beehive/alpha4/alpha_0851/'>Servant</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0851/'>Servant</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2386/'>maid</a>"
+index: "<a href='/digital-beehive/index3/index_2386/'>maid</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5d3b778b0"
@@ -24,7 +24,7 @@ order: '563'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/748,3547,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/748,3547,2988,536/full/0/default.jpg
 label: Maid
-location: "<a href='/New_Beehive/toc/toc2_020/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_0642
 volume: Volume 3
 image_number: '12'
 head: choice
-entry: "<a href='/New_Beehive/alpha1/alpha_0143/'>a</a>|<a href='/New_Beehive/toc/toc2_214/'>1103
+entry: "<a href='/digital-beehive/alpha1/alpha_0143/'>a</a>|<a href='/digital-beehive/toc/toc2_214/'>1103
   [Choice]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '642'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,3108,495,132/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,3108,495,132/full/0/default.jpg
 label: choice
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

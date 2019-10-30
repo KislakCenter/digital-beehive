@@ -3,7 +3,7 @@ pid: index_1772
 volume: Volume 3
 image_number: '23'
 head: hay
-entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Pasture]</a>|<a href='/New_Beehive/toc/toc2_381/'>2151
+entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [Pasture]</a>|<a href='/digital-beehive/toc/toc2_381/'>2151
   [Grass & Pasture]</a>"
 topic: 
 first_letter: H
@@ -25,7 +25,7 @@ order: '1772'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/full/0/default.jpg
 label: hay
-location: "<a href='/New_Beehive/toc/toc3_23/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

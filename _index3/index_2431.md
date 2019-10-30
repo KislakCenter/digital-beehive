@@ -3,7 +3,7 @@ pid: index_2431
 volume: Volume 3
 image_number: '30'
 head: Marlborough
-entry: "<a href='/New_Beehive/toc/toc2_260/'>1334 [Marlborough]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_260/'>1334 [Marlborough]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2431'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,509,578,139/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,509,578,139/full/0/default.jpg
 label: Marlborough
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

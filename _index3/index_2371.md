@@ -3,7 +3,7 @@ pid: index_2371
 volume: Volume 3
 image_number: '29'
 head: luxation
-entry: "<a href='/New_Beehive/toc/toc2_136/'>593 [disjoint]</a>|<a href='/New_Beehive/toc/toc2_398/'>2275
+entry: "<a href='/digital-beehive/toc/toc2_136/'>593 [disjoint]</a>|<a href='/digital-beehive/toc/toc2_398/'>2275
   [Luxation]</a>"
 topic: 
 first_letter: L
@@ -25,7 +25,7 @@ order: '2371'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,1398,596,144/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,1398,596,144/full/0/default.jpg
 label: luxation
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

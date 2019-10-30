@@ -3,7 +3,7 @@ pid: index_4671
 volume: Volume 3
 image_number: '54'
 head: national Constitutions
-entry: "<a href='/New_Beehive/toc/toc2_267/'>1368 [Fashion of the Countrey]</a>|1872
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1368 [Fashion of the Countrey]</a>|1872
   [PAGE_MISSING]"
 topic: 
 first_letter: insertion
@@ -26,7 +26,7 @@ order: '4671'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/374,1357,688,143/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/374,1357,688,143/full/0/default.jpg
 label: national Constitutions
-location: "<a href='/New_Beehive/toc/toc3_54/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

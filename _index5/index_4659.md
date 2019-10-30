@@ -3,8 +3,8 @@ pid: index_4659
 volume: Volume 3
 image_number: '53'
 head: Zoilus
-entry: "<a href='/New_Beehive/alpha5/alpha_1062/'>a</a>|<a href='/New_Beehive/toc/toc2_143/'>629
-  [Zoilus]</a>|<a href='/New_Beehive/toc/toc2_332/'>1689 [Zoilus]</a>|<a href='/New_Beehive/toc/toc2_428/'>4492
+entry: "<a href='/digital-beehive/alpha5/alpha_1062/'>a</a>|<a href='/digital-beehive/toc/toc2_143/'>629
+  [Zoilus]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689 [Zoilus]</a>|<a href='/digital-beehive/toc/toc2_428/'>4492
   [Zoilus]</a>"
 topic: 
 first_letter: Z
@@ -27,7 +27,7 @@ order: '4659'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1566,3388,730,145/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1566,3388,730,145/full/0/default.jpg
 label: Zoilus
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

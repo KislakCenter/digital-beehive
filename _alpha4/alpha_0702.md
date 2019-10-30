@@ -6,13 +6,13 @@ head:
 entry: Piety
 topic: Piety
 first_letter: P
-xref: "<a href='/New_Beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/New_Beehive/toc/toc2_301/'>1532
-  [Godliness]</a>|<a href='/New_Beehive/toc/toc2_208/'>1073 [Pietism]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0229/'>Devotion</a>|<a href='/digital-beehive/toc/toc2_301/'>1532
+  [Godliness]</a>|<a href='/digital-beehive/toc/toc2_208/'>1073 [Pietism]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3004/'>piety</a>"
+index: "<a href='/digital-beehive/index4/index_3004/'>piety</a>"
 insertion_xref: 
 insertion: 
 item: "#item-77c2a979b"
@@ -26,7 +26,7 @@ order: '702'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/829,3541,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/829,3541,2952,586/full/0/default.jpg
 label: Piety
-location: "<a href='/New_Beehive/toc/toc2_030/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

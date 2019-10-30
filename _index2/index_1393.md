@@ -3,13 +3,13 @@ pid: index_1393
 volume: Volume 3
 image_number: '20'
 head: false brethren
-entry: "<a href='/New_Beehive/toc/toc2_362/'>1975 [Hypocrisie]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_362/'>1975 [Hypocrisie]</a>"
 topic: 
 first_letter: F
 xref: 
 see: 
 page: 
-add: "<a href='/New_Beehive/index4/index_4008/'>surreptitious</a>"
+add: "<a href='/digital-beehive/index4/index_4008/'>surreptitious</a>"
 type: 
 index: 
 insertion_xref: 
@@ -24,7 +24,7 @@ order: '1393'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/full/0/default.jpg
 label: false brethren
-location: "<a href='/New_Beehive/toc/toc3_20/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

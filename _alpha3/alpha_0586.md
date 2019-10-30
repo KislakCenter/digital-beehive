@@ -6,13 +6,13 @@ head:
 entry: Metal
 topic: Metal
 first_letter: M
-xref: viscera terrae|<a href='/New_Beehive/alpha3/alpha_0592/'>Minerals</a>|<a href='/New_Beehive/toc/toc2_226/'>1164
-  [Metal]</a>
+xref: viscera terrae|<a href='/digital-beehive/alpha3/alpha_0592/'>Minerals</a>|<a
+  href='/digital-beehive/toc/toc2_226/'>1164 [Metal]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2498/'>metal</a>"
+index: "<a href='/digital-beehive/index3/index_2498/'>metal</a>"
 insertion_xref: 
 insertion: 
 item: "#item-ecdd9765c"
@@ -26,7 +26,7 @@ order: '586'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,2988,489/full/0/default.jpg
 label: Metal
-location: "<a href='/New_Beehive/toc/toc2_022/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

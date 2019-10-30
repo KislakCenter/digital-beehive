@@ -3,7 +3,7 @@ pid: index_4634
 volume: Volume 3
 image_number: '53'
 head: writing
-entry: "<a href='/New_Beehive/alpha5/alpha_1057/'>a</a>|<a href='/New_Beehive/toc/toc2_269/'>1376
+entry: "<a href='/digital-beehive/alpha5/alpha_1057/'>a</a>|<a href='/digital-beehive/toc/toc2_269/'>1376
   [Writing]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4634'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/full/0/default.jpg
 label: writing
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

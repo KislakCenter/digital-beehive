@@ -3,7 +3,7 @@ pid: index_3315
 volume: Volume 3
 image_number: '38'
 head: to recant
-entry: "<a href='/New_Beehive/toc/toc2_108/'>418 [Renouncing]</a>|<a href='/New_Beehive/toc/toc2_398/'>2275
+entry: "<a href='/digital-beehive/toc/toc2_108/'>418 [Renouncing]</a>|<a href='/digital-beehive/toc/toc2_398/'>2275
   [Recantation]</a>"
 topic: 
 first_letter: R
@@ -25,7 +25,7 @@ order: '3315'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1857,2643,651,229/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1857,2643,651,229/full/0/default.jpg
 label: to recant
-location: "<a href='/New_Beehive/toc/toc3_38/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

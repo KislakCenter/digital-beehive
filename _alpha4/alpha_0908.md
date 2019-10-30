@@ -6,12 +6,12 @@ head:
 entry: Strange buseness
 topic: Strange buseness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha1/alpha_0201/'>Curiosity</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0201/'>Curiosity</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3928/'>strange business</a>"
+index: "<a href='/digital-beehive/index4/index_3928/'>strange business</a>"
 insertion_xref: 
 insertion: 
 item: "#item-bf2362a54"
@@ -25,7 +25,7 @@ order: '908'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/293,4294,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/293,4294,3059,517/full/0/default.jpg
 label: Strange buseness
-location: "<a href='/New_Beehive/toc/toc2_045/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

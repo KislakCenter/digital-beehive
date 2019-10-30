@@ -6,13 +6,13 @@ head:
 entry: Affections
 topic: Affections
 first_letter: A
-xref: "<a href='/New_Beehive/alpha1/alpha_0164/'>Concupiscence</a>|<a href='/New_Beehive/toc/toc2_231/'>1187
+xref: "<a href='/digital-beehive/alpha1/alpha_0164/'>Concupiscence</a>|<a href='/digital-beehive/toc/toc2_231/'>1187
   [Affections]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_0058/'>affections</a>"
+index: "<a href='/digital-beehive/index1/index_0058/'>affections</a>"
 insertion_xref: 
 insertion: 
 item: "#item-24beb43cc"
@@ -26,7 +26,7 @@ order: '12'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/701,486,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/701,486,3175,594/full/0/default.jpg
 label: Affections
-location: "<a href='/New_Beehive/toc/toc1_422/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

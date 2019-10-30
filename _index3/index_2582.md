@@ -3,7 +3,7 @@ pid: index_2582
 volume: Volume 3
 image_number: '31'
 head: moreover
-entry: "<a href='/New_Beehive/toc/toc2_277/'>Entry; 1420 [Secondly]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_277/'>Entry; 1420 [Secondly]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2582'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/848,1934,432,92/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/848,1934,432,92/full/0/default.jpg
 label: moreover
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

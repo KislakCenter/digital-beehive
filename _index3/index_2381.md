@@ -3,8 +3,9 @@ pid: index_2381
 volume: Volume 3
 image_number: '29'
 head: magnanimity
-entry: "<a href='/New_Beehive/alpha3/alpha_0562/'>a</a>|<a href='/New_Beehive/toc/toc2_125/'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_239/'>1229 [Magnanimity]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0562/'>a</a>|<a href='/digital-beehive/toc/toc2_125/'>529
+  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_239/'>1229
+  [Magnanimity]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -26,7 +27,7 @@ order: '2381'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/full/0/default.jpg
 label: magnanimity
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,13 +3,13 @@ pid: index_3164
 volume: Volume 3
 image_number: '37'
 head: prison
-entry: "<a href='/New_Beehive/toc/toc2_132/'>572 [Prison]</a>|<a href='/New_Beehive/toc/toc2_336/'>1720
+entry: "<a href='/digital-beehive/toc/toc2_132/'>572 [Prison]</a>|<a href='/digital-beehive/toc/toc2_336/'>1720
   [Prison]</a>|4607 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 type: 
 index: 
@@ -26,7 +26,7 @@ order: '3164'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/768,274,715,171/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/768,274,715,171/full/0/default.jpg
 label: prison
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

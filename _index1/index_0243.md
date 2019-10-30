@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4675/'>attributes of god</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4675/'>attributes of god</a>"
 insertion: 
 item: "#item-f80e21001"
 unparsed: 'Type: Index|Insertion Xref: [:11.]|#item-f80e21001'
@@ -24,7 +24,7 @@ order: '243'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/full/0/default.jpg
 label: "[:11.]"
-location: "<a href='/New_Beehive/toc/toc3_09/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

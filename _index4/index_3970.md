@@ -3,7 +3,7 @@ pid: index_3970
 volume: Volume 3
 image_number: '45'
 head: sudden
-entry: "<a href='/New_Beehive/toc/toc2_279/'>1430 [Suddenness]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1430 [Suddenness]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3970'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1623,2767,405,87/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1623,2767,405,87/full/0/default.jpg
 label: sudden
-location: "<a href='/New_Beehive/toc/toc3_45/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

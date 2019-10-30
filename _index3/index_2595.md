@@ -3,7 +3,7 @@ pid: index_2595
 volume: Volume 3
 image_number: '31'
 head: moth
-entry: "<a href='/New_Beehive/toc/toc2_313/'>1591 [Moth]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_313/'>1591 [Moth]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2595'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/856,3148,373,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/856,3148,373,106/full/0/default.jpg
 label: moth
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index4/index_3588/'>sect</a>|shirm"
+see: "<a href='/digital-beehive/index4/index_3588/'>sect</a>|shirm"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3641'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/full/0/default.jpg
 label: separation
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

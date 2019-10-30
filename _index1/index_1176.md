@@ -3,7 +3,7 @@ pid: index_1176
 volume: Volume 3
 image_number: '18'
 head: family duties
-entry: "<a href='/New_Beehive/toc/toc2_164/'>885 [Family Duties]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_164/'>885 [Family Duties]</a>"
 topic: 
 first_letter: D
 xref: 
@@ -24,7 +24,7 @@ order: '1176'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/full/0/default.jpg
 label: family duties
-location: "<a href='/New_Beehive/toc/toc3_18/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_0613
 volume: Volume 3
 image_number: '12'
 head: charter
-entry: "<a href='/New_Beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '613'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/full/0/default.jpg
 label: charter
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

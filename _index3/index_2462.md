@@ -3,8 +3,8 @@ pid: index_2462
 volume: Volume 3
 image_number: '30'
 head: meat
-entry: "<a href='/New_Beehive/alpha3/alpha_0575/'>a</a>|<a href='/New_Beehive/toc/toc2_100/'>359
-  [Meat]</a>|<a href='/New_Beehive/toc/toc2_381/'>2156 [Meat]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0575/'>a</a>|<a href='/digital-beehive/toc/toc2_100/'>359
+  [Meat]</a>|<a href='/digital-beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -25,7 +25,7 @@ order: '2462'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/420,3274,579,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/420,3274,579,120/full/0/default.jpg
 label: meat
-location: "<a href='/New_Beehive/toc/toc3_30/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

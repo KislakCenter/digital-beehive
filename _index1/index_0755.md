@@ -3,7 +3,7 @@ pid: index_0755
 volume: Volume 3
 image_number: '13'
 head: comparison
-entry: "<a href='/New_Beehive/toc/toc2_126/'>534 [Comparison]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_126/'>534 [Comparison]</a>"
 topic: 
 first_letter: C
 xref: 
@@ -24,7 +24,7 @@ order: '755'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,3395,511,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,3395,511,116/full/0/default.jpg
 label: comparison
-location: "<a href='/New_Beehive/toc/toc3_13/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

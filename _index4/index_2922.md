@@ -3,7 +3,7 @@ pid: index_2922
 volume: Volume 3
 image_number: '34'
 head: patriarchs
-entry: "<a href='/New_Beehive/toc/toc2_434/'>4839 [Patriarchs]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_434/'>4839 [Patriarchs]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '2922'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/full/0/default.jpg
 label: patriarchs
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

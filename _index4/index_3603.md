@@ -3,7 +3,7 @@ pid: index_3603
 volume: Volume 3
 image_number: '42'
 head: Self
-entry: "<a href='/New_Beehive/alpha4/alpha_0840/'>a</a>|<a href='/New_Beehive/toc/toc2_164/'>884
+entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>|<a href='/digital-beehive/toc/toc2_164/'>884
   [Self]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ order: '3603'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,371,436,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,371,436,106/full/0/default.jpg
 label: Self
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

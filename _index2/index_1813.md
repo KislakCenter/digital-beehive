@@ -3,7 +3,7 @@ pid: index_1813
 volume: Volume 3
 image_number: '24'
 head: hereditary
-entry: "<a href='/New_Beehive/toc/toc2_080/'>221 [hereditary]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_080/'>221 [hereditary]</a>"
 topic: 
 first_letter: H
 xref: 
@@ -24,7 +24,7 @@ order: '1813'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,372,501,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,372,501,138/full/0/default.jpg
 label: hereditary
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

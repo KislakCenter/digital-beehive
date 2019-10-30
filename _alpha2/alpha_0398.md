@@ -6,14 +6,14 @@ head:
 entry: Haste
 topic: Haste
 first_letter: H
-xref: "<a href='/New_Beehive/alpha5/alpha_0958/'>Too Soon</a>|<a href='/New_Beehive/alpha5/alpha_0952/'>too
-  hasty</a>|<a href='/New_Beehive/alpha4/alpha_0886/'>Soon</a>|dispatch|<a href='/New_Beehive/toc/toc2_165/'>886
+xref: "<a href='/digital-beehive/alpha5/alpha_0958/'>Too Soon</a>|<a href='/digital-beehive/alpha5/alpha_0952/'>too
+  hasty</a>|<a href='/digital-beehive/alpha4/alpha_0886/'>Soon</a>|dispatch|<a href='/digital-beehive/toc/toc2_165/'>886
   [Haste]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1765/'>haste</a>"
+index: "<a href='/digital-beehive/index2/index_1765/'>haste</a>"
 insertion_xref: 
 insertion: 
 item: "#item-b472fa4fe"
@@ -27,7 +27,7 @@ order: '398'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,648,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,648,3033,544/full/0/default.jpg
 label: Haste
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

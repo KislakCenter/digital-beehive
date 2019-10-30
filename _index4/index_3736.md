@@ -3,7 +3,7 @@ pid: index_3736
 volume: Volume 3
 image_number: '43'
 head: sive
-entry: "<a href='/New_Beehive/toc/toc2_155/'>698 [Sive]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [Sive]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3736'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/864,1066,403,116/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/864,1066,403,116/full/0/default.jpg
 label: sive
-location: "<a href='/New_Beehive/toc/toc3_43/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

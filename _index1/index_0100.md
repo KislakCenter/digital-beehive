@@ -3,7 +3,7 @@ pid: index_0100
 volume: Volume 3
 image_number: '7'
 head: all one
-entry: "<a href='/New_Beehive/toc/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/toc/toc2_074/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic: 
 first_letter: A
 xref: 
@@ -24,7 +24,7 @@ order: '100'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1676,518,93/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1676,518,93/full/0/default.jpg
 label: all one
-location: "<a href='/New_Beehive/toc/toc3_07/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

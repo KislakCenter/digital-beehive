@@ -3,7 +3,7 @@ pid: index_4463
 volume: Volume 3
 image_number: '51'
 head: Waldenses
-entry: "<a href='/New_Beehive/toc/toc2_063/'>62 [Waldenses or Lyonists]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_063/'>62 [Waldenses or Lyonists]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -24,7 +24,7 @@ order: '4463'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1624,760,480,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1624,760,480,156/full/0/default.jpg
 label: Waldenses
-location: "<a href='/New_Beehive/toc/toc3_51/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

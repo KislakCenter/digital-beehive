@@ -3,7 +3,7 @@ pid: index_3147
 volume: Volume 3
 image_number: '37'
 head: to prevail
-entry: "<a href='/New_Beehive/toc/toc2_198/'>1021 [Prevail]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_198/'>1021 [Prevail]</a>"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3147'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/92,1668,600,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/92,1668,600,161/full/0/default.jpg
 label: to prevail
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

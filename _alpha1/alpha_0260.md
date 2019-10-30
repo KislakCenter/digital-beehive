@@ -6,12 +6,12 @@ head:
 entry: Dream
 topic: Dream
 first_letter: D
-xref: "<a href='/New_Beehive/toc/toc2_268/'>1374 [Dream]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_268/'>1374 [Dream]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index1/index_1146/'>dream</a>"
+index: "<a href='/digital-beehive/index1/index_1146/'>dream</a>"
 insertion_xref: 
 insertion: 
 item: "#item-7723640e4"
@@ -24,7 +24,7 @@ order: '260'
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,2993,600/full/0/default.jpg
 label: Dream
-location: "<a href='/New_Beehive/toc/toc1_441/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 layout: alpha_item
 collection: alpha1
 ---

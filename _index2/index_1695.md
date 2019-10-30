@@ -3,11 +3,11 @@ pid: index_1695
 volume: Volume 3
 image_number: '22'
 head: grass
-entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Pasture]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [Pasture]</a>"
 topic: 
 first_letter: G
 xref: 
-see: "<a href='/New_Beehive/index4/index_2914/'>pasture</a>"
+see: "<a href='/digital-beehive/index4/index_2914/'>pasture</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '1695'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1847,2753,640,168/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1847,2753,640,168/full/0/default.jpg
 label: grass
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

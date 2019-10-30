@@ -3,7 +3,7 @@ pid: index_3216
 volume: Volume 3
 image_number: '37'
 head: prudence
-entry: "<a href='/New_Beehive/alpha4/alpha_0750/'>a</a>|<a href='/New_Beehive/toc/toc2_359/'>1954
+entry: "<a href='/digital-beehive/alpha4/alpha_0750/'>a</a>|<a href='/digital-beehive/toc/toc2_359/'>1954
   [Prudence]</a>"
 topic: 
 first_letter: P
@@ -25,7 +25,7 @@ order: '3216'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/full/0/default.jpg
 label: prudence
-location: "<a href='/New_Beehive/toc/toc3_37/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

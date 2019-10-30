@@ -3,7 +3,7 @@ pid: index_4391
 volume: Volume 3
 image_number: '50'
 head: universal Grace
-entry: "<a href='/New_Beehive/toc/toc2_082/'>231 [Universal grace]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_082/'>231 [Universal grace]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4391'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1127,1518,667,134/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1127,1518,667,134/full/0/default.jpg
 label: universal Grace
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

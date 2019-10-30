@@ -3,7 +3,7 @@ pid: index_3324
 volume: Volume 3
 image_number: '39'
 head: recreation
-entry: "<a href='/New_Beehive/toc/toc2_060/'>38 [Recreation Pastime]</a>|<a href='/New_Beehive/toc/toc2_218/'>1123
+entry: "<a href='/digital-beehive/toc/toc2_060/'>38 [Recreation Pastime]</a>|<a href='/digital-beehive/toc/toc2_218/'>1123
   [Recreation]</a>|1856 [PAGE_MISSING]"
 topic: 
 first_letter: R
@@ -26,7 +26,7 @@ order: '3324'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/158,543,661,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/158,543,661,138/full/0/default.jpg
 label: recreation
-location: "<a href='/New_Beehive/toc/toc3_39/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

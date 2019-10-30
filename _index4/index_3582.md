@@ -3,7 +3,7 @@ pid: index_3582
 volume: Volume 3
 image_number: '41'
 head: second sight
-entry: "<a href='/New_Beehive/toc/toc2_256/'>1314 [Second sighted]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1314 [Second sighted]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3582'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/full/0/default.jpg
 label: second sight
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

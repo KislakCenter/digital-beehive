@@ -3,7 +3,7 @@ pid: index_2337
 volume: Volume 3
 image_number: '29'
 head: lot
-entry: "<a href='/New_Beehive/alpha3/alpha_0549/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0549/'>a</a>"
 topic: 
 first_letter: L
 xref: 
@@ -24,7 +24,7 @@ order: '2337'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/165,1815,256,106/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/165,1815,256,106/full/0/default.jpg
 label: lot
-location: "<a href='/New_Beehive/toc/toc3_29/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_1663
 volume: Volume 3
 image_number: '22'
 head: Gods
-entry: "<a href='/New_Beehive/toc/toc2_093/'>310 [Gods]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_093/'>310 [Gods]</a>"
 topic: 
 first_letter: G
 xref: 
@@ -24,7 +24,7 @@ order: '1663'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2922,314,161/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2922,314,161/full/0/default.jpg
 label: Gods
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,12 +3,12 @@ pid: index_4030
 volume: Volume 3
 image_number: '46'
 head: sword
-entry: "<a href='/New_Beehive/toc/toc2_228/'>1175 [Weapons]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_228/'>1175 [Weapons]</a>"
 topic: 
 first_letter: S
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4030'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/full/0/default.jpg
 label: sword
-location: "<a href='/New_Beehive/toc/toc3_46/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

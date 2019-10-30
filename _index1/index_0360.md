@@ -3,7 +3,7 @@ pid: index_0360
 volume: Volume 3
 image_number: '10'
 head: besiege
-entry: '742 [PAGE_MISSING]|<a href=''/New_Beehive/toc/toc2_261/''>1338 [To Assault
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/toc/toc2_261/''>1338 [To Assault
   : besiege]</a>'
 topic: 
 first_letter: B
@@ -25,7 +25,7 @@ order: '360'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/368,2418,564,152/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/368,2418,564,152/full/0/default.jpg
 label: besiege
-location: "<a href='/New_Beehive/toc/toc3_10/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -6,14 +6,14 @@ head:
 entry: Slowness
 topic: Slowness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/New_Beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/New_Beehive/alpha3/alpha_0509/'>Last</a>|<a href='/New_Beehive/toc/toc2_211/'>1089
+xref: "<a href='/digital-beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/digital-beehive/alpha1/alpha_0218/'>Degree</a>|<a
+  href='/digital-beehive/alpha3/alpha_0509/'>Last</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
   [Slow-footed]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3757/'>slowness</a>"
+index: "<a href='/digital-beehive/index4/index_3757/'>slowness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-39c9d131e"
@@ -27,7 +27,7 @@ order: '879'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,2997,644/full/0/default.jpg
 label: Slowness
-location: "<a href='/New_Beehive/toc/toc2_044/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

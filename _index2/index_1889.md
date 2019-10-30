@@ -3,12 +3,12 @@ pid: index_1889
 volume: Volume 3
 image_number: '24'
 head: hourglass
-entry: "<a href='/New_Beehive/toc/toc2_163/'>878 [Hourglass]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [Hourglass]</a>"
 topic: 
 first_letter: H
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_052/'>p.2 [Image 1.62]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1889'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1837,776,612,156/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1837,776,612,156/full/0/default.jpg
 label: hourglass
-location: "<a href='/New_Beehive/toc/toc3_24/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

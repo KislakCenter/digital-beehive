@@ -6,13 +6,13 @@ head:
 entry: Sickness
 topic: Sickness
 first_letter: S
-xref: "<a href='/New_Beehive/alpha2/alpha_0322/'>fever</a>|<a href='/New_Beehive/alpha3/alpha_0500/'>Kings
+xref: "<a href='/digital-beehive/alpha2/alpha_0322/'>fever</a>|<a href='/digital-beehive/alpha3/alpha_0500/'>Kings
   evil</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3696/'>sickness</a>"
+index: "<a href='/digital-beehive/index4/index_3696/'>sickness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-e89281eac"
@@ -26,7 +26,7 @@ order: '862'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,2885,688/full/0/default.jpg
 label: Sickness
-location: "<a href='/New_Beehive/toc/toc2_042/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

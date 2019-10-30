@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: S
 xref: 
-see: "<a href='/New_Beehive/index1/index_0471/'>buffoonry</a>"
+see: "<a href='/digital-beehive/index1/index_0471/'>buffoonry</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3568'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/886,3281,723,172/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/886,3281,723,172/full/0/default.jpg
 label: scurrility
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3652
 volume: Volume 3
 image_number: '42'
 head: to sew
-entry: "<a href='/New_Beehive/toc/toc2_142/'>624 [To Sew]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [To Sew]</a>"
 topic: 
 first_letter: S
 xref: 
@@ -24,7 +24,7 @@ order: '3652'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1096,1708,448,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1096,1708,448,130/full/0/default.jpg
 label: to sew
-location: "<a href='/New_Beehive/toc/toc3_42/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

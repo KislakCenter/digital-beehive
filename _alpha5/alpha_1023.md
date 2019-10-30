@@ -6,12 +6,12 @@ head:
 entry: Widowhood
 topic: Widowhood
 first_letter: W
-xref: "<a href='/New_Beehive/toc/toc2_317/'>1615 [Widow]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Widow]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index5/index_4546/'>widowhood</a>"
+index: "<a href='/digital-beehive/index5/index_4546/'>widowhood</a>"
 insertion_xref: 
 insertion: 
 item: "#item-1d9195d67"
@@ -24,7 +24,7 @@ order: '1023'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,2933,432/full/0/default.jpg
 label: Widowhood
-location: "<a href='/New_Beehive/toc/toc2_054/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 layout: alpha_item
 collection: alpha5
 ---

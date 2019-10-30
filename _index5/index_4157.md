@@ -3,7 +3,7 @@ pid: index_4157
 volume: Volume 3
 image_number: '47'
 head: timely
-entry: "<a href='/New_Beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/New_Beehive/toc/toc2_386/'>2203
+entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
   [Seasonable Opportunity]</a>"
 topic: 
 first_letter: T
@@ -25,7 +25,7 @@ order: '4157'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/full/0/default.jpg
 label: timely
-location: "<a href='/New_Beehive/toc/toc3_47/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

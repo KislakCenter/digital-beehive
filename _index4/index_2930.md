@@ -3,14 +3,14 @@ pid: index_2930
 volume: Volume 3
 image_number: '34'
 head: peace
-entry: "<a href='/New_Beehive/alpha4/alpha_0687/'>a</a>|<a href='/New_Beehive/toc/toc2_182/'>980
-  [Peace]</a>|<a href='/New_Beehive/toc/toc2_361/'>1966 [Peace]</a>|<a href='/New_Beehive/toc/toc2_394/'>2254
+entry: "<a href='/digital-beehive/alpha4/alpha_0687/'>a</a>|<a href='/digital-beehive/toc/toc2_182/'>980
+  [Peace]</a>|<a href='/digital-beehive/toc/toc2_361/'>1966 [Peace]</a>|<a href='/digital-beehive/toc/toc2_394/'>2254
   [Peace]</a>"
 topic: 
 first_letter: P
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 type: 
 index: 
@@ -27,7 +27,7 @@ order: '2930'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/full/0/default.jpg
 label: peace
-location: "<a href='/New_Beehive/toc/toc3_34/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

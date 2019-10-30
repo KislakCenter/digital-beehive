@@ -3,7 +3,7 @@ pid: index_1544
 volume: Volume 3
 image_number: '21'
 head: fribler
-entry: "<a href='/New_Beehive/toc/toc2_430/'>4806 [Coquets]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4806 [Coquets]</a>"
 topic: 
 first_letter: F
 xref: 
@@ -24,7 +24,7 @@ order: '1544'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/817,2301,464,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/817,2301,464,110/full/0/default.jpg
 label: fribler
-location: "<a href='/New_Beehive/toc/toc3_21/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

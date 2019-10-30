@@ -3,7 +3,7 @@ pid: index_0632
 volume: Volume 3
 image_number: '12'
 head: childbed
-entry: "<a href='/New_Beehive/toc/toc2_137/'>601 [Childbed]</a>|<a href='/New_Beehive/toc/toc2_355/'>1922
+entry: "<a href='/digital-beehive/toc/toc2_137/'>601 [Childbed]</a>|<a href='/digital-beehive/toc/toc2_355/'>1922
   [Childbed]</a>"
 topic: 
 first_letter: C
@@ -25,7 +25,7 @@ order: '632'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1801,2200,675,130/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1801,2200,675,130/full/0/default.jpg
 label: childbed
-location: "<a href='/New_Beehive/toc/toc3_12/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

@@ -11,7 +11,7 @@ see:
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_3178/'>prodigality</a>"
+index: "<a href='/digital-beehive/index4/index_3178/'>prodigality</a>"
 insertion_xref: 
 insertion: 
 item: "#item-fd5f35404"
@@ -24,7 +24,7 @@ order: '734'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/332,1683,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/332,1683,3069,463/full/0/default.jpg
 label: Prodigality
-location: "<a href='/New_Beehive/toc/toc2_033/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,11 +3,11 @@ pid: index_3436
 volume: Volume 3
 image_number: '40'
 head: rival
-entry: "<a href='/New_Beehive/toc/toc2_423/'>4455 [Rival]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4455 [Rival]</a>"
 topic: 
 first_letter: R
 xref: 
-see: "<a href='/New_Beehive/index2/index_1277/'>envy</a>"
+see: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
 page: 
 add: 
 type: 
@@ -24,7 +24,7 @@ order: '3436'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/full/0/default.jpg
 label: rival
-location: "<a href='/New_Beehive/toc/toc3_40/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

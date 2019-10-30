@@ -3,7 +3,7 @@ pid: index_2695
 volume: Volume 3
 image_number: '32'
 head: new England
-entry: 766 [PAGE_MISSING]|<a href='/New_Beehive/toc/toc2_299/'>1523 [New England]</a>
+entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_299/'>1523 [New England]</a>
 topic: 
 first_letter: N
 xref: 
@@ -24,7 +24,7 @@ order: '2695'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/full/0/default.jpg
 label: new England
-location: "<a href='/New_Beehive/toc/toc3_32/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

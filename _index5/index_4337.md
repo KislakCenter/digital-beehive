@@ -3,7 +3,7 @@ pid: index_4337
 volume: Volume 3
 image_number: '49'
 head: violet
-entry: "<a href='/New_Beehive/alpha5/alpha_0985/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0985/'>a</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4337'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/full/0/default.jpg
 label: violet
-location: "<a href='/New_Beehive/toc/toc3_49/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

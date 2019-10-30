@@ -3,8 +3,8 @@ pid: index_4625
 volume: Volume 3
 image_number: '53'
 head: will worship
-entry: "<a href='/New_Beehive/alpha5/alpha_1050/'>a</a>|<a href='/New_Beehive/toc/toc2_119/'>490
-  [Will-worship]</a>|<a href='/New_Beehive/toc/toc2_413/'>2390 [Will-worship]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>|<a href='/digital-beehive/toc/toc2_119/'>490
+  [Will-worship]</a>|<a href='/digital-beehive/toc/toc2_413/'>2390 [Will-worship]</a>"
 topic: 
 first_letter: W
 xref: 
@@ -25,7 +25,7 @@ order: '4625'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/834,3545,742,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/834,3545,742,120/full/0/default.jpg
 label: will worship
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

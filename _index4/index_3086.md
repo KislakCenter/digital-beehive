@@ -3,7 +3,7 @@ pid: index_3086
 volume: Volume 3
 image_number: '36'
 head: possibility
-entry: "<a href='/New_Beehive/alpha4/alpha_0713/'>a</a>|1862 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha4/alpha_0713/'>a</a>|1862 [PAGE_MISSING]"
 topic: 
 first_letter: P
 xref: 
@@ -24,7 +24,7 @@ order: '3086'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1157,1727,674,190/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1157,1727,674,190/full/0/default.jpg
 label: possibility
-location: "<a href='/New_Beehive/toc/toc3_36/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

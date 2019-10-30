@@ -3,7 +3,7 @@ pid: index_1971
 volume: Volume 3
 image_number: '25'
 head: implicit faith
-entry: "<a href='/New_Beehive/toc/toc2_112/'>449 [Implicite Faith]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_112/'>449 [Implicite Faith]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -24,7 +24,7 @@ order: '1971'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/871,1719,630,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/871,1719,630,126/full/0/default.jpg
 label: implicit faith
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

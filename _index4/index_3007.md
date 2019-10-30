@@ -12,7 +12,7 @@ page:
 add: 
 type: Index
 index: 
-insertion_xref: "<a href='/New_Beehive/index5/index_4689/'>pike, Hecht</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4689/'>pike, Hecht</a>"
 insertion: 
 item: "#item-af87e25ee"
 unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
@@ -24,7 +24,7 @@ order: '3007'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2032,965,265,126/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2032,965,265,126/full/0/default.jpg
 label: "[:23.]"
-location: "<a href='/New_Beehive/toc/toc3_35/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3553
 volume: Volume 3
 image_number: '41'
 head: scolding words
-entry: "<a href='/New_Beehive/toc/toc2_151/'>680 [to Chide]</a>|<a href='/New_Beehive/toc/toc2_339/'>1747
+entry: "<a href='/digital-beehive/toc/toc2_151/'>680 [to Chide]</a>|<a href='/digital-beehive/toc/toc2_339/'>1747
   [Scurrilous Epithets, Scheltwort]</a>"
 topic: 
 first_letter: S
@@ -26,7 +26,7 @@ order: '3553'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/831,1789,789,138/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/831,1789,789,138/full/0/default.jpg
 label: scolding words
-location: "<a href='/New_Beehive/toc/toc3_41/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 layout: index_item
 collection: index4
 ---

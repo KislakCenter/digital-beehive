@@ -6,12 +6,12 @@ head:
 entry: Kiss
 topic: Kiss
 first_letter: K
-xref: "<a href='/New_Beehive/toc/toc2_352/'>1905 [Kissing]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kissing]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2165/'>kiss</a>"
+index: "<a href='/digital-beehive/index3/index_2165/'>kiss</a>"
 insertion_xref: 
 insertion: 
 item: "#item-5ebdc777a"
@@ -24,7 +24,7 @@ order: '501'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
 label: Kiss
-location: "<a href='/New_Beehive/toc/toc2_015/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

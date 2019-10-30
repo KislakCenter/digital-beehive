@@ -6,12 +6,12 @@ head:
 entry: Peace
 topic: Peace
 first_letter: P
-xref: Truce|Tranquility|<a href='/New_Beehive/toc/toc2_182/'>980 [Peace]</a>
+xref: Truce|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980 [Peace]</a>
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2930/'>peace</a>"
+index: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
 insertion_xref: 
 insertion: 
 item: "#item-f73a2700c"
@@ -25,7 +25,7 @@ order: '687'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,3075,535/full/0/default.jpg
 label: Peace
-location: "<a href='/New_Beehive/toc/toc2_029/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

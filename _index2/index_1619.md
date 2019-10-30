@@ -8,7 +8,7 @@ topic:
 first_letter: G
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_119/'>p.62 [Image 1.129]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '1619'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/404,2825,769,147/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/404,2825,769,147/full/0/default.jpg
 label: Glaucha hospital books there printed
-location: "<a href='/New_Beehive/toc/toc3_22/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

@@ -3,12 +3,12 @@ pid: index_4179
 volume: Volume 3
 image_number: '48'
 head: too late
-entry: "<a href='/New_Beehive/toc/toc2_244/'>1255 [Too Late]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_244/'>1255 [Too Late]</a>"
 topic: 
 first_letter: T
 xref: 
 see: 
-page: "<a href='/New_Beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
+page: "<a href='/digital-beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
 add: 
 type: 
 index: 
@@ -24,7 +24,7 @@ order: '4179'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/483,1283,652,122/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/483,1283,652,122/full/0/default.jpg
 label: too late
-location: "<a href='/New_Beehive/toc/toc3_48/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

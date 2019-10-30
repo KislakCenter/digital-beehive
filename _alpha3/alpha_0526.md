@@ -6,12 +6,12 @@ head:
 entry: Lending
 topic: Lending
 first_letter: L
-xref: "<a href='/New_Beehive/alpha1/alpha_0093/'>Borrowing</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0093/'>Borrowing</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index3/index_2254/'>lending</a>"
+index: "<a href='/digital-beehive/index3/index_2254/'>lending</a>"
 insertion_xref: 
 insertion: 
 item: "#item-9bc658305"
@@ -24,7 +24,7 @@ order: '526'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,3020,304/full/0/default.jpg
 label: Lending
-location: "<a href='/New_Beehive/toc/toc2_017/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 layout: alpha_item
 collection: alpha3
 ---

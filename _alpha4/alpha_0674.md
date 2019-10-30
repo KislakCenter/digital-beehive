@@ -6,12 +6,12 @@ head:
 entry: Paris
 topic: Paris
 first_letter: P
-xref: "<a href='/New_Beehive/toc/toc2_252/'>1293 [Paris]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_252/'>1293 [Paris]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index4/index_2883/'>Paris</a>"
+index: "<a href='/digital-beehive/index4/index_2883/'>Paris</a>"
 insertion_xref: 
 insertion: 
 item: "#item-379a4ca51"
@@ -24,7 +24,7 @@ order: '674'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/756,3995,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/756,3995,2977,357/full/0/default.jpg
 label: Paris
-location: "<a href='/New_Beehive/toc/toc2_028/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 layout: alpha_item
 collection: alpha4
 ---

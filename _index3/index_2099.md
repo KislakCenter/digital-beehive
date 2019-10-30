@@ -3,7 +3,7 @@ pid: index_2099
 volume: Volume 3
 image_number: '26'
 head: inward man
-entry: "<a href='/New_Beehive/alpha3/alpha_0485/'>a</a>|<a href='/New_Beehive/toc/toc2_412/'>2373
+entry: "<a href='/digital-beehive/alpha3/alpha_0485/'>a</a>|<a href='/digital-beehive/toc/toc2_412/'>2373
   [Inward Man]</a>"
 topic: 
 first_letter: I/J
@@ -25,7 +25,7 @@ order: '2099'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1850,1861,528,83/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1850,1861,528,83/full/0/default.jpg
 label: inward man
-location: "<a href='/New_Beehive/toc/toc3_26/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_1303
 volume: Volume 3
 image_number: '19'
 head: establishment
-entry: "<a href='/New_Beehive/toc/toc2_071/'>143 [Establishment]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_071/'>143 [Establishment]</a>"
 topic: 
 first_letter: E
 xref: 
@@ -24,7 +24,7 @@ order: '1303'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/123,2995,561,160/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/123,2995,561,160/full/0/default.jpg
 label: establishment
-location: "<a href='/New_Beehive/toc/toc3_19/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 layout: index_item
 collection: index2
 ---

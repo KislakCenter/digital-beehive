@@ -3,7 +3,7 @@ pid: index_4601
 volume: Volume 3
 image_number: '53'
 head: wonder
-entry: "<a href='/New_Beehive/alpha5/alpha_1039/'>a</a>|<a href='/New_Beehive/toc/toc2_278/'>1423
+entry: "<a href='/digital-beehive/alpha5/alpha_1039/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1423
   [Wonder]</a>"
 topic: 
 first_letter: W
@@ -25,7 +25,7 @@ order: '4601'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/full/0/default.jpg
 label: wonder
-location: "<a href='/New_Beehive/toc/toc3_53/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

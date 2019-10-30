@@ -6,13 +6,13 @@ head:
 entry: Heart
 topic: Heart
 first_letter: H
-xref: "<a href='/New_Beehive/alpha1/alpha_0097/'>Breast</a>|<a href='/New_Beehive/toc/toc2_295/'>1507
+xref: "<a href='/digital-beehive/alpha1/alpha_0097/'>Breast</a>|<a href='/digital-beehive/toc/toc2_295/'>1507
   [Heart]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1782/'>heart</a>"
+index: "<a href='/digital-beehive/index2/index_1782/'>heart</a>"
 insertion_xref: 
 insertion: 
 item: "#item-120a26e1b"
@@ -25,7 +25,7 @@ order: '404'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/435,3076,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/435,3076,2996,476/full/0/default.jpg
 label: Heart
-location: "<a href='/New_Beehive/toc/toc2_007/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

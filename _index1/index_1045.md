@@ -3,7 +3,7 @@ pid: index_1045
 volume: Volume 3
 image_number: '16'
 head: to die
-entry: "<a href='/New_Beehive/toc/toc2_245/'>1257 [To Die]</a>|<a href='/New_Beehive/toc/toc2_383/'>2176
+entry: "<a href='/digital-beehive/toc/toc2_245/'>1257 [To Die]</a>|<a href='/digital-beehive/toc/toc2_383/'>2176
   [To Die]</a>"
 topic: 
 first_letter: D
@@ -25,7 +25,7 @@ order: '1045'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,1092,589,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,1092,589,110/full/0/default.jpg
 label: to die
-location: "<a href='/New_Beehive/toc/toc3_16/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

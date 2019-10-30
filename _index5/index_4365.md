@@ -3,7 +3,7 @@ pid: index_4365
 volume: Volume 3
 image_number: '50'
 head: to uncloath
-entry: "<a href='/New_Beehive/toc/toc2_372/'>2062 [To uncloath]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_372/'>2062 [To uncloath]</a>"
 topic: 
 first_letter: U/V
 xref: 
@@ -24,7 +24,7 @@ order: '4365'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/434,2025,583,110/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/434,2025,583,110/full/0/default.jpg
 label: to uncloath
-location: "<a href='/New_Beehive/toc/toc3_50/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 layout: index_item
 collection: index5
 ---

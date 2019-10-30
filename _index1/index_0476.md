@@ -3,7 +3,7 @@ pid: index_0476
 volume: Volume 3
 image_number: '11'
 head: bung
-entry: "<a href='/New_Beehive/toc/toc2_134/'>585 [Bung]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_134/'>585 [Bung]</a>"
 topic: 
 first_letter: B
 xref: 
@@ -24,7 +24,7 @@ order: '476'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/883,986,343,137/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/883,986,343,137/full/0/default.jpg
 label: bung
-location: "<a href='/New_Beehive/toc/toc3_11/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 layout: index_item
 collection: index1
 ---

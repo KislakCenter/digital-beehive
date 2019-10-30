@@ -6,12 +6,12 @@ head:
 entry: God's goodness
 topic: God's goodness
 first_letter: G
-xref: "<a href='/New_Beehive/toc/toc2_097/'>337 [Gods goodness]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_097/'>337 [Gods goodness]</a>"
 see: 
 page: 
 add: 
 type: 
-index: "<a href='/New_Beehive/index2/index_1646/'>God's goodness</a>"
+index: "<a href='/digital-beehive/index2/index_1646/'>God's goodness</a>"
 insertion_xref: 
 insertion: 
 item: "#item-d86779c1a"
@@ -25,7 +25,7 @@ order: '366'
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,600,180/250,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,3076,355/full/0/default.jpg
 label: God's goodness
-location: "<a href='/New_Beehive/toc/toc2_005/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 layout: alpha_item
 collection: alpha2
 ---

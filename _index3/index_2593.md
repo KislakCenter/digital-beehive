@@ -3,7 +3,7 @@ pid: index_2593
 volume: Volume 3
 image_number: '31'
 head: moss
-entry: "<a href='/New_Beehive/toc/toc2_374/'>2086 [Moss]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2086 [Moss]</a>"
 topic: 
 first_letter: M
 xref: 
@@ -24,7 +24,7 @@ order: '2593'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/850,3029,399,120/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/850,3029,399,120/full/0/default.jpg
 label: moss
-location: "<a href='/New_Beehive/toc/toc3_31/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---

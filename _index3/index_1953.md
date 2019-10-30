@@ -3,9 +3,9 @@ pid: index_1953
 volume: Volume 3
 image_number: '25'
 head: ill gotten
-entry: "<a href='/New_Beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/New_Beehive/toc/toc2_095/'>326
-  [Ill gotten goods & gains]</a>|<a href='/New_Beehive/toc/toc2_337/'>1727 [Ill gotten
-  goods]</a>"
+entry: "<a href='/digital-beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/digital-beehive/toc/toc2_095/'>326
+  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill
+  gotten goods]</a>"
 topic: 
 first_letter: I/J
 xref: 
@@ -27,7 +27,7 @@ order: '1953'
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/143,3344,680,184/150,/0/default.jpg
 full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/143,3344,680,184/full/0/default.jpg
 label: ill gotten
-location: "<a href='/New_Beehive/toc/toc3_25/'>Full Page</a>"
+location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 layout: index_item
 collection: index3
 ---
