@@ -17,8 +17,8 @@ title: Pastorius Beehive
 email: nelsd@sas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The Pastorius Beehive Project creates a working digital edition of Francis Daniel Pastorius' Beehive Manuscript.
-baseurl: "/New_Beehive" # the subpath of your site, e.g. /blog
-url: "https://KislakCenterForSpecialCollections.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/digital-beehive" # the subpath of your site, e.g. /blog
+url: "https://KislakCenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /img/logo.png
 github_username:  drnelson6
 
@@ -230,7 +230,7 @@ menu:
 footer:
   links:
     - label: 'Github'
-      link: 'https://github.com/drnelson6/New_Beehive'
+      link: 'https://github.com/KislakCenter/digital-beehive'
     - label: 'University of Pennsylvania Libraries'
       link: 'https://www.library.upenn.edu'
     - label: 'Kislak Center for Special Collections, Rare Books and Manuscripts'
