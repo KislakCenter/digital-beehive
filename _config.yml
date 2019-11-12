@@ -210,6 +210,8 @@ menu:
       #   link: Link here to the Github
       - label: 'Documentation'
         link: '/documentation/'
+      - link: 'Bibliography'
+        link: '/bibliography/'
   - label: 'Browse the Book'
     sub:
       - label: 'Browse by Page'
