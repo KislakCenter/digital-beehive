@@ -4,4 +4,4 @@ title: Blank Pages
 permalink: /blankpages/
 ---
 
-{% include toc_theme.html collection='toc' facet_by='type' only='Blank Page' %}
+{% include toc_theme_contents.html collection='toc' facet_by='type' only='Blank Page' %}
