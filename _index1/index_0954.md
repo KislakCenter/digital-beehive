@@ -2,30 +2,27 @@
 pid: index_0954
 volume: Volume 3
 image_number: '15'
-head: day
-entry: "<a href='/digital-beehive/alpha1/alpha_0208/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1447
-  [Day]</a>"
+head: day of humiliation
+entry: "<a href='/digital-beehive/num2/num_0336/'>298 [Day of humiliation]</a>"
 topic: 
 first_letter: D
+page: 
+add: "<a href='/digital-beehive/index5/index_4343/'>Visitation</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e6884194d"
+item: "#item-82ba7c3e6"
 unparsed: 
-line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1551,1973,475,98/full/0/default.jpg
+line: 'Head: day of humiliation|Entry: 298 [Day of humiliation]|Add: Visitation|#item-82ba7c3e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
-order: '954'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1551,1973,475,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1551,1973,475,98/full/0/default.jpg
-label: day
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391627623
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/150,/0/default.jpg
+label: day of humiliation
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0951'
 layout: index_item
 collection: index1
 ---

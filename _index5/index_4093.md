@@ -2,29 +2,27 @@
 pid: index_4093
 volume: Volume 3
 image_number: '47'
-head: term of life prefixt
-entry: 4515 [PAGE_MISSING]
+head: term
+entry: "<a href='/digital-beehive/toc/toc2_237/'>1219 [a Term]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fb43076d5"
+item: "#item-19686079b"
 unparsed: 
-line: 'Head: term of life prefixt|Entry: 4515 [PAGE_MISSING]|#item-fb43076d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/174,2439,722,147/full/0/default.jpg
+line: 'Head: term|Entry: 1219 [a Term]|#item-19686079b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/166,2528,337,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294188758
-order: '4093'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/174,2439,722,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/174,2439,722,147/full/0/default.jpg
-label: term of life prefixt
+annotation_uri: http://dev.llgc.org.uk/annotation/1532714757666
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/166,2528,337,101/150,/0/default.jpg
+label: term
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '060'
 layout: index_item
 collection: index5
 ---

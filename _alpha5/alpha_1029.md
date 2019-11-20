@@ -1,30 +1,29 @@
 ---
 pid: alpha_1029
 volume: Volume 2
-image_number: '65'
+image_number: '64'
 head: 
-entry: Winter
-topic: Winter
+entry: Weather
+topic: Weather
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Winter]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4566/'>winter</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0221ad0ac"
+xref: "<a href='/digital-beehive/alpha4/alpha_0741/'>Prognostic</a>|4734 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index5/index_4503/'>weather</a>"
+item: "#item-56025d275"
 unparsed: 
-line: 'Entry: Winter|Topic: Winter|Xref: 1088 [Winter]|Index: winter|#item-0221ad0ac'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,3023,334/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592204032
-order: '1029'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,3023,334/full/0/default.jpg
-label: Winter
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+line: 'Entry: Weather|Topic: Weather|Xref: Prognostic|Xref: 4734 [PAGE_MISSING]|Index:
+  weather|#item-56025d275'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,2949,509/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529524530362
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,600,180/250,/0/default.jpg
+label: Weather
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+num_match: 
+order: '094'
 layout: alpha_item
 collection: alpha5
 ---

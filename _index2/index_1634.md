@@ -2,32 +2,28 @@
 pid: index_1634
 volume: Volume 3
 image_number: '22'
-head: church governmt
-entry: "<a href='/digital-beehive/toc/toc2_106/'>402 [Order & Discipline in the Church]</a>|<a
-  href='/digital-beehive/toc/toc2_314/'>1600 [Church Discipline]</a>|<a href='/digital-beehive/toc/toc2_347/'>1808
-  [Church Governmt]</a>"
+head: to goe
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_222/'>1142 [To Go]</a>|4580
+  [PAGE_MISSING]
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-244d864ac"
+item: "#item-6ec647170"
 unparsed: 
-line: 'Head: church governmt|Entry: 402 [Order & Discipline in the Church]|Entry:
-  1600 [Church Discipline]|Entry: 1808 [Church Governmt]|#item-244d864ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/full/0/default.jpg
+line: 'Head: to goe|Entry: 805 [PAGE_MISSING]|Entry: 1142 [To Go]|Entry: 4580 [PAGE_MISSING]|#item-6ec647170'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052165286
-order: '1634'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1722,844,836,92/full/0/default.jpg
-label: church governmt
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046182699
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/150,/0/default.jpg
+label: to goe
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '454'
 layout: index_item
 collection: index2
 ---

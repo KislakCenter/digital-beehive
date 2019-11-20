@@ -1,30 +1,30 @@
 ---
 pid: alpha_1028
 volume: Volume 2
-image_number: '65'
+image_number: '64'
 head: 
-entry: Wine
-topic: Wine
+entry: Weapons of the apostolical warfare
+topic: Weapons of the apostolical warfare
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4561/'>wine</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f6c5d1c85"
+xref: "<a href='/digital-beehive/alpha2/alpha_0389/'>Gun</a>|<a href='/digital-beehive/toc/toc2_228/'>1175
+  [Weapons]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4500/'>weapons</a>"
+item: "#item-5f871b9e0"
 unparsed: 
-line: 'Entry: Wine|Topic: Wine|Xref: 590 [artificial Wines]|Index: wine|#item-f6c5d1c85'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,3033,422/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592011476
-order: '1028'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,3033,422/full/0/default.jpg
-label: Wine
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+line: 'Entry: Weapons of the apostolical warfare|Topic: Weapons of the apostolical
+  warfare|Xref: Gun|Xref: 1175 [Weapons]|Index: weapons|#item-5f871b9e0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/821,1822,2952,559/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565120110291
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/821,1822,600,180/250,/0/default.jpg
+label: Weapons of the apostolical warfare
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+num_match: 
+order: '093'
 layout: alpha_item
 collection: alpha5
 ---

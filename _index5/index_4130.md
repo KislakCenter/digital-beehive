@@ -2,29 +2,27 @@
 pid: index_4130
 volume: Volume 3
 image_number: '47'
-head: thread
-entry: "<a href='/digital-beehive/toc/toc2_221/'>1136 [Thread]</a>"
+head: threshing
+entry: "<a href='/digital-beehive/toc/toc2_382/'>2164 [Threshing]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-089e24d6e"
+item: "#item-2f42414b4"
 unparsed: 
-line: 'Head: thread|Entry: 1136 [Thread]|#item-089e24d6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,3039,347,85/full/0/default.jpg
+line: 'Head: threshing|Entry: 2164 [Threshing]|#item-2f42414b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/888,3091,518,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532876694360
-order: '4130'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,3039,347,85/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/896,3039,347,85/full/0/default.jpg
-label: thread
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294406890
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/888,3091,518,101/150,/0/default.jpg
+label: threshing
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '097'
 layout: index_item
 collection: index5
 ---

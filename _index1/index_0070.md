@@ -2,29 +2,27 @@
 pid: index_0070
 volume: Volume 3
 image_number: '7'
-head: against
-entry: "<a href='/digital-beehive/toc/toc2_320/'>1627 [Against]</a>"
+head: Agbarus
+entry: "<a href='/digital-beehive/num1/num_0095/'>92 [Agbarus]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f6d6b7094"
+item: "#item-e0e57e92b"
 unparsed: 
-line: 'Head: against|Entry: 1627 [Against]|#item-f6d6b7094'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2618,447,110/full/0/default.jpg
+line: 'Head: Agbarus|Entry: 92 [Agbarus]|#item-e0e57e92b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2661,386,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766964109
-order: '70'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2618,447,110/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2618,447,110/full/0/default.jpg
-label: against
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767009334
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2661,386,121/150,/0/default.jpg
+label: Agbarus
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0069'
 layout: index_item
 collection: index1
 ---

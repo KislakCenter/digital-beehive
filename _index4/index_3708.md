@@ -2,30 +2,27 @@
 pid: index_3708
 volume: Volume 3
 image_number: '43'
-head: silence
-entry: "<a href='/digital-beehive/alpha4/alpha_0865/'>a</a>|<a href='/digital-beehive/toc/toc2_111/'>436
-  [Silence]</a>|<a href='/digital-beehive/toc/toc2_253/'>1299 [Silence & Reservedness]</a>"
+head: silent meetings
+entry: "<a href='/digital-beehive/num2/num_0332/'>295 [Silent meetings]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cb1d8a7bf"
+item: "#item-ddcbf27cf"
 unparsed: 
-line: 'Head: silence|Entry: a|Entry: 436 [Silence]|Entry: 1299 [Silence & Reservedness]|#item-cb1d8a7bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,1343,679,136/full/0/default.jpg
+line: 'Head: silent meetings|Entry: 295 [Silent meetings]|#item-ddcbf27cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/190,1466,668,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581999114
-order: '3708'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,1343,679,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,1343,679,136/full/0/default.jpg
-label: silence
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582027680
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/190,1466,668,161/150,/0/default.jpg
+label: silent meetings
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0955'
 layout: index_item
 collection: index4
 ---

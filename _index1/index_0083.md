@@ -2,30 +2,27 @@
 pid: index_0083
 volume: Volume 3
 image_number: '7'
-head: air
-entry: "<a href='/digital-beehive/toc/toc2_098/'>349 [Air]</a>|<a href='/digital-beehive/toc/toc2_280/'>1434
-  [Air]</a>"
+head: alacrity
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1316 [Alarcity]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d847adf37"
+item: "#item-85f6d865b"
 unparsed: 
-line: 'Head: air|Entry: 349 [Air]|Enry: 1434 [Air]|#item-d847adf37'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1611,359,442,108/full/0/default.jpg
+line: 'Head: alacrity|Entry: 1316 [Alarcity]|#item-85f6d865b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1615,443,444,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767854596
-order: '83'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1611,359,442,108/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1611,359,442,108/full/0/default.jpg
-label: air
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767900037
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1615,443,444,139/150,/0/default.jpg
+label: alacrity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0082'
 layout: index_item
 collection: index1
 ---

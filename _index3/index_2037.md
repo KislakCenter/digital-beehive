@@ -8,14 +8,11 @@ entry: "<a href='/digital-beehive/toc/toc2_285/'>1460 [The Influence of the Plan
   [Influence]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-d636e54e0"
 unparsed: 
 line: 'Head: influence|Entry: 1460 [The Influence of the Planets]|Entry: 1593 [Influence]|Entry:
@@ -23,11 +20,12 @@ line: 'Head: influence|Entry: 1460 [The Influence of the Planets]|Entry: 1593 [I
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/425,2055,774,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559744757556
-order: '2037'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/425,2055,774,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/425,2055,774,138/full/0/default.jpg
 label: influence
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+insertion_xref: 
+order: '118'
 layout: index_item
 collection: index3
 ---

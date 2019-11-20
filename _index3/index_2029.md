@@ -6,25 +6,23 @@ head: infancy
 entry: 
 topic: 
 first_letter: I/J
-xref: 
-see: "<a href='/digital-beehive/index1/index_0633/'>Childhood</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0632/'>Childhood</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-086ab94c5"
 unparsed: 
 line: 'Head: infancy|See: Childhood|#item-086ab94c5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559744055955
-order: '2029'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/full/0/default.jpg
 label: infancy
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+insertion_xref: 
+order: '110'
 layout: index_item
 collection: index3
 ---

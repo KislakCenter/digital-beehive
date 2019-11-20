@@ -6,25 +6,23 @@ head: groves
 entry: 
 topic: 
 first_letter: G
-xref: 
-see: "<a href='/digital-beehive/index5/index_4603/'>wood</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4601/'>wood</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-bf0eddd58"
 unparsed: 
 line: 'Head: groves|See: wood|#item-bf0eddd58'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559231786393
-order: '1719'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/full/0/default.jpg
 label: groves
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+insertion_xref: 
+order: '538'
 layout: index_item
 collection: index2
 ---

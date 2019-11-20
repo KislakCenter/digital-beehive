@@ -2,29 +2,27 @@
 pid: index_3662
 volume: Volume 3
 image_number: '42'
-head: shameless
-entry: "<a href='/digital-beehive/toc/toc2_116/'>471 [Impudence]</a>"
+head: shape
+entry: "<a href='/digital-beehive/alpha4/alpha_0864/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4fbf219c1"
+item: "#item-52a7c7ab2"
 unparsed: 
-line: 'Head: shameless|Entry: 471 [Impudence]|#item-4fbf219c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1072,2920,432,136/full/0/default.jpg
+line: 'Head: shape|Entry: a|#item-52a7c7ab2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1100,3062,364,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575000213
-order: '3662'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1072,2920,432,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1072,2920,432,136/full/0/default.jpg
-label: shameless
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575014668
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1100,3062,364,115/150,/0/default.jpg
+label: shape
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0909'
 layout: index_item
 collection: index4
 ---

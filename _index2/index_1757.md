@@ -6,25 +6,23 @@ head: harmless
 entry: 
 topic: 
 first_letter: H
-xref: 
-see: In[n]oc|Indemn
 page: 
 add: 
-type: 
+xref: 
+see: In[n]oc|Indemn
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-bac6450b0"
 unparsed: 
 line: 'Head: harmless|See: In[n]oc|See: Indemn|#item-bac6450b0'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/847,1716,686,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559239964592
-order: '1757'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/847,1716,686,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/847,1716,686,140/full/0/default.jpg
 label: harmless
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+insertion_xref: 
+order: '576'
 layout: index_item
 collection: index2
 ---

@@ -2,29 +2,30 @@
 pid: index_4541
 volume: Volume 3
 image_number: '52'
-head: wholly
-entry: 755 [PAGE_MISSING]
+head: whoredom
+entry: "<a href='/digital-beehive/alpha5/alpha_1031/'>a</a>|<a href='/digital-beehive/toc/toc2_132/'>571
+  [Fornication or whoredom]</a>|<a href='/digital-beehive/toc/toc2_300/'>1528 [Whoredom]</a>|4514
+  [PAGE_MISSING]"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5060253d4"
+item: "#item-e7c84b210"
 unparsed: 
-line: 'Head: wholly|Entry: 755 [PAGE_MISSING]|#item-5060253d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1762,1028,449,169/full/0/default.jpg
+line: 'Head: whoredom|Entry: a|Entry: 571 [Fornication or whoredom]|Entry: 1528 [Whoredom]|Entry:
+  4514 [PAGE_MISSING]|#item-e7c84b210'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1777,1183,705,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971613585
-order: '4541'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1762,1028,449,169/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1762,1028,449,169/full/0/default.jpg
-label: wholly
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971767210
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1777,1183,705,126/150,/0/default.jpg
+label: whoredom
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '508'
 layout: index_item
 collection: index5
 ---

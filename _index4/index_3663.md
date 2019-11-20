@@ -2,29 +2,27 @@
 pid: index_3663
 volume: Volume 3
 image_number: '42'
-head: shape
-entry: "<a href='/digital-beehive/alpha4/alpha_0857/'>a</a>"
+head: shark. (fish.)
+entry: 4744 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-52a7c7ab2"
+item: "#item-e5802fbe0"
 unparsed: 
-line: 'Head: shape|Entry: a|#item-52a7c7ab2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1100,3062,364,115/full/0/default.jpg
+line: 'Head: shark. (fish.)|Entry: 4744 [PAGE_MISSING]|#item-e5802fbe0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1075,3139,659,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575014668
-order: '3663'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1100,3062,364,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1100,3062,364,115/full/0/default.jpg
-label: shape
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575335171
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1075,3139,659,126/150,/0/default.jpg
+label: shark. (fish.)
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0910'
 layout: index_item
 collection: index4
 ---

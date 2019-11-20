@@ -2,29 +2,27 @@
 pid: index_4528
 volume: Volume 3
 image_number: '52'
-head: whelp
-entry: "<a href='/digital-beehive/toc/toc2_206/'>1061 [The young or little ones]</a>"
+head: where
+entry: "<a href='/digital-beehive/toc/toc2_161/'>869 [Everywhere]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-91399dfcb"
+item: "#item-53978067b"
 unparsed: 
-line: 'Head: whelp|Entry: 1061 [The young or little ones]|#item-91399dfcb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,2760,422,174/full/0/default.jpg
+line: 'Head: where|Entry: 869 [Everywhere]|#item-53978067b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1066,2905,481,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969929507
-order: '4528'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,2760,422,174/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,2760,422,174/full/0/default.jpg
-label: whelp
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969984033
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1066,2905,481,149/150,/0/default.jpg
+label: where
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '495'
 layout: index_item
 collection: index5
 ---

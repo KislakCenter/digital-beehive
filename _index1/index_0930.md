@@ -2,29 +2,28 @@
 pid: index_0930
 volume: Volume 3
 image_number: '15'
-head: currans
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Corinths]</a>"
+head: curse
+entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/toc/toc2_209/'>1078
+  [Curse]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-90690e1e5"
+item: "#item-1e80fb090"
 unparsed: 
-line: 'Head: currans|Entry: 1344 [Corinths]|#item-90690e1e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/full/0/default.jpg
+line: 'Head: curse|Entry: 29 [Curse]|Entry: 1078 [Curse]|#item-1e80fb090'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578148720
-order: '930'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/full/0/default.jpg
-label: currans
+annotation_uri: http://dev.llgc.org.uk/annotation/1539810782980
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/150,/0/default.jpg
+label: curse
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0927'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,28 @@
 pid: index_3441
 volume: Volume 3
 image_number: '40'
-head: rogue
-entry: "<a href='/digital-beehive/toc/toc2_157/'>707 [Roguery]</a>"
+head: romance
+entry: "<a href='/digital-beehive/alpha4/alpha_0813/'>a</a>|<a href='/digital-beehive/toc/toc2_272/'>1393
+  [Romances]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3374503cb"
+item: "#item-6af490f6b"
 unparsed: 
-line: 'Head: rogue|Entry: 707 [Roguery]|#item-3374503cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/full/0/default.jpg
+line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1179,819,580,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232978875
-order: '3441'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/full/0/default.jpg
-label: rogue
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1179,819,580,130/150,/0/default.jpg
+label: romance
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0688'
 layout: index_item
 collection: index4
 ---

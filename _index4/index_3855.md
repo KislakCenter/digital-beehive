@@ -2,29 +2,27 @@
 pid: index_3855
 volume: Volume 3
 image_number: '44'
-head: splendour
-entry: "<a href='/digital-beehive/toc/toc2_109/'>427 [Bright]</a>"
+head: to split
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1644 [To Split]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0e73c1af3"
+item: "#item-1c1e120d5"
 unparsed: 
-line: 'Head: splendour|Entry: 427 [Bright]|#item-0e73c1af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/full/0/default.jpg
+line: 'Head: to split|Entry: 1644 [To Split]|#item-1c1e120d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1839,1024,454,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104615868
-order: '3855'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/full/0/default.jpg
-label: splendour
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288965642
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1839,1024,454,115/150,/0/default.jpg
+label: to split
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1102'
 layout: index_item
 collection: index4
 ---

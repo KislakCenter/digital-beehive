@@ -2,29 +2,27 @@
 pid: index_3534
 volume: Volume 3
 image_number: '41'
-head: to scald
-entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [To Burn]</a>"
+head: scandal
+entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-58f555fa2"
+item: "#item-b18891a25"
 unparsed: 
-line: 'Head: to scald|Entry: 672 [To Burn]|#item-58f555fa2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/full/0/default.jpg
+line: 'Head: scandal|Entry: a|#item-b18891a25'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3139,387,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240061130
-order: '3534'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/full/0/default.jpg
-label: to scald
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240096299
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3139,387,113/150,/0/default.jpg
+label: scandal
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0781'
 layout: index_item
 collection: index4
 ---

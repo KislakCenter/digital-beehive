@@ -3,28 +3,26 @@ pid: alpha_0564
 volume: Volume 2
 image_number: '30'
 head: 
-entry: Maimed
-topic: Maimed
+entry: Magistrate
+topic: Magistrate
 first_letter: M
-xref: "<a href='/digital-beehive/alpha5/alpha_1052/'>Wound</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b9f70ee6e"
+xref: "<a href='/digital-beehive/num2/num_0365/'>318 [Magistrates]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2379/'>magistrate</a>"
+item: "#item-39f583755"
 unparsed: 
-line: 'Entry: Maimed|Topic: Maimed|Xref: Wound|Index: maimed|#item-b9f70ee6e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,2974,394/full/0/default.jpg
+line: 'Entry: Magistrate|Topic: Magistrate|Xref: 318 [Magistrates]|Index: magistrate|#item-39f583755'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,2747,3032,667/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564772227256
-order: '564'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,2974,394/full/0/default.jpg
-label: Maimed
+annotation_uri: http://dev.llgc.org.uk/annotation/1564771925023
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,2747,600,180/250,/0/default.jpg
+label: Magistrate
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+num_match: 
+order: '120'
 layout: alpha_item
 collection: alpha3
 ---

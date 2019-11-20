@@ -1,32 +1,28 @@
 ---
 pid: alpha_1057
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Writing
-topic: Writing
+entry: Worlds end
+topic: Worlds end
 first_letter: W
-xref: "<a href='/digital-beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/digital-beehive/toc/toc2_107/'>412
-  [Writing]</a>|<a href='/digital-beehive/toc/toc2_269/'>1376 [Writing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4634/'>writing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-434c92894"
+xref: "<a href='/digital-beehive/alpha5/alpha_0975/'>Transitory</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4617/'>worlds. end</a>"
+item: "#item-cc1193c3a"
 unparsed: 
-line: 'Entry: Writing|Topic: Writing|Xref: Scripture|Xref: 412 [Writing]|Xref: 1376
-  [Writing]|Index: writing|#item-434c92894'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,3010,316/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529599666670
-order: '1057'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,3010,316/full/0/default.jpg
-label: Writing
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: Worlds end|Topic: Worlds end|Xref: Transitory|Index: worlds. end|#item-cc1193c3a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,2943,375/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529596725711
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,600,180/250,/0/default.jpg
+label: Worlds end
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '122'
 layout: alpha_item
 collection: alpha5
 ---

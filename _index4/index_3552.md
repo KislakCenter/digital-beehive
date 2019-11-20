@@ -2,29 +2,27 @@
 pid: index_3552
 volume: Volume 3
 image_number: '41'
-head: scoff
-entry: 814 [PAGE_MISSING]
+head: scorn
+entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|814 [PAGE_MISSING]"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3155f87ea"
+item: "#item-22ba831e8"
 unparsed: 
-line: 'Head: scoff|See: scorn|Entry: 814 [PAGE_MISSING]|#item-3155f87ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/full/0/default.jpg
+line: 'Head: scorn|Entry: a|Entry: 814 [PAGE_MISSING]|#item-22ba831e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/851,1953,491,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240729978
-order: '3552'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/full/0/default.jpg
-label: scoff
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240998582
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/851,1953,491,120/150,/0/default.jpg
+label: scorn
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0799'
 layout: index_item
 collection: index4
 ---

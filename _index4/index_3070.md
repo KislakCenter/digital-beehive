@@ -2,29 +2,27 @@
 pid: index_3070
 volume: Volume 3
 image_number: '36'
-head: pond
-entry: "<a href='/digital-beehive/toc/toc2_173/'>927 [Pond]</a>"
+head: poor man defendt
+entry: "<a href='/digital-beehive/num1/num_0166/'>160 [Gods help]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-31edf89f1"
+item: "#item-c859ed304"
 unparsed: 
-line: 'Head: pond|Entry: 927 [Pond]|#item-31edf89f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1208,242,412,151/full/0/default.jpg
+line: 'Head: poor man defendt|Entry: 160 [Gods help]|#item-c859ed304'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438212652
-order: '3070'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1208,242,412,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1208,242,412,151/full/0/default.jpg
-label: pond
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438258254
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/150,/0/default.jpg
+label: poor man defendt
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0318'
 layout: index_item
 collection: index4
 ---

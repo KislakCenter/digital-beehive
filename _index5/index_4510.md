@@ -2,29 +2,27 @@
 pid: index_4510
 volume: Volume 3
 image_number: '52'
-head: weeds
-entry: 809 [PAGE_MISSING]
+head: week
+entry: "<a href='/digital-beehive/num2/num_0573/'>460 [Week]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2b04f41e7"
+item: "#item-96f269320"
 unparsed: 
-line: 'Head: weeds|Entry: 809 [PAGE_MISSING]|#item-2b04f41e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1102,404,400,134/full/0/default.jpg
+line: 'Head: week|Entry: 460 [Week]|#item-96f269320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1091,519,375,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968065763
-order: '4510'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1102,404,400,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1102,404,400,134/full/0/default.jpg
-label: weeds
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968111101
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1091,519,375,96/150,/0/default.jpg
+label: week
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '477'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_3643
 volume: Volume 3
 image_number: '42'
-head: seriousness
-entry: "<a href='/digital-beehive/toc/toc2_078/'>202 [Seriousness]</a>"
+head: sermon
+entry: "<a href='/digital-beehive/toc/toc2_275/'>1409 [a Sermon]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e5b042d17"
+item: "#item-796f171f1"
 unparsed: 
-line: 'Head: seriousness|Entry: 202 [Seriousness]|#item-e5b042d17'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1116,702,610,160/full/0/default.jpg
+line: 'Head: sermon|Entry: 1409 [a Sermon]|#item-796f171f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1121,814,687,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573713755
-order: '3643'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1116,702,610,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1116,702,610,160/full/0/default.jpg
-label: seriousness
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573737796
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1121,814,687,130/150,/0/default.jpg
+label: sermon
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0890'
 layout: index_item
 collection: index4
 ---

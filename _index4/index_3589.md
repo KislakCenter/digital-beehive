@@ -2,30 +2,27 @@
 pid: index_3589
 volume: Volume 3
 image_number: '41'
-head: security
-entry: "<a href='/digital-beehive/alpha4/alpha_0835/'>a</a>|<a href='/digital-beehive/toc/toc2_170/'>914
-  [security]</a>|2410 [PAGE_MISSING]"
+head: sedition
+entry: "<a href='/digital-beehive/toc/toc2_233/'>1197 [Rebellion]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-20a6a39fb"
+item: "#item-3b9935ca1"
 unparsed: 
-line: 'Head: security|Entry: a|Entry: 914 [security]|Entry: 2410 [PAGE_MISSING]|#item-20a6a39fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1587,2201,715,179/full/0/default.jpg
+line: 'Head: sedition|Entry: 1197 [Rebellion]|#item-3b9935ca1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1590,2399,532,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242880125
-order: '3589'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1587,2201,715,179/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1587,2201,715,179/full/0/default.jpg
-label: security
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242915179
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1590,2399,532,159/150,/0/default.jpg
+label: sedition
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0836'
 layout: index_item
 collection: index4
 ---

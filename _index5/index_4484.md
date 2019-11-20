@@ -2,29 +2,27 @@
 pid: index_4484
 volume: Volume 3
 image_number: '52'
-head: washing dub
-entry: 
+head: washing of feet
+entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2e7b5cdc2"
+item: "#item-07b2fd919"
 unparsed: 
-line: 'Head: washing dub|Page: p.38 [Image 1.98]|#item-2e7b5cdc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/full/0/default.jpg
+line: 'Head: washing of feet|Entry: a|#item-07b2fd919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/481,442,442,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960057788
-order: '4484'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/518,346,427,128/full/0/default.jpg
-label: washing dub
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960071824
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/481,442,442,123/150,/0/default.jpg
+label: washing of feet
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '451'
 layout: index_item
 collection: index5
 ---

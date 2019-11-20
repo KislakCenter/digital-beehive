@@ -2,29 +2,27 @@
 pid: index_4178
 volume: Volume 3
 image_number: '48'
-head: too high
-entry: 1869 [PAGE_MISSING]
+head: too little
+entry: "<a href='/digital-beehive/alpha5/alpha_0963/'>a</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2aeec3bab"
+item: "#item-69bbded64"
 unparsed: 
-line: 'Head: too high|Entry: 1869 [PAGE_MISSING]|#item-2aeec3bab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/full/0/default.jpg
+line: 'Head: too little|Entry: a|#item-69bbded64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/447,1398,417,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273702036
-order: '4178'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/full/0/default.jpg
-label: too high
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274587757
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/447,1398,417,99/150,/0/default.jpg
+label: too little
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '145'
 layout: index_item
 collection: index5
 ---

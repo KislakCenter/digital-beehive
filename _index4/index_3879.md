@@ -2,30 +2,27 @@
 pid: index_3879
 volume: Volume 3
 image_number: '44'
-head: star
-entry: "<a href='/digital-beehive/alpha4/alpha_0900/'>a</a>|<a href='/digital-beehive/toc/toc2_332/'>1686
-  [Star]</a>"
+head: star slough
+entry: "<a href='/digital-beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_078/'>p.28 [Image 1.88]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-109414094"
+item: "#item-20ee916a1"
 unparsed: 
-line: 'Head: star|Page: p.28 [Image 1.88]|Entry: a|Entry: 1686 [Star]|#item-109414094'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1807,3459,532,106/full/0/default.jpg
+line: 'Head: star slough|Entry: 1621 [Phenomena''s or Apparitions]|#item-20ee916a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,3547,501,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530106737463
-order: '3879'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1807,3459,532,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1807,3459,532,106/full/0/default.jpg
-label: star
+annotation_uri: http://dev.llgc.org.uk/annotation/1530106881114
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1790,3547,501,94/150,/0/default.jpg
+label: star slough
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1126'
 layout: index_item
 collection: index4
 ---

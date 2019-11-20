@@ -2,29 +2,27 @@
 pid: index_4582
 volume: Volume 3
 image_number: '53'
-head: without Christ
-entry: "<a href='/digital-beehive/toc/toc2_089/'>284 [without Xst]</a>"
+head: 2. Witnesses slain
+entry: "<a href='/digital-beehive/toc/toc2_302/'>1539 [Two Witnesses Slain]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2ed880806"
+item: "#item-03149b386"
 unparsed: 
-line: 'Head: without Christ|Entry: 284 [without Xst]|#item-2ed880806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
+line: 'Head: 2. Witnesses slain|Entry: 1539 [Two Witnesses Slain]|#item-03149b386'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
-order: '4582'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
-label: without Christ
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792924780
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/150,/0/default.jpg
+label: 2. Witnesses slain
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '549'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_4468
 volume: Volume 3
 image_number: '51'
-head: to wallow
-entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [To Roll]</a>"
+head: want
+entry: "<a href='/digital-beehive/alpha5/alpha_1018/'>a</a>|<a href='/digital-beehive/toc/toc2_263/'>1350
+  [Want]</a>|<a href='/digital-beehive/toc/toc2_443/'>4886 [Want]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-376135c7c"
+item: "#item-7dc449910"
 unparsed: 
-line: 'Head: to wallow|Entry: 648 [To Roll]|#item-376135c7c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1639,1354,463,113/full/0/default.jpg
+line: 'Head: want|Entry: a|Entry: 1350 [Want]|Entry: 4886 [Want]|#item-7dc449910'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1649,1514,624,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647800345
-order: '4468'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1639,1354,463,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1639,1354,463,113/full/0/default.jpg
-label: to wallow
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647853311
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1649,1514,624,97/150,/0/default.jpg
+label: want
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '435'
 layout: index_item
 collection: index5
 ---

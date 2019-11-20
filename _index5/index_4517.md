@@ -2,30 +2,27 @@
 pid: index_4517
 volume: Volume 3
 image_number: '52'
-head: welcome
-entry: "<a href='/digital-beehive/toc/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354
-  [Welcome]</a>"
+head: welfare
+entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Welfare]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-37540b900"
+item: "#item-a7f83eeee"
 unparsed: 
-line: 'Head: welcome|Entry: 85 [Wel- and Unwelcome]|Entry: 1354 [Welcome]|#item-37540b900'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,1193,638,113/full/0/default.jpg
+line: 'Head: welfare|Entry: 913 [Welfare]|#item-a7f83eeee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968775737
-order: '4517'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,1193,638,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1082,1193,638,113/full/0/default.jpg
-label: welcome
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968837534
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/150,/0/default.jpg
+label: welfare
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '484'
 layout: index_item
 collection: index5
 ---

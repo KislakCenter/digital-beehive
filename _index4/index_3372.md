@@ -2,29 +2,28 @@
 pid: index_3372
 volume: Volume 3
 image_number: '39'
-head: repetition
-entry: "<a href='/digital-beehive/toc/toc2_086/'>263 [Repetition]</a>|4659 [PAGE_MISSING]"
+head: report
+entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|779 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6c707e139"
+item: "#item-44e9b761e"
 unparsed: 
-line: 'Head: repetition|Entry: 263 [Repetition]|Entry: 4659 [PAGE_MISSING]|#item-6c707e139'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/823,2391,709,180/full/0/default.jpg
+line: 'Head: report|Entry: a|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & hear-say]|#item-44e9b761e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469442141
-order: '3372'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/823,2391,709,180/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/823,2391,709,180/full/0/default.jpg
-label: repetition
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469484989
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/150,/0/default.jpg
+label: report
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0619'
 layout: index_item
 collection: index4
 ---

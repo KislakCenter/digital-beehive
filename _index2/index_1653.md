@@ -2,29 +2,27 @@
 pid: index_1653
 volume: Volume 3
 image_number: '22'
-head: God's mercy
-entry: "<a href='/digital-beehive/toc/toc2_097/'>338 [Mercy]</a>"
+head: God's proprieties
+entry: 1886 [PAGE_MISSING]
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-17444bcf4"
+item: "#item-e376ee0f9"
 unparsed: 
-line: 'Head: God''s mercy|Entry: 338 [Mercy]|#item-17444bcf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/full/0/default.jpg
+line: 'Head: God''s proprieties|Entry: 1886 [PAGE_MISSING]|#item-e376ee0f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2310,578,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047724204
-order: '1653'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/full/0/default.jpg
-label: God's mercy
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047827165
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2310,578,103/150,/0/default.jpg
+label: God's proprieties
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '473'
 layout: index_item
 collection: index2
 ---

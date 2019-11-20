@@ -2,29 +2,27 @@
 pid: index_3612
 volume: Volume 3
 image_number: '42'
-head: Self deceit
-entry: "<a href='/digital-beehive/toc/toc2_269/'>1380 [Self-deceit]</a>"
+head: Self defence
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1722 [Defend]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ef6f3cd94"
+item: "#item-285a031cd"
 unparsed: 
-line: 'Head: Self deceit|Entry: 1380 [Self-deceit]|#item-ef6f3cd94'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,1014,500,76/full/0/default.jpg
+line: 'Head: Self defence|See: defence|Entry: 1722 [Defend]|#item-285a031cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244197412
-order: '3612'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,1014,500,76/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,1014,500,76/full/0/default.jpg
-label: Self deceit
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244219150
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/425,1044,712,109/150,/0/default.jpg
+label: Self defence
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0859'
 layout: index_item
 collection: index4
 ---

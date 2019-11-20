@@ -3,28 +3,28 @@ pid: alpha_0828
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Scorn
-topic: Scorn
+entry: Salvation
+topic: Salvation
 first_letter: S
-xref: "<a href='/digital-beehive/alpha1/alpha_0226/'>derision</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3554/'>scorn</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f54674d4c"
+xref: "<a href='/digital-beehive/alpha4/alpha_0781/'>Redemption</a>|<a href='/digital-beehive/num1/num_0115/'>111
+  [Salvation]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3506/'>salvation</a>"
+item: "#item-3f445a110"
 unparsed: 
-line: 'Entry: Scorn|Topic: Scorn|Xref: derision|Xref: 814 [PAGE_MISSING]|Index: Scorn|#item-f54674d4c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,2929,496/full/0/default.jpg
+line: 'Entry: Salvation|Topic: Salvation|Xref: Redemption|Xref: 111 [Salvation]|Index:
+  salvation|#item-3f445a110'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,2993,627/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528923140489
-order: '828'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,2929,496/full/0/default.jpg
-label: Scorn
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922491218
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,600,180/250,/0/default.jpg
+label: Salvation
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '180'
 layout: alpha_item
 collection: alpha4
 ---

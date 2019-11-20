@@ -3,30 +3,28 @@ pid: alpha_0306
 volume: Volume 1
 image_number: '455'
 head: 
-entry: Faintheartedness
-topic: Faintheartedness
+entry: Fable
+topic: Fable
 first_letter: F
-xref: "<a href='/digital-beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/digital-beehive/toc/toc2_411/'>2366
-  [Fainthearted]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1379/'>fainthearted</a>"
-insertion_xref: 
-insertion: 
-item: "#item-335e81f7c"
+xref: "<a href='/digital-beehive/alpha4/alpha_0813/'>Romance</a>|talker of trifles|<a
+  href='/digital-beehive/toc/toc2_274/'>1405 [Fable]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1375/'>Fables</a>"
+item: "#item-85b695d6a"
 unparsed: 
-line: 'Entry: Faintheartedness|Topic: Faintheartedness|Xref: Coward|Xref: 2366 [Fainthearted]|Index:
-  fainthearted|#item-335e81f7c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,3024,546/full/0/default.jpg
+line: 'Entry: Fable|Topic: Fable|Xref: Romance|Xref: talker of trifles|XRef: 1405
+  [Fable]|Index: Fables|#item-85b695d6a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,3081,488/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564588269694
-order: '306'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/406,4528,3024,546/full/0/default.jpg
-label: Faintheartedness
+annotation_uri: http://dev.llgc.org.uk/annotation/1564588174277
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,600,180/250,/0/default.jpg
+label: Fable
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+num_match: 
+order: '037'
 layout: alpha_item
 collection: alpha2
 ---

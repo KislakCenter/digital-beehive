@@ -2,30 +2,27 @@
 pid: index_0321
 volume: Volume 3
 image_number: '9'
-head: to beat
-entry: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>|<a href='/digital-beehive/toc/toc2_378/'>2122
-  [Beating]</a>"
+head: a beau
+entry: "<a href='/digital-beehive/toc/toc2_437/'>4851 [WORD_MISSING]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f6bd1cf3c"
+item: "#item-705c20365"
 unparsed: 
-line: 'Head: to beat|Entry: 708 [Beating]|Entry: 2122 [Beating]|#item-f6bd1cf3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1594,2059,586,101/full/0/default.jpg
+line: 'Head: a beau|Entry: 4851 [WORD_MISSING]|#item-705c20365'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1597,2119,380,72/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891887327
-order: '321'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1594,2059,586,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1594,2059,586,101/full/0/default.jpg
-label: to beat
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891961242
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1597,2119,380,72/150,/0/default.jpg
+label: a beau
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0320'
 layout: index_item
 collection: index1
 ---

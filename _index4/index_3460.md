@@ -2,29 +2,27 @@
 pid: index_3460
 volume: Volume 3
 image_number: '40'
-head: to rub
-entry: "<a href='/digital-beehive/toc/toc2_376/'>2101 [Rubbing]</a>"
+head: rude
+entry: 801 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8cf4cd870"
+item: "#item-b3ceb3939"
 unparsed: 
-line: 'Head: to rub|Entry: 2101 [Rubbing]|#item-8cf4cd870'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,2378,382,115/full/0/default.jpg
+line: 'Head: rude|Entry: 801 [PAGE_MISSING]|#item-b3ceb3939'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1145,2456,327,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233829598
-order: '3460'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,2378,382,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,2378,382,115/full/0/default.jpg
-label: to rub
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233848843
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1145,2456,327,116/150,/0/default.jpg
+label: rude
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0707'
 layout: index_item
 collection: index4
 ---

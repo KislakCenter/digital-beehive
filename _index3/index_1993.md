@@ -2,29 +2,27 @@
 pid: index_1993
 volume: Volume 3
 image_number: '25'
-head: incense
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1904 [Incense]</a>"
+head: incest
+entry: "<a href='/digital-beehive/toc/toc2_132/'>570 [Incest]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-30b5be789"
+item: "#item-27146b0db"
 unparsed: 
-line: 'Head: incense|Entry: 1904 [Incense]|#item-30b5be789'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1573,737,451,117/full/0/default.jpg
+line: 'Head: incest|Entry: 570 [Incest]|#item-27146b0db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1572,801,360,83/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670713555
-order: '1993'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1573,737,451,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1573,737,451,117/full/0/default.jpg
-label: incense
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670743143
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1572,801,360,83/150,/0/default.jpg
+label: incest
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '074'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,27 @@
 pid: index_3638
 volume: Volume 3
 image_number: '42'
-head: sentences
-entry: "<a href='/digital-beehive/toc/toc2_100/'>360 [a Sentence]</a>"
+head: Sentinel
+entry: 
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index3/index_2134/'>Judgmt</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-78e9d49cc"
+item: "#item-8570bcde1"
 unparsed: 
-line: 'Head: sentences|Entry: 360 [a Sentence]|Add: Judgmt|#item-78e9d49cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
+line: 'Head: Sentinel|#item-8570bcde1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1129,225,376,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571736653
-order: '3638'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
-label: sentences
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571836651
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1129,225,376,150/150,/0/default.jpg
+label: Sentinel
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0885'
 layout: index_item
 collection: index4
 ---

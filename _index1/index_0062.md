@@ -2,32 +2,27 @@
 pid: index_0062
 volume: Volume 3
 image_number: '7'
-head: affliction
-entry: "<a href='/digital-beehive/toc/toc2_094/'>316 [Affliction]</a>|<a href='/digital-beehive/toc/toc2_267/'>1367
-  [Afflictions]</a>|<a href='/digital-beehive/toc/toc2_268/'>1372 [Afflictions]</a>|<a
-  href='/digital-beehive/toc/toc2_367/'>2020 [Sufferings]</a>"
+head: "[:21.]"
+entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-17eb9fd3f"
-unparsed: 
-line: 'Head: affliction|Entry: 316 [Affliction]|Entry: 1367 [Afflictions]|Entry: 1372
-  [Afflictions]|Entry: 2020 [Sufferings]|#item-17eb9fd3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/901,1828,644,146/full/0/default.jpg
+item: "#item-4f1a94c31"
+unparsed: 'Type: Index|Insertion Xref: [:21.]|#item-4f1a94c31'
+line: 'Type: Index|Insertion Xref: [:21.]|#item-4f1a94c31'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/744,1866,178,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766538261
-order: '62'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/901,1828,644,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/901,1828,644,146/full/0/default.jpg
-label: affliction
+annotation_uri: http://dev.llgc.org.uk/annotation/1558817107764
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/744,1866,178,101/150,/0/default.jpg
+label: "[:21.]"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4685/'>Abyssines</a>|<a href='/digital-beehive/index5/index_4686/'>abyss</a>"
+order: '0061'
 layout: index_item
 collection: index1
 ---

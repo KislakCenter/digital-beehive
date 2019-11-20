@@ -2,31 +2,27 @@
 pid: index_4492
 volume: Volume 3
 image_number: '52'
-head: water
-entry: "<a href='/digital-beehive/alpha5/alpha_1015/'>a</a>|<a href='/digital-beehive/toc/toc2_304/'>1546
-  [Waters]</a>|<a href='/digital-beehive/toc/toc2_380/'>2147 [Water]</a>"
+head: washing pot
+entry: 
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-080f2191c"
+item: "#item-f6fdaa5ed"
 unparsed: 
-line: 'Head: water|Page: p.30 [Image 1.90]|Entry: a|Entry: 1546 [Waters]|Entry: 2147
-  [Water]|#item-080f2191c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/508,1325,601,140/full/0/default.jpg
+line: 'Head: washing pot|Page: p.38 [Image 1.98]|#item-f6fdaa5ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/489,1463,506,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960592647
-order: '4492'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/508,1325,601,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/508,1325,601,140/full/0/default.jpg
-label: water
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960617785
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/489,1463,506,145/150,/0/default.jpg
+label: washing pot
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '459'
 layout: index_item
 collection: index5
 ---

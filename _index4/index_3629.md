@@ -2,29 +2,28 @@
 pid: index_3629
 volume: Volume 3
 image_number: '42'
-head: Self righteousness
-entry: "<a href='/digital-beehive/toc/toc2_064/'>75 [Self-righteousness]</a>"
+head: Self will
+entry: "<a href='/digital-beehive/alpha4/alpha_0855/'>a</a>|<a href='/digital-beehive/toc/toc2_186/'>1005
+  [Self will]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a3be2a5e9"
+item: "#item-45b3e3bdf"
 unparsed: 
-line: 'Head: Self righteousness|Entry: 75 [Self-righteousness]|#item-a3be2a5e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/357,2431,716,148/full/0/default.jpg
+line: 'Head: Self will|Entry: a|Entry: 1005 [Self will]|#item-45b3e3bdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/398,2581,554,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244935630
-order: '3629'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/357,2431,716,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/357,2431,716,148/full/0/default.jpg
-label: Self righteousness
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244963434
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/398,2581,554,100/150,/0/default.jpg
+label: Self will
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0876'
 layout: index_item
 collection: index4
 ---

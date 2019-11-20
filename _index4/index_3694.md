@@ -2,29 +2,27 @@
 pid: index_3694
 volume: Volume 3
 image_number: '42'
-head: shy
-entry: 
+head: Sibijl
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1130 [Sibyl]</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index2/index_1420/'>fear</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d0f77249a"
+item: "#item-f0b231baa"
 unparsed: 
-line: 'Head: shy|See: fear|#item-d0f77249a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1802,3222,469,157/full/0/default.jpg
+line: 'Head: Sibijl|Entry: 1130 [Sibyl]|#item-f0b231baa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576648896
-order: '3694'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1802,3222,469,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1802,3222,469,157/full/0/default.jpg
-label: shy
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576674192
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/150,/0/default.jpg
+label: Sibijl
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0941'
 layout: index_item
 collection: index4
 ---

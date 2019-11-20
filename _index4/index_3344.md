@@ -2,29 +2,27 @@
 pid: index_3344
 volume: Volume 3
 image_number: '39'
-head: "[:38.]"
-entry: 
+head: reins
+entry: 1841 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4707/'>reign</a>"
-insertion: 
-item: "#item-7816bd5f4"
-unparsed: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
-line: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/683,2527,169,126/full/0/default.jpg
+item: "#item-91e581c0d"
+unparsed: 
+line: 'Head: reins|Entry: 1841 [PAGE_MISSING]|#item-91e581c0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/121,2599,444,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277589841
-order: '3344'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/683,2527,169,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/683,2527,169,126/full/0/default.jpg
-label: "[:38.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1558465026765
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/121,2599,444,119/150,/0/default.jpg
+label: reins
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0591'
 layout: index_item
 collection: index4
 ---

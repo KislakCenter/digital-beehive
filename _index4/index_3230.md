@@ -2,29 +2,27 @@
 pid: index_3230
 volume: Volume 3
 image_number: '38'
-head: punning
-entry: 4569 [PAGE_MISSING]
+head: purgation
+entry: "<a href='/digital-beehive/toc/toc2_286/'>1462 [Purgation]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-146f7f94a"
+item: "#item-be06e69b4"
 unparsed: 
-line: 'Head: punning|Entry: 4569 [PAGE_MISSING]|#item-146f7f94a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/424,1255,600,115/full/0/default.jpg
+line: 'Head: purgation|Entry: 1462 [Purgation]|#item-be06e69b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/422,1306,520,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452109875
-order: '3230'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/424,1255,600,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/424,1255,600,115/full/0/default.jpg
-label: punning
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452135708
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/422,1306,520,119/150,/0/default.jpg
+label: purgation
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0477'
 layout: index_item
 collection: index4
 ---

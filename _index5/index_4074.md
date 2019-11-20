@@ -2,32 +2,27 @@
 pid: index_4074
 volume: Volume 3
 image_number: '47'
-head: teachers false
-entry: "<a href='/digital-beehive/toc/toc2_246/'>1264 [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_344/'>1784
-  [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_402/'>2294 [False Teachers]</a>|<a
-  href='/digital-beehive/toc/toc2_422/'>4448 [False Teachers]</a>|4500 [PAGE_MISSING]"
+head: beasts teach
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8c764be3e"
+item: "#item-3b85d39c0"
 unparsed: 
-line: 'Head: teachers false|Entry: 1264 [False Teachers]|Entry: 1784 [False Teachers]|Entry:
-  2294 [False Teachers]|Entry: 4448 [False Teachers]|Entry: 4500 [PAGE_MISSING]|#item-8c764be3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/178,683,784,122/full/0/default.jpg
+line: 'Head: beasts teach|Page: p.1 [Image 1.61]|Entry: 1096 [Beasts to learn of]|#item-3b85d39c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560279049755
-order: '4074'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/178,683,784,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/178,683,784,122/full/0/default.jpg
-label: teachers false
+annotation_uri: http://dev.llgc.org.uk/annotation/1531787774613
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/150,/0/default.jpg
+label: beasts teach
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '041'
 layout: index_item
 collection: index5
 ---

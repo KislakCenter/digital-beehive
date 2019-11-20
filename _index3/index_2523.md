@@ -6,25 +6,23 @@ head: mingle
 entry: 
 topic: 
 first_letter: M
-xref: 
-see: "<a href='/digital-beehive/index2/index_1885/'>hotchpotch</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e4bbe7ce8"
 unparsed: 
 line: 'Head: mingle|See: hotchpotch|#item-e4bbe7ce8'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560274447145
-order: '2523'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/full/0/default.jpg
 label: mingle
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+insertion_xref: 
+order: '603'
 layout: index_item
 collection: index3
 ---

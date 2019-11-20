@@ -2,30 +2,29 @@
 pid: index_3718
 volume: Volume 3
 image_number: '43'
-head: simulation
-entry: "<a href='/digital-beehive/alpha4/alpha_0869/'>a</a>|<a href='/digital-beehive/toc/toc2_223/'>1150
-  [Simulation]</a>|<a href='/digital-beehive/toc/toc2_251/'>1289 [Simulation]</a>"
+head: sin
+entry: "<a href='/digital-beehive/alpha4/alpha_0878/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1069
+  [Sin]</a>|<a href='/digital-beehive/toc/toc2_275/'>1409 [Sin]</a>|<a href='/digital-beehive/toc/toc2_414/'>2395
+  [Sin]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1acd593ea"
+item: "#item-955a1f5bb"
 unparsed: 
-line: 'Head: simulation|Entry: a|Entry: 1150 [Simulation]|Entry: 1289 [Simulation]|#item-1acd593ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/169,2572,658,169/full/0/default.jpg
+line: 'Head: sin|Entry: a|Entry: 1069 [Sin]|Entry: 1409 [Sin]|Entry: 2395 [Sin]|#item-955a1f5bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/192,2739,782,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582424644
-order: '3718'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/169,2572,658,169/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/169,2572,658,169/full/0/default.jpg
-label: simulation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582469600
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/192,2739,782,129/150,/0/default.jpg
+label: sin
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0965'
 layout: index_item
 collection: index4
 ---

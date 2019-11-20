@@ -2,29 +2,27 @@
 pid: index_4477
 volume: Volume 3
 image_number: '51'
-head: warlike discipline
-entry: a
+head: wares
+entry: "<a href='/digital-beehive/toc/toc2_158/'>714 [Wares]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cf8057b33"
+item: "#item-0c2e49089"
 unparsed: 
-line: 'Head: warlike discipline|Entry: a|#item-cf8057b33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/full/0/default.jpg
+line: 'Head: wares|Entry: 714 [Wares]|#item-0c2e49089'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1618,2638,386,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648401625
-order: '4477'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/full/0/default.jpg
-label: warlike discipline
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648425875
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1618,2638,386,123/150,/0/default.jpg
+label: wares
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '444'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_4689
 volume: Volume 3
 image_number: '54'
-head: pike, Hecht
-entry: "<a href='/digital-beehive/toc/toc2_377/'>2112 [Pike]</a>"
+head: womb
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2114 [Womb]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:23.]"
-item: "#item-8e8282b75"
-unparsed: 
-line: 'Type: Index|Insertion: [:23.]|Head: pike, Hecht|Entry: 2112 [Pike]|#item-8e8282b75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/full/0/default.jpg
+item: "#item-0b8ad3904"
+unparsed: Type Index|Insertion [:24.]
+line: 'Type: Index|Insertion: [:24.]|Head: womb|Entry: 2114 [Womb]|#item-0b8ad3904'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,3484,590,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885947837
-order: '4689'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/full/0/default.jpg
-label: pike, Hecht
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953410527
+insertion: "[:24.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,3484,590,153/150,/0/default.jpg
+label: womb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '656'
 layout: index_item
 collection: index5
 ---

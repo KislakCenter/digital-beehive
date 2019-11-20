@@ -3,29 +3,26 @@ pid: alpha_0506
 volume: Volume 2
 image_number: '26'
 head: 
-entry: Lame
-topic: Lame
+entry: Lamb
+topic: Lamb
 first_letter: L
-xref: "<a href='/digital-beehive/alpha3/alpha_0564/'>Maimed</a>|<a href='/digital-beehive/toc/toc2_379/'>2140
-  [Lame]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2189/'>lame</a>"
-insertion_xref: 
-insertion: 
-item: "#item-95d8f9b2a"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2187/'>lamb</a>"
+item: "#item-2581cfd1b"
 unparsed: 
-line: 'Entry: Lame|Topic: Lame|Xref: Maimed|Xref: 2140 [Lame]|Index: lame|#item-95d8f9b2a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/772,1005,3013,291/full/0/default.jpg
+line: 'Entry: Lamb|Topic: Lamb|Index: lamb|#item-2581cfd1b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/745,776,3009,373/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765987650
-order: '506'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/772,1005,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/772,1005,3013,291/full/0/default.jpg
-label: Lame
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765952074
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/745,776,600,180/250,/0/default.jpg
+label: Lamb
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+num_match: 
+order: '062'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,29 +2,27 @@
 pid: index_4407
 volume: Volume 3
 image_number: '50'
-head: unnatural
-entry: "<a href='/digital-beehive/toc/toc2_421/'>2438 [Unnatural]</a>"
+head: unpleasant
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c2a70e21e"
+item: "#item-92dc3e1d8"
 unparsed: 
-line: 'Head: unnatural|Entry: 2438 [Unnatural]|#item-c2a70e21e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1104,3301,582,88/full/0/default.jpg
+line: 'Head: unpleasant|Entry: 1320 [Unacceptable]|#item-92dc3e1d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,3352,587,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560883078608
-order: '4407'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1104,3301,582,88/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1104,3301,582,88/full/0/default.jpg
-label: unnatural
+annotation_uri: http://dev.llgc.org.uk/annotation/1560883129485
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,3352,587,156/150,/0/default.jpg
+label: unpleasant
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '374'
 layout: index_item
 collection: index5
 ---

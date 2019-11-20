@@ -3,28 +3,27 @@ pid: alpha_0638
 volume: Volume 2
 image_number: '36'
 head: 
-entry: Nose
-topic: Nose
+entry: New
+topic: New
 first_letter: N
-xref: "<a href='/digital-beehive/toc/toc2_378/'>2123 [Nose]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2732/'>nose</a>"
-insertion_xref: 
-insertion: 
-item: "#item-79d524cfa"
+xref: "<a href='/digital-beehive/alpha3/alpha_0644/'>Novelty</a>|<a href='/digital-beehive/toc/toc2_326/'>1656
+  [New]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2693/'>new</a>"
+item: "#item-df0d21a9b"
 unparsed: 
-line: 'Entry: Nose|Topic: Nose|Xref: 2123 [Nose]|Index: nose|#item-79d524cfa'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/762,2421,3028,406/full/0/default.jpg
+line: 'Entry: New|Topic: New|Xref: Novelty|Xref: 1656 [New]|Index: new|#item-df0d21a9b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/777,1057,3026,518/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015485464
-order: '638'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/762,2421,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/762,2421,3028,406/full/0/default.jpg
-label: Nose
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015207187
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/777,1057,600,180/250,/0/default.jpg
+label: New
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '194'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,29 +2,27 @@
 pid: index_3394
 volume: Volume 3
 image_number: '39'
-head: restoration
-entry: "<a href='/digital-beehive/toc/toc2_325/'>1652 [Restoration]</a>"
+head: to restrain
+entry: "<a href='/digital-beehive/toc/toc2_204/'>1055 [To Restrain]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-73835f792"
+item: "#item-4655efa18"
 unparsed: 
-line: 'Head: restoration|Entry: 1652 [Restoration]|#item-73835f792'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1500,1880,600,154/full/0/default.jpg
+line: 'Head: to restrain|Entry: 1055 [To Restrain]|#item-4655efa18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2020,624,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229933154
-order: '3394'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1500,1880,600,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1500,1880,600,154/full/0/default.jpg
-label: restoration
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229977216
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2020,624,156/150,/0/default.jpg
+label: to restrain
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0641'
 layout: index_item
 collection: index4
 ---

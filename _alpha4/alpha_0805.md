@@ -1,30 +1,28 @@
 ---
 pid: alpha_0805
 volume: Volume 2
-image_number: '49'
+image_number: '48'
 head: 
-entry: Robbery
-topic: Robbery
+entry: Rheum
+topic: Rheum
 first_letter: R
-xref: Steal|<a href='/digital-beehive/toc/toc2_120/'>499 [Robbery]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3438/'>robbery</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8f2a11623"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3414/'>rheum</a>"
+item: "#item-59b66f431"
 unparsed: 
-line: 'Entry: Robbery|Topic: Robbery|Xref: Steal|Xref: 499 [Robbery]|Index: robbery|#item-8f2a11623'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,3071,574/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528826807737
-order: '805'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,3071,574/full/0/default.jpg
-label: Robbery
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+line: 'Entry: Rheum|Topic: Rheum|Index: rheum|#item-59b66f431'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/804,2759,2980,330/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528824764698
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/804,2759,600,180/250,/0/default.jpg
+label: Rheum
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '157'
 layout: alpha_item
 collection: alpha4
 ---

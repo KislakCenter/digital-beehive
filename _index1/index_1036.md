@@ -6,25 +6,23 @@ head: device
 entry: 
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index1/index_0999/'>deliberation</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0999/'>deliberation</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-ecbe553ee"
 unparsed: 
 line: 'Head: device|See: deliberation|#item-ecbe553ee'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1810,278,729,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541783225034
-order: '1036'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1810,278,729,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1810,278,729,119/full/0/default.jpg
 label: device
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '1033'
 layout: index_item
 collection: index1
 ---

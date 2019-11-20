@@ -3,28 +3,28 @@ pid: alpha_0605
 volume: Volume 2
 image_number: '33'
 head: 
-entry: Mortality
-topic: Mortality
+entry: Moral Philosophy
+topic: Moral Philosophy
 first_letter: M
-xref: "<a href='/digital-beehive/toc/toc2_208/'>1075 [Mortality]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2586/'>mortality</a>"
-insertion_xref: 
-insertion: 
-item: "#item-81ba29bce"
+xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/toc/toc2_163/'>880
+  [Moral Philos]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"
+item: "#item-ac4e76034"
 unparsed: 
-line: 'Entry: Mortality|Topic: Mortality|Xref: 1075 [Mortality]|Index: mortality|#item-81ba29bce'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,3006,416/full/0/default.jpg
+line: 'Entry: Moral Philosophy|Topic: Moral Philosophy|Xref: 15 [Moral Philosophy]|Xref:
+  880 [Moral Philos]|Index: moral philosophy|#item-ac4e76034'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,3045,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564776960995
-order: '605'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,3006,416/full/0/default.jpg
-label: Mortality
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776745879
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,600,180/250,/0/default.jpg
+label: Moral Philosophy
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '161'
 layout: alpha_item
 collection: alpha3
 ---

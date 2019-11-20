@@ -1,30 +1,28 @@
 ---
 pid: alpha_0591
 volume: Volume 2
-image_number: '33'
+image_number: '32'
 head: 
-entry: Mind
-topic: Mind
+entry: Middle
+topic: Middle
 first_letter: M
-xref: "<a href='/digital-beehive/toc/toc2_318/'>1620 [Mind]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2520/'>mind</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b1dacc9bc"
+xref: "<a href='/digital-beehive/alpha3/alpha_0581/'>Mediocrity</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2509/'>middle</a>"
+item: "#item-65df4efaa"
 unparsed: 
-line: 'Entry: Mind|Topic: Mind|Xref: 1620 [Mind]|Index: mind|#item-b1dacc9bc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,3069,481/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775363298
-order: '591'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,3069,481/full/0/default.jpg
-label: Mind
-location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+line: 'Entry: Middle|Topic: Middle|Xref: Mediocrity|Index: middle|#item-65df4efaa'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/734,4091,2953,576/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564775145149
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/734,4091,600,180/250,/0/default.jpg
+label: Middle
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+num_match: 
+order: '147'
 layout: alpha_item
 collection: alpha3
 ---

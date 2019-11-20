@@ -1,30 +1,28 @@
 ---
 pid: alpha_0808
 volume: Volume 2
-image_number: '49'
+image_number: '48'
 head: 
-entry: Rose
-topic: Rose
+entry: Right
+topic: Right
 first_letter: R
-xref: "<a href='/digital-beehive/toc/toc2_355/'>1928 [Rose]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3451/'>rose</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f0b7d3d93"
+xref: "<a href='/digital-beehive/alpha2/alpha_0290/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3424/'>right</a>"
+item: "#item-779d48b46"
 unparsed: 
-line: 'Entry: Rose|Topic: Rose|Xref: 1928 [Rose]|Index: rose|#item-f0b7d3d93'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1563,3058,284/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528827762263
-order: '808'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1563,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1563,3058,284/full/0/default.jpg
-label: Rose
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+line: 'Entry: Right|Topic: Right|Xref: equity|Xref: Law|Index: right|#item-779d48b46'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,2953,598/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528825344544
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,600,180/250,/0/default.jpg
+label: Right
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '160'
 layout: alpha_item
 collection: alpha4
 ---

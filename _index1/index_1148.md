@@ -3,28 +3,26 @@ pid: index_1148
 volume: Volume 3
 image_number: '17'
 head: dress
-entry: "<a href='/digital-beehive/toc/toc2_076/'>195 [Ornament]</a>"
+entry: "<a href='/digital-beehive/num1/num_0203/'>195 [Ornament]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-76fab5bc5"
 unparsed: 
 line: 'Head: dress|Entry: 195 [Ornament]|#item-76fab5bc5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560452232666
-order: '1148'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/full/0/default.jpg
 label: dress
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1145'
 layout: index_item
 collection: index1
 ---

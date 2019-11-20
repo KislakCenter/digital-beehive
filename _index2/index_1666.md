@@ -2,29 +2,27 @@
 pid: index_1666
 volume: Volume 3
 image_number: '22'
-head: Gog & Magog
-entry: "<a href='/digital-beehive/alpha2/alpha_0370/'>a</a>"
+head: golden age
+entry: "<a href='/digital-beehive/toc/toc2_216/'>1114 [Golden Age]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e6051f44e"
+item: "#item-4a5b46caf"
 unparsed: 
-line: 'Head: Gog & Magog|Entry: a|#item-e6051f44e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/full/0/default.jpg
+line: 'Head: golden age|Entry: 1114 [Golden Age]|#item-4a5b46caf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1843,256,540,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050836214
-order: '1666'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/full/0/default.jpg
-label: Gog & Magog
+annotation_uri: http://dev.llgc.org.uk/annotation/1561051858188
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1843,256,540,153/150,/0/default.jpg
+label: golden age
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '486'
 layout: index_item
 collection: index2
 ---

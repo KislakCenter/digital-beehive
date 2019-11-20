@@ -1,32 +1,30 @@
 ---
 pid: alpha_0635
 volume: Volume 2
-image_number: '36'
+image_number: '35'
 head: 
-entry: News
-topic: News
+entry: Negligenge
+topic: Negligenge
 first_letter: N
-xref: "<a href='/digital-beehive/alpha4/alpha_0786/'>Report</a>|messenger|<a href='/digital-beehive/toc/toc2_244/'>1252
-  [News]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2703/'>news</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9f38763ad"
+xref: "<a href='/digital-beehive/alpha3/alpha_0444/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|<a
+  href='/digital-beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2680/'>negligence</a>"
+item: "#item-dfd2d85c3"
 unparsed: 
-line: 'Entry: News|Topic: News|Xref: Report|Xref: messenger|Xref: 1252 [News]|Index:
-  news|#item-9f38763ad'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,3077,448/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015261780
-order: '635'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,3077,448/full/0/default.jpg
-label: News
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558
+  [To Neglect]|Index: negligence|#item-dfd2d85c3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565014670396
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,600,180/250,/0/default.jpg
+label: Negligenge
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '191'
 layout: alpha_item
 collection: alpha3
 ---

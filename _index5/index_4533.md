@@ -2,29 +2,27 @@
 pid: index_4533
 volume: Volume 3
 image_number: '52'
-head: a little while
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1053 [Sometimes]</a>"
+head: whigs
+entry: "<a href='/digital-beehive/toc/toc2_346/'>1800 [Whigs]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-39662508b"
+item: "#item-3de54c976"
 unparsed: 
-line: 'Head: a little while|Entry: 1053 [Sometimes]|#item-39662508b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/full/0/default.jpg
+line: 'Head: whigs|Entry: 1800 [Whigs]|#item-3de54c976'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1088,3534,437,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970203029
-order: '4533'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/full/0/default.jpg
-label: a little while
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970237479
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1088,3534,437,159/150,/0/default.jpg
+label: whigs
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '500'
 layout: index_item
 collection: index5
 ---

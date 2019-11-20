@@ -2,29 +2,27 @@
 pid: index_4489
 volume: Volume 3
 image_number: '52'
-head: watch
-entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_268/'>1374 [a Clock]</a>
+head: watch word
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Watch-word]</a>"
 topic: 
 first_letter: W
-xref: 
-see: "<a href='/digital-beehive/index1/index_0696/'>Clock</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-86e74d2b7"
+item: "#item-edcb8651b"
 unparsed: 
-line: 'Head: watch|See: Clock|Entry: 758 [PAGE_MISSING]|Entry: 1374 [a Clock]|#item-86e74d2b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/532,900,577,158/full/0/default.jpg
+line: 'Head: watch word|Entry: 1526 [Watch-word]|#item-edcb8651b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960247640
-order: '4489'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/532,900,577,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/532,900,577,158/full/0/default.jpg
-label: watch
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960452743
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/150,/0/default.jpg
+label: watch word
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '456'
 layout: index_item
 collection: index5
 ---

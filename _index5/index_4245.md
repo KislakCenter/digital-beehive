@@ -2,29 +2,27 @@
 pid: index_4245
 volume: Volume 3
 image_number: '48'
-head: triumph
-entry: 
+head: a troop
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1699 [a Troop]</a>"
 topic: 
 first_letter: T
-xref: 
-see: "<a href='/digital-beehive/index5/index_4326/'>victory</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5b098d0c1"
+item: "#item-43fc171c5"
 unparsed: 
-line: 'Head: triumph|See: victory|#item-5b098d0c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2180,629,193/full/0/default.jpg
+line: 'Head: a troop|Entry: 1699 [a Troop]|#item-43fc171c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,2327,504,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089405326
-order: '4245'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2180,629,193/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2180,629,193/full/0/default.jpg
-label: triumph
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089522440
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,2327,504,177/150,/0/default.jpg
+label: a troop
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '212'
 layout: index_item
 collection: index5
 ---

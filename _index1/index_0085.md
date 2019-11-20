@@ -2,30 +2,27 @@
 pid: index_0085
 volume: Volume 3
 image_number: '7'
-head: alamode
-entry: "<a href='/digital-beehive/toc/toc2_084/'>249 [Alamode]</a>|<a href='/digital-beehive/toc/toc2_366/'>2007
-  [Alamode]</a>"
+head: alarum
+entry: 856 [PAGE_MISSING]
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8775dd1a7"
+item: "#item-fed1c7f7a"
 unparsed: 
-line: 'Head: alamode|Entry: 249 [Alamode]|Entry: 2007 [Alamode]|#item-8775dd1a7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1614,526,629,128/full/0/default.jpg
+line: 'Head: alarum|Entry: 856 [PAGE_MISSING]|#item-fed1c7f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1612,617,416,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767951245
-order: '85'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1614,526,629,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1614,526,629,128/full/0/default.jpg
-label: alamode
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768004851
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1612,617,416,116/150,/0/default.jpg
+label: alarum
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0084'
 layout: index_item
 collection: index1
 ---

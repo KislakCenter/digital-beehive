@@ -1,30 +1,30 @@
 ---
 pid: alpha_0620
 volume: Volume 2
-image_number: '35'
+image_number: '34'
 head: 
-entry: Mystery
-topic: Mystery
+entry: Musick
+topic: Musick
 first_letter: M
-xref: "<a href='/digital-beehive/toc/toc2_195/'>1006 [Mystery]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2628/'>mystery</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4e03b840d"
+xref: "<a href='/digital-beehive/alpha4/alpha_0880/'>Singing</a>|Sound|<a href='/digital-beehive/num2/num_0526/'>425
+  [Musick]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2621/'>musick</a>"
+item: "#item-843ee86fd"
 unparsed: 
-line: 'Entry: Mystery|Topic: Mystery|Xref: 1006 [Mystery]|Index: mystery|#item-4e03b840d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/268,471,3106,415/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564778296351
-order: '620'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/268,471,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/268,471,3106,415/full/0/default.jpg
-label: Mystery
-location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+line: 'Entry: Musick|Topic: Musick|Xref: Singing|Xref: Sound|Xref: 425 [Musick]|Index:
+  musick|#item-843ee86fd'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,3033,555/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564777940324
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,600,180/250,/0/default.jpg
+label: Musick
+location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+num_match: 
+order: '176'
 layout: alpha_item
 collection: alpha3
 ---

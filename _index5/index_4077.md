@@ -2,29 +2,27 @@
 pid: index_4077
 volume: Volume 3
 image_number: '47'
-head: tedious
-entry: "<a href='/digital-beehive/toc/toc2_148/'>662 [Irksomness]</a>"
+head: Te Deum
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1318 [Te Deum]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-555c5c539"
+item: "#item-3cf84021c"
 unparsed: 
-line: 'Head: tedious|Entry: 662 [Irksomness]|#item-555c5c539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/169,1023,384,107/full/0/default.jpg
+line: 'Head: Te Deum|Entry: 1318 [Te Deum]|#item-3cf84021c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/172,1129,385,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531787915595
-order: '4077'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/169,1023,384,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/169,1023,384,107/full/0/default.jpg
-label: tedious
+annotation_uri: http://dev.llgc.org.uk/annotation/1532042856347
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/172,1129,385,86/150,/0/default.jpg
+label: Te Deum
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '044'
 layout: index_item
 collection: index5
 ---

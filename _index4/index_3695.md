@@ -2,29 +2,30 @@
 pid: index_3695
 volume: Volume 3
 image_number: '42'
-head: Sibijl
-entry: "<a href='/digital-beehive/toc/toc2_219/'>1130 [Sibyl]</a>"
+head: sickness
+entry: "<a href='/digital-beehive/alpha4/alpha_0869/'>a</a>|<a href='/digital-beehive/toc/toc2_251/'>1287
+  [Distemper]</a>|<a href='/digital-beehive/toc/toc2_320/'>1626 [Distemper]</a>|<a
+  href='/digital-beehive/toc/toc2_425/'>4469 [Sickness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f0b231baa"
+item: "#item-5a7f6cef8"
 unparsed: 
-line: 'Head: Sibijl|Entry: 1130 [Sibyl]|#item-f0b231baa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/full/0/default.jpg
+line: 'Head: sickness|Entry: a|Entry: 1287 [Distemper]|Entry: 1626 [Distemper]|Entry:
+  4469 [Sickness]|#item-5a7f6cef8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1803,3496,761,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576674192
-order: '3695'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1813,3359,413,144/full/0/default.jpg
-label: Sibijl
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576756624
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1803,3496,761,192/150,/0/default.jpg
+label: sickness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0942'
 layout: index_item
 collection: index4
 ---

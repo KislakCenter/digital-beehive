@@ -2,32 +2,27 @@
 pid: index_1205
 volume: Volume 3
 image_number: '18'
-head: eclipse
-entry: "<a href='/digital-beehive/alpha2/alpha_0275/'>a</a>|<a href='/digital-beehive/toc/toc2_175/'>936
-  [Eclipse]</a>|<a href='/digital-beehive/toc/toc2_253/'>1299 [Eclipse]</a>|<a href='/digital-beehive/toc/toc2_404/'>2309
-  [Eclipse]</a>"
+head: edge
+entry: 
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: blunt|<a href='/digital-beehive/index4/index_3664/'>sharp</a>
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cd97d63fb"
+item: "#item-9dafb966c"
 unparsed: 
-line: 'Head: eclipse|Entry: a|Entry: 936 [Eclipse]|Entry: 1299 [Eclipse]|Entry: 2309
-  [Eclipse]|#item-cd97d63fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,598,790,143/full/0/default.jpg
+line: 'Head: edge|See: blunt|See: sharp|#item-9dafb966c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671708102
-order: '1205'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,598,790,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,598,790,143/full/0/default.jpg
-label: eclipse
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671796377
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/150,/0/default.jpg
+label: edge
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '025'
 layout: index_item
 collection: index2
 ---

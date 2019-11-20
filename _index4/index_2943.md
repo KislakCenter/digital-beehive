@@ -2,29 +2,28 @@
 pid: index_2943
 volume: Volume 3
 image_number: '35'
-head: pelican
-entry: 
+head: penal laws
+entry: "<a href='/digital-beehive/toc/toc2_128/'>551 [WORD_MISSING]</a>|<a href='/digital-beehive/toc/toc2_358/'>1950
+  [Penal Laws]</a>"
 topic: 
 first_letter: P
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b43dd6aa0"
+item: "#item-62d0072dd"
 unparsed: 
-line: 'Head: pelican|Page: p.35 [Image 1.95]|#item-b43dd6aa0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/full/0/default.jpg
+line: 'Head: penal laws|Entry: 551 [WORD_MISSING]|Entry: 1950 [Penal Laws]|#item-62d0072dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/139,1042,666,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971884614
-order: '2943'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/full/0/default.jpg
-label: pelican
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972227937
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/139,1042,666,176/150,/0/default.jpg
+label: penal laws
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0191'
 layout: index_item
 collection: index4
 ---

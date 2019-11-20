@@ -2,29 +2,27 @@
 pid: index_3269
 volume: Volume 3
 image_number: '38'
-head: quince
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1776 [Quince]</a>"
+head: quintessence
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1596 [Quintessence]</a>"
 topic: 
 first_letter: Q
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fba8a7d9b"
+item: "#item-134c8e685"
 unparsed: 
-line: 'Head: quince|Entry: 1776 [Quince]|#item-fba8a7d9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1184,1681,363,113/full/0/default.jpg
+line: 'Head: quintessence|Entry: 1596 [Quintessence]|#item-134c8e685'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1149,1723,591,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455320537
-order: '3269'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1184,1681,363,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1184,1681,363,113/full/0/default.jpg
-label: quince
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455345904
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1149,1723,591,145/150,/0/default.jpg
+label: quintessence
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0516'
 layout: index_item
 collection: index4
 ---

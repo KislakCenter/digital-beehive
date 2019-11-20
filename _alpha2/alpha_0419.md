@@ -3,30 +3,26 @@ pid: alpha_0419
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Highness
-topic: Highness
+entry: Hieroglyphicks
+topic: Hieroglyphicks
 first_letter: H
-xref: "<a href='/digital-beehive/alpha2/alpha_0380/'>Grandeur</a>|<a href='/digital-beehive/toc/toc2_164/'>883
-  [highness]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1834/'>highness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-61f20e887"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1830/'>hieroglyphicks</a>"
+item: "#item-90b569061"
 unparsed: 
-line: 'Entry: Highness|Topic: Highness|Xref: Grandeur|Xref: 883 [highness]|Index:
-  highness|#item-61f20e887'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,2961,423/full/0/default.jpg
+line: 'Entry: Hieroglyphicks|Topic: Hieroglyphicks|Index: hieroglyphicks|#item-90b569061'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/749,3100,3022,408/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508963724932
-order: '419'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/777,3458,2961,423/full/0/default.jpg
-label: Highness
+annotation_uri: http://dev.llgc.org.uk/annotation/1564756612430
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/749,3100,600,180/250,/0/default.jpg
+label: Hieroglyphicks
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '150'
 layout: alpha_item
 collection: alpha2
 ---

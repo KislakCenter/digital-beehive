@@ -2,29 +2,27 @@
 pid: index_3144
 volume: Volume 3
 image_number: '37'
-head: pretention
-entry: "<a href='/digital-beehive/toc/toc2_271/'>1389 [Pretension]</a>"
+head: pretense
+entry: "<a href='/digital-beehive/num1/num_0136/'>131 [Pretext]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1339/'>excuse</a>|pretext"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5a9eac838"
+item: "#item-27a51d969"
 unparsed: 
-line: 'Head: pretention|Entry: 1389 [Pretension]|#item-5a9eac838'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,1250,546,143/full/0/default.jpg
+line: 'Head: pretense|See: excuse|See: pretext|Entry: 131 [Pretext]|#item-27a51d969'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/86,1375,746,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866301153
-order: '3144'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,1250,546,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,1250,546,143/full/0/default.jpg
-label: pretention
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204500348
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/86,1375,746,206/150,/0/default.jpg
+label: pretense
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0392'
 layout: index_item
 collection: index4
 ---

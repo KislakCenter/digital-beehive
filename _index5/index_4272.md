@@ -2,29 +2,27 @@
 pid: index_4272
 volume: Volume 3
 image_number: '49'
-head: "[:26.]"
+head: turn sole
 entry: 
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: Index
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4692/'>Turpentine</a>"
-insertion: 
-item: "#item-2203475c8"
-unparsed: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-line: 'Type: Index|Insertion Xref: [:26.]|#item-2203475c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/713,2154,265,200/full/0/default.jpg
+item: "#item-2d80c3ef9"
+unparsed: 
+line: 'Head: turn sole|Page: p.33 [Image 1.93]|#item-2d80c3ef9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/211,2198,452,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661662765
-order: '4272'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/713,2154,265,200/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/713,2154,265,200/full/0/default.jpg
-label: "[:26.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656872836
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/211,2198,452,140/150,/0/default.jpg
+label: turn sole
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '239'
 layout: index_item
 collection: index5
 ---

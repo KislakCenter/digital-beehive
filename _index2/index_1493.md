@@ -6,25 +6,23 @@ head: to fold
 entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [To fold or wrap]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-93ae23aaa"
 unparsed: 
 line: 'Head: to fold|Entry: 907 [To fold or wrap]|#item-93ae23aaa'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,859,400,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531233024099
-order: '1493'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,859,400,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,859,400,128/full/0/default.jpg
 label: to fold
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '313'
 layout: index_item
 collection: index2
 ---

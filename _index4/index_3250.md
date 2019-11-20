@@ -2,29 +2,27 @@
 pid: index_3250
 volume: Volume 3
 image_number: '38'
-head: qualities
-entry: "<a href='/digital-beehive/toc/toc2_111/'>440 [Qualities]</a>"
+head: quantity
+entry: 856 [PAGE_MISSING]
 topic: 
 first_letter: Q
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dfd60fb83"
+item: "#item-4f4ebef61"
 unparsed: 
-line: 'Head: qualities|Entry: 440 [Qualities]|#item-dfd60fb83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/full/0/default.jpg
+line: 'Head: quantity|Entry: 856 [PAGE_MISSING]|#item-4f4ebef61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/435,3383,452,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454730696
-order: '3250'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/full/0/default.jpg
-label: qualities
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454783099
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/435,3383,452,111/150,/0/default.jpg
+label: quantity
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0497'
 layout: index_item
 collection: index4
 ---

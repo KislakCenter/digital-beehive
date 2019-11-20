@@ -2,29 +2,27 @@
 pid: index_3439
 volume: Volume 3
 image_number: '40'
-head: rock
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1914 [Rock]</a>"
+head: rogue
+entry: "<a href='/digital-beehive/toc/toc2_157/'>707 [Roguery]</a>"
 topic: 
 first_letter: R
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-02ac0e439"
+item: "#item-3374503cb"
 unparsed: 
-line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/full/0/default.jpg
+line: 'Head: rogue|Entry: 707 [Roguery]|#item-3374503cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
-order: '3439'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/full/0/default.jpg
-label: rock
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232978875
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/150,/0/default.jpg
+label: rogue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0686'
 layout: index_item
 collection: index4
 ---

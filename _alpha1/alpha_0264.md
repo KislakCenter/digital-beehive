@@ -3,28 +3,26 @@ pid: alpha_0264
 volume: Volume 1
 image_number: '452'
 head: 
-entry: Duck
-topic: Duck
+entry: Drunkeness
+topic: Drunkeness
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1164/'>duck</a>"
-insertion_xref: 
-insertion: 
-item: "#item-22ba711ad"
+xref: "<a href='/digital-beehive/num1/num_0167/'>161 [Drunkeness]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1163/'>drunken[n]ess</a>"
+item: "#item-18aa7dc9f"
 unparsed: 
-line: 'Entry: Duck|Topic: Duck|Index: duck|#item-22ba711ad'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,2985,232/full/0/default.jpg
+line: 'Entry: Drunkeness|Topic: Drunkeness|Xref: 161 [Drunkeness]|Index: drunken[n]ess|#item-18aa7dc9f'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,2971,663/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508782598315
-order: '264'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,2985,232/full/0/default.jpg
-label: Duck
+annotation_uri: http://dev.llgc.org.uk/annotation/1508782548572
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,600,180/250,/0/default.jpg
+label: Drunkeness
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+num_match: 
+order: '263'
 layout: alpha_item
 collection: alpha1
 ---

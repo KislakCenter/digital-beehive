@@ -2,29 +2,28 @@
 pid: index_3183
 volume: Volume 3
 image_number: '37'
-head: prognostica[ti]ons
-entry: "<a href='/digital-beehive/alpha4/alpha_0736/'>a</a>"
+head: progress
+entry: "<a href='/digital-beehive/alpha4/alpha_0742/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1387
+  [Progress]</a>|4740 [PAGE_MISSING]"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-683f714b4"
+item: "#item-c1a681a26"
 unparsed: 
-line: 'Head: prognostica[ti]ons|Entry: a|#item-683f714b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/full/0/default.jpg
+line: 'Head: progress|Entry: a|Entry: 1387 [Progress]|Entry: 4740 [PAGE_MISSING]|#item-c1a681a26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2475,716,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564084141262
-order: '3183'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/full/0/default.jpg
-label: prognostica[ti]ons
+annotation_uri: http://dev.llgc.org.uk/annotation/1564084280593
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2475,716,148/150,/0/default.jpg
+label: progress
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0430'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,27 @@
 pid: index_3197
 volume: Volume 3
 image_number: '37'
-head: property
-entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>|<a href='/digital-beehive/toc/toc2_367/'>2012
-  [Propriety]</a>"
+head: prophanation
+entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2ae1527c6"
+item: "#item-3b30bbbd2"
 unparsed: 
-line: 'Head: property|Entry: a|Entry: 2012 [Propriety]|#item-2ae1527c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1477,700,632,127/full/0/default.jpg
+line: 'Head: prophanation|Entry: a|#item-3b30bbbd2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,779,579,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869110251
-order: '3197'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1477,700,632,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1477,700,632,127/full/0/default.jpg
-label: property
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204696469
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,779,579,127/150,/0/default.jpg
+label: prophanation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0444'
 layout: index_item
 collection: index4
 ---

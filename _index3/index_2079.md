@@ -6,25 +6,23 @@ head: interruption
 entry: "<a href='/digital-beehive/toc/toc2_236/'>1211 [Interruption]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-aeb445063"
 unparsed: 
 line: 'Head: interruption|Entry: 1211 [Interruption]|#item-aeb445063'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1166,3238,526,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559749569904
-order: '2079'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1166,3238,526,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1166,3238,526,143/full/0/default.jpg
 label: interruption
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+insertion_xref: 
+order: '160'
 layout: index_item
 collection: index3
 ---

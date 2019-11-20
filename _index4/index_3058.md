@@ -2,30 +2,28 @@
 pid: index_3058
 volume: Volume 3
 image_number: '36'
-head: pocks french
-entry: "<a href='/digital-beehive/toc/toc2_144/'>637 [French pocks]</a>|<a href='/digital-beehive/toc/toc2_379/'>2138
-  [French pocks]</a>"
+head: poesie
+entry: "<a href='/digital-beehive/alpha4/alpha_0714/'>a</a>|<a href='/digital-beehive/num2/num_0564/'>454
+  [Poesie]</a>|<a href='/digital-beehive/toc/toc2_312/'>1586 [Poesy]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-828a44741"
+item: "#item-27cc5c83f"
 unparsed: 
-line: 'Head: pocks french|Entry: 637 [French pocks]|Entry: 2138 [French pocks]|#item-828a44741'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/383,2171,699,148/full/0/default.jpg
+line: 'Head: poesie|Entry: a|Entry: 454 [Poesie]|Entry: 1586 [Poesy]|#item-27cc5c83f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208237788
-order: '3058'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/383,2171,699,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/383,2171,699,148/full/0/default.jpg
-label: pocks french
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208288531
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/150,/0/default.jpg
+label: poesie
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0306'
 layout: index_item
 collection: index4
 ---

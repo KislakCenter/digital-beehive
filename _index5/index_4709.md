@@ -2,29 +2,27 @@
 pid: index_4709
 volume: Volume 3
 image_number: '54'
-head: Confederacy
-entry: 
+head: Albigenses
+entry: "<a href='/digital-beehive/toc/toc2_428/'>4486 [NUMERICAL_ENTRY_MISSING]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: "<a href='/digital-beehive/index1/index_0099/'>alliance</a>"
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:40.]"
-item: "#item-6a91f2777"
-unparsed: 
-line: 'Type: Index|Insertion: [:40.]|Head: Confederacy|See: alliance|#item-6a91f2777'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/full/0/default.jpg
+item: "#item-5845ef3b2"
+unparsed: Type Index|Insertion [:41.]
+line: 'Type: Index|Insertion: [:41.]|Head: Albigenses|Entry: 4486 [NUMERICAL_ENTRY_MISSING]|#item-5845ef3b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1057,2594,724,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955602023
-order: '4709'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/full/0/default.jpg
-label: Confederacy
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955708049
+insertion: "[:41.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1057,2594,724,141/150,/0/default.jpg
+label: Albigenses
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '676'
 layout: index_item
 collection: index5
 ---

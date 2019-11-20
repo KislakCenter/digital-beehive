@@ -2,29 +2,27 @@
 pid: index_4084
 volume: Volume 3
 image_number: '47'
-head: Sir Wm. Temple
-entry: "<a href='/digital-beehive/toc/toc2_276/'>1411 [Wm. Temple]</a>"
+head: temporizing
+entry: "<a href='/digital-beehive/toc/toc2_145/'>643 [Temporising]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-61f811125"
+item: "#item-cb218b7ff"
 unparsed: 
-line: 'Head: Sir Wm. Temple|Entry: 1411 [Wm. Temple]|#item-61f811125'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,1737,532,135/full/0/default.jpg
+line: 'Head: temporizing|Entry: 643 [Temporising]|#item-cb218b7ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/161,1854,511,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294057896
-order: '4084'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,1737,532,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,1737,532,135/full/0/default.jpg
-label: Sir Wm. Temple
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294076536
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/161,1854,511,143/150,/0/default.jpg
+label: temporizing
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '051'
 layout: index_item
 collection: index5
 ---

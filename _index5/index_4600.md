@@ -2,29 +2,27 @@
 pid: index_4600
 volume: Volume 3
 image_number: '53'
-head: woman's wit
-entry: "<a href='/digital-beehive/alpha5/alpha_1037/'>a</a>"
+head: wonderful things
+entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a0a25f4c"
+item: "#item-9d54d55d6"
 unparsed: 
-line: 'Head: wit|Entry: a|#item-7a0a25f4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/full/0/default.jpg
+line: 'Head: wonderful things|Entry: a|#item-9d54d55d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796113707
-order: '4600'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/full/0/default.jpg
-label: woman's wit
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796213984
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/150,/0/default.jpg
+label: wonderful things
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '567'
 layout: index_item
 collection: index5
 ---

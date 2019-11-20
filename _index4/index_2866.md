@@ -2,29 +2,27 @@
 pid: index_2866
 volume: Volume 3
 image_number: '34'
-head: "[:48.]"
-entry: 
+head: panacea
+entry: "<a href='/digital-beehive/toc/toc2_422/'>4450 [Papacea or All-heal]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4717/'>Pan</a>"
-insertion: 
-item: "#item-c0d5c506b"
-unparsed: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
-line: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1704,414,204,96/full/0/default.jpg
+item: "#item-c88cbb270"
+unparsed: 
+line: 'Head: panacea|Entry: 4450 [Papacea or All-heal]|#item-c88cbb270'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1183,491,528,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276694321
-order: '2866'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1704,414,204,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1704,414,204,96/full/0/default.jpg
-label: "[:48.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276703762
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1183,491,528,99/150,/0/default.jpg
+label: panacea
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0114'
 layout: index_item
 collection: index4
 ---

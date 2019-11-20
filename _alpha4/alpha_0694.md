@@ -1,32 +1,28 @@
 ---
 pid: alpha_0694
 volume: Volume 2
-image_number: '40'
+image_number: '39'
 head: 
-entry: Persecution
-topic: Persecution
+entry: Pear
+topic: Pear
 first_letter: P
-xref: "<a href='/digital-beehive/alpha3/alpha_0532/'>liberty of conscience</a>|Compulsion|<a
-  href='/digital-beehive/toc/toc2_064/'>71 [Persecution]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2967/'>persecution</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c9e6f0e5f"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_2934/'>pear</a>"
+item: "#item-f35170c5e"
 unparsed: 
-line: 'Entry: Persecution|Topic: Persecution|Xref: liberty of conscience|Xref: Compulsion|Xref:
-  71 [Persecution]|Index: persecution|#item-c9e6f0e5f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,3058,683/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1512351296512
-order: '694'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,3058,683/full/0/default.jpg
-label: Persecution
-location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+line: 'Entry: Pear|Topic: Pear|Index: pear|#item-f35170c5e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/323,3644,2959,196/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1512350843926
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/323,3644,600,180/250,/0/default.jpg
+label: Pear
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+num_match: 
+order: '047'
 layout: alpha_item
 collection: alpha4
 ---

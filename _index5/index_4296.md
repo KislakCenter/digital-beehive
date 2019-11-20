@@ -2,29 +2,27 @@
 pid: index_4296
 volume: Volume 3
 image_number: '49'
-head: to vanish
-entry: 748 [PAGE_MISSING]
+head: vapours
+entry: "<a href='/digital-beehive/num2/num_0461/'>383 [Clouds]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2b3fd2747"
+item: "#item-79dc08984"
 unparsed: 
-line: 'Head: to vanish|Entry: 748 [PAGE_MISSING]|#item-2b3fd2747'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,1152,529,118/full/0/default.jpg
+line: 'Head: vapours|Entry: 383 [Clouds]|#item-79dc08984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,1418,432,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657788548
-order: '4296'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,1152,529,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,1152,529,118/full/0/default.jpg
-label: to vanish
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657867889
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,1418,432,108/150,/0/default.jpg
+label: vapours
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '263'
 layout: index_item
 collection: index5
 ---

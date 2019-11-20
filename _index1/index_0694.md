@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Consent]</a>|<a href='/dig
   [Climate]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a84ea3044"
 unparsed: 
 line: 'Head: clime|Entry: 649 [Consent]|Entry: 1342 [Climate]|#item-a84ea3044'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,933,605,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536334352478
-order: '694'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,933,605,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,933,605,129/full/0/default.jpg
 label: clime
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+insertion_xref: 
+order: '0693'
 layout: index_item
 collection: index1
 ---

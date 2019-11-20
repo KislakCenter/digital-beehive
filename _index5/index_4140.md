@@ -2,29 +2,27 @@
 pid: index_4140
 volume: Volume 3
 image_number: '47'
-head: thrush
-entry: "<a href='/digital-beehive/alpha5/alpha_0944/'>a</a>"
+head: to thrust
+entry: "<a href='/digital-beehive/alpha5/alpha_0954/'>a</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b24a25ea2"
+item: "#item-823482aea"
 unparsed: 
-line: 'Head: thrush|Entry: a|#item-b24a25ea2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1616,533,328,114/full/0/default.jpg
+line: 'Head: to thrust|Entry: a|#item-823482aea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1613,669,364,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517992550
-order: '4140'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1616,533,328,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1616,533,328,114/full/0/default.jpg
-label: thrush
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517895562
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1613,669,364,105/150,/0/default.jpg
+label: to thrust
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '107'
 layout: index_item
 collection: index5
 ---

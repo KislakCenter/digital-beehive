@@ -2,29 +2,28 @@
 pid: index_4635
 volume: Volume 3
 image_number: '53'
-head: writing secret
-entry: 
+head: wrong
+entry: "<a href='/digital-beehive/num1/num_0005/'>5 [Wrong]</a>|<a href='/digital-beehive/toc/toc2_217/'>1116
+  [Injury]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc2_290/'>p.380 [Image 2.300]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-63a51121d"
+item: "#item-322511ca5"
 unparsed: 
-line: 'Head: writing secret|Page: p.380 [Image 2.300]|#item-63a51121d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/full/0/default.jpg
+line: 'Head: wrong|Entry: 5 [Wrong]|Entry: 1116 [Injury]|#item-322511ca5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,1276,430,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798663201
-order: '4635'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/full/0/default.jpg
-label: writing secret
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798740565
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,1276,430,192/150,/0/default.jpg
+label: wrong
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '602'
 layout: index_item
 collection: index5
 ---

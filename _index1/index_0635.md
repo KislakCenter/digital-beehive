@@ -6,25 +6,23 @@ head: big with child
 entry: "<a href='/digital-beehive/toc/toc2_269/'>1377 [Great with young]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-21c98f16f"
 unparsed: 
 line: 'Head: big with child|Entry: 1377 [Great with young]|#item-21c98f16f'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1784,2441,661,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532461113282
-order: '635'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1784,2441,661,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1784,2441,661,154/full/0/default.jpg
 label: big with child
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0634'
 layout: index_item
 collection: index1
 ---

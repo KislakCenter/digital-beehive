@@ -2,29 +2,27 @@
 pid: index_4718
 volume: Volume 3
 image_number: '54'
-head: Pluto & Proserp.
+head: Charon
 entry: 4541 [PAGE_MISSING]
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:49.]"
-item: "#item-18e38a08d"
-unparsed: 
-line: 'Type: Index|Insertion: [:49.]|Head: Pluto & Proserp.|Entry: 4541 [PAGE_MISSING]|#item-18e38a08d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,426,723,176/full/0/default.jpg
+item: "#item-e08369873"
+unparsed: Type Index|Insertion [:50.]
+line: 'Type: Index|Insertion: [:50.]|Head: Charon|Entry: 4541 [PAGE_MISSING]|#item-e08369873'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1732,570,648,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560956318967
-order: '4718'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,426,723,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,426,723,176/full/0/default.jpg
-label: Pluto & Proserp.
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956349465
+insertion: "[:50.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1732,570,648,147/150,/0/default.jpg
+label: Charon
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '685'
 layout: index_item
 collection: index5
 ---

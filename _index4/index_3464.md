@@ -2,29 +2,30 @@
 pid: index_3464
 volume: Volume 3
 image_number: '40'
-head: to rule
-entry: 
+head: rule of faith & life
+entry: "<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious Controversies]</a>|<a
+  href='/digital-beehive/num2/num_0494/'>404 [Rule of faith & life]</a>|<a href='/digital-beehive/toc/toc2_274/'>1403
+  [Rule of faith & life]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4552354ce"
+item: "#item-b2076d5a2"
 unparsed: 
-line: 'Head: to rule|#item-4552354ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1123,2786,318,121/full/0/default.jpg
+line: 'Head: rule of faith & life|Entry: 74 [the Judge of religious Controversies]|Entry:
+  404 [Rule of faith & life]|Entry: 1403 [Rule of faith & life]|#item-b2076d5a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233941569
-order: '3464'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1123,2786,318,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1123,2786,318,121/full/0/default.jpg
-label: to rule
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234051979
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/150,/0/default.jpg
+label: rule of faith & life
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0711'
 layout: index_item
 collection: index4
 ---

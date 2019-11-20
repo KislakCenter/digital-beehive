@@ -2,29 +2,27 @@
 pid: index_4019
 volume: Volume 3
 image_number: '46'
-head: sweat
-entry: "<a href='/digital-beehive/alpha4/alpha_0926/'>a</a>"
+head: Swedes
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1340 [Swedland & Denmark]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5a2cd8e7f"
+item: "#item-f3e25d638"
 unparsed: 
-line: 'Head: sweat|Entry: a|#item-5a2cd8e7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1601,348,112/full/0/default.jpg
+line: 'Head: Swedes|Entry: 1340 [Swedland & Denmark]|#item-f3e25d638'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1096,1739,422,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565293298680
-order: '4019'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1601,348,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1601,348,112/full/0/default.jpg
-label: sweat
+annotation_uri: http://dev.llgc.org.uk/annotation/1531691672942
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1096,1739,422,110/150,/0/default.jpg
+label: Swedes
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1265'
 layout: index_item
 collection: index4
 ---

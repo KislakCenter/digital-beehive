@@ -2,29 +2,27 @@
 pid: index_2749
 volume: Volume 3
 image_number: '33'
-head: nun
-entry: "<a href='/digital-beehive/alpha3/alpha_0641/'>a</a>"
+head: nurse
+entry: "<a href='/digital-beehive/toc/toc2_313/'>1593 [Nurse]</a>"
 topic: 
 first_letter: N
+page: 
+add: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0ef268536"
+item: "#item-cc6d338f5"
 unparsed: 
-line: 'Head: nun|Entry: a|#item-0ef268536'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/186,790,279,113/full/0/default.jpg
+line: 'Head: nurse|Entry: 1593 [Nurse]|Add: suck|#item-cc6d338f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/160,896,506,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1513275755951
-order: '2749'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/186,790,279,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/186,790,279,113/full/0/default.jpg
-label: nun
+annotation_uri: http://dev.llgc.org.uk/annotation/1536346442675
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/160,896,506,192/150,/0/default.jpg
+label: nurse
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+insertion_xref: 
+order: '829'
 layout: index_item
 collection: index3
 ---

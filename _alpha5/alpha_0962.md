@@ -1,32 +1,30 @@
 ---
 pid: alpha_0962
 volume: Volume 2
-image_number: '60'
+image_number: '59'
 head: 
-entry: Trade
-topic: Trade
+entry: Too hasty
+topic: Too hasty
 first_letter: T
-xref: "<a href='/digital-beehive/alpha3/alpha_0540/'>Livelyhood</a>|Shopkeeper|Butcher|<a
-  href='/digital-beehive/toc/toc2_143/'>634 [Trade]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4209/'>trade</a>"
-insertion_xref: 
-insertion: 
-item: "#item-dbf3ca43c"
+xref: "<a href='/digital-beehive/alpha2/alpha_0399/'>Haste</a>|[WORD_ILLEGIBLE]|<a
+  href='/digital-beehive/toc/toc2_179/'>961 [Too hasty]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4175/'>too hasty</a>"
+item: "#item-333aac4a6"
 unparsed: 
-line: 'Entry: Trade|Topic: Trade|Xref: Livelyhood|Xref: Shopkeeper|Xref: Butcher|Xref:
-  634 [Trade]|Index: trade|#item-dbf3ca43c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,213,2965,490/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565114816366
-order: '962'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,213,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,213,2965,490/full/0/default.jpg
-label: Trade
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+line: 'Entry: Too hasty|Topic: Too hasty|Xref: Haste|Xref: [WORD_ILLEGIBLE]|Xref:
+  961 [Too hasty]|Index: too hasty|#item-333aac4a6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,2997,442/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529520137941
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,600,180/250,/0/default.jpg
+label: Too hasty
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+num_match: 
+order: '027'
 layout: alpha_item
 collection: alpha5
 ---

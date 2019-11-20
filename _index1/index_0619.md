@@ -2,29 +2,28 @@
 pid: index_0619
 volume: Volume 3
 image_number: '12'
-head: cheat
-entry: 
+head: cheese
+entry: "<a href='/digital-beehive/alpha1/alpha_0137/'>a</a>|<a href='/digital-beehive/toc/toc2_324/'>1649
+  [Cheese]</a>"
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c94a4acd1"
+item: "#item-50b64158a"
 unparsed: 
-line: 'Head: cheat|See: fraud|#item-c94a4acd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/full/0/default.jpg
+line: 'Head: cheese|Entry: a|Entry: 1649 [Cheese]|#item-50b64158a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1173,507,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459211282
-order: '619'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/full/0/default.jpg
-label: cheat
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459471102
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1173,507,133/150,/0/default.jpg
+label: cheese
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0618'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_4337
 volume: Volume 3
 image_number: '49'
-head: violet
-entry: "<a href='/digital-beehive/alpha5/alpha_0985/'>a</a>"
+head: virago
+entry: "<a href='/digital-beehive/num1/num_0200/'>192 [Dames governmt]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1378943a0"
+item: "#item-a38d077ef"
 unparsed: 
-line: 'Head: violet|Entry: a|#item-1378943a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/full/0/default.jpg
+line: 'Head: virago|Entry: 192 [Dames governmt]|#item-a38d077ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660862542
-order: '4337'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/full/0/default.jpg
-label: violet
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660960533
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/150,/0/default.jpg
+label: virago
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '304'
 layout: index_item
 collection: index5
 ---

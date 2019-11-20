@@ -2,30 +2,27 @@
 pid: index_3482
 volume: Volume 3
 image_number: '40'
-head: Sacrifice
-entry: "<a href='/digital-beehive/alpha4/alpha_0814/'>a</a>|<a href='/digital-beehive/toc/toc2_242/'>1244
-  [Sacrifice]</a>"
+head: Sacriledge
+entry: "<a href='/digital-beehive/num1/num_0266/'>247 [Sacriledge]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2e9949e70"
+item: "#item-ed4b80754"
 unparsed: 
-line: 'Head: Sacrifice|Entry: a|Entry: 1244 [Sacrifice]|#item-2e9949e70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1799,1512,596,134/full/0/default.jpg
+line: 'Head: Sacriledge|Entry: 247 [Sacriledge]|#item-ed4b80754'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1780,1624,549,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234756783
-order: '3482'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1799,1512,596,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1799,1512,596,134/full/0/default.jpg
-label: Sacrifice
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234782317
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1780,1624,549,156/150,/0/default.jpg
+label: Sacriledge
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0729'
 layout: index_item
 collection: index4
 ---

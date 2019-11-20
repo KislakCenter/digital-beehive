@@ -2,29 +2,27 @@
 pid: index_1657
 volume: Volume 3
 image_number: '22'
-head: God's reward
-entry: "<a href='/digital-beehive/toc/toc2_180/'>968 [Example]</a>"
+head: God's voice
+entry: "<a href='/digital-beehive/toc/toc2_074/'>178 [God's voice]</a>"
 topic: 
 first_letter: G
-xref: 
-see: "<a href='/digital-beehive/index4/index_3413/'>reward</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-90468997f"
+item: "#item-0015eccae"
 unparsed: 
-line: 'Head: God''s reward|See: reward|Entry: 968 [Example]|#item-90468997f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
+line: 'Head: God''s voice|Entry: 178 [God''s voice]|#item-0015eccae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1164,2641,404,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048007379
-order: '1657'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
-label: God's reward
+annotation_uri: http://dev.llgc.org.uk/annotation/1561048159383
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1164,2641,404,99/150,/0/default.jpg
+label: God's voice
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '477'
 layout: index_item
 collection: index2
 ---

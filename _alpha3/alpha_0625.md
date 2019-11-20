@@ -3,29 +3,26 @@ pid: alpha_0625
 volume: Volume 2
 image_number: '35'
 head: 
-entry: Natural
-topic: Natural
+entry: Nakedness
+topic: Nakedness
 first_letter: N
-xref: "<a href='/digital-beehive/alpha4/alpha_0655/'>Old Adam</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
-  [Natural]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2652/'>natural</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ce551c783"
+xref: "<a href='/digital-beehive/toc/toc2_120/'>499 [Nackedness]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2633/'>nakedness</a>"
+item: "#item-b18c4100d"
 unparsed: 
-line: 'Entry: Natural|Topic: Natural|Xref: Old Adam|Xref: 1086 [Natural]|Index: natural|#item-ce551c783'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,2959,402/full/0/default.jpg
+line: 'Entry: Nakedness|Topic: Nakedness|Xref: 499 [Nackedness]|Index: nakedness|#item-b18c4100d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,777,3058,393/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510163587615
-order: '625'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,2959,402/full/0/default.jpg
-label: Natural
+annotation_uri: http://dev.llgc.org.uk/annotation/1509735477482
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,777,600,180/250,/0/default.jpg
+label: Nakedness
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '181'
 layout: alpha_item
 collection: alpha3
 ---

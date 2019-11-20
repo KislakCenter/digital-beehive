@@ -2,29 +2,27 @@
 pid: index_3915
 volume: Volume 3
 image_number: '45'
-head: to Stone
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1915 [Stoning]</a>"
+head: to stop
+entry: 863 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c9fb4c216"
+item: "#item-c06339698"
 unparsed: 
-line: 'Head: to Stone|Entry: 1915 [Stoning]|#item-c9fb4c216'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,3584,418,177/full/0/default.jpg
+line: 'Head: to stop|Entry: 863 [PAGE_MISSING]|#item-c06339698'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,279,416,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290517564
-order: '3915'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,3584,418,177/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,3584,418,177/full/0/default.jpg
-label: to Stone
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449250166
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,279,416,128/150,/0/default.jpg
+label: to stop
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1162'
 layout: index_item
 collection: index4
 ---

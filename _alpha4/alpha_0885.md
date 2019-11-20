@@ -1,32 +1,28 @@
 ---
 pid: alpha_0885
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Sonship
-topic: Sonship
+entry: Sleep
+topic: Sleep
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0779/'>Regeneration</a>|<a href='/digital-beehive/toc/toc2_093/'>311
-  [Sonship]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3794/'>Son: sonship</a>"
-insertion_xref: 
-insertion: 
-item: "#item-360d672ec"
+xref: "<a href='/digital-beehive/toc/toc2_172/'>925 [Sleep]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3746/'>sleep</a>"
+item: "#item-49ddc387a"
 unparsed: 
-line: 'Entry: Sonship|Topic: Sonship|Xref: Regeneration|Xref: 311 [Sonship]|Index:
-  Son: sonship|#item-360d672ec'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/799,1957,2952,468/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532449138691
-order: '885'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/799,1957,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/799,1957,2952,468/full/0/default.jpg
-label: Sonship
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Sleep|Topic: Sleep|Xref: 925 [Sleep]|Index: sleep|#item-49ddc387a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/284,4341,3071,736/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532029633345
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/284,4341,600,180/250,/0/default.jpg
+label: Sleep
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '237'
 layout: alpha_item
 collection: alpha4
 ---

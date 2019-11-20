@@ -3,30 +3,26 @@ pid: alpha_0530
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Liberality
-topic: Liberality
+entry: Letter
+topic: Letter
 first_letter: L
-xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha2/alpha_0359/'>gift</a>|<a
-  href='/digital-beehive/toc/toc2_219/'>1127 [Liberality]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2273/'>liberality</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8b9784d52"
+xref: "<a href='/digital-beehive/num2/num_0596/'>481 [Letter]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2262/'>letter</a>"
+item: "#item-0d1852435"
 unparsed: 
-line: 'Entry: Liberality|Topic: Liberality|Xref: alms|Xref: gift|Xref: 1127 [Liberality]|Index:
-  liberality|#item-8b9784d52'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/346,3791,3051,539/full/0/default.jpg
+line: 'Entry: Letter|Topic: Letter|Xref: 481 [Letter]|Index: letter|#item-0d1852435'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,3027,376/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768897851
-order: '530'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/346,3791,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/346,3791,3051,539/full/0/default.jpg
-label: Liberality
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768731528
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,600,180/250,/0/default.jpg
+label: Letter
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '086'
 layout: alpha_item
 collection: alpha3
 ---

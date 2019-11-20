@@ -2,29 +2,27 @@
 pid: index_2960
 volume: Volume 3
 image_number: '35'
-head: to perish
-entry: 852 [PAGE_MISSING]
+head: perjury
+entry: "<a href='/digital-beehive/num1/num_0152/'>146 [Perjury]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-97c45dc60"
+item: "#item-6f00d94ea"
 unparsed: 
-line: 'Head: to perish|Entry: 852 [PAGE_MISSING]|#item-97c45dc60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/133,2825,540,167/full/0/default.jpg
+line: 'Head: perjury|Entry: 146 [Perjury]|#item-6f00d94ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/128,2959,475,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973189139
-order: '2960'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/133,2825,540,167/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/133,2825,540,167/full/0/default.jpg
-label: to perish
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973211172
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/128,2959,475,157/150,/0/default.jpg
+label: perjury
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0208'
 layout: index_item
 collection: index4
 ---

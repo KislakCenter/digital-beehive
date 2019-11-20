@@ -3,29 +3,28 @@ pid: alpha_0834
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Sect
-topic: Sect
+entry: Schoole
+topic: Schoole
 first_letter: S
-xref: "<a href='/digital-beehive/alpha2/alpha_0414/'>Heresy</a>|<a href='/digital-beehive/toc/toc2_063/'>70
-  [Sect]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3588/'>sect</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7e7c690e4"
+xref: "<a href='/digital-beehive/alpha1/alpha_0256/'>doctrine</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
+  href='/digital-beehive/alpha5/alpha_1004/'>University</a>|839 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3544/'>schole</a>"
+item: "#item-238832d52"
 unparsed: 
-line: 'Entry: Sect|Topic: Sect|Xref: Heresy|Xref: 70 [Sect]|Index: sect|#item-7e7c690e4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/764,4648,2978,464/full/0/default.jpg
+line: 'Entry: Schoole|Topic: Schoole|Xref: doctrine|Xref: Learning|Xref: University|Xref:
+  839 [PAGE_MISSING]|Index: schole|#item-238832d52'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,3006,551/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528924784797
-order: '834'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/764,4648,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/764,4648,2978,464/full/0/default.jpg
-label: Sect
+annotation_uri: http://dev.llgc.org.uk/annotation/1528923010744
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,600,180/250,/0/default.jpg
+label: Schoole
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '186'
 layout: alpha_item
 collection: alpha4
 ---

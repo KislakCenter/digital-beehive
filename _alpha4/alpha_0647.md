@@ -1,31 +1,28 @@
 ---
 pid: alpha_0647
 volume: Volume 2
-image_number: '37'
+image_number: '36'
 head: 
-entry: Obscurity
-topic: Obscurity
+entry: Oats
+topic: Oats
 first_letter: O
-xref: Plainness|<a href='/digital-beehive/toc/toc2_252/'>1292 [Obscurity]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2760/'>obscurity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-02122876c"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_2754/'>oats</a>"
+item: "#item-3a7c1240f"
 unparsed: 
-line: 'Entry: Obscurity|Topic: Obscurity|Xref: Plainness|Xref: 1292 [Obscurity]|Index:
-  obscurity|#item-02122876c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,522,3076,387/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016331903
-order: '647'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,522,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,522,3076,387/full/0/default.jpg
-label: Obscurity
-location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+line: 'Entry: Oats|Topic: Oats|Index: oats|#item-3a7c1240f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/749,3852,3008,396/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015731146
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/749,3852,600,180/250,/0/default.jpg
+label: Oats
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '000'
 layout: alpha_item
 collection: alpha4
 ---

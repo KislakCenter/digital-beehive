@@ -2,29 +2,27 @@
 pid: index_3676
 volume: Volume 3
 image_number: '42'
-head: shingle
-entry: "<a href='/digital-beehive/toc/toc2_100/'>362 [a Shingle]</a>"
+head: shining
+entry: "<a href='/digital-beehive/num2/num_0529/'>427 [Bright]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-042fc500d"
+item: "#item-d9ba60542"
 unparsed: 
-line: 'Head: shingle|Entry: 362 [a Shingle]|#item-042fc500d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/full/0/default.jpg
+line: 'Head: shining|Entry: 427 [Bright]|#item-d9ba60542'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1837,1197,478,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575861276
-order: '3676'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/full/0/default.jpg
-label: shingle
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575888006
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1837,1197,478,139/150,/0/default.jpg
+label: shining
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0923'
 layout: index_item
 collection: index4
 ---

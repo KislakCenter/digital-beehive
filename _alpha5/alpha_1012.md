@@ -3,30 +3,28 @@ pid: alpha_1012
 volume: Volume 2
 image_number: '63'
 head: 
-entry: Washing
-topic: Washing
-first_letter: W
-xref: "<a href='/digital-beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/digital-beehive/alpha4/alpha_0755/'>Purity</a>|<a
-  href='/digital-beehive/alpha3/alpha_0612/'>mouth</a>"
-see: 
+entry: Unworthy
+topic: Unworthy
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4483/'>washing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1ad01851b"
+xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>Worthiness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+  [Unworthy]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4426/'>unworthy</a>"
+item: "#item-3a0da1785"
 unparsed: 
-line: 'Entry: Washing|Topic: Washing|Xref: Baptism|Xref: Purity|Xref: mouth|Index:
-  washing|#item-1ad01851b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/330,4310,3003,417/full/0/default.jpg
+line: 'Entry: Unworthy|Topic: Unworthy|Xref: Worthiness|Xref: 933 [Unworthy]|Index:
+  unworthy|#item-3a0da1785'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,563,3031,459/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529522932838
-order: '1012'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/330,4310,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/330,4310,3003,417/full/0/default.jpg
-label: Washing
+annotation_uri: http://dev.llgc.org.uk/annotation/1528914537169
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,563,600,180/250,/0/default.jpg
+label: Unworthy
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '077'
 layout: alpha_item
 collection: alpha5
 ---

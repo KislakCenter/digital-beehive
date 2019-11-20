@@ -3,28 +3,28 @@ pid: alpha_0639
 volume: Volume 2
 image_number: '36'
 head: 
-entry: Nothing
-topic: Nothing
+entry: News
+topic: News
 first_letter: N
-xref: "<a href='/digital-beehive/toc/toc2_322/'>1638 [Nothing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2738/'>nothing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1e3912914"
+xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|messenger|<a href='/digital-beehive/toc/toc2_244/'>1252
+  [News]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
+item: "#item-9f38763ad"
 unparsed: 
-line: 'Entry: Nothing|Topic: Nothing|Xref: 1638 [Nothing]|Index: nothing|#item-1e3912914'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/791,2711,2986,442/full/0/default.jpg
+line: 'Entry: News|Topic: News|Xref: Report|Xref: messenger|Xref: 1252 [News]|Index:
+  news|#item-9f38763ad'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,3077,448/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015524609
-order: '639'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/791,2711,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/791,2711,2986,442/full/0/default.jpg
-label: Nothing
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015261780
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,600,180/250,/0/default.jpg
+label: News
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '195'
 layout: alpha_item
 collection: alpha3
 ---

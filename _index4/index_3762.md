@@ -2,29 +2,27 @@
 pid: index_3762
 volume: Volume 3
 image_number: '43'
-head: smith
-entry: "<a href='/digital-beehive/toc/toc2_092/'>306 [Smith]</a>"
+head: smooth
+entry: 830 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b9c55c561"
+item: "#item-c6b2de4d9"
 unparsed: 
-line: 'Head: smith|Page: p.38 [Image 1.98]|Entry: 306 [Smith]|#item-b9c55c561'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,3473,563,144/full/0/default.jpg
+line: 'Head: smooth|Entry: 830 [PAGE_MISSING]|#item-c6b2de4d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1574,391,442,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584956441
-order: '3762'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,3473,563,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,3473,563,144/full/0/default.jpg
-label: smith
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585047188
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1574,391,442,131/150,/0/default.jpg
+label: smooth
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1009'
 layout: index_item
 collection: index4
 ---

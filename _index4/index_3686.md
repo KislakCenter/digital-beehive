@@ -2,29 +2,28 @@
 pid: index_3686
 volume: Volume 3
 image_number: '42'
-head: shore
-entry: 749 [PAGE_MISSING]
+head: short
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1176/'>dwarf</a>|<a
+  href='/digital-beehive/index5/index_4216/'>transitory</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-260b6172c"
+item: "#item-de2a7d9a5"
 unparsed: 
-line: 'Head: shore|Entry: 749 [PAGE_MISSING]|#item-260b6172c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1795,2332,443,130/full/0/default.jpg
+line: 'Head: short|See: brevity|See: dwarf|See: transitory|#item-de2a7d9a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576386478
-order: '3686'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1795,2332,443,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1795,2332,443,130/full/0/default.jpg
-label: shore
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576420141
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/150,/0/default.jpg
+label: short
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0933'
 layout: index_item
 collection: index4
 ---

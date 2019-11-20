@@ -2,29 +2,27 @@
 pid: index_0330
 volume: Volume 3
 image_number: '9'
-head: bedtime
-entry: 4619 [PAGE_MISSING]
+head: bedlam
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Bedlam]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2f2758967"
+item: "#item-255572f61"
 unparsed: 
-line: 'Head: bedtime|Entry: 4619 [PAGE_MISSING]|#item-2f2758967'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2573,333,99/full/0/default.jpg
+line: 'Head: bedlam|Entry: 1317 [Bedlam]|#item-255572f61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1532,2639,462,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531145303451
-order: '330'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2573,333,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2573,333,99/full/0/default.jpg
-label: bedtime
+annotation_uri: http://dev.llgc.org.uk/annotation/1531145451168
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1532,2639,462,110/150,/0/default.jpg
+label: bedlam
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0329'
 layout: index_item
 collection: index1
 ---

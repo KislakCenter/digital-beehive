@@ -6,26 +6,24 @@ head:
 entry: Christendom
 topic: Christendom
 first_letter: C
-xref: "<a href='/digital-beehive/toc/toc2_369/'>2037 [Nominal Christians]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/toc/toc2_369/'>2037 [Nominal Christians]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0650/'>christendom</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0b0ff0fcd|"
+item: "#item-0b0ff0fcd"
 unparsed: 
-line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|#item-0b0ff0fcd|Index:
-  christendom|#item-3f6458056'
+line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|Index:
+  christendom|#item-0b0ff0fcd'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/804,212,3096,640/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499699786298
-order: '145'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/804,212,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/804,212,3096,640/full/0/default.jpg
 label: Christendom
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+num_match: 
+order: '144'
 layout: alpha_item
 collection: alpha1
 ---

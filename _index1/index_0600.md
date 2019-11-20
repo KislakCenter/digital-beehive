@@ -2,29 +2,27 @@
 pid: index_0600
 volume: Volume 3
 image_number: '12'
-head: chaos
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1324 [Creation]</a>"
+head: chap
+entry: 842 [PAGE_MISSING]
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dcb714ee1"
+item: "#item-71874f154"
 unparsed: 
-line: 'Head: chaos|Entry: 1324 [Creation]|#item-dcb714ee1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,3097,384,117/full/0/default.jpg
+line: 'Head: chap|Entry: 842 [PAGE_MISSING]|#item-71874f154'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,3209,300,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442765152
-order: '600'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,3097,384,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,3097,384,117/full/0/default.jpg
-label: chaos
+annotation_uri: http://dev.llgc.org.uk/annotation/1532442796836
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,3209,300,121/150,/0/default.jpg
+label: chap
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0599'
 layout: index_item
 collection: index1
 ---

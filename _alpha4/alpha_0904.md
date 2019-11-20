@@ -3,28 +3,26 @@ pid: alpha_0904
 volume: Volume 2
 image_number: '55'
 head: 
-entry: Stomach
-topic: Stomach
+entry: Spring
+topic: Spring
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_380/'>2144 [Stomach]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3911/'>stomach</a>"
-insertion_xref: 
-insertion: 
-item: "#item-655c7e5da"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3863/'>spring. brun[n]</a>"
+item: "#item-df12bfd87"
 unparsed: 
-line: 'Entry: Stomach|Topic: Stomach|Xref: 2144 [Stomach]|Index: stomach|#item-655c7e5da'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,3040,568/full/0/default.jpg
+line: 'Entry: Spring|Topic: Spring|Index: spring. brun[n]|#item-df12bfd87'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,1122,3082,485/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460662381
-order: '904'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,3040,568/full/0/default.jpg
-label: Stomach
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459711177
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,1122,600,180/250,/0/default.jpg
+label: Spring
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '256'
 layout: alpha_item
 collection: alpha4
 ---

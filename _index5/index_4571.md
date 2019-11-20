@@ -2,30 +2,27 @@
 pid: index_4571
 volume: Volume 3
 image_number: '53'
-head: wish
-entry: "<a href='/digital-beehive/alpha5/alpha_1031/'>a</a>|<a href='/digital-beehive/toc/toc2_162/'>875
-  [Wish]</a>|<a href='/digital-beehive/toc/toc2_327/'>1663 [Wish]</a>"
+head: false wit
+entry: 4562 [PAGE_MISSING]
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-77b48c754"
+item: "#item-547fd237d"
 unparsed: 
-line: 'Head: wish|Entry: a|Entry: 875 [Wish]|Entry: 1663 [Wish]|#item-77b48c754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1218,555,101/full/0/default.jpg
+line: 'Head: false wit|Entry: 4562 [PAGE_MISSING]|#item-547fd237d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/195,1429,485,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791862715
-order: '4571'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1218,555,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1218,555,101/full/0/default.jpg
-label: wish
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792050115
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/195,1429,485,86/150,/0/default.jpg
+label: false wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '538'
 layout: index_item
 collection: index5
 ---

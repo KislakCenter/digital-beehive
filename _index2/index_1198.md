@@ -2,29 +2,27 @@
 pid: index_1198
 volume: Volume 3
 image_number: '18'
-head: easy in living
-entry: "<a href='/digital-beehive/toc/toc2_254/'>1301 [easy in living]</a>"
+head: ebbing & flowing
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7e8ce2ad3"
+item: "#item-e821e4873"
 unparsed: 
-line: 'Head: easy in living|Entry: 1301 [easy in living]|#item-7e8ce2ad3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/full/0/default.jpg
+line: 'Head: ebbing & flowing|Entry: 1246 [Ebbing and Flowing]|#item-e821e4873'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668150645
-order: '1198'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/full/0/default.jpg
-label: easy in living
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668391981
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/150,/0/default.jpg
+label: ebbing & flowing
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '018'
 layout: index_item
 collection: index2
 ---

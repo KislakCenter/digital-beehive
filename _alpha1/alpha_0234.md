@@ -3,30 +3,27 @@ pid: alpha_0234
 volume: Volume 1
 image_number: '449'
 head: 
-entry: Difficulty
-topic: Difficulty
+entry: Difference
+topic: Difference
 first_letter: D
-xref: "<a href='/digital-beehive/alpha2/alpha_0408/'>Heaviness</a>|<a href='/digital-beehive/toc/toc2_066/'>100
-  [Difficulty]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1049/'>difficulty</a>"
-insertion_xref: 
-insertion: 
-item: "#item-284e23a0c"
+xref: "<a href='/digital-beehive/alpha3/alpha_0470/'>Inequality</a>|860 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_1048/'>difference</a>"
+item: "#item-90a5b16f8"
 unparsed: 
-line: 'Entry: Difficulty|Topic: Difficulty|Xref: Heaviness|Xref: 100 [Difficulty]|Index:
-  difficulty|#item-284e23a0c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,3016,239/full/0/default.jpg
+line: 'Entry: Difference|Topic: Difference|Xref: Inequality|Xref: 860 [PAGE_MISSING]|Index:
+  difference|#item-90a5b16f8'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/422,4410,2996,382/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923858340
-order: '234'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,3016,239/full/0/default.jpg
-label: Difficulty
+annotation_uri: http://dev.llgc.org.uk/annotation/1563999489841
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/422,4410,600,180/250,/0/default.jpg
+label: Difference
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+num_match: 
+order: '233'
 layout: alpha_item
 collection: alpha1
 ---

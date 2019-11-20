@@ -2,29 +2,27 @@
 pid: index_4274
 volume: Volume 3
 image_number: '49'
-head: turtledoves
-entry: "<a href='/digital-beehive/toc/toc2_135/'>588 [Dove]</a>"
+head: twilight
+entry: 759 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-facd25a1e"
+item: "#item-74f07fb45"
 unparsed: 
-line: 'Head: turtledoves|Entry: 588 [Dove]|#item-facd25a1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/full/0/default.jpg
+line: 'Head: twilight|Entry: 759 [PAGE_MISSING]|#item-74f07fb45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/233,2361,449,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656905871
-order: '4274'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/full/0/default.jpg
-label: turtledoves
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656942800
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/233,2361,449,174/150,/0/default.jpg
+label: twilight
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '241'
 layout: index_item
 collection: index5
 ---

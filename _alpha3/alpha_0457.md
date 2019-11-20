@@ -3,28 +3,28 @@ pid: alpha_0457
 volume: Volume 2
 image_number: '21'
 head: 
-entry: Imitation
-topic: Imitation
+entry: Imagination
+topic: Imagination
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha2/alpha_0294/'>Example</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_1960/'>imitation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4bce0df37"
+xref: "<a href='/digital-beehive/alpha4/alpha_0663/'>opinion</a>|<a href='/digital-beehive/alpha5/alpha_0952/'>thought</a>|736
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_1958/'>imagination</a>"
+item: "#item-c17c682d7"
 unparsed: 
-line: 'Entry: Imitation|Topic: Imitation|Xref: Example|Index: imitation|#item-4bce0df37'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,4610,2985,417/full/0/default.jpg
+line: 'Entry: Imagination|Topic: Imagination|Xref: opinion|Xref: thought|Xref: 736
+  [PAGE_MISSING]|Index: imagination|#item-c17c682d7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,3024,482/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759202166
-order: '457'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,4610,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,4610,2985,417/full/0/default.jpg
-label: Imitation
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759131884
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,600,180/250,/0/default.jpg
+label: Imagination
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+num_match: 
+order: '013'
 layout: alpha_item
 collection: alpha3
 ---

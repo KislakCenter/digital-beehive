@@ -2,29 +2,27 @@
 pid: index_3366
 volume: Volume 3
 image_number: '39'
-head: renown
-entry: "<a href='/digital-beehive/alpha4/alpha_0783/'>a</a>|4541 [PAGE_MISSING]"
+head: rent
+entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Rent or Revenue]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b0360b63e"
+item: "#item-1d9be1cc7"
 unparsed: 
-line: 'Head: renown|Entry: a|Entry: 4541 [PAGE_MISSING]|#item-b0360b63e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/793,1695,667,166/full/0/default.jpg
+line: 'Head: rent|Entry: 568 [Rent or Revenue]|#item-1d9be1cc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469217421
-order: '3366'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/793,1695,667,166/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/793,1695,667,166/full/0/default.jpg
-label: renown
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469239721
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/150,/0/default.jpg
+label: rent
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0613'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_3117
 volume: Volume 3
 image_number: '36'
-head: precedency
-entry: "<a href='/digital-beehive/alpha4/alpha_0721/'>a</a>"
+head: precious
+entry: dear|excell
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e2af07b89"
+item: "#item-893007bd4"
 unparsed: 
-line: 'Head: precedency|Entry: a|#item-e2af07b89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1868,1659,553,96/full/0/default.jpg
+line: 'Head: precious|Entry: dear|Entry: excell|#item-893007bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1842,1745,743,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440322576
-order: '3117'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1868,1659,553,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1868,1659,553,96/full/0/default.jpg
-label: precedency
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440455317
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1842,1745,743,125/150,/0/default.jpg
+label: precious
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0365'
 layout: index_item
 collection: index4
 ---

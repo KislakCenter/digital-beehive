@@ -2,29 +2,27 @@
 pid: index_0073
 volume: Volume 3
 image_number: '7'
-head: age. seculum
-entry: 1848 [PAGE_MISSING]
+head: age
+entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_2782/'>old</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cb15ae533"
+item: "#item-a555e64bb"
 unparsed: 
-line: 'Head: age. seculum|Entry: 1848 [PAGE_MISSING]|#item-cb15ae533'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2779,587,95/full/0/default.jpg
+line: 'Head: age|See: old|#item-a555e64bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2816,342,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767185673
-order: '73'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2779,587,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2779,587,95/full/0/default.jpg
-label: age. seculum
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767293061
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2816,342,116/150,/0/default.jpg
+label: age
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0072'
 layout: index_item
 collection: index1
 ---

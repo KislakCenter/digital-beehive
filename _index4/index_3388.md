@@ -2,29 +2,27 @@
 pid: index_3388
 volume: Volume 3
 image_number: '39'
-head: resistance
-entry: "<a href='/digital-beehive/alpha4/alpha_0790/'>a</a>"
+head: resolution
+entry: "<a href='/digital-beehive/num2/num_0545/'>441 [Resolutions]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5872e4d97"
+item: "#item-e852969e1"
 unparsed: 
-line: 'Head: resistance|Entry: a|#item-5872e4d97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1065,553,155/full/0/default.jpg
+line: 'Head: resolution|Entry: 441 [Resolutions]|#item-e852969e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1476,1189,614,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229131277
-order: '3388'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1065,553,155/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1065,553,155/full/0/default.jpg
-label: resistance
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229155628
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1476,1189,614,140/150,/0/default.jpg
+label: resolution
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0635'
 layout: index_item
 collection: index4
 ---

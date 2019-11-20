@@ -1,30 +1,30 @@
 ---
 pid: alpha_0794
 volume: Volume 2
-image_number: '48'
+image_number: '47'
 head: 
-entry: Book of Revelations
-topic: Book of Revelations
+entry: Reputation
+topic: Reputation
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3403/'>book of revelations</a>"
-insertion_xref: 
-insertion: 
-item: "#item-03ec4de3c"
+xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|Esteem|<a href='/digital-beehive/alpha4/alpha_0789/'>Renown</a>|829
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3382/'>reputation</a>"
+item: "#item-e761d6029"
 unparsed: 
-line: 'Entry: Book of Revelations|Topic: Book of Revelations|Index: book of revelations|#item-03ec4de3c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/820,1068,2970,344/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565105765022
-order: '794'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/820,1068,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/820,1068,2970,344/full/0/default.jpg
-label: Book of Revelations
-location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+line: 'Entry: Reputation|Topic: Reputation|Xref: Authority|Xref: Esteem|Xref: Renown|Xref:
+  829 [PAGE_MISSING]|Index: reputation|#item-e761d6029'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,3041,2942,499/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528821383857
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,3041,600,180/250,/0/default.jpg
+label: Reputation
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '146'
 layout: alpha_item
 collection: alpha4
 ---

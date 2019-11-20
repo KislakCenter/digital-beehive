@@ -2,29 +2,30 @@
 pid: index_0322
 volume: Volume 3
 image_number: '9'
-head: a beau
-entry: "<a href='/digital-beehive/toc/toc2_437/'>4851 [WORD_MISSING]</a>"
+head: beauty
+entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/toc/toc2_140/'>616
+  [Beauty]</a>|<a href='/digital-beehive/toc/toc2_316/'>1609 [Beauty]</a>|<a href='/digital-beehive/toc/toc2_431/'>4814
+  [Beauty]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-705c20365"
+item: "#item-fae0d52db"
 unparsed: 
-line: 'Head: a beau|Entry: 4851 [WORD_MISSING]|#item-705c20365'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1597,2119,380,72/full/0/default.jpg
+line: 'Head: beauty|Entry: a|Entry: 616 [Beauty]|Entry: 1609 [Beauty]|Entry: 4814
+  [Beauty]|#item-fae0d52db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891961242
-order: '322'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1597,2119,380,72/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1597,2119,380,72/full/0/default.jpg
-label: a beau
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018471113
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/150,/0/default.jpg
+label: beauty
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0321'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_4556
 volume: Volume 3
 image_number: '52'
-head: King William
-entry: "<a href='/digital-beehive/toc/toc2_344/'>1781 [King William]</a>"
+head: willow
+entry: "<a href='/digital-beehive/toc/toc2_152/'>684 [Willow]</a>"
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2a0bb3c50"
+item: "#item-24c6cfe96"
 unparsed: 
-line: 'Head: King William|Entry: 1781 [King William]|#item-2a0bb3c50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/full/0/default.jpg
+line: 'Head: willow|Page: p.32 [Image 1.92]|Entry: 684 [Willow]|#item-24c6cfe96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1797,3114,550,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972579086
-order: '4556'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/full/0/default.jpg
-label: King William
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972628180
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1797,3114,550,141/150,/0/default.jpg
+label: willow
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '523'
 layout: index_item
 collection: index5
 ---

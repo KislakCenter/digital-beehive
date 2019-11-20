@@ -2,29 +2,28 @@
 pid: index_3284
 volume: Volume 3
 image_number: '38'
-head: rain
-entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>|<a href='/digital-beehive/toc/toc2_312/'>1588</a>"
+head: rainbow
+entry: "<a href='/digital-beehive/alpha4/alpha_0771/'>a</a>|<a href='/digital-beehive/toc/toc2_312/'>1590
+  [Rainbow]</a>"
 topic: 
 first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-783b3f148"
+item: "#item-70a9c0fd8"
 unparsed: 
-line: 'Head: rain|Page: p.29 [Image 1.89]|Entry: a|Entry: 1588|#item-783b3f148'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,3392,582,152/full/0/default.jpg
+line: 'Head: rainbow|Page: p.26 [Image 1.86]|Entry: a|Entry: 1590 [Rainbow]|#item-70a9c0fd8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3497,652,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459687910
-order: '3284'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,3392,582,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1178,3392,582,152/full/0/default.jpg
-label: rain
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459785536
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3497,652,134/150,/0/default.jpg
+label: rainbow
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0531'
 layout: index_item
 collection: index4
 ---

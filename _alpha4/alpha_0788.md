@@ -3,29 +3,27 @@ pid: alpha_0788
 volume: Volume 2
 image_number: '47'
 head: 
-entry: Reputation
-topic: Reputation
+entry: Remission of Sins
+topic: Remission of Sins
 first_letter: R
-xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|Esteem|<a href='/digital-beehive/alpha4/alpha_0783/'>Renown</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3383/'>reputation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e761d6029"
+xref: "<a href='/digital-beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3358/'>remission</a>"
+item: "#item-891f6fb74"
 unparsed: 
-line: 'Entry: Reputation|Topic: Reputation|Xref: Authority|Xref: Esteem|Xref: Renown|Xref:
-  829 [PAGE_MISSING]|Index: reputation|#item-e761d6029'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,3041,2942,499/full/0/default.jpg
+line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: 1363 [Pardon and Remission
+  of Sins]|Index: remission|#item-891f6fb74'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,3082,442/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528821383857
-order: '788'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,3041,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,3041,2942,499/full/0/default.jpg
-label: Reputation
+annotation_uri: http://dev.llgc.org.uk/annotation/1565105158372
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,600,180/250,/0/default.jpg
+label: Remission of Sins
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '141'
 layout: alpha_item
 collection: alpha4
 ---

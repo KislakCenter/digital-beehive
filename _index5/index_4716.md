@@ -2,29 +2,27 @@
 pid: index_4716
 volume: Volume 3
 image_number: '54'
-head: Em (or Im)bossing
-entry: 4537 [PAGE_MISSING]
+head: Pan
+entry: 4525 [PAGE_MISSING]
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:47.]"
-item: "#item-d15a79c68"
-unparsed: 
-line: 'Type: Index|Insertion: [:47.]|Head: Em (or Im)bossing|Entry: 4537 [PAGE_MISSING]|#item-d15a79c68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/full/0/default.jpg
+item: "#item-cb86f577c"
+unparsed: Type Index|Insertion [:48.]
+line: 'Type: Index|Insertion: [:48.]|Head: Pan|Entry: 4525 [PAGE_MISSING]|#item-cb86f577c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1774,302,563,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560956032552
-order: '4716'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/full/0/default.jpg
-label: Em (or Im)bossing
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956107621
+insertion: "[:48.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1774,302,563,152/150,/0/default.jpg
+label: Pan
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '683'
 layout: index_item
 collection: index5
 ---

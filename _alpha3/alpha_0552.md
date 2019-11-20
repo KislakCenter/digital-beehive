@@ -3,28 +3,26 @@ pid: alpha_0552
 volume: Volume 2
 image_number: '29'
 head: 
-entry: Love of Christ
-topic: Love of Christ
+entry: Lot
+topic: Lot
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2341/'>love of Christ</a>"
-insertion_xref: 
-insertion: 
-item: "#item-554daa050"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2337/'>lot</a>"
+item: "#item-73a54f91e"
 unparsed: 
-line: 'Entry: Love of Christ|Topic: Love of Christ|Index: love of Christ|#item-554daa050'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,3028,682/full/0/default.jpg
+line: 'Entry: Lot|Topic: Lot|Index: lot|#item-73a54f91e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/335,2029,3019,352/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770839235
-order: '552'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,3028,682/full/0/default.jpg
-label: Love of Christ
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770560497
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/335,2029,600,180/250,/0/default.jpg
+label: Lot
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
+num_match: 
+order: '108'
 layout: alpha_item
 collection: alpha3
 ---

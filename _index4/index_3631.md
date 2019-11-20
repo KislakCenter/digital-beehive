@@ -2,29 +2,27 @@
 pid: index_3631
 volume: Volume 3
 image_number: '42'
-head: Self wise
-entry: 1842 [PAGE_MISSING]
+head: Selling. to sell
+entry: "<a href='/digital-beehive/toc/toc2_138/'>604 [to Sell]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3102a5a7e"
+item: "#item-7b2a60320"
 unparsed: 
-line: 'Head: Self wise|Entry: 1842 [PAGE_MISSING]|#item-3102a5a7e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/374,2655,521,96/full/0/default.jpg
+line: 'Head: Selling. to sell|Entry: 604 [to Sell]|#item-7b2a60320'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/337,2712,559,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244989914
-order: '3631'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/374,2655,521,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/374,2655,521,96/full/0/default.jpg
-label: Self wise
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245015862
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/337,2712,559,132/150,/0/default.jpg
+label: Selling. to sell
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0878'
 layout: index_item
 collection: index4
 ---

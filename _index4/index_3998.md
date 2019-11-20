@@ -2,29 +2,27 @@
 pid: index_3998
 volume: Volume 3
 image_number: '46'
-head: surfeits
-entry: "<a href='/digital-beehive/toc/toc2_136/'>597 [Surfeits]</a>"
+head: surety or bail
+entry: 4509 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c0a64cbfd"
+item: "#item-8b5bbdd82"
 unparsed: 
-line: 'Head: surfeits|Entry: 597 [Surfeits]|#item-c0a64cbfd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/464,2777,399,117/full/0/default.jpg
+line: 'Head: surety or bail|Entry: 4509 [PAGE_MISSING]|#item-8b5bbdd82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,2861,633,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530816690825
-order: '3998'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/464,2777,399,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/464,2777,399,117/full/0/default.jpg
-label: surfeits
+annotation_uri: http://dev.llgc.org.uk/annotation/1530817026010
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,2861,633,107/150,/0/default.jpg
+label: surety or bail
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1244'
 layout: index_item
 collection: index4
 ---

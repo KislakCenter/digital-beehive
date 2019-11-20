@@ -3,28 +3,26 @@ pid: alpha_0488
 volume: Volume 2
 image_number: '24'
 head: 
-entry: Island
-topic: Island
+entry: Joy
+topic: Joy
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2123/'>island</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a2deb4cdb"
+xref: 832 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index3/index_2112/'>joy</a>"
+item: "#item-63770b4cb"
 unparsed: 
-line: 'Entry: Island|Topic: Island|Index: island|#item-a2deb4cdb'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,3006,327/full/0/default.jpg
+line: 'Entry: Joy|Topic: Joy|Xref: 832 [PAGE_MISSING]|Index: joy|#item-63770b4cb'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/704,2591,3028,710/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761925565
-order: '488'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,3006,327/full/0/default.jpg
-label: Island
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761847860
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/704,2591,600,180/250,/0/default.jpg
+label: Joy
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+num_match: 
+order: '044'
 layout: alpha_item
 collection: alpha3
 ---

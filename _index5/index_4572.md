@@ -2,30 +2,27 @@
 pid: index_4572
 volume: Volume 3
 image_number: '53'
-head: wit. witticism
-entry: "<a href='/digital-beehive/toc/toc2_093/'>313 [Wit]</a>|<a href='/digital-beehive/toc/toc2_413/'>2383
-  [Wit]</a>"
+head: John de Wit
+entry: "<a href='/digital-beehive/toc/toc2_263/'>1349 [John de Wit]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-43eb9c689"
+item: "#item-338b24a8a"
 unparsed: 
-line: 'Head: wit. witticism|Entry: 313 [Wit]|Entry: 2383 [Wit]|#item-43eb9c689'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/full/0/default.jpg
+line: 'Head: John de Wit|Entry: 1349 [John de Wit]|#item-338b24a8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792021065
-order: '4572'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/full/0/default.jpg
-label: wit. witticism
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792112733
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/150,/0/default.jpg
+label: John de Wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '539'
 layout: index_item
 collection: index5
 ---

@@ -2,32 +2,27 @@
 pid: index_3420
 volume: Volume 3
 image_number: '40'
-head: riches
-entry: "<a href='/digital-beehive/alpha4/alpha_0799/'>a</a>|854 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_282/'>1444 [Riches]</a>|<a href='/digital-beehive/toc/toc2_414/'>2392
-  [Riches]</a>"
+head: rickets
+entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Rickets]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3935c5596"
+item: "#item-c8b27897d"
 unparsed: 
-line: 'Head: riches|Entry: a|Entry: 854 [PAGE_MISSING]|Entry: 1444 [Riches]|Entry:
-  2392 [Riches]|#item-3935c5596'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/full/0/default.jpg
+line: 'Head: rickets|Entry: 681 [Rickets]|#item-c8b27897d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,1804,466,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231799274
-order: '3420'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/full/0/default.jpg
-label: riches
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231842670
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,1804,466,138/150,/0/default.jpg
+label: rickets
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0667'
 layout: index_item
 collection: index4
 ---

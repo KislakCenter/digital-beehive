@@ -2,29 +2,27 @@
 pid: index_0097
 volume: Volume 3
 image_number: '7'
-head: allegory
-entry: "<a href='/digital-beehive/toc/toc2_086/'>265 [Metaphor or figurative Speech]</a>"
+head: all heal
+entry: "<a href='/digital-beehive/toc/toc2_422/'>4450 [Panacea or All-heal]</a>"
 topic: 
 first_letter: A
-xref: 
-see: "<a href='/digital-beehive/index3/index_2501/'>metaphor</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-05a2fdfb9"
+item: "#item-411744d16"
 unparsed: 
-line: 'Head: allegory|See: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-05a2fdfb9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/full/0/default.jpg
+line: 'Head: all heal|Entry: 4450 [Panacea or All-heal]|#item-411744d16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,1542,510,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769500558
-order: '97'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/full/0/default.jpg
-label: allegory
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769550033
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,1542,510,117/150,/0/default.jpg
+label: all heal
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0096'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_3141
 volume: Volume 3
 image_number: '37'
-head: presumption
-entry: "<a href='/digital-beehive/toc/toc2_062/'>57 [Presumption]</a>"
+head: the pretender
+entry: "<a href='/digital-beehive/toc/toc2_384/'>2186 [the Pretender James 3d]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-65694ecca"
+item: "#item-c870dc9ee"
 unparsed: 
-line: 'Head: presumption|Entry: 57 [Presumption]|#item-65694ecca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/full/0/default.jpg
+line: 'Head: the pretender|Entry: 2186 [the Pretender James 3d]|#item-c870dc9ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866178483
-order: '3141'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/83,993,572,116/full/0/default.jpg
-label: presumption
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866206145
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/150,/0/default.jpg
+label: the pretender
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0389'
 layout: index_item
 collection: index4
 ---

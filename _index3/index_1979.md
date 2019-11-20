@@ -2,29 +2,27 @@
 pid: index_1979
 volume: Volume 3
 image_number: '25'
-head: imprimis
-entry: a
+head: improp Expressions
+entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Catachresis]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: "<a href='/digital-beehive/index2/index_1459/'>first</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c6f4d5e90"
+item: "#item-5c2766b3a"
 unparsed: 
-line: 'Head: imprimis|See: first|Entry: a|#item-c6f4d5e90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,2532,589,140/full/0/default.jpg
+line: 'Head: improp Expressions|Entry: 725 [Catachresis]|#item-5c2766b3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/842,2737,662,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667415347
-order: '1979'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,2532,589,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,2532,589,140/full/0/default.jpg
-label: imprimis
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667640693
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/842,2737,662,152/150,/0/default.jpg
+label: improp Expressions
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '060'
 layout: index_item
 collection: index3
 ---

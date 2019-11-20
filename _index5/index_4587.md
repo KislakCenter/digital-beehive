@@ -2,29 +2,28 @@
 pid: index_4587
 volume: Volume 3
 image_number: '53'
-head: wolf
-entry: "<a href='/digital-beehive/alpha5/alpha_1033/'>a</a>"
+head: brave woman
+entry: "<a href='/digital-beehive/toc/toc2_289/'>1477 [Brave Woman]</a>|<a href='/digital-beehive/toc/toc2_393/'>2250
+  [Brave Woman]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2505ee998"
+item: "#item-478240125"
 unparsed: 
-line: 'Head: wolf|Page: p.34 [Image 1.94]|Entry: a|#item-2505ee998'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/full/0/default.jpg
+line: 'Head: brave woman|Entry: 1477 [Brave Woman]|Entry: 2250 [Brave Woman]|#item-478240125'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/168,3206,654,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793381069
-order: '4587'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/full/0/default.jpg
-label: wolf
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793568082
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/168,3206,654,118/150,/0/default.jpg
+label: brave woman
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '554'
 layout: index_item
 collection: index5
 ---

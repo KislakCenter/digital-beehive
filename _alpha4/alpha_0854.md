@@ -1,30 +1,30 @@
 ---
 pid: alpha_0854
 volume: Volume 2
-image_number: '52'
+image_number: '51'
 head: 
-entry: Shadow
-topic: Shadow
+entry: Self profit
+topic: Self profit
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_145/'>641 [the Shadow]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3656/'>shadow</a>"
-insertion_xref: 
-insertion: 
-item: "#item-34247929a"
+xref: "<a href='/digital-beehive/alpha3/alpha_0563/'>Lucre</a>|<a href='/digital-beehive/toc/toc2_113/'>455
+  [self-profit]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3626/'>Self profit</a>"
+item: "#item-0e15b046c"
 unparsed: 
-line: 'Entry: Shadow|Topic: Shadow|Xref: 641 [the Shadow]|Index: shadow|#item-34247929a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,2967,398/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803271462
-order: '854'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,2967,398/full/0/default.jpg
-label: Shadow
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+line: 'Entry: Self profit|Topic: Self profit|Xref: Lucre|Xref: 455 [self-profit]|Index:
+  Self profit|#item-0e15b046c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,3045,418/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530201360793
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,600,180/250,/0/default.jpg
+label: Self profit
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+num_match: 
+order: '206'
 layout: alpha_item
 collection: alpha4
 ---

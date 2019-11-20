@@ -1,30 +1,30 @@
 ---
 pid: alpha_0942
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Thouing
-topic: Thouing
+entry: Temptation
+topic: Temptation
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_080/'>217 [Thouing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4129/'>thouing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1f5904f4"
+xref: "<a href='/digital-beehive/alpha5/alpha_0943/'>Temptation, continued</a>|Instigation|Provocation|<a
+  href='/digital-beehive/num1/num_0216/'>206 [Temptation]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
+item: "#item-d5b751b3a"
 unparsed: 
-line: 'Entry: Thouing|Topic: Thouing|Xref: 217 [Thouing]|Index: thouing|#item-1f5904f4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,2986,549/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113643685
-order: '942'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,3041,2986,549/full/0/default.jpg
-label: Thouing
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Temptation|Topic: Temptation|Xref: Temptation, continued|Xref: Instigation|Xref:
+  Provocation|Xref: 206 [Temptation]|Index: temptation|#item-d5b751b3a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,3154,565/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528921727879
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,600,180/250,/0/default.jpg
+label: Temptation
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '007'
 layout: alpha_item
 collection: alpha5
 ---

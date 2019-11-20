@@ -3,28 +3,27 @@ pid: alpha_0705
 volume: Volume 2
 image_number: '40'
 head: 
-entry: Planets
-topic: Planets
+entry: Picture
+topic: Picture
 first_letter: P
-xref: "<a href='/digital-beehive/toc/toc2_276/'>1414 [Seven Planets]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3034/'>planets</a>"
-insertion_xref: 
-insertion: 
-item: "#item-eb185b5f6"
+xref: painting|4516 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_2998/'>picture</a>"
+item: "#item-4aea507cf"
 unparsed: 
-line: 'Entry: Planets|Topic: Planets|Xref: 1414 [Seven Planets]|Index: planets| #item-eb185b5f6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,4575,2974,512/full/0/default.jpg
+line: 'Entry: Picture|Topic: Picture|Xref: painting|Xref: 4516 [PAGE_MISSING]|Index:
+  picture|#item-4aea507cf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,2958,468/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528334951921
-order: '705'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,4575,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,4575,2974,512/full/0/default.jpg
-label: Planets
+annotation_uri: http://dev.llgc.org.uk/annotation/1528333852684
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,600,180/250,/0/default.jpg
+label: Picture
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '058'
 layout: alpha_item
 collection: alpha4
 ---

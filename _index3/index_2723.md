@@ -2,30 +2,27 @@
 pid: index_2723
 volume: Volume 3
 image_number: '32'
-head: noise
-entry: "<a href='/digital-beehive/toc/toc2_071/'>148 [Noise]</a>|<a href='/digital-beehive/toc/toc2_322/'>1640
-  [Sound]</a>|<a href='/digital-beehive/toc/toc2_362/'>1971 [Noise]</a>"
+head: noisom
+entry: "<a href='/digital-beehive/toc/toc2_148/'>662 [Irksomness]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8810fad6f"
+item: "#item-3601399b7"
 unparsed: 
-line: 'Head: noise|Entry: 148 [Noise]|Entry: 1640 [Sound]|Entry: 1971 [Noise]|#item-8810fad6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/full/0/default.jpg
+line: 'Head: noisom|Entry: 662 [Irksomness]|#item-3601399b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448639600
-order: '2723'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/full/0/default.jpg
-label: noise
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448711086
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/150,/0/default.jpg
+label: noisom
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '803'
 layout: index_item
 collection: index3
 ---

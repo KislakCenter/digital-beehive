@@ -2,29 +2,27 @@
 pid: index_3300
 volume: Volume 3
 image_number: '38'
-head: rattle
-entry: 4727 [PAGE_MISSING]
+head: to ratify
+entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Consent]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-807f957dc"
+item: "#item-6e80b0927"
 unparsed: 
-line: 'Head: rattle|Entry: 4727 [PAGE_MISSING]|#item-807f957dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1842,1225,504,103/full/0/default.jpg
+line: 'Head: to ratify|Entry: 649 [Consent]|#item-6e80b0927'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1871,1261,470,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460822522
-order: '3300'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1842,1225,504,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1842,1225,504,103/full/0/default.jpg
-label: rattle
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460859596
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1871,1261,470,145/150,/0/default.jpg
+label: to ratify
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0547'
 layout: index_item
 collection: index4
 ---

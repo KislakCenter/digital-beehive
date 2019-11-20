@@ -2,29 +2,27 @@
 pid: index_4514
 volume: Volume 3
 image_number: '52'
-head: weighty
-entry: "<a href='/digital-beehive/toc/toc2_122/'>510 [Concern]</a>"
+head: Welch
+entry: "<a href='/digital-beehive/num2/num_0560/'>451 [Welsh or Old Britan]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e55f99883"
+item: "#item-6cbb7e27b"
 unparsed: 
-line: 'Head: weighty|Entry: 510 [Concern]|#item-e55f99883'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1101,843,363,146/full/0/default.jpg
+line: 'Head: Welch|Entry: 451 [Welsh or Old Britan]|#item-6cbb7e27b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,951,373,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968525347
-order: '4514'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1101,843,363,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1101,843,363,146/full/0/default.jpg
-label: weighty
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968632145
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,951,373,118/150,/0/default.jpg
+label: Welch
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '481'
 layout: index_item
 collection: index5
 ---

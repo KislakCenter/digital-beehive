@@ -2,29 +2,27 @@
 pid: index_2887
 volume: Volume 3
 image_number: '34'
-head: paroxysm
-entry: "<a href='/digital-beehive/toc/toc2_377/'>2118 [Paroxysm]</a>"
+head: paronomasia
+entry: "<a href='/digital-beehive/toc/toc2_434/'>4835 [Paronomasia]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8717a59d6"
+item: "#item-044f9e31c"
 unparsed: 
-line: 'Head: paroxysm|Entry: 2118 [Paroxysm]|#item-8717a59d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1146,2206,578,156/full/0/default.jpg
+line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494352740
-order: '2887'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1146,2206,578,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1146,2206,578,156/full/0/default.jpg
-label: paroxysm
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/150,/0/default.jpg
+label: paronomasia
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0135'
 layout: index_item
 collection: index4
 ---

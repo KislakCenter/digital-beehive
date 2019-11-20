@@ -6,25 +6,23 @@ head: Dominica
 entry: "<a href='/digital-beehive/toc/toc2_297/'>1513 [Dominica]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-69265ce06"
 unparsed: 
 line: 'Head: Dominica|Entry: 1513 [Dominica]|#item-69265ce06'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,3488,557,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560367445400
-order: '1131'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,3488,557,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,3488,557,148/full/0/default.jpg
 label: Dominica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1128'
 layout: index_item
 collection: index1
 ---

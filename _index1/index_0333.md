@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0072/'>a</a>|<a href='/digital-be
   [Beer]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-d665de190"
 unparsed: 
 line: 'Head: beer|Entry: a|Entry: 2137 [Beer]|#item-d665de190'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2890,435,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531145882038
-order: '333'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2890,435,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2890,435,133/full/0/default.jpg
 label: beer
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0332'
 layout: index_item
 collection: index1
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0235
 volume: Volume 1
-image_number: '450'
+image_number: '449'
 head: 
-entry: Diligence
-topic: Diligence
+entry: Difficulty
+topic: Difficulty
 first_letter: D
-xref: "<a href='/digital-beehive/alpha3/alpha_0504/'>Labour</a>|<a href='/digital-beehive/alpha3/alpha_0521/'>Laziness</a>|Watchfulness|<a
-  href='/digital-beehive/toc/toc2_172/'>924 [Diligence]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1053/'>diligence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6419df951"
+xref: "<a href='/digital-beehive/alpha2/alpha_0409/'>Heaviness</a>|<a href='/digital-beehive/num1/num_0103/'>100
+  [Difficulty]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1049/'>difficulty</a>"
+item: "#item-284e23a0c"
 unparsed: 
-line: 'Entry: Diligence|Topic: Diligence|Xref: Labour|Xref: Laziness|Xref: Watchfulness|Xref:
-  924 [Diligence]|Index: diligence|#item-6419df951'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,2945,631/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174453045
-order: '235'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,2945,631/full/0/default.jpg
-label: Diligence
-location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+line: 'Entry: Difficulty|Topic: Difficulty|Xref: Heaviness|Xref: 100 [Difficulty]|Index:
+  difficulty|#item-284e23a0c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,3016,239/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923858340
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,600,180/250,/0/default.jpg
+label: Difficulty
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+num_match: 
+order: '234'
 layout: alpha_item
 collection: alpha1
 ---

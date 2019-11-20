@@ -2,31 +2,27 @@
 pid: index_0839
 volume: Volume 3
 image_number: '14'
-head: conviction
-entry: "<a href='/digital-beehive/toc/toc2_100/'>362 [Conviction]</a>|<a href='/digital-beehive/toc/toc2_335/'>1706
-  [Convicting]</a>|<a href='/digital-beehive/toc/toc2_369/'>2039 [Conviction]</a>"
+head: convoy
+entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [To Convoy]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c4e8535cf"
+item: "#item-5314bee1a"
 unparsed: 
-line: 'Head: conviction|Entry: 362 [Conviction]|Entry: 1706 [Convicting]|Entry: 2039
-  [Conviction]|#item-c4e8535cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/full/0/default.jpg
+line: 'Head: convoy|Entry: 2267 [To Convoy]|#item-5314bee1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1858,2057,426,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559700119
-order: '839'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1839,1954,703,152/full/0/default.jpg
-label: conviction
+annotation_uri: http://dev.llgc.org.uk/annotation/1565632390252
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1858,2057,426,140/150,/0/default.jpg
+label: convoy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0837'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_0591
 volume: Volume 3
 image_number: '12'
-head: chaldees
-entry: "<a href='/digital-beehive/toc/toc2_351/'>1896 [Chaldees]</a>"
+head: chamber
+entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [Chamber]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-69572c407"
+item: "#item-49447c7ca"
 unparsed: 
-line: 'Head: chaldees|Entry: 1896 [Chaldees]|#item-69572c407'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1132,2408,426,90/full/0/default.jpg
+line: 'Head: chamber|Entry: 873 [Chamber]|#item-49447c7ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,2450,459,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100640682
-order: '591'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1132,2408,426,90/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1132,2408,426,90/full/0/default.jpg
-label: chaldees
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100787131
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,2450,459,114/150,/0/default.jpg
+label: chamber
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0590'
 layout: index_item
 collection: index1
 ---

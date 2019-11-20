@@ -2,29 +2,28 @@
 pid: index_3522
 volume: Volume 3
 image_number: '41'
-head: satisfaction
-entry: "<a href='/digital-beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
+head: Satyre
+entry: "<a href='/digital-beehive/alpha4/alpha_0830/'>a</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
+  [Satyr]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a662a885"
+item: "#item-b70c8e91a"
 unparsed: 
-line: 'Head: satisfaction|Entry: 547 [Satisfaction]|#item-7a662a885'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/full/0/default.jpg
+line: 'Head: Satyre|Entry: a|Entry: 1384 [Satyr]|#item-b70c8e91a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,2041,553,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239121796
-order: '3522'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/full/0/default.jpg
-label: satisfaction
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239197288
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,2041,553,130/150,/0/default.jpg
+label: Satyre
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0769'
 layout: index_item
 collection: index4
 ---

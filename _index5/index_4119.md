@@ -2,29 +2,27 @@
 pid: index_4119
 volume: Volume 3
 image_number: '47'
-head: I think
-entry: 4743 [PAGE_MISSING]
+head: thirst
+entry: "<a href='/digital-beehive/alpha5/alpha_0950/'>a</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bc55a7e2e"
+item: "#item-37735fce9"
 unparsed: 
-line: 'Head: I think|Entry: 4743 [PAGE_MISSING]|#item-bc55a7e2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/897,1847,462,98/full/0/default.jpg
+line: 'Head: thirst|Entry: a|#item-37735fce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/919,1890,352,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532721102534
-order: '4119'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/897,1847,462,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/897,1847,462,98/full/0/default.jpg
-label: I think
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517315139
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/919,1890,352,101/150,/0/default.jpg
+label: thirst
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '086'
 layout: index_item
 collection: index5
 ---

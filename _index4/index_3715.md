@@ -2,29 +2,27 @@
 pid: index_3715
 volume: Volume 3
 image_number: '43'
-head: simony
-entry: "<a href='/digital-beehive/alpha4/alpha_0867/'>a</a>"
+head: simples
+entry: "<a href='/digital-beehive/toc/toc2_154/'>695 [Simples]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-13b708162"
+item: "#item-f95d97397"
 unparsed: 
-line: 'Head: simony|Entry: a|#item-13b708162'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/172,2204,415,135/full/0/default.jpg
+line: 'Head: simples|Entry: 695 [Simples]|#item-f95d97397'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,2328,457,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582329163
-order: '3715'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/172,2204,415,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/172,2204,415,135/full/0/default.jpg
-label: simony
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582354044
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,2328,457,144/150,/0/default.jpg
+label: simples
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0962'
 layout: index_item
 collection: index4
 ---

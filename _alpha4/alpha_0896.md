@@ -1,30 +1,29 @@
 ---
 pid: alpha_0896
 volume: Volume 2
-image_number: '55'
+image_number: '54'
 head: 
-entry: Spring
-topic: Spring
+entry: Soul
+topic: Soul
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3864/'>spring. brun[n]</a>"
-insertion_xref: 
-insertion: 
-item: "#item-df12bfd87"
+xref: "<a href='/digital-beehive/alpha3/alpha_0594/'>mind</a>|<a href='/digital-beehive/toc/toc2_121/'>507
+  [Death]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3808/'>soul</a>"
+item: "#item-7a3a1062e"
 unparsed: 
-line: 'Entry: Spring|Topic: Spring|Index: spring. brun[n]|#item-df12bfd87'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,1122,3082,485/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459711177
-order: '896'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,1122,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,1122,3082,485/full/0/default.jpg
-label: Spring
-location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+line: 'Entry: Soul|Topic: Soul|Xref: mind|Xref: 507 [Death]|Index: soul|#item-7a3a1062e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,2609,2898,752/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532449451158
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,2609,600,180/250,/0/default.jpg
+label: Soul
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+num_match: 
+order: '248'
 layout: alpha_item
 collection: alpha4
 ---

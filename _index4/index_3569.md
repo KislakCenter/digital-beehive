@@ -2,29 +2,28 @@
 pid: index_3569
 volume: Volume 3
 image_number: '41'
-head: scurvy
-entry: "<a href='/digital-beehive/toc/toc2_136/'>593 [Scurvy]</a>"
+head: "[:2.]"
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1fae64a9f"
-unparsed: 
-line: 'Head: scurvy|Entry: 593 [Scurvy]|#item-1fae64a9f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,3410,443,147/full/0/default.jpg
+item: "#item-1752b8fad"
+unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+line: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241871201
-order: '3569'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,3410,443,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,3410,443,147/full/0/default.jpg
-label: scurvy
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277985463
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/150,/0/default.jpg
+label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
+order: '0816'
 layout: index_item
 collection: index4
 ---

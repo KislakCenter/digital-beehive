@@ -2,29 +2,27 @@
 pid: index_4228
 volume: Volume 3
 image_number: '48'
-head: treasure houses
-entry: 
+head: treasurer
+entry: "<a href='/digital-beehive/toc/toc2_327/'>1665 [Treasureship]</a>"
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_056/'>p.6 [Image 1.66]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-99fde9bb3"
+item: "#item-6126ce174"
 unparsed: 
-line: 'Head: treasure houses|Page: p.6 [Image 1.66]|#item-99fde9bb3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1785,320,502,156/full/0/default.jpg
+line: 'Head: treasurer|Entry: 1665 [Treasureship]|#item-6126ce174'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,449,492,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561490336099
-order: '4228'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1785,320,502,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1785,320,502,156/full/0/default.jpg
-label: treasure houses
+annotation_uri: http://dev.llgc.org.uk/annotation/1561490678940
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,449,492,125/150,/0/default.jpg
+label: treasurer
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '195'
 layout: index_item
 collection: index5
 ---

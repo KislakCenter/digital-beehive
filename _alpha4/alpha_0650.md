@@ -3,29 +3,26 @@ pid: alpha_0650
 volume: Volume 2
 image_number: '37'
 head: 
-entry: Oeconomy
-topic: Oeconomy
+entry: Obligation
+topic: Obligation
 first_letter: O
-xref: "<a href='/digital-beehive/alpha2/alpha_0439/'>Husbandry</a>"
-see: 
-page: p.379 [Image 2.202]
+page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2768/'>oeconomy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e72af992e"
+xref: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Obliga[ti]on]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2757/'>obligation</a>"
+item: "#item-3f76e6e63"
 unparsed: 
-line: 'Entry: Oeconomy|Topic: Oeconomy|Xref: Husbandry|Page: p.379 [Image 2.202]|Index:
-  oeconomy|#item-e72af992e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
+line: 'Entry: Obligation|Topic: Obligation|Xref: 1396 [Obliga[ti]on]|Index: obligation|#item-3f76e6e63'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/276,228,3031,454/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016740122
-order: '650'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
-label: Oeconomy
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016225765
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/276,228,600,180/250,/0/default.jpg
+label: Obligation
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '003'
 layout: alpha_item
 collection: alpha4
 ---

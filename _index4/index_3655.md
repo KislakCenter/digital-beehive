@@ -2,29 +2,28 @@
 pid: index_3655
 volume: Volume 3
 image_number: '42'
-head: sexton
-entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Sexton]</a>"
+head: shadow
+entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/toc/toc2_145/'>641
+  [the Shadow]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-feca44cf1"
+item: "#item-d57e2b20b"
 unparsed: 
-line: 'Head: sexton|Entry: 556 [Sexton]|#item-feca44cf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/full/0/default.jpg
+line: 'Head: shadow|Entry: a|Entry: 641 [the Shadow]|#item-d57e2b20b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574490872
-order: '3655'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/full/0/default.jpg
-label: sexton
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574655260
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/150,/0/default.jpg
+label: shadow
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0902'
 layout: index_item
 collection: index4
 ---

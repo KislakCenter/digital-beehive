@@ -3,30 +3,26 @@ pid: alpha_0431
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Hospital
-topic: Hospital
+entry: Horseman
+topic: Horseman
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/digital-beehive/toc/toc2_276/'>1415
-  [Hospita]</a>|Oprhan house"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1879/'>hospital</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8c5bbd263"
+xref: "<a href='/digital-beehive/toc/toc2_339/'>1750 [Horseman]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1876/'>horseman</a>"
+item: "#item-19152366a"
 unparsed: 
-line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospita]|Xref:
-  Oprhan house|Index: hospital|#item-8c5bbd263'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,3013,333/full/0/default.jpg
+line: 'Entry: Horseman|Topic: Horseman|Xref: 1750 [Horseman]|Index: horseman|#item-19152366a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/368,3622,3028,460/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733052074
-order: '431'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,3013,333/full/0/default.jpg
-label: Hospital
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757462867
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/368,3622,600,180/250,/0/default.jpg
+label: Horseman
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '162'
 layout: alpha_item
 collection: alpha2
 ---

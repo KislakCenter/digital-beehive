@@ -2,29 +2,27 @@
 pid: index_3988
 volume: Volume 3
 image_number: '46'
-head: superfluous
-entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Superfluous, Needless]</a>"
+head: superlative
+entry: "<a href='/digital-beehive/num2/num_0434/'>365 [Superlative]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-77bc0f5b3"
+item: "#item-81680bebb"
 unparsed: 
-line: 'Head: superfluous|Entry: 1245 [Superfluous, Needless]|#item-77bc0f5b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/458,1522,488,82/full/0/default.jpg
+line: 'Head: superlative|Entry: 365 [Superlative]|#item-81680bebb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530473383081
-order: '3988'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/458,1522,488,82/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/458,1522,488,82/full/0/default.jpg
-label: superfluous
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473602969
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/150,/0/default.jpg
+label: superlative
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1234'
 layout: index_item
 collection: index4
 ---

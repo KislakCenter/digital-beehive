@@ -2,29 +2,27 @@
 pid: index_0793
 volume: Volume 3
 image_number: '14'
-head: confusion
+head: congrat
 entry: 
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index1/index_1087/'>disorder</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-52ca7b716"
+item: "#item-1994cb60e"
 unparsed: 
-line: 'Head: confusion|See: disorder|#item-52ca7b716'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,346,713,147/full/0/default.jpg
+line: 'Head: congrat|See: gratulation|#item-1994cb60e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1168,472,768,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541087922
-order: '793'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,346,713,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,346,713,147/full/0/default.jpg
-label: confusion
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541109425
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1168,472,768,155/150,/0/default.jpg
+label: congrat
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0791'
 layout: index_item
 collection: index1
 ---

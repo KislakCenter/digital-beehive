@@ -2,32 +2,28 @@
 pid: index_2973
 volume: Volume 3
 image_number: '35'
-head: perverting
-entry: "<a href='/digital-beehive/toc/toc2_069/'>122 [Perverting]</a>|<a href='/digital-beehive/toc/toc2_088/'>279
-  [Perverting]</a>|<a href='/digital-beehive/toc/toc2_249/'>1278 [Perverting]</a>|<a
-  href='/digital-beehive/toc/toc2_419/'>2429 [Perverting]</a>"
+head: pestilence
+entry: "<a href='/digital-beehive/alpha4/alpha_0702/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1734
+  [Pestilence]</a>|<a href='/digital-beehive/toc/toc2_382/'>2170 [Pestilence]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3be3127fa"
+item: "#item-0ddce70bf"
 unparsed: 
-line: 'Head: perverting|Entry: 122 [Perverting]|Entry: 279 [Perverting]|Entry: 1278
-  [Perverting]|Entry: 2429 [Perverting]|#item-3be3127fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/823,1041,698,159/full/0/default.jpg
+line: 'Head: pestilence|Entry: a|Entry: 1734 [Pestilence]|Entry: 2170 [Pestilence]|#item-0ddce70bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/822,1165,718,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974206088
-order: '2973'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/823,1041,698,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/823,1041,698,159/full/0/default.jpg
-label: perverting
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974237170
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/822,1165,718,136/150,/0/default.jpg
+label: pestilence
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0221'
 layout: index_item
 collection: index4
 ---

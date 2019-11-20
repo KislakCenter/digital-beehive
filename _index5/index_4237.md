@@ -2,32 +2,27 @@
 pid: index_4237
 volume: Volume 3
 image_number: '48'
-head: tribulation
-entry: "<a href='/digital-beehive/toc/toc2_094/'>316 [Affliction and adversity]</a>|<a
-  href='/digital-beehive/toc/toc2_267/'>1367 [Afflictions]</a>|<a href='/digital-beehive/toc/toc2_263/'>1349
-  [Affliction]</a>"
+head: tribunal
+entry: 861 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-376f4b490"
+item: "#item-2353dc02e"
 unparsed: 
-line: 'Head: tribulation|Entry: 316 [Affliction and adversity]|Entry: 1367 [Afflictions]|Entry:
-  1349 [Affliction]|#item-376f4b490'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
+line: 'Head: tribunal|Entry: 861 [PAGE_MISSING]|#item-2353dc02e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1191,535,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088358286
-order: '4237'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
-label: tribulation
+annotation_uri: http://dev.llgc.org.uk/annotation/1562088530263
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1191,535,149/150,/0/default.jpg
+label: tribunal
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '204'
 layout: index_item
 collection: index5
 ---

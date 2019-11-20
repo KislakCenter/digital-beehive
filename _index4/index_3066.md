@@ -2,30 +2,28 @@
 pid: index_3066
 volume: Volume 3
 image_number: '36'
-head: politick
-entry: "<a href='/digital-beehive/alpha4/alpha_0710/'>a</a>|<a href='/digital-beehive/toc/toc2_186/'>1001
-  [Politick]</a>|<a href='/digital-beehive/toc/toc2_339/'>1744 [Politick]</a>"
+head: polygamy
+entry: "<a href='/digital-beehive/alpha4/alpha_0716/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>969
+  [Polygamy]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e67bd475c"
+item: "#item-1bb371d0f"
 unparsed: 
-line: 'Head: politick|Entry: a|Entry: 1001 [Politick]|Entry: 1744 [Politick]|#item-e67bd475c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/full/0/default.jpg
+line: 'Head: polygamy|Entry: a|Entry: 969 [Polygamy]|#item-1bb371d0f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438057776
-order: '3066'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/full/0/default.jpg
-label: politick
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438085290
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/150,/0/default.jpg
+label: polygamy
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0314'
 layout: index_item
 collection: index4
 ---

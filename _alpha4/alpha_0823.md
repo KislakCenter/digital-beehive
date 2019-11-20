@@ -1,31 +1,28 @@
 ---
 pid: alpha_0823
 volume: Volume 2
-image_number: '50'
+image_number: '49'
 head: 
-entry: Satyre
-topic: Satyre
+entry: Sage
+topic: Sage
 first_letter: S
-xref: "<a href='/digital-beehive/alpha5/alpha_1062/'>Zoilus</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
-  [Satyr]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3524/'>Satyre</a>"
-insertion_xref: 
-insertion: 
-item: "#item-407803ef9"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3491/'>sage</a>"
+item: "#item-e492cc2b6"
 unparsed: 
-line: 'Entry: Satyre|Topic: Satyre|Xref: Zoilus|Xref: 1384 [Satyr]|Index: Satyre|#item-407803ef9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922693577
-order: '823'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
-label: Satyre
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+line: 'Entry: Sage|Topic: Sage|Index: sage|#item-e492cc2b6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,4078,2995,195/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917237556
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,4078,600,180/250,/0/default.jpg
+label: Sage
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+num_match: 
+order: '175'
 layout: alpha_item
 collection: alpha4
 ---

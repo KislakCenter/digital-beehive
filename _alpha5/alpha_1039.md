@@ -1,30 +1,28 @@
 ---
 pid: alpha_1039
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: Wonder
-topic: Wonder
+entry: Winter
+topic: Winter
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_278/'>1423 [Wonder]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4601/'>wonder</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f80f8eafe"
+xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Winter]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4564/'>winter</a>"
+item: "#item-0221ad0ac"
 unparsed: 
-line: 'Entry: Wonder|Topic: Wonder|Xref: 1423 [Wonder]|Index: wonder|#item-f80f8eafe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,3021,359/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529594987696
-order: '1039'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,3021,359/full/0/default.jpg
-label: Wonder
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Winter|Topic: Winter|Xref: 1088 [Winter]|Index: winter|#item-0221ad0ac'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,3023,334/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529592204032
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/348,1343,600,180/250,/0/default.jpg
+label: Winter
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '104'
 layout: alpha_item
 collection: alpha5
 ---

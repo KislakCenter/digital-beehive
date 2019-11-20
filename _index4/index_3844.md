@@ -2,30 +2,27 @@
 pid: index_3844
 volume: Volume 3
 image_number: '44'
-head: to spin
-entry: "<a href='/digital-beehive/toc/toc2_157/'>706 [To Spin]</a>|<a href='/digital-beehive/toc/toc2_197/'>1019
-  [Spinning]</a>"
+head: spinster
+entry: "<a href='/digital-beehive/toc/toc2_286/'>1464 [Spinster]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-85f37a183"
+item: "#item-610e053bc"
 unparsed: 
-line: 'Head: to spin|Entry: 706 [To Spin]|Entry: 1019 [Spinning]|#item-85f37a183'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1087,2965,591,107/full/0/default.jpg
+line: 'Head: spinster|Entry: 1464 [Spinster]|#item-610e053bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942741499
-order: '3844'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1087,2965,591,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1087,2965,591,107/full/0/default.jpg
-label: to spin
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942794193
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/150,/0/default.jpg
+label: spinster
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1091'
 layout: index_item
 collection: index4
 ---

@@ -3,29 +3,27 @@ pid: alpha_0217
 volume: Volume 1
 image_number: '448'
 head: 
-entry: Deformity
-topic: Deformity
+entry: Defence
+topic: Defence
 first_letter: D
-xref: "<a href='/digital-beehive/alpha1/alpha_0069/'>Beauty</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0991/'>deformity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-15a565036"
+xref: "<a href='/digital-beehive/alpha4/alpha_0796/'>Resistance</a>|739 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
+item: "#item-7da8743c5"
 unparsed: 
-line: 'Entry: Deformity|Topic: Deformity|Xref: Beauty|Xref: 4571 [PAGE_MISSING]|Index:
-  deformity|#item-15a565036'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,2943,541/full/0/default.jpg
+line: 'Entry: Defence|Topic: Defence|Xref: Resistance|Xref: 739 [PAGE_MISSING]|Index:
+  defence|#item-7da8743c5'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,2958,538/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507576420785
-order: '217'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,2943,541/full/0/default.jpg
-label: Deformity
+annotation_uri: http://dev.llgc.org.uk/annotation/1507575909357
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,600,180/250,/0/default.jpg
+label: Defence
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+num_match: 
+order: '216'
 layout: alpha_item
 collection: alpha1
 ---

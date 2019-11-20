@@ -3,31 +3,27 @@ pid: alpha_0584
 volume: Volume 2
 image_number: '32'
 head: 
-entry: Mercy
-topic: Mercy
+entry: Member
+topic: Member
 first_letter: M
-xref: clemency|<a href='/digital-beehive/alpha1/alpha_0162/'>Compassion</a>|<a href='/digital-beehive/alpha2/alpha_0376/'>grace</a>|<a
-  href='/digital-beehive/alpha5/alpha_0996/'>unmercifull</a>|<a href='/digital-beehive/toc/toc2_097/'>338
-  [Mercy]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2490/'>mercy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6bfaf540f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0090/'>body</a>|<a href='/digital-beehive/toc/toc2_182/'>979
+  [Members]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2479/'>members</a>"
+item: "#item-8617f3d8e"
 unparsed: 
-line: 'Entry: Mercy|Topic: Mercy|Xref: clemency|Xref: Compassion|Xref: grace|Xref:
-  unmercifull|Xref: 338 [Mercy]|Index: mercy|#item-6bfaf540f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,2916,2950,483/full/0/default.jpg
+line: 'Entry: Member|Topic: Member|Xref: body|Xref: 979 [Members]|Index: members|#item-8617f3d8e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/757,1666,2973,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564774524368
-order: '584'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,2916,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,2916,2950,483/full/0/default.jpg
-label: Mercy
+annotation_uri: http://dev.llgc.org.uk/annotation/1564774016175
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/757,1666,600,180/250,/0/default.jpg
+label: Member
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+num_match: 
+order: '140'
 layout: alpha_item
 collection: alpha3
 ---

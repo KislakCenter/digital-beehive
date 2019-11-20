@@ -2,29 +2,27 @@
 pid: index_2983
 volume: Volume 3
 image_number: '35'
-head: phenomenon
-entry: "<a href='/digital-beehive/toc/toc2_319/'>1621 [Phenomena's or Apparitions]</a>"
+head: Philada
+entry: "<a href='/digital-beehive/toc/toc2_212/'>1094 [Philadelphia]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-008d95207"
+item: "#item-c916d825f"
 unparsed: 
-line: 'Head: phenomenon|Entry: 1621 [Phenomena''s or Apparitions]|#item-008d95207'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/854,2089,644,185/full/0/default.jpg
+line: 'Head: Philada|Entry: 1094 [Philadelphia]|#item-c916d825f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/812,2213,521,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974555506
-order: '2983'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/854,2089,644,185/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/854,2089,644,185/full/0/default.jpg
-label: phenomenon
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974598335
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/812,2213,521,171/150,/0/default.jpg
+label: Philada
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0231'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_4211
 volume: Volume 3
 image_number: '48'
-head: tragedy
-entry: 
+head: train
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Train]</a>"
 topic: 
 first_letter: T
-xref: 
-see: "<a href='/digital-beehive/index1/index_0730/'>comedy</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-49716a4e6"
+item: "#item-0601934cb"
 unparsed: 
-line: 'Head: tragedy|See: comedy|#item-49716a4e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1122,1515,549,167/full/0/default.jpg
+line: 'Head: train|Entry: 866 [Train]|#item-0601934cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1111,1671,401,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561485145194
-order: '4211'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1122,1515,549,167/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1122,1515,549,167/full/0/default.jpg
-label: tragedy
+annotation_uri: http://dev.llgc.org.uk/annotation/1561485417111
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1111,1671,401,123/150,/0/default.jpg
+label: train
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '178'
 layout: index_item
 collection: index5
 ---

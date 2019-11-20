@@ -2,29 +2,27 @@
 pid: index_2740
 volume: Volume 3
 image_number: '32'
-head: notorious
-entry: "<a href='/digital-beehive/toc/toc2_075/'>186 [Manifest]</a>"
+head: notwithstanding
+entry: "<a href='/digital-beehive/toc/toc2_181/'>973 [Not withstanding]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8bf9dabdf"
+item: "#item-123d3fd63"
 unparsed: 
-line: 'Head: notorious|Entry: 186 [Manifest]|#item-8bf9dabdf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1835,2896,484,95/full/0/default.jpg
+line: 'Head: notwithstanding|Entry: 973 [Not withstanding]|#item-123d3fd63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449796580
-order: '2740'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1835,2896,484,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1835,2896,484,95/full/0/default.jpg
-label: notorious
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449864539
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/150,/0/default.jpg
+label: notwithstanding
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '820'
 layout: index_item
 collection: index3
 ---

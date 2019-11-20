@@ -2,30 +2,28 @@
 pid: index_4605
 volume: Volume 3
 image_number: '53'
-head: word of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|<a href='/digital-beehive/toc/toc2_167/'>900
-  [Word of God]</a>|<a href='/digital-beehive/toc/toc2_371/'>2060 [Word of God]</a>"
+head: words
+entry: "<a href='/digital-beehive/alpha5/alpha_1052/'>a</a>|<a href='/digital-beehive/toc/toc2_264/'>1353
+  [Word]</a>|<a href='/digital-beehive/toc/toc2_371/'>2058 [Words]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b6aa9c7ed"
+item: "#item-d1329f6a2"
 unparsed: 
-line: 'Head: word of God|Entry: a|Entry: 900 [Word of God]|Entry: 2060 [Word of God]|#item-b6aa9c7ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/full/0/default.jpg
+line: 'Head: words|Entry: a|Entry: 1353 [Word]|Entry: 2058 [Words]|#item-d1329f6a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796471387
-order: '4605'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/full/0/default.jpg
-label: word of God
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796575329
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/150,/0/default.jpg
+label: words
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '572'
 layout: index_item
 collection: index5
 ---

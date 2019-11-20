@@ -2,31 +2,28 @@
 pid: index_3645
 volume: Volume 3
 image_number: '42'
-head: serpent
-entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Serpent]</a>|<a href='/digital-beehive/toc/toc2_302/'>1539
-  [Serpents]</a>|<a href='/digital-beehive/toc/toc2_377/'>2119 [Serpents]</a>"
+head: servant & service
+entry: "<a href='/digital-beehive/alpha4/alpha_0858/'>a</a>|<a href='/digital-beehive/toc/toc2_240/'>1233
+  [Servants]</a>|4553 [PAGE_MISSING]"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index4/index_3766/'>snake</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4fb75ddf2"
+item: "#item-b3e1eb422"
 unparsed: 
-line: 'Head: serpent|See: snake|Entry: 1250 [Serpent]|Entry: 1539 [Serpents]|Entry:
-  2119 [Serpents]|#item-4fb75ddf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,916,739,236/full/0/default.jpg
+line: 'Head: servant & service|Entry: a|Entry: 1233 [Servants]|Entry: 4553 [PAGE_MISSING]|#item-b3e1eb422'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573864206
-order: '3645'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,916,739,236/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,916,739,236/full/0/default.jpg
-label: serpent
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573935178
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1080,745,165/150,/0/default.jpg
+label: servant & service
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0892'
 layout: index_item
 collection: index4
 ---

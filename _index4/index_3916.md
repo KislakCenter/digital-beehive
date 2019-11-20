@@ -2,29 +2,27 @@
 pid: index_3916
 volume: Volume 3
 image_number: '45'
-head: to stop
-entry: 863 [PAGE_MISSING]
+head: storehouse
+entry: 826 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c06339698"
+item: "#item-b5bbc44c2"
 unparsed: 
-line: 'Head: to stop|Entry: 863 [PAGE_MISSING]|#item-c06339698'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,279,416,128/full/0/default.jpg
+line: 'Head: storehouse|Entry: 826 [PAGE_MISSING]|#item-b5bbc44c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/879,382,602,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530449250166
-order: '3916'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,279,416,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,279,416,128/full/0/default.jpg
-label: to stop
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290554416
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/879,382,602,108/150,/0/default.jpg
+label: storehouse
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1163'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_4493
 volume: Volume 3
 image_number: '52'
-head: washing pot
-entry: 
+head: waves
+entry: "<a href='/digital-beehive/num2/num_0444/'>370 [Storm]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f6fdaa5ed"
+item: "#item-ec3d7f650"
 unparsed: 
-line: 'Head: washing pot|Page: p.38 [Image 1.98]|#item-f6fdaa5ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/489,1463,506,145/full/0/default.jpg
+line: 'Head: waves|Entry: 370 [Storm]|#item-ec3d7f650'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/495,1608,459,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960617785
-order: '4493'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/489,1463,506,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/489,1463,506,145/full/0/default.jpg
-label: washing pot
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960675285
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/495,1608,459,101/150,/0/default.jpg
+label: waves
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '460'
 layout: index_item
 collection: index5
 ---

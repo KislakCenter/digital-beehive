@@ -2,29 +2,27 @@
 pid: index_3969
 volume: Volume 3
 image_number: '45'
-head: suck
-entry: "<a href='/digital-beehive/alpha4/alpha_0915/'>a</a>"
+head: sudden
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1430 [Suddenness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a11ac9fc6"
+item: "#item-4cd4d3b3a"
 unparsed: 
-line: 'Head: suck|Entry: a|#item-a11ac9fc6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1624,2633,261,103/full/0/default.jpg
+line: 'Head: sudden|Entry: 1430 [Suddenness]|#item-4cd4d3b3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1623,2767,405,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469497305
-order: '3969'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1624,2633,261,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1624,2633,261,103/full/0/default.jpg
-label: suck
+annotation_uri: http://dev.llgc.org.uk/annotation/1530469571248
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1623,2767,405,87/150,/0/default.jpg
+label: sudden
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1216'
 layout: index_item
 collection: index4
 ---

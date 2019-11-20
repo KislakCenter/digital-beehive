@@ -2,29 +2,28 @@
 pid: index_4378
 volume: Volume 3
 image_number: '50'
-head: unfaithful
-entry: 
+head: unfit
+entry: "<a href='/digital-beehive/toc/toc2_154/'>694 [Fitness]</a>|<a href='/digital-beehive/toc/toc2_394/'>2251
+  [Unfit]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: "<a href='/digital-beehive/index3/index_2033/'>infidelity</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8c2c95ecb"
+item: "#item-95d933fbf"
 unparsed: 
-line: 'Head: unfaithful|See: infidelity|#item-8c2c95ecb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/424,3376,773,165/full/0/default.jpg
+line: 'Head: unfit|Entry: 694 [Fitness]|Entry: 2251 [Unfit]|#item-95d933fbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/420,3526,570,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560873940995
-order: '4378'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/424,3376,773,165/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/424,3376,773,165/full/0/default.jpg
-label: unfaithful
+annotation_uri: http://dev.llgc.org.uk/annotation/1560874053257
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/420,3526,570,143/150,/0/default.jpg
+label: unfit
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '345'
 layout: index_item
 collection: index5
 ---

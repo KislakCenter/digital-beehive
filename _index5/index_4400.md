@@ -2,29 +2,28 @@
 pid: index_4400
 volume: Volume 3
 image_number: '50'
-head: unlawful
-entry: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Unlawful]</a>"
+head: unlearned
+entry: "<a href='/digital-beehive/num1/num_0067/'>66 [Unlearned]</a>|<a href='/digital-beehive/toc/toc2_346/'>1797
+  [Unlearned]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8e1a0e995"
+item: "#item-aa643f053"
 unparsed: 
-line: 'Head: unlawful|Entry: 1603 [Unlawful]|#item-8e1a0e995'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1090,2644,518,152/full/0/default.jpg
+line: 'Head: unlearned|Entry: 66 [Unlearned]|Entry: 1797 [Unlearned]|#item-aa643f053'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1101,2800,618,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882272461
-order: '4400'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1090,2644,518,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1090,2644,518,152/full/0/default.jpg
-label: unlawful
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882336392
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1101,2800,618,140/150,/0/default.jpg
+label: unlearned
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '367'
 layout: index_item
 collection: index5
 ---

@@ -1,30 +1,28 @@
 ---
 pid: alpha_0953
 volume: Volume 2
-image_number: '59'
+image_number: '58'
 head: 
-entry: Too little
-topic: Too little
+entry: Thrush
+topic: Thrush
 first_letter: T
-xref: "<a href='/digital-beehive/alpha3/alpha_0539/'>littleness</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4180/'>too little</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0d3530d71"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4139/'>thrush</a>"
+item: "#item-809c9d4c9"
 unparsed: 
-line: 'Entry: Too little|Topic: Too little|Xref: littleness|Index: too little|#item-0d3530d71'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/327,2481,3057,250/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529520277591
-order: '953'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/327,2481,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/327,2481,3057,250/full/0/default.jpg
-label: Too little
-location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+line: 'Entry: Thrush|Topic: Thrush|Index: thrush|#item-809c9d4c9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/792,4010,3002,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517908301
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/792,4010,600,180/250,/0/default.jpg
+label: Thrush
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+num_match: 
+order: '018'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,29 +2,28 @@
 pid: index_4172
 volume: Volume 3
 image_number: '48'
-head: toleration
-entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>"
+head: tongue
+entry: "<a href='/digital-beehive/alpha5/alpha_0961/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
+  [Tongue]</a>"
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-933235288"
+item: "#item-39af2a397"
 unparsed: 
-line: 'Head: toleration|Entry: 565 [License]|#item-933235288'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/full/0/default.jpg
+line: 'Head: tongue|Page: p.43 [Image 1.103]|Entry: a|Entry: 1186 [Tongue]|#item-39af2a397'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559852426052
-order: '4172'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/full/0/default.jpg
-label: toleration
+annotation_uri: http://dev.llgc.org.uk/annotation/1559852716821
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/150,/0/default.jpg
+label: tongue
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '139'
 layout: index_item
 collection: index5
 ---

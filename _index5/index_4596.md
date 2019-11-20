@@ -2,29 +2,27 @@
 pid: index_4596
 volume: Volume 3
 image_number: '53'
-head: woman's longings
-entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Womens Longings]</a>"
+head: woman's preeminence
+entry: "<a href='/digital-beehive/toc/toc2_325/'>1654 [Woman's Preeminence]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2761bad0e"
+item: "#item-afe02fa0b"
 unparsed: 
-line: 'Head: woman''s longings|Entry: 688 [Womens Longings]|#item-2761bad0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/full/0/default.jpg
+line: 'Head: woman''s preeminence|Entry: 1654 [Woman''s Preeminence]|#item-afe02fa0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,667,725,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794711179
-order: '4596'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/full/0/default.jpg
-label: woman's longings
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794780844
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,667,725,121/150,/0/default.jpg
+label: woman's preeminence
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '563'
 layout: index_item
 collection: index5
 ---

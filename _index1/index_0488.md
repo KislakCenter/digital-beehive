@@ -2,30 +2,27 @@
 pid: index_0488
 volume: Volume 3
 image_number: '11'
-head: busie
-entry: "<a href='/digital-beehive/toc/toc2_059/'>18 [Busie]</a>|<a href='/digital-beehive/toc/toc2_229/'>1179
-  [Business]</a>"
+head: busie body
+entry: 
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: strange bus
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-143f50779"
+item: "#item-4b30ba236"
 unparsed: 
-line: 'Head: busie|Entry: 18 [Busie]|Entry: 1179 [Business]|#item-143f50779'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/884,1920,444,128/full/0/default.jpg
+line: 'Head: busie body|See: strange bus|#item-4b30ba236'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/896,1986,661,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421703378
-order: '488'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/884,1920,444,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/884,1920,444,128/full/0/default.jpg
-label: busie
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421745116
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/896,1986,661,147/150,/0/default.jpg
+label: busie body
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0487'
 layout: index_item
 collection: index1
 ---

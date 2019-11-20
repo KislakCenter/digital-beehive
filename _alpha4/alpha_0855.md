@@ -1,30 +1,30 @@
 ---
 pid: alpha_0855
 volume: Volume 2
-image_number: '52'
+image_number: '51'
 head: 
-entry: Shame
-topic: Shame
+entry: Selfwilledness
+topic: Selfwilledness
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_117/'>478 [Shame]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3660/'>shame</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fcd85d2a0"
+xref: "<a href='/digital-beehive/alpha4/alpha_0652/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_186/'>1005
+  [Self will]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3629/'>Self will</a>"
+item: "#item-ef0ac887c"
 unparsed: 
-line: 'Entry: Shame|Topic: Shame|Xref: 478 [Shame]|Index: shame|#item-fcd85d2a0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,3003,411/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803328530
-order: '855'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,3003,411/full/0/default.jpg
-label: Shame
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [Self
+  will]|Index: Self will|#item-ef0ac887c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,3022,366/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530201434479
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,600,180/250,/0/default.jpg
+label: Selfwilledness
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+num_match: 
+order: '207'
 layout: alpha_item
 collection: alpha4
 ---

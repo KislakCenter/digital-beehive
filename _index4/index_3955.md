@@ -2,29 +2,27 @@
 pid: index_3955
 volume: Volume 3
 image_number: '45'
-head: submission
-entry: 
+head: subornation
+entry: 797 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index5/index_4649/'>yielding</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-90b84a133"
+item: "#item-35bed98ea"
 unparsed: 
-line: 'Head: submission|See: yielding|#item-90b84a133'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,858,657,154/full/0/default.jpg
+line: 'Head: subornation|Entry: 797 [PAGE_MISSING]|#item-35bed98ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1013,516,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467522360
-order: '3955'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,858,657,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1592,858,657,154/full/0/default.jpg
-label: submission
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467554706
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1013,516,108/150,/0/default.jpg
+label: subornation
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1202'
 layout: index_item
 collection: index4
 ---

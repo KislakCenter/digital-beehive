@@ -1,32 +1,28 @@
 ---
 pid: alpha_0967
 volume: Volume 2
-image_number: '60'
+image_number: '59'
 head: 
-entry: Treachery
-topic: Treachery
+entry: too young
+topic: too young
 first_letter: T
-xref: "<a href='/digital-beehive/alpha2/alpha_0309/'>faithfullness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
-  [Treachery]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4223/'>treachery</a>"
-insertion_xref: 
-insertion: 
-item: "#item-cfd8402ee"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4186/'>too young</a>"
+item: "#item-f53bf4603"
 unparsed: 
-line: 'Entry: Treachery|Topic: Treachery|Xref: faithfullness|Xref: 933 [Treachery]|Index:
-  treachery|#item-cfd8402ee'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529602892275
-order: '967'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
-label: Treachery
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+line: 'Entry: too young|Topic: too young|Index: too young|#item-f53bf4603'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/355,3697,1058,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529521936172
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/355,3697,600,180/250,/0/default.jpg
+label: too young
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+num_match: 
+order: '032'
 layout: alpha_item
 collection: alpha5
 ---

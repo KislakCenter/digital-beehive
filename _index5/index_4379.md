@@ -2,30 +2,27 @@
 pid: index_4379
 volume: Volume 3
 image_number: '50'
-head: unfit
-entry: "<a href='/digital-beehive/toc/toc2_154/'>694 [Fitness]</a>|<a href='/digital-beehive/toc/toc2_394/'>2251
-  [Unfit]</a>"
+head: unfledge
+entry: "<a href='/digital-beehive/toc/toc2_173/'>929 [Unripe]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-95d933fbf"
+item: "#item-f17220a99"
 unparsed: 
-line: 'Head: unfit|Entry: 694 [Fitness]|Entry: 2251 [Unfit]|#item-95d933fbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/420,3526,570,143/full/0/default.jpg
+line: 'Head: unfledge|Entry: 929 [Unripe]|#item-f17220a99'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,244,489,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560874053257
-order: '4379'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/420,3526,570,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/420,3526,570,143/full/0/default.jpg
-label: unfit
+annotation_uri: http://dev.llgc.org.uk/annotation/1560878079080
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1137,244,489,143/150,/0/default.jpg
+label: unfledge
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '346'
 layout: index_item
 collection: index5
 ---

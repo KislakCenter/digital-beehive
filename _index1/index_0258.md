@@ -2,29 +2,27 @@
 pid: index_0258
 volume: Volume 3
 image_number: '9'
-head: awl
-entry: 
+head: Baal
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1919 [Baal]</a>"
 topic: 
-first_letter: A
+first_letter: B
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f9946597b"
+item: "#item-b0c6e8a96"
 unparsed: 
-line: 'Head: awl|Page: p.38 [Image 1.98]|#item-f9946597b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/178,2533,368,174/full/0/default.jpg
+line: 'Head: Baal|Entry: 1919 [Baal]|#item-b0c6e8a96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016181590
-order: '258'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/178,2533,368,174/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/178,2533,368,174/full/0/default.jpg
-label: awl
+annotation_uri: http://dev.llgc.org.uk/annotation/1504210675155
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/150,/0/default.jpg
+label: Baal
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0257'
 layout: index_item
 collection: index1
 ---

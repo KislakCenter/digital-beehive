@@ -2,29 +2,27 @@
 pid: index_4117
 volume: Volume 3
 image_number: '47'
-head: thin
-entry: "<a href='/digital-beehive/toc/toc2_093/'>310 [Leanness]</a>"
+head: thing
+entry: 831 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-22a27f0d6"
+item: "#item-88a17fda7"
 unparsed: 
-line: 'Head: thin|Entry: 310 [Leanness]|#item-22a27f0d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,1640,343,138/full/0/default.jpg
+line: 'Head: thing|Entry: 831 [PAGE_MISSING]|#item-88a17fda7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/904,1777,372,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720836176
-order: '4117'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,1640,343,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,1640,343,138/full/0/default.jpg
-label: thin
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721055603
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/904,1777,372,101/150,/0/default.jpg
+label: thing
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '084'
 layout: index_item
 collection: index5
 ---

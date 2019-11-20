@@ -2,29 +2,27 @@
 pid: index_4404
 volume: Volume 3
 image_number: '50'
-head: unlike
-entry: 796 [PAGE_MISSING]
+head: unlimited
+entry: "<a href='/digital-beehive/toc/toc2_418/'>2416 [Unlimited]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-17100234f"
+item: "#item-ecf7540b0"
 unparsed: 
-line: 'Head: unlike|Entry: 796 [PAGE_MISSING]|#item-17100234f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1079,3071,404,134/full/0/default.jpg
+line: 'Head: unlimited|Entry: 2416 [Unlimited]|#item-ecf7540b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1075,3145,564,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882536492
-order: '4404'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1079,3071,404,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1079,3071,404,134/full/0/default.jpg
-label: unlike
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882999818
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1075,3145,564,110/150,/0/default.jpg
+label: unlimited
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '371'
 layout: index_item
 collection: index5
 ---

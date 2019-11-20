@@ -3,30 +3,26 @@ pid: alpha_0593
 volume: Volume 2
 image_number: '33'
 head: 
-entry: Miracles
-topic: Miracles
+entry: Miller
+topic: Miller
 first_letter: M
-xref: "<a href='/digital-beehive/alpha5/alpha_1040/'>wonderfull things</a>|<a href='/digital-beehive/toc/toc2_083/'>243
-  [Miracles]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2532/'>miracle</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a2f4c508e"
+xref: 1873 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index3/index_2517/'>miller</a>"
+item: "#item-dd8dafc4c"
 unparsed: 
-line: 'Entry: Miracles|Topic: Miracles|Xref: wonderfull things|Xref: 243 [Miracles]|Index:
-  miracle|#item-a2f4c508e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/346,1115,3056,466/full/0/default.jpg
+line: 'Entry: Miller|Topic: Miller|Xref: 1873 [PAGE_MISSING]|Index: miller|#item-dd8dafc4c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/306,213,3080,367/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775582598
-order: '593'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/346,1115,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/346,1115,3056,466/full/0/default.jpg
-label: Miracles
+annotation_uri: http://dev.llgc.org.uk/annotation/1564775285818
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/306,213,600,180/250,/0/default.jpg
+label: Miller
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '149'
 layout: alpha_item
 collection: alpha3
 ---

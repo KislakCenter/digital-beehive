@@ -1,31 +1,28 @@
 ---
 pid: alpha_0555
 volume: Volume 2
-image_number: '30'
+image_number: '29'
 head: 
-entry: Love of enemies
-topic: Love of enemies
+entry: Love of Christ
+topic: Love of Christ
 first_letter: L
-xref: "<a href='/digital-beehive/toc/toc2_081/'>225 [Love of enemies]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2344/'>love of Enemies</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2ae1d06b7"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2341/'>love of Christ</a>"
+item: "#item-554daa050"
 unparsed: 
-line: 'Entry: Love of enemies|Topic: Love of enemies|Xref: 225 [Love of enemies]|Index:
-  love of Enemies|#item-2ae1d06b7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,3006,558/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771218552
-order: '555'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/767,581,3006,558/full/0/default.jpg
-label: Love of enemies
-location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+line: 'Entry: Love of Christ|Topic: Love of Christ|Index: love of Christ|#item-554daa050'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,3028,682/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770839235
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/343,3753,600,180/250,/0/default.jpg
+label: Love of Christ
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
+num_match: 
+order: '111'
 layout: alpha_item
 collection: alpha3
 ---

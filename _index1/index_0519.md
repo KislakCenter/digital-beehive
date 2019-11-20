@@ -2,29 +2,27 @@
 pid: index_0519
 volume: Volume 3
 image_number: '11'
-head: I can
-entry: 
+head: Canaanites
+entry: "<a href='/digital-beehive/toc/toc2_352/'>1901 [Canaanites]</a>"
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index1/index_0008/'>ability</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-be85b56f5"
+item: "#item-2548a2973"
 unparsed: 
-line: 'Head: I can|See: ability|#item-be85b56f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,1449,594,128/full/0/default.jpg
+line: 'Head: Canaanites|Entry: 1901 [Canaanites]|#item-2548a2973'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1580,1541,524,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494984078
-order: '519'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,1449,594,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1568,1449,594,128/full/0/default.jpg
-label: I can
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495052115
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1580,1541,524,76/150,/0/default.jpg
+label: Canaanites
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0518'
 layout: index_item
 collection: index1
 ---

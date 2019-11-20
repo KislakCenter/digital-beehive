@@ -3,28 +3,28 @@ pid: alpha_0357
 volume: Volume 2
 image_number: '14'
 head: 
-entry: Germany
-topic: Germany
+entry: Gentleness
+topic: Gentleness
 first_letter: G
-xref: "<a href='/digital-beehive/toc/toc2_269/'>1378 [Germany]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1602/'>Germany</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ae0fcaf74"
+xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0436/'>Humanity</a>|Moderation|<a
+  href='/digital-beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1598/'>gentleness</a>"
+item: "#item-271a74ff6"
 unparsed: 
-line: 'Entry: Germany|Topic: Germany|Xref: 1378 [Germany]|Index: Germany|#item-ae0fcaf74'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/764,1111,3027,494/full/0/default.jpg
+line: 'Entry: Gentleness|Topic: Gentleness|Xref: Civility|Xref: Humanity|Xref: Moderation|Xref:
+  1206 [Gentleness]|Index: gentleness|#item-271a74ff6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,2983,580/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564601438628
-order: '357'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/764,1111,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/764,1111,3027,494/full/0/default.jpg
-label: Germany
+annotation_uri: http://dev.llgc.org.uk/annotation/1564601289798
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,600,180/250,/0/default.jpg
+label: Gentleness
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
+num_match: 
+order: '088'
 layout: alpha_item
 collection: alpha2
 ---

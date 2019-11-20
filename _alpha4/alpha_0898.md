@@ -1,30 +1,30 @@
 ---
 pid: alpha_0898
 volume: Volume 2
-image_number: '55'
+image_number: '54'
 head: 
-entry: Staff
-topic: Staff
+entry: Spectacles
+topic: Spectacles
 first_letter: S
-xref: 852 [PAGE_MISSING]
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3872/'>staff</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1e25ffdaa"
+xref: "<a href='/digital-beehive/alpha2/alpha_0361/'>glass</a>|<a href='/digital-beehive/toc/toc2_322/'>1639
+  [Spectacles]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3826/'>spectacles</a>"
+item: "#item-00bd8fba7"
 unparsed: 
-line: 'Entry: Staff|Topic: Staff|Xref: 852 [PAGE_MISSING]|Index: staff|#item-1e25ffdaa'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/310,1799,3023,237/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459873273
-order: '898'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/310,1799,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/310,1799,3023,237/full/0/default.jpg
-label: Staff
-location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+line: 'Entry: Spectacles|Topic: Spectacles|Xref: glass|Xref: 1639 [Spectacles]|Index:
+  spectacles|#item-00bd8fba7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/728,3712,3000,344/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565111498283
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/728,3712,600,180/250,/0/default.jpg
+label: Spectacles
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+num_match: 
+order: '250'
 layout: alpha_item
 collection: alpha4
 ---

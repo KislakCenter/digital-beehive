@@ -3,30 +3,28 @@ pid: alpha_0631
 volume: Volume 2
 image_number: '35'
 head: 
-entry: Negligenge
-topic: Negligenge
+entry: Nature
+topic: Nature
 first_letter: N
-xref: "<a href='/digital-beehive/alpha3/alpha_0443/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0521/'>Laziness</a>|<a
-  href='/digital-beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2681/'>negligence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-dfd2d85c3"
+xref: "<a href='/digital-beehive/alpha4/alpha_0720/'>Poverty</a>|<a href='/digital-beehive/alpha1/alpha_0203/'>Custom</a>|<a
+  href='/digital-beehive/toc/toc2_327/'>1663 [Nature]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2659/'>nature</a>"
+item: "#item-ced0ebdf8"
 unparsed: 
-line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558
-  [To Neglect]|Index: negligence|#item-dfd2d85c3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
+line: 'Entry: Nature|Topic: Nature|Xref: Poverty|Xref: Custom|Xref: 1663 [Nature]|Index:
+  nature|#item-ced0ebdf8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,3008,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565014670396
-order: '631'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
-label: Negligenge
+annotation_uri: http://dev.llgc.org.uk/annotation/1510167167173
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,600,180/250,/0/default.jpg
+label: Nature
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '187'
 layout: alpha_item
 collection: alpha3
 ---

@@ -1,30 +1,28 @@
 ---
 pid: alpha_0837
 volume: Volume 2
-image_number: '51'
+image_number: '50'
 head: 
-entry: Sedition vid. Rebellion
-topic: Sedition vid. Rebellion
+entry: Sea
+topic: Sea
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3590/'>sedition</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8888fc3ff"
+xref: "<a href='/digital-beehive/toc/toc2_287/'>1470 [Sea]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3568/'>Sea</a>"
+item: "#item-c952eb5d8"
 unparsed: 
-line: 'Entry: Sedition vid. Rebellion|Topic: Sedition vid. Rebellion|Index: sedition|#item-8888fc3ff'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/290,776,692,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530214040663
-order: '837'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/290,776,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/290,776,692,105/full/0/default.jpg
-label: Sedition vid. Rebellion
-location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+line: 'Entry: Sea|Topic: Sea|Xref: 1470 [Sea]|Index: Sea|#item-c952eb5d8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,2987,444/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528924634140
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,600,180/250,/0/default.jpg
+label: Sea
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '189'
 layout: alpha_item
 collection: alpha4
 ---

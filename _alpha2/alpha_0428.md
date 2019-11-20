@@ -3,30 +3,28 @@ pid: alpha_0428
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Hope
-topic: Hope
+entry: Honour
+topic: Honour
 first_letter: H
-xref: Desperation|<a href='/digital-beehive/alpha1/alpha_0156/'>false Comfort</a>|<a
-  href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1868/'>hope</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1aa4646fe"
+xref: "<a href='/digital-beehive/alpha2/alpha_0362/'>glory</a>|<a href='/digital-beehive/alpha2/alpha_0381/'>grandeur</a>|<a
+  href='/digital-beehive/alpha4/alpha_0789/'>Renown</a>|778 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index2/index_1866/'>honour</a>"
+item: "#item-d7d435bf3"
 unparsed: 
-line: 'Entry: Hope|Topic: Hope|Xref: Desperation|Xref: false Comfort|Xref: 1126 [Hope]|Index:
-  hope|#item-1aa4646fe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,3142,830/full/0/default.jpg
+line: 'Entry: Honour|Topic: Honour|Xref: glory|Xref: grandeur|Xref: Renown|Xref: 778
+  [PAGE_MISSING]|Index: honour|#item-d7d435bf3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,3168,689/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509732359473
-order: '428'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,3142,830/full/0/default.jpg
-label: Hope
+annotation_uri: http://dev.llgc.org.uk/annotation/1509732090839
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,600,180/250,/0/default.jpg
+label: Honour
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '159'
 layout: alpha_item
 collection: alpha2
 ---

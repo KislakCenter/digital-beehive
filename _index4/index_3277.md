@@ -2,29 +2,27 @@
 pid: index_3277
 volume: Volume 3
 image_number: '38'
-head: race
-entry: 771 [PAGE_MISSING]
+head: rachel
+entry: "<a href='/digital-beehive/toc/toc2_363/'>1976 [Rachel]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-32c15e422"
+item: "#item-a5a821fc4"
 unparsed: 
-line: 'Head: race|Entry: 771 [PAGE_MISSING]|#item-32c15e422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2633,363,121/full/0/default.jpg
+line: 'Head: rachel|Entry: 1976 [Rachel]|#item-a5a821fc4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459410404
-order: '3277'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2633,363,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2633,363,121/full/0/default.jpg
-label: race
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459434241
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/150,/0/default.jpg
+label: rachel
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0524'
 layout: index_item
 collection: index4
 ---

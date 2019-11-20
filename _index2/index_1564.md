@@ -2,29 +2,29 @@
 pid: index_1564
 volume: Volume 3
 image_number: '21'
-head: fund
-entry: "<a href='/digital-beehive/toc/toc2_143/'>632 [Stock]</a>"
+head: funeral Com[m]endations
+entry: "<a href='/digital-beehive/toc/toc2_208/'>1071 [Funeral Commendation]</a>|<a
+  href='/digital-beehive/toc/toc2_264/'>1351 [Funeral Commendations]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-62c0173f4"
+item: "#item-5e183e23f"
 unparsed: 
-line: 'Head: fund|Entry: 632 [Stock]|#item-62c0173f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,886,325,103/full/0/default.jpg
+line: 'Head: funeral Com[m]endations|Entry: a|Entry: 1071 [Funeral Commendation]|Entry:
+  1351 [Funeral Commendations]|#item-5e183e23f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,936,792,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785729005
-order: '1564'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,886,325,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,886,325,103/full/0/default.jpg
-label: fund
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786047110
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,936,792,165/150,/0/default.jpg
+label: funeral Com[m]endations
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '384'
 layout: index_item
 collection: index2
 ---

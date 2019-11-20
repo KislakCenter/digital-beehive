@@ -2,29 +2,27 @@
 pid: index_3590
 volume: Volume 3
 image_number: '41'
-head: sedition
-entry: "<a href='/digital-beehive/toc/toc2_233/'>1197 [Rebellion]</a>"
+head: seducing
+entry: "<a href='/digital-beehive/toc/toc2_224/'>1152 [Seducing]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3b9935ca1"
+item: "#item-a949b081a"
 unparsed: 
-line: 'Head: sedition|Entry: 1197 [Rebellion]|#item-3b9935ca1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1590,2399,532,159/full/0/default.jpg
+line: 'Head: seducing|Entry: 1152 [Seducing]|#item-a949b081a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242915179
-order: '3590'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1590,2399,532,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1590,2399,532,159/full/0/default.jpg
-label: sedition
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242946180
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/150,/0/default.jpg
+label: seducing
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0837'
 layout: index_item
 collection: index4
 ---

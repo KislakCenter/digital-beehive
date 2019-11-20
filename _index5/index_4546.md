@@ -2,30 +2,28 @@
 pid: index_4546
 volume: Volume 3
 image_number: '52'
-head: widowhood
-entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>|<a href='/digital-beehive/toc/toc2_317/'>1615
-  [Widow]</a>"
+head: wife
+entry: "<a href='/digital-beehive/num2/num_0570/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_290/'>1483
+  [Wife]</a>"
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d9a51351a"
+item: "#item-ee3f9a6ee"
 unparsed: 
-line: 'Head: widowhood|Entry: a|Entry: 1615 [Widow]|#item-d9a51351a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1763,1634,652,135/full/0/default.jpg
+line: 'Head: wife|Page: p.42 [Image 1.102]|Entry: 459 [Wife]|Entry: 1483 [Wife]|#item-ee3f9a6ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972015564
-order: '4546'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1763,1634,652,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1763,1634,652,135/full/0/default.jpg
-label: widowhood
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972099327
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/150,/0/default.jpg
+label: wife
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '513'
 layout: index_item
 collection: index5
 ---

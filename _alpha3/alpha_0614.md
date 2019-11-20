@@ -3,30 +3,28 @@ pid: alpha_0614
 volume: Volume 2
 image_number: '34'
 head: 
-entry: Murder
-topic: Murder
+entry: Mourning
+topic: Mourning
 first_letter: M
-xref: "<a href='/digital-beehive/alpha3/alpha_0470/'>Infant Killing</a>|<a href='/digital-beehive/alpha4/alpha_0845/'>Self-murd</a>|<a
-  href='/digital-beehive/toc/toc2_294/'>1504 [Murder]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2616/'>murder</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2ad3f1070"
+xref: "<a href='/digital-beehive/alpha4/alpha_0822/'>Sadness</a>|<a href='/digital-beehive/alpha3/alpha_0583/'>melancholy</a>|Lamentation|<a
+  href='/digital-beehive/toc/toc2_201/'>1036 [Mourn]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2605/'>mourning</a>"
+item: "#item-ef1664611"
 unparsed: 
-line: 'Entry: Murder|Topic: Murder|XRef: Infant Killing|XRef: Self-murd|XRef: 1504
-  [Murder]|Index: murder|#item-2ad3f1070'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/756,3256,2970,473/full/0/default.jpg
+line: 'Entry: Mourning|Topic: Mourning|Xref: Sadness|Xref: melancholy|Xref: Lamentation|Xref:
+  1036 [Mourn]|Index: mourning|#item-ef1664611'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,3063,547/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510175991174
-order: '614'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/756,3256,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/756,3256,2970,473/full/0/default.jpg
-label: Murder
+annotation_uri: http://dev.llgc.org.uk/annotation/1564777539260
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,600,180/250,/0/default.jpg
+label: Mourning
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+num_match: 
+order: '170'
 layout: alpha_item
 collection: alpha3
 ---

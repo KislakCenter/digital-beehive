@@ -6,25 +6,23 @@ head:
 entry: Crab
 topic: Crab
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: "<a href='/digital-beehive/index1/index_0892/'>crab</a>"
-insertion_xref: 
-insertion: 
 item: "#item-2ab8122d3"
 unparsed: 
 line: 'Entry: Crab|Topic: Crab|Index: crab|#item-2ab8122d3'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/820,683,3026,312/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499785671378
-order: '189'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/820,683,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/820,683,3026,312/full/0/default.jpg
 label: Crab
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
+num_match: 
+order: '188'
 layout: alpha_item
 collection: alpha1
 ---

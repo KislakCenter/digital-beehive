@@ -2,29 +2,27 @@
 pid: index_0929
 volume: Volume 3
 image_number: '15'
-head: "[:16.]"
-entry: 
+head: currans
+entry: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Corinths]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4680/'>Cures. curable</a>"
-insertion: 
-item: "#item-73acd12ec"
-unparsed: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-line: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/full/0/default.jpg
+item: "#item-90690e1e5"
+unparsed: 
+line: 'Head: currans|Entry: 1344 [Corinths]|#item-90690e1e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275970444
-order: '929'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/full/0/default.jpg
-label: "[:16.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578148720
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/150,/0/default.jpg
+label: currans
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0926'
 layout: index_item
 collection: index1
 ---

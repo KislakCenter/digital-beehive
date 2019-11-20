@@ -1,33 +1,29 @@
 ---
 pid: alpha_0870
 volume: Volume 2
-image_number: '53'
+image_number: '52'
 head: 
-entry: Sin
-topic: Sin
+entry: Sighs
+topic: Sighs
 first_letter: S
-xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/digital-beehive/alpha3/alpha_0556/'>love
-  of Sin</a>|<a href='/digital-beehive/alpha5/alpha_1022/'>Wickedness</a>|<a href='/digital-beehive/toc/toc2_094/'>322
-  [Sin]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3719/'>sin</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4f5133a05"
+xref: "<a href='/digital-beehive/alpha5/alpha_1030/'>Weeping</a>|<a href='/digital-beehive/toc/toc2_338/'>1740
+  [Sighs]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3700/'>sighs</a>"
+item: "#item-1f1ca4933"
 unparsed: 
-line: 'Entry: Sin|Topic: Sin|Xref: Crime|Xref: love of Sin|Xref: Wickedness|Xref:
-  322 [Sin]|Index: sin|#item-4f5133a05'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/317,1805,3053,642/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532023505862
-order: '870'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/317,1805,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/317,1805,3053,642/full/0/default.jpg
-label: Sin
-location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+line: 'Entry: Sighs|Topic: Sighs|Xref: Weeping|Xref: 1740 [Sighs]|Index: sighs|#item-1f1ca4933'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,2909,386/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803743910
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,600,180/250,/0/default.jpg
+label: Sighs
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '222'
 layout: alpha_item
 collection: alpha4
 ---

@@ -1,31 +1,28 @@
 ---
 pid: alpha_0648
 volume: Volume 2
-image_number: '37'
+image_number: '36'
 head: 
-entry: Obstinacy
-topic: Obstinacy
+entry: Oath
+topic: Oath
 first_letter: O
-xref: "<a href='/digital-beehive/alpha2/alpha_0394/'>hardning</a>|<a href='/digital-beehive/alpha4/alpha_0848/'>Selfwilledness</a>|Stubbornness"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2763/'>obstinacy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-54e99134f"
+xref: Swearing|<a href='/digital-beehive/num1/num_0028/'>28 [Oath]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_2753/'>oath</a>"
+item: "#item-8a41c29da"
 unparsed: 
-line: 'Entry: Obstinacy|Topic: Obstinacy|Xref: hardning|Xref: Selfwilledness |Xref:
-  Stubbornness |Xref: 743 [PAGE_MISSING]|Index: obstinacy|#item-54e99134f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/296,819,3061,369/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016432059
-order: '648'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/296,819,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/296,819,3061,369/full/0/default.jpg
-label: Obstinacy
-location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+line: 'Entry: Oath|Topic: Oath|Xref:  Swearing|Xref: 28 [Oath]|Index: oath|#item-8a41c29da'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,4076,2943,433/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015943020
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,4076,600,180/250,/0/default.jpg
+label: Oath
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '001'
 layout: alpha_item
 collection: alpha4
 ---

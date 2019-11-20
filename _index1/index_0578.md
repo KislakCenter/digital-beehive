@@ -6,25 +6,23 @@ head: cells
 entry: 
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e49bbb49a"
 unparsed: 
 line: 'Head: cells|Page: p.4 [Image 1.64]|#item-e49bbb49a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1134,1221,286,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532099288564
-order: '578'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1134,1221,286,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1134,1221,286,116/full/0/default.jpg
 label: cells
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0577'
 layout: index_item
 collection: index1
 ---

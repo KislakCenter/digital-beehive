@@ -2,29 +2,27 @@
 pid: index_3520
 volume: Volume 3
 image_number: '41'
-head: Sarah
-entry: "<a href='/digital-beehive/toc/toc2_351/'>1892 [Sarah]</a>"
+head: satisfaction
+entry: "<a href='/digital-beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-67b2763e4"
+item: "#item-7a662a885"
 unparsed: 
-line: 'Head: Sarah|Entry: 1892 [Sarah]|#item-67b2763e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/full/0/default.jpg
+line: 'Head: satisfaction|Entry: 547 [Satisfaction]|#item-7a662a885'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239020652
-order: '3520'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/full/0/default.jpg
-label: Sarah
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239121796
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/150,/0/default.jpg
+label: satisfaction
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0767'
 layout: index_item
 collection: index4
 ---

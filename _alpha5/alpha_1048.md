@@ -1,32 +1,30 @@
 ---
 pid: alpha_1048
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: Worldly
-topic: Worldly|Worldlymindedness
+entry: Womanish
+topic: Womanish
 first_letter: W
-xref: "<a href='/digital-beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/digital-beehive/toc/toc2_201/'>1037
-  [Worldly]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4620/'>worldly</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f9b0dfbe3"
+xref: "<a href='/digital-beehive/toc/toc2_271/'>1388 [Love of Women]</a>|<a href='/digital-beehive/toc/toc2_232/'>1192
+  [Effeminate]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4588/'>womanish</a>"
+item: "#item-25cdbc304"
 unparsed: 
-line: 'Entry: Worldly|Topic: Worldly|Topic: Worldlymindedness|Xref: Epicurism|Xref:
-  1037 [Worldly]|Index: worldly|#item-f9b0dfbe3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/860,4492,2901,564/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529596982403
-order: '1048'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/860,4492,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/860,4492,2901,564/full/0/default.jpg
-label: Worldly
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Womanish|Topic: Womanish|Xref: 1388 [Love of Women]|Xref: 1192 [Effeminate]|Index:
+  womanish|#item-25cdbc304'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,2949,343/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529594629747
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,600,180/250,/0/default.jpg
+label: Womanish
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '113'
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,30 +3,26 @@ pid: alpha_0439
 volume: Volume 2
 image_number: '20'
 head: 
-entry: Husbandry
-topic: Husbandry
+entry: Hunting
+topic: Hunting
 first_letter: H
-xref: "<a href='/digital-beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/digital-beehive/alpha4/alpha_0650/'>Oeconomy</a>|<a
-  href='/digital-beehive/toc/toc2_089/'>281 [Husbandry]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1912/'>husbandry and huswifery</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2ad75fadf"
+xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [Hunting]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1908/'>hunting</a>"
+item: "#item-4b88988ab"
 unparsed: 
-line: 'Entry: Husbandry|Topic: Husbandry|Xref: Agriculture|Xref: Oeconomy|Xref: 281
-  [Husbandry]|Index: husbandry and huswifery|#item-2ad75fadf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,2963,554/full/0/default.jpg
+line: 'Entry: Hunting|Topic: Hunting|Xref: 1371 [Hunting]|Index: hunting|#item-4b88988ab'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/788,2007,2870,438/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733965053
-order: '439'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,2367,2963,554/full/0/default.jpg
-label: Husbandry
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733878773
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/788,2007,600,180/250,/0/default.jpg
+label: Hunting
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
+num_match: 
+order: '170'
 layout: alpha_item
 collection: alpha2
 ---

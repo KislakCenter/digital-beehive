@@ -2,29 +2,28 @@
 pid: index_4694
 volume: Volume 3
 image_number: '54'
-head: Spur
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1239 [Spur]</a>"
+head: gnashing of t.
+entry: "<a href='/digital-beehive/toc/toc2_387/'>2211 [Gnashing the teethe]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:28.]"
-item: "#item-a061eca78"
-unparsed: 
-line: 'Type: Index|Insertion: [:28.]|Head: Spur|Entry: 1239 [Spur]|#item-a061eca78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1046,746,590,137/full/0/default.jpg
+item: "#item-d4776ffd9"
+unparsed: Type Index|Insertion [:29.]
+line: 'Type: Index|Insertion: [:29.]|Head: gnashing of t.|Entry: 2211 [Gnashing the
+  teethe]|#item-d4776ffd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1035,898,762,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560953874874
-order: '4694'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1046,746,590,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1046,746,590,137/full/0/default.jpg
-label: Spur
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954065882
+insertion: "[:29.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1035,898,762,153/150,/0/default.jpg
+label: gnashing of t.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '661'
 layout: index_item
 collection: index5
 ---

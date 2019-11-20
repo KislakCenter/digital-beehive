@@ -2,29 +2,28 @@
 pid: index_1671
 volume: Volume 3
 image_number: '22'
-head: good. gültig
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1052 [Good]</a>"
+head: gospel
+entry: "<a href='/digital-beehive/alpha2/alpha_0374/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>967
+  [Gospel]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-74b53e86a"
+item: "#item-e02b60a26"
 unparsed: 
-line: 'Head: good. gültig|Entry: 1052 [Good]|#item-74b53e86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/full/0/default.jpg
+line: 'Head: gospel|Entry: a|Entry: 967 [Gospel]|#item-e02b60a26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1840,730,429,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051914983
-order: '1671'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/full/0/default.jpg
-label: good. gültig
+annotation_uri: http://dev.llgc.org.uk/annotation/1561051998949
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1840,730,429,138/150,/0/default.jpg
+label: gospel
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '490'
 layout: index_item
 collection: index2
 ---

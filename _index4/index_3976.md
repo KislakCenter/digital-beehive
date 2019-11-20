@@ -1,30 +1,28 @@
 ---
 pid: index_3976
 volume: Volume 3
-image_number: '45'
-head: sufficient light
-entry: "<a href='/digital-beehive/toc/toc2_259/'>1328 [the Sufficiency of the Light]</a>"
+image_number: '46'
+head: sugar
+entry: "<a href='/digital-beehive/alpha4/alpha_0925/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-285e1e3f1"
+item: "#item-8226cbe9a"
 unparsed: 
-line: 'Head: sufficient light|Entry: 1328 [the Sufficiency of the Light]|#item-285e1e3f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1600,3412,489,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530471009783
-order: '3976'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1600,3412,489,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1600,3412,489,149/full/0/default.jpg
-label: sufficient light
-location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+line: 'Head: sugar|Entry: a|#item-8226cbe9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/466,287,337,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565292567066
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/466,287,337,115/150,/0/default.jpg
+label: sugar
+location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1222'
 layout: index_item
 collection: index4
 ---

@@ -1,31 +1,28 @@
 ---
 pid: alpha_0940
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Thanks
-topic: Thanks
+entry: Temerity
+topic: Temerity
 first_letter: T
-xref: "<a href='/digital-beehive/alpha2/alpha_0381/'>Gratitude</a>|<a href='/digital-beehive/toc/toc2_220/'>1132
-  [Gratitude]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4105/'>thanks</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a4c335091"
+xref: "<a href='/digital-beehive/alpha1/alpha_0091/'>Boldness</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4079/'>temerity</a>"
+item: "#item-71c1ec9e2"
 unparsed: 
-line: 'Entry: Thanks|Topic: Thanks|Xref: Gratitude|Xref: 1132 [Gratitude]|Index: thanks|#item-a4c335091'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/768,2298,3010,466/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529416356121
-order: '940'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/768,2298,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/768,2298,3010,466/full/0/default.jpg
-label: Thanks
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Temerity|Topic: Temerity|Xref: Boldness|Index: temerity|#item-71c1ec9e2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,3114,549/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528921199930
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,3605,600,180/250,/0/default.jpg
+label: Temerity
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '005'
 layout: alpha_item
 collection: alpha5
 ---

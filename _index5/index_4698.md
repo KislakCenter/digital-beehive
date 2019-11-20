@@ -2,29 +2,27 @@
 pid: index_4698
 volume: Volume 3
 image_number: '54'
-head: pindar
-entry: 4653 [PAGE_MISSING]
+head: pin money
+entry: "<a href='/digital-beehive/toc/toc2_429/'>4791 [WORD_MISSING]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:31.]"
-item: "#item-27f2f0b77"
-unparsed: 
-line: 'Type: Index|Insertion: [:31.]|Head: pindar|Entry: 4653 [PAGE_MISSING]|#item-27f2f0b77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1068,1230,417,109/full/0/default.jpg
+item: "#item-b50f2098e"
+unparsed: Type Index|Insertion [:31.]
+line: 'Type: Index|Insertion: [:31.]|Head: pin money|Entry: 4791 [WORD_MISSING]|#item-b50f2098e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1127,1240,659,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954273637
-order: '4698'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1068,1230,417,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1068,1230,417,109/full/0/default.jpg
-label: pindar
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954529370
+insertion: "[:31.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1127,1240,659,133/150,/0/default.jpg
+label: pin money
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '665'
 layout: index_item
 collection: index5
 ---

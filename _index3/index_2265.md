@@ -2,30 +2,27 @@
 pid: index_2265
 volume: Volume 3
 image_number: '28'
-head: letters
-entry: "<a href='/digital-beehive/alpha3/alpha_0529/'>a</a>|<a href='/digital-beehive/toc/toc2_310/'>1580
-  [I have thought fit to]</a>|<a href='/digital-beehive/toc/toc2_379/'>2135 [Letters]</a>"
+head: letters of friends
+entry: "<a href='/digital-beehive/toc/toc2_293/'>1500 [Epistle of Friends]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1930598b8"
+item: "#item-f39620eb6"
 unparsed: 
-line: 'Head: letters|Entry: a|Entry: 1580 [I have thought fit to]|Entry: 2135 [Letters]|#item-1930598b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,904,698,104/full/0/default.jpg
+line: 'Head: letters of friends|Entry: 1500 [Epistle of Friends]|#item-f39620eb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1122,977,638,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844795385
-order: '2265'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,904,698,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,904,698,104/full/0/default.jpg
-label: letters
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844850963
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1122,977,638,93/150,/0/default.jpg
+label: letters of friends
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '346'
 layout: index_item
 collection: index3
 ---

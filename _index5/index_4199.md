@@ -2,29 +2,27 @@
 pid: index_4199
 volume: Volume 3
 image_number: '48'
-head: torturing
-entry: "<a href='/digital-beehive/toc/toc2_108/'>419 [Torturing]</a>"
+head: touchstone
+entry: 
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6cb85a76d"
+item: "#item-748a87ef3"
 unparsed: 
-line: 'Head: torturing|Entry: 419 [Torturing]|#item-6cb85a76d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,3592,577,160/full/0/default.jpg
+line: 'Head: touchstone|Page: p.32 [Image 1.92]|#item-748a87ef3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1105,371,457,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278370090
-order: '4199'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,3592,577,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,3592,577,160/full/0/default.jpg
-label: torturing
+annotation_uri: http://dev.llgc.org.uk/annotation/1560285281421
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1105,371,457,109/150,/0/default.jpg
+label: touchstone
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '166'
 layout: index_item
 collection: index5
 ---

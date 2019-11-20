@@ -2,29 +2,27 @@
 pid: index_3672
 volume: Volume 3
 image_number: '42'
-head: a shew
-entry: 781 [PAGE_MISSING]
+head: to shew
+entry: 812 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-53d55f8e7"
+item: "#item-8e7b4d005"
 unparsed: 
-line: 'Head: a shew|Entry: 781 [PAGE_MISSING]|#item-53d55f8e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1830,581,407,104/full/0/default.jpg
+line: 'Head: to shew|Entry: 812 [PAGE_MISSING]|#item-8e7b4d005'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1811,648,474,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575712602
-order: '3672'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1830,581,407,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1830,581,407,104/full/0/default.jpg
-label: a shew
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575739762
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1811,648,474,120/150,/0/default.jpg
+label: to shew
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0919'
 layout: index_item
 collection: index4
 ---

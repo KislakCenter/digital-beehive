@@ -2,30 +2,29 @@
 pid: index_1987
 volume: Volume 3
 image_number: '25'
-head: imputation
-entry: "<a href='/digital-beehive/alpha3/alpha_0464/'>a</a>|<a href='/digital-beehive/toc/toc2_128/'>548
-  [Imputation]</a>"
+head: inamoured
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1324 [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_336/'>1716
+  [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_440/'>4862 [Inamoured]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-171be3dea"
+item: "#item-099db045d"
 unparsed: 
-line: 'Head: imputation|Entry: a|Entry: 548 [Imputation]|#item-171be3dea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3439,657,133/full/0/default.jpg
+line: 'Head: inamoured|Entry: 1324 [Inamoured]|Entry: 1716 [Inamoured]|Entry: 4862
+  [Inamoured]|#item-099db045d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668408703
-order: '1987'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3439,657,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3439,657,133/full/0/default.jpg
-label: imputation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669565220
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/150,/0/default.jpg
+label: inamoured
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '068'
 layout: index_item
 collection: index3
 ---

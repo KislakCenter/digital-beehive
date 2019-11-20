@@ -3,30 +3,26 @@ pid: alpha_0305
 volume: Volume 1
 image_number: '455'
 head: 
-entry: Fable
-topic: Fable
-first_letter: F
-xref: "<a href='/digital-beehive/alpha4/alpha_0806/'>Romance</a>|talker of trifles|<a
-  href='/digital-beehive/toc/toc2_274/'>1405 [Fable]</a>"
-see: 
+entry: lust of the eye
+topic: lust of the eye
+first_letter: E
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1375/'>Fables</a>"
-insertion_xref: 
-insertion: 
-item: "#item-85b695d6a"
+xref: "<a href='/digital-beehive/alpha2/alpha_0286/'>epicurism</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1373/'>eye lust</a>"
+item: "#item-992a5ce4c"
 unparsed: 
-line: 'Entry: Fable|Topic: Fable|Xref: Romance|Xref: talker of trifles|XRef: 1405
-  [Fable]|Index: Fables|#item-85b695d6a'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,3081,488/full/0/default.jpg
+line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,3025,456/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564588174277
-order: '305'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,3081,488/full/0/default.jpg
-label: Fable
+annotation_uri: http://dev.llgc.org.uk/annotation/1564588047954
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,600,180/250,/0/default.jpg
+label: lust of the eye
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+num_match: 
+order: '036'
 layout: alpha_item
 collection: alpha2
 ---

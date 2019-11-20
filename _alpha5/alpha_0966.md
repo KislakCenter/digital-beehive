@@ -1,32 +1,30 @@
 ---
 pid: alpha_0966
 volume: Volume 2
-image_number: '60'
+image_number: '59'
 head: 
-entry: Travelling
-topic: Travelling
+entry: Too slow or quick
+topic: Too slow or quick
 first_letter: T
-xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Vagabonds</a>|Departure|<a href='/digital-beehive/toc/toc2_223/'>1149
-  [Travelling]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4222/'>travelling</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d0f258fc8"
+xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|too late|<a href='/digital-beehive/num1/num_0020/'>20
+  [Too late]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4182/'>too slow or quick</a>"
+item: "#item-5bc71e62e"
 unparsed: 
-line: 'Entry: Travelling|Topic: Travelling|Xref: Vagabonds|Xref: Departure|Xref: 1149
-  [Travelling]|Index: travelling|#item-d0f258fc8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,2937,569/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565115155751
-order: '966'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,2937,569/full/0/default.jpg
-label: Travelling
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: too
+  late|Xref: 20 [Too late]|Index: too slow or quick|#item-5bc71e62e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529521675271
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
+label: Too slow or quick
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+num_match: 
+order: '031'
 layout: alpha_item
 collection: alpha5
 ---

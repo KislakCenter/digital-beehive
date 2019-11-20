@@ -2,29 +2,27 @@
 pid: index_3984
 volume: Volume 3
 image_number: '46'
-head: sun rising, setting
-entry: 4612 [PAGE_MISSING]
+head: sunday
+entry: "<a href='/digital-beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_077/'>p.27 [Image 1.87]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-324d017cb"
+item: "#item-6813b9ec9"
 unparsed: 
-line: 'Head: sun rising, setting|Page: p.27 [Image 1.87]|Entry: 4612 [PAGE_MISSING]|#item-324d017cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/full/0/default.jpg
+line: 'Head: sunday|Entry: 511 [First day of the Week]|#item-6813b9ec9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530472936835
-order: '3984'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/432,1003,612,152/full/0/default.jpg
-label: sun rising, setting
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473028541
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/150,/0/default.jpg
+label: sunday
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1230'
 layout: index_item
 collection: index4
 ---

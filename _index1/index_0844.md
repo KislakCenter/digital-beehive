@@ -2,29 +2,27 @@
 pid: index_0844
 volume: Volume 3
 image_number: '14'
-head: copper
-entry: 1881 [PAGE_MISSING]
+head: copy
+entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Copy]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1344/'>exemplar</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1997faa53"
+item: "#item-169833124"
 unparsed: 
-line: 'Head: copper|Entry: 1881 [PAGE_MISSING]|#item-1997faa53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/full/0/default.jpg
+line: 'Head: copy|See: exemplar|Entry: 452 [Copy]|#item-169833124'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559839261
-order: '844'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/full/0/default.jpg
-label: copper
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559880868
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/150,/0/default.jpg
+label: copy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0842'
 layout: index_item
 collection: index1
 ---

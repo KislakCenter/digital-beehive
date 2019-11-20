@@ -2,29 +2,28 @@
 pid: index_4570
 volume: Volume 3
 image_number: '53'
-head: 7. wise men of Greece
-entry: "<a href='/digital-beehive/toc/toc2_114/'>460 [Wise men of Greece]</a>"
+head: wit. witticism
+entry: "<a href='/digital-beehive/num2/num_0357/'>313 [Wit]</a>|<a href='/digital-beehive/toc/toc2_413/'>2383
+  [Wit]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-41aaccc93"
+item: "#item-43eb9c689"
 unparsed: 
-line: 'Head: 7. wise men of Greece|Entry: 460 [Wise men of Greece]|#item-41aaccc93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1081,694,119/full/0/default.jpg
+line: 'Head: wit. witticism|Entry: 313 [Wit]|Entry: 2383 [Wit]|#item-43eb9c689'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791774419
-order: '4570'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1081,694,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1081,694,119/full/0/default.jpg
-label: 7. wise men of Greece
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792021065
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/150,/0/default.jpg
+label: wit. witticism
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '537'
 layout: index_item
 collection: index5
 ---

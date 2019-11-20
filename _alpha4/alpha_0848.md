@@ -3,30 +3,26 @@ pid: alpha_0848
 volume: Volume 2
 image_number: '51'
 head: 
-entry: Selfwilledness
-topic: Selfwilledness
+entry: Self denial
+topic: Self denial
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0648/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_186/'>1005
-  [Self will]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3630/'>Self will</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ef0ac887c"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>938 [Self denial]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3613/'>Self denial</a>"
+item: "#item-e12c96c89"
 unparsed: 
-line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [Self
-  will]|Index: Self will|#item-ef0ac887c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,3022,366/full/0/default.jpg
+line: 'Entry: Self denial|Topic: Self denial|Xref: 938 [Self denial]|Index: Self denial|#item-e12c96c89'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/313,2041,3034,343/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530201434479
-order: '848'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,4124,3022,366/full/0/default.jpg
-label: Selfwilledness
+annotation_uri: http://dev.llgc.org.uk/annotation/1530200966858
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/313,2041,600,180/250,/0/default.jpg
+label: Self denial
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+num_match: 
+order: '200'
 layout: alpha_item
 collection: alpha4
 ---

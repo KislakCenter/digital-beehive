@@ -1,30 +1,28 @@
 ---
 pid: alpha_1033
 volume: Volume 2
-image_number: '65'
+image_number: '64'
 head: 
-entry: Wolf
-topic: Wolf
+entry: Widowhood
+topic: Widowhood
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4587/'>wolf</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3595fd35e"
+xref: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Widow]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4545/'>widowhood</a>"
+item: "#item-1d9195d67"
 unparsed: 
-line: 'Entry: Wolf|Topic: Wolf|Xref: 1535 [Lycanthropia]|Index: wolf|#item-3595fd35e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,2973,344/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592949023
-order: '1033'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,2973,344/full/0/default.jpg
-label: Wolf
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+line: 'Entry: Widowhood|Topic: Widowhood|Xref: 1615 [Widow]|Index: widowhood|#item-1d9195d67'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,2933,432/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529590854947
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,600,180/250,/0/default.jpg
+label: Widowhood
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+num_match: 
+order: '098'
 layout: alpha_item
 collection: alpha5
 ---

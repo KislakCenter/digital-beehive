@@ -2,29 +2,27 @@
 pid: index_1169
 volume: Volume 3
 image_number: '18'
-head: dumb
-entry: "<a href='/digital-beehive/toc/toc2_128/'>551 [WORD_ILLEGIBLE]</a>"
+head: dung. dunghil
+entry: "<a href='/digital-beehive/alpha1/alpha_0267/'>a</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2f87f3e94"
+item: "#item-645c35fd4"
 unparsed: 
-line: 'Head: dumb|Entry: 551 [WORD_ILLEGIBLE]|#item-2f87f3e94'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/440,689,291,114/full/0/default.jpg
+line: 'Head: dung. dunghil|Entry: a|#item-645c35fd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/445,791,492,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559663633382
-order: '1169'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/440,689,291,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/440,689,291,114/full/0/default.jpg
-label: dumb
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663765430
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/445,791,492,143/150,/0/default.jpg
+label: dung. dunghil
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1166'
 layout: index_item
 collection: index1
 ---

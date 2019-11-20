@@ -2,29 +2,27 @@
 pid: index_4437
 volume: Volume 3
 image_number: '51'
-head: uproar
-entry: 726 [PAGE_MISSING]
+head: to uphold
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c5b1e9231"
+item: "#item-7a6b75675"
 unparsed: 
-line: 'Head: uproar|Entry: 726 [PAGE_MISSING]|#item-c5b1e9231'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/951,642,424,106/full/0/default.jpg
+line: 'Head: to uphold|Entry: 1339 [To maintain]|#item-7a6b75675'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646522187
-order: '4437'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/951,642,424,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/951,642,424,106/full/0/default.jpg
-label: uproar
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646558312
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/150,/0/default.jpg
+label: to uphold
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '404'
 layout: index_item
 collection: index5
 ---

@@ -3,28 +3,27 @@ pid: alpha_0325
 volume: Volume 2
 image_number: '11'
 head: 
-entry: First
-topic: First
+entry: Fire
+topic: Fire
 first_letter: F
-xref: "<a href='/digital-beehive/alpha1/alpha_0074/'>Beginning</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1459/'>first</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b922f4d19"
+xref: Incendiary|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152 [Fire]</a>
+see: 
+index: "<a href='/digital-beehive/index2/index_1454/'>fire</a>"
+item: "#item-c2d913b30"
 unparsed: 
-line: 'Entry: First|Topic: First|Xref: Beginning|Index: first|#item-b922f4d19'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,3130,3012,533/full/0/default.jpg
+line: 'Entry: Fire|Topic: Fire|Xref: Incendiary|Xref: Coal|Xref: 1152 [Fire]|Index:
+  fire|#item-c2d913b30'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,3031,424/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833818598
-order: '325'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,3130,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,3130,3012,533/full/0/default.jpg
-label: First
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833755734
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,600,180/250,/0/default.jpg
+label: Fire
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
+num_match: 
+order: '056'
 layout: alpha_item
 collection: alpha2
 ---

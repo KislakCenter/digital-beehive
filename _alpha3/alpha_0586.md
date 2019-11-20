@@ -3,30 +3,28 @@ pid: alpha_0586
 volume: Volume 2
 image_number: '32'
 head: 
-entry: Metal
-topic: Metal
+entry: Merchandize
+topic: Merchandize
 first_letter: M
-xref: viscera terrae|<a href='/digital-beehive/alpha3/alpha_0592/'>Minerals</a>|<a
-  href='/digital-beehive/toc/toc2_226/'>1164 [Metal]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2498/'>metal</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ecdd9765c"
+xref: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop Keeper]</a>|<a href='/digital-beehive/toc/toc2_143/'>631
+  [Merchants]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2488/'>merchandize</a>"
+item: "#item-062123453"
 unparsed: 
-line: 'Entry: Metal|Topic: Metal|Xref: viscera terrae|Xref: Minerals|Xref: 1164 [Metal]|Index:
-  metal|#item-ecdd9765c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,2988,489/full/0/default.jpg
+line: 'Entry: Merchandize|Topic: Merchandize|Xref: 109 [a Shop Keeper]|Xref: 631 [Merchants]|Index:
+  merchandize|#item-062123453'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/723,2505,2979,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775076331
-order: '586'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,2988,489/full/0/default.jpg
-label: Metal
+annotation_uri: http://dev.llgc.org.uk/annotation/1564774391506
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/723,2505,600,180/250,/0/default.jpg
+label: Merchandize
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+num_match: 
+order: '142'
 layout: alpha_item
 collection: alpha3
 ---

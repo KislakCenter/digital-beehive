@@ -2,29 +2,27 @@
 pid: index_3434
 volume: Volume 3
 image_number: '40'
-head: ripeness
-entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Ripeness]</a>"
+head: rival
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4455 [Rival]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f383a352d"
+item: "#item-b785141a6"
 unparsed: 
-line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
+line: 'Head: rival|See: envy|Entry: 4455 [Rival]|#item-b785141a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
-order: '3434'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
-label: ripeness
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232604060
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/150,/0/default.jpg
+label: rival
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0681'
 layout: index_item
 collection: index4
 ---

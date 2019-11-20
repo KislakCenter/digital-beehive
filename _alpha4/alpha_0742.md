@@ -1,32 +1,30 @@
 ---
 pid: alpha_0742
 volume: Volume 2
-image_number: '44'
+image_number: '43'
 head: 
-entry: Proof
-topic: Proof
+entry: Progress
+topic: Progress
 first_letter: P
-xref: "<a href='/digital-beehive/alpha5/alpha_0939/'>Testimony</a>|argument|<a href='/digital-beehive/toc/toc2_170/'>913
-  [Proof]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3192/'>proof, or trial</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e4d9f00a8"
+xref: "<a href='/digital-beehive/alpha3/alpha_0469/'>Increase</a>|<a href='/digital-beehive/alpha1/alpha_0219/'>Degree</a>|778
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3183/'>progress</a>"
+item: "#item-e5e9e75fd"
 unparsed: 
-line: 'Entry: Proof|Topic: Proof|Xref: Testimony|Xref: argument|Xref: 913 [Proof]|Index:
-  proof, or trial|#item-e4d9f00a8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/809,216,2990,521/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528720384077
-order: '742'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/809,216,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/809,216,2990,521/full/0/default.jpg
-label: Proof
-location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+line: 'Entry: Progress|Topic: Progress|Xref: Increase|Xref: Degree|Xref: 778 [PAGE_MISSING]|Index:
+  progress|#item-e5e9e75fd'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/330,3059,3017,504/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565100581952
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/330,3059,600,180/250,/0/default.jpg
+label: Progress
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+num_match: 
+order: '095'
 layout: alpha_item
 collection: alpha4
 ---

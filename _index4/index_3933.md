@@ -2,30 +2,27 @@
 pid: index_3933
 volume: Volume 3
 image_number: '45'
-head: stratagem
-entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>|<a href='/digital-beehive/toc/toc2_329/'>1673
-  [Stratagem]</a>"
+head: strawberries
+entry: 4603 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ab5e589ae"
+item: "#item-0f90beeb1"
 unparsed: 
-line: 'Head: stratagem|Entry: a|Entry: 1673 [Stratagem]|#item-ab5e589ae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/full/0/default.jpg
+line: 'Head: strawberries|Entry: 4603 [PAGE_MISSING]|#item-0f90beeb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2060,611,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290744704
-order: '3933'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/full/0/default.jpg
-label: stratagem
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290763308
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2060,611,89/150,/0/default.jpg
+label: strawberries
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1180'
 layout: index_item
 collection: index4
 ---

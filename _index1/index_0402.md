@@ -6,25 +6,23 @@ head: body of Christ
 entry: "<a href='/digital-beehive/toc/toc2_134/'>583 [Body]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a11baee38"
 unparsed: 
 line: 'Head: body of Christ|Entry: a|Entry: 583 [Body]|#item-a11baee38'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,377,417,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565635048479
-order: '402'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,377,417,163/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,377,417,163/full/0/default.jpg
 label: body of Christ
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+insertion_xref: 
+order: '0401'
 layout: index_item
 collection: index1
 ---

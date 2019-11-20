@@ -2,30 +2,27 @@
 pid: index_3469
 volume: Volume 3
 image_number: '40'
-head: rumor
-entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_392/'>2242 [Report &
-  hear-say]</a>
+head: to run
+entry: 771 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b5755c250"
+item: "#item-983dbc461"
 unparsed: 
-line: 'Head: rumor|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & hear-say]|#item-b5755c250'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/full/0/default.jpg
+line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234214692
-order: '3469'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/full/0/default.jpg
-label: rumor
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/150,/0/default.jpg
+label: to run
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0716'
 layout: index_item
 collection: index4
 ---

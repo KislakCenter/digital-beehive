@@ -2,29 +2,28 @@
 pid: index_3170
 volume: Volume 3
 image_number: '37'
-head: privy parts
-entry: "<a href='/digital-beehive/toc/toc2_114/'>458 [Privy parts]</a>"
+head: probability
+entry: "<a href='/digital-beehive/num1/num_0265/'>246 [Probability]</a>|<a href='/digital-beehive/toc/toc2_386/'>2206
+  [Probability]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ce41a5f3c"
+item: "#item-b13adec1b"
 unparsed: 
-line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,936,441,121/full/0/default.jpg
+line: 'Head: probability|Entry: 246 [Probability]|Entry: 2206 [Probability]|#item-b13adec1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
-order: '3170'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,936,441,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,936,441,121/full/0/default.jpg
-label: privy parts
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867712416
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/150,/0/default.jpg
+label: probability
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0418'
 layout: index_item
 collection: index4
 ---

@@ -2,31 +2,27 @@
 pid: index_1174
 volume: Volume 3
 image_number: '18'
-head: duty
-entry: "<a href='/digital-beehive/toc/toc2_240/'>1232 [Do what thou oughtst]</a>|<a
-  href='/digital-beehive/toc/toc2_266/'>1362 [Duties of Believers]</a>"
+head: duty towards God, parents
+entry: "<a href='/digital-beehive/toc/toc2_281/'>1439 [Duty towards God]</a>"
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index4/index_2774/'>office</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-009a6f1d2"
+item: "#item-07854218b"
 unparsed: 
-line: 'Head: duty|See: office|Entry: 1232 [Do what thou oughtst]|Entry: 1362 [Duties
-  of Believers]|#item-009a6f1d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/448,1047,729,116/full/0/default.jpg
+line: 'Head: duty towards God, parents|Entry: 1439 [Duty towards God]|#item-07854218b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,1147,801,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559664612548
-order: '1174'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/448,1047,729,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/448,1047,729,116/full/0/default.jpg
-label: duty
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664796083
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,1147,801,118/150,/0/default.jpg
+label: duty towards God, parents
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1171'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_3868
 volume: Volume 3
 image_number: '44'
-head: square
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [Square]</a>"
+head: to Squeeze
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 392 [Press]
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-004946124"
+item: "#item-76352927e"
 unparsed: 
-line: 'Head: square|Entry: 907 [Square]|#item-004946124'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,1989,381,95/full/0/default.jpg
+line: 'Head: to Squeeze|See: 392 [Press]|#item-76352927e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1819,2093,569,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105648092
-order: '3868'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,1989,381,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,1989,381,95/full/0/default.jpg
-label: square
+annotation_uri: http://dev.llgc.org.uk/annotation/1530105718677
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1819,2093,569,123/150,/0/default.jpg
+label: to Squeeze
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1115'
 layout: index_item
 collection: index4
 ---

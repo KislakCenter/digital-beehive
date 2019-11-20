@@ -2,29 +2,27 @@
 pid: index_0938
 volume: Volume 3
 image_number: '15'
-head: cynicks
-entry: "<a href='/digital-beehive/toc/toc2_226/'>1161 [Cynicks]</a>"
+head: Dainty meats
+entry: "<a href='/digital-beehive/toc/toc2_155/'>696 [Dainty meats]</a>"
 topic: 
-first_letter: C
-xref: 
-see: 
+first_letter: D
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e8c7dd39e"
+item: "#item-5f95bfd5d"
 unparsed: 
-line: 'Head: cynicks|Entry: 1161 [Cynicks]|#item-e8c7dd39e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/full/0/default.jpg
+line: 'Head: Dainty meats|Entry: 696 [Dainty meats]|#item-5f95bfd5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390874499
-order: '938'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/full/0/default.jpg
-label: cynicks
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390904986
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/150,/0/default.jpg
+label: Dainty meats
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0935'
 layout: index_item
 collection: index1
 ---

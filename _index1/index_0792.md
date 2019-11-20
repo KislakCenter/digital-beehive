@@ -2,29 +2,27 @@
 pid: index_0792
 volume: Volume 3
 image_number: '14'
-head: to confront
-entry: "<a href='/digital-beehive/toc/toc2_279/'>1427 [To Confront]</a>"
+head: confusion
+entry: 
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1087/'>disorder</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-01cc9a84f"
+item: "#item-52ca7b716"
 unparsed: 
-line: 'Head: to confront|Entry: 1427 [To Confront]|#item-01cc9a84f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1185,251,589,130/full/0/default.jpg
+line: 'Head: confusion|See: disorder|#item-52ca7b716'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,346,713,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541060263
-order: '792'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1185,251,589,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1185,251,589,130/full/0/default.jpg
-label: to confront
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541087922
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,346,713,147/150,/0/default.jpg
+label: confusion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0790'
 layout: index_item
 collection: index1
 ---

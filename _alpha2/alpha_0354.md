@@ -1,30 +1,28 @@
 ---
 pid: alpha_0354
 volume: Volume 2
-image_number: '14'
+image_number: '13'
 head: 
-entry: Garden
-topic: Garden
-first_letter: G
-xref: 1890 [PAGE_MISSING]
-see: 
+entry: Future
+topic: Future
+first_letter: F
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1581/'>garden</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a287d6012"
+xref: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Future]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1570/'>future</a>"
+item: "#item-bc91c9cd4"
 unparsed: 
-line: 'Entry: Garden|Topic: Garden|Xref: 1890 [PAGE_MISSING]|Index: garden|#item-a287d6012'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/774,218,2999,501/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564601205800
-order: '354'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/774,218,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/774,218,2999,501/full/0/default.jpg
-label: Garden
-location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
+line: 'Entry: Future|Topic: Future|Xref: 1421 [Future]|Index: future|#item-bc91c9cd4'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,3009,655/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564600653441
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,600,180/250,/0/default.jpg
+label: Future
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
+num_match: 
+order: '085'
 layout: alpha_item
 collection: alpha2
 ---

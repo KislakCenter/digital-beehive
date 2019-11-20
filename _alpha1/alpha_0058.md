@@ -6,14 +6,11 @@ head:
 entry: Banquetting Stuff
 topic: Banquetting Stuff
 first_letter: B
-xref: "<a href='/digital-beehive/toc/toc2_064/'>76 [Dainty meats]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/num1/num_0077/'>76 [Dainty meats]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0287/'>banquetting stuff</a>"
-insertion_xref: 
-insertion: 
 item: "#item-680b110e2"
 unparsed: 
 line: 'Entry: Banquetting Stuff|Topic: Banquetting Stuff|Xref: 76 [Dainty meats]|Index:
@@ -21,11 +18,12 @@ line: 'Entry: Banquetting Stuff|Topic: Banquetting Stuff|Xref: 76 [Dainty meats]
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,1382,3091,375/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558807668402
-order: '58'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,1382,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,1382,3091,375/full/0/default.jpg
 label: Banquetting Stuff
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
+num_match: 
+order: '057'
 layout: alpha_item
 collection: alpha1
 ---

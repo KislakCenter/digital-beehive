@@ -2,29 +2,27 @@
 pid: index_1851
 volume: Volume 3
 image_number: '24'
-head: hive
-entry: "<a href='/digital-beehive/toc/toc2_307/'>1565 [Hive]</a>"
+head: "[:58.]"
+entry: 
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-15c2377c4"
-unparsed: 
-line: 'Head: hive|Entry: 1565 [Hive]|#item-15c2377c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,686,355,157/full/0/default.jpg
+item: "#item-b3038d87e"
+unparsed: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
+line: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1018,784,167,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198295948
-order: '1851'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,686,355,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,686,355,157/full/0/default.jpg
-label: hive
+annotation_uri: http://dev.llgc.org.uk/annotation/1560198284792
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1018,784,167,90/150,/0/default.jpg
+label: "[:58.]"
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4727/'>heros</a>"
+order: '670'
 layout: index_item
 collection: index2
 ---

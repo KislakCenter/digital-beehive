@@ -6,25 +6,23 @@ head: lusty
 entry: "<a href='/digital-beehive/toc/toc2_164/'>882 [Pleasure]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-05fed984b"
 unparsed: 
 line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
-order: '2369'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/full/0/default.jpg
 label: lusty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '449'
 layout: index_item
 collection: index3
 ---

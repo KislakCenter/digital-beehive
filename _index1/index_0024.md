@@ -2,29 +2,28 @@
 pid: index_0024
 volume: Volume 3
 image_number: '7'
-head: accessary
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1384 [Alliance]</a>"
+head: accident
+entry: "<a href='/digital-beehive/toc/toc2_129/'>555 [Accident]</a>|<a href='/digital-beehive/toc/toc2_427/'>4484
+  [Accident]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-98fb0cd50"
+item: "#item-530c6efcc"
 unparsed: 
-line: 'Head: accessary|Entry: 1384 [Alliance]|#item-98fb0cd50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,2093,592,104/full/0/default.jpg
+line: 'Head: accident|Entry: 555 [Accident]|Entry: 4484 [Accident]|#item-530c6efcc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/186,2172,680,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191366719
-order: '24'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,2093,592,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,2093,592,104/full/0/default.jpg
-label: accessary
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759719484
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/186,2172,680,134/150,/0/default.jpg
+label: accident
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0023'
 layout: index_item
 collection: index1
 ---

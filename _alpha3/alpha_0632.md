@@ -1,31 +1,30 @@
 ---
 pid: alpha_0632
 volume: Volume 2
-image_number: '36'
+image_number: '35'
 head: 
-entry: Neighbour
-topic: Neighbour
+entry: Naughtiness
+topic: Naughtiness
 first_letter: N
-xref: "<a href='/digital-beehive/alpha3/alpha_0554/'>love of our neighbour</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2682/'>neighbour</a>"
-insertion_xref: 
-insertion: 
-item: "#item-54616bebe"
+xref: "<a href='/digital-beehive/alpha3/alpha_0569/'>Malignity</a>|<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a
+  href='/digital-beehive/toc/toc2_280/'>1432 [Naughtiness]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2662/'>naughtiness</a>"
+item: "#item-c20a79fcf"
 unparsed: 
-line: 'Entry: Neighbour|Topic: Neighbour|Xref: love of our neighbour|Xref: 4617 [PAGE_MISSING]|Index:
-  neighbour|#item-54616bebe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,3035,568/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1513195632899
-order: '632'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,3035,568/full/0/default.jpg
-label: Neighbour
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xref:
+  1432 [Naughtiness]|Index: naughtiness|#item-c20a79fcf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,3223,2979,447/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1510169662283
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,3223,600,180/250,/0/default.jpg
+label: Naughtiness
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '188'
 layout: alpha_item
 collection: alpha3
 ---

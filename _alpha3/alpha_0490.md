@@ -3,28 +3,26 @@ pid: alpha_0490
 volume: Volume 2
 image_number: '24'
 head: 
-entry: Italy
-topic: Italy
+entry: Iron
+topic: Iron
 first_letter: I/J
-xref: "<a href='/digital-beehive/toc/toc2_269/'>1379 [Italy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2126/'>Italy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d4f2cb8a7"
+xref: 4549 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index3/index_2116/'>iron</a>"
+item: "#item-a5dae48ef"
 unparsed: 
-line: 'Entry: Italy|Topic: Italy|Xref: 1379 [Italy]|Index: Italy|#item-d4f2cb8a7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,3605,3039,377/full/0/default.jpg
+line: 'Entry: Iron|Topic: Iron|Xref: 4549 [PAGE_MISSING]|Index: iron|#item-a5dae48ef'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/720,3378,2955,378/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564762060528
-order: '490'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,3605,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,3605,3039,377/full/0/default.jpg
-label: Italy
+annotation_uri: http://dev.llgc.org.uk/annotation/1564762014016
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/720,3378,600,180/250,/0/default.jpg
+label: Iron
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+num_match: 
+order: '046'
 layout: alpha_item
 collection: alpha3
 ---

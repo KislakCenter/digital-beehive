@@ -3,28 +3,26 @@ pid: alpha_0332
 volume: Volume 2
 image_number: '12'
 head: 
-entry: Flight
-topic: Flight
+entry: Flies
+topic: Flies
 first_letter: F
-xref: "<a href='/digital-beehive/toc/toc2_148/'>660 [Flight]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1482/'>flight</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f62671716"
+xref: "<a href='/digital-beehive/toc/toc2_186/'>1002 [Flies]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1481/'>flie</a>"
+item: "#item-4b9a56ee5"
 unparsed: 
-line: 'Entry: Flight|Topic: Flight|Xref: 660 [Flight]|Index: flight|#item-f62671716'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,3051,589/full/0/default.jpg
+line: 'Entry: Flies|Topic: Flies|Xref: 1002 [Flies]|Index: flie|#item-4b9a56ee5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/750,767,3019,403/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563204642340
-order: '332'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,991,3051,589/full/0/default.jpg
-label: Flight
+annotation_uri: http://dev.llgc.org.uk/annotation/1563204530986
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/750,767,600,180/250,/0/default.jpg
+label: Flies
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
+num_match: 
+order: '063'
 layout: alpha_item
 collection: alpha2
 ---

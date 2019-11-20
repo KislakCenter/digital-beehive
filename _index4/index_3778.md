@@ -2,29 +2,27 @@
 pid: index_3778
 volume: Volume 3
 image_number: '43'
-head: royal Society
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1056 [Royal Society]</a>"
+head: Socrates
+entry: "<a href='/digital-beehive/toc/toc2_221/'>1140 [Socrates]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b7ead6776"
+item: "#item-8e3ea6c29"
 unparsed: 
-line: 'Head: royal Society|Entry: 1056 [Royal Society]|#item-b7ead6776'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1563,2020,540,117/full/0/default.jpg
+line: 'Head: Socrates|Entry: 1140 [Socrates]|#item-8e3ea6c29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586171610
-order: '3778'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1563,2020,540,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1563,2020,540,117/full/0/default.jpg
-label: royal Society
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586243745
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/150,/0/default.jpg
+label: Socrates
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1025'
 layout: index_item
 collection: index4
 ---

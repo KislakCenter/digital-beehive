@@ -2,29 +2,27 @@
 pid: index_3883
 volume: Volume 3
 image_number: '45'
-head: state of the Case
-entry: "<a href='/digital-beehive/toc/toc2_326/'>1660 [State of the Case]</a>"
+head: man's States
+entry: "<a href='/digital-beehive/toc/toc2_201/'>1040 [Man's State]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9d6753f01"
+item: "#item-1e367075d"
 unparsed: 
-line: 'Head: state of the Case|Entry: 1660 [State of the Case]|#item-9d6753f01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,360,536,117/full/0/default.jpg
+line: 'Head: man''s States|Entry: 1040 [Man''s State]|#item-1e367075d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,488,571,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289873997
-order: '3883'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,360,536,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,360,536,117/full/0/default.jpg
-label: state of the Case
+annotation_uri: http://dev.llgc.org.uk/annotation/1530107807852
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,488,571,102/150,/0/default.jpg
+label: man's States
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1130'
 layout: index_item
 collection: index4
 ---

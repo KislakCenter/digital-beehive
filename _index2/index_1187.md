@@ -2,29 +2,27 @@
 pid: index_1187
 volume: Volume 3
 image_number: '18'
-head: earnest money
-entry: "<a href='/digital-beehive/toc/toc2_128/'>546 [WORD_ILLEGIBLE]</a>"
+head: earth fleas
+entry: 
 topic: 
 first_letter: E
+page: "<a href='/digital-beehive/toc/toc1_281/'>p.140 [Image 1.291]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-593ccc608"
+item: "#item-06dc62c3d"
 unparsed: 
-line: 'Head: earnest money|Entry: 546 [WORD_ILLEGIBLE]|#item-593ccc608'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/full/0/default.jpg
+line: 'Head: earth fleas|Page: p.140 [Image 1.291]|#item-06dc62c3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666986380
-order: '1187'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/full/0/default.jpg
-label: earnest money
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669068258
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/150,/0/default.jpg
+label: earth fleas
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '007'
 layout: index_item
 collection: index2
 ---

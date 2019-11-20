@@ -3,29 +3,26 @@ pid: alpha_0817
 volume: Volume 2
 image_number: '49'
 head: 
-entry: Saints
-topic: Saints
-first_letter: S
-xref: "<a href='/digital-beehive/alpha2/alpha_0423/'>holiness</a>|<a href='/digital-beehive/toc/toc2_380/'>2149
-  [Saints]</a>"
-see: 
+entry: Rue
+topic: Rue
+first_letter: R
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3496/'>Saints</a>"
-insertion_xref: 
-insertion: 
-item: "#item-dd78f757e"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3461/'>rue</a>"
+item: "#item-507d497a9"
 unparsed: 
-line: 'Entry: Saints|Topic: Saints|Xref: holiness|Xref: 2149 [Saints]|Index: Saints|#item-dd78f757e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,3018,451/full/0/default.jpg
+line: 'Entry: Rue|Topic: Rue|Index: rue|#item-507d497a9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/307,1848,3023,247/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528917835756
-order: '817'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,3018,451/full/0/default.jpg
-label: Saints
+annotation_uri: http://dev.llgc.org.uk/annotation/1528828962507
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/307,1848,600,180/250,/0/default.jpg
+label: Rue
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+num_match: 
+order: '169'
 layout: alpha_item
 collection: alpha4
 ---

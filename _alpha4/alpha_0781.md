@@ -1,31 +1,30 @@
 ---
 pid: alpha_0781
 volume: Volume 2
-image_number: '47'
+image_number: '46'
 head: 
-entry: Reliques
-topic: Reliques
+entry: Redemption
+topic: Redemption
 first_letter: R
-xref: Old rags|<a href='/digital-beehive/toc/toc2_270/'>1385 [Reliques]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3351/'>reliques</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d3ad071e9"
+xref: "<a href='/digital-beehive/alpha4/alpha_0829/'>Saviour</a>|deliverance|<a href='/digital-beehive/alpha4/alpha_0828/'>Salvation</a>|<a
+  href='/digital-beehive/toc/toc2_404/'>2306 [Redemption]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3328/'>redemption</a>"
+item: "#item-6483207bc"
 unparsed: 
-line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
-  reliques|#item-d3ad071e9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,3052,416/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1523300704294
-order: '781'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,3052,416/full/0/default.jpg
-label: Reliques
-location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+line: 'Entry: Redemption|Topic: Redemption|Xref: Saviour|Xref: deliverance|Xref: Salvation|Xref:
+  2306 [Redemption]|Index: redemption|#item-6483207bc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,2975,469/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565104849977
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,600,180/250,/0/default.jpg
+label: Redemption
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '134'
 layout: alpha_item
 collection: alpha4
 ---

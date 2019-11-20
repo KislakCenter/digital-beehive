@@ -3,28 +3,26 @@ pid: alpha_0517
 volume: Volume 2
 image_number: '26'
 head: 
-entry: Late
-topic: Late
+entry: Latin
+topic: Latin
 first_letter: L
-xref: Too late
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2bad963b5"
+xref: "<a href='/digital-beehive/toc/toc2_433/'>4825 [Latin]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2216/'>latin</a>"
+item: "#item-22ec67ff1"
 unparsed: 
-line: 'Entry: Late|Topic: Late|Xref: Too late|Xref:  4786 [PAGE_MISSING]|Index: late|#item-2bad963b5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,2964,316/full/0/default.jpg
+line: 'Entry: Latin|Topic: Latin|Xref: 4825 [Latin]|Index: latin|#item-22ec67ff1'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,3940,2962,416/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766849824
-order: '517'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,2964,316/full/0/default.jpg
-label: Late
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766802682
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,3940,600,180/250,/0/default.jpg
+label: Latin
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+num_match: 
+order: '073'
 layout: alpha_item
 collection: alpha3
 ---

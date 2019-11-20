@@ -2,30 +2,27 @@
 pid: index_3546
 volume: Volume 3
 image_number: '41'
-head: schism
-entry: "<a href='/digital-beehive/toc/toc2_121/'>505 [Sect]</a>|<a href='/digital-beehive/toc/toc2_268/'>1373
-  [Sects]</a>"
+head: schole fellows
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Schoolfellow]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d4b71e864"
+item: "#item-106e9a67c"
 unparsed: 
-line: 'Head: schism|Entry: 505 [Sect]|Entry: 1373 [Sects]|#item-d4b71e864'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/837,894,633,132/full/0/default.jpg
+line: 'Head: schole fellows|Entry: 1416 [Schoolfellow]|#item-106e9a67c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240409266
-order: '3546'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/837,894,633,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/837,894,633,132/full/0/default.jpg
-label: schism
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240513597
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/150,/0/default.jpg
+label: schole fellows
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0793'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,26 @@ pid: alpha_0659
 volume: Volume 2
 image_number: '37'
 head: 
-entry: Opinion
-topic: Opinion
+entry: Old Adam
+topic: Old Adam
 first_letter: O
-xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/digital-beehive/toc/toc2_199/'>1029
-  [Opinion]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2806/'>opinion</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e0c8b8a70"
+xref: "<a href='/digital-beehive/toc/toc2_334/'>1697 [Old Adam]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2783/'>old Adam</a>"
+item: "#item-978d15000"
 unparsed: 
-line: 'Entry: Opinion|Topic: Opinion|Xref: Imagination|Xref: 1029 [Opinion]|Index:
-  opinion|#item-e0c8b8a70'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/307,4285,3075,471/full/0/default.jpg
+line: 'Entry: Old Adam|Topic: Old Adam|Xref: 1697 [Old Adam]|Index: old Adam|#item-978d15000'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/312,2910,3051,378/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018089174
-order: '659'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/307,4285,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/307,4285,3075,471/full/0/default.jpg
-label: Opinion
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017586284
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/312,2910,600,180/250,/0/default.jpg
+label: Old Adam
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '012'
 layout: alpha_item
 collection: alpha4
 ---

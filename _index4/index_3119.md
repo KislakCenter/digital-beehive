@@ -2,29 +2,27 @@
 pid: index_3119
 volume: Volume 3
 image_number: '36'
-head: precipitation
-entry: 
+head: precise
+entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
 topic: 
 first_letter: P
-xref: 
-see: "<a href='/digital-beehive/index5/index_4177/'>too hasty</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9616bc4eb"
+item: "#item-62c81c7ab"
 unparsed: 
-line: 'Head: precipitation|See: too hasty|#item-9616bc4eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1860,1834,705,132/full/0/default.jpg
+line: 'Head: precise|Entry: 147 [Exactness]|#item-62c81c7ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1882,1898,446,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440480682
-order: '3119'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1860,1834,705,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1860,1834,705,132/full/0/default.jpg
-label: precipitation
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440503966
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1882,1898,446,111/150,/0/default.jpg
+label: precise
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0367'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_4332
 volume: Volume 3
 image_number: '49'
-head: St Vincent
-entry: "<a href='/digital-beehive/toc/toc2_297/'>1513 [St. Vincent]</a>"
+head: vineyard
+entry: "<a href='/digital-beehive/alpha5/alpha_0994/'>a</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
+  [Vin[e]yards]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f5cc99534"
+item: "#item-43dac4520"
 unparsed: 
-line: 'Head: St Vincent|Entry: 1513 [St. Vincent]|#item-f5cc99534'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1612,1307,498,133/full/0/default.jpg
+line: 'Head: vineyard|Entry: a|Entry: 1990 [Vin[e]yards]|#item-43dac4520'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660239538
-order: '4332'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1612,1307,498,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1612,1307,498,133/full/0/default.jpg
-label: St Vincent
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660662003
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/150,/0/default.jpg
+label: vineyard
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '299'
 layout: index_item
 collection: index5
 ---

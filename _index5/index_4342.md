@@ -2,30 +2,27 @@
 pid: index_4342
 volume: Volume 3
 image_number: '49'
-head: virginity
-entry: "<a href='/digital-beehive/alpha5/alpha_0986/'>a</a>|<a href='/digital-beehive/toc/toc2_366/'>2008
-  [Virgins]</a>"
+head: vision
+entry: "<a href='/digital-beehive/num2/num_0502/'>409 [Vision]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3af17366e"
+item: "#item-ebfa2d080"
 unparsed: 
-line: 'Head: virginity|Entry: a|Entry: 2008 [Virgins]|#item-3af17366e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1619,2481,624,129/full/0/default.jpg
+line: 'Head: vision|Entry: 409 [Vision]|#item-ebfa2d080'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,2752,414,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661152889
-order: '4342'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1619,2481,624,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1619,2481,624,129/full/0/default.jpg
-label: virginity
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661289432
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,2752,414,142/150,/0/default.jpg
+label: vision
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '309'
 layout: index_item
 collection: index5
 ---

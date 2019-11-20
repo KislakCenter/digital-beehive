@@ -3,28 +3,28 @@ pid: alpha_0521
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Laziness
-topic: Laziness
+entry: Law, continued
+topic: Law, continued
 first_letter: L
-xref: negligence
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2230/'>laziness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ae64ce079"
+xref: "<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>|<a href='/digital-beehive/alpha5/alpha_0947/'>New
+  Testamt</a>|786 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_2222/'>Law</a>"
+item: "#item-28853d36d"
 unparsed: 
-line: 'Entry: Laziness|Topic: Laziness|Xref: negligence|Index: laziness|#item-ae64ce079'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/326,1061,3034,435/full/0/default.jpg
+line: 'Entry: Law, continued|Topic: Law, continued|Xref: Law|Xref: New Testamt|Xref:
+  786 [PAGE_MISSING]|Index: Law|#item-28853d36d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/260,235,3115,630/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768490574
-order: '521'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/326,1061,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/326,1061,3034,435/full/0/default.jpg
-label: Laziness
+annotation_uri: http://dev.llgc.org.uk/annotation/1573245334882
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/260,235,600,180/250,/0/default.jpg
+label: Law, continued
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '077'
 layout: alpha_item
 collection: alpha3
 ---

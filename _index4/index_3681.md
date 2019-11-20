@@ -2,29 +2,28 @@
 pid: index_3681
 volume: Volume 3
 image_number: '42'
-head: to shite
-entry: 805 [PAGE_MISSING]
+head: shoe
+entry: "<a href='/digital-beehive/alpha4/alpha_0867/'>a</a>|<a href='/digital-beehive/toc/toc2_287/'>1469
+  [Shoe]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-27f5531b7"
+item: "#item-4bdc4a5b0"
 unparsed: 
-line: 'Head: to shite|Entry: 805 [PAGE_MISSING]|#item-27f5531b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1810,1701,455,117/full/0/default.jpg
+line: 'Head: shoe|Entry: a|Entry: 1469 [Shoe]|#item-4bdc4a5b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576195068
-order: '3681'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1810,1701,455,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1810,1701,455,117/full/0/default.jpg
-label: to shite
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576222379
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/150,/0/default.jpg
+label: shoe
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0928'
 layout: index_item
 collection: index4
 ---

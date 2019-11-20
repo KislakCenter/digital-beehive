@@ -1,31 +1,30 @@
 ---
 pid: alpha_0856
 volume: Volume 2
-image_number: '52'
+image_number: '51'
 head: 
-entry: Shamefacedness
-topic: Shamefacedness
+entry: Sense
+topic: Sense
 first_letter: S
-xref: 789 [PAGE_MISSING]
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3661/'>shamefaced</a>"
-insertion_xref: 
-insertion: 
-item: "#item-bc7a8049a"
+xref: "<a href='/digital-beehive/alpha3/alpha_0480/'>Insensibleness</a>|<a href='/digital-beehive/toc/toc2_181/'>971
+  [NUMERICAL_ENTRY_MISSING]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3635/'>sense</a>"
+item: "#item-9c30c8a87"
 unparsed: 
-line: 'Entry: Shamefacedness|Topic: Shamefacedness|Xref: 789 [PAGE_MISSING]|Index:
-  shamefaced|#item-bc7a8049a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,2956,437/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803382862
-order: '856'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,2956,437/full/0/default.jpg
-label: Shamefacedness
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+line: 'Entry: Sense|Topic: Sense|Xref: Insensibleness|Xref: 971 [NUMERICAL_ENTRY_MISSING]|Index:
+  sense|#item-9c30c8a87'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,4413,3055,475/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530201550960
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,4413,600,180/250,/0/default.jpg
+label: Sense
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+num_match: 
+order: '208'
 layout: alpha_item
 collection: alpha4
 ---

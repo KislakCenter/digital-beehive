@@ -2,29 +2,27 @@
 pid: index_3859
 volume: Volume 3
 image_number: '44'
-head: spoiled
-entry: "<a href='/digital-beehive/toc/toc2_135/'>587 [mouldy]</a>"
+head: sponge
+entry: "<a href='/digital-beehive/num1/num_0022/'>22 [Sponge]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-978387213"
+item: "#item-b641a3bdc"
 unparsed: 
-line: 'Head: spoiled|Entry: 587 [mouldy]|#item-978387213'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1821,1303,379,99/full/0/default.jpg
+line: 'Head: sponge|Page: p.38 [Image 1.98]|Entry: 22 [Sponge]|#item-b641a3bdc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1829,1413,525,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104892200
-order: '3859'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1821,1303,379,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1821,1303,379,99/full/0/default.jpg
-label: spoiled
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104940896
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1829,1413,525,142/150,/0/default.jpg
+label: sponge
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1106'
 layout: index_item
 collection: index4
 ---

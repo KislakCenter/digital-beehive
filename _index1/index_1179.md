@@ -2,29 +2,27 @@
 pid: index_1179
 volume: Volume 3
 image_number: '18'
-head: to dwell
-entry: "<a href='/digital-beehive/toc/toc2_283/'>1446 [To Dwell]</a>"
+head: dying words
+entry: 
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2208/'>last words</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6f049f2d7"
+item: "#item-0de5bf9a0"
 unparsed: 
-line: 'Head: to dwell|Entry: 1446 [To Dwell]|#item-6f049f2d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/full/0/default.jpg
+line: 'Head: dying words|See: last words|#item-0de5bf9a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/417,1563,579,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559664921533
-order: '1179'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/full/0/default.jpg
-label: to dwell
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665311713
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/417,1563,579,122/150,/0/default.jpg
+label: dying words
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1176'
 layout: index_item
 collection: index1
 ---

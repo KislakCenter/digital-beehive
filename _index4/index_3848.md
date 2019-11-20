@@ -2,29 +2,27 @@
 pid: index_3848
 volume: Volume 3
 image_number: '44'
-head: spiritus mundi
-entry: "<a href='/digital-beehive/toc/toc2_314/'>1599 [Spiritus mundi]</a>"
+head: spiritual
+entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e7d6cffe2"
+item: "#item-bc39bb807"
 unparsed: 
-line: 'Head: spiritus mundi|Entry: 1599 [Spiritus mundi]|#item-e7d6cffe2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1097,3429,659,148/full/0/default.jpg
+line: 'Head: spiritual|Entry: a|#item-bc39bb807'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,232,423,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288901098
-order: '3848'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1097,3429,659,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1097,3429,659,148/full/0/default.jpg
-label: spiritus mundi
+annotation_uri: http://dev.llgc.org.uk/annotation/1529943027920
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,232,423,150/150,/0/default.jpg
+label: spiritual
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1095'
 layout: index_item
 collection: index4
 ---

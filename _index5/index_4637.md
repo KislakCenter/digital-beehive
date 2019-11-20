@@ -2,29 +2,27 @@
 pid: index_4637
 volume: Volume 3
 image_number: '53'
-head: Y
-entry: 
+head: yard
+entry: 771 [PAGE_MISSING]
 topic: 
 first_letter: Y
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3c0be044c"
+item: "#item-b875e8f7c"
 unparsed: 
-line: 'Head: Y|Page: p.41 [Image 1.101]|#item-3c0be044c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1589,1422,283,151/full/0/default.jpg
+line: 'Head: yard|Entry: 771 [PAGE_MISSING]|#item-b875e8f7c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1557,1527,349,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798760598
-order: '4637'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1589,1422,283,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1589,1422,283,151/full/0/default.jpg
-label: Y
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798778427
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1557,1527,349,143/150,/0/default.jpg
+label: yard
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '604'
 layout: index_item
 collection: index5
 ---

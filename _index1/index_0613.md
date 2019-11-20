@@ -2,29 +2,27 @@
 pid: index_0613
 volume: Volume 3
 image_number: '12'
-head: charter
-entry: "<a href='/digital-beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
+head: to chase
+entry: "<a href='/digital-beehive/toc/toc2_238/'>1223 [To Chase]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7be07c676"
+item: "#item-4debc9bb1"
 unparsed: 
-line: 'Head: charter|Entry: 635 [Great, rich & eminent Persons]|#item-7be07c676'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/full/0/default.jpg
+line: 'Head: to chase|Entry: 1223 [To Chase]|#item-4debc9bb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1810,694,511,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443980324
-order: '613'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/full/0/default.jpg
-label: charter
+annotation_uri: http://dev.llgc.org.uk/annotation/1532444039003
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1810,694,511,103/150,/0/default.jpg
+label: to chase
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0612'
 layout: index_item
 collection: index1
 ---

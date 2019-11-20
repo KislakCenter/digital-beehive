@@ -6,25 +6,23 @@ head: courtesie
 entry: 
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f7044a5ed"
 unparsed: 
 line: 'Head: courtesie|See: civility|#item-f7044a5ed'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537974965472
-order: '886'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/full/0/default.jpg
 label: courtesie
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0883'
 layout: index_item
 collection: index1
 ---

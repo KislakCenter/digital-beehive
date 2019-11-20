@@ -3,28 +3,27 @@ pid: alpha_0378
 volume: Volume 2
 image_number: '15'
 head: 
-entry: Gray Hairs
-topic: Gray Hairs
+entry: Grace of God
+topic: Grace of God
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1704/'>gray hairs</a>"
-insertion_xref: 
-insertion: 
-item: "#item-de238db6b"
+xref: "<a href='/digital-beehive/toc/toc2_145/'>646 [Grace of God]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1684/'>Grace of God</a>"
+item: "#item-f20619d2c"
 unparsed: 
-line: 'Entry: Gray Hairs|Topic: Gray Hairs|Index: gray hairs|#item-de238db6b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/434,4083,2994,368/full/0/default.jpg
+line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: Grace
+  of God|#item-f20619d2c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/390,3712,3011,437/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564603267920
-order: '378'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/434,4083,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/434,4083,2994,368/full/0/default.jpg
-label: Gray Hairs
+annotation_uri: http://dev.llgc.org.uk/annotation/1564603228332
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/390,3712,600,180/250,/0/default.jpg
+label: Grace of God
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
+num_match: 
+order: '109'
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,25 +6,23 @@ head: Geneva
 entry: "<a href='/digital-beehive/toc/toc2_268/'>1373 [Geneva]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-bd0c480e8"
 unparsed: 
 line: 'Head: Geneva|Entry: 1373 [Geneva]|#item-bd0c480e8'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/419,532,429,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561042048191
-order: '1595'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/419,532,429,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/419,532,429,121/full/0/default.jpg
 label: Geneva
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '415'
 layout: index_item
 collection: index2
 ---

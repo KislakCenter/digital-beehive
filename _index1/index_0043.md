@@ -2,29 +2,27 @@
 pid: index_0043
 volume: Volume 3
 image_number: '7'
-head: adjuration
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1938 [Adjuration]</a>"
+head: admittance
+entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3335/'>refusal</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9fdfacdd8"
+item: "#item-9f19bfbf4"
 unparsed: 
-line: 'Head: adjuration|Entry: 1938 [Adjuration]|#item-9fdfacdd8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/850,365,616,104/full/0/default.jpg
+line: 'Head: admittance|See: refusal|#item-9f19bfbf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/916,406,690,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760718696
-order: '43'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/850,365,616,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/850,365,616,104/full/0/default.jpg
-label: adjuration
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760806422
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/916,406,690,115/150,/0/default.jpg
+label: admittance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0042'
 layout: index_item
 collection: index1
 ---

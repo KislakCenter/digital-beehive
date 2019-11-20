@@ -1,30 +1,29 @@
 ---
 pid: alpha_0544
 volume: Volume 2
-image_number: '29'
+image_number: '28'
 head: 
-entry: Longsufferance
-topic: Longsufferance
+entry: Logick
+topic: Logick
 first_letter: L
-xref: "<a href='/digital-beehive/alpha2/alpha_0337/'>forbearance</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2324/'>long sufferance</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8ae6416e0"
+xref: "<a href='/digital-beehive/alpha1/alpha_0245/'>disputation</a>|<a href='/digital-beehive/toc/toc2_163/'>879
+  [Logick]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2320/'>logick</a>"
+item: "#item-2ed5dcf09"
 unparsed: 
-line: 'Entry: Longsufferance|Topic: Longsufferance|Xref: forbearance|Index: longsufferance|#item-8ae6416e0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,3076,506/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770058675
-order: '544'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,252,3076,506/full/0/default.jpg
-label: Longsufferance
-location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
+line: 'Entry: Logick|Topic: Logick|Xref: disputation|Xref: 879 [Logick]|Index: logick|#item-2ed5dcf09'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/732,4313,2993,534/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769821750
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/732,4313,600,180/250,/0/default.jpg
+label: Logick
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+num_match: 
+order: '100'
 layout: alpha_item
 collection: alpha3
 ---

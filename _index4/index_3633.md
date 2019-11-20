@@ -2,29 +2,27 @@
 pid: index_3633
 volume: Volume 3
 image_number: '42'
-head: senatehouse
-entry: 
+head: to send
+entry: "<a href='/digital-beehive/toc/toc2_152/'>685 [To Send away]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e529251be"
+item: "#item-d33b63050"
 unparsed: 
-line: 'Head: senatehouse|Page: p.5 [Image 1.65]|#item-e529251be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,2859,644,141/full/0/default.jpg
+line: 'Head: to send|Entry: 685 [To Send away]|#item-d33b63050'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/422,2990,445,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245050912
-order: '3633'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,2859,644,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,2859,644,141/full/0/default.jpg
-label: senatehouse
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245127299
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/422,2990,445,143/150,/0/default.jpg
+label: to send
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0880'
 layout: index_item
 collection: index4
 ---

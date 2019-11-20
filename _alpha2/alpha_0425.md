@@ -3,28 +3,28 @@ pid: alpha_0425
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Honesty
-topic: Honesty
+entry: Home
+topic: Home
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_254/'>1303 [Honesty]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1865/'>honesty</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4d4ef6ca7"
+xref: Pilgrimage|<a href='/digital-beehive/toc/toc2_283/'>1446 [Dwell]</a>|<a href='/digital-beehive/alpha1/alpha_0184/'>native
+  Country</a>
+see: 
+index: "<a href='/digital-beehive/index2/index_1860/'>home</a>"
+item: "#item-e0ad89116"
 unparsed: 
-line: 'Entry: Honesty|Topic: Honesty|Xref: 1303 [Honesty]|Index: honesty|#item-4d4ef6ca7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,3108,529/full/0/default.jpg
+line: 'Entry: Home|Topic: Home|Xref: Pilgrimage|Xref: 1446 [Dwell]|Xref: native Country|Index:
+  home|#item-e0ad89116'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/302,751,3107,412/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509730153584
-order: '425'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,3108,529/full/0/default.jpg
-label: Honesty
+annotation_uri: http://dev.llgc.org.uk/annotation/1509730025889
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/302,751,600,180/250,/0/default.jpg
+label: Home
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '156'
 layout: alpha_item
 collection: alpha2
 ---

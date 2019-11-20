@@ -2,29 +2,31 @@
 pid: index_3991
 volume: Volume 3
 image_number: '46'
-head: supper
-entry: "<a href='/digital-beehive/toc/toc2_092/'>304 [Supper]</a>"
+head: Lord's Supper
+entry: "<a href='/digital-beehive/alpha4/alpha_0930/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>482
+  [Communion or Partaking]</a>|<a href='/digital-beehive/toc/toc2_343/'>1773 [Lord's
+  Supper]</a>|<a href='/digital-beehive/toc/toc2_391/'>2240 [Lord's Supper]</a>|<a
+  href='/digital-beehive/toc/toc2_419/'>2430 [Lord's Supper]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6212866bf"
+item: "#item-4867f8710"
 unparsed: 
-line: 'Head: supper|Entry: 304 [Supper]|#item-6212866bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/462,1939,405,136/full/0/default.jpg
+line: 'Head: Lord''s Supper|Entry: a|Entry: 482 [Communion or Partaking]|Entry: 1773
+  [Lord''s Supper]|Entry: 2240 [Lord''s Supper]|Entry: 2430 [Lord''s Supper]|#item-4867f8710'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530473878406
-order: '3991'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/462,1939,405,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/462,1939,405,136/full/0/default.jpg
-label: supper
+annotation_uri: http://dev.llgc.org.uk/annotation/1530475634993
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,2036,720,136/150,/0/default.jpg
+label: Lord's Supper
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1237'
 layout: index_item
 collection: index4
 ---

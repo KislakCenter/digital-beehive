@@ -1,32 +1,28 @@
 ---
 pid: alpha_0468
 volume: Volume 2
-image_number: '23'
+image_number: '22'
 head: 
-entry: Increase
-topic: Increase
+entry: Incontinence
+topic: Incontinence
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/digital-beehive/toc/toc2_138/'>604
-  [Increase]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2008/'>increase</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ecb0ab2df"
+xref: "<a href='/digital-beehive/alpha1/alpha_0175/'>Continency</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2005/'>incontinence</a>"
+item: "#item-b52b4d5e1"
 unparsed: 
-line: 'Entry: Increase|Topic: Increase|Xref: Progress|Xref: 604 [Increase]|Index:
-  increase|#item-ecb0ab2df'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,3086,413/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759925596
-order: '468'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/258,245,3086,413/full/0/default.jpg
-label: Increase
-location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+line: 'Entry: Incontinence|Topic: Incontinence|Xref: Continency|Index: incontinence|#item-b52b4d5e1'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,2937,241/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759778604
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,600,180/250,/0/default.jpg
+label: Incontinence
+location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
+num_match: 
+order: '024'
 layout: alpha_item
 collection: alpha3
 ---

@@ -1,32 +1,28 @@
 ---
 pid: alpha_0775
 volume: Volume 2
-image_number: '46'
+image_number: '45'
 head: 
-entry: Redemption
-topic: Redemption
+entry: Reading
+topic: Reading
 first_letter: R
-xref: "<a href='/digital-beehive/alpha4/alpha_0822/'>Saviour</a>|deliverance|<a href='/digital-beehive/alpha4/alpha_0821/'>Salvation</a>|<a
-  href='/digital-beehive/toc/toc2_404/'>2306 [Redemption]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3329/'>redemption</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6483207bc"
+xref: "<a href='/digital-beehive/toc/toc2_212/'>1091 [Reading]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3306/'>reading</a>"
+item: "#item-f9caaa65f"
 unparsed: 
-line: 'Entry: Redemption|Topic: Redemption|Xref: Saviour|Xref: deliverance|Xref: Salvation|Xref:
-  2306 [Redemption]|Index: redemption|#item-6483207bc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,2975,469/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565104849977
-order: '775'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,2142,2975,469/full/0/default.jpg
-label: Redemption
-location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+line: 'Entry: Reading|Topic: Reading|Xref: 1091 [Reading]|Index: reading |#item-f9caaa65f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/380,4461,2989,489/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558813771232
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/380,4461,600,180/250,/0/default.jpg
+label: Reading
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '128'
 layout: alpha_item
 collection: alpha4
 ---

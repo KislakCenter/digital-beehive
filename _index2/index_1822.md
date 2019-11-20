@@ -2,30 +2,27 @@
 pid: index_1822
 volume: Volume 3
 image_number: '24'
-head: herring
-entry: "<a href='/digital-beehive/alpha2/alpha_0416/'>a</a>|<a href='/digital-beehive/toc/toc2_397/'>2266
-  [Herrings]</a>"
+head: Hesiodus
+entry: 823 [PAGE_MISSING]
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a06b51d6"
+item: "#item-3eaee79a8"
 unparsed: 
-line: 'Head: herring|Entry: a|Entry: 2266 [Herrings]|#item-7a06b51d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/428,915,579,173/full/0/default.jpg
+line: 'Head: Hesiodus|Entry: 823 [PAGE_MISSING]|#item-3eaee79a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575450492
-order: '1822'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/428,915,579,173/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/428,915,579,173/full/0/default.jpg
-label: herring
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575516313
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/150,/0/default.jpg
+label: Hesiodus
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '641'
 layout: index_item
 collection: index2
 ---

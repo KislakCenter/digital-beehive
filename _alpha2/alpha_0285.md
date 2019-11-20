@@ -3,31 +3,26 @@ pid: alpha_0285
 volume: Volume 1
 image_number: '453'
 head: 
-entry: Epicurism
-topic: Epicurism
+entry: Envy
+topic: Envy
 first_letter: E
-xref: "<a href='/digital-beehive/alpha4/alpha_0795/'>Revelling</a>|<a href='/digital-beehive/alpha2/alpha_0304/'>lust
-  of the eye</a>|<a href='/digital-beehive/alpha4/alpha_0707/'>Pleasure</a>|<a href='/digital-beehive/alpha5/alpha_1048/'>Worldly</a>|<a
-  href='/digital-beehive/toc/toc2_211/'>1087 [Epicures]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1280/'>epicurism</a>"
-insertion_xref: 
-insertion: 
-item: "#item-42a12e4a4"
+xref: 730 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
+item: "#item-4aae041fe"
 unparsed: 
-line: 'Entry: Epicurism|Topic: Epicurism|Xref: Revelling|Xref: lust of the eye|Xref:
-  Pleasure|Xref: Worldly|Xref: 1087 [Epicures]|Index: epicurism|#item-42a12e4a4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,4513,3112,601/full/0/default.jpg
+line: 'Entry: Envy|Topic: Envy|Xref: 730 [PAGE_MISSING]|Index: envy|#item-4aae041fe'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/421,3869,3020,691/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564519197982
-order: '285'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,4513,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,4513,3112,601/full/0/default.jpg
-label: Epicurism
+annotation_uri: http://dev.llgc.org.uk/annotation/1564519087432
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/421,3869,600,180/250,/0/default.jpg
+label: Envy
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '016'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,29 +2,27 @@
 pid: index_3244
 volume: Volume 3
 image_number: '38'
-head: pyramid
-entry: 861 [PAGE_MISSING]
+head: Pythagoras
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1056 [Pythagoras]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1d1fd790d"
+item: "#item-3e74dcc8c"
 unparsed: 
-line: 'Head: pyramid|Entry: 861 [PAGE_MISSING]|#item-1d1fd790d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,2564,450,106/full/0/default.jpg
+line: 'Head: Pythagoras|Entry: 1056 [Pythagoras]|#item-3e74dcc8c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/415,2638,568,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452630070
-order: '3244'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,2564,450,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,2564,450,106/full/0/default.jpg
-label: pyramid
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452656125
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/415,2638,568,147/150,/0/default.jpg
+label: Pythagoras
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0491'
 layout: index_item
 collection: index4
 ---

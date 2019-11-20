@@ -3,30 +3,27 @@ pid: alpha_0560
 volume: Volume 2
 image_number: '30'
 head: 
-entry: Lucre
-topic: Lucre
+entry: Love of the world
+topic: Love of the world
 first_letter: L
-xref: "<a href='/digital-beehive/alpha4/alpha_0847/'>Selfprofit</a>|<a href='/digital-beehive/alpha4/alpha_0735/'>Profit</a>|<a
-  href='/digital-beehive/toc/toc2_244/'>1252 [Gainful]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4e73b2de1"
+xref: "<a href='/digital-beehive/alpha1/alpha_0173/'>contempt</a>|4576 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_2347/'>love of the world</a>"
+item: "#item-0b0db11ac"
 unparsed: 
-line: 'Entry: Lucre|Topic: Lucre|Xref: Selfprofit|Xref: Profit|Xref: 1252 [Gainful]|Index:
-  lucre|#item-4e73b2de1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/742,2329,2984,612/full/0/default.jpg
+line: 'Entry: Love of the world|Topic: Love of the world|XRef: contempt|XRef: 4576
+  [PAGE_MISSING]|Index: love of the world|#item-0b0db11ac'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/724,1310,3024,478/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771870592
-order: '560'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/742,2329,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/742,2329,2984,612/full/0/default.jpg
-label: Lucre
+annotation_uri: http://dev.llgc.org.uk/annotation/1509564431297
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/724,1310,600,180/250,/0/default.jpg
+label: Love of the world
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+num_match: 
+order: '116'
 layout: alpha_item
 collection: alpha3
 ---

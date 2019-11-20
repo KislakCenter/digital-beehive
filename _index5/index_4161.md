@@ -2,32 +2,27 @@
 pid: index_4161
 volume: Volume 3
 image_number: '47'
-head: tithes
-entry: "<a href='/digital-beehive/alpha5/alpha_0948/'>a</a>|<a href='/digital-beehive/toc/toc2_129/'>554
-  [Tithes]</a>|<a href='/digital-beehive/toc/toc2_323/'>1643 [Of the Duty of Tithes]</a>|<a
-  href='/digital-beehive/toc/toc2_416/'>2404 [Tithes]</a>"
+head: titlepage
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1212 [Title page]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6916b9859"
+item: "#item-815df4f24"
 unparsed: 
-line: 'Head: tithes|Entry: a|Entry: 554 [Tithes]|Entry: 1643 [Of the Duty of Tithes]|Entry:
-  2404 [Tithes]|#item-6916b9859'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1592,3029,679,167/full/0/default.jpg
+line: 'Head: titlepage|Entry: 1212 [Title page]|#item-815df4f24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1619,3158,471,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281324432
-order: '4161'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1592,3029,679,167/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1592,3029,679,167/full/0/default.jpg
-label: tithes
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281397802
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1619,3158,471,151/150,/0/default.jpg
+label: titlepage
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '128'
 layout: index_item
 collection: index5
 ---

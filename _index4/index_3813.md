@@ -2,29 +2,27 @@
 pid: index_3813
 volume: Volume 3
 image_number: '44'
-head: sound words
-entry: "<a href='/digital-beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
+head: Sour
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2088 [Sour]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b29e021ce"
+item: "#item-61642405e"
 unparsed: 
-line: 'Head: sound words|Entry: 581 [Articles of faith]|#item-b29e021ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/539,2919,414,114/full/0/default.jpg
+line: 'Head: Sour|Entry: 2088 [Sour]|#item-61642405e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/544,3046,456,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529787829193
-order: '3813'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/539,2919,414,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/539,2919,414,114/full/0/default.jpg
-label: sound words
+annotation_uri: http://dev.llgc.org.uk/annotation/1529787912095
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/544,3046,456,124/150,/0/default.jpg
+label: Sour
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1060'
 layout: index_item
 collection: index4
 ---

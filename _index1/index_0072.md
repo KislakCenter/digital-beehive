@@ -2,29 +2,27 @@
 pid: index_0072
 volume: Volume 3
 image_number: '7'
-head: at Age
-entry: 
+head: age. seculum
+entry: 1848 [PAGE_MISSING]
 topic: 
 first_letter: A
-xref: 
-see: "<a href='/digital-beehive/index2/index_1723/'>Guardian</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4665dc60a"
+item: "#item-cb15ae533"
 unparsed: 
-line: 'Head: at Age|See: Guardian|#item-4665dc60a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/full/0/default.jpg
+line: 'Head: age. seculum|Entry: 1848 [PAGE_MISSING]|#item-cb15ae533'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2779,587,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767147066
-order: '72'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/full/0/default.jpg
-label: at Age
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767185673
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/895,2779,587,95/150,/0/default.jpg
+label: age. seculum
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0071'
 layout: index_item
 collection: index1
 ---

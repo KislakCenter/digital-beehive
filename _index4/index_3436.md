@@ -2,29 +2,28 @@
 pid: index_3436
 volume: Volume 3
 image_number: '40'
-head: rival
-entry: "<a href='/digital-beehive/toc/toc2_423/'>4455 [Rival]</a>"
+head: robbery
+entry: "<a href='/digital-beehive/alpha4/alpha_0812/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>499
+  [Robbery]</a>|4511 [PAGE_MISSING]"
 topic: 
 first_letter: R
-xref: 
-see: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b785141a6"
+item: "#item-af2a42bec"
 unparsed: 
-line: 'Head: rival|See: envy|Entry: 4455 [Rival]|#item-b785141a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/full/0/default.jpg
+line: 'Head: robbery|Entry: a|Entry: 499 [Robbery]|Entry: 4511 [PAGE_MISSING]|#item-af2a42bec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,255,673,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232604060
-order: '3436'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/full/0/default.jpg
-label: rival
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232809722
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,255,673,129/150,/0/default.jpg
+label: robbery
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0683'
 layout: index_item
 collection: index4
 ---

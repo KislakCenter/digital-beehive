@@ -2,29 +2,27 @@
 pid: index_3691
 volume: Volume 3
 image_number: '42'
-head: shrovetide
-entry: "<a href='/digital-beehive/toc/toc2_080/'>222 [Shrovetide]</a>"
+head: to shun
+entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [To Avoid]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ab72e1229"
+item: "#item-49cc471bf"
 unparsed: 
-line: 'Head: shrovetide|Entry: 222 [Shrovetide]|Add: bacchanals|#item-ab72e1229'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/full/0/default.jpg
+line: 'Head: to shun|Entry: 719 [To Avoid]|#item-49cc471bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1792,3024,383,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576573915
-order: '3691'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2877,630,193/full/0/default.jpg
-label: shrovetide
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576611761
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1792,3024,383,144/150,/0/default.jpg
+label: to shun
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0938'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,28 @@ pid: alpha_0542
 volume: Volume 2
 image_number: '28'
 head: 
-entry: London
-topic: London
+entry: Littleness
+topic: Littleness
 first_letter: L
-xref: "<a href='/digital-beehive/toc/toc2_065/'>84 [Antiquary]</a>|<a href='/digital-beehive/toc/toc2_074/'>172
-  [Means and Cause]</a>|<a href='/digital-beehive/toc/toc2_287/'>1468 [London]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2321/'>London</a>"
-insertion_xref: 
-insertion: 
-item: "#item-74d4d3984"
+xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>Baseness</a>|<a href='/digital-beehive/alpha5/alpha_0963/'>Too
+  little</a>|767 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_2306/'>little</a>"
+item: "#item-f81ed4510"
 unparsed: 
-line: 'Entry: London|Topic: London|Xref: 84 [Antiquary]|Xref: 172 [Means and Cause]|Xref:
-  1468 [London]|Index: London|#item-74d4d3984'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,3042,309/full/0/default.jpg
+line: 'Entry: Littleness|Topic: Littleness|Xref: Baseness|Xref: Too little|Xref: 767
+  [PAGE_MISSING]|Index: little|#item-f81ed4510'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/735,3321,3016,765/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769897714
-order: '542'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,3042,309/full/0/default.jpg
-label: London
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769542830
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/735,3321,600,180/250,/0/default.jpg
+label: Littleness
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+num_match: 
+order: '098'
 layout: alpha_item
 collection: alpha3
 ---

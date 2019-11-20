@@ -2,30 +2,27 @@
 pid: index_3550
 volume: Volume 3
 image_number: '41'
-head: scholars
-entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
-  [Scholars]</a>"
+head: scoff
+entry: 814 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3552/'>scorn</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d8c98522f"
+item: "#item-3155f87ea"
 unparsed: 
-line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/full/0/default.jpg
+line: 'Head: scoff|See: scorn|Entry: 814 [PAGE_MISSING]|#item-3155f87ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
-order: '3550'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/full/0/default.jpg
-label: scholars
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240729978
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/150,/0/default.jpg
+label: scoff
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0797'
 layout: index_item
 collection: index4
 ---

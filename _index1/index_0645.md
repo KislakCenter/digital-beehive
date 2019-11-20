@@ -3,19 +3,16 @@ pid: index_0645
 volume: Volume 3
 image_number: '12'
 head: Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0144/'>a</a>|<a href='/digital-beehive/toc/toc2_087/'>266
+entry: "<a href='/digital-beehive/alpha1/alpha_0144/'>a</a>|<a href='/digital-beehive/num2/num_0297/'>266
   [Christ]</a>|<a href='/digital-beehive/toc/toc2_125/'>526 [Xst Jesus]</a>|<a href='/digital-beehive/toc/toc2_203/'>1046
   [Christ]</a>|<a href='/digital-beehive/toc/toc2_266/'>1361 [Christ Jesus]</a>"
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc1_096/'>p.46 [Image 1.106]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_096/'>p.46 [Image 1.106]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-1ec82c400"
 unparsed: 
 line: 'Head: Christ|Page: p.46 [Image 1.106]|Entry: a|Entry: 266 [Christ]|Entry: 526
@@ -23,11 +20,12 @@ line: 'Head: Christ|Page: p.46 [Image 1.106]|Entry: a|Entry: 266 [Christ]|Entry:
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1823,3371,675,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532461900579
-order: '645'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1823,3371,675,168/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1823,3371,675,168/full/0/default.jpg
 label: Christ
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0644'
 layout: index_item
 collection: index1
 ---

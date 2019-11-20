@@ -2,30 +2,27 @@
 pid: index_3827
 volume: Volume 3
 image_number: '44'
-head: spectacles
-entry: "<a href='/digital-beehive/alpha4/alpha_0890/'>a</a>|<a href='/digital-beehive/toc/toc2_322/'>1639
-  [Spectacles]</a>"
+head: spectator
+entry: 4559 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e2084c925"
+item: "#item-38080e02d"
 unparsed: 
-line: 'Head: spectacles|Page: p.39 [Image 1.99]|Entry: a|Entry: 1639 [Spectacles]|#item-e2084c925'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1125,819,740,131/full/0/default.jpg
+line: 'Head: spectator|Entry: 4559 [PAGE_MISSING]|#item-38080e02d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1131,910,466,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288694648
-order: '3827'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1125,819,740,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1125,819,740,131/full/0/default.jpg
-label: spectacles
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789279383
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1131,910,466,102/150,/0/default.jpg
+label: spectator
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1074'
 layout: index_item
 collection: index4
 ---

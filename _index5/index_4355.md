@@ -2,29 +2,30 @@
 pid: index_4355
 volume: Volume 3
 image_number: '50'
-head: unalterable
-entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>"
+head: unanimity
+entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>312
+  [unanimity]</a>|<a href='/digital-beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a
+  href='/digital-beehive/toc/toc2_308/'>1569 [Unity]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1098667dc"
+item: "#item-c75dc8171"
 unparsed: 
-line: 'Head: unalterable|Entry: 620 [Despair]|#item-1098667dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,796,588,107/full/0/default.jpg
+line: 'Head: unanimity|Entry: a|Entry: 312 [unanimity]|Entry: 962 [Unanimity]|Entry:
+  1569 [Unity]|#item-c75dc8171'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/477,915,724,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560871986617
-order: '4355'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,796,588,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,796,588,107/full/0/default.jpg
-label: unalterable
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872135003
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/477,915,724,157/150,/0/default.jpg
+label: unanimity
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '322'
 layout: index_item
 collection: index5
 ---

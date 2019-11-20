@@ -2,29 +2,27 @@
 pid: index_4543
 volume: Volume 3
 image_number: '52'
-head: whosoever
-entry: 1851 [PAGE_MISSING]
+head: why
+entry: "<a href='/digital-beehive/toc/toc2_133/'>579 [Why?]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c982bb0f6"
+item: "#item-98043a400"
 unparsed: 
-line: 'Head: whosoever|Entry: 1851 [PAGE_MISSING]|#item-c982bb0f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1791,1248,510,122/full/0/default.jpg
+line: 'Head: why|Entry: 579 [Why?]|#item-98043a400'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971787440
-order: '4543'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1791,1248,510,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1791,1248,510,122/full/0/default.jpg
-label: whosoever
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971850514
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/150,/0/default.jpg
+label: why
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '510'
 layout: index_item
 collection: index5
 ---

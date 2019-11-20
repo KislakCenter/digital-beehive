@@ -2,30 +2,27 @@
 pid: index_4105
 volume: Volume 3
 image_number: '47'
-head: thanks
-entry: "<a href='/digital-beehive/alpha5/alpha_0940/'>a</a>|<a href='/digital-beehive/toc/toc2_220/'>1132
-  [Gratitude]</a>|4623 [PAGE_MISSING]"
+head: thankfulness
+entry: "<a href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>|4623 [PAGE_MISSING]"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1697/'>gratitude</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5111f8e2d"
+item: "#item-f0de1a8f8"
 unparsed: 
-line: 'Head: thanks|Entry: a|Entry: 1132 [Gratitude]|Entry: 4623 [PAGE_MISSING]|#item-5111f8e2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/907,433,644,98/full/0/default.jpg
+line: 'Head: thankfulness|See: gratitude|Entry: 1132 [Gratitude]|Entry: 4623 [PAGE_MISSING]|#item-f0de1a8f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,533,691,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529416282039
-order: '4105'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/907,433,644,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/907,433,644,98/full/0/default.jpg
-label: thanks
+annotation_uri: http://dev.llgc.org.uk/annotation/1532719791193
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,533,691,151/150,/0/default.jpg
+label: thankfulness
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '072'
 layout: index_item
 collection: index5
 ---

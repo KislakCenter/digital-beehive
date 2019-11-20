@@ -8,14 +8,11 @@ entry: "<a href='/digital-beehive/toc/toc2_178/'>956 [Failings of good men]</a>|
   [Church of England]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-9cb741fc4"
 unparsed: 
 line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [Faults]|Entry:
@@ -23,11 +20,12 @@ line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [F
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/366,487,832,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561399680699
-order: '1378'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/366,487,832,165/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/366,487,832,165/full/0/default.jpg
 label: failings of Saints
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+insertion_xref: 
+order: '198'
 layout: index_item
 collection: index2
 ---

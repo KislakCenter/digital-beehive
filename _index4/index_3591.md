@@ -2,29 +2,27 @@
 pid: index_3591
 volume: Volume 3
 image_number: '41'
-head: seducing
-entry: "<a href='/digital-beehive/toc/toc2_224/'>1152 [Seducing]</a>"
+head: to see
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1097 [seeking]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a949b081a"
+item: "#item-3ca426960"
 unparsed: 
-line: 'Head: seducing|Entry: 1152 [Seducing]|#item-a949b081a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/full/0/default.jpg
+line: 'Head: to see|Entry: 1097 [seeking]|#item-3ca426960'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1584,2667,452,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242946180
-order: '3591'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1585,2531,566,177/full/0/default.jpg
-label: seducing
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242971113
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1584,2667,452,139/150,/0/default.jpg
+label: to see
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0838'
 layout: index_item
 collection: index4
 ---

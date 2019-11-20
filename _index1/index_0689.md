@@ -6,25 +6,23 @@ head: cleft
 entry: 842 [PAGE_MISSING]
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-fa719bc62"
 unparsed: 
 line: 'Head: cleft|Entry: 842 [PAGE_MISSING]|#item-fa719bc62'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,337,423,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536333896530
-order: '689'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,337,423,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,337,423,149/full/0/default.jpg
 label: cleft
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+insertion_xref: 
+order: '0688'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_0245
 volume: Volume 3
 image_number: '9'
-head: avemaria
-entry: "<a href='/digital-beehive/toc/toc2_421/'>2444 [Ave Maria]</a>"
+head: augment
+entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2008/'>Increase</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-07a2abfe4"
+item: "#item-6a29311a2"
 unparsed: 
-line: 'Head: avemaria|Entry: 2444 [Ave Maria]|#item-07a2abfe4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,1095,698,102/full/0/default.jpg
+line: 'Head: augment|See: Increase|#item-6a29311a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/168,1105,706,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015186814
-order: '245'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,1095,698,102/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,1095,698,102/full/0/default.jpg
-label: avemaria
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015226725
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/168,1105,706,172/150,/0/default.jpg
+label: augment
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0244'
 layout: index_item
 collection: index1
 ---

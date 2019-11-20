@@ -2,29 +2,27 @@
 pid: index_0516
 volume: Volume 3
 image_number: '11'
-head: Cambridge
-entry: 4587 [PAGE_MISSING]
+head: camphire
+entry: 740 [PAGE_MISSING]
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ea5a0e4ac"
+item: "#item-8495960fb"
 unparsed: 
-line: 'Head: Cambridge|Entry: 4587 [PAGE_MISSING]|#item-ea5a0e4ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1174,508,106/full/0/default.jpg
+line: 'Head: camphire|Entry: 740 [PAGE_MISSING]|#item-8495960fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1240,523,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494808983
-order: '516'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1174,508,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1174,508,106/full/0/default.jpg
-label: Cambridge
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494837299
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1240,523,135/150,/0/default.jpg
+label: camphire
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0515'
 layout: index_item
 collection: index1
 ---

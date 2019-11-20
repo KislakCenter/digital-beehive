@@ -2,30 +2,27 @@
 pid: index_3903
 volume: Volume 3
 image_number: '45'
-head: stile
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Terms in didascalia]</a>|<a
-  href='/digital-beehive/toc/toc2_275/'>1406 [Lapidaria]</a>"
+head: a still
+entry: "<a href='/digital-beehive/toc/toc2_135/'>592 [Distilling]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b1ab2c135"
+item: "#item-1bd50898c"
 unparsed: 
-line: 'Head: stile|Entry: 537 [Terms in didascalia]|Entry: 1406 [Lapidaria]|#item-b1ab2c135'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,2304,557,149/full/0/default.jpg
+line: 'Head: a still|Page: p.38 [Image 1.98]|Entry: 592 [Distilling]|#item-1bd50898c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290285938
-order: '3903'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,2304,557,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,2304,557,149/full/0/default.jpg
-label: stile
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290315091
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/150,/0/default.jpg
+label: a still
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1150'
 layout: index_item
 collection: index4
 ---

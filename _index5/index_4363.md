@@ -2,29 +2,27 @@
 pid: index_4363
 volume: Volume 3
 image_number: '50'
-head: uncharitableness
-entry: "<a href='/digital-beehive/toc/toc2_066/'>97 [Uncharitable]</a>"
+head: unclean
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1916 [Unclean]</a>"
 topic: 
 first_letter: U/V
+page: 
+add: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-00a6f1098"
+item: "#item-ab4fb4b56"
 unparsed: 
-line: 'Head: uncharitableness|Entry: 97 [Uncharitable]|#item-00a6f1098'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/452,1764,667,157/full/0/default.jpg
+line: 'Head: unclean|Entry: 1916 [Unclean]|Add: dirt|#item-ab4fb4b56'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/441,1908,514,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872616116
-order: '4363'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/452,1764,667,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/452,1764,667,157/full/0/default.jpg
-label: uncharitableness
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872680405
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/441,1908,514,155/150,/0/default.jpg
+label: unclean
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '330'
 layout: index_item
 collection: index5
 ---

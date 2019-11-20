@@ -3,28 +3,28 @@ pid: alpha_0280
 volume: Volume 1
 image_number: '453'
 head: 
-entry: Empire
-topic: Empire
+entry: Eloquence
+topic: Eloquence
 first_letter: E
-xref: Kingdom
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1241/'>empire</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3af6ee29e"
+xref: "<a href='/digital-beehive/alpha2/alpha_0308/'>fair words</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
+  [Eloquence]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1230/'>eloquence</a>"
+item: "#item-eec917b43"
 unparsed: 
-line: 'Entry: Empire|Topic: Empire|Xref: Kingdom|Index: empire|#item-3af6ee29e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,3092,305/full/0/default.jpg
+line: 'Entry: Eloquence|Topic: Eloquence|Xref: fair words|Xref: 1659 [Eloquence]|Index:
+  eloquence|#item-eec917b43'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,3075,476/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518529825
-order: '280'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,3092,305/full/0/default.jpg
-label: Empire
+annotation_uri: http://dev.llgc.org.uk/annotation/1508253342531
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,600,180/250,/0/default.jpg
+label: Eloquence
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '011'
 layout: alpha_item
 collection: alpha2
 ---

@@ -1,30 +1,28 @@
 ---
 pid: index_2744
 volume: Volume 3
-image_number: '32'
-head: nourishmt
-entry: "<a href='/digital-beehive/toc/toc2_322/'>1637 [Nourishmt]</a>"
+image_number: '33'
+head: now
+entry: "<a href='/digital-beehive/toc/toc2_167/'>897 [Now]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4efbea16d"
+item: "#item-a37684d0f"
 unparsed: 
-line: 'Head: nourishmt|Entry: 1637 [Nourishmt]|#item-4efbea16d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3449,562,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560450137310
-order: '2744'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3449,562,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3449,562,139/full/0/default.jpg
-label: nourishmt
-location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+line: 'Head: now|Entry: 897 [Now]|#item-a37684d0f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/172,263,392,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332993884
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/172,263,392,120/150,/0/default.jpg
+label: now
+location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+insertion_xref: 
+order: '824'
 layout: index_item
 collection: index3
 ---

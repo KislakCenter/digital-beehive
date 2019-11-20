@@ -2,29 +2,27 @@
 pid: index_3348
 volume: Volume 3
 image_number: '39'
-head: relation. freündschafft
-entry: "<a href='/digital-beehive/toc/toc2_112/'>445 [Relation]</a>"
+head: to release
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1418 [To Remit]</a>"
 topic: 
 first_letter: R
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index2/index_1844/'>history</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7f928271c"
+item: "#item-ae7573b24"
 unparsed: 
-line: 'Head: relation. freündschafft|Entry: 445 [Relation]|Add: history|#item-7f928271c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,2934,647,193/full/0/default.jpg
+line: 'Head: to release|Entry: 1418 [To Remit]|#item-ae7573b24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/110,3059,593,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558465368428
-order: '3348'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,2934,647,193/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,2934,647,193/full/0/default.jpg
-label: relation. freündschafft
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468627265
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/110,3059,593,177/150,/0/default.jpg
+label: to release
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0595'
 layout: index_item
 collection: index4
 ---

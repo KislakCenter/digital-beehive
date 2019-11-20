@@ -2,29 +2,28 @@
 pid: index_3545
 volume: Volume 3
 image_number: '41'
-head: sceptre
-entry: 826 [PAGE_MISSING]
+head: "[:36.]"
+entry: 
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_089/'>p.39 [Image 1.99]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-358e2e594"
-unparsed: 
-line: 'Head: sceptre|Page: p.39 [Image 1.99]|Entry: 826 [PAGE_MISSING]|#item-358e2e594'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,761,636,152/full/0/default.jpg
+item: "#item-df57c1fe1"
+unparsed: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
+line: 'Type: Index|Insertion Xref: [:36.]|#item-df57c1fe1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/783,1105,151,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240355165
-order: '3545'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,761,636,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/870,761,636,152/full/0/default.jpg
-label: sceptre
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277795428
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/783,1105,151,124/150,/0/default.jpg
+label: "[:36.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4704/'>Salvation of Children
+  & Idiots</a>"
+order: '0792'
 layout: index_item
 collection: index4
 ---

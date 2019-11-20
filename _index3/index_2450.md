@@ -7,14 +7,11 @@ entry: "<a href='/digital-beehive/toc/toc2_135/'>587 [Corruption & Matter, Eijte
   [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_313/'>1592 [Teachers]</a>"
 topic: 
 first_letter: M
+page: 
+add: "<a href='/digital-beehive/index5/index_4117/'>thing</a>|<a href='/digital-beehive/index5/index_4111/'>theme</a>"
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index5/index_4118/'>thing</a>|<a href='/digital-beehive/index5/index_4112/'>theme</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-2dd387dbd"
 unparsed: 
 line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Entry: 831 [PAGE_MISSING]|Entry:
@@ -22,11 +19,12 @@ line: 'Head: matter, eijter|Entry: 587 [Corruption & Matter, Eijter]|Entry: 831 
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560265264338
-order: '2450'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/396,2211,773,207/full/0/default.jpg
 label: matter, eijter
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+insertion_xref: 
+order: '530'
 layout: index_item
 collection: index3
 ---

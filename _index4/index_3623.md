@@ -2,30 +2,27 @@
 pid: index_3623
 volume: Volume 3
 image_number: '42'
-head: Self murder
-entry: "<a href='/digital-beehive/alpha4/alpha_0845/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1180
-  [Self Murder]</a>"
+head: Self opinioned
+entry: "<a href='/digital-beehive/toc/toc2_437/'>4853 [Selfopinionated]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f26a20df0"
+item: "#item-e98d1c2b2"
 unparsed: 
-line: 'Head: Self murder|Entry: a|Entry: 1180 [Self Murder]|#item-f26a20df0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/379,2009,634,98/full/0/default.jpg
+line: 'Head: Self opinioned|Entry: 4853 [Selfopinionated]|#item-e98d1c2b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/373,2072,685,82/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244709578
-order: '3623'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/379,2009,634,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/379,2009,634,98/full/0/default.jpg
-label: Self murder
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244748763
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/373,2072,685,82/150,/0/default.jpg
+label: Self opinioned
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0870'
 layout: index_item
 collection: index4
 ---

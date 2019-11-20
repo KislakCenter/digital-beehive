@@ -2,30 +2,27 @@
 pid: index_3682
 volume: Volume 3
 image_number: '42'
-head: shoe
-entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|<a href='/digital-beehive/toc/toc2_287/'>1469
-  [Shoe]</a>"
+head: shoemaker
+entry: "<a href='/digital-beehive/toc/toc2_220/'>1134 [Shoemaker]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4bdc4a5b0"
+item: "#item-cd71b14cd"
 unparsed: 
-line: 'Head: shoe|Entry: a|Entry: 1469 [Shoe]|#item-4bdc4a5b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/full/0/default.jpg
+line: 'Head: shoemaker|Entry: 1134 [Shoemaker]|#item-cd71b14cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1798,1929,523,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576222379
-order: '3682'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/full/0/default.jpg
-label: shoe
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576256577
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1798,1929,523,134/150,/0/default.jpg
+label: shoemaker
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0929'
 layout: index_item
 collection: index4
 ---

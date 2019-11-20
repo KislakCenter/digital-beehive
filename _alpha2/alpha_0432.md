@@ -3,28 +3,28 @@ pid: alpha_0432
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Hospitality
-topic: Hospitality
+entry: Hospital
+topic: Hospital
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1881/'>hospitality</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ea292ee78"
+xref: "<a href='/digital-beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/digital-beehive/toc/toc2_276/'>1415
+  [Hospita]</a>|Oprhan house"
+see: 
+index: "<a href='/digital-beehive/index2/index_1878/'>hospital</a>"
+item: "#item-8c5bbd263"
 unparsed: 
-line: 'Entry: Hospitality|Topic: Hospitality|Index: hospitality|#item-ea292ee78'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,3014,395/full/0/default.jpg
+line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospita]|Xref:
+  Oprhan house|Index: hospital|#item-8c5bbd263'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,3013,333/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757665474
-order: '432'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,3014,395/full/0/default.jpg
-label: Hospitality
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733052074
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,600,180/250,/0/default.jpg
+label: Hospital
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '163'
 layout: alpha_item
 collection: alpha2
 ---

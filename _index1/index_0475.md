@@ -6,25 +6,23 @@ head: bunch
 entry: "<a href='/digital-beehive/toc/toc2_159/'>717 [Bossed]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-aad42078f"
 unparsed: 
 line: 'Head: bunch|Entry: 717 [Bossed]|#item-aad42078f'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,869,357,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531420602948
-order: '475'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,869,357,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/887,869,357,124/full/0/default.jpg
 label: bunch
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0474'
 layout: index_item
 collection: index1
 ---

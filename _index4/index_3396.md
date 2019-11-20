@@ -2,30 +2,28 @@
 pid: index_3396
 volume: Volume 3
 image_number: '39'
-head: retaliation
-entry: "<a href='/digital-beehive/toc/toc2_071/'>150 [Retaliation]</a>|<a href='/digital-beehive/toc/toc2_165/'>886
-  [Retaliation]</a>"
+head: resurrection
+entry: "<a href='/digital-beehive/alpha4/alpha_0798/'>a</a>|<a href='/digital-beehive/toc/toc2_249/'>1277
+  [Resurrection]</a>|<a href='/digital-beehive/toc/toc2_391/'>2236 [Resurrection]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cd90bc6fe"
+item: "#item-c15953b51"
 unparsed: 
-line: 'Head: retaliation|Entry: 150 [Retaliation]|Entry: 886 [Retaliation]|#item-cd90bc6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1516,2152,670,147/full/0/default.jpg
+line: 'Head: resurrection|Entry: a|Entry: 1277 [Resurrection]|Entry: 2236 [Resurrection]|#item-c15953b51'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230026170
-order: '3396'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1516,2152,670,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1516,2152,670,147/full/0/default.jpg
-label: retaliation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230077799
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/150,/0/default.jpg
+label: resurrection
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0643'
 layout: index_item
 collection: index4
 ---

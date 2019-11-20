@@ -6,15 +6,12 @@ head:
 entry: Company
 topic: Company
 first_letter: C
-xref: "<a href='/digital-beehive/alpha2/alpha_0294/'>Example</a>|<a href='/digital-beehive/alpha4/alpha_0884/'>Solitude</a>|Stock|Train|<a
-  href='/digital-beehive/toc/toc2_089/'>283 [Company]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Example</a>|<a href='/digital-beehive/alpha4/alpha_0892/'>Solitude</a>|Stock|Train|<a
+  href='/digital-beehive/num2/num_0318/'>283 [Company]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0754/'>company</a>"
-insertion_xref: 
-insertion: 
 item: "#item-ece88d81a"
 unparsed: 
 line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: Stock|Xref:
@@ -22,11 +19,12 @@ line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: Stock|Xr
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/314,1738,3165,539/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563823827126
-order: '161'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/314,1738,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/314,1738,3165,539/full/0/default.jpg
 label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
+num_match: 
+order: '160'
 layout: alpha_item
 collection: alpha1
 ---

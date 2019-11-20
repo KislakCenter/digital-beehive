@@ -2,29 +2,27 @@
 pid: index_4322
 volume: Volume 3
 image_number: '49'
-head: vessel
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [Vessel]</a>"
+head: vice versâ
+entry: "<a href='/digital-beehive/toc/toc2_153/'>690 [Contrariety]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ec3fa7f92"
+item: "#item-959b9a2fa"
 unparsed: 
-line: 'Head: vessel|Entry: 871 [Vessel]|#item-ec3fa7f92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1605,237,397,166/full/0/default.jpg
+line: 'Head: vice versâ|Entry: 690 [Contrariety]|#item-959b9a2fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,628,522,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659480508
-order: '4322'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1605,237,397,166/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1605,237,397,166/full/0/default.jpg
-label: vessel
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659650775
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,628,522,139/150,/0/default.jpg
+label: vice versâ
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '289'
 layout: index_item
 collection: index5
 ---

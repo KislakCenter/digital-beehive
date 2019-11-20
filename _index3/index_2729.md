@@ -2,29 +2,27 @@
 pid: index_2729
 volume: Volume 3
 image_number: '32'
-head: none
-entry: 
+head: noon
+entry: 765 [PAGE_MISSING]
 topic: 
 first_letter: N
-xref: 
-see: "<a href='/digital-beehive/index3/index_2733/'>not</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-32ddfd80a"
+item: "#item-64aa21538"
 unparsed: 
-line: 'Head: none|See: not|#item-32ddfd80a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1827,1674,357,114/full/0/default.jpg
+line: 'Head: noon|Entry: 765 [PAGE_MISSING]|#item-64aa21538'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,1759,363,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448962399
-order: '2729'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1827,1674,357,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1827,1674,357,114/full/0/default.jpg
-label: none
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448978181
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,1759,363,88/150,/0/default.jpg
+label: noon
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '809'
 layout: index_item
 collection: index3
 ---

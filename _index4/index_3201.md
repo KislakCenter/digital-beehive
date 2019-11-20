@@ -2,29 +2,27 @@
 pid: index_3201
 volume: Volume 3
 image_number: '37'
-head: proportion
-entry: "<a href='/digital-beehive/toc/toc2_171/'>916 [Proportion]</a>"
+head: to propose
+entry: 742 [PAGE_MISSING]|856 [PAGE_MISSING]
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1e1484ff1"
+item: "#item-626d46bb6"
 unparsed: 
-line: 'Head: proportion|Entry: 916 [Proportion]|#item-1e1484ff1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,1173,547,129/full/0/default.jpg
+line: 'Head: to propose|Entry: 742 [PAGE_MISSING]|Entry: 856 [PAGE_MISSING]|#item-626d46bb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1494,1300,649,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869215146
-order: '3201'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,1173,547,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,1173,547,129/full/0/default.jpg
-label: proportion
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869268495
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1494,1300,649,113/150,/0/default.jpg
+label: to propose
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0448'
 layout: index_item
 collection: index4
 ---

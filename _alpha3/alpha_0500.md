@@ -3,29 +3,27 @@ pid: alpha_0500
 volume: Volume 2
 image_number: '25'
 head: 
-entry: Kings evil
-topic: Kings evil
+entry: Kingdom of God
+topic: Kingdom of God
 first_letter: K
-xref: "<a href='/digital-beehive/toc/toc2_386/'>2201 [King's evil]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2164/'>kings Evil</a>"
-insertion_xref: 
-insertion: 
-item: "#item-434846485"
+xref: "<a href='/digital-beehive/toc/toc2_169/'>906 [Kingdom]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2162/'>kingdom of God</a>"
+item: "#item-7bb39ac95"
 unparsed: 
-line: 'Entry: Kings evil|Topic: Kings evil|Xref: 2201 [King''s evil]|Index: kings
-  Evil|#item-434846485'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/372,3170,3033,338/full/0/default.jpg
+line: 'Entry: Kingdom of God|Topic: Kingdom of God|Xref: 906 [Kingdom]|Index: kingdom
+  of God|#item-7bb39ac95'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,3081,564/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765567325
-order: '500'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/372,3170,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/372,3170,3033,338/full/0/default.jpg
-label: Kings evil
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765432594
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,600,180/250,/0/default.jpg
+label: Kingdom of God
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
+num_match: 
+order: '056'
 layout: alpha_item
 collection: alpha3
 ---

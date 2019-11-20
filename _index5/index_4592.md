@@ -2,29 +2,27 @@
 pid: index_4592
 volume: Volume 3
 image_number: '53'
-head: women beaten
-entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>"
+head: woman's Courses
+entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_325/'>1653 [Menstrua]</a>
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-84ebf429a"
+item: "#item-0a5d33f70"
 unparsed: 
-line: 'Head: women beaten|Entry: a|#item-84ebf429a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/full/0/default.jpg
+line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793678800
-order: '4592'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/full/0/default.jpg
-label: women beaten
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/150,/0/default.jpg
+label: woman's Courses
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '559'
 layout: index_item
 collection: index5
 ---

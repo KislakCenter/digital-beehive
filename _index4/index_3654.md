@@ -2,29 +2,27 @@
 pid: index_3654
 volume: Volume 3
 image_number: '42'
-head: sex
-entry: "<a href='/digital-beehive/toc/toc2_073/'>167 [Sexes]</a>"
+head: sexton
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Sexton]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index1/index_0599/'>change</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e88be887b"
+item: "#item-feca44cf1"
 unparsed: 
-line: 'Head: sex|Entry: 167 [Sexes]|Add: change|#item-e88be887b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/full/0/default.jpg
+line: 'Head: sexton|Entry: 556 [Sexton]|#item-feca44cf1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574459469
-order: '3654'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/full/0/default.jpg
-label: sex
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574490872
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1110,1948,431,117/150,/0/default.jpg
+label: sexton
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0901'
 layout: index_item
 collection: index4
 ---

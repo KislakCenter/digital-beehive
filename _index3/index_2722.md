@@ -2,29 +2,28 @@
 pid: index_2722
 volume: Volume 3
 image_number: '32'
-head: to nod. wincken
-entry: "<a href='/digital-beehive/toc/toc2_386/'>2202 [To Nod]</a>"
+head: noise
+entry: "<a href='/digital-beehive/num1/num_0154/'>148 [Noise]</a>|<a href='/digital-beehive/toc/toc2_322/'>1640
+  [Sound]</a>|<a href='/digital-beehive/toc/toc2_362/'>1971 [Noise]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0dedb6aa8"
+item: "#item-8810fad6f"
 unparsed: 
-line: 'Head: to nod. wincken|Entry: 2202 [To Nod]|#item-0dedb6aa8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1838,1111,676,127/full/0/default.jpg
+line: 'Head: noise|Entry: 148 [Noise]|Entry: 1640 [Sound]|Entry: 1971 [Noise]|#item-8810fad6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448507727
-order: '2722'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1838,1111,676,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1838,1111,676,127/full/0/default.jpg
-label: to nod. wincken
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448639600
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/150,/0/default.jpg
+label: noise
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '802'
 layout: index_item
 collection: index3
 ---

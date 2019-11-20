@@ -1,33 +1,30 @@
 ---
 pid: alpha_0913
 volume: Volume 2
-image_number: '56'
+image_number: '55'
 head: 
-entry: Student
-topic: Student
+entry: Stone
+topic: Stone
 first_letter: S
-xref: "<a href='/digital-beehive/alpha3/alpha_0525/'>Learning</a>|<a href='/digital-beehive/alpha4/alpha_0692/'>Pedantery</a>|<a
-  href='/digital-beehive/toc/toc2_067/'>105 [a Pretender to Learning]</a>|<a href='/digital-beehive/toc/toc2_262/'>1341
-  [Student]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3948/'>Student</a>"
-insertion_xref: 
-insertion: 
-item: "#item-940dd7ef9"
+xref: "<a href='/digital-beehive/toc/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
+  href='/digital-beehive/toc/toc2_250/'>1284 [Whetstone]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3911/'>stones</a>"
+item: "#item-e9d5e9a7f"
 unparsed: 
-line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a Pretender
-  to Learning]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,3081,630/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532550795801
-order: '913'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,3081,630/full/0/default.jpg
-label: Student
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+line: 'Entry: Stone|Topic: Stone|Xref: 596 [the Stone Gravel of the Kidneys]|Xref:
+  1284 [Whetstone]|Index: stones|#item-e9d5e9a7f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,3032,329/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460773065
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,3489,600,180/250,/0/default.jpg
+label: Stone
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '265'
 layout: alpha_item
 collection: alpha4
 ---

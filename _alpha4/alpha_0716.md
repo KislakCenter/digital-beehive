@@ -3,31 +3,26 @@ pid: alpha_0716
 volume: Volume 2
 image_number: '41'
 head: 
-entry: Power
-topic: Power
+entry: Polygamy
+topic: Polygamy
 first_letter: P
-xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/digital-beehive/alpha2/alpha_0339/'>Force</a>|<a
-  href='/digital-beehive/alpha3/alpha_0472/'>Infirmity</a>|<a href='/digital-beehive/toc/toc2_411/'>2362
-  [Power]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3103/'>power</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6b67d5259"
+xref: Bigamy|<a href='/digital-beehive/toc/toc2_180/'>969 [Polygamy]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_3066/'>polygamy</a>"
+item: "#item-1942f2b6c"
 unparsed: 
-line: 'Entry: Power|Topic: Power|Xref: Authority|Xref: Force|Xref: Infirmity|Xref:
-  2362 [Power]|Index: power|#item-6b67d5259'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,3053,358/full/0/default.jpg
+line: 'Entry: Polygamy|Topic: Polygamy|Xref: Bigamy|Xref: 969 [Polygamy]|Index: polygamy|#item-1942f2b6c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/269,2222,3104,383/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528374319634
-order: '716'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,3053,358/full/0/default.jpg
-label: Power
+annotation_uri: http://dev.llgc.org.uk/annotation/1528373632715
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/269,2222,600,180/250,/0/default.jpg
+label: Polygamy
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+num_match: 
+order: '069'
 layout: alpha_item
 collection: alpha4
 ---

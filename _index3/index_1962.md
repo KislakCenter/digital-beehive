@@ -2,29 +2,27 @@
 pid: index_1962
 volume: Volume 3
 image_number: '25'
-head: im[m]ensity
-entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Immensity]</a>"
+head: im[m]ortal
+entry: "<a href='/digital-beehive/num2/num_0585/'>474 [Immortal]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ff56f9e59"
+item: "#item-efdb43bed"
 unparsed: 
-line: 'Head: im[m]ensity|Entry: 260 [Immensity]|#item-ff56f9e59'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/881,950,452,144/full/0/default.jpg
+line: 'Head: im[m]ortal|Entry: 474 [Immortal]|#item-efdb43bed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665357846
-order: '1962'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/881,950,452,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/881,950,452,144/full/0/default.jpg
-label: im[m]ensity
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665471376
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/150,/0/default.jpg
+label: im[m]ortal
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '043'
 layout: index_item
 collection: index3
 ---

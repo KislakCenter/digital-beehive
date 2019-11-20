@@ -3,28 +3,28 @@ pid: alpha_0636
 volume: Volume 2
 image_number: '36'
 head: 
-entry: Night
-topic: Night
+entry: Neighbour
+topic: Neighbour
 first_letter: N
-xref: "<a href='/digital-beehive/toc/toc2_220/'>1131 [Night]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2710/'>night</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1399c5577"
+xref: "<a href='/digital-beehive/alpha3/alpha_0557/'>love of our neighbour</a>|4617
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_2681/'>neighbour</a>"
+item: "#item-54616bebe"
 unparsed: 
-line: 'Entry: Night|Topic: Night|Xref: 1131 [Night]|Index: night|#item-1399c5577'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,2967,393/full/0/default.jpg
+line: 'Entry: Neighbour|Topic: Neighbour|Xref: love of our neighbour|Xref: 4617 [PAGE_MISSING]|Index:
+  neighbour|#item-54616bebe'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,3035,568/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015405816
-order: '636'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,2967,393/full/0/default.jpg
-label: Night
+annotation_uri: http://dev.llgc.org.uk/annotation/1513195632899
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,600,180/250,/0/default.jpg
+label: Neighbour
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '192'
 layout: alpha_item
 collection: alpha3
 ---

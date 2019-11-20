@@ -2,29 +2,27 @@
 pid: index_1986
 volume: Volume 3
 image_number: '25'
-head: impurity
-entry: 
+head: in
+entry: "<a href='/digital-beehive/toc/toc2_201/'>1040 [In]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-22a9b0eab"
+item: "#item-e970114b5"
 unparsed: 
-line: 'Head: impurity|See: dirt|#item-22a9b0eab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3241,582,191/full/0/default.jpg
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668321351
-order: '1986'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3241,582,191/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3241,582,191/full/0/default.jpg
-label: impurity
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '067'
 layout: index_item
 collection: index3
 ---

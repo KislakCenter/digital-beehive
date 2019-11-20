@@ -2,29 +2,28 @@
 pid: index_4331
 volume: Volume 3
 image_number: '49'
-head: village
-entry: "<a href='/digital-beehive/toc/toc2_073/'>162 [City]</a>|1878 [PAGE_MISSING]"
+head: vine
+entry: "<a href='/digital-beehive/alpha5/alpha_0993/'>a</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
+  [Vin[e]yards]</a>"
 topic: 
 first_letter: U/V
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d1c6f326f"
+item: "#item-084edad39"
 unparsed: 
-line: 'Head: village|Entry: 162 [City]|Entry: 1878 [PAGE_MISSING]|#item-d1c6f326f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/full/0/default.jpg
+line: 'Head: vine|Page: p.32 [Image 1.92]|Entry: a|Entry: 1990 [Vin[e]yards]|#item-084edad39'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660141406
-order: '4331'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/full/0/default.jpg
-label: village
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660581551
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/150,/0/default.jpg
+label: vine
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '298'
 layout: index_item
 collection: index5
 ---

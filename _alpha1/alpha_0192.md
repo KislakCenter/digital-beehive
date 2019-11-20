@@ -6,25 +6,23 @@ head:
 entry: Creature
 topic: Creature
 first_letter: C
-xref: "<a href='/digital-beehive/toc/toc2_424/'>4458 [Creature]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/toc/toc2_424/'>4458 [Creature]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0899/'>creature</a>"
-insertion_xref: 
-insertion: 
 item: "#item-178f2b621"
 unparsed: 
 line: 'Entry: Creature|Topic: Creature|Xref: 4458 [Creature]|Index: creature|#item-178f2b621'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,2987,452/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499785730527
-order: '192'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,2987,452/full/0/default.jpg
 label: Creature
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
+num_match: 
+order: '191'
 layout: alpha_item
 collection: alpha1
 ---

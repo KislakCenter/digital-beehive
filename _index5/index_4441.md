@@ -2,29 +2,27 @@
 pid: index_4441
 volume: Volume 3
 image_number: '51'
-head: Uriah's letters
-entry: "<a href='/digital-beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
+head: Urim & Thum[m]im
+entry: "<a href='/digital-beehive/num1/num_0064/'>63 [Urim and Thummim]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1ab98961f"
+item: "#item-7c5ef5a0e"
 unparsed: 
-line: 'Head: Uriah''s letters|Entry: 1721 [Bellerophontis Literas]|#item-1ab98961f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/full/0/default.jpg
+line: 'Head: Urim & Thum[m]im|Entry: 63 [Urim and Thummim]|#item-7c5ef5a0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646646403
-order: '4441'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/full/0/default.jpg
-label: Uriah's letters
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646690690
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,1075,718,150/150,/0/default.jpg
+label: Urim & Thum[m]im
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '408'
 layout: index_item
 collection: index5
 ---

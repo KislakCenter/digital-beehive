@@ -2,29 +2,28 @@
 pid: index_4393
 volume: Volume 3
 image_number: '50'
-head: universalists
-entry: "<a href='/digital-beehive/toc/toc2_066/'>91 [Universalists]</a>"
+head: universities
+entry: "<a href='/digital-beehive/alpha5/alpha_1004/'>a</a>|<a href='/digital-beehive/toc/toc2_247/'>1270
+  [Universities]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-98456ab8a"
+item: "#item-7c7919bac"
 unparsed: 
-line: 'Head: universalists|Entry: 91 [Universalists]|#item-98456ab8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1112,1783,527,133/full/0/default.jpg
+line: 'Head: universities|Entry: a|Entry: 1270 [Universities]|#item-7c7919bac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1115,1918,657,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881358385
-order: '4393'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1112,1783,527,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1112,1783,527,133/full/0/default.jpg
-label: universalists
+annotation_uri: http://dev.llgc.org.uk/annotation/1560881412902
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1115,1918,657,141/150,/0/default.jpg
+label: universities
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '360'
 layout: index_item
 collection: index5
 ---

@@ -3,28 +3,26 @@ pid: alpha_0801
 volume: Volume 2
 image_number: '48'
 head: 
-entry: Right
-topic: Right
+entry: Book of Revelations
+topic: Book of Revelations
 first_letter: R
-xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0519/'>Law</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3426/'>right</a>"
-insertion_xref: 
-insertion: 
-item: "#item-779d48b46"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3402/'>book of revelations</a>"
+item: "#item-03ec4de3c"
 unparsed: 
-line: 'Entry: Right|Topic: Right|Xref: equity|Xref: Law|Index: right|#item-779d48b46'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,2953,598/full/0/default.jpg
+line: 'Entry: Book of Revelations|Topic: Book of Revelations|Index: book of revelations|#item-03ec4de3c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/820,1068,2970,344/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528825344544
-order: '801'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,2953,598/full/0/default.jpg
-label: Right
+annotation_uri: http://dev.llgc.org.uk/annotation/1565105765022
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/820,1068,600,180/250,/0/default.jpg
+label: Book of Revelations
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '153'
 layout: alpha_item
 collection: alpha4
 ---

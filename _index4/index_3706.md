@@ -2,29 +2,27 @@
 pid: index_3706
 volume: Volume 3
 image_number: '43'
-head: signature
-entry: "<a href='/digital-beehive/toc/toc2_148/'>660 [Signature]</a>"
+head: significa[ti]on
+entry: 798 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b9e53da6f"
+item: "#item-49b7df76c"
 unparsed: 
-line: 'Head: signature|Entry: 660 [Signature]|#item-b9e53da6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,1108,517,142/full/0/default.jpg
+line: 'Head: significa[ti]on|Entry: 798 [PAGE_MISSING]|#item-49b7df76c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/175,1183,575,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581928716
-order: '3706'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,1108,517,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,1108,517,142/full/0/default.jpg
-label: signature
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581961952
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/175,1183,575,197/150,/0/default.jpg
+label: significa[ti]on
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0953'
 layout: index_item
 collection: index4
 ---

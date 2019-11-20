@@ -2,29 +2,27 @@
 pid: index_2903
 volume: Volume 3
 image_number: '34'
-head: pasquil
-entry: "<a href='/digital-beehive/alpha4/alpha_0681/'>a</a>|1836 [PAGE_MISSING]"
+head: "[:48.]"
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5c0052cf0"
-unparsed: 
-line: 'Head: pasquil|Entry: a|Entry: 1836 [PAGE_MISSING]|#item-5c0052cf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1841,221,614,184/full/0/default.jpg
+item: "#item-c0d5c506b"
+unparsed: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
+line: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1704,414,204,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494905676
-order: '2903'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1841,221,614,184/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1841,221,614,184/full/0/default.jpg
-label: pasquil
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276694321
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1704,414,204,96/150,/0/default.jpg
+label: "[:48.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4716/'>Pan</a>"
+order: '0151'
 layout: index_item
 collection: index4
 ---

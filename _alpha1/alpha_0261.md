@@ -3,28 +3,26 @@ pid: alpha_0261
 volume: Volume 1
 image_number: '451'
 head: 
-entry: Drieness
-topic: Drieness
+entry: Dream
+topic: Dream
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1149/'>drieness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-edc1632ba"
+xref: "<a href='/digital-beehive/toc/toc2_268/'>1374 [Dream]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1146/'>dream</a>"
+item: "#item-7723640e4"
 unparsed: 
-line: 'Entry: Drieness|Topic: Drieness|Xref: 1526 [Drought or Driness]|Index: drieness|#item-edc1632ba'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,2969,297/full/0/default.jpg
+line: 'Entry: Dream|Topic: Dream|Xref: 1374 [Dream]|Index: dream|#item-7723640e4'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,2993,600/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508179228190
-order: '261'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,2969,297/full/0/default.jpg
-label: Drieness
+annotation_uri: http://dev.llgc.org.uk/annotation/1508179157253
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,600,180/250,/0/default.jpg
+label: Dream
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '260'
 layout: alpha_item
 collection: alpha1
 ---

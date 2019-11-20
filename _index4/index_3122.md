@@ -2,31 +2,27 @@
 pid: index_3122
 volume: Volume 3
 image_number: '36'
-head: preface
-entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [prefatory]</a>|<a href='/digital-beehive/toc/toc2_101/'>366
-  [Preface]</a>|<a href='/digital-beehive/toc/toc2_306/'>1558 [Preface]</a>|4600 [PAGE_MISSING]"
+head: prefermt
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1726 [Preferment]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-905b93405"
+item: "#item-338130616"
 unparsed: 
-line: 'Head: preface|Entry: 621 [prefatory]|Entry: 366 [Preface]|Entry: 1558 [Preface]|Entry:
-  4600 [PAGE_MISSING]|#item-905b93405'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1862,2140,707,163/full/0/default.jpg
+line: 'Head: prefermt|Entry: 1726 [Preferment]|#item-338130616'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1859,2269,534,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440602314
-order: '3122'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1862,2140,707,163/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1862,2140,707,163/full/0/default.jpg
-label: preface
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440662961
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1859,2269,534,138/150,/0/default.jpg
+label: prefermt
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0370'
 layout: index_item
 collection: index4
 ---

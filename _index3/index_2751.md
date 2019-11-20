@@ -2,30 +2,27 @@
 pid: index_2751
 volume: Volume 3
 image_number: '33'
-head: nut
-entry: "<a href='/digital-beehive/alpha3/alpha_0642/'>a</a>|<a href='/digital-beehive/toc/toc2_357/'>1937
-  [Nut]</a>"
+head: nymph[ae]
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2120 [Nymphe]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b294fe338"
+item: "#item-9bbd1687f"
 unparsed: 
-line: 'Head: nut|Entry: a|Entry: 1937 [Nut]|#item-b294fe338'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/155,1100,496,127/full/0/default.jpg
+line: 'Head: nymph[ae]|Entry: 2120 [Nymphe]|#item-9bbd1687f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/149,1155,578,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1513275766664
-order: '2751'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/155,1100,496,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/155,1100,496,127/full/0/default.jpg
-label: nut
+annotation_uri: http://dev.llgc.org.uk/annotation/1536346624107
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/149,1155,578,147/150,/0/default.jpg
+label: nymph[ae]
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+insertion_xref: 
+order: '831'
 layout: index_item
 collection: index3
 ---

@@ -3,30 +3,28 @@ pid: alpha_1059
 volume: Volume 2
 image_number: '67'
 head: 
-entry: Yielding
-topic: Yielding
-first_letter: Y
-xref: "<a href='/digital-beehive/alpha1/alpha_0216/'>defence</a>|<a href='/digital-beehive/alpha4/alpha_0790/'>resistance</a>|<a
-  href='/digital-beehive/toc/toc2_147/'>657 [Yielding or Submission]</a>"
-see: 
+entry: Worshipping
+topic: Worshipping
+first_letter: W
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4649/'>yielding</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7d8d7d646"
+xref: "<a href='/digital-beehive/alpha4/alpha_0786/'>Religion</a>|<a href='/digital-beehive/alpha2/alpha_0303/'>external
+  worship</a>|<a href='/digital-beehive/num2/num_0566/'>456 [Worship]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4622/'>worship</a>"
+item: "#item-2b8a5b687"
 unparsed: 
-line: 'Entry: Yielding|Topic: Yielding|Xref: defence|Xref: resistance|Xref: 657 [Yielding
-  or Submission]|Index: yielding|#item-7d8d7d646'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,2978,366/full/0/default.jpg
+line: 'Entry: Worshipping|Topic: Worshipping|Xref: Religion|Xref: external worship|Xref:
+  456 [Worship]|Index: worship|#item-2b8a5b687'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/306,251,3077,689/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529604307017
-order: '1059'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,2978,366/full/0/default.jpg
-label: Yielding
+annotation_uri: http://dev.llgc.org.uk/annotation/1529598031406
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/306,251,600,180/250,/0/default.jpg
+label: Worshipping
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+num_match: 
+order: '124'
 layout: alpha_item
 collection: alpha5
 ---

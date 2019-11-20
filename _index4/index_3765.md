@@ -2,29 +2,27 @@
 pid: index_3765
 volume: Volume 3
 image_number: '43'
-head: snail
-entry: 
+head: snare
+entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_354/'>1919 [Ambush]</a>
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: "<a href='/digital-beehive/index4/index_3668/'>shells</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9727486f9"
+item: "#item-91be05f84"
 unparsed: 
-line: 'Head: snail|Page: p.36 [Image 1.96]|Add: shells|#item-9727486f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/full/0/default.jpg
+line: 'Head: snare|Entry: 773 [PAGE_MISSING]|Entry: 1919 [Ambush]|#item-91be05f84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1570,836,592,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585092411
-order: '3765'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/full/0/default.jpg
-label: snail
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585302740
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1570,836,592,124/150,/0/default.jpg
+label: snare
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1012'
 layout: index_item
 collection: index4
 ---

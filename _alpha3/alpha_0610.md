@@ -3,30 +3,28 @@ pid: alpha_0610
 volume: Volume 2
 image_number: '34'
 head: 
-entry: Mourning
-topic: Mourning
+entry: Mortifying
+topic: Mortifying
 first_letter: M
-xref: "<a href='/digital-beehive/alpha4/alpha_0815/'>Sadness</a>|<a href='/digital-beehive/alpha3/alpha_0580/'>melancholy</a>|Lamentation|<a
-  href='/digital-beehive/toc/toc2_201/'>1036 [Mourn]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2605/'>mourning</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ef1664611"
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Cross of Xst</a>|<a href='/digital-beehive/alpha5/alpha_1027/'>Small
+  Way</a>|<a href='/digital-beehive/num2/num_0557/'>448 [Mortification]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2588/'>mortifying</a>"
+item: "#item-bc399a654"
 unparsed: 
-line: 'Entry: Mourning|Topic: Mourning|Xref: Sadness|Xref: melancholy|Xref: Lamentation|Xref:
-  1036 [Mourn]|Index: mourning|#item-ef1664611'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,3063,547/full/0/default.jpg
+line: 'Entry: Mortifying|Topic: Mortifying|Xref: Cross of Xst|Xref: Small Way|Xref:
+  448 [Mortification]|Index: mortifying|#item-bc399a654'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/722,409,3054,546/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564777539260
-order: '610'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,3063,547/full/0/default.jpg
-label: Mourning
+annotation_uri: http://dev.llgc.org.uk/annotation/1564777145993
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/722,409,600,180/250,/0/default.jpg
+label: Mortifying
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+num_match: 
+order: '166'
 layout: alpha_item
 collection: alpha3
 ---

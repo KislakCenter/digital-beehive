@@ -2,30 +2,27 @@
 pid: index_1976
 volume: Volume 3
 image_number: '25'
-head: impotency
-entry: "<a href='/digital-beehive/toc/toc2_096/'>334 [Impotency]</a>|<a href='/digital-beehive/toc/toc2_350/'>1833
-  [Impotency]</a>"
+head: imprisonmt
+entry: 
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3163/'>prison</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7ca52bd62"
+item: "#item-45948aa65"
 unparsed: 
-line: 'Head: impotency|Entry: 334 [Impotency]|Entry: 1833 [Impotency]|#item-7ca52bd62'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/845,2361,677,121/full/0/default.jpg
+line: 'Head: imprisonmt|See: prison|#item-45948aa65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/836,2460,685,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666896642
-order: '1976'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/845,2361,677,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/845,2361,677,121/full/0/default.jpg
-label: impotency
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/836,2460,685,140/150,/0/default.jpg
+label: imprisonmt
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '057'
 layout: index_item
 collection: index3
 ---

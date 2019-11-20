@@ -2,29 +2,27 @@
 pid: index_3064
 volume: Volume 3
 image_number: '36'
-head: poison
-entry: "<a href='/digital-beehive/toc/toc2_302/'>1540 [Poisoning]</a>"
+head: polytheism
+entry: 4633 [PAGE_MISSING]
 topic: 
 first_letter: P
-xref: 
-see: "<a href='/digital-beehive/index5/index_4312/'>venom</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-96a984c27"
+item: "#item-05cb35c4f"
 unparsed: 
-line: 'Head: poison|See: venom|Entry: 1540 [Poisoning]|#item-96a984c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/full/0/default.jpg
+line: 'Head: polytheism|Entry: 4633 [PAGE_MISSING]|#item-05cb35c4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/447,3022,616,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437996503
-order: '3064'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/full/0/default.jpg
-label: poison
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438022386
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/447,3022,616,104/150,/0/default.jpg
+label: polytheism
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0312'
 layout: index_item
 collection: index4
 ---

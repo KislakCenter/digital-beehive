@@ -6,25 +6,23 @@ head: grease
 entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [Grease]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-d21c66cbc"
 unparsed: 
 line: 'Head: grease|Entry: 698 [Grease]|#item-d21c66cbc'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559229295078
-order: '1706'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/full/0/default.jpg
 label: grease
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+insertion_xref: 
+order: '525'
 layout: index_item
 collection: index2
 ---

@@ -2,29 +2,28 @@
 pid: index_3506
 volume: Volume 3
 image_number: '41'
-head: saltpetre
-entry: "<a href='/digital-beehive/toc/toc2_322/'>1639 [Nitre or Saltpetre]</a>"
+head: salvation
+entry: "<a href='/digital-beehive/alpha4/alpha_0828/'>a</a>|<a href='/digital-beehive/num1/num_0115/'>111
+  [Salvation]</a>|<a href='/digital-beehive/toc/toc2_312/'>1587 [Salvation]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3c7b2b27e"
+item: "#item-30d353573"
 unparsed: 
-line: 'Head: saltpetre|Entry: 1639 [Nitre or Saltpetre]|#item-3c7b2b27e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,567,391,146/full/0/default.jpg
+line: 'Head: salvation|Entry: a|Entry: 111 [Salvation]|Entry: 1587 [Salvation]|#item-30d353573'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,702,648,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238357222
-order: '3506'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,567,391,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,567,391,146/full/0/default.jpg
-label: saltpetre
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238402197
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,702,648,135/150,/0/default.jpg
+label: salvation
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0753'
 layout: index_item
 collection: index4
 ---

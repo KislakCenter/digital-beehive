@@ -2,29 +2,28 @@
 pid: index_4310
 volume: Volume 3
 image_number: '49'
-head: Venice
-entry: "<a href='/digital-beehive/toc/toc2_111/'>440 [Venice]</a>"
+head: venom
+entry: "<a href='/digital-beehive/alpha5/alpha_0989/'>a</a>|<a href='/digital-beehive/toc/toc2_302/'>1540
+  [Poisoning]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d17224da7"
+item: "#item-7a1cf5213"
 unparsed: 
-line: 'Head: Venice|Entry: 440 [Venice]|#item-d17224da7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/full/0/default.jpg
+line: 'Head: venom|Entry: a|Entry: 1540 [Poisoning]|#item-7a1cf5213'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2713,499,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658695259
-order: '4310'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/full/0/default.jpg
-label: Venice
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658738560
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2713,499,71/150,/0/default.jpg
+label: venom
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '277'
 layout: index_item
 collection: index5
 ---

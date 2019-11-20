@@ -1,30 +1,30 @@
 ---
 pid: alpha_0869
 volume: Volume 2
-image_number: '53'
+image_number: '52'
 head: 
-entry: Simulation
-topic: Simulation
+entry: Sickness
+topic: Sickness
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_223/'>1150 [Simulation]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3718/'>simulation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c01948499"
+xref: "<a href='/digital-beehive/alpha2/alpha_0323/'>fever</a>|<a href='/digital-beehive/alpha3/alpha_0501/'>Kings
+  evil</a>|808 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3695/'>sickness</a>"
+item: "#item-e89281eac"
 unparsed: 
-line: 'Entry: Simulation|Topic: Simulation|Xref: 1150 [Simulation]|Index: simulation|#item-c01948499'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/303,1369,3066,547/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532023417511
-order: '869'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/303,1369,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/303,1369,3066,547/full/0/default.jpg
-label: Simulation
-location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+line: 'Entry: Sickness|Topic: Sickness|Xref: fever|Xref: Kings evil|Xref: 808 [PAGE_MISSING]|Index:
+  sickness|#item-e89281eac'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,2885,688/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803693926
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,600,180/250,/0/default.jpg
+label: Sickness
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '221'
 layout: alpha_item
 collection: alpha4
 ---

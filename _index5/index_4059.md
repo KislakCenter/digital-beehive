@@ -2,29 +2,27 @@
 pid: index_4059
 volume: Volume 3
 image_number: '46'
-head: tapistry
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1987 [Tapistry]</a>"
+head: tares
+entry: 809 [PAGE_MISSING]
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-829225285"
+item: "#item-a5648fdf1"
 unparsed: 
-line: 'Head: tapistry|Entry: 1987 [Tapistry]|#item-829225285'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1833,2492,431,91/full/0/default.jpg
+line: 'Head: tares|Page: p.33 [Image 1.93]|Entry: 809 [PAGE_MISSING]|#item-a5648fdf1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1824,2690,505,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743323301
-order: '4059'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1833,2492,431,91/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1833,2492,431,91/full/0/default.jpg
-label: tapistry
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743434469
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1824,2690,505,105/150,/0/default.jpg
+label: tares
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '027'
 layout: index_item
 collection: index5
 ---

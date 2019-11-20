@@ -2,29 +2,27 @@
 pid: index_1177
 volume: Volume 3
 image_number: '18'
-head: "[:59.]"
-entry: 
+head: to dwell
+entry: "<a href='/digital-beehive/toc/toc2_283/'>1446 [To Dwell]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4729/'>duty of husband and</a>"
-insertion: 
-item: "#item-134701df1"
-unparsed: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
-line: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/full/0/default.jpg
+item: "#item-6f049f2d7"
+unparsed: 
+line: 'Head: to dwell|Entry: 1446 [To Dwell]|#item-6f049f2d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276169906
-order: '1177'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/full/0/default.jpg
-label: "[:59.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664921533
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/150,/0/default.jpg
+label: to dwell
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1174'
 layout: index_item
 collection: index1
 ---

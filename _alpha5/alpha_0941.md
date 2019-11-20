@@ -1,30 +1,30 @@
 ---
 pid: alpha_0941
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Thirst
-topic: Thirst
+entry: Temperance
+topic: Temperance
 first_letter: T
-xref: "<a href='/digital-beehive/alpha1/alpha_0262/'>Drink</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4120/'>thirst</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ca7158b5d"
+xref: "<a href='/digital-beehive/alpha1/alpha_0233/'>Diet</a>|<a href='/digital-beehive/alpha3/alpha_0482/'>Intemperance</a>|<a
+  href='/digital-beehive/toc/toc2_247/'>1269 [Temperance]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4080/'>temperance</a>"
+item: "#item-0211a4e15"
 unparsed: 
-line: 'Entry: Thirst|Topic: Thirst|Xref: Drink|Index: thirst|#item-ca7158b5d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/819,2688,3020,458/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529517328554
-order: '941'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/819,2688,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/819,2688,3020,458/full/0/default.jpg
-label: Thirst
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Temperance|Topic: Temperance|Xref: Diet|Xref: Intemperance|Xref: 1269
+  [Temperance]|Index: temperance|#item-0211a4e15'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,3041,510/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528921562478
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,600,180/250,/0/default.jpg
+label: Temperance
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '006'
 layout: alpha_item
 collection: alpha5
 ---

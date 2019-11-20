@@ -2,29 +2,27 @@
 pid: index_1262
 volume: Volume 3
 image_number: '18'
-head: English tongue
-entry: "<a href='/digital-beehive/toc/toc2_116/'>473 [English Tongue]</a>"
+head: engraving
+entry: 4524 [PAGE_MISSING]
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2a1d04b63"
+item: "#item-2f3e30a08"
 unparsed: 
-line: 'Head: English tongue|Entry: 473 [English Tongue]|#item-2a1d04b63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1827,2086,501,148/full/0/default.jpg
+line: 'Head: engraving|Entry: 4524 [PAGE_MISSING]|#item-2f3e30a08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,2193,548,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758373437
-order: '1262'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1827,2086,501,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1827,2086,501,148/full/0/default.jpg
-label: English tongue
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834999332
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,2193,548,169/150,/0/default.jpg
+label: engraving
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '082'
 layout: index_item
 collection: index2
 ---

@@ -2,33 +2,27 @@
 pid: index_2955
 volume: Volume 3
 image_number: '35'
-head: perfection
-entry: "<a href='/digital-beehive/alpha4/alpha_0693/'>a</a>|<a href='/digital-beehive/toc/toc2_062/'>60
-  [Perfection]</a>|<a href='/digital-beehive/toc/toc2_131/'>569 [Perfection]</a>|<a
-  href='/digital-beehive/toc/toc2_210/'>1084 [Perfection]</a>|<a href='/digital-beehive/toc/toc2_340/'>1753
-  [Sinless Perfection]</a>"
+head: to perform
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: do
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7937d5a2c"
+item: "#item-7df8eacf5"
 unparsed: 
-line: 'Head: perfection|Entry: a|Entry: 60 [Perfection]|Entry: 569 [Perfection]|Entry:
-  1084 [Perfection]|Entry: 1753 [Sinless Perfection]|#item-7937d5a2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/full/0/default.jpg
+line: 'Head: to perform|See: do|#item-7df8eacf5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/100,2296,573,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973052618
-order: '2955'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/full/0/default.jpg
-label: perfection
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973084783
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/100,2296,573,145/150,/0/default.jpg
+label: to perform
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0203'
 layout: index_item
 collection: index4
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0994
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: University
-topic: University
+entry: Vineyard
+topic: Vineyard
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha4/alpha_0827/'>Schoole</a>|Professors|<a href='/digital-beehive/toc/toc2_168/'>902
-  [University]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4394/'>universities</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fb3f37194"
+xref: "<a href='/digital-beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
+  [Vineyards]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4332/'>vineyard</a>"
+item: "#item-fc758dd02"
 unparsed: 
-line: 'Entry: University|Topic: University|Xref: Schoole|Xref: Professors|Xref: 902
-  [University]|Index: universities|#item-fb3f37194'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,2150,2973,491/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912421661
-order: '994'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,2150,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,2150,2973,491/full/0/default.jpg
-label: University
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Vineyard|Topic: Vineyard|Xref: 973 [Grapes]|Xref: 1990 [Vineyards]|Index:
+  vineyard|#item-fc758dd02'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529003787011
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,600,180/250,/0/default.jpg
+label: Vineyard
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '059'
 layout: alpha_item
 collection: alpha5
 ---

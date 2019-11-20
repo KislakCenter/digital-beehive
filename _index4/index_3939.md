@@ -2,29 +2,27 @@
 pid: index_3939
 volume: Volume 3
 image_number: '45'
-head: stress
-entry: "<a href='/digital-beehive/toc/toc2_158/'>711 [Drift]</a>"
+head: to stretch
+entry: "<a href='/digital-beehive/num1/num_0149/'>143 [to Stretchout]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-63422ec90"
+item: "#item-4f9eeb7ec"
 unparsed: 
-line: 'Head: stress|Entry: 711 [Drift]|#item-63422ec90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/908,2491,326,124/full/0/default.jpg
+line: 'Head: to stretch|Entry: 143 [to Stretchout]|#item-4f9eeb7ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2590,464,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530465956855
-order: '3939'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/908,2491,326,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/908,2491,326,124/full/0/default.jpg
-label: stress
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290838021
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2590,464,118/150,/0/default.jpg
+label: to stretch
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1186'
 layout: index_item
 collection: index4
 ---

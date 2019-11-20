@@ -2,29 +2,27 @@
 pid: index_3814
 volume: Volume 3
 image_number: '44'
-head: Sour
-entry: "<a href='/digital-beehive/toc/toc2_374/'>2088 [Sour]</a>"
+head: South
+entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [South]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-61642405e"
+item: "#item-aedaddee0"
 unparsed: 
-line: 'Head: Sour|Entry: 2088 [Sour]|#item-61642405e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/544,3046,456,124/full/0/default.jpg
+line: 'Head: South|Entry: 578 [South]|#item-aedaddee0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/595,3174,407,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529787912095
-order: '3814'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/544,3046,456,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/544,3046,456,124/full/0/default.jpg
-label: Sour
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288443657
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/595,3174,407,137/150,/0/default.jpg
+label: South
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1061'
 layout: index_item
 collection: index4
 ---

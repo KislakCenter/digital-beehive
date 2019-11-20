@@ -3,28 +3,26 @@ pid: alpha_0257
 volume: Volume 1
 image_number: '451'
 head: 
-entry: Dog-dayes
-topic: Dog-days
+entry: Dog
+topic: Dog
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1127/'>dog-days</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7c551681e"
+xref: "<a href='/digital-beehive/toc/toc2_261/'>1338 [Dog]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1126/'>dog</a>"
+item: "#item-b80ead891"
 unparsed: 
-line: 'Entry: Dog-dayes|Topic: Dog-days|Index: dog-days|#item-7c551681e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/435,3240,2936,219/full/0/default.jpg
+line: 'Entry: Dog|Topic: Dog|Xref: 1338 [Dog]|Index: dog|#item-b80ead891'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,3026,434/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508178209764
-order: '257'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/435,3240,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/435,3240,2936,219/full/0/default.jpg
-label: Dog-dayes
+annotation_uri: http://dev.llgc.org.uk/annotation/1508178087488
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,600,180/250,/0/default.jpg
+label: Dog
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '256'
 layout: alpha_item
 collection: alpha1
 ---

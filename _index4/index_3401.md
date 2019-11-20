@@ -2,29 +2,28 @@
 pid: index_3401
 volume: Volume 3
 image_number: '39'
-head: return
-entry: 787 [PAGE_MISSING]
+head: revelation
+entry: "<a href='/digital-beehive/alpha4/alpha_0800/'>a</a>|<a href='/digital-beehive/toc/toc2_259/'>1328
+  [Revelation]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5cc984f98"
+item: "#item-85c9b5aef"
 unparsed: 
-line: 'Head: return|Entry: 787 [PAGE_MISSING]|#item-5cc984f98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1495,2757,480,148/full/0/default.jpg
+line: 'Head: revelation|Entry: a|Entry: 1328 [Revelation]|#item-85c9b5aef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1496,2866,748,213/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230229623
-order: '3401'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1495,2757,480,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1495,2757,480,148/full/0/default.jpg
-label: return
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230263097
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1496,2866,748,213/150,/0/default.jpg
+label: revelation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0648'
 layout: index_item
 collection: index4
 ---

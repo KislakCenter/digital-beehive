@@ -3,30 +3,29 @@ pid: alpha_0381
 volume: Volume 2
 image_number: '16'
 head: 
-entry: Gratitude
-topic: Gratitude
+entry: Grandeur
+topic: Grandeur
 first_letter: G
-xref: "<a href='/digital-beehive/alpha5/alpha_0999/'>Unthankfullness</a>|<a href='/digital-beehive/alpha5/alpha_0940/'>thanks</a>|<a
-  href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1697/'>gratitude</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6091f25b6"
+xref: "<a href='/digital-beehive/alpha4/alpha_0730/'>Pride</a>|<a href='/digital-beehive/alpha2/alpha_0420/'>highness</a>|<a
+  href='/digital-beehive/alpha3/alpha_0565/'>magnanimity</a>|<a href='/digital-beehive/toc/toc2_164/'>883
+  [highness]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1691/'>grandeur</a>"
+item: "#item-d2c4ae635"
 unparsed: 
-line: 'Entry: Gratitude|Topic: Gratitude|Xref: Unthankfullness|Xref: thanks|Xref:
-  1132 [Gratitude]|Index: gratitude|#item-6091f25b6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,547,2986,586/full/0/default.jpg
+line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanimity|Xref:
+  883 [highness]|Index: grandeur|#item-d2c4ae635'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,2958,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564603533581
-order: '381'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,547,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,547,2986,586/full/0/default.jpg
-label: Gratitude
+annotation_uri: http://dev.llgc.org.uk/annotation/1508857327200
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,600,180/250,/0/default.jpg
+label: Grandeur
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+num_match: 
+order: '112'
 layout: alpha_item
 collection: alpha2
 ---

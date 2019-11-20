@@ -3,30 +3,28 @@ pid: alpha_0688
 volume: Volume 2
 image_number: '39'
 head: 
-entry: Peacemaker
-topic: Peacemaker
+entry: Patience
+topic: Patience
 first_letter: P
-xref: "<a href='/digital-beehive/alpha3/alpha_0576/'>mediator</a>|<a href='/digital-beehive/toc/toc2_165/'>888
-  [Peace-making]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2931/'>peacemaker</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fb8af06a3"
+xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/alpha3/alpha_0461/'>Impat</a>|<a
+  href='/digital-beehive/toc/toc2_122/'>509 [Patience]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2918/'>patience</a>"
+item: "#item-9387b1eed"
 unparsed: 
-line: 'Entry: Peacemaker|Topic: Peacemaker|Xref: mediator|Xref: 888 [Peace-making]|Index:
-  peacemaker|#item-fb8af06a3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,3036,3061,433/full/0/default.jpg
+line: 'Entry: Patience|Topic: Patience|Xref: [WORD_ILLEGIBLE]|Xref: Impat|Xref: 509
+  [Patience]|Index: patience|#item-9387b1eed'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/298,1629,3068,508/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565022181603
-order: '688'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,3036,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,3036,3061,433/full/0/default.jpg
-label: Peacemaker
+annotation_uri: http://dev.llgc.org.uk/annotation/1565021845774
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/298,1629,600,180/250,/0/default.jpg
+label: Patience
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+num_match: 
+order: '041'
 layout: alpha_item
 collection: alpha4
 ---

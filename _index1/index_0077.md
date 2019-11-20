@@ -2,29 +2,28 @@
 pid: index_0077
 volume: Volume 3
 image_number: '7'
-head: agnus Dei
-entry: 4662 [PAGE_MISSING]
+head: agony
+entry: "<a href='/digital-beehive/alpha1/alpha_0013/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1065
+  [Agony]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0c49be725"
+item: "#item-617650a3e"
 unparsed: 
-line: 'Head: agnus Dei|Entry: 4662 [PAGE_MISSING]|#item-0c49be725'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/899,3115,505,99/full/0/default.jpg
+line: 'Head: agony|Entry: a|Entry: 1065 [Agony]|#item-617650a3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3173,465,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767526414
-order: '77'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/899,3115,505,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/899,3115,505,99/full/0/default.jpg
-label: agnus Dei
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767567535
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3173,465,119/150,/0/default.jpg
+label: agony
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0076'
 layout: index_item
 collection: index1
 ---

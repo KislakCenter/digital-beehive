@@ -2,29 +2,29 @@
 pid: index_4259
 volume: Volume 3
 image_number: '49'
-head: tryal
-entry: 
+head: try all things
+entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
+  href='/digital-beehive/toc/toc2_169/'>908 [Try all things]</a>"
 topic: 
 first_letter: T
-xref: 
-see: proof|<a href='/digital-beehive/index5/index_4086/'>temptation</a>
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a6fb58496"
+item: "#item-4a38fbe2a"
 unparsed: 
-line: 'Head: tryal|See: proof|See: temptation|#item-a6fb58496'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,536,748,129/full/0/default.jpg
+line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 908 [Try all
+  things]|#item-4a38fbe2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655311755
-order: '4259'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,536,748,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,536,748,129/full/0/default.jpg
-label: tryal
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/150,/0/default.jpg
+label: try all things
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '226'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_3785
 volume: Volume 3
 image_number: '43'
-head: solecism
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Welch Tongues]</a>"
+head: Soli Deo Gloria
+entry: "<a href='/digital-beehive/toc/toc2_290/'>1484 [Soli deo gloria]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-09309a132"
+item: "#item-8ccc15c23"
 unparsed: 
-line: 'Head: solecism|Entry: 537 [Welch Tongues]|#item-09309a132'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1585,2779,482,117/full/0/default.jpg
+line: 'Head: Soli Deo Gloria|Entry: 1484 [Soli deo gloria]|#item-8ccc15c23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586422103
-order: '3785'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1585,2779,482,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1585,2779,482,117/full/0/default.jpg
-label: solecism
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586464501
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/150,/0/default.jpg
+label: Soli Deo Gloria
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1032'
 layout: index_item
 collection: index4
 ---

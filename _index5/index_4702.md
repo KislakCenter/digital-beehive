@@ -2,30 +2,27 @@
 pid: index_4702
 volume: Volume 3
 image_number: '54'
-head: Christ's absence
-entry: "<a href='/digital-beehive/toc/toc2_086/'>261 [Absence & Presence of Xst]</a>"
+head: kidnapper
+entry: "<a href='/digital-beehive/toc/toc2_137/'>600 [Manstealing]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:33.]"
-item: "#item-f94785118"
-unparsed: 
-line: 'Type: Index|Insertion: [:33.]|Head: Christ''s absence|Entry: 261 [Absence &
-  Presence of Xst]|#item-f94785118'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/full/0/default.jpg
+item: "#item-1919e4fb7"
+unparsed: Type Index|Insertion [:34.]
+line: 'Type: Index|Insertion: [:34.]|Head: kidnapper|Entry: 600 [Manstealing]|#item-1919e4fb7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955003278
-order: '4702'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/full/0/default.jpg
-label: Christ's absence
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955070127
+insertion: "[:34.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/150,/0/default.jpg
+label: kidnapper
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '669'
 layout: index_item
 collection: index5
 ---

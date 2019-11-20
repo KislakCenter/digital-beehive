@@ -2,29 +2,27 @@
 pid: index_3931
 volume: Volume 3
 image_number: '45'
-head: strangury
-entry: 805 [PAGE_MISSING]
+head: strappado
+entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dae950906"
+item: "#item-8af722b3b"
 unparsed: 
-line: 'Head: strangury|Entry: 805 [PAGE_MISSING]|#item-dae950906'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,1743,502,118/full/0/default.jpg
+line: 'Head: strappado|Entry: a|#item-8af722b3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,1864,423,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530464826624
-order: '3931'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,1743,502,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,1743,502,118/full/0/default.jpg
-label: strangury
+annotation_uri: http://dev.llgc.org.uk/annotation/1530464842471
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,1864,423,123/150,/0/default.jpg
+label: strappado
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1178'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,27 @@
 pid: index_4634
 volume: Volume 3
 image_number: '53'
-head: writing
-entry: "<a href='/digital-beehive/alpha5/alpha_1057/'>a</a>|<a href='/digital-beehive/toc/toc2_269/'>1376
-  [Writing]</a>"
+head: writing secret
+entry: 
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c3dc78ea7"
+item: "#item-63a51121d"
 unparsed: 
-line: 'Head: writing|Entry: a|Entry: 1376 [Writing]|#item-c3dc78ea7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/full/0/default.jpg
+line: 'Head: writing secret|Page: p.380 [Image 2.300]|#item-63a51121d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798648853
-order: '4634'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/full/0/default.jpg
-label: writing
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798663201
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,1152,500,148/150,/0/default.jpg
+label: writing secret
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '601'
 layout: index_item
 collection: index5
 ---

@@ -1,31 +1,29 @@
 ---
 pid: alpha_0806
 volume: Volume 2
-image_number: '49'
+image_number: '48'
 head: 
-entry: Romances
-topic: Romances
+entry: Riches
+topic: Riches
 first_letter: R
-xref: "<a href='/digital-beehive/alpha2/alpha_0305/'>Fables</a>|<a href='/digital-beehive/toc/toc2_272/'>1393
-  [Romances]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3443/'>romance</a>"
-insertion_xref: 
-insertion: 
-item: "#item-af75dbbde"
+xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>Abundance</a>|854 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3418/'>riches</a>"
+item: "#item-821b8e68d"
 unparsed: 
-line: 'Entry: Romances|Topic: Romances|Xref: Fables|Xref: 1393 [Romances]|Index: romance|#item-af75dbbde'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,3033,339/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528827075334
-order: '806'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,3033,339/full/0/default.jpg
-label: Romances
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+line: 'Entry: Riches|Topic: Riches|Xref: Abundance|Xref: 854 [PAGE_MISSING]|Index:
+  riches|#item-821b8e68d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/795,2995,2948,815/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528824983012
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/795,2995,600,180/250,/0/default.jpg
+label: Riches
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '158'
 layout: alpha_item
 collection: alpha4
 ---

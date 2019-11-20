@@ -2,30 +2,27 @@
 pid: index_4590
 volume: Volume 3
 image_number: '53'
-head: womanish
-entry: "<a href='/digital-beehive/alpha5/alpha_1038/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1388
-  [Love of women]</a>"
+head: women beaten
+entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4e633adab"
+item: "#item-84ebf429a"
 unparsed: 
-line: 'Head: womanish|Entry: a|Entry: 1388 [Love of women]|#item-4e633adab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/156,3336,643,114/full/0/default.jpg
+line: 'Head: women beaten|Entry: a|#item-84ebf429a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793636828
-order: '4590'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/156,3336,643,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/156,3336,643,114/full/0/default.jpg
-label: womanish
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793678800
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/150,/0/default.jpg
+label: women beaten
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '557'
 layout: index_item
 collection: index5
 ---

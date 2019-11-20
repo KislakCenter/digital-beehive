@@ -3,28 +3,26 @@ pid: alpha_0277
 volume: Volume 1
 image_number: '453'
 head: 
-entry: Egg
-topic: Egg
+entry: Eel
+topic: Eel
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_325/'>1651 [Eggs]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1216/'>egg</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5bacc263d"
+xref: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Eel]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1210/'>eel</a>"
+item: "#item-ab3f11547"
 unparsed: 
-line: 'Entry: Egg|Topic: Egg|Xref: 1651 [Eggs]|Index: egg|#item-5bacc263d'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,3076,319/full/0/default.jpg
+line: 'Entry: Eel|Topic: Eel|Xref: 1647 [Eel]|Index: eel|#item-ab3f11547'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,3061,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518289645
-order: '277'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/381,801,3076,319/full/0/default.jpg
-label: Egg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518228193
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,600,180/250,/0/default.jpg
+label: Eel
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '008'
 layout: alpha_item
 collection: alpha2
 ---

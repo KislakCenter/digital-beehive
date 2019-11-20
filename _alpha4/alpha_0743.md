@@ -1,30 +1,28 @@
 ---
 pid: alpha_0743
 volume: Volume 2
-image_number: '44'
+image_number: '43'
 head: 
-entry: Property
-topic: Property
+entry: Prohibition
+topic: Prohibition
 first_letter: P
-xref: "<a href='/digital-beehive/alpha3/alpha_0627/'>Nature</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3197/'>property</a>"
-insertion_xref: 
-insertion: 
-item: "#item-504806ca0"
+xref: "<a href='/digital-beehive/alpha2/alpha_0339/'>forbidden things</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3184/'>prohibition</a>"
+item: "#item-2d7698387"
 unparsed: 
-line: 'Entry: Property|Topic: Property|Xref: Nature|Index: property|#item-504806ca0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,594,2999,293/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528720462040
-order: '743'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,594,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,594,2999,293/full/0/default.jpg
-label: Property
-location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+line: 'Entry: Prohibition|Topic: Prohibition|Xref: forbidden things|Index: prohibition|#item-2d7698387'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,3445,3051,463/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1574179571279
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,3445,600,180/250,/0/default.jpg
+label: Prohibition
+location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+num_match: 
+order: '096'
 layout: alpha_item
 collection: alpha4
 ---

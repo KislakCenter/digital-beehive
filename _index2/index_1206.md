@@ -2,29 +2,27 @@
 pid: index_1206
 volume: Volume 3
 image_number: '18'
-head: edge
-entry: 
+head: edict
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1285 [an Edict]</a>"
 topic: 
 first_letter: E
-xref: 
-see: blunt|<a href='/digital-beehive/index4/index_3665/'>sharp</a>
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9dafb966c"
+item: "#item-f7e8f0fb9"
 unparsed: 
-line: 'Head: edge|See: blunt|See: sharp|#item-9dafb966c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/full/0/default.jpg
+line: 'Head: edict|Entry: 1285 [an Edict]|#item-f7e8f0fb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671796377
-order: '1206'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,717,682,138/full/0/default.jpg
-label: edge
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671949782
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/150,/0/default.jpg
+label: edict
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '026'
 layout: index_item
 collection: index2
 ---

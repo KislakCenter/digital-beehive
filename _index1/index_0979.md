@@ -6,25 +6,23 @@ head: deceit
 entry: 
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e2270e0f6"
 unparsed: 
 line: 'Head: deceit|See: fraud|#item-e2270e0f6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/353,690,551,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1540570055083
-order: '979'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/353,690,551,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/353,690,551,116/full/0/default.jpg
 label: deceit
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '0976'
 layout: index_item
 collection: index1
 ---

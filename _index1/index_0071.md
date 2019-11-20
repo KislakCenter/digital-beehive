@@ -2,29 +2,27 @@
 pid: index_0071
 volume: Volume 3
 image_number: '7'
-head: Agbarus
-entry: "<a href='/digital-beehive/toc/toc2_066/'>92 [Agbarus]</a>"
+head: at Age
+entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1723/'>guardian</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e0e57e92b"
+item: "#item-4665dc60a"
 unparsed: 
-line: 'Head: Agbarus|Entry: 92 [Agbarus]|#item-e0e57e92b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2661,386,121/full/0/default.jpg
+line: 'Head: at Age|See: guardian|#item-4665dc60a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767009334
-order: '71'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2661,386,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,2661,386,121/full/0/default.jpg
-label: Agbarus
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767147066
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/150,/0/default.jpg
+label: at Age
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0070'
 layout: index_item
 collection: index1
 ---

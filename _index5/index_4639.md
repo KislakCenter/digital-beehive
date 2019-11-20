@@ -2,29 +2,27 @@
 pid: index_4639
 volume: Volume 3
 image_number: '53'
-head: yawning
-entry: "<a href='/digital-beehive/toc/toc2_156/'>704 [to Gape]</a>"
+head: yarn
+entry: "<a href='/digital-beehive/toc/toc2_221/'>1136 [Thread]</a>"
 topic: 
 first_letter: Y
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-59c2ad154"
+item: "#item-3afdeeea1"
 unparsed: 
-line: 'Head: yawning|Entry: 704 [to Gape]|#item-59c2ad154'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1559,1677,537,124/full/0/default.jpg
+line: 'Head: yarn|Entry: 1136 [Thread]|#item-3afdeeea1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1587,1804,366,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798827566
-order: '4639'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1559,1677,537,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1559,1677,537,124/full/0/default.jpg
-label: yawning
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798878399
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1587,1804,366,132/150,/0/default.jpg
+label: yarn
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '606'
 layout: index_item
 collection: index5
 ---

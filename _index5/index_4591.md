@@ -2,29 +2,27 @@
 pid: index_4591
 volume: Volume 3
 image_number: '53'
-head: woman talkative
-entry: 4733 [PAGE_MISSING]
+head: bad woman
+entry: 
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: womans Imper
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1c382dc38"
+item: "#item-ebaa80d0b"
 unparsed: 
-line: 'Head: woman talkative|Entry: 4733 [PAGE_MISSING]|#item-1c382dc38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/201,3422,646,114/full/0/default.jpg
+line: 'Head: bad woman|See: womans Imper|#item-ebaa80d0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793660741
-order: '4591'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/201,3422,646,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/201,3422,646,114/full/0/default.jpg
-label: woman talkative
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793711360
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/150,/0/default.jpg
+label: bad woman
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '558'
 layout: index_item
 collection: index5
 ---

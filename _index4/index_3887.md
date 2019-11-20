@@ -2,30 +2,27 @@
 pid: index_3887
 volume: Volume 3
 image_number: '45'
-head: statues
-entry: "<a href='/digital-beehive/toc/toc2_178/'>955 [Images]</a>|<a href='/digital-beehive/toc/toc2_330/'>1680
-  [Images]</a>"
+head: statutes
+entry: 2775 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_059/'>p.9 [Image 1.69]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e890dda13"
+item: "#item-db2d7fcf3"
 unparsed: 
-line: 'Head: statues|Page: p.9 [Image 1.69]|Entry: 955 [Images]|Entry: 1680 [Images]|#item-e890dda13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,872,663,131/full/0/default.jpg
+line: 'Head: statutes|Entry: 2775 [PAGE_MISSING]|#item-db2d7fcf3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,968,486,82/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289907593
-order: '3887'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,872,663,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,872,663,131/full/0/default.jpg
-label: statues
+annotation_uri: http://dev.llgc.org.uk/annotation/1530218975736
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,968,486,82/150,/0/default.jpg
+label: statutes
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1134'
 layout: index_item
 collection: index4
 ---

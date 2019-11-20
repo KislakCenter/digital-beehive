@@ -3,30 +3,26 @@ pid: alpha_0862
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Sickness
-topic: Sickness
+entry: Shame
+topic: Shame
 first_letter: S
-xref: "<a href='/digital-beehive/alpha2/alpha_0322/'>fever</a>|<a href='/digital-beehive/alpha3/alpha_0500/'>Kings
-  evil</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3696/'>sickness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e89281eac"
+xref: "<a href='/digital-beehive/num2/num_0592/'>478 [Shame]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3659/'>shame</a>"
+item: "#item-fcd85d2a0"
 unparsed: 
-line: 'Entry: Sickness|Topic: Sickness|Xref: fever|Xref: Kings evil|Xref: 808 [PAGE_MISSING]|Index:
-  sickness|#item-e89281eac'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,2885,688/full/0/default.jpg
+line: 'Entry: Shame|Topic: Shame|Xref: 478 [Shame]|Index: shame|#item-fcd85d2a0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,3003,411/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803693926
-order: '862'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/832,3505,2885,688/full/0/default.jpg
-label: Sickness
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803328530
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,1392,600,180/250,/0/default.jpg
+label: Shame
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '214'
 layout: alpha_item
 collection: alpha4
 ---

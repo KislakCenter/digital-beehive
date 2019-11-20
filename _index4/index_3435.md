@@ -2,29 +2,27 @@
 pid: index_3435
 volume: Volume 3
 image_number: '40'
-head: to rise
-entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [Ripeness]</a>"
+head: river
+entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>"
 topic: 
 first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-61d10e4e8"
+item: "#item-ecccc25af"
 unparsed: 
-line: 'Head: to rise|Entry: 912 [Ripeness]|#item-61d10e4e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/432,3072,385,144/full/0/default.jpg
+line: 'Head: river|Page: p.30 [Image 1.90]|Entry: a|Entry: 4551 [WORD_MISSING]|#item-ecccc25af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232555309
-order: '3435'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/432,3072,385,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/432,3072,385,144/full/0/default.jpg
-label: to rise
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232701316
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/150,/0/default.jpg
+label: river
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0682'
 layout: index_item
 collection: index4
 ---

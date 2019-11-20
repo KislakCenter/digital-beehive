@@ -2,29 +2,27 @@
 pid: index_3322
 volume: Volume 3
 image_number: '39'
-head: record
-entry: 843 [PAGE_MISSING]
+head: to recover
+entry: "<a href='/digital-beehive/num2/num_0501/'>408 [To Recover]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-002f19043"
+item: "#item-bc69bbfb1"
 unparsed: 
-line: 'Head: record|Entry: 843 [PAGE_MISSING]|#item-002f19043'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/full/0/default.jpg
+line: 'Head: to recover|Entry: 408 [To Recover]|#item-bc69bbfb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,371,493,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463166463
-order: '3322'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/full/0/default.jpg
-label: record
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463186836
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,371,493,149/150,/0/default.jpg
+label: to recover
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0569'
 layout: index_item
 collection: index4
 ---

@@ -1,30 +1,28 @@
 ---
 pid: alpha_0970
 volume: Volume 2
-image_number: '60'
+image_number: '59'
 head: 
-entry: Trinity
-topic: Trinity
+entry: Toothach
+topic: Toothach
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_144/'>639 [Trinity]</a>"
-see: 
-page: 
+page: p.377 [Image 2.199]
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4242/'>trinity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7671343b9"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4189/'>toothach</a>"
+item: "#item-e7678121e"
 unparsed: 
-line: 'Entry: Trinity|Topic: Trinity|Xref: 639 [Trinity]|Index: trinity|#item-7671343b9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/805,3306,2987,532/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529610209860
-order: '970'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/805,3306,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/805,3306,2987,532/full/0/default.jpg
-label: Trinity
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+line: 'Entry: Toothach|Topic: Toothach|Page: p.377 [Image 2.199]|Index: toothach|#item-e7678121e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,2924,347/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114616162
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,600,180/250,/0/default.jpg
+label: Toothach
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+num_match: 
+order: '035'
 layout: alpha_item
 collection: alpha5
 ---

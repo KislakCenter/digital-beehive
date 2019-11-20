@@ -2,30 +2,27 @@
 pid: index_4257
 volume: Volume 3
 image_number: '49'
-head: truth
-entry: "<a href='/digital-beehive/alpha5/alpha_0972/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1253
-  [Truth]</a>|<a href='/digital-beehive/toc/toc2_388/'>2221 [Truth]</a>"
+head: truth from ye pulpits
+entry: "<a href='/digital-beehive/toc/toc2_125/'>530 [Truth from the pulpit]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bbd79773e"
+item: "#item-4690add9c"
 unparsed: 
-line: 'Head: truth|Entry: a|Entry: 1253 [Truth]|Entry: 2221 [Truth]|#item-bbd79773e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/full/0/default.jpg
+line: 'Head: truth from ye pulpits|Entry: 530 [Truth from the pulpit]|#item-4690add9c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,345,628,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655182817
-order: '4257'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/full/0/default.jpg
-label: truth
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655233947
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,345,628,122/150,/0/default.jpg
+label: truth from ye pulpits
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '224'
 layout: index_item
 collection: index5
 ---

@@ -2,30 +2,27 @@
 pid: index_4465
 volume: Volume 3
 image_number: '51'
-head: to walk with God
-entry: "<a href='/digital-beehive/toc/toc2_410/'>2359 [How to walk with God all the
-  day long]</a>"
+head: walks. spatzieren
+entry: "<a href='/digital-beehive/toc/toc2_282/'>1441 [Walks. walking places]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-17bc1a15b"
+item: "#item-13176ba53"
 unparsed: 
-line: 'Head: to walk with God|Entry: 2359 [How to walk with God all the day long]|#item-17bc1a15b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,999,613,127/full/0/default.jpg
+line: 'Head: walks. spatzieren|Entry: 1441 [Walks. walking places]|#item-13176ba53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1638,1057,668,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647709418
-order: '4465'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,999,613,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,999,613,127/full/0/default.jpg
-label: to walk with God
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647744045
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1638,1057,668,168/150,/0/default.jpg
+label: walks. spatzieren
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '432'
 layout: index_item
 collection: index5
 ---

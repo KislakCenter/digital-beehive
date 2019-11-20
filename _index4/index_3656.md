@@ -2,30 +2,27 @@
 pid: index_3656
 volume: Volume 3
 image_number: '42'
-head: shadow
-entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/toc/toc2_145/'>641
-  [the Shadow]</a>"
+head: to shake
+entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [To Tremble]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d57e2b20b"
+item: "#item-82727bd74"
 unparsed: 
-line: 'Head: shadow|Entry: a|Entry: 641 [the Shadow]|#item-d57e2b20b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/full/0/default.jpg
+line: 'Head: to shake|Entry: 873 [To Tremble]|#item-82727bd74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,2218,531,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574655260
-order: '3656'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/full/0/default.jpg
-label: shadow
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574737167
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,2218,531,152/150,/0/default.jpg
+label: to shake
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0903'
 layout: index_item
 collection: index4
 ---

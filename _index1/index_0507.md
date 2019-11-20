@@ -2,29 +2,28 @@
 pid: index_0507
 volume: Volume 3
 image_number: '11'
-head: cake
-entry: 726 [PAGE_MISSING]
+head: "[:17.]"
+entry: 
 topic: 
-first_letter: C
-xref: 
-see: 
+first_letter: B
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9c2a5b2f3"
-unparsed: 
-line: 'Head: cake|Entry: 726 [PAGE_MISSING]|#item-9c2a5b2f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,353,381,113/full/0/default.jpg
+item: "#item-c3d3453fc"
+unparsed: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
+line: 'Type: Index|Insertion Xref: [:17.]|#item-c3d3453fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/2147,423,177,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494105755
-order: '507'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,353,381,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,353,381,113/full/0/default.jpg
-label: cake
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275337935
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/2147,423,177,124/150,/0/default.jpg
+label: "[:17.]"
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4680/'>publ. Calam.</a>|<a
+  href='/digital-beehive/index5/index_4681/'>calamity</a>"
+order: '0506'
 layout: index_item
 collection: index1
 ---

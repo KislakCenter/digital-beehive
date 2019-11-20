@@ -6,15 +6,12 @@ head:
 entry: Criticism
 topic: Criticism
 first_letter: C
-xref: "<a href='/digital-beehive/alpha4/alpha_0823/'>Satyre</a>|<a href='/digital-beehive/alpha5/alpha_1062/'>Zoilus</a>|<a
-  href='/digital-beehive/toc/toc2_320/'>1627 [Criticism]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha4/alpha_0830/'>Satyre</a>|<a href='/digital-beehive/alpha5/alpha_1072/'>Zoilus</a>|<a
+  href='/digital-beehive/toc/toc2_320/'>1627 [Criticism]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0910/'>criticism</a>"
-insertion_xref: 
-insertion: 
 item: "#item-91f03c2da"
 unparsed: 
 line: 'Entry: Criticism|Topic: Criticism|Xref: Satyre|Xref: Zoilus|Xref: 1627 [Criticism]|Index:
@@ -22,11 +19,12 @@ line: 'Entry: Criticism|Topic: Criticism|Xref: Satyre|Xref: Zoilus|Xref: 1627 [C
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/847,3006,2963,460/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499786105570
-order: '195'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/847,3006,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/847,3006,2963,460/full/0/default.jpg
 label: Criticism
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
+num_match: 
+order: '194'
 layout: alpha_item
 collection: alpha1
 ---

@@ -2,29 +2,27 @@
 pid: index_4205
 volume: Volume 3
 image_number: '48'
-head: towel
-entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
+head: tower
+entry: "<a href='/digital-beehive/toc/toc2_124/'>520 [Tower]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7cf31bb55"
+item: "#item-665c6db45"
 unparsed: 
-line: 'Head: towel|Entry: 612 [Shoe Clout]|#item-7cf31bb55'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1115,782,383,121/full/0/default.jpg
+line: 'Head: tower|Entry: 520 [Tower]|#item-665c6db45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561483903912
-order: '4205'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1115,782,383,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1115,782,383,121/full/0/default.jpg
-label: towel
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484087706
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/150,/0/default.jpg
+label: tower
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '172'
 layout: index_item
 collection: index5
 ---

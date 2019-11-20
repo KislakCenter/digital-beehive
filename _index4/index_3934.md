@@ -2,29 +2,27 @@
 pid: index_3934
 volume: Volume 3
 image_number: '45'
-head: strawberries
-entry: 4603 [PAGE_MISSING]
+head: straw
+entry: "<a href='/digital-beehive/num2/num_0503/'>409 [Straw]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0f90beeb1"
+item: "#item-fa88afee9"
 unparsed: 
-line: 'Head: strawberries|Entry: 4603 [PAGE_MISSING]|#item-0f90beeb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2060,611,89/full/0/default.jpg
+line: 'Head: straw|Entry: 409 [Straw]|#item-fa88afee9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2139,349,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290763308
-order: '3934'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2060,611,89/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2060,611,89/full/0/default.jpg
-label: strawberries
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290784556
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/895,2139,349,119/150,/0/default.jpg
+label: straw
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1181'
 layout: index_item
 collection: index4
 ---

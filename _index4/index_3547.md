@@ -2,31 +2,27 @@
 pid: index_3547
 volume: Volume 3
 image_number: '41'
-head: schole
-entry: "<a href='/digital-beehive/alpha4/alpha_0827/'>a</a>|839 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_409/'>2354 [Schoole]</a>"
+head: schole terms
+entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [termini didascalia]</a>"
 topic: 
 first_letter: S
+page: 
+add: "<a href='/digital-beehive/index1/index_1116/'>Divinity</a>"
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_055/'>p.5 [Image 1.65]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a59e4a28d"
+item: "#item-c01881cbd"
 unparsed: 
-line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
-  2354 [Schoole]|#item-a59e4a28d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/full/0/default.jpg
+line: 'Head: schole terms|Entry: 537 [termini didascalia]|Add: Divinity|#item-c01881cbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
-order: '3547'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/full/0/default.jpg
-label: schole
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240572534
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/150,/0/default.jpg
+label: schole terms
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0794'
 layout: index_item
 collection: index4
 ---

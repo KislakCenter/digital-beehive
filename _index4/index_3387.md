@@ -2,30 +2,27 @@
 pid: index_3387
 volume: Volume 3
 image_number: '39'
-head: resignation
-entry: "<a href='/digital-beehive/alpha4/alpha_0789/'>a</a>|<a href='/digital-beehive/toc/toc2_227/'>1167
-  [Resignation]</a>|<a href='/digital-beehive/toc/toc2_400/'>2285 [Resignation]</a>"
+head: resistance
+entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-625001457"
+item: "#item-5872e4d97"
 unparsed: 
-line: 'Head: resignation|Entry: a|Entry: 1167 [Resignation]|Entry: 2285 [Resignation]|#item-625001457'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1519,928,817,202/full/0/default.jpg
+line: 'Head: resistance|Entry: a|#item-5872e4d97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1065,553,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229108469
-order: '3387'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1519,928,817,202/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1519,928,817,202/full/0/default.jpg
-label: resignation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229131277
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1065,553,155/150,/0/default.jpg
+label: resistance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0634'
 layout: index_item
 collection: index4
 ---

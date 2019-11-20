@@ -1,32 +1,31 @@
 ---
 pid: alpha_0836
 volume: Volume 2
-image_number: '51'
+image_number: '50'
 head: 
-entry: Seducing
-topic: Seducing
+entry: Scripture
+topic: Scripture
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0910/'>Stratagem</a>|<a href='/digital-beehive/toc/toc2_224/'>1152
-  [Seducing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3591/'>seducing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-cf90882e1"
+xref: "<a href='/digital-beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/digital-beehive/alpha5/alpha_1067/'>Writing</a>|<a
+  href='/digital-beehive/alpha3/alpha_0530/'>Letter</a>|<a href='/digital-beehive/toc/toc2_064/'>77
+  [Scripture]</a>|<a href='/digital-beehive/toc/toc2_064/'>77 [Scriptures]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3558/'>Scriptures</a>"
+item: "#item-c396df05a"
 unparsed: 
-line: 'Entry: Seducing|Topic: Seducing|Xref: Stratagem|Xref: 1152 [Seducing]|Index:
-  seducing|#item-cf90882e1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,3104,356/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530200655208
-order: '836'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,732,3104,356/full/0/default.jpg
-label: Seducing
-location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+line: 'Entry: Scripture|Topic: Scripture|Xref: Bible|Xref: Writing|Xref: Letter|Xref:
+  77 [Scripture]|Xref: 77 [Scriptures]|Index: Scriptures|#item-c396df05a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,3024,590/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528923257702
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,600,180/250,/0/default.jpg
+label: Scripture
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '188'
 layout: alpha_item
 collection: alpha4
 ---

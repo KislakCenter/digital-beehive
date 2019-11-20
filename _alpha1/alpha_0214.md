@@ -3,29 +3,27 @@ pid: alpha_0214
 volume: Volume 1
 image_number: '448'
 head: 
-entry: Deed
-topic: Deed
+entry: Dedication
+topic: Dedication
 first_letter: D
-xref: "<a href='/digital-beehive/alpha5/alpha_1044/'>Works</a>|<a href='/digital-beehive/toc/toc2_221/'>1137
-  [Deed]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0984/'>deed</a>"
-insertion_xref: 
-insertion: 
-item: "#item-76b2be726"
+xref: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Epistle Dedicatory]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_0982/'>dedication</a>"
+item: "#item-1fd55f37c"
 unparsed: 
-line: 'Entry: Deed|Topic: Deed|Xref: Works|Xref: 1137 [Deed]|Index: deed|#item-76b2be726'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,2064,2943,569/full/0/default.jpg
+line: 'Entry: Dedication|Topic: Dedication|Xref: 1348 [Epistle Dedicatory]|Index:
+  dedication|#item-1fd55f37c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,1638,3029,516/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507574651787
-order: '214'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,2064,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,2064,2943,569/full/0/default.jpg
-label: Deed
+annotation_uri: http://dev.llgc.org.uk/annotation/1563997105107
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,1638,600,180/250,/0/default.jpg
+label: Dedication
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+num_match: 
+order: '213'
 layout: alpha_item
 collection: alpha1
 ---

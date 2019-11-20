@@ -2,29 +2,27 @@
 pid: index_0243
 volume: Volume 3
 image_number: '9'
-head: "[:11.]"
-entry: 
+head: audience
+entry: "<a href='/digital-beehive/num2/num_0399/'>345 [Hear]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4675/'>attributes of god</a>"
-insertion: 
-item: "#item-f80e21001"
-unparsed: 'Type: Index|Insertion Xref: [:11.]|#item-f80e21001'
-line: 'Type: Index|Insertion Xref: [:11.]|#item-f80e21001'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/full/0/default.jpg
+item: "#item-fce14aab0"
+unparsed: 
+line: 'Head: audience|Entry: 345 [Hear]|#item-fce14aab0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1069,517,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584664923
-order: '243'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/full/0/default.jpg
-label: "[:11.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015132212
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1069,517,89/150,/0/default.jpg
+label: audience
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0242'
 layout: index_item
 collection: index1
 ---

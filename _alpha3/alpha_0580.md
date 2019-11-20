@@ -3,29 +3,28 @@ pid: alpha_0580
 volume: Volume 2
 image_number: '32'
 head: 
-entry: Melancholy
-topic: Melancholy|Melancholyness
+entry: Medicine
+topic: Medicine
 first_letter: M
-xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/digital-beehive/alpha4/alpha_0815/'>Sadness</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2476/'>melancholy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f7d2261c2"
+xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physicians</a>|<a href='/digital-beehive/toc/toc2_149/'>665
+  [Medicines]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2465/'>medicine</a>"
+item: "#item-15f8415ce"
 unparsed: 
-line: 'Entry: Melancholy|Topic: Melancholy|Topic: Melancholyness|Xref: Imagination|Xref:
-  Sadness|Xref: 1847 [PAGE_MISSING]|Index: melancholy|#item-f7d2261c2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,3045,547/full/0/default.jpg
+line: 'Entry: Medicine|Topic: Medicine|Xref: Physicians|Xref: 665 [Medicines]|Index:
+  medicine|#item-15f8415ce'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,3035,605/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564773899605
-order: '580'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,3045,547/full/0/default.jpg
-label: Melancholy
+annotation_uri: http://dev.llgc.org.uk/annotation/1564773544276
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,600,180/250,/0/default.jpg
+label: Medicine
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+num_match: 
+order: '136'
 layout: alpha_item
 collection: alpha3
 ---

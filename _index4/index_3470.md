@@ -2,29 +2,27 @@
 pid: index_3470
 volume: Volume 3
 image_number: '40'
-head: to run
-entry: 771 [PAGE_MISSING]
+head: run away
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [Run away]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-983dbc461"
+item: "#item-c04313dc0"
 unparsed: 
-line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/full/0/default.jpg
+line: 'Head: run away|Entry: 1339 [Run away]|#item-c04313dc0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1826,350,507,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
-order: '3470'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/full/0/default.jpg
-label: to run
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234353943
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1826,350,507,121/150,/0/default.jpg
+label: run away
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0717'
 layout: index_item
 collection: index4
 ---

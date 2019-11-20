@@ -2,29 +2,27 @@
 pid: index_3525
 volume: Volume 3
 image_number: '41'
-head: Savin
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Savin]</a>"
+head: sauce
+entry: 4713 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-738631f07"
+item: "#item-5e9fe7524"
 unparsed: 
-line: 'Head: Savin|Entry: 692 [Savin]|#item-738631f07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/192,2103,407,116/full/0/default.jpg
+line: 'Head: sauce|Entry: 4713 [PAGE_MISSING]|#item-5e9fe7524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239253263
-order: '3525'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/192,2103,407,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/192,2103,407,116/full/0/default.jpg
-label: Savin
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239338378
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/150,/0/default.jpg
+label: sauce
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0772'
 layout: index_item
 collection: index4
 ---

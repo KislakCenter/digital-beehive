@@ -3,30 +3,26 @@ pid: alpha_0827
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Schoole
-topic: Schoole
+entry: Salt
+topic: Salt
 first_letter: S
-xref: "<a href='/digital-beehive/alpha1/alpha_0255/'>doctrine</a>|<a href='/digital-beehive/alpha3/alpha_0525/'>Learning</a>|<a
-  href='/digital-beehive/alpha5/alpha_0994/'>University</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3547/'>schole</a>"
-insertion_xref: 
-insertion: 
-item: "#item-238832d52"
+xref: "<a href='/digital-beehive/toc/toc2_322/'>1640 [Salt]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3504/'>salt</a>"
+item: "#item-ea798e968"
 unparsed: 
-line: 'Entry: Schoole|Topic: Schoole|Xref: doctrine|Xref: Learning|Xref: University|Xref:
-  839 [PAGE_MISSING]|Index: schole|#item-238832d52'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,3006,551/full/0/default.jpg
+line: 'Entry: Salt|Topic: Salt|Xref: 1640 [Salt]|Index: salt|#item-ea798e968'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,3035,397/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528923010744
-order: '827'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,3006,551/full/0/default.jpg
-label: Schoole
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922417753
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,600,180/250,/0/default.jpg
+label: Salt
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '179'
 layout: alpha_item
 collection: alpha4
 ---

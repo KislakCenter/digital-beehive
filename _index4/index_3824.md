@@ -2,29 +2,27 @@
 pid: index_3824
 volume: Volume 3
 image_number: '44'
-head: spear
-entry: 4505 [PAGE_MISSING]
+head: special
+entry: "<a href='/digital-beehive/toc/toc2_166/'>893 [Extraordinary]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-932d7f54c"
+item: "#item-6629cd45e"
 unparsed: 
-line: 'Head: spear|Entry: 4505 [PAGE_MISSING]|#item-932d7f54c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1113,641,425,81/full/0/default.jpg
+line: 'Head: special|Entry: 893 [Extraordinary]|#item-6629cd45e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1127,683,428,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529788543500
-order: '3824'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1113,641,425,81/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1113,641,425,81/full/0/default.jpg
-label: spear
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288659832
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1127,683,428,131/150,/0/default.jpg
+label: special
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1071'
 layout: index_item
 collection: index4
 ---

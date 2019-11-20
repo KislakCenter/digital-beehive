@@ -2,29 +2,27 @@
 pid: index_3581
 volume: Volume 3
 image_number: '41'
-head: seat
-entry: 838 [PAGE_MISSING]
+head: second sight
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1314 [Second sighted]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-352f020a8"
+item: "#item-974dc24cb"
 unparsed: 
-line: 'Head: seat|Entry: 838 [PAGE_MISSING]|#item-352f020a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1297,346,122/full/0/default.jpg
+line: 'Head: second sight|Entry: 1314 [Second sighted]|#item-974dc24cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242473484
-order: '3581'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1297,346,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1297,346,122/full/0/default.jpg
-label: seat
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242506168
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/150,/0/default.jpg
+label: second sight
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0828'
 layout: index_item
 collection: index4
 ---

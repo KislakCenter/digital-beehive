@@ -1,32 +1,30 @@
 ---
 pid: alpha_0976
 volume: Volume 2
-image_number: '61'
+image_number: '60'
 head: 
-entry: Vagabonds
-topic: Vagabonds
-first_letter: U/V
-xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>Travelling</a>|<a href='/digital-beehive/toc/toc2_142/'>623
-  [Vagabond]</a>"
-see: 
+entry: Travelling
+topic: Travelling
+first_letter: T
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4288/'>vagabonds</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f345db47e"
+xref: "<a href='/digital-beehive/alpha5/alpha_0986/'>Vagabonds</a>|Departure|<a href='/digital-beehive/toc/toc2_223/'>1149
+  [Travelling]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4221/'>travelling</a>"
+item: "#item-d0f258fc8"
 unparsed: 
-line: 'Entry: Vagabonds|Topic: Vagabonds|Xref: Travelling|Xref: 623 [Vagabond]|Index:
-  vagabonds|#item-f345db47e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,1058,3061,491/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529001772922
-order: '976'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,1058,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,1058,3061,491/full/0/default.jpg
-label: Vagabonds
-location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+line: 'Entry: Travelling|Topic: Travelling|Xref: Vagabonds|Xref: Departure|Xref: 1149
+  [Travelling]|Index: travelling|#item-d0f258fc8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,2937,569/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565115155751
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,600,180/250,/0/default.jpg
+label: Travelling
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+num_match: 
+order: '041'
 layout: alpha_item
 collection: alpha5
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0977
 volume: Volume 2
-image_number: '61'
+image_number: '60'
 head: 
-entry: Vanity
-topic: Vanity
-first_letter: U/V
-xref: "<a href='/digital-beehive/alpha5/alpha_0965/'>Transitory</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
-  [Vanitatis Triumphus]</a>"
-see: 
+entry: Treachery
+topic: Treachery
+first_letter: T
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4297/'>vanity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f07610be2"
+xref: "<a href='/digital-beehive/alpha2/alpha_0310/'>faithfullness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+  [Treachery]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4222/'>treachery</a>"
+item: "#item-cfd8402ee"
 unparsed: 
-line: 'Entry: Vanity|Topic: Vanity|Xref: Transitory|Xref: 1659 [Vanitatis Triumphus]|Index:
-  vanity|#item-f07610be2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/333,1462,3007,386/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529002022869
-order: '977'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/333,1462,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/333,1462,3007,386/full/0/default.jpg
-label: Vanity
-location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+line: 'Entry: Treachery|Topic: Treachery|Xref: faithfullness|Xref: 933 [Treachery]|Index:
+  treachery|#item-cfd8402ee'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529602892275
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,600,180/250,/0/default.jpg
+label: Treachery
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+num_match: 
+order: '042'
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,30 +3,28 @@ pid: alpha_0699
 volume: Volume 2
 image_number: '40'
 head: 
-entry: Physician
-topic: Physician
+entry: Persecution
+topic: Persecution
 first_letter: P
-xref: "<a href='/digital-beehive/alpha3/alpha_0577/'>medicine</a>|<a href='/digital-beehive/alpha3/alpha_0609/'>Montebank</a>|<a
-  href='/digital-beehive/toc/toc2_150/'>671 [Physician]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2995/'>physician</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9e1675f2b"
+xref: "<a href='/digital-beehive/alpha3/alpha_0534/'>liberty of conscience</a>|Compulsion|<a
+  href='/digital-beehive/num1/num_0072/'>71 [Persecution]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2966/'>persecution</a>"
+item: "#item-c9e6f0e5f"
 unparsed: 
-line: 'Entry: Physician|Topic: Physician|Xref: medicine|Xref: Montebank|Xref: 671
-  [Physician]|Index: physician|#item-9e1675f2b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,2979,562/full/0/default.jpg
+line: 'Entry: Persecution|Topic: Persecution|Xref: liberty of conscience|Xref: Compulsion|Xref:
+  71 [Persecution]|Index: persecution|#item-c9e6f0e5f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,3058,683/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528333803950
-order: '699'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/810,2501,2979,562/full/0/default.jpg
-label: Physician
+annotation_uri: http://dev.llgc.org.uk/annotation/1512351296512
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/765,400,600,180/250,/0/default.jpg
+label: Persecution
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '052'
 layout: alpha_item
 collection: alpha4
 ---

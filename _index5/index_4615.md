@@ -2,29 +2,27 @@
 pid: index_4615
 volume: Volume 3
 image_number: '53'
-head: Works without faith
-entry: "<a href='/digital-beehive/toc/toc2_110/'>433 [Works without faith]</a>"
+head: workmen
+entry: 4608 [PAGE_MISSING]
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-94e8fbe44"
+item: "#item-05ad5f6c9"
 unparsed: 
-line: 'Head: Works without faith|Entry: 433 [Works without faith]|#item-94e8fbe44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/full/0/default.jpg
+line: 'Head: workmen|Entry: 4608 [PAGE_MISSING]|#item-05ad5f6c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,2830,536,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797221346
-order: '4615'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/full/0/default.jpg
-label: Works without faith
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797276353
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,2830,536,88/150,/0/default.jpg
+label: workmen
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '582'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_3615
 volume: Volume 3
 image_number: '42'
-head: Self do
-entry: "<a href='/digital-beehive/toc/toc2_065/'>87 [Messenger]</a>"
+head: Self examina[ti]on
+entry: "<a href='/digital-beehive/toc/toc2_216/'>1111 [Examine]</a>|<a href='/digital-beehive/toc/toc2_400/'>2284
+  [Self-Examination]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1a38acca3"
+item: "#item-f5ce036f2"
 unparsed: 
-line: 'Head: Self do|Entry: 87 [Messenger]|#item-1a38acca3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/418,1176,339,132/full/0/default.jpg
+line: 'Head: Self examina[ti]on|Entry: 1111 [Examine]|Entry: 2284 [Self-Examination]|#item-f5ce036f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244291853
-order: '3615'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/418,1176,339,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/418,1176,339,132/full/0/default.jpg
-label: Self do
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244340193
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/360,1291,787,111/150,/0/default.jpg
+label: Self examina[ti]on
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0862'
 layout: index_item
 collection: index4
 ---

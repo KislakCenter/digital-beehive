@@ -2,29 +2,27 @@
 pid: index_4353
 volume: Volume 3
 image_number: '50'
-head: unacceptable
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>|4745 [PAGE_MISSING]"
+head: unadvisedly
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: inconsider
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0b070d32a"
+item: "#item-8593df465"
 unparsed: 
-line: 'Head: unacceptable|Entry: 1320 [Unacceptable]|Entry: 4745 [PAGE_MISSING]|#item-0b070d32a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/470,647,785,131/full/0/default.jpg
+line: 'Head: unadvisedly|See: inconsider.|#item-8593df465'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/473,728,700,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560871889967
-order: '4353'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/470,647,785,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/470,647,785,131/full/0/default.jpg
-label: unacceptable
+annotation_uri: http://dev.llgc.org.uk/annotation/1560871912057
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/473,728,700,129/150,/0/default.jpg
+label: unadvisedly
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '320'
 layout: index_item
 collection: index5
 ---

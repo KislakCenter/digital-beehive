@@ -2,29 +2,27 @@
 pid: index_1638
 volume: Volume 3
 image_number: '22'
-head: be gone
-entry: "<a href='/digital-beehive/toc/toc2_222/'>1142 [Be gone]</a>"
+head: God be thanks
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1426 [Thanks be to God]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6b2d81fa7"
+item: "#item-a5104d0ff"
 unparsed: 
-line: 'Head: be gone|Entry: 1142 [Be gone]|#item-6b2d81fa7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/full/0/default.jpg
+line: 'Head: God be thanks|Entry: 1426 [Thanks be to God]|#item-a5104d0ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1137,1431,609,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046201685
-order: '1638'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/full/0/default.jpg
-label: be gone
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046978615
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1137,1431,609,103/150,/0/default.jpg
+label: God be thanks
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '458'
 layout: index_item
 collection: index2
 ---

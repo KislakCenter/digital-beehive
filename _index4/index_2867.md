@@ -2,29 +2,27 @@
 pid: index_2867
 volume: Volume 3
 image_number: '34'
-head: to pant
-entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Breathing with difficulty]</a>"
+head: paper
+entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [Paper]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d07576602"
+item: "#item-bdea211d1"
 unparsed: 
-line: 'Head: to pant|Entry: 688 [Breathing with difficulty]|#item-d07576602'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1168,425,527,127/full/0/default.jpg
+line: 'Head: paper|Entry: 873 [Paper]|#item-bdea211d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1136,536,476,182/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276685110
-order: '2867'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1168,425,527,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1168,425,527,127/full/0/default.jpg
-label: to pant
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492467401
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1136,536,476,182/150,/0/default.jpg
+label: paper
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0115'
 layout: index_item
 collection: index4
 ---

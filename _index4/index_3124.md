@@ -2,30 +2,27 @@
 pid: index_3124
 volume: Volume 3
 image_number: '36'
-head: prejudice
-entry: "<a href='/digital-beehive/toc/toc2_138/'>607 [Prejudice]</a>|<a href='/digital-beehive/toc/toc2_382/'>2168
-  [Prejudice]</a>"
+head: preludium
+entry: "<a href='/digital-beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3d09c3281"
+item: "#item-1cd87053d"
 unparsed: 
-line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1830,2398,682,170/full/0/default.jpg
+line: 'Head: preludium|Entry: 546 [WORD_MISSING]|#item-1cd87053d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1866,2529,541,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
-order: '3124'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1830,2398,682,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1830,2398,682,170/full/0/default.jpg
-label: prejudice
+annotation_uri: http://dev.llgc.org.uk/annotation/1565202179955
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1866,2529,541,142/150,/0/default.jpg
+label: preludium
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0372'
 layout: index_item
 collection: index4
 ---

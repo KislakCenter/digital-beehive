@@ -2,29 +2,28 @@
 pid: index_0047
 volume: Volume 3
 image_number: '7'
-head: advantage
-entry: "<a href='/digital-beehive/alpha1/alpha_0008/'>a</a>"
+head: adventure
+entry: "<a href='/digital-beehive/alpha1/alpha_0009/'>a</a>|<a href='/digital-beehive/toc/toc2_142/'>623
+  [Adventure]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-72af994fe"
+item: "#item-3d114741c"
 unparsed: 
-line: 'Head: advantage|Entry: a|#item-72af994fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/878,681,468,128/full/0/default.jpg
+line: 'Head: adventure|Entry: a|Entry: 623 [Adventure]|#item-3d114741c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/876,771,568,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760966826
-order: '47'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/878,681,468,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/878,681,468,128/full/0/default.jpg
-label: advantage
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761003783
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/876,771,568,89/150,/0/default.jpg
+label: adventure
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0046'
 layout: index_item
 collection: index1
 ---

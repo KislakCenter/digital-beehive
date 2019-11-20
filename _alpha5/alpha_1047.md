@@ -1,30 +1,29 @@
 ---
 pid: alpha_1047
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: Worlds end
-topic: Worlds end
+entry: Womans wit
+topic: Womans wit
 first_letter: W
-xref: "<a href='/digital-beehive/alpha5/alpha_0965/'>Transitory</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4619/'>worlds. end</a>"
-insertion_xref: 
-insertion: 
-item: "#item-cc1193c3a"
+xref: "<a href='/digital-beehive/toc/toc2_319/'>1622 [Womans Wit]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4598/'>woman's wit</a>"
+item: "#item-b11b47a4f"
 unparsed: 
-line: 'Entry: Worlds end|Topic: Worlds end|Xref: Transitory|Index: worlds. end|#item-cc1193c3a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,2943,375/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529596725711
-order: '1047'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,2943,375/full/0/default.jpg
-label: Worlds end
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Womans wit|Topic: Womans wit|Xref: 1622 [Womans Wit]|Index: woman''s
+  wit|#item-b11b47a4f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,2914,321/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529594398385
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,600,180/250,/0/default.jpg
+label: Womans wit
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '112'
 layout: alpha_item
 collection: alpha5
 ---

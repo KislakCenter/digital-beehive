@@ -2,29 +2,28 @@
 pid: index_4619
 volume: Volume 3
 image_number: '53'
-head: worlds. end
-entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>"
+head: worms
+entry: "<a href='/digital-beehive/num1/num_0165/'>159 [Worm]</a>|<a href='/digital-beehive/toc/toc2_262/'>1343
+  [Worms]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b1c57f420"
+item: "#item-8a3ec3796"
 unparsed: 
-line: 'Head: worlds. end|Entry: a|#item-b1c57f420'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,2977,385,137/full/0/default.jpg
+line: 'Head: worms|Entry: 159 [Worm]|Entry: 1343 [Worms]|#item-8a3ec3796'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3228,551,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797367398
-order: '4619'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,2977,385,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,2977,385,137/full/0/default.jpg
-label: worlds. end
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797543912
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3228,551,100/150,/0/default.jpg
+label: worms
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '586'
 layout: index_item
 collection: index5
 ---

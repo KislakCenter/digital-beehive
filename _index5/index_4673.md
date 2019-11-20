@@ -2,30 +2,27 @@
 pid: index_4673
 volume: Volume 3
 image_number: '54'
-head: Spouse, espousing
-entry: "<a href='/digital-beehive/toc/toc2_351/'>1893 [Betrothing or Espousing]</a>"
+head: Duke
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1907 [Duke]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:9.]"
-item: "#item-7b959eae0"
-unparsed: 
-line: 'Type: Index|Insertion: [:9.]|Head: Spouse, espousing|Entry: 1893 [Betrothing
-  or Espousing]|#item-7b959eae0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/375,1611,706,152/full/0/default.jpg
+item: "#item-864b155f7"
+unparsed: Type Index|Insertion [:10.]
+line: 'Type: Index|Insertion: [:10.]|Head: Duke|Entry: 1907 [Duke]|#item-864b155f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560868335499
-order: '4673'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/375,1611,706,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/375,1611,706,152/full/0/default.jpg
-label: Spouse, espousing
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868397906
+insertion: "[:10.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/150,/0/default.jpg
+label: Duke
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '640'
 layout: index_item
 collection: index5
 ---

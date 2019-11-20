@@ -2,30 +2,27 @@
 pid: index_2652
 volume: Volume 3
 image_number: '32'
-head: natural
-entry: "<a href='/digital-beehive/alpha3/alpha_0625/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
-  [Natural]</a>"
+head: natural affection
+entry: 4717 [PAGE_MISSING]
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a56b210cc"
+item: "#item-4e881ea9d"
 unparsed: 
-line: 'Head: natural|Entry: a|Entry: 1086 [Natural]|#item-a56b210cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/386,1583,609,93/full/0/default.jpg
+line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437836268
-order: '2652'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/386,1583,609,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/386,1583,609,93/full/0/default.jpg
-label: natural
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/150,/0/default.jpg
+label: natural affection
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '732'
 layout: index_item
 collection: index3
 ---

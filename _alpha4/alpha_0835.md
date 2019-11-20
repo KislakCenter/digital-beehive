@@ -1,31 +1,28 @@
 ---
 pid: alpha_0835
 volume: Volume 2
-image_number: '51'
+image_number: '50'
 head: 
-entry: Security
-topic: Security
+entry: Scorn
+topic: Scorn
 first_letter: S
-xref: Preparation|<a href='/digital-beehive/toc/toc2_170/'>914 [Security]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3589/'>security</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d86effcab"
+xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>derision</a>|814 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3552/'>scorn</a>"
+item: "#item-f54674d4c"
 unparsed: 
-line: 'Entry: Security|Topic: Security|Xref: Preparation|Xref: 914 [Security]|Index:
-  security|#item-d86effcab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,3118,436/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530200231609
-order: '835'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,3118,436/full/0/default.jpg
-label: Security
-location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+line: 'Entry: Scorn|Topic: Scorn|Xref: derision|Xref: 814 [PAGE_MISSING]|Index: scorn|#item-f54674d4c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,2929,496/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528923140489
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,600,180/250,/0/default.jpg
+label: Scorn
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '187'
 layout: alpha_item
 collection: alpha4
 ---

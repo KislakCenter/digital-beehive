@@ -3,28 +3,26 @@ pid: alpha_0330
 volume: Volume 2
 image_number: '12'
 head: 
-entry: Flesh
-topic: Flesh
+entry: Flea
+topic: Flea
 first_letter: F
-xref: "<a href='/digital-beehive/toc/toc2_124/'>522 [Flesh]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1479/'>flesh</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a82bff2a3"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1476/'>flea</a>"
+item: "#item-7875404b6"
 unparsed: 
-line: 'Entry: Flesh|Topic: Flesh|Xref: 522 [Flesh]|Index: flesh|#item-a82bff2a3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,2963,413/full/0/default.jpg
+line: 'Entry: Flea|Topic: Flea|Index: flea|#item-7875404b6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,261,2963,249/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508259151074
-order: '330'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,2963,413/full/0/default.jpg
-label: Flesh
+annotation_uri: http://dev.llgc.org.uk/annotation/1508259087086
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,261,600,180/250,/0/default.jpg
+label: Flea
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
+num_match: 
+order: '061'
 layout: alpha_item
 collection: alpha2
 ---

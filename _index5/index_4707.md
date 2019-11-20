@@ -2,29 +2,27 @@
 pid: index_4707
 volume: Volume 3
 image_number: '54'
-head: reign
+head: lesson
 entry: 
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
-add: "<a href='/digital-beehive/index3/index_2163/'>kingdom</a>"
-type: Index
+add: 
+xref: 
+see: rule
 index: 
-insertion_xref: 
-insertion: "[:38.]"
-item: "#item-a48c88327"
-unparsed: 
-line: 'Type: Index|Insertion: [:38.]|Head: reign|Add: kingdom|#item-a48c88327'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/full/0/default.jpg
+item: "#item-5e4f0fb08"
+unparsed: Type Index|Insertion [:39.]
+line: 'Type: Index|Insertion: [:39.]|Head: lesson|See: rule|#item-5e4f0fb08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955522468
-order: '4707'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/full/0/default.jpg
-label: reign
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955561907
+insertion: "[:39.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/150,/0/default.jpg
+label: lesson
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '674'
 layout: index_item
 collection: index5
 ---

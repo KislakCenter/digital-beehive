@@ -2,29 +2,27 @@
 pid: index_3463
 volume: Volume 3
 image_number: '40'
-head: ruin
-entry: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>"
+head: to rule
+entry: 
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fbbffaa7f"
+item: "#item-4552354ce"
 unparsed: 
-line: 'Head: ruin|Entry: 608 [Ruin]|#item-fbbffaa7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2673,379,137/full/0/default.jpg
+line: 'Head: to rule|#item-4552354ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1123,2786,318,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233928733
-order: '3463'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2673,379,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2673,379,137/full/0/default.jpg
-label: ruin
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233941569
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1123,2786,318,121/150,/0/default.jpg
+label: to rule
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0710'
 layout: index_item
 collection: index4
 ---

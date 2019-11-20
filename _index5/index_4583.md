@@ -2,30 +2,29 @@
 pid: index_4583
 volume: Volume 3
 image_number: '53'
-head: witnesses
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Witnesses]</a>|<a href='/digital-beehive/toc/toc2_386/'>2209
-  [Witness]</a>"
+head: to woe
+entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [To Wooe]</a>|<a href='/digital-beehive/toc/toc2_271/'>1389
+  [of Courting women]</a>|<a href='/digital-beehive/toc/toc2_317/'>1614 [Courting]</a>"
 topic: 
 first_letter: W
-xref: 
-see: "<a href='/digital-beehive/index5/index_4102/'>testimony</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0be58393f"
+item: "#item-2609c55de"
 unparsed: 
-line: 'Head: witnesses|See: testimony|Entry: 1007 [Witnesses]|Entry: 2209 [Witness]|#item-0be58393f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/full/0/default.jpg
+line: 'Head: to woe|Entry: 912 [To Wooe]|Entry: 1389 [of Courting women]|Entry: 1614
+  [Courting]|#item-2609c55de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,2701,683,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792860680
-order: '4583'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/full/0/default.jpg
-label: witnesses
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793308841
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,2701,683,126/150,/0/default.jpg
+label: to woe
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '550'
 layout: index_item
 collection: index5
 ---

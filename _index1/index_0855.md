@@ -2,29 +2,27 @@
 pid: index_0855
 volume: Volume 3
 image_number: '14'
-head: corner
-entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [Corner]</a>"
+head: "[:35.]"
+entry: 
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-15731d85b"
-unparsed: 
-line: 'Head: corner|Entry: 891 [Corner]|#item-15731d85b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/full/0/default.jpg
+item: "#item-2c9f0e53a"
+unparsed: 'Type: Index|Insertion Xref: [:35.]|#item-2c9f0e53a'
+line: 'Type: Index|Insertion Xref: [:35.]|#item-2c9f0e53a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1636,3191,170,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560198733
-order: '855'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/full/0/default.jpg
-label: corner
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275851951
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1636,3191,170,95/150,/0/default.jpg
+label: "[:35.]"
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4703/'>Content or purpose</a>"
+order: '0853'
 layout: index_item
 collection: index1
 ---

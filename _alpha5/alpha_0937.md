@@ -1,31 +1,30 @@
 ---
 pid: alpha_0937
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Old Testamt
-topic: Old Testamt
+entry: Tautology
+topic: Tautology
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_173/'>926 [New Testament]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4099/'>testament old</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d12a4cca7"
+xref: "<a href='/digital-beehive/alpha1/alpha_0050/'>Babbling</a>|<a href='/digital-beehive/toc/toc2_213/'>1097
+  [Tautology]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4067/'>tautology</a>"
+item: "#item-e1219527a"
 unparsed: 
-line: 'Entry: Old Testamt|Topic: Old Testamt|Xref: 926 [New Testament]|Index: testament
-  old|#item-d12a4cca7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/807,1138,3029,444/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529088029734
-order: '937'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/807,1138,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/807,1138,3029,444/full/0/default.jpg
-label: Old Testamt
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Tautology|Topic: Tautology|Xref: Babbling|Xref: 1097 [Tautology]|Index:
+  tautology|#item-e1219527a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/325,2324,3132,369/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528919413409
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/325,2324,600,180/250,/0/default.jpg
+label: Tautology
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '002'
 layout: alpha_item
 collection: alpha5
 ---

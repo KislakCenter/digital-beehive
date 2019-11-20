@@ -3,29 +3,26 @@ pid: alpha_0414
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Heresy
-topic: Heresy
+entry: Herb
+topic: Herb
 first_letter: H
-xref: "<a href='/digital-beehive/alpha4/alpha_0834/'>Sect</a>|<a href='/digital-beehive/toc/toc2_130/'>558
-  [Heresy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1812/'>heresy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d5165bbd3"
+xref: "<a href='/digital-beehive/toc/toc2_150/'>672 [Herbs]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1807/'>herb</a>"
+item: "#item-df285cbfd"
 unparsed: 
-line: 'Entry: Heresy|Topic: Heresy|Xref: Sect|Xref: 558 [Heresy]|Index: heresy|#item-d5165bbd3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,1984,3070,574/full/0/default.jpg
+line: 'Entry: Herb|Topic: Herb|Xref: 672 [Herbs]|Index: herb|#item-df285cbfd'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,2964,442/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564756148067
-order: '414'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,1984,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,1984,3070,574/full/0/default.jpg
-label: Heresy
+annotation_uri: http://dev.llgc.org.uk/annotation/1508962944177
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,600,180/250,/0/default.jpg
+label: Herb
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '145'
 layout: alpha_item
 collection: alpha2
 ---

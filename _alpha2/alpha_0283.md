@@ -3,30 +3,26 @@ pid: alpha_0283
 volume: Volume 1
 image_number: '453'
 head: 
-entry: Enmity
-topic: Enmity
+entry: England
+topic: England
 first_letter: E
-xref: "<a href='/digital-beehive/alpha2/alpha_0400/'>Hatred</a>|<a href='/digital-beehive/alpha3/alpha_0555/'>Love
-  of enemies</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1266/'>enmity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a6c8131c3"
+xref: "<a href='/digital-beehive/toc/toc2_263/'>1347 [England]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1253/'>England</a>"
+item: "#item-04417cb2f"
 unparsed: 
-line: 'Entry: Enmity|Topic: Enmity|Xref: Hatred|Xref: Love of enemies|Xref: 858 [PAGE_MISSING]|Index:
-  enmity|#item-a6c8131c3'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,3066,698/full/0/default.jpg
+line: 'Entry: England|Topic: England|Xref: 1347 [England]|Index: England|#item-04417cb2f'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,3092,623/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518983364
-order: '283'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,3066,698/full/0/default.jpg
-label: Enmity
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518868399
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,600,180/250,/0/default.jpg
+label: England
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '014'
 layout: alpha_item
 collection: alpha2
 ---

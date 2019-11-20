@@ -2,30 +2,27 @@
 pid: index_1639
 volume: Volume 3
 image_number: '22'
-head: God
-entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>|<a href='/digital-beehive/toc/toc2_266/'>1361
-  [God]</a>|<a href='/digital-beehive/toc/toc2_390/'>2233 [God]</a>"
+head: God willing
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1429 [God willing]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-60f06f12f"
+item: "#item-9dfdc3f1f"
 unparsed: 
-line: 'Head: God|Entry: a|Entry: 1361 [God]|Entry: 2233 [God]|#item-60f06f12f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1166,1255,674,128/full/0/default.jpg
+line: 'Head: God willing|Entry: 1429 [God willing]|#item-9dfdc3f1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1152,1548,506,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046676568
-order: '1639'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1166,1255,674,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1166,1255,674,128/full/0/default.jpg
-label: God
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047025858
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1152,1548,506,129/150,/0/default.jpg
+label: God willing
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '459'
 layout: index_item
 collection: index2
 ---

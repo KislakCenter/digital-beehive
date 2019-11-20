@@ -1,31 +1,28 @@
 ---
 pid: alpha_0446
 volume: Volume 2
-image_number: '21'
+image_number: '20'
 head: 
-entry: Jesting
-topic: Jesting
+entry: Jealousy
+topic: Jealousy
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha1/alpha_0106/'>buffoonry</a>|<a href='/digital-beehive/toc/toc2_217/'>1119
-  [Jest]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_1938/'>jesting</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8fd26eddf"
+xref: "<a href='/digital-beehive/toc/toc2_254/'>1301 [Jealous]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_1934/'>Jealousie</a>"
+item: "#item-d56a0a1f2"
 unparsed: 
-line: 'Entry: Jesting|Topic: Jesting|Xref: buffoonry|XRef: 1119 [Jest]|Index: jesting|#item-8fd26eddf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/312,230,3081,455/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758435681
-order: '446'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/312,230,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/312,230,3081,455/full/0/default.jpg
-label: Jesting
-location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+line: 'Entry: Jealousy|Topic: Jealousy|Xref: 1301 [Jealous]|Index: Jealousie|#item-d56a0a1f2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/731,4517,3020,545/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758311104
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/731,4517,600,180/250,/0/default.jpg
+label: Jealousy
+location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
+num_match: 
+order: '002'
 layout: alpha_item
 collection: alpha3
 ---

@@ -1,30 +1,29 @@
 ---
 pid: alpha_0997
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: Unprofitable
-topic: Unprofitable
+entry: Day of Visitation
+topic: Day of Visitation
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Profit</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4409/'>unprofitable</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b19ce7f25"
+xref: "<a href='/digital-beehive/toc/toc2_249/'>1276 [Day of Visitation]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4344/'>day of Visitn</a>"
+item: "#item-1cbb90b37"
 unparsed: 
-line: 'Entry: Unprofitable|Topic: Unprofitable|Xref: Profit|Index: unprofitable|#item-b19ce7f25'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,2943,437/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528913085321
-order: '997'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,2943,437/full/0/default.jpg
-label: Unprofitable
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Day of Visitation|Topic: Day of Visitation|Xref: 1276 [Day of Visitation]|Index:
+  day of Visitn|#item-1cbb90b37'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,4529,2995,298/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004469454
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,4529,600,180/250,/0/default.jpg
+label: Day of Visitation
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '062'
 layout: alpha_item
 collection: alpha5
 ---

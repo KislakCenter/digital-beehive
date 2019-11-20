@@ -2,29 +2,27 @@
 pid: index_4176
 volume: Volume 3
 image_number: '48'
-head: too consciec.
-entry: "<a href='/digital-beehive/toc/toc2_314/'>1598 [Too Good]</a>"
+head: too high
+entry: 1869 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-88bbb28b0"
+item: "#item-2aeec3bab"
 unparsed: 
-line: 'Head: too consciec.|Entry: 1598 [Too Good]|#item-88bbb28b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/472,1108,593,137/full/0/default.jpg
+line: 'Head: too high|Entry: 1869 [PAGE_MISSING]|#item-2aeec3bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559853530631
-order: '4176'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/472,1108,593,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/472,1108,593,137/full/0/default.jpg
-label: too consciec.
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273702036
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/150,/0/default.jpg
+label: too high
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '143'
 layout: index_item
 collection: index5
 ---

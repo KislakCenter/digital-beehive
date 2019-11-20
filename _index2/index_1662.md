@@ -2,29 +2,27 @@
 pid: index_1662
 volume: Volume 3
 image_number: '22'
-head: God's will
-entry: 
+head: godliness
+entry: "<a href='/digital-beehive/toc/toc2_301/'>1532 [Godliness]</a>"
 topic: 
 first_letter: G
-xref: 
-see: "<a href='/digital-beehive/index5/index_4550/'>will</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1acaf7ea5"
+item: "#item-c5f23ed9d"
 unparsed: 
-line: 'Head: God''s will|See: will|#item-1acaf7ea5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/full/0/default.jpg
+line: 'Head: godliness|Entry: 1532 [Godliness]|#item-c5f23ed9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050651570
-order: '1662'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/full/0/default.jpg
-label: God's will
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050759955
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/150,/0/default.jpg
+label: godliness
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '482'
 layout: index_item
 collection: index2
 ---

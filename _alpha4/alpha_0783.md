@@ -1,32 +1,29 @@
 ---
 pid: alpha_0783
 volume: Volume 2
-image_number: '47'
+image_number: '46'
 head: 
-entry: Renown
-topic: Renown
+entry: Refusal
+topic: Refusal
 first_letter: R
-xref: "<a href='/digital-beehive/alpha2/alpha_0361/'>glory</a>|<a href='/digital-beehive/alpha4/alpha_0788/'>Reputation</a>|<a
-  href='/digital-beehive/alpha2/alpha_0427/'>honour</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3366/'>renown</a>"
-insertion_xref: 
-insertion: 
-item: "#item-162f83da9"
+xref: "<a href='/digital-beehive/alpha1/alpha_0224/'>denial</a>|806 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3335/'>refusal</a>"
+item: "#item-eabea6e4b"
 unparsed: 
-line: 'Entry: Renown|Topic: Renown|Xref: glory|Xref: Reputation|Xref: honour|Xref:
-  4541 [PAGE_MISSING]|Index: renown|#item-162f83da9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,3039,480/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528743643362
-order: '783'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,3039,480/full/0/default.jpg
-label: Renown
-location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+line: 'Entry: Refusal|Topic: Refusal|Xref: denial|Xref: 806 [PAGE_MISSING]|Index:
+  refusal|#item-eabea6e4b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,2912,399/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528739829038
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,600,180/250,/0/default.jpg
+label: Refusal
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '136'
 layout: alpha_item
 collection: alpha4
 ---

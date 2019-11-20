@@ -6,25 +6,23 @@ head: mode
 entry: 
 topic: 
 first_letter: M
-xref: 
-see: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0084/'>alamode</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-9f270ccb1"
 unparsed: 
 line: 'Head: mode|See: alamode|#item-9f270ccb1'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2305,605,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560352303792
-order: '2552'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2305,605,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2305,605,111/full/0/default.jpg
 label: mode
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+insertion_xref: 
+order: '632'
 layout: index_item
 collection: index3
 ---

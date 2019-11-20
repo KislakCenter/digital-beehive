@@ -2,30 +2,28 @@
 pid: index_3700
 volume: Volume 3
 image_number: '43'
-head: "[:5.]"
-entry: 
+head: sighs
+entry: "<a href='/digital-beehive/alpha4/alpha_0870/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1740
+  [Sighe]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: Index
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4669/'>to boult, lift, fan
-  or winnow</a>"
-insertion: 
-item: "#item-48fa91c23"
-unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-48fa91c23'
-line: 'Type: Index|Insertion Xref: [:5.]|#item-48fa91c23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/693,456,188,159/full/0/default.jpg
+item: "#item-a8263e53e"
+unparsed: 
+line: 'Head: sighs|Page: p.42 [Image 1.102]|Entry: a|Entry: 1740 [Sighe]|#item-a8263e53e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/187,538,632,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278084831
-order: '3700'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/693,456,188,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/693,456,188,159/full/0/default.jpg
-label: "[:5.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577578496
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/187,538,632,170/150,/0/default.jpg
+label: sighs
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0947'
 layout: index_item
 collection: index4
 ---

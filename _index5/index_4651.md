@@ -2,30 +2,29 @@
 pid: index_4651
 volume: Volume 3
 image_number: '53'
-head: the young of beasts
-entry: "<a href='/digital-beehive/toc/toc2_206/'>1061 [The young or little ones of
-  all beasts]</a>"
+head: to grow young
+entry: "<a href='/digital-beehive/toc/toc2_244/'>1255 [To grow young again]</a>|<a
+  href='/digital-beehive/toc/toc2_380/'>2150 [To grow young again]</a>"
 topic: 
 first_letter: Y
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-384aa512d"
+item: "#item-0dab9057d"
 unparsed: 
-line: 'Head: the young of beasts|Entry: 1061 [The young or little ones of all beasts]|#item-384aa512d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1578,2693,694,136/full/0/default.jpg
+line: 'Head: to grow young|Entry: 1255 [To grow young again]|Entry: 2150 [To grow
+  young again]|#item-0dab9057d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799474919
-order: '4651'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1578,2693,694,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1578,2693,694,136/full/0/default.jpg
-label: the young of beasts
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799579947
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/150,/0/default.jpg
+label: to grow young
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '618'
 layout: index_item
 collection: index5
 ---

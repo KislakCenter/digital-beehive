@@ -2,30 +2,27 @@
 pid: index_4244
 volume: Volume 3
 image_number: '48'
-head: trivial
-entry: "<a href='/digital-beehive/toc/toc2_080/'>224 [Considerable]</a>|<a href='/digital-beehive/toc/toc2_122/'>510
-  [So trivial a thing]</a>"
+head: triumph
+entry: 
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4323/'>victory</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-589ae4b5d"
+item: "#item-5b098d0c1"
 unparsed: 
-line: 'Head: trivial|Entry: 224 [Considerable]|Entry: 510 [So trivial a thing]|#item-589ae4b5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/full/0/default.jpg
+line: 'Head: triumph|See: victory|#item-5b098d0c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2180,629,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089378233
-order: '4244'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/full/0/default.jpg
-label: trivial
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089405326
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2180,629,193/150,/0/default.jpg
+label: triumph
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '211'
 layout: index_item
 collection: index5
 ---

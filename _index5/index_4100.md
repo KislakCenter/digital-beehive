@@ -2,30 +2,27 @@
 pid: index_4100
 volume: Volume 3
 image_number: '47'
-head: testament new
-entry: "<a href='/digital-beehive/alpha5/alpha_0938/'>a</a>|<a href='/digital-beehive/toc/toc2_173/'>926
-  [New Testament]</a>|<a href='/digital-beehive/toc/toc2_419/'>2426 [New Testamt]</a>"
+head: testicles
+entry: 816 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5620834db"
+item: "#item-cd3983798"
 unparsed: 
-line: 'Head: testament new|Entry: a|Entry: 926 [New Testament]|Entry: 2426 [New Testamt]|#item-5620834db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,3167,631,87/full/0/default.jpg
+line: 'Head: testicles|Entry: 816 [PAGE_MISSING]|#item-cd3983798'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,3275,360,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529088125728
-order: '4100'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,3167,631,87/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,3167,631,87/full/0/default.jpg
-label: testament new
+annotation_uri: http://dev.llgc.org.uk/annotation/1532719309844
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,3275,360,103/150,/0/default.jpg
+label: testicles
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '067'
 layout: index_item
 collection: index5
 ---

@@ -2,30 +2,27 @@
 pid: index_3486
 volume: Volume 3
 image_number: '40'
-head: sadness
-entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/toc/toc2_230/'>1181
-  [Sadness]</a>|<a href='/digital-beehive/toc/toc2_382/'>2165 [Sorrow]</a>"
+head: safe conduct
+entry: 726 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7364926c2"
+item: "#item-c0c071d98"
 unparsed: 
-line: 'Head: sadness|Entry: a|Entry: 1181 [Sadness]|Entry: 2165 [Sorrow]|#item-7364926c2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1803,1974,689,152/full/0/default.jpg
+line: 'Head: safe conduct|Entry: 726 [PAGE_MISSING]|#item-c0c071d98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1819,2109,604,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234899366
-order: '3486'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1803,1974,689,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1803,1974,689,152/full/0/default.jpg
-label: sadness
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234921882
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1819,2109,604,148/150,/0/default.jpg
+label: safe conduct
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0733'
 layout: index_item
 collection: index4
 ---

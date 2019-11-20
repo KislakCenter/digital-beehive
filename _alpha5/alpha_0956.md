@@ -1,32 +1,29 @@
 ---
 pid: alpha_0956
 volume: Volume 2
-image_number: '59'
+image_number: '58'
 head: 
-entry: Too slow or quick
-topic: Too slow or quick
+entry: Time
+topic: Time
 first_letter: T
-xref: "<a href='/digital-beehive/alpha4/alpha_0879/'>Slowness</a>|too late|<a href='/digital-beehive/toc/toc2_059/'>20
-  [Too late]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4184/'>too slow or quick</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5bc71e62e"
+xref: "<a href='/digital-beehive/alpha5/alpha_0957/'>Time, continued</a>|818 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index5/index_4154/'>time</a>"
+item: "#item-21d76679c"
 unparsed: 
-line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: too
-  late|Xref: 20 [Too late]|Index: too slow or quick|#item-5bc71e62e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529521675271
-order: '956'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
-label: Too slow or quick
-location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+line: 'Entry: Time|Topic: Time|Xref: Time, continued|Xref: 818 [PAGE_MISSING]|Index:
+  time|#item-21d76679c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/814,4469,2950,611/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565113769558
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/814,4469,600,180/250,/0/default.jpg
+label: Time
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+num_match: 
+order: '021'
 layout: alpha_item
 collection: alpha5
 ---

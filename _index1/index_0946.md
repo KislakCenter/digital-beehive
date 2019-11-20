@@ -2,29 +2,28 @@
 pid: index_0946
 volume: Volume 3
 image_number: '15'
-head: past danger
-entry: "<a href='/digital-beehive/toc/toc2_107/'>411 [Past all danger]</a>"
+head: darkness
+entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/toc/toc2_237/'>1220
+  [Darkness]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-029b1eaac"
+item: "#item-b468baa05"
 unparsed: 
-line: 'Head: past danger|Entry: 411 [Past all danger]|#item-029b1eaac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/full/0/default.jpg
+line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391162408
-order: '946'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/full/0/default.jpg
-label: past danger
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/150,/0/default.jpg
+label: darkness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0943'
 layout: index_item
 collection: index1
 ---

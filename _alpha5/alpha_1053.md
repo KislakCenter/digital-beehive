@@ -1,30 +1,29 @@
 ---
 pid: alpha_1053
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Christs Wounds
-topic: Christs Wounds
+entry: Word of God
+topic: Word of God
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4628/'>wounds of Christ</a>"
-insertion_xref: 
-insertion: 
-item: "#item-95a4a8f71"
+xref: "<a href='/digital-beehive/toc/toc2_167/'>900 [Word of God]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4603/'>word of God</a>"
+item: "#item-2e7f9bce6"
 unparsed: 
-line: 'Entry: Christs Wounds|Topic: Christs Wounds|Index: wounds of Christ|#item-95a4a8f71'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,3022,346/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529598929215
-order: '1053'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,3022,346/full/0/default.jpg
-label: Christs Wounds
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: Word of God|Topic: Word of God|Xref: 900 [Word of God]|Index: word of
+  God|#item-2e7f9bce6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,1809,2994,488/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529595930719
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,1809,600,180/250,/0/default.jpg
+label: Word of God
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '118'
 layout: alpha_item
 collection: alpha5
 ---

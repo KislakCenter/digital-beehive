@@ -2,29 +2,27 @@
 pid: index_3000
 volume: Volume 3
 image_number: '35'
-head: picts
-entry: 4512 [PAGE_MISSING]
+head: pie
+entry: "<a href='/digital-beehive/alpha4/alpha_0706/'>a</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7ba1f21b6"
+item: "#item-767d5b943"
 unparsed: 
-line: 'Head: picts|Entry: 4512 [PAGE_MISSING]|#item-7ba1f21b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,362,418,136/full/0/default.jpg
+line: 'Head: pie|Entry: a|#item-767d5b943'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1502,420,305,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975901507
-order: '3000'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,362,418,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,362,418,136/full/0/default.jpg
-label: picts
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975915262
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1502,420,305,116/150,/0/default.jpg
+label: pie
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0248'
 layout: index_item
 collection: index4
 ---

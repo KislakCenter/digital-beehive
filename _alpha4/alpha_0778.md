@@ -3,30 +3,27 @@ pid: alpha_0778
 volume: Volume 2
 image_number: '46'
 head: 
-entry: Regarding of persons
-topic: Regarding of persons
+entry: Recommendation
+topic: Recommendation
 first_letter: R
-xref: "<a href='/digital-beehive/alpha4/alpha_0680/'>Partiality</a>|<a href='/digital-beehive/toc/toc2_276/'>1412
-  [Excellent]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3339/'>regarding of persons</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5b988b86f"
+xref: 4716 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3317/'>recom[m]endation</a>"
+item: "#item-404bc8a22"
 unparsed: 
-line: 'Entry: Regarding of persons|Topic: Regarding of persons|Xref: Partiality|Xref:
-  1412 [Excellent]|Index: regarding of persons|#item-5b988b86f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,2905,513/full/0/default.jpg
+line: 'Entry: Recommendation|Topic: Recommendation|Xref: 4716 [PAGE_MISSING]|Index:
+  recom[m]endation|#item-404bc8a22'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/851,1055,2942,617/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528740570239
-order: '778'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,2905,513/full/0/default.jpg
-label: Regarding of persons
+annotation_uri: http://dev.llgc.org.uk/annotation/1523301245086
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/851,1055,600,180/250,/0/default.jpg
+label: Recommendation
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '131'
 layout: alpha_item
 collection: alpha4
 ---

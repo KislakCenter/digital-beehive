@@ -1,30 +1,28 @@
 ---
 pid: alpha_0809
 volume: Volume 2
-image_number: '49'
+image_number: '48'
 head: 
-entry: Rust
-topic: Rust
+entry: Ring
+topic: Ring
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3474/'>rust</a>"
-insertion_xref: 
-insertion: 
-item: "#item-44da30ab4"
+xref: "<a href='/digital-beehive/toc/toc2_289/'>1480 [Ring]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3430/'>ring</a>"
+item: "#item-24be7ae64"
 unparsed: 
-line: 'Entry: Rust|Topic: Rust|Index: rust|#item-44da30ab4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/297,1780,3042,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528827907798
-order: '809'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/297,1780,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/297,1780,3042,165/full/0/default.jpg
-label: Rust
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+line: 'Entry: Ring|Topic: Ring|Xref: 1480 [Ring]|Index: ring|#item-24be7ae64'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4666,2946,208/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528825974239
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4666,600,180/250,/0/default.jpg
+label: Ring
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '161'
 layout: alpha_item
 collection: alpha4
 ---

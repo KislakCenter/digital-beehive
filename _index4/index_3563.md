@@ -2,29 +2,27 @@
 pid: index_3563
 volume: Volume 3
 image_number: '41'
-head: scriptures impro[per] express
-entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Catachresis]</a>"
+head: scrivener
+entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-88252a02a"
+item: "#item-48e2f1439"
 unparsed: 
-line: 'Head: scriptures impro[per] express|Entry: 725 [Catachresis]|#item-88252a02a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/full/0/default.jpg
+line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241555250
-order: '3563'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/full/0/default.jpg
-label: scriptures impro[per] express
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/150,/0/default.jpg
+label: scrivener
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0810'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_3665
 volume: Volume 3
 image_number: '42'
-head: sharp
-entry: 760 [PAGE_MISSING]|861 [PAGE_MISSING]
+head: sheath
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Sheath]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6860df29a"
+item: "#item-ecd3f3285"
 unparsed: 
-line: 'Head: sharp|Entry: 760 [PAGE_MISSING]|Entry: 861 [PAGE_MISSING]|#item-6860df29a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1088,3221,594,136/full/0/default.jpg
+line: 'Head: sheath|Entry: 871 [a Sheath]|#item-ecd3f3285'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,3360,462,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575380262
-order: '3665'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1088,3221,594,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1088,3221,594,136/full/0/default.jpg
-label: sharp
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575397323
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1104,3360,462,137/150,/0/default.jpg
+label: sheath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0912'
 layout: index_item
 collection: index4
 ---

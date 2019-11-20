@@ -3,28 +3,26 @@ pid: alpha_0297
 volume: Volume 1
 image_number: '455'
 head: 
-entry: Exercise
-topic: Exercise
+entry: Execution
+topic: Execution
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_262/'>1345 [Exercise]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1346/'>exercise</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d845c95d0"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1343/'>execution</a>"
+item: "#item-a147ed4b8"
 unparsed: 
-line: 'Entry: Exercise|Topic: Exercise|XRef: 1345 [Exercise]|Index: exercise|#item-d845c95d0'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,547,3103,303/full/0/default.jpg
+line: 'Entry: Execution|Topic: Execution|Index: execution|#item-a147ed4b8'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/349,229,3132,376/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587146356
-order: '297'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,547,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,547,3103,303/full/0/default.jpg
-label: Exercise
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587114145
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/349,229,600,180/250,/0/default.jpg
+label: Execution
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+num_match: 
+order: '028'
 layout: alpha_item
 collection: alpha2
 ---

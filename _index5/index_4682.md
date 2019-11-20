@@ -2,29 +2,27 @@
 pid: index_4682
 volume: Volume 3
 image_number: '54'
-head: calamity
-entry: 
+head: Barclay
+entry: "<a href='/digital-beehive/toc/toc2_364/'>1995 [Barclay]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: "<a href='/digital-beehive/index3/index_2538/'>misery</a>"
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:17.]"
-item: "#item-47531e746"
-unparsed: 
-line: 'Type: Index|Insertion: [:17.]|Head: calamity|See: misery|#item-47531e746'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/full/0/default.jpg
+item: "#item-8ce931c41"
+unparsed: Type Index|Insertion [:18.]
+line: 'Type: Index|Insertion: [:18.]|Head: Barclay|Entry: 1995 [Barclay]|#item-8ce931c41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560884948643
-order: '4682'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/full/0/default.jpg
-label: calamity
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885043290
+insertion: "[:18.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/150,/0/default.jpg
+label: Barclay
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '649'
 layout: index_item
 collection: index5
 ---

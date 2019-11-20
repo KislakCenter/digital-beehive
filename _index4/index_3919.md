@@ -2,29 +2,27 @@
 pid: index_3919
 volume: Volume 3
 image_number: '45'
-head: stork
-entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>"
+head: storm
+entry: "<a href='/digital-beehive/num2/num_0444/'>370 [Storm]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d2738a5b6"
+item: "#item-c93371a65"
 unparsed: 
-line: 'Head: stork|Page: p.35 [Image 1.95]|Entry: a|#item-d2738a5b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,500,394,130/full/0/default.jpg
+line: 'Head: storm|Entry: 370 [Storm]|#item-c93371a65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/888,637,329,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290572481
-order: '3919'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,500,394,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,500,394,130/full/0/default.jpg
-label: stork
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449505581
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/888,637,329,101/150,/0/default.jpg
+label: storm
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1166'
 layout: index_item
 collection: index4
 ---

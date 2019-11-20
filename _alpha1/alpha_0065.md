@@ -6,14 +6,11 @@ head:
 entry: Baudry
 topic: Baudry
 first_letter: B
-xref: "<a href='/digital-beehive/alpha5/alpha_1021/'>Whoredom</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0311/'>baudry</a>"
-insertion_xref: 
-insertion: 
+xref: "<a href='/digital-beehive/alpha5/alpha_1031/'>Whoredom</a>|765 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_0310/'>baudry</a>"
 item: "#item-c20186c9f"
 unparsed: 
 line: 'Entry: Baudry|Topic: Baudry|Xref: Whoredom|Xref: 765 [PAGE_MISSING]|Index:
@@ -21,11 +18,12 @@ line: 'Entry: Baudry|Topic: Baudry|Xref: Whoredom|Xref: 765 [PAGE_MISSING]|Index
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,3001,327/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558809934121
-order: '65'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,3001,327/full/0/default.jpg
 label: Baudry
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
+num_match: 
+order: '064'
 layout: alpha_item
 collection: alpha1
 ---

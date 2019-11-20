@@ -2,29 +2,27 @@
 pid: index_4004
 volume: Volume 3
 image_number: '46'
-head: surnames
-entry: "<a href='/digital-beehive/toc/toc2_085/'>252 [Surnames]</a>"
+head: surplice
+entry: "<a href='/digital-beehive/toc/toc2_314/'>1598 [Surplice]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2f96f1d29"
+item: "#item-fa52afd74"
 unparsed: 
-line: 'Head: surnames|Entry: 252 [Surnames]|#item-2f96f1d29'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/480,3340,477,150/full/0/default.jpg
+line: 'Head: surplice|Entry: 1598 [Surplice]|#item-fa52afd74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/481,3485,501,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531683961538
-order: '4004'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/480,3340,477,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/480,3340,477,150/full/0/default.jpg
-label: surnames
+annotation_uri: http://dev.llgc.org.uk/annotation/1531684037645
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/481,3485,501,157/150,/0/default.jpg
+label: surplice
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1250'
 layout: index_item
 collection: index4
 ---

@@ -6,25 +6,23 @@ head: ballast
 entry: 4708 [PAGE_MISSING]
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-c6784a24e"
 unparsed: 
 line: 'Head: ballast|Entry: 4708 [PAGE_MISSING]|#item-c6784a24e'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/911,1149,383,70/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1505403550057
-order: '279'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/911,1149,383,70/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/911,1149,383,70/full/0/default.jpg
 label: ballast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0278'
 layout: index_item
 collection: index1
 ---

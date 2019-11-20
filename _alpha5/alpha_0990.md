@@ -1,31 +1,28 @@
 ---
 pid: alpha_0990
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: Unbelief
-topic: Unbelief
+entry: Vertue
+topic: Vertue
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha2/alpha_0308/'>faith</a>|<a href='/digital-beehive/toc/toc2_372/'>2070
-  [unbelief]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4360/'>unbelief</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4cd97847c"
+xref: "<a href='/digital-beehive/toc/toc2_215/'>1108 [Virtue]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4317/'>vertue</a>"
+item: "#item-781179131"
 unparsed: 
-line: 'Entry: Unbelief|Topic: Unbelief|Xref: faith|Xref: 2070 [unbelief]|Index: unbelief|#item-4cd97847c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,572,2940,503/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528911634757
-order: '990'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,572,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,572,2940,503/full/0/default.jpg
-label: Unbelief
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Vertue|Topic: Vertue|Xref: 1108 [Virtue]|Index: vertue|#item-781179131'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/342,2588,2979,642/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529002787176
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/342,2588,600,180/250,/0/default.jpg
+label: Vertue
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '055'
 layout: alpha_item
 collection: alpha5
 ---

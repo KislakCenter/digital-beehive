@@ -2,32 +2,27 @@
 pid: index_3152
 volume: Volume 3
 image_number: '37'
-head: pride
-entry: "<a href='/digital-beehive/alpha4/alpha_0725/'>a</a>|819 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_336/'>1712 [Pride]</a>|<a href='/digital-beehive/toc/toc2_432/'>4818
-  [Pride]</a>"
+head: pricking
+entry: "<a href='/digital-beehive/toc/toc2_152/'>684 [To prick]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-53fb33826"
+item: "#item-118008acc"
 unparsed: 
-line: 'Head: pride|Entry: a|Entry: 819 [PAGE_MISSING]|Entry: 1712 [Pride]|Entry: 4818
-  [Pride]|#item-53fb33826'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/full/0/default.jpg
+line: 'Head: pricking|Entry: 684 [To prick]|#item-118008acc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866745540
-order: '3152'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/full/0/default.jpg
-label: pride
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866764902
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/150,/0/default.jpg
+label: pricking
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0400'
 layout: index_item
 collection: index4
 ---

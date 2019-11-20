@@ -3,29 +3,27 @@ pid: index_0528
 volume: Volume 3
 image_number: '11'
 head: cannot
-entry: "<a href='/digital-beehive/toc/toc2_096/'>334 [Impotency]</a>|<a href='/digital-beehive/toc/toc2_350/'>1833
+entry: "<a href='/digital-beehive/num2/num_0386/'>334 [Impotency]</a>|<a href='/digital-beehive/toc/toc2_350/'>1833
   [Impotency]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-540d30b44"
 unparsed: 
 line: 'Head: cannot|Entry: 334 [Impotency]|Entry: 1833 [Impotency]|#item-540d30b44'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1573,2309,623,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531495687363
-order: '528'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1573,2309,623,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1573,2309,623,132/full/0/default.jpg
 label: cannot
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0527'
 layout: index_item
 collection: index1
 ---

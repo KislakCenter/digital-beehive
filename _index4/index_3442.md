@@ -2,29 +2,27 @@
 pid: index_3442
 volume: Volume 3
 image_number: '40'
-head: to roll
-entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [To Roll]</a>"
+head: Roman Empire
+entry: "<a href='/digital-beehive/toc/toc2_395/'>2260 [Roman Empire]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6f523e7c4"
+item: "#item-e45f2244e"
 unparsed: 
-line: 'Head: to roll|Entry: 648 [To Roll]|#item-6f523e7c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/full/0/default.jpg
+line: 'Head: Roman Empire|Entry: 2260 [Roman Empire]|#item-e45f2244e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1144,905,677,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233004835
-order: '3442'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/full/0/default.jpg
-label: to roll
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233301423
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1144,905,677,158/150,/0/default.jpg
+label: Roman Empire
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0689'
 layout: index_item
 collection: index4
 ---

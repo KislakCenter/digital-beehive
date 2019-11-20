@@ -3,30 +3,26 @@ pid: alpha_0984
 volume: Volume 2
 image_number: '61'
 head: 
-entry: Vineyard
-topic: Vineyard
-first_letter: U/V
-xref: "<a href='/digital-beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
-  [Vineyards]</a>"
-see: 
+entry: Tyger
+topic: Tyger
+first_letter: T
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4334/'>vineyard</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fc758dd02"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4281/'>tyger</a>"
+item: "#item-0187356dd"
 unparsed: 
-line: 'Entry: Vineyard|Topic: Vineyard|Xref: 973 [Grapes]|Xref: 1990 [Vineyards]|Index:
-  vineyard|#item-fc758dd02'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
+line: 'Entry: Tyger|Topic: Tyger|Index: tyger|#item-0187356dd'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,931,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529003787011
-order: '984'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
-label: Vineyard
+annotation_uri: http://dev.llgc.org.uk/annotation/1529611493101
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/327,568,600,180/250,/0/default.jpg
+label: Tyger
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '049'
 layout: alpha_item
 collection: alpha5
 ---

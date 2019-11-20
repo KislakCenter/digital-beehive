@@ -2,30 +2,27 @@
 pid: index_4501
 volume: Volume 3
 image_number: '52'
-head: weapons
-entry: "<a href='/digital-beehive/alpha5/alpha_1018/'>a</a>|<a href='/digital-beehive/toc/toc2_228/'>1175
-  [Weapons]</a>"
+head: weary
+entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [Weariness]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-315af01da"
+item: "#item-05476ee44"
 unparsed: 
-line: 'Head: weapons|Page: p.40 [Image 1.100]|Entry: a|Entry: 1175 [Weapons]|#item-315af01da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/498,2490,587,145/full/0/default.jpg
+line: 'Head: weary|Entry: 719 [Weariness]|#item-05476ee44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/473,2645,407,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961062076
-order: '4501'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/498,2490,587,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/498,2490,587,145/full/0/default.jpg
-label: weapons
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961114550
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/473,2645,407,151/150,/0/default.jpg
+label: weary
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '468'
 layout: index_item
 collection: index5
 ---

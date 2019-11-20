@@ -3,30 +3,26 @@ pid: alpha_0518
 volume: Volume 2
 image_number: '26'
 head: 
-entry: Laughter
-topic: Laughter
+entry: Late
+topic: Late
 first_letter: L
-xref: "<a href='/digital-beehive/alpha1/alpha_0226/'>derision</a>|<a href='/digital-beehive/toc/toc2_244/'>1254
-  [Laughter]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2221/'>laughter</a>"
-insertion_xref: 
-insertion: 
-item: "#item-565ae020d"
+xref: Too late|4786 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
+item: "#item-2bad963b5"
 unparsed: 
-line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Index:
-  laughter|#item-565ae020d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,2976,469/full/0/default.jpg
+line: 'Entry: Late|Topic: Late|Xref: Too late|Xref:  4786 [PAGE_MISSING]|Index: late|#item-2bad963b5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,2964,316/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766881635
-order: '518'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,2976,469/full/0/default.jpg
-label: Laughter
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766849824
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,600,180/250,/0/default.jpg
+label: Late
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+num_match: 
+order: '074'
 layout: alpha_item
 collection: alpha3
 ---

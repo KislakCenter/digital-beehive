@@ -2,29 +2,27 @@
 pid: index_3573
 volume: Volume 3
 image_number: '41'
-head: Sea gods
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Neptune]</a>"
+head: Sea man
+entry: 764 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-912b9305d"
+item: "#item-510f587f7"
 unparsed: 
-line: 'Head: Sea gods|Entry: 1383 [Neptune]|#item-912b9305d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1539,484,459,145/full/0/default.jpg
+line: 'Head: Sea man|Entry: 764 [PAGE_MISSING]|#item-510f587f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1549,541,451,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242156353
-order: '3573'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1539,484,459,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1539,484,459,145/full/0/default.jpg
-label: Sea gods
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242213079
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1549,541,451,94/150,/0/default.jpg
+label: Sea man
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0820'
 layout: index_item
 collection: index4
 ---

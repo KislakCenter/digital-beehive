@@ -2,30 +2,27 @@
 pid: index_4536
 volume: Volume 3
 image_number: '52'
-head: to whip
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/digital-beehive/toc/toc2_386/'>2208
-  [Rod]</a>"
+head: to whisper
+entry: "<a href='/digital-beehive/toc/toc2_163/'>876 [to Whisper]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c2c776546"
+item: "#item-48251c378"
 unparsed: 
-line: 'Head: to whip|Entry: 871 [a Rod]|Entry: 2208 [Rod]|#item-c2c776546'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1778,394,614,134/full/0/default.jpg
+line: 'Head: to whisper|Entry: 876 [to Whisper]|#item-48251c378'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1776,507,526,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971082298
-order: '4536'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1778,394,614,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1778,394,614,134/full/0/default.jpg
-label: to whip
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971476907
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1776,507,526,138/150,/0/default.jpg
+label: to whisper
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '503'
 layout: index_item
 collection: index5
 ---

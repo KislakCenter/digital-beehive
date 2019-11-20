@@ -3,28 +3,27 @@ pid: alpha_0421
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Hireling
-topic: Hireling
+entry: Hindrance
+topic: Hindrance
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1843/'>hireling</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2c8f931b4"
+xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
+see: 
+index: "<a href='/digital-beehive/index2/index_1838/'>hinderance</a>"
+item: "#item-526731c25"
 unparsed: 
-line: 'Entry: Hireling|Topic: Hireling|Xref: 549 [Hirelings]|Index: hireling|#item-2c8f931b4|'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,2918,529/full/0/default.jpg
+line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Xref: Disappoint|Index:
+  hinderance|#item-526731c25'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/708,3722,3030,580/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508963957119
-order: '421'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,2918,529/full/0/default.jpg
-label: Hireling
+annotation_uri: http://dev.llgc.org.uk/annotation/1564756957509
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/708,3722,600,180/250,/0/default.jpg
+label: Hindrance
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '152'
 layout: alpha_item
 collection: alpha2
 ---

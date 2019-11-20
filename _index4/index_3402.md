@@ -2,30 +2,27 @@
 pid: index_3402
 volume: Volume 3
 image_number: '39'
-head: revelation
-entry: "<a href='/digital-beehive/alpha4/alpha_0793/'>a</a>|<a href='/digital-beehive/toc/toc2_259/'>1328
-  [Revelation]</a>"
+head: book of revelations
+entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-85c9b5aef"
+item: "#item-f1885c574"
 unparsed: 
-line: 'Head: revelation|Entry: a|Entry: 1328 [Revelation]|#item-85c9b5aef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1496,2866,748,213/full/0/default.jpg
+line: 'Head: book of revelations|Entry: a|#item-f1885c574'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,2998,550,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230263097
-order: '3402'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1496,2866,748,213/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1496,2866,748,213/full/0/default.jpg
-label: revelation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230281642
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,2998,550,153/150,/0/default.jpg
+label: book of revelations
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0649'
 layout: index_item
 collection: index4
 ---

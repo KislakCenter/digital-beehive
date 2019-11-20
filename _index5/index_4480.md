@@ -2,31 +2,27 @@
 pid: index_4480
 volume: Volume 3
 image_number: '51'
-head: warning
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_205/'>1060 [Admonishing
-  & Warning]</a>
+head: warrant
+entry: 804 [PAGE_MISSING]
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index1/index_0572/'>caution</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-064de5392"
+item: "#item-282fea67c"
 unparsed: 
-line: 'Head: warning|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing & Warning]|Add:
-  caution|#item-064de5392'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/full/0/default.jpg
+line: 'Head: warrant|Entry: 804 [PAGE_MISSING]|#item-282fea67c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1634,3158,488,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648523807
-order: '4480'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/full/0/default.jpg
-label: warning
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648554376
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1634,3158,488,133/150,/0/default.jpg
+label: warrant
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '447'
 layout: index_item
 collection: index5
 ---

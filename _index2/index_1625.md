@@ -2,29 +2,27 @@
 pid: index_1625
 volume: Volume 3
 image_number: '22'
-head: glory
-entry: "<a href='/digital-beehive/alpha2/alpha_0361/'>a</a>"
+head: glory to God
+entry: "<a href='/digital-beehive/toc/toc2_290/'>1484 [Soli Deo gloria]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6f3a419cb"
+item: "#item-6efee49be"
 unparsed: 
-line: 'Head: glory|Entry: a|#item-6f3a419cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/429,3488,293,144/full/0/default.jpg
+line: 'Head: glory to God|Entry: 1484 [Soli Deo gloria]|#item-6efee49be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3558,503,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044302593
-order: '1625'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/429,3488,293,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/429,3488,293,144/full/0/default.jpg
-label: glory
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044403828
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3558,503,106/150,/0/default.jpg
+label: glory to God
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '445'
 layout: index_item
 collection: index2
 ---

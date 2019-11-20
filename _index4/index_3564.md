@@ -2,29 +2,27 @@
 pid: index_3564
 volume: Volume 3
 image_number: '41'
-head: scriptures uncertainty
-entry: "<a href='/digital-beehive/toc/toc2_091/'>301 [Uncertainty of the h. Scripture]</a>"
+head: scrupulous
+entry: "<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ddcffbc44"
+item: "#item-7c7e33ba9"
 unparsed: 
-line: 'Head: scriptures uncertainty|Entry: 301 [Uncertainty of the h. Scripture]|#item-ddcffbc44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,2774,652,156/full/0/default.jpg
+line: 'Head: scrupulous|Entry: 918 [Doubtful]|#item-7c7e33ba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/887,3059,567,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241670700
-order: '3564'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,2774,652,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,2774,652,156/full/0/default.jpg
-label: scriptures uncertainty
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241717729
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/887,3059,567,137/150,/0/default.jpg
+label: scrupulous
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0811'
 layout: index_item
 collection: index4
 ---

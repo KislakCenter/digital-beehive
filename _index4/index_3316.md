@@ -2,29 +2,27 @@
 pid: index_3316
 volume: Volume 3
 image_number: '38'
-head: to receive
-entry: "<a href='/digital-beehive/toc/toc2_272/'>1395 [To Receive]</a>"
+head: reckon[n]ing
+entry: "<a href='/digital-beehive/num1/num_0254/'>237 [Reckoning]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0caf0b17c"
+item: "#item-68dac7c38"
 unparsed: 
-line: 'Head: to receive|Entry: 1395 [To Receive]|#item-0caf0b17c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1819,2795,638,172/full/0/default.jpg
+line: 'Head: reckon[n]ing|Entry: 237 [Reckoning]|#item-68dac7c38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,2903,582,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461972072
-order: '3316'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1819,2795,638,172/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1819,2795,638,172/full/0/default.jpg
-label: to receive
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461998570
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,2903,582,190/150,/0/default.jpg
+label: reckon[n]ing
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0563'
 layout: index_item
 collection: index4
 ---

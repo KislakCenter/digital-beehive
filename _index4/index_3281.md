@@ -2,29 +2,27 @@
 pid: index_3281
 volume: Volume 3
 image_number: '38'
-head: rage
-entry: "<a href='/digital-beehive/toc/toc2_108/'>417 [Rage]</a>"
+head: ragg
+entry: "<a href='/digital-beehive/num1/num_0128/'>123 [Raggs]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5047e6086"
+item: "#item-fff176480"
 unparsed: 
-line: 'Head: rage|Entry: 417 [Rage]|#item-5047e6086'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1175,3022,351,161/full/0/default.jpg
+line: 'Head: ragg|Entry: 123 [Raggs]|#item-fff176480'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3133,363,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459570150
-order: '3281'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1175,3022,351,161/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1175,3022,351,161/full/0/default.jpg
-label: rage
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459627234
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3133,363,160/150,/0/default.jpg
+label: ragg
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0528'
 layout: index_item
 collection: index4
 ---

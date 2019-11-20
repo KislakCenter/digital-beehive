@@ -6,25 +6,23 @@ head: line
 entry: 807 [PAGE_MISSING]
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f6518aadd"
 unparsed: 
 line: 'Head: line|Entry: 807 [PAGE_MISSING]|#item-f6518aadd'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1834,1128,333,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559848725027
-order: '2299'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1834,1128,333,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1834,1128,333,120/full/0/default.jpg
 label: line
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '380'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,27 @@
 pid: index_4377
 volume: Volume 3
 image_number: '50'
-head: uneasy
+head: unfaithful
 entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: "<a href='/digital-beehive/index5/index_4502/'>weary</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2033/'>infidelity</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-79c2d4bc9"
+item: "#item-8c2c95ecb"
 unparsed: 
-line: 'Head: uneasy|See: weary|#item-79c2d4bc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,3305,560,141/full/0/default.jpg
+line: 'Head: unfaithful|See: infidelity|#item-8c2c95ecb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/424,3376,773,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560873918172
-order: '4377'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,3305,560,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/431,3305,560,141/full/0/default.jpg
-label: uneasy
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873940995
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/424,3376,773,165/150,/0/default.jpg
+label: unfaithful
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '344'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_4319
 volume: Volume 3
 image_number: '49'
-head: vertigo
-entry: "<a href='/digital-beehive/toc/toc2_137/'>599 [Giddiness]</a>"
+head: vessel
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [Vessel]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f2ac46378"
+item: "#item-ec3fa7f92"
 unparsed: 
-line: 'Head: vertigo|Entry: 599 [Giddiness]|#item-f2ac46378'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,3353,395,130/full/0/default.jpg
+line: 'Head: vessel|Entry: 871 [Vessel]|#item-ec3fa7f92'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1605,237,397,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659034668
-order: '4319'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,3353,395,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,3353,395,130/full/0/default.jpg
-label: vertigo
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659480508
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1605,237,397,166/150,/0/default.jpg
+label: vessel
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '286'
 layout: index_item
 collection: index5
 ---

@@ -3,28 +3,26 @@ pid: alpha_0502
 volume: Volume 2
 image_number: '25'
 head: 
-entry: Kneeling
-topic: Kneeling
+entry: Kiss
+topic: Kiss
 first_letter: K
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2170/'>kneeling</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b9d62fe60"
+xref: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kissing]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2164/'>kiss</a>"
+item: "#item-5ebdc777a"
 unparsed: 
-line: 'Entry: Kneeling|Topic: Kneeling|Index: kneeling|#item-b9d62fe60'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/382,3937,3010,400/full/0/default.jpg
+line: 'Entry: Kiss|Topic: Kiss|Xref: 1905 [Kissing]|Index: kiss|#item-5ebdc777a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765659457
-order: '502'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/382,3937,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/382,3937,3010,400/full/0/default.jpg
-label: Kneeling
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765602050
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,600,180/250,/0/default.jpg
+label: Kiss
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
+num_match: 
+order: '058'
 layout: alpha_item
 collection: alpha3
 ---

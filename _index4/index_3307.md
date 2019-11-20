@@ -2,30 +2,27 @@
 pid: index_3307
 volume: Volume 3
 image_number: '38'
-head: reading
-entry: "<a href='/digital-beehive/alpha4/alpha_0769/'>a</a>|<a href='/digital-beehive/toc/toc2_212/'>1091
-  [Reading]</a>"
+head: how to read books
+entry: 
 topic: 
 first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index5/index_4300/'>various</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f84b40f45"
+item: "#item-29108d91c"
 unparsed: 
-line: 'Head: reading|Entry: a|Entry: 1091 [Reading]|Add: various|#item-f84b40f45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
+line: 'Head: how to read books|Page: p.1 [Image 1.61]|#item-29108d91c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1866,1911,642,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461304691
-order: '3307'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
-label: reading
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461332191
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1866,1911,642,120/150,/0/default.jpg
+label: how to read books
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0554'
 layout: index_item
 collection: index4
 ---

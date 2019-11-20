@@ -2,29 +2,27 @@
 pid: index_2724
 volume: Volume 3
 image_number: '32'
-head: noisom
-entry: "<a href='/digital-beehive/toc/toc2_148/'>662 [Irksomness]</a>"
+head: nonconformity
+entry: "<a href='/digital-beehive/num2/num_0611/'>492 [Dissenters]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3601399b7"
+item: "#item-b006175a5"
 unparsed: 
-line: 'Head: noisom|Entry: 662 [Irksomness]|#item-3601399b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/full/0/default.jpg
+line: 'Head: nonconformity|Entry: 492 [Dissenters]|#item-b006175a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448711086
-order: '2724'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/full/0/default.jpg
-label: noisom
+annotation_uri: http://dev.llgc.org.uk/annotation/1560448766758
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/150,/0/default.jpg
+label: nonconformity
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '804'
 layout: index_item
 collection: index3
 ---

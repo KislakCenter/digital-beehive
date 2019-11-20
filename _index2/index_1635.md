@@ -2,29 +2,27 @@
 pid: index_1635
 volume: Volume 3
 image_number: '22'
-head: goat
-entry: "<a href='/digital-beehive/alpha2/alpha_0363/'>a</a>"
+head: be gone
+entry: "<a href='/digital-beehive/toc/toc2_222/'>1142 [Be gone]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3f94af219"
+item: "#item-6b2d81fa7"
 unparsed: 
-line: 'Head: goat|Entry: a|#item-3f94af219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/full/0/default.jpg
+line: 'Head: be gone|Entry: 1142 [Be gone]|#item-6b2d81fa7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046079319
-order: '1635'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/full/0/default.jpg
-label: goat
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046201685
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/150,/0/default.jpg
+label: be gone
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '455'
 layout: index_item
 collection: index2
 ---

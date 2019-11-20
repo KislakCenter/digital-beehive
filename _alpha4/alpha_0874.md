@@ -3,29 +3,29 @@ pid: alpha_0874
 volume: Volume 2
 image_number: '53'
 head: 
-entry: Skill
-topic: Skill
+entry: Similitude
+topic: Similitude
 first_letter: S
-xref: "<a href='/digital-beehive/alpha2/alpha_0299/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0503/'>knowledge</a>|ability"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3740/'>skill</a>"
-insertion_xref: 
-insertion: 
-item: "#item-101189171"
+xref: "<a href='/digital-beehive/alpha3/alpha_0540/'>Likelihood</a>|<a href='/digital-beehive/num2/num_0280/'>256
+  [Allusions]</a>|comparison|<a href='/digital-beehive/toc/toc2_267/'>1370 [Parables
+  & Similitudes which Christ spake]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3712/'>similitude</a>"
+item: "#item-0bc964271"
 unparsed: 
-line: 'Entry: Skill|Topic: Skill|Xref: experience|Xref: knowledge|Xref: ability|Index:
-  skill|#item-101189171'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,3029,324/full/0/default.jpg
+line: 'Entry: Similitude|Topic: Similitude|Xref: Likelihood|Xref: 256 [Allusions]|Xref:
+  comparison|Xref: 1370 [Parables & Similitudes which Christ spake]|Index: similitude|#item-0bc964271'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/274,379,3123,439/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532029303252
-order: '874'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,3029,324/full/0/default.jpg
-label: Skill
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023250692
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/274,379,600,180/250,/0/default.jpg
+label: Similitude
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '226'
 layout: alpha_item
 collection: alpha4
 ---

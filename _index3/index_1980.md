@@ -2,29 +2,27 @@
 pid: index_1980
 volume: Volume 3
 image_number: '25'
-head: improbable
-entry: "<a href='/digital-beehive/toc/toc2_084/'>246 [Probability]</a>"
+head: to improve
+entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2154bd73c"
+item: "#item-79b32427a"
 unparsed: 
-line: 'Head: improbable|Entry: 246 [Probability]|#item-2154bd73c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,2627,548,144/full/0/default.jpg
+line: 'Head: to improve|Entry: 155 [Use]|#item-79b32427a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/832,2837,530,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667469742
-order: '1980'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,2627,548,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,2627,548,144/full/0/default.jpg
-label: improbable
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667898023
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/832,2837,530,104/150,/0/default.jpg
+label: to improve
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '061'
 layout: index_item
 collection: index3
 ---

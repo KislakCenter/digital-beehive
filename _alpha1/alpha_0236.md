@@ -3,28 +3,28 @@ pid: alpha_0236
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Dirt
-topic: Dirt
+entry: Diligence
+topic: Diligence
 first_letter: D
-xref: Tares|<a href='/digital-beehive/toc/toc2_093/'>314 [Dirt]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6500f1f9d"
+xref: "<a href='/digital-beehive/alpha3/alpha_0505/'>Labour</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|Watchfulness|<a
+  href='/digital-beehive/toc/toc2_172/'>924 [Diligence]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1053/'>diligence</a>"
+item: "#item-6419df951"
 unparsed: 
-line: 'Entry: Dirt|Topic: Dirt|Xref: Tares|Xref: 314 [Dirt]|Index: dirt|#item-6500f1f9d'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,730,2936,357/full/0/default.jpg
+line: 'Entry: Diligence|Topic: Diligence|Xref: Labour|Xref: Laziness|Xref: Watchfulness|Xref:
+  924 [Diligence]|Index: diligence|#item-6419df951'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,2945,631/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174565250
-order: '236'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,730,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,730,2936,357/full/0/default.jpg
-label: Dirt
+annotation_uri: http://dev.llgc.org.uk/annotation/1508174453045
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,600,180/250,/0/default.jpg
+label: Diligence
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '235'
 layout: alpha_item
 collection: alpha1
 ---

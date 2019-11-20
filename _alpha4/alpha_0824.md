@@ -1,30 +1,29 @@
 ---
 pid: alpha_0824
 volume: Volume 2
-image_number: '50'
+image_number: '49'
 head: 
-entry: Scab
-topic: Scab
+entry: Saints
+topic: Saints
 first_letter: S
-xref: French Pocks|<a href='/digital-beehive/toc/toc2_233/'>1199 [Itch]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3532/'>scab</a>"
-insertion_xref: 
-insertion: 
-item: "#item-185e1fcfc"
+xref: "<a href='/digital-beehive/alpha2/alpha_0424/'>holiness</a>|<a href='/digital-beehive/toc/toc2_380/'>2149
+  [Saints]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3495/'>Saints</a>"
+item: "#item-dd78f757e"
 unparsed: 
-line: 'Entry: Scab|Topic: Scab|Xref: French Pocks|Xref: 1199 [Itch]|Index: scab|#item-185e1fcfc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/794,1526,2971,260/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922752593
-order: '824'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/794,1526,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/794,1526,2971,260/full/0/default.jpg
-label: Scab
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+line: 'Entry: Saints|Topic: Saints|Xref: holiness|Xref: 2149 [Saints]|Index: Saints|#item-dd78f757e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,3018,451/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917835756
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,600,180/250,/0/default.jpg
+label: Saints
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+num_match: 
+order: '176'
 layout: alpha_item
 collection: alpha4
 ---

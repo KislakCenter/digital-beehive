@@ -3,30 +3,26 @@ pid: alpha_0340
 volume: Volume 2
 image_number: '12'
 head: 
-entry: Forgetfulness
-topic: Forgetfulness
+entry: Force
+topic: Force
 first_letter: F
-xref: "<a href='/digital-beehive/alpha3/alpha_0582/'>memory</a>|<a href='/digital-beehive/toc/toc2_155/'>697
-  [Forgetfulness]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1510/'>forgetfulness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f6cafa35f"
+xref: "<a href='/digital-beehive/toc/toc2_203/'>1049 [Persecution]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1502/'>force</a>"
+item: "#item-05b93e1d2"
 unparsed: 
-line: 'Entry: Forgetfulness|Topic: Forgetfulness|Xref: memory|Xref: 697 [Forgetfulness]|Index:
-  forgetfulness|#item-f6cafa35f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/763,4611,2978,469/full/0/default.jpg
+line: 'Entry: Force|Topic: Force|Xref: 1049 [Persecution]|Index: force|#item-05b93e1d2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/674,4146,3109,526/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508356300662
-order: '340'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/763,4611,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/763,4611,2978,469/full/0/default.jpg
-label: Forgetfulness
+annotation_uri: http://dev.llgc.org.uk/annotation/1563206742118
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/674,4146,600,180/250,/0/default.jpg
+label: Force
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
+num_match: 
+order: '071'
 layout: alpha_item
 collection: alpha2
 ---

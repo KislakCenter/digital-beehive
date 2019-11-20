@@ -2,30 +2,27 @@
 pid: index_3627
 volume: Volume 3
 image_number: '42'
-head: Self profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/toc/toc2_113/'>455
-  [Self-profit]</a>"
+head: Self punishment
+entry: "<a href='/digital-beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0eb164c43"
+item: "#item-868a43b4b"
 unparsed: 
-line: 'Head: Self profit|Entry: a|Entry: 455 [Self-profit]|#item-0eb164c43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/full/0/default.jpg
+line: 'Head: Self punishment|Entry: 59 [Self-hurt or dammage]|#item-868a43b4b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244857373
-order: '3627'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/full/0/default.jpg
-label: Self profit
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/150,/0/default.jpg
+label: Self punishment
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0874'
 layout: index_item
 collection: index4
 ---

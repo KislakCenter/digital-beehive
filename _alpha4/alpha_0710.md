@@ -1,31 +1,28 @@
 ---
 pid: alpha_0710
 volume: Volume 2
-image_number: '41'
+image_number: '40'
 head: 
-entry: Politick
-topic: Politick
+entry: Planets
+topic: Planets
 first_letter: P
-xref: Temporizing|<a href='/digital-beehive/toc/toc2_186/'>1001 [Politick]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3066/'>politick</a>"
-insertion_xref: 
-insertion: 
-item: "#item-654f9212d"
+xref: "<a href='/digital-beehive/toc/toc2_276/'>1414 [Seven Planets]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3033/'>planets</a>"
+item: "#item-eb185b5f6"
 unparsed: 
-line: 'Entry: Politick|Topic: Politick|Xref: Temporizing|Xref: 1001 [Politick]|Index:
-  politick|#item-654f9212d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,3109,510/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528373442736
-order: '710'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,3109,510/full/0/default.jpg
-label: Politick
-location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+line: 'Entry: Planets|Topic: Planets|Xref: 1414 [Seven Planets]|Index: planets| #item-eb185b5f6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,4575,2974,512/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528334951921
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,4575,600,180/250,/0/default.jpg
+label: Planets
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '063'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,30 +2,29 @@
 pid: index_3722
 volume: Volume 3
 image_number: '43'
-head: sin venial
-entry: "<a href='/digital-beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>|<a
-  href='/digital-beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
+head: sin always
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Continuance]</a>|<a href='/digital-beehive/toc/toc2_419/'>2427
+  [to Sin as long as we live]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e4308b335"
+item: "#item-62cda65a6"
 unparsed: 
-line: 'Head: sin venial|Entry: 335 [mortal & venial sins]|Entry: 546 [WORD_MISSING]|#item-e4308b335'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/full/0/default.jpg
+line: 'Head: sin always|Entry: 1700 [Continuance]|Entry: 2427 [to Sin as long as we
+  live]|#item-62cda65a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/180,3180,735,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582590879
-order: '3722'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/full/0/default.jpg
-label: sin venial
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582631573
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/180,3180,735,127/150,/0/default.jpg
+label: sin always
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0969'
 layout: index_item
 collection: index4
 ---

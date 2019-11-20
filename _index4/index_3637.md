@@ -2,29 +2,27 @@
 pid: index_3637
 volume: Volume 3
 image_number: '42'
-head: sensible
-entry: "<a href='/digital-beehive/toc/toc2_207/'>1070 [Inkurible]</a>"
+head: sentences
+entry: "<a href='/digital-beehive/num2/num_0426/'>360 [a Sentence]</a>"
 topic: 
 first_letter: S
+page: 
+add: "<a href='/digital-beehive/index3/index_2134/'>Judgmt</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-988b9fb6c"
+item: "#item-78e9d49cc"
 unparsed: 
-line: 'Head: sensible|Entry: 1070 [Inkurible]|#item-988b9fb6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/446,3351,551,138/full/0/default.jpg
+line: 'Head: sentences|Entry: 360 [a Sentence]|Add: Judgmt|#item-78e9d49cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571694513
-order: '3637'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/446,3351,551,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/446,3351,551,138/full/0/default.jpg
-label: sensible
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571736653
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,3451,511,206/150,/0/default.jpg
+label: sentences
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0884'
 layout: index_item
 collection: index4
 ---

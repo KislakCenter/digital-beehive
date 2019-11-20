@@ -2,29 +2,27 @@
 pid: index_4532
 volume: Volume 3
 image_number: '52'
-head: whetstone
-entry: "<a href='/digital-beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
+head: a little while
+entry: "<a href='/digital-beehive/toc/toc2_204/'>1053 [Sometimes]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-be0c7d747"
+item: "#item-39662508b"
 unparsed: 
-line: 'Head: whetstone|Entry: 1284 [a Whetstone]|#item-be0c7d747'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/full/0/default.jpg
+line: 'Head: a little while|Entry: 1053 [Sometimes]|#item-39662508b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970165716
-order: '4532'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/full/0/default.jpg
-label: whetstone
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970203029
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1089,3448,633,134/150,/0/default.jpg
+label: a little while
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '499'
 layout: index_item
 collection: index5
 ---

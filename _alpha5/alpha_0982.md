@@ -1,30 +1,30 @@
 ---
 pid: alpha_0982
 volume: Volume 2
-image_number: '61'
+image_number: '60'
 head: 
-entry: Vinegar
-topic: Vinegar
-first_letter: U/V
-xref: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Vinegar]</a>"
-see: 
+entry: Truth
+topic: Truth
+first_letter: T
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4335/'>vinegar</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e74ef2a62"
+xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>Falshood</a>|<a href='/digital-beehive/alpha3/alpha_0537/'>Lie</a>|<a
+  href='/digital-beehive/toc/toc2_244/'>1253 [Truth]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4256/'>truth</a>"
+item: "#item-84ac84690"
 unparsed: 
-line: 'Entry: Vinegar|Topic: Vinegar|Xref: 1649 [Vinegar]|Index: vinegar|#item-e74ef2a62'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,2967,205/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529003407323
-order: '982'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,2967,205/full/0/default.jpg
-label: Vinegar
-location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+line: 'Entry: Truth|Topic: Truth|Xref: Falshood|Xref: Lie|Xref: 1253 [Truth]|Index:
+  truth|#item-84ac84690'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,4101,2923,981/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529610615624
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,4101,600,180/250,/0/default.jpg
+label: Truth
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+num_match: 
+order: '047'
 layout: alpha_item
 collection: alpha5
 ---

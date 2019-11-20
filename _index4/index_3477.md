@@ -2,29 +2,27 @@
 pid: index_3477
 volume: Volume 3
 image_number: '40'
-head: Sabbath Journey
-entry: "<a href='/digital-beehive/toc/toc2_319/'>1624 [Mile]</a>"
+head: sack
+entry: 4637 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-73c99c851"
+item: "#item-5c00da219"
 unparsed: 
-line: 'Head: Sabbath Journey|Entry: 1624 [Mile]|#item-73c99c851'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1815,1123,507,145/full/0/default.jpg
+line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234555714
-order: '3477'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1815,1123,507,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1815,1123,507,145/full/0/default.jpg
-label: Sabbath Journey
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/150,/0/default.jpg
+label: sack
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0724'
 layout: index_item
 collection: index4
 ---

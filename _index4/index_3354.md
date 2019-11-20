@@ -2,29 +2,27 @@
 pid: index_3354
 volume: Volume 3
 image_number: '39'
-head: remark
-entry: "<a href='/digital-beehive/toc/toc2_288/'>1472 [Remarkably]</a>"
+head: remedy
+entry: "<a href='/digital-beehive/toc/toc2_319/'>1625 [Remedy]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ecd8cc9bc"
+item: "#item-72f24d625"
 unparsed: 
-line: 'Head: remark|Entry: 1472 [Remarkably]|#item-ecd8cc9bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,388,609,138/full/0/default.jpg
+line: 'Head: remedy|Entry: 1625 [Remedy]|#item-72f24d625'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,474,537,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468851053
-order: '3354'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,388,609,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,388,609,138/full/0/default.jpg
-label: remark
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468873277
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,474,537,160/150,/0/default.jpg
+label: remedy
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0601'
 layout: index_item
 collection: index4
 ---

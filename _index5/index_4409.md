@@ -1,30 +1,28 @@
 ---
 pid: index_4409
 volume: Volume 3
-image_number: '50'
-head: unprofitable
-entry: "<a href='/digital-beehive/alpha5/alpha_0997/'>a</a>"
+image_number: '51'
+head: unpunished
+entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Want of Punishmt]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-65eaa3e10"
+item: "#item-9377cfc08"
 unparsed: 
-line: 'Head: unprofitable|Entry: a|#item-65eaa3e10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1105,3507,515,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560883145804
-order: '4409'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1105,3507,515,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1105,3507,515,129/full/0/default.jpg
-label: unprofitable
-location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+line: 'Head: unpunished|Entry: 1192 [Want of Punishmt]|#item-9377cfc08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,261,572,200/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645269209
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,261,572,200/150,/0/default.jpg
+label: unpunished
+location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '376'
 layout: index_item
 collection: index5
 ---

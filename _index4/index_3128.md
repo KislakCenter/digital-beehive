@@ -2,29 +2,27 @@
 pid: index_3128
 volume: Volume 3
 image_number: '36'
-head: preposterous
-entry: "<a href='/digital-beehive/toc/toc2_251/'>1287 [Preposterously]</a>"
+head: prerogative
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3167/'>priviledge</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-410a33f14"
+item: "#item-30cb68a9c"
 unparsed: 
-line: 'Head: preposterous|Entry: 1287 [Preposterously]|#item-410a33f14'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1839,2903,656,134/full/0/default.jpg
+line: 'Head: prerogative|See: priviledge|#item-30cb68a9c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1841,3018,713,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440865080
-order: '3128'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1839,2903,656,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1839,2903,656,134/full/0/default.jpg
-label: preposterous
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440897988
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1841,3018,713,186/150,/0/default.jpg
+label: prerogative
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0376'
 layout: index_item
 collection: index4
 ---

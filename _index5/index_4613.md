@@ -2,29 +2,27 @@
 pid: index_4613
 volume: Volume 3
 image_number: '53'
-head: Gods Work
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
+head: Works without faith
+entry: "<a href='/digital-beehive/num2/num_0536/'>433 [Works without faith]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4fe048e48"
+item: "#item-94e8fbe44"
 unparsed: 
-line: 'Head: Gods Work|Entry: 1057 [God''s work]|#item-4fe048e48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/full/0/default.jpg
+line: 'Head: Works without faith|Entry: 433 [Works without faith]|#item-94e8fbe44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797099869
-order: '4613'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/full/0/default.jpg
-label: Gods Work
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797221346
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/150,/0/default.jpg
+label: Works without faith
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '580'
 layout: index_item
 collection: index5
 ---

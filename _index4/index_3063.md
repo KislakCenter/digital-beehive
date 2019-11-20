@@ -2,29 +2,27 @@
 pid: index_3063
 volume: Volume 3
 image_number: '36'
-head: point
-entry: 739 [PAGE_MISSING]
+head: poison
+entry: "<a href='/digital-beehive/toc/toc2_302/'>1540 [Poisoning]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4310/'>venom</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-babca6d2a"
+item: "#item-96a984c27"
 unparsed: 
-line: 'Head: point|Entry: 739 [PAGE_MISSING]|#item-babca6d2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/407,2823,463,155/full/0/default.jpg
+line: 'Head: poison|See: venom|Entry: 1540 [Poisoning]|#item-96a984c27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437958169
-order: '3063'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/407,2823,463,155/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/407,2823,463,155/full/0/default.jpg
-label: point
+annotation_uri: http://dev.llgc.org.uk/annotation/1548437996503
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/150,/0/default.jpg
+label: poison
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0311'
 layout: index_item
 collection: index4
 ---

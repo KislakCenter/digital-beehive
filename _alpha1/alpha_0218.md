@@ -3,30 +3,27 @@ pid: alpha_0218
 volume: Volume 1
 image_number: '448'
 head: 
-entry: Degree
-topic: Degree
+entry: Deformity
+topic: Deformity
 first_letter: D
-xref: "<a href='/digital-beehive/alpha4/alpha_0737/'>Progress</a>|<a href='/digital-beehive/toc/toc2_269/'>1377
-  [Great with young]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0994/'>degree</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b4234514f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0069/'>Beauty</a>|4571 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_0991/'>deformity</a>"
+item: "#item-15a565036"
 unparsed: 
-line: 'Entry: Degree|Topic: Degree|Xref: Progress|Xref: 1377 [Great with young]|Index:
-  degree|#item-b4234514f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,3742,2966,415/full/0/default.jpg
+line: 'Entry: Deformity|Topic: Deformity|Xref: Beauty|Xref: 4571 [PAGE_MISSING]|Index:
+  deformity|#item-15a565036'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,2943,541/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507576466054
-order: '218'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,3742,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,3742,2966,415/full/0/default.jpg
-label: Degree
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576420785
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,600,180/250,/0/default.jpg
+label: Deformity
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+num_match: 
+order: '217'
 layout: alpha_item
 collection: alpha1
 ---

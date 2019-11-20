@@ -1,32 +1,30 @@
 ---
 pid: alpha_0872
 volume: Volume 2
-image_number: '53'
+image_number: '52'
 head: 
-entry: Singing
-topic: Singing
+entry: Silence
+topic: Silence
 first_letter: S
-xref: "<a href='/digital-beehive/alpha3/alpha_0616/'>Musick</a>|<a href='/digital-beehive/alpha4/alpha_0751/'>Psalm</a>|<a
-  href='/digital-beehive/toc/toc2_118/'>483 [Singing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3727/'>Singing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d8a54e24a"
+xref: "<a href='/digital-beehive/alpha4/alpha_0873/'>Silence, continued</a>|<a href='/digital-beehive/num2/num_0539/'>436
+  [Silence]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3707/'>silence</a>"
+item: "#item-0e7ccb2d3"
 unparsed: 
-line: 'Entry: Singing|Topic: Singing|Xref: Musick|Xref: Psalm|Xref: 483 [Singing]|Index:
-  Singing|#item-d8a54e24a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,3078,576/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532023626262
-order: '872'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,3078,576/full/0/default.jpg
-label: Singing
-location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+line: 'Entry: Silence|Topic: Silence|Xref: Silence, continued|Xref: 436 [Silence]|Index:
+  silence|#item-0e7ccb2d3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/801,4548,2945,540/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803811573
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/801,4548,600,180/250,/0/default.jpg
+label: Silence
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '224'
 layout: alpha_item
 collection: alpha4
 ---

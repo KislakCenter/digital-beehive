@@ -2,29 +2,27 @@
 pid: index_3840
 volume: Volume 3
 image_number: '44'
-head: spie
-entry: 825 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_294/'>1502 [Spy]</a>
+head: Turkish Spie
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Mamut]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ad7f17545"
+item: "#item-fa0d4bb10"
 unparsed: 
-line: 'Head: spie|Entry: 825 [PAGE_MISSING]|Entry: 1502 [Spy]|#item-ad7f17545'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/full/0/default.jpg
+line: 'Head: Turkish Spie|Entry: 1317 [Mamut]|#item-fa0d4bb10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2663,516,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942325346
-order: '3840'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1095,2538,533,109/full/0/default.jpg
-label: spie
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942413163
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2663,516,105/150,/0/default.jpg
+label: Turkish Spie
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1087'
 layout: index_item
 collection: index4
 ---

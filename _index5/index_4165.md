@@ -2,29 +2,30 @@
 pid: index_4165
 volume: Volume 3
 image_number: '48'
-head: toad
-entry: 
+head: tobacco
+entry: "<a href='/digital-beehive/alpha5/alpha_0960/'>a</a>|<a href='/digital-beehive/toc/toc2_174/'>935
+  [Tobacco]</a>|<a href='/digital-beehive/toc/toc2_278/'>1423 [Tobacco]</a>|4585 [PAGE_MISSING]"
 topic: 
 first_letter: T
-xref: 
-see: "<a href='/digital-beehive/index2/index_1551/'>frog</a>"
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>|<a href='/digital-beehive/toc/toc1_092/'>p.42
+  [Image 1.102]</a>"
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-999c97a00"
+item: "#item-cc0206d28"
 unparsed: 
-line: 'Head: toad|See: frog|#item-999c97a00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/full/0/default.jpg
+line: 'Head: tobacco|Page: p.38 [Image 1.98]|Page: p.42 [Image 1.102]|Entry: a|Entry:
+  935 [Tobacco]|Entry: 1423 [Tobacco]|Entry: 4585 [PAGE_MISSING]|#item-cc0206d28|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,395,623,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844746251
-order: '4165'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/full/0/default.jpg
-label: toad
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844879878
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,395,623,157/150,/0/default.jpg
+label: tobacco
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '132'
 layout: index_item
 collection: index5
 ---

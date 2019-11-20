@@ -1,32 +1,30 @@
 ---
 pid: alpha_0784
 volume: Volume 2
-image_number: '47'
+image_number: '46'
 head: 
-entry: Repentance
-topic: Repentance
+entry: Regarding of persons
+topic: Regarding of persons
 first_letter: R
-xref: "<a href='/digital-beehive/alpha3/alpha_0461/'>Impenitence</a>|<a href='/digital-beehive/toc/toc2_092/'>307
-  \ [Repentance]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3370/'>repentance</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7b02c101a"
+xref: "<a href='/digital-beehive/alpha4/alpha_0684/'>Partiality</a>|<a href='/digital-beehive/toc/toc2_276/'>1412
+  [Excellent]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3338/'>regarding of persons</a>"
+item: "#item-5b988b86f"
 unparsed: 
-line: 'Entry: Repentance|Topic: Repentance|Xref: Impenitence|Xref: 307  [Repentance]|Index:
-  repentance|#item-7b02c101a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,3036,754/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528745472758
-order: '784'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,3036,754/full/0/default.jpg
-label: Repentance
-location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+line: 'Entry: Regarding of persons|Topic: Regarding of persons|Xref: Partiality|Xref:
+  1412 [Excellent]|Index: regarding of persons|#item-5b988b86f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,2905,513/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528740570239
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/809,3400,600,180/250,/0/default.jpg
+label: Regarding of persons
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '137'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,30 +2,27 @@
 pid: index_3620
 volume: Volume 3
 image_number: '42'
-head: Self knowledge
-entry: "<a href='/digital-beehive/alpha4/alpha_0843/'>a</a>|<a href='/digital-beehive/toc/toc2_079/'>210
-  [Self-knowledge]</a>"
+head: Self learning
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1573 [Self learning]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b3db62192"
+item: "#item-bcaff5674"
 unparsed: 
-line: 'Head: Self knowledge|Entry: a|Entry: 210 [Self-knowledge]|#item-b3db62192'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/full/0/default.jpg
+line: 'Head: Self learning|Entry: 1573 [Self learning]|#item-bcaff5674'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/372,1805,642,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244627402
-order: '3620'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/full/0/default.jpg
-label: Self knowledge
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244659279
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/372,1805,642,111/150,/0/default.jpg
+label: Self learning
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0867'
 layout: index_item
 collection: index4
 ---

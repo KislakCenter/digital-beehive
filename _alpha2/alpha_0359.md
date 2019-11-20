@@ -3,31 +3,28 @@ pid: alpha_0359
 volume: Volume 2
 image_number: '14'
 head: 
-entry: Gift
-topic: Gift
+entry: Holy Ghost
+topic: Holy Ghost
 first_letter: G
-xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha3/alpha_0530/'>liberality</a>|<a
-  href='/digital-beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/digital-beehive/toc/toc2_121/'>506
-  [Gift]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1611/'>gift</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a7f1c4050"
+xref: "<a href='/digital-beehive/alpha4/alpha_0902/'>Spirit</a>|<a href='/digital-beehive/toc/toc2_196/'>1012
+  [h. Ghost]</a>|<a href='/digital-beehive/alpha5/alpha_1001/'>Unction</a>|Inspiration"
+see: 
+index: "<a href='/digital-beehive/index2/index_1606/'>h. Ghost</a>"
+item: "#item-0bb65b876"
 unparsed: 
-line: 'Entry: Gift|Topic: Gift|XRef: alms|XRef: liberality|XRef: Bribe|XRef: 506 [Gift]|Index:
-  gift|#item-a7f1c4050'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,1943,3037,517/full/0/default.jpg
+line: 'Entry: Holy Ghost|Topic: Holy Ghost|Xref: Spirit|Xref: 1012 [h. Ghost]|Xref:
+  Unction|Xref: Inspiration|Index: h. Ghost|#item-0bb65b876'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/757,1440,2995,633/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564601739841
-order: '359'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,1943,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,1943,3037,517/full/0/default.jpg
-label: Gift
+annotation_uri: http://dev.llgc.org.uk/annotation/1564601564225
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/757,1440,600,180/250,/0/default.jpg
+label: Holy Ghost
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
+num_match: 
+order: '090'
 layout: alpha_item
 collection: alpha2
 ---

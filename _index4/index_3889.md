@@ -2,29 +2,27 @@
 pid: index_3889
 volume: Volume 3
 image_number: '45'
-head: to stay
-entry: 738 [PAGE_MISSING]
+head: stay away
+entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [To Stay away]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d29e5720f"
+item: "#item-affbeca28"
 unparsed: 
-line: 'Head: to stay|Entry: 738 [PAGE_MISSING]|#item-d29e5720f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,1054,360,84/full/0/default.jpg
+line: 'Head: stay away|Entry: 887 [To Stay away]|#item-affbeca28'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,1139,410,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219003691
-order: '3889'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,1054,360,84/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/217,1054,360,84/full/0/default.jpg
-label: to stay
+annotation_uri: http://dev.llgc.org.uk/annotation/1530219054884
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,1139,410,88/150,/0/default.jpg
+label: stay away
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1136'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,27 @@ pid: alpha_0943
 volume: Volume 2
 image_number: '58'
 head: 
-entry: Thought
-topic: Thought
+entry: Temptation, continued
+topic: Temptation, continued
 first_letter: T
-xref: "<a href='/digital-beehive/alpha3/alpha_0456/'>Imagination</a>|<a href='/digital-beehive/alpha3/alpha_0579/'>meditation</a>|<a
-  href='/digital-beehive/toc/toc2_182/'>982 [Thoughts]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4127/'>thoughts</a>"
-insertion_xref: 
-insertion: 
-item: "#item-de3bd0f07"
+xref: "<a href='/digital-beehive/alpha5/alpha_0942/'>Temptation</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
+item: 
 unparsed: 
-line: 'Entry: Thought|Topic: Thought|Xref: Imagination|Xref: meditation|Xref: 982
-  [Thoughts]|Index: thoughts|#item-de3bd0f07'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,2998,688/full/0/default.jpg
+line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptation|Index:
+  temptation'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/752,194,3061,216/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113686572
-order: '943'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,2998,688/full/0/default.jpg
-label: Thought
+annotation_uri: http://dev.llgc.org.uk/annotation/1573246855240
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/752,194,600,180/250,/0/default.jpg
+label: Temptation, continued
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+num_match: 
+order: '008'
 layout: alpha_item
 collection: alpha5
 ---

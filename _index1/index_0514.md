@@ -2,29 +2,28 @@
 pid: index_0514
 volume: Volume 3
 image_number: '11'
-head: calvinists
-entry: 798 [PAGE_MISSING]
+head: calumny
+entry: "<a href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>|<a href='/digital-beehive/toc/toc2_370/'>2050
+  [Slander]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d9a4a2198"
+item: "#item-d3e723fa6"
 unparsed: 
-line: 'Head: calvinists|Entry: 798 [PAGE_MISSING]|#item-d9a4a2198'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1566,973,563,123/full/0/default.jpg
+line: 'Head: calumny|Entry: 653 [Slander]|Entry: 2050 [Slander]|#item-d3e723fa6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1560,1099,679,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494674330
-order: '514'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1566,973,563,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1566,973,563,123/full/0/default.jpg
-label: calvinists
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494771488
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1560,1099,679,132/150,/0/default.jpg
+label: calumny
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0513'
 layout: index_item
 collection: index1
 ---

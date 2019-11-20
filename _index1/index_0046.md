@@ -2,29 +2,27 @@
 pid: index_0046
 volume: Volume 3
 image_number: '7'
-head: adoption
-entry: 
+head: advantage
+entry: "<a href='/digital-beehive/alpha1/alpha_0008/'>a</a>"
 topic: 
 first_letter: A
-xref: 
-see: Sonship
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6e018af21"
+item: "#item-72af994fe"
 unparsed: 
-line: 'Head: adoption|See: Sonship|#item-6e018af21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/905,580,631,133/full/0/default.jpg
+line: 'Head: advantage|Entry: a|#item-72af994fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/878,681,468,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760924482
-order: '46'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/905,580,631,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/905,580,631,133/full/0/default.jpg
-label: adoption
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760966826
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/878,681,468,128/150,/0/default.jpg
+label: advantage
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0045'
 layout: index_item
 collection: index1
 ---

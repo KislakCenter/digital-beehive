@@ -3,28 +3,26 @@ pid: alpha_0512
 volume: Volume 2
 image_number: '26'
 head: 
-entry: Last time
-topic: Last time
+entry: Last things
+topic: Last things
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2206/'>last time</a>"
-insertion_xref: 
-insertion: 
-item: "#item-261b9f1f0"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2205/'>last things</a>"
+item: "#item-1933cda88"
 unparsed: 
-line: 'Entry: Last time|Topic: Last time|Index: last time|#item-261b9f1f0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,2788,2987,575/full/0/default.jpg
+line: 'Entry: Last things|Topic: Last things|Index: last things|#item-1933cda88'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/754,2510,3006,343/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766626676
-order: '512'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,2788,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,2788,2987,575/full/0/default.jpg
-label: Last time
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766586696
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/754,2510,600,180/250,/0/default.jpg
+label: Last things
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+num_match: 
+order: '068'
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,29 +3,28 @@ pid: alpha_0729
 volume: Volume 2
 image_number: '42'
 head: 
-entry: Prison
-topic: Prison
+entry: Prevention
+topic: Prevention
 first_letter: P
-xref: Jailer|Workhouse|<a href='/digital-beehive/toc/toc2_132/'>572 [Prison]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3164/'>prison</a>"
-insertion_xref: 
-insertion: 
-item: "#item-254f3c14e"
+xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>First</a>|<a href='/digital-beehive/toc/toc2_218/'>1122
+  [Preventing]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3148/'>prevention</a>"
+item: "#item-f2eea9052"
 unparsed: 
-line: 'Entry: Prison|Topic: Prison|Xref: Jailer|Xref: Workhouse|Xref: 572 [Prison]|Index:
-  prison|#item-254f3c14e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/838,4595,2929,470/full/0/default.jpg
+line: 'Entry: Prevention|Topic: Prevention|Xref: First|Xref: 1122 [Preventing]|Index:
+  prevention|#item-f2eea9052'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,2498,2969,521/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565024353997
-order: '729'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/838,4595,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/838,4595,2929,470/full/0/default.jpg
-label: Prison
+annotation_uri: http://dev.llgc.org.uk/annotation/1565024178679
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,2498,600,180/250,/0/default.jpg
+label: Prevention
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+num_match: 
+order: '082'
 layout: alpha_item
 collection: alpha4
 ---

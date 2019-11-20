@@ -2,29 +2,29 @@
 pid: index_4562
 volume: Volume 3
 image_number: '53'
-head: wine press
-entry: 
+head: artificial Wines
+entry: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
+  [Artificial Wines]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a958593d0"
+item: "#item-7b85a04f4"
 unparsed: 
-line: 'Head: wine press|Page: p.38 [Image 1.98]|#item-a958593d0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/full/0/default.jpg
+line: 'Head: artificial Wines|Entry: 590 [artificial Wines]|Entry: 1940 [Artificial
+  Wines]|#item-7b85a04f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791253082
-order: '4562'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/full/0/default.jpg
-label: wine press
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791321924
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/150,/0/default.jpg
+label: artificial Wines
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '529'
 layout: index_item
 collection: index5
 ---

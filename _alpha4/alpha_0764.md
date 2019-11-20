@@ -3,28 +3,27 @@ pid: alpha_0764
 volume: Volume 2
 image_number: '45'
 head: 
-entry: Rain
-topic: Rain
-first_letter: R
-xref: "<a href='/digital-beehive/toc/toc2_312/'>1588 [Rain]</a>"
-see: 
+entry: winter Quarters
+topic: winter Quarters
+first_letter: Q
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3284/'>rain</a>"
-insertion_xref: 
-insertion: 
-item: "#item-96b1db4e3"
+xref: "<a href='/digital-beehive/toc/toc2_335/'>1708 [quarter granted]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3254/'>quarter</a>"
+item: "#item-35fe5d3ef"
 unparsed: 
-line: 'Entry: Rain|Topic: Rain|Xref: 1588 [Rain]|Index: rain|#item-96b1db4e3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,3033,368/full/0/default.jpg
+line: 'Entry: winter Quarters|Topic: winter Quarters |Xref: 1708 [quarter granted]|Index:
+  quarter|#item-35fe5d3ef'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,3063,403/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528397897586
-order: '764'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,3033,368/full/0/default.jpg
-label: Rain
+annotation_uri: http://dev.llgc.org.uk/annotation/1565103405113
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,600,180/250,/0/default.jpg
+label: winter Quarters
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '117'
 layout: alpha_item
 collection: alpha4
 ---

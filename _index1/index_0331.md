@@ -2,29 +2,27 @@
 pid: index_0331
 volume: Volume 3
 image_number: '9'
-head: bedlam
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Bedlam]</a>"
+head: "[:18.]"
+entry: 
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-255572f61"
-unparsed: 
-line: 'Head: bedlam|Entry: 1317 [Bedlam]|#item-255572f61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1532,2639,462,110/full/0/default.jpg
+item: "#item-e054b74df"
+unparsed: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+line: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1410,2729,170,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531145451168
-order: '331'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1532,2639,462,110/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1532,2639,462,110/full/0/default.jpg
-label: bedlam
+annotation_uri: http://dev.llgc.org.uk/annotation/1559591394306
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1410,2729,170,121/150,/0/default.jpg
+label: "[:18.]"
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>Barclay</a>"
+order: '0330'
 layout: index_item
 collection: index1
 ---

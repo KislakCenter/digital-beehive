@@ -2,30 +2,27 @@
 pid: index_4679
 volume: Volume 3
 image_number: '54'
-head: holiness of places and times
-entry: "<a href='/digital-beehive/toc/toc2_356/'>1932 [Holiness of]</a>"
+head: Cures. curable
+entry: "<a href='/digital-beehive/toc/toc2_363/'>1982 [Cures]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:15.]"
-item: "#item-069e1aadb"
-unparsed: 
-line: 'Type: Index|Insertion: [:15.]|Head: holiness of places and times|Entry: 1932
-  [Holiness of]|#item-069e1aadb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/396,2321,645,156/full/0/default.jpg
+item: "#item-44350ab74"
+unparsed: Type Index|Insertion [:16.]
+line: 'Type: Index|Insertion: [:16.]|Head: Cures. curable|Entry: 1982 [Cures]|#item-44350ab74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/379,2435,507,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560868970057
-order: '4679'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/396,2321,645,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/396,2321,645,156/full/0/default.jpg
-label: holiness of places and times
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869044221
+insertion: "[:16.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/379,2435,507,162/150,/0/default.jpg
+label: Cures. curable
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '646'
 layout: index_item
 collection: index5
 ---

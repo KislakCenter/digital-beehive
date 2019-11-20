@@ -1,33 +1,30 @@
 ---
 pid: alpha_0879
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Slowness
-topic: Slowness
+entry: Sincerity
+topic: Sincerity
 first_letter: S
-xref: "<a href='/digital-beehive/alpha5/alpha_0956/'>Too slow</a>|<a href='/digital-beehive/alpha1/alpha_0218/'>Degree</a>|<a
-  href='/digital-beehive/alpha3/alpha_0509/'>Last</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
-  [Slow-footed]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3757/'>slowness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-39c9d131e"
+xref: "<a href='/digital-beehive/alpha4/alpha_0876/'>Simplicity</a>|<a href='/digital-beehive/toc/toc2_257/'>1317
+  [Sincerity]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3724/'>sincerity</a>"
+item: "#item-d45c9a6f6"
 unparsed: 
-line: 'Entry: Slowness|Topic: Slowness|Xref: Too slow|Xref: Degree|Xref: Last|Xref:
-  1089 [Slow-footed]|Index: slowness|#item-39c9d131e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,2997,644/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532448792857
-order: '879'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,2997,644/full/0/default.jpg
-label: Slowness
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Sincerity|Topic: Sincerity|Xref: Simplicity|Xref: 1317 [Sincerity]|Index:
+  sincerity|#item-d45c9a6f6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/311,2357,3047,505/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023565228
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/311,2357,600,180/250,/0/default.jpg
+label: Sincerity
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '231'
 layout: alpha_item
 collection: alpha4
 ---

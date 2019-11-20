@@ -3,28 +3,26 @@ pid: alpha_0251
 volume: Volume 1
 image_number: '451'
 head: 
-entry: Diversity
-topic: Diversity
+entry: Division
+topic: Division
 first_letter: D
-xref: "<a href='/digital-beehive/alpha1/alpha_0233/'>Difference</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1112/'>diversity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c1e8cd7f5"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index1/index_1118/'>division</a>"
+item: "#item-f01b54131"
 unparsed: 
-line: 'Entry: Diversity|Topic: Diversity|Xref: Difference|Index: diversity|#item-c1e8cd7f5'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1436,2981,184/full/0/default.jpg
+line: 'Entry: Division|Topic: Division|Index: division|#item-f01b54131'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/412,1173,3038,286/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508177144855
-order: '251'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1436,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1436,2981,184/full/0/default.jpg
-label: Diversity
+annotation_uri: http://dev.llgc.org.uk/annotation/1508176698515
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/412,1173,600,180/250,/0/default.jpg
+label: Division
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '250'
 layout: alpha_item
 collection: alpha1
 ---

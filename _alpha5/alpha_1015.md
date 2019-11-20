@@ -1,30 +1,28 @@
 ---
 pid: alpha_1015
 volume: Volume 2
-image_number: '64'
+image_number: '63'
 head: 
-entry: Water
-topic: Water
-first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_304/'>1546 [Water]</a>"
-see: 
+entry: Utility
+topic: Utility
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4492/'>water</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5bb81e6fc"
+xref: "<a href='/digital-beehive/alpha4/alpha_0740/'>Profit</a>|Use"
+see: 
+index: "<a href='/digital-beehive/index5/index_4449/'>utility</a>"
+item: "#item-c2d0a49aa"
 unparsed: 
-line: 'Entry: Water|Topic: Water|Xref: 1546 [Water]|Index: water|#item-5bb81e6fc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,2971,521/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529523586023
-order: '1015'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,2971,521/full/0/default.jpg
-label: Water
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+line: 'Entry: Utility|Topic: Utility|Xref: Profit|Xref: Use|Index: utility|#item-c2d0a49aa'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/309,1624,3046,367/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528915096703
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/309,1624,600,180/250,/0/default.jpg
+label: Utility
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '080'
 layout: alpha_item
 collection: alpha5
 ---

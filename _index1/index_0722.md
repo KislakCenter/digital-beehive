@@ -6,25 +6,23 @@ head: collections of friends books
 entry: 
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc1_107/'>p.56 [Image 1.117]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_107/'>p.56 [Image 1.117]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-4832b3ed5"
 unparsed: 
 line: 'Head: collections of friends books|Page: p.56 [Image 1.117]|#item-4832b3ed5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536609745411
-order: '722'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,282,716,135/full/0/default.jpg
 label: collections of friends books
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+insertion_xref: 
+order: '0721'
 layout: index_item
 collection: index1
 ---

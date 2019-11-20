@@ -2,29 +2,28 @@
 pid: index_3096
 volume: Volume 3
 image_number: '36'
-head: gun pouder
-entry: "<a href='/digital-beehive/toc/toc2_234/'>1203 [Pistol Pouder]</a>"
+head: poverty
+entry: "<a href='/digital-beehive/alpha4/alpha_0720/'>a</a>|<a href='/digital-beehive/toc/toc2_217/'>1117
+  [Poverty]</a>|<a href='/digital-beehive/toc/toc2_410/'>2360 [Poverty]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-74ded3cf4"
+item: "#item-bbd440016"
 unparsed: 
-line: 'Head: gun pouder|Entry: 1203 [Pistol Pouder]|#item-74ded3cf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,2904,648,179/full/0/default.jpg
+line: 'Head: poverty|Entry: a|Entry: 1117 [Poverty]|Entry: 2360 [Poverty]|#item-bbd440016'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1152,3036,708,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439163192
-order: '3096'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,2904,648,179/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,2904,648,179/full/0/default.jpg
-label: gun pouder
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439195017
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1152,3036,708,169/150,/0/default.jpg
+label: poverty
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0344'
 layout: index_item
 collection: index4
 ---

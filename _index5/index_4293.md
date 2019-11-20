@@ -2,29 +2,27 @@
 pid: index_4293
 volume: Volume 3
 image_number: '49'
-head: valley
-entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Valley]</a>"
+head: Vandals
+entry: "<a href='/digital-beehive/toc/toc2_294/'>1502 [Vandals]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e52c8434c"
+item: "#item-d5157bfe5"
 unparsed: 
-line: 'Head: valley|Entry: 686 [Valley]|#item-e52c8434c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/941,931,361,125/full/0/default.jpg
+line: 'Head: Vandals|Entry: 1502 [Vandals]|#item-d5157bfe5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657711316
-order: '4293'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/941,931,361,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/941,931,361,125/full/0/default.jpg
-label: valley
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657769070
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/150,/0/default.jpg
+label: Vandals
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '260'
 layout: index_item
 collection: index5
 ---

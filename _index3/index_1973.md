@@ -2,29 +2,27 @@
 pid: index_1973
 volume: Volume 3
 image_number: '25'
-head: of importance
-entry: 855 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_428/'>4490 [Considerable]</a>
+head: impostumes
+entry: "<a href='/digital-beehive/toc/toc2_136/'>597 [Impostumes]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2b67f7bd7"
+item: "#item-bd0bb1e85"
 unparsed: 
-line: 'Head: of importance|Entry: 855 [PAGE_MISSING]|Entry: 4490 [Considerable]|#item-2b67f7bd7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/861,1973,715,122/full/0/default.jpg
+line: 'Head: impostumes|Entry: 597 [Impostumes]|#item-bd0bb1e85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/860,2197,476,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666360688
-order: '1973'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/861,1973,715,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/861,1973,715,122/full/0/default.jpg
-label: of importance
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666640783
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/860,2197,476,147/150,/0/default.jpg
+label: impostumes
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '054'
 layout: index_item
 collection: index3
 ---

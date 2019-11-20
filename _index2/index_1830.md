@@ -2,29 +2,27 @@
 pid: index_1830
 volume: Volume 3
 image_number: '24'
-head: hierarchy
-entry: "<a href='/digital-beehive/toc/toc2_342/'>1767 [Hierarchy]</a>"
+head: hieroglyphicks
+entry: "<a href='/digital-beehive/alpha2/alpha_0419/'>a</a>"
 topic: 
 first_letter: H
-xref: 
-see: eccl. discipl
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e91563197"
+item: "#item-9de07e679"
 unparsed: 
-line: 'Head: hierarchy|See: eccl. discipl|Entry: 1767 [Hierarchy]|#item-e91563197'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/422,1806,715,176/full/0/default.jpg
+line: 'Head: hieroglyphicks|Entry: a|#item-9de07e679'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/434,1948,551,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576467701
-order: '1830'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/422,1806,715,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/422,1806,715,176/full/0/default.jpg
-label: hierarchy
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576502178
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/434,1948,551,148/150,/0/default.jpg
+label: hieroglyphicks
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '649'
 layout: index_item
 collection: index2
 ---

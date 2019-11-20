@@ -2,29 +2,27 @@
 pid: index_0276
 volume: Volume 3
 image_number: '9'
-head: balaam
-entry: "<a href='/digital-beehive/toc/toc2_320/'>1627 [Balaam]</a>"
+head: baldness
+entry: "<a href='/digital-beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
 topic: 
 first_letter: B
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-40cab4d3b"
+item: "#item-19fb3de50"
 unparsed: 
-line: 'Head: balaam|Entry: 1627 [Balaam]|#item-40cab4d3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/913,809,426,128/full/0/default.jpg
+line: 'Head: baldness|Page: p.43 [Image 1.103]|Entry: a|Entry: 4831 [PAGE_MISSING]|#item-19fb3de50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403050457
-order: '276'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/913,809,426,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/913,809,426,128/full/0/default.jpg
-label: balaam
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403183123
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/150,/0/default.jpg
+label: baldness
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0275'
 layout: index_item
 collection: index1
 ---

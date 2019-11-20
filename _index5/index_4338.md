@@ -2,29 +2,27 @@
 pid: index_4338
 volume: Volume 3
 image_number: '49'
-head: viper
-entry: "<a href='/digital-beehive/toc/toc2_302/'>1539 [Serpents]</a>"
+head: virgil
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1788 [Virgil's]</a>"
 topic: 
 first_letter: U/V
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a0542a840"
+item: "#item-7a93fc96b"
 unparsed: 
-line: 'Head: viper|Page: p.37 [Image 1.97]|Entry: 1539 [Serpents]|#item-a0542a840'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1649,2075,513,143/full/0/default.jpg
+line: 'Head: virgil|Entry: 1788 [Virgil''s]|#item-7a93fc96b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1661,2270,425,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660929895
-order: '4338'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1649,2075,513,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1649,2075,513,143/full/0/default.jpg
-label: viper
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660984866
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1661,2270,425,120/150,/0/default.jpg
+label: virgil
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '305'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_0830
 volume: Volume 3
 image_number: '14'
-head: contrariety. ècontrà
-entry: "<a href='/digital-beehive/toc/toc2_153/'>690 [Contrariety]</a>"
+head: contribution
+entry: 
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4068/'>tax</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1a4f8aca9"
+item: "#item-4dbaaf9d5"
 unparsed: 
-line: 'Head: contrariety. ècontrà|Entry: 690 [Contrariety]|#item-1a4f8aca9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/full/0/default.jpg
+line: 'Head: contribution|See: tax|#item-4dbaaf9d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1840,952,710,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559352349
-order: '830'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/full/0/default.jpg
-label: contrariety. ècontrà
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559377732
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1840,952,710,150/150,/0/default.jpg
+label: contribution
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0828'
 layout: index_item
 collection: index1
 ---

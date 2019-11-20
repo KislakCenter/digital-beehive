@@ -2,29 +2,27 @@
 pid: index_4151
 volume: Volume 3
 image_number: '47'
-head: till or until
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Till until]</a>"
+head: tilt
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1325 [Duel, a Tournament]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-74a23949e"
+item: "#item-790632383"
 unparsed: 
-line: 'Head: till or until|Entry: 1398 [Till until]|#item-74a23949e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1617,1784,571,162/full/0/default.jpg
+line: 'Head: tilt|Entry: 1325 [Duel, a Tournament]|#item-790632383'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1604,1940,361,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294707150
-order: '4151'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1617,1784,571,162/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1617,1784,571,162/full/0/default.jpg
-label: till or until
+annotation_uri: http://dev.llgc.org.uk/annotation/1552670692534
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1604,1940,361,94/150,/0/default.jpg
+label: tilt
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '118'
 layout: index_item
 collection: index5
 ---

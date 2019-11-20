@@ -2,29 +2,28 @@
 pid: index_0804
 volume: Volume 3
 image_number: '14'
-head: consent
-entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [consent]</a>"
+head: consent of parents
+entry: "<a href='/digital-beehive/toc/toc2_282/'>1442 [marry without Consent of Parents
+  or Guardians]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-712f65d16"
+item: "#item-b33e55ee4"
 unparsed: 
-line: 'Head: consent|Entry: 649 [consent]|#item-712f65d16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1161,1508,452,116/full/0/default.jpg
+line: 'Head: consent of parents|Entry: 1442 [marry without Consent of Parents or Guardians]|#item-b33e55ee4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1154,1586,681,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541492407
-order: '804'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1161,1508,452,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1161,1508,452,116/full/0/default.jpg
-label: consent
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541526899
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1154,1586,681,121/150,/0/default.jpg
+label: consent of parents
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0802'
 layout: index_item
 collection: index1
 ---

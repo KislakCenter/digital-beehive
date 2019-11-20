@@ -2,29 +2,27 @@
 pid: index_3892
 volume: Volume 3
 image_number: '45'
-head: steel
-entry: 
+head: steeplehouses
+entry: "<a href='/digital-beehive/toc/toc2_199/'>1030 [Church]</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index3/index_2116/'>Iron</a>"
-page: 
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e7596f93c"
+item: "#item-f5c64a0ad"
 unparsed: 
-line: 'Head: steel|See: Iron|#item-e7596f93c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/full/0/default.jpg
+line: 'Head: steeplehouses|Page: p.4 [Image 1.64]|Entry: 1030 [Church]|#item-f5c64a0ad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219165232
-order: '3892'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/full/0/default.jpg
-label: steel
+annotation_uri: http://dev.llgc.org.uk/annotation/1530219212893
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/150,/0/default.jpg
+label: steeplehouses
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1139'
 layout: index_item
 collection: index4
 ---

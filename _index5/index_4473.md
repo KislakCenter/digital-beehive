@@ -2,29 +2,27 @@
 pid: index_4473
 volume: Volume 3
 image_number: '51'
-head: wanton[n]ess
-entry: 
+head: wanton love
+entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
 topic: 
 first_letter: W
-xref: 
-see: lasciv
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2e05ac1c2"
+item: "#item-d6281c206"
 unparsed: 
-line: 'Head: wanton[n]ess|See: lasciv|#item-2e05ac1c2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1656,1890,630,143/full/0/default.jpg
+line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|#item-d6281c206'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1649,2034,566,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647977811
-order: '4473'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1656,1890,630,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1656,1890,630,143/full/0/default.jpg
-label: wanton[n]ess
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648005410
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1649,2034,566,130/150,/0/default.jpg
+label: wanton love
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '440'
 layout: index_item
 collection: index5
 ---

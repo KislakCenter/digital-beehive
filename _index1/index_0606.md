@@ -2,29 +2,27 @@
 pid: index_0606
 volume: Volume 3
 image_number: '12'
-head: charity
-entry: 
+head: charity Schools
+entry: "<a href='/digital-beehive/toc/toc2_409/'>2354 [Schools]</a>"
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e2c36d38a"
+item: "#item-09e5b4591"
 unparsed: 
-line: 'Head: charity|See: love|#item-e2c36d38a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/full/0/default.jpg
+line: 'Head: charity Schools|Entry: 2354 [Schools]|#item-09e5b4591'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1131,3581,552,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443568155
-order: '606'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/full/0/default.jpg
-label: charity
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443637159
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1131,3581,552,108/150,/0/default.jpg
+label: charity Schools
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0605'
 layout: index_item
 collection: index1
 ---

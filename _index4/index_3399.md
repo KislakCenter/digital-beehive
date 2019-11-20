@@ -2,29 +2,27 @@
 pid: index_3399
 volume: Volume 3
 image_number: '39'
-head: retiremt
-entry: 
+head: retorsion
+entry: "<a href='/digital-beehive/toc/toc2_284/'>1453 [Argument ad hominem]</a>"
 topic: 
 first_letter: R
-xref: 
-see: "<a href='/digital-beehive/index4/index_3787/'>solitude</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ea47e40d3"
+item: "#item-5288b7e08"
 unparsed: 
-line: 'Head: retiremt|See: solitude|#item-ea47e40d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1492,2466,823,220/full/0/default.jpg
+line: 'Head: retorsion|Entry: 1453 [Argument ad hominem]|#item-5288b7e08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2613,644,182/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230129740
-order: '3399'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1492,2466,823,220/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1492,2466,823,220/full/0/default.jpg
-label: retiremt
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230172341
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2613,644,182/150,/0/default.jpg
+label: retorsion
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0646'
 layout: index_item
 collection: index4
 ---

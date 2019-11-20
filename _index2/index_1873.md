@@ -2,30 +2,27 @@
 pid: index_1873
 volume: Volume 3
 image_number: '24'
-head: horse
-entry: "<a href='/digital-beehive/alpha2/alpha_0429/'>a</a>|<a href='/digital-beehive/toc/toc2_166/'>892
-  [Horse]</a>"
+head: horse comb
+entry: "<a href='/digital-beehive/toc/toc2_148/'>663 [horse Comb]</a>"
 topic: 
 first_letter: H
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_084/'>p.34 [Image 1.94]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c97b96213"
+item: "#item-e2ddd704a"
 unparsed: 
-line: 'Head: horse|Page: p.34 [Image 1.94]|Entry: a|Entry: 892 [Horse]|#item-c97b96213'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1141,2817,544,158/full/0/default.jpg
+line: 'Head: horse comb|Entry: 663 [horse Comb]|#item-e2ddd704a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1119,2899,444,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583773304
-order: '1873'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1141,2817,544,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1141,2817,544,158/full/0/default.jpg
-label: horse
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583886099
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1119,2899,444,89/150,/0/default.jpg
+label: horse comb
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '692'
 layout: index_item
 collection: index2
 ---

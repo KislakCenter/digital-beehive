@@ -6,25 +6,23 @@ head: "[:8.]"
 entry: 
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>almighty</a>"
-insertion: 
 item: "#item-149c515be"
 unparsed: 'Type: Index|Insertion Xref: [:8.]|#item-149c515be'
 line: 'Type: Index|Insertion Xref: [:8.]|#item-149c515be'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2159,1957,152,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558898801698
-order: '105'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2159,1957,152,80/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2159,1957,152,80/full/0/default.jpg
 label: "[:8.]"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4671/'>almighty</a>"
+order: '0104'
 layout: index_item
 collection: index1
 ---

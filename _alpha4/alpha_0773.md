@@ -1,32 +1,28 @@
 ---
 pid: alpha_0773
 volume: Volume 2
-image_number: '46'
+image_number: '45'
 head: 
-entry: Reconcilemt
-topic: Reconcilemt
+entry: Raven
+topic: Raven
 first_letter: R
-xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Placableness</a>|<a href='/digital-beehive/toc/toc2_102/'>379
-  [Reconciliatio universalis]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3320/'>reconciliation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2542e44da"
+xref: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite, a hawk]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3302/'>raven</a>"
+item: "#item-f20901ff9"
 unparsed: 
-line: 'Entry: Reconcilemt|Topic: Reconcilemt|Xref: Placableness|Xref: 770 [PAGE_MISSING]|Xref:
-  379 [Reconciliatio universalis]|Index: reconciliation|#item-2542e44da'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,2892,390/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528738136833
-order: '773'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,1607,2892,390/full/0/default.jpg
-label: Reconcilemt
-location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+line: 'Entry: Raven|Topic: Raven|Xref: 1351 [a kite, a hawk]|Index: raven|#item-f20901ff9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,4230,2982,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528400246693
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,4230,600,180/250,/0/default.jpg
+label: Raven
+location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '126'
 layout: alpha_item
 collection: alpha4
 ---

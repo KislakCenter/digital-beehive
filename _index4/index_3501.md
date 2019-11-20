@@ -2,29 +2,27 @@
 pid: index_3501
 volume: Volume 3
 image_number: '40'
-head: sale
-entry: 714 [PAGE_MISSING]
+head: salique Law
+entry: "<a href='/digital-beehive/toc/toc2_338/'>1737 [Womens Imperiosness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ea7f66eff"
+item: "#item-7563a1149"
 unparsed: 
-line: 'Head: sale|Entry: 714 [PAGE_MISSING]|#item-ea7f66eff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1827,3438,350,112/full/0/default.jpg
+line: 'Head: salique Law|Entry: 1737 [Womens Imperiosness]|#item-7563a1149'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,3508,582,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235448764
-order: '3501'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1827,3438,350,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1827,3438,350,112/full/0/default.jpg
-label: sale
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235484135
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,3508,582,135/150,/0/default.jpg
+label: salique Law
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0748'
 layout: index_item
 collection: index4
 ---

@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0037/'>a</a>|<a href='/digital-be
   [Apocryphis]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f9f814039"
 unparsed: 
 line: 'Head: apocrypha|Entry: a|Entry: 959 [Apocryphis]|#item-f9f814039'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1112,472,534,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759575041
-order: '166'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1112,472,534,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1112,472,534,141/full/0/default.jpg
 label: apocrypha
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+insertion_xref: 
+order: '0165'
 layout: index_item
 collection: index1
 ---

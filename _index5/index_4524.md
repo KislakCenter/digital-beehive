@@ -2,29 +2,28 @@
 pid: index_4524
 volume: Volume 3
 image_number: '52'
-head: wet
-entry: 738 [PAGE_MISSING]
+head: whale
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Whale]</a>|<a href='/digital-beehive/toc/toc2_300/'>1530
+  [Whale]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-eab69679a"
+item: "#item-fe8439c1c"
 unparsed: 
-line: 'Head: wet|Entry: 738 [PAGE_MISSING]|#item-eab69679a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1074,2168,338,130/full/0/default.jpg
+line: 'Head: whale|Entry: 1398 [Whale]|Entry: 1530 [Whale]|#item-fe8439c1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1078,2310,597,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969186697
-order: '4524'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1074,2168,338,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1074,2168,338,130/full/0/default.jpg
-label: wet
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969621888
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1078,2310,597,167/150,/0/default.jpg
+label: whale
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '491'
 layout: index_item
 collection: index5
 ---

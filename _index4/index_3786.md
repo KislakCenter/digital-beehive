@@ -2,29 +2,30 @@
 pid: index_3786
 volume: Volume 3
 image_number: '43'
-head: Soli Deo Gloria
-entry: "<a href='/digital-beehive/toc/toc2_290/'>1484 [Soli deo gloria]</a>"
+head: solitude
+entry: "<a href='/digital-beehive/alpha4/alpha_0892/'>a</a>|<a href='/digital-beehive/toc/toc2_227/'>1170
+  [Solitude]</a>|<a href='/digital-beehive/toc/toc2_318/'>1617 [Solitude]</a>|4564
+  [PAGE_MISSING]"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8ccc15c23"
+item: "#item-4b1943712"
 unparsed: 
-line: 'Head: Soli Deo Gloria|Entry: 1484 [Soli deo gloria]|#item-8ccc15c23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/full/0/default.jpg
+line: 'Head: solitude|Entry: a|Entry: 1170 [Solitude]|Entry: 1617 [Solitude]|Entry:
+  4564 [PAGE_MISSING]|#item-4b1943712'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1587,3040,603,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586464501
-order: '3786'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2884,601,179/full/0/default.jpg
-label: Soli Deo Gloria
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586512801
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1587,3040,603,172/150,/0/default.jpg
+label: solitude
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1033'
 layout: index_item
 collection: index4
 ---

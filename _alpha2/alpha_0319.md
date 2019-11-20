@@ -3,31 +3,27 @@ pid: alpha_0319
 volume: Volume 2
 image_number: '11'
 head: 
-entry: Fear
-topic: Fear
+entry: Favour
+topic: Favour
 first_letter: F
-xref: "<a href='/digital-beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/digital-beehive/alpha2/alpha_0306/'>fainthearted</a>|<a
-  href='/digital-beehive/alpha5/alpha_0935/'>Terrour</a>|<a href='/digital-beehive/toc/toc2_078/'>203
-  [Fear]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1420/'>fear</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c9de27b2b"
+xref: Disfavour|<a href='/digital-beehive/toc/toc2_265/'>1359 [Favour]</a>
+see: 
+index: "<a href='/digital-beehive/index2/index_1418/'>favour & disfavour</a>"
+item: "#item-89fc7f3f5"
 unparsed: 
-line: 'Entry: Fear|Topic: Fear|Xref: Coward|Xref: fainthearted|Xref: Terrour|Xref:
-  203 [Fear]|Index: fear|#item-c9de27b2b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,712,3049,495/full/0/default.jpg
+line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
+  & disfavour|#item-89fc7f3f5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,3026,514/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833182657
-order: '319'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,712,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,712,3049,495/full/0/default.jpg
-label: Fear
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833083208
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,600,180/250,/0/default.jpg
+label: Favour
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
+num_match: 
+order: '050'
 layout: alpha_item
 collection: alpha2
 ---

@@ -6,25 +6,23 @@ head: intermission
 entry: 1883 [PAGE_MISSING]
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-3c70073f9"
 unparsed: 
 line: 'Head: intermission|Entry: 1883 [PAGE_MISSING]|#item-3c70073f9'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,3043,526,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559749179865
-order: '2077'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,3043,526,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,3043,526,127/full/0/default.jpg
 label: intermission
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+insertion_xref: 
+order: '158'
 layout: index_item
 collection: index3
 ---

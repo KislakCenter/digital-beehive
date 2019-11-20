@@ -1,32 +1,28 @@
 ---
 pid: alpha_0914
 volume: Volume 2
-image_number: '56'
+image_number: '55'
 head: 
-entry: Subjects
-topic: Subjects
+entry: Stork
+topic: Stork
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_104/'>392 [Allegiance]</a>|<a href='/digital-beehive/toc/toc2_267/'>1368
-  [the duties of Subjects]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3954/'>subjects</a>"
-insertion_xref: 
-insertion: 
-item: "#item-da31c4125"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3918/'>stork</a>"
+item: "#item-b670c0947"
 unparsed: 
-line: 'Entry: Subjects|Topic: Subjects|Xref: 392 [Allegiance]|Xref: 1368 [the duties
-  of Subjects]|Index: subjects|#item-da31c4125'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,3021,599/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532550978082
-order: '914'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/740,1759,3021,599/full/0/default.jpg
-label: Subjects
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+line: 'Entry: Stork|Topic: Stork|Index: stork|#item-b670c0947'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,3035,198/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460885646
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,600,180/250,/0/default.jpg
+label: Stork
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '266'
 layout: alpha_item
 collection: alpha4
 ---

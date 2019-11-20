@@ -3,28 +3,28 @@ pid: alpha_0988
 volume: Volume 2
 image_number: '61'
 head: 
-entry: Visit
-topic: Visit
+entry: Variety
+topic: Variety
 first_letter: U/V
-xref: "<a href='/digital-beehive/toc/toc2_279/'>1429 [Visit]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4345/'>visitation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-85e05a08f"
+xref: "<a href='/digital-beehive/alpha2/alpha_0434/'>hotchpotch</a>|<a href='/digital-beehive/alpha2/alpha_0571/'>many
+  men</a>|<a href='/digital-beehive/alpha5/alpha_1008/'>unstableness</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4297/'>variety</a>"
+item: "#item-971d9fe72"
 unparsed: 
-line: 'Entry: Visit|Topic: Visit|Xref: 1429 [Visit]|Index: visitation|#item-85e05a08f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,2995,300/full/0/default.jpg
+line: 'Entry: Variety|Topic: Variety|Xref: hotchpotch|Xref: many men|Xref: unstableness|Index:
+  variety|#item-971d9fe72'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,1785,2998,457/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529004603315
-order: '988'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,2995,300/full/0/default.jpg
-label: Visit
+annotation_uri: http://dev.llgc.org.uk/annotation/1529002096452
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,1785,600,180/250,/0/default.jpg
+label: Variety
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '053'
 layout: alpha_item
 collection: alpha5
 ---

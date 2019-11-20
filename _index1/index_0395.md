@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0088/'>a</a>|<a href='/digital-be
   [Blood-letting]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a3b318268"
 unparsed: 
 line: 'Head: bloodletting|Entry: a|Entry: 2158 [Blood-letting]|#item-a3b318268'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1091,3010,659,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531151727886
-order: '395'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1091,3010,659,189/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1091,3010,659,189/full/0/default.jpg
 label: bloodletting
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+insertion_xref: 
+order: '0394'
 layout: index_item
 collection: index1
 ---

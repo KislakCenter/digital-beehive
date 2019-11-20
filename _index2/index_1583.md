@@ -2,30 +2,28 @@
 pid: index_1583
 volume: Volume 3
 image_number: '21'
-head: garlick
-entry: "<a href='/digital-beehive/alpha2/alpha_0355/'>a</a>|<a href='/digital-beehive/toc/toc2_152/'>685
-  [Garlick]</a>"
+head: "[:2.]"
+entry: 
 topic: 
-first_letter: G
-xref: 
-see: 
+first_letter: F
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1a7649ff8"
-unparsed: 
-line: 'Head: garlick|Entry: a|Entry: 685 [Garlick]|#item-1a7649ff8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1560,2676,590,136/full/0/default.jpg
+item: "#item-4d2888e14"
+unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-4d2888e14'
+line: 'Type: Index|Insertion Xref: [:2.]|#item-4d2888e14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1354,2764,185,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787228578
-order: '1583'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1560,2676,590,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1560,2676,590,136/full/0/default.jpg
-label: garlick
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784223225
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1354,2764,185,102/150,/0/default.jpg
+label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
+order: '403'
 layout: index_item
 collection: index2
 ---

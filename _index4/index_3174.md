@@ -2,29 +2,27 @@
 pid: index_3174
 volume: Volume 3
 image_number: '37'
-head: procession
-entry: 771 [PAGE_MISSING]
+head: proclamation
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1285 [an Wist]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5daedab73"
+item: "#item-562ca9cda"
 unparsed: 
-line: 'Head: procession|Entry: 771 [PAGE_MISSING]|#item-5daedab73'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,1293,500,124/full/0/default.jpg
+line: 'Head: proclamation|Entry: 1285 [an Wist]|#item-562ca9cda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/769,1408,640,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867956063
-order: '3174'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,1293,500,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/780,1293,500,124/full/0/default.jpg
-label: procession
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867978489
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/769,1408,640,123/150,/0/default.jpg
+label: proclamation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0422'
 layout: index_item
 collection: index4
 ---

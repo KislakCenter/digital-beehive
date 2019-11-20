@@ -2,30 +2,27 @@
 pid: index_4157
 volume: Volume 3
 image_number: '47'
-head: timely
-entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
-  [Seasonable Opportunity]</a>"
+head: timeserving
+entry: "<a href='/digital-beehive/toc/toc2_145/'>643 [Temporising]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-15b90ce61"
+item: "#item-a90a7c245"
 unparsed: 
-line: 'Head: timely|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-15b90ce61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/full/0/default.jpg
+line: 'Head: timeserving|Entry: 643 [Temporising]|#item-a90a7c245'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1600,2735,557,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560280943127
-order: '4157'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/full/0/default.jpg
-label: timely
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281023600
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1600,2735,557,156/150,/0/default.jpg
+label: timeserving
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '124'
 layout: index_item
 collection: index5
 ---

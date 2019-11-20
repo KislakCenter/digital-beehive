@@ -2,29 +2,27 @@
 pid: index_3421
 volume: Volume 3
 image_number: '40'
-head: Richelieu
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1323 [Richelieu]</a>"
+head: riddle
+entry: "<a href='/digital-beehive/toc/toc2_388/'>2224 [Riddle]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-261370816"
+item: "#item-6db15d4f0"
 unparsed: 
-line: 'Head: Richelieu|Entry: 1323 [Richelieu]|#item-261370816'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/full/0/default.jpg
+line: 'Head: riddle|Entry: 2224 [Riddle]|#item-6db15d4f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,1933,583,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231821645
-order: '3421'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/full/0/default.jpg
-label: Richelieu
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231873094
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,1933,583,140/150,/0/default.jpg
+label: riddle
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0668'
 layout: index_item
 collection: index4
 ---

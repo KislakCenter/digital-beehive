@@ -2,30 +2,27 @@
 pid: index_3570
 volume: Volume 3
 image_number: '41'
-head: Sea
-entry: "<a href='/digital-beehive/alpha4/alpha_0830/'>a</a>|<a href='/digital-beehive/toc/toc2_287/'>1470
-  [Sea]</a>"
+head: Sea books
+entry: 
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d0282e415"
+item: "#item-a8d284cf7"
 unparsed: 
-line: 'Head: Sea|Entry: a|Entry: 1470 [Sea]|#item-d0282e415'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1582,255,453,137/full/0/default.jpg
+line: 'Head: Sea books|Page: p.379 [Image 2.201]|#item-a8d284cf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1584,342,466,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241908063
-order: '3570'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1582,255,453,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1582,255,453,137/full/0/default.jpg
-label: Sea
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241950699
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1584,342,466,117/150,/0/default.jpg
+label: Sea books
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0817'
 layout: index_item
 collection: index4
 ---

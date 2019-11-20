@@ -2,30 +2,27 @@
 pid: index_3451
 volume: Volume 3
 image_number: '40'
-head: rose
-entry: "<a href='/digital-beehive/alpha4/alpha_0808/'>a</a>|<a href='/digital-beehive/toc/toc2_355/'>1928
-  [Rose]</a>"
+head: sub rosâ
+entry: "<a href='/digital-beehive/toc/toc2_248/'>1272 [Secrecy]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-98def931e"
+item: "#item-949672f63"
 unparsed: 
-line: 'Head: rose|Entry: a|Entry: 1928 [Rose]|#item-98def931e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1670,404,123/full/0/default.jpg
+line: 'Head: sub rosâ|Entry: 1272 [Secrecy]|#item-949672f63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1757,504,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233578457
-order: '3451'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1670,404,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1670,404,123/full/0/default.jpg
-label: rose
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233610441
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1757,504,133/150,/0/default.jpg
+label: sub rosâ
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0698'
 layout: index_item
 collection: index4
 ---

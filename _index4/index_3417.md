@@ -2,29 +2,27 @@
 pid: index_3417
 volume: Volume 3
 image_number: '40'
-head: ABC rhymes & meeters
-entry: "<a href='/digital-beehive/toc/toc2_335/'>1701 [Patience]</a>"
+head: riband
+entry: "<a href='/digital-beehive/num2/num_0405/'>348 [a Band]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1b5ea7eee"
+item: "#item-3e2b4cbcb"
 unparsed: 
-line: 'Head: ABC rhymes & meeters|Entry: 1701 [Patience]|#item-1b5ea7eee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/full/0/default.jpg
+line: 'Head: riband|Entry: 348 [a Band]|#item-3e2b4cbcb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231735864
-order: '3417'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/full/0/default.jpg
-label: ABC rhymes & meeters
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231758533
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/150,/0/default.jpg
+label: riband
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0664'
 layout: index_item
 collection: index4
 ---

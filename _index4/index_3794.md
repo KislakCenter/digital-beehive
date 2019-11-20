@@ -2,30 +2,27 @@
 pid: index_3794
 volume: Volume 3
 image_number: '44'
-head: 'Son: sonship'
-entry: "<a href='/digital-beehive/alpha4/alpha_0885/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>311
-  [Sonship]</a>"
+head: song of Songs
+entry: 1867 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-df652d3fd"
+item: "#item-e35b36ae8"
 unparsed: 
-line: 'Head: Son: sonship|Entry: a|Entry: 311 [Sonship]|#item-df652d3fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/466,594,599,89/full/0/default.jpg
+line: 'Head: song of Songs|Entry: 1867 [PAGE_MISSING]|#item-e35b36ae8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/569,655,446,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529702862386
-order: '3794'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/466,594,599,89/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/466,594,599,89/full/0/default.jpg
-label: 'Son: sonship'
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288136574
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/569,655,446,108/150,/0/default.jpg
+label: song of Songs
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1041'
 layout: index_item
 collection: index4
 ---

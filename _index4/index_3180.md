@@ -2,30 +2,27 @@
 pid: index_3180
 volume: Volume 3
 image_number: '37'
-head: profession
-entry: "<a href='/digital-beehive/toc/toc2_085/'>255 [Profession]</a>|<a href='/digital-beehive/toc/toc2_334/'>1699
-  [Profession]</a>"
+head: proffer
+entry: "<a href='/digital-beehive/toc/toc2_276/'>1411 [Profferd kindness]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f5b954605"
+item: "#item-761e3cddb"
 unparsed: 
-line: 'Head: profession|Entry: 255 [Profession]|Entry: 1699 [Profession]|#item-f5b954605'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2007,679,147/full/0/default.jpg
+line: 'Head: proffer|Entry: 1411 [Profferd kindness]|#item-761e3cddb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/775,2125,406,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868187680
-order: '3180'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2007,679,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2007,679,147/full/0/default.jpg
-label: profession
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868252953
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/775,2125,406,125/150,/0/default.jpg
+label: proffer
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0427'
 layout: index_item
 collection: index4
 ---

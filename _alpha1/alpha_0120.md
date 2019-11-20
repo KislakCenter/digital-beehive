@@ -6,25 +6,23 @@ head:
 entry: Cards
 topic: Cards
 first_letter: C
-xref: "<a href='/digital-beehive/alpha4/alpha_0706/'>Play</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha4/alpha_0711/'>Play</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0538/'>cards</a>"
-insertion_xref: 
-insertion: 
 item: "#item-ab0e05e0e"
 unparsed: 
 line: 'Entry: Cards|Topic: Cards|Xref: Play|Index: cards|#item-ab0e05e0e'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,3178,347/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499369863810
-order: '120'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,3178,347/full/0/default.jpg
 label: Cards
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
+num_match: 
+order: '119'
 layout: alpha_item
 collection: alpha1
 ---

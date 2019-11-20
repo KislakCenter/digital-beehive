@@ -2,30 +2,28 @@
 pid: index_3328
 volume: Volume 3
 image_number: '39'
-head: redhaired
-entry: "<a href='/digital-beehive/alpha4/alpha_0774/'>a</a>|<a href='/digital-beehive/toc/toc2_262/'>1344
-  [Red-haired]</a>"
+head: redemption
+entry: "<a href='/digital-beehive/alpha4/alpha_0781/'>a</a>|<a href='/digital-beehive/toc/toc2_404/'>2306
+  [Redemption]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ab9214671"
+item: "#item-793902691"
 unparsed: 
-line: 'Head: redhaired|Entry: a|Entry: 1344 [Red-haired]|#item-ab9214671'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,857,629,109/full/0/default.jpg
+line: 'Head: redemption|Entry: a|Entry: 2306 [Redemption]|#item-793902691'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463355391
-order: '3328'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,857,629,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/129,857,629,109/full/0/default.jpg
-label: redhaired
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463559557
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/150,/0/default.jpg
+label: redemption
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0575'
 layout: index_item
 collection: index4
 ---

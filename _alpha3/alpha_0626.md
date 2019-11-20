@@ -3,29 +3,30 @@ pid: alpha_0626
 volume: Volume 2
 image_number: '35'
 head: 
-entry: Natural Philosophy
-topic: Natural Philosophy
+entry: Name
+topic: Name
 first_letter: N
-xref: "<a href='/digital-beehive/toc/toc2_303/'>1543 [Natural Philosophy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2656/'>natural philosophy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6aa80fade"
+xref: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>|<a href='/digital-beehive/num1/num_0054/'>54
+  [false Names]</a>|<a href='/digital-beehive/num1/num_0189/'>181 [Nick-name]</a>|<a
+  href='/digital-beehive/num2/num_0273/'>252 [Surnames]</a>|<a href='/digital-beehive/num2/num_0277/'>254
+  [Name]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2634/'>name</a>"
+item: "#item-9c1a90cef"
 unparsed: 
-line: 'Entry: Natural Philosophy|Topic: Natural Philosophy|Xref: 1543 [Natural Philosophy]|Index:
-  natural philosophy|#item-6aa80fade'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/299,2409,3036,398/full/0/default.jpg
+line: 'Entry: Name|Topic: Name|Xref: 11 [Ill Name]|Xref: 54 [false Names]|Xref: 181
+  [Nick-name]|Xref: 252 [Surnames]|Xref: 254 [Name]|Index: name|#item-9c1a90cef'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/275,1081,3135,405/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564778929076
-order: '626'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/299,2409,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/299,2409,3036,398/full/0/default.jpg
-label: Natural Philosophy
+annotation_uri: http://dev.llgc.org.uk/annotation/1564778347808
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/275,1081,600,180/250,/0/default.jpg
+label: Name
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '182'
 layout: alpha_item
 collection: alpha3
 ---

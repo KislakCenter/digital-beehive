@@ -2,29 +2,27 @@
 pid: index_2186
 volume: Volume 3
 image_number: '27'
-head: ladder
-entry: "<a href='/digital-beehive/toc/toc2_235/'>1206 [Ladder]</a>"
+head: lake
+entry: 4505 [PAGE_MISSING]
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3568/'>Sea</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e151cccf6"
+item: "#item-1e2573473"
 unparsed: 
-line: 'Head: ladder|Entry: 1206 [Ladder]|#item-e151cccf6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/full/0/default.jpg
+line: 'Head: lake|See: Sea|Entry: 4505 [PAGE_MISSING]|#item-1e2573473'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,3409,710,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832406959
-order: '2186'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/full/0/default.jpg
-label: ladder
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832456028
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,3409,710,153/150,/0/default.jpg
+label: lake
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '267'
 layout: index_item
 collection: index3
 ---

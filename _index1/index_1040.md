@@ -6,25 +6,23 @@ head: dial
 entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Dial]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-06b3a1987"
 unparsed: 
 line: 'Head: dial|Entry: 568 [Dial]|#item-06b3a1987'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541783440637
-order: '1040'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/full/0/default.jpg
 label: dial
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '1037'
 layout: index_item
 collection: index1
 ---

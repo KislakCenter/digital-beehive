@@ -6,25 +6,23 @@ head: infirmeries
 entry: 
 topic: 
 first_letter: I/J
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-2d26819c8"
 unparsed: 
 line: 'Head: infirmeries|Page: p.4 [Image 1.64]|#item-2d26819c8'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559744399838
-order: '2035'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/full/0/default.jpg
 label: infirmeries
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+insertion_xref: 
+order: '116'
 layout: index_item
 collection: index3
 ---

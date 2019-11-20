@@ -2,29 +2,27 @@
 pid: index_4060
 volume: Volume 3
 image_number: '46'
-head: tarantula
-entry: "<a href='/digital-beehive/toc/toc2_114/'>458 [Spider]</a>"
+head: tartars
+entry: 4636 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e0f957054"
+item: "#item-f55ffb8fd"
 unparsed: 
-line: 'Head: tarantula|Entry: 458 [Spider]|#item-e0f957054'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/full/0/default.jpg
+line: 'Head: tartars|Entry: 4636 [PAGE_MISSING]|#item-f55ffb8fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743401289
-order: '4060'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/full/0/default.jpg
-label: tarantula
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743464813
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/150,/0/default.jpg
+label: tartars
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '028'
 layout: index_item
 collection: index5
 ---

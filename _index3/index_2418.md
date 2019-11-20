@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/toc/toc2_158/'>714 [Wares]</a>|<a href='/digit
   [Manufactures]</a>"
 topic: 
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f55637a3d"
 unparsed: 
 line: 'Head: manufactures|Entry: 714 [Wares]|Entry: 1991 [Manufactures]|#item-f55637a3d'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,2810,640,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560196583044
-order: '2418'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,2810,640,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,2810,640,125/full/0/default.jpg
 label: manufactures
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '498'
 layout: index_item
 collection: index3
 ---

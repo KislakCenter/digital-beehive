@@ -3,28 +3,27 @@ pid: alpha_0240
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Discretness
-topic: Discretness
+entry: Discord
+topic: Discord
 first_letter: D
-xref: "<a href='/digital-beehive/alpha3/alpha_0596/'>Modesty</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1074/'>discretness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b1771a258"
+xref: "<a href='/digital-beehive/alpha5/alpha_0999/'>Unanimity</a>|840 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_1069/'>discord</a>"
+item: "#item-40ce07a4f"
 unparsed: 
-line: 'Entry: Discretness|Topic: Discretness|Xref: Modesty|Index: discretness|#item-b1771a258'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,2989,144/full/0/default.jpg
+line: 'Entry: Discord|Topic: Discord|Xref: Unanimity|Xref: 840 [PAGE_MISSING]|Index:
+  discord|#item-40ce07a4f'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,3093,725/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175280093
-order: '240'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,2989,144/full/0/default.jpg
-label: Discretness
+annotation_uri: http://dev.llgc.org.uk/annotation/1486053269083
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,600,180/250,/0/default.jpg
+label: Discord
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '239'
 layout: alpha_item
 collection: alpha1
 ---

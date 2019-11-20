@@ -3,28 +3,26 @@ pid: alpha_0407
 volume: Volume 2
 image_number: '17'
 head: 
-entry: Heavenly Things
-topic: Heavenly Things
+entry: Heaven
+topic: Heaven
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1786/'>heavenly things</a>"
-insertion_xref: 
-insertion: 
-item: "#item-38f299b36"
+xref: "<a href='/digital-beehive/toc/toc2_229/'>1176 [Heaven]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1785/'>heaven</a>"
+item: "#item-2fb32b5f2"
 unparsed: 
-line: 'Entry: Heavenly Things|Topic: Heavenly Things|Index: heavenly things|#item-38f299b36'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/402,4340,3022,385/full/0/default.jpg
+line: 'Entry: Heaven|Topic: Heaven|Xref: 1176 [Heaven]|Index: heaven|#item-2fb32b5f2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/351,3960,3064,421/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564605689168
-order: '407'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/402,4340,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/402,4340,3022,385/full/0/default.jpg
-label: Heavenly Things
+annotation_uri: http://dev.llgc.org.uk/annotation/1508960630868
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/351,3960,600,180/250,/0/default.jpg
+label: Heaven
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
+num_match: 
+order: '138'
 layout: alpha_item
 collection: alpha2
 ---

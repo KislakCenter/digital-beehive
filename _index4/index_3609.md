@@ -2,30 +2,27 @@
 pid: index_3609
 volume: Volume 3
 image_number: '42'
-head: Self condemnation
-entry: "<a href='/digital-beehive/toc/toc2_108/'>418 [Renouncing]</a>|<a href='/digital-beehive/toc/toc2_398/'>2275
-  [Recantation]</a>"
+head: Self confident
+entry: "<a href='/digital-beehive/num1/num_0133/'>128 [Self-confident]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-12649f587"
+item: "#item-9ed3d76d0"
 unparsed: 
-line: 'Head: Self condemnation|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-12649f587'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/434,773,840,83/full/0/default.jpg
+line: 'Head: Self confident|Entry: 128 [Self-confident]|#item-9ed3d76d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/445,801,697,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244049682
-order: '3609'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/434,773,840,83/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/434,773,840,83/full/0/default.jpg
-label: Self condemnation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244110197
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/445,801,697,100/150,/0/default.jpg
+label: Self confident
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0856'
 layout: index_item
 collection: index4
 ---

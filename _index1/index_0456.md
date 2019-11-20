@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/dig
   [Briefly]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a774256b8"
 unparsed: 
 line: 'Head: briefly|Entry: 932 [Brevity]|Entry: 2193 [Briefly]|#item-a774256b8'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,2530,581,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531419563657
-order: '456'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,2530,581,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/175,2530,581,117/full/0/default.jpg
 label: briefly
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0455'
 layout: index_item
 collection: index1
 ---

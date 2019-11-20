@@ -2,29 +2,27 @@
 pid: index_3029
 volume: Volume 3
 image_number: '35'
-head: plagiary
-entry: "<a href='/digital-beehive/toc/toc2_137/'>600 [Plagiarius]</a>"
+head: plague
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: pest
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9e2016152"
+item: "#item-e91fc13a1"
 unparsed: 
-line: 'Head: plagiary|Entry: 600 [Plagiarius]|#item-9e2016152'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,2932,499,189/full/0/default.jpg
+line: 'Head: plague|See: pest|#item-e91fc13a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1482,3039,619,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977143134
-order: '3029'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,2932,499,189/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,2932,499,189/full/0/default.jpg
-label: plagiary
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977169601
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1482,3039,619,121/150,/0/default.jpg
+label: plague
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0277'
 layout: index_item
 collection: index4
 ---

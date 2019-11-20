@@ -2,30 +2,27 @@
 pid: index_3445
 volume: Volume 3
 image_number: '40'
-head: Rome
-entry: "<a href='/digital-beehive/alpha4/alpha_0807/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1450
-  [Rome]</a>"
+head: room
+entry: 817 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2ba8be2e0"
+item: "#item-64228e6fa"
 unparsed: 
-line: 'Head: Rome|Entry: a|Entry: 1450 [Rome]|#item-2ba8be2e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/full/0/default.jpg
+line: 'Head: room|Entry: 817 [PAGE_MISSING]|#item-64228e6fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233355853
-order: '3445'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/full/0/default.jpg
-label: Rome
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233442170
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/150,/0/default.jpg
+label: room
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0692'
 layout: index_item
 collection: index4
 ---

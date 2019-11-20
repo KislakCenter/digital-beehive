@@ -2,29 +2,27 @@
 pid: index_3549
 volume: Volume 3
 image_number: '41'
-head: schole terms
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [termini didascalia]</a>"
+head: sciences
+entry: "<a href='/digital-beehive/num1/num_0176/'>169 [Art]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index1/index_1116/'>Divinity</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c01881cbd"
+item: "#item-67a1e66fe"
 unparsed: 
-line: 'Head: schole terms|Entry: 537 [termini didascalia]|Add: Divinity|#item-c01881cbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/full/0/default.jpg
+line: 'Head: sciences|Entry: 169 [Art]|#item-67a1e66fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/862,1534,468,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240572534
-order: '3549'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/full/0/default.jpg
-label: schole terms
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240679804
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/862,1534,468,148/150,/0/default.jpg
+label: sciences
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0796'
 layout: index_item
 collection: index4
 ---

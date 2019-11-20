@@ -2,29 +2,27 @@
 pid: index_3364
 volume: Volume 3
 image_number: '39'
-head: renovation
-entry: "<a href='/digital-beehive/toc/toc2_155/'>699 [to Repair]</a>"
+head: renouncing
+entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4ccf952e8"
+item: "#item-f94e60949"
 unparsed: 
-line: 'Head: renovation|Entry: 699 [to Repair]|#item-4ccf952e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/full/0/default.jpg
+line: 'Head: renouncing|Entry: 418 [Renouncing]|#item-f94e60949'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,1588,595,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469119321
-order: '3364'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/full/0/default.jpg
-label: renovation
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469139652
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,1588,595,122/150,/0/default.jpg
+label: renouncing
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0611'
 layout: index_item
 collection: index4
 ---

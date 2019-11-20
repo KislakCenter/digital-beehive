@@ -1,30 +1,30 @@
 ---
 pid: alpha_0880
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Smell
-topic: Smell
+entry: Singing
+topic: Singing
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Smell]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3761/'>smell</a>"
-insertion_xref: 
-insertion: 
-item: "#item-454c80e0f"
+xref: "<a href='/digital-beehive/alpha3/alpha_0620/'>Musick</a>|<a href='/digital-beehive/alpha4/alpha_0756/'>Psalm</a>|<a
+  href='/digital-beehive/num2/num_0598/'>483 [Singing]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3726/'>Singing</a>"
+item: "#item-d8a54e24a"
 unparsed: 
-line: 'Entry: Smell|Topic: Smell|Xref: 1603 [Smell]|Index: smell|#item-454c80e0f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,2976,519/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532448831117
-order: '880'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,2976,519/full/0/default.jpg
-label: Smell
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Singing|Topic: Singing|Xref: Musick|Xref: Psalm|Xref: 483 [Singing]|Index:
+  Singing|#item-d8a54e24a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,3078,576/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023626262
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,2792,600,180/250,/0/default.jpg
+label: Singing
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '232'
 layout: alpha_item
 collection: alpha4
 ---

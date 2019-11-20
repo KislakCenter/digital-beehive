@@ -2,29 +2,27 @@
 pid: index_4087
 volume: Volume 3
 image_number: '47'
-head: ten Com[m]and
-entry: "<a href='/digital-beehive/toc/toc2_112/'>444 [Decalogue]</a>"
+head: "[:55.]"
+entry: 
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c7b745608"
-unparsed: 
-line: 'Head: ten Com[m]and|Entry: 444 [Decalogue]|#item-c7b745608'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,2038,495,112/full/0/default.jpg
+item: "#item-8ada9c323"
+unparsed: 'Type: Index|Insertion Xref: [:55.]|#item-8ada9c323'
+line: 'Type: Index|Insertion Xref: [:55.]|#item-8ada9c323'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294161352
-order: '4087'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,2038,495,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,2038,495,112/full/0/default.jpg
-label: ten Com[m]and
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278471208
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/718,2076,208,155/150,/0/default.jpg
+label: "[:55.]"
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4723/'>tenant</a>"
+order: '054'
 layout: index_item
 collection: index5
 ---

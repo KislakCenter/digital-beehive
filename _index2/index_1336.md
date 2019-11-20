@@ -3,18 +3,15 @@ pid: index_1336
 volume: Volume 3
 image_number: '19'
 head: exclamation
-entry: "<a href='/digital-beehive/toc/toc2_096/'>333 [Exclam[m]ations or Interjections]</a>|4645
+entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>|4645
   [PAGE_MISSING]"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-c6579c41c"
 unparsed: 
 line: 'Head: exclamation|Entry: 333 [Exclam[m]ations or Interjections]|Entry: 4645
@@ -22,11 +19,12 @@ line: 'Head: exclamation|Entry: 333 [Exclam[m]ations or Interjections]|Entry: 46
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/825,3224,746,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560361206469
-order: '1336'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/825,3224,746,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/825,3224,746,123/full/0/default.jpg
 label: exclamation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+insertion_xref: 
+order: '156'
 layout: index_item
 collection: index2
 ---

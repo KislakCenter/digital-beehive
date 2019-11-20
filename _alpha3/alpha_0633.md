@@ -1,33 +1,28 @@
 ---
 pid: alpha_0633
 volume: Volume 2
-image_number: '36'
+image_number: '35'
 head: 
-entry: Neutrality
-topic: Neutrality
+entry: Navigation
+topic: Navigation
 first_letter: N
-xref: "<a href='/digital-beehive/alpha3/alpha_0459/'>Impartiality</a>|Indifferency|<a
-  href='/digital-beehive/toc/toc2_066/'>91 [Universalists]</a>|<a href='/digital-beehive/toc/toc2_099/'>357
-  [Neutrality]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2693/'>neutrality</a>"
-insertion_xref: 
-insertion: 
-item: "#item-323b2f38d"
+xref: 848 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index3/index_2663/'>navigation</a>"
+item: "#item-6aee1c497"
 unparsed: 
-line: 'Entry: Neutrality|Topic: Neutrality|Xref: Impartiality|Xref: Indifferency|Xref:
-  91 [Universalists]|Xref: 357 [Neutrality]|Index: neutrality|#item-323b2f38d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,2994,554/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015091125
-order: '633'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,2994,554/full/0/default.jpg
-label: Neutrality
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+line: 'Entry: Navigation|Topic: Navigation|Xref: 848 [PAGE_MISSING]|Index: navigation|#item-6aee1c497'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/346,3633,2967,400/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1510169756053
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/346,3633,600,180/250,/0/default.jpg
+label: Navigation
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '189'
 layout: alpha_item
 collection: alpha3
 ---

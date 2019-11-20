@@ -6,25 +6,23 @@ head: etching
 entry: 4529 [PAGE_MISSING]
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-39ebeb1ec"
 unparsed: 
 line: 'Head: etching|Entry: 4529 [PAGE_MISSING]|#item-39ebeb1ec'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/110,3563,518,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560348940529
-order: '1307'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/110,3563,518,171/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/110,3563,518,171/full/0/default.jpg
 label: etching
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+insertion_xref: 
+order: '127'
 layout: index_item
 collection: index2
 ---

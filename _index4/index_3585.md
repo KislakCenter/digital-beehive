@@ -2,30 +2,28 @@
 pid: index_3585
 volume: Volume 3
 image_number: '41'
-head: secret parts
-entry: "<a href='/digital-beehive/toc/toc2_114/'>458 [Privy Parts]</a>|<a href='/digital-beehive/toc/toc2_385/'>2192
-  [Privy parts]</a>"
+head: secret writing or num.
+entry: "<a href='/digital-beehive/toc/toc2_290/'>1481 [Secret Writing]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.300]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fd8cfb194"
+item: "#item-19d9ec7e9"
 unparsed: 
-line: 'Head: secret parts|Entry: 458 [Privy Parts]|Entry: 2192 [Privy parts]|#item-fd8cfb194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/full/0/default.jpg
+line: 'Head: secret writing or num.|Page: p.380 [Image 2.300]|Entry: 1481 [Secret
+  Writing]|#item-19d9ec7e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1576,1845,641,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242615279
-order: '3585'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/full/0/default.jpg
-label: secret parts
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242663038
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1576,1845,641,127/150,/0/default.jpg
+label: secret writing or num.
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0832'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_3945
 volume: Volume 3
 image_number: '45'
-head: strong
-entry: "<a href='/digital-beehive/toc/toc2_148/'>663 [Strength]</a>"
+head: Stuart
+entry: "<a href='/digital-beehive/toc/toc2_291/'>1488 [Stuart]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-aa4413c4b"
+item: "#item-7f88a828b"
 unparsed: 
-line: 'Head: strong|Entry: 663 [Strength]|#item-aa4413c4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/917,3067,393,125/full/0/default.jpg
+line: 'Head: Stuart|Entry: 1488 [Stuart]|#item-7f88a828b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/901,3177,438,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290961362
-order: '3945'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/917,3067,393,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/917,3067,393,125/full/0/default.jpg
-label: strong
+annotation_uri: http://dev.llgc.org.uk/annotation/1530466676180
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/901,3177,438,121/150,/0/default.jpg
+label: Stuart
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1192'
 layout: index_item
 collection: index4
 ---

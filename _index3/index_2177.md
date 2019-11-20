@@ -2,30 +2,30 @@
 pid: index_2177
 volume: Volume 3
 image_number: '27'
-head: knowledge
-entry: "<a href='/digital-beehive/alpha3/alpha_0503/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2098
-  [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_405/'>2315 [Knowledge]</a>"
+head: knowledge of God
+entry: "<a href='/digital-beehive/toc/toc2_180/'>965 [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_333/'>1695
+  [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_375/'>2098 [Knowledge]</a>|<a
+  href='/digital-beehive/toc/toc2_434/'>4837 [Knowledge]</a>"
 topic: 
 first_letter: K
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a81106176"
+item: "#item-14a3429d8"
 unparsed: 
-line: 'Head: knowledge|Entry: a|Entry: 2098 [Knowledge]|Entry: 2315 [Knowledge]|#item-a81106176'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/822,2573,899,216/full/0/default.jpg
+line: 'Head: knowledge of God|Entry: 965 [Knowledge]|Entry: 1695 [Knowledge]|Entry:
+  2098 [Knowledge]|Entry: 4837 [Knowledge]|#item-14a3429d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559833007029
-order: '2177'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/822,2573,899,216/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/822,2573,899,216/full/0/default.jpg
-label: knowledge
+annotation_uri: http://dev.llgc.org.uk/annotation/1559833152442
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/150,/0/default.jpg
+label: knowledge of God
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '258'
 layout: index_item
 collection: index3
 ---

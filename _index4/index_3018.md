@@ -2,29 +2,27 @@
 pid: index_3018
 volume: Volume 3
 image_number: '35'
-head: to pinch
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
+head: pious frauds
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1791 [holy Cheats]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-262b11c0f"
+item: "#item-8bac3e119"
 unparsed: 
-line: 'Head: to pinch|Entry: 907 [To pull or pluck]|#item-262b11c0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/full/0/default.jpg
+line: 'Head: pious frauds|Entry: 1791 [holy Cheats]|#item-8bac3e119'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976645176
-order: '3018'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/full/0/default.jpg
-label: to pinch
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976709037
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/150,/0/default.jpg
+label: pious frauds
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0266'
 layout: index_item
 collection: index4
 ---

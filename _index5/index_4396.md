@@ -2,29 +2,27 @@
 pid: index_4396
 volume: Volume 3
 image_number: '50'
-head: unicorn
-entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Unicorn]</a>"
+head: unjust
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2048/'>injustice</a>|<a href='/digital-beehive/index5/index_4635/'>wrong</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-01460e2a7"
+item: "#item-4c24af738"
 unparsed: 
-line: 'Head: unicorn|Entry: 1530 [Unicorn]|#item-01460e2a7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1100,2166,451,117/full/0/default.jpg
+line: 'Head: unjust|See: injustice|See: wrong|#item-4c24af738'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1106,2290,725,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881956010
-order: '4396'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1100,2166,451,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1100,2166,451,117/full/0/default.jpg
-label: unicorn
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882029230
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1106,2290,725,144/150,/0/default.jpg
+label: unjust
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '363'
 layout: index_item
 collection: index5
 ---

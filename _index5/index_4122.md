@@ -2,29 +2,27 @@
 pid: index_4122
 volume: Volume 3
 image_number: '47'
-head: thither
-entry: "<a href='/digital-beehive/toc/toc2_109/'>422 [Hither]</a>"
+head: Thomas
+entry: "<a href='/digital-beehive/toc/toc2_344/'>1782 [Thomas]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-12f33d408"
+item: "#item-5c656c621"
 unparsed: 
-line: 'Head: thither|Entry: 422 [Hither]|#item-12f33d408'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,2146,428,114/full/0/default.jpg
+line: 'Head: Thomas|Entry: 1782 [Thomas]|#item-5c656c621'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/897,2248,506,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532721669672
-order: '4122'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,2146,428,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,2146,428,114/full/0/default.jpg
-label: thither
+annotation_uri: http://dev.llgc.org.uk/annotation/1532721745000
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/897,2248,506,96/150,/0/default.jpg
+label: Thomas
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '089'
 layout: index_item
 collection: index5
 ---

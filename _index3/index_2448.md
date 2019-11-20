@@ -6,25 +6,23 @@ head: material
 entry: 
 topic: 
 first_letter: M
-xref: 
-see: "<a href='/digital-beehive/index4/index_3238/'>purpose</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3237/'>purpose</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-5f5bec428"
 unparsed: 
 line: 'Head: material|See: purpose|#item-5f5bec428'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/419,1957,651,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560264543924
-order: '2448'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/419,1957,651,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/419,1957,651,151/full/0/default.jpg
 label: material
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+insertion_xref: 
+order: '528'
 layout: index_item
 collection: index3
 ---

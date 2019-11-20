@@ -1,30 +1,28 @@
 ---
 pid: alpha_0954
 volume: Volume 2
-image_number: '59'
+image_number: '58'
 head: 
-entry: too suspicious
-topic: too suspicious
+entry: to Thrust
+topic: to Thrust
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4186/'>too suspicious</a>"
-insertion_xref: 
-insertion: 
-item: "#item-373d34fe6"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4140/'>to thrust</a>"
+item: "#item-35d1e23a3"
 unparsed: 
-line: 'Entry: too suspicious|Topic: too suspicious|Index: too suspicious|#item-373d34fe6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,2927,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529521172451
-order: '954'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,2927,134/full/0/default.jpg
-label: too suspicious
-location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+line: 'Entry: to Thrust|Topic: to Thrust|Index: to thrust|#item-35d1e23a3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/846,4128,2151,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529518057514
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/846,4128,600,180/250,/0/default.jpg
+label: to Thrust
+location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+num_match: 
+order: '019'
 layout: alpha_item
 collection: alpha5
 ---

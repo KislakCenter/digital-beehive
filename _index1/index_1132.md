@@ -6,25 +6,23 @@ head: door
 entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Door]</a>"
 topic: 
 first_letter: D
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_058/'>p.8 [Image 1.68]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f12cabe5a"
 unparsed: 
 line: 'Head: door|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-f12cabe5a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1459,279,480,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560367542413
-order: '1132'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1459,279,480,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1459,279,480,139/full/0/default.jpg
 label: door
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1129'
 layout: index_item
 collection: index1
 ---

@@ -3,28 +3,26 @@ pid: alpha_0450
 volume: Volume 2
 image_number: '21'
 head: 
-entry: Jewel
-topic: Jewel
+entry: Jew
+topic: Jew
 first_letter: I/J
-xref: "<a href='/digital-beehive/toc/toc2_326/'>1657 [Jewel]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_1945/'>Jewel</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0faa36aaf"
+xref: "<a href='/digital-beehive/toc/toc2_131/'>564 [Jews]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_1943/'>Jews</a>"
+item: "#item-1155bf4a8"
 unparsed: 
-line: 'Entry: Jewel|Topic: Jewel|Xref: 1657 [Jewel]|Index: Jewel|#item-0faa36aaf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,1699,3039,460/full/0/default.jpg
+line: 'Entry: Jew|Topic: Jew|Xref: 564 [Jews]|Index: Jews|#item-1155bf4a8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/336,1349,3039,474/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758676767
-order: '450'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,1699,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,1699,3039,460/full/0/default.jpg
-label: Jewel
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758617526
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/336,1349,600,180/250,/0/default.jpg
+label: Jew
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+num_match: 
+order: '006'
 layout: alpha_item
 collection: alpha3
 ---

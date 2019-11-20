@@ -2,29 +2,27 @@
 pid: index_4688
 volume: Volume 3
 image_number: '54'
-head: Chalk
-entry: "<a href='/digital-beehive/toc/toc2_374/'>2083 [Chalk]</a>"
+head: pike, Hecht
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2112 [Pike]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:22.]"
-item: "#item-dae7cfa90"
-unparsed: 
-line: 'Type: Index|Insertion: [:22.]|Head: Chalk|Entry: 2083 [Chalk]|#item-dae7cfa90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/full/0/default.jpg
+item: "#item-8e8282b75"
+unparsed: Type Index|Insertion [:23.]
+line: 'Type: Index|Insertion: [:23.]|Head: pike, Hecht|Entry: 2112 [Pike]|#item-8e8282b75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885834582
-order: '4688'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/full/0/default.jpg
-label: Chalk
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885947837
+insertion: "[:23.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/419,3325,643,170/150,/0/default.jpg
+label: pike, Hecht
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '655'
 layout: index_item
 collection: index5
 ---

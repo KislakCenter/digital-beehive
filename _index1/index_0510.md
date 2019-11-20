@@ -2,30 +2,28 @@
 pid: index_0510
 volume: Volume 3
 image_number: '11'
-head: calling
-entry: "<a href='/digital-beehive/alpha1/alpha_0113/'>a</a>|<a href='/digital-beehive/toc/toc2_168/'>904
-  [Calling]</a>|<a href='/digital-beehive/toc/toc2_178/'>953 [Call]</a>"
+head: calling to the ministry
+entry: "<a href='/digital-beehive/toc/toc2_168/'>904 [Calling]</a>|<a href='/digital-beehive/toc/toc2_396/'>2261
+  [Call]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cab4f8c68"
+item: "#item-33e36a803"
 unparsed: 
-line: 'Head: calling|Entry: a|Entry: 904 [Calling]|Entry: 953 [Call]|#item-cab4f8c68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,512,666,103/full/0/default.jpg
+line: 'Head: calling to the ministry|Entry: 904 [Calling]|Entry: 2261 [Call]|#item-33e36a803'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,578,719,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494365199
-order: '510'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,512,666,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1581,512,666,103/full/0/default.jpg
-label: calling
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494492728
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,578,719,136/150,/0/default.jpg
+label: calling to the ministry
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0509'
 layout: index_item
 collection: index1
 ---

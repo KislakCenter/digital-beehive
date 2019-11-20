@@ -2,29 +2,27 @@
 pid: index_3582
 volume: Volume 3
 image_number: '41'
-head: second sight
-entry: "<a href='/digital-beehive/toc/toc2_256/'>1314 [Second sighted]</a>"
+head: secondly
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1420 [Secondly]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-974dc24cb"
+item: "#item-3a8ebb712"
 unparsed: 
-line: 'Head: second sight|Entry: 1314 [Second sighted]|#item-974dc24cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/full/0/default.jpg
+line: 'Head: secondly|Entry: 1420 [Secondly]|#item-3a8ebb712'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1457,539,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242506168
-order: '3582'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1567,1349,644,142/full/0/default.jpg
-label: second sight
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242530709
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1457,539,146/150,/0/default.jpg
+label: secondly
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0829'
 layout: index_item
 collection: index4
 ---

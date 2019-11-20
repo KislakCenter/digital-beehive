@@ -2,29 +2,27 @@
 pid: index_3497
 volume: Volume 3
 image_number: '40'
-head: for my sake
-entry: "<a href='/digital-beehive/toc/toc2_349/'>1825 [Sake]</a>"
+head: salamander
+entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Salamander]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-22a34e6bb"
+item: "#item-5fe2f6efe"
 unparsed: 
-line: 'Head: for my sake|Entry: 1825 [Sake]|#item-22a34e6bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1791,3053,652,93/full/0/default.jpg
+line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1840,3098,587,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235289515
-order: '3497'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1791,3053,652,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1791,3053,652,93/full/0/default.jpg
-label: for my sake
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1840,3098,587,121/150,/0/default.jpg
+label: salamander
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0744'
 layout: index_item
 collection: index4
 ---

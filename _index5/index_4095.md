@@ -2,30 +2,27 @@
 pid: index_4095
 volume: Volume 3
 image_number: '47'
-head: terms
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [WORD_ILLEGIBLE]</a>|<a href='/digital-beehive/toc/toc2_266/'>1364
-  [Casuists]</a>"
+head: terra sigillata
+entry: "<a href='/digital-beehive/toc/toc2_227/'>1168 [Terra Sigillata]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-621de2bf5"
+item: "#item-4b780e579"
 unparsed: 
-line: 'Head: terms|Entry: 537 [WORD_ILLEGIBLE]|Entry: 1364 [Casuists]|#item-621de2bf5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/162,2607,564,76/full/0/default.jpg
+line: 'Head: terra sigillata|Entry: 1168 [Terra Sigillata]|#item-4b780e579'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/152,2645,594,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532718842731
-order: '4095'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/162,2607,564,76/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/162,2607,564,76/full/0/default.jpg
-label: terms
+annotation_uri: http://dev.llgc.org.uk/annotation/1532718953353
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/152,2645,594,146/150,/0/default.jpg
+label: terra sigillata
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '062'
 layout: index_item
 collection: index5
 ---

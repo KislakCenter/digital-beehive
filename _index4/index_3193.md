@@ -2,30 +2,27 @@
 pid: index_3193
 volume: Volume 3
 image_number: '37'
-head: proof or evidence
-entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Proof]</a>|<a href='/digital-beehive/toc/toc2_078/'>202
-  [Seriousness]</a>"
+head: proof of a negative
+entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Proof]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4ce1fc4af"
+item: "#item-4d9887a6c"
 unparsed: 
-line: 'Head: proof or evidence|Entry: a|Entry: 913 [Proof]|Entry: 202 [Seriousness]|#item-4ce1fc4af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/full/0/default.jpg
+line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868801742
-order: '3193'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/full/0/default.jpg
-label: proof or evidence
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/150,/0/default.jpg
+label: proof of a negative
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0440'
 layout: index_item
 collection: index4
 ---

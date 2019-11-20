@@ -2,29 +2,27 @@
 pid: index_3249
 volume: Volume 3
 image_number: '38'
-head: to quake
-entry: "<a href='/digital-beehive/toc/toc2_143/'>629 [to Quake]</a>"
+head: qualities
+entry: "<a href='/digital-beehive/num2/num_0543/'>440 [Qualities]</a>"
 topic: 
 first_letter: Q
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b14a0629c"
+item: "#item-dfd60fb83"
 unparsed: 
-line: 'Head: to quake|Entry: 629 [to Quake]|#item-b14a0629c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/375,3072,571,156/full/0/default.jpg
+line: 'Head: qualities|Entry: 440 [Qualities]|#item-dfd60fb83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454708780
-order: '3249'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/375,3072,571,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/375,3072,571,156/full/0/default.jpg
-label: to quake
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454730696
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/150,/0/default.jpg
+label: qualities
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0496'
 layout: index_item
 collection: index4
 ---

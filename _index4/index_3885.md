@@ -2,29 +2,27 @@
 pid: index_3885
 volume: Volume 3
 image_number: '45'
-head: stationer
+head: statist
 entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3065/'>politick</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b1cf40302"
+item: "#item-fc320bcf0"
 unparsed: 
-line: 'Head: stationer|#item-b1cf40302'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,605,329,116/full/0/default.jpg
+line: 'Head: statist|See: politick|#item-fc320bcf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530108240422
-order: '3885'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,605,329,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,605,329,116/full/0/default.jpg
-label: stationer
+annotation_uri: http://dev.llgc.org.uk/annotation/1530218776455
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/150,/0/default.jpg
+label: statist
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1132'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,27 @@ pid: alpha_0482
 volume: Volume 2
 image_number: '24'
 head: 
-entry: Intention
-topic: Intention
+entry: Intemperance
+topic: Intemperance
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha4/alpha_0756/'>Purpose</a>|<a href='/digital-beehive/toc/toc2_215/'>1109
-  [Intention]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2074/'>intention</a>"
-insertion_xref: 
-insertion: 
-item: "#item-cfea063e5"
+xref: "<a href='/digital-beehive/alpha5/alpha_0941/'>Temperance</a>|<a href='/digital-beehive/alpha4/alpha_0802/'>Revelling</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2073/'>intemperance</a>"
+item: "#item-adc38b33f"
 unparsed: 
-line: 'Entry: Intention|Topic: Intention|Xref: Purpose|Xref: 1109 [Intention]|Index:
-  intention|#item-cfea063e5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,727,3065,493/full/0/default.jpg
+line: 'Entry: Intemperance|Topic: Intemperance|Xref: Temperance|Xref: Revelling|Index:
+  intemperance|#item-adc38b33f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,3005,682/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761333451
-order: '482'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,727,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,727,3065,493/full/0/default.jpg
-label: Intention
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761296957
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,600,180/250,/0/default.jpg
+label: Intemperance
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+num_match: 
+order: '038'
 layout: alpha_item
 collection: alpha3
 ---

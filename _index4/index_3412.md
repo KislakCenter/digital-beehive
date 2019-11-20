@@ -2,29 +2,28 @@
 pid: index_3412
 volume: Volume 3
 image_number: '40'
-head: revolution
-entry: 
+head: reward
+entry: "<a href='/digital-beehive/alpha4/alpha_0804/'>a</a>|<a href='/digital-beehive/num2/num_0533/'>431
+  [Reward]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480 [Reward]</a>"
 topic: 
 first_letter: R
-xref: 
-see: "<a href='/digital-beehive/index3/index_2503/'>metempsychosis</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-67585363e"
+item: "#item-4d5f7a4d6"
 unparsed: 
-line: 'Head: revolution|See: metempsychosis|#item-67585363e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/full/0/default.jpg
+line: 'Head: reward|Entry: a|Entry: 431 [Reward]|Entry: 4480 [Reward]|#item-4d5f7a4d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
-order: '3412'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/full/0/default.jpg
-label: revolution
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231614076
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/150,/0/default.jpg
+label: reward
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0659'
 layout: index_item
 collection: index4
 ---

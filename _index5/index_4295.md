@@ -2,29 +2,28 @@
 pid: index_4295
 volume: Volume 3
 image_number: '49'
-head: Vandals
-entry: "<a href='/digital-beehive/toc/toc2_294/'>1502 [Vandals]</a>"
+head: vanity
+entry: "<a href='/digital-beehive/alpha5/alpha_0987/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
+  [Vanitatis Triumphus]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d5157bfe5"
+item: "#item-c3d113b28"
 unparsed: 
-line: 'Head: Vandals|Entry: 1502 [Vandals]|#item-d5157bfe5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/full/0/default.jpg
+line: 'Head: vanity|Entry: a|Entry: 1659 [Vanitatis Triumphus]|#item-c3d113b28'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/943,1286,534,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657769070
-order: '4295'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/full/0/default.jpg
-label: Vandals
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657840953
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/943,1286,534,145/150,/0/default.jpg
+label: vanity
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '262'
 layout: index_item
 collection: index5
 ---

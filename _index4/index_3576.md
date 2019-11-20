@@ -2,29 +2,27 @@
 pid: index_3576
 volume: Volume 3
 image_number: '41'
-head: seal
-entry: "<a href='/digital-beehive/alpha4/alpha_0831/'>a</a>"
+head: seamster
+entry: 861 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d41f11af0"
+item: "#item-e8d9ffebd"
 unparsed: 
-line: 'Head: seal|Page: p.7 [Image 1.67]|Entry: a|#item-d41f11af0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1531,743,407,128/full/0/default.jpg
+line: 'Head: seamster|Entry: 861 [PAGE_MISSING]|#item-e8d9ffebd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1558,865,427,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242260022
-order: '3576'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1531,743,407,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1531,743,407,128/full/0/default.jpg
-label: seal
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242300642
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1558,865,427,125/150,/0/default.jpg
+label: seamster
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0823'
 layout: index_item
 collection: index4
 ---

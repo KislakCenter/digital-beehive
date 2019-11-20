@@ -2,29 +2,27 @@
 pid: index_3895
 volume: Volume 3
 image_number: '45'
-head: stepfather
-entry: "<a href='/digital-beehive/alpha4/alpha_0901/'>a</a>"
+head: Stephen
+entry: "<a href='/digital-beehive/num2/num_0379/'>331 [St. Stephen]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ecd35866e"
+item: "#item-4b4065ae2"
 unparsed: 
-line: 'Head: stepfather|Entry: a|#item-ecd35866e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
+line: 'Head: Stephen|Entry: 331 [St. Stephen]|#item-4b4065ae2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,1637,404,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289982482
-order: '3895'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
-label: stepfather
+annotation_uri: http://dev.llgc.org.uk/annotation/1530220911126
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/214,1637,404,102/150,/0/default.jpg
+label: Stephen
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1142'
 layout: index_item
 collection: index4
 ---

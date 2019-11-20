@@ -2,30 +2,27 @@
 pid: index_4627
 volume: Volume 3
 image_number: '53'
-head: wounds
-entry: "<a href='/digital-beehive/alpha5/alpha_1052/'>a</a>|<a href='/digital-beehive/toc/toc2_223/'>1146
-  [Wound]</a>"
+head: wrath
+entry: "<a href='/digital-beehive/alpha5/alpha_1064/'>a</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-485132c6b"
+item: "#item-677ec7e4f"
 unparsed: 
-line: 'Head: wounds|Page: p.43 [Image 1.103]|Entry: a|Entry: 1146 [Wound]|#item-485132c6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1619,393,616,139/full/0/default.jpg
+line: 'Head: wrath|Entry: a|#item-677ec7e4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1597,627,356,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798394781
-order: '4627'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1619,393,616,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1619,393,616,139/full/0/default.jpg
-label: wounds
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798440613
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1597,627,356,91/150,/0/default.jpg
+label: wrath
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '594'
 layout: index_item
 collection: index5
 ---

@@ -3,28 +3,28 @@ pid: alpha_0263
 volume: Volume 1
 image_number: '452'
 head: 
-entry: Drunkeness
-topic: Drunkeness
+entry: Drink
+topic: Drink
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_073/'>161 [Drunkeness]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1163/'>drunken[n]ess</a>"
-insertion_xref: 
-insertion: 
-item: "#item-18aa7dc9f"
+xref: "<a href='/digital-beehive/alpha2/alpha_0404/'>Drinking of healths</a>|<a href='/digital-beehive/alpha5/alpha_0950/'>Thirst</a>|775
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_1152/'>drink</a>"
+item: "#item-6376317e7"
 unparsed: 
-line: 'Entry: Drunkeness|Topic: Drunkeness|Xref: 161 [Drunkeness]|Index: drunken[n]ess|#item-18aa7dc9f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,2971,663/full/0/default.jpg
+line: 'Entry: Drink|Topic: Drink|Xref: Drinking of healths|Xref: Thirst|Xref: 775
+  [PAGE_MISSING]|Index: drink|#item-6376317e7'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,252,2910,440/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508782548572
-order: '263'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,559,2971,663/full/0/default.jpg
-label: Drunkeness
+annotation_uri: http://dev.llgc.org.uk/annotation/1508782362797
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,252,600,180/250,/0/default.jpg
+label: Drink
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+num_match: 
+order: '262'
 layout: alpha_item
 collection: alpha1
 ---

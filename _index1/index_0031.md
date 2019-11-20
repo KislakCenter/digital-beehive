@@ -2,29 +2,27 @@
 pid: index_0031
 volume: Volume 3
 image_number: '7'
-head: acidul[ae]
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1680 [Hot Baths]</a>"
+head: acknowledgmt
+entry: "<a href='/digital-beehive/toc/toc2_099/'>354 [to acknowledge]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2efdddb3b"
+item: "#item-d18b0fb9a"
 unparsed: 
-line: 'Head: acidul[ae]|Entry: 1680 [Hot Baths]|#item-2efdddb3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/full/0/default.jpg
+line: 'Head: acknowledgmt|Entry: 354 [to acknowledge]|#item-d18b0fb9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191575907
-order: '31'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/full/0/default.jpg
-label: acidul[ae]
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759979524
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/150,/0/default.jpg
+label: acknowledgmt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0030'
 layout: index_item
 collection: index1
 ---

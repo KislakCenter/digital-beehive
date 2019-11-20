@@ -2,30 +2,27 @@
 pid: index_3704
 volume: Volume 3
 image_number: '43'
-head: sign
-entry: "<a href='/digital-beehive/toc/toc2_072/'>158 [Sign]</a>|<a href='/digital-beehive/toc/toc2_166/'>892
-  [Mark]</a>"
+head: sign posts
+entry: "<a href='/digital-beehive/toc/toc2_166/'>892 [Mark]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-005288722"
+item: "#item-8d1ef2515"
 unparsed: 
-line: 'Head: sign|Entry: 158 [Sign]|Entry: 892 [Mark]|#item-005288722'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/189,963,500,165/full/0/default.jpg
+line: 'Head: sign posts|Entry: 892 [Mark]|#item-8d1ef2515'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/196,1044,477,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581875804
-order: '3704'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/189,963,500,165/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/189,963,500,165/full/0/default.jpg
-label: sign
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581897732
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/196,1044,477,93/150,/0/default.jpg
+label: sign posts
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0951'
 layout: index_item
 collection: index4
 ---

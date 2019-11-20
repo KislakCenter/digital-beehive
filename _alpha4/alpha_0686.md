@@ -3,29 +3,28 @@ pid: alpha_0686
 volume: Volume 2
 image_number: '39'
 head: 
-entry: Payment
-topic: Payment
+entry: Passion
+topic: Passion
 first_letter: P
-xref: "<a href='/digital-beehive/alpha1/alpha_0212/'>Debt</a>|<a href='/digital-beehive/toc/toc2_220/'>1131
-  [Payment]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2929/'>paymt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-53c27424f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Cross of Christ</a>|<a href='/digital-beehive/alpha4/alpha_0924/'>Suffering</a>|<a
+  href='/digital-beehive/toc/toc2_185/'>998 [Passion or Suffering of Xst]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2906/'>passion of Xst</a>"
+item: "#item-74ba8c782"
 unparsed: 
-line: 'Entry: Payment|Topic: Payment|Xref: Debt|Xref: 1131 [Payment]|Index: paymt|#item-53c27424f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,3083,351/full/0/default.jpg
+line: 'Entry: Passion|Topic: Passion|Xref: Cross of Christ|Xref: Suffering|Xref: 998
+  [Passion or Suffering of Xst]|Index: passion of Xst|#item-74ba8c782'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/284,960,3056,463/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565022025204
-order: '686'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,2316,3083,351/full/0/default.jpg
-label: Payment
+annotation_uri: http://dev.llgc.org.uk/annotation/1565021670199
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/284,960,600,180/250,/0/default.jpg
+label: Passion
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+num_match: 
+order: '039'
 layout: alpha_item
 collection: alpha4
 ---

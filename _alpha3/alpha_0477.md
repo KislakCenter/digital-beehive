@@ -3,29 +3,27 @@ pid: alpha_0477
 volume: Volume 2
 image_number: '23'
 head: 
-entry: Innocence
-topic: Innocence
+entry: Inn & Innkeeper
+topic: Inn & Innkeeper
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha4/alpha_0753/'>punishmt</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2052/'>innocence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-21351cd8c"
+xref: "<a href='/digital-beehive/num1/num_0211/'>201 [Taverns]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2051/'>inn & in[n]keeper</a>"
+item: "#item-223d88960"
 unparsed: 
-line: 'Entry: Innocence|Topic: Innocence|Xref: punishmt|Xref: 761 [PAGE_MISSING]|Index:
-  innocence|#item-21351cd8c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,3185,3031,548/full/0/default.jpg
+line: 'Entry: Inn & Innkeeper|Topic: Inn & Innkeeper|Xref: 201 [Taverns]|Index: inn
+  & in[n]keeper|#item-223d88960'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/343,2735,3009,558/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760599234
-order: '477'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,3185,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,3185,3031,548/full/0/default.jpg
-label: Innocence
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760484170
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/343,2735,600,180/250,/0/default.jpg
+label: Inn & Innkeeper
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+num_match: 
+order: '033'
 layout: alpha_item
 collection: alpha3
 ---

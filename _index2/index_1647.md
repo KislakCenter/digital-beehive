@@ -2,32 +2,27 @@
 pid: index_1647
 volume: Volume 3
 image_number: '22'
-head: God's help
-entry: "<a href='/digital-beehive/alpha2/alpha_0367/'>a</a>|<a href='/digital-beehive/toc/toc2_072/'>160
-  [Gods help]</a>|<a href='/digital-beehive/toc/toc2_334/'>1698 [God's help]</a>|<a
-  href='/digital-beehive/toc/toc2_399/'>2277 [God's help]</a>"
+head: "[:46.]"
+entry: 
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-29dcade3d"
-unparsed: 
-line: 'Head: God''s help|Entry: a|Entry: 160 [Gods help]|Entry: 1698 [God''s help]|Entry:
-  2277 [God''s help]|#item-29dcade3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1969,704,98/full/0/default.jpg
+item: "#item-1e8f21771"
+unparsed: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
+line: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047519352
-order: '1647'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1969,704,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1969,704,98/full/0/default.jpg
-label: God's help
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043567800
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/150,/0/default.jpg
+label: "[:46.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4714/'>to gild</a>"
+order: '467'
 layout: index_item
 collection: index2
 ---

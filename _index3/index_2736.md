@@ -2,29 +2,27 @@
 pid: index_2736
 volume: Volume 3
 image_number: '32'
-head: notes
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1418 [Notes & Papers]</a>"
+head: to note
+entry: "<a href='/digital-beehive/toc/toc2_166/'>892 [Mark]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-57f7792cd"
+item: "#item-6686a6ae6"
 unparsed: 
-line: 'Head: notes|Entry: 1418 [Notes & Papers]|#item-57f7792cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1824,2398,413,103/full/0/default.jpg
+line: 'Head: to note|Entry: 892 [Mark]|#item-6686a6ae6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1825,2515,456,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449492768
-order: '2736'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1824,2398,413,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1824,2398,413,103/full/0/default.jpg
-label: notes
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449540087
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1825,2515,456,128/150,/0/default.jpg
+label: to note
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '816'
 layout: index_item
 collection: index3
 ---

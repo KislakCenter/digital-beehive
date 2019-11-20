@@ -3,28 +3,26 @@ pid: alpha_0528
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Letter
-topic: Letter
+entry: Lending
+topic: Lending
 first_letter: L
-xref: "<a href='/digital-beehive/toc/toc2_117/'>481 [Letter]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2263/'>letter</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0d1852435"
+xref: "<a href='/digital-beehive/alpha1/alpha_0093/'>Borrowing</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2254/'>lending</a>"
+item: "#item-9bc658305"
 unparsed: 
-line: 'Entry: Letter|Topic: Letter|Xref: 481 [Letter]|Index: letter|#item-0d1852435'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,3027,376/full/0/default.jpg
+line: 'Entry: Lending|Topic: Lending|Xref: Borrowing|Index: lending|#item-9bc658305'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,3020,304/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768731528
-order: '528'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,3027,376/full/0/default.jpg
-label: Letter
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768673360
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/334,2534,600,180/250,/0/default.jpg
+label: Lending
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '084'
 layout: alpha_item
 collection: alpha3
 ---

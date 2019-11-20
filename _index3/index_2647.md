@@ -6,25 +6,23 @@ head: native
 entry: 
 topic: 
 first_letter: N
-xref: 
-see: "<a href='/digital-beehive/index1/index_0877/'>Country</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0877/'>Country</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-1e66a014d"
 unparsed: 
 line: 'Head: native|See: Country|#item-1e66a014d'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/394,1137,572,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560437554753
-order: '2647'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/394,1137,572,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/394,1137,572,152/full/0/default.jpg
 label: native
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '727'
 layout: index_item
 collection: index3
 ---

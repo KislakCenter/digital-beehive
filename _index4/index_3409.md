@@ -2,29 +2,27 @@
 pid: index_3409
 volume: Volume 3
 image_number: '40'
-head: to review
-entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [To Review]</a>"
+head: reviling
+entry: "<a href='/digital-beehive/toc/toc2_127/'>538 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-73ade0dbd"
+item: "#item-6f77128e7"
 unparsed: 
-line: 'Head: to review|Entry: 1452 [To Review]|#item-73ade0dbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/full/0/default.jpg
+line: 'Head: reviling|Entry: 538 [WORD_ILLEGIBLE]|#item-6f77128e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231100788
-order: '3409'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/full/0/default.jpg
-label: to review
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/150,/0/default.jpg
+label: reviling
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0656'
 layout: index_item
 collection: index4
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0569
 volume: Volume 2
-image_number: '31'
+image_number: '30'
 head: 
-entry: Marriage
-topic: Marriage
+entry: Malignity
+topic: Malignity
 first_letter: M
-xref: "<a href='/digital-beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/digital-beehive/toc/toc2_089/'>285
-  [Marriage]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2432/'>marriage</a>"
-insertion_xref: 
-insertion: 
-item: "#item-315abb275"
+xref: "<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a href='/digital-beehive/alpha3/alpha_0632/'>naughtiness</a>|<a
+  href='/digital-beehive/alpha2/alpha_0285/'>envy</a>|<a href='/digital-beehive/alpha2/alpha_0401/'>hatred</a>"
+see: 
+index: malignity
+item: "#item-4540729e7"
 unparsed: 
-line: 'Entry: Marriage|Topic: Marriage|Xref: Celibate|Xref: 285 [Marriage]|Index:
-  marriage|#item-315abb275'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/343,1247,3071,1801/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564772715165
-order: '569'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/343,1247,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/343,1247,3071,1801/full/0/default.jpg
-label: Marriage
-location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+line: 'Entry: Malignity|Topic: Malignity|Xref: Wickedness|Xref: naughtiness|Xref:
+  envy|Xref: hatred|Index: malignity|#item-4540729e7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,2993,462/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564772356663
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,600,180/250,/0/default.jpg
+label: Malignity
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+num_match: 
+order: '125'
 layout: alpha_item
 collection: alpha3
 ---

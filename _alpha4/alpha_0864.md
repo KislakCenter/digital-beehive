@@ -3,28 +3,27 @@ pid: alpha_0864
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Siege
-topic: Siege
+entry: Shape
+topic: Shape
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3699/'>siege</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b678217f5"
+xref: "<a href='/digital-beehive/alpha2/alpha_0301/'>external appearance</a>|face|form"
+see: 
+index: "<a href='/digital-beehive/index4/index_3662/'>shape</a>"
+item: "#item-f4b4428ef"
 unparsed: 
-line: 'Entry: Siege|Topic: Siege|Index: siege|#item-b678217f5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,2902,321/full/0/default.jpg
+line: 'Entry: Shape|Topic: Shape|Xref: external appearance|Xref: face|Xref: form|Index:
+  shape|#item-f4b4428ef'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/767,1979,3007,533/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803775214
-order: '864'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,2902,321/full/0/default.jpg
-label: Siege
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803436255
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/767,1979,600,180/250,/0/default.jpg
+label: Shape
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '216'
 layout: alpha_item
 collection: alpha4
 ---

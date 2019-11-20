@@ -3,28 +3,27 @@ pid: alpha_0271
 volume: Volume 1
 image_number: '452'
 head: 
-entry: Earthquake
-topic: Earthquake
+entry: Earth
+topic: Earth
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_241/'>1237 [Earthquakes]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1190/'>earthquake</a>"
-insertion_xref: 
-insertion: 
-item: "#item-aada765c4"
+xref: "<a href='/digital-beehive/alpha5/alpha_1056/'>World</a>|<a href='/digital-beehive/toc/toc2_378/'>2130
+  [Earth]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1186/'>earth</a>"
+item: "#item-a3ac6b45a"
 unparsed: 
-line: 'Entry: Earthquake|Topic: Earthquake|XRef: 1237 [Earthquakes]|Index: earthquake|#item-aada765c4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,3029,581/full/0/default.jpg
+line: 'Entry: Earth|Topic: Earth|Xref: World|Xref: 2130 [Earth]|Index: earth|#item-a3ac6b45a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,2960,651/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564517613653
-order: '271'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,3029,581/full/0/default.jpg
-label: Earthquake
+annotation_uri: http://dev.llgc.org.uk/annotation/1564517510076
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,2806,600,180/250,/0/default.jpg
+label: Earth
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+num_match: 
+order: '002'
 layout: alpha_item
 collection: alpha2
 ---

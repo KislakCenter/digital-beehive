@@ -2,29 +2,27 @@
 pid: index_4674
 volume: Volume 3
 image_number: '54'
-head: Duke
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1907 [Duke]</a>"
+head: attributes of god
+entry: 1886 [PAGE_MISSING]
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:10.]"
-item: "#item-864b155f7"
-unparsed: 
-line: 'Type: Index|Insertion: [:10.]|Head: Duke|Entry: 1907 [Duke]|#item-864b155f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/full/0/default.jpg
+item: "#item-7802c001a"
+unparsed: Type Index|Insertion [:11.]
+line: 'Type: Index|Insertion: [:11.]|Head: attributes of god|Entry: 1886 [PAGE_MISSING]|#item-7802c001a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560868397906
-order: '4674'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/full/0/default.jpg
-label: Duke
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868462887
+insertion: "[:11.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/150,/0/default.jpg
+label: attributes of god
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '641'
 layout: index_item
 collection: index5
 ---

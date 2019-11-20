@@ -3,28 +3,26 @@ pid: alpha_0276
 volume: Volume 1
 image_number: '453'
 head: 
-entry: Eel
-topic: Eel
+entry: Eclipse
+topic: Eclipse
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Eel]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1211/'>eel</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ab3f11547"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>936 [Eclipse]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1204/'>eclipse</a>"
+item: "#item-3a398c693"
 unparsed: 
-line: 'Entry: Eel|Topic: Eel|Xref: 1647 [Eel]|Index: eel|#item-ab3f11547'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,3061,175/full/0/default.jpg
+line: 'Entry: Eclipse|Topic: Eclipse|Xref: 936 [Eclipse]|Index: eclipse|#item-3a398c693'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,3117,234/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518228193
-order: '276'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,3061,175/full/0/default.jpg
-label: Eel
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518194850
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,600,180/250,/0/default.jpg
+label: Eclipse
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '007'
 layout: alpha_item
 collection: alpha2
 ---

@@ -8,14 +8,11 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0153/'>a</a>|<a href='/digital-be
   [PAGE_MISSING]"
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_091/'>p.41 [Image 1.101]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-73c5f622f"
 unparsed: 
 line: 'Head: comedy|Page: p.41 [Image 1.101]|Entry: a|Entry: 909 [Comedies]|Entry:
@@ -23,11 +20,12 @@ line: 'Head: comedy|Page: p.41 [Image 1.101]|Entry: a|Entry: 909 [Comedies]|Entr
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536610589800
-order: '730'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1543,1103,732,160/full/0/default.jpg
 label: comedy
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+insertion_xref: 
+order: '0729'
 layout: index_item
 collection: index1
 ---

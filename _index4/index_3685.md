@@ -2,29 +2,27 @@
 pid: index_3685
 volume: Volume 3
 image_number: '42'
-head: shopkeeper
-entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
+head: shore
+entry: 749 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-46f6950b2"
+item: "#item-260b6172c"
 unparsed: 
-line: 'Head: shopkeeper|Page: p.7 [Image 1.67]|Entry: 109 [a Shop-keeper]|#item-46f6950b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/full/0/default.jpg
+line: 'Head: shore|Entry: 749 [PAGE_MISSING]|#item-260b6172c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1795,2332,443,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576332407
-order: '3685'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/full/0/default.jpg
-label: shopkeeper
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576386478
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1795,2332,443,130/150,/0/default.jpg
+label: shore
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0932'
 layout: index_item
 collection: index4
 ---

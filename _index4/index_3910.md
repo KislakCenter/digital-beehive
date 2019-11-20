@@ -2,29 +2,28 @@
 pid: index_3910
 volume: Volume 3
 image_number: '45'
-head: Stoicks
-entry: "<a href='/digital-beehive/toc/toc2_207/'>1067 [Stoicks]</a>"
+head: stomach
+entry: "<a href='/digital-beehive/alpha4/alpha_0912/'>a</a>|<a href='/digital-beehive/toc/toc2_380/'>2144
+  [Stomach]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-05d40babe"
+item: "#item-d202ffb1f"
 unparsed: 
-line: 'Head: Stoicks|Entry: 1067 [Stoicks]|#item-05d40babe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,3042,470,121/full/0/default.jpg
+line: 'Head: stomach|Entry: a|Entry: 2144 [Stomach]|#item-d202ffb1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/219,3174,592,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448459487
-order: '3910'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,3042,470,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/209,3042,470,121/full/0/default.jpg
-label: Stoicks
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448539107
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/219,3174,592,116/150,/0/default.jpg
+label: stomach
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1157'
 layout: index_item
 collection: index4
 ---

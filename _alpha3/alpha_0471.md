@@ -3,28 +3,26 @@ pid: alpha_0471
 volume: Volume 2
 image_number: '23'
 head: 
-entry: Infidelity
-topic: Infidelity
+entry: Infant Killing
+topic: Infant Killing
 first_letter: I/J
-xref: "<a href='/digital-beehive/toc/toc2_412/'>2380 [Unfaithful]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2033/'>infidelity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3d1985b0c"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2031/'>infant killing</a>"
+item: "#item-3532e502e"
 unparsed: 
-line: 'Entry: Infidelity|Topic: Infidelity|Xref: 2380 [Unfaithful]|Index: infidelity|#item-3d1985b0c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,3041,282/full/0/default.jpg
+line: 'Entry: Infant Killing|Topic: Infant Killing|Index: infant killing|#item-3532e502e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/300,783,3027,242/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760076502
-order: '471'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,3041,282/full/0/default.jpg
-label: Infidelity
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760044656
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/300,783,600,180/250,/0/default.jpg
+label: Infant Killing
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+num_match: 
+order: '027'
 layout: alpha_item
 collection: alpha3
 ---

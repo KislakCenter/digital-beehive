@@ -3,28 +3,26 @@ pid: alpha_0242
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Disobedience
-topic: Disobedience
+entry: Discretion
+topic: Discretion
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1086/'>disobedience</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ab66bd9fd"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index1/index_1073/'>discretion</a>"
+item: "#item-c8b7cc6c4"
 unparsed: 
-line: 'Entry: Disobedience|Topic: Disobedience|Xref: 1898 [Disobedience]|Index: disobedience|#item-ab66bd9fd'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,2958,716/full/0/default.jpg
+line: 'Entry: Discretion|Topic: Discretion|Index: discretion|#item-c8b7cc6c4'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,2916,220/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175511649
-order: '242'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,2958,716/full/0/default.jpg
-label: Disobedience
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175350769
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,600,180/250,/0/default.jpg
+label: Discretion
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '241'
 layout: alpha_item
 collection: alpha1
 ---

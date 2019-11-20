@@ -1,32 +1,31 @@
 ---
 pid: alpha_0878
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Slavery
-topic: Slavery
+entry: Sin
+topic: Sin
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0852/'>Servitude</a>|Captivity|<a href='/digital-beehive/toc/toc2_222/'>1141
-  [Slavery]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3745/'>slavery</a>"
-insertion_xref: 
-insertion: 
-item: "#item-60fdb7e63"
+xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/digital-beehive/alpha3/alpha_0559/'>love
+  of Sin</a>|<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a href='/digital-beehive/num2/num_0370/'>322
+  [Sin]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3718/'>sin</a>"
+item: "#item-4f5133a05"
 unparsed: 
-line: 'Entry: Slavery|Topic: Slavery|Xref: Servitude|Xref: Captivity|Xref: 1141 [Slavery]|Index:
-  slavery|#item-60fdb7e63'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/778,187,2987,298/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532448715551
-order: '878'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/778,187,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/778,187,2987,298/full/0/default.jpg
-label: Slavery
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Sin|Topic: Sin|Xref: Crime|Xref: love of Sin|Xref: Wickedness|Xref:
+  322 [Sin]|Index: sin|#item-4f5133a05'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/317,1805,3053,642/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023505862
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/317,1805,600,180/250,/0/default.jpg
+label: Sin
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '230'
 layout: alpha_item
 collection: alpha4
 ---

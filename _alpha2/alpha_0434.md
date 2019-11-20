@@ -1,31 +1,30 @@
 ---
 pid: alpha_0434
 volume: Volume 2
-image_number: '20'
+image_number: '19'
 head: 
-entry: House
-topic: House
+entry: Hotch potch
+topic: Hotch potch
 first_letter: H
-xref: "<a href='/digital-beehive/alpha2/alpha_0424/'>Home</a>|<a href='/digital-beehive/toc/toc2_230/'>1184
-  [house]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1890/'>house</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4ee22d882"
+xref: "<a href='/digital-beehive/alpha5/alpha_0988/'>Variety</a>|<a href='/digital-beehive/toc/toc2_202/'>1043
+  [Hotch-potch]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"
+item: "#item-17f0268cc"
 unparsed: 
-line: 'Entry: House|Topic: House|Xref: Home|Xref: 1184 [house]|Index: house|#item-4ee22d882'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,2961,409/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733432330
-order: '434'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,233,2961,409/full/0/default.jpg
-label: House
-location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
+line: 'Entry: Hotch potch|Topic: Hotch potch|Xref: Variety|Xref: 1043 [Hotch-potch]|Index:
+  hotchpotch|#item-17f0268cc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,3004,344/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733323497
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,600,180/250,/0/default.jpg
+label: Hotch potch
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '165'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,29 +2,27 @@
 pid: index_3491
 volume: Volume 3
 image_number: '40'
-head: sagacity
-entry: 
+head: sage
+entry: "<a href='/digital-beehive/alpha4/alpha_0823/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: wit
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0c59a386a"
+item: "#item-842a5d6b7"
 unparsed: 
-line: 'Head: sagacity|See: wit|#item-0c59a386a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1829,2464,562,121/full/0/default.jpg
+line: 'Head: sage|Entry: a|#item-842a5d6b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1813,2556,290,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235133686
-order: '3491'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1829,2464,562,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1829,2464,562,121/full/0/default.jpg
-label: sagacity
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235147811
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1813,2556,290,107/150,/0/default.jpg
+label: sage
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0738'
 layout: index_item
 collection: index4
 ---

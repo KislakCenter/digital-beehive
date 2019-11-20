@@ -2,29 +2,27 @@
 pid: index_2668
 volume: Volume 3
 image_number: '32'
-head: near
-entry: "<a href='/digital-beehive/toc/toc2_156/'>703 [Near]</a>|813 [PAGE_MISSING]"
+head: neat
+entry: "<a href='/digital-beehive/num1/num_0203/'>195 [Ornament]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8ff969460"
+item: "#item-6e99e8bc4"
 unparsed: 
-line: 'Head: near|Entry: 703 [Near]|Entry: 813 [PAGE_MISSING]|#item-8ff969460'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/378,2696,511,85/full/0/default.jpg
+line: 'Head: neat|Entry: 195 [Ornament]|#item-6e99e8bc4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/383,2799,299,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438803600
-order: '2668'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/378,2696,511,85/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/378,2696,511,85/full/0/default.jpg
-label: near
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438955237
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/383,2799,299,113/150,/0/default.jpg
+label: neat
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '748'
 layout: index_item
 collection: index3
 ---

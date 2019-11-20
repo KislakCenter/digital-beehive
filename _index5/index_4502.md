@@ -2,29 +2,27 @@
 pid: index_4502
 volume: Volume 3
 image_number: '52'
-head: weary
-entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [Weariness]</a>"
+head: weasel
+entry: 
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-05476ee44"
+item: "#item-04eaaf75c"
 unparsed: 
-line: 'Head: weary|Entry: 719 [Weariness]|#item-05476ee44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/473,2645,407,151/full/0/default.jpg
+line: 'Head: weasel|Page: p.34 [Image 1.94]|#item-04eaaf75c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/448,2773,469,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961114550
-order: '4502'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/473,2645,407,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/473,2645,407,151/full/0/default.jpg
-label: weary
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961126653
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/448,2773,469,160/150,/0/default.jpg
+label: weasel
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '469'
 layout: index_item
 collection: index5
 ---

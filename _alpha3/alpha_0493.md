@@ -3,30 +3,26 @@ pid: alpha_0493
 volume: Volume 2
 image_number: '24'
 head: 
-entry: Judgment
-topic: Judgment
+entry: Judge
+topic: Judge
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/digital-beehive/toc/toc2_200/'>1032
-  [Judgmt]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2134/'>judgmt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-575849230"
+xref: "<a href='/digital-beehive/toc/toc2_325/'>1652 [Judge]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2131/'>judge</a>"
+item: "#item-af0b7a605"
 unparsed: 
-line: 'Entry: Judgment|Topic: Judgment|Xref: condemnation|Xref: 1032 [Judgmt]|Index:
-  judgmt|#item-575849230'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,2983,596/full/0/default.jpg
+line: 'Entry: Judge|Topic: Judge|Xref: 1652 [Judge]|Index: judge|#item-af0b7a605'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,4093,2976,535/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564762327437
-order: '493'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,2983,596/full/0/default.jpg
-label: Judgment
+annotation_uri: http://dev.llgc.org.uk/annotation/1564762279999
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,4093,600,180/250,/0/default.jpg
+label: Judge
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+num_match: 
+order: '049'
 layout: alpha_item
 collection: alpha3
 ---

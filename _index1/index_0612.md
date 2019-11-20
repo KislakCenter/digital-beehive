@@ -2,29 +2,27 @@
 pid: index_0612
 volume: Volume 3
 image_number: '12'
-head: charnelhouse
-entry: 
+head: charter
+entry: "<a href='/digital-beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
 topic: 
 first_letter: C
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_094/'>p.44 [Image 1.104]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2f6dfd57d"
+item: "#item-7be07c676"
 unparsed: 
-line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/full/0/default.jpg
+line: 'Head: charter|Entry: 635 [Great, rich & eminent Persons]|#item-7be07c676'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
-order: '612'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/full/0/default.jpg
-label: charnelhouse
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443980324
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/150,/0/default.jpg
+label: charter
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0611'
 layout: index_item
 collection: index1
 ---

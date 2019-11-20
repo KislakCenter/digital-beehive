@@ -3,28 +3,26 @@ pid: alpha_0860
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Shoe
-topic: Shoe
+entry: Severity
+topic: Severity
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_287/'>1469 [Shoe]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3682/'>shoe</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b3b644c2c"
+xref: "<a href='/digital-beehive/alpha1/alpha_0199/'>Cruelty</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3650/'>severity</a>"
+item: "#item-248d6ff8e"
 unparsed: 
-line: 'Entry: Shoe|Topic: Shoe|Xref: 1469 [Shoe]|Index: shoe|#item-b3b644c2c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/734,2956,3026,417/full/0/default.jpg
+line: 'Entry: Severity|Topic: Severity|Xref: Cruelty|Index: severity|#item-248d6ff8e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,811,2965,440/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803585913
-order: '860'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/734,2956,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/734,2956,3026,417/full/0/default.jpg
-label: Shoe
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803153011
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,811,600,180/250,/0/default.jpg
+label: Severity
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '212'
 layout: alpha_item
 collection: alpha4
 ---

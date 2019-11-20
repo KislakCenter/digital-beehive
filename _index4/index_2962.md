@@ -2,31 +2,28 @@
 pid: index_2962
 volume: Volume 3
 image_number: '35'
-head: periwig
-entry: "<a href='/digital-beehive/toc/toc2_261/'>1337 [Hair & Perriwigs]</a>|<a href='/digital-beehive/toc/toc2_418/'>2422
-  [Hair & Periwigs]</a>"
+head: permission
+entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>|<a href='/digital-beehive/toc/toc2_428/'>4489
+  [License]</a>"
 topic: 
 first_letter: P
-xref: 
-see: "<a href='/digital-beehive/index2/index_1738/'>hair</a>"
-page: "<a href='/digital-beehive/toc_vol1/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6d1102818"
+item: "#item-1ead4f898"
 unparsed: 
-line: 'Head: periwig|Page: p.43 [Image 1.103]|See: hair|Entry: 1337 [Hair & Perriwigs]|Entry:
-  2422 [Hair & Periwigs]|#item-6d1102818'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/164,3086,707,145/full/0/default.jpg
+line: 'Head: permission|Entry: 565 [License]|Entry: 4489 [License]|#item-1ead4f898'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,3224,714,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973267822
-order: '2962'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/164,3086,707,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/164,3086,707,145/full/0/default.jpg
-label: periwig
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973802545
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,3224,714,132/150,/0/default.jpg
+label: permission
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0210'
 layout: index_item
 collection: index4
 ---

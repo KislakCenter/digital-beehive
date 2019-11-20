@@ -2,29 +2,28 @@
 pid: index_3548
 volume: Volume 3
 image_number: '41'
-head: schole fellows
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Schoolfellow]</a>"
+head: scholars
+entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
+  [Scholars]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-106e9a67c"
+item: "#item-d8c98522f"
 unparsed: 
-line: 'Head: schole fellows|Entry: 1416 [Schoolfellow]|#item-106e9a67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/full/0/default.jpg
+line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240513597
-order: '3548'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/full/0/default.jpg
-label: schole fellows
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/150,/0/default.jpg
+label: scholars
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0795'
 layout: index_item
 collection: index4
 ---

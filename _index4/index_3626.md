@@ -2,29 +2,28 @@
 pid: index_3626
 volume: Volume 3
 image_number: '42'
-head: Self preservation
-entry: "<a href='/digital-beehive/toc/toc2_372/'>2069 [Selfpreservation]</a>"
+head: Self profit
+entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/num2/num_0565/'>455
+  [Self-profit]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4d214eed3"
+item: "#item-0eb164c43"
 unparsed: 
-line: 'Head: Self preservation|Entry: 2069 [Selfpreservation]|#item-4d214eed3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/full/0/default.jpg
+line: 'Head: Self profit|Entry: a|Entry: 455 [Self-profit]|#item-0eb164c43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244811244
-order: '3626'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/full/0/default.jpg
-label: Self preservation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244857373
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/150,/0/default.jpg
+label: Self profit
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0873'
 layout: index_item
 collection: index4
 ---

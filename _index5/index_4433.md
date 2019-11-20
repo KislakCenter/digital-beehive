@@ -2,30 +2,27 @@
 pid: index_4433
 volume: Volume 3
 image_number: '51'
-head: to vote
-entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
-  [Votes]</a>"
+head: vow
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1229 [of Vows & Promises to God]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e7d7feb3c"
+item: "#item-fc3c77106"
 unparsed: 
-line: 'Head: to vote|Entry: 867 [To Vote]|Entry: 2423 [Votes]|#item-e7d7feb3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
+line: 'Head: vow|Entry: 1229 [of Vows & Promises to God]|#item-fc3c77106'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/950,311,357,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646244652
-order: '4433'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
-label: to vote
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646429998
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/950,311,357,146/150,/0/default.jpg
+label: vow
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '400'
 layout: index_item
 collection: index5
 ---

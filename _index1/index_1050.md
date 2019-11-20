@@ -6,25 +6,23 @@ head: diffidence
 entry: 
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-8dac9212c"
 unparsed: 
 line: 'Head: diffidence|See: distrust|#item-8dac9212c'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1858,1599,612,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541783766709
-order: '1050'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1858,1599,612,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1858,1599,612,109/full/0/default.jpg
 label: diffidence
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '1047'
 layout: index_item
 collection: index1
 ---

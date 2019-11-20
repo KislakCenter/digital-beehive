@@ -3,30 +3,26 @@ pid: alpha_0522
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Leader
-topic: Leader
+entry: Lawyer
+topic: Lawyer
 first_letter: L
-xref: "<a href='/digital-beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/digital-beehive/toc/toc2_249/'>1280
-  [Leader]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e94eb3b2e"
+xref: "<a href='/digital-beehive/toc/toc2_130/'>559 [Lawyer]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2226/'>lawyer</a>"
+item: "#item-5ced3abcf"
 unparsed: 
-line: 'Entry: Leader|Topic: Leader|Xref: Captain|Xref: Inspiration|Xref: 1280 [Leader]|Index:
-  leader|#item-e94eb3b2e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,3071,469/full/0/default.jpg
+line: 'Entry: Lawyer|Topic: Lawyer|Xref: 559 [Lawyer]|Index: lawyer|#item-5ced3abcf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768541954
-order: '522'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,3071,469/full/0/default.jpg
-label: Leader
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768429201
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
+label: Lawyer
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '078'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,31 +2,27 @@
 pid: index_3207
 volume: Volume 3
 image_number: '37'
-head: protestants
-entry: "<a href='/digital-beehive/toc/toc2_065/'>83 [Protestant]</a>|<a href='/digital-beehive/toc/toc2_297/'>1511
-  [protestant Religion]</a>|<a href='/digital-beehive/toc/toc2_396/'>2264 [Protestants]</a>"
+head: protestation
+entry: "<a href='/digital-beehive/toc/toc2_428/'>4491 [Protestation]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f84e26f79"
+item: "#item-82138d250"
 unparsed: 
-line: 'Head: protestants|Entry: 83 [Protestant]|Entry: 1511 [protestant Religion]|Entry:
-  2264 [Protestants]|#item-f84e26f79'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,1929,790,133/full/0/default.jpg
+line: 'Head: protestation|See: denial|Entry: 4491 [Protestation]|#item-82138d250'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1495,2043,752,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869472203
-order: '3207'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,1929,790,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,1929,790,133/full/0/default.jpg
-label: protestants
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869501978
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1495,2043,752,150/150,/0/default.jpg
+label: protestation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0454'
 layout: index_item
 collection: index4
 ---

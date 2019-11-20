@@ -2,30 +2,27 @@
 pid: index_3684
 volume: Volume 3
 image_number: '42'
-head: shooting
-entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/toc/toc2_300/'>1526
-  [Shooting]</a>"
+head: shopkeeper
+entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2480e53da"
+item: "#item-46f6950b2"
 unparsed: 
-line: 'Head: shooting|Entry: a|Entry: 1526 [Shooting]|#item-2480e53da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1805,2063,598,130/full/0/default.jpg
+line: 'Head: shopkeeper|Page: p.7 [Image 1.67]|Entry: 109 [a Shop-keeper]|#item-46f6950b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576294122
-order: '3684'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1805,2063,598,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1805,2063,598,130/full/0/default.jpg
-label: shooting
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576332407
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2187,676,148/150,/0/default.jpg
+label: shopkeeper
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0931'
 layout: index_item
 collection: index4
 ---

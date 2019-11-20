@@ -2,29 +2,27 @@
 pid: index_2747
 volume: Volume 3
 image_number: '33'
-head: 
-entry: "<a href='/digital-beehive/toc/toc2_100/'>363 [Annulling]</a>"
+head: number
+entry: "<a href='/digital-beehive/num2/num_0291/'>262 [Number]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-891041b23"
+item: "#item-c9e611391"
 unparsed: 
-line: 'Head: null|Entry: 363 [Annulling]|#item-891041b23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,491,489,159/full/0/default.jpg
+line: 'Head: number|Entry: 262 [Number]|#item-c9e611391'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/158,620,545,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536346384594
-order: '2747'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,491,489,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/147,491,489,159/full/0/default.jpg
-label: 
+annotation_uri: http://dev.llgc.org.uk/annotation/1536346407531
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/158,620,545,152/150,/0/default.jpg
+label: number
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+insertion_xref: 
+order: '827'
 layout: index_item
 collection: index3
 ---

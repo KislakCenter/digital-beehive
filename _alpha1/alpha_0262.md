@@ -1,31 +1,28 @@
 ---
 pid: alpha_0262
 volume: Volume 1
-image_number: '452'
+image_number: '451'
 head: 
-entry: Drink
-topic: Drink
+entry: Drieness
+topic: Drieness
 first_letter: D
-xref: "<a href='/digital-beehive/alpha2/alpha_0403/'>Drinking of healths</a>|<a href='/digital-beehive/alpha5/alpha_0941/'>Thirst</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1152/'>drink</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6376317e7"
+xref: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1149/'>drieness</a>"
+item: "#item-edc1632ba"
 unparsed: 
-line: 'Entry: Drink|Topic: Drink|Xref: Drinking of healths|Xref: Thirst|Xref: 775
-  [PAGE_MISSING]|Index: drink|#item-6376317e7'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,252,2910,440/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508782362797
-order: '262'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,252,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,252,2910,440/full/0/default.jpg
-label: Drink
-location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+line: 'Entry: Drieness|Topic: Drieness|Xref: 1526 [Drought or Driness]|Index: drieness|#item-edc1632ba'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,2969,297/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508179228190
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4710,600,180/250,/0/default.jpg
+label: Drieness
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '261'
 layout: alpha_item
 collection: alpha1
 ---

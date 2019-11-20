@@ -2,29 +2,28 @@
 pid: index_3478
 volume: Volume 3
 image_number: '40'
-head: sack
-entry: 4637 [PAGE_MISSING]
+head: Sacramt
+entry: "<a href='/digital-beehive/alpha4/alpha_0820/'>a</a>|<a href='/digital-beehive/toc/toc2_369/'>2033
+  [Sacramts]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5c00da219"
+item: "#item-04b1fa71a"
 unparsed: 
-line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/full/0/default.jpg
+line: 'Head: Sacramt|Entry: a|Entry: 2033 [Sacramts]|#item-04b1fa71a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
-order: '3478'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,1209,353,107/full/0/default.jpg
-label: sack
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234654837
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/150,/0/default.jpg
+label: Sacramt
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0725'
 layout: index_item
 collection: index4
 ---

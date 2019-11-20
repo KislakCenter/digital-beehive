@@ -2,29 +2,27 @@
 pid: index_4554
 volume: Volume 3
 image_number: '52'
-head: willful
-entry: "<a href='/digital-beehive/toc/toc2_094/'>321 [Willingness]</a>"
+head: Pr. William
+entry: "<a href='/digital-beehive/toc/toc2_246/'>1262 [Prince Wm. of Orange]</a>"
 topic: 
 first_letter: W
-xref: 
-see: "<a href='/digital-beehive/index4/index_3947/'>stubborn</a>"
 page: 
-add: "<a href='/digital-beehive/index5/index_4625/'>worship</a>"
-type: 
+add: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2736a006e"
+item: "#item-25955e25c"
 unparsed: 
-line: 'Head: willful|Entry: 321 [Willingness]|See: stubborn|Add: worship|#item-2736a006e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/full/0/default.jpg
+line: 'Head: Pr. William|Entry: 1262 [Prince Wm. of Orange]|#item-25955e25c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972480041
-order: '4554'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2731,732,207/full/0/default.jpg
-label: willful
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972538443
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/150,/0/default.jpg
+label: Pr. William
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '521'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_4277
 volume: Volume 3
 image_number: '49'
-head: twins
-entry: 756 [PAGE_MISSING]
+head: two
+entry: "<a href='/digital-beehive/num1/num_0195/'>187 [Two]</a>|<a href='/digital-beehive/num2/num_0381/'>332
+  [Two]</a>|<a href='/digital-beehive/toc/toc2_384/'>2182 [Two]</a>|4580 [PAGE_MISSING]"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-82230af46"
+item: "#item-0402b0057"
 unparsed: 
-line: 'Head: twins|Entry: 756 [PAGE_MISSING]|#item-82230af46'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/212,2547,383,104/full/0/default.jpg
+line: 'Head: two|Entry: 187 [Two]|Entry: 332 [Two]|Entry: 2182 [Two]|Entry: 4580 [PAGE_MISSING]|#item-0402b0057'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/202,2689,769,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656983426
-order: '4277'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/212,2547,383,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/212,2547,383,104/full/0/default.jpg
-label: twins
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657126724
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/202,2689,769,109/150,/0/default.jpg
+label: two
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '244'
 layout: index_item
 collection: index5
 ---

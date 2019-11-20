@@ -6,15 +6,12 @@ head:
 entry: Agreeableness
 topic: Agreeableness
 first_letter: A
-xref: "<a href='/digital-beehive/toc/toc2_065/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/toc/toc2_165/'>889
-  [Agreeable]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0079/'>agreable</a>"
-insertion_xref: 
-insertion: 
+xref: "<a href='/digital-beehive/num1/num_0086/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/toc/toc2_165/'>889
+  [Agreeable]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_0078/'>agreable</a>"
 item: "#item-16d46db60"
 unparsed: 
 line: 'Entry: Agreeableness|Topic: Agreeableness|Xref: 85 [Wel- and Unwelcome]|Xref:
@@ -22,11 +19,12 @@ line: 'Entry: Agreeableness|Topic: Agreeableness|Xref: 85 [Wel- and Unwelcome]|X
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,3203,403/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490629815347
-order: '14'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,3203,403/full/0/default.jpg
 label: Agreeableness
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+num_match: 
+order: '013'
 layout: alpha_item
 collection: alpha1
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0996
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: Unmercifullness
-topic: Unmercifullness
+entry: Virginity
+topic: Virginity
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha3/alpha_0584/'>Mercy</a>|<a href='/digital-beehive/toc/toc2_394/'>2251
-  [unmerciful]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4406/'>unmerciful</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2e68f38de"
+xref: "<a href='/digital-beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/digital-beehive/alpha1/alpha_0136/'>Chastity</a>|<a
+  href='/digital-beehive/toc/toc2_366/'>2008 [Virgins]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4340/'>virginity</a>"
+item: "#item-d23541ad7"
 unparsed: 
-line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [unmerciful]|Index:
-  unmerciful|#item-2e68f38de'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/792,2906,2955,625/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912925107
-order: '996'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/792,2906,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/792,2906,2955,625/full/0/default.jpg
-label: Unmercifullness
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Virginity|Topic: Virginity|Xref: Celibate|Xref: Chastity|Xref: 2008
+  [Virgins]|Index: virginity|#item-d23541ad7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/359,4209,2952,398/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004218632
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/359,4209,600,180/250,/0/default.jpg
+label: Virginity
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '061'
 layout: alpha_item
 collection: alpha5
 ---

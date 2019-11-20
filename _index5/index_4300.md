@@ -2,32 +2,27 @@
 pid: index_4300
 volume: Volume 3
 image_number: '49'
-head: various lections
-entry: "<a href='/digital-beehive/toc/toc2_091/'>301 [Uncertainty of the Scriptures]</a>|<a
-  href='/digital-beehive/toc/toc2_086/'>263 [Dittology]</a>|<a href='/digital-beehive/toc/toc2_198/'>1022
-  [Uncertainty of the Scriptures]</a>"
+head: vault
+entry: "<a href='/digital-beehive/toc/toc2_170/'>911 [a Vault]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-436bf55b3"
+item: "#item-8e6075c7b"
 unparsed: 
-line: 'Head: various lections|Entry: 301 [Uncertainty of the Scriptures]|Entry: 263
-  [Dittology]|Entry: 1022 [Uncertainty of the Scriptures]|#item-436bf55b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/full/0/default.jpg
+line: 'Head: vault|Entry: 911 [a Vault]|#item-8e6075c7b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658001283
-order: '4300'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/full/0/default.jpg
-label: various lections
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658394195
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/150,/0/default.jpg
+label: vault
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '267'
 layout: index_item
 collection: index5
 ---

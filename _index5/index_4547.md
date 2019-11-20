@@ -2,30 +2,27 @@
 pid: index_4547
 volume: Volume 3
 image_number: '52'
-head: wife
-entry: "<a href='/digital-beehive/toc/toc2_114/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_290/'>1483
-  [Wife]</a>"
+head: wild
+entry: "<a href='/digital-beehive/num1/num_0139/'>134 [Wild]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ee3f9a6ee"
+item: "#item-9cedc07b0"
 unparsed: 
-line: 'Head: wife|Page: p.42 [Image 1.102]|Entry: 459 [Wife]|Entry: 1483 [Wife]|#item-ee3f9a6ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/full/0/default.jpg
+line: 'Head: wild|Entry: 134 [Wild]|#item-9cedc07b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1762,1939,356,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972099327
-order: '4547'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/full/0/default.jpg
-label: wife
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972143858
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1762,1939,356,131/150,/0/default.jpg
+label: wild
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '514'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_1612
 volume: Volume 3
 image_number: '22'
-head: "[:46.]"
-entry: 
+head: gipsy
+entry: "<a href='/digital-beehive/toc/toc2_142/'>623 [Vagabond]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4715/'>to gild</a>"
-insertion: 
-item: "#item-1e8f21771"
-unparsed: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
-line: 'Type: Index|Insertion Xref: [:46.]|#item-1e8f21771'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/full/0/default.jpg
+item: "#item-dd9f6f25c"
+unparsed: 
+line: 'Head: gipsy|Entry: 623 [Vagabond]|#item-dd9f6f25c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/408,2120,363,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043567800
-order: '1612'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/980,2092,211,129/full/0/default.jpg
-label: "[:46.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043491672
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/408,2120,363,143/150,/0/default.jpg
+label: gipsy
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '432'
 layout: index_item
 collection: index2
 ---

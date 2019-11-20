@@ -2,30 +2,27 @@
 pid: index_0262
 volume: Volume 3
 image_number: '9'
-head: bacchanals
-entry: "<a href='/digital-beehive/alpha1/alpha_0052/'>a</a>|<a href='/digital-beehive/toc/toc2_080/'>222
-  [Shrovetide]</a>"
+head: Bacchus
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2087 [Drunckenness]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ef81501dd"
+item: "#item-7935ee5df"
 unparsed: 
-line: 'Head: bacchanals|Entry: a|Entry: 222 [Shrovetide]|#item-ef81501dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/183,3038,669,116/full/0/default.jpg
+line: 'Head: Bacchus|Entry: 2087 [Drunckenness]|#item-7935ee5df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/155,3123,501,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210863575
-order: '262'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/183,3038,669,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/183,3038,669,116/full/0/default.jpg
-label: bacchanals
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016589381
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/155,3123,501,105/150,/0/default.jpg
+label: Bacchus
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0261'
 layout: index_item
 collection: index1
 ---

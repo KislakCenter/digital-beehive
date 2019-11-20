@@ -3,30 +3,29 @@ pid: alpha_0637
 volume: Volume 2
 image_number: '36'
 head: 
-entry: Nobility
-topic: Nobility
+entry: Neutrality
+topic: Neutrality
 first_letter: N
-xref: "<a href='/digital-beehive/alpha2/alpha_0385/'>great</a>|<a href='/digital-beehive/alpha3/alpha_0451/'>ignoble</a>|ancestors|<a
-  href='/digital-beehive/toc/toc2_076/'>193 [Nobility]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2720/'>nobility</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e6dc7a754"
+xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|Indifferency|<a
+  href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num2/num_0420/'>357
+  [Neutrality]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2692/'>neutrality</a>"
+item: "#item-323b2f38d"
 unparsed: 
-line: 'Entry: Nobility|Topic: Nobility|Xref: great|Xref: ignoble|Xref: ancestors|Xref:
-  193 [Nobility]|Index: nobility|#item-e6dc7a754'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,2930,430/full/0/default.jpg
+line: 'Entry: Neutrality|Topic: Neutrality|Xref: Impartiality|Xref: Indifferency|Xref:
+  91 [Universalists]|Xref: 357 [Neutrality]|Index: neutrality|#item-323b2f38d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,2994,554/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1513274141573
-order: '637'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,2930,430/full/0/default.jpg
-label: Nobility
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015091125
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,600,180/250,/0/default.jpg
+label: Neutrality
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '193'
 layout: alpha_item
 collection: alpha3
 ---

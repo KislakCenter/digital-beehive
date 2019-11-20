@@ -2,31 +2,28 @@
 pid: index_3468
 volume: Volume 3
 image_number: '40'
-head: rules for young merchants
-entry: "<a href='/digital-beehive/toc/toc2_286/'>1463 [Counsel the other who newly
-  begun Merchandise]</a>"
+head: rumor
+entry: 779 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_392/'>2242 [Report &
+  hear-say]</a>
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b586608f7"
+item: "#item-b5755c250"
 unparsed: 
-line: 'Head: rules for young merchants|Entry: 1463 [Counsel the other who newly begun
-  Merchandise]|#item-b586608f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1148,3192,732,179/full/0/default.jpg
+line: 'Head: rumor|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & hear-say]|#item-b5755c250'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234182812
-order: '3468'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1148,3192,732,179/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1148,3192,732,179/full/0/default.jpg
-label: rules for young merchants
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234214692
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,3372,603,189/150,/0/default.jpg
+label: rumor
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0715'
 layout: index_item
 collection: index4
 ---

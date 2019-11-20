@@ -2,30 +2,27 @@
 pid: index_4624
 volume: Volume 3
 image_number: '53'
-head: worship
-entry: "<a href='/digital-beehive/alpha5/alpha_1049/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1070
-  [Worship]</a>|<a href='/digital-beehive/toc/toc2_368/'>2029 [Worship]</a>"
+head: worthiness
+entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b09fd4560"
+item: "#item-4b82e3fd9"
 unparsed: 
-line: 'Head: worship|Entry: a|Entry: 1070 [Worship]|Entry: 2029 [Worship]|#item-b09fd4560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/full/0/default.jpg
+line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797714420
-order: '4624'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/full/0/default.jpg
-label: worship
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/150,/0/default.jpg
+label: worthiness
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '591'
 layout: index_item
 collection: index5
 ---

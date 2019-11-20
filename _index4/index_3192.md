@@ -2,30 +2,28 @@
 pid: index_3192
 volume: Volume 3
 image_number: '37'
-head: proof, or trial
-entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|<a href='/digital-beehive/toc/toc2_118/'>487
-  [Proof. Try all]</a>"
+head: proof or evidence
+entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Proof]</a>|<a href='/digital-beehive/num1/num_0212/'>202
+  [Seriousness]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9c5efa0ad"
+item: "#item-4ce1fc4af"
 unparsed: 
-line: 'Head: proof, or trial|Entry: a|Entry: 487 [Proof. Try all]|#item-9c5efa0ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,260,671,130/full/0/default.jpg
+line: 'Head: proof or evidence|Entry: a|Entry: 913 [Proof]|Entry: 202 [Seriousness]|#item-4ce1fc4af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868779645
-order: '3192'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,260,671,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,260,671,130/full/0/default.jpg
-label: proof, or trial
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868801742
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/150,/0/default.jpg
+label: proof or evidence
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0439'
 layout: index_item
 collection: index4
 ---

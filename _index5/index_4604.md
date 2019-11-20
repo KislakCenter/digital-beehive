@@ -2,29 +2,27 @@
 pid: index_4604
 volume: Volume 3
 image_number: '53'
-head: wooll
-entry: 851 [PAGE_MISSING]
+head: word
+entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Word]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6c4685bbc"
+item: "#item-429dd2a82"
 unparsed: 
-line: 'Head: wooll|Entry: 851 [PAGE_MISSING]|#item-6c4685bbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/871,1433,422,99/full/0/default.jpg
+line: 'Head: word|Entry: 1353 [Word]|#item-429dd2a82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,1706,380,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796293229
-order: '4604'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/871,1433,422,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/871,1433,422,99/full/0/default.jpg
-label: wooll
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796508015
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,1706,380,87/150,/0/default.jpg
+label: word
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '571'
 layout: index_item
 collection: index5
 ---

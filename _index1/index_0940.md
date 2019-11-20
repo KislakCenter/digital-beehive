@@ -2,29 +2,27 @@
 pid: index_0940
 volume: Volume 3
 image_number: '15'
-head: dairy
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1434 [Milk]</a>"
+head: dame
+entry: 
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2546/'>mistress</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-13cb439f6"
+item: "#item-bb7216f3a"
 unparsed: 
-line: 'Head: dairy|Entry: 1434 [Milk]|#item-13cb439f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/full/0/default.jpg
+line: 'Head: dame|See: mistress|#item-bb7216f3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1531,961,675,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390933289
-order: '940'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/full/0/default.jpg
-label: dairy
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390957156
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1531,961,675,138/150,/0/default.jpg
+label: dame
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0937'
 layout: index_item
 collection: index1
 ---

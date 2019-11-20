@@ -3,28 +3,26 @@ pid: alpha_0383
 volume: Volume 2
 image_number: '16'
 head: 
-entry: Gratulation
-topic: Gratulation
+entry: Gravity
+topic: Gravity
 first_letter: G
-xref: "<a href='/digital-beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e07dea125"
+xref: "<a href='/digital-beehive/toc/toc2_408/'>2349 [Gravity]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1703/'>gravity</a>"
+item: "#item-62b38a997"
 unparsed: 
-line: 'Entry: Gratulation|Topic: Gratulation|Xref: 1386 [Gratulation]|Index: gratulation|#item-e07dea125'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,2961,435/full/0/default.jpg
+line: 'Entry: Gravity|Topic: Gravity|Xref: 2349 [Gravity]|Index: gravity|#item-62b38a997'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,3059,273/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564603613503
-order: '383'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,2961,435/full/0/default.jpg
-label: Gratulation
+annotation_uri: http://dev.llgc.org.uk/annotation/1564603582087
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,961,600,180/250,/0/default.jpg
+label: Gravity
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+num_match: 
+order: '114'
 layout: alpha_item
 collection: alpha2
 ---

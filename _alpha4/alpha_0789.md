@@ -3,28 +3,28 @@ pid: alpha_0789
 volume: Volume 2
 image_number: '47'
 head: 
-entry: Resignation
-topic: Resignation
+entry: Renown
+topic: Renown
 first_letter: R
-xref: "<a href='/digital-beehive/toc/toc2_175/'>937 [Resignation]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3387/'>resignation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-803885c1c"
+xref: "<a href='/digital-beehive/alpha2/alpha_0362/'>glory</a>|<a href='/digital-beehive/alpha4/alpha_0794/'>Reputation</a>|<a
+  href='/digital-beehive/alpha2/alpha_0428/'>honour</a>|4541 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3365/'>renown</a>"
+item: "#item-162f83da9"
 unparsed: 
-line: 'Entry: Resignation|Topic: Resignation|Xref: 937 [Resignation]|Index: resignation|#item-803885c1c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,2931,488/full/0/default.jpg
+line: 'Entry: Renown|Topic: Renown|Xref: glory|Xref: Reputation|Xref: honour|Xref:
+  4541 [PAGE_MISSING]|Index: renown|#item-162f83da9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,3039,480/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528821885072
-order: '789'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,2931,488/full/0/default.jpg
-label: Resignation
+annotation_uri: http://dev.llgc.org.uk/annotation/1528743643362
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/312,891,600,180/250,/0/default.jpg
+label: Renown
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '142'
 layout: alpha_item
 collection: alpha4
 ---

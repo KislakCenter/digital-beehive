@@ -2,29 +2,27 @@
 pid: index_4395
 volume: Volume 3
 image_number: '50'
-head: university degrees
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1679 [University Degrees]</a>"
+head: unicorn
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Unicorn]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d019aacb5"
+item: "#item-01460e2a7"
 unparsed: 
-line: 'Head: university degrees|Entry: 1679 [University Degrees]|#item-d019aacb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1099,2034,531,129/full/0/default.jpg
+line: 'Head: unicorn|Entry: 1530 [Unicorn]|#item-01460e2a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1100,2166,451,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881940882
-order: '4395'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1099,2034,531,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1099,2034,531,129/full/0/default.jpg
-label: university degrees
+annotation_uri: http://dev.llgc.org.uk/annotation/1560881956010
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1100,2166,451,117/150,/0/default.jpg
+label: unicorn
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '362'
 layout: index_item
 collection: index5
 ---

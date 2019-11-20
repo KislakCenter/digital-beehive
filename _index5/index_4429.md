@@ -2,29 +2,27 @@
 pid: index_4429
 volume: Volume 3
 image_number: '51'
-head: void
-entry: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Unlawful]</a>"
+head: voluptuousness
+entry: "<a href='/digital-beehive/num1/num_0197/'>189 [Luxury]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5276548d7"
+item: "#item-72163b60d"
 unparsed: 
-line: 'Head: void|Entry: 1603 [Unlawful]|#item-5276548d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/212,2890,322,142/full/0/default.jpg
+line: 'Head: voluptuousness|Entry: 189 [Luxury]|#item-72163b60d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/214,3042,652,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645937842
-order: '4429'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/212,2890,322,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/212,2890,322,142/full/0/default.jpg
-label: void
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645974335
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/214,3042,652,180/150,/0/default.jpg
+label: voluptuousness
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '396'
 layout: index_item
 collection: index5
 ---

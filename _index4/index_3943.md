@@ -2,29 +2,27 @@
 pid: index_3943
 volume: Volume 3
 image_number: '45'
-head: string
-entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [A rope]</a>|773 [PAGE_MISSING]"
+head: stroker
+entry: "<a href='/digital-beehive/num2/num_0450/'>372 [Stroker]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e7357ed0b"
+item: "#item-53e545149"
 unparsed: 
-line: 'Head: string|Entry: 348 [A rope]|Entry: 773 [PAGE_MISSING]|#item-e7357ed0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2894,570,154/full/0/default.jpg
+line: 'Head: stroker|Entry: 372 [Stroker]|#item-53e545149'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290914237
-order: '3943'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2894,570,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2894,570,154/full/0/default.jpg
-label: string
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290931024
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/150,/0/default.jpg
+label: stroker
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1190'
 layout: index_item
 collection: index4
 ---

@@ -1,31 +1,30 @@
 ---
 pid: alpha_0608
 volume: Volume 2
-image_number: '34'
+image_number: '33'
 head: 
-entry: Motto
-topic: Motto
+entry: Mortality
+topic: Mortality
 first_letter: M
-xref: "<a href='/digital-beehive/alpha3/alpha_0478/'>Inscription</a>|<a href='/digital-beehive/toc/toc2_084/'>250
-  [Embleme]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2601/'>motto</a>"
-insertion_xref: 
-insertion: 
-item: "#item-750c936c3"
+xref: "<a href='/digital-beehive/alpha3/alpha_0609/'>Mortality, continued</a>|<a href='/digital-beehive/toc/toc2_208/'>1075
+  [Mortality]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2586/'>mortality</a>"
+item: "#item-81ba29bce"
 unparsed: 
-line: 'Entry: Motto|Topic: Motto|Xref: Inscription|Xref: 250 [Embleme]|Index: motto|#item-750c936c3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/755,1121,3009,221/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564777330272
-order: '608'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/755,1121,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/755,1121,3009,221/full/0/default.jpg
-label: Motto
-location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+line: 'Entry: Mortality|Topic: Mortality|Xref: Mortality, continued|Xref: 1075 [Mortality]|Index:
+  mortality|#item-81ba29bce'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,3006,416/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776960995
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,600,180/250,/0/default.jpg
+label: Mortality
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '164'
 layout: alpha_item
 collection: alpha3
 ---

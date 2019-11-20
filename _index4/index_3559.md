@@ -2,29 +2,27 @@
 pid: index_3559
 volume: Volume 3
 image_number: '41'
-head: scowring
-entry: 4618 [PAGE_MISSING]
+head: Scriptures explained
+entry: "<a href='/digital-beehive/toc/toc2_198/'>1025 [Scripture places Explained]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5f83c58b0"
+item: "#item-e387416cc"
 unparsed: 
-line: 'Head: scowring|Entry: 4618 [PAGE_MISSING]|#item-5f83c58b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/894,2382,512,139/full/0/default.jpg
+line: 'Head: Scriptures explained|Entry: 1025 [Scripture places Explained]|#item-e387416cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/863,2572,582,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241282317
-order: '3559'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/894,2382,512,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/894,2382,512,139/full/0/default.jpg
-label: scowring
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241380801
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/863,2572,582,96/150,/0/default.jpg
+label: Scriptures explained
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0806'
 layout: index_item
 collection: index4
 ---

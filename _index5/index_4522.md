@@ -2,29 +2,27 @@
 pid: index_4522
 volume: Volume 3
 image_number: '52'
-head: West
-entry: 864 [PAGE_MISSING]
+head: West Indies
+entry: "<a href='/digital-beehive/toc/toc2_081/'>228 [West Indies]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-35a8bb021"
+item: "#item-1b38e5fa0"
 unparsed: 
-line: 'Head: West|Entry: 864 [PAGE_MISSING]|#item-35a8bb021'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1073,1905,410,119/full/0/default.jpg
+line: 'Head: West Indies|Entry: 228 [West Indies]|#item-1b38e5fa0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1076,2003,483,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969116745
-order: '4522'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1073,1905,410,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1073,1905,410,119/full/0/default.jpg
-label: West
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969155104
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1076,2003,483,150/150,/0/default.jpg
+label: West Indies
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '489'
 layout: index_item
 collection: index5
 ---

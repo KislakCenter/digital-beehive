@@ -2,29 +2,28 @@
 pid: index_3188
 volume: Volume 3
 image_number: '37'
-head: to prolong
-entry: 851 [PAGE_MISSING]
+head: promise
+entry: "<a href='/digital-beehive/alpha4/alpha_0744/'>a</a>|<a href='/digital-beehive/toc/toc2_279/'>1428
+  [Promised]</a>|<a href='/digital-beehive/toc/toc2_383/'>2178 [Promise]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-60da04bab"
+item: "#item-d1063d8c1"
 unparsed: 
-line: 'Head: to prolong|Entry: 851 [PAGE_MISSING]|#item-60da04bab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,2972,468,130/full/0/default.jpg
+line: 'Head: promise|Entry: a|Entry: 1428 [Promised]|Entry: 2178 [Promise]|#item-d1063d8c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868577278
-order: '3188'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,2972,468,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,2972,468,130/full/0/default.jpg
-label: to prolong
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868621522
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/150,/0/default.jpg
+label: promise
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0435'
 layout: index_item
 collection: index4
 ---

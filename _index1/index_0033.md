@@ -2,29 +2,27 @@
 pid: index_0033
 volume: Volume 3
 image_number: '7'
-head: acorns
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Acorns]</a>"
+head: acquaintance
+entry: "<a href='/digital-beehive/num1/num_0087/'>86 [Acquaintance]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e97b77199"
+item: "#item-d8fe32c06"
 unparsed: 
-line: 'Head: acorns|Entry: 1431 [Acorns]|#item-e97b77199'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/full/0/default.jpg
+line: 'Head: acquaintance|Entry: 86 [Acquaintance]|#item-d8fe32c06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/160,3133,642,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191607454
-order: '33'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/full/0/default.jpg
-label: acorns
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760037064
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/160,3133,642,151/150,/0/default.jpg
+label: acquaintance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0032'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,28 @@
 pid: index_1972
 volume: Volume 3
 image_number: '25'
-head: imploymt
-entry: "<a href='/digital-beehive/toc/toc2_240/'>1232 [Imploymt]</a>"
+head: impossible
+entry: "<a href='/digital-beehive/alpha3/alpha_0464/'>a</a>|<a href='/digital-beehive/toc/toc2_233/'>1196
+  [Impossibilities]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-20c40e5bd"
+item: "#item-a978268a5"
 unparsed: 
-line: 'Head: imploymt|Entry: 1232 [Imploymt]|#item-20c40e5bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/full/0/default.jpg
+line: 'Head: impossible|Entry: a|Entry: 1196 [Impossibilities]|#item-a978268a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/855,2060,571,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666293331
-order: '1972'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/full/0/default.jpg
-label: imploymt
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666491873
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/855,2060,571,155/150,/0/default.jpg
+label: impossible
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '053'
 layout: index_item
 collection: index3
 ---

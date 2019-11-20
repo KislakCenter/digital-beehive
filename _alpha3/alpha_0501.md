@@ -3,28 +3,27 @@ pid: alpha_0501
 volume: Volume 2
 image_number: '25'
 head: 
-entry: Kiss
-topic: Kiss
+entry: Kings evil
+topic: Kings evil
 first_letter: K
-xref: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kissing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2165/'>kiss</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5ebdc777a"
+xref: "<a href='/digital-beehive/toc/toc2_386/'>2201 [King's evil]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2163/'>kings Evil</a>"
+item: "#item-434846485"
 unparsed: 
-line: 'Entry: Kiss|Topic: Kiss|Xref: 1905 [Kissing]|Index: kiss|#item-5ebdc777a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
+line: 'Entry: Kings evil|Topic: Kings evil|Xref: 2201 [King''s evil]|Index: kings
+  Evil|#item-434846485'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/372,3170,3033,338/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765602050
-order: '501'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
-label: Kiss
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765567325
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/372,3170,600,180/250,/0/default.jpg
+label: Kings evil
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
+num_match: 
+order: '057'
 layout: alpha_item
 collection: alpha3
 ---

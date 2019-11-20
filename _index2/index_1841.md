@@ -2,29 +2,27 @@
 pid: index_1841
 volume: Volume 3
 image_number: '24'
-head: hint
-entry: 
+head: to hire
+entry: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>"
 topic: 
 first_letter: H
-xref: 
-see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-43aff8c10"
+item: "#item-cebeaffb1"
 unparsed: 
-line: 'Head: hint|See: brevity|#item-43aff8c10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/406,3017,438,193/full/0/default.jpg
+line: 'Head: to hire|Entry: 549 [Hirelings]|#item-cebeaffb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/411,3150,412,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577569456
-order: '1841'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/406,3017,438,193/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/406,3017,438,193/full/0/default.jpg
-label: hint
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577675232
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/411,3150,412,174/150,/0/default.jpg
+label: to hire
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '660'
 layout: index_item
 collection: index2
 ---

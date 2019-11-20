@@ -1,30 +1,29 @@
 ---
 pid: alpha_1023
 volume: Volume 2
-image_number: '64'
+image_number: '63'
 head: 
-entry: Widowhood
-topic: Widowhood
+entry: Washing of feet
+topic: Washing of feet
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Widow]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4546/'>widowhood</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1d9195d67"
+xref: "<a href='/digital-beehive/toc/toc2_206/'>1061 [Washing]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4484/'>washing of feet</a>"
+item: "#item-4acdc4419"
 unparsed: 
-line: 'Entry: Widowhood|Topic: Widowhood|Xref: 1615 [Widow]|Index: widowhood|#item-1d9195d67'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,2933,432/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529590854947
-order: '1023'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,3956,2933,432/full/0/default.jpg
-label: Widowhood
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+line: 'Entry: Washing of feet|Topic: Washing of feet|Xref: 1061 [Washing]|Index: washing
+  of feet|#item-4acdc4419'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,2989,349/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522993420
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,600,180/250,/0/default.jpg
+label: Washing of feet
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '088'
 layout: alpha_item
 collection: alpha5
 ---

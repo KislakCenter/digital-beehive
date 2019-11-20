@@ -1,32 +1,29 @@
 ---
 pid: alpha_1040
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: Wonderfull things
-topic: Wonderfull things
+entry: Wisedom
+topic: Wisedom
 first_letter: W
-xref: "<a href='/digital-beehive/alpha3/alpha_0593/'>miracle</a>|<a href='/digital-beehive/alpha3/alpha_0601/'>monster</a>|<a
-  href='/digital-beehive/alpha4/alpha_0766/'>rarity</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4602/'>wonderful things</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0d990834d"
+xref: "<a href='/digital-beehive/alpha4/alpha_0755/'>Prudence</a>|<a href='/digital-beehive/toc/toc2_215/'>1107
+  [Wisdom]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4566/'>wisdom</a>"
+item: "#item-e42300dfe"
 unparsed: 
-line: 'Entry: Wonderfull things|Topic: Wonderfull things|Xref: miracle|Xref: monster|Xref:
-  rarity|Index: wonderful things|#item-0d990834d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/762,475,3003,668/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529595229160
-order: '1040'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/762,475,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/762,475,3003,668/full/0/default.jpg
-label: Wonderfull things
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Wisedom|Topic: Wisedom|Xref: Prudence|Xref: 1107 [Wisdom]|Index: wisdom|#item-e42300dfe'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,3023,580/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529592350796
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,600,180/250,/0/default.jpg
+label: Wisedom
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '105'
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,29 +3,28 @@ pid: alpha_0537
 volume: Volume 2
 image_number: '28'
 head: 
-entry: Likelihood
-topic: Likelihood|Likeness
+entry: Lie
+topic: Lie
 first_letter: L
-xref: Probability|<a href='/digital-beehive/alpha4/alpha_0866/'>Similitude</a>
-see: 
 page: 
 add: 
-type: 
-index: likelyhood|likeness
-insertion_xref: 
-insertion: 
-item: "#item-a7c6cbcff"
+xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>Falshood</a>|Hyperbole|<a href='/digital-beehive/toc/toc2_122/'>513
+  [Lies]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2280/'>lie</a>"
+item: "#item-17036b622"
 unparsed: 
-line: 'Entry: Likelihood|Topic: Likelihood|Topic: Likeness|Xref: Probability|Xref:
-  Similitude|Xref: 758 [PAGE_MISSING]|Index: likelyhood|Index: likeness|#item-a7c6cbcff'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/725,2652,2997,571/full/0/default.jpg
+line: 'Entry: Lie|Topic: Lie|Xref: Falshood|Xref: Hyperbole|Xref: 513 [Lies]|Index:
+  lie|#item-17036b622'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,3014,703/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769445754
-order: '537'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/725,2652,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/725,2652,2997,571/full/0/default.jpg
-label: Likelihood
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769161435
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,600,180/250,/0/default.jpg
+label: Lie
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+num_match: 
+order: '093'
 layout: alpha_item
 collection: alpha3
 ---

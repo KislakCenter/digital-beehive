@@ -2,29 +2,27 @@
 pid: index_4518
 volume: Volume 3
 image_number: '52'
-head: welfare
-entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Welfare]</a>"
+head: well
+entry: 
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: spring
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a7f83eeee"
+item: "#item-a1f645f75"
 unparsed: 
-line: 'Head: welfare|Entry: 913 [Welfare]|#item-a7f83eeee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/full/0/default.jpg
+line: 'Head: well|See: spring|#item-a1f645f75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1108,1438,450,189/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968837534
-order: '4518'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1099,1314,446,145/full/0/default.jpg
-label: welfare
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968902228
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1108,1438,450,189/150,/0/default.jpg
+label: well
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '485'
 layout: index_item
 collection: index5
 ---

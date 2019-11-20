@@ -2,29 +2,27 @@
 pid: index_3055
 volume: Volume 3
 image_number: '36'
-head: pocket
-entry: "<a href='/digital-beehive/alpha4/alpha_0708/'>a</a>"
+head: pocketbook
+entry: a
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d6d65b194"
+item: "#item-dea6dacb6"
 unparsed: 
-line: 'Head: pocket|Entry: a|#item-d6d65b194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/458,1943,396,117/full/0/default.jpg
+line: 'Head: pocketbook|Entry: a|#item-dea6dacb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
-order: '3055'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/458,1943,396,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/458,1943,396,117/full/0/default.jpg
-label: pocket
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208139567
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/150,/0/default.jpg
+label: pocketbook
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0303'
 layout: index_item
 collection: index4
 ---

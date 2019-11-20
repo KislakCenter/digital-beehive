@@ -2,29 +2,27 @@
 pid: index_1211
 volume: Volume 3
 image_number: '18'
-head: eel
-entry: "<a href='/digital-beehive/alpha2/alpha_0276/'>a</a>"
+head: effect
+entry: 761 [PAGE_MISSING]
 topic: 
 first_letter: E
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8c7c555e8"
+item: "#item-4a876c5e3"
 unparsed: 
-line: 'Head: eel|Page: p.36 [Image 1.96]|Entry: a|#item-8c7c555e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1183,1054,377,131/full/0/default.jpg
+line: 'Head: effect|Entry: 761 [PAGE_MISSING]|#item-4a876c5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672990773
-order: '1211'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1183,1054,377,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1183,1054,377,131/full/0/default.jpg
-label: eel
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673084477
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/150,/0/default.jpg
+label: effect
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '031'
 layout: index_item
 collection: index2
 ---

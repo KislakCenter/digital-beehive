@@ -2,29 +2,27 @@
 pid: index_3751
 volume: Volume 3
 image_number: '43'
-head: slime
-entry: "<a href='/digital-beehive/toc/toc2_396/'>2262 [Phlegm or Flegm]</a>"
+head: slippery
+entry: 821 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3b60bdf70"
+item: "#item-ec978f1cd"
 unparsed: 
-line: 'Head: slime|Entry: 2262 [Phlegm or Flegm]|#item-3b60bdf70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1301,2469,362,96/full/0/default.jpg
+line: 'Head: slippery|Entry: 821 [PAGE_MISSING]|#item-ec978f1cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2562,556,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584628949
-order: '3751'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1301,2469,362,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1301,2469,362,96/full/0/default.jpg
-label: slime
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584705593
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2562,556,123/150,/0/default.jpg
+label: slippery
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0998'
 layout: index_item
 collection: index4
 ---

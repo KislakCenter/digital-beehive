@@ -1,30 +1,28 @@
 ---
 pid: alpha_1051
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Worthiness
-topic: Worthiness
+entry: Wood
+topic: Wood
 first_letter: W
-xref: "<a href='/digital-beehive/alpha5/alpha_1002/'>Unworthy</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4626/'>worthiness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-02c6c11ac"
+xref: Timber|<a href='/digital-beehive/toc/toc2_377/'>2113 [Wood]</a>
+see: 
+index: "<a href='/digital-beehive/index5/index_4601/'>wood</a>"
+item: "#item-ae92c0788"
 unparsed: 
-line: 'Entry: Worthiness|Topic: Worthiness|Xref: Unworthy|Index: worthiness|#item-02c6c11ac'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,3037,437/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529598494811
-order: '1051'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,3037,437/full/0/default.jpg
-label: Worthiness
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: Wood|Topic: Wood|Xref: Timber|Xref: 2113 [Wood]|Index: wood|#item-ae92c0788'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,2994,441/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529595414671
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,600,180/250,/0/default.jpg
+label: Wood
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '116'
 layout: alpha_item
 collection: alpha5
 ---

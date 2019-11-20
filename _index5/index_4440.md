@@ -2,29 +2,27 @@
 pid: index_4440
 volume: Volume 3
 image_number: '51'
-head: to urge
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1054 [To Urge]</a>"
+head: Uriah's letters
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fa536e71c"
+item: "#item-1ab98961f"
 unparsed: 
-line: 'Head: to urge|Entry: 1054 [To Urge]|#item-fa536e71c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/943,831,456,120/full/0/default.jpg
+line: 'Head: Uriah''s letters|Entry: 1721 [Bellerophontis Literas]|#item-1ab98961f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646606604
-order: '4440'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/943,831,456,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/943,831,456,120/full/0/default.jpg
-label: to urge
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646646403
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/930,926,682,134/150,/0/default.jpg
+label: Uriah's letters
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '407'
 layout: index_item
 collection: index5
 ---

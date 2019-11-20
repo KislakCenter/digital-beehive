@@ -2,29 +2,27 @@
 pid: index_4722
 volume: Volume 3
 image_number: '54'
-head: Im[per]tinent
+head: tomb
 entry: 
 topic: 
 first_letter: insertion
-xref: 
-see: mad
 page: 
 add: 
-type: Index
+xref: 
+see: "<a href='/digital-beehive/index2/index_1700/'>grave</a>"
 index: 
-insertion_xref: 
-insertion: "[:53.]"
-item: "#item-80afa577b"
-unparsed: 
-line: 'Type: Index|Insertion: [:53.]|Head: Im[per]tinent|See: mad|#item-80afa577b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1773,987,710,178/full/0/default.jpg
+item: "#item-e99bf76e6"
+unparsed: Type Index|Insertion [:54.]
+line: 'Type: Index|Insertion: [:54.]|Head: tomb|See: grave|#item-e99bf76e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,1166,706,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560956574018
-order: '4722'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1773,987,710,178/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1773,987,710,178/full/0/default.jpg
-label: Im[per]tinent
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956597941
+insertion: "[:54.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,1166,706,142/150,/0/default.jpg
+label: tomb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '689'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_3398
 volume: Volume 3
 image_number: '39'
-head: to retain
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Retain]</a>"
+head: retiremt
+entry: 
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3786/'>solitude</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-62b10fd21"
+item: "#item-ea47e40d3"
 unparsed: 
-line: 'Head: to retain|Entry: 866 [To Retain]|#item-62b10fd21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/full/0/default.jpg
+line: 'Head: retiremt|See: solitude|#item-ea47e40d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1492,2466,823,220/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230107298
-order: '3398'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/full/0/default.jpg
-label: to retain
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230129740
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1492,2466,823,220/150,/0/default.jpg
+label: retiremt
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0645'
 layout: index_item
 collection: index4
 ---

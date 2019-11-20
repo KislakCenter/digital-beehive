@@ -2,29 +2,27 @@
 pid: index_1623
 volume: Volume 3
 image_number: '22'
-head: glister
-entry: "<a href='/digital-beehive/toc/toc2_109/'>427 [Bright]</a>"
+head: globe
+entry: "<a href='/digital-beehive/toc/toc2_091/'>295 [Ball playing]</a>"
 topic: 
 first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8af8f306b"
+item: "#item-be1907b8f"
 unparsed: 
-line: 'Head: glister|Entry: 427 [Bright]|#item-8af8f306b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3247,390,150/full/0/default.jpg
+line: 'Head: globe|Page: p.26 [Image 1.86]|Entry: 295 [Ball playing]|#item-be1907b8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3384,506,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044208149
-order: '1623'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3247,390,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3247,390,150/full/0/default.jpg
-label: glister
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044273585
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/425,3384,506,131/150,/0/default.jpg
+label: globe
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '443'
 layout: index_item
 collection: index2
 ---

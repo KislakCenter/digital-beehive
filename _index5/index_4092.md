@@ -2,29 +2,27 @@
 pid: index_4092
 volume: Volume 3
 image_number: '47'
-head: tents
-entry: "<a href='/digital-beehive/toc/toc2_134/'>582 [Tents]</a>"
+head: term of life prefixt
+entry: 4515 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5ad901ca1"
+item: "#item-fb43076d5"
 unparsed: 
-line: 'Head: tents|Entry: 582 [Tents]|#item-5ad901ca1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2362,331,104/full/0/default.jpg
+line: 'Head: term of life prefixt|Entry: 4515 [PAGE_MISSING]|#item-fb43076d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/174,2439,722,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532714490982
-order: '4092'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2362,331,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2362,331,104/full/0/default.jpg
-label: tents
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294188758
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/174,2439,722,147/150,/0/default.jpg
+label: term of life prefixt
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '059'
 layout: index_item
 collection: index5
 ---

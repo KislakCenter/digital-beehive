@@ -1,33 +1,28 @@
 ---
 pid: alpha_0757
 volume: Volume 2
-image_number: '45'
+image_number: '44'
 head: 
-entry: Quaker
-topic: Quaker
-first_letter: Q
-xref: "<a href='/digital-beehive/alpha1/alpha_0146/'>Christianity</a>|<a href='/digital-beehive/alpha4/alpha_0817/'>Saints</a>|<a
-  href='/digital-beehive/toc/toc2_204/'>1053 [Objections of the Quakers answered]</a>|<a
-  href='/digital-beehive/toc/toc2_079/'>214 [Quakers]</a>"
-see: 
+entry: Pudding
+topic: Pudding
+first_letter: P
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3247/'>Quakers</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6908449d1"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
+item: "#item-56804e584"
 unparsed: 
-line: 'Entry: Quaker|Topic: Quaker|Xref: Christianity|Xref: Saints|Xref: 1053 [Objections
-  of the Quakers answered]|Xref: 214 [Quakers]|Index: Quakers|#item-6908449d1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,1168,3076,481/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558812136860
-order: '757'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,1168,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,1168,3076,481/full/0/default.jpg
-label: Quaker
-location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+line: 'Entry: Pudding|Topic: Pudding|Index: pudding|#item-56804e584'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,4217,2982,255/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565101929551
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,4217,600,180/250,/0/default.jpg
+label: Pudding
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+num_match: 
+order: '110'
 layout: alpha_item
 collection: alpha4
 ---

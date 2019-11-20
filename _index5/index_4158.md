@@ -2,29 +2,27 @@
 pid: index_4158
 volume: Volume 3
 image_number: '47'
-head: timeserving
-entry: "<a href='/digital-beehive/toc/toc2_145/'>643 [Temporising]</a>"
+head: tin
+entry: 
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_2978/'>pewter</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a90a7c245"
+item: "#item-a23ef3708"
 unparsed: 
-line: 'Head: timeserving|Entry: 643 [Temporising]|#item-a90a7c245'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1600,2735,557,156/full/0/default.jpg
+line: 'Head: tin|See: pewter|#item-a23ef3708'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281023600
-order: '4158'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1600,2735,557,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1600,2735,557,156/full/0/default.jpg
-label: timeserving
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281050415
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/150,/0/default.jpg
+label: tin
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '125'
 layout: index_item
 collection: index5
 ---

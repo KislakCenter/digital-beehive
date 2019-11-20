@@ -3,29 +3,27 @@ pid: alpha_0213
 volume: Volume 1
 image_number: '448'
 head: 
-entry: Dedication
-topic: Dedication
+entry: Debt
+topic: Debt
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Epistle Dedicatory]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0982/'>dedication</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1fd55f37c"
+xref: "<a href='/digital-beehive/alpha4/alpha_0690/'>Payment</a>|<a href='/digital-beehive/toc/toc2_264/'>1352
+  [Debt]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_0976/'>debt</a>"
+item: "#item-30cd35c11"
 unparsed: 
-line: 'Entry: Dedication|Topic: Dedication|Xref: 1348 [Epistle Dedicatory]|Index:
-  dedication|#item-1fd55f37c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,1638,3029,516/full/0/default.jpg
+line: 'Entry: Debt|Topic: Debt|Xref: Payment|Xref: 1352 [Debt]|Index: debt|#item-30cd35c11'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/772,1172,3003,613/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563997105107
-order: '213'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,1638,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,1638,3029,516/full/0/default.jpg
-label: Dedication
+annotation_uri: http://dev.llgc.org.uk/annotation/1563996994680
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/772,1172,600,180/250,/0/default.jpg
+label: Debt
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+num_match: 
+order: '212'
 layout: alpha_item
 collection: alpha1
 ---

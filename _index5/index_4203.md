@@ -2,29 +2,27 @@
 pid: index_4203
 volume: Volume 3
 image_number: '48'
-head: tournamt
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1325 [Tournament]</a>"
+head: towel
+entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4417c36e9"
+item: "#item-7cf31bb55"
 unparsed: 
-line: 'Head: tournamt|Entry: 1325 [Tournament]|#item-4417c36e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1094,568,487,123/full/0/default.jpg
+line: 'Head: towel|Entry: 612 [Shoe Clout]|#item-7cf31bb55'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1115,782,383,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561482272117
-order: '4203'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1094,568,487,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1094,568,487,123/full/0/default.jpg
-label: tournamt
+annotation_uri: http://dev.llgc.org.uk/annotation/1561483903912
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1115,782,383,121/150,/0/default.jpg
+label: towel
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '170'
 layout: index_item
 collection: index5
 ---

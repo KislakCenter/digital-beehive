@@ -6,25 +6,23 @@ head: emblems
 entry: "<a href='/digital-beehive/toc/toc2_084/'>250 [Emblems]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a6d955aad"
 unparsed: 
 line: 'Head: emblems|Entry: 250 [Emblems]|#item-a6d955aad'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1154,3116,413,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559680553142
-order: '1233'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1154,3116,413,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1154,3116,413,111/full/0/default.jpg
 label: emblems
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '053'
 layout: index_item
 collection: index2
 ---

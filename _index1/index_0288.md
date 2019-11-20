@@ -6,25 +6,23 @@ head: banter
 entry: "<a href='/digital-beehive/toc/toc2_368/'>2022 [Banter]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e2e6e4fbd"
 unparsed: 
 line: 'Head: banter|Entry: 2022 [Banter]|#item-e2e6e4fbd'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/900,2065,508,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1505404685639
-order: '288'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/900,2065,508,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/900,2065,508,98/full/0/default.jpg
 label: banter
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0287'
 layout: index_item
 collection: index1
 ---

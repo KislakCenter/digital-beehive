@@ -6,25 +6,23 @@ head: to maintain
 entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f4ff0226f"
 unparsed: 
 line: 'Head: to maintain|Entry: 1339 [To maintain]|#item-f4ff0226f'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1556,294,532,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560193820118
-order: '2390'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1556,294,532,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1556,294,532,131/full/0/default.jpg
 label: to maintain
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '470'
 layout: index_item
 collection: index3
 ---

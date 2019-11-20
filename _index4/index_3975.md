@@ -2,30 +2,27 @@
 pid: index_3975
 volume: Volume 3
 image_number: '45'
-head: sufficient
-entry: "<a href='/digital-beehive/toc/toc2_080/'>218 [Sufficient]</a>|<a href='/digital-beehive/toc/toc2_277/'>1419
-  [Enough]</a>"
+head: sufficient light
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1328 [the Sufficiency of the Light]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2e22fb72f"
+item: "#item-285e1e3f1"
 unparsed: 
-line: 'Head: sufficient|Entry: 218 [Sufficient]|Entry: 1419 [Enough]|#item-2e22fb72f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,3325,613,113/full/0/default.jpg
+line: 'Head: sufficient light|Entry: 1328 [the Sufficiency of the Light]|#item-285e1e3f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1600,3412,489,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530470924020
-order: '3975'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,3325,613,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,3325,613,113/full/0/default.jpg
-label: sufficient
+annotation_uri: http://dev.llgc.org.uk/annotation/1530471009783
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1600,3412,489,149/150,/0/default.jpg
+label: sufficient light
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1221'
 layout: index_item
 collection: index4
 ---

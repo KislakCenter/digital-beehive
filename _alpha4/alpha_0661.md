@@ -1,31 +1,28 @@
 ---
 pid: alpha_0661
 volume: Volume 2
-image_number: '38'
+image_number: '37'
 head: 
-entry: Order
-topic: Order
+entry: Omnipotency
+topic: Omnipotency
 first_letter: O
-xref: "<a href='/digital-beehive/alpha1/alpha_0243/'>disorder</a>|<a href='/digital-beehive/toc/toc2_080/'>221
-  [Order]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2819/'>order</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5075f85ab"
+xref: 4630 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_2790/'>omnipotency</a>"
+item: "#item-69dddeb47"
 unparsed: 
-line: 'Entry: Order|Topic: Order|Xref: disorder|Xref: 221 [Order]|Index: order|#item-5075f85ab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,3063,458/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018382723
-order: '661'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,3063,458/full/0/default.jpg
-label: Order
-location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+line: 'Entry: Omnipotency|Topic: Omnipotency|Xref: 4630 [PAGE_MISSING]|Index: omnipotency|#item-69dddeb47'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,3636,3065,427/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017754056
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,3636,600,180/250,/0/default.jpg
+label: Omnipotency
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '014'
 layout: alpha_item
 collection: alpha4
 ---

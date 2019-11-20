@@ -2,29 +2,29 @@
 pid: index_0094
 volume: Volume 3
 image_number: '7'
-head: aliens
-entry: "<a href='/digital-beehive/toc/toc2_209/'>1076 [Stranger]</a>|4772 [PAGE_MISSING]"
+head: all
+entry: "<a href='/digital-beehive/alpha1/alpha_0019/'>a</a>|<a href='/digital-beehive/num2/num_0512/'>415
+  [All]</a>|<a href='/digital-beehive/toc/toc2_177/'>950 [All]</a>|<a href='/digital-beehive/toc/toc2_408/'>2344
+  [All]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2794e4a23"
+item: "#item-7eadf6da8"
 unparsed: 
-line: 'Head: aliens|Entry: 1076 [Stranger]|Entry: 4772 [PAGE_MISSING]|#item-2794e4a23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1601,1218,651,97/full/0/default.jpg
+line: 'Head: all|Entry: a|Entry: 415 [All]|Entry: 950 [All]|Entry: 2344 [All]|#item-7eadf6da8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,1300,633,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491236235603
-order: '94'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1601,1218,651,97/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1601,1218,651,97/full/0/default.jpg
-label: aliens
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768681137
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,1300,633,120/150,/0/default.jpg
+label: all
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0093'
 layout: index_item
 collection: index1
 ---

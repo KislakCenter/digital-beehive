@@ -2,32 +2,27 @@
 pid: index_0945
 volume: Volume 3
 image_number: '15'
-head: danger
-entry: "<a href='/digital-beehive/alpha1/alpha_0206/'>a</a>|<a href='/digital-beehive/toc/toc2_150/'>673
-  [Danger]</a>|<a href='/digital-beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964
-  [Danger]</a>"
+head: past danger
+entry: "<a href='/digital-beehive/toc/toc2_107/'>411 [Past all danger]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e16127466"
+item: "#item-029b1eaac"
 unparsed: 
-line: 'Head: danger|Entry: a|Entry: 673 [Danger]|Entry: 1320 [Danger]|Entry: 1964
-  [Danger]|#item-e16127466'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/full/0/default.jpg
+line: 'Head: past danger|Entry: 411 [Past all danger]|#item-029b1eaac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321676455
-order: '945'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/full/0/default.jpg
-label: danger
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391162408
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/150,/0/default.jpg
+label: past danger
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0942'
 layout: index_item
 collection: index1
 ---

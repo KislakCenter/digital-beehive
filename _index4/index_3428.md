@@ -2,29 +2,27 @@
 pid: index_3428
 volume: Volume 3
 image_number: '40'
-head: righteous
-entry: "<a href='/digital-beehive/toc/toc2_094/'>319 [Righteous]</a>"
+head: rime. reiff
+entry: "<a href='/digital-beehive/num2/num_0464/'>383 [Rime upon the ground]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c1086557f"
+item: "#item-f26a47423"
 unparsed: 
-line: 'Head: righteous|Entry: 319 [Righteous]|#item-c1086557f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/401,2328,549,120/full/0/default.jpg
+line: 'Head: rime. reiff|Entry: 383 [Rime upon the ground]|#item-f26a47423'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232103084
-order: '3428'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/401,2328,549,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/401,2328,549,120/full/0/default.jpg
-label: righteous
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232269028
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/443,2571,555,137/150,/0/default.jpg
+label: rime. reiff
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0675'
 layout: index_item
 collection: index4
 ---

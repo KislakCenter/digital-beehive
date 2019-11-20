@@ -2,29 +2,27 @@
 pid: index_3641
 volume: Volume 3
 image_number: '42'
-head: separation
-entry: 
+head: serjeant
+entry: "<a href='/digital-beehive/alpha4/alpha_0857/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index4/index_3588/'>sect</a>|shirm"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0aa6dfd18"
+item: "#item-bf0abffbb"
 unparsed: 
-line: 'Head: separation|See: sect|See: shirm|#item-0aa6dfd18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/full/0/default.jpg
+line: 'Head: serjeant|Entry: a|#item-bf0abffbb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1086,578,530,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573582624
-order: '3641'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/full/0/default.jpg
-label: separation
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573602403
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1086,578,530,144/150,/0/default.jpg
+label: serjeant
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0888'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,28 @@ pid: alpha_0750
 volume: Volume 2
 image_number: '44'
 head: 
-entry: Prudence
-topic: Prudence
+entry: Prophet
+topic: Prophet
 first_letter: P
-xref: "<a href='/digital-beehive/alpha5/alpha_1030/'>Wisdom</a>|Wit|<a href='/digital-beehive/toc/toc2_359/'>1954
-  [Prudence]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3216/'>prudence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-65603f9c3"
+xref: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/toc/toc2_185/'>1000
+  [Prophets]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3198/'>prophets</a>"
+item: "#item-d07325925"
 unparsed: 
-line: 'Entry: Prudence|Topic: Prudence|Xref: Wisdom|Xref: Wit|Xref: 1954 [Prudence]|Index:
-  prudence|#item-65603f9c3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,2996,489/full/0/default.jpg
+line: 'Entry: Prophet|Topic: Prophet|Xref: 41 [False Prophets]|Xref: 1000 [Prophets]|Index:
+  prophets|#item-d07325925'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/783,1357,3001,534/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529669667865
-order: '750'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,2996,489/full/0/default.jpg
-label: Prudence
+annotation_uri: http://dev.llgc.org.uk/annotation/1528720601131
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/783,1357,600,180/250,/0/default.jpg
+label: Prophet
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+num_match: 
+order: '103'
 layout: alpha_item
 collection: alpha4
 ---

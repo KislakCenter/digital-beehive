@@ -2,29 +2,27 @@
 pid: index_2267
 volume: Volume 3
 image_number: '28'
-head: letters of Uriah
-entry: "<a href='/digital-beehive/toc/toc2_337/'>1721 [Bellerophontis Literas]</a>"
+head: Leviathan
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1920 [Leviathan]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-65c5dc108"
+item: "#item-f82da6cba"
 unparsed: 
-line: 'Head: letters of Uriah|Entry: 1721 [Bellerophontis Literas]|#item-65c5dc108'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1103,1074,577,112/full/0/default.jpg
+line: 'Head: Leviathan|Entry: 1920 [Leviathan]|#item-f82da6cba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1123,1141,506,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845294115
-order: '2267'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1103,1074,577,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1103,1074,577,112/full/0/default.jpg
-label: letters of Uriah
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845475345
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1123,1141,506,99/150,/0/default.jpg
+label: Leviathan
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '348'
 layout: index_item
 collection: index3
 ---

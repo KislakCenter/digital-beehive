@@ -2,30 +2,28 @@
 pid: index_2897
 volume: Volume 3
 image_number: '34'
-head: partakers
-entry: "<a href='/digital-beehive/alpha4/alpha_0679/'>a</a>|<a href='/digital-beehive/toc/toc2_411/'>2364
-  [To communicate & partake]</a>"
+head: partiality
+entry: "<a href='/digital-beehive/alpha4/alpha_0684/'>a</a>|<a href='/digital-beehive/toc/toc2_169/'>910
+  [Partial]</a>|4575 [PAGE_MISSING]"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a14134c3c"
+item: "#item-64d406f95"
 unparsed: 
-line: 'Head: partakers|Entry: a|Entry: 2364 [To communicate & partake]|#item-a14134c3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3025,671,168/full/0/default.jpg
+line: 'Head: partiality|Entry: a|Entry: 910 [Partial]|Entry: 4575 [PAGE_MISSING]|#item-64d406f95'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1077,3148,897,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494650292
-order: '2897'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3025,671,168/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1114,3025,671,168/full/0/default.jpg
-label: partakers
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494746333
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1077,3148,897,171/150,/0/default.jpg
+label: partiality
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0145'
 layout: index_item
 collection: index4
 ---

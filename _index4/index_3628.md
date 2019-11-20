@@ -2,29 +2,27 @@
 pid: index_3628
 volume: Volume 3
 image_number: '42'
-head: Self punishment
-entry: "<a href='/digital-beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>"
+head: Self righteousness
+entry: "<a href='/digital-beehive/num1/num_0076/'>75 [Self-righteousness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-868a43b4b"
+item: "#item-a3be2a5e9"
 unparsed: 
-line: 'Head: Self punishment|Entry: 59 [Self-hurt or dammage]|#item-868a43b4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/full/0/default.jpg
+line: 'Head: Self righteousness|Entry: 75 [Self-righteousness]|#item-a3be2a5e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/357,2431,716,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
-order: '3628'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/full/0/default.jpg
-label: Self punishment
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244935630
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/357,2431,716,148/150,/0/default.jpg
+label: Self righteousness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0875'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,27 @@
 pid: index_0942
 volume: Volume 3
 image_number: '15'
-head: dam[m]age
-entry: "<a href='/digital-beehive/alpha1/alpha_0204/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1422
-  [Damage]</a>"
+head: damnation
+entry: "<a href='/digital-beehive/toc/toc2_348/'>1817 [Damnation]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-588ddfb8a"
+item: "#item-1b0f3522e"
 unparsed: 
-line: 'Head: dam[m]age|Entry: a|Entry: 1422 [Damage]|#item-588ddfb8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1564,1082,568,88/full/0/default.jpg
+line: 'Head: damnation|Entry: 1817 [Damnation]|#item-1b0f3522e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1548,1144,550,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506976621639
-order: '942'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1564,1082,568,88/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1564,1082,568,88/full/0/default.jpg
-label: dam[m]age
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391012508
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1548,1144,550,86/150,/0/default.jpg
+label: damnation
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0939'
 layout: index_item
 collection: index1
 ---

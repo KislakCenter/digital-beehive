@@ -2,29 +2,30 @@
 pid: index_3808
 volume: Volume 3
 image_number: '44'
-head: soveraign
-entry: "<a href='/digital-beehive/toc/toc2_240/'>1231 [Independent]</a>"
+head: soul
+entry: "<a href='/digital-beehive/alpha4/alpha_0896/'>a</a>|835 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_277/'>1419 [Soul]</a>|<a href='/digital-beehive/toc/toc2_316/'>1607
+  [Soul]</a>|<a href='/digital-beehive/toc/toc2_410/'>2357 [Soul]</a>"
 topic: 
 first_letter: S
-xref: 
-see: indep
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d1a4b29e6"
+item: "#item-b5d72fc32"
 unparsed: 
-line: 'Head: soveraign|See: indep|Entry: 1231 [Independent]|#item-d1a4b29e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,2185,545,176/full/0/default.jpg
+line: 'Head: soul|Entry: a|Entry: 835 [PAGE_MISSING]|Entry: 1419 [Soul]|Entry: 1607
+  [Soul]|Entry: 2357 [Soul]|#item-b5d72fc32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/559,2367,525,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529704630275
-order: '3808'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,2185,545,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,2185,545,176/full/0/default.jpg
-label: soveraign
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704682061
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/559,2367,525,125/150,/0/default.jpg
+label: soul
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1055'
 layout: index_item
 collection: index4
 ---

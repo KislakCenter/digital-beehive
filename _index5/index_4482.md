@@ -1,30 +1,29 @@
 ---
 pid: index_4482
 volume: Volume 3
-image_number: '51'
-head: warts
-entry: "<a href='/digital-beehive/toc/toc2_261/'>1337 [Corns. Warts]</a>"
+image_number: '52'
+head: washing
+entry: "<a href='/digital-beehive/alpha5/alpha_1022/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1061
+  [Washing]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-435af9d2a"
+item: "#item-be34df83f"
 unparsed: 
-line: 'Head: warts|Entry: 1337 [Corns. Warts]|#item-435af9d2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648585843
-order: '4482'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/full/0/default.jpg
-label: warts
-location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+line: 'Head: washing|Entry: a|Entry: 1061 [Washing]|#item-be34df83f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960041171
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/150,/0/default.jpg
+label: washing
+location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '449'
 layout: index_item
 collection: index5
 ---

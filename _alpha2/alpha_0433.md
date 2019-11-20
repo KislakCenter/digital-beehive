@@ -3,30 +3,26 @@ pid: alpha_0433
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Hotch potch
-topic: Hotch potch
+entry: Hospitality
+topic: Hospitality
 first_letter: H
-xref: "<a href='/digital-beehive/alpha5/alpha_0978/'>Variety</a>|<a href='/digital-beehive/toc/toc2_202/'>1043
-  [Hotch-potch]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1885/'>hotchpotch</a>"
-insertion_xref: 
-insertion: 
-item: "#item-17f0268cc"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1880/'>hospitality</a>"
+item: "#item-ea292ee78"
 unparsed: 
-line: 'Entry: Hotch potch|Topic: Hotch potch|Xref: Variety|Xref: 1043 [Hotch-potch]|Index:
-  hotch potch|#item-17f0268cc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,3004,344/full/0/default.jpg
+line: 'Entry: Hospitality|Topic: Hospitality|Index: hospitality|#item-ea292ee78'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,3014,395/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733323497
-order: '433'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/357,4683,3004,344/full/0/default.jpg
-label: Hotch potch
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757665474
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4324,600,180/250,/0/default.jpg
+label: Hospitality
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '164'
 layout: alpha_item
 collection: alpha2
 ---

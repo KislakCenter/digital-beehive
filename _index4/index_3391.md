@@ -2,30 +2,27 @@
 pid: index_3391
 volume: Volume 3
 image_number: '39'
-head: rest & restless
-entry: "<a href='/digital-beehive/alpha4/alpha_0791/'>a</a>|<a href='/digital-beehive/toc/toc2_322/'>1638
-  [Rest]</a>"
+head: rest or residue
+entry: "<a href='/digital-beehive/toc/toc2_159/'>716 [the Rest]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-54bd088ab"
+item: "#item-f744b719b"
 unparsed: 
-line: 'Head: rest & restless|Entry: a|Entry: 1638 [Rest]|#item-54bd088ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1510,1471,752,175/full/0/default.jpg
+line: 'Head: rest or residue|Entry: 716 [the Rest]|#item-f744b719b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1484,1604,649,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229803827
-order: '3391'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1510,1471,752,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1510,1471,752,175/full/0/default.jpg
-label: rest & restless
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229877876
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1484,1604,649,151/150,/0/default.jpg
+label: rest or residue
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0638'
 layout: index_item
 collection: index4
 ---

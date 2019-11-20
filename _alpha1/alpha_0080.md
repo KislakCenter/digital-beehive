@@ -6,27 +6,25 @@ head:
 entry: Bible
 topic: Bible
 first_letter: B
-xref: "<a href='/digital-beehive/alpha4/alpha_0829/'>Scripture</a>|<a href='/digital-beehive/alpha4/alpha_0769/'>Reading</a>|<a
-  href='/digital-beehive/toc/toc2_108/'>421 [Bible]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha4/alpha_0836/'>Scripture</a>|<a href='/digital-beehive/alpha4/alpha_0775/'>Reading</a>|<a
+  href='/digital-beehive/num2/num_0521/'>421 [Bible]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0369/'>bible</a>"
-insertion_xref: 
-insertion: 
 item: "#item-30ebdeb9f"
 unparsed: 
-line: 'Entry: Bible|Topic: Bible|Xref:Scripture|Xref:Reading|Xref: 421 [Bible]|Index:
+line: 'Entry: Bible|Topic: Bible|Xref: Scripture|Xref: Reading|Xref: 421 [Bible]|Index:
   bible|#item-30ebdeb9f'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,3568,2916,818/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558744278171
-order: '80'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,3568,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/828,3568,2916,818/full/0/default.jpg
 label: Bible
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
+num_match: 
+order: '079'
 layout: alpha_item
 collection: alpha1
 ---

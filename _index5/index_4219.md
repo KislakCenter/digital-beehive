@@ -2,29 +2,27 @@
 pid: index_4219
 volume: Volume 3
 image_number: '48'
-head: transparent
-entry: "<a href='/digital-beehive/toc/toc2_321/'>1635 [Transparent]</a>"
+head: to transport
+entry: 803 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1114f976d"
+item: "#item-5a30f70ea"
 unparsed: 
-line: 'Head: transparent|Entry: 1635 [Transparent]|#item-1114f976d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2497,646,168/full/0/default.jpg
+line: 'Head: to transport|Entry: 803 [PAGE_MISSING]|#item-5a30f70ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1092,2625,579,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561487608256
-order: '4219'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2497,646,168/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2497,646,168/full/0/default.jpg
-label: transparent
+annotation_uri: http://dev.llgc.org.uk/annotation/1561487681136
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1092,2625,579,164/150,/0/default.jpg
+label: to transport
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '186'
 layout: index_item
 collection: index5
 ---

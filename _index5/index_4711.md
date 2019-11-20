@@ -2,29 +2,27 @@
 pid: index_4711
 volume: Volume 3
 image_number: '54'
-head: copper-Cuts
-entry: 4526 [PAGE_MISSING]
+head: I or You may
+entry: "<a href='/digital-beehive/toc/toc2_160/'>723 [Perhaps]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:42.]"
-item: "#item-10ff3462c"
-unparsed: 
-line: 'Type: Index|Insertion: [:42.]|Head: copper-Cuts|Entry: 4526 [PAGE_MISSING]|#item-10ff3462c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1044,2734,718,152/full/0/default.jpg
+item: "#item-c6809b0de"
+unparsed: Type Index|Insertion [:43.]
+line: 'Type: Index|Insertion: [:43.]|Head: I or You may|Entry: 723 [Perhaps]|#item-c6809b0de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,2884,582,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955797664
-order: '4711'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1044,2734,718,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1044,2734,718,152/full/0/default.jpg
-label: copper-Cuts
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955895806
+insertion: "[:43.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,2884,582,129/150,/0/default.jpg
+label: I or You may
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '678'
 layout: index_item
 collection: index5
 ---

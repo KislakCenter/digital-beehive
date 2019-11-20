@@ -2,29 +2,27 @@
 pid: index_4594
 volume: Volume 3
 image_number: '53'
-head: woman's Courses
-entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_325/'>1653 [Menstrua]</a>
+head: woman's longings
+entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Womens Longings]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0a5d33f70"
+item: "#item-2761bad0e"
 unparsed: 
-line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/full/0/default.jpg
+line: 'Head: woman''s longings|Entry: 688 [Womens Longings]|#item-2761bad0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
-order: '4594'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/full/0/default.jpg
-label: woman's Courses
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794711179
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/150,/0/default.jpg
+label: woman's longings
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '561'
 layout: index_item
 collection: index5
 ---

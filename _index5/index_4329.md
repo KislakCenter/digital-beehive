@@ -2,29 +2,27 @@
 pid: index_4329
 volume: Volume 3
 image_number: '49'
-head: vigilance
-entry: 4655 [PAGE_MISSING]
+head: village
+entry: "<a href='/digital-beehive/num1/num_0169/'>162 [City]</a>|1878 [PAGE_MISSING]"
 topic: 
 first_letter: U/V
-xref: 
-see: "<a href='/digital-beehive/index4/index_3212/'>providence</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c8efae733"
+item: "#item-d1c6f326f"
 unparsed: 
-line: 'Head: vigilance|See: providence|Entry: 4655 [PAGE_MISSING]|#item-c8efae733'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,1006,714,127/full/0/default.jpg
+line: 'Head: village|Entry: 162 [City]|Entry: 1878 [PAGE_MISSING]|#item-d1c6f326f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659992552
-order: '4329'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,1006,714,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,1006,714,127/full/0/default.jpg
-label: vigilance
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660141406
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/150,/0/default.jpg
+label: village
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '296'
 layout: index_item
 collection: index5
 ---

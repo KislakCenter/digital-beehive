@@ -2,29 +2,28 @@
 pid: index_4096
 volume: Volume 3
 image_number: '47'
-head: terra sigillata
-entry: "<a href='/digital-beehive/toc/toc2_227/'>1168 [Terra Sigillata]</a>"
+head: terrour
+entry: "<a href='/digital-beehive/alpha5/alpha_0944/'>a</a>|<a href='/digital-beehive/toc/toc2_149/'>669
+  [Terrrour]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4b780e579"
+item: "#item-489021159"
 unparsed: 
-line: 'Head: terra sigillata|Entry: 1168 [Terra Sigillata]|#item-4b780e579'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/152,2645,594,146/full/0/default.jpg
+line: 'Head: terrour|Entry: a|Entry: 669 [Terrrour] |#item-489021159'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,2777,483,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532718953353
-order: '4096'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/152,2645,594,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/152,2645,594,146/full/0/default.jpg
-label: terra sigillata
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922396224
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,2777,483,141/150,/0/default.jpg
+label: terrour
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '063'
 layout: index_item
 collection: index5
 ---

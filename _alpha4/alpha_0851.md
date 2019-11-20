@@ -1,32 +1,28 @@
 ---
 pid: alpha_0851
 volume: Volume 2
-image_number: '52'
+image_number: '51'
 head: 
-entry: Service
-topic: Service
+entry: Self love
+topic: Self love
 first_letter: S
-xref: "<a href='/digital-beehive/alpha3/alpha_0573/'>Master</a>|<a href='/digital-beehive/toc/toc2_258/'>1322
-  [Capucins]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3646/'>servant & service</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3513bb2bd"
+xref: 799 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3621/'>Self love</a>"
+item: "#item-50089957d"
 unparsed: 
-line: 'Entry: Service|Topic: Service|Xref: Master|Xref: 813 [PAGE_MISSING]|Xref: 1322
-  [Capucins]|Index: servant & service|#item-3513bb2bd'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/774,183,3043,451/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803052908
-order: '851'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/774,183,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/774,183,3043,451/full/0/default.jpg
-label: Service
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+line: 'Entry: Self love|Topic: Self love|Xref: 799 [PAGE_MISSING]|Index: Self love|#item-50089957d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/310,2919,3004,417/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530213578473
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/310,2919,600,180/250,/0/default.jpg
+label: Self love
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+num_match: 
+order: '203'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,27 @@
 pid: index_3480
 volume: Volume 3
 image_number: '40'
-head: Sacheverell
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Sacheverell]</a>"
+head: sack cloath
+entry: "<a href='/digital-beehive/toc/toc2_291/'>1487 [Jews]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5eb4e541c"
+item: "#item-5347cee38"
 unparsed: 
-line: 'Head: Sacheverell|Entry: 1677 [Sacheverell]|#item-5eb4e541c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/full/0/default.jpg
+line: 'Head: sack cloath|Entry: 1487 [Jews]|#item-5347cee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1795,1456,672,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234691757
-order: '3480'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/full/0/default.jpg
-label: Sacheverell
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234723858
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1795,1456,672,103/150,/0/default.jpg
+label: sack cloath
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0727'
 layout: index_item
 collection: index4
 ---

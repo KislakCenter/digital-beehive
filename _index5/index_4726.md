@@ -2,29 +2,28 @@
 pid: index_4726
 volume: Volume 3
 image_number: '54'
-head: Sap
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1240 [Juice]</a>"
+head: God's preserva[ti]on
+entry: "<a href='/digital-beehive/toc/toc2_218/'>1124 [Preserved]</a>|4779 [PAGE_MISSING]"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:56.]"
-item: "#item-1ac16ab12"
-unparsed: 
-line: 'Type: Index|Insertion: [:56.]|Head: Sap|Entry: 1240 [Juice]|#item-1ac16ab12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,1425,466,144/full/0/default.jpg
+item: "#item-5b8f1aa1f"
+unparsed: Type Index|Insertion [:57.]
+line: 'Type: Index|Insertion: [:57.]|Head: God''s preserva[ti]on|Entry: 1124 [Preserved]|Entry:
+  4779 [PAGE_MISSING]|#item-5b8f1aa1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1770,1573,727,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560956707249
-order: '4726'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,1425,466,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,1425,466,144/full/0/default.jpg
-label: Sap
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957027040
+insertion: "[:57.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1770,1573,727,191/150,/0/default.jpg
+label: God's preserva[ti]on
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '693'
 layout: index_item
 collection: index5
 ---

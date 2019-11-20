@@ -2,29 +2,28 @@
 pid: index_3830
 volume: Volume 3
 image_number: '44'
-head: speculative
-entry: "<a href='/digital-beehive/toc/toc2_328/'>1667 [Speculation]</a>"
+head: speech
+entry: "<a href='/digital-beehive/alpha4/alpha_0900/'>a</a>|<a href='/digital-beehive/toc/toc2_232/'>1194
+  [Speech]</a>|<a href='/digital-beehive/toc/toc2_306/'>1557 [Speech]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c820f10a6"
+item: "#item-b00a7e13a"
 unparsed: 
-line: 'Head: speculative|Entry: 1667 [Speculation]|#item-c820f10a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1101,1129,612,135/full/0/default.jpg
+line: 'Head: speech|Entry: a|Entry: 1194 [Speech]|Entry: 1557 [Speech]|#item-b00a7e13a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1104,1269,681,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529789424226
-order: '3830'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1101,1129,612,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1101,1129,612,135/full/0/default.jpg
-label: speculative
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789566288
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1104,1269,681,131/150,/0/default.jpg
+label: speech
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1077'
 layout: index_item
 collection: index4
 ---

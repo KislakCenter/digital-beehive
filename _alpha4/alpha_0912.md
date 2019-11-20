@@ -1,32 +1,28 @@
 ---
 pid: alpha_0912
 volume: Volume 2
-image_number: '56'
+image_number: '55'
 head: 
-entry: Stubborness
-topic: Stubborness
+entry: Stomach
+topic: Stomach
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0648/'>Obstinacy</a>|waspish|<a href='/digital-beehive/toc/toc2_404/'>2303
-  [Stubborn]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3947/'>stubborn</a>"
-insertion_xref: 
-insertion: 
-item: "#item-223af03d7"
+xref: "<a href='/digital-beehive/toc/toc2_380/'>2144 [Stomach]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3910/'>stomach</a>"
+item: "#item-655c7e5da"
 unparsed: 
-line: 'Entry: Stubborness|Topic: Stubborness|Xref: Obstinacy|Xref: waspish|Xref: 2303
-  [Stubborn]|Index: stubborn|#item-223af03d7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/724,932,3042,678/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532550720737
-order: '912'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/724,932,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/724,932,3042,678/full/0/default.jpg
-label: Stubborness
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+line: 'Entry: Stomach|Topic: Stomach|Xref: 2144 [Stomach]|Index: stomach|#item-655c7e5da'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,3040,568/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460662381
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/311,2959,600,180/250,/0/default.jpg
+label: Stomach
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '264'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,27 @@
 pid: index_1258
 volume: Volume 3
 image_number: '18'
-head: English Church government
-entry: "<a href='/digital-beehive/toc/toc2_429/'>4792 [Rule of faith & life]</a>"
+head: English Church latin
+entry: "<a href='/digital-beehive/toc/toc2_196/'>1015 [English Church Latin]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8e2625285"
+item: "#item-479120ddb"
 unparsed: 
-line: 'Head: English Church government|Entry: 4792 [Rule of faith & life]|#item-8e2625285'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/full/0/default.jpg
+line: 'Head: English Church latin|Entry: 1015 [English Church Latin]|#item-479120ddb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1821,1841,552,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757302742
-order: '1258'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/full/0/default.jpg
-label: English Church government
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757619663
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1821,1841,552,99/150,/0/default.jpg
+label: English Church latin
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '078'
 layout: index_item
 collection: index2
 ---

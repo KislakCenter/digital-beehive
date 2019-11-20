@@ -2,29 +2,28 @@
 pid: index_1582
 volume: Volume 3
 image_number: '21'
-head: garland
-entry: 
+head: garlick
+entry: "<a href='/digital-beehive/alpha2/alpha_0356/'>a</a>|<a href='/digital-beehive/toc/toc2_152/'>685
+  [Garlick]</a>"
 topic: 
 first_letter: G
-xref: 
-see: "<a href='/digital-beehive/index1/index_0916/'>Crown</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-774144189"
+item: "#item-1a7649ff8"
 unparsed: 
-line: 'Head: garland|See: Crown|#item-774144189'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/full/0/default.jpg
+line: 'Head: garlick|Entry: a|Entry: 685 [Garlick]|#item-1a7649ff8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1560,2676,590,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787186826
-order: '1582'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/full/0/default.jpg
-label: garland
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787228578
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1560,2676,590,136/150,/0/default.jpg
+label: garlick
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '402'
 layout: index_item
 collection: index2
 ---

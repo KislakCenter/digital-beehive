@@ -3,28 +3,26 @@ pid: alpha_0222
 volume: Volume 1
 image_number: '449'
 head: 
-entry: Demoniack
-topic: Demoniack
+entry: Deluge
+topic: Deluge
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_381/'>2157 [Demoniack]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1008/'>demoniack</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f423d53cf"
+xref: "<a href='/digital-beehive/toc/toc2_272/'>1395 [Deluge]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1004/'>deluge</a>"
+item: "#item-a503485d3"
 unparsed: 
-line: 'Entry: Demoniack|Topic: Demoniack|Xref: 2157 [Demoniack]|Index: demoniack|#item-f423d53cf'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/311,571,3081,364/full/0/default.jpg
+line: 'Entry: Deluge|Topic: Deluge|Xref: 1395 [Deluge]|Index: deluge|#item-a503485d3'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/326,197,3099,461/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922287844
-order: '222'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/311,571,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/311,571,3081,364/full/0/default.jpg
-label: Demoniack
+annotation_uri: http://dev.llgc.org.uk/annotation/1507755112712
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/326,197,600,180/250,/0/default.jpg
+label: Deluge
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+num_match: 
+order: '221'
 layout: alpha_item
 collection: alpha1
 ---

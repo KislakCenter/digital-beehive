@@ -2,29 +2,28 @@
 pid: index_3989
 volume: Volume 3
 image_number: '46'
-head: superlative
-entry: "<a href='/digital-beehive/toc/toc2_101/'>365 [Superlative]</a>"
+head: superstition
+entry: "<a href='/digital-beehive/alpha4/alpha_0929/'>a</a>|<a href='/digital-beehive/toc/toc2_176/'>946
+  [Superstition]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-81680bebb"
+item: "#item-d4e1ca046"
 unparsed: 
-line: 'Head: superlative|Entry: 365 [Superlative]|#item-81680bebb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/full/0/default.jpg
+line: 'Head: superstition|Entry: a|Entry: 946 [Superstition]|#item-d4e1ca046'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/451,1772,635,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530473602969
-order: '3989'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/460,1628,582,141/full/0/default.jpg
-label: superlative
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473760756
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/451,1772,635,155/150,/0/default.jpg
+label: superstition
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1235'
 layout: index_item
 collection: index4
 ---

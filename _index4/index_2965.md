@@ -2,29 +2,28 @@
 pid: index_2965
 volume: Volume 3
 image_number: '35'
-head: perpet. mobile
-entry: 4536 [PAGE_MISSING]
+head: perplexity
+entry: "<a href='/digital-beehive/toc/toc2_148/'>661 [Perplexity]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354
+  [Perplexity]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-deacdf95f"
+item: "#item-64ac8a3f6"
 unparsed: 
-line: 'Head: perpet. mobile|Entry: 4536 [PAGE_MISSING]|#item-deacdf95f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/109,3370,653,147/full/0/default.jpg
+line: 'Head: perplexity|Entry: 661 [Perplexity]|Entry: 1354 [Perplexity]|#item-64ac8a3f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973874660
-order: '2965'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/109,3370,653,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/109,3370,653,147/full/0/default.jpg
-label: perpet. mobile
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973905582
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/150,/0/default.jpg
+label: perplexity
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0213'
 layout: index_item
 collection: index4
 ---

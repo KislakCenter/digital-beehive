@@ -2,29 +2,27 @@
 pid: index_4138
 volume: Volume 3
 image_number: '47'
-head: throughout
-entry: 
+head: to throw
+entry: "<a href='/digital-beehive/toc/toc2_167/'>897 [to cast down]</a>"
 topic: 
 first_letter: T
-xref: 
-see: "<a href='/digital-beehive/index3/index_1988/'>in</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a81fa0062"
+item: "#item-af06186f0"
 unparsed: 
-line: 'Head: throughout|See: in|#item-a81fa0062'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/full/0/default.jpg
+line: 'Head: to throw|Entry: 897 [to cast down]|#item-af06186f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,449,452,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552666270552
-order: '4138'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/full/0/default.jpg
-label: throughout
+annotation_uri: http://dev.llgc.org.uk/annotation/1552666470952
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,449,452,93/150,/0/default.jpg
+label: to throw
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '105'
 layout: index_item
 collection: index5
 ---

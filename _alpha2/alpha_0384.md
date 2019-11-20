@@ -3,28 +3,26 @@ pid: alpha_0384
 volume: Volume 2
 image_number: '16'
 head: 
-entry: Grave
-topic: Grave
+entry: Gratulation
+topic: Gratulation
 first_letter: G
-xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>Burial</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1700/'>grave</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e1efb75b2"
+xref: "<a href='/digital-beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
+item: "#item-e07dea125"
 unparsed: 
-line: 'Entry: Grave|Topic: Grave|Xref: Burial|Index: grave|#item-e1efb75b2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,2987,490/full/0/default.jpg
+line: 'Entry: Gratulation|Topic: Gratulation|Xref: 1386 [Gratulation]|Index: gratulation|#item-e07dea125'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,2961,435/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564603649359
-order: '384'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,2987,490/full/0/default.jpg
-label: Grave
+annotation_uri: http://dev.llgc.org.uk/annotation/1564603613503
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,1084,600,180/250,/0/default.jpg
+label: Gratulation
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+num_match: 
+order: '115'
 layout: alpha_item
 collection: alpha2
 ---

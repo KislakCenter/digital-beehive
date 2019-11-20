@@ -2,29 +2,27 @@
 pid: index_4611
 volume: Volume 3
 image_number: '53'
-head: word by word
-entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbatim]</a>"
+head: Gods Work
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-80af139f1"
+item: "#item-4fe048e48"
 unparsed: 
-line: 'Head: word by word|Entry: 536 [Verbatim]|#item-80af139f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/full/0/default.jpg
+line: 'Head: Gods Work|Entry: 1057 [God''s work]|#item-4fe048e48'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796972488
-order: '4611'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/full/0/default.jpg
-label: word by word
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797099869
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/150,/0/default.jpg
+label: Gods Work
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '578'
 layout: index_item
 collection: index5
 ---

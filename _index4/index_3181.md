@@ -2,29 +2,28 @@
 pid: index_3181
 volume: Volume 3
 image_number: '37'
-head: proffer
-entry: "<a href='/digital-beehive/toc/toc2_276/'>1411 [Profferd kindness]</a>"
+head: profit
+entry: "<a href='/digital-beehive/alpha4/alpha_0740/'>a</a>|<a href='/digital-beehive/toc/toc2_333/'>1692
+  [Gain]</a>"
 topic: 
 first_letter: P
+page: 
+add: "<a href='/digital-beehive/index5/index_4449/'>Utility</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-761e3cddb"
+item: "#item-7875629be"
 unparsed: 
-line: 'Head: proffer|Entry: 1411 [Profferd kindness]|#item-761e3cddb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/775,2125,406,125/full/0/default.jpg
+line: 'Head: profit|Entry: a|Entry: 1692 [Gain]|Add: Utility|#item-7875629be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868252953
-order: '3181'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/775,2125,406,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/775,2125,406,125/full/0/default.jpg
-label: proffer
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868490570
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/150,/0/default.jpg
+label: profit
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0428'
 layout: index_item
 collection: index4
 ---

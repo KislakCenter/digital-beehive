@@ -3,28 +3,29 @@ pid: alpha_0587
 volume: Volume 2
 image_number: '32'
 head: 
-entry: Metaphysics
-topic: Metaphysics
+entry: Mercy
+topic: Mercy
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2502/'>metaphysicks</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0755d4391"
+xref: clemency|<a href='/digital-beehive/alpha1/alpha_0162/'>Compassion</a>|<a href='/digital-beehive/alpha2/alpha_0377/'>grace</a>|<a
+  href='/digital-beehive/alpha5/alpha_1006/'>unmercifull</a>|<a href='/digital-beehive/num2/num_0391/'>338
+  [Mercy]</a>
+see: 
+index: "<a href='/digital-beehive/index3/index_2490/'>mercy</a>"
+item: "#item-6bfaf540f"
 unparsed: 
-line: 'Entry: Metaphysics|Topic: Metaphysics|Index: metaphysicks|#item-0755d4391'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,3873,2949,236/full/0/default.jpg
+line: 'Entry: Mercy|Topic: Mercy|Xref: clemency|Xref: Compassion|Xref: grace|Xref:
+  unmercifull|Xref: 338 [Mercy]|Index: mercy|#item-6bfaf540f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,2916,2950,483/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775109310
-order: '587'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,3873,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,3873,2949,236/full/0/default.jpg
-label: Metaphysics
+annotation_uri: http://dev.llgc.org.uk/annotation/1564774524368
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,2916,600,180/250,/0/default.jpg
+label: Mercy
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+num_match: 
+order: '143'
 layout: alpha_item
 collection: alpha3
 ---

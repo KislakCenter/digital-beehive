@@ -2,29 +2,28 @@
 pid: index_4101
 volume: Volume 3
 image_number: '47'
-head: testicles
-entry: 816 [PAGE_MISSING]
+head: testimony
+entry: "<a href='/digital-beehive/alpha5/alpha_0948/'>a</a>|<a href='/digital-beehive/num1/num_0062/'>61
+  [Testimony]</a>|<a href='/digital-beehive/toc/toc2_386/'>2209 [Witness]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cd3983798"
+item: "#item-afe88d42f"
 unparsed: 
-line: 'Head: testicles|Entry: 816 [PAGE_MISSING]|#item-cd3983798'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,3275,360,103/full/0/default.jpg
+line: 'Head: testimony|Entry: a|Entry: 61 [Testimony]|Entry: 2209 [Witness]|#item-afe88d42f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,3390,669,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532719309844
-order: '4101'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,3275,360,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,3275,360,103/full/0/default.jpg
-label: testicles
+annotation_uri: http://dev.llgc.org.uk/annotation/1529416045404
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/170,3390,669,150/150,/0/default.jpg
+label: testimony
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '068'
 layout: index_item
 collection: index5
 ---

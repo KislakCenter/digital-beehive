@@ -2,29 +2,27 @@
 pid: index_4018
 volume: Volume 3
 image_number: '46'
-head: swearing
-entry: "<a href='/digital-beehive/toc/toc2_065/'>90 [Swearing]</a>"
+head: sweat
+entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bdd78be7a"
+item: "#item-5a2cd8e7f"
 unparsed: 
-line: 'Head: swearing|Entry: 90 [Swearing]|#item-bdd78be7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,1481,479,127/full/0/default.jpg
+line: 'Head: sweat|Entry: a|#item-5a2cd8e7f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1601,348,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531685972217
-order: '4018'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,1481,479,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,1481,479,127/full/0/default.jpg
-label: swearing
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293298680
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1601,348,112/150,/0/default.jpg
+label: sweat
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1264'
 layout: index_item
 collection: index4
 ---

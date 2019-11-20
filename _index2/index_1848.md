@@ -2,29 +2,27 @@
 pid: index_1848
 volume: Volume 3
 image_number: '24'
-head: histories prophane
-entry: 
+head: to hit
+entry: "<a href='/digital-beehive/toc/toc2_392/'>2244 [NUMERICAL_ENTRY_MISSING]</a>"
 topic: 
 first_letter: H
-xref: 
-see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_097/'>p.47 [Image 1.107]</a>"
+page: 
 add: 
-type: 
+xref: 
+see: Conjecture|<a href='/digital-beehive/index4/index_3683/'>Shooting</a>
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cf949cc50"
+item: "#item-b288981d0"
 unparsed: 
-line: 'Head: histories prophane|Page: p.47 [Image 1.107]|#item-cf949cc50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,351,537,105/full/0/default.jpg
+line: 'Head: to hit|See: Conjecture|See: Shooting|Entry: 2244 [NUMERICAL_ENTRY_MISSING]|#item-b288981d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1140,440,855,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580913047
-order: '1848'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,351,537,105/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,351,537,105/full/0/default.jpg
-label: histories prophane
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581247857
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1140,440,855,184/150,/0/default.jpg
+label: to hit
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '667'
 layout: index_item
 collection: index2
 ---

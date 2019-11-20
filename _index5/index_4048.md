@@ -2,29 +2,27 @@
 pid: index_4048
 volume: Volume 3
 image_number: '46'
-head: to take
-entry: 753 [PAGE_MISSING]
+head: talent
+entry: "<a href='/digital-beehive/num1/num_0056/'>56 [Talents]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b9427ca92"
+item: "#item-142c5189b"
 unparsed: 
-line: 'Head: to take|Entry: 753 [PAGE_MISSING]|#item-b9427ca92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,1167,464,101/full/0/default.jpg
+line: 'Head: talent|Entry: 56 [Talents]|#item-142c5189b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742493249
-order: '4048'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,1167,464,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,1167,464,101/full/0/default.jpg
-label: to take
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742796520
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/150,/0/default.jpg
+label: talent
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '017'
 layout: index_item
 collection: index5
 ---

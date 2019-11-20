@@ -3,30 +3,28 @@ pid: alpha_0480
 volume: Volume 2
 image_number: '23'
 head: 
-entry: Instrument
-topic: Instrument
+entry: Insensibleness
+topic: Insensibleness
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/digital-beehive/toc/toc2_412/'>2378
-  [Instruments]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4818d98ae"
+xref: "<a href='/digital-beehive/alpha4/alpha_0856/'>Sense</a>|<a href='/digital-beehive/num1/num_0158/'>152
+  [Insensibleness]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2060/'>insensibleness</a>"
+item: "#item-090ffa5e5"
 unparsed: 
-line: 'Entry: Instrument|Topic: Instrument|Xref: Cause|Xref: means|Xref: 2378 [Instruments]|Index:
-  instrumt|#item-4818d98ae'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,3026,591/full/0/default.jpg
+line: 'Entry: Insensibleness|Topic: Insensibleness|Xref: Sense|Xref: 152 [Insensibleness]|Index:
+  insensibleness|#item-090ffa5e5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,3031,414/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761121433
-order: '480'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,3026,591/full/0/default.jpg
-label: Instrument
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761158407
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,600,180/250,/0/default.jpg
+label: Insensibleness
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+num_match: 
+order: '036'
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,29 +3,26 @@ pid: alpha_0889
 volume: Volume 2
 image_number: '54'
 head: 
-entry: Souldier
-topic: Souldier
+entry: Snake
+topic: Snake
 first_letter: S
-xref: "<a href='/digital-beehive/alpha5/alpha_1009/'>War</a>|<a href='/digital-beehive/toc/toc2_207/'>1066
-  [Souldier]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3811/'>souldier</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8eaf428b3"
+xref: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Serpent]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3764/'>snake</a>"
+item: "#item-6fd4f1eb5"
 unparsed: 
-line: 'Entry: Souldier|Topic: Souldier|Xref: War|Xref: 1066 [Souldier]|Index: souldier|#item-8eaf428b3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,2927,714/full/0/default.jpg
+line: 'Entry: Snake|Topic: Snake|Xref: 1250 [Serpent]|Index: snake|#item-6fd4f1eb5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/744,1033,2998,500/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532449506077
-order: '889'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,2927,714/full/0/default.jpg
-label: Souldier
+annotation_uri: http://dev.llgc.org.uk/annotation/1532448879437
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/744,1033,600,180/250,/0/default.jpg
+label: Snake
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+num_match: 
+order: '241'
 layout: alpha_item
 collection: alpha4
 ---

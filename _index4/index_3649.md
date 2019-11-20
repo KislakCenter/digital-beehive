@@ -2,29 +2,27 @@
 pid: index_3649
 volume: Volume 3
 image_number: '42'
-head: to settle
-entry: "<a href='/digital-beehive/toc/toc2_071/'>143 [Establishmt]</a>"
+head: seven
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1936 [Seven]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3851bc22a"
+item: "#item-b4118f963"
 unparsed: 
-line: 'Head: to settle|Entry: 143 [Establishmt]|#item-3851bc22a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/full/0/default.jpg
+line: 'Head: seven|Entry: 1936 [Seven]|#item-b4118f963'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1116,1502,373,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574120758
-order: '3649'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/full/0/default.jpg
-label: to settle
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574145693
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1116,1502,373,148/150,/0/default.jpg
+label: seven
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0896'
 layout: index_item
 collection: index4
 ---

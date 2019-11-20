@@ -7,14 +7,11 @@ entry: "<a href='/digital-beehive/toc/toc2_161/'>870 [Inconstancy]</a>|<a href='
   [Inconstant]</a>|4573 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
-xref: 
-see: "<a href='/digital-beehive/index5/index_4421/'>unstable</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4420/'>unstable</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-7567faf36"
 unparsed: 
 line: 'Head: inconstant|See: unstable|Entry: 870 [Inconstancy]|Entry: 1624 [Inconstant]|Entry:
@@ -22,11 +19,12 @@ line: 'Head: inconstant|See: unstable|Entry: 870 [Inconstancy]|Entry: 1624 [Inco
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559671848458
-order: '2004'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/full/0/default.jpg
 label: inconstant
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '085'
 layout: index_item
 collection: index3
 ---

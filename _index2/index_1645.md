@@ -2,29 +2,27 @@
 pid: index_1645
 volume: Volume 3
 image_number: '22'
-head: God's friends
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1936 [God's friends]</a>"
+head: God hiding himself
+entry: "<a href='/digital-beehive/toc/toc2_366/'>2003 [God hides himself]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-00722bbca"
+item: "#item-c5420366d"
 unparsed: 
-line: 'Head: God''s friends|Entry: 1936 [God''s friends]|#item-00722bbca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,1848,482,112/full/0/default.jpg
+line: 'Head: God hiding himself|Entry: 2003 [God hides himself]|#item-c5420366d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,2026,651,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047285569
-order: '1645'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,1848,482,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,1848,482,112/full/0/default.jpg
-label: God's friends
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047570067
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,2026,651,85/150,/0/default.jpg
+label: God hiding himself
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '465'
 layout: index_item
 collection: index2
 ---

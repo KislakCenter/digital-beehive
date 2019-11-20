@@ -2,29 +2,27 @@
 pid: index_1185
 volume: Volume 3
 image_number: '18'
-head: early
-entry: "[PAGE_MISSING]"
+head: earnest money
+entry: "<a href='/digital-beehive/toc/toc2_128/'>546 [WORD_ILLEGIBLE]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4bb2e1fe4"
+item: "#item-593ccc608"
 unparsed: 
-line: 'Head: early|Entry: [PAGE_MISSING]|#item-4bb2e1fe4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/437,1999,374,142/full/0/default.jpg
+line: 'Head: earnest money|Entry: 546 [WORD_ILLEGIBLE]|#item-593ccc608'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666788810
-order: '1185'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/437,1999,374,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/437,1999,374,142/full/0/default.jpg
-label: early
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666986380
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/150,/0/default.jpg
+label: earnest money
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '005'
 layout: index_item
 collection: index2
 ---

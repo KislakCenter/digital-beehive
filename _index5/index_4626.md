@@ -2,29 +2,27 @@
 pid: index_4626
 volume: Volume 3
 image_number: '53'
-head: worthiness
-entry: "<a href='/digital-beehive/alpha5/alpha_1051/'>a</a>"
+head: wounds of Christ
+entry: "<a href='/digital-beehive/alpha5/alpha_1063/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4b82e3fd9"
+item: "#item-87c92c15e"
 unparsed: 
-line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/full/0/default.jpg
+line: 'Head: wounds of Christ|Entry: a|#item-87c92c15e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1586,478,492,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
-order: '4626'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/full/0/default.jpg
-label: worthiness
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798410244
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1586,478,492,107/150,/0/default.jpg
+label: wounds of Christ
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '593'
 layout: index_item
 collection: index5
 ---

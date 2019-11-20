@@ -2,29 +2,27 @@
 pid: index_3400
 volume: Volume 3
 image_number: '39'
-head: retorsion
-entry: "<a href='/digital-beehive/toc/toc2_284/'>1453 [Argument ad hominem]</a>"
+head: return
+entry: 787 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5288b7e08"
+item: "#item-5cc984f98"
 unparsed: 
-line: 'Head: retorsion|Entry: 1453 [Argument ad hominem]|#item-5288b7e08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2613,644,182/full/0/default.jpg
+line: 'Head: return|Entry: 787 [PAGE_MISSING]|#item-5cc984f98'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1495,2757,480,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230172341
-order: '3400'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2613,644,182/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1486,2613,644,182/full/0/default.jpg
-label: retorsion
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230229623
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1495,2757,480,148/150,/0/default.jpg
+label: return
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0647'
 layout: index_item
 collection: index4
 ---

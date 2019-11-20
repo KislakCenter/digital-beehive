@@ -1,30 +1,29 @@
 ---
 pid: alpha_1044
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: Work
-topic: Work
+entry: Woman
+topic: Woman
 first_letter: W
-xref: "<a href='/digital-beehive/alpha1/alpha_0214/'>Deed</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4612/'>work</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ca04f2c8c"
+xref: "<a href='/digital-beehive/num2/num_0570/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_242/'>1242
+  [Woman]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4586/'>woman</a>"
+item: "#item-863a24be4"
 unparsed: 
-line: 'Entry: Work|Topic: Work|Xref: Deed|Index: work|#item-ca04f2c8c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,2945,495/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529595992957
-order: '1044'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,2945,495/full/0/default.jpg
-label: Work
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Woman|Topic: Woman|Xref: 459 [Wife]|Xref: 1242 [Woman]|Index: woman|#item-863a24be4'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/333,3218,3003,786/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529593174212
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/333,3218,600,180/250,/0/default.jpg
+label: Woman
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '109'
 layout: alpha_item
 collection: alpha5
 ---

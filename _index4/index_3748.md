@@ -2,29 +2,27 @@
 pid: index_3748
 volume: Volume 3
 image_number: '43'
-head: sleepwalkers
-entry: "<a href='/digital-beehive/toc/toc2_316/'>1610 [Sleeping-Walk]</a>"
+head: Sleeve
+entry: 4542 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7d02a08ad"
+item: "#item-c1b9fbe5c"
 unparsed: 
-line: 'Head: sleepwalkers|Entry: 1610 [Sleeping-Walk]|#item-7d02a08ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/867,2295,644,137/full/0/default.jpg
+line: 'Head: Sleeve|Entry: 4542 [PAGE_MISSING]|#item-c1b9fbe5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584534606
-order: '3748'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/867,2295,644,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/867,2295,644,137/full/0/default.jpg
-label: sleepwalkers
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584571361
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/878,2357,502,112/150,/0/default.jpg
+label: Sleeve
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0995'
 layout: index_item
 collection: index4
 ---

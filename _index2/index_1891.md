@@ -2,29 +2,27 @@
 pid: index_1891
 volume: Volume 3
 image_number: '24'
-head: house of office
-entry: "<a href='/digital-beehive/toc/toc2_138/'>607 [Privy house]</a>"
+head: houseleek
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Houseleek]</a>"
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-56a9246b5"
+item: "#item-0b16ffda5"
 unparsed: 
-line: 'Head: house of office|Entry: 607 [Privy house]|#item-56a9246b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/full/0/default.jpg
+line: 'Head: houseleek|Entry: 686 [Houseleek]|#item-0b16ffda5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1833,1027,360,77/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586630335
-order: '1891'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/full/0/default.jpg
-label: house of office
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586703927
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1833,1027,360,77/150,/0/default.jpg
+label: houseleek
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '710'
 layout: index_item
 collection: index2
 ---

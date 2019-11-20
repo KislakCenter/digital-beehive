@@ -2,30 +2,27 @@
 pid: index_3891
 volume: Volume 3
 image_number: '45'
-head: stealing
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
-  [Theft]</a>"
+head: steel
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2116/'>Iron</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-075aed43c"
+item: "#item-e7596f93c"
 unparsed: 
-line: 'Head: stealing|Entry: 866 [Stealing]|Entry: 2094 [Theft]|#item-075aed43c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,1235,614,140/full/0/default.jpg
+line: 'Head: steel|See: Iron|#item-e7596f93c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219140983
-order: '3891'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,1235,614,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,1235,614,140/full/0/default.jpg
-label: stealing
+annotation_uri: http://dev.llgc.org.uk/annotation/1530219165232
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/226,1352,414,71/150,/0/default.jpg
+label: steel
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1138'
 layout: index_item
 collection: index4
 ---

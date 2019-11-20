@@ -2,30 +2,27 @@
 pid: index_3745
 volume: Volume 3
 image_number: '43'
-head: slavery
-entry: "<a href='/digital-beehive/alpha4/alpha_0878/'>a</a>|<a href='/digital-beehive/toc/toc2_222/'>1141
-  [Slavery]</a>|<a href='/digital-beehive/toc/toc2_418/'>2425 [Slavery]</a>"
+head: slaughter
+entry: "<a href='/digital-beehive/num1/num_0252/'>235 [Battel]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1c271a362"
+item: "#item-ec46f97dd"
 unparsed: 
-line: 'Head: slavery|Entry: a|Entry: 1141 [Slavery]|Entry: 2425 [Slavery]|#item-1c271a362'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,1928,733,117/full/0/default.jpg
+line: 'Head: slaughter|Entry: 235 [Battel]|#item-ec46f97dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,2056,592,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583527481
-order: '3745'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,1928,733,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/891,1928,733,117/full/0/default.jpg
-label: slavery
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583547375
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/889,2056,592,144/150,/0/default.jpg
+label: slaughter
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0992'
 layout: index_item
 collection: index4
 ---

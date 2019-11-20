@@ -2,29 +2,27 @@
 pid: index_3326
 volume: Volume 3
 image_number: '39'
-head: to rectify
-entry: "<a href='/digital-beehive/toc/toc2_115/'>464 [Amending]</a>"
+head: red
+entry: "<a href='/digital-beehive/toc/toc2_262/'>1343 [Red- (:hair:)face]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8c7d9fdfd"
+item: "#item-b4d6d5268"
 unparsed: 
-line: 'Head: to rectify|Entry: 464 [Amending]|#item-8c7d9fdfd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/124,744,453,93/full/0/default.jpg
+line: 'Head: red|Entry: a|Entry: 1343 [Red- (:hair:)face]|#item-b4d6d5268'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/156,780,424,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463275579
-order: '3326'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/124,744,453,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/124,744,453,93/full/0/default.jpg
-label: to rectify
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463321815
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/156,780,424,122/150,/0/default.jpg
+label: red
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0573'
 layout: index_item
 collection: index4
 ---

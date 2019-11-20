@@ -2,30 +2,29 @@
 pid: index_1249
 volume: Volume 3
 image_number: '18'
-head: end
-entry: "<a href='/digital-beehive/alpha2/alpha_0281/'>a</a>|<a href='/digital-beehive/toc/toc2_161/'>868
-  [End]</a>|<a href='/digital-beehive/toc/toc2_393/'>2249 [End]</a>"
+head: endeavour
+entry: "<a href='/digital-beehive/toc/toc2_128/'>550 [Endeavour]</a>|<a href='/digital-beehive/toc/toc2_258/'>1324
+  [Endeavour]</a>|<a href='/digital-beehive/toc/toc2_367/'>2017 [Endeavour]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cd586b415"
+item: "#item-8d37acef1"
 unparsed: 
-line: 'Head: end|Entry: a|Entry: 868 [End]|Entry: 2249 [End]|#item-cd586b415'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,1012,581,107/full/0/default.jpg
+line: 'Head: endeavour|Entry: 550 [Endeavour]|Entry: 1324 [Endeavour]|Entry: 2017
+  [Endeavour]|#item-8d37acef1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560450976914
-order: '1249'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,1012,581,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,1012,581,107/full/0/default.jpg
-label: end
+annotation_uri: http://dev.llgc.org.uk/annotation/1559755143269
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1811,1080,783,134/150,/0/default.jpg
+label: endeavour
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '069'
 layout: index_item
 collection: index2
 ---

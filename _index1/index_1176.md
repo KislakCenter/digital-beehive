@@ -2,29 +2,27 @@
 pid: index_1176
 volume: Volume 3
 image_number: '18'
-head: family duties
-entry: "<a href='/digital-beehive/toc/toc2_164/'>885 [Family Duties]</a>"
+head: dwarf
+entry: "<a href='/digital-beehive/alpha1/alpha_0268/'>a</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-460b41f97"
+item: "#item-f499c6c6e"
 unparsed: 
-line: 'Head: family duties|Entry: 885 [Family Duties]|#item-460b41f97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/full/0/default.jpg
+line: 'Head: dwarf|Entry: a|#item-f499c6c6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/432,1275,320,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560450346568
-order: '1176'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/full/0/default.jpg
-label: family duties
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664825717
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/432,1275,320,116/150,/0/default.jpg
+label: dwarf
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1173'
 layout: index_item
 collection: index1
 ---

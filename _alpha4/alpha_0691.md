@@ -3,28 +3,27 @@ pid: alpha_0691
 volume: Volume 2
 image_number: '39'
 head: 
-entry: Pease
-topic: Pease
+entry: Peace
+topic: Peace
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2937/'>peas</a>"
-insertion_xref: 
-insertion: 
-item: "#item-70d09e835"
+xref: Truce|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980 [Peace]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
+item: "#item-f73a2700c"
 unparsed: 
-line: 'Entry: Pease|Topic: Pease|Index: peas|#item-70d09e835'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/304,3870,3033,344/full/0/default.jpg
+line: 'Entry: Peace|Topic: Peace|Xref: Truce|Xref: Tranquility|Xref: 980 [Peace]|Index:
+  peace|#item-f73a2700c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,3075,535/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565022326750
-order: '691'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/304,3870,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/304,3870,3033,344/full/0/default.jpg
-label: Pease
+annotation_uri: http://dev.llgc.org.uk/annotation/1565022101382
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,600,180/250,/0/default.jpg
+label: Peace
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+num_match: 
+order: '044'
 layout: alpha_item
 collection: alpha4
 ---

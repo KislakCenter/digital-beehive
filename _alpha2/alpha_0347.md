@@ -3,28 +3,26 @@ pid: alpha_0347
 volume: Volume 2
 image_number: '13'
 head: 
-entry: French
-topic: French
+entry: Free will
+topic: Free will
 first_letter: F
-xref: "<a href='/digital-beehive/toc/toc2_251/'>1288 [French]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1540/'>french</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a2c7ebd98"
+xref: "<a href='/digital-beehive/alpha4/alpha_0796/'>Resistance</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1538/'>free will</a>"
+item: "#item-6498701ba"
 unparsed: 
-line: 'Entry: French|Topic: French|Xref: 1288 [French]|Index: french|#item-a2c7ebd98'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,2178,3000,310/full/0/default.jpg
+line: 'Entry: Free will|Topic: Free will|Xref: Resistance|Index: free will|#item-6498701ba'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/330,1965,3090,300/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564590370882
-order: '347'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,2178,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,2178,3000,310/full/0/default.jpg
-label: French
+annotation_uri: http://dev.llgc.org.uk/annotation/1564590318481
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/330,1965,600,180/250,/0/default.jpg
+label: Free will
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
+num_match: 
+order: '078'
 layout: alpha_item
 collection: alpha2
 ---

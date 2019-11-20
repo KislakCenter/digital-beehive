@@ -1,30 +1,28 @@
 ---
 pid: alpha_0881
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Snake
-topic: Snake
+entry: Siren
+topic: Siren
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Serpent]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3766/'>snake</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6fd4f1eb5"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3732/'>Siren</a>"
+item: "#item-bff432c84"
 unparsed: 
-line: 'Entry: Snake|Topic: Snake|Xref: 1250 [Serpent]|Index: snake|#item-6fd4f1eb5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/744,1033,2998,500/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532448879437
-order: '881'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/744,1033,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/744,1033,2998,500/full/0/default.jpg
-label: Snake
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Siren|Topic: Siren|Index: Siren|#item-bff432c84'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/332,3302,1089,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532029244702
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/332,3302,600,180/250,/0/default.jpg
+label: Siren
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '233'
 layout: alpha_item
 collection: alpha4
 ---

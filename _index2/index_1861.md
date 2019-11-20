@@ -2,29 +2,27 @@
 pid: index_1861
 volume: Volume 3
 image_number: '24'
-head: home
-entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>"
+head: homebred
+entry: "<a href='/digital-beehive/toc/toc2_209/'>1076 [Natives]</a>"
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1ffb1be8a"
+item: "#item-114a72b07"
 unparsed: 
-line: 'Head: home|Entry: a|#item-1ffb1be8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,1650,317,116/full/0/default.jpg
+line: 'Head: homebred|Entry: 1076 [Natives]|#item-114a72b07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1136,1740,407,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582567875
-order: '1861'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,1650,317,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,1650,317,116/full/0/default.jpg
-label: home
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582648226
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1136,1740,407,104/150,/0/default.jpg
+label: homebred
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '680'
 layout: index_item
 collection: index2
 ---

@@ -6,25 +6,23 @@ head: ice
 entry: "<a href='/digital-beehive/toc/toc2_127/'>544 [Ice]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-12e1d4b6f"
 unparsed: 
 line: 'Head: ice|Entry: 544 [Ice]|#item-12e1d4b6f'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,935,297,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559659169121
-order: '1930'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,935,297,80/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,935,297,80/full/0/default.jpg
 label: ice
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '011'
 layout: index_item
 collection: index3
 ---

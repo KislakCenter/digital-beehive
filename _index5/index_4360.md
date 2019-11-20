@@ -2,30 +2,28 @@
 pid: index_4360
 volume: Volume 3
 image_number: '50'
-head: unbelief
-entry: "<a href='/digital-beehive/alpha5/alpha_0990/'>a</a>|<a href='/digital-beehive/toc/toc2_372/'>2070
-  [Unbelief]</a>"
+head: uncertain
+entry: "<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/digital-beehive/toc/toc2_372/'>2061
+  [Doubt]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1136/'>doubt</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0e15ccd27"
+item: "#item-c6bfce10c"
 unparsed: 
-line: 'Head: unbelief|Entry: a|Entry: 2070 [Unbelief]|#item-0e15ccd27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/full/0/default.jpg
+line: 'Head: uncertain|See: doubt|Entry: a|Entry: 918 [Doubtful]|Entry: 2061 [Doubt]|#item-c6bfce10c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/461,1473,672,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872390862
-order: '4360'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/full/0/default.jpg
-label: unbelief
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872515845
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/461,1473,672,150/150,/0/default.jpg
+label: uncertain
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '327'
 layout: index_item
 collection: index5
 ---

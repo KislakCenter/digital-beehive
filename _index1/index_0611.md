@@ -2,29 +2,27 @@
 pid: index_0611
 volume: Volume 3
 image_number: '12'
-head: "[:50.]"
+head: charnelhouse
 entry: 
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: Index
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4719/'>Charon</a>"
-insertion: 
-item: "#item-f368c1523"
-unparsed: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
-line: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/full/0/default.jpg
+item: "#item-2f6dfd57d"
+unparsed: 
+line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275599750
-order: '611'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/full/0/default.jpg
-label: "[:50.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/150,/0/default.jpg
+label: charnelhouse
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0610'
 layout: index_item
 collection: index1
 ---

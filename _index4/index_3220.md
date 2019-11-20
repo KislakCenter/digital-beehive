@@ -2,29 +2,27 @@
 pid: index_3220
 volume: Volume 3
 image_number: '37'
-head: publick good
-entry: "<a href='/digital-beehive/toc/toc2_254/'>1304 [Publick good]</a>"
+head: to publish
+entry: "<a href='/digital-beehive/toc/toc2_120/'>500 [Publish]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a39cac23f"
+item: "#item-70b7cb4a5"
 unparsed: 
-line: 'Head: publick good|Entry: 1304 [Publick good]|#item-a39cac23f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/full/0/default.jpg
+line: 'Head: to publish|Entry: 500 [Publish]|#item-70b7cb4a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1480,3455,587,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869837124
-order: '3220'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/full/0/default.jpg
-label: publick good
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869853356
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1480,3455,587,153/150,/0/default.jpg
+label: to publish
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0467'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_4555
 volume: Volume 3
 image_number: '52'
-head: Pr. William
-entry: "<a href='/digital-beehive/toc/toc2_246/'>1262 [Prince Wm. of Orange]</a>"
+head: King William
+entry: "<a href='/digital-beehive/toc/toc2_344/'>1781 [King William]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-25955e25c"
+item: "#item-2a0bb3c50"
 unparsed: 
-line: 'Head: Pr. William|Entry: 1262 [Prince Wm. of Orange]|#item-25955e25c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/full/0/default.jpg
+line: 'Head: King William|Entry: 1781 [King William]|#item-2a0bb3c50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972538443
-order: '4555'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1760,2940,591,136/full/0/default.jpg
-label: Pr. William
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972579086
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/150,/0/default.jpg
+label: King William
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '522'
 layout: index_item
 collection: index5
 ---

@@ -3,30 +3,28 @@ pid: alpha_0876
 volume: Volume 2
 image_number: '53'
 head: 
-entry: Slander
-topic: Slander
+entry: Simplicity
+topic: Simplicity
 first_letter: S
-xref: "<a href='/digital-beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0823/'>Satyre</a>|<a
-  href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3743/'>slander</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6f4b8314c"
+xref: "<a href='/digital-beehive/alpha4/alpha_0879/'>Sincerity</a>|<a href='/digital-beehive/num1/num_0045/'>45
+  [Little will suffice Nature]</a>|<a href='/digital-beehive/toc/toc2_306/'>1559 [Simplicity]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3716/'>simplicity</a>"
+item: "#item-77c871f61"
 unparsed: 
-line: 'Entry: Slander|Topic: Slander|Xref: Calumny|Xref: Satyre|Xref: 653 [Slander]|Index:
-  slander|#item-6f4b8314c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,3030,608/full/0/default.jpg
+line: 'Entry: Simplicity|Topic: Simplicity|Xref: Sincerity|Xref: 45 [Little will suffice
+  Nature]|Xref: 1559 [Simplicity]|Index: simplicity|#item-77c871f61'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/324,945,3050,566/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532029524491
-order: '876'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,3030,608/full/0/default.jpg
-label: Slander
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023380231
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/324,945,600,180/250,/0/default.jpg
+label: Simplicity
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '228'
 layout: alpha_item
 collection: alpha4
 ---

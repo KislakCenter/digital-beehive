@@ -2,29 +2,27 @@
 pid: index_4629
 volume: Volume 3
 image_number: '53'
-head: wrath
-entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>"
+head: to wrest
+entry: 
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: pervert
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-677ec7e4f"
+item: "#item-06c382366"
 unparsed: 
-line: 'Head: wrath|Entry: a|#item-677ec7e4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1597,627,356,91/full/0/default.jpg
+line: 'Head: to wrest|See: pervert|#item-06c382366'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1702,762,619,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798440613
-order: '4629'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1597,627,356,91/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1597,627,356,91/full/0/default.jpg
-label: wrath
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798501150
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1702,762,619,127/150,/0/default.jpg
+label: to wrest
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '596'
 layout: index_item
 collection: index5
 ---

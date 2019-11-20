@@ -1,32 +1,30 @@
 ---
 pid: alpha_0822
 volume: Volume 2
-image_number: '50'
+image_number: '49'
 head: 
-entry: Saviour
-topic: Saviour
+entry: Sadness
+topic: Sadness
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0775/'>Redemption</a>|<a href='/digital-beehive/alpha3/alpha_0448/'>Jesus</a>|<a
-  href='/digital-beehive/toc/toc2_180/'>966 [Saviour]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3526/'>saviour</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b7ad2723d"
+xref: "<a href='/digital-beehive/alpha3/alpha_0583/'>melancholy</a>|<a href='/digital-beehive/alpha3/alpha_0614/'>mourning</a>|<a
+  href='/digital-beehive/toc/toc2_230/'>1181 [Mourning, Sadness]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3485/'>sadness</a>"
+item: "#item-fcbec4f94"
 unparsed: 
-line: 'Entry: Saviour|Topic: Saviour|Xref: Redemption|Xref: Jesus|Xref: 966 [Saviour]|Index:
-  saviour|#item-b7ad2723d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,2971,467/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922560984
-order: '822'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,2971,467/full/0/default.jpg
-label: Saviour
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+line: 'Entry: Sadness|Topic: Sadness|Xref: melancholy|Xref: mourning|Xref: 1181 [Mourning,
+  Sadness]|Index: sadness|#item-fcbec4f94'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/333,3597,2999,566/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917186217
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/333,3597,600,180/250,/0/default.jpg
+label: Sadness
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+num_match: 
+order: '174'
 layout: alpha_item
 collection: alpha4
 ---

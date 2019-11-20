@@ -3,29 +3,27 @@ pid: alpha_0859
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Shells of Snails
-topic: Shells of Snails
+entry: Servitude
+topic: Servitude
 first_letter: S
-xref: "<a href='/digital-beehive/alpha5/alpha_0961/'>Tortoise</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3668/'>shells of snails</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b3badbfc6"
+xref: "<a href='/digital-beehive/alpha4/alpha_0886/'>Slavery</a>|Neger|813 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3647/'>servitude</a>"
+item: "#item-62e3b4e15"
 unparsed: 
-line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: shells
-  of snails|#item-b3badbfc6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
+line: 'Entry: Servitude|Topic: Servitude|Xref: Slavery|Xref: Neger|Xref: 813 [PAGE_MISSING]|Index:
+  servitude|#item-62e3b4e15'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/811,499,2982,450/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803527937
-order: '859'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
-label: Shells of Snails
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803112638
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/811,499,600,180/250,/0/default.jpg
+label: Servitude
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '211'
 layout: alpha_item
 collection: alpha4
 ---

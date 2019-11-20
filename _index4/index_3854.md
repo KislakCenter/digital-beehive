@@ -2,29 +2,27 @@
 pid: index_3854
 volume: Volume 3
 image_number: '44'
-head: spleen
-entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
+head: splendour
+entry: "<a href='/digital-beehive/num2/num_0529/'>427 [Bright]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-384cf85f8"
+item: "#item-0e73c1af3"
 unparsed: 
-line: 'Head: spleen|Entry: 595 [Liver]|#item-384cf85f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1830,882,404,102/full/0/default.jpg
+line: 'Head: splendour|Entry: 427 [Bright]|#item-0e73c1af3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104492005
-order: '3854'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1830,882,404,102/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1830,882,404,102/full/0/default.jpg
-label: spleen
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104615868
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/150,/0/default.jpg
+label: splendour
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1101'
 layout: index_item
 collection: index4
 ---

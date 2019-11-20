@@ -2,29 +2,27 @@
 pid: index_2676
 volume: Volume 3
 image_number: '32'
-head: needless
-entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Superfluous or Needless]</a>"
+head: needle
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1564 [Needle]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1b1a88398"
+item: "#item-e6ea78f08"
 unparsed: 
-line: 'Head: needless|Entry: 1245 [Superfluous or Needless]|#item-1b1a88398'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/374,3306,508,140/full/0/default.jpg
+line: 'Head: needle|Entry: 1564 [Needle]|#item-e6ea78f08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/370,3417,495,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439427357
-order: '2676'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/374,3306,508,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/374,3306,508,140/full/0/default.jpg
-label: needless
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439518846
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/370,3417,495,124/150,/0/default.jpg
+label: needle
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '756'
 layout: index_item
 collection: index3
 ---

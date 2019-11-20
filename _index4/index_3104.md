@@ -2,29 +2,27 @@
 pid: index_3104
 volume: Volume 3
 image_number: '36'
-head: practise
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1345 [Experience]</a>"
+head: pr[ae]fiscine
+entry: "<a href='/digital-beehive/toc/toc2_395/'>2256 [Pr[ae]fiscine]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1d0011808"
+item: "#item-4f24374fc"
 unparsed: 
-line: 'Head: practise|Entry: 1345 [Experience]|#item-1d0011808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1912,402,536,102/full/0/default.jpg
+line: 'Head: pr[ae]fiscine|Entry: 2256 [Pr[ae]fiscine]|#item-4f24374fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439458891
-order: '3104'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1912,402,536,102/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1912,402,536,102/full/0/default.jpg
-label: practise
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439497824
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/150,/0/default.jpg
+label: pr[ae]fiscine
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0352'
 layout: index_item
 collection: index4
 ---

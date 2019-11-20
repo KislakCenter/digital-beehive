@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [Pasture]</a>|<a href='/dig
   [Grass & Pasture]</a>"
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-c7c65f67e"
 unparsed: 
 line: 'Head: hay|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-c7c65f67e'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559241651976
-order: '1772'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/827,3307,460,145/full/0/default.jpg
 label: hay
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+insertion_xref: 
+order: '591'
 layout: index_item
 collection: index2
 ---

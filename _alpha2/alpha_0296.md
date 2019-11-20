@@ -1,30 +1,28 @@
 ---
 pid: alpha_0296
 volume: Volume 1
-image_number: '455'
+image_number: '454'
 head: 
-entry: Execution
-topic: Execution
+entry: Excuse
+topic: Excuse
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1343/'>execution</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a147ed4b8"
+xref: 756 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index2/index_1339/'>excuse</a>"
+item: "#item-93f4f440a"
 unparsed: 
-line: 'Entry: Execution|Topic: Execution|Index: execution|#item-a147ed4b8'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/349,229,3132,376/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587114145
-order: '296'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/349,229,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/349,229,3132,376/full/0/default.jpg
-label: Execution
-location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+line: 'Entry: Excuse|Topic: Excuse|XRef: 756 [PAGE_MISSING]|Index: excuse|#item-93f4f440a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/703,4364,3055,695/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564586615347
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/703,4364,600,180/250,/0/default.jpg
+label: Excuse
+location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
+num_match: 
+order: '027'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,29 +2,27 @@
 pid: index_2743
 volume: Volume 3
 image_number: '32'
-head: novice
-entry: 811 [PAGE_MISSING]
+head: nourishmt
+entry: "<a href='/digital-beehive/toc/toc2_322/'>1637 [Nourishmt]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7e6ba13b1"
+item: "#item-4efbea16d"
 unparsed: 
-line: 'Head: novice|Entry: 811 [PAGE_MISSING]|#item-7e6ba13b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1808,3329,414,100/full/0/default.jpg
+line: 'Head: nourishmt|Entry: 1637 [Nourishmt]|#item-4efbea16d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3449,562,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449998965
-order: '2743'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1808,3329,414,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1808,3329,414,100/full/0/default.jpg
-label: novice
+annotation_uri: http://dev.llgc.org.uk/annotation/1560450137310
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1807,3449,562,139/150,/0/default.jpg
+label: nourishmt
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '823'
 layout: index_item
 collection: index3
 ---

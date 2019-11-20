@@ -2,30 +2,27 @@
 pid: index_1183
 volume: Volume 3
 image_number: '18'
-head: ear
-entry: "<a href='/digital-beehive/alpha2/alpha_0269/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1402
-  [Ear]</a>"
+head: early
+entry: "[PAGE_MISSING]"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3fc1a8fab"
+item: "#item-4bb2e1fe4"
 unparsed: 
-line: 'Head: ear|Entry: a|Entry: 1402 [Ear]|#item-3fc1a8fab|'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/442,1846,390,73/full/0/default.jpg
+line: 'Head: early|Entry: [PAGE_MISSING]|#item-4bb2e1fe4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/437,1999,374,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666577546
-order: '1183'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/442,1846,390,73/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/442,1846,390,73/full/0/default.jpg
-label: ear
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666788810
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/437,1999,374,142/150,/0/default.jpg
+label: early
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '003'
 layout: index_item
 collection: index2
 ---

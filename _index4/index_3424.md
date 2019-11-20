@@ -2,29 +2,27 @@
 pid: index_3424
 volume: Volume 3
 image_number: '40'
-head: ridiculus
-entry: 
+head: right
+entry: "<a href='/digital-beehive/alpha4/alpha_0808/'>a</a>"
 topic: 
 first_letter: R
-xref: 
-see: absurd
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7e6edc55b"
+item: "#item-b0935588c"
 unparsed: 
-line: 'Head: ridiculus|See: absurd|#item-7e6edc55b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/429,2072,640,143/full/0/default.jpg
+line: 'Head: right|Entry: a|#item-b0935588c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/425,2179,295,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231906931
-order: '3424'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/429,2072,640,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/429,2072,640,143/full/0/default.jpg
-label: ridiculus
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231969371
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/425,2179,295,149/150,/0/default.jpg
+label: right
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0671'
 layout: index_item
 collection: index4
 ---

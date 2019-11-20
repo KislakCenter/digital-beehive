@@ -3,29 +3,27 @@ pid: alpha_0863
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Sighs
-topic: Sighs
+entry: Shamefacedness
+topic: Shamefacedness
 first_letter: S
-xref: "<a href='/digital-beehive/alpha5/alpha_1020/'>Weeping</a>|<a href='/digital-beehive/toc/toc2_338/'>1740
-  [Sighs]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3701/'>sighs</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1f1ca4933"
+xref: 789 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3660/'>shamefaced</a>"
+item: "#item-bc7a8049a"
 unparsed: 
-line: 'Entry: Sighs|Topic: Sighs|Xref: Weeping|Xref: 1740 [Sighs]|Index: sighs|#item-1f1ca4933'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,2909,386/full/0/default.jpg
+line: 'Entry: Shamefacedness|Topic: Shamefacedness|Xref: 789 [PAGE_MISSING]|Index:
+  shamefaced|#item-bc7a8049a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,2956,437/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803743910
-order: '863'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/814,4073,2909,386/full/0/default.jpg
-label: Sighs
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803382862
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1680,600,180/250,/0/default.jpg
+label: Shamefacedness
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '215'
 layout: alpha_item
 collection: alpha4
 ---

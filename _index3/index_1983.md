@@ -2,29 +2,28 @@
 pid: index_1983
 volume: Volume 3
 image_number: '25'
-head: imprudence
-entry: 
+head: impunity
+entry: "<a href='/digital-beehive/num2/num_0378/'>330 [Impunity]</a>|<a href='/digital-beehive/toc/toc2_232/'>1192
+  [Want of Punishmt]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: inconsid
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3868912b4"
+item: "#item-3d428a399"
 unparsed: 
-line: 'Head: imprudence|See: inconsid|#item-3868912b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/853,2861,666,170/full/0/default.jpg
+line: 'Head: impunity|Entry: 330 [Impunity]|Entry: 1192 [Want of Punishmt]|#item-3d428a399'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,3149,628,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668001235
-order: '1983'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/853,2861,666,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/853,2861,666,170/full/0/default.jpg
-label: imprudence
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668282463
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/854,3149,628,137/150,/0/default.jpg
+label: impunity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '064'
 layout: index_item
 collection: index3
 ---

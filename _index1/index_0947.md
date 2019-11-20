@@ -2,30 +2,27 @@
 pid: index_0947
 volume: Volume 3
 image_number: '15'
-head: darkness
-entry: "<a href='/digital-beehive/alpha1/alpha_0207/'>a</a>|<a href='/digital-beehive/toc/toc2_237/'>1220
-  [Darkness]</a>"
+head: to dare
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [I dare]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b468baa05"
+item: "#item-6ea67d9c6"
 unparsed: 
-line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/full/0/default.jpg
+line: 'Head: to dare|Entry: 4464 [I dare]|#item-6ea67d9c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1541,448,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
-order: '947'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1514,1474,619,124/full/0/default.jpg
-label: darkness
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391223526
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1541,448,76/150,/0/default.jpg
+label: to dare
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0944'
 layout: index_item
 collection: index1
 ---

@@ -6,25 +6,23 @@ head: half
 entry: 823 [PAGE_MISSING]
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-305ab2a99"
 unparsed: 
 line: 'Head: half|Entry: 823 [PAGE_MISSING]|#item-305ab2a99'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/861,247,322,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559235659023
-order: '1740'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/861,247,322,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/861,247,322,132/full/0/default.jpg
 label: half
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+insertion_xref: 
+order: '559'
 layout: index_item
 collection: index2
 ---

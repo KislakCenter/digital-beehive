@@ -2,29 +2,27 @@
 pid: index_4103
 volume: Volume 3
 image_number: '47'
-head: testimonial
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Witnesses]</a>"
+head: thalmud
+entry: "<a href='/digital-beehive/toc/toc2_120/'>500 [Thalmud]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3bf3ffca8"
+item: "#item-675e0ba9a"
 unparsed: 
-line: 'Head: testimonial|Entry: 1007 [Witnesses]|#item-3bf3ffca8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,3537,520,117/full/0/default.jpg
+line: 'Head: thalmud|Entry: 500 [Thalmud]|#item-675e0ba9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,264,411,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532719315599
-order: '4103'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,3537,520,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,3537,520,117/full/0/default.jpg
-label: testimonial
+annotation_uri: http://dev.llgc.org.uk/annotation/1532719634528
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/920,264,411,162/150,/0/default.jpg
+label: thalmud
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '070'
 layout: index_item
 collection: index5
 ---

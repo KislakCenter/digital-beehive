@@ -2,29 +2,28 @@
 pid: index_4490
 volume: Volume 3
 image_number: '52'
-head: watch word
-entry: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Watch-word]</a>"
+head: watchful
+entry: "<a href='/digital-beehive/alpha5/alpha_1024/'>a</a>|<a href='/digital-beehive/toc/toc2_266/'>1363
+  [Watchfulness]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-edcb8651b"
+item: "#item-b186a654c"
 unparsed: 
-line: 'Head: watch word|Entry: 1526 [Watch-word]|#item-edcb8651b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/full/0/default.jpg
+line: 'Head: watchful|Entry: a|Entry: 1363 [Watchfulness]|#item-b186a654c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/515,1162,590,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960452743
-order: '4490'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/487,1031,437,129/full/0/default.jpg
-label: watch word
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960502865
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/515,1162,590,111/150,/0/default.jpg
+label: watchful
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '457'
 layout: index_item
 collection: index5
 ---

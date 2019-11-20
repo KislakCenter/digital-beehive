@@ -2,30 +2,27 @@
 pid: index_2732
 volume: Volume 3
 image_number: '32'
-head: nose
-entry: "<a href='/digital-beehive/alpha3/alpha_0638/'>a</a>|<a href='/digital-beehive/toc/toc2_378/'>2123
-  [Nose]</a>"
+head: not
+entry: "<a href='/digital-beehive/toc/toc2_185/'>996 [Not]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a7e8d2105"
+item: "#item-04251707f"
 unparsed: 
-line: 'Head: nose|Entry: a|Entry: 2123 [Nose]|#item-a7e8d2105'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1833,2005,468,129/full/0/default.jpg
+line: 'Head: not|Entry: 996 [Not]|#item-04251707f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,2143,279,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449157856
-order: '2732'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1833,2005,468,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1833,2005,468,129/full/0/default.jpg
-label: nose
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449229025
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,2143,279,101/150,/0/default.jpg
+label: not
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '812'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,27 @@
 pid: index_3150
 volume: Volume 3
 image_number: '37'
-head: prey
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [Prey]</a>"
+head: price
+entry: 734 [PAGE_MISSING]
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f74d1033d"
+item: "#item-d61c26b89"
 unparsed: 
-line: 'Head: prey|Entry: 871 [Prey]|#item-f74d1033d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,2058,381,166/full/0/default.jpg
+line: 'Head: price|Entry: 734 [PAGE_MISSING]|#item-d61c26b89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/85,2207,423,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866661095
-order: '3150'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,2058,381,166/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,2058,381,166/full/0/default.jpg
-label: prey
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866696325
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/85,2207,423,110/150,/0/default.jpg
+label: price
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0398'
 layout: index_item
 collection: index4
 ---

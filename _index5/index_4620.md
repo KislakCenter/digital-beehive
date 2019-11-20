@@ -2,32 +2,27 @@
 pid: index_4620
 volume: Volume 3
 image_number: '53'
-head: worldly
-entry: "<a href='/digital-beehive/alpha5/alpha_1048/'>a</a>|<a href='/digital-beehive/toc/toc2_201/'>1037
-  [Worldly]</a>|<a href='/digital-beehive/toc/toc2_304/'>1549 [Worldly]</a>|<a href='/digital-beehive/toc/toc2_447/'>4919
-  [Worldly]</a>"
+head: wormwood
+entry: "<a href='/digital-beehive/toc/toc2_154/'>693 [Wormwood]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b7b67eb26"
+item: "#item-22055d9e0"
 unparsed: 
-line: 'Head: worldly|Entry: a|Entry: 1037 [Worldly]|Entry: 1549 [Worldly]|Entry: 4919
-  [Worldly]|#item-b7b67eb26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,3095,687,150/full/0/default.jpg
+line: 'Head: wormwood|Entry: 693 [Wormwood]|#item-22055d9e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797469233
-order: '4620'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,3095,687,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/855,3095,687,150/full/0/default.jpg
-label: worldly
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797583751
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/150,/0/default.jpg
+label: wormwood
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '587'
 layout: index_item
 collection: index5
 ---

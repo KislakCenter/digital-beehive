@@ -6,14 +6,11 @@ head:
 entry: Blood
 topic: Blood
 first_letter: B
-xref: "<a href='/digital-beehive/toc/toc2_178/'>956 [Blood]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/toc/toc2_178/'>956 [Blood]</a>|834 [PAGE_MISSING]"
+see: 
 index: "<a href='/digital-beehive/index1/index_0393/'>blood</a>"
-insertion_xref: 
-insertion: 
 item: "#item-f9f42e163"
 unparsed: 
 line: 'Entry: Blood|Topic: Blood|Xref: 956 [Blood]|Xref: 834 [PAGE_MISSING]|Index:
@@ -21,11 +18,12 @@ line: 'Entry: Blood|Topic: Blood|Xref: 956 [Blood]|Xref: 834 [PAGE_MISSING]|Inde
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/325,1858,3128,550/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563207193016
-order: '87'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/325,1858,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/325,1858,3128,550/full/0/default.jpg
 label: Blood
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
+num_match: 
+order: '086'
 layout: alpha_item
 collection: alpha1
 ---

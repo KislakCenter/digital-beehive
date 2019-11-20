@@ -3,30 +3,26 @@ pid: alpha_0254
 volume: Volume 1
 image_number: '451'
 head: 
-entry: Doctor
-topic: Doctor|Doctorship
+entry: Discharge
+topic: Discharge
 first_letter: D
-xref: "<a href='/digital-beehive/alpha3/alpha_0572/'>Master of Arts</a>|<a href='/digital-beehive/toc/toc2_179/'>964
-  [Doctor]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1122/'>doctor</a>"
-insertion_xref: 
-insertion: 
-item: "#item-34ac490a3"
+xref: "<a href='/digital-beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1065/'>discharge</a>"
+item: "#item-980f3a073"
 unparsed: 
-line: 'Entry: Doctor|Topic: Doctor|Topic: Doctorship|Xref: Master of Arts|Xref: 964
-  [Doctor]|Index: doctor|#item-34ac490a3'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,3063,432/full/0/default.jpg
+line: 'Entry: Discharge|Topic: Discharge|Xref: 1445 [Dismissing]|Index: discharge|#item-980f3a073'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,3014,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508177688435
-order: '254'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,3063,432/full/0/default.jpg
-label: Doctor
+annotation_uri: http://dev.llgc.org.uk/annotation/1508177535258
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,600,180/250,/0/default.jpg
+label: Discharge
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '253'
 layout: alpha_item
 collection: alpha1
 ---

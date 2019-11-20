@@ -2,29 +2,27 @@
 pid: index_3024
 volume: Volume 3
 image_number: '35'
-head: pitch
-entry: "<a href='/digital-beehive/alpha4/alpha_0703/'>a</a>"
+head: pity
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0759/'>compassion</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-74f1d34bc"
+item: "#item-3021d2f85"
 unparsed: 
-line: 'Head: pitch|Entry: a|#item-74f1d34bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,2432,334,122/full/0/default.jpg
+line: 'Head: pity|See: compassion|#item-3021d2f85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,2541,690,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977015173
-order: '3024'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,2432,334,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,2432,334,122/full/0/default.jpg
-label: pitch
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977034816
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,2541,690,140/150,/0/default.jpg
+label: pity
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0272'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_0843
 volume: Volume 3
 image_number: '14'
-head: "[:42.]"
-entry: 
+head: copper
+entry: 1881 [PAGE_MISSING]
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4711/'>copper-Cuts</a>"
-insertion: 
-item: "#item-2fc1a8ebe"
-unparsed: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
-line: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/2304,2308,228,114/full/0/default.jpg
+item: "#item-1997faa53"
+unparsed: 
+line: 'Head: copper|Entry: 1881 [PAGE_MISSING]|#item-1997faa53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565637792171
-order: '843'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/2304,2308,228,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/2304,2308,228,114/full/0/default.jpg
-label: "[:42.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559839261
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/150,/0/default.jpg
+label: copper
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0841'
 layout: index_item
 collection: index1
 ---

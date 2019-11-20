@@ -2,29 +2,28 @@
 pid: index_4050
 volume: Volume 3
 image_number: '46'
-head: talebearing
-entry: "<a href='/digital-beehive/toc/toc2_097/'>340 [Talebearing]</a>"
+head: talk
+entry: 
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0259/'>babbling</a>|<a href='/digital-beehive/index5/index_4605/'>words</a>|<a
+  href='/digital-beehive/index4/index_3830/'>speech</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c6d023cce"
+item: "#item-732953853"
 unparsed: 
-line: 'Head: talebearing|Entry: 340 [Talebearing]|#item-c6d023cce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1845,1318,531,156/full/0/default.jpg
+line: 'Head: talk|See: babbling|See: words|See: speech|#item-732953853'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742728460
-order: '4050'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1845,1318,531,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1845,1318,531,156/full/0/default.jpg
-label: talebearing
+annotation_uri: http://dev.llgc.org.uk/annotation/1528920823839
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/150,/0/default.jpg
+label: talk
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '019'
 layout: index_item
 collection: index5
 ---

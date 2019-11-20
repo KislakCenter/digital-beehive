@@ -2,29 +2,27 @@
 pid: index_4062
 volume: Volume 3
 image_number: '46'
-head: tartars
-entry: 4636 [PAGE_MISSING]
+head: tartar
+entry: "<a href='/digital-beehive/toc/toc2_379/'>2133 [Tartar]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f55ffb8fd"
+item: "#item-cb10b761c"
 unparsed: 
-line: 'Head: tartars|Entry: 4636 [PAGE_MISSING]|#item-f55ffb8fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/full/0/default.jpg
+line: 'Head: tartar|Entry: 2133 [Tartar]|#item-cb10b761c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2927,401,73/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743464813
-order: '4062'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/full/0/default.jpg
-label: tartars
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743566077
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2927,401,73/150,/0/default.jpg
+label: tartar
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '030'
 layout: index_item
 collection: index5
 ---

@@ -1,30 +1,28 @@
 ---
 pid: index_3601
 volume: Volume 3
-image_number: '41'
-head: Selandia
-entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Selandia]</a>"
+image_number: '42'
+head: seldom
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3292/'>rarity</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-102f45353"
+item: "#item-38df66372"
 unparsed: 
-line: 'Head: Selandia|Entry: 1575 [Selandia]|#item-102f45353'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1580,3555,595,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243290732
-order: '3601'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1580,3555,595,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1580,3555,595,124/full/0/default.jpg
-label: Selandia
-location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+line: 'Head: seldom|See: rarity|#item-38df66372'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/460,240,597,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243755673
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/460,240,597,137/150,/0/default.jpg
+label: seldom
+location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0848'
 layout: index_item
 collection: index4
 ---

@@ -3,29 +3,28 @@ pid: alpha_0613
 volume: Volume 2
 image_number: '34'
 head: 
-entry: Multitude
-topic: Multitude
+entry: Mountebank
+topic: Mountebank
 first_letter: M
-xref: "<a href='/digital-beehive/alpha2/alpha_0568/'>many men</a>"
-see: 
 page: 
 add: 
-type: 
-index: "[INDEX_HEADING_MISSING]"
-insertion_xref: 
-insertion: 
-item: "#item-321235c52"
+xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physician</a>|Juggling|<a href='/digital-beehive/toc/toc2_260/'>1333
+  [Mountebank]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2604/'>mountebank</a>"
+item: "#item-0d4c7cfeb"
 unparsed: 
-line: 'Entry: Multitude|Topic: Multitude|Xref: many men|Xref: 864 [PAGE_MISSING]|Index:
-  [INDEX_HEADING_MISSING]|#item-321235c52'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,3069,485/full/0/default.jpg
+line: 'Entry: Mountebank|Topic: Mountebank|Xref: Physician|Xref: Juggling|Xref: 1333
+  [Mountebank]|Index: mountebank|#item-0d4c7cfeb'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,1430,3057,460/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564777721268
-order: '613'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,3069,485/full/0/default.jpg
-label: Multitude
+annotation_uri: http://dev.llgc.org.uk/annotation/1564777419950
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,1430,600,180/250,/0/default.jpg
+label: Mountebank
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+num_match: 
+order: '169'
 layout: alpha_item
 collection: alpha3
 ---

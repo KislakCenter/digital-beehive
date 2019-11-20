@@ -2,30 +2,27 @@
 pid: index_3772
 volume: Volume 3
 image_number: '43'
-head: snuff
-entry: "<a href='/digital-beehive/toc/toc2_112/'>447 [Snuff]</a>|<a href='/digital-beehive/toc/toc2_116/'>476
-  [Sneezing]</a>"
+head: so
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index5/index_4144/'>thus</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-167a41ee3"
+item: "#item-70621c3a4"
 unparsed: 
-line: 'Head: snuff|Entry: 447 [Snuff]|Entry: 476 [Sneezing]|#item-167a41ee3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1407,507,152/full/0/default.jpg
+line: 'Head: so|See: thus|#item-70621c3a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1616,322,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585516485
-order: '3772'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1407,507,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1407,507,152/full/0/default.jpg
-label: snuff
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586020760
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1616,322,98/150,/0/default.jpg
+label: so
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1019'
 layout: index_item
 collection: index4
 ---

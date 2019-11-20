@@ -2,29 +2,28 @@
 pid: index_0328
 volume: Volume 3
 image_number: '9'
-head: to becken
-entry: "<a href='/digital-beehive/toc/toc2_386/'>2202 [To Nod]</a>"
+head: bed
+entry: "<a href='/digital-beehive/alpha1/alpha_0070/'>a</a>|<a href='/digital-beehive/toc/toc2_124/'>523
+  [Bed]</a>|4619 [PAGE_MISSING]"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d274ab745"
+item: "#item-889389dac"
 unparsed: 
-line: 'Head: to becken|Entry: 2202 [To Nod]|#item-d274ab745'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1595,2467,491,87/full/0/default.jpg
+line: 'Head: bed|Entry: a|Entry: 523 [Bed]|Entry: 4619 [PAGE_MISSING]|#item-889389dac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1506,2503,584,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530892453024
-order: '328'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1595,2467,491,87/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1595,2467,491,87/full/0/default.jpg
-label: to becken
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018658053
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1506,2503,584,170/150,/0/default.jpg
+label: bed
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0327'
 layout: index_item
 collection: index1
 ---

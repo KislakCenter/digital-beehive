@@ -3,29 +3,26 @@ pid: alpha_0777
 volume: Volume 2
 image_number: '46'
 head: 
-entry: Refusal
-topic: Refusal
+entry: Rebellion
+topic: Rebellion
 first_letter: R
-xref: "<a href='/digital-beehive/alpha1/alpha_0223/'>denial</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3336/'>refusal</a>"
-insertion_xref: 
-insertion: 
-item: "#item-eabea6e4b"
+xref: "<a href='/digital-beehive/toc/toc2_143/'>630 [Rebellion]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3311/'>rebellion</a>"
+item: "#item-7fe9ac8ca"
 unparsed: 
-line: 'Entry: Refusal|Topic: Refusal|Xref: denial|Xref: 806 [PAGE_MISSING]|Index:
-  refusal|#item-eabea6e4b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,2912,399/full/0/default.jpg
+line: 'Entry: Rebellion |Topic: Rebellion |Xref: 630 [Rebellion]|Index: rebellion|#item-7fe9ac8ca'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/835,623,2956,543/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528739829038
-order: '777'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,2912,399/full/0/default.jpg
-label: Refusal
+annotation_uri: http://dev.llgc.org.uk/annotation/1523301016449
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/835,623,600,180/250,/0/default.jpg
+label: Rebellion
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '130'
 layout: alpha_item
 collection: alpha4
 ---

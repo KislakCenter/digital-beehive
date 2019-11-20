@@ -2,29 +2,27 @@
 pid: index_1683
 volume: Volume 3
 image_number: '22'
-head: graces before meat
-entry: "<a href='/digital-beehive/toc/toc2_440/'>4866 [Graces before and after meat]</a>"
+head: Grace
+entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dab2a4df7"
+item: "#item-00a3e17b1"
 unparsed: 
-line: 'Head: graces before meat|Entry: 4866 [Graces before and after meat]|#item-dab2a4df7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1809,1443,696,146/full/0/default.jpg
+line: 'Head: Grace|Entry: a|#item-00a3e17b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1830,1511,305,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052711845
-order: '1683'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1809,1443,696,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1809,1443,696,146/full/0/default.jpg
-label: graces before meat
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052727747
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1830,1511,305,106/150,/0/default.jpg
+label: Grace
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '502'
 layout: index_item
 collection: index2
 ---

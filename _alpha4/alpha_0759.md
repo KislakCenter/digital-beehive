@@ -3,30 +3,27 @@ pid: alpha_0759
 volume: Volume 2
 image_number: '45'
 head: 
-entry: Queries
-topic: Queries
-first_letter: Q
-xref: "<a href='/digital-beehive/alpha2/alpha_0293/'>Examination</a>|<a href='/digital-beehive/toc/toc2_205/'>1058
-  [Queries]</a>"
-see: 
+entry: Punishment, continued
+topic: Punishment, continued
+first_letter: P
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3259/'>queries</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2d3a3b67b"
+xref: "<a href='/digital-beehive/alpha4/alpha_0758/'>Punishment</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
+item: "#item-726c1f794"
 unparsed: 
-line: 'Entry: Queries|Topic: Queries|Xref: Examination|Xref: 1058 [Queries]|Index:
-  queries|#item-2d3a3b67b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/285,1754,3084,668/full/0/default.jpg
+line: 'Entry: Punishment, continued|Topic: Punishment, continued|Xref: Punishment|Index:
+  punishmt|#item-726c1f794'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/245,195,3050,324/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565103444208
-order: '759'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/285,1754,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/285,1754,3084,668/full/0/default.jpg
-label: Queries
+annotation_uri: http://dev.llgc.org.uk/annotation/1573245992483
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/245,195,600,180/250,/0/default.jpg
+label: Punishment, continued
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '112'
 layout: alpha_item
 collection: alpha4
 ---

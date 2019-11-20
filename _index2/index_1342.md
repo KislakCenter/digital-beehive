@@ -6,25 +6,23 @@ head: executors
 entry: "<a href='/digital-beehive/toc/toc2_434/'>4833 [Executors]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-cecce5fda"
 unparsed: 
 line: 'Head: executors|Entry: 4833 [Executors]|#item-cecce5fda'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1580,377,530,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561041868924
-order: '1342'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1580,377,530,84/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1580,377,530,84/full/0/default.jpg
 label: executors
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+insertion_xref: 
+order: '162'
 layout: index_item
 collection: index2
 ---

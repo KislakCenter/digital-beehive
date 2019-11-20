@@ -2,29 +2,27 @@
 pid: index_1196
 volume: Volume 3
 image_number: '18'
-head: easter
-entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>"
+head: easy in living
+entry: "<a href='/digital-beehive/toc/toc2_254/'>1301 [easy in living]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b456e342f"
+item: "#item-7e8ce2ad3"
 unparsed: 
-line: 'Head: easter|Entry: a|#item-b456e342f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/full/0/default.jpg
+line: 'Head: easy in living|Entry: 1301 [easy in living]|#item-7e8ce2ad3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667939926
-order: '1196'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/full/0/default.jpg
-label: easter
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668150645
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,3153,550,119/150,/0/default.jpg
+label: easy in living
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '016'
 layout: index_item
 collection: index2
 ---

@@ -2,29 +2,27 @@
 pid: index_4470
 volume: Volume 3
 image_number: '51'
-head: want of appetite
-entry: 4527 [PAGE_MISSING]
+head: want of love
+entry: "<a href='/digital-beehive/toc/toc2_186/'>1003 [Want of Love]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-36963b150"
+item: "#item-217747f59"
 unparsed: 
-line: 'Head: want of appetite|Entry: 4527 [PAGE_MISSING]|#item-36963b150'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,1571,616,103/full/0/default.jpg
+line: 'Head: want of love|Entry: 1003 [Want of Love]|#item-217747f59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,1620,454,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647882576
-order: '4470'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,1571,616,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,1571,616,103/full/0/default.jpg
-label: want of appetite
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647909276
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1646,1620,454,97/150,/0/default.jpg
+label: want of love
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '437'
 layout: index_item
 collection: index5
 ---

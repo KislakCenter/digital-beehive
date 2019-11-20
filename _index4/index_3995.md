@@ -2,29 +2,27 @@
 pid: index_3995
 volume: Volume 3
 image_number: '46'
-head: to suppress
-entry: 828 [PAGE_MISSING]
+head: I am sure
+entry: "<a href='/digital-beehive/toc/toc2_387/'>2213 [I am Sure]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7493d30ab"
+item: "#item-bf648a399"
 unparsed: 
-line: 'Head: to suppress|Entry: 828 [PAGE_MISSING]|#item-7493d30ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,2501,510,147/full/0/default.jpg
+line: 'Head: I am sure|Entry: 2213 [I am Sure]|#item-bf648a399'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530648243518
-order: '3995'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,2501,510,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/454,2501,510,147/full/0/default.jpg
-label: to suppress
+annotation_uri: http://dev.llgc.org.uk/annotation/1530648255201
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/150,/0/default.jpg
+label: I am sure
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1241'
 layout: index_item
 collection: index4
 ---

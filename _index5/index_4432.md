@@ -2,29 +2,28 @@
 pid: index_4432
 volume: Volume 3
 image_number: '51'
-head: voracity
-entry: "<a href='/digital-beehive/toc/toc2_151/'>677 [Voracity]</a>"
+head: to vote
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
+  [Votes]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-681900b02"
+item: "#item-e7d7feb3c"
 unparsed: 
-line: 'Head: voracity|Entry: 677 [Voracity]|#item-681900b02'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/210,3341,500,170/full/0/default.jpg
+line: 'Head: to vote|Entry: 867 [To Vote]|Entry: 2423 [Votes]|#item-e7d7feb3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646073663
-order: '4432'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/210,3341,500,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/210,3341,500,170/full/0/default.jpg
-label: voracity
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646244652
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/150,/0/default.jpg
+label: to vote
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '399'
 layout: index_item
 collection: index5
 ---

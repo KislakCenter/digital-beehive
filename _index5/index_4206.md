@@ -2,29 +2,27 @@
 pid: index_4206
 volume: Volume 3
 image_number: '48'
-head: tower
-entry: "<a href='/digital-beehive/toc/toc2_124/'>520 [Tower]</a>"
+head: town
+entry: "<a href='/digital-beehive/num1/num_0169/'>162 [City]</a>|Entry 1878 [PAGE_MISSING]"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-665c6db45"
+item: "#item-7972d9119"
 unparsed: 
-line: 'Head: tower|Entry: 520 [Tower]|#item-665c6db45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/full/0/default.jpg
+line: 'Head: town|Entry: 162 [City]|Entry 1878 [PAGE_MISSING]|#item-7972d9119'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561484087706
-order: '4206'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/full/0/default.jpg
-label: tower
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484271418
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/150,/0/default.jpg
+label: town
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '173'
 layout: index_item
 collection: index5
 ---

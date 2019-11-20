@@ -3,28 +3,28 @@ pid: alpha_0603
 volume: Volume 2
 image_number: '33'
 head: 
-entry: Moon
-topic: Moon
+entry: Monk
+topic: Monk
 first_letter: M
-xref: "<a href='/digital-beehive/toc/toc2_265/'>1357 [Moon]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2574/'>moon</a>"
-insertion_xref: 
-insertion: 
-item: "#item-81a8ed7ca"
+xref: "<a href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/digital-beehive/alpha2/alpha_0418/'>Hermit</a>|<a
+  href='/digital-beehive/num2/num_0575/'>462 [Monks]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2567/'>monk</a>"
+item: "#item-a0df82e32"
 unparsed: 
-line: 'Entry: Moon|Topic: Moon|Xref: 1357 [Moon]|Index: moon|#item-81a8ed7ca'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,2943,321/full/0/default.jpg
+line: 'Entry: Monk|Topic: Monk|Xref: Cloister|Xref: Hermit|Xref: 462 [Monks]|Index:
+  monk|#item-a0df82e32'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/374,3419,3004,446/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564776821916
-order: '603'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,2943,321/full/0/default.jpg
-label: Moon
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776513031
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/374,3419,600,180/250,/0/default.jpg
+label: Monk
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '159'
 layout: alpha_item
 collection: alpha3
 ---

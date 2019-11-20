@@ -2,29 +2,28 @@
 pid: index_4282
 volume: Volume 3
 image_number: '49'
-head: tyger
-entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>"
+head: types
+entry: "<a href='/digital-beehive/num1/num_0157/'>151 [Types]</a>|<a href='/digital-beehive/toc/toc2_201/'>1040
+  [Signs]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b3a078c2c"
+item: "#item-94e23c518"
 unparsed: 
-line: 'Head: tyger|Entry: a|#item-b3a078c2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,3092,325,134/full/0/default.jpg
+line: 'Head: types|Entry: 151 [Types]|Entry: 1040 [Signs]|#item-94e23c518'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/198,3238,512,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657269602
-order: '4282'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,3092,325,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,3092,325,134/full/0/default.jpg
-label: tyger
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657302338
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/198,3238,512,131/150,/0/default.jpg
+label: types
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '249'
 layout: index_item
 collection: index5
 ---

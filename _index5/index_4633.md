@@ -2,29 +2,28 @@
 pid: index_4633
 volume: Volume 3
 image_number: '53'
-head: wrinkle
-entry: "<a href='/digital-beehive/alpha5/alpha_1056/'>a</a>"
+head: writing
+entry: "<a href='/digital-beehive/alpha5/alpha_1067/'>a</a>|<a href='/digital-beehive/toc/toc2_269/'>1376
+  [Writing]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-88deead0b"
+item: "#item-c3dc78ea7"
 unparsed: 
-line: 'Head: wrinkle|Entry: a|#item-88deead0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,930,433,117/full/0/default.jpg
+line: 'Head: writing|Entry: a|Entry: 1376 [Writing]|#item-c3dc78ea7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798578784
-order: '4633'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,930,433,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,930,433,117/full/0/default.jpg
-label: wrinkle
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798648853
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1581,1069,579,124/150,/0/default.jpg
+label: writing
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '600'
 layout: index_item
 collection: index5
 ---

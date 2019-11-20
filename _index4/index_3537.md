@@ -2,29 +2,27 @@
 pid: index_3537
 volume: Volume 3
 image_number: '41'
-head: scar
+head: Scare Crow
 entry: 
 topic: 
 first_letter: S
-xref: 
-see: wound
-page: 
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3fa9f6b5e"
+item: "#item-695a913cc"
 unparsed: 
-line: 'Head: scar|See: wound|#item-3fa9f6b5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/full/0/default.jpg
+line: 'Head: Scare Crow|Page: p.39 [Image 1.99]|#item-695a913cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/847,241,523,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
-order: '3537'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/full/0/default.jpg
-label: scar
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240189993
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/847,241,523,155/150,/0/default.jpg
+label: Scare Crow
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0784'
 layout: index_item
 collection: index4
 ---

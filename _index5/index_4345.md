@@ -2,30 +2,27 @@
 pid: index_4345
 volume: Volume 3
 image_number: '49'
-head: visitation
-entry: "<a href='/digital-beehive/alpha5/alpha_0988/'>a</a>|<a href='/digital-beehive/toc/toc2_279/'>1429
-  [Visit]</a>"
+head: "[:45.]"
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-57b2ee35e"
-unparsed: 
-line: 'Head: visitation|Entry: a|Entry: 1429 [Visit]|#item-57b2ee35e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,2897,584,148/full/0/default.jpg
+item: "#item-4bf9243e5"
+unparsed: 'Type: Index|Insertion Xref: [:45.]|#item-4bf9243e5'
+line: 'Type: Index|Insertion Xref: [:45.]|#item-4bf9243e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661316232
-order: '4345'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,2897,584,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,2897,584,148/full/0/default.jpg
-label: visitation
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658924738
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/150,/0/default.jpg
+label: "[:45.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4713/'>Vernish</a>"
+order: '312'
 layout: index_item
 collection: index5
 ---

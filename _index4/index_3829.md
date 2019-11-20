@@ -2,29 +2,27 @@
 pid: index_3829
 volume: Volume 3
 image_number: '44'
-head: spectres
-entry: 
+head: speculative
+entry: "<a href='/digital-beehive/toc/toc2_328/'>1667 [Speculation]</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index1/index_0176/'>apparitions</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-907fddaf0"
+item: "#item-c820f10a6"
 unparsed: 
-line: 'Head: spectres|See: apparitions|#item-907fddaf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/full/0/default.jpg
+line: 'Head: speculative|Entry: 1667 [Speculation]|#item-c820f10a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1101,1129,612,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288719578
-order: '3829'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1115,972,746,126/full/0/default.jpg
-label: spectres
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789424226
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1101,1129,612,135/150,/0/default.jpg
+label: speculative
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1076'
 layout: index_item
 collection: index4
 ---

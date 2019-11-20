@@ -2,29 +2,27 @@
 pid: index_0250
 volume: Volume 3
 image_number: '9'
-head: austere
-entry: 760 [PAGE_MISSING]
+head: authentick
+entry: a
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7d0a7b790"
+item: "#item-33edc908a"
 unparsed: 
-line: 'Head: austere|Entry: 760 [PAGE_MISSING]|#item-7d0a7b790'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/173,1486,475,108/full/0/default.jpg
+line: 'Head: authentick|Entry: a|#item-33edc908a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/173,1579,493,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015486663
-order: '250'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/173,1486,475,108/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/173,1486,475,108/full/0/default.jpg
-label: austere
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015540861
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/173,1579,493,134/150,/0/default.jpg
+label: authentick
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0249'
 layout: index_item
 collection: index1
 ---

@@ -1,30 +1,30 @@
 ---
 pid: alpha_0804
 volume: Volume 2
-image_number: '49'
+image_number: '48'
 head: 
-entry: River
-topic: River
+entry: Reward
+topic: Reward
 first_letter: R
-xref: 4551 [PAGE_MISSING]
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3437/'>river</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3012057af"
+xref: "<a href='/digital-beehive/alpha3/alpha_0588/'>merit</a>|<a href='/digital-beehive/alpha4/alpha_0826/'>Salary</a>|<a
+  href='/digital-beehive/num2/num_0533/'>431 [Reward]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3412/'>reward</a>"
+item: "#item-dc4895cb5"
 unparsed: 
-line: 'Entry: River|Topic: River|Xref: 4551 [PAGE_MISSING]|Index: river|#item-3012057af'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,3047,430/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528826516621
-order: '804'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,3047,430/full/0/default.jpg
-label: River
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+line: 'Entry: Reward|Topic: Reward|Xref: merit|Xref: Salary|Xref: 431 [Reward]|Index:
+  reward|#item-dc4895cb5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/828,2238,2945,583/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528824379149
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/828,2238,600,180/250,/0/default.jpg
+label: Reward
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+num_match: 
+order: '156'
 layout: alpha_item
 collection: alpha4
 ---

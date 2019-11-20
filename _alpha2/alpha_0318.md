@@ -1,31 +1,30 @@
 ---
 pid: alpha_0318
-volume: Volume 2
-image_number: '11'
+volume: Volume 1
+image_number: '456'
 head: 
-entry: Favour
-topic: Favour
+entry: Fault
+topic: Fault
 first_letter: F
-xref: Disfavour|<a href='/digital-beehive/toc/toc2_265/'>1359 [Favour]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1418/'>favour & disfavour</a>"
-insertion_xref: 
-insertion: 
-item: "#item-89fc7f3f5"
+xref: "<a href='/digital-beehive/alpha2/alpha_0292/'>Error</a>|<a href='/digital-beehive/toc/toc2_178/'>956
+  [Failings of good men]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1417/'>fault</a>"
+item: "#item-3e32c3b6e"
 unparsed: 
-line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
-  & disfavour|#item-89fc7f3f5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,3026,514/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833083208
-order: '318'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,3026,514/full/0/default.jpg
-label: Favour
-location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
+line: 'Entry: Fault|Topic: Fault|Xref: Error|Xref: 956 [Failings of good men]|Index:
+  fault|#item-3e32c3b6e'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/746,4581,3002,449/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564589520650
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/746,4581,600,180/250,/0/default.jpg
+label: Fault
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
+num_match: 
+order: '049'
 layout: alpha_item
 collection: alpha2
 ---

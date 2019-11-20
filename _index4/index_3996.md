@@ -2,29 +2,28 @@
 pid: index_3996
 volume: Volume 3
 image_number: '46'
-head: I am sure
-entry: "<a href='/digital-beehive/toc/toc2_387/'>2213 [I am Sure]</a>"
+head: surely
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, Safety]</a>|<a href='/digital-beehive/toc/toc2_387/'>2213
+  [I am Sure]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bf648a399"
+item: "#item-3be4063d2"
 unparsed: 
-line: 'Head: I am sure|Entry: 2213 [I am Sure]|#item-bf648a399'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/full/0/default.jpg
+line: 'Head: surely|Entry: 914 [Security, Safety]|Entry: 2213 [I am Sure]|#item-3be4063d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/470,2679,559,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530648255201
-order: '3996'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/full/0/default.jpg
-label: I am sure
+annotation_uri: http://dev.llgc.org.uk/annotation/1530648421664
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/470,2679,559,103/150,/0/default.jpg
+label: surely
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1242'
 layout: index_item
 collection: index4
 ---

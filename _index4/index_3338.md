@@ -2,29 +2,28 @@
 pid: index_3338
 volume: Volume 3
 image_number: '39'
-head: to regard
-entry: 
+head: regarding of persons
+entry: "<a href='/digital-beehive/alpha4/alpha_0784/'>a</a>|<a href='/digital-beehive/toc/toc2_276/'>1412
+  [Respecter of Persons]</a>"
 topic: 
 first_letter: R
-xref: 
-see: look|consider
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ed68b5441"
+item: "#item-2da5c9571"
 unparsed: 
-line: 'Head: to regard|See: look|See: consider|#item-ed68b5441'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/134,1945,707,152/full/0/default.jpg
+line: 'Head: regarding of persons|Entry: a|Entry: 1412 [Respecter of Persons]|#item-2da5c9571'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/92,2053,874,213/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464739771
-order: '3338'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/134,1945,707,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/134,1945,707,152/full/0/default.jpg
-label: to regard
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464830851
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/92,2053,874,213/150,/0/default.jpg
+label: regarding of persons
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0585'
 layout: index_item
 collection: index4
 ---

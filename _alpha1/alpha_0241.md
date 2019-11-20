@@ -3,28 +3,26 @@ pid: alpha_0241
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Discretion
-topic: Discretion
+entry: Discretness
+topic: Discretness
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1073/'>discretion</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c8b7cc6c4"
+xref: "<a href='/digital-beehive/alpha3/alpha_0599/'>Modesty</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1074/'>discretness</a>"
+item: "#item-b1771a258"
 unparsed: 
-line: 'Entry: Discretion|Topic: Discretion|Index: discretion|#item-c8b7cc6c4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,2916,220/full/0/default.jpg
+line: 'Entry: Discretness|Topic: Discretness|Xref: Modesty|Index: discretness|#item-b1771a258'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,2989,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175350769
-order: '241'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,2773,2916,220/full/0/default.jpg
-label: Discretion
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175280093
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,2585,600,180/250,/0/default.jpg
+label: Discretness
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '240'
 layout: alpha_item
 collection: alpha1
 ---

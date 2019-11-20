@@ -2,29 +2,27 @@
 pid: index_2898
 volume: Volume 3
 image_number: '34'
-head: 'partakers of oth: Sins'
-entry: "<a href='/digital-beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
+head: particles
+entry: "<a href='/digital-beehive/toc/toc2_370/'>2044 [Particles]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0e2eecca7"
+item: "#item-23faa8eda"
 unparsed: 
-line: 'Head: partakers of oth: Sins|Entry: 2415 [Partake not with the wicked]|#item-0e2eecca7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,3098,678,146/full/0/default.jpg
+line: 'Head: particles|Entry: 2044 [Particles]|#item-23faa8eda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494698453
-order: '2898'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,3098,678,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,3098,678,146/full/0/default.jpg
-label: 'partakers of oth: Sins'
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494774841
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/150,/0/default.jpg
+label: particles
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0146'
 layout: index_item
 collection: index4
 ---

@@ -3,29 +3,28 @@ pid: alpha_0499
 volume: Volume 2
 image_number: '25'
 head: 
-entry: Kingdom of God
-topic: Kingdom of God
+entry: King
+topic: King
 first_letter: K
-xref: "<a href='/digital-beehive/toc/toc2_169/'>906 [Kingdom]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2163/'>kingdom of God</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7bb39ac95"
+xref: "<a href='/digital-beehive/alpha4/alpha_0732/'>Prince</a>|<a href='/digital-beehive/alpha3/alpha_0601/'>Monarchy</a>|<a
+  href='/digital-beehive/toc/toc2_235/'>1207 [King]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2161/'>king</a>"
+item: "#item-a083a8567"
 unparsed: 
-line: 'Entry: Kingdom of God|Topic: Kingdom of God|Xref: 906 [Kingdom]|Index: kingdom
-  of God|#item-7bb39ac95'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,3081,564/full/0/default.jpg
+line: 'Entry: King|Topic: King|Xref: Prince|Xref: Monarchy|Xref: 1207 [King]|Index:
+  king|#item-a083a8567'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/337,2245,3079,476/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765432594
-order: '499'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,3081,564/full/0/default.jpg
-label: Kingdom of God
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765368182
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/337,2245,600,180/250,/0/default.jpg
+label: King
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
+num_match: 
+order: '055'
 layout: alpha_item
 collection: alpha3
 ---

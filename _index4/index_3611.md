@@ -2,32 +2,27 @@
 pid: index_3611
 volume: Volume 3
 image_number: '42'
-head: Self dam[m]age
-entry: "<a href='/digital-beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>|862
-  [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_307/'>1562 [Self damage]</a>|4774
-  [PAGE_MISSING]"
+head: Self deceit
+entry: "<a href='/digital-beehive/toc/toc2_269/'>1380 [Self-deceit]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e2a7acbac"
+item: "#item-ef6f3cd94"
 unparsed: 
-line: 'Head: Self dam[m]age|Entry: 59 [Self-hurt or dammage]|Entry: 862 [PAGE_MISSING]|Entry:
-  1562 [Self damage]|Entry: 4774 [PAGE_MISSING]|#item-e2a7acbac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/full/0/default.jpg
+line: 'Head: Self deceit|Entry: 1380 [Self-deceit]|#item-ef6f3cd94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,1014,500,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244172697
-order: '3611'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,890,800,141/full/0/default.jpg
-label: Self dam[m]age
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244197412
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,1014,500,76/150,/0/default.jpg
+label: Self deceit
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0858'
 layout: index_item
 collection: index4
 ---

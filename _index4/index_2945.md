@@ -2,29 +2,27 @@
 pid: index_2945
 volume: Volume 3
 image_number: '35'
-head: pencil
-entry: 4532 [PAGE_MISSING]
+head: Is. Penington
+entry: "<a href='/digital-beehive/toc/toc2_203/'>1050 [Isaac Penington]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7e8666a61"
+item: "#item-b04ffe052"
 unparsed: 
-line: 'Head: pencil|Entry: 4532 [PAGE_MISSING]|#item-7e8666a61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/130,1120,497,115/full/0/default.jpg
+line: 'Head: Is. Penington|Entry: 1050 [Isaac Penington]|#item-b04ffe052'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/115,1184,665,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972468885
-order: '2945'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/130,1120,497,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/130,1120,497,115/full/0/default.jpg
-label: pencil
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972510909
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/115,1184,665,135/150,/0/default.jpg
+label: Is. Penington
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0193'
 layout: index_item
 collection: index4
 ---

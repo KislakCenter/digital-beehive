@@ -3,28 +3,28 @@ pid: alpha_0524
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Leasure
-topic: Leasure
+entry: Leader
+topic: Leader
 first_letter: L
-xref: 4639 [PAGE_MISSING]
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2241/'>leasure</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6797039d9"
+xref: "<a href='/digital-beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/digital-beehive/toc/toc2_249/'>1280
+  [Leader]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
+item: "#item-e94eb3b2e"
 unparsed: 
-line: 'Entry: Leasure|Topic: Leasure|Xref: 4639 [PAGE_MISSING]|Index: leasure|#item-6797039d9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,1971,3013,266/full/0/default.jpg
+line: 'Entry: Leader|Topic: Leader|Xref: Captain|Xref: Inspiration|Xref: 1280 [Leader]|Index:
+  leader|#item-e94eb3b2e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,3071,469/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768592593
-order: '524'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,1971,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,1971,3013,266/full/0/default.jpg
-label: Leasure
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768541954
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,1396,600,180/250,/0/default.jpg
+label: Leader
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '080'
 layout: alpha_item
 collection: alpha3
 ---

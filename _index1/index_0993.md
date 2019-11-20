@@ -6,25 +6,23 @@ head: degrada[ti]on
 entry: 
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index1/index_1013/'>deposition</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1013/'>deposition</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-fe300b0e3"
 unparsed: 
 line: 'Head: degrada[ti]on|See: deposition|#item-fe300b0e3'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/326,2283,785,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1540572287563
-order: '993'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/326,2283,785,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/326,2283,785,140/full/0/default.jpg
 label: degrada[ti]on
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '0990'
 layout: index_item
 collection: index1
 ---

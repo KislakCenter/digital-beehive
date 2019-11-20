@@ -2,30 +2,27 @@
 pid: index_4011
 volume: Volume 3
 image_number: '46'
-head: suspition
-entry: "<a href='/digital-beehive/alpha4/alpha_0924/'>a</a>|<a href='/digital-beehive/toc/toc2_249/'>1277
-  [Suspition]</a>"
+head: to sustain
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9bade716c"
+item: "#item-011050ae8"
 unparsed: 
-line: 'Head: suspition|Entry: a|Entry: 1277 [Suspition]|#item-9bade716c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1104,808,520,140/full/0/default.jpg
+line: 'Head: to sustain|Entry: 1339 [To maintain]|#item-011050ae8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531685161324
-order: '4011'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1104,808,520,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1104,808,520,140/full/0/default.jpg
-label: suspition
+annotation_uri: http://dev.llgc.org.uk/annotation/1531685267657
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/150,/0/default.jpg
+label: to sustain
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1257'
 layout: index_item
 collection: index4
 ---

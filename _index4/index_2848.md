@@ -2,29 +2,28 @@
 pid: index_2848
 volume: Volume 3
 image_number: '34'
-head: owl
-entry: "<a href='/digital-beehive/alpha4/alpha_0665/'>a</a>"
+head: own
+entry: "<a href='/digital-beehive/alpha4/alpha_0670/'>a</a>|<a href='/digital-beehive/toc/toc2_357/'>1939
+  [Own]</a>"
 topic: 
 first_letter: O
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2de89112c"
+item: "#item-71752b70c"
 unparsed: 
-line: 'Head: owl|Page: p.35 [Image 1.95]|Entry: a|#item-2de89112c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/453,1857,477,134/full/0/default.jpg
+line: 'Head: own|Entry: a|Entry: 1939 [Own]|#item-71752b70c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425578405
-order: '2848'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/453,1857,477,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/453,1857,477,134/full/0/default.jpg
-label: owl
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425601526
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/150,/0/default.jpg
+label: own
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0096'
 layout: index_item
 collection: index4
 ---

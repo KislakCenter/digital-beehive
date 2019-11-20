@@ -2,29 +2,29 @@
 pid: index_1580
 volume: Volume 3
 image_number: '21'
-head: gaping
-entry: "<a href='/digital-beehive/toc/toc2_156/'>704 [to Gape]</a>"
+head: garden
+entry: "<a href='/digital-beehive/alpha2/alpha_0355/'>a</a>|1890 [PAGE_MISSING]"
 topic: 
 first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
+  [Image 1.97]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dc6a1c620"
+item: "#item-91f06e853"
 unparsed: 
-line: 'Head: gaping|Entry: 704 [to Gape]|#item-dc6a1c620'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/full/0/default.jpg
+line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
+  1890 [PAGE_MISSING]|#item-91f06e853'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787120452
-order: '1580'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/full/0/default.jpg
-label: gaping
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/150,/0/default.jpg
+label: garden
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '400'
 layout: index_item
 collection: index2
 ---

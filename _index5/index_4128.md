@@ -2,29 +2,28 @@
 pid: index_4128
 volume: Volume 3
 image_number: '47'
-head: thought governmt of th
-entry: "<a href='/digital-beehive/toc/toc2_253/'>1297 [Governmt of thoughts]</a>"
+head: thouing
+entry: "<a href='/digital-beehive/alpha5/alpha_0951/'>a</a>|<a href='/digital-beehive/num1/num_0228/'>217
+  [Thouing]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b8556be97"
+item: "#item-5dee8af62"
 unparsed: 
-line: 'Head: thought governmt of th|Entry: 1297 [Governmt of thoughts]|#item-b8556be97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/full/0/default.jpg
+line: 'Head: thouing|Entry: a|Entry: 217 [Thouing]|#item-5dee8af62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/908,2900,445,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532876472460
-order: '4128'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/857,2761,720,156/full/0/default.jpg
-label: thought governmt of th
+annotation_uri: http://dev.llgc.org.uk/annotation/1529517465561
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/908,2900,445,135/150,/0/default.jpg
+label: thouing
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '095'
 layout: index_item
 collection: index5
 ---

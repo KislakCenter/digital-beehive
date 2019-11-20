@@ -2,29 +2,28 @@
 pid: index_3495
 volume: Volume 3
 image_number: '40'
-head: sailer
-entry: 764 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_421/'>2445 [Sailer]</a>
+head: Saints
+entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/toc/toc2_380/'>2149
+  [Saints]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bf995e57c"
+item: "#item-98b7d7407"
 unparsed: 
-line: 'Head: sailer|Entry: 764 [PAGE_MISSING]|Entry: 2445 [Sailer]|#item-bf995e57c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,2860,573,132/full/0/default.jpg
+line: 'Head: Saints|Entry: a|Entry: 2149 [Saints]|#item-98b7d7407'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1849,2985,493,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235238850
-order: '3495'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,2860,573,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,2860,573,132/full/0/default.jpg
-label: sailer
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235263548
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1849,2985,493,143/150,/0/default.jpg
+label: Saints
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0742'
 layout: index_item
 collection: index4
 ---

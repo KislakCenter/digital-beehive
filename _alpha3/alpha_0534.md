@@ -1,32 +1,30 @@
 ---
 pid: alpha_0534
 volume: Volume 2
-image_number: '28'
+image_number: '27'
 head: 
-entry: Lie
-topic: Lie
+entry: Liberty of Conscience
+topic: Liberty of Conscience
 first_letter: L
-xref: "<a href='/digital-beehive/alpha2/alpha_0311/'>Falshood</a>|Hyperbole|<a href='/digital-beehive/toc/toc2_122/'>513
-  [Lies]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2281/'>lie</a>"
-insertion_xref: 
-insertion: 
-item: "#item-17036b622"
+xref: "<a href='/digital-beehive/alpha3/alpha_0535/'>Liberty of Conscience, continued</a>|<a
+  href='/digital-beehive/toc/toc2_129/'>557 [Liberty of Conscience]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2275/'>liberty of Conscience</a>"
+item: "#item-a7f5c69b7"
 unparsed: 
-line: 'Entry: Lie|Topic: Lie|Xref: Falshood|Xref: Hyperbole|Xref: 513 [Lies]|Index:
-  lie|#item-17036b622'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,3014,703/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769161435
-order: '534'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,3014,703/full/0/default.jpg
-label: Lie
-location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+line: 'Entry: Liberty of Conscience|Topic: Liberty of Conscience|Xref: Liberty of
+  Conscience, continued|Xref: 557 [Liberty of Conscience]|Index: liberty of Conscience|#item-a7f5c69b7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,3035,495/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769001240
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,600,180/250,/0/default.jpg
+label: Liberty of Conscience
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '090'
 layout: alpha_item
 collection: alpha3
 ---

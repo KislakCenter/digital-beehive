@@ -2,29 +2,27 @@
 pid: index_4146
 volume: Volume 3
 image_number: '47'
-head: Tiberius C[ae]sar
-entry: "<a href='/digital-beehive/toc/toc2_411/'>2361 [Tiberius C[ae]sar]</a>"
+head: to tickle
+entry: "<a href='/digital-beehive/toc/toc2_120/'>497 [To tickle]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-540048bd6"
+item: "#item-8545aadf7"
 unparsed: 
-line: 'Head: Tiberius C[ae]sar|Entry: 2361 [Tiberius C[ae]sar]|#item-540048bd6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1543,1164,686,109/full/0/default.jpg
+line: 'Head: to tickle|Entry: 497 [To tickle]|#item-8545aadf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1593,1240,489,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278736806
-order: '4146'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1543,1164,686,109/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1543,1164,686,109/full/0/default.jpg
-label: Tiberius C[ae]sar
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294663875
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1593,1240,489,114/150,/0/default.jpg
+label: to tickle
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '113'
 layout: index_item
 collection: index5
 ---

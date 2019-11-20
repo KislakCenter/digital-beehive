@@ -2,29 +2,27 @@
 pid: index_3408
 volume: Volume 3
 image_number: '40'
-head: reverentiâ salvâ
-entry: 4560 [PAGE_MISSING]
+head: to review
+entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [To Review]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3394b47a0"
+item: "#item-73ade0dbd"
 unparsed: 
-line: 'Head: reverentiâ salvâ|Entry: 4560 [PAGE_MISSING]|#item-3394b47a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/full/0/default.jpg
+line: 'Head: to review|Entry: 1452 [To Review]|#item-73ade0dbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231072294
-order: '3408'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/full/0/default.jpg
-label: reverentiâ salvâ
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231100788
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/150,/0/default.jpg
+label: to review
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0655'
 layout: index_item
 collection: index4
 ---

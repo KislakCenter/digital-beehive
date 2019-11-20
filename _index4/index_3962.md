@@ -2,29 +2,27 @@
 pid: index_3962
 volume: Volume 3
 image_number: '45'
-head: subterfuge
-entry: 756 [PAGE_MISSING]
+head: subtlety
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 topic: 
 first_letter: S
+page: 
+add: "<a href='/digital-beehive/index5/index_4570/'>Wit</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4a7d620cd"
+item: "#item-2beaf9f64"
 unparsed: 
-line: 'Head: subterfuge|Entry: 756 [PAGE_MISSING]|#item-4a7d620cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1606,1785,506,134/full/0/default.jpg
+line: 'Head: subtlety|Entry: 1228 [Craftiness]|Add: Wit|#item-2beaf9f64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468846681
-order: '3962'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1606,1785,506,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1606,1785,506,134/full/0/default.jpg
-label: subterfuge
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468933796
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/150,/0/default.jpg
+label: subtlety
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1209'
 layout: index_item
 collection: index4
 ---

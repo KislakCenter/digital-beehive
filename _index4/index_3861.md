@@ -2,29 +2,27 @@
 pid: index_3861
 volume: Volume 3
 image_number: '44'
-head: a spot
-entry: 789 [PAGE_MISSING]
+head: "[:9.]"
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-575ee9f93"
-unparsed: 
-line: 'Head: a spot|Entry: 789 [PAGE_MISSING]|#item-575ee9f93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1819,1580,374,83/full/0/default.jpg
+item: "#item-c1cd4649a"
+unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
+line: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2323,1585,203,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105240503
-order: '3861'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1819,1580,374,83/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1819,1580,374,83/full/0/default.jpg
-label: a spot
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278186358
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2323,1585,203,162/150,/0/default.jpg
+label: "[:9.]"
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
+order: '1108'
 layout: index_item
 collection: index4
 ---

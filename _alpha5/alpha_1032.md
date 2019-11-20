@@ -1,30 +1,30 @@
 ---
 pid: alpha_1032
 volume: Volume 2
-image_number: '65'
+image_number: '64'
 head: 
-entry: Witchcraft
-topic: Witchcraft
+entry: Wickedness
+topic: Wickedness
 first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_256/'>1312 [Witchcraft]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4575/'>witchcraft</a>"
-insertion_xref: 
-insertion: 
-item: "#item-6d7b3a01f"
+xref: "<a href='/digital-beehive/alpha3/alpha_0569/'>malignity</a>|<a href='/digital-beehive/alpha3/alpha_0632/'>naughtiness</a>|<a
+  href='/digital-beehive/num2/num_0372/'>324 [Wickedness]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4544/'>wickedness</a>"
+item: "#item-6129e9c82"
 unparsed: 
-line: 'Entry: Witchcraft|Topic: Witchcraft|Xref: 1312 [Witchcraft]|Index: witchcraft|#item-6d7b3a01f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,3027,466/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592744072
-order: '1032'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,3027,466/full/0/default.jpg
-label: Witchcraft
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+line: 'Entry: Wickedness|Topic: Wickedness|Xref: malignity|Xref: naughtiness|Xref:
+  324 [Wickedness]|Index: wickedness|#item-6129e9c82'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/812,3510,2933,517/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529590538758
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/812,3510,600,180/250,/0/default.jpg
+label: Wickedness
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+num_match: 
+order: '097'
 layout: alpha_item
 collection: alpha5
 ---

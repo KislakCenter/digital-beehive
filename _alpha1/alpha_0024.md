@@ -6,27 +6,25 @@ head:
 entry: Ambition
 topic: Ambition
 first_letter: A
-xref: "<a href='/digital-beehive/alpha4/alpha_0721/'>Precedency</a>|<a href='/digital-beehive/toc/toc2_225/'>Xref:1156
-  [Ambition]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha4/alpha_0726/'>Precedency</a>|<a href='/digital-beehive/toc/toc2_225/'>1156
+  [Ambition]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0122/'>ambition</a>"
-insertion_xref: 
-insertion: 
 item: "#item-6c6b63904"
 unparsed: 
-line: 'Entry: Ambition|Topic: Ambition|Xref: Precedency|Xref:1156 [Ambition]|Index:
+line: 'Entry: Ambition|Topic: Ambition|Xref: Precedency|Xref: 1156 [Ambition]|Index:
   ambition|#item-6c6b63904'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/800,4352,2988,673/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490639119455
-order: '24'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/800,4352,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/800,4352,2988,673/full/0/default.jpg
 label: Ambition
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+num_match: 
+order: '023'
 layout: alpha_item
 collection: alpha1
 ---

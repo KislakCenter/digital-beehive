@@ -3,29 +3,27 @@ pid: index_1379
 volume: Volume 3
 image_number: '20'
 head: fainthearted
-entry: "<a href='/digital-beehive/alpha2/alpha_0306/'>a</a>|<a href='/digital-beehive/toc/toc2_411/'>2366
+entry: "<a href='/digital-beehive/alpha2/alpha_0307/'>a</a>|<a href='/digital-beehive/toc/toc2_411/'>2366
   [Fainthearted]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-2e82ccbca"
 unparsed: 
 line: 'Head: fainthearted|Entry: a|Entry: 2366 [Fainthearted]|#item-2e82ccbca'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/352,615,778,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561399881364
-order: '1379'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/352,615,778,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/352,615,778,152/full/0/default.jpg
 label: fainthearted
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+insertion_xref: 
+order: '199'
 layout: index_item
 collection: index2
 ---

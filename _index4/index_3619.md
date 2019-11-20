@@ -2,31 +2,28 @@
 pid: index_3619
 volume: Volume 3
 image_number: '42'
-head: Self holiness
-entry: "<a href='/digital-beehive/toc/toc2_091/'>300 [selfholiness, selfrighteousness]</a>|<a
-  href='/digital-beehive/toc/toc2_424/'>4459 [Self holiness]</a>"
+head: Self knowledge
+entry: "<a href='/digital-beehive/alpha4/alpha_0850/'>a</a>|<a href='/digital-beehive/num1/num_0220/'>210
+  [Self-knowledge]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-055cdeea0"
+item: "#item-b3db62192"
 unparsed: 
-line: 'Head: Self holiness|Entry: 300 [selfholiness, selfrighteousness]|Entry: 4459
-  [Self holiness]|#item-055cdeea0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/full/0/default.jpg
+line: 'Head: Self knowledge|Entry: a|Entry: 210 [Self-knowledge]|#item-b3db62192'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244583455
-order: '3619'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/full/0/default.jpg
-label: Self holiness
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244627402
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/150,/0/default.jpg
+label: Self knowledge
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0866'
 layout: index_item
 collection: index4
 ---

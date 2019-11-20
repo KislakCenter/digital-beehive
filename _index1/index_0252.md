@@ -2,29 +2,27 @@
 pid: index_0252
 volume: Volume 3
 image_number: '9'
-head: aurum potabile
-entry: "<a href='/digital-beehive/toc/toc2_155/'>700 [Chymistry]</a>"
+head: author
+entry: 731 [PAGE_MISSING]|4552 [PAGE_MISSING]
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-aba793506"
+item: "#item-e0f93ec44"
 unparsed: 
-line: 'Head: aurum potabile|Entry: 700 [Chymistry]|#item-aba793506'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1714,654,163/full/0/default.jpg
+line: 'Head: author|Entry: 731 [PAGE_MISSING]|Entry: 4552 [PAGE_MISSING]|#item-e0f93ec44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/182,1828,543,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015580398
-order: '252'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1714,654,163/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/172,1714,654,163/full/0/default.jpg
-label: aurum potabile
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015664328
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/182,1828,543,133/150,/0/default.jpg
+label: author
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0251'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,28 @@
 pid: index_3102
 volume: Volume 3
 image_number: '36'
-head: powder treason
-entry: 4778 [PAGE_MISSING]
+head: power
+entry: "<a href='/digital-beehive/alpha4/alpha_0721/'>a</a>|<a href='/digital-beehive/toc/toc2_411/'>2362
+  [Power]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b5dff5220"
+item: "#item-9bb17f66c"
 unparsed: 
-line: 'Head: powder treason|Entry: 4778 [PAGE_MISSING]|#item-b5dff5220'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1163,3598,666,133/full/0/default.jpg
+line: 'Head: power|Entry: a|Entry: 2362 [Power]|#item-9bb17f66c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1920,265,583,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439384097
-order: '3102'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1163,3598,666,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1163,3598,666,133/full/0/default.jpg
-label: powder treason
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439432288
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1920,265,583,125/150,/0/default.jpg
+label: power
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0350'
 layout: index_item
 collection: index4
 ---

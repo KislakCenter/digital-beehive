@@ -2,29 +2,27 @@
 pid: index_4233
 volume: Volume 3
 image_number: '48'
-head: "[:13.]"
-entry: 
+head: trial
+entry: "<a href='/digital-beehive/num2/num_0603/'>487 [Proof, Try all]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4677/'>trespass</a>"
-insertion: 
-item: "#item-1719be50c"
-unparsed: 'Type: Index|Insertion Xref: [:13.]|#item-1719be50c'
-line: 'Type: Index|Insertion Xref: [:13.]|#item-1719be50c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2343,896,154,89/full/0/default.jpg
+item: "#item-2ef120360"
+unparsed: 
+line: 'Head: trial|Entry: 487 [Proof, Try all]|#item-2ef120360'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,922,448,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562001159522
-order: '4233'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2343,896,154,89/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2343,896,154,89/full/0/default.jpg
-label: "[:13.]"
+annotation_uri: http://dev.llgc.org.uk/annotation/1562088056950
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,922,448,148/150,/0/default.jpg
+label: trial
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '200'
 layout: index_item
 collection: index5
 ---

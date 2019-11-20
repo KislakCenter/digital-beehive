@@ -6,25 +6,23 @@ head: milky way
 entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Milky way]</a>"
 topic: 
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-bf0334b6e"
 unparsed: 
 line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
-order: '2515'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
 label: milky way
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+insertion_xref: 
+order: '595'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,27 @@
 pid: index_3452
 volume: Volume 3
 image_number: '40'
-head: sub rosâ
-entry: "<a href='/digital-beehive/toc/toc2_248/'>1272 [Secrecy]</a>"
+head: rosin
+entry: "<a href='/digital-beehive/toc/toc2_380/'>2145 [rosin]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-949672f63"
+item: "#item-14714ac57"
 unparsed: 
-line: 'Head: sub rosâ|Entry: 1272 [Secrecy]|#item-949672f63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1757,504,133/full/0/default.jpg
+line: 'Head: rosin|Entry: 2145 [rosin]|#item-14714ac57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,1820,415,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233610441
-order: '3452'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1757,504,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1757,504,133/full/0/default.jpg
-label: sub rosâ
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233633379
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1164,1820,415,125/150,/0/default.jpg
+label: rosin
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0699'
 layout: index_item
 collection: index4
 ---

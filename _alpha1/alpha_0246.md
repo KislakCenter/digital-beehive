@@ -1,31 +1,30 @@
 ---
 pid: alpha_0246
 volume: Volume 1
-image_number: '451'
+image_number: '450'
 head: 
-entry: Divinity
-topic: Divinity
+entry: Distrust
+topic: Distrust
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [WORD_MISSING]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1114/'>divines and divinity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a97ed4337"
+xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0932/'>Suspition</a>|<a
+  href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|1842 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
+item: "#item-a95c35cba"
 unparsed: 
-line: 'Entry: Divinity|Topic: Divinity|Xref: 1371 [WORD_MISSING]|Index: divines and
-  divinity|#item-a97ed4337'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,222,3066,385/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558557872632
-order: '246'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,222,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,222,3066,385/full/0/default.jpg
-label: Divinity
-location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+line: 'Entry: Distrust|Topic: Distrust|Xref: Trusting|Xref: Suspition|Xref: Caution|Xref:
+  Desperate|Xref: 1842 [PAGE_MISSING]|Index: distrust|#item-a95c35cba'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,2974,565/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175989105
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,600,180/250,/0/default.jpg
+label: Distrust
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '245'
 layout: alpha_item
 collection: alpha1
 ---

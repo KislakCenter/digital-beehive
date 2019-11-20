@@ -2,29 +2,27 @@
 pid: index_4632
 volume: Volume 3
 image_number: '53'
-head: wrestling
-entry: "<a href='/digital-beehive/toc/toc2_160/'>721 [Wrastling]</a>"
+head: wrinkle
+entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-02b96fdb1"
+item: "#item-88deead0b"
 unparsed: 
-line: 'Head: wrestling|Entry: 721 [Wrastling]|#item-02b96fdb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/full/0/default.jpg
+line: 'Head: wrinkle|Entry: a|#item-88deead0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,930,433,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798559152
-order: '4632'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/full/0/default.jpg
-label: wrestling
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798578784
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,930,433,117/150,/0/default.jpg
+label: wrinkle
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '599'
 layout: index_item
 collection: index5
 ---

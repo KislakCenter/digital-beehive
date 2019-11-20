@@ -2,29 +2,27 @@
 pid: index_3410
 volume: Volume 3
 image_number: '40'
-head: reviling
-entry: "<a href='/digital-beehive/toc/toc2_127/'>538 [WORD_ILLEGIBLE]</a>"
+head: to revoke
+entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6f77128e7"
+item: "#item-4cbedd4eb"
 unparsed: 
-line: 'Head: reviling|Entry: 538 [WORD_ILLEGIBLE]|#item-6f77128e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/full/0/default.jpg
+line: 'Head: to revoke|Entry: 418 [Renouncing]|#item-4cbedd4eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,652,549,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
-order: '3410'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/full/0/default.jpg
-label: reviling
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231143746
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,652,549,151/150,/0/default.jpg
+label: to revoke
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0657'
 layout: index_item
 collection: index4
 ---

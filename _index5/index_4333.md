@@ -2,30 +2,28 @@
 pid: index_4333
 volume: Volume 3
 image_number: '49'
-head: vine
-entry: "<a href='/digital-beehive/alpha5/alpha_0983/'>a</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
-  [Vin[e]yards]</a>"
+head: vinegar
+entry: "<a href='/digital-beehive/alpha5/alpha_0992/'>a</a>|<a href='/digital-beehive/toc/toc2_324/'>1649
+  [Vinegar]</a>"
 topic: 
 first_letter: U/V
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_082/'>p.32 [Image 1.92]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-084edad39"
+item: "#item-77f784a30"
 unparsed: 
-line: 'Head: vine|Page: p.32 [Image 1.92]|Entry: a|Entry: 1990 [Vin[e]yards]|#item-084edad39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/full/0/default.jpg
+line: 'Head: vinegar|Entry: a|Entry: 1649 [Vinegar]|#item-77f784a30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1648,1692,479,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660581551
-order: '4333'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,1464,592,130/full/0/default.jpg
-label: vine
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660761853
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1648,1692,479,125/150,/0/default.jpg
+label: vinegar
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '300'
 layout: index_item
 collection: index5
 ---

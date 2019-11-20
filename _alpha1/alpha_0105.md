@@ -6,25 +6,23 @@ head:
 entry: Bugs
 topic: Bugs
 first_letter: B
-xref: "<a href='/digital-beehive/alpha3/alpha_0559/'>Lowse</a>|<a href='/digital-beehive/alpha2/alpha_0329/'>Flea</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha3/alpha_0562/'>Lowse</a>|<a href='/digital-beehive/alpha2/alpha_0330/'>Flea</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0473/'>bugs</a>"
-insertion_xref: 
-insertion: 
 item: "#item-fe1ae6c9a"
 unparsed: 
 line: 'Entry: Bugs|Topic: Bugs|Xref: Lowse|Xref: Flea|Index: bugs|#item-fe1ae6c9a'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/821,3600,2931,304/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1563210847038
-order: '105'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/821,3600,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/821,3600,2931,304/full/0/default.jpg
 label: Bugs
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
+num_match: 
+order: '104'
 layout: alpha_item
 collection: alpha1
 ---

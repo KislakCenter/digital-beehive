@@ -2,29 +2,27 @@
 pid: index_3462
 volume: Volume 3
 image_number: '40'
-head: rue
-entry: "<a href='/digital-beehive/alpha4/alpha_0810/'>a</a>"
+head: ruin
+entry: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d9bd6a5d8"
+item: "#item-fbbffaa7f"
 unparsed: 
-line: 'Head: rue|Entry: a|#item-d9bd6a5d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2568,284,116/full/0/default.jpg
+line: 'Head: ruin|Entry: 608 [Ruin]|#item-fbbffaa7f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2673,379,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233862497
-order: '3462'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2568,284,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2568,284,116/full/0/default.jpg
-label: rue
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233928733
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1140,2673,379,137/150,/0/default.jpg
+label: ruin
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0709'
 layout: index_item
 collection: index4
 ---

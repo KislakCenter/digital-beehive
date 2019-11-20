@@ -2,29 +2,27 @@
 pid: index_0315
 volume: Volume 3
 image_number: '9'
-head: bean
-entry: "<a href='/digital-beehive/alpha1/alpha_0066/'>a</a>"
+head: bear
+entry: "<a href='/digital-beehive/toc/toc2_382/'>2162 [Bears]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ffd4c38c6"
+item: "#item-d3f1f48ec"
 unparsed: 
-line: 'Head: bean|Entry: a|#item-ffd4c38c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1607,1458,256,103/full/0/default.jpg
+line: 'Head: bear|Entry: 2162 [Bears]|#item-d3f1f48ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,1539,364,76/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891381881
-order: '315'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1607,1458,256,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1607,1458,256,103/full/0/default.jpg
-label: bean
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891459115
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1604,1539,364,76/150,/0/default.jpg
+label: bear
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0314'
 layout: index_item
 collection: index1
 ---

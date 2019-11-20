@@ -2,29 +2,30 @@
 pid: index_2985
 volume: Volume 3
 image_number: '35'
-head: books of Ph. Society
-entry: 
+head: philosophy
+entry: "<a href='/digital-beehive/alpha4/alpha_0703/'>a</a>|<a href='/digital-beehive/num2/num_0563/'>453
+  [Philosophy]</a>|<a href='/digital-beehive/toc/toc2_334/'>1698 [Philosophy]</a>|<a
+  href='/digital-beehive/toc/toc2_433/'>4824 [Philosophy]</a>"
 topic: 
 first_letter: P
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc2_290/'>p.380 [Image 2.202]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2de79c801"
+item: "#item-d7608cf75"
 unparsed: 
-line: 'Head: books of Ph. Society|Page: p.380 [Image 2.202]|#item-2de79c801'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/full/0/default.jpg
+line: 'Head: philosophy|Entry: a|Entry: 453 [Philosophy]|Entry: 1698 [Philosophy]|Entry:
+  4824 [Philosophy]|#item-d7608cf75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/796,2422,1036,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974625764
-order: '2985'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/full/0/default.jpg
-label: books of Ph. Society
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976995304
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/796,2422,1036,206/150,/0/default.jpg
+label: philosophy
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0233'
 layout: index_item
 collection: index4
 ---

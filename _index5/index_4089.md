@@ -2,29 +2,27 @@
 pid: index_4089
 volume: Volume 3
 image_number: '47'
-head: tenderness
-entry: 833 [PAGE_MISSING]
+head: ten
+entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Ten]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-476398229"
+item: "#item-482ebda56"
 unparsed: 
-line: 'Head: tenderness|Entry: 833 [PAGE_MISSING]|#item-476398229'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/171,2112,471,120/full/0/default.jpg
+line: 'Head: ten|Entry: 1192 [Ten]|#item-482ebda56'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532714267057
-order: '4089'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/171,2112,471,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/171,2112,471,120/full/0/default.jpg
-label: tenderness
+annotation_uri: http://dev.llgc.org.uk/annotation/1532714385024
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/150,/0/default.jpg
+label: ten
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '056'
 layout: index_item
 collection: index5
 ---

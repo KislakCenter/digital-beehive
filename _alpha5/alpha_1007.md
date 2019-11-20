@@ -1,30 +1,28 @@
 ---
 pid: alpha_1007
 volume: Volume 2
-image_number: '63'
+image_number: '62'
 head: 
-entry: Wager
-topic: Wager
-first_letter: W
-xref: 
-see: 
+entry: Unprofitable
+topic: Unprofitable
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4458/'>wager</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a2ac02fee"
+xref: "<a href='/digital-beehive/alpha4/alpha_0740/'>Profit</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4408/'>unprofitable</a>"
+item: "#item-b19ce7f25"
 unparsed: 
-line: 'Entry: Wager|Topic: Wager|Index: wager|#item-a2ac02fee'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/363,2253,2981,401/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529521281976
-order: '1007'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/363,2253,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/363,2253,2981,401/full/0/default.jpg
-label: Wager
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+line: 'Entry: Unprofitable|Topic: Unprofitable|Xref: Profit|Index: unprofitable|#item-b19ce7f25'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,2943,437/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528913085321
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,3447,600,180/250,/0/default.jpg
+label: Unprofitable
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+num_match: 
+order: '072'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,32 +2,27 @@
 pid: index_0052
 volume: Volume 3
 image_number: '7'
-head: adultery
-entry: "<a href='/digital-beehive/alpha1/alpha_0011/'>a</a>|<a href='/digital-beehive/toc/toc2_129/'>556
-  [Advocate]</a>|<a href='/digital-beehive/toc/toc2_186/'>1002 [Adultery]</a>|<a href='/digital-beehive/toc/toc2_275/'>1406
-  [break Wedlock]</a>"
+head: advocate
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Advocate]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-47e8f941b"
+item: "#item-0275983cc"
 unparsed: 
-line: 'Head: adultery|Entry: a|Entry: 556 [Advocate]|Entry: 1002 [Adultery]|Entry:
-  1406 [break Wedlock]|#item-47e8f941b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,1058,678,157/full/0/default.jpg
+line: 'Head: advocate|Entry: 556 [Advocate]|#item-0275983cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761298303
-order: '52'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,1058,678,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,1058,678,157/full/0/default.jpg
-label: adultery
+annotation_uri: http://dev.llgc.org.uk/annotation/1491192609871
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/150,/0/default.jpg
+label: advocate
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0051'
 layout: index_item
 collection: index1
 ---

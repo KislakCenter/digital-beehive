@@ -2,30 +2,27 @@
 pid: index_3407
 volume: Volume 3
 image_number: '40'
-head: revenues. ecclesiastical
-entry: "<a href='/digital-beehive/toc/toc2_060/'>34 [Ecclesiastical (:excessive:)
-  Revenues]</a>"
+head: reverentiâ salvâ
+entry: 4560 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-857d30b80"
+item: "#item-3394b47a0"
 unparsed: 
-line: 'Head: revenues. ecclesiastical|Entry: 34 [Ecclesiastical (:excessive:) Revenues]|#item-857d30b80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/419,343,635,100/full/0/default.jpg
+line: 'Head: reverentiâ salvâ|Entry: 4560 [PAGE_MISSING]|#item-3394b47a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230890122
-order: '3407'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/419,343,635,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/419,343,635,100/full/0/default.jpg
-label: revenues. ecclesiastical
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231072294
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/150,/0/default.jpg
+label: reverentiâ salvâ
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0654'
 layout: index_item
 collection: index4
 ---

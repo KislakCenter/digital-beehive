@@ -1,32 +1,30 @@
 ---
 pid: alpha_0707
 volume: Volume 2
-image_number: '41'
+image_number: '40'
 head: 
-entry: Pleasure
-topic: Pleasure
+entry: Piety
+topic: Piety
 first_letter: P
-xref: "<a href='/digital-beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0508/'>Lasciviousness</a>|<a
-  href='/digital-beehive/toc/toc2_164/'>882 [Pleasure]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3043/'>pleasure</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3209a6757"
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|<a href='/digital-beehive/toc/toc2_301/'>1532
+  [Godliness]</a>|<a href='/digital-beehive/toc/toc2_208/'>1073 [Pietism]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3003/'>piety</a>"
+item: "#item-77c2a979b"
 unparsed: 
-line: 'Entry: Pleasure|Topic: Pleasure|Xref: Epicurism|Xref: Lasciviousness|Xref:
-  882 [Pleasure]|Index: pleasure|#item-3209a6757'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,3078,429/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528372777939
-order: '707'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,3078,429/full/0/default.jpg
-label: Pleasure
-location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+line: 'Entry: Piety|Topic: Piety|Xref: Devotion|Xref: 1532 [Godliness]|Xref: 1073
+  [Pietism]|Index: piety|#item-77c2a979b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/829,3541,2952,586/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565023240179
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/829,3541,600,180/250,/0/default.jpg
+label: Piety
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '060'
 layout: alpha_item
 collection: alpha4
 ---

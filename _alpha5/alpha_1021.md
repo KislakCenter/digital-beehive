@@ -1,32 +1,29 @@
 ---
 pid: alpha_1021
 volume: Volume 2
-image_number: '64'
+image_number: '63'
 head: 
-entry: Whoredom
-topic: Whoredom
+entry: Martial disciplines
+topic: Martial disciplines
 first_letter: W
-xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
-  href='/digital-beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4542/'>whoredom</a>"
-insertion_xref: 
-insertion: 
-item: "#item-74d7d6014"
+xref: Justitia Militaris
+see: 
+index: "<a href='/digital-beehive/index3/index_2435/'>martial discipline</a>"
+item: "#item-9098cec91"
 unparsed: 
-line: 'Entry: Whoredom|Topic: Whoredom|Xref: Adultery|Xref: Baudry|Xref: Stews|Xref:
-  571 [Fornication or Whoredom]|Index: whoredom|#item-74d7d6014'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529590322636
-order: '1021'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
-label: Whoredom
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+line: 'Entry: Martial disciplines|Topic: Martial disciplines|Xref: Justitia Militaris|Index:
+  martial discipline|#item-9098cec91'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,2965,346/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522719096
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,600,180/250,/0/default.jpg
+label: Martial disciplines
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '086'
 layout: alpha_item
 collection: alpha5
 ---

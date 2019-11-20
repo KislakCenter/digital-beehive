@@ -6,25 +6,23 @@ head: leg
 entry: "<a href='/digital-beehive/toc/toc2_146/'>651 [Leg]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-bf46d9614"
 unparsed: 
 line: 'Head: leg|Entry: 651 [Leg]|#item-bf46d9614'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,3320,283,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559842828984
-order: '2250'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,3320,283,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,3320,283,117/full/0/default.jpg
 label: leg
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '331'
 layout: index_item
 collection: index3
 ---

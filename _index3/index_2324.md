@@ -3,28 +3,26 @@ pid: index_2324
 volume: Volume 3
 image_number: '29'
 head: long sufferance
-entry: "<a href='/digital-beehive/alpha3/alpha_0544/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0547/'>a</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-7cc86e7d9"
 unparsed: 
 line: 'Head: long sufferance|Entry: a|#item-7cc86e7d9'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,412,488,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560177109619
-order: '2324'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,412,488,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,412,488,148/full/0/default.jpg
 label: long sufferance
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '405'
 layout: index_item
 collection: index3
 ---

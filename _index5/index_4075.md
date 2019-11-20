@@ -2,29 +2,27 @@
 pid: index_4075
 volume: Volume 3
 image_number: '47'
-head: beasts teach
-entry: "<a href='/digital-beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
+head: to tear
+entry: "<a href='/digital-beehive/toc/toc2_338/'>1740 [To tear]</a>"
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_051/'>p.1 [Image 1.61]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3b85d39c0"
+item: "#item-cc452237f"
 unparsed: 
-line: 'Head: beasts teach|Page: p.1 [Image 1.61]|Entry: 1096 [Beasts to learn of]|#item-3b85d39c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/full/0/default.jpg
+line: 'Head: to tear|Entry: 1740 [To tear]|#item-cc452237f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/181,911,398,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531787774613
-order: '4075'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/full/0/default.jpg
-label: beasts teach
+annotation_uri: http://dev.llgc.org.uk/annotation/1531787824195
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/181,911,398,107/150,/0/default.jpg
+label: to tear
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '042'
 layout: index_item
 collection: index5
 ---

@@ -3,29 +3,26 @@ pid: alpha_0226
 volume: Volume 1
 image_number: '449'
 head: 
-entry: Derision
-topic: Derision
+entry: Deprecation
+topic: Deprecation
 first_letter: D
-xref: jest|<a href='/digital-beehive/alpha4/alpha_0763/'>railing</a>|<a href='/digital-beehive/alpha4/alpha_0828/'>scorn</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1018/'>derision</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9232756fa"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index1/index_1014/'>deprecation</a>"
+item: "#item-8855fe0e6"
 unparsed: 
-line: 'Entry: Derision|Topic: Derision|Xref: jest|Xref: railing|Xref: scorn|Xref:
-  773 [PAGE_MISSING]|Index: derision|#item-9232756fa'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,3026,385/full/0/default.jpg
+line: 'Entry: Deprecation|Topic: Deprecation|Index: deprecation|#item-8855fe0e6'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,1510,3034,299/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923007128
-order: '226'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,3026,385/full/0/default.jpg
-label: Derision
+annotation_uri: http://dev.llgc.org.uk/annotation/1507922591048
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,1510,600,180/250,/0/default.jpg
+label: Deprecation
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+num_match: 
+order: '225'
 layout: alpha_item
 collection: alpha1
 ---

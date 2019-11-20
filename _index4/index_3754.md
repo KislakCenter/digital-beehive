@@ -2,29 +2,27 @@
 pid: index_3754
 volume: Volume 3
 image_number: '43'
-head: sloathful
-entry: 
+head: sloven
+entry: "<a href='/digital-beehive/toc/toc2_393/'>2246 [Slovenry or Slovenliness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index3/index_2681/'>negligence</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cb68150b0"
+item: "#item-f7fc39c70"
 unparsed: 
-line: 'Head: sloathful|See: negligence|#item-cb68150b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/904,2655,849,146/full/0/default.jpg
+line: 'Head: sloven|Entry: 2246 [Slovenry or Slovenliness]|#item-f7fc39c70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,2849,471,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584733302
-order: '3754'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/904,2655,849,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/904,2655,849,146/full/0/default.jpg
-label: sloathful
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584800377
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,2849,471,122/150,/0/default.jpg
+label: sloven
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '1001'
 layout: index_item
 collection: index4
 ---

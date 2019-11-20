@@ -2,29 +2,27 @@
 pid: index_3289
 volume: Volume 3
 image_number: '38'
-head: ransom
-entry: "<a href='/digital-beehive/toc/toc2_171/'>920 [Delivering]</a>"
+head: Ranters
+entry: "<a href='/digital-beehive/num1/num_0052/'>52 [Ranterism]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6a1c0876e"
+item: "#item-2d443e84a"
 unparsed: 
-line: 'Head: ransom|Entry: 920 [Delivering]|#item-6a1c0876e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1851,360,498,131/full/0/default.jpg
+line: 'Head: Ranters|Entry: 52 [Ranterism]|#item-2d443e84a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1848,447,488,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460334148
-order: '3289'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1851,360,498,131/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1851,360,498,131/full/0/default.jpg
-label: ransom
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460356029
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1848,447,488,185/150,/0/default.jpg
+label: Ranters
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0536'
 layout: index_item
 collection: index4
 ---

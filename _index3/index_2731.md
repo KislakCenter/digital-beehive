@@ -2,29 +2,28 @@
 pid: index_2731
 volume: Volume 3
 image_number: '32'
-head: north
-entry: 864 [PAGE_MISSING]
+head: nose
+entry: "<a href='/digital-beehive/alpha3/alpha_0642/'>a</a>|<a href='/digital-beehive/toc/toc2_378/'>2123
+  [Nose]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-32802b677"
+item: "#item-a7e8d2105"
 unparsed: 
-line: 'Head: north|Entry: 864 [PAGE_MISSING]|#item-32802b677'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1823,1880,426,106/full/0/default.jpg
+line: 'Head: nose|Entry: a|Entry: 2123 [Nose]|#item-a7e8d2105'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1833,2005,468,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449016561
-order: '2731'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1823,1880,426,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1823,1880,426,106/full/0/default.jpg
-label: north
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449157856
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1833,2005,468,129/150,/0/default.jpg
+label: nose
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '811'
 layout: index_item
 collection: index3
 ---

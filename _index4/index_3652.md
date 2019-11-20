@@ -2,29 +2,27 @@
 pid: index_3652
 volume: Volume 3
 image_number: '42'
-head: to sew
-entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [To Sew]</a>"
+head: sewet. adeps
+entry: "<a href='/digital-beehive/toc/toc2_379/'>2136 [Fat. Sewet.]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-aa9d854f7"
+item: "#item-86fd92a3d"
 unparsed: 
-line: 'Head: to sew|Entry: 624 [To Sew]|#item-aa9d854f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1096,1708,448,130/full/0/default.jpg
+line: 'Head: sewet. adeps|Entry: 2136 [Fat. Sewet.]|#item-86fd92a3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,1773,621,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574302112
-order: '3652'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1096,1708,448,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1096,1708,448,130/full/0/default.jpg
-label: to sew
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574373848
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,1773,621,136/150,/0/default.jpg
+label: sewet. adeps
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0899'
 layout: index_item
 collection: index4
 ---

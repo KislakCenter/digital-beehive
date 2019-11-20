@@ -2,32 +2,29 @@
 pid: index_4475
 volume: Volume 3
 image_number: '51'
-head: war
-entry: "<a href='/digital-beehive/alpha5/alpha_1009/'>a</a>|<a href='/digital-beehive/toc/toc2_234/'>1204
-  [War]</a>|<a href='/digital-beehive/toc/toc2_292/'>1492 [Warfare]</a>|<a href='/digital-beehive/toc/toc2_387/'>2220
-  [War]</a>|<a href='/digital-beehive/toc/toc2_446/'>4913 [War]</a>"
+head: wars miseries
+entry: "<a href='/digital-beehive/alpha5/alpha_1020/'>a</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
+  [Evils of war]</a>|<a href='/digital-beehive/toc/toc2_417/'>2411 [War's Miseries]</a>"
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a874acb5"
+item: "#item-e9af68efd"
 unparsed: 
-line: 'Head: war|Page: p.40 [Image 1.100]|Entry: a|Entry: 1204 [War]|Entry: 1492 [Warfare]|Entry:
-  2220 [War]|Entry: 4913 [War]|#item-7a874acb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1630,2202,610,158/full/0/default.jpg
+line: 'Head: wars miseries|Entry: a|Entry: 1416 [Evils of war]|Entry: 2411 [War''s
+  Miseries]|#item-e9af68efd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,2312,704,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648177200
-order: '4475'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1630,2202,610,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1630,2202,610,158/full/0/default.jpg
-label: war
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648377690
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1644,2312,704,153/150,/0/default.jpg
+label: wars miseries
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '442'
 layout: index_item
 collection: index5
 ---

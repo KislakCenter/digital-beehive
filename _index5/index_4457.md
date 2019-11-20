@@ -2,29 +2,27 @@
 pid: index_4457
 volume: Volume 3
 image_number: '51'
-head: to wag
-entry: "<a href='/digital-beehive/toc/toc2_143/'>629 [To Quake]</a>"
+head: wager
+entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c16d74c84"
+item: "#item-3ca7b2d38"
 unparsed: 
-line: 'Head: to wag|Entry: 629 [To Quake]|#item-c16d74c84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/full/0/default.jpg
+line: 'Head: wager|Entry: a|#item-3ca7b2d38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/966,3332,359,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647209291
-order: '4457'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/full/0/default.jpg
-label: to wag
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647232097
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/966,3332,359,112/150,/0/default.jpg
+label: wager
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '424'
 layout: index_item
 collection: index5
 ---

@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0159/'>a</a>|<a href='/digital-be
   [Community of Goods]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-1336369fe"
 unparsed: 
 line: 'Head: common goods|Entry: a|Entry: 1172 [Community of Goods]|#item-1336369fe'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536611730674
-order: '744'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/full/0/default.jpg
 label: common goods
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+insertion_xref: 
+order: '0743'
 layout: index_item
 collection: index1
 ---

@@ -6,25 +6,23 @@ head: irreligion
 entry: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Atheism]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-9ce298fba"
 unparsed: 
 line: 'Head: irreligion|Entry: 1421 [Atheism]|#item-9ce298fba'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/161,635,478,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559756593249
-order: '2121'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/161,635,478,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/161,635,478,139/full/0/default.jpg
 label: irreligion
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '202'
 layout: index_item
 collection: index3
 ---

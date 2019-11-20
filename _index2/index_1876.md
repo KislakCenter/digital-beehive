@@ -2,29 +2,28 @@
 pid: index_1876
 volume: Volume 3
 image_number: '24'
-head: horse leech
-entry: 
+head: horseman
+entry: "<a href='/digital-beehive/alpha2/alpha_0431/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1750
+  [Horseman]</a>"
 topic: 
 first_letter: H
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8d074f5a6"
+item: "#item-f0c3a30e4"
 unparsed: 
-line: 'Head: horse leech|Page: p.37 [Image 1.97]|#item-8d074f5a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1135,3026,443,137/full/0/default.jpg
+line: 'Head: horseman|Entry: a|Entry: 1750 [Horseman]|#item-f0c3a30e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584067674
-order: '1876'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1135,3026,443,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1135,3026,443,137/full/0/default.jpg
-label: horse leech
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584210164
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/150,/0/default.jpg
+label: horseman
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '695'
 layout: index_item
 collection: index2
 ---

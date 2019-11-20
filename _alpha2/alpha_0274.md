@@ -1,30 +1,32 @@
 ---
 pid: alpha_0274
 volume: Volume 1
-image_number: '453'
+image_number: '452'
 head: 
-entry: Eccho
-topic: Eccho
+entry: Ecclesiastical discipline
+topic: Ecclesiastical discipline
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_318/'>1616 [Eccho]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1204/'>echo</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9d68ddad8"
+xref: Excommunication|<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious
+  Controversies]</a>|<a href='/digital-beehive/toc/toc2_106/'>402 [Order & Discipline
+  of the Church of Christ]</a>
+see: 
+index: "<a href='/digital-beehive/index2/index_1199/'>ecclesiastical discipline</a>"
+item: "#item-c4e2bba71"
 unparsed: 
-line: 'Entry: Eccho|Topic: Eccho|Xref: 1616 [Eccho]|Index: echo|#item-9d68ddad8'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,243,3003,356/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518089102
-order: '274'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,243,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,243,3003,356/full/0/default.jpg
-label: Eccho
-location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+line: 'Entry: Ecclesiastical discipline|Topic: Ecclesiastical discipline|Xref: Excommunication|Xref:
+  74 [the Judge of religious Controversies]|Xref: 402 [Order & Discipline of the Church
+  of Christ]|Index: ecclesiastical discipline|#item-c4e2bba71'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,2927,886/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564517864591
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,600,180/250,/0/default.jpg
+label: Ecclesiastical discipline
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+num_match: 
+order: '005'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,31 +2,27 @@
 pid: index_3648
 volume: Volume 3
 image_number: '42'
-head: servitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0852/'>a</a>|813 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_240/'>1233 [the friendlist office]</a>"
+head: to settle
+entry: "<a href='/digital-beehive/num1/num_0148/'>143 [Establishmt]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ec91b719f"
+item: "#item-3851bc22a"
 unparsed: 
-line: 'Head: servitude|Entry: a|Entry: 813 [PAGE_MISSING]|Entry: 1233 [the friendlist
-  office]|#item-ec91b719f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1098,1326,724,140/full/0/default.jpg
+line: 'Head: to settle|Entry: 143 [Establishmt]|#item-3851bc22a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574067348
-order: '3648'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1098,1326,724,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1098,1326,724,140/full/0/default.jpg
-label: servitude
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574120758
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1114,1428,600,157/150,/0/default.jpg
+label: to settle
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0895'
 layout: index_item
 collection: index4
 ---

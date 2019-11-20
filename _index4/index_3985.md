@@ -2,29 +2,29 @@
 pid: index_3985
 volume: Volume 3
 image_number: '46'
-head: sunday
-entry: "<a href='/digital-beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
+head: sundials
+entry: 
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/digital-beehive/toc/toc1_053/'>p.3
+  [Image 1.63]</a>|<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-6813b9ec9"
+item: "#item-37fc08b10"
 unparsed: 
-line: 'Head: Sunday|Entry: 511 [First day of the Week]|#item-6813b9ec9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/full/0/default.jpg
+line: 'Head: sundials|Page: p.2 [Image 1.62]|Page: p.3 [Image 1.63]|Page: p.39 [Image
+  1.99]|#item-37fc08b10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530473028541
-order: '3985'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,1170,352,101/full/0/default.jpg
-label: sunday
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473197541
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/426,1266,537,125/150,/0/default.jpg
+label: sundials
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1231'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_4006
 volume: Volume 3
 image_number: '46'
-head: surprise
-entry: 
+head: to surrender
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1474 [Yielding]</a>"
 topic: 
 first_letter: S
-xref: 
-see: perplex|<a href='/digital-beehive/index5/index_4358/'>unawares</a>
 page: 
 add: 
-type: 
+xref: 
+see: yield
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9ce5e95f5"
+item: "#item-261142283"
 unparsed: 
-line: 'Head: surprise|See: perplex|See: unawares|#item-9ce5e95f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,258,886,164/full/0/default.jpg
+line: 'Head: to surrender|See: yield|Entry: 1474 [Yielding]|#item-261142283'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1088,415,770,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531684103023
-order: '4006'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,258,886,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,258,886,164/full/0/default.jpg
-label: surprise
+annotation_uri: http://dev.llgc.org.uk/annotation/1531684191829
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1088,415,770,118/150,/0/default.jpg
+label: to surrender
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1252'
 layout: index_item
 collection: index4
 ---

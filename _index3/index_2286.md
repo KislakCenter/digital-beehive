@@ -2,30 +2,27 @@
 pid: index_2286
 volume: Volume 3
 image_number: '28'
-head: light
-entry: "<a href='/digital-beehive/alpha3/alpha_0536/'>a</a>|<a href='/digital-beehive/toc/toc2_210/'>1082
-  [Light]</a>|<a href='/digital-beehive/toc/toc2_390/'>2234 [Light]</a>|4766 [PAGE_MISSING]"
+head: light nicknamed
+entry: "<a href='/digital-beehive/num1/num_0040/'>40 [Light]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5014b1fe9"
+item: "#item-8a60e5a3e"
 unparsed: 
-line: 'Head: light|Entry: a|Entry: 1082 [Light]|Entry: 2234 [Light]|Entry: 4766 [PAGE_MISSING]|#item-5014b1fe9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1133,3118,667,205/full/0/default.jpg
+line: 'Head: light nicknamed|Entry: 40 [Light]|#item-8a60e5a3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1116,3266,589,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847409354
-order: '2286'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1133,3118,667,205/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1133,3118,667,205/full/0/default.jpg
-label: light
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847516021
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1116,3266,589,122/150,/0/default.jpg
+label: light nicknamed
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '367'
 layout: index_item
 collection: index3
 ---

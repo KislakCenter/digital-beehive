@@ -1,31 +1,28 @@
 ---
 pid: alpha_0938
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: New Testamt
-topic: New Testamt
+entry: Tax
+topic: Tax
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_173/'>926 [New testament]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4100/'>testament new</a>"
-insertion_xref: 
-insertion: 
-item: "#item-84496680a"
+xref: "<a href='/digital-beehive/toc/toc2_265/'>1359 [The Favour of Princes]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4068/'>tax</a>"
+item: "#item-71ea8abaf"
 unparsed: 
-line: 'Entry: New Testamt|Topic: New Testamt|Xref: 926 [New testament]|Index: testament
-  new|#item-84496680a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,1457,3052,490/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113440065
-order: '938'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,1457,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,1457,3052,490/full/0/default.jpg
-label: New Testamt
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Tax|Topic: Tax|Xref: 1359 [The Favour of Princes]|Index: tax|#item-71ea8abaf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/359,2644,3057,494/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528920411660
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/359,2644,600,180/250,/0/default.jpg
+label: Tax
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '003'
 layout: alpha_item
 collection: alpha5
 ---

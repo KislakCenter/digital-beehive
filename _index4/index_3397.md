@@ -2,30 +2,27 @@
 pid: index_3397
 volume: Volume 3
 image_number: '39'
-head: resurrection
-entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|<a href='/digital-beehive/toc/toc2_249/'>1277
-  [Resurrection]</a>|<a href='/digital-beehive/toc/toc2_391/'>2236 [Resurrection]</a>"
+head: to retain
+entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Retain]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c15953b51"
+item: "#item-62b10fd21"
 unparsed: 
-line: 'Head: resurrection|Entry: a|Entry: 1277 [Resurrection]|Entry: 2236 [Resurrection]|#item-c15953b51'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/full/0/default.jpg
+line: 'Head: to retain|Entry: 866 [To Retain]|#item-62b10fd21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230077799
-order: '3397'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1483,2247,738,190/full/0/default.jpg
-label: resurrection
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230107298
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1481,2337,631,174/150,/0/default.jpg
+label: to retain
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0644'
 layout: index_item
 collection: index4
 ---

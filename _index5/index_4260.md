@@ -2,31 +2,27 @@
 pid: index_4260
 volume: Volume 3
 image_number: '49'
-head: try all things
-entry: "<a href='/digital-beehive/toc/toc2_061/'>47 [Try & Prove all things]</a>|<a
-  href='/digital-beehive/toc/toc2_169/'>908 [Try all things]</a>"
+head: Thos. Tryons writing
+entry: 
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4a38fbe2a"
+item: "#item-8cccbb8ee"
 unparsed: 
-line: 'Head: try all things|Entry: 47 [Try & Prove all things]|Entry: 530 [Try all
-  things]|#item-4a38fbe2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/full/0/default.jpg
+line: 'Head: Thos. Tryons writing|Page: p.62 [Image 1.129]|#item-8cccbb8ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/206,816,692,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655359846
-order: '4260'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/214,665,657,147/full/0/default.jpg
-label: try all things
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655600795
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/206,816,692,192/150,/0/default.jpg
+label: Thos. Tryons writing
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '227'
 layout: index_item
 collection: index5
 ---

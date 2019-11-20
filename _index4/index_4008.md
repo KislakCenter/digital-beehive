@@ -2,29 +2,27 @@
 pid: index_4008
 volume: Volume 3
 image_number: '46'
-head: surreptitious
-entry: 4737 [PAGE_MISSING]
+head: to surround
+entry: 739 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bcb8f463e"
+item: "#item-5a2b30987"
 unparsed: 
-line: 'Head: surreptitious|Entry: 4737 [PAGE_MISSING]|#item-bcb8f463e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1102,503,562,80/full/0/default.jpg
+line: 'Head: to surround|Entry: 739 [PAGE_MISSING]|#item-5a2b30987'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,558,531,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531684247657
-order: '4008'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1102,503,562,80/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1102,503,562,80/full/0/default.jpg
-label: surreptitious
+annotation_uri: http://dev.llgc.org.uk/annotation/1531684274354
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,558,531,143/150,/0/default.jpg
+label: to surround
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1254'
 layout: index_item
 collection: index4
 ---

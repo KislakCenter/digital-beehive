@@ -6,25 +6,23 @@ head: discourage
 entry: "<a href='/digital-beehive/toc/toc2_156/'>701 [Discourage]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-76511c98e"
 unparsed: 
 line: 'Head: discourage|Entry: 701 [Discourage]|#item-76511c98e'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/132,419,538,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541803636385
-order: '1071'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/132,419,538,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/132,419,538,126/full/0/default.jpg
 label: discourage
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1068'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_4302
 volume: Volume 3
 image_number: '49'
-head: vault
-entry: "<a href='/digital-beehive/toc/toc2_170/'>911 [a Vault]</a>"
+head: vegetables
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1644 [Vegetables]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8e6075c7b"
+item: "#item-99284d097"
 unparsed: 
-line: 'Head: vault|Entry: 911 [a Vault]|#item-8e6075c7b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/full/0/default.jpg
+line: 'Head: vegetables|Entry: 1644 [Vegetables]|#item-99284d097'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,1981,512,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658394195
-order: '4302'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/940,1850,330,124/full/0/default.jpg
-label: vault
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658453849
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,1981,512,141/150,/0/default.jpg
+label: vegetables
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '269'
 layout: index_item
 collection: index5
 ---

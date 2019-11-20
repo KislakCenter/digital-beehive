@@ -2,29 +2,27 @@
 pid: index_3853
 volume: Volume 3
 image_number: '44'
-head: spittle
-entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Spittle]</a>"
+head: spleen
+entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a03b1732"
+item: "#item-384cf85f8"
 unparsed: 
-line: 'Head: spittle|Entry: 621 [Spittle]|#item-7a03b1732'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1839,740,351,137/full/0/default.jpg
+line: 'Head: spleen|Entry: 595 [Liver]|#item-384cf85f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1830,882,404,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530103691677
-order: '3853'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1839,740,351,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1839,740,351,137/full/0/default.jpg
-label: spittle
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104492005
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1830,882,404,102/150,/0/default.jpg
+label: spleen
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1100'
 layout: index_item
 collection: index4
 ---

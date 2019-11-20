@@ -1,30 +1,28 @@
 ---
 pid: alpha_1054
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Wrath
-topic: Wrath
+entry: Work
+topic: Work
 first_letter: W
-xref: "<a href='/digital-beehive/alpha1/alpha_0030/'>anger</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4629/'>wrath</a>"
-insertion_xref: 
-insertion: 
-item: "#item-0771713ce"
+xref: "<a href='/digital-beehive/alpha1/alpha_0215/'>Deed</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4610/'>work</a>"
+item: "#item-ca04f2c8c"
 unparsed: 
-line: 'Entry: Wrath|Topic: Wrath|Xref: anger|Index: wrath|#item-0771713ce'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,3023,324/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529599129613
-order: '1054'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,3023,324/full/0/default.jpg
-label: Wrath
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: Work|Topic: Work|Xref: Deed|Index: work|#item-ca04f2c8c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,2945,495/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529595992957
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,600,180/250,/0/default.jpg
+label: Work
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '119'
 layout: alpha_item
 collection: alpha5
 ---

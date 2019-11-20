@@ -2,32 +2,27 @@
 pid: index_2656
 volume: Volume 3
 image_number: '32'
-head: natural philosophy
-entry: "<a href='/digital-beehive/alpha3/alpha_0626/'>a</a>|<a href='/digital-beehive/toc/toc2_303/'>1543
-  [Natural Philosophy]</a>|<a href='/digital-beehive/toc/toc2_378/'>2129 [Natural
-  Philosophy]</a>"
+head: natural defect
+entry: "<a href='/digital-beehive/toc/toc2_321/'>1635 [Natural Defect]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ee3b7ecd2"
+item: "#item-bec38205b"
 unparsed: 
-line: 'Head: natural philosophy|Entry: a|Entry: 1543 [Natural Philosophy]|Entry: 2129
-  [Natural Philosophy]|#item-ee3b7ecd2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/385,1751,860,116/full/0/default.jpg
+line: 'Head: natural defect|Entry: 1635 [Natural Defect]|#item-bec38205b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/380,1794,499,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438068923
-order: '2656'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/385,1751,860,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/385,1751,860,116/full/0/default.jpg
-label: natural philosophy
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438133315
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/380,1794,499,95/150,/0/default.jpg
+label: natural defect
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '736'
 layout: index_item
 collection: index3
 ---

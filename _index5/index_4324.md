@@ -2,30 +2,29 @@
 pid: index_4324
 volume: Volume 3
 image_number: '49'
-head: vice
-entry: "<a href='/digital-beehive/toc/toc2_228/'>1175 [Vices]</a>|<a href='/digital-beehive/toc/toc2_366/'>2010
-  [Vices]</a>"
+head: victuals
+entry: "<a href='/digital-beehive/num2/num_0424/'>359 [Meat]</a>|<a href='/digital-beehive/toc/toc2_155/'>696
+  [Dainty meats]</a>|<a href='/digital-beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: U/V
+page: 
+add: "<a href='/digital-beehive/index1/index_0938/'>dainties</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-659a89c8f"
+item: "#item-b922dc2a1"
 unparsed: 
-line: 'Head: vice|Entry: 1175 [Vices]|Entry: 2010 [Vices]|#item-659a89c8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,505,513,115/full/0/default.jpg
+line: 'Head: victuals|Entry: 359 [Meat]|Add: dainties|Entry: 696 [Dainty meats]|Entry:
+  2156 [Meat]|#item-b922dc2a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659592980
-order: '4324'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,505,513,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1626,505,513,115/full/0/default.jpg
-label: vice
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659889800
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/150,/0/default.jpg
+label: victuals
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '291'
 layout: index_item
 collection: index5
 ---

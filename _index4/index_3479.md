@@ -2,30 +2,27 @@
 pid: index_3479
 volume: Volume 3
 image_number: '40'
-head: Sacramt
-entry: "<a href='/digital-beehive/alpha4/alpha_0813/'>a</a>|<a href='/digital-beehive/toc/toc2_369/'>2033
-  [Sacramts]</a>"
+head: Sacheverell
+entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Sacheverell]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-04b1fa71a"
+item: "#item-5eb4e541c"
 unparsed: 
-line: 'Head: Sacramt|Entry: a|Entry: 2033 [Sacramts]|#item-04b1fa71a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/full/0/default.jpg
+line: 'Head: Sacheverell|Entry: 1677 [Sacheverell]|#item-5eb4e541c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234654837
-order: '3479'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1812,1281,571,116/full/0/default.jpg
-label: Sacramt
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234691757
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1811,1379,597,132/150,/0/default.jpg
+label: Sacheverell
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0726'
 layout: index_item
 collection: index4
 ---

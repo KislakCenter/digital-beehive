@@ -2,29 +2,27 @@
 pid: index_4039
 volume: Volume 3
 image_number: '46'
-head: T
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1236 [Crux ansata]</a>"
+head: table
+entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Table]</a>"
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-768588548"
+item: "#item-1f7eed759"
 unparsed: 
-line: 'Head: T|Entry: 1236 [Crux ansata]|#item-768588548'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/2038,268,346,139/full/0/default.jpg
+line: 'Head: table|Page: p.8 [Image 1.68]|Entry: 975 [Table]|#item-1f7eed759'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1848,665,496,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742208851
-order: '4039'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/2038,268,346,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/2038,268,346,139/full/0/default.jpg
-label: T
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742347493
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1848,665,496,116/150,/0/default.jpg
+label: table
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '008'
 layout: index_item
 collection: index5
 ---

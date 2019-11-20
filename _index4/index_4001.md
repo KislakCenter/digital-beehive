@@ -2,29 +2,27 @@
 pid: index_4001
 volume: Volume 3
 image_number: '46'
-head: Surinam
-entry: "<a href='/digital-beehive/toc/toc2_371/'>2052 [Surinam]</a>"
+head: surity. sicher
+entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, Safety]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c8acf8911"
+item: "#item-83d2a8eb6"
 unparsed: 
-line: 'Head: Surinam|Entry: 2052 [Surinam]|#item-c8acf8911'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/482,3024,537,82/full/0/default.jpg
+line: 'Head: surity. sicher|Entry: 914 [Security, Safety]|#item-83d2a8eb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531683498520
-order: '4001'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/482,3024,537,82/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/482,3024,537,82/full/0/default.jpg
-label: Surinam
+annotation_uri: http://dev.llgc.org.uk/annotation/1531683828216
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/150,/0/default.jpg
+label: surity. sicher
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1247'
 layout: index_item
 collection: index4
 ---

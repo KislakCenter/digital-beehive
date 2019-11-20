@@ -2,29 +2,27 @@
 pid: index_2979
 volume: Volume 3
 image_number: '35'
-head: pewter
-entry: "<a href='/digital-beehive/toc/toc2_324/'>1650 [Pewter]</a>"
+head: phantastick
+entry: "<a href='/digital-beehive/num2/num_0338/'>299 [idle fancies]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1ce131ac2"
+item: "#item-296450c78"
 unparsed: 
-line: 'Head: pewter|Entry: 1650 [Pewter]|#item-1ce131ac2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/826,1599,543,134/full/0/default.jpg
+line: 'Head: phantastick|Entry: 299 [idle fancies]|#item-296450c78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/801,1721,627,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974436938
-order: '2979'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/826,1599,543,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/826,1599,543,134/full/0/default.jpg
-label: pewter
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974467408
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/801,1721,627,163/150,/0/default.jpg
+label: phantastick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0227'
 layout: index_item
 collection: index4
 ---

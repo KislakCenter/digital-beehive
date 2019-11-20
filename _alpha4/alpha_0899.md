@@ -1,30 +1,28 @@
 ---
 pid: alpha_0899
 volume: Volume 2
-image_number: '55'
+image_number: '54'
 head: 
-entry: Stair
-topic: Stair
+entry: Show
+topic: Show
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_235/'>1206 [Ladder]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3875/'>stair</a>"
-insertion_xref: 
-insertion: 
-item: "#item-cc4fe5a7d"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3671/'>a shew</a>"
+item: "#item-68eab80ab"
 unparsed: 
-line: 'Entry: Stair|Topic: Stair|Xref: 1206 [Ladder]|Index: stair|#item-cc4fe5a7d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/278,1964,3083,181/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459911182
-order: '899'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/278,1964,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/278,1964,3083,181/full/0/default.jpg
-label: Stair
-location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+line: 'Entry: Show|Topic: Show|Index: a shew|#item-68eab80ab'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/736,3960,3019,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565111549606
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/736,3960,600,180/250,/0/default.jpg
+label: Show
+location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+num_match: 
+order: '251'
 layout: alpha_item
 collection: alpha4
 ---

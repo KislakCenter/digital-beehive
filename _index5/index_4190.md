@@ -2,30 +2,27 @@
 pid: index_4190
 volume: Volume 3
 image_number: '48'
-head: tooth
-entry: "<a href='/digital-beehive/alpha5/alpha_0959/'>a</a>|<a href='/digital-beehive/toc/toc2_251/'>1286
-  [Tooth]</a>"
+head: top
+entry: "<a href='/digital-beehive/toc/toc2_124/'>520 [Tower]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-291c9ed5e"
+item: "#item-02296037f"
 unparsed: 
-line: 'Head: tooth|Entry: a|Entry: 1286 [Tooth]|#item-291c9ed5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,2670,493,116/full/0/default.jpg
+line: 'Head: top|Entry: 520 [Tower]|#item-02296037f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,2884,300,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275690671
-order: '4190'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,2670,493,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/462,2670,493,116/full/0/default.jpg
-label: tooth
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275899713
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,2884,300,120/150,/0/default.jpg
+label: top
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '157'
 layout: index_item
 collection: index5
 ---

@@ -6,25 +6,23 @@ head: disbelieve
 entry: "<a href='/digital-beehive/toc/toc2_156/'>705 [believe]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-1a0683297"
 unparsed: 
 line: 'Head: disbelieve|Entry: 705 [believe]|#item-1a0683297'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541784141979
-order: '1063'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/full/0/default.jpg
 label: disbelieve
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+insertion_xref: 
+order: '1060'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_1266
 volume: Volume 3
 image_number: '18'
-head: enmity
-entry: "<a href='/digital-beehive/alpha2/alpha_0283/'>a</a>|858 [PAGE_MISSING]"
+head: enough
+entry: "<a href='/digital-beehive/num1/num_0229/'>218 [Sufficient]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-51d31b5f4"
+item: "#item-c81f6e378"
 unparsed: 
-line: 'Head: enmity|Entry: a|Entry: 858 [PAGE_MISSING]|#item-51d31b5f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,2466,514,144/full/0/default.jpg
+line: 'Head: enough|Entry: 218 [Sufficient]|#item-c81f6e378'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835246414
-order: '1266'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,2466,514,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,2466,514,144/full/0/default.jpg
-label: enmity
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835408251
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/150,/0/default.jpg
+label: enough
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '086'
 layout: index_item
 collection: index2
 ---

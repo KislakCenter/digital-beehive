@@ -2,29 +2,27 @@
 pid: index_4115
 volume: Volume 3
 image_number: '47'
-head: the sd.
-entry: "<a href='/digital-beehive/toc/toc2_086/'>263 [the said]</a>"
+head: thick
+entry: 732 [PAGE_MISSING]
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-32baed87b"
+item: "#item-7003687bb"
 unparsed: 
-line: 'Head: the sd.|Entry: 263 [the said]|#item-32baed87b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,1376,399,123/full/0/default.jpg
+line: 'Head: thick|Entry: 732 [PAGE_MISSING]|#item-7003687bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/910,1503,410,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720777891
-order: '4115'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,1376,399,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,1376,399,123/full/0/default.jpg
-label: the sd.
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720822850
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/910,1503,410,125/150,/0/default.jpg
+label: thick
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '082'
 layout: index_item
 collection: index5
 ---

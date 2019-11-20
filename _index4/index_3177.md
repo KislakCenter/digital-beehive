@@ -2,29 +2,28 @@
 pid: index_3177
 volume: Volume 3
 image_number: '37'
-head: procreation
-entry: "<a href='/digital-beehive/toc/toc2_314/'>1597 [Generation]</a>"
+head: prodigality
+entry: "<a href='/digital-beehive/alpha4/alpha_0739/'>a</a>|753 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_373/'>2072 [Prodigality]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-020311f1e"
+item: "#item-c78b2b6da"
 unparsed: 
-line: 'Head: procreation|Entry: 1597 [Generation]|#item-020311f1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/787,1663,598,122/full/0/default.jpg
+line: 'Head: prodigality|Entry: a|Entry: 753 [PAGE_MISSING]|Entry: 2072 [Prodigality]|#item-c78b2b6da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868043693
-order: '3177'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/787,1663,598,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/787,1663,598,122/full/0/default.jpg
-label: procreation
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868117767
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,1761,769,132/150,/0/default.jpg
+label: prodigality
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0425'
 layout: index_item
 collection: index4
 ---

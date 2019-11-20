@@ -1,30 +1,28 @@
 ---
 pid: alpha_0664
 volume: Volume 2
-image_number: '38'
+image_number: '37'
 head: 
-entry: Orphan
-topic: Orphan|Orphanage
+entry: Oracle
+topic: Oracle
 first_letter: O
-xref: "<a href='/digital-beehive/alpha2/alpha_0386/'>Guardians</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2830/'>orphanage</a>"
-insertion_xref: 
-insertion: 
-item: "#item-1d89b7ef2"
+xref: Divination|<a href='/digital-beehive/toc/toc2_298/'>1518 [Oracle]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_2815/'>oracle</a>"
+item: "#item-211319dde"
 unparsed: 
-line: 'Entry: Orphan|Topic: Orphan|Topic: Orphanage|Xref: Guardians|Index: orphanage|#item-1d89b7ef2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,3061,526/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018889967
-order: '664'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,3061,526/full/0/default.jpg
-label: Orphan
-location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+line: 'Entry: Oracle|Topic: Oracle|Xref: Divination|Xref: 1518 [Oracle]|Index: oracle|#item-211319dde'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,2993,371/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018174995
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,600,180/250,/0/default.jpg
+label: Oracle
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '017'
 layout: alpha_item
 collection: alpha4
 ---

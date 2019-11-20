@@ -3,28 +3,26 @@ pid: alpha_0426
 volume: Volume 2
 image_number: '19'
 head: 
-entry: Honey
-topic: Honey
+entry: Honesty
+topic: Honesty
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Honey]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1866/'>honey</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f1c857c69"
+xref: "<a href='/digital-beehive/toc/toc2_254/'>1303 [Honesty]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1864/'>honesty</a>"
+item: "#item-4d4ef6ca7"
 unparsed: 
-line: 'Entry: Honey|Topic: Honey|Xref: 1903 [Honey]|Index: honey|#item-f1c857c69'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,3124,469/full/0/default.jpg
+line: 'Entry: Honesty|Topic: Honesty|Xref: 1303 [Honesty]|Index: honesty|#item-4d4ef6ca7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,3108,529/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509732068077
-order: '426'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,3124,469/full/0/default.jpg
-label: Honey
+annotation_uri: http://dev.llgc.org.uk/annotation/1509730153584
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,1082,600,180/250,/0/default.jpg
+label: Honesty
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+num_match: 
+order: '157'
 layout: alpha_item
 collection: alpha2
 ---

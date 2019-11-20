@@ -2,29 +2,28 @@
 pid: index_4701
 volume: Volume 3
 image_number: '54'
-head: vigor
-entry: 
+head: Christ's absence
+entry: "<a href='/digital-beehive/num2/num_0288/'>261 [Absence & Presence of Xst]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: "<a href='/digital-beehive/index4/index_3951/'>stupidity</a>"
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:32.]"
-item: "#item-ed070c7e3"
-unparsed: 
-line: 'Type: Index|Insertion: [:32.]|Head: vigor|See: stupidity|#item-ed070c7e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1114,1319,731,156/full/0/default.jpg
+item: "#item-f94785118"
+unparsed: Type Index|Insertion [:33.]
+line: 'Type: Index|Insertion: [:33.]|Head: Christ''s absence|Entry: 261 [Absence &
+  Presence of Xst]|#item-f94785118'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954649647
-order: '4701'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1114,1319,731,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1114,1319,731,156/full/0/default.jpg
-label: vigor
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955003278
+insertion: "[:33.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/150,/0/default.jpg
+label: Christ's absence
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '668'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_2284
 volume: Volume 3
 image_number: '28'
-head: to live well
-entry: "<a href='/digital-beehive/toc/toc2_295/'>1506 [To Live well]</a>"
+head: to lift
+entry: "<a href='/digital-beehive/toc/toc2_152/'>682 [To lift up]</a>"
 topic: 
 first_letter: L
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index5/index_4093/'>term</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c21643520"
+item: "#item-eede4bb64"
 unparsed: 
-line: 'Head: to live well|Entry: 1506 [To Live well]|Add: term|#item-c21643520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
+line: 'Head: to lift|Entry: 682 [To lift up]|#item-eede4bb64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,3001,439,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847033745
-order: '2284'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
-label: to live well
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847206638
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1137,3001,439,121/150,/0/default.jpg
+label: to lift
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '365'
 layout: index_item
 collection: index3
 ---

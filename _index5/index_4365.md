@@ -2,29 +2,27 @@
 pid: index_4365
 volume: Volume 3
 image_number: '50'
-head: to uncloath
-entry: "<a href='/digital-beehive/toc/toc2_372/'>2062 [To uncloath]</a>"
+head: unconcerned
+entry: 792 [PAGE_MISSING]
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c2df1ceed"
+item: "#item-5a66d6d30"
 unparsed: 
-line: 'Head: to uncloath|Entry: 2062 [To uncloath]|#item-c2df1ceed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/434,2025,583,110/full/0/default.jpg
+line: 'Head: unconcerned|Entry: 792 [PAGE_MISSING]|#item-5a66d6d30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/438,2091,557,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872737067
-order: '4365'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/434,2025,583,110/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/434,2025,583,110/full/0/default.jpg
-label: to uncloath
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872765723
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/438,2091,557,125/150,/0/default.jpg
+label: unconcerned
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '332'
 layout: index_item
 collection: index5
 ---

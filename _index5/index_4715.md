@@ -2,29 +2,27 @@
 pid: index_4715
 volume: Volume 3
 image_number: '54'
-head: to gild
-entry: 
+head: Em (or Im)bossing
+entry: 4537 [PAGE_MISSING]
 topic: 
 first_letter: insertion
-xref: 
-see: "<a href='/digital-beehive/index2/index_1667/'>gold</a>"
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:46.]"
-item: "#item-d62bc63a0"
-unparsed: 
-line: 'Type: Index|Insertion: [:46.]|Head: to gild|See: gold|#item-d62bc63a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,3327,614,160/full/0/default.jpg
+item: "#item-d15a79c68"
+unparsed: Type Index|Insertion [:47.]
+line: 'Type: Index|Insertion: [:47.]|Head: Em (or Im)bossing|Entry: 4537 [PAGE_MISSING]|#item-d15a79c68'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955966736
-order: '4715'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,3327,614,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,3327,614,160/full/0/default.jpg
-label: to gild
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956032552
+insertion: "[:47.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/150,/0/default.jpg
+label: Em (or Im)bossing
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '682'
 layout: index_item
 collection: index5
 ---

@@ -3,28 +3,29 @@ pid: alpha_0728
 volume: Volume 2
 image_number: '42'
 head: 
-entry: Printing
-topic: Printing
+entry: Presence
+topic: Presence
 first_letter: P
-xref: "<a href='/digital-beehive/toc/toc2_253/'>1296 [Printing]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3163/'>printing</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9776fdeb6"
+xref: "<a href='/digital-beehive/alpha1/alpha_0001/'>Absence</a>|<a href='/digital-beehive/toc/toc2_327/'>1664
+  [Presence]</a>|<a href='/digital-beehive/num2/num_0288/'>261 [Absence & Presence
+  of Xst]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3133/'>presence</a>"
+item: "#item-7054f9e8f"
 unparsed: 
-line: 'Entry: Printing|Topic: Printing|Xref: 1296 [Printing]|Index: printing|#item-9776fdeb6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,4286,2978,396/full/0/default.jpg
+line: 'Entry: Presence|Topic: Presence|Xref: Absence|Xref: 1664 [Presence]|Xref: 261
+  [Absence & Presence of Xst]|Index: presence|#item-7054f9e8f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/781,2233,3044,389/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528404783700
-order: '728'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,4286,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,4286,2978,396/full/0/default.jpg
-label: Printing
+annotation_uri: http://dev.llgc.org.uk/annotation/1528403439611
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/781,2233,600,180/250,/0/default.jpg
+label: Presence
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+num_match: 
+order: '081'
 layout: alpha_item
 collection: alpha4
 ---

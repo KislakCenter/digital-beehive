@@ -3,28 +3,26 @@ pid: index_1111
 volume: Volume 3
 image_number: '17'
 head: ditto
-entry: "<a href='/digital-beehive/toc/toc2_086/'>263 [the said]</a>"
+entry: "<a href='/digital-beehive/num2/num_0293/'>263 [the said]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-08043b43a"
 unparsed: 
 line: 'Head: ditto|Entry: 263 [the said]|#item-08043b43a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559849161512
-order: '1111'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/full/0/default.jpg
 label: ditto
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1108'
 layout: index_item
 collection: index1
 ---

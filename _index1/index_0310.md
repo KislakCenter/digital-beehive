@@ -2,29 +2,28 @@
 pid: index_0310
 volume: Volume 3
 image_number: '9'
-head: battery
-entry: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>"
+head: baudry
+entry: "<a href='/digital-beehive/alpha1/alpha_0065/'>a</a>|765 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_372/'>2068 [Bawdry]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-37105b123"
+item: "#item-d0dbf82cc"
 unparsed: 
-line: 'Head: battery|Entry: 708 [Beating]|#item-37105b123'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1592,951,387,153/full/0/default.jpg
+line: 'Head: baudry|Entry: a|Entry: 765 [PAGE_MISSING]|Entry: 2068 [Bawdry]|#item-d0dbf82cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,1084,667,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017962271
-order: '310'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1592,951,387,153/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1592,951,387,153/full/0/default.jpg
-label: battery
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018049041
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1585,1084,667,167/150,/0/default.jpg
+label: baudry
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0309'
 layout: index_item
 collection: index1
 ---

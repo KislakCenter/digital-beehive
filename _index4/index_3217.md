@@ -2,29 +2,27 @@
 pid: index_3217
 volume: Volume 3
 image_number: '37'
-head: to prune
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [Purge]</a>"
+head: psalm
+entry: "<a href='/digital-beehive/alpha4/alpha_0756/'>a</a>|1867 [PAGE_MISSING]"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2c930b0ba"
+item: "#item-682b05911"
 unparsed: 
-line: 'Head: to prune|Entry: 659 [Purge]|#item-2c930b0ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/full/0/default.jpg
+line: 'Head: psalm|Entry: a|Entry: 1867 [PAGE_MISSING]|#item-682b05911'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1484,3159,471,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869757186
-order: '3217'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/full/0/default.jpg
-label: to prune
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869792120
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1484,3159,471,130/150,/0/default.jpg
+label: psalm
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0464'
 layout: index_item
 collection: index4
 ---

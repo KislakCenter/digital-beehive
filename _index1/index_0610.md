@@ -2,29 +2,27 @@
 pid: index_0610
 volume: Volume 3
 image_number: '12'
-head: charms
-entry: "<a href='/digital-beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
+head: "[:50.]"
+entry: 
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-976fef279"
-unparsed: 
-line: 'Head: charms|Entry: 1542 [homerical Medicines]|#item-976fef279'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1813,453,449,136/full/0/default.jpg
+item: "#item-f368c1523"
+unparsed: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
+line: 'Type: Index|Insertion Xref: [:50.]|#item-f368c1523'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443865364
-order: '610'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1813,453,449,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1813,453,449,136/full/0/default.jpg
-label: charms
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275599750
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2363,526,209,118/150,/0/default.jpg
+label: "[:50.]"
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4718/'>Charon</a>"
+order: '0609'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_4090
 volume: Volume 3
 image_number: '47'
-head: ten
-entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Ten]</a>"
+head: tennis Court
+entry: 
 topic: 
 first_letter: T
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-482ebda56"
+item: "#item-7a896718a"
 unparsed: 
-line: 'Head: ten|Entry: 1192 [Ten]|#item-482ebda56'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/full/0/default.jpg
+line: 'Head: tennis Court|Page: p.7 [Image 1.67]|#item-7a896718a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/149,2226,490,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532714385024
-order: '4090'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/190,2196,295,84/full/0/default.jpg
-label: ten
+annotation_uri: http://dev.llgc.org.uk/annotation/1560279149767
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/149,2226,490,135/150,/0/default.jpg
+label: tennis Court
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '057'
 layout: index_item
 collection: index5
 ---

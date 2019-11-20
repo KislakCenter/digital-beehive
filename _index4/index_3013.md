@@ -2,29 +2,27 @@
 pid: index_3013
 volume: Volume 3
 image_number: '35'
-head: pimples
-entry: "<a href='/digital-beehive/toc/toc2_230/'>1183 [Pimples]</a>"
+head: pincers
+entry: "<a href='/digital-beehive/toc/toc2_362/'>1974 [Pincers]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-504a0a72a"
+item: "#item-c7e355fc9"
 unparsed: 
-line: 'Head: pimples|Entry: 1183 [Pimples]|#item-504a0a72a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1527,487,119/full/0/default.jpg
+line: 'Head: pincers|Entry: 1974 [Pincers]|#item-c7e355fc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1580,498,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976434408
-order: '3013'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1527,487,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1527,487,119/full/0/default.jpg
-label: pimples
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976459589
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1580,498,139/150,/0/default.jpg
+label: pincers
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0261'
 layout: index_item
 collection: index4
 ---

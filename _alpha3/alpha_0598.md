@@ -3,29 +3,27 @@ pid: alpha_0598
 volume: Volume 2
 image_number: '33'
 head: 
-entry: Monarchy
-topic: Monarchy
+entry: Misfortunes
+topic: Misfortunes
 first_letter: M
-xref: "<a href='/digital-beehive/alpha3/alpha_0498/'>King</a>|<a href='/digital-beehive/toc/toc2_341/'>1763
-  [Monarchy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-713020ad5"
+xref: Unhappiness|<a href='/digital-beehive/toc/toc2_336/'>1714 [Misfortune]</a>
+see: 
+index: "<a href='/digital-beehive/index3/index_2539/'>misfortune</a>"
+item: "#item-a97598884"
 unparsed: 
-line: 'Entry: Monarchy|Topic: Monarchy|Xref: King|Xref: 1763 [Monarchy]|Index: monarchy|#item-713020ad5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,2630,2989,425/full/0/default.jpg
+line: 'Entry: Misfortunes|Topic: Misfortunes|Xref: Unhappiness|Xref: 1714 [Misfortune]|Index:
+  misfortune|#item-a97598884'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/378,1802,3020,508/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564776345564
-order: '598'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,2630,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,2630,2989,425/full/0/default.jpg
-label: Monarchy
+annotation_uri: http://dev.llgc.org.uk/annotation/1564775816325
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/378,1802,600,180/250,/0/default.jpg
+label: Misfortunes
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '154'
 layout: alpha_item
 collection: alpha3
 ---

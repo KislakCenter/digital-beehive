@@ -3,31 +3,26 @@ pid: alpha_0475
 volume: Volume 2
 image_number: '23'
 head: 
-entry: Injustice
-topic: Injustice
+entry: Inhumanity
+topic: Inhumanity
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha3/alpha_0495/'>Justice</a>|<a href='/digital-beehive/toc/toc2_058/'>5
-  [Wrong]</a>|<a href='/digital-beehive/toc/toc2_058/'>6 [Unjust Substance]</a>|<a
-  href='/digital-beehive/toc/toc2_239/'>1227 [Injustice]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2048/'>injustice</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fb210324c"
+xref: "<a href='/digital-beehive/alpha2/alpha_0436/'>humanity</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2044/'>inhumanity</a>"
+item: "#item-60d045282"
 unparsed: 
-line: 'Entry: Injustice|Topic: Injustice|Xref: Justice|Xref: 5 [Wrong]|Xref: 6 [Unjust
-  Substance]|Xref: 1227 [Injustice]|Index: injustice|#item-fb210324c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/318,2029,3045,811/full/0/default.jpg
+line: 'Entry: Inhumanity|Topic: Inhumanity|Xref: humanity|Index: inhumanity|#item-60d045282'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,1749,2990,406/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760378746
-order: '475'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/318,2029,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/318,2029,3045,811/full/0/default.jpg
-label: Injustice
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760233871
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/337,1749,600,180/250,/0/default.jpg
+label: Inhumanity
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+num_match: 
+order: '031'
 layout: alpha_item
 collection: alpha3
 ---

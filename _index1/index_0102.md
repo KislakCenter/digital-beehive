@@ -2,29 +2,27 @@
 pid: index_0102
 volume: Volume 3
 image_number: '7'
-head: allum
-entry: "<a href='/digital-beehive/toc/toc2_380/'>2146 [Allum]</a>"
+head: allusion
+entry: "<a href='/digital-beehive/num2/num_0280/'>256 [Allusions]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-457d83e19"
+item: "#item-92dce6217"
 unparsed: 
-line: 'Head: allum|Entry: 2146 [Allum]|#item-457d83e19'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,1780,387,91/full/0/default.jpg
+line: 'Head: allusion|Entry: 256 [Allusions]|#item-92dce6217'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1828,386,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769902911
-order: '102'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,1780,387,91/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,1780,387,91/full/0/default.jpg
-label: allum
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769934884
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1828,386,132/150,/0/default.jpg
+label: allusion
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0101'
 layout: index_item
 collection: index1
 ---

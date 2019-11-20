@@ -2,30 +2,28 @@
 pid: index_3635
 volume: Volume 3
 image_number: '42'
-head: Seneca
-entry: "<a href='/digital-beehive/toc/toc2_213/'>1099 [Seneca]</a>|<a href='/digital-beehive/toc/toc2_238/'>1223
-  [Seneca]</a>"
+head: sense
+entry: "<a href='/digital-beehive/alpha4/alpha_0856/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>971
+  [Senses]</a>|<a href='/digital-beehive/toc/toc2_371/'>2057 [Senses]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-84063c76c"
+item: "#item-beb964c7a"
 unparsed: 
-line: 'Head: Seneca|Entry: 1099 [Seneca]|Entry: 1223 [Seneca]|#item-84063c76c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/403,3108,653,138/full/0/default.jpg
+line: 'Head: sense|Entry: a|Entry: 971 [Senses]|Entry: 2057 [Senses]|#item-beb964c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245154591
-order: '3635'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/403,3108,653,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/403,3108,653,138/full/0/default.jpg
-label: Seneca
+annotation_uri: http://dev.llgc.org.uk/annotation/1559245190278
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/150,/0/default.jpg
+label: sense
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0882'
 layout: index_item
 collection: index4
 ---

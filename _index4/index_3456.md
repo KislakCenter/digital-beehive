@@ -2,29 +2,27 @@
 pid: index_3456
 volume: Volume 3
 image_number: '40'
-head: to rot
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Rot]</a>"
+head: roughness
+entry: 861 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f82a9baf0"
+item: "#item-5ee5734cf"
 unparsed: 
-line: 'Head: to rot|Entry: 866 [To Rot]|#item-f82a9baf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/full/0/default.jpg
+line: 'Head: roughness|Entry: 861 [PAGE_MISSING]|#item-5ee5734cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1156,2136,473,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233730787
-order: '3456'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/full/0/default.jpg
-label: to rot
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233752493
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1156,2136,473,152/150,/0/default.jpg
+label: roughness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0703'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_1651
 volume: Volume 3
 image_number: '22'
-head: God's love
-entry: 
+head: God's promises
+entry: "<a href='/digital-beehive/toc/toc2_120/'>497 [God's promises]</a>"
 topic: 
 first_letter: G
-xref: 
-see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2f34a3bc9"
+item: "#item-5cb99d0fe"
 unparsed: 
-line: 'Head: God''s love|See: love|#item-2f34a3bc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/full/0/default.jpg
+line: 'Head: God''s promises|Entry: 497 [God''s promises]|#item-5cb99d0fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1150,2253,505,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047656525
-order: '1651'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/full/0/default.jpg
-label: God's love
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047773873
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1150,2253,505,115/150,/0/default.jpg
+label: God's promises
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '471'
 layout: index_item
 collection: index2
 ---

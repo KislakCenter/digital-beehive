@@ -2,29 +2,27 @@
 pid: index_3894
 volume: Volume 3
 image_number: '45'
-head: stellionatus
-entry: 1869 [PAGE_MISSING]
+head: stepfather
+entry: "<a href='/digital-beehive/alpha4/alpha_0909/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-227635938"
+item: "#item-ecd35866e"
 unparsed: 
-line: 'Head: stellionatus|Entry: 1869 [PAGE_MISSING]|#item-227635938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/204,1472,534,99/full/0/default.jpg
+line: 'Head: stepfather|Entry: a|#item-ecd35866e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530220511653
-order: '3894'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/204,1472,534,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/204,1472,534,99/full/0/default.jpg
-label: stellionatus
+annotation_uri: http://dev.llgc.org.uk/annotation/1565289982482
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/150,/0/default.jpg
+label: stepfather
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1141'
 layout: index_item
 collection: index4
 ---

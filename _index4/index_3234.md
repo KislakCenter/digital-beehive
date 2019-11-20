@@ -2,29 +2,27 @@
 pid: index_3234
 volume: Volume 3
 image_number: '38'
-head: to purge
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [Purge]</a>"
+head: Puritans
+entry: "<a href='/digital-beehive/num1/num_0237/'>223 [a Puritane]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2801bcee8"
+item: "#item-61afcbe84"
 unparsed: 
-line: 'Head: to purge|Entry: 659 [Purge]|#item-2801bcee8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,1617,478,164/full/0/default.jpg
+line: 'Head: Puritans|Entry: 223 [a Puritane]|#item-61afcbe84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/385,1746,516,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452272046
-order: '3234'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,1617,478,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,1617,478,164/full/0/default.jpg
-label: to purge
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452319815
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/385,1746,516,174/150,/0/default.jpg
+label: Puritans
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0481'
 layout: index_item
 collection: index4
 ---

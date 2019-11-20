@@ -2,31 +2,28 @@
 pid: index_3008
 volume: Volume 3
 image_number: '35'
-head: pilgrimage
-entry: "<a href='/digital-beehive/toc/toc2_060/'>30 [Pilgrimage]</a>|<a href='/digital-beehive/toc/toc2_127/'>543
-  [Pilgrimage]</a>|4545 [PAGE_MISSING]"
+head: to pill
+entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to shale, decorticaze & tear,
+  to shell]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d00fd8377"
+item: "#item-ba0c6d8b5"
 unparsed: 
-line: 'Head: pilgrimage|Entry: 30 [Pilgrimage]|Entry: 543 [Pilgrimage]|Entry: 4545
-  [PAGE_MISSING]|#item-d00fd8377'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1014,767,175/full/0/default.jpg
+line: 'Head: to pill|Entry: 659 [to shale, decorticaze & tear, to shell]|#item-ba0c6d8b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976199833
-order: '3008'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1014,767,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1496,1014,767,175/full/0/default.jpg
-label: pilgrimage
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976285095
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/150,/0/default.jpg
+label: to pill
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+insertion_xref: 
+order: '0256'
 layout: index_item
 collection: index4
 ---

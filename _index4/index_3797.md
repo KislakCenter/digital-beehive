@@ -2,29 +2,27 @@
 pid: index_3797
 volume: Volume 3
 image_number: '44'
-head: song
-entry: 
+head: soot
+entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [Soot]</a>"
 topic: 
 first_letter: S
-xref: 
-see: "<a href='/digital-beehive/index4/index_3727/'>singing</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-524654c0b"
+item: "#item-2c2d0a90e"
 unparsed: 
-line: 'Head: song|See: singing|#item-524654c0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/598,755,510,122/full/0/default.jpg
+line: 'Head: soot|Entry: 1601 [Soot]|#item-2c2d0a90e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/576,815,345,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288185334
-order: '3797'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/598,755,510,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/598,755,510,122/full/0/default.jpg
-label: song
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288204087
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/576,815,345,88/150,/0/default.jpg
+label: soot
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1044'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_1622
 volume: Volume 3
 image_number: '22'
-head: gleanings
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Gleaners]</a>"
+head: glister
+entry: "<a href='/digital-beehive/num2/num_0529/'>427 [Bright]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-63d1c3ce9"
+item: "#item-8af8f306b"
 unparsed: 
-line: 'Head: gleanings|Entry: 1903 [Gleaners]|#item-63d1c3ce9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/full/0/default.jpg
+line: 'Head: glister|Entry: 427 [Bright]|#item-8af8f306b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3247,390,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044120644
-order: '1622'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/full/0/default.jpg
-label: gleanings
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044208149
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3247,390,150/150,/0/default.jpg
+label: glister
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '442'
 layout: index_item
 collection: index2
 ---

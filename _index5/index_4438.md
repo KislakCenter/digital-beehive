@@ -2,29 +2,27 @@
 pid: index_4438
 volume: Volume 3
 image_number: '51'
-head: to uphold
-entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
+head: upright
+entry: "<a href='/digital-beehive/toc/toc2_365/'>2000 [Upright]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7a6b75675"
+item: "#item-89cc80051"
 unparsed: 
-line: 'Head: to uphold|Entry: 1339 [To maintain]|#item-7a6b75675'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/full/0/default.jpg
+line: 'Head: upright|Entry: 2000 [Upright]|#item-89cc80051'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/941,745,514,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646558312
-order: '4438'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/942,679,533,142/full/0/default.jpg
-label: to uphold
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646581156
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/941,745,514,142/150,/0/default.jpg
+label: upright
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '405'
 layout: index_item
 collection: index5
 ---

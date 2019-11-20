@@ -2,30 +2,27 @@
 pid: index_0628
 volume: Volume 3
 image_number: '12'
-head: chief
-entry: "<a href='/digital-beehive/toc/toc2_103/'>381 [Principal]</a>|<a href='/digital-beehive/toc/toc2_383/'>2174
-  [Chief]</a>"
+head: chiefly
+entry: "<a href='/digital-beehive/toc/toc2_156/'>702 [Chiefly]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-48b808ef3"
+item: "#item-2c5bd1bd9"
 unparsed: 
-line: 'Head: chief|Entry: 381 [Principal]|Entry: 2174 [Chief]|#item-48b808ef3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1835,1866,543,130/full/0/default.jpg
+line: 'Head: chiefly|Entry: 702 [Chiefly]|#item-2c5bd1bd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460620311
-order: '628'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1835,1866,543,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1835,1866,543,130/full/0/default.jpg
-label: chief
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460666705
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/150,/0/default.jpg
+label: chiefly
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0627'
 layout: index_item
 collection: index1
 ---

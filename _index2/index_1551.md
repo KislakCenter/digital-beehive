@@ -2,30 +2,27 @@
 pid: index_1551
 volume: Volume 3
 image_number: '21'
-head: frog
-entry: "<a href='/digital-beehive/alpha2/alpha_0349/'>a</a>|<a href='/digital-beehive/toc/toc2_389/'>2228
-  [Frog & Toad]</a>"
+head: front
+entry: "<a href='/digital-beehive/toc/toc2_327/'>1662 [Front]</a>"
 topic: 
 first_letter: F
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-0f3f71b37"
+item: "#item-818b1a642"
 unparsed: 
-line: 'Head: frog|Page: p.36 [Image 1.96]|Entry: a|Entry: 2228 [Frog & Toad]|#item-0f3f71b37'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/835,2956,656,173/full/0/default.jpg
+line: 'Head: front|Entry: 1662 [Front]|#item-818b1a642'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/847,3101,393,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784363645
-order: '1551'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/835,2956,656,173/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/835,2956,656,173/full/0/default.jpg
-label: frog
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784402958
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/847,3101,393,139/150,/0/default.jpg
+label: front
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '371'
 layout: index_item
 collection: index2
 ---

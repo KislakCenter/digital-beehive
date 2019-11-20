@@ -2,29 +2,27 @@
 pid: index_3899
 volume: Volume 3
 image_number: '45'
-head: steward
-entry: "<a href='/digital-beehive/alpha4/alpha_0902/'>a</a>"
+head: stews
+entry: 765 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e8490a34b"
+item: "#item-1bb2fc9a5"
 unparsed: 
-line: 'Head: steward|Entry: a|#item-e8490a34b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/224,1866,356,144/full/0/default.jpg
+line: 'Head: stews|Entry: 765 [PAGE_MISSING]|#item-1bb2fc9a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,2031,370,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530221110026
-order: '3899'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/224,1866,356,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/224,1866,356,144/full/0/default.jpg
-label: steward
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290080197
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,2031,370,98/150,/0/default.jpg
+label: stews
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1146'
 layout: index_item
 collection: index4
 ---

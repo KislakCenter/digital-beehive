@@ -2,31 +2,27 @@
 pid: index_4558
 volume: Volume 3
 image_number: '52'
-head: wind
-entry: "<a href='/digital-beehive/alpha5/alpha_1027/'>a</a>|<a href='/digital-beehive/toc/toc2_248/'>1271
-  [Wind]</a>|<a href='/digital-beehive/toc/toc2_381/'>2160 [Wind]</a>"
+head: window
+entry: 824 [PAGE_MISSING]
 topic: 
 first_letter: W
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_079/'>p.29 [Image 1.89]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e86a4a246"
+item: "#item-e6232847d"
 unparsed: 
-line: 'Head: wind|Page: p.29 [Image 1.89]|Entry: a|Entry: 1271 [Wind]|Entry: 2160
-  [Wind]|#item-e86a4a246'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1786,3263,728,171/full/0/default.jpg
+line: 'Head: window|Entry: 824 [PAGE_MISSING]|#item-e6232847d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1800,3425,416,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972707160
-order: '4558'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1786,3263,728,171/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1786,3263,728,171/full/0/default.jpg
-label: wind
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972731187
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1800,3425,416,122/150,/0/default.jpg
+label: window
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '525'
 layout: index_item
 collection: index5
 ---

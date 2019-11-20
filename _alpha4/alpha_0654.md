@@ -3,28 +3,27 @@ pid: alpha_0654
 volume: Volume 2
 image_number: '37'
 head: 
-entry: Oil
-topic: Oil
+entry: Oeconomy
+topic: Oeconomy
 first_letter: O
-xref: "<a href='/digital-beehive/toc/toc2_353/'>1910 [Oil]</a>"
-see: 
-page: 
+page: p.379 [Image 2.202]
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2779/'>oil</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a229abb24"
+xref: "<a href='/digital-beehive/alpha2/alpha_0440/'>Husbandry</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2768/'>oeconomy</a>"
+item: "#item-e72af992e"
 unparsed: 
-line: 'Entry: Oil|Topic: Oil|Xref: 1910 [Oil]|Index: oil|#item-a229abb24'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,3043,354/full/0/default.jpg
+line: 'Entry: Oeconomy|Topic: Oeconomy|Xref: Husbandry|Page: p.379 [Image 2.202]|Index:
+  oeconomy|#item-e72af992e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017421153
-order: '654'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,3043,354/full/0/default.jpg
-label: Oil
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016740122
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,600,180/250,/0/default.jpg
+label: Oeconomy
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '007'
 layout: alpha_item
 collection: alpha4
 ---

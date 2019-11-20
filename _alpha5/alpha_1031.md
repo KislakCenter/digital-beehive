@@ -1,31 +1,30 @@
 ---
 pid: alpha_1031
 volume: Volume 2
-image_number: '65'
+image_number: '64'
 head: 
-entry: Wish
-topic: Wish
+entry: Whoredom
+topic: Whoredom
 first_letter: W
-xref: "<a href='/digital-beehive/alpha2/alpha_0383/'>gratulation</a>|<a href='/digital-beehive/toc/toc2_162/'>875
-  [Wish]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4571/'>wish</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ab89b6a9f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
+  href='/digital-beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4541/'>whoredom</a>"
+item: "#item-74d7d6014"
 unparsed: 
-line: 'Entry: Wish|Topic: Wish|Xref: gratulation|Xref: 875 [Wish]|Index: wish|#item-ab89b6a9f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,3046,500/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592584614
-order: '1031'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,3046,500/full/0/default.jpg
-label: Wish
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+line: 'Entry: Whoredom|Topic: Whoredom|Xref: Adultery|Xref: Baudry|Xref: Stews|Xref:
+  571 [Fornication or Whoredom]|Index: whoredom|#item-74d7d6014'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529590322636
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,600,180/250,/0/default.jpg
+label: Whoredom
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+num_match: 
+order: '096'
 layout: alpha_item
 collection: alpha5
 ---

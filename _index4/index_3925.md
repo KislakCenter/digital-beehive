@@ -2,29 +2,27 @@
 pid: index_3925
 volume: Volume 3
 image_number: '45'
-head: to strain a sinew
-entry: "<a href='/digital-beehive/toc/toc2_398/'>2275 [Luxation]</a>"
+head: straight
+entry: 857 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-311db591c"
+item: "#item-38c287c71"
 unparsed: 
-line: 'Head: to strain a sinew|Entry: 2275 [Luxation]|#item-311db591c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,1083,585,89/full/0/default.jpg
+line: 'Head: straight|Entry: 857 [PAGE_MISSING]|#item-38c287c71'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/894,1115,426,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290651344
-order: '3925'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,1083,585,89/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,1083,585,89/full/0/default.jpg
-label: to strain a sinew
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290673232
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/894,1115,426,152/150,/0/default.jpg
+label: straight
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1172'
 layout: index_item
 collection: index4
 ---

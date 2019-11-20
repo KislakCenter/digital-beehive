@@ -2,29 +2,27 @@
 pid: index_3901
 volume: Volume 3
 image_number: '45'
-head: stick
-entry: 852 [PAGE_MISSING]
+head: stiff
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Firm]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4d5ceaf13"
+item: "#item-52a48a7e3"
 unparsed: 
-line: 'Head: stick|Entry: 852 [PAGE_MISSING]|#item-4d5ceaf13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/201,2166,342,100/full/0/default.jpg
+line: 'Head: stiff|Entry: 686 [Firm]|#item-52a48a7e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,2245,284,78/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530221206321
-order: '3901'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/201,2166,342,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/201,2166,342,100/full/0/default.jpg
-label: stick
+annotation_uri: http://dev.llgc.org.uk/annotation/1530221318498
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/193,2245,284,78/150,/0/default.jpg
+label: stiff
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1148'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_3679
 volume: Volume 3
 image_number: '42'
-head: shipwrack
-entry: "<a href='/digital-beehive/toc/toc2_105/'>396 [Shipwrack]</a>"
+head: shirt
+entry: 808 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-be957f867"
+item: "#item-590a0c493"
 unparsed: 
-line: 'Head: shipwrack|Page: p.30 [Image 1.90]|Entry: 396 [Shipwrack]|#item-be957f867'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1445,688,152/full/0/default.jpg
+line: 'Head: shirt|Entry: 808 [PAGE_MISSING]|#item-590a0c493'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1803,1578,436,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576070756
-order: '3679'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1445,688,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1445,688,152/full/0/default.jpg
-label: shipwrack
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576094288
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1803,1578,436,129/150,/0/default.jpg
+label: shirt
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0926'
 layout: index_item
 collection: index4
 ---

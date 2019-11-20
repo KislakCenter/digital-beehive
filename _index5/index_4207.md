@@ -2,29 +2,28 @@
 pid: index_4207
 volume: Volume 3
 image_number: '48'
-head: town
-entry: "<a href='/digital-beehive/toc/toc2_073/'>162 [City]</a>|Entry 1878 [PAGE_MISSING]"
+head: toys
+entry: "<a href='/digital-beehive/num1/num_0207/'>199 [Toys]</a>|<a href='/digital-beehive/toc/toc2_233/'>1196
+  [Trifling]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7972d9119"
+item: "#item-a81b35196"
 unparsed: 
-line: 'Head: town|Entry: 162 [City]|Entry 1878 [PAGE_MISSING]|#item-7972d9119'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/full/0/default.jpg
+line: 'Head: toys|Entry: 199 [Toys]|Entry: 1196 [Trifling]|#item-a81b35196'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561484271418
-order: '4207'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1104,1001,509,117/full/0/default.jpg
-label: town
+annotation_uri: http://dev.llgc.org.uk/annotation/1561484569605
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/150,/0/default.jpg
+label: toys
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '174'
 layout: index_item
 collection: index5
 ---

@@ -3,30 +3,26 @@ pid: alpha_0766
 volume: Volume 2
 image_number: '45'
 head: 
-entry: Rarity
-topic: Rarity
-first_letter: R
-xref: "<a href='/digital-beehive/alpha3/alpha_0601/'>monster</a>|<a href='/digital-beehive/alpha2/alpha_0323/'>Fewness</a>|Obsolete|<a
-  href='/digital-beehive/toc/toc2_279/'>1429 [Rarity]</a>"
-see: 
+entry: Quicksilver
+topic: Quicksilver
+first_letter: Q
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3293/'>rarity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d074add5b"
+xref: "<a href='/digital-beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3263/'>quicksilver</a>"
+item: "#item-46957795f"
 unparsed: 
-line: 'Entry: Rarity|Topic: Rarity|Xref: monster|Xref: Fewness|Xref: Obsolete|Xref:
-  1429 [Rarity]|Index: rarity|#item-d074add5b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,2972,459/full/0/default.jpg
+line: 'Entry: Quicksilver|Topic: Quicksilver|Xref: 1566 [Quicksilver]|Index: quicksilver|#item-46957795f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,3004,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528399907739
-order: '766'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,2972,459/full/0/default.jpg
-label: Rarity
+annotation_uri: http://dev.llgc.org.uk/annotation/1558812620910
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,600,180/250,/0/default.jpg
+label: Quicksilver
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '119'
 layout: alpha_item
 collection: alpha4
 ---

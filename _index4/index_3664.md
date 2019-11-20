@@ -2,29 +2,27 @@
 pid: index_3664
 volume: Volume 3
 image_number: '42'
-head: shark. (fish.)
-entry: 4744 [PAGE_MISSING]
+head: sharp
+entry: 760 [PAGE_MISSING]|861 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e5802fbe0"
+item: "#item-6860df29a"
 unparsed: 
-line: 'Head: shark. (fish.)|Entry: 4744 [PAGE_MISSING]|#item-e5802fbe0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1075,3139,659,126/full/0/default.jpg
+line: 'Head: sharp|Entry: 760 [PAGE_MISSING]|Entry: 861 [PAGE_MISSING]|#item-6860df29a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1088,3221,594,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575335171
-order: '3664'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1075,3139,659,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1075,3139,659,126/full/0/default.jpg
-label: shark. (fish.)
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575380262
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1088,3221,594,136/150,/0/default.jpg
+label: sharp
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0911'
 layout: index_item
 collection: index4
 ---

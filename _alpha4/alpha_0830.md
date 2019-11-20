@@ -3,28 +3,27 @@ pid: alpha_0830
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Sea
-topic: Sea
+entry: Satyre
+topic: Satyre
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_287/'>1470 [Sea]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3570/'>Sea</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c952eb5d8"
+xref: "<a href='/digital-beehive/alpha5/alpha_1072/'>Zoilus</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
+  [Satyr]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3522/'>Satyre</a>"
+item: "#item-407803ef9"
 unparsed: 
-line: 'Entry: Sea|Topic: Sea|Xref: 1470 [Sea]|Index: Sea|#item-c952eb5d8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,2987,444/full/0/default.jpg
+line: 'Entry: Satyre|Topic: Satyre|Xref: Zoilus|Xref: 1384 [Satyr]|Index: Satyre|#item-407803ef9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528924634140
-order: '830'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,2987,444/full/0/default.jpg
-label: Sea
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922693577
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
+label: Satyre
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '182'
 layout: alpha_item
 collection: alpha4
 ---

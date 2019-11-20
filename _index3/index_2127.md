@@ -6,25 +6,23 @@ head: itch
 entry: 
 topic: 
 first_letter: I/J
-xref: 
-see: "<a href='/digital-beehive/index4/index_3532/'>scab</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3530/'>scab</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e4083e4d5"
 unparsed: 
 line: 'Head: itch|See: scab|#item-e4083e4d5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/142,1137,394,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559757035702
-order: '2127'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/142,1137,394,121/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/142,1137,394,121/full/0/default.jpg
 label: itch
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '208'
 layout: index_item
 collection: index3
 ---

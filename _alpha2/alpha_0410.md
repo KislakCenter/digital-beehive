@@ -3,31 +3,27 @@ pid: alpha_0410
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Help
-topic: Help
+entry: Hell
+topic: Hell
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_142/'>627 [Help]</a>|<a href='/digital-beehive/alpha3/alpha_0480/'>Instrument</a>|<a
-  href='/digital-beehive/alpha4/alpha_0740/'>Promoting</a>|<a href='/digital-beehive/alpha2/alpha_0367/'>God's
-  Help</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1798/'>help</a>"
-insertion_xref: 
-insertion: 
-item: "#item-31af7bea3"
+xref: "<a href='/digital-beehive/alpha1/alpha_0165/'>Condemnation</a>|<a href='/digital-beehive/toc/toc2_209/'>1076
+  [Hell]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1794/'>hell</a>"
+item: "#item-09fe29285"
 unparsed: 
-line: 'Entry: Help|Topic: Help|Xref: 627 [Help]|Xref: Instrument|Xref: Promoting|Xref:
-  God''s Help|Index: help|#item-31af7bea3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/678,862,3109,605/full/0/default.jpg
+line: 'Entry: Hell|Topic: Hell|Xref: Condemnation|Xref: 1076 [Hell]|Index: hell|#item-09fe29285'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/789,504,3007,513/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564755409241
-order: '410'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/678,862,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/678,862,3109,605/full/0/default.jpg
-label: Help
+annotation_uri: http://dev.llgc.org.uk/annotation/1508962578149
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/789,504,600,180/250,/0/default.jpg
+label: Hell
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '141'
 layout: alpha_item
 collection: alpha2
 ---

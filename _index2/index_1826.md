@@ -2,29 +2,27 @@
 pid: index_1826
 volume: Volume 3
 image_number: '24'
-head: Tho. Hicks
-entry: "<a href='/digital-beehive/toc/toc2_395/'>2259 [Thomas Hicks]</a>"
+head: hickock
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1211 [Belchings]</a>"
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-806342fff"
+item: "#item-85e719765"
 unparsed: 
-line: 'Head: Tho. Hicks|Entry: 2259 [Thomas Hicks]|#item-806342fff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/416,1412,541,127/full/0/default.jpg
+line: 'Head: hickock|Entry: 1211 [Belchings]|#item-85e719765'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/425,1453,458,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575876254
-order: '1826'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/416,1412,541,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/416,1412,541,127/full/0/default.jpg
-label: Tho. Hicks
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576152868
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/425,1453,458,119/150,/0/default.jpg
+label: hickock
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '645'
 layout: index_item
 collection: index2
 ---

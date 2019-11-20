@@ -1,30 +1,28 @@
 ---
 pid: alpha_0678
 volume: Volume 2
-image_number: '39'
+image_number: '38'
 head: 
-entry: Parsly
-topic: Parsly
+entry: Paris
+topic: Paris
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2893/'>parsly</a>"
-insertion_xref: 
-insertion: 
-item: "#item-192c671b7"
+xref: "<a href='/digital-beehive/toc/toc2_252/'>1293 [Paris]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2881/'>Paris</a>"
+item: "#item-379a4ca51"
 unparsed: 
-line: 'Entry: Parsly|Topic: Parsly|Index: parsly|#item-192c671b7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/264,252,1730,195/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565021083226
-order: '678'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/264,252,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/264,252,1730,195/full/0/default.jpg
-label: Parsly
-location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+line: 'Entry: Paris|Topic: Paris|Xref: 1293 [Paris]|Index: Paris|#item-379a4ca51'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/756,3995,2977,357/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565020565514
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/756,3995,600,180/250,/0/default.jpg
+label: Paris
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+num_match: 
+order: '031'
 layout: alpha_item
 collection: alpha4
 ---

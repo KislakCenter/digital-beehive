@@ -6,14 +6,11 @@ head:
 entry: Auricular Confession
 topic: Auricular Confession
 first_letter: C
-xref: "<a href='/digital-beehive/toc/toc2_175/'>940 [Auricular Confession]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0786/'>confession auricular</a>"
-insertion_xref: 
-insertion: 
+xref: "<a href='/digital-beehive/toc/toc2_175/'>940 [Auricular Confession]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_0785/'>confession auricular</a>"
 item: "#item-b300239ec"
 unparsed: 
 line: 'Entry: Auricular Confession|Topic: Auricular Confession|Xref: 940 [Auricular
@@ -21,11 +18,12 @@ line: 'Entry: Auricular Confession|Topic: Auricular Confession|Xref: 940 [Auricu
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/796,199,3069,507/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499707467630
-order: '168'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/796,199,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/796,199,3069,507/full/0/default.jpg
 label: Auricular Confession
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
+num_match: 
+order: '167'
 layout: alpha_item
 collection: alpha1
 ---

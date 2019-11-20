@@ -2,30 +2,27 @@
 pid: index_4334
 volume: Volume 3
 image_number: '49'
-head: vineyard
-entry: "<a href='/digital-beehive/alpha5/alpha_0984/'>a</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
-  [Vin[e]yards]</a>"
+head: violence
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1502/'>force</a>|<a href='/digital-beehive/index4/index_3919/'>storm</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-43dac4520"
+item: "#item-e97d8d93f"
 unparsed: 
-line: 'Head: vineyard|Entry: a|Entry: 1990 [Vin[e]yards]|#item-43dac4520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/full/0/default.jpg
+line: 'Head: violence|See: force|See: storm|#item-e97d8d93f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660662003
-order: '4334'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1629,1558,485,136/full/0/default.jpg
-label: vineyard
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660815116
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/150,/0/default.jpg
+label: violence
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '301'
 layout: index_item
 collection: index5
 ---

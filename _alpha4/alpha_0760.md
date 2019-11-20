@@ -3,28 +3,26 @@ pid: alpha_0760
 volume: Volume 2
 image_number: '45'
 head: 
-entry: Quicksilver
-topic: Quicksilver
-first_letter: Q
-xref: "<a href='/digital-beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
-see: 
+entry: Purgatory
+topic: Purgatory
+first_letter: P
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3264/'>quicksilver</a>"
-insertion_xref: 
-insertion: 
-item: "#item-46957795f"
+xref: "<a href='/digital-beehive/toc/toc2_301/'>1534 [Purgatory]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3231/'>purgatory</a>"
+item: "#item-cceea3136"
 unparsed: 
-line: 'Entry: Quicksilver|Topic: Quicksilver|Xref: 1566 [Quicksilver]|Index: quicksilver|#item-46957795f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,3004,140/full/0/default.jpg
+line: 'Entry: Purgatory|Topic: Purgatory|Xref: 1534 [Purgatory]|Index: purgatory|#item-cceea3136'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,3093,378/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558812620910
-order: '760'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,2319,3004,140/full/0/default.jpg
-label: Quicksilver
+annotation_uri: http://dev.llgc.org.uk/annotation/1523299994474
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,368,600,180/250,/0/default.jpg
+label: Purgatory
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '113'
 layout: alpha_item
 collection: alpha4
 ---

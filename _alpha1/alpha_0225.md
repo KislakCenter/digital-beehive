@@ -3,28 +3,26 @@ pid: alpha_0225
 volume: Volume 1
 image_number: '449'
 head: 
-entry: Deprecation
-topic: Deprecation
+entry: Deposition
+topic: Deposition
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1014/'>deprecation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-8855fe0e6"
+xref: "<a href='/digital-beehive/toc/toc2_348/'>1816 [Degradation]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1013/'>deposition</a>"
+item: "#item-8a9cd5a04"
 unparsed: 
-line: 'Entry: Deprecation|Topic: Deprecation|Index: deprecation|#item-8855fe0e6'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,1510,3034,299/full/0/default.jpg
+line: 'Entry: Deposition|Topic: Deposition|Xref: 1816 [Degradation]|Index: deposition|#item-8a9cd5a04'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/395,1319,3024,264/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922591048
-order: '225'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,1510,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,1510,3034,299/full/0/default.jpg
-label: Deprecation
+annotation_uri: http://dev.llgc.org.uk/annotation/1507922496218
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/395,1319,600,180/250,/0/default.jpg
+label: Deposition
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+num_match: 
+order: '224'
 layout: alpha_item
 collection: alpha1
 ---

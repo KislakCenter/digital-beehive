@@ -2,29 +2,27 @@
 pid: index_3957
 volume: Volume 3
 image_number: '45'
-head: sub Rosa
-entry: "<a href='/digital-beehive/toc/toc2_248/'>1272 [Secrecy]</a>"
+head: subscribed
+entry: "<a href='/digital-beehive/toc/toc2_230/'>1184 [the hereunto Subscribed]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a0c9c3028"
+item: "#item-49e769050"
 unparsed: 
-line: 'Head: sub Rosa|Entry: 1272 [Secrecy]|#item-a0c9c3028'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1129,512,115/full/0/default.jpg
+line: 'Head: subscribed|Entry: 1184 [the hereunto Subscribed]|#item-49e769050'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,1246,478,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467698276
-order: '3957'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1129,512,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1129,512,115/full/0/default.jpg
-label: sub Rosa
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467765116
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,1246,478,161/150,/0/default.jpg
+label: subscribed
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1204'
 layout: index_item
 collection: index4
 ---

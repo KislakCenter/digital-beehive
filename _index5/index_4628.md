@@ -2,29 +2,27 @@
 pid: index_4628
 volume: Volume 3
 image_number: '53'
-head: wounds of Christ
-entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>"
+head: wrath of God
+entry: "<a href='/digital-beehive/alpha5/alpha_1065/'>a</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-87c92c15e"
+item: "#item-d32254369"
 unparsed: 
-line: 'Head: wounds of Christ|Entry: a|#item-87c92c15e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1586,478,492,107/full/0/default.jpg
+line: 'Head: wrath of God|Entry: a|#item-d32254369'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1579,694,397,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798410244
-order: '4628'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1586,478,492,107/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1586,478,492,107/full/0/default.jpg
-label: wounds of Christ
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798455440
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1579,694,397,108/150,/0/default.jpg
+label: wrath of God
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '595'
 layout: index_item
 collection: index5
 ---

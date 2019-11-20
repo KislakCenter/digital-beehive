@@ -2,30 +2,27 @@
 pid: index_3371
 volume: Volume 3
 image_number: '39'
-head: repentance late
-entry: "<a href='/digital-beehive/alpha4/alpha_0785/'>a</a>|<a href='/digital-beehive/toc/toc2_092/'>307
-  [Repentance]</a>|1885 [PAGE_MISSING]"
+head: repetition
+entry: "<a href='/digital-beehive/num2/num_0292/'>263 [Repetition]</a>|4659 [PAGE_MISSING]"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-db2b5deff"
+item: "#item-6c707e139"
 unparsed: 
-line: 'Head: repentance late|Entry: a|Entry: 307 [Repentance]|Entry: 1885 [PAGE_MISSING]|#item-db2b5deff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/full/0/default.jpg
+line: 'Head: repetition|Entry: 263 [Repetition]|Entry: 4659 [PAGE_MISSING]|#item-6c707e139'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/823,2391,709,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469393253
-order: '3371'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/799,2274,697,156/full/0/default.jpg
-label: repentance late
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469442141
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/823,2391,709,180/150,/0/default.jpg
+label: repetition
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0618'
 layout: index_item
 collection: index4
 ---

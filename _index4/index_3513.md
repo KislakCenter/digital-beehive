@@ -2,30 +2,27 @@
 pid: index_3513
 volume: Volume 3
 image_number: '41'
-head: the same
-entry: "<a href='/digital-beehive/toc/toc2_086/'>264 [The Same]</a>|<a href='/digital-beehive/toc/toc2_319/'>1621
-  [The Same]</a>"
+head: Samson
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1565 [Samson]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ec046365a"
+item: "#item-afa828d60"
 unparsed: 
-line: 'Head: the same|Entry: 264 [The Same]|Entry: 1621 [The Same]|#item-ec046365a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/full/0/default.jpg
+line: 'Head: Samson|Entry: 1565 [Samson]|#item-afa828d60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1367,461,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238847411
-order: '3513'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/full/0/default.jpg
-label: the same
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238922101
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1367,461,129/150,/0/default.jpg
+label: Samson
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0760'
 layout: index_item
 collection: index4
 ---

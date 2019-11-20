@@ -2,30 +2,29 @@
 pid: index_3618
 volume: Volume 3
 image_number: '42'
-head: Self hatred
-entry: "<a href='/digital-beehive/alpha4/alpha_0842/'>a</a>|<a href='/digital-beehive/toc/toc2_162/'>874
-  [Self-hatred]</a>"
+head: Self holiness
+entry: "<a href='/digital-beehive/toc/toc2_091/'>300 [selfholiness, selfrighteousness]</a>|<a
+  href='/digital-beehive/toc/toc2_424/'>4459 [Self holiness]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4c8f5fdf2"
+item: "#item-055cdeea0"
 unparsed: 
-line: 'Head: Self hatred|Entry: a|Entry: 874 [Self-hatred]|#item-4c8f5fdf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/376,1484,695,116/full/0/default.jpg
+line: 'Head: Self holiness|Entry: 300 [selfholiness, selfrighteousness]|Entry: 4459
+  [Self holiness]|#item-055cdeea0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244498317
-order: '3618'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/376,1484,695,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/376,1484,695,116/full/0/default.jpg
-label: Self hatred
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244583455
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/150,/0/default.jpg
+label: Self holiness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0865'
 layout: index_item
 collection: index4
 ---

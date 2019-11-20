@@ -2,29 +2,27 @@
 pid: index_4577
 volume: Volume 3
 image_number: '53'
-head: with
-entry: "<a href='/digital-beehive/toc/toc2_221/'>1140 [With]</a>"
+head: withering
+entry: "<a href='/digital-beehive/toc/toc2_421/'>2439 [Wither]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-590ff729f"
+item: "#item-a18d12ca2"
 unparsed: 
-line: 'Head: with|Entry: 1140 [With]|#item-590ff729f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/157,1880,349,134/full/0/default.jpg
+line: 'Head: withering|Entry: 2439 [Wither]|#item-a18d12ca2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,2039,629,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792449159
-order: '4577'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/157,1880,349,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/157,1880,349,134/full/0/default.jpg
-label: with
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792582807
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,2039,629,148/150,/0/default.jpg
+label: withering
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '544'
 layout: index_item
 collection: index5
 ---

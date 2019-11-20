@@ -2,29 +2,27 @@
 pid: index_4170
 volume: Volume 3
 image_number: '48'
-head: together
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Together]</a>"
+head: toleration
+entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-519eff345"
+item: "#item-933235288"
 unparsed: 
-line: 'Head: together|Entry: 1383 [Together]|#item-519eff345'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,775,524,136/full/0/default.jpg
+line: 'Head: toleration|Entry: 565 [License]|#item-933235288'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562001039789
-order: '4170'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,775,524,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,775,524,136/full/0/default.jpg
-label: together
+annotation_uri: http://dev.llgc.org.uk/annotation/1559852426052
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/150,/0/default.jpg
+label: toleration
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '137'
 layout: index_item
 collection: index5
 ---

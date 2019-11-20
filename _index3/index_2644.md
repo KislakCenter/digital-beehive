@@ -6,25 +6,23 @@ head: narrative
 entry: 
 topic: 
 first_letter: N
-xref: 
-see: "<a href='/digital-beehive/index2/index_1844/'>history</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1843/'>history</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-ab62c539a"
 unparsed: 
 line: 'Head: narrative|See: history|#item-ab62c539a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/398,902,631,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560437473354
-order: '2644'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/398,902,631,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/398,902,631,154/full/0/default.jpg
 label: narrative
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '724'
 layout: index_item
 collection: index3
 ---

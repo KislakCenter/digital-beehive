@@ -2,29 +2,27 @@
 pid: index_3906
 volume: Volume 3
 image_number: '45'
-head: to stink
-entry: 746 [PAGE_MISSING]
+head: stockfish
+entry: "<a href='/digital-beehive/alpha4/alpha_0911/'>a</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b7d97e132"
+item: "#item-9ed249c72"
 unparsed: 
-line: 'Head: to stink|Entry: 746 [PAGE_MISSING]|#item-b7d97e132'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,2624,472,98/full/0/default.jpg
+line: 'Head: stockfish|Entry: a|#item-9ed249c72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/185,2770,463,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448267881
-order: '3906'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,2624,472,98/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,2624,472,98/full/0/default.jpg
-label: to stink
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448294626
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/185,2770,463,128/150,/0/default.jpg
+label: stockfish
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1153'
 layout: index_item
 collection: index4
 ---

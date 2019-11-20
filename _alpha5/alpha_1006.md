@@ -1,32 +1,30 @@
 ---
 pid: alpha_1006
 volume: Volume 2
-image_number: '63'
+image_number: '62'
 head: 
-entry: the Vulgar
-topic: the Vulgar
+entry: Unmercifullness
+topic: Unmercifullness
 first_letter: U/V
-xref: "<a href='/digital-beehive/toc/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/digital-beehive/toc/toc2_221/'>1136
-  [Vulgar]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4454/'>the vulgar</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f749e0afc"
+xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|<a href='/digital-beehive/toc/toc2_394/'>2251
+  [unmerciful]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4405/'>unmerciful</a>"
+item: "#item-2e68f38de"
 unparsed: 
-line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [Vulgar Spirited Man]|Xref: 1136
-  [Vulgar]|Index: the vulgar|#item-f749e0afc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,3013,331/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529004999189
-order: '1006'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,3013,331/full/0/default.jpg
-label: the Vulgar
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [unmerciful]|Index:
+  unmerciful|#item-2e68f38de'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/792,2906,2955,625/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528912925107
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/792,2906,600,180/250,/0/default.jpg
+label: Unmercifullness
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+num_match: 
+order: '071'
 layout: alpha_item
 collection: alpha5
 ---

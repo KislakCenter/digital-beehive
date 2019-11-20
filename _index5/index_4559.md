@@ -2,29 +2,27 @@
 pid: index_4559
 volume: Volume 3
 image_number: '52'
-head: window
-entry: 824 [PAGE_MISSING]
+head: wing
+entry: "<a href='/digital-beehive/num2/num_0505/'>410 [Wing]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e6232847d"
+item: "#item-a1cb0893c"
 unparsed: 
-line: 'Head: window|Entry: 824 [PAGE_MISSING]|#item-e6232847d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1800,3425,416,122/full/0/default.jpg
+line: 'Head: wing|Entry: 410 [Wing]|#item-a1cb0893c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1795,3557,389,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972731187
-order: '4559'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1800,3425,416,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1800,3425,416,122/full/0/default.jpg
-label: window
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972772751
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1795,3557,389,164/150,/0/default.jpg
+label: wing
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '526'
 layout: index_item
 collection: index5
 ---

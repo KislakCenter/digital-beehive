@@ -2,29 +2,27 @@
 pid: index_4290
 volume: Volume 3
 image_number: '49'
-head: vain man
-entry: "<a href='/digital-beehive/toc/toc2_252/'>1293 [Vain Man]</a>"
+head: valid
+entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Firm]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a27845ad3"
+item: "#item-89e503811"
 unparsed: 
-line: 'Head: vain man|Entry: 1293 [Vain Man]|#item-a27845ad3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/920,693,499,124/full/0/default.jpg
+line: 'Head: valid|Entry: 686 [Firm]|#item-89e503811'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,802,385,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657604184
-order: '4290'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/920,693,499,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/920,693,499,124/full/0/default.jpg
-label: vain man
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657638270
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,802,385,99/150,/0/default.jpg
+label: valid
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '257'
 layout: index_item
 collection: index5
 ---

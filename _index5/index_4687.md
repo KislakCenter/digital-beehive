@@ -2,29 +2,27 @@
 pid: index_4687
 volume: Volume 3
 image_number: '54'
-head: abyss
-entry: "<a href='/digital-beehive/toc/toc2_295/'>1509 [Treasure]</a>"
+head: Chalk
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2083 [Chalk]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:21.]"
-item: "#item-ef3738884"
-unparsed: 
-line: 'Type: Index|Insertion: [:21.]|Head: abyss|Entry: 1509 [Treasure]|#item-ef3738884'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/448,3146,398,113/full/0/default.jpg
+item: "#item-dae7cfa90"
+unparsed: Type Index|Insertion [:22.]
+line: 'Type: Index|Insertion: [:22.]|Head: Chalk|Entry: 2083 [Chalk]|#item-dae7cfa90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885344521
-order: '4687'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/448,3146,398,113/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/448,3146,398,113/full/0/default.jpg
-label: abyss
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885834582
+insertion: "[:22.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/426,3227,494,115/150,/0/default.jpg
+label: Chalk
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '654'
 layout: index_item
 collection: index5
 ---

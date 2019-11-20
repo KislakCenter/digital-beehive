@@ -2,29 +2,27 @@
 pid: index_4336
 volume: Volume 3
 image_number: '49'
-head: violence
-entry: 
+head: viper
+entry: "<a href='/digital-beehive/toc/toc2_302/'>1539 [Serpents]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: "<a href='/digital-beehive/index2/index_1502/'>force</a>|<a href='/digital-beehive/index4/index_3920/'>storm</a>"
-page: 
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e97d8d93f"
+item: "#item-a0542a840"
 unparsed: 
-line: 'Head: violence|See: force|See: storm|#item-e97d8d93f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/full/0/default.jpg
+line: 'Head: viper|Page: p.37 [Image 1.97]|Entry: 1539 [Serpents]|#item-a0542a840'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1649,2075,513,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660815116
-order: '4336'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/full/0/default.jpg
-label: violence
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660929895
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1649,2075,513,143/150,/0/default.jpg
+label: viper
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '303'
 layout: index_item
 collection: index5
 ---

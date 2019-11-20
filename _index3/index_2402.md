@@ -6,25 +6,23 @@ head: Mamut
 entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Mamut]</a>"
 topic: 
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-94133a51f"
 unparsed: 
 line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
-order: '2402'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/full/0/default.jpg
 label: Mamut
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '482'
 layout: index_item
 collection: index3
 ---

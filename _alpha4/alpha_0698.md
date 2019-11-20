@@ -3,28 +3,27 @@ pid: alpha_0698
 volume: Volume 2
 image_number: '40'
 head: 
-entry: Philosophy
-topic: Philosophy
+entry: Perfection, continued
+topic: Perfection, continued
 first_letter: P
-xref: "<a href='/digital-beehive/toc/toc2_113/'>453 [Philosophy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2986/'>philosophy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-f7e68601d"
+xref: "<a href='/digital-beehive/alpha4/alpha_0697/'>Perfection</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2954/'>perfection</a>"
+item: "#item-13966475b"
 unparsed: 
-line: 'Entry: Philosophy|Topic: Philosophy|Xref: 453 [Philosophy]|Index: philosophy|#item-f7e68601d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/824,1985,2960,636/full/0/default.jpg
+line: 'Entry: Perfection, continued|Topic: Perfection, continued|Xref: Perfection|Index:
+  perfection|#item-13966475b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/769,193,3046,319/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528331146756
-order: '698'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/824,1985,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/824,1985,2960,636/full/0/default.jpg
-label: Philosophy
+annotation_uri: http://dev.llgc.org.uk/annotation/1573245856498
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/769,193,600,180/250,/0/default.jpg
+label: Perfection, continued
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '051'
 layout: alpha_item
 collection: alpha4
 ---

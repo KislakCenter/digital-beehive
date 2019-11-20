@@ -2,29 +2,27 @@
 pid: index_4538
 volume: Volume 3
 image_number: '52'
-head: whistle
-entry: 768 [PAGE_MISSING]
+head: white
+entry: "<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: black
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c2d0cd582"
+item: "#item-486d91cbf"
 unparsed: 
-line: 'Head: whistle|Entry: 768 [PAGE_MISSING]|#item-c2d0cd582'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1768,642,447,111/full/0/default.jpg
+line: 'Head: white|See: black|Entry: a|Entry: 1951 [White]|#item-486d91cbf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971504718
-order: '4538'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1768,642,447,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1768,642,447,111/full/0/default.jpg
-label: whistle
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971561962
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/150,/0/default.jpg
+label: white
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '505'
 layout: index_item
 collection: index5
 ---

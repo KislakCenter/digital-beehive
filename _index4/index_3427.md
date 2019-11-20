@@ -2,29 +2,27 @@
 pid: index_3427
 volume: Volume 3
 image_number: '40'
-head: right or wrong
-entry: "<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill gotten goods]</a>"
+head: rigour
+entry: 
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3650/'>severity</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-501c0d3ec"
+item: "#item-74b4ff127"
 unparsed: 
-line: 'Head: right or wrong|Entry: 1727 [Ill gotten goods]|#item-501c0d3ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/full/0/default.jpg
+line: 'Head: rigour|See: severity|#item-74b4ff127'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,2448,616,188/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232042828
-order: '3427'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/full/0/default.jpg
-label: right or wrong
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232121859
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,2448,616,188/150,/0/default.jpg
+label: rigour
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0674'
 layout: index_item
 collection: index4
 ---

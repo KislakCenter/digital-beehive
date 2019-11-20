@@ -1,30 +1,30 @@
 ---
 pid: alpha_0395
 volume: Volume 2
-image_number: '17'
+image_number: '16'
 head: 
-entry: Hare
-topic: Hare
+entry: Hardning
+topic: Hardning
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1756/'>hare</a>"
-insertion_xref: 
-insertion: 
-item: "#item-01e3acb48"
+xref: "<a href='/digital-beehive/alpha4/alpha_0652/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_412/'>2374
+  [Hardning]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1755/'>hardning</a>"
+item: "#item-b81c3e687"
 unparsed: 
-line: 'Entry: Hare|Topic: Hare|Index: hare|#item-01e3acb48'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,3043,214/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564604695406
-order: '395'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,3043,214/full/0/default.jpg
-label: Hare
-location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
+line: 'Entry: Hardning|Topic: Hardning|Xref: Obstinacy|Xref: 2374 [Hardning]|Index:
+  hardning|#item-b81c3e687'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/791,4564,2937,532/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508784631867
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/791,4564,600,180/250,/0/default.jpg
+label: Hardning
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+num_match: 
+order: '126'
 layout: alpha_item
 collection: alpha2
 ---

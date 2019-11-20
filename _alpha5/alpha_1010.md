@@ -1,32 +1,28 @@
 ---
 pid: alpha_1010
 volume: Volume 2
-image_number: '63'
+image_number: '62'
 head: 
-entry: Wars miseries
-topic: Wars miseries
-first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
-  [Evils of war]</a>"
-see: 
+entry: Untimely
+topic: Untimely
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4476/'>wars miseries</a>"
-insertion_xref: 
-insertion: 
-item: "#item-05ccd66db"
+xref: "<a href='/digital-beehive/alpha4/alpha_0653/'>Occasion</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4423/'>untimely</a>"
+item: "#item-0e53a4bfe"
 unparsed: 
-line: 'Entry: Wars miseries|Topic: Wars miseries|Xref: 608 [Ruin]|Xref: 1416 [Evils
-  of war]|Index: wars miseries|#item-05ccd66db'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,3661,2970,428/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529522561082
-order: '1010'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,3661,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,3661,2970,428/full/0/default.jpg
-label: Wars miseries
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+line: 'Entry: Untimely|Topic: Untimely|Xref: Occasion|Index: untimely|#item-0e53a4bfe'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,2877,454/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528913759434
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/826,4589,600,180/250,/0/default.jpg
+label: Untimely
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+num_match: 
+order: '075'
 layout: alpha_item
 collection: alpha5
 ---

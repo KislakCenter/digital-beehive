@@ -6,25 +6,23 @@ head: missionaries
 entry: 
 topic: 
 first_letter: M
-xref: 
-see: apostles
 page: 
 add: 
-type: 
+xref: 
+see: apostles
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-e9d7c5c87"
 unparsed: 
 line: 'Head: missionaries|See: apostles|#item-e9d7c5c87'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/178,1194,688,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560351733266
-order: '2543'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/178,1194,688,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/178,1194,688,159/full/0/default.jpg
 label: missionaries
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+insertion_xref: 
+order: '623'
 layout: index_item
 collection: index3
 ---

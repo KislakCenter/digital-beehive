@@ -2,29 +2,27 @@
 pid: index_4314
 volume: Volume 3
 image_number: '49'
-head: verbal
-entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbal]</a>"
+head: Verdrießen
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_1093/'>Displeasure</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1bbecd162"
+item: "#item-3a9e09858"
 unparsed: 
-line: 'Head: verbal|Entry: 536 [Verbal]|#item-1bbecd162'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/950,2936,403,100/full/0/default.jpg
+line: 'Head: Verdrießen|See: Displeasure|#item-3a9e09858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658806303
-order: '4314'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/950,2936,403,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/950,2936,403,100/full/0/default.jpg
-label: verbal
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658896689
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/150,/0/default.jpg
+label: Verdrießen
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '281'
 layout: index_item
 collection: index5
 ---

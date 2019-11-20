@@ -1,30 +1,30 @@
 ---
 pid: alpha_0798
 volume: Volume 2
-image_number: '48'
+image_number: '47'
 head: 
-entry: Rheum
-topic: Rheum
+entry: Resurrection
+topic: Resurrection
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3415/'>rheum</a>"
-insertion_xref: 
-insertion: 
-item: "#item-59b66f431"
+xref: "<a href='/digital-beehive/alpha4/alpha_0799/'>Resurrection, continued</a>|<a
+  href='/digital-beehive/toc/toc2_121/'>502 [Resurrection]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3396/'>resurrection</a>"
+item: "#item-2ed58825b"
 unparsed: 
-line: 'Entry: Rheum|Topic: Rheum|Index: rheum|#item-59b66f431'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/804,2759,2980,330/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528824764698
-order: '798'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/804,2759,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/804,2759,2980,330/full/0/default.jpg
-label: Rheum
-location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+line: 'Entry: Resurrection|Topic: Resurrection|Xref: Resurrection, continued|Xref:
+  502 [Resurrection]|Index: resurrection|#item-2ed58825b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/379,4673,2983,372/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528823308223
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/379,4673,600,180/250,/0/default.jpg
+label: Resurrection
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '150'
 layout: alpha_item
 collection: alpha4
 ---

@@ -3,31 +3,26 @@ pid: alpha_0345
 volume: Volume 2
 image_number: '13'
 head: 
-entry: Fraud
-topic: Fraud
+entry: Fox
+topic: Fox
 first_letter: F
-xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0910/'>Stratagem</a>|<a
-  href='/digital-beehive/alpha4/alpha_0836/'>Seducing</a>|<a href='/digital-beehive/toc/toc2_103/'>384
-  [Fraud]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ddc5b9956"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1529/'>fox</a>"
+item: "#item-9a38b61b5"
 unparsed: 
-line: 'Entry: Fraud|Topic: Fraud|Xref: Craftiness|Xref: Stratagem|Xref: Seducing|Xref:
-  384 [Fraud]|Index: fraud|#item-ddc5b9956'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,1452,3059,522/full/0/default.jpg
+line: 'Entry: Fox|Topic: Fox|Index: fox|#item-9a38b61b5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/370,1228,3076,217/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508356786576
-order: '345'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,1452,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,1452,3059,522/full/0/default.jpg
-label: Fraud
+annotation_uri: http://dev.llgc.org.uk/annotation/1508356675051
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/370,1228,600,180/250,/0/default.jpg
+label: Fox
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
+num_match: 
+order: '076'
 layout: alpha_item
 collection: alpha2
 ---

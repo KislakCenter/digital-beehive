@@ -2,30 +2,27 @@
 pid: index_3466
 volume: Volume 3
 image_number: '40'
-head: rules
-entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>|<a href='/digital-beehive/toc/toc2_210/'>1083
-  [Rules]</a>|<a href='/digital-beehive/toc/toc2_308/'>1570 [Rules]</a>"
+head: rules false
+entry: "<a href='/digital-beehive/num1/num_0143/'>138 [False Rules]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f4721411f"
+item: "#item-5fdece7e1"
 unparsed: 
-line: 'Head: rules|Entry: a|Entry: 1083 [Rules]|Entry: 1570 [Rules]|#item-f4721411f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,3047,608,125/full/0/default.jpg
+line: 'Head: rules false|Entry: 138 [False Rules]|#item-5fdece7e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1133,3151,407,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234103592
-order: '3466'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,3047,608,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,3047,608,125/full/0/default.jpg
-label: rules
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234131360
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1133,3151,407,103/150,/0/default.jpg
+label: rules false
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0713'
 layout: index_item
 collection: index4
 ---

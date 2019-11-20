@@ -2,29 +2,27 @@
 pid: index_3640
 volume: Volume 3
 image_number: '42'
-head: to separate
-entry: 742 [PAGE_MISSING]
+head: separation
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3587/'>sect</a>|shirm"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9b4a7aa07"
+item: "#item-0aa6dfd18"
 unparsed: 
-line: 'Head: to separate|Entry: 742 [PAGE_MISSING]|#item-9b4a7aa07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1126,384,630,133/full/0/default.jpg
+line: 'Head: separation|See: sect|See: shirm|#item-0aa6dfd18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571865954
-order: '3640'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1126,384,630,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1126,384,630,133/full/0/default.jpg
-label: to separate
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573582624
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/150,/0/default.jpg
+label: separation
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0887'
 layout: index_item
 collection: index4
 ---

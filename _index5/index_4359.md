@@ -2,29 +2,28 @@
 pid: index_4359
 volume: Volume 3
 image_number: '50'
-head: unbecoming
-entry: "<a href='/digital-beehive/toc/toc2_157/'>709 [Unseemly]</a>"
+head: unbelief
+entry: "<a href='/digital-beehive/alpha5/alpha_1000/'>a</a>|<a href='/digital-beehive/toc/toc2_372/'>2070
+  [Unbelief]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d53c62a92"
+item: "#item-0e15ccd27"
 unparsed: 
-line: 'Head: unbecoming|Entry: 709 [Unseemly]|#item-d53c62a92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/469,1195,578,149/full/0/default.jpg
+line: 'Head: unbelief|Entry: a|Entry: 2070 [Unbelief]|#item-0e15ccd27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872306052
-order: '4359'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/469,1195,578,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/469,1195,578,149/full/0/default.jpg
-label: unbecoming
+annotation_uri: http://dev.llgc.org.uk/annotation/1560872390862
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/150,/0/default.jpg
+label: unbelief
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '326'
 layout: index_item
 collection: index5
 ---

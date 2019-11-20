@@ -7,14 +7,11 @@ entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop keeper]</a>|<a href
   [Market]</a>|<a href='/digital-beehive/toc/toc2_286/'>1464 [Merchant]</a>|4610 [PAGE_MISSING]"
 topic: 
 first_letter: M
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_092/'>p.42 [Image 1.102]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f1c5cab53"
 unparsed: 
 line: 'Head: merchants|Page: p.42 [Image 1.102]|Entry: 109 [a Shop keeper]|Entry:
@@ -22,11 +19,12 @@ line: 'Head: merchants|Page: p.42 [Image 1.102]|Entry: 109 [a Shop keeper]|Entry
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1134,2315,1075,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560269058881
-order: '2486'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1134,2315,1075,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1134,2315,1075,138/full/0/default.jpg
 label: merchants
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+insertion_xref: 
+order: '566'
 layout: index_item
 collection: index3
 ---

@@ -2,29 +2,28 @@
 pid: index_3699
 volume: Volume 3
 image_number: '43'
-head: siege
-entry: "<a href='/digital-beehive/alpha4/alpha_0864/'>a</a>"
+head: "[:5.]"
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-141dfc07f"
-unparsed: 
-line: 'Head: siege|Entry: a|#item-141dfc07f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/182,422,307,137/full/0/default.jpg
+item: "#item-48fa91c23"
+unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-48fa91c23'
+line: 'Type: Index|Insertion Xref: [:5.]|#item-48fa91c23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/693,456,188,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577546894
-order: '3699'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/182,422,307,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/182,422,307,137/full/0/default.jpg
-label: siege
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278084831
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/693,456,188,159/150,/0/default.jpg
+label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
+  or winnow</a>"
+order: '0946'
 layout: index_item
 collection: index4
 ---

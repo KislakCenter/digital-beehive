@@ -6,25 +6,23 @@ head: "[:7.]"
 entry: 
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4671/'>national Constitutions</a>"
-insertion: 
 item: "#item-e9ecca89a"
 unparsed: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
 line: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,1076,185,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560437536192
-order: '2646'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,1076,185,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,1076,185,143/full/0/default.jpg
 label: "[:7.]"
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>national Constitutions</a>"
+order: '726'
 layout: index_item
 collection: index3
 ---

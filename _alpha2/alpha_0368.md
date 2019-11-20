@@ -3,30 +3,26 @@ pid: alpha_0368
 volume: Volume 2
 image_number: '15'
 head: 
-entry: God's Providence
-topic: God's Providence
+entry: God's help
+topic: God's help
 first_letter: G
-xref: "<a href='/digital-beehive/alpha5/alpha_1025/'>Will of God</a>|<a href='/digital-beehive/toc/toc2_081/'>227
-  [Gods Providence]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1655/'>God's providence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5ef72dfee"
+xref: "<a href='/digital-beehive/num1/num_0166/'>160 [Gods help]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1644/'>God's help</a>"
+item: "#item-7b1107290"
 unparsed: 
-line: 'Entry: God''s Providence|Topic: God''s Providence|Xref: Will of God|Xref: 227
-  [Gods Providence]|Index: God''s providence|#item-5ef72dfee'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/337,799,3088,391/full/0/default.jpg
+line: 'Entry: God''s help|Topic: God''s help|Xref: 160 [Gods help]|Index: God''s help|#item-7b1107290'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/333,518,3074,330/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508854247510
-order: '368'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/337,799,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/337,799,3088,391/full/0/default.jpg
-label: God's Providence
+annotation_uri: http://dev.llgc.org.uk/annotation/1564602409491
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/333,518,600,180/250,/0/default.jpg
+label: God's help
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
+num_match: 
+order: '099'
 layout: alpha_item
 collection: alpha2
 ---

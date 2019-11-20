@@ -6,25 +6,23 @@ head:
 entry: Cattel
 topic: Cattel
 first_letter: C
-xref: "<a href='/digital-beehive/alpha1/alpha_0068/'>Beast</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/alpha1/alpha_0068/'>Beast</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0568/'>cattle</a>"
-insertion_xref: 
-insertion: 
 item: "#item-95d014f13"
 unparsed: 
 line: 'Entry: Cattel|Topic: Cattel|Xref: Beast|Index: cattle|#item-95d014f13'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,2974,600/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499370195947
-order: '128'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,2974,600/full/0/default.jpg
 label: Cattel
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
+num_match: 
+order: '127'
 layout: alpha_item
 collection: alpha1
 ---

@@ -3,28 +3,28 @@ pid: alpha_0336
 volume: Volume 2
 image_number: '12'
 head: 
-entry: Foot
-topic: Foot
+entry: Fool
+topic: Fool
 first_letter: F
-xref: "<a href='/digital-beehive/toc/toc2_282/'>1444 [Riches]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1497/'>foot</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ecd9550b0"
+xref: "<a href='/digital-beehive/alpha1/alpha_0104/'>buffoon</a>|dotage|804 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_225/'>1159 [Folly]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1496/'>fool & folly</a>"
+item: "#item-7fc3b2c36"
 unparsed: 
-line: 'Entry: Foot|Topic: Foot|Xref: 1444 [Riches]|Index: foot|#item-ecd9550b0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/732,3075,2999,368/full/0/default.jpg
+line: 'Entry: Fool|Topic: Fool|Xref: buffoon|Xref: dotage|Xref: 804 [PAGE_MISSING]|Xref:
+  1159 [Folly]|Index: fool & folly|#item-7fc3b2c36'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,3067,994/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563205097568
-order: '336'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/732,3075,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/732,3075,2999,368/full/0/default.jpg
-label: Foot
+annotation_uri: http://dev.llgc.org.uk/annotation/1563204978855
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,600,180/250,/0/default.jpg
+label: Fool
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
+num_match: 
+order: '067'
 layout: alpha_item
 collection: alpha2
 ---

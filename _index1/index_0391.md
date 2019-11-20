@@ -3,29 +3,27 @@ pid: index_0391
 volume: Volume 3
 image_number: '10'
 head: blindness
-entry: "<a href='/digital-beehive/toc/toc2_059/'>13 [Blindness]</a>|<a href='/digital-beehive/toc/toc2_261/'>1336
+entry: "<a href='/digital-beehive/num1/num_0013/'>13 [Blindness]</a>|<a href='/digital-beehive/toc/toc2_261/'>1336
   [Blindness]</a>|<a href='/digital-beehive/toc/toc2_385/'>2200 [Blindness]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-4f71a1eca"
 unparsed: 
 line: 'Head: blindness|Entry: 13 [Blindness]|Entry: 1336 [Blindness]|Entry: 2200 [Blindness]|#item-4f71a1eca'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531151509203
-order: '391'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/full/0/default.jpg
 label: blindness
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+insertion_xref: 
+order: '0390'
 layout: index_item
 collection: index1
 ---

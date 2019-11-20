@@ -1,32 +1,28 @@
 ---
 pid: alpha_0871
 volume: Volume 2
-image_number: '53'
+image_number: '52'
 head: 
-entry: Sincerity
-topic: Sincerity
+entry: Siege
+topic: Siege
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0868/'>Simplicity</a>|<a href='/digital-beehive/toc/toc2_257/'>1317
-  [Sincerity]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3725/'>sincerity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d45c9a6f6"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3698/'>siege</a>"
+item: "#item-b678217f5"
 unparsed: 
-line: 'Entry: Sincerity|Topic: Sincerity|Xref: Simplicity|Xref: 1317 [Sincerity]|Index:
-  sincerity|#item-d45c9a6f6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/311,2357,3047,505/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532023565228
-order: '871'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/311,2357,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/311,2357,3047,505/full/0/default.jpg
-label: Sincerity
-location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+line: 'Entry: Siege|Topic: Siege|Index: siege|#item-b678217f5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,2902,321/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803775214
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/833,4312,600,180/250,/0/default.jpg
+label: Siege
+location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '223'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,30 +2,27 @@
 pid: index_3521
 volume: Volume 3
 image_number: '41'
-head: satiety
-entry: "<a href='/digital-beehive/toc/toc2_080/'>218 [Sufficient]</a>|<a href='/digital-beehive/toc/toc2_237/'>1218
-  [Satiety]</a>"
+head: Satyr
+entry: "<a href='/digital-beehive/toc/toc2_371/'>2055 [a Satyr]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ac6d62f95"
+item: "#item-0da9c6e75"
 unparsed: 
-line: 'Head: satiety|Entry: 218 [Sufficient]|Entry: 1218 [Satiety]|#item-ac6d62f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/full/0/default.jpg
+line: 'Head: Satyr|Entry: 2055 [a Satyr]|#item-0da9c6e75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/164,1988,365,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239096765
-order: '3521'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/full/0/default.jpg
-label: satiety
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239164351
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/164,1988,365,85/150,/0/default.jpg
+label: Satyr
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0768'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_1663
 volume: Volume 3
 image_number: '22'
-head: Gods
-entry: "<a href='/digital-beehive/toc/toc2_093/'>310 [Gods]</a>"
+head: Gog & Magog
+entry: "<a href='/digital-beehive/alpha2/alpha_0371/'>a</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2900e7bb9"
+item: "#item-e6051f44e"
 unparsed: 
-line: 'Head: Gods|Entry: 310 [Gods]|#item-2900e7bb9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2922,314,161/full/0/default.jpg
+line: 'Head: Gog & Magog|Entry: a|#item-e6051f44e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050680210
-order: '1663'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2922,314,161/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2922,314,161/full/0/default.jpg
-label: Gods
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050836214
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/150,/0/default.jpg
+label: Gog & Magog
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '483'
 layout: index_item
 collection: index2
 ---

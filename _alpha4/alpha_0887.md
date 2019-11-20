@@ -3,28 +3,29 @@ pid: alpha_0887
 volume: Volume 2
 image_number: '54'
 head: 
-entry: Sop
-topic: Sop
+entry: Slowness
+topic: Slowness
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_127/'>540 [Pottages]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3800/'>sop</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a4a9aad85"
+xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>Too slow</a>|<a href='/digital-beehive/alpha1/alpha_0219/'>Degree</a>|<a
+  href='/digital-beehive/alpha3/alpha_0510/'>Last</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
+  [Slow-footed]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3755/'>slowness</a>"
+item: "#item-39c9d131e"
 unparsed: 
-line: 'Entry: Sop|Topic: Sop|Xref: 540 [Pottages]|Index: sop|#item-a4a9aad85'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,2421,2910,376/full/0/default.jpg
+line: 'Entry: Slowness|Topic: Slowness|Xref: Too slow|Xref: Degree|Xref: Last|Xref:
+  1089 [Slow-footed]|Index: slowness|#item-39c9d131e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,2997,644/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532449228056
-order: '887'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,2421,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,2421,2910,376/full/0/default.jpg
-label: Sop
+annotation_uri: http://dev.llgc.org.uk/annotation/1532448792857
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,600,180/250,/0/default.jpg
+label: Slowness
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+num_match: 
+order: '239'
 layout: alpha_item
 collection: alpha4
 ---

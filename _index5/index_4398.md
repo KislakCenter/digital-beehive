@@ -2,32 +2,28 @@
 pid: index_4398
 volume: Volume 3
 image_number: '50'
-head: unjust goods
-entry: "<a href='/digital-beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/digital-beehive/toc/toc2_095/'>326
-  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill
-  gotten goods]</a>"
+head: unknown
+entry: "<a href='/digital-beehive/alpha5/alpha_1005/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1658
+  [Unknown]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a56087bf2"
+item: "#item-d90bcf577"
 unparsed: 
-line: 'Head: unjust goods|Entry: 6 [Unjust substance]|Entry: 326 [Ill gotten goods
-  & gains]|Entry: 1727 [Ill gotten goods]|#item-a56087bf2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1068,2397,676,140/full/0/default.jpg
+line: 'Head: unknown|Entry: a|Entry: 1658 [Unknown]|#item-d90bcf577'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1083,2510,618,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560882152407
-order: '4398'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1068,2397,676,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1068,2397,676,140/full/0/default.jpg
-label: unjust goods
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882202745
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1083,2510,618,130/150,/0/default.jpg
+label: unknown
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '365'
 layout: index_item
 collection: index5
 ---

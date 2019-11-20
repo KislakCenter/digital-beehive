@@ -3,29 +3,27 @@ pid: alpha_0404
 volume: Volume 2
 image_number: '17'
 head: 
-entry: Heart
-topic: Heart
+entry: Drinking of Health
+topic: Drinking of Health
 first_letter: H
-xref: "<a href='/digital-beehive/alpha1/alpha_0097/'>Breast</a>|<a href='/digital-beehive/toc/toc2_295/'>1507
-  [Heart]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1782/'>heart</a>"
-insertion_xref: 
-insertion: 
-item: "#item-120a26e1b"
+xref: "<a href='/digital-beehive/toc/toc2_274/'>1403 [Drinking of healths]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1778/'>drinking of health</a>"
+item: "#item-2b1f4b265"
 unparsed: 
-line: 'Entry: Heart|Topic: Heart|Xref: Breast|Xref: 1507 [Heart]|Index: heart|#item-120a26e1b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/435,3076,2996,476/full/0/default.jpg
+line: 'Entry: Drinking of Health|Topic: Drinking of Health|Xref: 1403 [Drinking of
+  healths]|Index: drinking of health|#item-2b1f4b265'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,3055,384/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564605460402
-order: '404'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/435,3076,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/435,3076,2996,476/full/0/default.jpg
-label: Heart
+annotation_uri: http://dev.llgc.org.uk/annotation/1508805459776
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/367,2727,600,180/250,/0/default.jpg
+label: Drinking of Health
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
+num_match: 
+order: '135'
 layout: alpha_item
 collection: alpha2
 ---

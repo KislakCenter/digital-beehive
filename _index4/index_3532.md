@@ -2,29 +2,27 @@
 pid: index_3532
 volume: Volume 3
 image_number: '41'
-head: scab
-entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>"
+head: to scald
+entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [To Burn]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-99de27c07"
+item: "#item-58f555fa2"
 unparsed: 
-line: 'Head: scab|Entry: a|#item-99de27c07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2660,286,123/full/0/default.jpg
+line: 'Head: to scald|Entry: 672 [To Burn]|#item-58f555fa2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240023767
-order: '3532'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2660,286,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2660,286,123/full/0/default.jpg
-label: scab
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240061130
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/150,/0/default.jpg
+label: to scald
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0779'
 layout: index_item
 collection: index4
 ---

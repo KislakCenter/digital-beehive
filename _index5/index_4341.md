@@ -2,29 +2,27 @@
 pid: index_4341
 volume: Volume 3
 image_number: '49'
-head: Virginia
-entry: "<a href='/digital-beehive/toc/toc2_299/'>1521 [Virginia]</a>"
+head: virgula divinatoria
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1315 [Divination]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-606867e5f"
+item: "#item-5100167c8"
 unparsed: 
-line: 'Head: Virginia|Entry: 1521 [Virginia]|#item-606867e5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/full/0/default.jpg
+line: 'Head: virgula divinatoria|Entry: 1315 [Divination]|#item-5100167c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661059857
-order: '4341'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/full/0/default.jpg
-label: Virginia
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661259446
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/150,/0/default.jpg
+label: virgula divinatoria
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '308'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_0517
 volume: Volume 3
 image_number: '11'
-head: camphire
-entry: 740 [PAGE_MISSING]
+head: can
+entry: 
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3092/'>pot</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8495960fb"
+item: "#item-00c3a7dea"
 unparsed: 
-line: 'Head: camphire|Entry: 740 [PAGE_MISSING]|#item-8495960fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1240,523,135/full/0/default.jpg
+line: 'Head: can|See: pot|#item-00c3a7dea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,1358,424,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494837299
-order: '517'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1240,523,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1572,1240,523,135/full/0/default.jpg
-label: camphire
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494854335
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,1358,424,132/150,/0/default.jpg
+label: can
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0516'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,28 @@
 pid: index_0317
 volume: Volume 3
 image_number: '9'
-head: to bear
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [To bear]</a>"
+head: beard
+entry: "<a href='/digital-beehive/alpha1/alpha_0067/'>a</a>|<a href='/digital-beehive/toc/toc2_286/'>1462
+  [Beard]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4477c9e10"
+item: "#item-3d88696f3"
 unparsed: 
-line: 'Head: to bear|Entry: 1383 [To bear]|#item-4477c9e10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1590,428,103/full/0/default.jpg
+line: 'Head: beard|Entry: a|Entry: 1462 [Beard]|#item-3d88696f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,1688,447,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530891577892
-order: '317'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1590,428,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1601,1590,428,103/full/0/default.jpg
-label: to bear
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891636780
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,1688,447,130/150,/0/default.jpg
+label: beard
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0316'
 layout: index_item
 collection: index1
 ---

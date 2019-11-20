@@ -2,29 +2,27 @@
 pid: index_4273
 volume: Volume 3
 image_number: '49'
-head: turn sole
-entry: 
+head: turtledoves
+entry: "<a href='/digital-beehive/toc/toc2_135/'>588 [Dove]</a>"
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_083/'>p.33 [Image 1.93]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2d80c3ef9"
+item: "#item-facd25a1e"
 unparsed: 
-line: 'Head: turn sole|Page: p.33 [Image 1.93]|#item-2d80c3ef9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/211,2198,452,140/full/0/default.jpg
+line: 'Head: turtledoves|Entry: 588 [Dove]|#item-facd25a1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656872836
-order: '4273'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/211,2198,452,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/211,2198,452,140/full/0/default.jpg
-label: turn sole
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656905871
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/150,/0/default.jpg
+label: turtledoves
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '240'
 layout: index_item
 collection: index5
 ---

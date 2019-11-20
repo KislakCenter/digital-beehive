@@ -2,29 +2,27 @@
 pid: index_4661
 volume: Volume 3
 image_number: '53'
-head: Zone
-entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [to Gird]</a>"
+head: Zunfften
+entry: "<a href='/digital-beehive/toc/toc2_143/'>634 [Trade]</a>|4556 [PAGE_MISSING]"
 topic: 
 first_letter: Z
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a3e4e0534"
+item: "#item-4388fe131"
 unparsed: 
-line: 'Head: Zone|Entry: 691 [to Gird]|#item-a3e4e0534'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,3499,342,117/full/0/default.jpg
+line: 'Head: Zunfften|Entry: 634 [Trade]|Entry: 4556 [PAGE_MISSING]|#item-4388fe131'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1529,3574,745,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560870225122
-order: '4661'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,3499,342,117/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,3499,342,117/full/0/default.jpg
-label: Zone
+annotation_uri: http://dev.llgc.org.uk/annotation/1560870642214
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1529,3574,745,139/150,/0/default.jpg
+label: Zunfften
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '628'
 layout: index_item
 collection: index5
 ---

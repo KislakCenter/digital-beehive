@@ -2,29 +2,27 @@
 pid: index_1560
 volume: Volume 3
 image_number: '21'
-head: fuel
-entry: 4614 [PAGE_MISSING]
+head: full
+entry: "<a href='/digital-beehive/toc/toc2_139/'>609 [Fullness]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-eca5969cf"
+item: "#item-c63d4c3d8"
 unparsed: 
-line: 'Head: fuel|Entry: 4614 [PAGE_MISSING]|#item-eca5969cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,625,401,111/full/0/default.jpg
+line: 'Head: full|Entry: 609 [Fullness]|#item-c63d4c3d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,682,331,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785443588
-order: '1560'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,625,401,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,625,401,111/full/0/default.jpg
-label: fuel
+annotation_uri: http://dev.llgc.org.uk/annotation/1560785507142
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1567,682,331,131/150,/0/default.jpg
+label: full
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '380'
 layout: index_item
 collection: index2
 ---

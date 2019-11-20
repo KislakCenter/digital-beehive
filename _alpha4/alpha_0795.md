@@ -1,32 +1,28 @@
 ---
 pid: alpha_0795
 volume: Volume 2
-image_number: '48'
+image_number: '47'
 head: 
-entry: Revelling
-topic: Revelling
+entry: Resignation
+topic: Resignation
 first_letter: R
-xref: "<a href='/digital-beehive/alpha2/alpha_0285/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0481/'>Intemperance</a>|<a
-  href='/digital-beehive/toc/toc2_184/'>990 [Revelling]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3404/'>revelling. sauß und schmauß</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c80f58e9c"
+xref: "<a href='/digital-beehive/toc/toc2_175/'>937 [Resignation]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3386/'>resignation</a>"
+item: "#item-803885c1c"
 unparsed: 
-line: 'Entry: Revelling|Topic: Revelling|Xref: Epicurism|Xref: Intemperance|Xref:
-  990 [Revelling]|Index: revelling. sauß und schmauß|#item-c80f58e9c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,2967,440/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528823966575
-order: '795'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,2967,440/full/0/default.jpg
-label: Revelling
-location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+line: 'Entry: Resignation|Topic: Resignation|Xref: 937 [Resignation]|Index: resignation|#item-803885c1c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,2931,488/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528821885072
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,3496,600,180/250,/0/default.jpg
+label: Resignation
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '147'
 layout: alpha_item
 collection: alpha4
 ---

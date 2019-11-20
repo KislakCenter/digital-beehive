@@ -3,28 +3,28 @@ pid: alpha_0282
 volume: Volume 1
 image_number: '453'
 head: 
-entry: England
-topic: England
+entry: End
+topic: End
 first_letter: E
-xref: "<a href='/digital-beehive/toc/toc2_263/'>1347 [England]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1254/'>England</a>"
-insertion_xref: 
-insertion: 
-item: "#item-04417cb2f"
+xref: "<a href='/digital-beehive/alpha3/alpha_0510/'>Last</a>|<a href='/digital-beehive/alpha5/alpha_1057/'>World's
+  End</a>|<a href='/digital-beehive/toc/toc2_161/'>868 [End]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1248/'>end</a>"
+item: "#item-3f317cb7d"
 unparsed: 
-line: 'Entry: England|Topic: England|Xref: 1347 [England]|Index: England|#item-04417cb2f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,3092,623/full/0/default.jpg
+line: 'Entry: End|Topic: End|Xref: Last|Xref: World''s End|Xref: 868 [End]|Index:
+  end|#item-3f317cb7d'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/365,2131,3102,716/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518868399
-order: '282'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/354,2756,3092,623/full/0/default.jpg
-label: England
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518815699
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/365,2131,600,180/250,/0/default.jpg
+label: End
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+num_match: 
+order: '013'
 layout: alpha_item
 collection: alpha2
 ---

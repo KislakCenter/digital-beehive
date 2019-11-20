@@ -6,14 +6,11 @@ head:
 entry: Complements
 topic: Complements
 first_letter: C
-xref: "<a href='/digital-beehive/toc/toc2_103/'>380 [Course Complements]</a>"
-see: 
 page: 
 add: 
-type: 
+xref: "<a href='/digital-beehive/num2/num_0457/'>380 [Course Complements]</a>"
+see: 
 index: "<a href='/digital-beehive/index1/index_0764/'>complements</a>"
-insertion_xref: 
-insertion: 
 item: "#item-00b647cc9"
 unparsed: 
 line: 'Entry: Complements|Topic: Complements|Xref: 380 [Course Complements]|Index:
@@ -21,11 +18,12 @@ line: 'Entry: Complements|Topic: Complements|Xref: 380 [Course Complements]|Inde
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,2753,3132,598/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700616493
-order: '163'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,2753,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,2753,3132,598/full/0/default.jpg
 label: Complements
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
+num_match: 
+order: '162'
 layout: alpha_item
 collection: alpha1
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_1002
 volume: Volume 2
-image_number: '63'
+image_number: '62'
 head: 
-entry: Unworthy
-topic: Unworthy
+entry: Understanding
+topic: Understanding
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha5/alpha_1051/'>Worthiness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
-  [Unworthy]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4427/'>unworthy</a>"
-insertion_xref: 
-insertion: 
-item: "#item-3a0da1785"
+xref: "<a href='/digital-beehive/alpha3/alpha_0504/'>Knowledge</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
+  href='/digital-beehive/toc/toc2_333/'>1693 [Understanding]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4371/'>understanding</a>"
+item: "#item-fc6d5a61c"
 unparsed: 
-line: 'Entry: Unworthy|Topic: Unworthy|Xref: Worthiness|Xref: 933 [Unworthy]|Index:
-  unworthy|#item-3a0da1785'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,563,3031,459/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528914537169
-order: '1002'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,563,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,563,3031,459/full/0/default.jpg
-label: Unworthy
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+line: 'Entry: Understanding|Topic: Understanding|Xref: Knowledge|Xref: Learning|Xref:
+  1693 [Understanding]|Index: understanding|#item-fc6d5a61c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,2985,633/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528912064179
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,600,180/250,/0/default.jpg
+label: Understanding
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+num_match: 
+order: '067'
 layout: alpha_item
 collection: alpha5
 ---

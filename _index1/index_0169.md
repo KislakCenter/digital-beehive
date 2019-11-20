@@ -8,14 +8,11 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0038/'>a</a>|<a href='/digital-be
   [Apostacy]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-7b16ff4cd"
 unparsed: 
 line: 'Head: apostacy|Entry: a|Entry: 553 [Apostate]|Entry: 1045 [Apostacy]|Entry:
@@ -23,11 +20,12 @@ line: 'Head: apostacy|Entry: a|Entry: 553 [Apostate]|Entry: 1045 [Apostacy]|Entr
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1083,732,741,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759811971
-order: '169'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1083,732,741,99/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1083,732,741,99/full/0/default.jpg
 label: apostacy
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+insertion_xref: 
+order: '0168'
 layout: index_item
 collection: index1
 ---

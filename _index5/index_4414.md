@@ -2,29 +2,27 @@
 pid: index_4414
 volume: Volume 3
 image_number: '51'
-head: unreasonable
-entry: "<a href='/digital-beehive/toc/toc2_171/'>919 [Absurd]</a>"
+head: unsatiable
+entry: 849 [PAGE_MISSING]
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-67e0798b7"
+item: "#item-c8b8854bf"
 unparsed: 
-line: 'Head: unreasonable|Entry: 919 [Absurd]|#item-67e0798b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/215,844,605,160/full/0/default.jpg
+line: 'Head: unsatiable|Entry: 849 [PAGE_MISSING]|#item-c8b8854bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/227,964,507,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645449392
-order: '4414'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/215,844,605,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/215,844,605,160/full/0/default.jpg
-label: unreasonable
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645470361
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/227,964,507,166/150,/0/default.jpg
+label: unsatiable
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '381'
 layout: index_item
 collection: index5
 ---

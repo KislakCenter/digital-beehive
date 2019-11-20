@@ -3,28 +3,26 @@ pid: alpha_0906
 volume: Volume 2
 image_number: '55'
 head: 
-entry: Stork
-topic: Stork
+entry: Staff
+topic: Staff
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3919/'>stork</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b670c0947"
+xref: 852 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3871/'>staff</a>"
+item: "#item-1e25ffdaa"
 unparsed: 
-line: 'Entry: Stork|Topic: Stork|Index: Stork|#item-b670c0947'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,3035,198/full/0/default.jpg
+line: 'Entry: Staff|Topic: Staff|Xref: 852 [PAGE_MISSING]|Index: staff|#item-1e25ffdaa'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/310,1799,3023,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460885646
-order: '906'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/339,3732,3035,198/full/0/default.jpg
-label: Stork
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459873273
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/310,1799,600,180/250,/0/default.jpg
+label: Staff
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '258'
 layout: alpha_item
 collection: alpha4
 ---

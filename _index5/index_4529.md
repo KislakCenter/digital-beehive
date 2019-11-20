@@ -2,29 +2,27 @@
 pid: index_4529
 volume: Volume 3
 image_number: '52'
-head: where
-entry: "<a href='/digital-beehive/toc/toc2_161/'>869 [Everywhere]</a>"
+head: whereas
+entry: 860 [PAGE_MISSING]
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-53978067b"
+item: "#item-618821249"
 unparsed: 
-line: 'Head: where|Entry: 869 [Everywhere]|#item-53978067b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1066,2905,481,149/full/0/default.jpg
+line: 'Head: whereas|Entry: 860 [PAGE_MISSING]|#item-618821249'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1062,3039,524,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969984033
-order: '4529'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1066,2905,481,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1066,2905,481,149/full/0/default.jpg
-label: where
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970012560
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1062,3039,524,138/150,/0/default.jpg
+label: whereas
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '496'
 layout: index_item
 collection: index5
 ---

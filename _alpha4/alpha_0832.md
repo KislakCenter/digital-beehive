@@ -3,28 +3,26 @@ pid: alpha_0832
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Secret
-topic: Secret
+entry: Scabine
+topic: Scabine
 first_letter: S
-xref: 792 [PAGE_MISSING]
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3584/'>secret</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2aed60224"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3531/'>scabine</a>"
+item: "#item-4becc7ab6"
 unparsed: 
-line: 'Entry: Secret|Topic: Secret|Xref: 792 [PAGE_MISSING]|Index: secret|#item-2aed60224'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/721,4045,3018,535/full/0/default.jpg
+line: 'Entry: Scabine|Topic: Scabine|Index: scabine|#item-4becc7ab6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/798,1677,2912,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528924689257
-order: '832'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/721,4045,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/721,4045,3018,535/full/0/default.jpg
-label: Secret
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922825792
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/798,1677,600,180/250,/0/default.jpg
+label: Scabine
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '184'
 layout: alpha_item
 collection: alpha4
 ---

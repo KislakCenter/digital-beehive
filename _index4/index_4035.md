@@ -2,30 +2,27 @@
 pid: index_4035
 volume: Volume 3
 image_number: '46'
-head: Sympathy
-entry: "<a href='/digital-beehive/toc/toc2_071/'>144 [Sympathy]</a>|<a href='/digital-beehive/toc/toc2_318/'>1616
-  [Sympathy]</a>"
+head: Synonimy
+entry: 850 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ddcef9fbb"
+item: "#item-1a523ffe2"
 unparsed: 
-line: 'Head: Sympathy|Entry: 144 [Sympathy]|Entry: 1616 [Sympathy]|#item-ddcef9fbb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1107,3040,592,138/full/0/default.jpg
+line: 'Head: Synonimy|Entry: 850 [PAGE_MISSING]|#item-1a523ffe2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1106,3379,467,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531741930850
-order: '4035'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1107,3040,592,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1107,3040,592,138/full/0/default.jpg
-label: Sympathy
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742073627
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1106,3379,467,158/150,/0/default.jpg
+label: Synonimy
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1281'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_0953
 volume: Volume 3
 image_number: '15'
-head: dawning
-entry: 
+head: day
+entry: "<a href='/digital-beehive/alpha1/alpha_0208/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1447
+  [Day]</a>"
 topic: 
 first_letter: D
-xref: 
-see: "<a href='/digital-beehive/index5/index_4275/'>twilight</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-9498f0f80"
+item: "#item-e6884194d"
 unparsed: 
-line: 'Head: dawning|See: twilight|#item-9498f0f80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/full/0/default.jpg
+line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1551,1973,475,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391523109
-order: '953'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/full/0/default.jpg
-label: dawning
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1551,1973,475,98/150,/0/default.jpg
+label: day
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0950'
 layout: index_item
 collection: index1
 ---

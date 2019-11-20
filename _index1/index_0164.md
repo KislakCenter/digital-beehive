@@ -6,25 +6,23 @@ head: any
 entry: 4726 [PAGE_MISSING]
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-3f471ea0b"
 unparsed: 
 line: 'Head: any|Entry: 4726 [PAGE_MISSING]|#item-3f471ea0b'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1118,330,323,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759477790
-order: '164'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1118,330,323,91/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1118,330,323,91/full/0/default.jpg
 label: any
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+insertion_xref: 
+order: '0163'
 layout: index_item
 collection: index1
 ---

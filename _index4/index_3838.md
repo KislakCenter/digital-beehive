@@ -2,30 +2,27 @@
 pid: index_3838
 volume: Volume 3
 image_number: '44'
-head: spices
-entry: "<a href='/digital-beehive/alpha4/alpha_0893/'>a</a>|<a href='/digital-beehive/toc/toc2_357/'>1937
-  [Spices]</a>"
+head: spider
+entry: "<a href='/digital-beehive/num2/num_0568/'>458 [Spider]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-730c04aab"
+item: "#item-12d5271e4"
 unparsed: 
-line: 'Head: spices|Entry: a|Entry: 1937 [Spices]|#item-730c04aab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1118,2272,476,112/full/0/default.jpg
+line: 'Head: spider|Entry: 458 [Spider]|#item-12d5271e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2392,426,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942166942
-order: '3838'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1118,2272,476,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1118,2272,476,112/full/0/default.jpg
-label: spices
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942216247
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2392,426,136/150,/0/default.jpg
+label: spider
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1085'
 layout: index_item
 collection: index4
 ---

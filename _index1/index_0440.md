@@ -7,25 +7,23 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0096/'>a</a>|<a href='/digital-be
   [Bread]</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-150ec3507"
 unparsed: 
 line: 'Head: bread|Entry: a|Entry: 2115 [Bread]|#item-150ec3507'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531417918161
-order: '440'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/165,903,469,130/full/0/default.jpg
 label: bread
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0439'
 layout: index_item
 collection: index1
 ---

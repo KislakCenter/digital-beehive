@@ -2,29 +2,27 @@
 pid: index_3625
 volume: Volume 3
 image_number: '42'
-head: Self praise
-entry: "<a href='/digital-beehive/alpha4/alpha_0846/'>a</a>|784 [PAGE_MISSING]"
+head: Self preservation
+entry: "<a href='/digital-beehive/toc/toc2_372/'>2069 [Selfpreservation]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-973f3ba13"
+item: "#item-4d214eed3"
 unparsed: 
-line: 'Head: Self praise|Entry: a|Entry: 784 [PAGE_MISSING]|#item-973f3ba13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/399,2117,595,103/full/0/default.jpg
+line: 'Head: Self preservation|Entry: 2069 [Selfpreservation]|#item-4d214eed3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244777713
-order: '3625'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/399,2117,595,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/399,2117,595,103/full/0/default.jpg
-label: Self praise
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244811244
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/150,/0/default.jpg
+label: Self preservation
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0872'
 layout: index_item
 collection: index4
 ---

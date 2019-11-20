@@ -2,29 +2,27 @@
 pid: index_1678
 volume: Volume 3
 image_number: '22'
-head: governess. hofmeisterin
-entry: "<a href='/digital-beehive/toc/toc2_278/'>1424 [Governess]</a>"
+head: gourd
+entry: 828 [PAGE_MISSING]
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f6b21d53a"
+item: "#item-2310bc5d5"
 unparsed: 
-line: 'Head: governess. hofmeisterin|Entry: 1424 [Governess]|#item-f6b21d53a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1835,1011,711,141/full/0/default.jpg
+line: 'Head: gourd|Entry: 828 [PAGE_MISSING]|#item-2310bc5d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1812,1121,400,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052444983
-order: '1678'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1835,1011,711,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1835,1011,711,141/full/0/default.jpg
-label: governess. hofmeisterin
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052467409
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1812,1121,400,129/150,/0/default.jpg
+label: gourd
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '497'
 layout: index_item
 collection: index2
 ---

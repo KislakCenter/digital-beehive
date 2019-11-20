@@ -2,29 +2,28 @@
 pid: index_3431
 volume: Volume 3
 image_number: '40'
-head: rimes
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
+head: ring leader
+entry: "<a href='/digital-beehive/alpha4/alpha_0810/'>a</a>|<a href='/digital-beehive/toc/toc2_384/'>2181
+  [Ring-leader]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-03bca2c24"
+item: "#item-1d4ef9dba"
 unparsed: 
-line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/full/0/default.jpg
+line: 'Head: ring leader|Entry: a|Entry: 2181 [Ring-leader]|#item-1d4ef9dba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/434,2805,639,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
-order: '3431'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/full/0/default.jpg
-label: rimes
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232491647
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/434,2805,639,144/150,/0/default.jpg
+label: ring leader
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0678'
 layout: index_item
 collection: index4
 ---

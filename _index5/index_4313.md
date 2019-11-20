@@ -2,29 +2,27 @@
 pid: index_4313
 volume: Volume 3
 image_number: '49'
-head: Venus
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
+head: verbatim
+entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbatim]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8d3bb4984"
+item: "#item-002398d2d"
 unparsed: 
-line: 'Head: Venus|Entry: 1402 [Lasciviousness]|#item-8d3bb4984'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,2810,398,111/full/0/default.jpg
+line: 'Head: verbatim|Entry: 536 [Verbatim]|#item-002398d2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/937,3066,453,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658785372
-order: '4313'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,2810,398,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,2810,398,111/full/0/default.jpg
-label: Venus
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658844569
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/937,3066,453,112/150,/0/default.jpg
+label: verbatim
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '280'
 layout: index_item
 collection: index5
 ---

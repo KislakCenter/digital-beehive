@@ -2,29 +2,27 @@
 pid: index_3205
 volume: Volume 3
 image_number: '37'
-head: pros[per]ity
-entry: 
+head: protection
+entry: "<a href='/digital-beehive/alpha4/alpha_0752/'>a</a>|1855 [PAGE_MISSING]"
 topic: 
 first_letter: P
-xref: 
-see: "<a href='/digital-beehive/index2/index_1750/'>happiness</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d7dda5d07"
+item: "#item-0d901129b"
 unparsed: 
-line: 'Head: pros[per]ity|See: happiness|#item-d7dda5d07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/full/0/default.jpg
+line: 'Head: protection|Entry: a|Entry: 1855 [PAGE_MISSING]|#item-0d901129b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1503,1806,581,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869398002
-order: '3205'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/full/0/default.jpg
-label: pros[per]ity
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869422505
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1503,1806,581,149/150,/0/default.jpg
+label: protection
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0452'
 layout: index_item
 collection: index4
 ---

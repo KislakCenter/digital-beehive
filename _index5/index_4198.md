@@ -2,29 +2,27 @@
 pid: index_4198
 volume: Volume 3
 image_number: '48'
-head: tortoise
-entry: "<a href='/digital-beehive/alpha5/alpha_0961/'>a</a>|4704 [PAGE_MISSING]"
+head: to touch
+entry: 847 [PAGE_MISSING]
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_086/'>p.36 [Image 1.96]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b06a984ac"
+item: "#item-70c5ce6f2"
 unparsed: 
-line: 'Head: tortoise|Page: p.36 [Image 1.96]|Entry: a|Entry: 4704 [PAGE_MISSING]|#item-b06a984ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/459,3341,683,170/full/0/default.jpg
+line: 'Head: to touch|Entry: 847 [PAGE_MISSING]|#item-70c5ce6f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1109,252,475,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278129042
-order: '4198'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/459,3341,683,170/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/459,3341,683,170/full/0/default.jpg
-label: tortoise
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278489686
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1109,252,475,122/150,/0/default.jpg
+label: to touch
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '165'
 layout: index_item
 collection: index5
 ---

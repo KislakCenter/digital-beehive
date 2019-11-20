@@ -2,29 +2,27 @@
 pid: index_3893
 volume: Volume 3
 image_number: '45'
-head: steeplehouses
-entry: "<a href='/digital-beehive/toc/toc2_199/'>1030 [Church]</a>"
+head: stellionatus
+entry: 1869 [PAGE_MISSING]
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f5c64a0ad"
+item: "#item-227635938"
 unparsed: 
-line: 'Head: steeplehouses|Page: p.4 [Image 1.64]|Entry: 1030 [Church]|#item-f5c64a0ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/full/0/default.jpg
+line: 'Head: stellionatus|Entry: 1869 [PAGE_MISSING]|#item-227635938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/204,1472,534,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219212893
-order: '3893'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/full/0/default.jpg
-label: steeplehouses
+annotation_uri: http://dev.llgc.org.uk/annotation/1530220511653
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/204,1472,534,99/150,/0/default.jpg
+label: stellionatus
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1140'
 layout: index_item
 collection: index4
 ---

@@ -1,32 +1,28 @@
 ---
 pid: alpha_1045
 volume: Volume 2
-image_number: '66'
+image_number: '65'
 head: 
-entry: good Works
-topic: good Works
+entry: Womans beating
+topic: Womans beating
 first_letter: W
-xref: "<a href='/digital-beehive/alpha1/alpha_0214/'>Deed</a>|<a href='/digital-beehive/toc/toc2_206/'>1062
-  [Good Works]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4614/'>good works</a>"
-insertion_xref: 
-insertion: 
-item: "#item-e444ebf80"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4590/'>women beaten</a>"
+item: "#item-53da03350"
 unparsed: 
-line: 'Entry: good Works|Topic: good Works|Xref: Deed|Xref: 1062 [Good Works]|Index:
-  good works|#item-e444ebf80'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,2986,632/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529596141746
-order: '1045'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,2986,632/full/0/default.jpg
-label: good Works
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+line: 'Entry: Womans beating|Topic: Womans beating|Index: women beaten|#item-53da03350'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/356,3917,2978,343/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529593419193
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/356,3917,600,180/250,/0/default.jpg
+label: Womans beating
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+num_match: 
+order: '110'
 layout: alpha_item
 collection: alpha5
 ---

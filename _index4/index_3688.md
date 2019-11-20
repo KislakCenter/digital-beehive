@@ -2,29 +2,27 @@
 pid: index_3688
 volume: Volume 3
 image_number: '42'
-head: short writing
-entry: "<a href='/digital-beehive/toc/toc2_112/'>445 [the Art of Short-writing]</a>"
+head: short of breath
+entry: "<a href='/digital-beehive/num2/num_0588/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ffae92a85"
+item: "#item-a70c732f3"
 unparsed: 
-line: 'Head: short writing|Entry: 445 [the Art of Short-writing]|#item-ffae92a85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2619,537,134/full/0/default.jpg
+line: 'Head: short of breath|Entry: 475 [Shortness of breath]|#item-a70c732f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1785,2746,581,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576450313
-order: '3688'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2619,537,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1793,2619,537,134/full/0/default.jpg
-label: short writing
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576472024
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1785,2746,581,122/150,/0/default.jpg
+label: short of breath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0935'
 layout: index_item
 collection: index4
 ---

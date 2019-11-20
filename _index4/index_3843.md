@@ -2,29 +2,28 @@
 pid: index_3843
 volume: Volume 3
 image_number: '44'
-head: spikenard
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1938 [Lavander]</a>"
+head: to spin
+entry: "<a href='/digital-beehive/toc/toc2_157/'>706 [To Spin]</a>|<a href='/digital-beehive/toc/toc2_197/'>1019
+  [Spinning]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d69da6fe5"
+item: "#item-85f37a183"
 unparsed: 
-line: 'Head: spikenard|Entry: 1938 [Lavander]|#item-d69da6fe5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1084,2852,541,149/full/0/default.jpg
+line: 'Head: to spin|Entry: 706 [To Spin]|Entry: 1019 [Spinning]|#item-85f37a183'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1087,2965,591,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288820036
-order: '3843'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1084,2852,541,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1084,2852,541,149/full/0/default.jpg
-label: spikenard
+annotation_uri: http://dev.llgc.org.uk/annotation/1529942741499
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1087,2965,591,107/150,/0/default.jpg
+label: to spin
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1090'
 layout: index_item
 collection: index4
 ---

@@ -3,30 +3,27 @@ pid: alpha_0627
 volume: Volume 2
 image_number: '35'
 head: 
-entry: Nature
-topic: Nature
+entry: Name of God
+topic: Name of God
 first_letter: N
-xref: "<a href='/digital-beehive/alpha4/alpha_0715/'>Poverty</a>|<a href='/digital-beehive/alpha1/alpha_0203/'>Custom</a>|<a
-  href='/digital-beehive/toc/toc2_327/'>1663 [Nature]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2660/'>nature</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ced0ebdf8"
+xref: "<a href='/digital-beehive/toc/toc2_358/'>1944 [Name of God]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2635/'>name of God</a>"
+item: "#item-e00d8e332"
 unparsed: 
-line: 'Entry: Nature|Topic: Nature|Xref: Poverty|Xref: Custom|Xref: 1663 [Nature]|Index:
-  nature|#item-ced0ebdf8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,3008,507/full/0/default.jpg
+line: 'Entry: Name of God|Topic: Name of God|Xref: 1944 [Name of God]|Index: name
+  of God|#item-e00d8e332'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,3061,529/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510167167173
-order: '627'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,2763,3008,507/full/0/default.jpg
-label: Nature
+annotation_uri: http://dev.llgc.org.uk/annotation/1564778678758
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,600,180/250,/0/default.jpg
+label: Name of God
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+num_match: 
+order: '183'
 layout: alpha_item
 collection: alpha3
 ---

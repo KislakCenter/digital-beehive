@@ -3,28 +3,26 @@ pid: alpha_0396
 volume: Volume 2
 image_number: '17'
 head: 
-entry: Hart
-topic: Hart
+entry: Hare
+topic: Hare
 first_letter: H
-xref: "<a href='/digital-beehive/alpha1/alpha_0215/'>Deer</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1763/'>hart</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7736252de"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index2/index_1756/'>hare</a>"
+item: "#item-01e3acb48"
 unparsed: 
-line: 'Entry: Hart|Topic: Hart|Xref: Deer|Index: hart|#item-7736252de'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,1487,136/full/0/default.jpg
+line: 'Entry: Hare|Topic: Hare|Index: hare|#item-01e3acb48'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,3043,214/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564604734310
-order: '396'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,355,1487,136/full/0/default.jpg
-label: Hart
+annotation_uri: http://dev.llgc.org.uk/annotation/1564604695406
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,213,600,180/250,/0/default.jpg
+label: Hare
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
+num_match: 
+order: '127'
 layout: alpha_item
 collection: alpha2
 ---

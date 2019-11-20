@@ -3,30 +3,28 @@ pid: alpha_0762
 volume: Volume 2
 image_number: '45'
 head: 
-entry: Quietness
-topic: Quietness
-first_letter: Q
-xref: "<a href='/digital-beehive/alpha4/alpha_0687/'>Peace</a>|<a href='/digital-beehive/alpha4/alpha_0791/'>Rest</a>|<a
-  href='/digital-beehive/toc/toc2_181/'>976 [Quietness]</a>"
-see: 
+entry: Purpose
+topic: Purpose
+first_letter: P
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3267/'>quietness</a>"
-insertion_xref: 
-insertion: 
-item: "#item-dc5dca21d"
+xref: "<a href='/digital-beehive/alpha3/alpha_0483/'>Intention</a>|<a href='/digital-beehive/toc/toc2_169/'>907
+  [Purposely, to the end]</a>|<a href='/digital-beehive/toc/toc2_366/'>2001 [Purpose]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3237/'>purpose</a>"
+item: "#item-9f91ad58e"
 unparsed: 
-line: 'Entry: Quietness|Topic: Quietness|Xref: Peace|Xref: Rest|Xref: 976 [Quietness]|Index:
-  quietness|#item-dc5dca21d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/314,2512,3037,407/full/0/default.jpg
+line: 'Entry: Purpose|Topic: Purpose|Xref: Intention|Xref: 907 [Purposely, to the
+  end]|Xref: 2001 [Purpose]|Index: purpose|#item-9f91ad58e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/287,898,3081,374/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558812818263
-order: '762'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/314,2512,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/314,2512,3037,407/full/0/default.jpg
-label: Quietness
+annotation_uri: http://dev.llgc.org.uk/annotation/1558812099468
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/287,898,600,180/250,/0/default.jpg
+label: Purpose
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+num_match: 
+order: '115'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,27 @@
 pid: index_1633
 volume: Volume 3
 image_number: '22'
-head: goaler
-entry: "<a href='/digital-beehive/toc/toc2_105/'>399 [Jailer]</a>"
+head: go to!
+entry: 4560 [PAGE_MISSING]
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-14afdcce4"
+item: "#item-cfa9d8bae"
 unparsed: 
-line: 'Head: goaler|Entry: 399 [Jailer]|#item-14afdcce4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,777,400,155/full/0/default.jpg
+line: 'Head: go to!|Entry: 4560 [PAGE_MISSING]|#item-cfa9d8bae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045938924
-order: '1633'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,777,400,155/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,777,400,155/full/0/default.jpg
-label: goaler
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046109548
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/150,/0/default.jpg
+label: go to!
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '453'
 layout: index_item
 collection: index2
 ---

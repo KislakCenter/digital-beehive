@@ -1,31 +1,28 @@
 ---
 pid: alpha_0915
 volume: Volume 2
-image_number: '56'
+image_number: '55'
 head: 
-entry: Suck
-topic: Suck
+entry: Strange
+topic: Strange
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_386/'>2207 [devil's Sucking the Sorceress]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3969/'>suck</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9119c6886"
+xref: 4519 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3926/'>strange</a>"
+item: "#item-d5a5d259c"
 unparsed: 
-line: 'Entry: Suck|Topic: Suck|Xref: 2207 [devil''s Sucking the Sorceress]|Index:
-  suck|#item-9119c6886'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/764,2146,2991,562/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532551155516
-order: '915'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/764,2146,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/764,2146,2991,562/full/0/default.jpg
-label: Suck
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+line: 'Entry: Strange|Topic: Strange|Xref: 4519 [PAGE_MISSING]|Index: strange|#item-d5a5d259c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/291,3913,3099,476/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460925037
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/291,3913,600,180/250,/0/default.jpg
+label: Strange
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+num_match: 
+order: '267'
 layout: alpha_item
 collection: alpha4
 ---

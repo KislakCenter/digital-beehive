@@ -2,29 +2,27 @@
 pid: index_3514
 volume: Volume 3
 image_number: '41'
-head: of the same time
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
+head: Samuel
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1550 [Samuel]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3f487cdce"
+item: "#item-0b33b4bfa"
 unparsed: 
-line: 'Head: of the same time|Entry: 1220 [Of the same time]|#item-3f487cdce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/138,1261,509,139/full/0/default.jpg
+line: 'Head: Samuel|Entry: 1550 [Samuel]|#item-0b33b4bfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238896595
-order: '3514'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/138,1261,509,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/138,1261,509,139/full/0/default.jpg
-label: of the same time
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238941366
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/150,/0/default.jpg
+label: Samuel
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0761'
 layout: index_item
 collection: index4
 ---

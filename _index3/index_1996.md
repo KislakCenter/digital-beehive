@@ -2,29 +2,27 @@
 pid: index_1996
 volume: Volume 3
 image_number: '25'
-head: inclination
-entry: 811 [PAGE_MISSING]
+head: incognito
+entry: "<a href='/digital-beehive/num2/num_0290/'>262 [Anonymous or Nameless]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-70b912a92"
+item: "#item-d106f1c11"
 unparsed: 
-line: 'Head: inclination|Entry: 811 [PAGE_MISSING]|#item-70b912a92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1564,1004,531,102/full/0/default.jpg
+line: 'Head: incognito|Entry: 262 [Anonymous or Nameless]|#item-d106f1c11'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1574,1136,525,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670804226
-order: '1996'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1564,1004,531,102/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1564,1004,531,102/full/0/default.jpg
-label: inclination
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670879228
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1574,1136,525,152/150,/0/default.jpg
+label: incognito
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+insertion_xref: 
+order: '077'
 layout: index_item
 collection: index3
 ---

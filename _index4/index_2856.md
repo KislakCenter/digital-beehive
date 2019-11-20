@@ -2,29 +2,27 @@
 pid: index_2856
 volume: Volume 3
 image_number: '34'
-head: painting
-entry: "<a href='/digital-beehive/toc/toc2_132/'>575 [Painting]</a>"
+head: a pair
+entry: "<a href='/digital-beehive/num2/num_0382/'>332 [a Pair]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-aadd15fb1"
+item: "#item-9285bcba9"
 unparsed: 
-line: 'Head: painting|Entry: 575 [Painting]|#item-aadd15fb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/full/0/default.jpg
+line: 'Head: a pair|Entry: 332 [a Pair]|#item-9285bcba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/421,2830,528,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425859834
-order: '2856'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/full/0/default.jpg
-label: painting
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425885188
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/421,2830,528,164/150,/0/default.jpg
+label: a pair
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0104'
 layout: index_item
 collection: index4
 ---

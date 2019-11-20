@@ -2,29 +2,27 @@
 pid: index_4181
 volume: Volume 3
 image_number: '48'
-head: too many
-entry: 
+head: too much liberty
+entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [too much liberty]</a>"
 topic: 
 first_letter: T
-xref: 
-see: captains
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2510843f6"
+item: "#item-fdae64102"
 unparsed: 
-line: 'Head: too many|See: captains|#item-2510843f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/449,1492,673,142/full/0/default.jpg
+line: 'Head: too much liberty|Entry: 565 [too much liberty]|#item-fdae64102'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/452,1760,581,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274616409
-order: '4181'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/449,1492,673,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/449,1492,673,142/full/0/default.jpg
-label: too many
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274987579
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/452,1760,581,129/150,/0/default.jpg
+label: too much liberty
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '148'
 layout: index_item
 collection: index5
 ---

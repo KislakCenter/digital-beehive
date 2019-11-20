@@ -3,28 +3,27 @@ pid: alpha_0946
 volume: Volume 2
 image_number: '58'
 head: 
-entry: Thunder
-topic: Thunder
+entry: Old Testamt
+topic: Old Testamt
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_263/'>1346 [Thunder & Lightning]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4144/'>thunder</a>"
-insertion_xref: 
-insertion: 
-item: "#item-40bb469ee"
+xref: "<a href='/digital-beehive/toc/toc2_173/'>926 [New Testament]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4098/'>testament old</a>"
+item: "#item-d12a4cca7"
 unparsed: 
-line: 'Entry: Thunder|Topic: Thunder|Xref: 1346 [Thunder & Lightning]|Index: thunder|#item-40bb469ee'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,2942,382/full/0/default.jpg
+line: 'Entry: Old Testamt|Topic: Old Testamt|Xref: 926 [New Testament]|Index: testament
+  old|#item-d12a4cca7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/807,1138,3029,444/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529518283829
-order: '946'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/832,4221,2942,382/full/0/default.jpg
-label: Thunder
+annotation_uri: http://dev.llgc.org.uk/annotation/1529088029734
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/807,1138,600,180/250,/0/default.jpg
+label: Old Testamt
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+num_match: 
+order: '011'
 layout: alpha_item
 collection: alpha5
 ---

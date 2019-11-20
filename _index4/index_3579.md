@@ -2,30 +2,27 @@
 pid: index_3579
 volume: Volume 3
 image_number: '41'
-head: seasonable
-entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
-  [Seasonable Opportunity]</a>"
+head: 4. seasons
+entry: "<a href='/digital-beehive/toc/toc2_403/'>2296 [Four Seasons]</a>"
 topic: 
 first_letter: S
+page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ad9c9a935"
+item: "#item-82d086834"
 unparsed: 
-line: 'Head: seasonable|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-ad9c9a935'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1545,1113,761,127/full/0/default.jpg
+line: 'Head: 4. seasons|Page: p.26 [Image 1.86]|Entry: 2296 [Four Seasons]|#item-82d086834'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1224,742,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242382831
-order: '3579'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1545,1113,761,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1545,1113,761,127/full/0/default.jpg
-label: seasonable
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242420256
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1573,1224,742,136/150,/0/default.jpg
+label: 4. seasons
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0826'
 layout: index_item
 collection: index4
 ---

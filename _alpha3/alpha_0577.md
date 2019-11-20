@@ -1,32 +1,28 @@
 ---
 pid: alpha_0577
 volume: Volume 2
-image_number: '32'
+image_number: '31'
 head: 
-entry: Medicine
-topic: Medicine
+entry: Mathematicks
+topic: Mathematicks
 first_letter: M
-xref: "<a href='/digital-beehive/alpha4/alpha_0699/'>Physicians</a>|<a href='/digital-beehive/toc/toc2_149/'>665
-  [Medicines]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2465/'>medicine</a>"
-insertion_xref: 
-insertion: 
-item: "#item-15f8415ce"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index3/index_2449/'>mathematicks</a>"
+item: "#item-3a11d51b2"
 unparsed: 
-line: 'Entry: Medicine|Topic: Medicine|Xref: Physicians|Xref: 665 [Medicines]|Index:
-  medicine|#item-15f8415ce'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,3035,605/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564773544276
-order: '577'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,199,3035,605/full/0/default.jpg
-label: Medicine
-location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+line: 'Entry: Mathematicks|Topic: Mathematicks|Index: mathematicks|#item-3a11d51b2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/342,3956,3045,371/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564773095829
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/342,3956,600,180/250,/0/default.jpg
+label: Mathematicks
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+num_match: 
+order: '133'
 layout: alpha_item
 collection: alpha3
 ---

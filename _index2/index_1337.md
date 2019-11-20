@@ -8,14 +8,11 @@ entry: "<a href='/digital-beehive/toc/toc2_059/'>26 [Excommunication]</a>|<a hre
   href='/digital-beehive/toc/toc2_345/'>1792: [Excommunication]</a>"
 topic: 
 first_letter: E
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-f5bab9463"
 unparsed: 
 line: 'Head: excom[m]unication|Entry: 26 [Excommunication]|Entry: 897 [Excommunication]|Entry:
@@ -23,11 +20,12 @@ line: 'Head: excom[m]unication|Entry: 26 [Excommunication]|Entry: 897 [Excommuni
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560364111842
-order: '1337'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/full/0/default.jpg
 label: excom[m]unication
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+insertion_xref: 
+order: '157'
 layout: index_item
 collection: index2
 ---

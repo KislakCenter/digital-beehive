@@ -3,29 +3,26 @@ pid: alpha_0216
 volume: Volume 1
 image_number: '448'
 head: 
-entry: Defence
-topic: Defence
+entry: Deer
+topic: Deer
 first_letter: D
-xref: "<a href='/digital-beehive/alpha4/alpha_0790/'>Resistance</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7da8743c5"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index1/index_0986/'>deer</a>"
+item: "#item-ce13c55af"
 unparsed: 
-line: 'Entry: Defence|Topic: Defence|Xref: Resistance|Xref: 739 [PAGE_MISSING]|Index:
-  defence|#item-7da8743c5'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,2958,538/full/0/default.jpg
+line: 'Entry: Deer|Topic: Deer|Index: deer|#item-ce13c55af'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/750,2519,2995,266/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507575909357
-order: '216'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,2958,538/full/0/default.jpg
-label: Defence
+annotation_uri: http://dev.llgc.org.uk/annotation/1563997220329
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/750,2519,600,180/250,/0/default.jpg
+label: Deer
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+num_match: 
+order: '215'
 layout: alpha_item
 collection: alpha1
 ---

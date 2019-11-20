@@ -2,29 +2,27 @@
 pid: index_3958
 volume: Volume 3
 image_number: '45'
-head: subscribed
-entry: "<a href='/digital-beehive/toc/toc2_230/'>1184 [the hereunto Subscribed]</a>"
+head: subscriptions in lett
+entry: "<a href='/digital-beehive/toc/toc2_310/'>1576 [Common Subscriptions]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-49e769050"
+item: "#item-f291b2f18"
 unparsed: 
-line: 'Head: subscribed|Entry: 1184 [the hereunto Subscribed]|#item-49e769050'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,1246,478,161/full/0/default.jpg
+line: 'Head: subscriptions in lett|Entry: 1576 [Common Subscriptions]|#item-f291b2f18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1384,685,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467765116
-order: '3958'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,1246,478,161/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,1246,478,161/full/0/default.jpg
-label: subscribed
+annotation_uri: http://dev.llgc.org.uk/annotation/1530468470917
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1384,685,151/150,/0/default.jpg
+label: subscriptions in lett
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1205'
 layout: index_item
 collection: index4
 ---

@@ -1,33 +1,30 @@
 ---
 pid: alpha_0884
 volume: Volume 2
-image_number: '54'
+image_number: '53'
 head: 
-entry: Solitude
-topic: Solitude
+entry: Slander
+topic: Slander
 first_letter: S
-xref: "<a href='/digital-beehive/alpha4/alpha_0731/'>Privacy</a>|<a href='/digital-beehive/alpha1/alpha_0161/'>Company</a>|<a
-  href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/digital-beehive/alpha4/alpha_0729/'>Prison</a>|<a
-  href='/digital-beehive/toc/toc2_160/'>722 [Solitude]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3787/'>solitude</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4fa38d446"
+xref: "<a href='/digital-beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0830/'>Satyre</a>|<a
+  href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3742/'>slander</a>"
+item: "#item-6f4b8314c"
 unparsed: 
-line: 'Entry: Solitude|Topic: Solitude|Xref: Privacy|Xref: Company|Xref: Cloister|Xref:
-  Prison|Xref: 722 [Solitude]|Index: solitude|#item-4fa38d446'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/759,1574,2978,569/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532449060600
-order: '884'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/759,1574,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/759,1574,2978,569/full/0/default.jpg
-label: Solitude
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
+line: 'Entry: Slander|Topic: Slander|Xref: Calumny|Xref: Satyre|Xref: 653 [Slander]|Index:
+  slander|#item-6f4b8314c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,3030,608/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532029524491
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,600,180/250,/0/default.jpg
+label: Slander
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+num_match: 
+order: '236'
 layout: alpha_item
 collection: alpha4
 ---

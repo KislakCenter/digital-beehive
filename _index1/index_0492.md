@@ -2,29 +2,27 @@
 pid: index_0492
 volume: Volume 3
 image_number: '11'
-head: butchering
-entry: "<a href='/digital-beehive/toc/toc2_098/'>350 [Butchering]</a>"
+head: butts
+entry: 4577 [PAGE_MISSING]
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-690a6003d"
+item: "#item-41e9c063f"
 unparsed: 
-line: 'Head: butchering|Entry: 350 [Butchering]|#item-690a6003d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,2419,573,146/full/0/default.jpg
+line: 'Head: butts|Entry: 4577 [PAGE_MISSING]|#item-41e9c063f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/886,2504,378,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421887785
-order: '492'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,2419,573,146/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,2419,573,146/full/0/default.jpg
-label: butchering
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421921068
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/886,2504,378,103/150,/0/default.jpg
+label: butts
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0491'
 layout: index_item
 collection: index1
 ---

@@ -2,30 +2,27 @@
 pid: index_4454
 volume: Volume 3
 image_number: '51'
-head: the vulgar
-entry: "<a href='/digital-beehive/alpha5/alpha_1006/'>a</a>|<a href='/digital-beehive/toc/toc2_221/'>1136
-  [Vulgar]</a>"
+head: the vulgar spirited man
+entry: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dbbfd747f"
+item: "#item-4d61cb1a2"
 unparsed: 
-line: 'Head: the vulgar|Entry: a|Entry: 1136 [Vulgar]|#item-dbbfd747f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/934,2554,671,148/full/0/default.jpg
+line: 'Head: the vulgar spirited man|Entry: 95 [a Vulgar Spirited man]|#item-4d61cb1a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/909,2682,676,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647103464
-order: '4454'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/934,2554,671,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/934,2554,671,148/full/0/default.jpg
-label: the vulgar
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647131512
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/909,2682,676,172/150,/0/default.jpg
+label: the vulgar spirited man
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '421'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_4456
 volume: Volume 3
 image_number: '51'
-head: Wafers
-entry: "<a href='/digital-beehive/toc/toc2_305/'>1551 [Wafer]</a>"
+head: to wag
+entry: "<a href='/digital-beehive/toc/toc2_143/'>629 [To Quake]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-34bb597b8"
+item: "#item-c16d74c84"
 unparsed: 
-line: 'Head: Wafers|Entry: 1551 [Wafer]|#item-34bb597b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/935,3024,461,152/full/0/default.jpg
+line: 'Head: to wag|Entry: 629 [To Quake]|#item-c16d74c84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647189165
-order: '4456'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/935,3024,461,152/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/935,3024,461,152/full/0/default.jpg
-label: Wafers
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647209291
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/957,3184,432,134/150,/0/default.jpg
+label: to wag
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '423'
 layout: index_item
 collection: index5
 ---

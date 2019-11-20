@@ -2,30 +2,27 @@
 pid: index_4561
 volume: Volume 3
 image_number: '53'
-head: wine
-entry: "<a href='/digital-beehive/alpha5/alpha_1028/'>a</a>|<a href='/digital-beehive/toc/toc2_135/'>590
-  [artificial Wines]</a>|<a href='/digital-beehive/toc/toc2_340/'>1752 [Wine]</a>"
+head: wine press
+entry: 
 topic: 
 first_letter: W
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add: 
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-667df83a1"
+item: "#item-a958593d0"
 unparsed: 
-line: 'Head: wine|Entry: a|Entry: 590 [artificial Wines]|Entry: 1752 [Wine]|#item-667df83a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,307,600,101/full/0/default.jpg
+line: 'Head: wine press|Page: p.38 [Image 1.98]|#item-a958593d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791209538
-order: '4561'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,307,600,101/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,307,600,101/full/0/default.jpg
-label: wine
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791253082
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/150,/0/default.jpg
+label: wine press
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '528'
 layout: index_item
 collection: index5
 ---

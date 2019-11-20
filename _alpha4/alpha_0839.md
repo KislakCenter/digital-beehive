@@ -1,31 +1,28 @@
 ---
 pid: alpha_0839
 volume: Volume 2
-image_number: '51'
+image_number: '50'
 head: 
-entry: Seeming
-topic: Seeming
+entry: Secret
+topic: Secret
 first_letter: S
-xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>external appearance</a>|Substantial"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3597/'>seemingly</a>"
-insertion_xref: 
-insertion: 
-item: "#item-395603741"
+xref: 792 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index4/index_3583/'>secret</a>"
+item: "#item-2aed60224"
 unparsed: 
-line: 'Entry: Seeming|Topic: Seeming|Xref: external appearance|Xref: Substantial|Xref:
-  846 [PAGE_MISSING]|Index: seemingly|#item-395603741'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,3089,444/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530200779772
-order: '839'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,3089,444/full/0/default.jpg
-label: Seeming
-location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+line: 'Entry: Secret|Topic: Secret|Xref: 792 [PAGE_MISSING]|Index: secret|#item-2aed60224'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/721,4045,3018,535/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528924689257
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/721,4045,600,180/250,/0/default.jpg
+label: Secret
+location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '191'
 layout: alpha_item
 collection: alpha4
 ---

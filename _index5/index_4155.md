@@ -2,32 +2,27 @@
 pid: index_4155
 volume: Volume 3
 image_number: '47'
-head: time
-entry: "<a href='/digital-beehive/alpha5/alpha_0947/'>a</a>|<a href='/digital-beehive/toc/toc2_238/'>1225
-  [Time]</a>|<a href='/digital-beehive/toc/toc2_371/'>2059 [Time]</a>|<a href='/digital-beehive/toc/toc2_431/'>4815
-  [Time]</a>"
+head: complaint of times
+entry: "<a href='/digital-beehive/toc/toc2_213/'>1098 [Complaint of Times]</a>"
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index3/index_2295/'>lilly time</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-df6275575"
+item: "#item-6f561faac"
 unparsed: 
-line: 'Head: time|Entry: a|Entry: 1225 [Time]|Entry: 2059 [Time]|Entry: 4815 [Time]|Add:
-  lilly time|#item-df6275575'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/full/0/default.jpg
+line: 'Head: complaint of times|Entry: 1098 [Complaint of Times]|#item-6f561faac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1576,2354,645,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565800136088
-order: '4155'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/full/0/default.jpg
-label: time
+annotation_uri: http://dev.llgc.org.uk/annotation/1560280688370
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1576,2354,645,122/150,/0/default.jpg
+label: complaint of times
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '122'
 layout: index_item
 collection: index5
 ---

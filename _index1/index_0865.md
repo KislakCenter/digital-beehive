@@ -3,28 +3,26 @@ pid: index_0865
 volume: Volume 3
 image_number: '15'
 head: cosmographical books
-entry: "<a href='/digital-beehive/toc/toc2_186/'>1005 [Self will]</a>"
+entry: 
 topic: 
 first_letter: C
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+add: 
 xref: 
 see: 
-page: p.279
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-a878f7352"
 unparsed: 
-line: 'Head: cosmographical books|Page: p.279|Entry: 1005 [Self will]|#item-a878f7352'
+line: 'Head: cosmographical books|Page: p.379 [Image 2.201]|#item-a878f7352'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1537974061920
-order: '865'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/full/0/default.jpg
 label: cosmographical books
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0863'
 layout: index_item
 collection: index1
 ---

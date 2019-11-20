@@ -2,29 +2,27 @@
 pid: index_4057
 volume: Volume 3
 image_number: '46'
-head: tansie
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Tansie]</a>"
+head: tarantula
+entry: "<a href='/digital-beehive/num2/num_0568/'>458 [Spider]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d24ad7986"
+item: "#item-e0f957054"
 unparsed: 
-line: 'Head: tansie|Entry: 692 [Tansie]|#item-d24ad7986'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2273,409,145/full/0/default.jpg
+line: 'Head: tarantula|Entry: 458 [Spider]|#item-e0f957054'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743171677
-order: '4057'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2273,409,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2273,409,145/full/0/default.jpg
-label: tansie
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743401289
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/150,/0/default.jpg
+label: tarantula
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '026'
 layout: index_item
 collection: index5
 ---

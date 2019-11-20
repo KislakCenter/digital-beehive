@@ -3,29 +3,28 @@ pid: alpha_1011
 volume: Volume 2
 image_number: '63'
 head: 
-entry: Martial disciplines
-topic: Martial disciplines
-first_letter: W
-xref: Justitia Militaris
-see: 
+entry: Unwilling
+topic: Unwilling
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2435/'>martial discipline</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9098cec91"
+xref: "<a href='/digital-beehive/alpha4/alpha_0920/'>Stubborn</a>|<a href='/digital-beehive/alpha5/alpha_1036/'>Willingness</a>|782
+  [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index5/index_4424/'>unwilling</a>"
+item: "#item-cdfcb91fe"
 unparsed: 
-line: 'Entry: Martial disciplines|Topic: Martial disciplines|Xref: Justitia Militaris|Index:
-  martial discipline|#item-9098cec91'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,2965,346/full/0/default.jpg
+line: 'Entry: Unwilling|Topic: Unwilling|Xref: Stubborn|Xref: Willingness|Xref: 782
+  [PAGE_MISSING]|Index: unwilling|#item-cdfcb91fe'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/318,237,3046,432/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529522719096
-order: '1011'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,2965,346/full/0/default.jpg
-label: Martial disciplines
+annotation_uri: http://dev.llgc.org.uk/annotation/1528914215694
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/318,237,600,180/250,/0/default.jpg
+label: Unwilling
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '076'
 layout: alpha_item
 collection: alpha5
 ---

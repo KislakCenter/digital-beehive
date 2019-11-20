@@ -1,30 +1,28 @@
 ---
 pid: alpha_0969
 volume: Volume 2
-image_number: '60'
+image_number: '59'
 head: 
-entry: Tree
-topic: Tree
+entry: Tooth
+topic: Tooth
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_324/'>1648 [Trees]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4231/'>trees</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b309e8de8"
+xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Tooth]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4188/'>tooth</a>"
+item: "#item-b808f22e1"
 unparsed: 
-line: 'Entry: Tree|Topic: Tree|Xref: 1648 [Trees]|Index: trees|#item-b309e8de8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,2930,2960,474/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529609992874
-order: '969'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,2930,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,2930,2960,474/full/0/default.jpg
-label: Tree
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+line: 'Entry: Tooth|Topic: Tooth|Xref: 1286 [Tooth]|Index: tooth|#item-b808f22e1'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4253,2978,322/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522666858
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4253,600,180/250,/0/default.jpg
+label: Tooth
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+num_match: 
+order: '034'
 layout: alpha_item
 collection: alpha5
 ---

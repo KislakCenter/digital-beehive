@@ -1,32 +1,28 @@
 ---
 pid: alpha_0992
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: Understanding
-topic: Understanding
+entry: Vinegar
+topic: Vinegar
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha3/alpha_0503/'>Knowledge</a>|<a href='/digital-beehive/alpha3/alpha_0525/'>Learning</a>|<a
-  href='/digital-beehive/toc/toc2_333/'>1693 [Understanding]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4372/'>understanding</a>"
-insertion_xref: 
-insertion: 
-item: "#item-fc6d5a61c"
+xref: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Vinegar]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4333/'>vinegar</a>"
+item: "#item-e74ef2a62"
 unparsed: 
-line: 'Entry: Understanding|Topic: Understanding|Xref: Knowledge|Xref: Learning|Xref:
-  1693 [Understanding]|Index: understanding|#item-fc6d5a61c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,2985,633/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912064179
-order: '992'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,2985,633/full/0/default.jpg
-label: Understanding
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Vinegar|Topic: Vinegar|Xref: 1649 [Vinegar]|Index: vinegar|#item-e74ef2a62'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,2967,205/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529003407323
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,600,180/250,/0/default.jpg
+label: Vinegar
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '057'
 layout: alpha_item
 collection: alpha5
 ---

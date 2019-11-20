@@ -2,29 +2,27 @@
 pid: index_3713
 volume: Volume 3
 image_number: '43'
-head: similitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>"
+head: Simon Magus
+entry: "<a href='/digital-beehive/num2/num_0400/'>346 [Simon Magus]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bddbfc384"
+item: "#item-5b9c31849"
 unparsed: 
-line: 'Head: similitude|Entry: a|#item-bddbfc384'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,1943,568,140/full/0/default.jpg
+line: 'Head: Simon Magus|Entry: 346 [Simon Magus]|#item-5b9c31849'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,2077,635,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582268254
-order: '3713'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,1943,568,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/164,1943,568,140/full/0/default.jpg
-label: similitude
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582314959
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,2077,635,156/150,/0/default.jpg
+label: Simon Magus
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0960'
 layout: index_item
 collection: index4
 ---

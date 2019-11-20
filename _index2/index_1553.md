@@ -2,29 +2,27 @@
 pid: index_1553
 volume: Volume 3
 image_number: '21'
-head: frost
-entry: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Frost]</a>"
+head: froth
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1547 [Juggling]</a>"
 topic: 
 first_letter: F
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-40ecb3b8a"
+item: "#item-2f2265ac8"
 unparsed: 
-line: 'Head: frost|Entry: 1649 [Frost]|#item-40ecb3b8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/849,3210,378,153/full/0/default.jpg
+line: 'Head: froth|Entry: 1547 [Juggling]|#item-2f2265ac8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/841,3288,390,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784499900
-order: '1553'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/849,3210,378,153/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/849,3210,378,153/full/0/default.jpg
-label: frost
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784582976
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/841,3288,390,109/150,/0/default.jpg
+label: froth
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '373'
 layout: index_item
 collection: index2
 ---

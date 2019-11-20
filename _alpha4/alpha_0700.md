@@ -3,29 +3,26 @@ pid: alpha_0700
 volume: Volume 2
 image_number: '40'
 head: 
-entry: Picture
-topic: Picture
+entry: Person
+topic: Person
 first_letter: P
-xref: painting
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2999/'>picture</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4aea507cf"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_2969/'>person</a>"
+item: "#item-dfab0619b"
 unparsed: 
-line: 'Entry: Picture|Topic: Picture|Xref: painting|Xref: 4516 [PAGE_MISSING]|Index:
-  picture|#item-4aea507cf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,2958,468/full/0/default.jpg
+line: 'Entry: Person|Topic: Person|Index: person|#item-dfab0619b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/777,972,3094,447/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528333852684
-order: '700'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,2958,468/full/0/default.jpg
-label: Picture
+annotation_uri: http://dev.llgc.org.uk/annotation/1528039793340
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/777,972,600,180/250,/0/default.jpg
+label: Person
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+num_match: 
+order: '053'
 layout: alpha_item
 collection: alpha4
 ---

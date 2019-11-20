@@ -2,29 +2,27 @@
 pid: index_3535
 volume: Volume 3
 image_number: '41'
-head: scale
-entry: "<a href='/digital-beehive/toc/toc2_080/'>219 [Balance]</a>"
+head: scar
+entry: 
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: wound
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-35a29dc41"
+item: "#item-3fa9f6b5e"
 unparsed: 
-line: 'Head: scale|Entry: 219 [Balance]|#item-35a29dc41'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/150,3004,433,145/full/0/default.jpg
+line: 'Head: scar|See: wound|#item-3fa9f6b5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240080053
-order: '3535'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/150,3004,433,145/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/150,3004,433,145/full/0/default.jpg
-label: scale
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/150,/0/default.jpg
+label: scar
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0782'
 layout: index_item
 collection: index4
 ---

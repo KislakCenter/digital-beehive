@@ -6,25 +6,23 @@ head: caribeans
 entry: "<a href='/digital-beehive/toc/toc2_297/'>1514 [Caribee Islands]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-d05bc4674"
 unparsed: 
 line: 'Head: caribeans|Entry: 1514 [Caribee Islands]|#item-d05bc4674'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/417,209,553,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531496564890
-order: '542'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/417,209,553,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/417,209,553,132/full/0/default.jpg
 label: caribeans
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0541'
 layout: index_item
 collection: index1
 ---

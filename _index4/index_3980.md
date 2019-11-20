@@ -2,29 +2,27 @@
 pid: index_3980
 volume: Volume 3
 image_number: '46'
-head: sum[m]er
-entry: "<a href='/digital-beehive/toc/toc2_249/'>1280 [Summer]</a>"
+head: sum[m]ons
+entry: 804 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cde07eadd"
+item: "#item-7c86357a2"
 unparsed: 
-line: 'Head: sum[m]er|Entry: 1280 [Summer]|#item-cde07eadd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/full/0/default.jpg
+line: 'Head: sum[m]ons|Entry: 804 [PAGE_MISSING]|#item-7c86357a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/453,748,421,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530472475396
-order: '3980'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/full/0/default.jpg
-label: sum[m]er
+annotation_uri: http://dev.llgc.org.uk/annotation/1565292656329
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/453,748,421,104/150,/0/default.jpg
+label: sum[m]ons
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1226'
 layout: index_item
 collection: index4
 ---

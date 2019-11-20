@@ -2,30 +2,27 @@
 pid: index_3727
 volume: Volume 3
 image_number: '43'
-head: Singing
-entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/toc/toc2_118/'>483
-  [Singing]</a>|<a href='/digital-beehive/toc/toc2_293/'>1499 [Singing]</a>"
+head: singular
+entry: 755 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7c75de570"
+item: "#item-d8f26e5c0"
 unparsed: 
-line: 'Head: Singing|Entry: a|Entry: 483 [Singing]|Entry: 1499 [Singing]|#item-7c75de570'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/858,247,729,154/full/0/default.jpg
+line: 'Head: singular|Entry: 755 [PAGE_MISSING]|#item-d8f26e5c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/849,379,534,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582835361
-order: '3727'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/858,247,729,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/858,247,729,154/full/0/default.jpg
-label: Singing
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582857225
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/849,379,534,128/150,/0/default.jpg
+label: singular
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0974'
 layout: index_item
 collection: index4
 ---

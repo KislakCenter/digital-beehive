@@ -6,25 +6,23 @@ head: irregular
 entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [Irregular]</a>"
 topic: 
 first_letter: I/J
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-329beb96d"
 unparsed: 
 line: 'Head: irregular|Entry: 648 [Irregular]|#item-329beb96d'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/145,510,435,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559756430189
-order: '2120'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/145,510,435,139/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/145,510,435,139/full/0/default.jpg
 label: irregular
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '201'
 layout: index_item
 collection: index3
 ---

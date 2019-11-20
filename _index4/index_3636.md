@@ -2,30 +2,27 @@
 pid: index_3636
 volume: Volume 3
 image_number: '42'
-head: sense
-entry: "<a href='/digital-beehive/alpha4/alpha_0849/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>971
-  [Senses]</a>|<a href='/digital-beehive/toc/toc2_371/'>2057 [Senses]</a>"
+head: sensible
+entry: "<a href='/digital-beehive/toc/toc2_207/'>1070 [Inkurible]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-beb964c7a"
+item: "#item-988b9fb6c"
 unparsed: 
-line: 'Head: sense|Entry: a|Entry: 971 [Senses]|Entry: 2057 [Senses]|#item-beb964c7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/full/0/default.jpg
+line: 'Head: sensible|Entry: 1070 [Inkurible]|#item-988b9fb6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/446,3351,551,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245190278
-order: '3636'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/433,3219,621,154/full/0/default.jpg
-label: sense
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571694513
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/446,3351,551,138/150,/0/default.jpg
+label: sensible
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0883'
 layout: index_item
 collection: index4
 ---

@@ -6,25 +6,23 @@ head: Abatemt
 entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [to debase]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-5f45773ab"
 unparsed: 
 line: 'Head: Abatemt|Entry: 1326 [to debase]|#item-5f45773ab'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,270,473,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564757410866
-order: '2'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,270,473,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,270,473,136/full/0/default.jpg
 label: Abatemt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+insertion_xref: 
+order: '0001'
 layout: index_item
 collection: index1
 ---

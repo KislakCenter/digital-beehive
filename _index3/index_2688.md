@@ -2,29 +2,27 @@
 pid: index_2688
 volume: Volume 3
 image_number: '32'
-head: netherlands
-entry: "<a href='/digital-beehive/toc/toc2_099/'>351 [Holland]</a>"
+head: nettles
+entry: "<a href='/digital-beehive/toc/toc2_152/'>685 [Nettles]</a>"
 topic: 
 first_letter: N
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-fe0436282"
+item: "#item-ca4fa8d27"
 unparsed: 
-line: 'Head: netherlands|Entry: 351 [Holland]|#item-fe0436282'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/full/0/default.jpg
+line: 'Head: nettles|Entry: 685 [Nettles]|#item-ca4fa8d27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1179,1030,386,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441685164
-order: '2688'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/full/0/default.jpg
-label: netherlands
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441900152
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1179,1030,386,102/150,/0/default.jpg
+label: nettles
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+insertion_xref: 
+order: '768'
 layout: index_item
 collection: index3
 ---

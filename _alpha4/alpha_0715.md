@@ -3,30 +3,27 @@ pid: alpha_0715
 volume: Volume 2
 image_number: '41'
 head: 
-entry: Poverty
-topic: Poverty
+entry: Politick
+topic: Politick
 first_letter: P
-xref: "<a href='/digital-beehive/alpha5/alpha_1008/'>Want</a>|<a href='/digital-beehive/alpha4/alpha_0708/'>Pocket</a>|<a
-  href='/digital-beehive/toc/toc2_067/'>110 [a Poor man]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3097/'>poverty</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7a566e50e"
+xref: Temporizing|<a href='/digital-beehive/toc/toc2_186/'>1001 [Politick]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_3065/'>politick</a>"
+item: "#item-654f9212d"
 unparsed: 
-line: 'Entry: Poverty|Topic: Poverty|Xref: Want|Xref: Pocket|Xref: 110 [a Poor man]|Index:
-  poverty|#item-7a566e50e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/332,3723,3022,579/full/0/default.jpg
+line: 'Entry: Politick|Topic: Politick|Xref: Temporizing|Xref: 1001 [Politick]|Index:
+  politick|#item-654f9212d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,3109,510/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528374183442
-order: '715'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/332,3723,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/332,3723,3022,579/full/0/default.jpg
-label: Poverty
+annotation_uri: http://dev.llgc.org.uk/annotation/1528373442736
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,600,180/250,/0/default.jpg
+label: Politick
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+num_match: 
+order: '068'
 layout: alpha_item
 collection: alpha4
 ---

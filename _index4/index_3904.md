@@ -2,29 +2,27 @@
 pid: index_3904
 volume: Volume 3
 image_number: '45'
-head: a still
-entry: "<a href='/digital-beehive/toc/toc2_135/'>592 [Distilling]</a>"
+head: stillness
+entry: "<a href='/digital-beehive/num2/num_0539/'>436 [Silence]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1bd50898c"
+item: "#item-dba696037"
 unparsed: 
-line: 'Head: a still|Page: p.38 [Image 1.98]|Entry: 592 [Distilling]|#item-1bd50898c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/full/0/default.jpg
+line: 'Head: stillness|Entry: 436 [Silence]|#item-dba696037'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/221,2536,411,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290315091
-order: '3904'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/191,2443,579,126/full/0/default.jpg
-label: a still
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448228016
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/221,2536,411,96/150,/0/default.jpg
+label: stillness
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+insertion_xref: 
+order: '1151'
 layout: index_item
 collection: index4
 ---

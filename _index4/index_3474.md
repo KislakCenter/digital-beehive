@@ -2,29 +2,27 @@
 pid: index_3474
 volume: Volume 3
 image_number: '40'
-head: rust
-entry: "<a href='/digital-beehive/alpha4/alpha_0809/'>a</a>"
+head: rye
+entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Rye]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-710c706cf"
+item: "#item-9529b5323"
 unparsed: 
-line: 'Head: rust|Entry: a|#item-710c706cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,732,321,127/full/0/default.jpg
+line: 'Head: rye|Entry: 664 [Rye]|#item-9529b5323'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1823,852,353,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234444540
-order: '3474'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,732,321,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,732,321,127/full/0/default.jpg
-label: rust
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234461087
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1823,852,353,123/150,/0/default.jpg
+label: rye
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0721'
 layout: index_item
 collection: index4
 ---

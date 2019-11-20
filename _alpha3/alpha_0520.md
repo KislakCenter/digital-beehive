@@ -1,30 +1,30 @@
 ---
 pid: alpha_0520
 volume: Volume 2
-image_number: '27'
+image_number: '26'
 head: 
-entry: Lawyer
-topic: Lawyer
+entry: Law
+topic: Law
 first_letter: L
-xref: "<a href='/digital-beehive/toc/toc2_130/'>559 [Lawyer]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2226/'>lawyer</a>"
-insertion_xref: 
-insertion: 
-item: "#item-5ced3abcf"
+xref: "<a href='/digital-beehive/alpha3/alpha_0521/'>Law, continued</a>|<a href='/digital-beehive/alpha4/alpha_0808/'>Right</a>|<a
+  href='/digital-beehive/alpha5/alpha_0946/'>Old Testamt</a>|786 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index3/index_2222/'>Law</a>"
+item: "#item-6fd364d6b"
 unparsed: 
-line: 'Entry: Lawyer|Topic: Lawyer|Xref: 559 [Lawyer]|Index: lawyer|#item-5ced3abcf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768429201
-order: '520'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
-label: Lawyer
-location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+line: 'Entry: Law|Topic: Law|Xref: Law, continued|Xref: Right|Xref: Old Testamt|Xref:
+  786 [PAGE_MISSING]|Index: Law|#item-6fd364d6b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/764,4700,2927,335/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767007869
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/764,4700,600,180/250,/0/default.jpg
+label: Law
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+num_match: 
+order: '076'
 layout: alpha_item
 collection: alpha3
 ---

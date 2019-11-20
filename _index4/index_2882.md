@@ -2,29 +2,27 @@
 pid: index_2882
 volume: Volume 3
 image_number: '34'
-head: parentage
+head: parish
 entry: 
 topic: 
 first_letter: P
-xref: 
-see: "<a href='/digital-beehive/index3/index_1949/'>ignoble</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0659/'>Church</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ad3a4f719"
+item: "#item-2b203f05e"
 unparsed: 
-line: 'Head: parentage|See: ignoble|#item-ad3a4f719'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/full/0/default.jpg
+line: 'Head: parish|See: Church|#item-2b203f05e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1122,1887,689,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277140063
-order: '2882'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/full/0/default.jpg
-label: parentage
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494238344
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1122,1887,689,175/150,/0/default.jpg
+label: parish
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0130'
 layout: index_item
 collection: index4
 ---

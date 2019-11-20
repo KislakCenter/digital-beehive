@@ -3,29 +3,28 @@ pid: alpha_0463
 volume: Volume 2
 image_number: '22'
 head: 
-entry: Impossibility
-topic: Impossibility
+entry: Imperfection
+topic: Imperfection
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha4/alpha_0713/'>Possibility</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_1974/'>impossible</a>"
-insertion_xref: 
-insertion: 
-item: "#item-dfaf3e8c6"
+xref: "<a href='/digital-beehive/alpha4/alpha_0697/'>Perfect</a>|<a href='/digital-beehive/num1/num_0215/'>205
+  [Imperfection]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_1967/'>imperfection</a>"
+item: "#item-ba07ed192"
 unparsed: 
-line: 'Entry: Impossibility|Topic: Impossibility|Xref: Possibility|Xref: 807 [PAGE_MISSING]|Index:
-  impossible|#item-dfaf3e8c6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,2819,2981,721/full/0/default.jpg
+line: 'Entry: Imperfection|Topic: Imperfection|Xref: Perfect|Xref: 205 [Imperfection]|Index:
+  imperfection|#item-ba07ed192'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/756,2431,2999,519/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759554553
-order: '463'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,2819,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,2819,2981,721/full/0/default.jpg
-label: Impossibility
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759512302
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/756,2431,600,180/250,/0/default.jpg
+label: Imperfection
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
+num_match: 
+order: '019'
 layout: alpha_item
 collection: alpha3
 ---

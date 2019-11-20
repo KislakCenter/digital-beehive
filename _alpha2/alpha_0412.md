@@ -3,28 +3,26 @@ pid: alpha_0412
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Heraldry
-topic: Heraldry
+entry: Hen
+topic: Hen
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_085/'>257 [Arms]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1806/'>heraldry</a>"
-insertion_xref: 
-insertion: 
-item: "#item-046cb1d2d"
+xref: 791 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index2/index_1802/'>hen</a>"
+item: "#item-4f384ce52"
 unparsed: 
-line: 'Entry: Heraldry|Topic: Heraldry|Xref: 257 [Arms]|Index: heraldry|#item-046cb1d2d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,1500,3027,268/full/0/default.jpg
+line: 'Entry: Hen|Topic: Hen|Xref: 791 [PAGE_MISSING]|Index: hen|#item-4f384ce52'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/802,1403,2972,198/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564755622918
-order: '412'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,1500,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,1500,3027,268/full/0/default.jpg
-label: Heraldry
+annotation_uri: http://dev.llgc.org.uk/annotation/1508962728284
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/802,1403,600,180/250,/0/default.jpg
+label: Hen
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '143'
 layout: alpha_item
 collection: alpha2
 ---

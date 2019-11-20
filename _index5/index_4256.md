@@ -1,30 +1,29 @@
 ---
 pid: index_4256
 volume: Volume 3
-image_number: '48'
-head: true story
-entry: "<a href='/digital-beehive/toc/toc2_252/'>1291 [True Story]</a>"
+image_number: '49'
+head: truth
+entry: "<a href='/digital-beehive/alpha5/alpha_0982/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1253
+  [Truth]</a>|<a href='/digital-beehive/toc/toc2_388/'>2221 [Truth]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c650dfbae"
+item: "#item-bbd79773e"
 unparsed: 
-line: 'Head: true story|Entry: 1291 [True Story]|#item-c650dfbae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1794,3481,525,197/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562090561365
-order: '4256'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1794,3481,525,197/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1794,3481,525,197/full/0/default.jpg
-label: true story
-location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+line: 'Head: truth|Entry: a|Entry: 1253 [Truth]|Entry: 2221 [Truth]|#item-bbd79773e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655182817
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/150,/0/default.jpg
+label: truth
+location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '223'
 layout: index_item
 collection: index5
 ---

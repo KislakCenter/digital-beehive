@@ -2,29 +2,27 @@
 pid: index_3750
 volume: Volume 3
 image_number: '43'
-head: slender
-entry: "<a href='/digital-beehive/toc/toc2_093/'>310 [Leanness]</a>"
+head: sling
+entry: "<a href='/digital-beehive/toc/toc2_350/'>1832 [To Swing]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d49da5e43"
+item: "#item-38ef946fb"
 unparsed: 
-line: 'Head: slender|Entry: 310 [Leanness]|#item-d49da5e43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,2436,448,90/full/0/default.jpg
+line: 'Head: sling|Entry: 1832 [To Swing]|#item-38ef946fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,2505,406,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584598588
-order: '3750'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,2436,448,90/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/903,2436,448,90/full/0/default.jpg
-label: slender
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584670036
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,2505,406,84/150,/0/default.jpg
+label: sling
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0997'
 layout: index_item
 collection: index4
 ---

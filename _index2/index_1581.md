@@ -2,31 +2,27 @@
 pid: index_1581
 volume: Volume 3
 image_number: '21'
-head: garden
-entry: "<a href='/digital-beehive/alpha2/alpha_0354/'>a</a>|1890 [PAGE_MISSING]"
+head: garland
+entry: 
 topic: 
 first_letter: G
-xref: 
-see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37
-  [Image 1.97]</a>"
+page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index1/index_0916/'>Crown</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-91f06e853"
+item: "#item-774144189"
 unparsed: 
-line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
-  1890 [PAGE_MISSING]|#item-91f06e853'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/full/0/default.jpg
+line: 'Head: garland|See: Crown|#item-774144189'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
-order: '1581'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/full/0/default.jpg
-label: garden
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787186826
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/150,/0/default.jpg
+label: garland
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+insertion_xref: 
+order: '401'
 layout: index_item
 collection: index2
 ---

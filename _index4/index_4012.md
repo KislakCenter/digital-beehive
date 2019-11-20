@@ -2,29 +2,28 @@
 pid: index_4012
 volume: Volume 3
 image_number: '46'
-head: to sustain
-entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To maintain]</a>"
+head: suttler
+entry: "<a href='/digital-beehive/toc/toc2_158/'>714 [Market, Wares, to rid one of
+  his money, a haggler]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-011050ae8"
+item: "#item-ca98a62b7"
 unparsed: 
-line: 'Head: to sustain|Entry: 1339 [To maintain]|#item-011050ae8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/full/0/default.jpg
+line: 'Head: suttler|Entry: 714 [Market, Wares, to rid one of his money, a haggler]|#item-ca98a62b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1097,1068,357,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531685267657
-order: '4012'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,952,514,134/full/0/default.jpg
-label: to sustain
+annotation_uri: http://dev.llgc.org.uk/annotation/1531685438110
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1097,1068,357,106/150,/0/default.jpg
+label: suttler
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+insertion_xref: 
+order: '1258'
 layout: index_item
 collection: index4
 ---

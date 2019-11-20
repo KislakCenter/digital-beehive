@@ -2,29 +2,27 @@
 pid: index_3357
 volume: Volume 3
 image_number: '39'
-head: remember
-entry: 4771 [PAGE_MISSING]
+head: remiss
+entry: 797 [PAGE_MISSING]
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8de1f919f"
+item: "#item-c6946fdd9"
 unparsed: 
-line: 'Head: remember|Entry: 4771 [PAGE_MISSING]|#item-8de1f919f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/full/0/default.jpg
+line: 'Head: remiss|Entry: 797 [PAGE_MISSING]|#item-c6946fdd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/779,710,469,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468922314
-order: '3357'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/full/0/default.jpg
-label: remember
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468942799
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/779,710,469,151/150,/0/default.jpg
+label: remiss
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0604'
 layout: index_item
 collection: index4
 ---

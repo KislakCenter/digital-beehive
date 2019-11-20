@@ -2,29 +2,27 @@
 pid: index_4309
 volume: Volume 3
 image_number: '49'
-head: venial sin
-entry: "<a href='/digital-beehive/toc/toc2_096/'>335 [mortal & venial sins]</a>"
+head: venison
+entry: "<a href='/digital-beehive/toc/toc2_376/'>2106 [Venison]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1e50d73b4"
+item: "#item-5da01a2be"
 unparsed: 
-line: 'Head: venial sin|Entry: 335 [mortal & venial sins]|#item-1e50d73b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/full/0/default.jpg
+line: 'Head: venison|Entry: 2106 [Venison]|#item-5da01a2be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658664692
-order: '4309'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/full/0/default.jpg
-label: venial sin
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658715679
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/150,/0/default.jpg
+label: venison
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '276'
 layout: index_item
 collection: index5
 ---

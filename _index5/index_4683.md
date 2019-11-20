@@ -2,29 +2,27 @@
 pid: index_4683
 volume: Volume 3
 image_number: '54'
-head: Barclay
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1995 [Barclay]</a>"
+head: forrest
+entry: a
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: "<a href='/digital-beehive/index5/index_4601/'>wood</a>"
 index: 
-insertion_xref: 
-insertion: "[:18.]"
-item: "#item-8ce931c41"
-unparsed: 
-line: 'Type: Index|Insertion: [:18.]|Head: Barclay|Entry: 1995 [Barclay]|#item-8ce931c41'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/full/0/default.jpg
+item: "#item-355b318ec"
+unparsed: Type Index|Insertion [:19.]
+line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|Entry: a|#item-355b318ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560885043290
-order: '4683'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/full/0/default.jpg
-label: Barclay
+annotation_uri: http://dev.llgc.org.uk/annotation/1560885069116
+insertion: "[:19.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/150,/0/default.jpg
+label: forrest
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '650'
 layout: index_item
 collection: index5
 ---

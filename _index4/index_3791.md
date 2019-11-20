@@ -2,29 +2,27 @@
 pid: index_3791
 volume: Volume 3
 image_number: '44'
-head: some good
-entry: "<a href='/digital-beehive/toc/toc2_413/'>2384 [Some good]</a>"
+head: sometimes
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [Sometimes]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-d6f258309"
+item: "#item-bad65669c"
 unparsed: 
-line: 'Head: some good|Entry: 2384 [Some good]|#item-d6f258309'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,286,497,119/full/0/default.jpg
+line: 'Head: sometimes|Entry: 867 [Sometimes]|#item-bad65669c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/546,364,427,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288051546
-order: '3791'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,286,497,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/567,286,497,119/full/0/default.jpg
-label: some good
+annotation_uri: http://dev.llgc.org.uk/annotation/1529702363845
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/546,364,427,71/150,/0/default.jpg
+label: sometimes
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1038'
 layout: index_item
 collection: index4
 ---

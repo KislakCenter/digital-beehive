@@ -1,31 +1,30 @@
 ---
 pid: alpha_0782
 volume: Volume 2
-image_number: '47'
+image_number: '46'
 head: 
-entry: Remission of Sins
-topic: Remission of Sins
+entry: Reformation
+topic: Reformation
 first_letter: R
-xref: "<a href='/digital-beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3359/'>remission</a>"
-insertion_xref: 
-insertion: 
-item: "#item-891f6fb74"
+xref: "<a href='/digital-beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/digital-beehive/alpha1/alpha_0135/'>Change</a>|<a
+  href='/digital-beehive/num2/num_0602/'>486 [Reformation]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3332/'>reformation</a>"
+item: "#item-5a9359b30"
 unparsed: 
-line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: 1363 [Pardon and Remission
-  of Sins]|Index: remission|#item-891f6fb74'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,3082,442/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565105158372
-order: '782'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,564,3082,442/full/0/default.jpg
-label: Remission of Sins
-location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+line: 'Entry: Reformation|Topic: Reformation|Xref: Amending|Xref: Change|Xref: 486
+  [Reformation]|Index: reformation|#item-5a9359b30'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,2926,637/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528739084883
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,600,180/250,/0/default.jpg
+label: Reformation
+location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
+num_match: 
+order: '135'
 layout: alpha_item
 collection: alpha4
 ---

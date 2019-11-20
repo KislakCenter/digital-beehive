@@ -1,30 +1,28 @@
 ---
 pid: alpha_1003
 volume: Volume 2
-image_number: '63'
+image_number: '62'
 head: 
-entry: Voracity
-topic: Voracity
+entry: Unfruitfullness
+topic: Unfruitfullness
 first_letter: U/V
-xref: glutton|<a href='/digital-beehive/toc/toc2_151/'>677 [Voracity]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4432/'>voracity</a>"
-insertion_xref: 
-insertion: 
-item: "#item-9e391e5e8"
+xref: "<a href='/digital-beehive/alpha1/alpha_0061/'>Barrenness</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4380/'>unfruitful</a>"
+item: "#item-699585c8d"
 unparsed: 
-line: 'Entry: Voracity|Topic: Voracity|Xref: glutton|Xref: 677 [Voracity]|Index: voracity|#item-9e391e5e8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/306,954,3070,401/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528914797594
-order: '1003'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/306,954,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/306,954,3070,401/full/0/default.jpg
-label: Voracity
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+line: 'Entry: Unfruitfullness|Topic: Unfruitfullness|Xref: Barrenness|Index: unfruitful|#item-699585c8d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/815,1755,2943,497/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528912237624
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/815,1755,600,180/250,/0/default.jpg
+label: Unfruitfullness
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+num_match: 
+order: '068'
 layout: alpha_item
 collection: alpha5
 ---

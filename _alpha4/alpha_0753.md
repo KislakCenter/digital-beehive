@@ -3,33 +3,26 @@ pid: alpha_0753
 volume: Volume 2
 image_number: '44'
 head: 
-entry: Punishment
-topic: Punishment
+entry: Proverbs
+topic: Proverbs
 first_letter: P
-xref: "<a href='/digital-beehive/alpha1/alpha_0237/'>Discipline</a>|<a href='/digital-beehive/alpha4/alpha_0787/'>Reproof</a>|<a
-  href='/digital-beehive/toc/toc2_063/'>64 [sin in his Punishmt]</a>|<a href='/digital-beehive/toc/toc2_096/'>330
-  [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0117/'>Capital Offence</a>|<a
-  href='/digital-beehive/toc/toc2_216/'>1113 [Punishment]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3229/'>punishmt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-79ffc5944"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3210/'>proverbs</a>"
+item: "#item-ae7b3ea31"
 unparsed: 
-line: 'Entry: Punishment|Topic: Punishment|Xref: Discipline|Xref: Reproof|Xref: 64
-  [sin in his Punishmt]|Xref: 330 [Impunity]|Xref: Capital Offence|Xref: 1113 [Punishment]|Index:
-  punishmt|#item-79ffc5944'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,4387,3036,697/full/0/default.jpg
+line: 'Entry: Proverbs|Topic: Proverbs|Index: proverbs|#item-ae7b3ea31'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,2487,2988,632/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565102296284
-order: '753'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,4387,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,4387,3036,697/full/0/default.jpg
-label: Punishment
+annotation_uri: http://dev.llgc.org.uk/annotation/1528721585897
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,2487,600,180/250,/0/default.jpg
+label: Proverbs
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+num_match: 
+order: '106'
 layout: alpha_item
 collection: alpha4
 ---

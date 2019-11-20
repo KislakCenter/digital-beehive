@@ -6,25 +6,23 @@ head: disinhereting
 entry: "<a href='/digital-beehive/toc/toc2_435/'>4842 [Disheriting]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-3d55f3065"
 unparsed: 
 line: 'Head: disinhereting|Entry: 4842 [Disheriting]|#item-3d55f3065'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/164,1520,598,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1541804066693
-order: '1083'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/164,1520,598,122/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/164,1520,598,122/full/0/default.jpg
 label: disinhereting
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+insertion_xref: 
+order: '1080'
 layout: index_item
 collection: index1
 ---

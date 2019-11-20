@@ -2,29 +2,28 @@
 pid: index_4317
 volume: Volume 3
 image_number: '49'
-head: Verdrießen
-entry: 
+head: vertue
+entry: "<a href='/digital-beehive/alpha5/alpha_0990/'>a</a>|<a href='/digital-beehive/toc/toc2_221/'>1138
+  [Virtue]</a>|<a href='/digital-beehive/toc/toc2_432/'>4819 [Virtue]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: "<a href='/digital-beehive/index1/index_1093/'>Displeasure</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3a9e09858"
+item: "#item-4f3408a5f"
 unparsed: 
-line: 'Head: Verdrießen|See: Displeasure|#item-3a9e09858'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/full/0/default.jpg
+line: 'Head: vertue|Entry: a|Entry: 1138 [Virtue]|Entry: 4819 [Virtue]|#item-4f3408a5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/945,3459,687,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658896689
-order: '4317'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/full/0/default.jpg
-label: Verdrießen
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659161439
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/945,3459,687,134/150,/0/default.jpg
+label: vertue
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '284'
 layout: index_item
 collection: index5
 ---

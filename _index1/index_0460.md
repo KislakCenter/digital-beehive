@@ -6,25 +6,23 @@ head: to bring
 entry: "<a href='/digital-beehive/alpha1/alpha_0102/'>a</a>"
 topic: 
 first_letter: B
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-df0e49ce5"
 unparsed: 
 line: 'Head: to bring|Entry: a|#item-df0e49ce5'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/159,2880,395,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531419798694
-order: '460'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/159,2880,395,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/159,2880,395,119/full/0/default.jpg
 label: to bring
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0459'
 layout: index_item
 collection: index1
 ---

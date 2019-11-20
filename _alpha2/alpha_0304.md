@@ -3,28 +3,26 @@ pid: alpha_0304
 volume: Volume 1
 image_number: '455'
 head: 
-entry: lust of the eye
-topic: lust of the eye
+entry: Eye
+topic: Eye
 first_letter: E
-xref: "<a href='/digital-beehive/alpha2/alpha_0285/'>epicurism</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1373/'>eye lust</a>"
-insertion_xref: 
-insertion: 
-item: "#item-992a5ce4c"
+xref: 757 [PAGE_MISSING]
+see: 
+index: "<a href='/digital-beehive/index2/index_1370/'>eye</a>"
+item: "#item-a6db77dc0"
 unparsed: 
-line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,3025,456/full/0/default.jpg
+line: 'Entry: Eye|Topic: Eye|XRef: 757 [PAGE_MISSING]|Index: eye|#item-a6db77dc0'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/399,3236,3012,505/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564588047954
-order: '304'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,3025,456/full/0/default.jpg
-label: lust of the eye
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587947903
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/399,3236,600,180/250,/0/default.jpg
+label: Eye
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+num_match: 
+order: '035'
 layout: alpha_item
 collection: alpha2
 ---

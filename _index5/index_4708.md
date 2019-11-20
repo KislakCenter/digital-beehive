@@ -2,29 +2,27 @@
 pid: index_4708
 volume: Volume 3
 image_number: '54'
-head: lesson
+head: Confederacy
 entry: 
 topic: 
 first_letter: insertion
-xref: 
-see: rule
 page: 
 add: 
-type: Index
+xref: 
+see: "<a href='/digital-beehive/index1/index_0098/'>alliance</a>"
 index: 
-insertion_xref: 
-insertion: "[:39.]"
-item: "#item-5e4f0fb08"
-unparsed: 
-line: 'Type: Index|Insertion: [:39.]|Head: lesson|See: rule|#item-5e4f0fb08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/full/0/default.jpg
+item: "#item-6a91f2777"
+unparsed: Type Index|Insertion [:40.]
+line: 'Type: Index|Insertion: [:40.]|Head: Confederacy|See: alliance|#item-6a91f2777'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955561907
-order: '4708'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/full/0/default.jpg
-label: lesson
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955602023
+insertion: "[:40.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/150,/0/default.jpg
+label: Confederacy
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '675'
 layout: index_item
 collection: index5
 ---

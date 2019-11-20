@@ -1,30 +1,30 @@
 ---
 pid: alpha_1016
 volume: Volume 2
-image_number: '64'
+image_number: '63'
 head: 
-entry: Way
-topic: Way
-first_letter: W
-xref: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Way]</a>"
-see: 
+entry: the Vulgar
+topic: the Vulgar
+first_letter: U/V
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4497/'>way</a>"
-insertion_xref: 
-insertion: 
-item: "#item-27774c1da"
+xref: "<a href='/digital-beehive/toc/toc2_066/'>95 [Vulgar Spirited Man]</a>|<a href='/digital-beehive/toc/toc2_221/'>1136
+  [Vulgar]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4453/'>the vulgar</a>"
+item: "#item-f749e0afc"
 unparsed: 
-line: 'Entry: Way|Topic: Way|Xref: 1007 [Way]|Index: way|#item-27774c1da'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,2934,464/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529523717930
-order: '1016'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,2934,464/full/0/default.jpg
-label: Way
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [Vulgar Spirited Man]|Xref: 1136
+  [Vulgar]|Index: the vulgar|#item-f749e0afc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,3013,331/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004999189
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,600,180/250,/0/default.jpg
+label: the Vulgar
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '081'
 layout: alpha_item
 collection: alpha5
 ---

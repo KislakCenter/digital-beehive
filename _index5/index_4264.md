@@ -2,29 +2,27 @@
 pid: index_4264
 volume: Volume 3
 image_number: '49'
-head: tumult
-entry: 726 [PAGE_MISSING]
+head: tumultuous, turbulent
+entry: "<a href='/digital-beehive/toc/toc2_437/'>4852 [Turbulent. tempestuous. troublesom]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c82844f7a"
+item: "#item-aab709aa1"
 unparsed: 
-line: 'Head: tumult|Entry: 726 [PAGE_MISSING]|#item-c82844f7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/188,1248,426,103/full/0/default.jpg
+line: 'Head: tumultuous, turbulent|Entry: 4852 [Turbulent. tempestuous. troublesom]|#item-aab709aa1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/205,1315,737,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655896423
-order: '4264'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/188,1248,426,103/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/188,1248,426,103/full/0/default.jpg
-label: tumult
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656084819
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/205,1315,737,102/150,/0/default.jpg
+label: tumultuous, turbulent
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '231'
 layout: index_item
 collection: index5
 ---

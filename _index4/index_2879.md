@@ -2,32 +2,40 @@
 pid: index_2879
 volume: Volume 3
 image_number: '34'
-head: pardon
-entry: "<a href='/digital-beehive/alpha4/alpha_0672/'>a</a>|<a href='/digital-beehive/toc/toc2_210/'>1081
-  [Forgiveness]</a>|<a href='/digital-beehive/toc/toc2_341/'>1764 [Forgiveness]</a>|4561
-  [PAGE_MISSING]"
+head: parents
+entry: "<a href='/digital-beehive/alpha4/alpha_0677/'>a</a>|<a href='/digital-beehive/toc/toc2_431/'>4811
+  [WORD_MISSING]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-950e46d7c"
-unparsed: 
-line: 'Head: pardon|Entry: a|Entry: 1081 [Forgiveness]|Entry: 1764 [Forgiveness]|Entry:
-  4561 [PAGE_MISSING]|#item-950e46d7c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/full/0/default.jpg
+item: "#item-6d2e65d6c"
+unparsed: '||||||Normal|0|||||false|false|false||EN-US|JA|X-NONE||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||/*
+  Style Definitions */|table.MsoNormalTable|{mso-style-name:"Table Normal";|mso-tstyle-rowband-size:0;|mso-tstyle-colband-size:0;|mso-style-noshow:yes;|mso-style-priority:99;|mso-style-parent:"";|mso-padding-alt:0in
+  5.4pt 0in 5.4pt;|mso-para-margin:0in;|mso-para-margin-bottom:.0001pt;|mso-pagination:widow-orphan;|font-size:12.0pt;|font-family:"Times","serif";}||'
+line: "| |  | | | |  Normal|  0|  |  |  |  |  false|  false|  false|  |  EN-US|  JA|
+  \ X-NONE|  |   |   |   |   |   |   |   |   |   |   |  |  |   |   |   |   |   |   |
+  \  |   |   |   |   |  || |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  \ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  \ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  \ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  \ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+  \ |  |  |  |  |  |  |  |  |  |  | ||| /* Style Definitions */|table.MsoNormalTable|\t{mso-style-name:\"Table
+  Normal\";|\tmso-tstyle-rowband-size:0;|\tmso-tstyle-colband-size:0;|\tmso-style-noshow:yes;|\tmso-style-priority:99;|\tmso-style-parent:\"\";|\tmso-padding-alt:0in
+  5.4pt 0in 5.4pt;|\tmso-para-margin:0in;|\tmso-para-margin-bottom:.0001pt;|\tmso-pagination:widow-orphan;|\tfont-size:12.0pt;|\tfont-family:\"Times\",\"serif\";}||
+  |Head: parents|Entry: a|Entry: 4811 [WORD_MISSING]|#item-6d2e65d6c"
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1159,1719,533,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494083145
-order: '2879'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/full/0/default.jpg
-label: pardon
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277121264
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1159,1719,533,102/150,/0/default.jpg
+label: parents
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0127'
 layout: index_item
 collection: index4
 ---

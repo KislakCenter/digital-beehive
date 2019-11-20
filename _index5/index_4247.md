@@ -2,29 +2,28 @@
 pid: index_4247
 volume: Volume 3
 image_number: '48'
-head: trophy
-entry: 
+head: trouble
+entry: "<a href='/digital-beehive/toc/toc2_089/'>282 [Troublesom]</a>|<a href='/digital-beehive/toc/toc2_148/'>661
+  [To trouble]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354 [Perplexity]</a>"
 topic: 
 first_letter: T
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_090/'>p.40 [Image 1.100]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a0491090d"
+item: "#item-e86f89b59"
 unparsed: 
-line: 'Head: trophy|Page: p.40 [Image 1.100]|#item-a0491090d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1811,2441,488,168/full/0/default.jpg
+line: 'Head: trouble|Entry: 282 [Troublesom]|Entry: 661 [To trouble]|Entry: 1354 [Perplexity]|#item-e86f89b59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2588,691,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089560519
-order: '4247'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1811,2441,488,168/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1811,2441,488,168/full/0/default.jpg
-label: trophy
+annotation_uri: http://dev.llgc.org.uk/annotation/1562089797078
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2588,691,148/150,/0/default.jpg
+label: trouble
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '214'
 layout: index_item
 collection: index5
 ---

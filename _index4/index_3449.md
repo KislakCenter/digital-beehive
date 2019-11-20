@@ -2,29 +2,27 @@
 pid: index_3449
 volume: Volume 3
 image_number: '40'
-head: rope
-entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [A rope]</a>"
+head: rope dancers
+entry: "<a href='/digital-beehive/toc/toc2_313/'>1595 [Rope-dancers]</a>"
 topic: 
 first_letter: R
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8d84b6ab3"
+item: "#item-f4e5479c4"
 unparsed: 
-line: 'Head: rope|Page: p.38 [Image 1.98]|Entry: 348 [A rope]|#item-8d84b6ab3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1172,1463,454,111/full/0/default.jpg
+line: 'Head: rope dancers|Entry: 1595 [Rope-dancers]|#item-f4e5479c4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1547,446,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233486935
-order: '3449'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1172,1463,454,111/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1172,1463,454,111/full/0/default.jpg
-label: rope
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233519538
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1149,1547,446,160/150,/0/default.jpg
+label: rope dancers
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0696'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_0624
 volume: Volume 3
 image_number: '12'
-head: chest
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Chest]</a>"
+head: chevy-chase
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4802 [Chevy-chase]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8ca7db9b3"
+item: "#item-7f63fb207"
 unparsed: 
-line: 'Head: chest|Entry: 871 [a Chest]|#item-8ca7db9b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,1508,384,108/full/0/default.jpg
+line: 'Head: chevy-chase|Entry: 4802 [Chevy-chase]|#item-7f63fb207'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1815,1579,625,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459668533
-order: '624'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,1508,384,108/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,1508,384,108/full/0/default.jpg
-label: chest
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459807427
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1815,1579,625,136/150,/0/default.jpg
+label: chevy-chase
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0623'
 layout: index_item
 collection: index1
 ---

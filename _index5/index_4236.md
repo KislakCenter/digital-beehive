@@ -2,29 +2,30 @@
 pid: index_4236
 volume: Volume 3
 image_number: '48'
-head: ten tribes of Isr.
-entry: "<a href='/digital-beehive/toc/toc2_291/'>1487 [Jews]</a>"
+head: tribulation
+entry: "<a href='/digital-beehive/toc/toc2_094/'>316 [Affliction and adversity]</a>|<a
+  href='/digital-beehive/toc/toc2_267/'>1367 [Afflictions]</a>|<a href='/digital-beehive/toc/toc2_263/'>1349
+  [Affliction]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-50880e096"
+item: "#item-376f4b490"
 unparsed: 
-line: 'Head: ten tribes of Isr.|Entry: 1487 [Jews]|#item-50880e096'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1000,684,143/full/0/default.jpg
+line: 'Head: tribulation|Entry: 316 [Affliction and adversity]|Entry: 1367 [Afflictions]|Entry:
+  1349 [Affliction]|#item-376f4b490'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088159745
-order: '4236'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1000,684,143/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1000,684,143/full/0/default.jpg
-label: ten tribes of Isr.
+annotation_uri: http://dev.llgc.org.uk/annotation/1562088358286
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/150,/0/default.jpg
+label: tribulation
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '203'
 layout: index_item
 collection: index5
 ---

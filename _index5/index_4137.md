@@ -2,29 +2,27 @@
 pid: index_4137
 volume: Volume 3
 image_number: '47'
-head: throne
-entry: 850 [PAGE_MISSING]
+head: throughout
+entry: 
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_1986/'>in</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-dd5f56fd7"
+item: "#item-a81fa0062"
 unparsed: 
-line: 'Head: throne|Entry: 850 [PAGE_MISSING]|#item-dd5f56fd7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1612,289,424,114/full/0/default.jpg
+line: 'Head: throughout|See: in|#item-a81fa0062'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532878686436
-order: '4137'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1612,289,424,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1612,289,424,114/full/0/default.jpg
-label: throne
+annotation_uri: http://dev.llgc.org.uk/annotation/1552666270552
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/150,/0/default.jpg
+label: throughout
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '104'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,27 @@
 pid: index_2185
 volume: Volume 3
 image_number: '27'
-head: laces
-entry: 4584 [PAGE_MISSING]
+head: ladder
+entry: "<a href='/digital-beehive/toc/toc2_235/'>1206 [Ladder]</a>"
 topic: 
 first_letter: L
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-afac99085"
+item: "#item-e151cccf6"
 unparsed: 
-line: 'Head: laces|Entry: 4584 [PAGE_MISSING]|#item-afac99085'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/831,3244,379,124/full/0/default.jpg
+line: 'Head: ladder|Entry: 1206 [Ladder]|#item-e151cccf6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832349223
-order: '2185'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/831,3244,379,124/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/831,3244,379,124/full/0/default.jpg
-label: laces
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832406959
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/802,3300,400,100/150,/0/default.jpg
+label: ladder
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '266'
 layout: index_item
 collection: index3
 ---

@@ -1,30 +1,28 @@
 ---
 pid: alpha_0820
 volume: Volume 2
-image_number: '50'
+image_number: '49'
 head: 
-entry: Salt
-topic: Salt
+entry: Sacrament
+topic: Sacrament
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_322/'>1640 [Salt]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3505/'>salt</a>"
-insertion_xref: 
-insertion: 
-item: "#item-ea798e968"
+xref: "<a href='/digital-beehive/toc/toc2_369/'>2033 [Sacramts]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3478/'>Sacramt</a>"
+item: "#item-76b46aa88"
 unparsed: 
-line: 'Entry: Salt|Topic: Salt|Xref: 1640 [Salt]|Index: salt|#item-ea798e968'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,3035,397/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922417753
-order: '820'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/770,211,3035,397/full/0/default.jpg
-label: Salt
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+line: 'Entry: Sacrament|Topic: Sacrament|Xref: 2033 [Sacramts]|Index: Sacramt|#item-76b46aa88'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/305,3017,3033,325/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528916855062
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/305,3017,600,180/250,/0/default.jpg
+label: Sacrament
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+num_match: 
+order: '172'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,27 @@
 pid: index_3669
 volume: Volume 3
 image_number: '42'
-head: to shell
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to Shale]</a>"
+head: shepherd
+entry: "<a href='/digital-beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-22691975e"
+item: "#item-0a6107f91"
 unparsed: 
-line: 'Head: to shell|Entry: 659 [to Shale]|#item-22691975e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1829,373,460,127/full/0/default.jpg
+line: 'Head: shepherd|Entry: 1929 [Shepherds]|#item-0a6107f91'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575513900
-order: '3669'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1829,373,460,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1829,373,460,127/full/0/default.jpg
-label: to shell
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575563242
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/150,/0/default.jpg
+label: shepherd
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0916'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,27 @@
 pid: index_3432
 volume: Volume 3
 image_number: '40'
-head: ring
-entry: "<a href='/digital-beehive/alpha4/alpha_0802/'>a</a>|<a href='/digital-beehive/toc/toc2_289/'>1480
-  [Ring]</a>"
+head: ripeness
+entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Ripeness]</a>"
 topic: 
 first_letter: R
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ccea25773"
+item: "#item-f383a352d"
 unparsed: 
-line: 'Head: ring|Page: p.38 [Image 1.98]|Entry: a|Entry: 1480 [Ring]|#item-ccea25773'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,2717,602,125/full/0/default.jpg
+line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232422769
-order: '3432'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,2717,602,125/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,2717,602,125/full/0/default.jpg
-label: ring
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/150,/0/default.jpg
+label: ripeness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0679'
 layout: index_item
 collection: index4
 ---

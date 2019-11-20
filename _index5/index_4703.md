@@ -2,29 +2,27 @@
 pid: index_4703
 volume: Volume 3
 image_number: '54'
-head: kidnapper
-entry: "<a href='/digital-beehive/toc/toc2_137/'>600 [Manstealing]</a>"
+head: Content or purpose
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4463 [Content]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:34.]"
-item: "#item-1919e4fb7"
-unparsed: 
-line: 'Type: Index|Insertion: [:34.]|Head: kidnapper|Entry: 600 [Manstealing]|#item-1919e4fb7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/full/0/default.jpg
+item: "#item-34b8b0fe8"
+unparsed: Type Index|Insertion [:35.]
+line: 'Type: Index|Insertion: [:35.]|Head: Content or purpose|Entry: 4463 [Content]|#item-34b8b0fe8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1065,1731,687,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955070127
-order: '4703'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/full/0/default.jpg
-label: kidnapper
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955203039
+insertion: "[:35.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1065,1731,687,170/150,/0/default.jpg
+label: Content or purpose
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '670'
 layout: index_item
 collection: index5
 ---

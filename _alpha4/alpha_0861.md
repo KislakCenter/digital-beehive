@@ -3,28 +3,26 @@ pid: alpha_0861
 volume: Volume 2
 image_number: '52'
 head: 
-entry: Shooting
-topic: Shooting
+entry: Shadow
+topic: Shadow
 first_letter: S
-xref: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Shooting]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3684/'>shooting</a>"
-insertion_xref: 
-insertion: 
-item: "#item-15982604d"
+xref: "<a href='/digital-beehive/toc/toc2_145/'>641 [the Shadow]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3655/'>shadow</a>"
+item: "#item-34247929a"
 unparsed: 
-line: 'Entry: Shooting|Topic: Shooting|Xref: 1526 [Shooting]|Index: shooting|#item-15982604d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,3228,2924,434/full/0/default.jpg
+line: 'Entry: Shadow|Topic: Shadow|Xref: 641 [the Shadow]|Index: shadow|#item-34247929a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,2967,398/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803633614
-order: '861'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,3228,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,3228,2924,434/full/0/default.jpg
-label: Shooting
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803271462
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,600,180/250,/0/default.jpg
+label: Shadow
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+num_match: 
+order: '213'
 layout: alpha_item
 collection: alpha4
 ---

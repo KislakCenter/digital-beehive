@@ -1,31 +1,28 @@
 ---
 pid: alpha_0567
 volume: Volume 2
-image_number: '31'
+image_number: '30'
 head: 
-entry: Man
-topic: Man
+entry: Maimed
+topic: Maimed
 first_letter: M
-xref: "<a href='/digital-beehive/alpha3/alpha_0485/'>inward man</a>|<a href='/digital-beehive/toc/toc2_218/'>1124
-  [Man]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2404/'>man</a>"
-insertion_xref: 
-insertion: 
-item: "#item-87610d91e"
+xref: "<a href='/digital-beehive/alpha5/alpha_1062/'>Wound</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
+item: "#item-b9f70ee6e"
 unparsed: 
-line: 'Entry: Man|Topic: Man|Xref: inward man|Xref: 1124 [Man]|Index: man|#item-87610d91e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/323,245,3092,840/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564772463105
-order: '567'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/323,245,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/323,245,3092,840/full/0/default.jpg
-label: Man
-location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+line: 'Entry: Maimed|Topic: Maimed|Xref: Wound|Index: maimed|#item-b9f70ee6e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,2974,394/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564772227256
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,3872,600,180/250,/0/default.jpg
+label: Maimed
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+num_match: 
+order: '123'
 layout: alpha_item
 collection: alpha3
 ---

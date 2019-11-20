@@ -2,29 +2,27 @@
 pid: index_3845
 volume: Volume 3
 image_number: '44'
-head: spinster
-entry: "<a href='/digital-beehive/toc/toc2_286/'>1464 [Spinster]</a>"
+head: Frz. Spira
+entry: "<a href='/digital-beehive/toc/toc2_141/'>619 [Francis Spira]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-610e053bc"
+item: "#item-719a160e5"
 unparsed: 
-line: 'Head: spinster|Entry: 1464 [Spinster]|#item-610e053bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/full/0/default.jpg
+line: 'Head: Frz. Spira|Entry: 619 [Francis Spira]|#item-719a160e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/979,3161,462,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942794193
-order: '3845'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/full/0/default.jpg
-label: spinster
+annotation_uri: http://dev.llgc.org.uk/annotation/1565288850756
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/979,3161,462,157/150,/0/default.jpg
+label: Frz. Spira
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+insertion_xref: 
+order: '1092'
 layout: index_item
 collection: index4
 ---

@@ -3,29 +3,28 @@ pid: alpha_0239
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Discord
-topic: Discord
+entry: Discontentment
+topic: Discontentment
 first_letter: D
-xref: "<a href='/digital-beehive/alpha5/alpha_0989/'>Unanimity</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1069/'>discord</a>"
-insertion_xref: 
-insertion: 
-item: "#item-40ce07a4f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Contentmt</a>|<a href='/digital-beehive/num1/num_0081/'>80
+  [Discontent]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1068/'>discontentmt</a>"
+item: "#item-868c94771"
 unparsed: 
-line: 'Entry: Discord|Topic: Discord|Xref: Unanimity|Xref: 840 [PAGE_MISSING]|Index:
-  discord|#item-40ce07a4f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,3093,725/full/0/default.jpg
+line: 'Entry: Discontentment|Topic: Discontentment|Xref: Contentmt|Xref: 80 [Discontent]|Index:
+  discontentmt|#item-868c94771'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,2995,558/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1486053269083
-order: '239'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,1957,3093,725/full/0/default.jpg
-label: Discord
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175021514
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,600,180/250,/0/default.jpg
+label: Discontentment
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '238'
 layout: alpha_item
 collection: alpha1
 ---

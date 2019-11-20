@@ -2,30 +2,27 @@
 pid: index_4422
 volume: Volume 3
 image_number: '51'
-head: unthankful
-entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/toc/toc2_098/'>347
-  [Unthankful]</a>|<a href='/digital-beehive/toc/toc2_220/'>1135 [Unthankfulness]</a>"
+head: until
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Till]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bf01bbfd0"
+item: "#item-9cd293b32"
 unparsed: 
-line: 'Head: unthankful|Entry: a|Entry: 347 [Unthankful]|Entry: 1135 [Unthankfulness]|#item-bf01bbfd0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,1959,706,157/full/0/default.jpg
+line: 'Head: until|Entry: 1398 [Till]|#item-9cd293b32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,2113,398,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645732510
-order: '4422'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,1959,706,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,1959,706,157/full/0/default.jpg
-label: unthankful
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645758180
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,2113,398,159/150,/0/default.jpg
+label: until
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+insertion_xref: 
+order: '389'
 layout: index_item
 collection: index5
 ---

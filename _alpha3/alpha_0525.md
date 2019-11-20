@@ -3,31 +3,26 @@ pid: alpha_0525
 volume: Volume 2
 image_number: '27'
 head: 
-entry: Learning
-topic: Learning
+entry: Leanness
+topic: Leanness
 first_letter: L
-xref: "<a href='/digital-beehive/alpha1/alpha_0255/'>doctrine</a>|<a href='/digital-beehive/alpha4/alpha_0827/'>School</a>|<a
-  href='/digital-beehive/alpha4/alpha_0913/'>Student</a>|<a href='/digital-beehive/toc/toc2_079/'>212
-  [Learning]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2238/'>learning</a>"
-insertion_xref: 
-insertion: 
-item: "#item-d520bb02c"
+xref: "<a href='/digital-beehive/num2/num_0354/'>310 [Leanness]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2236/'>lean[n]ess</a>"
+item: "#item-611d33851"
 unparsed: 
-line: 'Entry: Learning|Topic: Learning|Xref: doctrine|Xref: School|Xref: Student|Xref:
-  212 [Learning]|Index: learning|#item-d520bb02c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/363,2130,2990,493/full/0/default.jpg
+line: 'Entry: Leanness|Topic: Leanness|XRef: 310 [Leanness]|Index: lean[n]ess|#item-611d33851'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/313,1808,3058,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768629994
-order: '525'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/363,2130,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/363,2130,2990,493/full/0/default.jpg
-label: Learning
+annotation_uri: http://dev.llgc.org.uk/annotation/1508964141836
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/313,1808,600,180/250,/0/default.jpg
+label: Leanness
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+num_match: 
+order: '081'
 layout: alpha_item
 collection: alpha3
 ---

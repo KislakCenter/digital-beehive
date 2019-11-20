@@ -3,28 +3,28 @@ pid: alpha_0256
 volume: Volume 1
 image_number: '451'
 head: 
-entry: Dog
-topic: Dog
+entry: Doctrine
+topic: Doctrine
 first_letter: D
-xref: "<a href='/digital-beehive/toc/toc2_261/'>1338 [Dog]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1126/'>dog</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b80ead891"
+xref: "<a href='/digital-beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
+  href='/digital-beehive/toc/toc2_421/'>2440 [To Teach]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1124/'>doctrine</a>"
+item: "#item-664bc12aee"
 unparsed: 
-line: 'Entry: Dog|Topic: Dog|Xref: 1338 [Dog]|Index: Dog|#item-b80ead891'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,3026,434/full/0/default.jpg
+line: 'Entry: Doctrine|Topic: Doctrine|Xref: Catechism|Xref: Learning|Xref: 2440 [To
+  Teach]|Index: doctrine|#item-664bc12aee'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/346,2268,3112,679/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508178087488
-order: '256'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,2856,3026,434/full/0/default.jpg
-label: Dog
+annotation_uri: http://dev.llgc.org.uk/annotation/1564078947850
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/346,2268,600,180/250,/0/default.jpg
+label: Doctrine
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+num_match: 
+order: '255'
 layout: alpha_item
 collection: alpha1
 ---

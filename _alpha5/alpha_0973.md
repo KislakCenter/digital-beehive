@@ -1,30 +1,30 @@
 ---
 pid: alpha_0973
 volume: Volume 2
-image_number: '61'
+image_number: '60'
 head: 
-entry: Turk
-topic: Turk
+entry: Tradition
+topic: Tradition
 first_letter: T
-xref: "<a href='/digital-beehive/toc/toc2_371/'>2053 [Turk]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4266/'>turk</a>"
-insertion_xref: 
-insertion: 
-item: "#item-aea4094df"
+xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|hearsay|<a href='/digital-beehive/num2/num_0599/'>484
+  [Tradition]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4209/'>tradition</a>"
+item: "#item-606ddb1f8"
 unparsed: 
-line: 'Entry: Turk|Topic: Turk|Xref: 2053 [Turk]|Index: turk|#item-aea4094df'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/271,246,3109,378/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565115373822
-order: '973'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/271,246,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/271,246,3109,378/full/0/default.jpg
-label: Turk
-location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+line: 'Entry: Tradition|Topic: Tradition|Xref: Gloss|Xref: hearsay|Xref: 484 [Tradition]|Index:
+  tradition|#item-606ddb1f8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,3000,488/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114889479
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,600,180/250,/0/default.jpg
+label: Tradition
+location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+num_match: 
+order: '038'
 layout: alpha_item
 collection: alpha5
 ---

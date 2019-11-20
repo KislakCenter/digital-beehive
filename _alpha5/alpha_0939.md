@@ -1,32 +1,29 @@
 ---
 pid: alpha_0939
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Testimony
-topic: Testimony
+entry: Teacher
+topic: Teacher
 first_letter: T
-xref: "<a href='/digital-beehive/alpha4/alpha_0741/'>Proof</a>|<a href='/digital-beehive/toc/toc2_063/'>61
-  [Prosecution]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4102/'>testimony</a>"
-insertion_xref: 
-insertion: 
-item: "#item-4dde9e62"
+xref: "<a href='/digital-beehive/num2/num_0478/'>393 [Teacher]</a>|False Prophets"
+see: 
+index: "<a href='/digital-beehive/index5/index_4072/'>teachers</a>"
+item: "#item-e5a7c5921"
 unparsed: 
-line: 'Entry: Testimony|Topic: Testimony|Xref: Proof|Xref: 61 [Prosecution]|Index:
-  testimony|#item-4dde9e62'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,3006,551/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113581729
-order: '939'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,3006,551/full/0/default.jpg
-label: Testimony
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Teacher|Topic: Teacher|Xref: 393 [Teacher]|Xref: False Prophets|Index:
+  teachers|#item-e5a7c5921'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/346,3102,3049,560/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528920983598
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/346,3102,600,180/250,/0/default.jpg
+label: Teacher
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '004'
 layout: alpha_item
 collection: alpha5
 ---

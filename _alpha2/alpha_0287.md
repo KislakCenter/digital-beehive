@@ -3,30 +3,28 @@ pid: alpha_0287
 volume: Volume 1
 image_number: '454'
 head: 
-entry: Equality
-topic: Equality
+entry: Epitaph
+topic: Epitaph
 first_letter: E
-xref: "<a href='/digital-beehive/alpha3/alpha_0469/'>Inequ.y</a>|<a href='/digital-beehive/toc/toc2_219/'>1129
-  [Equality]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1286/'>equality</a>"
-insertion_xref: 
-insertion: 
-item: "#item-52585936e"
+xref: "<a href='/digital-beehive/alpha3/alpha_0479/'>Inscriptions</a>|<a href='/digital-beehive/num1/num_0264/'>245
+  [Epitaphs]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1285/'>epitaphs</a>"
+item: "#item-1a230df78"
 unparsed: 
-line: 'Entry: Equality|Topic: Equality|Xref: Inequ.y|Xref: 1129 [Equality]|Index:
-  equality|#item-52585936e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,3017,572/full/0/default.jpg
+line: 'Entry: Epitaph|Topic: Epitaph|Xref: Inscriptions|Xref: 245 [Epitaphs]|Index:
+  epitaphs|#item-1a230df78'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,236,3024,518/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564584882409
-order: '287'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/767,612,3017,572/full/0/default.jpg
-label: Equality
+annotation_uri: http://dev.llgc.org.uk/annotation/1564584640313
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,236,600,180/250,/0/default.jpg
+label: Epitaph
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
+num_match: 
+order: '018'
 layout: alpha_item
 collection: alpha2
 ---

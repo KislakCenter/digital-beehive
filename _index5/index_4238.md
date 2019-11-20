@@ -2,29 +2,27 @@
 pid: index_4238
 volume: Volume 3
 image_number: '48'
-head: tribunal
-entry: 861 [PAGE_MISSING]
+head: tricks
+entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 topic: 
 first_letter: T
+page: 
+add: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
 xref: 
 see: 
-page: 
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2353dc02e"
+item: "#item-f3e024523"
 unparsed: 
-line: 'Head: tribunal|Entry: 861 [PAGE_MISSING]|#item-2353dc02e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1191,535,149/full/0/default.jpg
+line: 'Head: tricks|Entry: 1228 [Craftiness]|Add: craftiness|#item-f3e024523'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088530263
-order: '4238'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1191,535,149/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1798,1191,535,149/full/0/default.jpg
-label: tribunal
+annotation_uri: http://dev.llgc.org.uk/annotation/1562088664170
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/150,/0/default.jpg
+label: tricks
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+insertion_xref: 
+order: '205'
 layout: index_item
 collection: index5
 ---

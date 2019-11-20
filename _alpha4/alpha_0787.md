@@ -3,31 +3,27 @@ pid: alpha_0787
 volume: Volume 2
 image_number: '47'
 head: 
-entry: Reproof
-topic: Reproof
+entry: Reliques
+topic: Reliques
 first_letter: R
-xref: "<a href='/digital-beehive/alpha4/alpha_0753/'>Punishmt</a>|<a href='/digital-beehive/toc/toc2_074/'>177
-  [Strain a gnat]</a>|<a href='/digital-beehive/toc/toc2_075/'>188 [Reproof]</a>|<a
-  href='/digital-beehive/toc/toc2_173/'>928 [Reproof]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3380/'>reproof</a>"
-insertion_xref: 
-insertion: 
-item: "#item-619af4159"
+xref: Old rags|<a href='/digital-beehive/toc/toc2_270/'>1385 [Reliques]</a>
+see: 
+index: "<a href='/digital-beehive/index4/index_3350/'>reliques</a>"
+item: "#item-d3ad071e9"
 unparsed: 
-line: 'Entry: Reproof|Topic: Reproof|Xref: Punishmt|Xref: 177 [Strain a gnat]|Xref:
-  188 [Reproof]|Xref: 928 [Reproof]|Index: reproof|#item-619af4159'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,2636,2956,434/full/0/default.jpg
+line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
+  reliques|#item-d3ad071e9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,3052,416/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528746697852
-order: '787'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,2636,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,2636,2956,434/full/0/default.jpg
-label: Reproof
+annotation_uri: http://dev.llgc.org.uk/annotation/1523300704294
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,238,600,180/250,/0/default.jpg
+label: Reliques
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+num_match: 
+order: '140'
 layout: alpha_item
 collection: alpha4
 ---

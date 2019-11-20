@@ -2,30 +2,27 @@
 pid: index_3329
 volume: Volume 3
 image_number: '39'
-head: redemption
-entry: "<a href='/digital-beehive/alpha4/alpha_0775/'>a</a>|<a href='/digital-beehive/toc/toc2_404/'>2306
-  [Redemption]</a>"
+head: to reel
+entry: "<a href='/digital-beehive/toc/toc2_156/'>701 [To Reel]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-793902691"
+item: "#item-b9d66091b"
 unparsed: 
-line: 'Head: redemption|Entry: a|Entry: 2306 [Redemption]|#item-793902691'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/full/0/default.jpg
+line: 'Head: to reel|Entry: 701 [To Reel]|#item-b9d66091b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/135,1062,411,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463559557
-order: '3329'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/137,962,641,148/full/0/default.jpg
-label: redemption
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463637491
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/135,1062,411,133/150,/0/default.jpg
+label: to reel
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+insertion_xref: 
+order: '0576'
 layout: index_item
 collection: index4
 ---

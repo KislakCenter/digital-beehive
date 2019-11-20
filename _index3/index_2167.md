@@ -2,29 +2,27 @@
 pid: index_2167
 volume: Volume 3
 image_number: '27'
-head: kitchin stuff
-entry: "<a href='/digital-beehive/toc/toc2_287/'>1469 [To a Kitchin belongs]</a>"
+head: kite
+entry: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite. a hawk]</a>"
 topic: 
 first_letter: K
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5080e0ede"
+item: "#item-844baa882"
 unparsed: 
-line: 'Head: kitchin stuff|Entry: 1469 [To a Kitchin belongs]|#item-5080e0ede'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1644,425,136/full/0/default.jpg
+line: 'Head: kite|Entry: 1351 [a kite. a hawk]|#item-844baa882'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1750,340,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762199160
-order: '2167'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1644,425,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1644,425,136/full/0/default.jpg
-label: kitchin stuff
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762275399
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1750,340,129/150,/0/default.jpg
+label: kite
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '248'
 layout: index_item
 collection: index3
 ---

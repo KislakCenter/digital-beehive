@@ -2,29 +2,27 @@
 pid: index_3508
 volume: Volume 3
 image_number: '41'
-head: salve
-entry: 821 [PAGE_MISSING]
+head: salvo honore
+entry: "<a href='/digital-beehive/toc/toc2_282/'>1441 [With permission]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-e206765f7"
+item: "#item-7dd8a2e14"
 unparsed: 
-line: 'Head: salve|Entry: 821 [PAGE_MISSING]|#item-e206765f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/163,826,364,132/full/0/default.jpg
+line: 'Head: salvo honore|Entry: 1441 [With permission]|#item-7dd8a2e14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,922,585,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238428582
-order: '3508'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/163,826,364,132/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/163,826,364,132/full/0/default.jpg
-label: salve
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238456314
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,922,585,136/150,/0/default.jpg
+label: salvo honore
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0755'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_0604
 volume: Volume 3
 image_number: '12'
-head: characters magical
-entry: "<a href='/digital-beehive/toc/toc2_303/'>1542 [homerical Medicines]</a>"
+head: chariots
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5988f6a01"
+item: "#item-658b7a665"
 unparsed: 
-line: 'Head: characters magical|Entry: 1542 [homerical Medicines]|#item-5988f6a01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,3376,585,116/full/0/default.jpg
+line: 'Head: chariots|Entry: 1162 [Carriage]|#item-658b7a665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,3435,432,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443247318
-order: '604'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,3376,585,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,3376,585,116/full/0/default.jpg
-label: characters magical
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443545970
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,3435,432,98/150,/0/default.jpg
+label: chariots
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0603'
 layout: index_item
 collection: index1
 ---

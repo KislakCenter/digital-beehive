@@ -1,32 +1,30 @@
 ---
 pid: alpha_0649
 volume: Volume 2
-image_number: '37'
+image_number: '36'
 head: 
-entry: Occasion
-topic: Occasion
+entry: Obedience
+topic: Obedience
 first_letter: O
-xref: "<a href='/digital-beehive/alpha5/alpha_1000/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0947/'>Time</a>|<a
-  href='/digital-beehive/toc/toc2_157/'>706 [Occasion]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2766/'>occasion</a>"
-insertion_xref: 
-insertion: 
-item: "#item-2e7db2854"
+xref: "<a href='/digital-beehive/alpha1/alpha_0243/'>disobed</a>|<a href='/digital-beehive/toc/toc2_183/'>985
+  [Obedience]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2755/'>obedience</a>"
+item: "#item-7dfdfd864"
 unparsed: 
-line: 'Entry: Occasion|Topic: Occasion|Xref: Untimely|Xref: Time|Xref: 706 [Occasion]|Index:
-  occasion|#item-2e7db2854'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,3091,397/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016545296
-order: '649'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,3091,397/full/0/default.jpg
-label: Occasion
-location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+line: 'Entry: Obedience|Topic: Obedience|Xref: disobed|Xref: 985 [Obedience]|Index:
+  obedience|#item-7dfdfd864'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/704,4418,3061,628/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016107334
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/704,4418,600,180/250,/0/default.jpg
+label: Obedience
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+num_match: 
+order: '002'
 layout: alpha_item
 collection: alpha4
 ---

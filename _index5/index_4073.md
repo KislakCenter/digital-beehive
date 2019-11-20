@@ -2,32 +2,30 @@
 pid: index_4073
 volume: Volume 3
 image_number: '47'
-head: teachers
-entry: "<a href='/digital-beehive/alpha5/alpha_0931/'>a</a>|<a href='/digital-beehive/toc/toc2_104/'>393
-  [Teacher]</a>|<a href='/digital-beehive/toc/toc2_200/'>1031 [Teachers]</a>|<a href='/digital-beehive/toc/toc2_313/'>1592
-  [Teachers]</a>|<a href='/digital-beehive/toc/toc2_419/'>2428 [Teachers]</a>"
+head: teachers false
+entry: "<a href='/digital-beehive/toc/toc2_246/'>1264 [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_344/'>1784
+  [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_402/'>2294 [False Teachers]</a>|<a
+  href='/digital-beehive/toc/toc2_422/'>4448 [False Teachers]</a>|4500 [PAGE_MISSING]"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-da27e8461"
+item: "#item-8c764be3e"
 unparsed: 
-line: 'Head: teachers|Entry: a|Entry: 393 [Teacher]|Entry: 1031 [Teachers]|Entry:
-  1592 [Teachers]|Entry: 2428 [Teachers]|#item-da27e8461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/183,530,641,159/full/0/default.jpg
+line: 'Head: teachers false|Entry: 1264 [False Teachers]|Entry: 1784 [False Teachers]|Entry:
+  2294 [False Teachers]|Entry: 4448 [False Teachers]|Entry: 4500 [PAGE_MISSING]|#item-8c764be3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/178,683,784,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528920975915
-order: '4073'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/183,530,641,159/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/183,530,641,159/full/0/default.jpg
-label: teachers
+annotation_uri: http://dev.llgc.org.uk/annotation/1560279049755
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/178,683,784,122/150,/0/default.jpg
+label: teachers false
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '040'
 layout: index_item
 collection: index5
 ---

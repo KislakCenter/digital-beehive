@@ -3,28 +3,26 @@ pid: alpha_0689
 volume: Volume 2
 image_number: '39'
 head: 
-entry: Peach
-topic: Peach
+entry: Pawn
+topic: Pawn
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2932/'>peach</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c3ca7d5f7"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_2928/'>pawn</a>"
+item: "#item-ab2cfebee"
 unparsed: 
-line: 'Entry: Peach|Topic: Peach|Index: peach|#item-c3ca7d5f7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/337,3371,2932,237/full/0/default.jpg
+line: 'Entry: Pawn|Topic: Pawn|Index:  pawn|#item-ab2cfebee'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/320,2046,3028,327/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565022211627
-order: '689'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/337,3371,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/337,3371,2932,237/full/0/default.jpg
-label: Peach
+annotation_uri: http://dev.llgc.org.uk/annotation/1565021969018
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/320,2046,600,180/250,/0/default.jpg
+label: Pawn
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+num_match: 
+order: '042'
 layout: alpha_item
 collection: alpha4
 ---

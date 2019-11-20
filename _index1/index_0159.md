@@ -6,25 +6,23 @@ head: antinomians
 entry: "<a href='/digital-beehive/toc/toc2_069/'>123 [Antinomians]</a>"
 topic: 
 first_letter: A
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-00cc5de3a"
 unparsed: 
 line: 'Head: antinomians|Entry: 123 [Antinomians]|#item-00cc5de3a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/363,3063,616,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564759241719
-order: '159'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/363,3063,616,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/363,3063,616,120/full/0/default.jpg
 label: antinomians
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+insertion_xref: 
+order: '0158'
 layout: index_item
 collection: index1
 ---

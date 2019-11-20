@@ -1,30 +1,30 @@
 ---
 pid: alpha_1055
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Wrath of God
-topic: Wrath of God
+entry: good Works
+topic: good Works
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4630/'>wrath of God</a>"
-insertion_xref: 
-insertion: 
-item: "#item-73641b037"
+xref: "<a href='/digital-beehive/alpha1/alpha_0215/'>Deed</a>|<a href='/digital-beehive/toc/toc2_206/'>1062
+  [Good Works]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4612/'>good works</a>"
+item: "#item-e444ebf80"
 unparsed: 
-line: 'Entry: Wrath of God|Topic: Wrath of God|Index: wrath of God|#item-73641b037'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,3004,346/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529599323806
-order: '1055'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,3004,346/full/0/default.jpg
-label: Wrath of God
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: good Works|Topic: good Works|Xref: Deed|Xref: 1062 [Good Works]|Index:
+  good works|#item-e444ebf80'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,2986,632/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529596141746
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/785,2665,600,180/250,/0/default.jpg
+label: good Works
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '120'
 layout: alpha_item
 collection: alpha5
 ---

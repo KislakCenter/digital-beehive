@@ -2,29 +2,28 @@
 pid: index_4696
 volume: Volume 3
 image_number: '54'
-head: ἀνδρωποπαδῶς
-entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Catachresis]</a>"
+head: pink. gillifl.
+entry: "<a href='/digital-beehive/toc/toc2_404/'>2302 [Pincks or Gilli flowers]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:30.]"
-item: "#item-fa717f87e"
-unparsed: 
-line: 'Type: Index|Insertion: [:30.]|Head: ἀνδρωποπαδῶς|Entry: 725 [Catachresis]|#item-fa717f87e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/full/0/default.jpg
+item: "#item-946c74a5a"
+unparsed: Type Index|Insertion [:31.]
+line: 'Type: Index|Insertion: [:31.]|Head: pink. gillifl. |Entry: 2302 [Pincks or
+  Gilli flowers]|#item-946c74a5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1082,1153,705,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560954192616
-order: '4696'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/full/0/default.jpg
-label: ἀνδρωποπαδῶς
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954441481
+insertion: "[:31.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1082,1153,705,174/150,/0/default.jpg
+label: pink. gillifl.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '663'
 layout: index_item
 collection: index5
 ---

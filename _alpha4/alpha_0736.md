@@ -3,28 +3,28 @@ pid: alpha_0736
 volume: Volume 2
 image_number: '43'
 head: 
-entry: Prognostications
-topic: Prognostications
+entry: Privacy
+topic: Privacy
 first_letter: P
-xref: "<a href='/digital-beehive/toc/toc2_072/'>158 [Sign]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3183/'>prognostica[ti]ons</a>"
-insertion_xref: 
-insertion: 
-item: "#item-46c12529d"
+xref: "<a href='/digital-beehive/alpha4/alpha_0892/'>Solitude</a>|<a href='/digital-beehive/alpha2/alpha_0425/'>Home</a>|<a
+  href='/digital-beehive/num1/num_0178/'>171 [Private]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3164/'>privacy</a>"
+item: "#item-cff356199"
 unparsed: 
-line: 'Entry: Prognostications|Topic: Prognostications|Xref: 158 [Sign]|Index: prognostica[ti]ons|#item-46c12529d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,3051,604/full/0/default.jpg
+line: 'Entry: Privacy|Topic: Privacy|Xref: Solitude|Xref: Home|Xref: 171 [Private]|Index:
+  privacy|#item-cff356199'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/314,621,3052,369/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528668373495
-order: '736'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,3051,604/full/0/default.jpg
-label: Prognostications
+annotation_uri: http://dev.llgc.org.uk/annotation/1528405377011
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/314,621,600,180/250,/0/default.jpg
+label: Privacy
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+num_match: 
+order: '089'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,28 @@
 pid: index_4511
 volume: Volume 3
 image_number: '52'
-head: week
-entry: "<a href='/digital-beehive/toc/toc2_114/'>460 [Week]</a>"
+head: weeping
+entry: "<a href='/digital-beehive/alpha5/alpha_1030/'>a</a>|<a href='/digital-beehive/toc/toc2_143/'>630
+  [Weeping]</a>|<a href='/digital-beehive/toc/toc2_279/'>1428 [Weeping]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-96f269320"
+item: "#item-2097ff5cb"
 unparsed: 
-line: 'Head: week|Entry: 460 [Week]|#item-96f269320'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1091,519,375,96/full/0/default.jpg
+line: 'Head: weeping|Entry: a|Entry: 630 [Weeping]|Entry: 1428 [Weeping]|#item-2097ff5cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1081,638,719,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968111101
-order: '4511'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1091,519,375,96/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1091,519,375,96/full/0/default.jpg
-label: week
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968218634
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1081,638,719,120/150,/0/default.jpg
+label: weeping
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+insertion_xref: 
+order: '478'
 layout: index_item
 collection: index5
 ---

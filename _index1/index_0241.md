@@ -6,25 +6,23 @@ head: attonemt
 entry: 
 topic: 
 first_letter: A
-xref: 
-see: reconcil
 page: 
 add: 
-type: 
+xref: 
+see: reconcil
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-82e2f57d6"
 unparsed: 
 line: 'Head: attonemt|See: reconcil|#item-82e2f57d6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/179,919,614,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565015015408
-order: '241'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/179,919,614,119/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/179,919,614,119/full/0/default.jpg
 label: attonemt
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0240'
 layout: index_item
 collection: index1
 ---

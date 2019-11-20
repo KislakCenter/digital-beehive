@@ -2,30 +2,27 @@
 pid: index_4288
 volume: Volume 3
 image_number: '49'
-head: vagabonds
-entry: "<a href='/digital-beehive/alpha5/alpha_0976/'>a</a>|<a href='/digital-beehive/toc/toc2_142/'>623
-  [Vagabond]</a>"
+head: vail
+entry: "<a href='/digital-beehive/toc/toc2_283/'>1448 [Vail]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bec0a5262"
+item: "#item-be9e66e2b"
 unparsed: 
-line: 'Head: vagabonds|Entry: a|Entry: 623 [Vagabond]|#item-bec0a5262'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,428,593,147/full/0/default.jpg
+line: 'Head: vail|Entry: 1448 [Vail]|#item-be9e66e2b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/933,570,378,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657551109
-order: '4288'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,428,593,147/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/929,428,593,147/full/0/default.jpg
-label: vagabonds
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657577184
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/933,570,378,96/150,/0/default.jpg
+label: vail
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '255'
 layout: index_item
 collection: index5
 ---

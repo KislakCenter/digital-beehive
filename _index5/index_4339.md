@@ -2,29 +2,27 @@
 pid: index_4339
 volume: Volume 3
 image_number: '49'
-head: virago
-entry: "<a href='/digital-beehive/toc/toc2_076/'>192 [Dames governmt]</a>"
+head: Virginia
+entry: "<a href='/digital-beehive/toc/toc2_299/'>1521 [Virginia]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a38d077ef"
+item: "#item-606867e5f"
 unparsed: 
-line: 'Head: virago|Entry: 192 [Dames governmt]|#item-a38d077ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/full/0/default.jpg
+line: 'Head: Virginia|Entry: 1521 [Virginia]|#item-606867e5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660960533
-order: '4339'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/full/0/default.jpg
-label: virago
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661059857
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,2333,446,150/150,/0/default.jpg
+label: Virginia
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '306'
 layout: index_item
 collection: index5
 ---

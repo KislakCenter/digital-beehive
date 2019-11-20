@@ -2,30 +2,27 @@
 pid: index_0511
 volume: Volume 3
 image_number: '11'
-head: calling to the ministry
-entry: "<a href='/digital-beehive/toc/toc2_168/'>904 [Calling]</a>|<a href='/digital-beehive/toc/toc2_396/'>2261
-  [Call]</a>"
+head: Callis
+entry: "<a href='/digital-beehive/toc/toc2_287/'>1467 [Callis]</a>"
 topic: 
 first_letter: C
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-33e36a803"
+item: "#item-5675efcf0"
 unparsed: 
-line: 'Head: calling to the ministry|Entry: 904 [Calling]|Entry: 2261 [Call]|#item-33e36a803'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,578,719,136/full/0/default.jpg
+line: 'Head: Callis|Entry: 1467 [Callis]|#item-5675efcf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,710,447,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494492728
-order: '511'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,578,719,136/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1575,578,719,136/full/0/default.jpg
-label: calling to the ministry
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494571677
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,710,447,150/150,/0/default.jpg
+label: Callis
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+insertion_xref: 
+order: '0510'
 layout: index_item
 collection: index1
 ---

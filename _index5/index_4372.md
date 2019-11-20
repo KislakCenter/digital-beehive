@@ -2,30 +2,27 @@
 pid: index_4372
 volume: Volume 3
 image_number: '50'
-head: understanding
-entry: "<a href='/digital-beehive/alpha5/alpha_0992/'>a</a>|<a href='/digital-beehive/toc/toc2_333/'>1693
-  [Understanding]</a>"
+head: to undertake
+entry: "<a href='/digital-beehive/toc/toc2_139/'>608 [Undertaking]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-1e8ebe396"
+item: "#item-7081f3526"
 unparsed: 
-line: 'Head: understanding|Entry: a|Entry: 1693 [Understanding]|#item-1e8ebe396'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/417,2699,694,135/full/0/default.jpg
+line: 'Head: to undertake|Entry: 608 [Undertaking]|#item-7081f3526'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/409,2811,618,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560873513887
-order: '4372'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/417,2699,694,135/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/417,2699,694,135/full/0/default.jpg
-label: understanding
+annotation_uri: http://dev.llgc.org.uk/annotation/1560873571427
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/409,2811,618,127/150,/0/default.jpg
+label: to undertake
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+insertion_xref: 
+order: '339'
 layout: index_item
 collection: index5
 ---

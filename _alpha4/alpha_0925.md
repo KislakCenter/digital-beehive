@@ -1,30 +1,28 @@
 ---
 pid: alpha_0925
 volume: Volume 2
-image_number: '57'
+image_number: '56'
 head: 
-entry: Swan
-topic: Swan
+entry: Sugar
+topic: Sugar
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_4015/'>Swan</a>"
-insertion_xref: 
-insertion: 
-item: "#item-40ca2f920"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index4/index_3976/'>sugar</a>"
+item: "#item-15b291398"
 unparsed: 
-line: 'Entry: Swan|Topic: Swan|Index: Swan|#item-40ca2f920'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,1413,3050,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532613055529
-order: '925'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,1413,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,1413,3050,198/full/0/default.jpg
-label: Swan
-location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+line: 'Entry: Sugar|Topic: Sugar|Index: sugar|#item-15b291398'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/761,2923,3002,408/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532551364229
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/761,2923,600,180/250,/0/default.jpg
+label: Sugar
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+num_match: 
+order: '277'
 layout: alpha_item
 collection: alpha4
 ---

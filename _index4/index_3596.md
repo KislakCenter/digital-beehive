@@ -2,29 +2,27 @@
 pid: index_3596
 volume: Volume 3
 image_number: '41'
-head: seeking God
-entry: "<a href='/digital-beehive/toc/toc2_414/'>2394 [Coming to God]</a>"
+head: seemingly
+entry: "<a href='/digital-beehive/alpha4/alpha_0846/'>a</a>|846 [PAGE_MISSING]"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-89816b84d"
+item: "#item-9d36d73cf"
 unparsed: 
-line: 'Head: seeking God|Entry: 2394 [Coming to God]|#item-89816b84d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1600,3102,447,120/full/0/default.jpg
+line: 'Head: seemingly|Entry: a|Entry: 846 [PAGE_MISSING]|#item-9d36d73cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1583,3160,652,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243140451
-order: '3596'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1600,3102,447,120/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1600,3102,447,120/full/0/default.jpg
-label: seeking God
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243201004
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1583,3160,652,179/150,/0/default.jpg
+label: seemingly
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0843'
 layout: index_item
 collection: index4
 ---

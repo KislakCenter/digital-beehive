@@ -2,29 +2,27 @@
 pid: index_0298
 volume: Volume 3
 image_number: '9'
-head: bargain
-entry: 
+head: barley
+entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Barley]</a>"
 topic: 
 first_letter: B
-xref: 
-see: "<a href='/digital-beehive/index1/index_0081/'>agreemt</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-bbc737e6a"
+item: "#item-873b97e4a"
 unparsed: 
-line: 'Head: bargain|See: agreemt|#item-bbc737e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/917,2984,661,133/full/0/default.jpg
+line: 'Head: barley|Entry: 664 [Barley]|#item-873b97e4a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/895,3069,359,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105238225
-order: '298'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/917,2984,661,133/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/917,2984,661,133/full/0/default.jpg
-label: bargain
+annotation_uri: http://dev.llgc.org.uk/annotation/1506105472055
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/895,3069,359,119/150,/0/default.jpg
+label: barley
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+insertion_xref: 
+order: '0297'
 layout: index_item
 collection: index1
 ---

@@ -2,29 +2,27 @@
 pid: index_0618
 volume: Volume 3
 image_number: '12'
-head: chearful
+head: cheat
 entry: 
 topic: 
 first_letter: C
-xref: 
-see: "<a href='/digital-beehive/index2/index_1287/'>equanimity</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-35346d7a8"
+item: "#item-c94a4acd1"
 unparsed: 
-line: 'Head: chearful|See: equanimity|#item-35346d7a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/full/0/default.jpg
+line: 'Head: cheat|See: fraud|#item-c94a4acd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459174242
-order: '618'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/full/0/default.jpg
-label: chearful
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459211282
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/150,/0/default.jpg
+label: cheat
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+insertion_xref: 
+order: '0617'
 layout: index_item
 collection: index1
 ---

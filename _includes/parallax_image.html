@@ -2,7 +2,7 @@
   {% assign image = image %}
 {% else %}
   {% assign item  = site[include.collection] | where: 'pid', include.pid | first %}
-  {% assign image = item.full %}
+  {% assign image = item.selection %}
 {% endif %}
 
 {%- capture style -%}

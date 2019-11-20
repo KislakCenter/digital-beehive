@@ -2,29 +2,28 @@
 pid: index_3659
 volume: Volume 3
 image_number: '42'
-head: shambles
-entry: 
+head: shame
+entry: "<a href='/digital-beehive/alpha4/alpha_0862/'>a</a>|<a href='/digital-beehive/num2/num_0592/'>478
+  [Shame]</a>|<a href='/digital-beehive/toc/toc2_443/'>4885 [Shames]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_057/'>p.7 [Image 1.67]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b5510b6b2"
+item: "#item-559ccd300"
 unparsed: 
-line: 'Head: shambles|Page: p.7 [Image 1.67]|#item-b5510b6b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1102,2492,542,176/full/0/default.jpg
+line: 'Head: shame|Entry: a|Entry: 478 [Shame]|Entry: 4885 [Shames]|#item-559ccd300'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1093,2655,666,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574819507
-order: '3659'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1102,2492,542,176/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1102,2492,542,176/full/0/default.jpg
-label: shambles
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574862986
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1093,2655,666,149/150,/0/default.jpg
+label: shame
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+insertion_xref: 
+order: '0906'
 layout: index_item
 collection: index4
 ---

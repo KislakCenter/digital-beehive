@@ -1,31 +1,31 @@
 ---
 pid: alpha_1019
 volume: Volume 2
-image_number: '64'
+image_number: '63'
 head: 
-entry: Weather
-topic: Weather
+entry: War
+topic: War
 first_letter: W
-xref: "<a href='/digital-beehive/alpha4/alpha_0736/'>Prognostic</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4504/'>weather</a>"
-insertion_xref: 
-insertion: 
-item: "#item-56025d275"
+xref: "<a href='/digital-beehive/alpha4/alpha_0897/'>Souldier</a>|<a href='/digital-beehive/alpha4/alpha_0777/'>Rebellion</a>|<a
+  href='/digital-beehive/toc/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
+  href='/digital-beehive/toc/toc2_234/'>1204 [War]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4474/'>war</a>"
+item: "#item-46da5ca45"
 unparsed: 
-line: 'Entry: Weather|Topic: Weather|Xref: Prognostic|Xref: 4734 [PAGE_MISSING]|Index:
-  weather|#item-56025d275'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,2949,509/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529524530362
-order: '1019'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/818,2260,2949,509/full/0/default.jpg
-label: Weather
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+line: 'Entry: War|Topic: War|Xref: Souldier|Xref: Rebellion|Xref: 488 [unlawfull for
+  Xtians to wage war]|Xref: 1204 [War]|Index: war|#item-46da5ca45'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,2986,749/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522235581
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,600,180/250,/0/default.jpg
+label: War
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+num_match: 
+order: '084'
 layout: alpha_item
 collection: alpha5
 ---

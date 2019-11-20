@@ -1,32 +1,28 @@
 ---
 pid: alpha_0606
 volume: Volume 2
-image_number: '34'
+image_number: '33'
 head: 
-entry: Mortifying
-topic: Mortifying
+entry: Moon
+topic: Moon
 first_letter: M
-xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Cross of Xst</a>|<a href='/digital-beehive/alpha5/alpha_1017/'>Small
-  Way</a>|<a href='/digital-beehive/toc/toc2_112/'>448 [Mortification]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2588/'>mortifying</a>"
-insertion_xref: 
-insertion: 
-item: "#item-bc399a654"
+xref: "<a href='/digital-beehive/toc/toc2_265/'>1357 [Moon]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2574/'>moon</a>"
+item: "#item-81a8ed7ca"
 unparsed: 
-line: 'Entry: Mortifying|Topic: Mortifying|Xref: Cross of Xst|Xref: Small Way|Xref:
-  448 [Mortification]|Index: mortifying|#item-bc399a654'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/722,409,3054,546/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564777145993
-order: '606'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/722,409,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/722,409,3054,546/full/0/default.jpg
-label: Mortifying
-location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+line: 'Entry: Moon|Topic: Moon|Xref: 1357 [Moon]|Index: moon|#item-81a8ed7ca'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,2943,321/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776821916
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,600,180/250,/0/default.jpg
+label: Moon
+location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+num_match: 
+order: '162'
 layout: alpha_item
 collection: alpha3
 ---

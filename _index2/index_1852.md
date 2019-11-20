@@ -6,25 +6,23 @@ head: hoarsness
 entry: 807 [PAGE_MISSING]
 topic: 
 first_letter: H
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-7cfc58916"
 unparsed: 
 line: 'Head: hoarsness|Entry: 807 [PAGE_MISSING]|#item-7cfc58916'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,841,439,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559581746883
-order: '1852'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,841,439,175/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,841,439,175/full/0/default.jpg
 label: hoarsness
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+insertion_xref: 
+order: '671'
 layout: index_item
 collection: index2
 ---

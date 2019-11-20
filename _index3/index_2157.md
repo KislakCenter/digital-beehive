@@ -2,29 +2,27 @@
 pid: index_2157
 volume: Volume 3
 image_number: '27'
-head: to kill
-entry: "<a href='/digital-beehive/toc/toc2_141/'>619 [to Kill]</a>"
+head: kind
+entry: "<a href='/digital-beehive/toc/toc2_370/'>2041 [Sort]</a>"
 topic: 
 first_letter: K
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ad52ddd4d"
+item: "#item-dd3697b6f"
 unparsed: 
-line: 'Head: to kill|Entry: 619 [to Kill]|#item-ad52ddd4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/847,547,391,115/full/0/default.jpg
+line: 'Head: kind|Entry: 2041 [Sort]|#item-dd3697b6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/838,607,361,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761395632
-order: '2157'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/847,547,391,115/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/847,547,391,115/full/0/default.jpg
-label: to kill
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761480184
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/838,607,361,99/150,/0/default.jpg
+label: kind
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+insertion_xref: 
+order: '238'
 layout: index_item
 collection: index3
 ---

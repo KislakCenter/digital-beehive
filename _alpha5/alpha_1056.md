@@ -1,30 +1,30 @@
 ---
 pid: alpha_1056
 volume: Volume 2
-image_number: '67'
+image_number: '66'
 head: 
-entry: Wrinkle
-topic: Wrinkle
+entry: World
+topic: World
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4633/'>wrinkle</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b1b13ccc2"
+xref: "<a href='/digital-beehive/alpha3/alpha_0560/'>Love of the World</a>|<a href='/digital-beehive/alpha1/alpha_0173/'>contempt</a>|<a
+  href='/digital-beehive/toc/toc2_245/'>1256 [Wild]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4616/'>world</a>"
+item: "#item-51052668f"
 unparsed: 
-line: 'Entry: Wrinkle|Topic: Wrinkle|Index: wrinkle|#item-b1b13ccc2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,2998,413/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529599423720
-order: '1056'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/345,2640,2998,413/full/0/default.jpg
-label: Wrinkle
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+line: 'Entry: World|Topic: World|Xref: Love of the World|Xref: contempt|Xref: 1256
+  [Wild]|Index: world|#item-51052668f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/799,3230,2993,1043/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529596588028
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/799,3230,600,180/250,/0/default.jpg
+label: World
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+num_match: 
+order: '121'
 layout: alpha_item
 collection: alpha5
 ---

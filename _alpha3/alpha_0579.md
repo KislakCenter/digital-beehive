@@ -1,32 +1,29 @@
 ---
 pid: alpha_0579
 volume: Volume 2
-image_number: '32'
+image_number: '31'
 head: 
-entry: Meditation
-topic: Meditation
+entry: Mediatour
+topic: Mediatour
 first_letter: M
-xref: "<a href='/digital-beehive/alpha1/alpha_0220/'>deliberation</a>|Contemplation|<a
-  href='/digital-beehive/toc/toc2_161/'>868 [Meditation]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2469/'>meditation</a>"
-insertion_xref: 
-insertion: 
-item: "#item-532b7736a"
+xref: "<a href='/digital-beehive/alpha3/alpha_0484/'>Intercession</a>|<a href='/digital-beehive/alpha4/alpha_0692/'>Peacemaker</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2464/'>mediator</a>"
+item: "#item-e03fccbbb"
 unparsed: 
-line: 'Entry: Meditation|Topic: Meditation|Xref: deliberation|Xref: Contemplation|Xref:
-  868 [Meditation]|Index: meditation|#item-532b7736a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/746,938,2990,553/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564773722988
-order: '579'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/746,938,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/746,938,2990,553/full/0/default.jpg
-label: Meditation
-location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Index:
+  mediator|#item-e03fccbbb'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/355,4602,3019,409/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564773278400
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/355,4602,600,180/250,/0/default.jpg
+label: Mediatour
+location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+num_match: 
+order: '135'
 layout: alpha_item
 collection: alpha3
 ---

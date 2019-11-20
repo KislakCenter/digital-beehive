@@ -3,29 +3,27 @@ pid: alpha_0456
 volume: Volume 2
 image_number: '21'
 head: 
-entry: Imagination
-topic: Imagination
+entry: Image of God
+topic: Image of God
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha4/alpha_0659/'>opinion</a>|<a href='/digital-beehive/alpha5/alpha_0943/'>thought</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_1958/'>imagination</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c17c682d7"
+xref: "<a href='/digital-beehive/toc/toc2_373/'>2077 [Image of God]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_1956/'>Image of God</a>"
+item: "#item-ab2c15b5b"
 unparsed: 
-line: 'Entry: Imagination|Topic: Imagination|Xref: opinion|Xref: thought|Xref: 736
-  [PAGE_MISSING]|Index: imagination|#item-c17c682d7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,3024,482/full/0/default.jpg
+line: 'Entry: Image of God|Topic: Image of God|Xref: 2077 [Image of God]|Index: Image
+  of God|#item-ab2c15b5b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/321,3914,3036,443/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759131884
-order: '456'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,4288,3024,482/full/0/default.jpg
-label: Imagination
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758924808
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/321,3914,600,180/250,/0/default.jpg
+label: Image of God
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+num_match: 
+order: '012'
 layout: alpha_item
 collection: alpha3
 ---

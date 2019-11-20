@@ -2,33 +2,27 @@
 pid: index_0966
 volume: Volume 3
 image_number: '15'
-head: death
-entry: "<a href='/digital-beehive/alpha1/alpha_0210/'>a</a>|<a href='/digital-beehive/toc/toc2_121/'>507
-  [Death passed upon all men]</a>|<a href='/digital-beehive/toc/toc2_227/'>1166 [Death]</a>|<a
-  href='/digital-beehive/toc/toc2_243/'>1247 [Death]</a>|<a href='/digital-beehive/toc/toc2_414/'>2391
-  [Death]</a>"
+head: death of Christ
+entry: "<a href='/digital-beehive/toc/toc2_134/'>582 [Death of Xst]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-725443b1e"
+item: "#item-d75a08170"
 unparsed: 
-line: 'Head: death|Entry: a|Entry: 507 [Death passed upon all men]|Entry: 1166 [Death]|Entry:
-  1247 [Death]|Entry: 2391 [Death]|#item-725443b1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1420,2859,863,206/full/0/default.jpg
+line: 'Head: death of Christ|Entry: 582 [Death of Xst]|#item-d75a08170'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507322361555
-order: '966'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1420,2859,863,206/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1420,2859,863,206/full/0/default.jpg
-label: death
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392063066
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/150,/0/default.jpg
+label: death of Christ
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+insertion_xref: 
+order: '0963'
 layout: index_item
 collection: index1
 ---

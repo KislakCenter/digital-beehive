@@ -3,30 +3,28 @@ pid: alpha_0245
 volume: Volume 1
 image_number: '450'
 head: 
-entry: Distrust
-topic: Distrust
+entry: Disputation
+topic: Disputation
 first_letter: D
-xref: "<a href='/digital-beehive/alpha5/alpha_0971/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0924/'>Suspition</a>|<a
-  href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|Desperate"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
-insertion_xref: 
-insertion: 
-item: "#item-a95c35cba"
+xref: "<a href='/digital-beehive/alpha4/alpha_0919/'>Strife</a>|<a href='/digital-beehive/num1/num_0177/'>170
+  [Disputation]</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_1095/'>disputation</a>"
+item: "#item-8b68258ba"
 unparsed: 
-line: 'Entry: Distrust|Topic: Distrust|Xref: Trusting|Xref: Suspition|Xref: Caution|Xref:
-  Desperate|Xref: 1842 [PAGE_MISSING]|Index: distrust|#item-a95c35cba'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,2974,565/full/0/default.jpg
+line: 'Entry: Disputation|Topic: Disputation|Xref: Strife|Xref: 170 [Disputation]|Index:
+  disputation|#item-8b68258ba'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,3901,2937,649/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175989105
-order: '245'
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,2974,565/full/0/default.jpg
-label: Distrust
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175751529
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,3901,600,180/250,/0/default.jpg
+label: Disputation
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+num_match: 
+order: '244'
 layout: alpha_item
 collection: alpha1
 ---

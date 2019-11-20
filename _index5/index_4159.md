@@ -2,29 +2,27 @@
 pid: index_4159
 volume: Volume 3
 image_number: '47'
-head: tin
-entry: 
+head: tinder
+entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Tinder]</a>"
 topic: 
 first_letter: T
-xref: 
-see: "<a href='/digital-beehive/index4/index_2979/'>pewter</a>"
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a23ef3708"
+item: "#item-e63d1518b"
 unparsed: 
-line: 'Head: tin|See: pewter|#item-a23ef3708'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/full/0/default.jpg
+line: 'Head: tinder|Entry: 229 [Tinder]|#item-e63d1518b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281050415
-order: '4159'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/full/0/default.jpg
-label: tin
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281117572
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/150,/0/default.jpg
+label: tinder
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '126'
 layout: index_item
 collection: index5
 ---

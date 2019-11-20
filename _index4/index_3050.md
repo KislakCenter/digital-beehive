@@ -2,29 +2,27 @@
 pid: index_3050
 volume: Volume 3
 image_number: '36'
-head: plumage
-entry: "<a href='/digital-beehive/toc/toc2_085/'>257 [Feathers]</a>"
+head: plums
+entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [Plums]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-312a1eed2"
+item: "#item-e2ec2476c"
 unparsed: 
-line: 'Head: plumage|Entry: 257 [Feathers]|#item-312a1eed2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/full/0/default.jpg
+line: 'Head: plums|Entry: 691 [Plums]|#item-e2ec2476c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208035177
-order: '3050'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/full/0/default.jpg
-label: plumage
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208054382
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/472,1684,393,96/150,/0/default.jpg
+label: plums
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0298'
 layout: index_item
 collection: index4
 ---

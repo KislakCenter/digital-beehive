@@ -2,29 +2,27 @@
 pid: index_3574
 volume: Volume 3
 image_number: '41'
-head: Sea man
-entry: 764 [PAGE_MISSING]
+head: Sea terms
+entry: 848 [PAGE_MISSING]
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-510f587f7"
+item: "#item-92cf3fd70"
 unparsed: 
-line: 'Head: Sea man|Entry: 764 [PAGE_MISSING]|#item-510f587f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1549,541,451,94/full/0/default.jpg
+line: 'Head: Sea terms|Entry: 848 [PAGE_MISSING]|#item-92cf3fd70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1546,617,487,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242213079
-order: '3574'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1549,541,451,94/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1549,541,451,94/full/0/default.jpg
-label: Sea man
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242237046
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1546,617,487,161/150,/0/default.jpg
+label: Sea terms
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0821'
 layout: index_item
 collection: index4
 ---

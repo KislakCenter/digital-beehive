@@ -3,31 +3,28 @@ pid: alpha_0829
 volume: Volume 2
 image_number: '50'
 head: 
-entry: Scripture
-topic: Scripture
+entry: Saviour
+topic: Saviour
 first_letter: S
-xref: "<a href='/digital-beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/digital-beehive/alpha5/alpha_1057/'>Writing</a>|<a
-  href='/digital-beehive/alpha3/alpha_0528/'>Letter</a>|<a href='/digital-beehive/toc/toc2_064/'>77
-  [Scripture]</a>|<a href='/digital-beehive/toc/toc2_064/'>77 [Scriptures]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3560/'>Scriptures</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c396df05a"
+xref: "<a href='/digital-beehive/alpha4/alpha_0781/'>Redemption</a>|<a href='/digital-beehive/alpha3/alpha_0449/'>Jesus</a>|<a
+  href='/digital-beehive/toc/toc2_180/'>966 [Saviour]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_3524/'>saviour</a>"
+item: "#item-b7ad2723d"
 unparsed: 
-line: 'Entry: Scripture|Topic: Scripture|Xref: Bible|Xref: Writing|Xref: Letter|Xref:
-  77 [Scripture]|Xref: 77 [Scriptures]|Index: Scriptures|#item-c396df05a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,3024,590/full/0/default.jpg
+line: 'Entry: Saviour|Topic: Saviour|Xref: Redemption|Xref: Jesus|Xref: 966 [Saviour]|Index:
+  saviour|#item-b7ad2723d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,2971,467/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528923257702
-order: '829'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,3024,590/full/0/default.jpg
-label: Scripture
+annotation_uri: http://dev.llgc.org.uk/annotation/1528922560984
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,600,180/250,/0/default.jpg
+label: Saviour
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+num_match: 
+order: '181'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,30 +2,28 @@
 pid: index_4603
 volume: Volume 3
 image_number: '53'
-head: wood
-entry: "<a href='/digital-beehive/alpha5/alpha_1041/'>a</a>|<a href='/digital-beehive/toc/toc2_377/'>2113
-  [Wood]</a>"
+head: word of God
+entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/toc/toc2_167/'>900
+  [Word of God]</a>|<a href='/digital-beehive/toc/toc2_371/'>2060 [Word of God]</a>"
 topic: 
 first_letter: W
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-c803ebfd8"
+item: "#item-b6aa9c7ed"
 unparsed: 
-line: 'Head: wood|Entry: a|Entry: 2113 [Wood]|#item-c803ebfd8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,1293,476,137/full/0/default.jpg
+line: 'Head: word of God|Entry: a|Entry: 900 [Word of God]|Entry: 2060 [Word of God]|#item-b6aa9c7ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796273800
-order: '4603'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,1293,476,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,1293,476,137/full/0/default.jpg
-label: wood
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796471387
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/893,1587,789,132/150,/0/default.jpg
+label: word of God
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '570'
 layout: index_item
 collection: index5
 ---

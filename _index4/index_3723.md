@@ -2,31 +2,27 @@
 pid: index_3723
 volume: Volume 3
 image_number: '43'
-head: sin always
-entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Continuance]</a>|<a href='/digital-beehive/toc/toc2_419/'>2427
-  [to Sin as long as we live]</a>"
+head: since
+entry: "<a href='/digital-beehive/toc/toc2_345/'>1786 [Since]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-62cda65a6"
+item: "#item-f0fac3731"
 unparsed: 
-line: 'Head: sin always|Entry: 1700 [Continuance]|Entry: 2427 [to Sin as long as we
-  live]|#item-62cda65a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/180,3180,735,127/full/0/default.jpg
+line: 'Head: since|Entry: 1786 [Since]|#item-f0fac3731'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,3289,422,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582631573
-order: '3723'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/180,3180,735,127/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/180,3180,735,127/full/0/default.jpg
-label: sin always
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582679675
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,3289,422,112/150,/0/default.jpg
+label: since
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+insertion_xref: 
+order: '0970'
 layout: index_item
 collection: index4
 ---

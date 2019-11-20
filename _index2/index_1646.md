@@ -2,30 +2,27 @@
 pid: index_1646
 volume: Volume 3
 image_number: '22'
-head: God's goodness
-entry: "<a href='/digital-beehive/alpha2/alpha_0366/'>a</a>|<a href='/digital-beehive/toc/toc2_097/'>338
-  [Mercy]</a>|<a href='/digital-beehive/toc/toc2_403/'>2299 [God's goodness]</a>"
+head: God's invitations
+entry: "<a href='/digital-beehive/num2/num_0377/'>329 [Gods Invitations]</a>"
 topic: 
 first_letter: G
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-88c8a70f7"
+item: "#item-fdd0617cb"
 unparsed: 
-line: 'Head: God''s goodness|Entry: a|Entry: 338 [Mercy]|Entry: 2299 [God''s goodness]|#item-88c8a70f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1893,705,128/full/0/default.jpg
+line: 'Head: God''s invitations|Entry: 329 [Gods Invitations]|#item-fdd0617cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,2080,581,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047383271
-order: '1646'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1893,705,128/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,1893,705,128/full/0/default.jpg
-label: God's goodness
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047616755
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,2080,581,89/150,/0/default.jpg
+label: God's invitations
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '466'
 layout: index_item
 collection: index2
 ---

@@ -2,30 +2,27 @@
 pid: index_4097
 volume: Volume 3
 image_number: '47'
-head: terrour
-entry: "<a href='/digital-beehive/alpha5/alpha_0935/'>a</a>|<a href='/digital-beehive/toc/toc2_149/'>669
-  [Terrrour]</a>"
+head: testament
+entry: "<a href='/digital-beehive/alpha5/alpha_0945/'>a</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-489021159"
+item: "#item-dc45b64d8"
 unparsed: 
-line: 'Head: terrour|Entry: a|Entry: 669 [Terrrour] |#item-489021159'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,2777,483,141/full/0/default.jpg
+line: 'Head: testament|Entry: a|#item-dc45b64d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2928,404,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922396224
-order: '4097'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,2777,483,141/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/164,2777,483,141/full/0/default.jpg
-label: terrour
+annotation_uri: http://dev.llgc.org.uk/annotation/1529087705817
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,2928,404,127/150,/0/default.jpg
+label: testament
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '064'
 layout: index_item
 collection: index5
 ---

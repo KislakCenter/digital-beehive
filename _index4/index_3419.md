@@ -2,29 +2,27 @@
 pid: index_3419
 volume: Volume 3
 image_number: '40'
-head: riband
-entry: "<a href='/digital-beehive/toc/toc2_098/'>348 [a Band]</a>"
+head: Richelieu
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1323 [Richelieu]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-3e2b4cbcb"
+item: "#item-261370816"
 unparsed: 
-line: 'Head: riband|Entry: 348 [a Band]|#item-3e2b4cbcb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/full/0/default.jpg
+line: 'Head: Richelieu|Entry: 1323 [Richelieu]|#item-261370816'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231758533
-order: '3419'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/447,1481,415,118/full/0/default.jpg
-label: riband
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231821645
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/415,1699,523,158/150,/0/default.jpg
+label: Richelieu
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0666'
 layout: index_item
 collection: index4
 ---

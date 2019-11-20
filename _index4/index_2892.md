@@ -2,30 +2,27 @@
 pid: index_2892
 volume: Volume 3
 image_number: '34'
-head: parsimony
-entry: "<a href='/digital-beehive/alpha4/alpha_0677/'>a</a>|<a href='/digital-beehive/toc/toc2_216/'>1115
-  [Frugality]</a>"
+head: parsnip
+entry: "<a href='/digital-beehive/toc/toc2_153/'>689 [Parsnip]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-2aa38cbc5"
+item: "#item-6b7640f32"
 unparsed: 
-line: 'Head: parsimony|Entry: a|Entry: 1115 [Frugality]|#item-2aa38cbc5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,2536,709,161/full/0/default.jpg
+line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1141,2753,488,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494502343
-order: '2892'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,2536,709,161/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1100,2536,709,161/full/0/default.jpg
-label: parsimony
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1141,2753,488,166/150,/0/default.jpg
+label: parsnip
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+insertion_xref: 
+order: '0140'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,27 @@
 pid: index_3222
 volume: Volume 3
 image_number: '38'
-head: pudding
-entry: "<a href='/digital-beehive/alpha4/alpha_0752/'>a</a>"
+head: to pull
+entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a5675cd08"
+item: "#item-4331bd32c"
 unparsed: 
-line: 'Head: pudding|Entry: a|#item-a5675cd08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/381,250,482,163/full/0/default.jpg
+line: 'Head: to pull|Entry: 907 [To pull or pluck]|#item-4331bd32c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/428,407,400,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558451886915
-order: '3222'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/381,250,482,163/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/381,250,482,163/full/0/default.jpg
-label: pudding
+annotation_uri: http://dev.llgc.org.uk/annotation/1558451922360
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/428,407,400,127/150,/0/default.jpg
+label: to pull
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+insertion_xref: 
+order: '0469'
 layout: index_item
 collection: index4
 ---

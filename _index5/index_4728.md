@@ -2,29 +2,28 @@
 pid: index_4728
 volume: Volume 3
 image_number: '54'
-head: heros
-entry: "<a href='/digital-beehive/toc/toc2_437/'>4858 [Heros]</a>"
+head: duty of husband and
+entry: "<a href='/digital-beehive/num1/num_0007/'>7 [Husband & Wife]</a>|4615 [PAGE_MISSING]"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:58.]"
-item: "#item-7a035309f"
-unparsed: 
-line: 'Type: Index|Insertion: [:58.]|Head: heros|Entry: 4858 [Heros]|#item-7a035309f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,1714,499,138/full/0/default.jpg
+item: "#item-decb0b132"
+unparsed: Type Index|Insertion [:59.]
+line: 'Type: Index|Insertion: [:59.]|Head: duty of husband and|Entry: 7 [Husband &
+  Wife]|Entry: 4615 [PAGE_MISSING]|#item-decb0b132'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1754,1820,743,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560957107681
-order: '4728'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,1714,499,138/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,1714,499,138/full/0/default.jpg
-label: heros
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957272049
+insertion: "[:59.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1754,1820,743,208/150,/0/default.jpg
+label: duty of husband and
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '695'
 layout: index_item
 collection: index5
 ---

@@ -1,31 +1,30 @@
 ---
 pid: alpha_0568
 volume: Volume 2
-image_number: '31'
+image_number: '30'
 head: 
-entry: Many men, many minds
-topic: Many men, many minds
+entry: Malediction
+topic: Malediction
 first_letter: M
-xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Many men, many minds]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2422/'>many men many minds</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b18b9fcd1"
+xref: "<a href='/digital-beehive/alpha1/alpha_0027/'>Anathema</a>|<a href='/digital-beehive/num1/num_0029/'>29
+  [Curse]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2396/'>malediction</a>"
+item: "#item-0605a4c00"
 unparsed: 
-line: 'Entry: Many men, many minds|Topic: Many men, many minds|Xref: 1088 [Many men,
-  many minds]|Index: many men many minds|#item-b18b9fcd1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,964,3095,427/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564772531917
-order: '568'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,964,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,964,3095,427/full/0/default.jpg
-label: Many men, many minds
-location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+line: 'Entry: Malediction|Topic: Malediction|Xref: Anathema|Xref: 29 [Curse]|Index:
+  malediction|#item-0605a4c00'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/771,4211,2974,273/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564772274355
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/771,4211,600,180/250,/0/default.jpg
+label: Malediction
+location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+num_match: 
+order: '124'
 layout: alpha_item
 collection: alpha3
 ---

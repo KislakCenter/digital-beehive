@@ -3,28 +3,28 @@ pid: alpha_0752
 volume: Volume 2
 image_number: '44'
 head: 
-entry: Pudding
-topic: Pudding
+entry: Protection
+topic: Protection
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_3222/'>pudding</a>"
-insertion_xref: 
-insertion: 
-item: "#item-56804e584"
+xref: "<a href='/digital-beehive/alpha1/alpha_0217/'>Defence</a>|<a href='/digital-beehive/alpha2/alpha_0368/'>Gods
+  help</a>|1855 [PAGE_MISSING]"
+see: 
+index: "<a href='/digital-beehive/index4/index_3205/'>protection</a>"
+item: "#item-8801776b3"
 unparsed: 
-line: 'Entry: Pudding|Topic: Pudding|Index: pudding|#item-56804e584'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,4217,2982,255/full/0/default.jpg
+line: 'Entry: Protection|Topic: Protection|Xref: Defence|Xref: Gods help|Xref: 1855
+  [PAGE_MISSING]|Index: protection|#item-8801776b3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/731,2143,3094,458/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565101929551
-order: '752'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,4217,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,4217,2982,255/full/0/default.jpg
-label: Pudding
+annotation_uri: http://dev.llgc.org.uk/annotation/1528721409145
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/731,2143,600,180/250,/0/default.jpg
+label: Protection
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+num_match: 
+order: '105'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,29 +2,27 @@
 pid: index_4147
 volume: Volume 3
 image_number: '47'
-head: to tickle
-entry: "<a href='/digital-beehive/toc/toc2_120/'>497 [To tickle]</a>"
+head: tide
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8545aadf7"
+item: "#item-afbabafa3"
 unparsed: 
-line: 'Head: to tickle|Entry: 497 [To tickle]|#item-8545aadf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1593,1240,489,114/full/0/default.jpg
+line: 'Head: tide|Entry: 1246 [Ebbing and Flowing]|#item-afbabafa3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1577,1352,366,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294663875
-order: '4147'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1593,1240,489,114/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1593,1240,489,114/full/0/default.jpg
-label: to tickle
+annotation_uri: http://dev.llgc.org.uk/annotation/1552670057499
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1577,1352,366,119/150,/0/default.jpg
+label: tide
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+insertion_xref: 
+order: '114'
 layout: index_item
 collection: index5
 ---

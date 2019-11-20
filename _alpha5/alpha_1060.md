@@ -3,30 +3,28 @@ pid: alpha_1060
 volume: Volume 2
 image_number: '67'
 head: 
-entry: Youth
-topic: Youth
-first_letter: Y
-xref: "<a href='/digital-beehive/alpha1/alpha_0140/'>Childhood</a>|Boy|<a href='/digital-beehive/toc/toc2_115/'>467
-  [Youth]</a>"
-see: 
+entry: Will-Worship
+topic: Will-Worship
+first_letter: W
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4653/'>youth</a>"
-insertion_xref: 
-insertion: 
-item: "#item-c4abd3d9f"
+xref: "<a href='/digital-beehive/alpha4/alpha_0929/'>Superstition</a>|<a href='/digital-beehive/toc/toc2_119/'>490
+  [Will-Worship]</a>"
+see: 
+index: "<a href='/digital-beehive/index5/index_4623/'>will worship</a>"
+item: "#item-d4a3712ee"
 unparsed: 
-line: 'Entry: Youth|Topic: Youth|Xref: Childhood|Xref: Boy|Xref: 467 [Youth]|Index:
-  youth|#item-c4abd3d9f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,3917,2978,454/full/0/default.jpg
+line: 'Entry: Will-Worship|Topic: Will-Worship|Xref: Superstition|Xref: 490 [Will-Worship]|Index:
+  will worship|#item-d4a3712ee'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,854,3058,439/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529604517345
-order: '1060'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,3917,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,3917,2978,454/full/0/default.jpg
-label: Youth
+annotation_uri: http://dev.llgc.org.uk/annotation/1529598252349
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,854,600,180/250,/0/default.jpg
+label: Will-Worship
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+num_match: 
+order: '125'
 layout: alpha_item
 collection: alpha5
 ---

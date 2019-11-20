@@ -2,29 +2,28 @@
 pid: index_0813
 volume: Volume 3
 image_number: '14'
-head: constable
-entry: "<a href='/digital-beehive/toc/toc2_067/'>106 [Serjant or Catchpoll]</a>"
+head: constancy
+entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
+  [Constancy of mind]</a>|<a href='/digital-beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: C
+page: 
+add: 
 xref: 
 see: 
-page: 
-add: "<a href='/digital-beehive/index4/index_3642/'>Serjeant</a>"
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cfc45e34f"
+item: "#item-705cbca6b"
 unparsed: 
-line: 'Head: constable|Entry: 106 [Serjant or Catchpoll]|Add: Serjeant|#item-cfc45e34f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/full/0/default.jpg
+line: 'Head: constancy|Entry: a|Entry: 1112 [Constancy of mind]|Entry: 2435 [Constancy]|#item-705cbca6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541934635
-order: '813'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/full/0/default.jpg
-label: constable
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541978660
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/150,/0/default.jpg
+label: constancy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+insertion_xref: 
+order: '0811'
 layout: index_item
 collection: index1
 ---

@@ -1,31 +1,31 @@
 ---
 pid: alpha_0504
 volume: Volume 2
-image_number: '26'
+image_number: '25'
 head: 
-entry: Labour
-topic: Labour
-first_letter: L
-xref: "<a href='/digital-beehive/alpha1/alpha_0235/'>Diligence</a>|<a href='/digital-beehive/toc/toc2_177/'>948
-  [Labour]</a>"
-see: 
+entry: Knowledge
+topic: Knowledge
+first_letter: K
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2181/'>Labour</a>"
-insertion_xref: 
-insertion: 
-item: "#item-151493662"
+xref: "<a href='/digital-beehive/alpha3/alpha_0453/'>Ignorance</a>|<a href='/digital-beehive/alpha4/alpha_0882/'>Skill</a>|<a
+  href='/digital-beehive/alpha5/alpha_1005/'>Unknown</a>|<a href='/digital-beehive/num1/num_0193/'>185
+  [Knowledge]</a>|<a href='/digital-beehive/num2/num_0565/'>455 [Self-profit]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2176/'>knowledge</a>"
+item: "#item-90ec2f469"
 unparsed: 
-line: 'Entry: Labour|Topic: Labour|Xref: Diligence|Xref: 948 [Labour]|Index: Labour|#item-151493662'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,2982,712/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765920026
-order: '504'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,2982,712/full/0/default.jpg
-label: Labour
-location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+line: 'Entry: Knowledge|Topic: Knowledge|XRef: Ignorance|XRef: Skill|XRef: Unknown|XRef:
+  185 [Knowledge]|XRef: 455 [Self-profit]|Index: knowledge|#item-90ec2f469'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/358,4386,3034,727/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765827492
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/358,4386,600,180/250,/0/default.jpg
+label: Knowledge
+location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
+num_match: 
+order: '060'
 layout: alpha_item
 collection: alpha3
 ---

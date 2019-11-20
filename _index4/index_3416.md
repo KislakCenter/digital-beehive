@@ -2,29 +2,27 @@
 pid: index_3416
 volume: Volume 3
 image_number: '40'
-head: rhine
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1008 [Rhine]</a>"
+head: ABC rhymes & meeters
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1701 [Patience]</a>"
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-65d50b9b4"
+item: "#item-1b5ea7eee"
 unparsed: 
-line: 'Head: rhine|Entry: 1008 [Rhine]|#item-65d50b9b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,1237,411,105/full/0/default.jpg
+line: 'Head: ABC rhymes & meeters|Entry: 1701 [Patience]|#item-1b5ea7eee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231692829
-order: '3416'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,1237,411,105/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,1237,411,105/full/0/default.jpg
-label: rhine
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231735864
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/150,/0/default.jpg
+label: ABC rhymes & meeters
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0663'
 layout: index_item
 collection: index4
 ---

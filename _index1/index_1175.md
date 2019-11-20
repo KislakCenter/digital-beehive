@@ -2,29 +2,27 @@
 pid: index_1175
 volume: Volume 3
 image_number: '18'
-head: duty towards God, parents
-entry: "<a href='/digital-beehive/toc/toc2_281/'>1439 [Duty towards God]</a>"
+head: family duties
+entry: "<a href='/digital-beehive/toc/toc2_164/'>885 [Family Duties]</a>"
 topic: 
 first_letter: D
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-07854218b"
+item: "#item-460b41f97"
 unparsed: 
-line: 'Head: duty towards God, parents|Entry: 1439 [Duty towards God]|#item-07854218b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,1147,801,118/full/0/default.jpg
+line: 'Head: family duties|Entry: 885 [Family Duties]|#item-460b41f97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559664796083
-order: '1175'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,1147,801,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,1147,801,118/full/0/default.jpg
-label: duty towards God, parents
+annotation_uri: http://dev.llgc.org.uk/annotation/1560450346568
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/412,1211,579,100/150,/0/default.jpg
+label: family duties
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+insertion_xref: 
+order: '1172'
 layout: index_item
 collection: index1
 ---

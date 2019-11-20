@@ -2,29 +2,28 @@
 pid: index_3113
 volume: Volume 3
 image_number: '36'
-head: prayers in Latin
-entry: "<a href='/digital-beehive/toc/toc2_328/'>1666 [Prayer in Latin]</a>"
+head: book prayers
+entry: "<a href='/digital-beehive/alpha4/alpha_0724/'>a</a>|<a href='/digital-beehive/num2/num_0284/'>259
+  [Book Prayers]</a>|<a href='/digital-beehive/toc/toc2_331/'>1684 [Prayer Books]</a>"
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5c3fd939a"
+item: "#item-5495f7beb"
 unparsed: 
-line: 'Head: prayers in Latin|Entry: 1666 [Prayer in Latin]|#item-5c3fd939a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1861,1241,550,105/full/0/default.jpg
+line: 'Head: book prayers|Entry: a|Entry: 259 [Book Prayers]|Entry: 1684 [Prayer Books]|#item-5495f7beb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1877,1361,662,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440135588
-order: '3113'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1861,1241,550,105/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1861,1241,550,105/full/0/default.jpg
-label: prayers in Latin
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440176515
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1877,1361,662,117/150,/0/default.jpg
+label: book prayers
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+insertion_xref: 
+order: '0361'
 layout: index_item
 collection: index4
 ---

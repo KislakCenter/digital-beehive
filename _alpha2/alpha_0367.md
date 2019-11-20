@@ -3,28 +3,27 @@ pid: alpha_0367
 volume: Volume 2
 image_number: '15'
 head: 
-entry: God's help
-topic: God's help
+entry: God's goodness
+topic: God's goodness
 first_letter: G
-xref: "<a href='/digital-beehive/toc/toc2_072/'>160 [Gods help]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1647/'>God's help</a>"
-insertion_xref: 
-insertion: 
-item: "#item-7b1107290"
+xref: "<a href='/digital-beehive/num2/num_0390/'>337 [Gods goodness]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1643/'>God's goodness</a>"
+item: "#item-d86779c1a"
 unparsed: 
-line: 'Entry: God''s help|Topic: God''s help|Xref: 160 [Gods help]|Index: God''s help|#item-7b1107290'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/333,518,3074,330/full/0/default.jpg
+line: 'Entry: God''s goodness|Topic: God''s goodness|Xref: 337 [Gods goodness]|Index:
+  God''s goodness|#item-d86779c1a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,3076,355/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564602409491
-order: '367'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/333,518,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/333,518,3074,330/full/0/default.jpg
-label: God's help
+annotation_uri: http://dev.llgc.org.uk/annotation/1564602371807
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/332,223,600,180/250,/0/default.jpg
+label: God's goodness
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
+num_match: 
+order: '098'
 layout: alpha_item
 collection: alpha2
 ---

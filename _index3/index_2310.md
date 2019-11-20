@@ -6,25 +6,23 @@ head: to live
 entry: 
 topic: 
 first_letter: L
-xref: 
-see: "<a href='/digital-beehive/index3/index_2283/'>life</a>"
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2282/'>life</a>"
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-89c3cf86a"
 unparsed: 
 line: 'Head: to live|See: life|#item-89c3cf86a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2299,528,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559849621519
-order: '2310'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2299,528,164/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2299,528,164/full/0/default.jpg
 label: to live
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+insertion_xref: 
+order: '391'
 layout: index_item
 collection: index3
 ---

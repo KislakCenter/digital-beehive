@@ -2,29 +2,27 @@
 pid: index_3437
 volume: Volume 3
 image_number: '40'
-head: river
-entry: "<a href='/digital-beehive/alpha4/alpha_0804/'>a</a>"
+head: rock
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1914 [Rock]</a>"
 topic: 
 first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-ecccc25af"
+item: "#item-02ac0e439"
 unparsed: 
-line: 'Head: river|Page: p.30 [Image 1.90]|Entry: a|Entry: 4551 [WORD_MISSING]|#item-ecccc25af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/full/0/default.jpg
+line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232701316
-order: '3437'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/full/0/default.jpg
-label: river
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/150,/0/default.jpg
+label: rock
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0684'
 layout: index_item
 collection: index4
 ---

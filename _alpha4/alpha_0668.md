@@ -3,28 +3,26 @@ pid: alpha_0668
 volume: Volume 2
 image_number: '38'
 head: 
-entry: Pain
-topic: Pain
-first_letter: P
-xref: "<a href='/digital-beehive/toc/toc2_225/'>1158 [Pain]</a>"
-see: 
+entry: Orphan
+topic: Orphan|Orphanage
+first_letter: O
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2855/'>pain</a>"
-insertion_xref: 
-insertion: 
-item: "#item-86a4d29dc"
+xref: "<a href='/digital-beehive/alpha2/alpha_0387/'>Guardians</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2830/'>orphanage</a>"
+item: "#item-1d89b7ef2"
 unparsed: 
-line: 'Entry: Pain|Topic: Pain|Xref: 1158 [Pain]|Index: pain|#item-86a4d29dc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/782,1932,3020,467/full/0/default.jpg
+line: 'Entry: Orphan|Topic: Orphan|Topic: Orphanage|Xref: Guardians|Index: orphanage|#item-1d89b7ef2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,3061,526/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565019513584
-order: '668'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/782,1932,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/782,1932,3020,467/full/0/default.jpg
-label: Pain
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018889967
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,1123,600,180/250,/0/default.jpg
+label: Orphan
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+num_match: 
+order: '021'
 layout: alpha_item
 collection: alpha4
 ---

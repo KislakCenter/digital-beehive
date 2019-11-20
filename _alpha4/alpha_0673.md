@@ -3,29 +3,26 @@ pid: alpha_0673
 volume: Volume 2
 image_number: '38'
 head: 
-entry: Parents
-topic: Parents
+entry: Paradise
+topic: Paradise
 first_letter: P
-xref: Children|<a href='/digital-beehive/toc/toc2_431/'>4811 [WORD_MISSING]</a>
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2881/'>parents</a>"
-insertion_xref: 
-insertion: 
-item: "#item-99f83d878"
+xref: "<a href='/digital-beehive/toc/toc2_321/'>1633 [Paradise]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2872/'>paradise</a>"
+item: "#item-f86ad4b3b"
 unparsed: 
-line: 'Entry: Parents|Topic: Parents|XRef: Children|Xref: 4811 [WORD_MISSING]|Index:
-  parents|#item-99f83d878'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,3521,2984,604/full/0/default.jpg
+line: 'Entry: Paradise|Topic: Paradise|Xref: 1633 [Paradise]|Index: paradise|#item-f86ad4b3b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/794,2222,2985,421/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565020114102
-order: '673'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,3521,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,3521,2984,604/full/0/default.jpg
-label: Parents
+annotation_uri: http://dev.llgc.org.uk/annotation/1565019588168
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/794,2222,600,180/250,/0/default.jpg
+label: Paradise
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+num_match: 
+order: '026'
 layout: alpha_item
 collection: alpha4
 ---

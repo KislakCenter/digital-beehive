@@ -6,15 +6,12 @@ head:
 entry: Advantage
 topic: Advantage
 first_letter: A
-xref: "<a href='/digital-beehive/alpha4/alpha_0735/'>Profit</a>|<a href='/digital-beehive/alpha1/alpha_0079/'>Benefit</a>|<a
-  href='/digital-beehive/alpha5/alpha_1005/'>Utility</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index1/index_0047/'>advantage</a>"
-insertion_xref: 
-insertion: 
+xref: "<a href='/digital-beehive/alpha4/alpha_0740/'>Profit</a>|<a href='/digital-beehive/alpha1/alpha_0079/'>Benefit</a>|<a
+  href='/digital-beehive/alpha5/alpha_1015/'>Utility</a>"
+see: 
+index: "<a href='/digital-beehive/index1/index_0046/'>advantage</a>"
 item: "#item-186cc582d"
 unparsed: 
 line: 'Entry: Advantage|Topic: Advantage|Xref: Profit|Xref: Benefit|Xref: Utility|Index:
@@ -22,11 +19,12 @@ line: 'Entry: Advantage|Topic: Advantage|Xref: Profit|Xref: Benefit|Xref: Utilit
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,3011,473/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1490035959587
-order: '8'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/369,3725,3011,473/full/0/default.jpg
 label: Advantage
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
+num_match: 
+order: '007'
 layout: alpha_item
 collection: alpha1
 ---

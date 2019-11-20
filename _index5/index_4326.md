@@ -2,30 +2,28 @@
 pid: index_4326
 volume: Volume 3
 image_number: '49'
-head: victory
-entry: "<a href='/digital-beehive/alpha5/alpha_0981/'>a</a>|<a href='/digital-beehive/toc/toc2_240/'>1235
-  [Victory]</a>|4661 [PAGE_MISSING]"
+head: "[:5.]"
+entry: 
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-f6bfbfcb5"
-unparsed: 
-line: 'Head: victory|Entry: a|Entry: 1235 [Victory]|Entry: 4661 [PAGE_MISSING]|#item-f6bfbfcb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/full/0/default.jpg
+item: "#item-322678def"
+unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
+line: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659711020
-order: '4326'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/full/0/default.jpg
-label: victory
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657738231
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/150,/0/default.jpg
+label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
+  or winnow</a>"
+order: '293'
 layout: index_item
 collection: index5
 ---

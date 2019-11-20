@@ -2,29 +2,27 @@
 pid: index_4657
 volume: Volume 3
 image_number: '53'
-head: Zion
-entry: 833 [PAGE_MISSING]
+head: Zodiack
+entry: "<a href='/digital-beehive/toc/toc2_329/'>1672 [Zodiak]</a>"
 topic: 
 first_letter: Z
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-5a5028093"
+item: "#item-7ebfcf958"
 unparsed: 
-line: 'Head: Zion|Entry: 833 [PAGE_MISSING]|#item-5a5028093'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1545,3236,368,69/full/0/default.jpg
+line: 'Head: Zodiack|Entry: 1672 [Zodiak]|#item-7ebfcf958'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1567,3280,480,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560869752821
-order: '4657'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1545,3236,368,69/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1545,3236,368,69/full/0/default.jpg
-label: Zion
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869809650
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1567,3280,480,103/150,/0/default.jpg
+label: Zodiack
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+insertion_xref: 
+order: '624'
 layout: index_item
 collection: index5
 ---

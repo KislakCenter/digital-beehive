@@ -2,30 +2,27 @@
 pid: index_3209
 volume: Volume 3
 image_number: '37'
-head: protoplasts
-entry: "<a href='/digital-beehive/toc/toc2_104/'>389 [Adam]</a>|<a href='/digital-beehive/toc/toc2_378/'>2125
-  [Adam]</a>"
+head: proud
+entry: 
 topic: 
 first_letter: P
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index4/index_3151/'>pride</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-cc4da48b9"
+item: "#item-92bcf0e17"
 unparsed: 
-line: 'Head: protoplasts|Entry: 389 [Adam]|Entry: 2125 [Adam]|#item-cc4da48b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,2166,735,137/full/0/default.jpg
+line: 'Head: proud|See: pride|#item-92bcf0e17'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1476,2297,525,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869529673
-order: '3209'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,2166,735,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,2166,735,137/full/0/default.jpg
-label: protoplasts
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869546668
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1476,2297,525,119/150,/0/default.jpg
+label: proud
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+insertion_xref: 
+order: '0456'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,30 @@
 pid: index_3558
 volume: Volume 3
 image_number: '41'
-head: Scots
-entry: "<a href='/digital-beehive/toc/toc2_269/'>1379 [Scots]</a>"
+head: Scriptures
+entry: "<a href='/digital-beehive/alpha4/alpha_0836/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>922
+  [a Scripture]</a>|<a href='/digital-beehive/toc/toc2_199/'>1028 [H. Scriptures]</a>|<a
+  href='/digital-beehive/toc/toc2_390/'>2235 [H: Scriptures]</a>"
 topic: 
 first_letter: S
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-a7b6e32cc"
+item: "#item-5d964af2c"
 unparsed: 
-line: 'Head: Scots|Entry: 1379 [Scots]|#item-a7b6e32cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/893,2305,400,118/full/0/default.jpg
+line: 'Head: Scriptures|Entry: a|Entry: 922 [a Scripture]|Entry: 1028 [H. Scriptures]|Entry:
+  2235 [H: Scriptures]|#item-5d964af2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2460,732,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240968133
-order: '3558'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/893,2305,400,118/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/893,2305,400,118/full/0/default.jpg
-label: Scots
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241344714
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2460,732,156/150,/0/default.jpg
+label: Scriptures
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0805'
 layout: index_item
 collection: index4
 ---

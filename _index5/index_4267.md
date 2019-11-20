@@ -2,29 +2,27 @@
 pid: index_4267
 volume: Volume 3
 image_number: '49'
-head: turky
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1404 [Turky-cock]</a>"
+head: to turn
+entry: "<a href='/digital-beehive/toc/toc2_165/'>889 [To Turn]</a>"
 topic: 
 first_letter: T
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-7d198f7d2"
+item: "#item-dbfdf33d1"
 unparsed: 
-line: 'Head: turky|Entry: 1404 [Turky-cock]|#item-7d198f7d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,1528,398,144/full/0/default.jpg
+line: 'Head: to turn|Entry: 889 [To Turn]|#item-dbfdf33d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/199,1688,419,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656559692
-order: '4267'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,1528,398,144/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,1528,398,144/full/0/default.jpg
-label: turky
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656588027
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/199,1688,419,123/150,/0/default.jpg
+label: to turn
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '234'
 layout: index_item
 collection: index5
 ---

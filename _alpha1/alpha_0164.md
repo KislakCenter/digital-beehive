@@ -6,14 +6,11 @@ head:
 entry: Concupiscence
 topic: Concupiscence
 first_letter: C
-xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
-see: 
 page: 
 add: 
-type: 
+xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
+see: 
 index: "<a href='/digital-beehive/index1/index_0778/'>concupiscence</a>"
-insertion_xref: 
-insertion: 
 item: "#item-1688d9123"
 unparsed: 
 line: 'Entry: Concupiscence|Topic: Concupiscence|Xref: desire|Xref: Affections|Index:
@@ -21,11 +18,12 @@ line: 'Entry: Concupiscence|Topic: Concupiscence|Xref: desire|Xref: Affections|I
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,3084,459/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499700641626
-order: '164'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,3084,459/full/0/default.jpg
 label: Concupiscence
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
+num_match: 
+order: '163'
 layout: alpha_item
 collection: alpha1
 ---

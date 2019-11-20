@@ -3,28 +3,26 @@ pid: alpha_0413
 volume: Volume 2
 image_number: '18'
 head: 
-entry: Herb
-topic: Herb
+entry: Heraldry
+topic: Heraldry
 first_letter: H
-xref: "<a href='/digital-beehive/toc/toc2_150/'>672 [Herbs]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index2/index_1807/'>herb</a>"
-insertion_xref: 
-insertion: 
-item: "#item-df285cbfd"
+xref: "<a href='/digital-beehive/num2/num_0281/'>257 [Arms]</a>"
+see: 
+index: "<a href='/digital-beehive/index2/index_1806/'>heraldry</a>"
+item: "#item-046cb1d2d"
 unparsed: 
-line: 'Entry: Herb|Topic: Herb|Xref: 672 [Herbs]|Index: herb|#item-df285cbfd'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,2964,442/full/0/default.jpg
+line: 'Entry: Heraldry|Topic: Heraldry|Xref: 257 [Arms]|Index: heraldry|#item-046cb1d2d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,1500,3027,268/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508962944177
-order: '413'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,1673,2964,442/full/0/default.jpg
-label: Herb
+annotation_uri: http://dev.llgc.org.uk/annotation/1564755622918
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,1500,600,180/250,/0/default.jpg
+label: Heraldry
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
+num_match: 
+order: '144'
 layout: alpha_item
 collection: alpha2
 ---

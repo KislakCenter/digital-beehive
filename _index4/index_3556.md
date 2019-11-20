@@ -2,29 +2,27 @@
 pid: index_3556
 volume: Volume 3
 image_number: '41'
-head: scorpion
-entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Scorpion]</a>"
+head: Scots
+entry: "<a href='/digital-beehive/toc/toc2_269/'>1379 [Scots]</a>"
 topic: 
 first_letter: S
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_087/'>p.37 [Image 1.97]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-74a26b16d"
+item: "#item-a7b6e32cc"
 unparsed: 
-line: 'Head: scorpion|Page: p.37 [Image 1.97]|Entry: 1353 [Scorpion]|#item-74a26b16d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/full/0/default.jpg
+line: 'Head: Scots|Entry: 1379 [Scots]|#item-a7b6e32cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/893,2305,400,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240839013
-order: '3556'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/full/0/default.jpg
-label: scorpion
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240968133
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/893,2305,400,118/150,/0/default.jpg
+label: Scots
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+insertion_xref: 
+order: '0803'
 layout: index_item
 collection: index4
 ---

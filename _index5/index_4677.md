@@ -2,29 +2,27 @@
 pid: index_4677
 volume: Volume 3
 image_number: '54'
-head: trespass
-entry: "<a href='/digital-beehive/toc/toc2_354/'>1916 [Trespass]</a>"
+head: yoke
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1917 [Yoke]</a>"
 topic: 
 first_letter: insertion
-xref: 
-see: 
 page: 
 add: 
-type: Index
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: "[:13.]"
-item: "#item-87a70fce4"
-unparsed: 
-line: 'Type: Index|Insertion [:13.]|Head: trespass|Entry: 1916 [Trespass]|#item-87a70fce4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/382,2096,556,137/full/0/default.jpg
+item: "#item-9221ed86f"
+unparsed: Type Index|Insertion [:14.]
+line: 'Type: Index|Insertion: [:14.]|Head: yoke|Entry: 1917 [Yoke]|#item-9221ed86f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/388,2200,509,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560868710059
-order: '4677'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/382,2096,556,137/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/382,2096,556,137/full/0/default.jpg
-label: trespass
+annotation_uri: http://dev.llgc.org.uk/annotation/1560868899390
+insertion: "[:14.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/388,2200,509,133/150,/0/default.jpg
+label: yoke
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+insertion_xref: 
+order: '644'
 layout: index_item
 collection: index5
 ---

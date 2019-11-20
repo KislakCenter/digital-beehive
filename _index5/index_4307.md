@@ -2,29 +2,27 @@
 pid: index_4307
 volume: Volume 3
 image_number: '49'
-head: vein
-entry: "<a href='/digital-beehive/toc/toc2_323/'>1644 [Vein]</a>"
+head: venial sin
+entry: "<a href='/digital-beehive/num2/num_0387/'>335 [mortal & venial sins]</a>"
 topic: 
 first_letter: U/V
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-b37432271"
+item: "#item-1e50d73b4"
 unparsed: 
-line: 'Head: vein|Entry: 1644 [Vein]|#item-b37432271'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/full/0/default.jpg
+line: 'Head: venial sin|Entry: 335 [mortal & venial sins]|#item-1e50d73b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658545363
-order: '4307'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/full/0/default.jpg
-label: vein
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658664692
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/150,/0/default.jpg
+label: venial sin
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+insertion_xref: 
+order: '274'
 layout: index_item
 collection: index5
 ---

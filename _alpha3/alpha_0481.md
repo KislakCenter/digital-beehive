@@ -1,31 +1,30 @@
 ---
 pid: alpha_0481
 volume: Volume 2
-image_number: '24'
+image_number: '23'
 head: 
-entry: Intemperance
-topic: Intemperance
+entry: Instrument
+topic: Instrument
 first_letter: I/J
-xref: "<a href='/digital-beehive/alpha5/alpha_0933/'>Temperance</a>|<a href='/digital-beehive/alpha4/alpha_0795/'>Revelling</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index3/index_2073/'>intemperance</a>"
-insertion_xref: 
-insertion: 
-item: "#item-adc38b33f"
+xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/digital-beehive/toc/toc2_412/'>2378
+  [Instruments]</a>"
+see: 
+index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
+item: "#item-4818d98ae"
 unparsed: 
-line: 'Entry: Intemperance|Topic: Intemperance|Xref: Temperance|Xref: Revelling|Index:
-  intemperance|#item-adc38b33f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,3005,682/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761296957
-order: '481'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,221,3005,682/full/0/default.jpg
-label: Intemperance
-location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+line: 'Entry: Instrument|Topic: Instrument|Xref: Cause|Xref: means|Xref: 2378 [Instruments]|Index:
+  instrumt|#item-4818d98ae'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,3026,591/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761121433
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,4474,600,180/250,/0/default.jpg
+label: Instrument
+location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+num_match: 
+order: '037'
 layout: alpha_item
 collection: alpha3
 ---

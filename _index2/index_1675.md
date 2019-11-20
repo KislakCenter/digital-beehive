@@ -2,29 +2,28 @@
 pid: index_1675
 volume: Volume 3
 image_number: '22'
-head: gospel of nicodemus
-entry: 
+head: governmt
+entry: "<a href='/digital-beehive/alpha2/alpha_0376/'>a</a>|752 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_344/'>1783 [Governments]</a>"
 topic: 
 first_letter: G
+page: 
+add: 
 xref: 
 see: 
-page: "<a href='/digital-beehive/toc_vol1/toc1_074/'>p.24 [Image 1.84]</a>"
-add: 
-type: 
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-8493a48f7"
+item: "#item-493f04f36"
 unparsed: 
-line: 'Head: gospel of nicodemus|Page: p.24 [Image 1.84]|#item-8493a48f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1855,794,669,94/full/0/default.jpg
+line: 'Head: governmt|Entry: a|Entry: 752 [PAGE_MISSING]|Entry: 1783 [Governments]|#item-493f04f36'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1842,885,664,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052046914
-order: '1675'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1855,794,669,94/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1855,794,669,94/full/0/default.jpg
-label: gospel of nicodemus
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052248398
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1842,885,664,106/150,/0/default.jpg
+label: governmt
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+insertion_xref: 
+order: '494'
 layout: index_item
 collection: index2
 ---

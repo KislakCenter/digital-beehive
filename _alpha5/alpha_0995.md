@@ -1,31 +1,28 @@
 ---
 pid: alpha_0995
 volume: Volume 2
-image_number: '62'
+image_number: '61'
 head: 
-entry: Unknown
-topic: Unknown
+entry: Violet
+topic: Violet
 first_letter: U/V
-xref: "<a href='/digital-beehive/alpha3/alpha_0452/'>Ignorance</a>|<a href='/digital-beehive/toc/toc2_326/'>1658
-  [Unknown]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4399/'>unknown</a>"
-insertion_xref: 
-insertion: 
-item: "#item-45f8ddbd8"
+xref: 
+see: 
+index: "<a href='/digital-beehive/index5/index_4335/'>violet</a>"
+item: "#item-233bfab9c"
 unparsed: 
-line: 'Entry: Unknown|Topic: Unknown|Xref: Ignorance|Xref: 1658 [Unknown]|Index: unknown|#item-45f8ddbd8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,2928,488/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912714094
-order: '995'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,2928,488/full/0/default.jpg
-label: Unknown
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+line: 'Entry: Violet|Topic: Violet|Index: violet|#item-233bfab9c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/351,4030,1059,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565115708910
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/351,4030,600,180/250,/0/default.jpg
+label: Violet
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+num_match: 
+order: '060'
 layout: alpha_item
 collection: alpha5
 ---

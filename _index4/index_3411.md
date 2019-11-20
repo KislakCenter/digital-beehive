@@ -2,29 +2,27 @@
 pid: index_3411
 volume: Volume 3
 image_number: '40'
-head: to revoke
-entry: "<a href='/digital-beehive/toc/toc2_108/'>418 [Renouncing]</a>"
+head: revolution
+entry: 
 topic: 
 first_letter: R
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: "<a href='/digital-beehive/index3/index_2503/'>metempsychosis</a>"
 index: 
-insertion_xref: 
-insertion: 
-item: "#item-4cbedd4eb"
+item: "#item-67585363e"
 unparsed: 
-line: 'Head: to revoke|Entry: 418 [Renouncing]|#item-4cbedd4eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,652,549,151/full/0/default.jpg
+line: 'Head: revolution|See: metempsychosis|#item-67585363e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231143746
-order: '3411'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,652,549,151/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,652,549,151/full/0/default.jpg
-label: to revoke
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/150,/0/default.jpg
+label: revolution
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+insertion_xref: 
+order: '0658'
 layout: index_item
 collection: index4
 ---

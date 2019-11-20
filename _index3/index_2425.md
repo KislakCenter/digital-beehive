@@ -6,25 +6,23 @@ head: marigolds
 entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Marigolds]</a>"
 topic: 
 first_letter: M
-xref: 
-see: 
 page: 
 add: 
-type: 
+xref: 
+see: 
 index: 
-insertion_xref: 
-insertion: 
 item: "#item-4e0711290"
 unparsed: 
 line: 'Head: marigolds|Entry: 686 [Marigolds]|#item-4e0711290'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560197230520
-order: '2425'
+insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/150,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/full/0/default.jpg
 label: marigolds
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+insertion_xref: 
+order: '505'
 layout: index_item
 collection: index3
 ---

@@ -3,30 +3,26 @@ pid: alpha_0656
 volume: Volume 2
 image_number: '37'
 head: 
-entry: Old age
-topic: Old age
+entry: Officer
+topic: Officer
 first_letter: O
-xref: "<a href='/digital-beehive/toc/toc2_059/'>12 [Old friends]</a>|<a href='/digital-beehive/toc/toc2_114/'>461
-  [Old age]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index4/index_2784/'>old age</a>"
-insertion_xref: 
-insertion: 
-item: "#item-b98f24942"
+xref: "<a href='/digital-beehive/toc/toc2_198/'>1021 [Officers]</a>"
+see: 
+index: "<a href='/digital-beehive/index4/index_2775/'>officer</a>"
+item: "#item-f0fcc51f2"
 unparsed: 
-line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:
-  old age|#item-b98f24942'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,3037,506/full/0/default.jpg
+line: 'Entry: Officer|Topic: Officer|Xref: 1021 [Officers]|Index: officer|#item-f0fcc51f2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/299,2037,3076,396/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017707398
-order: '656'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,3037,506/full/0/default.jpg
-label: Old age
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017079670
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/299,2037,600,180/250,/0/default.jpg
+label: Officer
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+num_match: 
+order: '009'
 layout: alpha_item
 collection: alpha4
 ---

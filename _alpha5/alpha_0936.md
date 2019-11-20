@@ -1,31 +1,29 @@
 ---
 pid: alpha_0936
 volume: Volume 2
-image_number: '58'
+image_number: '57'
 head: 
-entry: Testament
-topic: Testament
+entry: Tailor
+topic: Tailor
 first_letter: T
-xref: "<a href='/digital-beehive/alpha5/alpha_1024/'>Will</a>|<a href='/digital-beehive/toc/toc2_389/'>2226
-  [Will]</a>"
-see: 
 page: 
 add: 
-type: 
-index: "<a href='/digital-beehive/index5/index_4098/'>testament</a>"
-insertion_xref: 
-insertion: 
-item: "#item-64d9caea7"
+xref: Seamster|to sell|<a href='/digital-beehive/toc/toc2_338/'>1733 [Tailor]</a>
+see: 
+index: "<a href='/digital-beehive/index5/index_4044/'>tailor</a>"
+item: "#item-5ba038f11"
 unparsed: 
-line: 'Entry: Testament|Topic: Testament|Xref: Will|Xref: 2226 [Will]|Index: testament|#item-64d9caea7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,3092,414/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529087635453
-order: '936'
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,600,180/250,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,3092,414/full/0/default.jpg
-label: Testament
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
+line: 'Entry: Tailor|Topic: Tailor|Xref: Seamster|Xref: to sell|Xref: 1733 [Tailor]|Index:
+  tailor|#item-5ba038f11'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,3116,395/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917520882
+insertion: 
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,2011,600,180/250,/0/default.jpg
+label: Tailor
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+num_match: 
+order: '001'
 layout: alpha_item
 collection: alpha5
 ---
