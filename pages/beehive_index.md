@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Index
+title: Octavo Index
 permalink: /index/
 ---
 
-The following pages present high quality scans of the Alphabetical Section of Pastorius' Beehive Manuscript with relevant metadata for each entry.
+The following pages present high quality scans of the Octavo Index of Pastorius' Beehive Manuscript with relevant metadata for each entry.
 
-For information on navigating the entries in the Alphabetical Section, please see [here](index-documentation.md).
+For information on navigating the entries in the Octavo Index, please see [here](index-documentation.md).
+
+For a list of known issues in the Octavo Index, please see [here](index-issues.md).
 
 [Index, A-D](index-ad.md)  
 [Index, E-H](index-eh.md)  

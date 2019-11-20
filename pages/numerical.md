@@ -9,4 +9,4 @@ The following pages present high quality scans of the Numerical of Pastorius's B
 For information on navigating the entries in the Numerical Section, please see [here](numerical-documentation.md).
 
 [Numerical Section, 1-250](num1.md)  
-[Numerical Section, 251-396](num2.md)
+[Numerical Section, 251-496](num2.md)
