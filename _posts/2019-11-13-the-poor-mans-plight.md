@@ -58,3 +58,5 @@ Here the poor man must break Christs Com[m]and, and deny
 himself to be a Christian, and become like them, a Swearer.  
 
 From his inclusion of the story in the Beehive, and his own commentary that reinforces the moral message of the fable, it seems clear that Pastorius conceives of law as derivative of a more fundamental moral and religious framework; the parable as a whole could be viewed as a repudiation of laws and legal systems that lack any moral grounds or principles.
+
+N. B. For a transcription of the story, please click [here](titheteacherplaintiff.md).
