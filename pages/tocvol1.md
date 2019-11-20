@@ -5,10 +5,10 @@ description: Navigating Volume One
 permalink: '/tocvol1/'
 ---
 
-<div id= 'divsidenav'
+<div id= 'divsidenav'>
   <div class="sidenav">
     <div class="list-group">
-      <p style="letter-spacing: 0.02em; list-style-type: circle"><font color= "teal"><strong><h3>Navigation</h3></strong></font></p>
+      <p style="letter-spacing: 0.04em; list-style-type: circle"><font color= "black"><h3>Navigation</h3></font></p>
       {% for item in site.data.master_toc%}
       {% case item.volume %}
         {% when '1' %}
@@ -22,7 +22,7 @@ permalink: '/tocvol1/'
 </div>
 
 <div class="d-inline-flex">
-  <p style="margin-left: 315px; margin-right: 15px"> This section provides a page-by-page overview of the first volume of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>.</p>
+  <p style="margin-left: 315px; margin-right: 15px"> <br /><br />This section provides a page-by-page overview of the first volume of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>. The navigation is divided and represented by Pastorius's own language. Additionally, each of these divisions is marked by its volume and image number for locational reference.</p>
 </div>
 
 <ul class="list-unstyled">
@@ -36,7 +36,7 @@ permalink: '/tocvol1/'
         <a href="{{ site.baseurl }}/toc/{{ item.pid }}"><img style="padding: 0 15px; float: left; clear: both; margin-top: 10px" src="{{ item.thumbnail }}"/></a>
           <div class="label">
           {% if item.toc_title %}
-            <font color= "teal"><h4><a id="{{ item.toc_link }}"></a> {{ item.toc_title }}</h4></font>
+            <strong><font color= "#a47b02"><h4><a id="{{ item.toc_link }}"></a> {{ item.toc_title }}</h4></font></strong>
           {% endif %}
           <i>Volume {{ item.volume }}, Image {{ item.image }}</i><br />
           {% if item.tertiary_section_title %}
@@ -62,3 +62,10 @@ permalink: '/tocvol1/'
 {% endcase %}
 {% endfor %}
 </ul>
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: 'rgb(173, 135, 31)',
+  textColor: '#fff'
+})</script>

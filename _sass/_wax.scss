@@ -226,7 +226,7 @@ content section
   left: 0;
   background-color: #fff; /* white */
   overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 115px;
+  padding-top: 57px;
   padding-bottom: 25px;
   padding-right: 15px;
   padding-left: 25px;
@@ -342,6 +342,17 @@ content section
       color: $accent-dark;
     }
   }
+}
+
+.accordion .card-header {
+  background-color: #fff;
+}
+
+.accordion .btn-link {
+  color: #a47b02;
+  font-weight: 900;
+  font-size: 1.75rem;
+  letter-spacing: 0.02em;
 }
 
 /*
