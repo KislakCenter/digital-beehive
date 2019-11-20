@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Pastorius Beehive
+title: Digital Beehive
 email: nelsd@sas.upenn.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  The Pastorius Beehive Project creates a working digital edition of Francis Daniel Pastorius' Beehive Manuscript.
+  The Digital Beehive Project creates a working digital edition of Francis Daniel Pastorius' Beehive Manuscript.
 baseurl: "/digital-beehive" # the subpath of your site, e.g. /blog
 url: "https://KislakCenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /img/logo.png
@@ -95,6 +95,16 @@ collections:
     layout: 'index_item'
     metadata:
       source: index5.csv
+  num1:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num1.csv
+  num2:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num2.csv
   toc_vol1:
     output: true
     layout: 'toc1_item'
@@ -198,6 +208,22 @@ search:
           - label
           - entry
           - see
+      num1:
+        content: false
+        fields:
+          - image_number
+          - label
+          - topic
+          - xref
+          - index
+      num2:
+        content: false
+        fields:
+          - image_number
+          - label
+          - topic
+          - xref
+          - index
 
 # site menu settings
 
@@ -206,11 +232,9 @@ menu:
     sub:
       - label: 'The Project'
         link: '/about/'
-      #- label: 'Documentation'
-      #   link: Link here to the Github
       - label: 'Documentation'
         link: '/documentation/'
-      - link: 'Bibliography'
+      - label: 'Bibliography'
         link: '/bibliography/'
   - label: 'Browse the Book'
     sub:
@@ -222,6 +246,8 @@ menu:
     sub:
       - label: 'Alphabetical Section'
         link: '/alphabetical/'
+      - label: 'Numerical Section'
+        link: '/numerical/'
       - label: 'Index'
         link: '/index/'
   - label: Search

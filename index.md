@@ -12,6 +12,6 @@ banner:
   height: '500px'
 ---
 
-### Pastorius Beehive
+### Digital Beehive
 
-The Pastorius Beehive Project provides a digital online resource for navigating the Beehive Manuscript of Francis Daniel Pastorius.
+The Digital Beehive Project provides a digital online resource for navigating the Beehive Manuscript of Francis Daniel Pastorius.
