@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pastorius is Fun, but Weird"
+title: "Getting to Know FDP"
 author: april
 description: A blog post on the early days of the Digital Beehive and how the early protocol developed.
 ---
