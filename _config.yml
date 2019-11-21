@@ -238,6 +238,8 @@ menu:
         link: '/bibliography/'
   - label: 'Browse the Book'
     sub:
+      - label: 'Page Browse'
+        link: '/pagebrowse/'
       - label: 'Volume One'
         link: '/tocvol1/'
       - label: 'Volume Two'
