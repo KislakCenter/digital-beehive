@@ -86,7 +86,7 @@ permalink: '/sectionbrowse/'
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-        In this section, Pastorius collects inscriptions found on myriad surfaces as various as sun-dials, tennis-courts, statues and private dwelling-houses  "gather'd out of [his own] Itinerary." This likely refers to another of his manuscripts entitled Itinerarium, which recounts a Grand Tour of Western Europe Pastorius took as a tutor to young nobleman Johann Bonaventura von Bodeck from 1690 to 1692 (<a href="{{ site.baseurl }}/bibliography/">see Learned, p. 90</a>). <br />
+        In this section, Pastorius collects inscriptions found on myriad surfaces as various as sun-dials, tennis-courts, statues and private dwelling-houses  "gather'd out of [his own] Itinerary." This likely refers to another of his manuscripts entitled Itinerarium, which recounts a Grand Tour of Western Europe Pastorius took as a tutor to young nobleman Johann Bonaventura von Bodeck from 1690 to 1692 (<a href="{{ site.baseurl }}/bibliography/">see Learned, <i>Life</i> p. 90</a>). <br />
         <br />
         <center>Please go <a href= '{{ site.baseurl }}/inscriptions'>here</a> to view the Inscriptions.</center>
       </div>
