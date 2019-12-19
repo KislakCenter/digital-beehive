@@ -6,6 +6,8 @@ permalink: /bibliography/
 
 _The following partial bibliography of works about Pastorius and the Beehive is a work in progress._
 
+For bibliographic records on the book list in the Beehive, please consult Lyman Riley's [Books from the Beehive](book-list.md) and the accompanying [introduction](riley.md), which the Digital Beehive has OCRed and formatted.
+
 <style media="all">
 ul, li {margin: 0; padding:0; list-style: none;}
 li {padding-left:20px; text-indent: -20px;}
