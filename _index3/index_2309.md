@@ -3,7 +3,7 @@ pid: index_2309
 volume: Volume 3
 image_number: '28'
 head: liturgy
-entry: "<a href='/digital-beehive/toc/toc2_086/'>259 [Common Prayer Book]</a>"
+entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Com[m]on Prayer Book]</a>"
 topic: 
 first_letter: L
 page: 

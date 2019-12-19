@@ -9,7 +9,7 @@ first_letter: N
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0386/'>great</a>|<a href='/digital-beehive/alpha3/alpha_0452/'>ignoble</a>|ancestors|<a
-  href='/digital-beehive/toc/toc2_076/'>193 [Nobility]</a>"
+  href='/digital-beehive/num1/num_0201/'>193 [Noble]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2719/'>nobility</a>"
 item: "#item-e6dc7a754"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/814,2089,600,180/250,/0/default.jpg
 label: Nobility
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-num_match: 
 order: '197'
 layout: alpha_item
 collection: alpha3

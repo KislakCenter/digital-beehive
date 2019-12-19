@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/374,2092,600,180/250,/0/default.jpg
 label: Desertion
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-num_match: 
 order: '227'
 layout: alpha_item
 collection: alpha1

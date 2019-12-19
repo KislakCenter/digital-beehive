@@ -3,7 +3,7 @@ pid: index_4014
 volume: Volume 3
 image_number: '46'
 head: Swan
-entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1085,1
 label: Swan
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1260'
+order: '1262'
 layout: index_item
 collection: index4
 ---

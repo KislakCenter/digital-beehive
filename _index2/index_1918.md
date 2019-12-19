@@ -3,7 +3,7 @@ pid: index_1918
 volume: Volume 3
 image_number: '24'
 head: hyssop
-entry: "<a href='/digital-beehive/alpha2/alpha_0442/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0442/'>a</a>|a"
 topic: 
 first_letter: H
 page: 

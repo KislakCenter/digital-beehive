@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/219,31
 label: stomach
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1157'
+order: '1158'
 layout: index_item
 collection: index4
 ---

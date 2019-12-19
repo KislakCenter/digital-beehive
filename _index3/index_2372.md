@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/867,15
 label: luxury
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '452'
+order: '453'
 layout: index_item
 collection: index3
 ---

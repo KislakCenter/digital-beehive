@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_135/'>590 [artificial Wines]</a>"
 topic: 
 first_letter: D
 page: 
-add: "<a href='/digital-beehive/index2/index_1777/'>health</a>"
+add: "<a href='/digital-beehive/index2/index_1778/'>health</a>"
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1460,2
 label: drink artificial
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1150'
+order: '1152'
 layout: index_item
 collection: index1
 ---

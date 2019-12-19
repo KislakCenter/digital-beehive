@@ -2,24 +2,24 @@
 pid: index_0248
 volume: Volume 3
 image_number: '9'
-head: aurora
-entry: 
+head: avoiding
+entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [To Avoid]</a>"
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2583/'>Morning</a>"
+see: 
 index: 
-item: "#item-bb6af25f7"
+item: "#item-fd7744287"
 unparsed: 
-line: 'Head: aurora|See: Morning|#item-bb6af25f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/full/0/default.jpg
+line: 'Head: avoiding|Entry: 719 [To Avoid]|#item-fd7744287'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/192,1330,461,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015447346
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015361677
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/150,/0/default.jpg
-label: aurora
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/192,1330,461,174/150,/0/default.jpg
+label: avoiding
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0247'

@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num2/num_0369/'>321 [Willingness]</a>"
 topic: 
 first_letter: W
 page: 
-add: "<a href='/digital-beehive/index5/index_4623/'>worship</a>"
+add: "<a href='/digital-beehive/index5/index_4624/'>worship</a>"
 xref: 
 see: "<a href='/digital-beehive/index4/index_3946/'>stubborn</a>"
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2
 label: willful
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '520'
+order: '515'
 layout: index_item
 collection: index5
 ---

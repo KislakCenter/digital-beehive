@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/793,16
 label: renown
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0612'
+order: '0613'
 layout: index_item
 collection: index4
 ---

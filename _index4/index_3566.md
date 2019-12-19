@@ -2,27 +2,27 @@
 pid: index_3566
 volume: Volume 3
 image_number: '41'
-head: scurrility
+head: scull
 entry: 
 topic: 
 first_letter: S
-page: 
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0471/'>buffoonry</a>"
+see: 
 index: 
-item: "#item-26e0f5347"
+item: "#item-ff2576cc6"
 unparsed: 
-line: 'Head: scurrility|See: buffoonry|#item-26e0f5347'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/886,3281,723,172/full/0/default.jpg
+line: 'Head: scull|Page: p.44 [Image 1.104]|#item-ff2576cc6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241806571
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241734356
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/886,3281,723,172/150,/0/default.jpg
-label: scurrility
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/150,/0/default.jpg
+label: scull
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0813'
+order: '0814'
 layout: index_item
 collection: index4
 ---

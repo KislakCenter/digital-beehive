@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: Scatter
+see: "<a href='/digital-beehive/index4/index_3542/'>Scatter</a>"
 index: 
 item: "#item-2c04fc280"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/118,26
 label: disperse
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1089'
+order: '1091'
 layout: index_item
 collection: index1
 ---

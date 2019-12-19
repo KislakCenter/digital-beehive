@@ -10,7 +10,7 @@ page:
 add: 
 xref: Passover Feast
 see: 
-index: "<a href='/digital-beehive/index2/index_1194/'>easter</a>"
+index: "<a href='/digital-beehive/index2/index_1196/'>easter</a>"
 item: "#item-193279c50"
 unparsed: 
 line: 'Entry: Easter|Topic: Easter|Xref: Passover Feast|Index: easter|#item-193279c50'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/779,3866,600,180/250,/0/default.jpg
 label: Easter
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-num_match: 
 order: '004'
 layout: alpha_item
 collection: alpha2

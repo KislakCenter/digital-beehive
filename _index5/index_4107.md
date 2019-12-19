@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,77
 label: thee & thou
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '074'
+order: '069'
 layout: index_item
 collection: index5
 ---

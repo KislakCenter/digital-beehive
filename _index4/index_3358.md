@@ -3,7 +3,7 @@ pid: index_3358
 volume: Volume 3
 image_number: '39'
 head: remission
-entry: "<a href='/digital-beehive/alpha4/alpha_0788/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0788/'>a</a>|a"
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,81
 label: remission
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0605'
+order: '0606'
 layout: index_item
 collection: index4
 ---

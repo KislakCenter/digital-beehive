@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,99
 label: rhetorick
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0660'
+order: '0661'
 layout: index_item
 collection: index4
 ---

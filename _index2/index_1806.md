@@ -3,7 +3,7 @@ pid: index_1806
 volume: Volume 3
 image_number: '23'
 head: heraldry
-entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|a"
 topic: 
 first_letter: H
 page: 

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0734/'>Prison</a>|<a href='/digital-beehive/alpha1/alpha_0202/'>Custody</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3163/'>prison</a>"
+index: "<a href='/digital-beehive/index4/index_3162/'>prison</a>"
 item: "#item-352e6ec4b"
 unparsed: 
 line: 'Entry: Prison, continued|Topic: Prison, continued|Xref: Prison|Xref: Custody|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,600,180/250,/0/default.jpg
 label: Prison, continued
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-num_match: 
 order: '088'
 layout: alpha_item
 collection: alpha4

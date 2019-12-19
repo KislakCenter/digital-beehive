@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1581,3
 label: Solomon
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1034'
+order: '1035'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3326
 volume: Volume 3
 image_number: '39'
 head: red
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1343 [Red- (:hair:)face]</a>"
+entry: a|<a href='/digital-beehive/toc/toc2_262/'>1343 [Red- (:hair:)face]</a>
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/156,78
 label: red
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0573'
+order: '0574'
 layout: index_item
 collection: index4
 ---

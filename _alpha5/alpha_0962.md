@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0399/'>Haste</a>|[WORD_ILLEGIBLE]|<a
   href='/digital-beehive/toc/toc2_179/'>961 [Too hasty]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4175/'>too hasty</a>"
+index: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
 item: "#item-333aac4a6"
 unparsed: 
 line: 'Entry: Too hasty|Topic: Too hasty|Xref: Haste|Xref: [WORD_ILLEGIBLE]|Xref:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,600,180/250,/0/default.jpg
 label: Too hasty
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '027'
 layout: alpha_item
 collection: alpha5

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1
 label: noisom
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '803'
+order: '804'
 layout: index_item
 collection: index3
 ---

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/484,23
 label: to wean
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '466'
+order: '461'
 layout: index_item
 collection: index5
 ---

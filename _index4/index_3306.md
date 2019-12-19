@@ -8,7 +8,7 @@ entry: "<a href='/digital-beehive/alpha4/alpha_0775/'>a</a>|<a href='/digital-be
 topic: 
 first_letter: R
 page: 
-add: "<a href='/digital-beehive/index5/index_4298/'>various</a>"
+add: "<a href='/digital-beehive/index5/index_4299/'>various</a>"
 xref: 
 see: 
 index: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1
 label: reading
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0553'
+order: '0554'
 layout: index_item
 collection: index4
 ---

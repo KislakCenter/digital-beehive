@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,1
 label: tomb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '689'
+order: '684'
 layout: index_item
 collection: index5
 ---

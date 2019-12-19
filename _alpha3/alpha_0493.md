@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,4093,600,180/250,/0/default.jpg
 label: Judge
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
-num_match: 
 order: '049'
 layout: alpha_item
 collection: alpha3

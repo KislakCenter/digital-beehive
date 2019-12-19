@@ -2,27 +2,27 @@
 pid: index_0939
 volume: Volume 3
 image_number: '15'
-head: dairy
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1434 [Milk]</a>"
+head: cynicks
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1161 [Cynicks]</a>"
 topic: 
-first_letter: D
+first_letter: C
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-13cb439f6"
+item: "#item-e8c7dd39e"
 unparsed: 
-line: 'Head: dairy|Entry: 1434 [Milk]|#item-13cb439f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/full/0/default.jpg
+line: 'Head: cynicks|Entry: 1161 [Cynicks]|#item-e8c7dd39e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390933289
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390874499
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/150,/0/default.jpg
-label: dairy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/150,/0/default.jpg
+label: cynicks
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0936'
+order: '0938'
 layout: index_item
 collection: index1
 ---

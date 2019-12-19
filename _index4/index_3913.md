@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/200,34
 label: stones precious
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1160'
+order: '1161'
 layout: index_item
 collection: index4
 ---

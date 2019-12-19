@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>gratulation</a>|<a href='/digital-beehive/toc/toc2_162/'>875
   [Wish]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4569/'>wish</a>"
+index: "<a href='/digital-beehive/index5/index_4570/'>wish</a>"
 item: "#item-ab89b6a9f"
 unparsed: 
 line: 'Entry: Wish|Topic: Wish|Xref: gratulation|Xref: 875 [Wish]|Index: wish|#item-ab89b6a9f'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,2143,600,180/250,/0/default.jpg
 label: Wish
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '106'
 layout: alpha_item
 collection: alpha5

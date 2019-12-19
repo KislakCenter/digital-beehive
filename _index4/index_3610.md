@@ -3,7 +3,7 @@ pid: index_3610
 volume: Volume 3
 image_number: '42'
 head: Self dam[m]age
-entry: "<a href='/digital-beehive/toc/toc2_062/'>59 [Self-hurt or dammage]</a>|862
+entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>|862
   [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_307/'>1562 [Self damage]</a>|4774
   [PAGE_MISSING]"
 topic: 
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/409,89
 label: Self dam[m]age
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0857'
+order: '0858'
 layout: index_item
 collection: index4
 ---

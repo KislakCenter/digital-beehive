@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4335/'>violet</a>"
+index: "<a href='/digital-beehive/index5/index_4336/'>violet</a>"
 item: "#item-233bfab9c"
 unparsed: 
 line: 'Entry: Violet|Topic: Violet|Index: violet|#item-233bfab9c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/351,4030,600,180/250,/0/default.jpg
 label: Violet
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '060'
 layout: alpha_item
 collection: alpha5

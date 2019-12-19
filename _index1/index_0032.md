@@ -2,8 +2,8 @@
 pid: index_0032
 volume: Volume 3
 image_number: '7'
-head: acorns
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Acorns]</a>"
+head: acknowledgmt
+entry: "<a href='/digital-beehive/num2/num_0417/'>354 [To acknowledge]</a>"
 topic: 
 first_letter: A
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e97b77199"
+item: "#item-d18b0fb9a"
 unparsed: 
-line: 'Head: acorns|Entry: 1431 [Acorns]|#item-e97b77199'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/full/0/default.jpg
+line: 'Head: acknowledgmt|Entry: 354 [to acknowledge]|#item-d18b0fb9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191607454
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759979524
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,3051,469,83/150,/0/default.jpg
-label: acorns
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/164,2913,632,164/150,/0/default.jpg
+label: acknowledgmt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0031'

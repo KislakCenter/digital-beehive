@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0234/'>a</a>|860 [PAGE_MISSING]"
 topic: 
 first_letter: D
 page: 
-add: "<a href='/digital-beehive/index5/index_4403/'>unlike</a>"
+add: unlike
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1842,1
 label: difference
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1045'
+order: '1047'
 layout: index_item
 collection: index1
 ---

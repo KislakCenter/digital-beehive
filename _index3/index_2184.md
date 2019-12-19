@@ -2,8 +2,9 @@
 pid: index_2184
 volume: Volume 3
 image_number: '27'
-head: laces
-entry: 4584 [PAGE_MISSING]
+head: Lacedemonians & Laconism
+entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
+  [Laconism]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-afac99085"
+item: "#item-da0925928"
 unparsed: 
-line: 'Head: laces|Entry: 4584 [PAGE_MISSING]|#item-afac99085'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/831,3244,379,124/full/0/default.jpg
+line: 'Head: Lacedemonians & Laconism|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-da0925928'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/825,3132,701,213/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832349223
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832308714
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/831,3244,379,124/150,/0/default.jpg
-label: laces
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/825,3132,701,213/150,/0/default.jpg
+label: Lacedemonians & Laconism
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '265'

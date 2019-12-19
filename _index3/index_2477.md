@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1133,1
 label: melon
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '557'
+order: '558'
 layout: index_item
 collection: index3
 ---

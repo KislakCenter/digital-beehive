@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/926,10
 label: Urim & Thum[m]im
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '408'
+order: '403'
 layout: index_item
 collection: index5
 ---

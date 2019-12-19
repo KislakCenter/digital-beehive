@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,236,600,180/250,/0/default.jpg
 label: Epitaph
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-num_match: 
 order: '018'
 layout: alpha_item
 collection: alpha2

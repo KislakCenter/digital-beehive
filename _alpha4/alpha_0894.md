@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0399/'>hast</a>|<a href='/digital-beehive/alpha5/alpha_0968/'>too
-  soon</a>|dispatch|797 [PAGE_MISSING]"
+  soon</a>|<a href='/digital-beehive/num1/num_0182/'>dispatch</a>|797 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index4/index_3795/'>soon</a>"
 item: "#item-4adfacb54"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/766,2209,600,180/250,/0/default.jpg
 label: Soon
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-num_match: 
 order: '246'
 layout: alpha_item
 collection: alpha4

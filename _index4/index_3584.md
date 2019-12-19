@@ -3,7 +3,7 @@ pid: index_3584
 volume: Volume 3
 image_number: '41'
 head: secret parts
-entry: "<a href='/digital-beehive/toc/toc2_114/'>458 [Privy Parts]</a>|<a href='/digital-beehive/toc/toc2_385/'>2192
+entry: "<a href='/digital-beehive/num2/num_0569/'>458 [Privy parts]</a>|<a href='/digital-beehive/toc/toc2_385/'>2192
   [Privy parts]</a>"
 topic: 
 first_letter: S
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1
 label: secret parts
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0831'
+order: '0832'
 layout: index_item
 collection: index4
 ---

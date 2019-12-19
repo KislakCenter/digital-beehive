@@ -8,7 +8,7 @@ topic: Neutrality
 first_letter: N
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|Indifferency|<a
+xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|<a href='/digital-beehive/num1/num_0183/'>Indifferency</a>|<a
   href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num2/num_0420/'>357
   [Neutrality]</a>"
 see: 
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,600,180/250,/0/default.jpg
 label: Neutrality
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-num_match: 
 order: '193'
 layout: alpha_item
 collection: alpha3

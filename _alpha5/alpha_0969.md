@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Tooth]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4188/'>tooth</a>"
+index: "<a href='/digital-beehive/index5/index_4189/'>tooth</a>"
 item: "#item-b808f22e1"
 unparsed: 
 line: 'Entry: Tooth|Topic: Tooth|Xref: 1286 [Tooth]|Index: tooth|#item-b808f22e1'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4253,600,180/250,/0/default.jpg
 label: Tooth
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '034'
 layout: alpha_item
 collection: alpha5

@@ -8,7 +8,7 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0029/'>a</a>|<a href='/digital-be
 topic: 
 first_letter: A
 page: 
-add: "<a href='/digital-beehive/index2/index_1724/'>guardian angels</a>"
+add: guardian angels
 xref: 
 see: 
 index: 

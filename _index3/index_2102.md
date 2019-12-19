@@ -3,7 +3,7 @@ pid: index_2102
 volume: Volume 3
 image_number: '26'
 head: John Bapt
-entry: "<a href='/digital-beehive/alpha3/alpha_0487/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0487/'>a</a>|a"
 topic: 
 first_letter: I/J
 page: 

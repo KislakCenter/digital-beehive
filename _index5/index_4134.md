@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,33
 label: to thrive
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '101'
+order: '096'
 layout: index_item
 collection: index5
 ---

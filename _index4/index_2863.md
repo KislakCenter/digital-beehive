@@ -2,8 +2,8 @@
 pid: index_2863
 volume: Volume 3
 image_number: '34'
-head: palsie
-entry: "<a href='/digital-beehive/toc/toc2_136/'>596 [The Palsie]</a>"
+head: palmistrie
+entry: "<a href='/digital-beehive/toc/toc2_301/'>1531 [Chiromancy]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ea04dcc3b"
+item: "#item-6d3525cfa"
 unparsed: 
-line: 'Head: palsie|Entry: 596 [The Palsie]|#item-ea04dcc3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1162,249,498,153/full/0/default.jpg
+line: 'Head: palmistrie|Entry: 1531 [Chiromancy]|#item-6d3525cfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/425,3355,609,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538491710692
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426469613
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1162,249,498,153/150,/0/default.jpg
-label: palsie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/425,3355,609,194/150,/0/default.jpg
+label: palmistrie
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0111'

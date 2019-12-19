@@ -3,7 +3,7 @@ pid: index_2031
 volume: Volume 3
 image_number: '26'
 head: infant killing
-entry: "<a href='/digital-beehive/alpha3/alpha_0471/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0471/'>a</a>|a"
 topic: 
 first_letter: I/J
 page: 

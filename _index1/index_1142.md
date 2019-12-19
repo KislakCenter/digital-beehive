@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1571,1
 label: Drawing in picture
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1139'
+order: '1141'
 layout: index_item
 collection: index1
 ---

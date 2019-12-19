@@ -8,7 +8,8 @@ topic: Oath
 first_letter: O
 page: 
 add: 
-xref: Swearing|<a href='/digital-beehive/num1/num_0028/'>28 [Oath]</a>
+xref: "<a href='/digital-beehive/num1/num_0092/'>Swearing</a>|<a href='/digital-beehive/num1/num_0028/'>28
+  [Oath]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2753/'>oath</a>"
 item: "#item-8a41c29da"
@@ -21,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,4076,600,180/250,/0/default.jpg
 label: Oath
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-num_match: 
 order: '001'
 layout: alpha_item
 collection: alpha4

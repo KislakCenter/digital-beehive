@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1044,2
 label: copper-Cuts
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '677'
+order: '672'
 layout: index_item
 collection: index5
 ---

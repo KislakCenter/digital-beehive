@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/793,880,600,180/250,/0/default.jpg
 label: Cradle
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
-num_match: 
 order: '189'
 layout: alpha_item
 collection: alpha1

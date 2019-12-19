@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1595,3
 label: to stumble
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1196'
+order: '1197'
 layout: index_item
 collection: index4
 ---

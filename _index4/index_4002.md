@@ -3,7 +3,7 @@ pid: index_4002
 volume: Volume 3
 image_number: '46'
 head: surity. bürger
-entry: "<a href='/digital-beehive/alpha4/alpha_0931/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0931/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/462,32
 label: surity. bürger
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1248'
+order: '1250'
 layout: index_item
 collection: index4
 ---

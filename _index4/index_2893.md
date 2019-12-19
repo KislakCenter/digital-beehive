@@ -2,8 +2,8 @@
 pid: index_2893
 volume: Volume 3
 image_number: '34'
-head: part
-entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_184/'>993 [Part]</a>
+head: parsly
+entry: "<a href='/digital-beehive/alpha4/alpha_0682/'>a</a>|a"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-75b809916"
+item: "#item-775c65f41"
 unparsed: 
-line: 'Head: part|Entry: 772 [PAGE_MISSING]|Entry: 993 [Part]|#item-75b809916'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/full/0/default.jpg
+line: 'Head: parsly|Entry: a|#item-775c65f41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1087,2642,558,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494595413
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494515885
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/150,/0/default.jpg
-label: part
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1087,2642,558,159/150,/0/default.jpg
+label: parsly
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0141'

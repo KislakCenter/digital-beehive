@@ -2,24 +2,24 @@
 pid: index_1888
 volume: Volume 3
 image_number: '24'
-head: hourglass
-entry: "<a href='/digital-beehive/toc/toc2_163/'>878 [Hourglass]</a>"
+head: hourly
+entry: "<a href='/digital-beehive/toc/toc2_338/'>1731 [Hourly]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-26ec7f273"
+item: "#item-ff0ad4831"
 unparsed: 
-line: 'Head: hourglass|Page: p.2 [Image 1.62]|Entry: 878 [Hourglass]|#item-26ec7f273'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1837,776,612,156/full/0/default.jpg
+line: 'Head: hourly|Entry: 1731 [Hourly]|#item-ff0ad4831'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1839,695,425,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586444317
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586390803
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1837,776,612,156/150,/0/default.jpg
-label: hourglass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1839,695,425,146/150,/0/default.jpg
+label: hourly
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '707'

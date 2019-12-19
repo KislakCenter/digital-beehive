@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1587,3
 label: Zenith
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '622'
+order: '617'
 layout: index_item
 collection: index5
 ---

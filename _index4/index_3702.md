@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/167,80
 label: sigils
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '0949'
+order: '0950'
 layout: index_item
 collection: index4
 ---

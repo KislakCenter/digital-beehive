@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/468,39
 label: tobacco
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '132'
+order: '127'
 layout: index_item
 collection: index5
 ---

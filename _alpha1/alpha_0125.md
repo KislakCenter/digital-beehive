@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,1046,600,180/250,/0/default.jpg
 label: Catechism
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
-num_match: 
 order: '124'
 layout: alpha_item
 collection: alpha1

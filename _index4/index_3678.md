@@ -3,7 +3,7 @@ pid: index_3678
 volume: Volume 3
 image_number: '42'
 head: shipwrack
-entry: "<a href='/digital-beehive/toc/toc2_105/'>396 [Shipwrack]</a>"
+entry: "<a href='/digital-beehive/num2/num_0481/'>396 [to suffer Shipwrack]</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1788,1
 label: shipwrack
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0925'
+order: '0926'
 layout: index_item
 collection: index4
 ---

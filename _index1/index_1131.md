@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/764,34
 label: Dominica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1128'
+order: '1130'
 layout: index_item
 collection: index1
 ---

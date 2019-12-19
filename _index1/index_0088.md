@@ -2,10 +2,8 @@
 pid: index_0088
 volume: Volume 3
 image_number: '7'
-head: alchymie
-entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/toc/toc2_259/'>1326
-  [Alchymie]</a>|<a href='/digital-beehive/toc/toc2_304/'>1548 [Alchymie]</a>|<a href='/digital-beehive/toc/toc2_374/'>2090
-  [Alchymie]</a>|4555 [PAGE_MISSING]"
+head: albertus M
+entry: "<a href='/digital-beehive/toc/toc2_374/'>2082 [Albertus M]</a>"
 topic: 
 first_letter: A
 page: 
@@ -13,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-acedd3f25"
+item: "#item-159438925"
 unparsed: 
-line: 'Head: alchymie|Entry: a|Entry: 1326 [Alchymie]|Entry: 1548 [Alchymie]|Entry:
-  2090 [Alchymie]|Entry: 4555 [PAGE_MISSING]|#item-acedd3f25'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1608,722,717,154/full/0/default.jpg
+line: 'Head: albertus M|Entry: 2082 [Albertus M]|#item-159438925'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1610,682,568,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768095550
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768039991
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1608,722,717,154/150,/0/default.jpg
-label: alchymie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1610,682,568,100/150,/0/default.jpg
+label: albertus M
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0087'

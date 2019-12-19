@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,28
 label: surety or bail
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1244'
+order: '1246'
 layout: index_item
 collection: index4
 ---

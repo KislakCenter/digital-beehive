@@ -9,7 +9,7 @@ first_letter: Q
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2161/'>king</a>"
+see: "<a href='/digital-beehive/index3/index_2162/'>king</a>"
 index: 
 item: "#item-1a4a2e57e"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1154,5
 label: Queen
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0504'
+order: '0505'
 layout: index_item
 collection: index4
 ---

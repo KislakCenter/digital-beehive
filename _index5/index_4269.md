@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/188,18
 label: by turns
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '236'
+order: '231'
 layout: index_item
 collection: index5
 ---

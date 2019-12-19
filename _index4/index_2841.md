@@ -2,26 +2,27 @@
 pid: index_2841
 volume: Volume 3
 image_number: '34'
-head: overthwart
-entry: 735 [PAGE_MISSING]
+head: "[:1.]"
+entry: 
 topic: 
-first_letter: O
+first_letter: P
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-7d7cae382"
-unparsed: 
-line: 'Head: overthwart|Entry: 735 [PAGE_MISSING]|#item-7d7cae382'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/479,1260,630,128/full/0/default.jpg
+item: "#item-37fa65ab6"
+unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425271193
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/479,1260,630,128/150,/0/default.jpg
-label: overthwart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/150,/0/default.jpg
+label: "[:1.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-insertion_xref: 
+insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>to oversee or overslip</a>|<a
+  href='/digital-beehive/index5/index_4663/'>overseer</a>"
 order: '0089'
 layout: index_item
 collection: index4

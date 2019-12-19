@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1829,3
 label: corporations
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0854'
+order: '0855'
 layout: index_item
 collection: index1
 ---

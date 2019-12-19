@@ -8,7 +8,8 @@ topic: Heritage
 first_letter: H
 page: 
 add: 
-xref: Clergy|<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritage]</a>
+xref: "<a href='/digital-beehive/num1/num_0043/'>Clergy</a>|<a href='/digital-beehive/toc/toc2_334/'>1700
+  [Inheritage]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1814/'>heritage</a>"
 item: "#item-5cb5668f7"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/761,2470,600,180/250,/0/default.jpg
 label: Heritage
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-num_match: 
 order: '147'
 layout: alpha_item
 collection: alpha2

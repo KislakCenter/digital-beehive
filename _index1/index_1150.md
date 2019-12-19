@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,2
 label: to drieshave
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1147'
+order: '1149'
 layout: index_item
 collection: index1
 ---

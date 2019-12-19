@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,13
 label: silence
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '0954'
+order: '0955'
 layout: index_item
 collection: index4
 ---

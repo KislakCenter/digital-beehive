@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/356,3944,600,180/250,/0/default.jpg
 label: Resistance
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
-num_match: 
 order: '148'
 layout: alpha_item
 collection: alpha4

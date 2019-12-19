@@ -8,8 +8,9 @@ topic: Error
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0318/'>fault</a>|infallibility|mistake|<a
-  href='/digital-beehive/alpha5/alpha_0986/'>vagabonds</a>|759 [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/alpha2/alpha_0318/'>fault</a>|<a href='/digital-beehive/num1/num_0032/'>infallibility</a>|<a
+  href='/digital-beehive/num1/num_0251/'>mistake</a>|<a href='/digital-beehive/alpha5/alpha_0986/'>vagabonds</a>|759
+  [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index2/index_1296/'>error</a>"
 item: "#item-fbe8e139a"
@@ -23,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/753,2250,600,180/250,/0/default.jpg
 label: Error
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-num_match: 
 order: '023'
 layout: alpha_item
 collection: alpha2

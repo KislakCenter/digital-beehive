@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/388,20
 label: Debora
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0972'
+order: '0974'
 layout: index_item
 collection: index1
 ---

@@ -3,7 +3,7 @@ pid: index_4457
 volume: Volume 3
 image_number: '51'
 head: wager
-entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/966,33
 label: wager
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '424'
+order: '419'
 layout: index_item
 collection: index5
 ---

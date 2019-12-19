@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,3658,600,180/250,/0/default.jpg
 label: Alms
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '021'
 layout: alpha_item
 collection: alpha1

@@ -3,7 +3,7 @@ pid: index_1078
 volume: Volume 3
 image_number: '17'
 head: disguise
-entry: "<a href='/digital-beehive/toc/toc2_069/'>129 [Vizzard]</a>"
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/172,12
 label: disguise
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1075'
+order: '1077'
 layout: index_item
 collection: index1
 ---

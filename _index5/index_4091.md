@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/165,23
 label: tents
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '058'
+order: '053'
 layout: index_item
 collection: index5
 ---

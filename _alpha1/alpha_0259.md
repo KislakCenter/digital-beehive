@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/443,3433,600,180/250,/0/default.jpg
 label: Dormouse
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-num_match: 
 order: '258'
 layout: alpha_item
 collection: alpha1

@@ -3,7 +3,7 @@ pid: index_1953
 volume: Volume 3
 image_number: '25'
 head: ill gotten
-entry: "<a href='/digital-beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/digital-beehive/num2/num_0374/'>326
+entry: "<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a href='/digital-beehive/num2/num_0374/'>326
   [Ill gotten goods & gains]</a>|<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill
   gotten goods]</a>"
 topic: 

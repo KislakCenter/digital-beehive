@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1110,1
 label: universal Church
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '358'
+order: '353'
 layout: index_item
 collection: index5
 ---

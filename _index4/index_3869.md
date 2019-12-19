@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1822,2
 label: squirril
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1116'
+order: '1117'
 layout: index_item
 collection: index4
 ---

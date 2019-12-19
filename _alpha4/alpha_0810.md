@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_384/'>2181 [Ringleader]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3431/'>ring leader</a>"
+index: "<a href='/digital-beehive/index4/index_3432/'>ring leader</a>"
 item: "#item-fb6fd31b4"
 unparsed: 
 line: 'Entry: Ringleader|Topic: Ringleader|Xref: 2181 [Ringleader]|Index: ring leader|#item-fb6fd31b4'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4805,600,180/250,/0/default.jpg
 label: Ringleader
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
-num_match: 
 order: '162'
 layout: alpha_item
 collection: alpha4

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,35
 label: creator
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0895'
+order: '0897'
 layout: index_item
 collection: index1
 ---

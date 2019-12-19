@@ -2,24 +2,24 @@
 pid: index_0605
 volume: Volume 3
 image_number: '12'
-head: charity
-entry: 
+head: chariots
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1162 [Carriage]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
+see: 
 index: 
-item: "#item-e2c36d38a"
+item: "#item-658b7a665"
 unparsed: 
-line: 'Head: charity|See: love|#item-e2c36d38a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/full/0/default.jpg
+line: 'Head: chariots|Entry: 1162 [Carriage]|#item-658b7a665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,3435,432,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443568155
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443545970
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1135,3479,552,136/150,/0/default.jpg
-label: charity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,3435,432,98/150,/0/default.jpg
+label: chariots
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0604'

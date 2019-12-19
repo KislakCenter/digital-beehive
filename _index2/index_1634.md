@@ -2,9 +2,8 @@
 pid: index_1634
 volume: Volume 3
 image_number: '22'
-head: to goe
-entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_222/'>1142 [To Go]</a>|4580
-  [PAGE_MISSING]
+head: goat
+entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>|a"
 topic: 
 first_letter: G
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-6ec647170"
+item: "#item-3f94af219"
 unparsed: 
-line: 'Head: to goe|Entry: 805 [PAGE_MISSING]|Entry: 1142 [To Go]|Entry: 4580 [PAGE_MISSING]|#item-6ec647170'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/full/0/default.jpg
+line: 'Head: goat|Entry: a|#item-3f94af219'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046182699
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046079319
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/150,/0/default.jpg
-label: to goe
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/150,/0/default.jpg
+label: goat
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '454'

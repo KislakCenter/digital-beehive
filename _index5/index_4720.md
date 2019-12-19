@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1767,8
 label: Fistula
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '687'
+order: '682'
 layout: index_item
 collection: index5
 ---

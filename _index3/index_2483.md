@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1138,2
 label: mental reserv
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '563'
+order: '564'
 layout: index_item
 collection: index3
 ---

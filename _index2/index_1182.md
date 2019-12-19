@@ -2,24 +2,24 @@
 pid: index_1182
 volume: Volume 3
 image_number: '18'
-head: ear ringing
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1239 [Ringing in the Ear]</a>"
+head: Eagle
+entry: "<a href='/digital-beehive/alpha2/alpha_0269/'>a</a>|a"
 topic: 
 first_letter: E
-page: 
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-0f316379f"
+item: "#item-217e863ee"
 unparsed: 
-line: 'Head: ear ringing|Entry: 1239 [Ringing in the Ear]|#item-0f316379f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/full/0/default.jpg
+line: 'Head: Eagle|Page: p.35 [Image 1.95]|Entry: a|#item-217e863ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/439,1695,442,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666689949
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666451994
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/150,/0/default.jpg
-label: ear ringing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/439,1695,442,147/150,/0/default.jpg
+label: Eagle
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '002'

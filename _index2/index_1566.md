@@ -2,24 +2,24 @@
 pid: index_1566
 volume: Volume 3
 image_number: '21'
-head: furniture
-entry: "<a href='/digital-beehive/toc/toc2_159/'>718 [Household Stuff]</a>"
+head: fun[n]el
+entry: 
 topic: 
 first_letter: F
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-acde67f78"
+item: "#item-4876c76f0"
 unparsed: 
-line: 'Head: furniture|Entry: 718 [Household Stuff]|#item-acde67f78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1544,1260,576,138/full/0/default.jpg
+line: 'Head: fun[n]el|Page: p.38 [Image 1.98]|#item-4876c76f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1558,1114,418,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786109894
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786067981
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1544,1260,576,138/150,/0/default.jpg
-label: furniture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1558,1114,418,168/150,/0/default.jpg
+label: fun[n]el
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
 order: '386'

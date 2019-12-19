@@ -2,24 +2,24 @@
 pid: index_2160
 volume: Volume 3
 image_number: '27'
-head: kindred
-entry: "<a href='/digital-beehive/num1/num_0175/'>168 [Kindred]</a>"
+head: kindness
+entry: 
 topic: 
 first_letter: K
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0680/'>Civility</a>|<a href='/digital-beehive/index2/index_1898/'>humanity</a>"
 index: 
-item: "#item-7f608343d"
+item: "#item-2bcbec7c1"
 unparsed: 
-line: 'Head: kindred|Entry: 168 [Kindred]|#item-7f608343d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/full/0/default.jpg
+line: 'Head: kindness|See: Civility|See: humanity|#item-2bcbec7c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,798,819,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761665345
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761605877
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/150,/0/default.jpg
-label: kindred
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,798,819,187/150,/0/default.jpg
+label: kindness
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '241'

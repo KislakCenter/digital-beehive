@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/975,10
 label: "[:7.]"
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>national Constitutions</a>"
-order: '726'
+order: '727'
 layout: index_item
 collection: index3
 ---

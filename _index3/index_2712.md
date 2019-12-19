@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1137,3
 label: Nile
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '792'
+order: '793'
 layout: index_item
 collection: index3
 ---

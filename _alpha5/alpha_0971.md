@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0866/'>Shells of snails</a>|4704 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index5/index_4196/'>tortoise</a>"
+index: "<a href='/digital-beehive/index5/index_4197/'>tortoise</a>"
 item: "#item-860d7e081"
 unparsed: 
 line: 'Entry: Tortoise|Topic: Tortoise|Xref: Shells of snails|Xref: 4704 [PAGE_MISSING]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/369,4788,600,180/250,/0/default.jpg
 label: Tortoise
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '036'
 layout: alpha_item
 collection: alpha5

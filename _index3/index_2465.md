@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1131,2
 label: medicine
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '545'
+order: '546'
 layout: index_item
 collection: index3
 ---

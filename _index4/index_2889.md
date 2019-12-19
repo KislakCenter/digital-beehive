@@ -2,8 +2,8 @@
 pid: index_2889
 volume: Volume 3
 image_number: '34'
-head: John Parrot
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1774 [John Parrot]</a>"
+head: paronomasia
+entry: "<a href='/digital-beehive/toc/toc2_434/'>4835 [Paronomasia]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-364377856"
+item: "#item-044f9e31c"
 unparsed: 
-line: 'Head: John Parrot|Entry: 1774 [John Parrot]|#item-364377856'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1103,2440,732,210/full/0/default.jpg
+line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494474483
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1103,2440,732,210/150,/0/default.jpg
-label: John Parrot
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/150,/0/default.jpg
+label: paronomasia
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0137'

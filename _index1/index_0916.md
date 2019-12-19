@@ -2,27 +2,27 @@
 pid: index_0916
 volume: Volume 3
 image_number: '15'
-head: crown
-entry: "<a href='/digital-beehive/alpha1/alpha_0198/'>a</a>|4544 [PAGE_MISSING]"
+head: cross of Christ
+entry: "<a href='/digital-beehive/alpha1/alpha_0197/'>a</a>|a"
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-f2a2a381f"
+item: "#item-ff163e7f1"
 unparsed: 
-line: 'Head: crown|Page: p.4 [Image 1.64]|Entry: a|Entry: 4544 [PAGE_MISSING]|#item-f2a2a381f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/full/0/default.jpg
+line: 'Head: cross of Christ|Entry: a|#item-ff163e7f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577704025
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577663640
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/150,/0/default.jpg
-label: crown
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/150,/0/default.jpg
+label: cross of Christ
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0913'
+order: '0915'
 layout: index_item
 collection: index1
 ---

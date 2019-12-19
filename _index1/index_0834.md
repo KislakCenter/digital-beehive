@@ -2,8 +2,8 @@
 pid: index_0834
 volume: Volume 3
 image_number: '14'
-head: convenient
-entry: 828 [PAGE_MISSING]
+head: contrition
+entry: "<a href='/digital-beehive/toc/toc2_333/'>1692 [Contrition]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-062f5206f"
+item: "#item-a3d849d58"
 unparsed: 
-line: 'Head: convenient|Entry: 828 [PAGE_MISSING]|#item-062f5206f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1836,1476,622,101/full/0/default.jpg
+line: 'Head: contrition|Entry: 1692 [Contrition]|#item-a3d849d58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1838,1359,580,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559491959
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559468363
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1836,1476,622,101/150,/0/default.jpg
-label: convenient
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1838,1359,580,99/150,/0/default.jpg
+label: contrition
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0832'
+order: '0833'
 layout: index_item
 collection: index1
 ---

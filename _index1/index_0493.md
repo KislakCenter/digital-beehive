@@ -2,9 +2,8 @@
 pid: index_0493
 volume: Volume 3
 image_number: '11'
-head: butter
-entry: "<a href='/digital-beehive/alpha1/alpha_0110/'>a</a>|<a href='/digital-beehive/toc/toc2_351/'>1895
-  [Butter]</a>"
+head: butts
+entry: 4577 [PAGE_MISSING]
 topic: 
 first_letter: B
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dc0d3f6ff"
+item: "#item-41e9c063f"
 unparsed: 
-line: 'Head: butter|Entry: a|Entry: 1895 [Butter]|#item-dc0d3f6ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/878,2573,522,115/full/0/default.jpg
+line: 'Head: butts|Entry: 4577 [PAGE_MISSING]|#item-41e9c063f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/886,2504,378,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421994690
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421921068
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/878,2573,522,115/150,/0/default.jpg
-label: butter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/886,2504,378,103/150,/0/default.jpg
+label: butts
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 insertion_xref: 
 order: '0492'

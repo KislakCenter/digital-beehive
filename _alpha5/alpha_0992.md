@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Vinegar]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4333/'>vinegar</a>"
+index: "<a href='/digital-beehive/index5/index_4334/'>vinegar</a>"
 item: "#item-e74ef2a62"
 unparsed: 
 line: 'Entry: Vinegar|Topic: Vinegar|Xref: 1649 [Vinegar]|Index: vinegar|#item-e74ef2a62'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,3632,600,180/250,/0/default.jpg
 label: Vinegar
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '057'
 layout: alpha_item
 collection: alpha5

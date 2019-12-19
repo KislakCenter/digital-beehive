@@ -9,7 +9,7 @@ first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1489/'>flux</a>|<a href='/digital-beehive/index3/index_2277/'>license</a>"
+see: "<a href='/digital-beehive/index2/index_1489/'>flux</a>|<a href='/digital-beehive/index3/index_2278/'>license</a>"
 index: 
 item: "#item-847c61974"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/164,97
 label: looseness
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '410'
+order: '411'
 layout: index_item
 collection: index3
 ---

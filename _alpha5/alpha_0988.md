@@ -8,10 +8,10 @@ topic: Variety
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0434/'>hotchpotch</a>|<a href='/digital-beehive/alpha2/alpha_0571/'>many
+xref: "<a href='/digital-beehive/alpha2/alpha_0434/'>hotchpotch</a>|<a href='/digital-beehive/alpha3/alpha_0571/'>many
   men</a>|<a href='/digital-beehive/alpha5/alpha_1008/'>unstableness</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4297/'>variety</a>"
+index: "<a href='/digital-beehive/index5/index_4298/'>variety</a>"
 item: "#item-971d9fe72"
 unparsed: 
 line: 'Entry: Variety|Topic: Variety|Xref: hotchpotch|Xref: many men|Xref: unstableness|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,1785,600,180/250,/0/default.jpg
 label: Variety
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '053'
 layout: alpha_item
 collection: alpha5

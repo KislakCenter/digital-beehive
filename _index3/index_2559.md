@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/151,30
 label: molest
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '639'
+order: '640'
 layout: index_item
 collection: index3
 ---

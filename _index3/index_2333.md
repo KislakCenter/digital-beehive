@@ -3,7 +3,7 @@ pid: index_2333
 volume: Volume 3
 image_number: '29'
 head: Lord
-entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>|a"
 topic: 
 first_letter: L
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,13
 label: Lord
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '413'
+order: '414'
 layout: index_item
 collection: index3
 ---

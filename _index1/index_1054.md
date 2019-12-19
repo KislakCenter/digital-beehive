@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1813,2
 label: diminishing
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1051'
+order: '1053'
 layout: index_item
 collection: index1
 ---

@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1112,1
 label: tradition
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '176'
+order: '171'
 layout: index_item
 collection: index5
 ---

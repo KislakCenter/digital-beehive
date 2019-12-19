@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/866,12
 label: Crete
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0903'
+order: '0905'
 layout: index_item
 collection: index1
 ---

@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1435,3
 label: revelling. sauß und schmauß
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0650'
+order: '0651'
 layout: index_item
 collection: index4
 ---

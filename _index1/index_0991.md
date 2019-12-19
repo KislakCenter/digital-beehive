@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/379,20
 label: deformity
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0988'
+order: '0990'
 layout: index_item
 collection: index1
 ---

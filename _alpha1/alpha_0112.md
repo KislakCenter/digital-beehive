@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0501/'>Cabal</a>"
+index: "<a href='/digital-beehive/index1/index_0502/'>Cabal</a>"
 item: "#item-a90615ae8"
 unparsed: 
 line: 'Entry: Cabal|Topic: Cabal|Index: Cabal|#item-a90615ae8'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/347,898,600,180/250,/0/default.jpg
 label: Cabal
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-num_match: 
 order: '111'
 layout: alpha_item
 collection: alpha1

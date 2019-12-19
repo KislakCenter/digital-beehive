@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/346,4078,600,180/250,/0/default.jpg
 label: Sage
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-num_match: 
 order: '175'
 layout: alpha_item
 collection: alpha4

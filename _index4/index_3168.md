@@ -2,24 +2,24 @@
 pid: index_3168
 volume: Volume 3
 image_number: '37'
-head: privy house
-entry: "<a href='/digital-beehive/toc/toc2_138/'>607 [Privy house]</a>"
+head: privy parts
+entry: "<a href='/digital-beehive/num2/num_0569/'>458 [Privy parts]</a>"
 topic: 
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-6f7a85233"
+item: "#item-ce41a5f3c"
 unparsed: 
-line: 'Head: privy house|Page: p.10 [Image 1.70]|Entry: 607 [Privy house]|#item-6f7a85233'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/742,823,671,169/full/0/default.jpg
+line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,936,441,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867626843
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/742,823,671,169/150,/0/default.jpg
-label: privy house
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/805,936,441,121/150,/0/default.jpg
+label: privy parts
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
 order: '0416'

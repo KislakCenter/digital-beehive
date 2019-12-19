@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/322,1020,600,180/250,/0/default.jpg
 label: Suspition
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-num_match: 
 order: '284'
 layout: alpha_item
 collection: alpha4

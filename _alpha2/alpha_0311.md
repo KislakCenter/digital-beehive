@@ -8,8 +8,8 @@ topic: Fall
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0917/'>Strappado</a>|<a href='/digital-beehive/toc/toc2_058/'>10
-  [After high floods come low ebbs]</a>|<a href='/digital-beehive/toc/toc2_183/'>983
+xref: "<a href='/digital-beehive/alpha4/alpha_0917/'>Strappado</a>|<a href='/digital-beehive/num1/num_0010/'>10
+  [After high floods (: come :) low ebbs]</a>|<a href='/digital-beehive/toc/toc2_183/'>983
   [Fall]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1388/'>fall</a>"
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/715,1785,600,180/250,/0/default.jpg
 label: Fall
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
-num_match: 
 order: '042'
 layout: alpha_item
 collection: alpha2

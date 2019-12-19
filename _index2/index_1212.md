@@ -2,8 +2,8 @@
 pid: index_1212
 volume: Volume 3
 image_number: '18'
-head: "[:59.]"
-entry: 
+head: effect
+entry: 761 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-134701df1"
-unparsed: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
-line: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/full/0/default.jpg
+item: "#item-4a876c5e3"
+unparsed: 
+line: 'Head: effect|Entry: 761 [PAGE_MISSING]|#item-4a876c5e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276169906
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673084477
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1218,206,124/150,/0/default.jpg
-label: "[:59.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/150,/0/default.jpg
+label: effect
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4728/'>duty of husband and</a>"
+insertion_xref: 
 order: '032'
 layout: index_item
 collection: index2

@@ -2,8 +2,8 @@
 pid: index_2156
 volume: Volume 3
 image_number: '27'
-head: to kill
-entry: "<a href='/digital-beehive/toc/toc2_141/'>619 [to Kill]</a>"
+head: kidneys
+entry: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kidneys]</a>"
 topic: 
 first_letter: K
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ad52ddd4d"
+item: "#item-d02dd7e8f"
 unparsed: 
-line: 'Head: to kill|Entry: 619 [to Kill]|#item-ad52ddd4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/847,547,391,115/full/0/default.jpg
+line: 'Head: kidneys|Entry: 1905 [Kidneys]|#item-d02dd7e8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/814,465,472,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761395632
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761307281
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/847,547,391,115/150,/0/default.jpg
-label: to kill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/814,465,472,143/150,/0/default.jpg
+label: kidneys
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '237'

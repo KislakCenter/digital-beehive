@@ -2,8 +2,8 @@
 pid: index_0913
 volume: Volume 3
 image_number: '15'
-head: crooked
-entry: 857 [PAGE_MISSING]
+head: Cromwell
+entry: "<a href='/digital-beehive/toc/toc2_235/'>1209 [Cromwell]</a>|4508 [PAGE_MISSING]"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c57b2e01d"
+item: "#item-7f5921ff2"
 unparsed: 
-line: 'Head: crooked|Entry: 857 [PAGE_MISSING]|#item-c57b2e01d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,1953,464,126/full/0/default.jpg
+line: 'Head: Cromwell|Entry: 1209 [Cromwell]|Entry: 4508 [PAGE_MISSING]|#item-7f5921ff2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1848,670,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577611227
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577577435
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,1953,464,126/150,/0/default.jpg
-label: crooked
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1848,670,131/150,/0/default.jpg
+label: Cromwell
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0910'
+order: '0912'
 layout: index_item
 collection: index1
 ---

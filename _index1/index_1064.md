@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2
 label: discerning
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1061'
+order: '1063'
 layout: index_item
 collection: index1
 ---

@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/508,13
 label: water
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '458'
+order: '453'
 layout: index_item
 collection: index5
 ---

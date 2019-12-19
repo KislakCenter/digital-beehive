@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/846,22
 label: mortal
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '665'
+order: '666'
 layout: index_item
 collection: index3
 ---

@@ -9,8 +9,8 @@ first_letter: H
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0968/'>Too Soon</a>|<a href='/digital-beehive/alpha5/alpha_0962/'>too
-  hasty</a>|<a href='/digital-beehive/alpha4/alpha_0894/'>Soon</a>|dispatch|<a href='/digital-beehive/toc/toc2_165/'>886
-  [Haste]</a>"
+  hasty</a>|<a href='/digital-beehive/alpha4/alpha_0894/'>Soon</a>|<a href='/digital-beehive/num1/num_0182/'>dispatch</a>|<a
+  href='/digital-beehive/toc/toc2_165/'>886 [Haste]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1765/'>haste</a>"
 item: "#item-b472fa4fe"
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/385,648,600,180/250,/0/default.jpg
 label: Haste
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-num_match: 
 order: '130'
 layout: alpha_item
 collection: alpha2

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impart</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>Neutrality</a>|<a
   href='/digital-beehive/alpha4/alpha_0784/'>Regarding of persons</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2897/'>partiality</a>"
+index: "<a href='/digital-beehive/index4/index_2899/'>partiality</a>"
 item: "#item-0857cafe1"
 unparsed: 
 line: 'Entry: Partiality|Topic: Partiality|Xref: Impart|Xref: Neutrality|Xref: Regarding
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/271,404,600,180/250,/0/default.jpg
 label: Partiality
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-num_match: 
 order: '037'
 layout: alpha_item
 collection: alpha4

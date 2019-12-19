@@ -3,7 +3,7 @@ pid: index_4550
 volume: Volume 3
 image_number: '52'
 head: will of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2
 label: will of God
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '517'
+order: '512'
 layout: index_item
 collection: index5
 ---

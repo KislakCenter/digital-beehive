@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_237/'>1220 [Darkness]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0946/'>darkness</a>"
+index: "<a href='/digital-beehive/index1/index_0948/'>darkness</a>"
 item: "#item-4008cee4b"
 unparsed: 
 line: 'Entry: Darkness|Topic: Darkness|Xref: 1220 [Darkness]|Index: darkness|#item-4008cee4b'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/388,3296,600,180/250,/0/default.jpg
 label: Darkness
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-num_match: 
 order: '206'
 layout: alpha_item
 collection: alpha1

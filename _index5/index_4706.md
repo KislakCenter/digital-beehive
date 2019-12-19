@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: insertion
 page: 
-add: "<a href='/digital-beehive/index3/index_2162/'>kingdom</a>"
+add: "<a href='/digital-beehive/index3/index_2163/'>kingdom</a>"
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2
 label: reign
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '673'
+order: '668'
 layout: index_item
 collection: index5
 ---

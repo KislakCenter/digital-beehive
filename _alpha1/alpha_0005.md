@@ -8,9 +8,10 @@ topic: Accusation
 first_letter: A
 page: 
 add: 
-xref: Perverting|<a href='/digital-beehive/num2/num_0312/'>278 [Accusation]</a>
+xref: "<a href='/digital-beehive/num1/num_0126/'>Perverting</a>|<a href='/digital-beehive/num2/num_0312/'>278
+  [Accusation]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0028/'>accusation</a>"
+index: "<a href='/digital-beehive/index1/index_0029/'>accusation</a>"
 item: "#item-f602cdcb2"
 unparsed: 
 line: 'Entry: Accusation|Topic: Accusation|Xref: Perverting|Xref: 278 [Accusation]|Index:
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/250,2328,600,180/250,/0/default.jpg
 label: Accusation
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-num_match: 
 order: '004'
 layout: alpha_item
 collection: alpha1

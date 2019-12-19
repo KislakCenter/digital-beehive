@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0805/'>consequence</a>"
+see: "<a href='/digital-beehive/index1/index_0806/'>consequence</a>"
 index: 
 item: "#item-249907beb"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/418,18
 label: conclusion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0772'
+order: '0773'
 layout: index_item
 collection: index1
 ---

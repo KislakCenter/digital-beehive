@@ -2,24 +2,27 @@
 pid: index_2178
 volume: Volume 3
 image_number: '27'
-head: Korb
-entry: 
+head: knowledge of God
+entry: "<a href='/digital-beehive/toc/toc2_180/'>965 [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_333/'>1695
+  [Knowledge]</a>|<a href='/digital-beehive/toc/toc2_375/'>2098 [Knowledge]</a>|<a
+  href='/digital-beehive/toc/toc2_434/'>4837 [Knowledge]</a>"
 topic: 
 first_letter: K
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>"
+see: 
 index: 
-item: "#item-bf8c26ff0"
+item: "#item-14a3429d8"
 unparsed: 
-line: 'Head: Korb|See: denial|#item-bf8c26ff0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/full/0/default.jpg
+line: 'Head: knowledge of God|Entry: 965 [Knowledge]|Entry: 1695 [Knowledge]|Entry:
+  2098 [Knowledge]|Entry: 4837 [Knowledge]|#item-14a3429d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
+annotation_uri: http://dev.llgc.org.uk/annotation/1559833152442
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/150,/0/default.jpg
-label: Korb
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/811,2623,894,209/150,/0/default.jpg
+label: knowledge of God
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '259'

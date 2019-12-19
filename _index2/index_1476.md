@@ -3,7 +3,7 @@ pid: index_1476
 volume: Volume 3
 image_number: '20'
 head: flea
-entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0330/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

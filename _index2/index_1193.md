@@ -2,24 +2,24 @@
 pid: index_1193
 volume: Volume 3
 image_number: '18'
-head: east Indies
+head: earth's division
 entry: 
 topic: 
 first_letter: E
-page: 
+page: "<a href='/digital-beehive/toc/toc1_333/'>p.192 [Image 1.343]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ee8df147d"
+item: "#item-26c8334cd"
 unparsed: 
-line: 'Head: east Indies|Entry: 1486 [East Indies]|#item-ee8df147d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2796,453,127/full/0/default.jpg
+line: 'Head: earth''s division|Page: p.192 [Image 1.343]|#item-26c8334cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667912478
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668978970
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2796,453,127/150,/0/default.jpg
-label: east Indies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/150,/0/default.jpg
+label: earth's division
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '013'

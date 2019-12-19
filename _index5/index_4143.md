@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,9
 label: thunder
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '110'
+order: '105'
 layout: index_item
 collection: index5
 ---

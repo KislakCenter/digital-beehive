@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1126,2
 label: new year
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '779'
+order: '780'
 layout: index_item
 collection: index3
 ---

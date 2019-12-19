@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/163,29
 label: first love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '434'
+order: '435'
 layout: index_item
 collection: index3
 ---

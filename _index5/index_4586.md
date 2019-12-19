@@ -2,29 +2,27 @@
 pid: index_4586
 volume: Volume 3
 image_number: '53'
-head: woman
-entry: "<a href='/digital-beehive/alpha5/alpha_1044/'>a</a>|<a href='/digital-beehive/toc/toc2_242/'>1242
-  [Woman]</a>|<a href='/digital-beehive/toc/toc2_389/'>2227 [Woman]</a>|<a href='/digital-beehive/toc/toc2_394/'>2255
-  [Woman]</a>"
+head: wolf
+entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|a"
 topic: 
 first_letter: W
-page: 
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1fe3f8794"
+item: "#item-2505ee998"
 unparsed: 
-line: 'Head: woman|Entry: a|Entry: 1242 [Woman]|Entry: 2227 [Woman]|Entry: 2255 [Woman]|#item-1fe3f8794'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/182,3113,656,119/full/0/default.jpg
+line: 'Head: wolf|Page: p.34 [Image 1.94]|Entry: a|#item-2505ee998'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793480855
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793381069
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/182,3113,656,119/150,/0/default.jpg
-label: woman
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/150,/0/default.jpg
+label: wolf
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '553'
+order: '548'
 layout: index_item
 collection: index5
 ---

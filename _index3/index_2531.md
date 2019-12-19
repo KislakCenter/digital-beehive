@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1847,3
 label: minute
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '611'
+order: '612'
 layout: index_item
 collection: index3
 ---

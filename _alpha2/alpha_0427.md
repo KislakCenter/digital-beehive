@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Honey]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1865/'>honey</a>"
+index: "<a href='/digital-beehive/index2/index_1866/'>honey</a>"
 item: "#item-f1c857c69"
 unparsed: 
 line: 'Entry: Honey|Topic: Honey|Xref: 1903 [Honey]|Index: honey|#item-f1c857c69'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/277,1512,600,180/250,/0/default.jpg
 label: Honey
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
-num_match: 
 order: '158'
 layout: alpha_item
 collection: alpha2

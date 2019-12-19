@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1111,1
 label: to spend
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1081'
+order: '1082'
 layout: index_item
 collection: index4
 ---

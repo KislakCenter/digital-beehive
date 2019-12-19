@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,4230,600,180/250,/0/default.jpg
 label: Raven
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-num_match: 
 order: '126'
 layout: alpha_item
 collection: alpha4

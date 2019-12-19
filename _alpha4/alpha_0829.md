@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0781/'>Redemption</a>|<a href='/digital-beehive/alpha3/alpha_0449/'>Jesus</a>|<a
   href='/digital-beehive/toc/toc2_180/'>966 [Saviour]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3524/'>saviour</a>"
+index: "<a href='/digital-beehive/index4/index_3525/'>saviour</a>"
 item: "#item-b7ad2723d"
 unparsed: 
 line: 'Entry: Saviour|Topic: Saviour|Xref: Redemption|Xref: Jesus|Xref: 966 [Saviour]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,918,600,180/250,/0/default.jpg
 label: Saviour
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '181'
 layout: alpha_item
 collection: alpha4

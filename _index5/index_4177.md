@@ -2,27 +2,27 @@
 pid: index_4177
 volume: Volume 3
 image_number: '48'
-head: too late
-entry: "<a href='/digital-beehive/toc/toc2_244/'>1255 [Too Late]</a>"
+head: too high
+entry: 1869 [PAGE_MISSING]
 topic: 
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-9f450cc8c"
+item: "#item-2aeec3bab"
 unparsed: 
-line: 'Head: too late|Page: p.44 [Image 1.104]|Entry: 1255 [Too Late]|#item-9f450cc8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/483,1283,652,122/full/0/default.jpg
+line: 'Head: too high|Entry: 1869 [PAGE_MISSING]|#item-2aeec3bab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273955708
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273702036
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/483,1283,652,122/150,/0/default.jpg
-label: too late
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/498,1214,460,131/150,/0/default.jpg
+label: too high
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '144'
+order: '139'
 layout: index_item
 collection: index5
 ---

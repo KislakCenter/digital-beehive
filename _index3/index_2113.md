@@ -3,7 +3,7 @@ pid: index_2113
 volume: Volume 3
 image_number: '26'
 head: joy after sorrow
-entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After sowre comes the sweet]</a>"
+entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After Sowre comes the Sweet]</a>"
 topic: 
 first_letter: I/J
 page: 

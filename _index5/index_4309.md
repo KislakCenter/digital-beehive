@@ -2,8 +2,8 @@
 pid: index_4309
 volume: Volume 3
 image_number: '49'
-head: venison
-entry: "<a href='/digital-beehive/toc/toc2_376/'>2106 [Venison]</a>"
+head: Venice
+entry: "<a href='/digital-beehive/num2/num_0544/'>440 [Venice]</a>"
 topic: 
 first_letter: U/V
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5da01a2be"
+item: "#item-d17224da7"
 unparsed: 
-line: 'Head: venison|Entry: 2106 [Venison]|#item-5da01a2be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/full/0/default.jpg
+line: 'Head: Venice|Entry: 440 [Venice]|#item-d17224da7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658715679
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658695259
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/962,2643,465,95/150,/0/default.jpg
-label: venison
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/946,2584,440,78/150,/0/default.jpg
+label: Venice
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '276'
+order: '271'
 layout: index_item
 collection: index5
 ---

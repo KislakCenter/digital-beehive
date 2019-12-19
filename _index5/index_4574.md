@@ -2,8 +2,11 @@
 pid: index_4574
 volume: Volume 3
 image_number: '53'
-head: witchcraft natural
-entry: "<a href='/digital-beehive/toc/toc2_303/'>1543 [Falcination]</a>"
+head: witchcraft
+entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/toc/toc2_256/'>1312
+  [Witchcraft]</a>|<a href='/digital-beehive/toc/toc2_302/'>1536 [Witchcraft]</a>|<a
+  href='/digital-beehive/toc/toc2_306/'>1556 [Bewitch]</a>|<a href='/digital-beehive/toc/toc2_392/'>2243
+  [Sorcery or Witchcraft]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +14,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1ae98fbe1"
+item: "#item-e069f9d76"
 unparsed: 
-line: 'Head: witchcraft natural|Entry: 1543 [Falcination]|#item-1ae98fbe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,1766,535,104/full/0/default.jpg
+line: 'Head: witchcraft|Entry: a|Entry: 1312 [Witchcraft]|Entry: 1536 [Witchcraft]|Entry:
+  1556 [Bewitch]|Entry: 2243 [Sorcery or Witchcraft]|#item-e069f9d76'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792385732
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792265321
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,1766,535,104/150,/0/default.jpg
-label: witchcraft natural
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/150,/0/default.jpg
+label: witchcraft
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '541'
+order: '536'
 layout: index_item
 collection: index5
 ---

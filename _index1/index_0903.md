@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: artic. of faith
+see: "<a href='/digital-beehive/index1/index_0215/'>artic. of faith</a>"
 index: 
 item: "#item-2ac541842"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/860,91
 label: creed
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0900'
+order: '0902'
 layout: index_item
 collection: index1
 ---

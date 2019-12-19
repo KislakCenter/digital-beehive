@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num1/num_0174/'>167 [Sexes]</a>"
 topic: 
 first_letter: S
 page: 
-add: "<a href='/digital-beehive/index1/index_0598/'>change</a>"
+add: "<a href='/digital-beehive/index1/index_0599/'>change</a>"
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1
 label: sex
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0900'
+order: '0901'
 layout: index_item
 collection: index4
 ---

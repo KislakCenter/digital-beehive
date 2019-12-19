@@ -2,27 +2,27 @@
 pid: index_4029
 volume: Volume 3
 image_number: '46'
-head: Symboles
-entry: 
+head: sword
+entry: "<a href='/digital-beehive/toc/toc2_228/'>1175 [Weapons]</a>"
 topic: 
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_075/'>p.25 [Image 1.85]</a>"
-add: "<a href='/digital-beehive/index3/index_2601/'>Motto</a>"
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-f0924eb67"
+item: "#item-498c66c8b"
 unparsed: 
-line: 'Head: Symboles|Page: p.25 [Image 1.85]|Add: Motto|#item-f0924eb67'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1099,2784,747,85/full/0/default.jpg
+line: 'Head: sword|Page: p.40 [Image 1.100]|Entry: 1175 [Weapons]|#item-498c66c8b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531741608388
+annotation_uri: http://dev.llgc.org.uk/annotation/1531741554515
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1099,2784,747,85/150,/0/default.jpg
-label: Symboles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/150,/0/default.jpg
+label: sword
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1275'
+order: '1277'
 layout: index_item
 collection: index4
 ---

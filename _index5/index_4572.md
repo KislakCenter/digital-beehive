@@ -2,8 +2,8 @@
 pid: index_4572
 volume: Volume 3
 image_number: '53'
-head: John de Wit
-entry: "<a href='/digital-beehive/toc/toc2_263/'>1349 [John de Wit]</a>"
+head: false wit
+entry: 4562 [PAGE_MISSING]
 topic: 
 first_letter: W
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-338b24a8a"
+item: "#item-547fd237d"
 unparsed: 
-line: 'Head: John de Wit|Entry: 1349 [John de Wit]|#item-338b24a8a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/full/0/default.jpg
+line: 'Head: false wit|Entry: 4562 [PAGE_MISSING]|#item-547fd237d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/195,1429,485,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792112733
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792050115
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/150,/0/default.jpg
-label: John de Wit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/195,1429,485,86/150,/0/default.jpg
+label: false wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '539'
+order: '534'
 layout: index_item
 collection: index5
 ---

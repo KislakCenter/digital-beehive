@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1148,3
 label: rules for young merchants
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0714'
+order: '0715'
 layout: index_item
 collection: index4
 ---

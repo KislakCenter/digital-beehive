@@ -3,7 +3,7 @@ pid: index_3684
 volume: Volume 3
 image_number: '42'
 head: shopkeeper
-entry: "<a href='/digital-beehive/toc/toc2_067/'>109 [a Shop-keeper]</a>"
+entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1794,2
 label: shopkeeper
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0931'
+order: '0932'
 layout: index_item
 collection: index4
 ---

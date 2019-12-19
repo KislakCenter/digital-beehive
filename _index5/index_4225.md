@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1125,3
 label: high treason
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '192'
+order: '187'
 layout: index_item
 collection: index5
 ---

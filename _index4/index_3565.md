@@ -2,27 +2,27 @@
 pid: index_3565
 volume: Volume 3
 image_number: '41'
-head: scull
-entry: 
+head: scrupulous
+entry: "<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>"
 topic: 
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ff2576cc6"
+item: "#item-7c7e33ba9"
 unparsed: 
-line: 'Head: scull|Page: p.44 [Image 1.104]|#item-ff2576cc6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/full/0/default.jpg
+line: 'Head: scrupulous|Entry: 918 [Doubtful]|#item-7c7e33ba9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/887,3059,567,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241734356
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241717729
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/150,/0/default.jpg
-label: scull
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/887,3059,567,137/150,/0/default.jpg
+label: scrupulous
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0812'
+order: '0813'
 layout: index_item
 collection: index4
 ---

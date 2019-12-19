@@ -2,9 +2,8 @@
 pid: index_3755
 volume: Volume 3
 image_number: '43'
-head: slowness
-entry: "<a href='/digital-beehive/alpha4/alpha_0887/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
-  [Slow-footed]</a>"
+head: sloven
+entry: "<a href='/digital-beehive/toc/toc2_393/'>2246 [Slovenry or Slovenliness]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-78b2481dd"
+item: "#item-f7fc39c70"
 unparsed: 
-line: 'Head: slowness|Entry: a|Entry: 1089 [Slow-footed]|#item-78b2481dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/full/0/default.jpg
+line: 'Head: sloven|Entry: 2246 [Slovenry or Slovenliness]|#item-f7fc39c70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,2849,471,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584824193
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584800377
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/898,2930,577,131/150,/0/default.jpg
-label: slowness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,2849,471,122/150,/0/default.jpg
+label: sloven
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1002'
+order: '1003'
 layout: index_item
 collection: index4
 ---

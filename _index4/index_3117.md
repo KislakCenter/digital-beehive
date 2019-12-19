@@ -3,13 +3,13 @@ pid: index_3117
 volume: Volume 3
 image_number: '36'
 head: precious
-entry: dear|excell
+entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: dear|excell
 index: 
 item: "#item-893007bd4"
 unparsed: 

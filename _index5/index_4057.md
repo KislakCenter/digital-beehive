@@ -2,8 +2,8 @@
 pid: index_4057
 volume: Volume 3
 image_number: '46'
-head: tarantula
-entry: "<a href='/digital-beehive/num2/num_0568/'>458 [Spider]</a>"
+head: tape
+entry: "<a href='/digital-beehive/num2/num_0405/'>348 [a Band]</a>"
 topic: 
 first_letter: T
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e0f957054"
+item: "#item-ea92a5a21"
 unparsed: 
-line: 'Head: tarantula|Entry: 458 [Spider]|#item-e0f957054'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/full/0/default.jpg
+line: 'Head: tape|Entry: 348 [a Band, A Rope]|#item-ea92a5a21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1834,2426,353,83/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743401289
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743252839
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,2563,525,103/150,/0/default.jpg
-label: tarantula
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1834,2426,353,83/150,/0/default.jpg
+label: tape
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '026'
+order: '019'
 layout: index_item
 collection: index5
 ---

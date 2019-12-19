@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0309/'>battery</a>"
+index: "<a href='/digital-beehive/index1/index_0310/'>battery</a>"
 item: "#item-68ff2988e"
 unparsed: 
 line: 'Entry: Battery|Topic: Battery|Xref: 708 [Beating]|Index: battery|#item-68ff2988e'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/405,3721,600,180/250,/0/default.jpg
 label: Battery
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-num_match: 
 order: '063'
 layout: alpha_item
 collection: alpha1

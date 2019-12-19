@@ -2,27 +2,27 @@
 pid: index_4179
 volume: Volume 3
 image_number: '48'
-head: too many
-entry: 
+head: too little
+entry: "<a href='/digital-beehive/alpha5/alpha_0963/'>a</a>|a"
 topic: 
 first_letter: T
 page: 
 add: 
 xref: 
-see: captains
+see: 
 index: 
-item: "#item-2510843f6"
+item: "#item-69bbded64"
 unparsed: 
-line: 'Head: too many|See: captains|#item-2510843f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/449,1492,673,142/full/0/default.jpg
+line: 'Head: too little|Entry: a|#item-69bbded64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/447,1398,417,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274616409
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274587757
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/449,1492,673,142/150,/0/default.jpg
-label: too many
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/447,1398,417,99/150,/0/default.jpg
+label: too little
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '146'
+order: '141'
 layout: index_item
 collection: index5
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4628/'>wrath of God</a>"
+index: "<a href='/digital-beehive/index5/index_4629/'>wrath of God</a>"
 item: "#item-73641b037"
 unparsed: 
 line: 'Entry: Wrath of God|Topic: Wrath of God|Index: wrath of God|#item-73641b037'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/324,2357,600,180/250,/0/default.jpg
 label: Wrath of God
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-num_match: 
 order: '130'
 layout: alpha_item
 collection: alpha5

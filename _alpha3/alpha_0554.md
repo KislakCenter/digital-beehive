@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/329,3168,600,180/250,/0/default.jpg
 label: Love of God
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
-num_match: 
 order: '110'
 layout: alpha_item
 collection: alpha3

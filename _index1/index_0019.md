@@ -3,7 +3,7 @@ pid: index_0019
 volume: Volume 3
 image_number: '7'
 head: abundance
-entry: "<a href='/digital-beehive/alpha1/alpha_0003/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0003/'>a</a>|a"
 topic: 
 first_letter: A
 page: 

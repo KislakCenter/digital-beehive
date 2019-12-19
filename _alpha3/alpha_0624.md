@@ -8,9 +8,9 @@ topic: Mystery
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_120/'>499 [Nackedness]</a>"
+xref: "<a href='/digital-beehive/toc/toc2_195/'>1006 [Mystery]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2633/'>nakedness</a>"
+index: "<a href='/digital-beehive/index3/index_2628/'>mystery</a>"
 item: "#item-b18c4100d"
 unparsed: 
 line: 'Entry: Mystery|Topic: Mystery|Xref: 499 [Nackedness]|Index: nakedness|#item-b18c4100d'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/268,471,600,180/250,/0/default.jpg
 label: Mystery
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-num_match: 
 order: '180'
 layout: alpha_item
 collection: alpha3

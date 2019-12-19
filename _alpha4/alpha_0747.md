@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0948/'>Testimony</a>|argument|<a href='/digital-beehive/toc/toc2_170/'>913
   [Proof]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3191/'>proof, or trial</a>"
+index: "<a href='/digital-beehive/index4/index_3192/'>proof or evidence</a>"
 item: "#item-e4d9f00a8"
 unparsed: 
 line: 'Entry: Proof|Topic: Proof|Xref: Testimony|Xref: argument|Xref: 913 [Proof]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/809,216,600,180/250,/0/default.jpg
 label: Proof
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
-num_match: 
 order: '100'
 layout: alpha_item
 collection: alpha4

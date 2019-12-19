@@ -3,7 +3,7 @@ pid: index_1350
 volume: Volume 3
 image_number: '19'
 head: exorcism
-entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>|a"
 topic: 
 first_letter: E
 page: 

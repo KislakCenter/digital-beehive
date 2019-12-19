@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/448,31
 label: abyss
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '653'
+order: '648'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,9 @@
 pid: index_1968
 volume: Volume 3
 image_number: '25'
-head: imperial Cities
-entry: 1878 [PAGE_MISSING]
+head: imperfection
+entry: "<a href='/digital-beehive/alpha3/alpha_0463/'>a</a>|<a href='/digital-beehive/toc/toc2_263/'>1350
+  [Imperfection]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ebcf85f92"
+item: "#item-1a808b792"
 unparsed: 
-line: 'Head: imperial Cities|Entry: 1878 [PAGE_MISSING]|#item-ebcf85f92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/857,1644,610,116/full/0/default.jpg
+line: 'Head: imperfection|Entry: a|Entry: 1350 [Imperfection]|#item-1a808b792'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/862,1584,708,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665974465
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665937796
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/857,1644,610,116/150,/0/default.jpg
-label: imperial Cities
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/862,1584,708,126/150,/0/default.jpg
+label: imperfection
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 insertion_xref: 
 order: '049'

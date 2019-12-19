@@ -3,7 +3,7 @@ pid: index_1913
 volume: Volume 3
 image_number: '24'
 head: husk
-entry: "<a href='/digital-beehive/alpha2/alpha_0443/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0443/'>a</a>|a"
 topic: 
 first_letter: H
 page: 

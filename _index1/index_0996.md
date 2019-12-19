@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: diswasion
+see: "<a href='/digital-beehive/index1/index_1101/'>diswasion</a>"
 index: 
 item: "#item-21ec01a1a"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/343,26
 label: dehorta[ti]on
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0993'
+order: '0995'
 layout: index_item
 collection: index1
 ---

@@ -9,7 +9,7 @@ first_letter: insertion
 page: 
 add: 
 xref: 
-see: omnipot
+see: "<a href='/digital-beehive/index4/index_2790/'>omnipot</a>"
 index: 
 item: "#item-408120860"
 unparsed: Type Index|Insertion [:8.]
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/362,14
 label: almighty
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '638'
+order: '633'
 layout: index_item
 collection: index5
 ---

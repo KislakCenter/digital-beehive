@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,4
 label: Pluto & Proserp.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '684'
+order: '679'
 layout: index_item
 collection: index5
 ---

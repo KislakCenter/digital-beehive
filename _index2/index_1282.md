@@ -3,7 +3,7 @@ pid: index_1282
 volume: Volume 3
 image_number: '19'
 head: epigrams
-entry: "<a href='/digital-beehive/toc/toc2_084/'>248 [Epigrams]</a>"
+entry: "<a href='/digital-beehive/num1/num_0267/'>248 [Epigram[m]s]</a>"
 topic: 
 first_letter: E
 page: 

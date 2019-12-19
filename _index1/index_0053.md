@@ -2,8 +2,8 @@
 pid: index_0053
 volume: Volume 3
 image_number: '7'
-head: "[AE]olus"
-entry: "<a href='/digital-beehive/toc/toc2_381/'>2160 [Wind]</a>"
+head: advocate
+entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Advocate]</a>"
 topic: 
 first_letter: A
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-efe316e0f"
+item: "#item-0275983cc"
 unparsed: 
-line: 'Head: [AE]olus|Entry: 2160 [Wind]|#item-efe316e0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1255,1251,354,111/full/0/default.jpg
+line: 'Head: advocate|Entry: 556 [Advocate]|#item-0275983cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765995953
+annotation_uri: http://dev.llgc.org.uk/annotation/1491192609871
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1255,1251,354,111/150,/0/default.jpg
-label: "[AE]olus"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,1214,541,66/150,/0/default.jpg
+label: advocate
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0052'

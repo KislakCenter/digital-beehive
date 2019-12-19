@@ -2,24 +2,25 @@
 pid: index_0305
 volume: Volume 3
 image_number: '9'
-head: bat
-entry: "<a href='/digital-beehive/toc/toc2_153/'>689 [a Bat]</a>"
+head: bastard
+entry: "<a href='/digital-beehive/alpha1/alpha_0063/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>972
+  [Bastard]</a>"
 topic: 
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d079a4d28"
+item: "#item-8cb1f4d49"
 unparsed: 
-line: 'Head: bat|Page: p.36 [Image 1.96]|Entry: 689 [a Bat]|#item-d079a4d28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1615,476,446,134/full/0/default.jpg
+line: 'Head: bastard|Entry: a|Entry: 972 [Bastard]|#item-8cb1f4d49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1616,345,517,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530805759454
+annotation_uri: http://dev.llgc.org.uk/annotation/1530805679323
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1615,476,446,134/150,/0/default.jpg
-label: bat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1616,345,517,121/150,/0/default.jpg
+label: bastard
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0304'

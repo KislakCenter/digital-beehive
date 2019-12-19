@@ -2,8 +2,8 @@
 pid: index_3525
 volume: Volume 3
 image_number: '41'
-head: sauce
-entry: 4713 [PAGE_MISSING]
+head: saviour
+entry: "<a href='/digital-beehive/alpha4/alpha_0829/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5e9fe7524"
+item: "#item-d6037af21"
 unparsed: 
-line: 'Head: sauce|Entry: 4713 [PAGE_MISSING]|#item-5e9fe7524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/full/0/default.jpg
+line: 'Head: saviour|Entry: a|#item-d6037af21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2156,411,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239338378
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239271510
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/150,/0/default.jpg
-label: sauce
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/158,2156,411,110/150,/0/default.jpg
+label: saviour
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0772'
+order: '0773'
 layout: index_item
 collection: index4
 ---

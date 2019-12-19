@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/967,17
 label: usury
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '413'
+order: '408'
 layout: index_item
 collection: index5
 ---

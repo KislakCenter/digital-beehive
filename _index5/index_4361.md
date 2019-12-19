@@ -9,7 +9,7 @@ first_letter: U/V
 page: 
 add: 
 xref: 
-see: unalt
+see: "<a href='/digital-beehive/index5/index_4354/'>unalt</a>"
 index: 
 item: "#item-edf576c4c"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/483,15
 label: unchangeable
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '328'
+order: '323'
 layout: index_item
 collection: index5
 ---

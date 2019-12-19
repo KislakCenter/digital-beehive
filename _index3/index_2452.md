@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/949,24
 label: "[:43.]"
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4711/'>I or You may</a>"
-order: '532'
+order: '533'
 layout: index_item
 collection: index3
 ---

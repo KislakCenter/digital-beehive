@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/813,2367,600,180/250,/0/default.jpg
 label: Sheep
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-num_match: 
 order: '217'
 layout: alpha_item
 collection: alpha4

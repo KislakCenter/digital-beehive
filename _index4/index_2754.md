@@ -3,7 +3,7 @@ pid: index_2754
 volume: Volume 3
 image_number: '33'
 head: oats
-entry: "<a href='/digital-beehive/alpha4/alpha_0647/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0647/'>a</a>|a"
 topic: 
 first_letter: O
 page: 

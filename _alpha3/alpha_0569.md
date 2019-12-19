@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a href='/digital-beehive/alpha3/alpha_0632/'>naughtiness</a>|<a
   href='/digital-beehive/alpha2/alpha_0285/'>envy</a>|<a href='/digital-beehive/alpha2/alpha_0401/'>hatred</a>"
 see: 
-index: malignity
+index: "<a href='/digital-beehive/index3/index_2399/'>malice & malignity</a>"
 item: "#item-4540729e7"
 unparsed: 
 line: 'Entry: Malignity|Topic: Malignity|Xref: Wickedness|Xref: naughtiness|Xref:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,600,180/250,/0/default.jpg
 label: Malignity
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
-num_match: 
 order: '125'
 layout: alpha_item
 collection: alpha3

@@ -3,7 +3,7 @@ pid: index_3732
 volume: Volume 3
 image_number: '43'
 head: Siren
-entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/853,82
 label: Siren
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '0979'
+order: '0980'
 layout: index_item
 collection: index4
 ---

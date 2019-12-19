@@ -2,24 +2,24 @@
 pid: index_1621
 volume: Volume 3
 image_number: '22'
-head: gleanings
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1903 [Gleaners]</a>"
+head: glass windows
+entry: 
 topic: 
 first_letter: G
-page: 
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-63d1c3ce9"
+item: "#item-79becc34a"
 unparsed: 
-line: 'Head: gleanings|Entry: 1903 [Gleaners]|#item-63d1c3ce9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/full/0/default.jpg
+line: 'Head: glass windows|Page: p.10 [Image 1.70]|#item-79becc34a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/410,3058,523,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044120644
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044066476
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/413,3143,539,154/150,/0/default.jpg
-label: gleanings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/410,3058,523,124/150,/0/default.jpg
+label: glass windows
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '441'

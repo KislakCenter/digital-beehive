@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0790/'>repentance</a>|<a href='/digital-beehive/toc/toc2_358/'>1945
   [Impenitence]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1965/'>impenitence</a>"
+index: "<a href='/digital-beehive/index3/index_1966/'>impenitence</a>"
 item: "#item-cebd48102"
 unparsed: 
 line: 'Entry: Impenitence|Topic: Impenitence|Xref: repentance|Xref: 1945 [Impenitence]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/730,2001,600,180/250,/0/default.jpg
 label: Impenitence
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
-num_match: 
 order: '018'
 layout: alpha_item
 collection: alpha3

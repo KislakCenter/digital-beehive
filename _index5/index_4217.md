@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1100,2
 label: translation
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '184'
+order: '179'
 layout: index_item
 collection: index5
 ---

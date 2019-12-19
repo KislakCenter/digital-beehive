@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/188,12
 label: tumult
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '230'
+order: '225'
 layout: index_item
 collection: index5
 ---

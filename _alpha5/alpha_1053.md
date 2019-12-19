@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_167/'>900 [Word of God]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4603/'>word of God</a>"
+index: "<a href='/digital-beehive/index5/index_4604/'>word of God</a>"
 item: "#item-2e7f9bce6"
 unparsed: 
 line: 'Entry: Word of God|Topic: Word of God|Xref: 900 [Word of God]|Index: word of
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,1809,600,180/250,/0/default.jpg
 label: Word of God
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '118'
 layout: alpha_item
 collection: alpha5

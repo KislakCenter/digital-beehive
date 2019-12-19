@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1576,4
 label: mountain
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '683'
+order: '684'
 layout: index_item
 collection: index3
 ---

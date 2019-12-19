@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0440/'>Husbandry</a>|<a href='/digital-beehive/toc/toc2_219/'>1130
   [Agriculture]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0081/'>agriculture</a>"
+index: "<a href='/digital-beehive/index1/index_0082/'>agriculture</a>"
 item: "#item-e3fb6b9d3"
 unparsed: 
 line: 'Entry: Agriculture|Topic: Agriculture|Xref: Husbandry|Xref: 1130 [Agriculture]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/621,1945,600,180/250,/0/default.jpg
 label: Agriculture
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '015'
 layout: alpha_item
 collection: alpha1

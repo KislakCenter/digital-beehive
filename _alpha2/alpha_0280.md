@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,1436,600,180/250,/0/default.jpg
 label: Eloquence
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-num_match: 
 order: '011'
 layout: alpha_item
 collection: alpha2

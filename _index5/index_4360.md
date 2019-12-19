@@ -3,8 +3,8 @@ pid: index_4360
 volume: Volume 3
 image_number: '50'
 head: uncertain
-entry: "<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/digital-beehive/toc/toc2_372/'>2061
-  [Doubt]</a>"
+entry: a|<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a href='/digital-beehive/toc/toc2_372/'>2061
+  [Doubt]</a>
 topic: 
 first_letter: U/V
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/461,14
 label: uncertain
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '327'
+order: '322'
 layout: index_item
 collection: index5
 ---

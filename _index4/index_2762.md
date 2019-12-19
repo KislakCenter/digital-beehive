@@ -3,7 +3,8 @@ pid: index_2762
 volume: Volume 3
 image_number: '33'
 head: obsolete
-entry: "<a href='/digital-beehive/toc/toc2_099/'>355 [Old]</a>|4507 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num2/num_0418/'>355 [Old and Obsolete]</a>|4507
+  [PAGE_MISSING]"
 topic: 
 first_letter: O
 page: 

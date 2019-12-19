@@ -2,24 +2,24 @@
 pid: index_0271
 volume: Volume 3
 image_number: '9'
-head: bail
-entry: 
+head: badge or livery
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
 topic: 
 first_letter: B
 page: 
 add: 
 xref: 
-see: surety
+see: 
 index: 
-item: "#item-636920845"
+item: "#item-f6784ec3d"
 unparsed: 
-line: 'Head: bail|See: surety|#item-636920845'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/891,459,481,126/full/0/default.jpg
+line: 'Head: badge or livery|Entry: 4464 [Livery or Badge]|#item-f6784ec3d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/859,381,683,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403306784
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016779424
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/891,459,481,126/150,/0/default.jpg
-label: bail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/859,381,683,144/150,/0/default.jpg
+label: badge or livery
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0270'

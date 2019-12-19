@@ -3,13 +3,13 @@ pid: index_4683
 volume: Volume 3
 image_number: '54'
 head: forrest
-entry: a
+entry: 
 topic: 
 first_letter: insertion
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4601/'>wood</a>"
+see: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
 index: 
 item: "#item-355b318ec"
 unparsed: Type Index|Insertion [:19.]
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,28
 label: forrest
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '650'
+order: '645'
 layout: index_item
 collection: index5
 ---

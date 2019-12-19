@@ -3,7 +3,7 @@ pid: index_4220
 volume: Volume 3
 image_number: '48'
 head: transsubstantia[ti]on
-entry: "<a href='/digital-beehive/toc/toc2_107/'>414 [Transsubstantiation]</a>|<a
+entry: "<a href='/digital-beehive/num2/num_0511/'>414 [Transsubstantiation]</a>|<a
   href='/digital-beehive/toc/toc2_363/'>1977 [Transsubstantiation]</a>"
 topic: 
 first_letter: T
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1085,2
 label: transsubstantia[ti]on
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '187'
+order: '182'
 layout: index_item
 collection: index5
 ---

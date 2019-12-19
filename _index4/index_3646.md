@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4622/'>worship</a>"
+see: "<a href='/digital-beehive/index5/index_4623/'>worship</a>"
 index: 
 item: "#item-bb827ea55"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1
 label: servant & service of God
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0893'
+order: '0894'
 layout: index_item
 collection: index4
 ---

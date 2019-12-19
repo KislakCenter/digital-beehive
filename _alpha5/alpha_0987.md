@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0975/'>Transitory</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
   [Vanitatis Triumphus]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4295/'>vanity</a>"
+index: "<a href='/digital-beehive/index5/index_4296/'>vanity</a>"
 item: "#item-f07610be2"
 unparsed: 
 line: 'Entry: Vanity|Topic: Vanity|Xref: Transitory|Xref: 1659 [Vanitatis Triumphus]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/333,1462,600,180/250,/0/default.jpg
 label: Vanity
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '052'
 layout: alpha_item
 collection: alpha5

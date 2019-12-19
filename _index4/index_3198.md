@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,9
 label: prophets
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0445'
+order: '0446'
 layout: index_item
 collection: index4
 ---

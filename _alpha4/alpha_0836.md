@@ -9,10 +9,9 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0080/'>Bible</a>|<a href='/digital-beehive/alpha5/alpha_1067/'>Writing</a>|<a
-  href='/digital-beehive/alpha3/alpha_0530/'>Letter</a>|<a href='/digital-beehive/toc/toc2_064/'>77
-  [Scripture]</a>|<a href='/digital-beehive/toc/toc2_064/'>77 [Scriptures]</a>"
+  href='/digital-beehive/alpha3/alpha_0530/'>Letter</a>|77 [Scripture or Scriptures]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3558/'>Scriptures</a>"
+index: "<a href='/digital-beehive/index4/index_3559/'>Scriptures</a>"
 item: "#item-c396df05a"
 unparsed: 
 line: 'Entry: Scripture|Topic: Scripture|Xref: Bible|Xref: Writing|Xref: Letter|Xref:
@@ -24,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/732,3063,600,180/250,/0/default.jpg
 label: Scripture
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '188'
 layout: alpha_item
 collection: alpha4

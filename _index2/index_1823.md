@@ -2,24 +2,24 @@
 pid: index_1823
 volume: Volume 3
 image_number: '24'
-head: hesitation
-entry: 
+head: Hesiodus
+entry: 823 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3875/'>stam[m]ering</a>|non plust"
+see: 
 index: 
-item: "#item-66506926b"
+item: "#item-3eaee79a8"
 unparsed: 
-line: 'Head: hesitation|See: stam[m]ering|See: non plust|#item-66506926b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/full/0/default.jpg
+line: 'Head: Hesiodus|Entry: 823 [PAGE_MISSING]|#item-3eaee79a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575721051
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575516313
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/150,/0/default.jpg
-label: hesitation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,1029,466,145/150,/0/default.jpg
+label: Hesiodus
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '642'

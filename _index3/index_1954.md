@@ -3,7 +3,7 @@ pid: index_1954
 volume: Volume 3
 image_number: '25'
 head: ill name
-entry: "<a href='/digital-beehive/toc/toc2_058/'>11 [Ill name]</a>"
+entry: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>"
 topic: 
 first_letter: I/J
 page: 

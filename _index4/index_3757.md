@@ -2,8 +2,8 @@
 pid: index_3757
 volume: Volume 3
 image_number: '43'
-head: smallpooks
-entry: "<a href='/digital-beehive/num2/num_0446/'>371 [small pocks]</a>"
+head: small
+entry: 767 [PAGE_MISSING]
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dd1ab936b"
+item: "#item-bb5ed4bfa"
 unparsed: 
-line: 'Head: smallpooks|Entry: 371 [small pocks]|#item-dd1ab936b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,3140,456,118/full/0/default.jpg
+line: 'Head: small|Entry: 767 [PAGE_MISSING]|#item-bb5ed4bfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/917,3057,416,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584884081
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584849516
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/906,3140,456,118/150,/0/default.jpg
-label: smallpooks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/917,3057,416,120/150,/0/default.jpg
+label: small
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1004'
+order: '1005'
 layout: index_item
 collection: index4
 ---

@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/431,10
 label: complexions
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0763'
+order: '0764'
 layout: index_item
 collection: index1
 ---

@@ -8,8 +8,8 @@ topic: Prudence
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1040/'>Wisdom</a>|Wit|<a href='/digital-beehive/toc/toc2_359/'>1954
-  [Prudence]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1040/'>Wisdom</a>|<a href='/digital-beehive/num2/num_0357/'>Wit</a>|<a
+  href='/digital-beehive/toc/toc2_359/'>1954 [Prudence]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3215/'>prudence</a>"
 item: "#item-65603f9c3"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,3448,600,180/250,/0/default.jpg
 label: Prudence
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
-num_match: 
 order: '108'
 layout: alpha_item
 collection: alpha4

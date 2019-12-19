@@ -3,7 +3,7 @@ pid: index_0756
 volume: Volume 3
 image_number: '13'
 head: comparison of hands
-entry: "<a href='/digital-beehive/toc/toc2_118/'>487 [Proof Try all]</a>"
+entry: "<a href='/digital-beehive/num2/num_0603/'>487 [Proof, Try all]</a>"
 topic: 
 first_letter: C
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,3
 label: comparison of hands
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 insertion_xref: 
-order: '0754'
+order: '0755'
 layout: index_item
 collection: index1
 ---

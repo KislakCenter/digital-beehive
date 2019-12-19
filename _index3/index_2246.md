@@ -3,13 +3,13 @@ pid: index_2246
 volume: Volume 3
 image_number: '28'
 head: lections
-entry: a
+entry: 
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: various
+see: "<a href='/digital-beehive/index5/index_4299/'>various</a>"
 index: 
 item: "#item-2b130b920"
 unparsed: 

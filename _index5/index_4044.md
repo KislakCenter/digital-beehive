@@ -2,9 +2,8 @@
 pid: index_4044
 volume: Volume 3
 image_number: '46'
-head: tailor
-entry: "<a href='/digital-beehive/alpha5/alpha_0936/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1733
-  [Tailor]</a>"
+head: table cloth
+entry: 4729 [PAGE_MISSING]
 topic: 
 first_letter: T
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f04d35a88"
+item: "#item-fa28577e0"
 unparsed: 
-line: 'Head: tailor|Entry: a|Entry: 1733 [Tailor]|#item-f04d35a88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/full/0/default.jpg
+line: 'Head: table cloth|Entry: 4729 [PAGE_MISSING]|#item-fa28577e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1836,846,464,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528918516628
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742452219
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1819,1063,511,109/150,/0/default.jpg
-label: tailor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1836,846,464,109/150,/0/default.jpg
+label: table cloth
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '013'
+order: '006'
 layout: index_item
 collection: index5
 ---

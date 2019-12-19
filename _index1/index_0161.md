@@ -3,7 +3,7 @@ pid: index_0161
 volume: Volume 3
 image_number: '8'
 head: antipodes
-entry: "<a href='/digital-beehive/alpha1/alpha_0035/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0035/'>a</a>|a"
 topic: 
 first_letter: A
 page: 

@@ -2,11 +2,8 @@
 pid: index_4573
 volume: Volume 3
 image_number: '53'
-head: witchcraft
-entry: "<a href='/digital-beehive/alpha5/alpha_1042/'>a</a>|<a href='/digital-beehive/toc/toc2_256/'>1312
-  [Witchcraft]</a>|<a href='/digital-beehive/toc/toc2_302/'>1536 [Witchcraft]</a>|<a
-  href='/digital-beehive/toc/toc2_306/'>1556 [Bewitch]</a>|<a href='/digital-beehive/toc/toc2_392/'>2243
-  [Sorcery or Witchcraft]</a>"
+head: John de Wit
+entry: "<a href='/digital-beehive/toc/toc2_263/'>1349 [John de Wit]</a>"
 topic: 
 first_letter: W
 page: 
@@ -14,19 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e069f9d76"
+item: "#item-338b24a8a"
 unparsed: 
-line: 'Head: witchcraft|Entry: a|Entry: 1312 [Witchcraft]|Entry: 1536 [Witchcraft]|Entry:
-  1556 [Bewitch]|Entry: 2243 [Sorcery or Witchcraft]|#item-e069f9d76'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/full/0/default.jpg
+line: 'Head: John de Wit|Entry: 1349 [John de Wit]|#item-338b24a8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792265321
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792112733
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/181,1666,726,150/150,/0/default.jpg
-label: witchcraft
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,1458,475,162/150,/0/default.jpg
+label: John de Wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '540'
+order: '535'
 layout: index_item
 collection: index5
 ---

@@ -8,7 +8,7 @@ entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_205/'>1060 [Admonis
 topic: 
 first_letter: W
 page: 
-add: "<a href='/digital-beehive/index1/index_0572/'>caution</a>"
+add: caution
 xref: 
 see: 
 index: 
@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2
 label: warning
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '446'
+order: '441'
 layout: index_item
 collection: index5
 ---

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,3
 label: psaltery
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0465'
+order: '0466'
 layout: index_item
 collection: index4
 ---

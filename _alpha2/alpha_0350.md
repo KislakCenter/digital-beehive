@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Frog & Toad]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1550/'>frog</a>"
+index: "<a href='/digital-beehive/index2/index_1551/'>frog</a>"
 item: "#item-cb5b79838"
 unparsed: 
 line: 'Entry: Frog|Topic: Frog|Xref: 2228 [Frog & Toad]|Index: frog|#item-cb5b79838'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/433,3043,600,180/250,/0/default.jpg
 label: Frog
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
-num_match: 
 order: '081'
 layout: alpha_item
 collection: alpha2

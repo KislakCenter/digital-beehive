@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: yield
+see: "<a href='/digital-beehive/index5/index_4648/'>yield</a>"
 index: 
 item: "#item-261142283"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1088,4
 label: to surrender
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1252'
+order: '1254'
 layout: index_item
 collection: index4
 ---

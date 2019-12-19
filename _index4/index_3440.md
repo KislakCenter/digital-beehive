@@ -2,8 +2,8 @@
 pid: index_3440
 volume: Volume 3
 image_number: '40'
-head: to roll
-entry: "<a href='/digital-beehive/toc/toc2_146/'>648 [To Roll]</a>"
+head: rogue
+entry: "<a href='/digital-beehive/toc/toc2_157/'>707 [Roguery]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-6f523e7c4"
+item: "#item-3374503cb"
 unparsed: 
-line: 'Head: to roll|Entry: 648 [To Roll]|#item-6f523e7c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/full/0/default.jpg
+line: 'Head: rogue|Entry: 707 [Roguery]|#item-3374503cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233004835
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232978875
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/150,/0/default.jpg
-label: to roll
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1166,612,432,96/150,/0/default.jpg
+label: rogue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0687'
+order: '0688'
 layout: index_item
 collection: index4
 ---

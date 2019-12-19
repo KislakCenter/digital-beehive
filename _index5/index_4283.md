@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/232,34
 label: tyranny
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '250'
+order: '245'
 layout: index_item
 collection: index5
 ---

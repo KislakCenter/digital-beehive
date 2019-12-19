@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/349,2435,600,180/250,/0/default.jpg
 label: Canker
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-num_match: 
 order: '115'
 layout: alpha_item
 collection: alpha1

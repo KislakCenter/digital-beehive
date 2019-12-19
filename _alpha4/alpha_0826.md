@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/320,4830,600,180/250,/0/default.jpg
 label: Salary
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-num_match: 
 order: '178'
 layout: alpha_item
 collection: alpha4

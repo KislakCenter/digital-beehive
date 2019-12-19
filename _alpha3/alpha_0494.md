@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,4479,600,180/250,/0/default.jpg
 label: Judgment
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
-num_match: 
 order: '050'
 layout: alpha_item
 collection: alpha3

@@ -2,27 +2,28 @@
 pid: index_0812
 volume: Volume 3
 image_number: '14'
-head: constable
-entry: "<a href='/digital-beehive/num1/num_0110/'>106 [Serjant or Catchpoll]</a>"
+head: conspiracy
+entry: "<a href='/digital-beehive/num2/num_0486/'>398 [Fifth-monarchy men]</a>|<a
+  href='/digital-beehive/toc/toc2_295/'>1505 [Conspiracy]</a>"
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index4/index_3641/'>Serjeant</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-cfc45e34f"
+item: "#item-f17c19975"
 unparsed: 
-line: 'Head: constable|Entry: 106 [Serjant or Catchpoll]|Add: Serjeant|#item-cfc45e34f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/full/0/default.jpg
+line: 'Head: conspiracy|Entry: 398 [Fifth-monarchy men]|Entry: 1505 [Conspiracy]|#item-f17c19975'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1147,2334,665,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541934635
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541842657
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1094,2453,622,199/150,/0/default.jpg
-label: constable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1147,2334,665,125/150,/0/default.jpg
+label: conspiracy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0810'
+order: '0811'
 layout: index_item
 collection: index1
 ---

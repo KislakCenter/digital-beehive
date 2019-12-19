@@ -2,8 +2,8 @@
 pid: index_0505
 volume: Volume 3
 image_number: '11'
-head: Cain
-entry: "<a href='/digital-beehive/toc/toc2_298/'>1520 [Cain]</a>"
+head: cacao
+entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Cacao]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b661107ba"
+item: "#item-bf4a0a009"
 unparsed: 
-line: 'Head: Cain|Entry: 1520 [Cain]|#item-b661107ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,339,424,70/full/0/default.jpg
+line: 'Head: cacao|Entry: 1530 [Cacao]|#item-bf4a0a009'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494083914
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494044908
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,339,424,70/150,/0/default.jpg
-label: Cain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/150,/0/default.jpg
+label: cacao
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 insertion_xref: 
 order: '0504'

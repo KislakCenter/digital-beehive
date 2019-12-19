@@ -2,24 +2,25 @@
 pid: index_2912
 volume: Volume 3
 image_number: '34'
-head: pastime
-entry: 
+head: past remedy
+entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689
+  [Despair]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3323/'>recreation</a>"
+see: 
 index: 
-item: "#item-ca0a5480e"
+item: "#item-0bcce8094"
 unparsed: 
-line: 'Head: pastime|See: recreation|#item-ca0a5480e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1837,1285,710,180/full/0/default.jpg
+line: 'Head: past remedy|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-0bcce8094'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495219389
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495196947
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1837,1285,710,180/150,/0/default.jpg
-label: pastime
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/150,/0/default.jpg
+label: past remedy
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0160'

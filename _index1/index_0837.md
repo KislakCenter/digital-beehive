@@ -2,9 +2,9 @@
 pid: index_0837
 volume: Volume 3
 image_number: '14'
-head: conversion
-entry: "<a href='/digital-beehive/alpha1/alpha_0177/'>a</a>|<a href='/digital-beehive/toc/toc2_309/'>1572
-  [Conversion]</a>"
+head: conversation
+entry: "<a href='/digital-beehive/num1/num_0129/'>124 [Conversation]</a>|<a href='/digital-beehive/toc/toc2_253/'>1297
+  [Govermt of thoughts]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-81ddf894a"
+item: "#item-9106b218c"
 unparsed: 
-line: 'Head: conversion|Entry: a|Entry: 1572 [Conversion]|#item-81ddf894a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1838,1822,671,132/full/0/default.jpg
+line: 'Head: conversation|Entry: 124 [Conversation]|Entry: 1297 [Govermt of thoughts]|#item-9106b218c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,1714,714,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559642129
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559608508
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1838,1822,671,132/150,/0/default.jpg
-label: conversion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,1714,714,123/150,/0/default.jpg
+label: conversation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0835'
+order: '0836'
 layout: index_item
 collection: index1
 ---

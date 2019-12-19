@@ -3,7 +3,7 @@ pid: index_0445
 volume: Volume 3
 image_number: '11'
 head: breast
-entry: "<a href='/digital-beehive/alpha1/alpha_0097/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0097/'>a</a>|a"
 topic: 
 first_letter: B
 page: 

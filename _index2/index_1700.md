@@ -3,7 +3,7 @@ pid: index_1700
 volume: Volume 3
 image_number: '22'
 head: grave
-entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|a"
 topic: 
 first_letter: G
 page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"

@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Country]</a>"
 topic: 
 first_letter: C
 page: 
-add: fashions
+add: "<a href='/digital-beehive/index2/index_1408/'>fashions</a>"
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/165,19
 label: Country
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0875'
+order: '0876'
 layout: index_item
 collection: index1
 ---

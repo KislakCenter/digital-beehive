@@ -8,7 +8,7 @@ topic: Multitude
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0571/'>many men</a>|864 [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/alpha3/alpha_0571/'>many men</a>|864 [PAGE_MISSING]"
 see: 
 index: "[INDEX_HEADING_MISSING]"
 item: "#item-321235c52"
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/698,2862,600,180/250,/0/default.jpg
 label: Multitude
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
-num_match: 
 order: '173'
 layout: alpha_item
 collection: alpha3

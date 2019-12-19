@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: barren[n]ess
+see: "<a href='/digital-beehive/index1/index_0301/'>barren[n]ess</a>"
 index: 
 item: "#item-26bd82276"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/221,16
 label: sterility
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1143'
+order: '1144'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_1115
 volume: Volume 3
 image_number: '17'
 head: divinity mystica
-entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/841,15
 label: divinity mystica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1112'
+order: '1114'
 layout: index_item
 collection: index1
 ---

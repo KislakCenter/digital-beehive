@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0785/'>Regeneration</a>|<a href='/digital-beehive/alpha5/alpha_1022/'>Washing</a>|<a
-  href='/digital-beehive/num2/num_0510/'>413 [Infant-baptism]</a>|<a href='/digital-beehive/num2/num_0307/'>273
+  href='/digital-beehive/num2/num_0510/'>413 [Infant baptism]</a>|<a href='/digital-beehive/num2/num_0307/'>273
   [Baptism]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0289/'>baptism</a>"
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/355,1655,600,180/250,/0/default.jpg
 label: Baptism
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-num_match: 
 order: '058'
 layout: alpha_item
 collection: alpha1

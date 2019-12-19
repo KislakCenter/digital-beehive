@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>derision</a>|814 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3552/'>scorn</a>"
+index: "<a href='/digital-beehive/index4/index_3553/'>scorn</a>"
 item: "#item-f54674d4c"
 unparsed: 
 line: 'Entry: Scorn|Topic: Scorn|Xref: derision|Xref: 814 [PAGE_MISSING]|Index: scorn|#item-f54674d4c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/772,2683,600,180/250,/0/default.jpg
 label: Scorn
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '187'
 layout: alpha_item
 collection: alpha4

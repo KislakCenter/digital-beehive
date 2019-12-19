@@ -3,7 +3,7 @@ pid: index_3026
 volume: Volume 3
 image_number: '35'
 head: placable
-entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>|a"
 topic: 
 first_letter: P
 page: 

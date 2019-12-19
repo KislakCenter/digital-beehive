@@ -2,24 +2,24 @@
 pid: index_2179
 volume: Volume 3
 image_number: '27'
-head: Kropf
-entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Wen]</a>"
+head: Korb
+entry: 
 topic: 
 first_letter: K
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>"
 index: 
-item: "#item-c389406e2"
+item: "#item-bf8c26ff0"
 unparsed: 
-line: 'Head: Kropf|Entry: 681 [Wen]|#item-c389406e2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,2781,326,122/full/0/default.jpg
+line: 'Head: Korb|See: denial|#item-bf8c26ff0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831874567
+annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,2781,326,122/150,/0/default.jpg
-label: Kropf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/150,/0/default.jpg
+label: Korb
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '260'

@@ -3,7 +3,7 @@ pid: index_3184
 volume: Volume 3
 image_number: '37'
 head: prohibition
-entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>|a"
 topic: 
 first_letter: P
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,26
 label: prohibition
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0431'
+order: '0432'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,9 @@
 pid: index_4624
 volume: Volume 3
 image_number: '53'
-head: worthiness
-entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>"
+head: will worship
+entry: "<a href='/digital-beehive/alpha5/alpha_1060/'>a</a>|<a href='/digital-beehive/num2/num_0607/'>490
+  [Will-worship]</a>|<a href='/digital-beehive/toc/toc2_413/'>2390 [Will-worship]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4b82e3fd9"
+item: "#item-42eb3eb7d"
 unparsed: 
-line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/full/0/default.jpg
+line: 'Head: will worship|Entry: a|Entry: 490 [Will-worship]|Entry: 2390 [Will-worship]|#item-42eb3eb7d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/834,3545,742,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797782183
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/150,/0/default.jpg
-label: worthiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/834,3545,742,120/150,/0/default.jpg
+label: will worship
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '591'
+order: '586'
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_1813
 volume: Volume 3
 image_number: '24'
 head: hereditary
-entry: "<a href='/digital-beehive/toc/toc2_080/'>221 [hereditary]</a>"
+entry: 221 [hereditary]
 topic: 
 first_letter: H
 page: 

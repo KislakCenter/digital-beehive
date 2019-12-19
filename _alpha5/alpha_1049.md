@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_278/'>1423 [Wonder]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4599/'>wonder</a>"
+index: "<a href='/digital-beehive/index5/index_4600/'>wonder</a>"
 item: "#item-f80f8eafe"
 unparsed: 
 line: 'Entry: Wonder|Topic: Wonder|Xref: 1423 [Wonder]|Index: wonder|#item-f80f8eafe'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,600,180/250,/0/default.jpg
 label: Wonder
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '114'
 layout: alpha_item
 collection: alpha5

@@ -8,7 +8,8 @@ topic: Almanack
 first_letter: A
 page: 
 add: 
-xref: Astrology|<a href='/digital-beehive/toc/toc2_248/'>1275 [Almanack]</a>
+xref: "<a href='/digital-beehive/num1/num_0024/'>Astrology</a>|<a href='/digital-beehive/toc/toc2_248/'>1275
+  [Almanack]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0104/'>almanack</a>"
 item: "#item-3e8408a05"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/826,3466,600,180/250,/0/default.jpg
 label: Almanack
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '020'
 layout: alpha_item
 collection: alpha1

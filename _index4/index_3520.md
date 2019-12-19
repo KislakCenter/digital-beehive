@@ -2,8 +2,9 @@
 pid: index_3520
 volume: Volume 3
 image_number: '41'
-head: satisfaction
-entry: "<a href='/digital-beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
+head: satiety
+entry: "<a href='/digital-beehive/num1/num_0229/'>218 [Sufficient]</a>|<a href='/digital-beehive/toc/toc2_237/'>1218
+  [Satiety]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7a662a885"
+item: "#item-ac6d62f95"
 unparsed: 
-line: 'Head: satisfaction|Entry: 547 [Satisfaction]|#item-7a662a885'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/full/0/default.jpg
+line: 'Head: satiety|Entry: 218 [Sufficient]|Entry: 1218 [Satiety]|#item-ac6d62f95'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239121796
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239096765
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,1904,552,133/150,/0/default.jpg
-label: satisfaction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/150,/0/default.jpg
+label: satiety
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0767'
+order: '0768'
 layout: index_item
 collection: index4
 ---

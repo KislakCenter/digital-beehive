@@ -9,7 +9,7 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0219/'>a</a>|<a href='/digital-be
 topic: 
 first_letter: D
 page: 
-add: "<a href='/digital-beehive/index5/index_4394/'>university degrees</a>"
+add: university degrees
 xref: 
 see: 
 index: 
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/367,24
 label: degree
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0991'
+order: '0993'
 layout: index_item
 collection: index1
 ---

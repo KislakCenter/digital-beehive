@@ -2,8 +2,8 @@
 pid: index_1633
 volume: Volume 3
 image_number: '22'
-head: go to!
-entry: 4560 [PAGE_MISSING]
+head: goaler
+entry: "<a href='/digital-beehive/num2/num_0488/'>399 [Jailer]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cfa9d8bae"
+item: "#item-14afdcce4"
 unparsed: 
-line: 'Head: go to!|Entry: 4560 [PAGE_MISSING]|#item-cfa9d8bae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/full/0/default.jpg
+line: 'Head: goaler|Entry: 399 [Jailer]|#item-14afdcce4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,777,400,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046109548
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045938924
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/150,/0/default.jpg
-label: go to!
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,777,400,155/150,/0/default.jpg
+label: goaler
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '453'

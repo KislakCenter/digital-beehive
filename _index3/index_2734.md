@@ -3,7 +3,7 @@ pid: index_2734
 volume: Volume 3
 image_number: '32'
 head: notary
-entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
+entry: "<a href='/digital-beehive/num2/num_0287/'>260 [Scribe or publick Notary]</a>"
 topic: 
 first_letter: N
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1837,2
 label: notary
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '814'
+order: '815'
 layout: index_item
 collection: index3
 ---

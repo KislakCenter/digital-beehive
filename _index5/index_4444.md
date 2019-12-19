@@ -3,7 +3,7 @@ pid: index_4444
 volume: Volume 3
 image_number: '51'
 head: useful
-entry: "<a href='/digital-beehive/toc/toc2_072/'>155 [Useful]</a>"
+entry: 155 [Useful]
 topic: 
 first_letter: U/V
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/965,14
 label: useful
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '411'
+order: '406'
 layout: index_item
 collection: index5
 ---

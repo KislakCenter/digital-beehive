@@ -3,7 +3,7 @@ pid: index_2396
 volume: Volume 3
 image_number: '29'
 head: malediction
-entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1546,8
 label: malediction
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '476'
+order: '477'
 layout: index_item
 collection: index3
 ---

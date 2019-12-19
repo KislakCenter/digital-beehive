@@ -2,27 +2,27 @@
 pid: index_3435
 volume: Volume 3
 image_number: '40'
-head: river
-entry: "<a href='/digital-beehive/alpha4/alpha_0811/'>a</a>"
+head: rival
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4455 [Rival]</a>"
 topic: 
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
 index: 
-item: "#item-ecccc25af"
+item: "#item-b785141a6"
 unparsed: 
-line: 'Head: river|Page: p.30 [Image 1.90]|Entry: a|Entry: 4551 [WORD_MISSING]|#item-ecccc25af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/full/0/default.jpg
+line: 'Head: rival|See: envy|Entry: 4455 [Rival]|#item-b785141a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232701316
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232604060
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/448,3354,639,140/150,/0/default.jpg
-label: river
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/439,3214,705,150/150,/0/default.jpg
+label: rival
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0682'
+order: '0683'
 layout: index_item
 collection: index4
 ---

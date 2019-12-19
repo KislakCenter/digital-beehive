@@ -2,8 +2,8 @@
 pid: index_3777
 volume: Volume 3
 image_number: '43'
-head: Socinians
-entry: "<a href='/digital-beehive/num1/num_0048/'>48 [Socinians]</a>"
+head: royal Society
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1056 [Royal Society]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3f020460b"
+item: "#item-b7ead6776"
 unparsed: 
-line: 'Head: Socinians|Entry: 48 [Socinians]|#item-3f020460b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,2126,519,133/full/0/default.jpg
+line: 'Head: royal Society|Entry: 1056 [Royal Society]|#item-b7ead6776'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1563,2020,540,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586216942
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586171610
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,2126,519,133/150,/0/default.jpg
-label: Socinians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1563,2020,540,117/150,/0/default.jpg
+label: royal Society
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1024'
+order: '1025'
 layout: index_item
 collection: index4
 ---

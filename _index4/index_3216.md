@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3
 label: to prune
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0463'
+order: '0464'
 layout: index_item
 collection: index4
 ---

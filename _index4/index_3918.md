@@ -3,7 +3,7 @@ pid: index_3918
 volume: Volume 3
 image_number: '45'
 head: stork
-entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>|a"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/880,50
 label: stork
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1165'
+order: '1166'
 layout: index_item
 collection: index4
 ---

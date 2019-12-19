@@ -3,7 +3,7 @@ pid: index_4385
 volume: Volume 3
 image_number: '50'
 head: Uniformity
-entry: "<a href='/digital-beehive/toc/toc2_119/'>492 [forced Uniformity]</a>|<a href='/digital-beehive/toc/toc2_417/'>2413
+entry: "<a href='/digital-beehive/num2/num_0611/'>492 [Dissenters]</a>|<a href='/digital-beehive/toc/toc2_417/'>2413
   [forced Uniformity]</a>"
 topic: 
 first_letter: U/V
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1135,9
 label: Uniformity
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '352'
+order: '347'
 layout: index_item
 collection: index5
 ---

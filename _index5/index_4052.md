@@ -2,27 +2,28 @@
 pid: index_4052
 volume: Volume 3
 image_number: '46'
-head: tame
-entry: 772 [PAGE_MISSING]
+head: talk
+entry: 
 topic: 
 first_letter: T
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0260/'>babbling</a>|<a href='/digital-beehive/index5/index_4606/'>words</a>|<a
+  href='/digital-beehive/index4/index_3830/'>speech</a>"
 index: 
-item: "#item-8f34b17d5"
+item: "#item-732953853"
 unparsed: 
-line: 'Head: tame|Entry: 772 [PAGE_MISSING]|#item-8f34b17d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,2025,373,84/full/0/default.jpg
+line: 'Head: talk|See: babbling|See: words|See: speech|#item-732953853'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743030895
+annotation_uri: http://dev.llgc.org.uk/annotation/1528920823839
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,2025,373,84/150,/0/default.jpg
-label: tame
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1813,1700,706,176/150,/0/default.jpg
+label: talk
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '021'
+order: '014'
 layout: index_item
 collection: index5
 ---

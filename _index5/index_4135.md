@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Throat]</a>"
 topic: 
 first_letter: T
 page: 
-add: "<a href='/digital-beehive/index3/index_2671/'>neck</a>"
+add: neck
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/905,34
 label: throat
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '102'
+order: '097'
 layout: index_item
 collection: index5
 ---

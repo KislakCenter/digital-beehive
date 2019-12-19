@@ -2,24 +2,24 @@
 pid: index_1835
 volume: Volume 3
 image_number: '24'
-head: highways
-entry: 
+head: high treason
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1321 [High treason]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-cada52472"
+item: "#item-0b4b79690"
 unparsed: 
-line: 'Head: highways|Page: p.8 [Image 1.68]|#item-cada52472'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/417,2486,443,174/full/0/default.jpg
+line: 'Head: high treason |Entry: 1321 [High treason]|#item-0b4b79690'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/427,2447,568,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577144137
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577011299
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/417,2486,443,174/150,/0/default.jpg
-label: highways
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/427,2447,568,110/150,/0/default.jpg
+label: high treason
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '654'

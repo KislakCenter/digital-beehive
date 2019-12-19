@@ -3,7 +3,7 @@ pid: index_0228
 volume: Volume 3
 image_number: '8'
 head: asthma
-entry: "<a href='/digital-beehive/toc/toc2_116/'>475 [Shortness of Breath]</a>"
+entry: "<a href='/digital-beehive/num2/num_0588/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: A
 page: 

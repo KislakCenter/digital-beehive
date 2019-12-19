@@ -2,27 +2,27 @@
 pid: index_3763
 volume: Volume 3
 image_number: '43'
-head: snail
-entry: 
+head: smooth
+entry: 830 [PAGE_MISSING]
 topic: 
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
-add: "<a href='/digital-beehive/index4/index_3667/'>shells</a>"
+page: 
+add: 
 xref: 
 see: 
 index: 
-item: "#item-9727486f9"
+item: "#item-c6b2de4d9"
 unparsed: 
-line: 'Head: snail|Page: p.36 [Image 1.96]|Add: shells|#item-9727486f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/full/0/default.jpg
+line: 'Head: smooth|Entry: 830 [PAGE_MISSING]|#item-c6b2de4d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1574,391,442,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585092411
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585047188
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1559,513,521,175/150,/0/default.jpg
-label: snail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1574,391,442,131/150,/0/default.jpg
+label: smooth
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1010'
+order: '1011'
 layout: index_item
 collection: index4
 ---

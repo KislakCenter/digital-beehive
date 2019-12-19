@@ -3,7 +3,7 @@ pid: index_1386
 volume: Volume 3
 image_number: '20'
 head: faithfulness
-entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0310/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

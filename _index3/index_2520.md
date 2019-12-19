@@ -2,9 +2,8 @@
 pid: index_2520
 volume: Volume 3
 image_number: '30'
-head: mind
-entry: "<a href='/digital-beehive/alpha3/alpha_0594/'>a</a>|<a href='/digital-beehive/toc/toc2_318/'>1620
-  [Mind]</a>"
+head: minerva
+entry: "<a href='/digital-beehive/toc/toc2_197/'>1019 [Spinning]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4e54db0a0"
+item: "#item-8050bf144"
 unparsed: 
-line: 'Head: mind|Entry: a|Entry: 1620 [Mind]|#item-4e54db0a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1810,2149,500,109/full/0/default.jpg
+line: 'Head: minerva|Entry: 1019 [Spinning]|#item-8050bf144'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1812,2233,405,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274271545
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274344460
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1810,2149,500,109/150,/0/default.jpg
-label: mind
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1812,2233,405,89/150,/0/default.jpg
+label: minerva
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '600'
+order: '601'
 layout: index_item
 collection: index3
 ---

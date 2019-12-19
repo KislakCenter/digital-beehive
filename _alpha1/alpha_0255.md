@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/373,1888,600,180/250,/0/default.jpg
 label: Doctor
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-num_match: 
 order: '254'
 layout: alpha_item
 collection: alpha1

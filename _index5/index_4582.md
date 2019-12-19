@@ -2,27 +2,28 @@
 pid: index_4582
 volume: Volume 3
 image_number: '53'
-head: 2. Witnesses slain
-entry: "<a href='/digital-beehive/toc/toc2_302/'>1539 [Two Witnesses Slain]</a>"
+head: witnesses
+entry: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Witnesses]</a>|<a href='/digital-beehive/toc/toc2_386/'>2209
+  [Witness]</a>"
 topic: 
 first_letter: W
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4101/'>testimony</a>"
 index: 
-item: "#item-03149b386"
+item: "#item-0be58393f"
 unparsed: 
-line: 'Head: 2. Witnesses slain|Entry: 1539 [Two Witnesses Slain]|#item-03149b386'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/full/0/default.jpg
+line: 'Head: witnesses|See: testimony|Entry: 1007 [Witnesses]|Entry: 2209 [Witness]|#item-0be58393f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792924780
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792860680
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,2550,634,143/150,/0/default.jpg
-label: 2. Witnesses slain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/150,/0/default.jpg
+label: witnesses
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '549'
+order: '544'
 layout: index_item
 collection: index5
 ---

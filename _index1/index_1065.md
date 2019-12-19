@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: obliga[ti]on|<a href='/digital-beehive/index1/index_1119/'>divorcement</a>
+see: "<a href='/digital-beehive/index4/index_2757/'>obliga[ti]on</a>|<a href='/digital-beehive/index1/index_1119/'>divorcement</a>"
 index: 
 item: "#item-8c40fd4f4"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1771,2
 label: discharge
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1062'
+order: '1064'
 layout: index_item
 collection: index1
 ---

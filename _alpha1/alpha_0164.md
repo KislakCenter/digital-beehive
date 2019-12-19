@@ -8,7 +8,7 @@ topic: Concupiscence
 first_letter: C
 page: 
 add: 
-xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
+xref: "<a href='/digital-beehive/num1/num_0119/'>desire</a>|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0778/'>concupiscence</a>"
 item: "#item-1688d9123"
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,600,180/250,/0/default.jpg
 label: Concupiscence
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-num_match: 
 order: '163'
 layout: alpha_item
 collection: alpha1

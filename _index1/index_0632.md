@@ -2,8 +2,9 @@
 pid: index_0632
 volume: Volume 3
 image_number: '12'
-head: childhood
-entry: "<a href='/digital-beehive/alpha1/alpha_0140/'>a</a>|1865 [PAGE_MISSING]"
+head: childbed
+entry: "<a href='/digital-beehive/toc/toc2_137/'>601 [Childbed]</a>|<a href='/digital-beehive/toc/toc2_355/'>1922
+  [Childbed]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3419f0784"
+item: "#item-f6a6a532c"
 unparsed: 
-line: 'Head: childhood|Entry: a|Entry: 1865 [PAGE_MISSING]|#item-3419f0784'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,2321,560,111/full/0/default.jpg
+line: 'Head: childbed|Entry: 601 [Childbed]|Entry: 1922 [Childbed]|#item-f6a6a532c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1801,2200,675,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460951400
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460923731
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,2321,560,111/150,/0/default.jpg
-label: childhood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1801,2200,675,130/150,/0/default.jpg
+label: childbed
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0631'

@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: amend
+see: "<a href='/digital-beehive/index1/index_0125/'>amend</a>"
 index: 
 item: "#item-053887c0f"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,3
 label: to correct
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0858'
+order: '0859'
 layout: index_item
 collection: index1
 ---

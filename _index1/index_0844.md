@@ -2,27 +2,27 @@
 pid: index_0844
 volume: Volume 3
 image_number: '14'
-head: copy
-entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Copy]</a>"
+head: copper
+entry: 1881 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1344/'>exemplar</a>"
+see: 
 index: 
-item: "#item-169833124"
+item: "#item-1997faa53"
 unparsed: 
-line: 'Head: copy|See: exemplar|Entry: 452 [Copy]|#item-169833124'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/full/0/default.jpg
+line: 'Head: copper|Entry: 1881 [PAGE_MISSING]|#item-1997faa53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559880868
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559839261
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2377,709,102/150,/0/default.jpg
-label: copy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2336,380,68/150,/0/default.jpg
+label: copper
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0842'
+order: '0843'
 layout: index_item
 collection: index1
 ---

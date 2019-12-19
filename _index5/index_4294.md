@@ -2,8 +2,8 @@
 pid: index_4294
 volume: Volume 3
 image_number: '49'
-head: to vanish
-entry: 748 [PAGE_MISSING]
+head: Vandals
+entry: "<a href='/digital-beehive/toc/toc2_294/'>1502 [Vandals]</a>"
 topic: 
 first_letter: U/V
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2b3fd2747"
+item: "#item-d5157bfe5"
 unparsed: 
-line: 'Head: to vanish|Entry: 748 [PAGE_MISSING]|#item-2b3fd2747'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,1152,529,118/full/0/default.jpg
+line: 'Head: Vandals|Entry: 1502 [Vandals]|#item-d5157bfe5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657788548
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657769070
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,1152,529,118/150,/0/default.jpg
-label: to vanish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/927,1037,450,104/150,/0/default.jpg
+label: Vandals
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '261'
+order: '256'
 layout: index_item
 collection: index5
 ---

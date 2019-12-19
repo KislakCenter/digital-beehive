@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_354/'>1916 [Unclean]</a>"
 topic: 
 first_letter: U/V
 page: 
-add: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
+add: dirt
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/441,19
 label: unclean
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '330'
+order: '325'
 layout: index_item
 collection: index5
 ---

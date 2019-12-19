@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1611,3
 label: sufferings
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1218'
+order: '1220'
 layout: index_item
 collection: index4
 ---

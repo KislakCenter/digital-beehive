@@ -3,7 +3,7 @@ pid: index_1362
 volume: Volume 3
 image_number: '19'
 head: external conversation
-entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>|a"
 topic: 
 first_letter: E
 page: 

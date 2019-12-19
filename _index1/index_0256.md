@@ -2,24 +2,24 @@
 pid: index_0256
 volume: Volume 3
 image_number: '9'
-head: awaking
-entry: 793 [PAGE_MISSING]
+head: autumn
+entry: 
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3863/'>spring</a>"
 index: 
-item: "#item-ff6985a92"
+item: "#item-be50bfb54"
 unparsed: 
-line: 'Head: awaking|Entry: 793 [PAGE_MISSING]|#item-ff6985a92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/166,2381,509,207/full/0/default.jpg
+line: 'Head: autumn|See: spring|#item-be50bfb54'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/170,2262,631,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016135609
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016086954
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/166,2381,509,207/150,/0/default.jpg
-label: awaking
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/170,2262,631,167/150,/0/default.jpg
+label: autumn
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0255'

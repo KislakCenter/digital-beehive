@@ -2,9 +2,8 @@
 pid: index_1640
 volume: Volume 3
 image_number: '22'
-head: God within
-entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with & in men]</a>|<a href='/digital-beehive/num2/num_0298/'>267
-  [God is in us]</a>|<a href='/digital-beehive/toc/toc2_175/'>937 [Union with God]</a>"
+head: God be thanks
+entry: "<a href='/digital-beehive/toc/toc2_279/'>1426 [Thanks be to God]</a>"
 topic: 
 first_letter: G
 page: 
@@ -12,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-afc78be45"
+item: "#item-a5104d0ff"
 unparsed: 
-line: 'Head: God within|Entry: 36 [God with & in men]|Entry: 267 [God is in us]|Entry:
-  937 [Union with God]|#item-afc78be45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/full/0/default.jpg
+line: 'Head: God be thanks|Entry: 1426 [Thanks be to God]|#item-a5104d0ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1137,1431,609,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047205277
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046978615
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/150,/0/default.jpg
-label: God within
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1137,1431,609,103/150,/0/default.jpg
+label: God be thanks
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '460'

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3531/'>scabine</a>"
+index: "<a href='/digital-beehive/index4/index_3532/'>scabine</a>"
 item: "#item-4becc7ab6"
 unparsed: 
 line: 'Entry: Scabine|Topic: Scabine|Index: scabine|#item-4becc7ab6'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/798,1677,600,180/250,/0/default.jpg
 label: Scabine
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '184'
 layout: alpha_item
 collection: alpha4

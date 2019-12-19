@@ -2,9 +2,8 @@
 pid: index_3769
 volume: Volume 3
 image_number: '43'
-head: snow
-entry: "<a href='/digital-beehive/alpha4/alpha_0890/'>a</a>|<a href='/digital-beehive/toc/toc2_329/'>1672
-  [Snow]</a>"
+head: snot
+entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Snot]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-6f62af41c"
+item: "#item-499addbc8"
 unparsed: 
-line: 'Head: snow|Entry: a|Entry: 1672 [Snow]|#item-6f62af41c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1582,1307,500,104/full/0/default.jpg
+line: 'Head: snot|Entry: 621 [Snot]|#item-499addbc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1565,1183,378,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585453052
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585407741
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1582,1307,500,104/150,/0/default.jpg
-label: snow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1565,1183,378,127/150,/0/default.jpg
+label: snot
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1016'
+order: '1017'
 layout: index_item
 collection: index4
 ---

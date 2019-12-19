@@ -3,7 +3,7 @@ pid: index_1704
 volume: Volume 3
 image_number: '23'
 head: gray hairs
-entry: "<a href='/digital-beehive/alpha2/alpha_0379/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0379/'>a</a>|a"
 topic: 
 first_letter: G
 page: 

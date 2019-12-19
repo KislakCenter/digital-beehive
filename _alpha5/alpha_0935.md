@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4041/'>table talks</a>"
+index: "<a href='/digital-beehive/index5/index_4043/'>table talks</a>"
 item: "#item-16e6d7be1"
 unparsed: 
 line: 'Entry: Table-talks|Topic: Table-talks|Index: table talks|#item-16e6d7be1'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/329,1673,600,180/250,/0/default.jpg
 label: Table-talks
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-num_match: 
 order: '000'
 layout: alpha_item
 collection: alpha5

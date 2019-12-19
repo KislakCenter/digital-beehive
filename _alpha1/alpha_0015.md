@@ -12,7 +12,7 @@ xref: Consent|<a href='/digital-beehive/alpha4/alpha_0738/'>Process in law</a>|<
   href='/digital-beehive/alpha4/alpha_0692/'>Peace-maker</a>|<a href='/digital-beehive/toc/toc2_234/'>1201
   [Agreement]</a>
 see: 
-index: "<a href='/digital-beehive/index1/index_0080/'>agreemt</a>"
+index: "<a href='/digital-beehive/index1/index_0081/'>agreemt</a>"
 item: "#item-1b8a91cc7"
 unparsed: 
 line: 'Entry: Agreement|Topic: Agreement|Xref: Consent|Xref: Process in law|Xref:
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/577,1538,600,180/250,/0/default.jpg
 label: Agreement
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '014'
 layout: alpha_item
 collection: alpha1

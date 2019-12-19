@@ -3,7 +3,7 @@ pid: index_1043
 volume: Volume 3
 image_number: '16'
 head: dice
-entry: "<a href='/digital-beehive/alpha1/alpha_0232/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0232/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1775,8
 label: dice
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1040'
+order: '1042'
 layout: index_item
 collection: index1
 ---

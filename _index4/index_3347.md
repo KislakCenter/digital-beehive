@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num2/num_0551/'>445 [Relation]</a>"
 topic: 
 first_letter: R
 page: 
-add: "<a href='/digital-beehive/index2/index_1843/'>history</a>"
+add: history
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/139,29
 label: relation. freündschafft
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0594'
+order: '0595'
 layout: index_item
 collection: index4
 ---

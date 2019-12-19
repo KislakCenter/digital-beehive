@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_283/'>1447 [Day]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0953/'>day</a>"
+index: "<a href='/digital-beehive/index1/index_0954/'>day</a>"
 item: "#item-e3053429e"
 unparsed: 
 line: 'Entry: Day|Topic: Day|Xref: 1447 [Day]|Index: day|#item-e3053429e'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/398,3824,600,180/250,/0/default.jpg
 label: Day
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-num_match: 
 order: '207'
 layout: alpha_item
 collection: alpha1

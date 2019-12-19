@@ -3,7 +3,7 @@ pid: index_2205
 volume: Volume 3
 image_number: '27'
 head: last things
-entry: "<a href='/digital-beehive/alpha3/alpha_0512/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0512/'>a</a>|a"
 topic: 
 first_letter: L
 page: 

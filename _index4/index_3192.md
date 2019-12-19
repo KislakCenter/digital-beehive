@@ -3,8 +3,8 @@ pid: index_3192
 volume: Volume 3
 image_number: '37'
 head: proof or evidence
-entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Proof]</a>|<a href='/digital-beehive/num1/num_0212/'>202
-  [Seriousness]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0747/'>a</a>|<a href='/digital-beehive/toc/toc2_170/'>913
+  [Proof]</a>|<a href='/digital-beehive/num1/num_0212/'>202 [Seriousness]</a>"
 topic: 
 first_letter: P
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,3
 label: proof or evidence
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0439'
+order: '0440'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_1500
 volume: Volume 3
 image_number: '21'
 head: forbidden things
-entry: "<a href='/digital-beehive/alpha2/alpha_0339/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0339/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

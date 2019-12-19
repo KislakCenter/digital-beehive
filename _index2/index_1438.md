@@ -3,7 +3,7 @@ pid: index_1438
 volume: Volume 3
 image_number: '20'
 head: fewness
-entry: "<a href='/digital-beehive/alpha2/alpha_0324/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0324/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

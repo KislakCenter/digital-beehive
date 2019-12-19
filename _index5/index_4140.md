@@ -3,7 +3,7 @@ pid: index_4140
 volume: Volume 3
 image_number: '47'
 head: to thrust
-entry: "<a href='/digital-beehive/alpha5/alpha_0954/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_0954/'>a</a>|a"
 topic: 
 first_letter: T
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1613,6
 label: to thrust
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '107'
+order: '102'
 layout: index_item
 collection: index5
 ---

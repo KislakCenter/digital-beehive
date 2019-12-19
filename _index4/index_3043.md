@@ -3,7 +3,7 @@ pid: index_3043
 volume: Volume 3
 image_number: '36'
 head: be pleased
-entry: "<a href='/digital-beehive/toc/toc2_096/'>333 [Exclam[m]ations of Interjections]</a>|<a
+entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>|<a
   href='/digital-beehive/toc/toc2_214/'>1102 [Be blessed]</a>"
 topic: 
 first_letter: P

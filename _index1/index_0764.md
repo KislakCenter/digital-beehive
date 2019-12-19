@@ -3,8 +3,8 @@ pid: index_0764
 volume: Volume 3
 image_number: '14'
 head: complements
-entry: "<a href='/digital-beehive/alpha1/alpha_0163/'>a</a>|<a href='/digital-beehive/toc/toc2_103/'>380
-  [Complements]</a>|4496 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha1/alpha_0163/'>a</a>|<a href='/digital-beehive/num2/num_0457/'>380
+  [Course Complements]</a>|4496 [PAGE_MISSING]"
 topic: 
 first_letter: C
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,91
 label: complements
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0762'
+order: '0763'
 layout: index_item
 collection: index1
 ---

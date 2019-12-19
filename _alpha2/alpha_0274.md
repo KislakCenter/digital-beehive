@@ -8,11 +8,11 @@ topic: Ecclesiastical discipline
 first_letter: E
 page: 
 add: 
-xref: Excommunication|<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious
-  Controversies]</a>|<a href='/digital-beehive/toc/toc2_106/'>402 [Order & Discipline
-  of the Church of Christ]</a>
+xref: "<a href='/digital-beehive/num1/num_0026/'>Excommunication</a>|<a href='/digital-beehive/num1/num_0075/'>74
+  [the Judge of religious Controversies]</a>|<a href='/digital-beehive/num2/num_0492/'>402
+  [Order & Discipline in the Church]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1199/'>ecclesiastical discipline</a>"
+index: "<a href='/digital-beehive/index2/index_1201/'>ecclesiastical discipline</a>"
 item: "#item-c4e2bba71"
 unparsed: 
 line: 'Entry: Ecclesiastical discipline|Topic: Ecclesiastical discipline|Xref: Excommunication|Xref:
@@ -25,7 +25,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,600,180/250,/0/default.jpg
 label: Ecclesiastical discipline
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-num_match: 
 order: '005'
 layout: alpha_item
 collection: alpha2

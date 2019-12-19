@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1576,1
 label: secret writing or num.
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0832'
+order: '0833'
 layout: index_item
 collection: index4
 ---

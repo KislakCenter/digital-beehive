@@ -3,7 +3,7 @@ pid: index_2347
 volume: Volume 3
 image_number: '29'
 head: love of the world
-entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|a"
 topic: 
 first_letter: L
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/153,25
 label: love of the world
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '427'
+order: '428'
 layout: index_item
 collection: index3
 ---

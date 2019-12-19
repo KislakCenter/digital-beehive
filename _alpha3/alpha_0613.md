@@ -8,8 +8,8 @@ topic: Mountebank
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physician</a>|Juggling|<a href='/digital-beehive/toc/toc2_260/'>1333
-  [Mountebank]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physician</a>|<a href='/digital-beehive/num2/num_0522/'>Juggling</a>|<a
+  href='/digital-beehive/toc/toc2_260/'>1333 [Mountebank]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2604/'>mountebank</a>"
 item: "#item-0d4c7cfeb"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,1430,600,180/250,/0/default.jpg
 label: Mountebank
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
-num_match: 
 order: '169'
 layout: alpha_item
 collection: alpha3

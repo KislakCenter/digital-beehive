@@ -10,7 +10,7 @@ first_letter: W
 page: 
 add: 
 xref: 
-see: hirelings|<a href='/digital-beehive/index4/index_3412/'>reward</a>
+see: "<a href='/digital-beehive/index2/index_1843/'>hirelings</a>|<a href='/digital-beehive/index4/index_3412/'>reward</a>"
 index: 
 item: "#item-7acd42931"
 unparsed: 
@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/973,34
 label: wages
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '425'
+order: '420'
 layout: index_item
 collection: index5
 ---

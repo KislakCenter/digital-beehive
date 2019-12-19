@@ -3,7 +3,7 @@ pid: index_4408
 volume: Volume 3
 image_number: '50'
 head: unprofitable
-entry: "<a href='/digital-beehive/alpha5/alpha_1007/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1007/'>a</a>|a"
 topic: 
 first_letter: U/V
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1105,3
 label: unprofitable
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '375'
+order: '370'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,9 @@
 pid: index_4622
 volume: Volume 3
 image_number: '53'
-head: worship
-entry: "<a href='/digital-beehive/alpha5/alpha_1059/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1070
-  [Worship]</a>|<a href='/digital-beehive/toc/toc2_368/'>2029 [Worship]</a>"
+head: worse & worst
+entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [Worse]</a>|<a href='/digital-beehive/toc/toc2_321/'>1632
+  [Worse]</a>"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b09fd4560"
+item: "#item-f4af7e24f"
 unparsed: 
-line: 'Head: worship|Entry: a|Entry: 1070 [Worship]|Entry: 2029 [Worship]|#item-b09fd4560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/full/0/default.jpg
+line: 'Head: worse & worst|Entry: 573 [Worse]|Entry: 1632 [Worse]|#item-f4af7e24f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797714420
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797627649
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/150,/0/default.jpg
-label: worship
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/150,/0/default.jpg
+label: worse & worst
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '589'
+order: '584'
 layout: index_item
 collection: index5
 ---

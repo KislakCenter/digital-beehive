@@ -2,8 +2,8 @@
 pid: index_4045
 volume: Volume 3
 image_number: '46'
-head: to take
-entry: 753 [PAGE_MISSING]
+head: tail
+entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [a Tail]</a>"
 topic: 
 first_letter: T
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b9427ca92"
+item: "#item-fd1f350c3"
 unparsed: 
-line: 'Head: to take|Entry: 753 [PAGE_MISSING]|#item-b9427ca92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,1167,464,101/full/0/default.jpg
+line: 'Head: tail|Entry: 573 [a Tail]|#item-fd1f350c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1792,896,438,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742493249
+annotation_uri: http://dev.llgc.org.uk/annotation/1564498397016
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1828,1167,464,101/150,/0/default.jpg
-label: to take
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1792,896,438,145/150,/0/default.jpg
+label: tail
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '014'
+order: '007'
 layout: index_item
 collection: index5
 ---

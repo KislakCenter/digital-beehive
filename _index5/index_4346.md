@@ -9,7 +9,7 @@ first_letter: U/V
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0268/'>bad</a>|corrupt"
+see: "<a href='/digital-beehive/index1/index_0269/'>bad</a>|<a href='/digital-beehive/index1/index_0862/'>corrupt</a>"
 index: 
 item: "#item-1dc1368f8"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1654,3
 label: vitious
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '313'
+order: '308'
 layout: index_item
 collection: index5
 ---

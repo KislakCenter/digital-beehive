@@ -3,7 +3,7 @@ pid: index_3221
 volume: Volume 3
 image_number: '38'
 head: pudding
-entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>|a"
 topic: 
 first_letter: P
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/381,25
 label: pudding
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0468'
+order: '0469'
 layout: index_item
 collection: index4
 ---

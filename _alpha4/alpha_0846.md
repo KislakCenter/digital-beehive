@@ -8,7 +8,7 @@ topic: Seeming
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0301/'>external appearance</a>|Substantial|846
+xref: "<a href='/digital-beehive/alpha2/alpha_0301/'>external appearance</a>|<a href='/digital-beehive/num1/num_0094/'>Substantial</a>|846
   [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index4/index_3596/'>seemingly</a>"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/261,1357,600,180/250,/0/default.jpg
 label: Seeming
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-num_match: 
 order: '198'
 layout: alpha_item
 collection: alpha4

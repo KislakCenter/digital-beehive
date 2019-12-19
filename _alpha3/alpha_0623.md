@@ -8,8 +8,8 @@ topic: Mutation
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>change</a>|<a href='/digital-beehive/alpha5/alpha_0988/'>Variety</a>|<a
-  href='/digital-beehive/toc/toc2_083/'>244 [Mutation]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>change</a>|<a href='/digital-beehive/alpha5/alpha_0988/'>Variety</a>|244
+  [Mutation]"
 see: 
 index: "<a href='/digital-beehive/index3/index_2625/'>mutation</a>"
 item: "#item-574a90ebc"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/284,243,600,180/250,/0/default.jpg
 label: Mutation
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-num_match: 
 order: '179'
 layout: alpha_item
 collection: alpha3

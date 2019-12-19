@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Eel]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1210/'>eel</a>"
+index: "<a href='/digital-beehive/index2/index_1211/'>eel</a>"
 item: "#item-ab3f11547"
 unparsed: 
 line: 'Entry: Eel|Topic: Eel|Xref: 1647 [Eel]|Index: eel|#item-ab3f11547'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,667,600,180/250,/0/default.jpg
 label: Eel
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-num_match: 
 order: '008'
 layout: alpha_item
 collection: alpha2

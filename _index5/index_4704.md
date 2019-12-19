@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1074,1
 label: Salvation of Children & Idiots
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '671'
+order: '666'
 layout: index_item
 collection: index5
 ---

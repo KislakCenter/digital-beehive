@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,2609,600,180/250,/0/default.jpg
 label: Soul
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-num_match: 
 order: '248'
 layout: alpha_item
 collection: alpha4

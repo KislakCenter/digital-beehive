@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1072/'>Zoilus</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
   [Satyr]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3522/'>Satyre</a>"
+index: "<a href='/digital-beehive/index4/index_3523/'>Satyre</a>"
 item: "#item-407803ef9"
 unparsed: 
 line: 'Entry: Satyre|Topic: Satyre|Xref: Zoilus|Xref: 1384 [Satyr]|Index: Satyre|#item-407803ef9'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
 label: Satyre
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '182'
 layout: alpha_item
 collection: alpha4

@@ -8,8 +8,8 @@ topic: Testimony
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0746/'>Proof</a>|<a href='/digital-beehive/toc/toc2_063/'>61
-  [Prosecution]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0746/'>Proof</a>|<a href='/digital-beehive/num1/num_0062/'>61
+  [Testimony]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4101/'>testimony</a>"
 item: "#item-4dde9e62"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,600,180/250,/0/default.jpg
 label: Testimony
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-num_match: 
 order: '013'
 layout: alpha_item
 collection: alpha5

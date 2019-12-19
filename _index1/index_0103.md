@@ -2,8 +2,8 @@
 pid: index_0103
 volume: Volume 3
 image_number: '7'
-head: "[:2.]"
-entry: 
+head: allusion
+entry: "<a href='/digital-beehive/num2/num_0280/'>256 [Allusions]</a>"
 topic: 
 first_letter: A
 page: 
@@ -11,18 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d8eeffd36"
-unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
-line: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1480,1894,128,68/full/0/default.jpg
+item: "#item-92dce6217"
+unparsed: 
+line: 'Head: allusion|Entry: 256 [Allusions]|#item-92dce6217'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1828,386,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558888490390
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769934884
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1480,1894,128,68/150,/0/default.jpg
-label: "[:2.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1595,1828,386,132/150,/0/default.jpg
+label: allusion
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
-  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
+insertion_xref: 
 order: '0102'
 layout: index_item
 collection: index1

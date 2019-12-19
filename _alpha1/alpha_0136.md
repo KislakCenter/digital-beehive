@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0761/'>Purity</a>|794 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_0614/'>chastity</a>"
+index: "<a href='/digital-beehive/index1/index_0615/'>chastity</a>"
 item: "#item-c08ad89c9"
 unparsed: 
 line: 'Entry: Chastity|Topic: Chastity|Xref: Purity|Xref: 794 [PAGE_MISSING]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/316,1405,600,180/250,/0/default.jpg
 label: Chastity
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-num_match: 
 order: '135'
 layout: alpha_item
 collection: alpha1

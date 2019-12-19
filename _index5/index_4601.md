@@ -2,9 +2,8 @@
 pid: index_4601
 volume: Volume 3
 image_number: '53'
-head: wood
-entry: "<a href='/digital-beehive/alpha5/alpha_1051/'>a</a>|<a href='/digital-beehive/toc/toc2_377/'>2113
-  [Wood]</a>"
+head: wonderful things
+entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c803ebfd8"
+item: "#item-9d54d55d6"
 unparsed: 
-line: 'Head: wood|Entry: a|Entry: 2113 [Wood]|#item-c803ebfd8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,1293,476,137/full/0/default.jpg
+line: 'Head: wonderful things|Entry: a|#item-9d54d55d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796273800
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796213984
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,1293,476,137/150,/0/default.jpg
-label: wood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/150,/0/default.jpg
+label: wonderful things
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '568'
+order: '563'
 layout: index_item
 collection: index5
 ---

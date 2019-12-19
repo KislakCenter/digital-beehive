@@ -3,7 +3,7 @@ pid: index_2624
 volume: Volume 3
 image_number: '31'
 head: mustard
-entry: "<a href='/digital-beehive/alpha3/alpha_0622/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0622/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1552,2
 label: mustard
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '704'
+order: '705'
 layout: index_item
 collection: index3
 ---

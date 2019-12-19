@@ -6,11 +6,11 @@ head:
 entry: Toothach
 topic: Toothach
 first_letter: T
-page: p.377 [Image 2.199]
+page: "<a href='/digital-beehive/toc/toc2_189/'>p.377 [Image 2.199]</a>"
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4189/'>toothach</a>"
+index: "<a href='/digital-beehive/index5/index_4190/'>toothach</a>"
 item: "#item-e7678121e"
 unparsed: 
 line: 'Entry: Toothach|Topic: Toothach|Page: p.377 [Image 2.199]|Index: toothach|#item-e7678121e'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,600,180/250,/0/default.jpg
 label: Toothach
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '035'
 layout: alpha_item
 collection: alpha5

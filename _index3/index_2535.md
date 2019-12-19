@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: malignity
+see: "<a href='/digital-beehive/index3/index_2399/'>malignity</a>"
 index: 
 item: "#item-a0fd3b583"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/165,33
 label: mischief
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '615'
+order: '616'
 layout: index_item
 collection: index3
 ---

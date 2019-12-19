@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1051,3
 label: devil
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1031'
+order: '1033'
 layout: index_item
 collection: index1
 ---

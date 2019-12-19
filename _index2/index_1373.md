@@ -3,7 +3,7 @@ pid: index_1373
 volume: Volume 3
 image_number: '19'
 head: eye lust
-entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>|a"
 topic: 
 first_letter: E
 page: 

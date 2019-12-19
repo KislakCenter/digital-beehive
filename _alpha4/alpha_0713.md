@@ -8,7 +8,7 @@ topic: Pocket
 first_letter: P
 page: 
 add: 
-xref: 
+xref: 4673 [PAGE_MISSING; Bags]
 see: 
 index: "<a href='/digital-beehive/index4/index_3054/'>pocket</a>"
 item: "#item-bcfac1ad7"
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/296,972,600,180/250,/0/default.jpg
 label: Pocket
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-num_match: 
 order: '066'
 layout: alpha_item
 collection: alpha4

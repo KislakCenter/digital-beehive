@@ -3,7 +3,7 @@ pid: index_4247
 volume: Volume 3
 image_number: '48'
 head: trouble
-entry: "<a href='/digital-beehive/toc/toc2_089/'>282 [Troublesom]</a>|<a href='/digital-beehive/toc/toc2_148/'>661
+entry: "<a href='/digital-beehive/num2/num_0317/'>282 [Troublesom fellow]</a>|<a href='/digital-beehive/toc/toc2_148/'>661
   [To trouble]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354 [Perplexity]</a>"
 topic: 
 first_letter: T
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2
 label: trouble
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '214'
+order: '209'
 layout: index_item
 collection: index5
 ---

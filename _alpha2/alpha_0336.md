@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/704,2203,600,180/250,/0/default.jpg
 label: Fool
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
-num_match: 
 order: '067'
 layout: alpha_item
 collection: alpha2

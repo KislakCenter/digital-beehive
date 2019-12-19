@@ -2,27 +2,27 @@
 pid: index_4316
 volume: Volume 3
 image_number: '49'
-head: vertigo
-entry: "<a href='/digital-beehive/toc/toc2_137/'>599 [Giddiness]</a>"
+head: Verdrießen
+entry: 
 topic: 
 first_letter: U/V
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_1093/'>Displeasure</a>"
 index: 
-item: "#item-f2ac46378"
+item: "#item-3a9e09858"
 unparsed: 
-line: 'Head: vertigo|Entry: 599 [Giddiness]|#item-f2ac46378'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,3353,395,130/full/0/default.jpg
+line: 'Head: Verdrießen|See: Displeasure|#item-3a9e09858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659034668
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658896689
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,3353,395,130/150,/0/default.jpg
-label: vertigo
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/911,3120,848,144/150,/0/default.jpg
+label: Verdrießen
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '283'
+order: '278'
 layout: index_item
 collection: index5
 ---

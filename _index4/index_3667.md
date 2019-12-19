@@ -3,7 +3,7 @@ pid: index_3667
 volume: Volume 3
 image_number: '42'
 head: shells of snails
-entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1842,2
 label: shells of snails
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0914'
+order: '0915'
 layout: index_item
 collection: index4
 ---

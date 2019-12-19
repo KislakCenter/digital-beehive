@@ -2,8 +2,8 @@
 pid: index_0040
 volume: Volume 3
 image_number: '7'
-head: address
-entry: "<a href='/digital-beehive/toc/toc2_384/'>2185 [Address]</a>"
+head: addition
+entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [Addition]</a>"
 topic: 
 first_letter: A
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c5f594cfe"
+item: "#item-fcc96eba0"
 unparsed: 
-line: 'Head: address|Entry: 2185 [Address]|#item-c5f594cfe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/836,298,520,93/full/0/default.jpg
+line: 'Head: addition|Entry: 624 [Addition]|#item-fcc96eba0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/851,232,555,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760616456
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760551968
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/836,298,520,93/150,/0/default.jpg
-label: address
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/851,232,555,140/150,/0/default.jpg
+label: addition
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0039'

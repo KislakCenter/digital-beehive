@@ -2,27 +2,24 @@
 pid: index_2985
 volume: Volume 3
 image_number: '35'
-head: philosophy
-entry: "<a href='/digital-beehive/alpha4/alpha_0703/'>a</a>|<a href='/digital-beehive/num2/num_0563/'>453
-  [Philosophy]</a>|<a href='/digital-beehive/toc/toc2_334/'>1698 [Philosophy]</a>|<a
-  href='/digital-beehive/toc/toc2_433/'>4824 [Philosophy]</a>"
+head: philosopher stone
+entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
 index: 
-item: "#item-d7608cf75"
+item: "#item-4ec30a3ed"
 unparsed: 
-line: 'Head: philosophy|Entry: a|Entry: 453 [Philosophy]|Entry: 1698 [Philosophy]|Entry:
-  4824 [Philosophy]|#item-d7608cf75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/796,2422,1036,206/full/0/default.jpg
+line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976995304
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/796,2422,1036,206/150,/0/default.jpg
-label: philosophy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/150,/0/default.jpg
+label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0233'

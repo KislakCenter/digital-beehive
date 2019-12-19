@@ -3,7 +3,7 @@ pid: index_1163
 volume: Volume 3
 image_number: '17'
 head: drunken[n]ess
-entry: "<a href='/digital-beehive/alpha1/alpha_0264/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>477
+entry: "<a href='/digital-beehive/alpha1/alpha_0264/'>a</a>|<a href='/digital-beehive/num2/num_0591/'>477
   [Drunken[n]ess]</a>|<a href='/digital-beehive/toc/toc2_208/'>1072 [Drunken[n]ess]</a>|<a
   href='/digital-beehive/toc/toc2_374/'>2087 [Drunckenness]</a>"
 topic: 
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1395,3
 label: drunken[n]ess
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1160'
+order: '1162'
 layout: index_item
 collection: index1
 ---

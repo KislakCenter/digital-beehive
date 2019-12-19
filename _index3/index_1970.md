@@ -2,8 +2,8 @@
 pid: index_1970
 volume: Volume 3
 image_number: '25'
-head: imploymt
-entry: "<a href='/digital-beehive/toc/toc2_240/'>1232 [Imploymt]</a>"
+head: "[:53.]"
+entry: 
 topic: 
 first_letter: I/J
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-20c40e5bd"
-unparsed: 
-line: 'Head: imploymt|Entry: 1232 [Imploymt]|#item-20c40e5bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/full/0/default.jpg
+item: "#item-093a11d1e"
+unparsed: 'Type: Index|Insertion Xref: [:53.]|#item-093a11d1e'
+line: 'Type: Index|Insertion Xref: [:53.]|#item-093a11d1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1443,1695,202,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666293331
+annotation_uri: http://dev.llgc.org.uk/annotation/1560198686597
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/863,1819,540,147/150,/0/default.jpg
-label: imploymt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1443,1695,202,178/150,/0/default.jpg
+label: "[:53.]"
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-insertion_xref: 
+insertion_xref: "<a href='/digital-beehive/index5/index_4721/'>Im[per]tinent</a>"
 order: '051'
 layout: index_item
 collection: index3

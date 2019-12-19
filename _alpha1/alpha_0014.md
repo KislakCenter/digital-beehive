@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0086/'>85 [Wel- and Unwelcome]</a>|<a href='/digital-beehive/toc/toc2_165/'>889
   [Agreeable]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0078/'>agreable</a>"
+index: "<a href='/digital-beehive/index1/index_0079/'>agreable</a>"
 item: "#item-16d46db60"
 unparsed: 
 line: 'Entry: Agreeableness|Topic: Agreeableness|Xref: 85 [Wel- and Unwelcome]|Xref:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/661,1247,600,180/250,/0/default.jpg
 label: Agreeableness
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '013'
 layout: alpha_item
 collection: alpha1

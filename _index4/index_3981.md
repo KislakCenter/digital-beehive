@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,84
 label: Sum[m]um bonu[m]
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1227'
+order: '1229'
 layout: index_item
 collection: index4
 ---

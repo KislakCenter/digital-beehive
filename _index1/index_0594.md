@@ -2,24 +2,24 @@
 pid: index_0594
 volume: Volume 3
 image_number: '12'
-head: chance
-entry: 
+head: chameleon
+entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Salamander]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0556/'>casualty</a>"
+see: 
 index: 
-item: "#item-fc8b599b5"
+item: "#item-7fbb4d36c"
 unparsed: 
-line: 'Head: chance|See: casualty|#item-fc8b599b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,2773,602,132/full/0/default.jpg
+line: 'Head: chameleon|Entry: 1245 [Salamander]|#item-7fbb4d36c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,2656,560,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442314678
+annotation_uri: http://dev.llgc.org.uk/annotation/1532102290076
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,2773,602,132/150,/0/default.jpg
-label: chance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,2656,560,117/150,/0/default.jpg
+label: chameleon
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0593'

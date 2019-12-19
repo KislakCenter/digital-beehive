@@ -2,24 +2,24 @@
 pid: index_0595
 volume: Volume 3
 image_number: '12'
-head: changelings
-entry: "<a href='/digital-beehive/toc/toc2_363/'>1979 [Changelings]</a>"
+head: chance
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0556/'>casualty</a>"
 index: 
-item: "#item-d6445975f"
+item: "#item-fc8b599b5"
 unparsed: 
-line: 'Head: changelings|Entry: 1979 [Changelings]|#item-d6445975f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1133,2846,546,109/full/0/default.jpg
+line: 'Head: chance|See: casualty|#item-fc8b599b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,2773,602,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532442449032
+annotation_uri: http://dev.llgc.org.uk/annotation/1532442314678
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1133,2846,546,109/150,/0/default.jpg
-label: changelings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1129,2773,602,132/150,/0/default.jpg
+label: chance
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0594'

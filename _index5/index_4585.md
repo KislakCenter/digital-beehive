@@ -2,27 +2,27 @@
 pid: index_4585
 volume: Volume 3
 image_number: '53'
-head: wolf
-entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>"
+head: woe to you!
+entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>"
 topic: 
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-2505ee998"
+item: "#item-2a3f44400"
 unparsed: 
-line: 'Head: wolf|Page: p.34 [Image 1.94]|Entry: a|#item-2505ee998'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/full/0/default.jpg
+line: 'Head: woe to you!|Entry: 333 [Exclam[m]ations or Interjections]|#item-2a3f44400'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2815,532,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793381069
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793361185
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2958,439,140/150,/0/default.jpg
-label: wolf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,2815,532,162/150,/0/default.jpg
+label: woe to you!
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '552'
+order: '547'
 layout: index_item
 collection: index5
 ---

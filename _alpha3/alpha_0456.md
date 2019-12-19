@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/321,3914,600,180/250,/0/default.jpg
 label: Image of God
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
-num_match: 
 order: '012'
 layout: alpha_item
 collection: alpha3

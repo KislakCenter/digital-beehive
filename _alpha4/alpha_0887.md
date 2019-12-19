@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha5/alpha_0966/'>Too slow</a>|<a href='/digi
   href='/digital-beehive/alpha3/alpha_0510/'>Last</a>|<a href='/digital-beehive/toc/toc2_211/'>1089
   [Slow-footed]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3755/'>slowness</a>"
+index: "<a href='/digital-beehive/index4/index_3756/'>slowness</a>"
 item: "#item-39c9d131e"
 unparsed: 
 line: 'Entry: Slowness|Topic: Slowness|Xref: Too slow|Xref: Degree|Xref: Last|Xref:
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/773,298,600,180/250,/0/default.jpg
 label: Slowness
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-num_match: 
 order: '239'
 layout: alpha_item
 collection: alpha4

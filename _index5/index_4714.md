@@ -9,7 +9,7 @@ first_letter: insertion
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1664/'>gold</a>"
+see: "<a href='/digital-beehive/index2/index_1665/'>gold</a>"
 index: 
 item: "#item-d62bc63a0"
 unparsed: Type Index|Insertion [:46.]
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,3
 label: to gild
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '681'
+order: '676'
 layout: index_item
 collection: index5
 ---

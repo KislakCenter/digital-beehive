@@ -2,28 +2,27 @@
 pid: index_4625
 volume: Volume 3
 image_number: '53'
-head: wounds
-entry: "<a href='/digital-beehive/alpha5/alpha_1062/'>a</a>|<a href='/digital-beehive/toc/toc2_223/'>1146
-  [Wound]</a>"
+head: worthiness
+entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>|a"
 topic: 
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-485132c6b"
+item: "#item-4b82e3fd9"
 unparsed: 
-line: 'Head: wounds|Page: p.43 [Image 1.103]|Entry: a|Entry: 1146 [Wound]|#item-485132c6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1619,393,616,139/full/0/default.jpg
+line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560798394781
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1619,393,616,139/150,/0/default.jpg
-label: wounds
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1598,269,481,123/150,/0/default.jpg
+label: worthiness
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '592'
+order: '587'
 layout: index_item
 collection: index5
 ---

@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: Preachers|<a href='/digital-beehive/index5/index_4072/'>Teachers</a>
+see: "<a href='/digital-beehive/index4/index_3114/'>Preachers</a>|<a href='/digital-beehive/index5/index_4072/'>Teachers</a>"
 index: 
 item: "#item-adfa67363"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1818,2
 label: ministers of Gospel
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '605'
+order: '606'
 layout: index_item
 collection: index3
 ---

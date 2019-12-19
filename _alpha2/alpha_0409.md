@@ -8,7 +8,7 @@ topic: Heaviness
 first_letter: H
 page: 
 add: 
-xref: Balance|Weight
+xref: "<a href='/digital-beehive/num1/num_0230/'>Balance</a>|Weight"
 see: 
 index: "<a href='/digital-beehive/index2/index_1788/'>heavy</a>"
 item: "#item-557c0909c"
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/771,202,600,180/250,/0/default.jpg
 label: Heaviness
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-num_match: 
 order: '140'
 layout: alpha_item
 collection: alpha2

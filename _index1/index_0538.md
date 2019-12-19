@@ -3,7 +3,7 @@ pid: index_0538
 volume: Volume 3
 image_number: '11'
 head: cards
-entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0120/'>a</a>|a"
 topic: 
 first_letter: C
 page: 

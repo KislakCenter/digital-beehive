@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_321/'>1632 [To Buy]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0495/'>to buy</a>"
+index: "<a href='/digital-beehive/index1/index_0496/'>to buy</a>"
 item: "#item-c6088d5d1"
 unparsed: 
 line: 'Entry: to Buy|Topic: to Buy|Xref: 1632 [To Buy]|Index: to buy|#item-c6088d5d1'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/340,851,600,180/250,/0/default.jpg
 label: to Buy
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-num_match: 
 order: '110'
 layout: alpha_item
 collection: alpha1

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0900/'>Speech</a>|<a href='/digita
   href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
   [Tongue]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4172/'>tongue</a>"
+index: "<a href='/digital-beehive/index5/index_4173/'>tongue</a>"
 item: "#item-89b60c12d"
 unparsed: 
 line: 'Entry: Tongue|Topic: Tongue|Xref: Speech|Xref: language|Xref: babling|Xref:
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/319,1597,600,180/250,/0/default.jpg
 label: Tongue
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '026'
 layout: alpha_item
 collection: alpha5

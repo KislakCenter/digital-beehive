@@ -2,27 +2,27 @@
 pid: index_2515
 volume: Volume 3
 image_number: '30'
-head: milky way
-entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Milky way]</a>"
+head: millenary
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0636/'>chiliasm</a>"
 index: 
-item: "#item-bf0334b6e"
+item: "#item-6bbd1bbdb"
 unparsed: 
-line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
+line: 'Head: millenary|See: chiliasm|#item-6bbd1bbdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,1904,646,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274073360
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/150,/0/default.jpg
-label: milky way
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,1904,646,150/150,/0/default.jpg
+label: millenary
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '595'
+order: '596'
 layout: index_item
 collection: index3
 ---

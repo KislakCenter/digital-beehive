@@ -3,7 +3,7 @@ pid: index_3499
 volume: Volume 3
 image_number: '40'
 head: salary
-entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1825,3
 label: salary
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0746'
+order: '0747'
 layout: index_item
 collection: index4
 ---

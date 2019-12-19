@@ -2,24 +2,24 @@
 pid: index_0059
 volume: Volume 3
 image_number: '7'
-head: affirmation
-entry: "<a href='/digital-beehive/num2/num_0395/'>342 [Affirmatively]</a>"
+head: affinity
+entry: 
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3347/'>relation</a>"
 index: 
-item: "#item-323c15f0f"
+item: "#item-fecec7dce"
 unparsed: 
-line: 'Head: affirmation|Entry: 342 [Affirmatively]|#item-323c15f0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/907,1721,553,98/full/0/default.jpg
+line: 'Head: affinity|See: relation|#item-fecec7dce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,1602,585,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766377574
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766304493
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/907,1721,553,98/150,/0/default.jpg
-label: affirmation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,1602,585,160/150,/0/default.jpg
+label: affinity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0058'

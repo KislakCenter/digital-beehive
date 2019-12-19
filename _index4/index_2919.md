@@ -3,7 +3,7 @@ pid: index_2919
 volume: Volume 3
 image_number: '34'
 head: patres
-entry: "<a href='/digital-beehive/toc/toc2_064/'>73 [the Fathers]</a>"
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic: 
 first_letter: P
 page: 

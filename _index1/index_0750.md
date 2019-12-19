@@ -3,7 +3,7 @@ pid: index_0750
 volume: Volume 3
 image_number: '13'
 head: common wealth
-entry: "<a href='/digital-beehive/toc/toc2_104/'>389 [Republick]</a>"
+entry: "<a href='/digital-beehive/num2/num_0472/'>389 [a Republick]</a>"
 topic: 
 first_letter: C
 page: 

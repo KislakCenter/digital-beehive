@@ -2,28 +2,27 @@
 pid: index_3181
 volume: Volume 3
 image_number: '37'
-head: profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0740/'>a</a>|<a href='/digital-beehive/toc/toc2_333/'>1692
-  [Gain]</a>"
+head: prognostica[ti]ons
+entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|a"
 topic: 
 first_letter: P
 page: 
-add: "<a href='/digital-beehive/index5/index_4449/'>Utility</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-7875629be"
+item: "#item-683f714b4"
 unparsed: 
-line: 'Head: profit|Entry: a|Entry: 1692 [Gain]|Add: Utility|#item-7875629be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/full/0/default.jpg
+line: 'Head: prognostica[ti]ons|Entry: a|#item-683f714b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868490570
+annotation_uri: http://dev.llgc.org.uk/annotation/1564084141262
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/150,/0/default.jpg
-label: profit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/150,/0/default.jpg
+label: prognostica[ti]ons
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0428'
+order: '0429'
 layout: index_item
 collection: index4
 ---

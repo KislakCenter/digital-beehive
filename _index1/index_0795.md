@@ -2,8 +2,9 @@
 pid: index_0795
 volume: Volume 3
 image_number: '14'
-head: conjunctions
-entry: "<a href='/digital-beehive/toc/toc2_370/'>2044 [Particles]</a>"
+head: conjectures
+entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/toc/toc2_174/'>932
+  [Conjecture]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-973c8d7c3"
+item: "#item-34e1d29a8"
 unparsed: 
-line: 'Head: conjunctions|Entry: 2044 [Particles]|#item-973c8d7c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1167,701,601,71/full/0/default.jpg
+line: 'Head: conjectures|Entry: 125 [Conjectures]|Entry: 932 [Conjecture]|#item-34e1d29a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1171,628,691,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541182159
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541150484
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1167,701,601,71/150,/0/default.jpg
-label: conjunctions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1171,628,691,108/150,/0/default.jpg
+label: conjectures
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0793'
+order: '0794'
 layout: index_item
 collection: index1
 ---

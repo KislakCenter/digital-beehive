@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1830/'>hieroglyphicks</a>"
+index: "<a href='/digital-beehive/index2/index_1831/'>hieroglyphicks</a>"
 item: "#item-90b569061"
 unparsed: 
 line: 'Entry: Hieroglyphicks|Topic: Hieroglyphicks|Index: hieroglyphicks|#item-90b569061'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/749,3100,600,180/250,/0/default.jpg
 label: Hieroglyphicks
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-num_match: 
 order: '150'
 layout: alpha_item
 collection: alpha2

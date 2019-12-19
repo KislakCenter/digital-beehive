@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_270/'>1384 [Alliance]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0098/'>alliance</a>"
+index: "<a href='/digital-beehive/index1/index_0099/'>alliance</a>"
 item: "#item-cc0c50e71"
 unparsed: 
 line: 'Entry: Alliance|Topic: Alliance|Index: alliance|Xref: 1384 [Alliance]|#item-cc0c50e71'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/785,3052,600,180/250,/0/default.jpg
 label: Alliance
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '019'
 layout: alpha_item
 collection: alpha1

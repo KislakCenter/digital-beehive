@@ -2,8 +2,8 @@
 pid: index_1886
 volume: Volume 3
 image_number: '24'
-head: hour
-entry: 758 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_268/'>1374 [Clock]</a>
+head: hottentots
+entry: "<a href='/digital-beehive/toc/toc2_285/'>1458 [Hottentots]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-077bc3635"
+item: "#item-1c7e35d2f"
 unparsed: 
-line: 'Head: hour|Entry: 758 [PAGE_MISSING]|Entry: 1374 [Clock]|#item-077bc3635'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1840,615,483,113/full/0/default.jpg
+line: 'Head: hottentots|Entry: 1458 [Hottentots]|#item-1c7e35d2f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1845,528,518,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586316479
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586225875
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1840,615,483,113/150,/0/default.jpg
-label: hour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1845,528,518,101/150,/0/default.jpg
+label: hottentots
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '705'

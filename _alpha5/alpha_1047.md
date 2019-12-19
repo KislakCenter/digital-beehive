@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_319/'>1622 [Womans Wit]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4598/'>woman's wit</a>"
+index: "<a href='/digital-beehive/index5/index_4599/'>woman's wit</a>"
 item: "#item-b11b47a4f"
 unparsed: 
 line: 'Entry: Womans wit|Topic: Womans wit|Xref: 1622 [Womans Wit]|Index: woman''s
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/360,4494,600,180/250,/0/default.jpg
 label: Womans wit
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '112'
 layout: alpha_item
 collection: alpha5

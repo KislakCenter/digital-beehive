@@ -2,24 +2,24 @@
 pid: index_2916
 volume: Volume 3
 image_number: '34'
-head: pater noster, beads
-entry: "<a href='/digital-beehive/num2/num_0347/'>305 [A pair of Beads]</a>"
+head: womens patches
+entry: "<a href='/digital-beehive/toc/toc2_421/'>2445 [Patches]</a>"
 topic: 
 first_letter: P
 page: 
-add: "<a href='/digital-beehive/index4/index_3110/'>prayer</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-9e895da92"
+item: "#item-71e9e4bbe"
 unparsed: 
-line: 'Head: pater noster, beads|Entry: 305 [A pair of Beads]|Add: prayer|#item-9e895da92'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,1650,750,185/full/0/default.jpg
+line: 'Head: womens patches|Entry: 2445 [Patches]|#item-71e9e4bbe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1832,1570,726,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495480253
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495347862
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,1650,750,185/150,/0/default.jpg
-label: pater noster, beads
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1832,1570,726,123/150,/0/default.jpg
+label: womens patches
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0164'

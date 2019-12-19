@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/669,194,600,180/250,/0/default.jpg
 label: "[WORD_MISSING]"
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
-num_match: 
 order: '039'
 layout: alpha_item
 collection: alpha1

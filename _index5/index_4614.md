@@ -2,8 +2,8 @@
 pid: index_4614
 volume: Volume 3
 image_number: '53'
-head: workhouse
-entry: 793 [PAGE_MISSING]
+head: Works without faith
+entry: "<a href='/digital-beehive/num2/num_0536/'>433 [Works without faith]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-12b572f1c"
+item: "#item-94e8fbe44"
 unparsed: 
-line: 'Head: workhouse|Entry: 793 [PAGE_MISSING]|#item-12b572f1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,2739,587,137/full/0/default.jpg
+line: 'Head: Works without faith|Entry: 433 [Works without faith]|#item-94e8fbe44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797250784
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797221346
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,2739,587,137/150,/0/default.jpg
-label: workhouse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/850,2555,774,180/150,/0/default.jpg
+label: Works without faith
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '581'
+order: '576'
 layout: index_item
 collection: index5
 ---

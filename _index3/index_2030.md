@@ -3,7 +3,7 @@ pid: index_2030
 volume: Volume 3
 image_number: '26'
 head: infant baptism
-entry: "<a href='/digital-beehive/toc/toc2_107/'>413 [Infant baptism]</a>"
+entry: "<a href='/digital-beehive/num2/num_0510/'>413 [Infant baptism]</a>"
 topic: 
 first_letter: I/J
 page: 

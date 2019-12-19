@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/305,1231,600,180/250,/0/default.jpg
 label: Justification
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
-num_match: 
 order: '053'
 layout: alpha_item
 collection: alpha3

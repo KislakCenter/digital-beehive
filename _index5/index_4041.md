@@ -2,27 +2,27 @@
 pid: index_4041
 volume: Volume 3
 image_number: '46'
-head: table talks
-entry: 4620 [PAGE_MISSING]
+head: table
+entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Table]</a>"
 topic: 
 first_letter: T
-page: 
+page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-57e4c49f8"
+item: "#item-1f7eed759"
 unparsed: 
-line: 'Head: table talks|Entry: 4620 [PAGE_MISSING]|#item-57e4c49f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1816,778,543,117/full/0/default.jpg
+line: 'Head: table|Page: p.8 [Image 1.68]|Entry: 975 [Table]|#item-1f7eed759'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1848,665,496,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565293650952
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742347493
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1816,778,543,117/150,/0/default.jpg
-label: table talks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1848,665,496,116/150,/0/default.jpg
+label: table
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '010'
+order: '003'
 layout: index_item
 collection: index5
 ---

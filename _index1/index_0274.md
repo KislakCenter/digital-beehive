@@ -2,8 +2,8 @@
 pid: index_0274
 volume: Volume 3
 image_number: '9'
-head: baker
-entry: "<a href='/digital-beehive/alpha1/alpha_0053/'>a</a>"
+head: bait
+entry: 729 [PAGE_MISSING]
 topic: 
 first_letter: B
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1fb244192"
+item: "#item-b64614c77"
 unparsed: 
-line: 'Head: baker|Entry: a|#item-1fb244192'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/916,686,311,132/full/0/default.jpg
+line: 'Head: bait|Entry: 729 [PAGE_MISSING]|#item-b64614c77'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/920,573,344,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505402897886
+annotation_uri: http://dev.llgc.org.uk/annotation/1505402769620
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/916,686,311,132/150,/0/default.jpg
-label: baker
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/920,573,344,153/150,/0/default.jpg
+label: bait
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0273'

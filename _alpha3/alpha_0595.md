@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_381/'>2154 [Mineral]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2522/'>mine. minerals</a>"
+index: "<a href='/digital-beehive/index3/index_2521/'>mine. minerals</a>"
 item: "#item-e1289ca34"
 unparsed: 
 line: 'Entry: Mine Minerals|Topic: Mine Minerals|Xref: 2154 [Mineral]|Index: mine.
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,803,600,180/250,/0/default.jpg
 label: Mine Minerals
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-num_match: 
 order: '151'
 layout: alpha_item
 collection: alpha3

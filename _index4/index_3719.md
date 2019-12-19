@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/188,28
 label: sin agt. h. Ghost
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '0966'
+order: '0967'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_4592
 volume: Volume 3
 image_number: '53'
-head: woman's Courses
-entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_325/'>1653 [Menstrua]</a>
+head: bad woman
+entry: 
 topic: 
 first_letter: W
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4594/'>womans Imper</a>"
 index: 
-item: "#item-0a5d33f70"
+item: "#item-ebaa80d0b"
 unparsed: 
-line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/full/0/default.jpg
+line: 'Head: bad woman|See: womans Imper|#item-ebaa80d0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793711360
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/150,/0/default.jpg
-label: woman's Courses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/213,3582,643,169/150,/0/default.jpg
+label: bad woman
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '559'
+order: '554'
 layout: index_item
 collection: index5
 ---

@@ -2,9 +2,8 @@
 pid: index_0259
 volume: Volume 3
 image_number: '9'
-head: Babbling
-entry: "<a href='/digital-beehive/alpha1/alpha_0050/'>a</a>|<a href='/digital-beehive/num2/num_0532/'>430
-  [Babbling]</a>|<a href='/digital-beehive/toc/toc2_337/'>1728 [Babbling]</a>"
+head: Baal
+entry: "<a href='/digital-beehive/toc/toc2_354/'>1919 [Baal]</a>"
 topic: 
 first_letter: B
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-428ddf3c3"
+item: "#item-b0c6e8a96"
 unparsed: 
-line: 'Head: Babbling|Entry: a|Entry: 430 [Babbling]|Entry: 1728 [Babbling]|#item-428ddf3c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,2801,686,148/full/0/default.jpg
+line: 'Head: Baal|Entry: 1919 [Baal]|#item-b0c6e8a96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210718805
+annotation_uri: http://dev.llgc.org.uk/annotation/1504210675155
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/171,2801,686,148/150,/0/default.jpg
-label: Babbling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/194,2725,375,129/150,/0/default.jpg
+label: Baal
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0258'

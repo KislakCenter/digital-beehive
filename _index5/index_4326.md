@@ -2,28 +2,29 @@
 pid: index_4326
 volume: Volume 3
 image_number: '49'
-head: "[:5.]"
-entry: 
+head: victuals
+entry: "<a href='/digital-beehive/num2/num_0424/'>359 [Meat]</a>|<a href='/digital-beehive/toc/toc2_155/'>696
+  [Dainty meats]</a>|<a href='/digital-beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: U/V
 page: 
-add: 
+add: "<a href='/digital-beehive/index1/index_0940/'>dainties</a>"
 xref: 
 see: 
 index: 
-item: "#item-322678def"
-unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
-line: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/full/0/default.jpg
+item: "#item-b922dc2a1"
+unparsed: 
+line: 'Head: victuals|Entry: 359 [Meat]|Add: dainties|Entry: 696 [Dainty meats]|Entry:
+  2156 [Meat]|#item-b922dc2a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657738231
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659889800
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1470,950,167,123/150,/0/default.jpg
-label: "[:5.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1639,850,590,194/150,/0/default.jpg
+label: victuals
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
-  or winnow</a>"
-order: '293'
+insertion_xref: 
+order: '288'
 layout: index_item
 collection: index5
 ---

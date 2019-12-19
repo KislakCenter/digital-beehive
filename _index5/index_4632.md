@@ -3,7 +3,7 @@ pid: index_4632
 volume: Volume 3
 image_number: '53'
 head: wrinkle
-entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1588,9
 label: wrinkle
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '599'
+order: '594'
 layout: index_item
 collection: index5
 ---

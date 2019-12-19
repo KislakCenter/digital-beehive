@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0755/'>Prudence</a>|<a href='/digital-beehive/toc/toc2_215/'>1107
   [Wisdom]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4566/'>wisdom</a>"
+index: "<a href='/digital-beehive/index5/index_4567/'>wisdom</a>"
 item: "#item-e42300dfe"
 unparsed: 
 line: 'Entry: Wisedom|Topic: Wisedom|Xref: Prudence|Xref: 1107 [Wisdom]|Index: wisdom|#item-e42300dfe'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,600,180/250,/0/default.jpg
 label: Wisedom
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '105'
 layout: alpha_item
 collection: alpha5

@@ -2,24 +2,25 @@
 pid: index_0096
 volume: Volume 3
 image_number: '7'
-head: allegory
-entry: "<a href='/digital-beehive/num2/num_0296/'>265 [Metaphor or figurative Speech]</a>"
+head: allegiance
+entry: "<a href='/digital-beehive/num2/num_0476/'>392 [Allegiance]</a>|<a href='/digital-beehive/toc/toc2_401/'>2290
+  [Allegiance]</a>"
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2501/'>metaphor</a>"
+see: 
 index: 
-item: "#item-05a2fdfb9"
+item: "#item-6c0ce0d94"
 unparsed: 
-line: 'Head: allegory|See: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-05a2fdfb9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/full/0/default.jpg
+line: 'Head: allegiance|Entry: 392 [Allegiance]|Entry: 2290 [Allegiance]|#item-6c0ce0d94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769500558
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768719049
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1600,1481,728,158/150,/0/default.jpg
-label: allegory
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/150,/0/default.jpg
+label: allegiance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0095'

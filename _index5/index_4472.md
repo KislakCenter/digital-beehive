@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: 
-see: lasciv
+see: "<a href='/digital-beehive/index3/index_2202/'>lasciv</a>"
 index: 
 item: "#item-2e05ac1c2"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1656,1
 label: wanton[n]ess
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '439'
+order: '434'
 layout: index_item
 collection: index5
 ---

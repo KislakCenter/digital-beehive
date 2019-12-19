@@ -2,8 +2,8 @@
 pid: index_2175
 volume: Volume 3
 image_number: '27'
-head: I know not
-entry: 4597 [PAGE_MISSING]
+head: knot
+entry: 801 [PAGE_MISSING]
 topic: 
 first_letter: K
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7f6029546"
+item: "#item-6f58770db"
 unparsed: 
-line: 'Head: I know not|Entry: 4597 [PAGE_MISSING]|#item-7f6029546'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/812,2534,556,133/full/0/default.jpg
+line: 'Head: knot|Entry: 801 [PAGE_MISSING]|#item-6f58770db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/830,2435,310,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762727663
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762683164
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/812,2534,556,133/150,/0/default.jpg
-label: I know not
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/830,2435,310,135/150,/0/default.jpg
+label: knot
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '256'

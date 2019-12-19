@@ -2,27 +2,27 @@
 pid: index_0926
 volume: Volume 3
 image_number: '15'
-head: cup
-entry: 733 [PAGE_MISSING]
+head: cunning
+entry: 
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
 index: 
-item: "#item-265839893"
+item: "#item-00b1f85ec"
 unparsed: 
-line: 'Head: cup|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-265839893'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/848,3409,463,114/full/0/default.jpg
+line: 'Head: cunning|See: craftiness|#item-00b1f85ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578062159
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578032042
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/848,3409,463,114/150,/0/default.jpg
-label: cup
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/150,/0/default.jpg
+label: cunning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0923'
+order: '0925'
 layout: index_item
 collection: index1
 ---

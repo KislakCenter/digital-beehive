@@ -8,7 +8,7 @@ topic: Strappado
 first_letter: S
 page: 
 add: 
-xref: Torturing
+xref: "<a href='/digital-beehive/num2/num_0519/'>Torturing</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3931/'>strappado</a>"
 item: "#item-d63cc68df"
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/345,4741,600,180/250,/0/default.jpg
 label: Strappado
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
-num_match: 
 order: '269'
 layout: alpha_item
 collection: alpha4

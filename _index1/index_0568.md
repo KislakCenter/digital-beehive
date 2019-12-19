@@ -3,7 +3,7 @@ pid: index_0568
 volume: Volume 3
 image_number: '12'
 head: cattle
-entry: "<a href='/digital-beehive/alpha1/alpha_0128/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0128/'>a</a>|a"
 topic: 
 first_letter: C
 page: 

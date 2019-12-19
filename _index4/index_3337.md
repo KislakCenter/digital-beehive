@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: look|consider
+see: "<a href='/digital-beehive/index3/index_2326/'>look</a>|<a href='/digital-beehive/index1/index_0809/'>consider</a>"
 index: 
 item: "#item-ed68b5441"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/134,19
 label: to regard
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0584'
+order: '0585'
 layout: index_item
 collection: index4
 ---

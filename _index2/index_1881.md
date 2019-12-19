@@ -2,8 +2,8 @@
 pid: index_1881
 volume: Volume 3
 image_number: '24'
-head: hosts
-entry: "<a href='/digital-beehive/toc/toc2_351/'>1891 [Armies or Hosts]</a>"
+head: hospitality
+entry: "<a href='/digital-beehive/alpha2/alpha_0433/'>a</a>|a"
 topic: 
 first_letter: H
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3b0579b65"
+item: "#item-a0f35d184"
 unparsed: 
-line: 'Head: hosts|Entry: 1891 [Armies or Hosts]|#item-3b0579b65'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1174,3640,398,137/full/0/default.jpg
+line: 'Head: hospitality|Entry: a|#item-a0f35d184'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,3522,468,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584759968
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584684762
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1174,3640,398,137/150,/0/default.jpg
-label: hosts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1149,3522,468,173/150,/0/default.jpg
+label: hospitality
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '700'

@@ -2,10 +2,8 @@
 pid: index_4593
 volume: Volume 3
 image_number: '53'
-head: woman's imperiousness
-entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num1/num_0200/'>192
-  [Dames governmt]</a>|<a href='/digital-beehive/toc/toc2_338/'>1737 [Womans Imperiousness]</a>|<a
-  href='/digital-beehive/toc/toc2_432/'>4820 [Bad & imperious Women]</a>"
+head: woman's Courses
+entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_325/'>1653 [Menstrua]</a>
 topic: 
 first_letter: W
 page: 
@@ -13,19 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-683c0af46"
+item: "#item-0a5d33f70"
 unparsed: 
-line: 'Head: woman''s imperiousness|Entry: a|Entry: 192 [Dames governmt]|Entry: 1737
-  [Womans Imperiousness]|Entry: 4820 [Bad & imperious Women]|#item-683c0af46'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/858,416,726,136/full/0/default.jpg
+line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794641651
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/858,416,726,136/150,/0/default.jpg
-label: woman's imperiousness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/878,291,657,149/150,/0/default.jpg
+label: woman's Courses
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '560'
+order: '555'
 layout: index_item
 collection: index5
 ---

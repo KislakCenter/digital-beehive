@@ -2,24 +2,24 @@
 pid: index_1184
 volume: Volume 3
 image_number: '18'
-head: earnest
-entry: 
+head: ear ringing
+entry: "<a href='/digital-beehive/toc/toc2_241/'>1239 [Ringing in the Ear]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: serious
+see: 
 index: 
-item: "#item-54a9f818a"
+item: "#item-0f316379f"
 unparsed: 
-line: 'Head: earnest|See: serious|#item-54a9f818a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,2125,576,131/full/0/default.jpg
+line: 'Head: ear ringing|Entry: 1239 [Ringing in the Ear]|#item-0f316379f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666838813
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666689949
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,2125,576,131/150,/0/default.jpg
-label: earnest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/150,/0/default.jpg
+label: ear ringing
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '004'

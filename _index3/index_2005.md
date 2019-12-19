@@ -3,7 +3,7 @@ pid: index_2005
 volume: Volume 3
 image_number: '25'
 head: incontinence
-entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>|a"
 topic: 
 first_letter: I/J
 page: 

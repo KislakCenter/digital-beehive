@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/371,4101,600,180/250,/0/default.jpg
 label: Fable
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-num_match: 
 order: '037'
 layout: alpha_item
 collection: alpha2

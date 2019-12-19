@@ -3,9 +3,9 @@ pid: index_1329
 volume: Volume 3
 image_number: '19'
 head: example
-entry: "<a href='/digital-beehive/alpha2/alpha_0295/'>a</a>|<a href='/digital-beehive/toc/toc2_090/'>290
-  [Example]</a>|<a href='/digital-beehive/toc/toc2_319/'>1625 [Example]</a>|<a href='/digital-beehive/toc/toc2_369/'>2038
-  [Example]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0295/'>a</a>|<a href='/digital-beehive/num2/num_0326/'>290
+  [for Example]</a>|<a href='/digital-beehive/toc/toc2_319/'>1625 [Example]</a>|<a
+  href='/digital-beehive/toc/toc2_369/'>2038 [Example]</a>"
 topic: 
 first_letter: E
 page: 

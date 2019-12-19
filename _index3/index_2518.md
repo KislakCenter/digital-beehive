@@ -2,8 +2,8 @@
 pid: index_2518
 volume: Volume 3
 image_number: '30'
-head: Milton
-entry: 4786 [PAGE_MISSING]
+head: milt
+entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b82a77c9a"
+item: "#item-3bd579263"
 unparsed: 
-line: 'Head: Milton|Entry: 4786 [PAGE_MISSING]|#item-b82a77c9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/full/0/default.jpg
+line: 'Head: milt|Entry: 595 [Liver]|#item-3bd579263'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,2096,300,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274214148
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274181939
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/150,/0/default.jpg
-label: Milton
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,2096,300,131/150,/0/default.jpg
+label: milt
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '598'
+order: '599'
 layout: index_item
 collection: index3
 ---

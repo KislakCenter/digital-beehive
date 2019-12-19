@@ -3,7 +3,7 @@ pid: index_0285
 volume: Volume 3
 image_number: '9'
 head: banner
-entry: "<a href='/digital-beehive/alpha1/alpha_0056/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0056/'>a</a>|a"
 topic: 
 first_letter: B
 page: 

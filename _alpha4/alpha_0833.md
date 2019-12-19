@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4658 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_3534/'>scandal</a>"
+index: "<a href='/digital-beehive/index4/index_3535/'>scandal</a>"
 item: "#item-21b5c198c"
 unparsed: 
 line: 'Entry: Scandal|Topic: Scandal|Xref: 4658 [PAGE_MISSING]|Index: scandal|#item-21b5c198c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/766,1818,600,180/250,/0/default.jpg
 label: Scandal
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '185'
 layout: alpha_item
 collection: alpha4

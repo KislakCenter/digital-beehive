@@ -2,8 +2,8 @@
 pid: index_3517
 volume: Volume 3
 image_number: '41'
-head: sand
-entry: 776 [PAGE_MISSING]
+head: "[:56.]"
+entry: 
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-782d5c8ce"
-unparsed: 
-line: 'Head: sand|Entry: 776 [PAGE_MISSING]|#item-782d5c8ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,1686,331,95/full/0/default.jpg
+item: "#item-201d9fb20"
+unparsed: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
+line: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/694,1652,226,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238998487
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277936699
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,1686,331,95/150,/0/default.jpg
-label: sand
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/694,1652,226,144/150,/0/default.jpg
+label: "[:56.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-insertion_xref: 
-order: '0764'
+insertion_xref: "<a href='/digital-beehive/index5/index_4724/'>Sappho</a>|<a href='/digital-beehive/index5/index_4725/'>Sap</a>"
+order: '0765'
 layout: index_item
 collection: index4
 ---

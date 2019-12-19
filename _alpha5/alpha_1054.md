@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0215/'>Deed</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4610/'>work</a>"
+index: "<a href='/digital-beehive/index5/index_4611/'>work</a>"
 item: "#item-ca04f2c8c"
 unparsed: 
 line: 'Entry: Work|Topic: Work|Xref: Deed|Index: work|#item-ca04f2c8c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/802,2222,600,180/250,/0/default.jpg
 label: Work
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '119'
 layout: alpha_item
 collection: alpha5

@@ -10,7 +10,7 @@ page:
 add: 
 xref: Timber|<a href='/digital-beehive/toc/toc2_377/'>2113 [Wood]</a>
 see: 
-index: "<a href='/digital-beehive/index5/index_4601/'>wood</a>"
+index: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
 item: "#item-ae92c0788"
 unparsed: 
 line: 'Entry: Wood|Topic: Wood|Xref: Timber|Xref: 2113 [Wood]|Index: wood|#item-ae92c0788'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,600,180/250,/0/default.jpg
 label: Wood
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '116'
 layout: alpha_item
 collection: alpha5

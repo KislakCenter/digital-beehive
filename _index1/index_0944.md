@@ -2,10 +2,8 @@
 pid: index_0944
 volume: Volume 3
 image_number: '15'
-head: danger
-entry: "<a href='/digital-beehive/alpha1/alpha_0206/'>a</a>|<a href='/digital-beehive/toc/toc2_150/'>673
-  [Danger]</a>|<a href='/digital-beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964
-  [Danger]</a>"
+head: damnation
+entry: "<a href='/digital-beehive/toc/toc2_348/'>1817 [Damnation]</a>"
 topic: 
 first_letter: D
 page: 
@@ -13,19 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e16127466"
+item: "#item-1b0f3522e"
 unparsed: 
-line: 'Head: danger|Entry: a|Entry: 673 [Danger]|Entry: 1320 [Danger]|Entry: 1964
-  [Danger]|#item-e16127466'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/full/0/default.jpg
+line: 'Head: damnation|Entry: 1817 [Damnation]|#item-1b0f3522e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1548,1144,550,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321676455
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391012508
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/150,/0/default.jpg
-label: danger
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1548,1144,550,86/150,/0/default.jpg
+label: damnation
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0941'
+order: '0943'
 layout: index_item
 collection: index1
 ---

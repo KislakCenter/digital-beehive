@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4184/'>too suspicious</a>"
+index: "<a href='/digital-beehive/index5/index_4185/'>too suspicious</a>"
 item: "#item-373d34fe6"
 unparsed: 
 line: 'Entry: too suspicious|Topic: too suspicious|Index: too suspicious|#item-373d34fe6'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/331,2795,600,180/250,/0/default.jpg
 label: too suspicious
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '029'
 layout: alpha_item
 collection: alpha5

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_1012/'>Unworthy</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4624/'>worthiness</a>"
+index: "<a href='/digital-beehive/index5/index_4625/'>worthiness</a>"
 item: "#item-02c6c11ac"
 unparsed: 
 line: 'Entry: Worthiness|Topic: Worthiness|Xref: Unworthy|Index: worthiness|#item-02c6c11ac'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,1236,600,180/250,/0/default.jpg
 label: Worthiness
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-num_match: 
 order: '126'
 layout: alpha_item
 collection: alpha5

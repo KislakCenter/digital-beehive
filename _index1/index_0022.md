@@ -2,9 +2,8 @@
 pid: index_0022
 volume: Volume 3
 image_number: '7'
-head: acceptable
-entry: "<a href='/digital-beehive/toc/toc2_165/'>889 [Agreable]</a>|<a href='/digital-beehive/toc/toc2_275/'>1408
-  [Acceptable]</a>"
+head: accent
+entry: 844 [PAGE_MISSING]
 topic: 
 first_letter: A
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f13e2445f"
+item: "#item-829b737da"
 unparsed: 
-line: 'Head: acceptable|Entry: 889 [Agreable]|Entry: 1408 [Acceptable]|#item-f13e2445f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/full/0/default.jpg
+line: 'Head: accent|Entry: 844 [PAGE_MISSING]|#item-829b737da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/181,1925,517,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759585650
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759528817
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/185,1963,706,131/150,/0/default.jpg
-label: acceptable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/181,1925,517,98/150,/0/default.jpg
+label: accent
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0021'

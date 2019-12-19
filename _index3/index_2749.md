@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_313/'>1593 [Nurse]</a>"
 topic: 
 first_letter: N
 page: 
-add: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
+add: suck
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/160,89
 label: nurse
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 insertion_xref: 
-order: '829'
+order: '830'
 layout: index_item
 collection: index3
 ---

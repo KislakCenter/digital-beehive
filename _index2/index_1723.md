@@ -3,7 +3,7 @@ pid: index_1723
 volume: Volume 3
 image_number: '23'
 head: guardian
-entry: "<a href='/digital-beehive/alpha2/alpha_0387/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0387/'>a</a>|a"
 topic: 
 first_letter: G
 page: 

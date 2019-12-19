@@ -3,8 +3,8 @@ pid: index_3616
 volume: Volume 3
 image_number: '42'
 head: Self guilty
-entry: "<a href='/digital-beehive/toc/toc2_115/'>468 [Self-guilty]</a>|<a href='/digital-beehive/toc/toc2_249/'>1279
-  [Self guilty]</a>|<a href='/digital-beehive/toc/toc2_404/'>2310 [Self guilty]</a>"
+entry: 468 [Self-guilty]|<a href='/digital-beehive/toc/toc2_249/'>1279 [Self guilty]</a>|<a
+  href='/digital-beehive/toc/toc2_404/'>2310 [Self guilty]</a>
 topic: 
 first_letter: S
 page: 
@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/392,13
 label: Self guilty
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0863'
+order: '0864'
 layout: index_item
 collection: index4
 ---

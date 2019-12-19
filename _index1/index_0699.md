@@ -3,7 +3,7 @@ pid: index_0699
 volume: Volume 3
 image_number: '13'
 head: cloke
-entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>|a"
 topic: 
 first_letter: C
 page: 

@@ -2,24 +2,24 @@
 pid: index_1654
 volume: Volume 3
 image_number: '22'
-head: God's reward
-entry: "<a href='/digital-beehive/toc/toc2_180/'>968 [Example]</a>"
+head: God's proprieties
+entry: 1886 [PAGE_MISSING]
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3412/'>reward</a>"
+see: 
 index: 
-item: "#item-90468997f"
+item: "#item-e376ee0f9"
 unparsed: 
-line: 'Head: God''s reward|See: reward|Entry: 968 [Example]|#item-90468997f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
+line: 'Head: God''s proprieties|Entry: 1886 [PAGE_MISSING]|#item-e376ee0f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2310,578,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048007379
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047827165
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/150,/0/default.jpg
-label: God's reward
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1161,2310,578,103/150,/0/default.jpg
+label: God's proprieties
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '474'

@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_377/'>2111 [Pearls]</a>"
 topic: 
 first_letter: P
 page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
-add: "<a href='/digital-beehive/index3/index_1945/'>Jewel</a>"
+add: Jewel
 xref: 
 see: 
 index: 

@@ -3,9 +3,8 @@ pid: index_2051
 volume: Volume 3
 image_number: '26'
 head: inn & in[n]keeper
-entry: "<a href='/digital-beehive/alpha3/alpha_0477/'>a</a>|<a href='/digital-beehive/toc/toc2_077/'>201
-  [Tavern]</a>|<a href='/digital-beehive/toc/toc2_078/'>201 [Tavern]</a>|<a href='/digital-beehive/toc/toc2_358/'>1949
-  [Taverns]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0477/'>a</a>|<a href='/digital-beehive/num1/num_0211/'>201
+  [Taverns]</a>|<a href='/digital-beehive/toc/toc2_358/'>1949 [Taverns]</a>"
 topic: 
 first_letter: I/J
 page: 

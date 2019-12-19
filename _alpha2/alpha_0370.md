@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_211/'>1090 [Godfathers]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1661/'>godfather</a>"
+index: "<a href='/digital-beehive/index2/index_1662/'>godfather</a>"
 item: "#item-40c32196e"
 unparsed: 
 line: 'Entry: Godfather|Topic: Godfather|XRef: 1090 [Godfathers]|Index: godfather|#item-40c32196e'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/343,1130,600,180/250,/0/default.jpg
 label: Godfather
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
-num_match: 
 order: '101'
 layout: alpha_item
 collection: alpha2

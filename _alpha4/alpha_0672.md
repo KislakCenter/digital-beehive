@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_225/'>1158 [Pain]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2854/'>pain</a>"
+index: "<a href='/digital-beehive/index4/index_2855/'>pain</a>"
 item: "#item-86a4d29dc"
 unparsed: 
 line: 'Entry: Pain|Topic: Pain|Xref: 1158 [Pain]|Index: pain|#item-86a4d29dc'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/782,1932,600,180/250,/0/default.jpg
 label: Pain
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '025'
 layout: alpha_item
 collection: alpha4

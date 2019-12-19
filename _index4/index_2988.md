@@ -2,8 +2,8 @@
 pid: index_2988
 volume: Volume 3
 image_number: '35'
-head: phisiognomy
-entry: 831 [PAGE_MISSING]
+head: phlegm
+entry: "<a href='/digital-beehive/toc/toc2_396/'>2262 [Phlegm or Flegm]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d734d55c3"
+item: "#item-28ef7c39c"
 unparsed: 
-line: 'Head: phisiognomy|Entry: 831 [PAGE_MISSING]|#item-d734d55c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,2790,585,156/full/0/default.jpg
+line: 'Head: phlegm|Entry: 2262 [Phlegm or Flegm]|#item-28ef7c39c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/836,2873,599,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974817007
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974846955
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,2790,585,156/150,/0/default.jpg
-label: phisiognomy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/836,2873,599,123/150,/0/default.jpg
+label: phlegm
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0236'

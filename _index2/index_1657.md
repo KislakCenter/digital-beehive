@@ -2,8 +2,8 @@
 pid: index_1657
 volume: Volume 3
 image_number: '22'
-head: God's voice
-entry: "<a href='/digital-beehive/toc/toc2_074/'>178 [God's voice]</a>"
+head: God's vengeange
+entry: 466 [Gods Vengeance]
 topic: 
 first_letter: G
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0015eccae"
+item: "#item-989accad8"
 unparsed: 
-line: 'Head: God''s voice|Entry: 178 [God''s voice]|#item-0015eccae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1164,2641,404,99/full/0/default.jpg
+line: 'Head: God''s vengeange|Entry: 466 [Gods Vengeance]|#item-989accad8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1163,2551,538,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048159383
+annotation_uri: http://dev.llgc.org.uk/annotation/1561048118856
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1164,2641,404,99/150,/0/default.jpg
-label: God's voice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1163,2551,538,124/150,/0/default.jpg
+label: God's vengeange
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '477'

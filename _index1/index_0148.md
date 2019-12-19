@@ -3,7 +3,7 @@ pid: index_0148
 volume: Volume 3
 image_number: '8'
 head: annulling
-entry: "<a href='/digital-beehive/toc/toc2_100/'>363 [Annuling]</a>"
+entry: "<a href='/digital-beehive/num2/num_0431/'>363 [Annulling]</a>"
 topic: 
 first_letter: A
 page: 

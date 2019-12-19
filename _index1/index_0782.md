@@ -3,11 +3,11 @@ pid: index_0782
 volume: Volume 3
 image_number: '14'
 head: condition
-entry: "<a href='/digital-beehive/alpha1/alpha_0166/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0166/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index4/index_3881/'>State</a>"
+add: State
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/400,26
 label: condition
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0780'
+order: '0781'
 layout: index_item
 collection: index1
 ---

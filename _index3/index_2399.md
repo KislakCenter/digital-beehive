@@ -3,7 +3,7 @@ pid: index_2399
 volume: Volume 3
 image_number: '29'
 head: malice & malignity
-entry: a
+entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1313,1
 label: malice & malignity
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '479'
+order: '480'
 layout: index_item
 collection: index3
 ---

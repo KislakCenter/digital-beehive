@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0123/'>Casualty</a>|<a href='/digital-beehive/toc/toc2_142/'>623
   [Adventure]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0047/'>adventure</a>"
+index: "<a href='/digital-beehive/index1/index_0048/'>adventure</a>"
 item: "#item-076a9d1b7"
 unparsed: 
 line: 'Entry: Adventure|Topic: Adventure|Xref: Casualty|Xref: 623 [Adventure]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/357,4133,600,180/250,/0/default.jpg
 label: Adventure
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-num_match: 
 order: '008'
 layout: alpha_item
 collection: alpha1

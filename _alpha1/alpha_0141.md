@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/318,3229,600,180/250,/0/default.jpg
 label: Chiliasm
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-num_match: 
 order: '140'
 layout: alpha_item
 collection: alpha1

@@ -2,8 +2,8 @@
 pid: index_1203
 volume: Volume 3
 image_number: '18'
-head: "[:10.]"
-entry: 
+head: ecclesiasticus
+entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Ecclesiasticus]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ab49125f3"
-unparsed: 'Type: Index|Insertion Xref: [:10.]|#item-ab49125f3'
-line: 'Type: Index|Insertion Xref: [:10.]|#item-ab49125f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1016,484,188,109/full/0/default.jpg
+item: "#item-ad461cfdb"
+unparsed: 
+line: 'Head: ecclesiasticus|Entry: 4464 [Ecclesiasticus]|#item-ad461cfdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1164,454,629,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560450214690
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671097571
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1016,484,188,109/150,/0/default.jpg
-label: "[:10.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1164,454,629,91/150,/0/default.jpg
+label: ecclesiasticus
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4673/'>Duke</a>"
+insertion_xref: 
 order: '023'
 layout: index_item
 collection: index2

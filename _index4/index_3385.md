@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3662/'>shape</a>|reserved"
+see: "<a href='/digital-beehive/index4/index_3662/'>shape</a>"
 index: 
 item: "#item-888ee4b86"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1505,7
 label: resemblance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0632'
+order: '0633'
 layout: index_item
 collection: index4
 ---

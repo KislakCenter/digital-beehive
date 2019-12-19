@@ -8,7 +8,8 @@ topic: Eternity
 first_letter: E
 page: 
 add: 
-xref: Always|Immortality|<a href='/digital-beehive/toc/toc2_222/'>1142 [Eternity]</a>
+xref: "<a href='/digital-beehive/num2/num_0323/'>Always</a>|<a href='/digital-beehive/num2/num_0585/'>Immortality</a>|<a
+  href='/digital-beehive/toc/toc2_222/'>1142 [Eternity]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1309/'>eternity</a>"
 item: "#item-d1772fc49"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/771,2746,600,180/250,/0/default.jpg
 label: Eternity
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-num_match: 
 order: '024'
 layout: alpha_item
 collection: alpha2

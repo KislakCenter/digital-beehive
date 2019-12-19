@@ -2,9 +2,8 @@
 pid: index_4032
 volume: Volume 3
 image_number: '46'
-head: Sympathy
-entry: "<a href='/digital-beehive/num1/num_0150/'>144 [Sympathy]</a>|<a href='/digital-beehive/toc/toc2_318/'>1616
-  [Sympathy]</a>"
+head: symbolical books
+entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Com[m]on Prayer Book]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ddcef9fbb"
+item: "#item-e700a307f"
 unparsed: 
-line: 'Head: Sympathy|Entry: 144 [Sympathy]|Entry: 1616 [Sympathy]|#item-ddcef9fbb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1107,3040,592,138/full/0/default.jpg
+line: 'Head: symbolical books|Entry: 259 [Com[m]on Prayer Book]|#item-e700a307f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1075,2901,592,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531741930850
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293566622
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1107,3040,592,138/150,/0/default.jpg
-label: Sympathy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1075,2901,592,124/150,/0/default.jpg
+label: symbolical books
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1278'
+order: '1280'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0256/'>doctrine</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
   href='/digital-beehive/alpha5/alpha_1004/'>University</a>|839 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3544/'>schole</a>"
+index: "<a href='/digital-beehive/index4/index_3546/'>schole</a>"
 item: "#item-238832d52"
 unparsed: 
 line: 'Entry: Schoole|Topic: Schoole|Xref: doctrine|Xref: Learning|Xref: University|Xref:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,600,180/250,/0/default.jpg
 label: Schoole
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '186'
 layout: alpha_item
 collection: alpha4

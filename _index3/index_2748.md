@@ -3,7 +3,7 @@ pid: index_2748
 volume: Volume 3
 image_number: '33'
 head: nun
-entry: "<a href='/digital-beehive/alpha3/alpha_0645/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0645/'>a</a>|a"
 topic: 
 first_letter: N
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/186,79
 label: nun
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 insertion_xref: 
-order: '828'
+order: '829'
 layout: index_item
 collection: index3
 ---

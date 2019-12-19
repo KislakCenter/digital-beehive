@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4641 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_2876/'>parasite</a>"
+index: "<a href='/digital-beehive/index4/index_2877/'>parasite</a>"
 item: "#item-a64eaf3fd"
 unparsed: 
 line: 'Entry: Parasite|Topic: Parasite|Xref: 4641 [PAGE_MISSING]|Index: parasite|#item-a64eaf3fd'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/770,2842,600,180/250,/0/default.jpg
 label: Parasite
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '028'
 layout: alpha_item
 collection: alpha4

@@ -2,27 +2,27 @@
 pid: index_3554
 volume: Volume 3
 image_number: '41'
-head: scorpion
-entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [Scorpion]</a>"
+head: scratching
+entry: "<a href='/digital-beehive/toc/toc2_326/'>1657 [Scratch]</a>"
 topic: 
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-74a26b16d"
+item: "#item-ff751220b"
 unparsed: 
-line: 'Head: scorpion|Page: p.37 [Image 1.97]|Entry: 1353 [Scorpion]|#item-74a26b16d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/full/0/default.jpg
+line: 'Head: scratching|Entry: 1657 [Scratch]|#item-ff751220b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2052,561,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240839013
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240815336
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/879,2161,700,172/150,/0/default.jpg
-label: scorpion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2052,561,142/150,/0/default.jpg
+label: scratching
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0801'
+order: '0802'
 layout: index_item
 collection: index4
 ---

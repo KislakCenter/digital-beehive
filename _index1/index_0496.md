@@ -2,24 +2,25 @@
 pid: index_0496
 volume: Volume 3
 image_number: '11'
-head: by & by
-entry: 
+head: to buy
+entry: "<a href='/digital-beehive/alpha1/alpha_0111/'>a</a>|<a href='/digital-beehive/toc/toc2_321/'>1632
+  [Buy]</a>"
 topic: 
 first_letter: B
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3135/'>presently</a>"
+see: 
 index: 
-item: "#item-0ecbd3258"
+item: "#item-2cbedc8ee"
 unparsed: 
-line: 'Head: by & by|See: presently|#item-0ecbd3258'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/866,2827,710,174/full/0/default.jpg
+line: 'Head: to buy|Entry: a|Entry: 1632 [Buy]|#item-2cbedc8ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/877,2703,491,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493489163
+annotation_uri: http://dev.llgc.org.uk/annotation/1531422082918
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/866,2827,710,174/150,/0/default.jpg
-label: by & by
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/877,2703,491,133/150,/0/default.jpg
+label: to buy
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 insertion_xref: 
 order: '0495'

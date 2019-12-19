@@ -9,7 +9,7 @@ first_letter: O
 page: 
 add: 
 xref: 
-see: Inns
+see: "<a href='/digital-beehive/index3/index_2051/'>Inns</a>"
 index: 
 item: "#item-1cc221f20"
 unparsed: 

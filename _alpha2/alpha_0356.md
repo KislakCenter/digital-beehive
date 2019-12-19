@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_152/'>685 [Garlick]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1582/'>garlick</a>"
+index: "<a href='/digital-beehive/index2/index_1583/'>garlick</a>"
 item: "#item-d6a50bdc4"
 unparsed: 
 line: 'Entry: Garden Garlick|Topic: Garden Garlick|Xref: 685 [Garlick]|Index: garlick|#item-d6a50bdc4'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/740,592,600,180/250,/0/default.jpg
 label: Garden Garlick
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
-num_match: 
 order: '087'
 layout: alpha_item
 collection: alpha2

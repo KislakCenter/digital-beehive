@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: 
-see: flies
+see: "<a href='/digital-beehive/index2/index_1481/'>flies</a>"
 index: 
 item: "#item-bab19515b"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,58
 label: wasps
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '452'
+order: '447'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,8 @@
 pid: index_4170
 volume: Volume 3
 image_number: '48'
-head: toleration
-entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [License]</a>"
+head: "[:54.]"
+entry: 
 topic: 
 first_letter: T
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-933235288"
-unparsed: 
-line: 'Head: toleration|Entry: 565 [License]|#item-933235288'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/full/0/default.jpg
+item: "#item-70d4a6a5c"
+unparsed: 'Type: Index|Insertion Xref: [:54.]|#item-70d4a6a5c'
+line: 'Type: Index|Insertion Xref: [:54.]|#item-70d4a6a5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/999,820,155,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559852426052
+annotation_uri: http://dev.llgc.org.uk/annotation/1562001013347
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/486,848,509,100/150,/0/default.jpg
-label: toleration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/999,820,155,130/150,/0/default.jpg
+label: "[:54.]"
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-insertion_xref: 
-order: '137'
+insertion_xref: "<a href='/digital-beehive/index5/index_4722/'>tomb</a>"
+order: '132'
 layout: index_item
 collection: index5
 ---

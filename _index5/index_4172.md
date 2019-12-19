@@ -2,28 +2,27 @@
 pid: index_4172
 volume: Volume 3
 image_number: '48'
-head: tongue
-entry: "<a href='/digital-beehive/alpha5/alpha_0961/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
-  [Tongue]</a>"
+head: tomorrow
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1908 [Tomorrow]</a>|4668 [PAGE_MISSING]"
 topic: 
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-39af2a397"
+item: "#item-cf4ef5b96"
 unparsed: 
-line: 'Head: tongue|Page: p.43 [Image 1.103]|Entry: a|Entry: 1186 [Tongue]|#item-39af2a397'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/full/0/default.jpg
+line: 'Head: tomorrow|Entry: 1908 [Tomorrow]|Entry: 4668 [PAGE_MISSING]|#item-cf4ef5b96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,896,507,208/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559852716821
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274548342
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/488,931,612,140/150,/0/default.jpg
-label: tongue
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/454,896,507,208/150,/0/default.jpg
+label: tomorrow
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '139'
+order: '134'
 layout: index_item
 collection: index5
 ---

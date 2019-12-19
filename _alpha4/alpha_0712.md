@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/281,623,600,180/250,/0/default.jpg
 label: Pleasure
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-num_match: 
 order: '065'
 layout: alpha_item
 collection: alpha4

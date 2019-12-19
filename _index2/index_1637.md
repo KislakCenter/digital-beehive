@@ -2,8 +2,8 @@
 pid: index_1637
 volume: Volume 3
 image_number: '22'
-head: God be praised
-entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>"
+head: be gone
+entry: "<a href='/digital-beehive/toc/toc2_222/'>1142 [Be gone]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0b69c9037"
+item: "#item-6b2d81fa7"
 unparsed: 
-line: 'Head: God be praised|Entry: 82 [Praise God]|#item-0b69c9037'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1160,1337,479,134/full/0/default.jpg
+line: 'Head: be gone|Entry: 1142 [Be gone]|#item-6b2d81fa7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046924500
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046201685
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1160,1337,479,134/150,/0/default.jpg
-label: God be praised
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,1129,442,118/150,/0/default.jpg
+label: be gone
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '457'

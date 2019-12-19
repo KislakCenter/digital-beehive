@@ -2,8 +2,9 @@
 pid: index_0806
 volume: Volume 3
 image_number: '14'
-head: consequently
-entry: "<a href='/digital-beehive/toc/toc2_335/'>1710 [Needs]</a>"
+head: consequence
+entry: "<a href='/digital-beehive/alpha1/alpha_0170/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1447
+  [Consequence]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d910d47f1"
+item: "#item-ca79788b6"
 unparsed: 
-line: 'Head: consequently|Entry: 1710 [Needs]|#item-d910d47f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/full/0/default.jpg
+line: 'Head: consequence|Entry: a|Entry: 1447 [Consequence]|#item-ca79788b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1155,1714,684,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541607164
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541566922
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/150,/0/default.jpg
-label: consequently
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1155,1714,684,118/150,/0/default.jpg
+label: consequence
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0804'
+order: '0805'
 layout: index_item
 collection: index1
 ---

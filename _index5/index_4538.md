@@ -3,13 +3,13 @@ pid: index_4538
 volume: Volume 3
 image_number: '52'
 head: white
-entry: "<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>"
+entry: a|<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>
 topic: 
 first_letter: W
 page: 
 add: 
 xref: 
-see: black
+see: "<a href='/digital-beehive/index1/index_0381/'>black</a>"
 index: 
 item: "#item-486d91cbf"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,7
 label: white
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '505'
+order: '500'
 layout: index_item
 collection: index5
 ---

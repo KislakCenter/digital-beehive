@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num2/num_0426/'>360 [a Sentence]</a>"
 topic: 
 first_letter: S
 page: 
-add: "<a href='/digital-beehive/index3/index_2134/'>Judgmt</a>"
+add: Judgmt
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/442,34
 label: sentences
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0884'
+order: '0885'
 layout: index_item
 collection: index4
 ---

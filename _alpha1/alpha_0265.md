@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,600,180/250,/0/default.jpg
 label: Duck
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-num_match: 
 order: '264'
 layout: alpha_item
 collection: alpha1

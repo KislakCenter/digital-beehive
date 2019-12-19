@@ -2,24 +2,25 @@
 pid: index_1824
 volume: Volume 3
 image_number: '24'
-head: heterodox
-entry: "<a href='/digital-beehive/num2/num_0451/'>373 [Heterodox]</a>"
+head: hesitation
+entry: 
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3875/'>stam[m]ering</a>|<a href='/digital-beehive/index3/index_2725/'>non
+  plust</a>"
 index: 
-item: "#item-a71282ec1"
+item: "#item-66506926b"
 unparsed: 
-line: 'Head: heterodox|Entry: 373 [Heterodox]|#item-a71282ec1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/full/0/default.jpg
+line: 'Head: hesitation|See: stam[m]ering|See: non plust|#item-66506926b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575808902
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575721051
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/150,/0/default.jpg
-label: heterodox
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,1157,728,209/150,/0/default.jpg
+label: hesitation
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '643'

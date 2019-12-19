@@ -9,7 +9,7 @@ first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
 add: 
 xref: 
-see: ban[n]er
+see: "<a href='/digital-beehive/index1/index_0285/'>ban[n]er</a>"
 index: 
 item: "#item-52883e06e"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1812,3
 label: standard
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1124'
+order: '1125'
 layout: index_item
 collection: index4
 ---

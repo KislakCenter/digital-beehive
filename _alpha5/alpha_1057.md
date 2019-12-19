@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0975/'>Transitory</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4617/'>worlds. end</a>"
+index: "<a href='/digital-beehive/index5/index_4618/'>worlds. end</a>"
 item: "#item-cc1193c3a"
 unparsed: 
 line: 'Entry: Worlds end|Topic: Worlds end|Xref: Transitory|Index: worlds. end|#item-cc1193c3a'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/840,4172,600,180/250,/0/default.jpg
 label: Worlds end
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '122'
 layout: alpha_item
 collection: alpha5

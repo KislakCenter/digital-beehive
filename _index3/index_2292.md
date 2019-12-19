@@ -2,8 +2,8 @@
 pid: index_2292
 volume: Volume 3
 image_number: '28'
-head: "[:39.]"
-entry: 
+head: likelyhood
+entry: a|758 [PAGE_MISSING]
 topic: 
 first_letter: L
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b7d4d143e"
-unparsed: 'Type: Index|Insertion Xref: [:39.]|#item-b7d4d143e'
-line: 'Type: Index|Insertion Xref: [:39.]|#item-b7d4d143e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1658,541,244,132/full/0/default.jpg
+item: "#item-7b1431326"
+unparsed: 
+line: 'Head: likelyhood|Entry: a|Entry: 758 [PAGE_MISSING]|#item-7b1431326'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1829,496,628,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199433980
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848294489
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1658,541,244,132/150,/0/default.jpg
-label: "[:39.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1829,496,628,135/150,/0/default.jpg
+label: likelyhood
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4707/'>lesson</a>"
+insertion_xref: 
 order: '373'
 layout: index_item
 collection: index3

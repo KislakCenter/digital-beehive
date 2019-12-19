@@ -3,7 +3,7 @@ pid: index_2464
 volume: Volume 3
 image_number: '30'
 head: mediator
-entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,34
 label: mediator
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '544'
+order: '545'
 layout: index_item
 collection: index3
 ---

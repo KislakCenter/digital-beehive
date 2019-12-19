@@ -2,8 +2,8 @@
 pid: index_4610
 volume: Volume 3
 image_number: '53'
-head: work
-entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>"
+head: word by word
+entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbatim]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9777e87db"
+item: "#item-80af139f1"
 unparsed: 
-line: 'Head: work|Entry: a|#item-9777e87db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2239,360,99/full/0/default.jpg
+line: 'Head: word by word|Entry: 536 [Verbatim]|#item-80af139f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796989988
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796972488
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2239,360,99/150,/0/default.jpg
-label: work
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/881,2087,577,149/150,/0/default.jpg
+label: word by word
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '577'
+order: '572'
 layout: index_item
 collection: index5
 ---

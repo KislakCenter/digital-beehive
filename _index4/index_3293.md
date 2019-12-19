@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: Inconsider
+see: "<a href='/digital-beehive/index3/index_2003/'>Inconsider</a>"
 index: 
 item: "#item-24de66b05"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1856,8
 label: rashly
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0540'
+order: '0541'
 layout: index_item
 collection: index4
 ---

@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,600,180/250,/0/default.jpg
 label: Harvest
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-num_match: 
 order: '129'
 layout: alpha_item
 collection: alpha2

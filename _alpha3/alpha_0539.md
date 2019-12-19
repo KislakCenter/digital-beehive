@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0454/'>illumination</a>|<a href='/digital-beehive/toc/toc2_130/'>562
   [Light]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2285/'>light</a>"
+index: "<a href='/digital-beehive/index3/index_2286/'>light</a>"
 item: "#item-8228fcea3"
 unparsed: 
 line: 'Entry: Light|Topic: Light|XRef: illumination|XRef: 562 [Light]|Index: light|#item-8228fcea3'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/718,2066,600,180/250,/0/default.jpg
 label: Light
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
-num_match: 
 order: '095'
 layout: alpha_item
 collection: alpha3

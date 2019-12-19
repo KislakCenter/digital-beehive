@@ -2,9 +2,8 @@
 pid: index_4599
 volume: Volume 3
 image_number: '53'
-head: wonder
-entry: "<a href='/digital-beehive/alpha5/alpha_1049/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1423
-  [Wonder]</a>"
+head: woman's wit
+entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d8d033f7a"
+item: "#item-7a0a25f4c"
 unparsed: 
-line: 'Head: wonder|Entry: a|Entry: 1423 [Wonder]|#item-d8d033f7a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/full/0/default.jpg
+line: 'Head: woman''s wit|Entry: a|#item-7a0a25f4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796197843
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796113707
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/150,/0/default.jpg
-label: wonder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/884,918,339,78/150,/0/default.jpg
+label: woman's wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '566'
+order: '561'
 layout: index_item
 collection: index5
 ---

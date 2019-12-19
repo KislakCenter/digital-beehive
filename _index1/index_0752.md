@@ -5,11 +5,11 @@ image_number: '13'
 head: to com[m]unicate
 entry: "<a href='/digital-beehive/toc/toc2_411/'>2364 [To Comunicate & partake]</a>"
 topic: 
-first_letter: T
+first_letter: C
 page: 
 add: 
 xref: 
-see: partake
+see: "<a href='/digital-beehive/index4/index_2897/'>partake</a>"
 index: 
 item: "#item-3fca3bef2"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1530,2
 label: to com[m]unicate
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 insertion_xref: 
-order: '000'
+order: '0751'
 layout: index_item
-collection: index5
+collection: index1
 ---

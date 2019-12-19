@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: divines
+see: "<a href='/digital-beehive/index1/index_1114/'>divines</a>"
 index: 
 item: "#item-8dc39408a"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1533,2
 label: mysticks
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '709'
+order: '710'
 layout: index_item
 collection: index3
 ---

@@ -2,25 +2,26 @@
 pid: index_2872
 volume: Volume 3
 image_number: '34'
-head: paradise
-entry: "<a href='/digital-beehive/alpha4/alpha_0673/'>a</a>|<a href='/digital-beehive/toc/toc2_321/'>1633
-  [Paradise]</a>"
+head: parable
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1370 [of the Parables & Similitudes
+  which Christ spake]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3712/'>similitude</a>"
 index: 
-item: "#item-28a46a0f1"
+item: "#item-60b17c5c6"
 unparsed: 
-line: 'Head: paradise|Entry: a|Entry: 1633 [Paradise]|#item-28a46a0f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1149,1097,668,177/full/0/default.jpg
+line: 'Head: parable|See: similitude|Entry: 1370 [of the Parables & Similitudes which
+  Christ spake]|#item-60b17c5c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492850442
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492730190
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1149,1097,668,177/150,/0/default.jpg
-label: paradise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/150,/0/default.jpg
+label: parable
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0120'

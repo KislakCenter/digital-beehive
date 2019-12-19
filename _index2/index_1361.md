@@ -3,8 +3,8 @@ pid: index_1361
 volume: Volume 3
 image_number: '19'
 head: external appearance
-entry: "<a href='/digital-beehive/alpha2/alpha_0301/'>a</a>|<a href='/digital-beehive/toc/toc2_111/'>437
-  [External Apperance]</a>|4515 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/alpha2/alpha_0301/'>a</a>|<a href='/digital-beehive/num2/num_0540/'>437
+  [External Appearance]</a>|4515 [PAGE_MISSING]"
 topic: 
 first_letter: E
 page: 

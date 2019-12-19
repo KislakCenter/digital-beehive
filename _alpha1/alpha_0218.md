@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,600,180/250,/0/default.jpg
 label: Deformity
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-num_match: 
 order: '217'
 layout: alpha_item
 collection: alpha1

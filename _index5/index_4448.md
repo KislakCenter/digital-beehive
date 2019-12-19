@@ -7,7 +7,7 @@ entry:
 topic: 
 first_letter: U/V
 page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
-add: "<a href='/digital-beehive/index5/index_4500/'>weapons</a>"
+add: weapons
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/955,19
 label: utensils of war
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '415'
+order: '410'
 layout: index_item
 collection: index5
 ---

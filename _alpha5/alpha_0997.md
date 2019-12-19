@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_249/'>1276 [Day of Visitation]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4344/'>day of Visitn</a>"
+index: "<a href='/digital-beehive/index5/index_4345/'>day of Visitn</a>"
 item: "#item-1cbb90b37"
 unparsed: 
 line: 'Entry: Day of Visitation|Topic: Day of Visitation|Xref: 1276 [Day of Visitation]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,4529,600,180/250,/0/default.jpg
 label: Day of Visitation
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '062'
 layout: alpha_item
 collection: alpha5

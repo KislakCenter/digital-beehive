@@ -3,7 +3,7 @@ pid: index_2449
 volume: Volume 3
 image_number: '30'
 head: mathematicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0577/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0577/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/395,20
 label: mathematicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '529'
+order: '530'
 layout: index_item
 collection: index3
 ---

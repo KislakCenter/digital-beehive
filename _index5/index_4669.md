@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/367,11
 label: 12 Tribes of Isr
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '636'
+order: '631'
 layout: index_item
 collection: index5
 ---

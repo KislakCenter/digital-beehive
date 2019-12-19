@@ -2,8 +2,8 @@
 pid: index_1263
 volume: Volume 3
 image_number: '18'
-head: enjoymt
-entry: "<a href='/digital-beehive/toc/toc2_139/'>611 [Enjoyment]</a>"
+head: engraving
+entry: 4524 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5f988fc3d"
+item: "#item-2f3e30a08"
 unparsed: 
-line: 'Head: enjoymt|Entry: 611 [Enjoyment]|#item-5f988fc3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1836,2263,441,121/full/0/default.jpg
+line: 'Head: engraving|Entry: 4524 [PAGE_MISSING]|#item-2f3e30a08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,2193,548,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835110730
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834999332
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1836,2263,441,121/150,/0/default.jpg
-label: enjoymt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1842,2193,548,169/150,/0/default.jpg
+label: engraving
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '083'

@@ -3,7 +3,7 @@ pid: index_0778
 volume: Volume 3
 image_number: '14'
 head: concupiscence
-entry: "<a href='/digital-beehive/alpha1/alpha_0164/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0164/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/405,23
 label: concupiscence
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0776'
+order: '0777'
 layout: index_item
 collection: index1
 ---

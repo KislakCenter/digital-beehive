@@ -3,7 +3,7 @@ pid: index_1233
 volume: Volume 3
 image_number: '18'
 head: emblems
-entry: "<a href='/digital-beehive/toc/toc2_084/'>250 [Emblems]</a>"
+entry: "<a href='/digital-beehive/num1/num_0270/'>250 [Embleme]</a>"
 topic: 
 first_letter: E
 page: 

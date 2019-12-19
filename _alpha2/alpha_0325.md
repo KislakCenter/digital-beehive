@@ -8,7 +8,8 @@ topic: Fire
 first_letter: F
 page: 
 add: 
-xref: Incendiary|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152 [Fire]</a>
+xref: "<a href='/digital-beehive/num2/num_0441/'>Incendiary</a>|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152
+  [Fire]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1454/'>fire</a>"
 item: "#item-c2d913b30"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,2733,600,180/250,/0/default.jpg
 label: Fire
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-num_match: 
 order: '056'
 layout: alpha_item
 collection: alpha2

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4331/'>vine</a>"
+index: "<a href='/digital-beehive/index5/index_4332/'>vine</a>"
 item: "#item-aa91ae3f0"
 unparsed: 
 line: 'Entry: vine|Topic: vine|Index: vine|#item-aa91ae3f0'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/338,3787,600,180/250,/0/default.jpg
 label: vine
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '058'
 layout: alpha_item
 collection: alpha5

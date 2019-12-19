@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: guardians
+see: "<a href='/digital-beehive/index2/index_1723/'>guardians</a>"
 index: 
 item: "#item-ad4e76e35"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1832,2
 label: minority
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '608'
+order: '609'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_287/'>1470 [Sea]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3568/'>Sea</a>"
+index: "<a href='/digital-beehive/index4/index_3569/'>Sea</a>"
 item: "#item-c952eb5d8"
 unparsed: 
 line: 'Entry: Sea|Topic: Sea|Xref: 1470 [Sea]|Index: Sea|#item-c952eb5d8'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,3509,600,180/250,/0/default.jpg
 label: Sea
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-num_match: 
 order: '189'
 layout: alpha_item
 collection: alpha4

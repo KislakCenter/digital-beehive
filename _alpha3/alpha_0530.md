@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0596/'>481 [Letter]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2262/'>letter</a>"
+index: "<a href='/digital-beehive/index3/index_2263/'>letter</a>"
 item: "#item-0d1852435"
 unparsed: 
 line: 'Entry: Letter|Topic: Letter|Xref: 481 [Letter]|Index: letter|#item-0d1852435'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,3084,600,180/250,/0/default.jpg
 label: Letter
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-num_match: 
 order: '086'
 layout: alpha_item
 collection: alpha3

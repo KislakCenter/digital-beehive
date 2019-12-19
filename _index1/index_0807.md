@@ -2,8 +2,8 @@
 pid: index_0807
 volume: Volume 3
 image_number: '14'
-head: conserve
-entry: "<a href='/digital-beehive/toc/toc2_155/'>700 [To Conserve]</a>"
+head: consequently
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1710 [Needs]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4957a6e28"
+item: "#item-d910d47f1"
 unparsed: 
-line: 'Head: conserve|Entry: 700 [To Conserve]|#item-4957a6e28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,1954,522,119/full/0/default.jpg
+line: 'Head: consequently|Entry: 1710 [Needs]|#item-d910d47f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541645135
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541607164
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1170,1954,522,119/150,/0/default.jpg
-label: conserve
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1142,1789,649,132/150,/0/default.jpg
+label: consequently
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0805'
+order: '0806'
 layout: index_item
 collection: index1
 ---

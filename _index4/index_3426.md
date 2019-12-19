@@ -2,8 +2,8 @@
 pid: index_3426
 volume: Volume 3
 image_number: '40'
-head: righteous
-entry: "<a href='/digital-beehive/num2/num_0366/'>319 [Righteous]</a>"
+head: right or wrong
+entry: "<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill gotten goods]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c1086557f"
+item: "#item-501c0d3ec"
 unparsed: 
-line: 'Head: righteous|Entry: 319 [Righteous]|#item-c1086557f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/401,2328,549,120/full/0/default.jpg
+line: 'Head: right or wrong|Entry: 1727 [Ill gotten goods]|#item-501c0d3ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232103084
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232042828
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/401,2328,549,120/150,/0/default.jpg
-label: righteous
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/446,2264,636,114/150,/0/default.jpg
+label: right or wrong
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0673'
+order: '0674'
 layout: index_item
 collection: index4
 ---

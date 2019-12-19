@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/2333,2
 label: "[:63.]"
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4732/'>Dinah</a>"
-order: '1053'
+order: '1055'
 layout: index_item
 collection: index1
 ---

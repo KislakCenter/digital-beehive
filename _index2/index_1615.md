@@ -2,24 +2,24 @@
 pid: index_1615
 volume: Volume 3
 image_number: '22'
-head: to give
+head: girl
 entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1611/'>gift</a>"
+see: "<a href='/digital-beehive/index3/index_2386/'>maid</a>"
 index: 
-item: "#item-b0c6b6c72"
+item: "#item-577daa240"
 unparsed: 
-line: 'Head: to give|See: gift|#item-b0c6b6c72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/421,2432,501,170/full/0/default.jpg
+line: 'Head: girl|See: maid|#item-577daa240'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043744966
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043693834
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/421,2432,501,170/150,/0/default.jpg
-label: to give
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/150,/0/default.jpg
+label: girl
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '435'

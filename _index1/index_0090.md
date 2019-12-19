@@ -2,24 +2,24 @@
 pid: index_0090
 volume: Volume 3
 image_number: '7'
-head: alderman
-entry: 
+head: alcoran
+entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Alcoran]</a>"
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3531/'>Scabine</a>"
+see: 
 index: 
-item: "#item-7213de8a0"
+item: "#item-66992e2d9"
 unparsed: 
-line: 'Head: alderman|See: Scabine|#item-7213de8a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/full/0/default.jpg
+line: 'Head: alcoran|Entry: 989 [Alcoran]|#item-66992e2d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,813,463,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768324793
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768144073
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/150,/0/default.jpg
-label: alderman
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1607,813,463,139/150,/0/default.jpg
+label: alcoran
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0089'

@@ -3,7 +3,7 @@ pid: index_1014
 volume: Volume 3
 image_number: '16'
 head: deprecation
-entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1101,1
 label: deprecation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1011'
+order: '1013'
 layout: index_item
 collection: index1
 ---

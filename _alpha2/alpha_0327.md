@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,3649,600,180/250,/0/default.jpg
 label: Firstborn
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-num_match: 
 order: '058'
 layout: alpha_item
 collection: alpha2

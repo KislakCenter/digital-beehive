@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0535/'>Liberty of Conscience, continued</a>|<a
   href='/digital-beehive/toc/toc2_129/'>557 [Liberty of Conscience]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2275/'>liberty of Conscience</a>"
+index: "<a href='/digital-beehive/index3/index_2276/'>liberty of Conscience</a>"
 item: "#item-a7f5c69b7"
 unparsed: 
 line: 'Entry: Liberty of Conscience|Topic: Liberty of Conscience|Xref: Liberty of
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,600,180/250,/0/default.jpg
 label: Liberty of Conscience
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-num_match: 
 order: '090'
 layout: alpha_item
 collection: alpha3

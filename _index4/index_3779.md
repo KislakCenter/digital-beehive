@@ -2,9 +2,8 @@
 pid: index_3779
 volume: Volume 3
 image_number: '43'
-head: Sodom and Sodomy
-entry: "<a href='/digital-beehive/num2/num_0555/'>447 [Sodomy]</a>|<a href='/digital-beehive/toc/toc2_345/'>1787
-  [Sodom & Sodomy]</a>"
+head: Socrates
+entry: "<a href='/digital-beehive/toc/toc2_221/'>1140 [Socrates]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-23418998c"
+item: "#item-8e3ea6c29"
 unparsed: 
-line: 'Head: Sodom and Sodomy|Entry: 447 [Sodomy]|Entry: 1787 [Sodom & Sodomy]|#item-23418998c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/full/0/default.jpg
+line: 'Head: Socrates|Entry: 1140 [Socrates]|#item-8e3ea6c29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586307905
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586243745
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/150,/0/default.jpg
-label: Sodom and Sodomy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1597,2235,508,124/150,/0/default.jpg
+label: Socrates
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1026'
+order: '1027'
 layout: index_item
 collection: index4
 ---

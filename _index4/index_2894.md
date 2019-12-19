@@ -2,8 +2,8 @@
 pid: index_2894
 volume: Volume 3
 image_number: '34'
-head: parties
-entry: 4601 [PAGE_MISSING]
+head: parsnip
+entry: "<a href='/digital-beehive/toc/toc2_153/'>689 [Parsnip]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-16749c320"
+item: "#item-6b7640f32"
 unparsed: 
-line: 'Head: parties|Entry: 4601 [PAGE_MISSING]|#item-16749c320'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1198,2975,552,160/full/0/default.jpg
+line: 'Head: parsnip|Entry: 689 [Parsnip]|#item-6b7640f32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1141,2753,488,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494618339
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494535102
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1198,2975,552,160/150,/0/default.jpg
-label: parties
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1141,2753,488,166/150,/0/default.jpg
+label: parsnip
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0142'

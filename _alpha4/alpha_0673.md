@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_321/'>1633 [Paradise]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2872/'>paradise</a>"
+index: "<a href='/digital-beehive/index4/index_2874/'>paradise</a>"
 item: "#item-f86ad4b3b"
 unparsed: 
 line: 'Entry: Paradise|Topic: Paradise|Xref: 1633 [Paradise]|Index: paradise|#item-f86ad4b3b'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/794,2222,600,180/250,/0/default.jpg
 label: Paradise
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '026'
 layout: alpha_item
 collection: alpha4

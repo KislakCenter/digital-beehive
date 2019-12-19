@@ -8,8 +8,8 @@ topic: Repentance
 first_letter: R
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0462/'>Impenitence</a>|<a href='/digital-beehive/toc/toc2_092/'>307
-  \ [Repentance]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0462/'>Impenitence</a>|<a href='/digital-beehive/num2/num_0350/'>307
+  [Repentance]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3369/'>repentance</a>"
 item: "#item-7b02c101a"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/317,1265,600,180/250,/0/default.jpg
 label: Repentance
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
-num_match: 
 order: '143'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_3446
 volume: Volume 3
 image_number: '40'
-head: root
-entry: "<a href='/digital-beehive/num2/num_0439/'>368 [Root]</a>"
+head: room
+entry: 817 [PAGE_MISSING]
 topic: 
 first_letter: R
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-84afff1f8"
+item: "#item-64228e6fa"
 unparsed: 
-line: 'Head: root|Entry: 368 [Root]|#item-84afff1f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1350,326,98/full/0/default.jpg
+line: 'Head: room|Entry: 817 [PAGE_MISSING]|#item-64228e6fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233466297
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233442170
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1170,1350,326,98/150,/0/default.jpg
-label: root
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/150,/0/default.jpg
+label: room
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0693'
+order: '0694'
 layout: index_item
 collection: index4
 ---

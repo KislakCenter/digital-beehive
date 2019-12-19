@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: quicken
+see: "<a href='/digital-beehive/index4/index_3261/'>quicken</a>"
 index: 
 item: "#item-12b3cec00"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/133,14
 label: to refresh
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0580'
+order: '0581'
 layout: index_item
 collection: index4
 ---

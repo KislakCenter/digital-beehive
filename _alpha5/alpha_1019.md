@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0897/'>Souldier</a>|<a href='/digital-beehive/alpha4/alpha_0777/'>Rebellion</a>|<a
-  href='/digital-beehive/toc/toc2_118/'>488 [unlawfull for Xtians to wage war]</a>|<a
+  href='/digital-beehive/num2/num_0604/'>488 [unlawfull for Xstians to wage war]</a>|<a
   href='/digital-beehive/toc/toc2_234/'>1204 [War]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4474/'>war</a>"
@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/338,2945,600,180/250,/0/default.jpg
 label: War
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-num_match: 
 order: '084'
 layout: alpha_item
 collection: alpha5

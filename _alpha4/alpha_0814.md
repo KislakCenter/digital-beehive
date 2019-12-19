@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/digital-beehive/toc/toc2_283/'>1450
   [Rome]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3443/'>Rome</a>"
+index: "<a href='/digital-beehive/index4/index_3444/'>Rome</a>"
 item: "#item-133f5f588"
 unparsed: 
 line: 'Entry: Rome|Topic: Rome|Xref: Babylon|Xref: 1450 [Rome]|Index: Rome|#item-133f5f588'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,1226,600,180/250,/0/default.jpg
 label: Rome
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-num_match: 
 order: '166'
 layout: alpha_item
 collection: alpha4

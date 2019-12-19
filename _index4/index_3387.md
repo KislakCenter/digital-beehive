@@ -3,7 +3,7 @@ pid: index_3387
 volume: Volume 3
 image_number: '39'
 head: resistance
-entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>|a"
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1480,1
 label: resistance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0634'
+order: '0635'
 layout: index_item
 collection: index4
 ---

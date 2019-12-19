@@ -2,28 +2,27 @@
 pid: index_4328
 volume: Volume 3
 image_number: '49'
-head: vile
-entry: "<a href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_418/'>2421
-  [Vile]</a>"
+head: vigilance
+entry: 4655 [PAGE_MISSING]
 topic: 
 first_letter: U/V
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3211/'>providence</a>"
 index: 
-item: "#item-238785142"
+item: "#item-c8efae733"
 unparsed: 
-line: 'Head: vile|Entry: 589 [Base]|Entry: 2421 [Vile]|#item-238785142'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/full/0/default.jpg
+line: 'Head: vigilance|See: providence|Entry: 4655 [PAGE_MISSING]|#item-c8efae733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,1006,714,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660026718
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659992552
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/150,/0/default.jpg
-label: vile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1631,1006,714,127/150,/0/default.jpg
+label: vigilance
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '295'
+order: '290'
 layout: index_item
 collection: index5
 ---

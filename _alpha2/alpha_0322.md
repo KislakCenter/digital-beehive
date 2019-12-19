@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0172/'>165 [Feast]</a>"
 see: 
-index: feast i.e. banquet
+index: "<a href='/digital-beehive/index2/index_1423/'>feast, i.e. banquet</a>"
 item: "#item-00b892f8c"
 unparsed: 
 line: 'Entry: Feast|Topic: Feast|Xref: 165 [Feast]|Index: feast i.e. banquet|#item-00b892f8c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/427,1543,600,180/250,/0/default.jpg
 label: Feast
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-num_match: 
 order: '053'
 layout: alpha_item
 collection: alpha2

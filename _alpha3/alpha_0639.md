@@ -8,8 +8,8 @@ topic: News
 first_letter: N
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|messenger|<a href='/digital-beehive/toc/toc2_244/'>1252
-  [News]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|<a href='/digital-beehive/num1/num_0088/'>messenger</a>|<a
+  href='/digital-beehive/toc/toc2_244/'>1252 [News]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
 item: "#item-9f38763ad"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,1403,600,180/250,/0/default.jpg
 label: News
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-num_match: 
 order: '195'
 layout: alpha_item
 collection: alpha3

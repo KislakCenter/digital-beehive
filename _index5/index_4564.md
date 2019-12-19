@@ -2,9 +2,8 @@
 pid: index_4564
 volume: Volume 3
 image_number: '53'
-head: winter
-entry: "<a href='/digital-beehive/alpha5/alpha_1039/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1088
-  [Winter]</a>"
+head: "[:5.]"
+entry: 
 topic: 
 first_letter: W
 page: 
@@ -12,18 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-785185614"
-unparsed: 
-line: 'Head: winter|Entry: a|Entry: 1088 [Winter]|#item-785185614'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,656,514,85/full/0/default.jpg
+item: "#item-7e14edb67"
+unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-7e14edb67'
+line: 'Type: Index|Insertion Xref: [:5.]|#item-7e14edb67'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/746,592,153,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791429091
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791382455
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,656,514,85/150,/0/default.jpg
-label: winter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/746,592,153,127/150,/0/default.jpg
+label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-insertion_xref: 
-order: '531'
+insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
+  or winnow</a>"
+order: '526'
 layout: index_item
 collection: index5
 ---

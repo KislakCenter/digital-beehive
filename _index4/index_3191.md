@@ -3,8 +3,8 @@ pid: index_3191
 volume: Volume 3
 image_number: '37'
 head: proof, or trial
-entry: "<a href='/digital-beehive/alpha4/alpha_0746/'>a</a>|<a href='/digital-beehive/toc/toc2_118/'>487
-  [Proof. Try all]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0746/'>a</a>|<a href='/digital-beehive/num2/num_0603/'>487
+  [Proof, Try all]</a>"
 topic: 
 first_letter: P
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1489,2
 label: proof, or trial
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0438'
+order: '0439'
 layout: index_item
 collection: index4
 ---

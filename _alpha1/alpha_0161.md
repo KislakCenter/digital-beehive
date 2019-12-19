@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/314,1738,600,180/250,/0/default.jpg
 label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-num_match: 
 order: '160'
 layout: alpha_item
 collection: alpha1

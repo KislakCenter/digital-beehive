@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1550/'>frog</a>"
+see: "<a href='/digital-beehive/index2/index_1551/'>frog</a>"
 index: 
 item: "#item-999c97a00"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,26
 label: toad
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '131'
+order: '126'
 layout: index_item
 collection: index5
 ---

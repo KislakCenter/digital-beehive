@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0927/'>Sunday</a>|<a href='/digital-beehive/toc/toc2_212/'>1093
   [holy days]</a>"
 see: 
-index: feasts i.e. holy day
+index: "<a href='/digital-beehive/index2/index_1424/'>feast, i.e. holy day</a>"
 item: "#item-e37c358a2"
 unparsed: 
 line: 'Entry: Feasts|Topic: Feasts|Xref: Sunday|Xref: 1093 [holy days]|Index: feasts
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/441,1161,600,180/250,/0/default.jpg
 label: Feasts
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-num_match: 
 order: '052'
 layout: alpha_item
 collection: alpha2

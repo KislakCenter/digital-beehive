@@ -3,7 +3,7 @@ pid: index_2635
 volume: Volume 3
 image_number: '31'
 head: name of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0627/'>a</a>"
+entry: a
 topic: 
 first_letter: N
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1505,3
 label: name of God
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '715'
+order: '716'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,10 @@
 pid: index_4594
 volume: Volume 3
 image_number: '53'
-head: woman's longings
-entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Womens Longings]</a>"
+head: woman's imperiousness
+entry: "<a href='/digital-beehive/alpha5/alpha_1046/'>a</a>|<a href='/digital-beehive/num1/num_0200/'>192
+  [Dames governmt]</a>|<a href='/digital-beehive/toc/toc2_338/'>1737 [Womans Imperiousness]</a>|<a
+  href='/digital-beehive/toc/toc2_432/'>4820 [Bad & imperious Women]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +13,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2761bad0e"
+item: "#item-683c0af46"
 unparsed: 
-line: 'Head: woman''s longings|Entry: 688 [Womens Longings]|#item-2761bad0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/full/0/default.jpg
+line: 'Head: woman''s imperiousness|Entry: a|Entry: 192 [Dames governmt]|Entry: 1737
+  [Womans Imperiousness]|Entry: 4820 [Bad & imperious Women]|#item-683c0af46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/858,416,726,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560794711179
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794641651
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/863,536,543,156/150,/0/default.jpg
-label: woman's longings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/858,416,726,136/150,/0/default.jpg
+label: woman's imperiousness
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '561'
+order: '556'
 layout: index_item
 collection: index5
 ---

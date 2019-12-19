@@ -3,7 +3,7 @@ pid: index_3968
 volume: Volume 3
 image_number: '45'
 head: suck
-entry: "<a href='/digital-beehive/alpha4/alpha_0923/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0923/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1624,2
 label: suck
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '1215'
+order: '1216'
 layout: index_item
 collection: index4
 ---

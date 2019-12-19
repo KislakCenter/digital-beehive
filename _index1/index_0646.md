@@ -3,7 +3,7 @@ pid: index_0646
 volume: Volume 3
 image_number: '12'
 head: Christ in us
-entry: "<a href='/digital-beehive/toc/toc2_060/'>36 [God with - & in men]</a>|<a href='/digital-beehive/num2/num_0298/'>267
+entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with & in men]</a>|<a href='/digital-beehive/num2/num_0298/'>267
   [God is in us]</a>|<a href='/digital-beehive/toc/toc2_175/'>937 [Union with God]</a>|<a
   href='/digital-beehive/toc/toc2_283/'>1448 [Union with God]</a>"
 topic: 

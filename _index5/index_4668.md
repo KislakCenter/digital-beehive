@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,10
 label: to boult, lift, fan or winnow
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '635'
+order: '630'
 layout: index_item
 collection: index5
 ---

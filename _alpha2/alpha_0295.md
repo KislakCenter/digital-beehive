@@ -8,8 +8,8 @@ topic: Example
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0458/'>Imitation</a>|<a href='/digital-beehive/toc/toc2_090/'>290
-  [Example]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0458/'>Imitation</a>|<a href='/digital-beehive/num2/num_0326/'>290
+  [for Example]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1329/'>example</a>"
 item: "#item-c5b1d56a6"
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/687,3900,600,180/250,/0/default.jpg
 label: Example
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-num_match: 
 order: '026'
 layout: alpha_item
 collection: alpha2

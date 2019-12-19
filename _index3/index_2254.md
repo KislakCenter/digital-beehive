@@ -3,7 +3,7 @@ pid: index_2254
 volume: Volume 3
 image_number: '28'
 head: lending
-entry: "<a href='/digital-beehive/alpha3/alpha_0528/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0528/'>a</a>|a"
 topic: 
 first_letter: L
 page: 

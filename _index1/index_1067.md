@@ -3,11 +3,11 @@ pid: index_1067
 volume: Volume 3
 image_number: '16'
 head: discipline
-entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
-add: "<a href='/digital-beehive/index2/index_1199/'>Eccles.</a>|<a href='/digital-beehive/index3/index_2435/'>martial</a>"
+add: "<a href='/digital-beehive/index2/index_1201/'>Eccles</a>|<a href='/digital-beehive/index3/index_2435/'>martial</a>"
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3
 label: discipline
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1064'
+order: '1066'
 layout: index_item
 collection: index1
 ---

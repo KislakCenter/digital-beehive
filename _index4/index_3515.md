@@ -2,27 +2,27 @@
 pid: index_3515
 volume: Volume 3
 image_number: '41'
-head: sanctification
-entry: "<a href='/digital-beehive/toc/toc2_184/'>990 [Holiness]</a>"
+head: Samuel
+entry: "<a href='/digital-beehive/toc/toc2_304/'>1550 [Samuel]</a>"
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1855/'>holiness</a>"
+see: 
 index: 
-item: "#item-5a4a0f290"
+item: "#item-0b33b4bfa"
 unparsed: 
-line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/full/0/default.jpg
+line: 'Head: Samuel|Entry: 1550 [Samuel]|#item-0b33b4bfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238941366
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/150,/0/default.jpg
-label: sanctification
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/150,/0/default.jpg
+label: Samuel
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0762'
+order: '0763'
 layout: index_item
 collection: index4
 ---

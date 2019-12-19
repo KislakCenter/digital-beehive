@@ -9,7 +9,7 @@ first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0095/'>allegiance</a>"
+see: "<a href='/digital-beehive/index1/index_0096/'>allegiance</a>"
 index: 
 item: "#item-28c78933a"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/162,33
 label: loyalty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '439'
+order: '440'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_195/'>1010 [The Following of Christ]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1960/'>imitation of Christ</a>"
+index: "<a href='/digital-beehive/index3/index_1961/'>imitation of Christ</a>"
 item: "#item-e6337f777"
 unparsed: 
 line: 'Entry: Imitation of Christ|Topic: Imitation of Christ|Xref: 1010 [The Following
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/779,233,600,180/250,/0/default.jpg
 label: Imitation of Christ
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
-num_match: 
 order: '015'
 layout: alpha_item
 collection: alpha3

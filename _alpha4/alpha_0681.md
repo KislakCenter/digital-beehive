@@ -10,7 +10,7 @@ page:
 add: 
 xref: Expenses|<a href='/digital-beehive/toc/toc2_216/'>1115 [Frugality]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2890/'>parsimony</a>"
+index: "<a href='/digital-beehive/index4/index_2892/'>parsimony</a>"
 item: "#item-c0243529d"
 unparsed: 
 line: 'Entry: Parsimony|Topic: Parsimony|Xref: Expenses|Xref: 1115 [Frugality]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,4398,600,180/250,/0/default.jpg
 label: Parsimony
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '034'
 layout: alpha_item
 collection: alpha4

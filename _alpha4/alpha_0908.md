@@ -8,8 +8,9 @@ topic: Star
 first_letter: S
 page: 
 add: 
-xref: Astrology|<a href='/digital-beehive/alpha1/alpha_0154/'>Comet</a>|<a href='/digital-beehive/alpha4/alpha_0710/'>Planets</a>|<a
-  href='/digital-beehive/toc/toc2_265/'>1358 [Star]</a>
+xref: "<a href='/digital-beehive/num1/num_0024/'>Astrology</a>|<a href='/digital-beehive/alpha1/alpha_0154/'>Comet</a>|<a
+  href='/digital-beehive/alpha4/alpha_0710/'>Planets</a>|<a href='/digital-beehive/toc/toc2_265/'>1358
+  [Star]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3878/'>star</a>"
 item: "#item-96b5d075f"
@@ -23,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/294,2042,600,180/250,/0/default.jpg
 label: Star
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
-num_match: 
 order: '260'
 layout: alpha_item
 collection: alpha4

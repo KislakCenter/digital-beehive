@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_256/'>1312 [Witchcraft]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4573/'>witchcraft</a>"
+index: "<a href='/digital-beehive/index5/index_4574/'>witchcraft</a>"
 item: "#item-6d7b3a01f"
 unparsed: 
 line: 'Entry: Witchcraft|Topic: Witchcraft|Xref: 1312 [Witchcraft]|Index: witchcraft|#item-6d7b3a01f'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,600,180/250,/0/default.jpg
 label: Witchcraft
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '107'
 layout: alpha_item
 collection: alpha5

@@ -8,8 +8,8 @@ topic: London
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0085/'>84 [Antiquary]</a>|<a href='/digital-beehive/toc/toc2_074/'>172
-  [Means and Cause]</a>|<a href='/digital-beehive/toc/toc2_287/'>1468 [London]</a>"
+xref: "<a href='/digital-beehive/num1/num_0085/'>84 [Antiquary]</a>|<a href='/digital-beehive/num1/num_0179/'>172
+  [Means]</a>|<a href='/digital-beehive/toc/toc2_287/'>1468 [London]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2321/'>London</a>"
 item: "#item-74d4d3984"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/708,4716,600,180/250,/0/default.jpg
 label: London
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
-num_match: 
 order: '101'
 layout: alpha_item
 collection: alpha3

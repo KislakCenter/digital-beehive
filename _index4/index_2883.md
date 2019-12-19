@@ -2,24 +2,24 @@
 pid: index_2883
 volume: Volume 3
 image_number: '34'
-head: park
-entry: "<a href='/digital-beehive/toc/toc2_173/'>927 [Pond]</a>"
+head: Paris
+entry: "<a href='/digital-beehive/alpha4/alpha_0678/'>a</a>|a"
 topic: 
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-637f2d0f4"
+item: "#item-51b3d5a1f"
 unparsed: 
-line: 'Head: park|Page: p.8 [Image 1.68]|Entry: 927 [Pond]|#item-637f2d0f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1127,2008,606,215/full/0/default.jpg
+line: 'Head: Paris|Entry: a|#item-51b3d5a1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1125,1774,360,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494288475
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494215447
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1127,2008,606,215/150,/0/default.jpg
-label: park
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1125,1774,360,173/150,/0/default.jpg
+label: Paris
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0131'

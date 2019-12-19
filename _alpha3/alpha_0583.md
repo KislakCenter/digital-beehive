@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/706,1309,600,180/250,/0/default.jpg
 label: Melancholy
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
-num_match: 
 order: '139'
 layout: alpha_item
 collection: alpha3

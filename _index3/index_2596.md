@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2879/'>parents</a>"
+see: "<a href='/digital-beehive/index4/index_2881/'>parents</a>"
 index: 
 item: "#item-c27d57ba5"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/835,31
 label: mother
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '676'
+order: '677'
 layout: index_item
 collection: index3
 ---

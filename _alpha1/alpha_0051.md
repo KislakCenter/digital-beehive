@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0814/'>Rome</a>|<a href='/digital-beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
   href='/digital-beehive/toc/toc2_177/'>952 [Babel]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0260/'>babylon</a>"
+index: "<a href='/digital-beehive/index1/index_0261/'>babylon</a>"
 item: "#item-43ad5283e"
 unparsed: 
 line: 'Entry: Babylon|Topic: Babylon|Xref: Rome|Xref: Antichrist|Xref: 952 [Babel]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/826,4020,600,180/250,/0/default.jpg
 label: Babylon
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
-num_match: 
 order: '050'
 layout: alpha_item
 collection: alpha1

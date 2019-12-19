@@ -2,24 +2,24 @@
 pid: index_0266
 volume: Volume 3
 image_number: '9'
-head: bacon
-entry: 
+head: backsliding
+entry: "<a href='/digital-beehive/toc/toc2_320/'>1628 [Relapses]</a>"
 topic: 
 first_letter: B
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1853/'>hog</a>"
+see: 
 index: 
-item: "#item-d0129b04a"
+item: "#item-9ec26fbf7"
 unparsed: 
-line: 'Head: bacon|See: hog|#item-d0129b04a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/204,3407,500,160/full/0/default.jpg
+line: 'Head: backsliding|Entry: 1628 [Relapses]|#item-9ec26fbf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3350,589,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504211086283
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016672465
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/204,3407,500,160/150,/0/default.jpg
-label: bacon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3350,589,123/150,/0/default.jpg
+label: backsliding
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0265'

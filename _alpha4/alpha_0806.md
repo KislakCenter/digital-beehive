@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>Abundance</a>|854 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3418/'>riches</a>"
+index: "<a href='/digital-beehive/index4/index_3419/'>riches</a>"
 item: "#item-821b8e68d"
 unparsed: 
 line: 'Entry: Riches|Topic: Riches|Xref: Abundance|Xref: 854 [PAGE_MISSING]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/795,2995,600,180/250,/0/default.jpg
 label: Riches
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
-num_match: 
 order: '158'
 layout: alpha_item
 collection: alpha4

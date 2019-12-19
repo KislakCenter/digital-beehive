@@ -2,24 +2,24 @@
 pid: index_0100
 volume: Volume 3
 image_number: '7'
-head: allure
-entry: 
+head: all one
+entry: "<a href='/digital-beehive/num1/num_0183/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1274/'>enticing</a>"
+see: 
 index: 
-item: "#item-7cbcc64d4"
+item: "#item-002d6714d"
 unparsed: 
-line: 'Head: allure|See: enticing|#item-7cbcc64d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1715,501,144/full/0/default.jpg
+line: 'Head: all one|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|#item-002d6714d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1676,518,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769857812
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769825265
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1715,501,144/150,/0/default.jpg
-label: allure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1599,1676,518,93/150,/0/default.jpg
+label: all one
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0099'

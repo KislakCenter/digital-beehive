@@ -2,8 +2,8 @@
 pid: index_1988
 volume: Volume 3
 image_number: '25'
-head: in any wise
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1385 [Howsoever]</a>"
+head: in
+entry: "<a href='/digital-beehive/toc/toc2_201/'>1040 [In]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e0b99fe3a"
+item: "#item-e970114b5"
 unparsed: 
-line: 'Head: in any wise|Entry: 1385 [Howsoever]|#item-e0b99fe3a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1586,484,500,92/full/0/default.jpg
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669663782
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1586,484,500,92/150,/0/default.jpg
-label: in any wise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 insertion_xref: 
 order: '069'

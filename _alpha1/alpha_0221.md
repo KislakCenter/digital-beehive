@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,4430,600,180/250,/0/default.jpg
 label: Deliberation
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-num_match: 
 order: '220'
 layout: alpha_item
 collection: alpha1

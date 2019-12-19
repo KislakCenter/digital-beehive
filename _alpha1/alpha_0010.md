@@ -10,7 +10,7 @@ page:
 add: 
 xref: Gods affection|<a href='/digital-beehive/toc/toc2_158/'>712 [Adversity]</a>
 see: 
-index: "<a href='/digital-beehive/index1/index_0048/'>adversity</a>"
+index: "<a href='/digital-beehive/index1/index_0049/'>adversity</a>"
 item: "#item-fb558fcd2"
 unparsed: 
 line: 'Entry: Adversity|Topic: Adversity|Xref: Gods affection|Xref: 712 [Adversity]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,600,180/250,/0/default.jpg
 label: Adversity
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-num_match: 
 order: '009'
 layout: alpha_item
 collection: alpha1

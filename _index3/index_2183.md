@@ -2,25 +2,24 @@
 pid: index_2183
 volume: Volume 3
 image_number: '27'
-head: Lacedemonians & Laconism
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
-  [Laconism]</a>"
+head: labyrinth
+entry: "<a href='/digital-beehive/toc/toc2_132/'>574 [Labyrinth or Maze]</a>"
 topic: 
 first_letter: L
-page: 
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-da0925928"
+item: "#item-e71b77f50"
 unparsed: 
-line: 'Head: Lacedemonians & Laconism|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-da0925928'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/825,3132,701,213/full/0/default.jpg
+line: 'Head: labyrinth|Page: p.37 [Image 1.97]|Entry: 574 [Labyrinth or Maze]|#item-e71b77f50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,3005,575,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832308714
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832136029
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/825,3132,701,213/150,/0/default.jpg
-label: Lacedemonians & Laconism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/826,3005,575,166/150,/0/default.jpg
+label: labyrinth
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 insertion_xref: 
 order: '264'

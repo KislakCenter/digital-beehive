@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_169/'>906 [Kingdom]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2162/'>kingdom of God</a>"
+index: "<a href='/digital-beehive/index3/index_2163/'>kingdom of God</a>"
 item: "#item-7bb39ac95"
 unparsed: 
 line: 'Entry: Kingdom of God|Topic: Kingdom of God|Xref: 906 [Kingdom]|Index: kingdom
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/328,2686,600,180/250,/0/default.jpg
 label: Kingdom of God
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
-num_match: 
 order: '056'
 layout: alpha_item
 collection: alpha3

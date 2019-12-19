@@ -2,10 +2,9 @@
 pid: index_0081
 volume: Volume 3
 image_number: '7'
-head: agriculture
-entry: "<a href='/digital-beehive/alpha1/alpha_0016/'>a</a>|<a href='/digital-beehive/toc/toc2_219/'>1130
-  [Agriculture]</a>|<a href='/digital-beehive/toc/toc2_440/'>4863 [Agriculture & Country
-  life]</a>"
+head: agreemt
+entry: "<a href='/digital-beehive/alpha1/alpha_0015/'>a</a>|<a href='/digital-beehive/toc/toc2_234/'>1201
+  [Agreement]</a>"
 topic: 
 first_letter: A
 page: 
@@ -13,16 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-41b808974"
+item: "#item-88768143f"
 unparsed: 
-line: 'Head: agriculture|Entry: a|Entry: 1130 [Agriculture]|Entry: 4863 [Agriculture
-  & Country life]|#item-41b808974'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1610,254,683,139/full/0/default.jpg
+line: 'Head: agreemt|Entry: a|Entry: 1201 [Agreement]|#item-88768143f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3469,529,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767789045
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767652913
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1610,254,683,139/150,/0/default.jpg
-label: agriculture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3469,529,136/150,/0/default.jpg
+label: agreemt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0080'

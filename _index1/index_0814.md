@@ -2,27 +2,28 @@
 pid: index_0814
 volume: Volume 3
 image_number: '14'
-head: construction
-entry: 844 [PAGE_MISSING]
+head: constancy
+entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
+  [Constancy of mind]</a>|<a href='/digital-beehive/toc/toc2_420/'>2435 [Constancy]</a>"
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index1/index_0607/'>charitable</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-0ed39de38"
+item: "#item-705cbca6b"
 unparsed: 
-line: 'Head: construction|Entry: 844 [PAGE_MISSING]|Add: charitable|#item-0ed39de38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,2761,651,152/full/0/default.jpg
+line: 'Head: constancy|Entry: a|Entry: 1112 [Constancy of mind]|Entry: 2435 [Constancy]|#item-705cbca6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542062705
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541978660
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,2761,651,152/150,/0/default.jpg
-label: construction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/150,/0/default.jpg
+label: constancy
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0812'
+order: '0813'
 layout: index_item
 collection: index1
 ---

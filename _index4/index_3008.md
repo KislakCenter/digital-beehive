@@ -2,25 +2,24 @@
 pid: index_3008
 volume: Volume 3
 image_number: '35'
-head: to pill
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to shale, decorticaze & tear,
-  to shell]</a>"
+head: pillar
+entry: 861 [PAGE_MISSING]
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ba0c6d8b5"
+item: "#item-b1571d568"
 unparsed: 
-line: 'Head: to pill|Entry: 659 [to shale, decorticaze & tear, to shell]|#item-ba0c6d8b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/full/0/default.jpg
+line: 'Head: pillar|Page: p.37 [Image 1.97]|Entry: 861 [PAGE_MISSING]|#item-b1571d568'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,1280,547,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976285095
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976356087
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1511,1146,410,149/150,/0/default.jpg
-label: to pill
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1510,1280,547,134/150,/0/default.jpg
+label: pillar
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0256'

@@ -3,7 +3,7 @@ pid: index_1488
 volume: Volume 3
 image_number: '21'
 head: flower
-entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>|a"
 topic: 
 first_letter: F
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"

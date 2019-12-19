@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1532,3
 label: company
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 insertion_xref: 
-order: '0752'
+order: '0753'
 layout: index_item
 collection: index1
 ---

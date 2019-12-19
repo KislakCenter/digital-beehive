@@ -3,7 +3,7 @@ pid: index_1337
 volume: Volume 3
 image_number: '19'
 head: excom[m]unication
-entry: "<a href='/digital-beehive/toc/toc2_059/'>26 [Excommunication]</a>|<a href='/digital-beehive/toc/toc2_167/'>897
+entry: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/toc/toc2_167/'>897
   [Excommunication]</a>|<a href='/digital-beehive/toc/toc2_177/'>951 [Excommunication]</a>|<a
   href='/digital-beehive/toc/toc2_345/'>1792: [Excommunication]</a>"
 topic: 

@@ -2,8 +2,8 @@
 pid: index_1558
 volume: Volume 3
 image_number: '21'
-head: frustrate
-entry: 761 [PAGE_MISSING]
+head: fruitful
+entry: "<a href='/digital-beehive/alpha2/alpha_0352/'>a</a>|a"
 topic: 
 first_letter: F
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-072eb1dd6"
+item: "#item-e30a480aa"
 unparsed: 
-line: 'Head: frustrate|Entry: 761 [PAGE_MISSING]|#item-072eb1dd6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1570,535,497,145/full/0/default.jpg
+line: 'Head: fruitful|Entry: a|#item-e30a480aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,405,444,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785420699
+annotation_uri: http://dev.llgc.org.uk/annotation/1560785395095
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1570,535,497,145/150,/0/default.jpg
-label: frustrate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,405,444,152/150,/0/default.jpg
+label: fruitful
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
 order: '378'

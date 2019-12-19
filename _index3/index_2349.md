@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
 topic: 
 first_letter: L
 page: 
-add: "<a href='/digital-beehive/index5/index_4588/'>womanish</a>"
+add: womanish
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/157,26
 label: wanton love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '429'
+order: '430'
 layout: index_item
 collection: index3
 ---

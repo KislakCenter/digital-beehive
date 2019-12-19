@@ -8,8 +8,8 @@ topic: Derision
 first_letter: D
 page: 
 add: 
-xref: jest|<a href='/digital-beehive/alpha4/alpha_0769/'>railing</a>|<a href='/digital-beehive/alpha4/alpha_0835/'>scorn</a>|773
-  [PAGE_MISSING]
+xref: "<a href='/digital-beehive/alpha3/alpha_0447/'>jest</a>|<a href='/digital-beehive/alpha4/alpha_0769/'>railing</a>|<a
+  href='/digital-beehive/alpha4/alpha_0835/'>scorn</a>|773 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index1/index_1018/'>derision</a>"
 item: "#item-9232756fa"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,1760,600,180/250,/0/default.jpg
 label: Derision
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-num_match: 
 order: '226'
 layout: alpha_item
 collection: alpha1

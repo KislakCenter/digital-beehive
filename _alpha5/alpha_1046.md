@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0200/'>192 [Dames governmt]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4593/'>woman's imperiousness</a>"
+index: "<a href='/digital-beehive/index5/index_4594/'>woman's imperiousness</a>"
 item: "#item-79d4c449b"
 unparsed: 
 line: 'Entry: Womans imperiousness|Topic: Womans imperiousness|Xref: 192 [Dames governmt]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/363,4194,600,180/250,/0/default.jpg
 label: Womans imperiousness
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '111'
 layout: alpha_item
 collection: alpha5

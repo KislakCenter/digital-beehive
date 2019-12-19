@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/803,1466,600,180/250,/0/default.jpg
 label: Discontentment
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-num_match: 
 order: '238'
 layout: alpha_item
 collection: alpha1

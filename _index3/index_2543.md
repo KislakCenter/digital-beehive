@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: apostles
+see: "<a href='/digital-beehive/index1/index_0170/'>apostles</a>"
 index: 
 item: "#item-e9d7c5c87"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/178,11
 label: missionaries
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '623'
+order: '624'
 layout: index_item
 collection: index3
 ---

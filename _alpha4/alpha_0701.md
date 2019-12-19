@@ -8,7 +8,8 @@ topic: Perswasion
 first_letter: P
 page: 
 add: 
-xref: Conviction|<a href='/digital-beehive/toc/toc2_361/'>1969 [Perswasion]</a>
+xref: "<a href='/digital-beehive/num2/num_0429/'>Conviction</a>|<a href='/digital-beehive/toc/toc2_361/'>1969
+  [Perswasion]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2971/'>perswasion</a>"
 item: "#item-321a39c13"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/823,1304,600,180/250,/0/default.jpg
 label: Perswasion
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-num_match: 
 order: '054'
 layout: alpha_item
 collection: alpha4

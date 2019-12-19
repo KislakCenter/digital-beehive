@@ -2,27 +2,27 @@
 pid: index_4061
 volume: Volume 3
 image_number: '46'
-head: tart
-entry: 
+head: tartars
+entry: 4636 [PAGE_MISSING]
 topic: 
 first_letter: T
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4333/'>vinegar</a>"
+see: 
 index: 
-item: "#item-1355497d2"
+item: "#item-f55ffb8fd"
 unparsed: 
-line: 'Head: tart|See: vinegar|#item-1355497d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1820,2854,463,98/full/0/default.jpg
+line: 'Head: tartars|Entry: 4636 [PAGE_MISSING]|#item-f55ffb8fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743482790
+annotation_uri: http://dev.llgc.org.uk/annotation/1531743464813
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1820,2854,463,98/150,/0/default.jpg
-label: tart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,2774,467,100/150,/0/default.jpg
+label: tartars
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '029'
+order: '023'
 layout: index_item
 collection: index5
 ---

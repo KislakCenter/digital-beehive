@@ -2,24 +2,24 @@
 pid: index_1650
 volume: Volume 3
 image_number: '22'
-head: God's mercy
-entry: "<a href='/digital-beehive/num2/num_0391/'>338 [Mercy]</a>"
+head: God's love
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
 index: 
-item: "#item-17444bcf4"
+item: "#item-2f34a3bc9"
 unparsed: 
-line: 'Head: God''s mercy|Entry: 338 [Mercy]|#item-17444bcf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/full/0/default.jpg
+line: 'Head: God''s love|See: love|#item-2f34a3bc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047724204
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047656525
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2223,415,131/150,/0/default.jpg
-label: God's mercy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/150,/0/default.jpg
+label: God's love
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '470'

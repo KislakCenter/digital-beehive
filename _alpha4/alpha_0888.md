@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Smell]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3759/'>smell</a>"
+index: "<a href='/digital-beehive/index4/index_3760/'>smell</a>"
 item: "#item-454c80e0f"
 unparsed: 
 line: 'Entry: Smell|Topic: Smell|Xref: 1603 [Smell]|Index: smell|#item-454c80e0f'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,600,180/250,/0/default.jpg
 label: Smell
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-num_match: 
 order: '240'
 layout: alpha_item
 collection: alpha4

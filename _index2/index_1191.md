@@ -2,24 +2,24 @@
 pid: index_1191
 volume: Volume 3
 image_number: '18'
-head: earth's division
-entry: 
+head: earthenware
+entry: 4625 [PAGE_MISSING]
 topic: 
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_333/'>p.192 [Image 1.343]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-26c8334cd"
+item: "#item-745b7eead"
 unparsed: 
-line: 'Head: earth''s division|Page: p.192 [Image 1.343]|#item-26c8334cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/full/0/default.jpg
+line: 'Head: earthenware|Entry: 4625 [PAGE_MISSING]|#item-745b7eead'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668978970
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667379481
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/150,/0/default.jpg
-label: earth's division
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/150,/0/default.jpg
+label: earthenware
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '011'

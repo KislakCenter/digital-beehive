@@ -2,24 +2,24 @@
 pid: index_1990
 volume: Volume 3
 image_number: '25'
-head: incendiary
-entry: "<a href='/digital-beehive/num2/num_0441/'>369 [Incendiary]</a>"
+head: in any wise
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1385 [Howsoever]</a>"
 topic: 
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-a9335a205"
+item: "#item-e0b99fe3a"
 unparsed: 
-line: 'Head: incendiary|Page: p.30 [Image 1.90]|Entry: 369 [Incendiary]|#item-a9335a205'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,645,593,147/full/0/default.jpg
+line: 'Head: in any wise|Entry: 1385 [Howsoever]|#item-e0b99fe3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1586,484,500,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669868464
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669663782
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,645,593,147/150,/0/default.jpg
-label: incendiary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1586,484,500,92/150,/0/default.jpg
+label: in any wise
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 insertion_xref: 
 order: '071'

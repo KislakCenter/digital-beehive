@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: indep
+see: "<a href='/digital-beehive/index3/index_2015/'>indep</a>"
 index: 
 item: "#item-d1a4b29e6"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,21
 label: soveraign
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1054'
+order: '1055'
 layout: index_item
 collection: index4
 ---

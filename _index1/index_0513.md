@@ -2,8 +2,8 @@
 pid: index_0513
 volume: Volume 3
 image_number: '11'
-head: calvinists
-entry: 798 [PAGE_MISSING]
+head: calm
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1471 [a Calm]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d9a4a2198"
+item: "#item-56309a878"
 unparsed: 
-line: 'Head: calvinists|Entry: 798 [PAGE_MISSING]|#item-d9a4a2198'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1566,973,563,123/full/0/default.jpg
+line: 'Head: calm|Entry: 1471 [a Calm]|#item-56309a878'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,853,450,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494674330
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494647773
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1566,973,563,123/150,/0/default.jpg
-label: calvinists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,853,450,115/150,/0/default.jpg
+label: calm
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 insertion_xref: 
 order: '0512'

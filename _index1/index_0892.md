@@ -3,7 +3,7 @@ pid: index_0892
 volume: Volume 3
 image_number: '15'
 head: crab
-entry: "<a href='/digital-beehive/alpha1/alpha_0189/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0189/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/157,31
 label: crab
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0889'
+order: '0891'
 layout: index_item
 collection: index1
 ---

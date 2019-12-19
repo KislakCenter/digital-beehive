@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,600,180/250,/0/default.jpg
 label: Shells of Snails
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-num_match: 
 order: '218'
 layout: alpha_item
 collection: alpha4

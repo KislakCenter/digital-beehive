@@ -8,7 +8,8 @@ topic: Skill
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0504/'>knowledge</a>|ability"
+xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0504/'>knowledge</a>|<a
+  href='/digital-beehive/num2/num_0283/'>ability</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3739/'>skill</a>"
 item: "#item-101189171"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/306,3430,600,180/250,/0/default.jpg
 label: Skill
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
-num_match: 
 order: '234'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_0936
 volume: Volume 3
 image_number: '15'
-head: to cut off
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [Purge]</a>"
+head: Cuts
+entry: 4526 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-663ad8c42"
+item: "#item-a82a4bb93"
 unparsed: 
-line: 'Head: to cut off|Entry: 659 [Purge]|#item-663ad8c42'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1569,659,481,101/full/0/default.jpg
+line: 'Head: Cuts|Entry: 4526 [PAGE_MISSING]|#item-a82a4bb93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/2025,563,294,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390806974
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390774680
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1569,659,481,101/150,/0/default.jpg
-label: to cut off
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/2025,563,294,136/150,/0/default.jpg
+label: Cuts
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0933'
+order: '0935'
 layout: index_item
 collection: index1
 ---

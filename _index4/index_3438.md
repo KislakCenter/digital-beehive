@@ -2,28 +2,27 @@
 pid: index_3438
 volume: Volume 3
 image_number: '40'
-head: rod
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/digital-beehive/toc/toc2_386/'>2208
-  [Rod]</a>"
+head: rock
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1914 [Rock]</a>"
 topic: 
 first_letter: R
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-0cfa976ca"
+item: "#item-02ac0e439"
 unparsed: 
-line: 'Head: rod|Page: p.38 [Image 1.98]|Entry: 871 [a Rod]|Entry: 2208 [Rod]|#item-0cfa976ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1073,485,733,128/full/0/default.jpg
+line: 'Head: rock|Page: p.32 [Image 1.92]|Entry: 1914 [Rock]|#item-02ac0e439'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232877206
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232840500
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1073,485,733,128/150,/0/default.jpg
-label: rod
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1173,361,576,133/150,/0/default.jpg
+label: rock
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0685'
+order: '0686'
 layout: index_item
 collection: index4
 ---

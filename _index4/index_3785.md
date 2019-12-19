@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1609,2
 label: Soli Deo Gloria
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1032'
+order: '1033'
 layout: index_item
 collection: index4
 ---

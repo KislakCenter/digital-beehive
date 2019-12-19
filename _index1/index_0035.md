@@ -2,24 +2,24 @@
 pid: index_0035
 volume: Volume 3
 image_number: '7'
-head: acrosticks
-entry: 4572 [PAGE_MISSING]
+head: acquittance
+entry: 857 [PAGE_MISSING]
 topic: 
 first_letter: A
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2757/'>obliga[ti]on</a>"
 index: 
-item: "#item-c79b67f87"
+item: "#item-e23e0abc9"
 unparsed: 
-line: 'Head: acrosticks|Entry: 4572 [PAGE_MISSING]|#item-c79b67f87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/174,3301,466,107/full/0/default.jpg
+line: 'Head: acquittance|Entry: 857 [PAGE_MISSING]|See: obliga[ti]on|#item-e23e0abc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760220536
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760121978
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/174,3301,466,107/150,/0/default.jpg
-label: acrosticks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/150,/0/default.jpg
+label: acquittance
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0034'

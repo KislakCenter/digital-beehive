@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/2097,2
 label: "[:14.]"
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4677/'>yoke</a>"
-order: '616'
+order: '611'
 layout: index_item
 collection: index5
 ---

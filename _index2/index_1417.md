@@ -3,7 +3,7 @@ pid: index_1417
 volume: Volume 3
 image_number: '20'
 head: fault
-entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

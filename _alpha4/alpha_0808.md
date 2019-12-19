@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0290/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3424/'>right</a>"
+index: "<a href='/digital-beehive/index4/index_3425/'>right</a>"
 item: "#item-779d48b46"
 unparsed: 
 line: 'Entry: Right|Topic: Right|Xref: equity|Xref: Law|Index: right|#item-779d48b46'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/773,4112,600,180/250,/0/default.jpg
 label: Right
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
-num_match: 
 order: '160'
 layout: alpha_item
 collection: alpha4

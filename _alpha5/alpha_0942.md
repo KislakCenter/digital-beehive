@@ -8,8 +8,9 @@ topic: Temptation
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0943/'>Temptation, continued</a>|Instigation|Provocation|<a
-  href='/digital-beehive/num1/num_0216/'>206 [Temptation]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0943/'>Temptation, continued</a>|Instigation|<a
+  href='/digital-beehive/num1/num_0124/'>Provocation</a>|<a href='/digital-beehive/num1/num_0216/'>206
+  [Temptation]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 item: "#item-d5b751b3a"
@@ -23,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,600,180/250,/0/default.jpg
 label: Temptation
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-num_match: 
 order: '007'
 layout: alpha_item
 collection: alpha5

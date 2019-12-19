@@ -2,8 +2,8 @@
 pid: index_3563
 volume: Volume 3
 image_number: '41'
-head: scrivener
-entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
+head: scriptures uncertainty
+entry: "<a href='/digital-beehive/num2/num_0341/'>301 [Uncertainty of the h. Scripture]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-48e2f1439"
+item: "#item-ddcffbc44"
 unparsed: 
-line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/full/0/default.jpg
+line: 'Head: scriptures uncertainty|Entry: 301 [Uncertainty of the h. Scripture]|#item-ddcffbc44'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,2774,652,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241670700
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/150,/0/default.jpg
-label: scrivener
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/846,2774,652,156/150,/0/default.jpg
+label: scriptures uncertainty
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0810'
+order: '0811'
 layout: index_item
 collection: index4
 ---

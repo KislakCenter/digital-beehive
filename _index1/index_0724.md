@@ -3,11 +3,11 @@ pid: index_0724
 volume: Volume 3
 image_number: '13'
 head: collusion
-entry: "<a href='/digital-beehive/toc/toc2_105/'>398 [Prevarication</a>|Prevaricating]"
+entry: 398 [Prevarication|Prevaricating]
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index5/index_4222/'>treachery</a>"
+add: treachery
 xref: 
 see: 
 index: 

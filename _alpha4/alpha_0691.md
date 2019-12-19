@@ -8,7 +8,8 @@ topic: Peace
 first_letter: P
 page: 
 add: 
-xref: Truce|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980 [Peace]</a>
+xref: "<a href='/digital-beehive/num1/num_0142/'>Truce</a>|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980
+  [Peace]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
 item: "#item-f73a2700c"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,600,180/250,/0/default.jpg
 label: Peace
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-num_match: 
 order: '044'
 layout: alpha_item
 collection: alpha4

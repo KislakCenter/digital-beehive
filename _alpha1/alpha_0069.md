@@ -10,7 +10,7 @@ page:
 add: 
 xref: "[WORD_MISSING]|<a href='/digital-beehive/toc/toc2_140/'>616 [Beauty]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0322/'>beauty</a>"
+index: "<a href='/digital-beehive/index1/index_0323/'>beauty</a>"
 item: "#item-74417d341"
 unparsed: 
 line: 'Entry: [WORD_MISSING]|Topic: Beauty|Xref: [WORD_MISSING]|Xref: 616 [Beauty]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/857,207,600,180/250,/0/default.jpg
 label: "[WORD_MISSING]"
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
-num_match: 
 order: '068'
 layout: alpha_item
 collection: alpha1

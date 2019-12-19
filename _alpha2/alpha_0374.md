@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0947/'>New Testament</a>|<a href='/digital-beehive/toc/toc2_180/'>967
   [Gospel]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"
+index: "<a href='/digital-beehive/index2/index_1672/'>gospel</a>"
 item: "#item-5cd91f76f"
 unparsed: 
 line: 'Entry: Gospel|Topic: Gospel|Xref: New Testament|Xref: 967 [Gospel]|Index: gospel|#item-5cd91f76f'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/336,2350,600,180/250,/0/default.jpg
 label: Gospel
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
-num_match: 
 order: '105'
 layout: alpha_item
 collection: alpha2

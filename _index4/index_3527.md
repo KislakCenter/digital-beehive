@@ -2,27 +2,27 @@
 pid: index_3527
 volume: Volume 3
 image_number: '41'
-head: a saw
-entry: "<a href='/digital-beehive/toc/toc2_134/'>581 [To Saw]</a>"
+head: saucidge
+entry: 
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
 index: 
-item: "#item-6bad285b1"
+item: "#item-585f2a74f"
 unparsed: 
-line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/full/0/default.jpg
+line: 'Head: saucidge|See: pudding|#item-585f2a74f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,2258,655,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239381989
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/150,/0/default.jpg
-label: a saw
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,2258,655,174/150,/0/default.jpg
+label: saucidge
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0774'
+order: '0775'
 layout: index_item
 collection: index4
 ---

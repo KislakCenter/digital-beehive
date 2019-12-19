@@ -2,8 +2,8 @@
 pid: index_0504
 volume: Volume 3
 image_number: '11'
-head: cacao
-entry: "<a href='/digital-beehive/toc/toc2_300/'>1530 [Cacao]</a>"
+head: caduceus
+entry: "<a href='/digital-beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bf4a0a009"
+item: "#item-0013a4096"
 unparsed: 
-line: 'Head: cacao|Entry: 1530 [Cacao]|#item-bf4a0a009'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/full/0/default.jpg
+line: 'Head: caduceus|Entry: 2153 [Mercurius]|#item-0013a4096'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531494044908
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493973521
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1565,262,414,89/150,/0/default.jpg
-label: cacao
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/150,/0/default.jpg
+label: caduceus
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 insertion_xref: 
 order: '0503'

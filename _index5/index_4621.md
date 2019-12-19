@@ -2,9 +2,8 @@
 pid: index_4621
 volume: Volume 3
 image_number: '53'
-head: worse & worst
-entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [Worse]</a>|<a href='/digital-beehive/toc/toc2_321/'>1632
-  [Worse]</a>"
+head: wormwood
+entry: "<a href='/digital-beehive/toc/toc2_154/'>693 [Wormwood]</a>"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f4af7e24f"
+item: "#item-22055d9e0"
 unparsed: 
-line: 'Head: worse & worst|Entry: 573 [Worse]|Entry: 1632 [Worse]|#item-f4af7e24f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/full/0/default.jpg
+line: 'Head: wormwood|Entry: 693 [Wormwood]|#item-22055d9e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797627649
+annotation_uri: http://dev.llgc.org.uk/annotation/1560797583751
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,3346,692,129/150,/0/default.jpg
-label: worse & worst
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/848,3292,409,108/150,/0/default.jpg
+label: wormwood
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '588'
+order: '583'
 layout: index_item
 collection: index5
 ---

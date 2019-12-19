@@ -2,8 +2,9 @@
 pid: index_4329
 volume: Volume 3
 image_number: '49'
-head: village
-entry: "<a href='/digital-beehive/num1/num_0169/'>162 [City]</a>|1878 [PAGE_MISSING]"
+head: vile
+entry: "<a href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_418/'>2421
+  [Vile]</a>"
 topic: 
 first_letter: U/V
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d1c6f326f"
+item: "#item-238785142"
 unparsed: 
-line: 'Head: village|Entry: 162 [City]|Entry: 1878 [PAGE_MISSING]|#item-d1c6f326f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/full/0/default.jpg
+line: 'Head: vile|Entry: 589 [Base]|Entry: 2421 [Vile]|#item-238785142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660141406
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660026718
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1617,1197,545,146/150,/0/default.jpg
-label: village
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1640,1069,527,119/150,/0/default.jpg
+label: vile
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '296'
+order: '291'
 layout: index_item
 collection: index5
 ---

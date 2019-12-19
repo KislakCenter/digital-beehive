@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/2138,1
 label: "[:12.]"
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4675/'>multitude</a>"
-order: '690'
+order: '691'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,9 @@
 pid: index_3523
 volume: Volume 3
 image_number: '41'
-head: Savin
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Savin]</a>"
+head: Satyre
+entry: "<a href='/digital-beehive/alpha4/alpha_0830/'>a</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
+  [Satyr]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-738631f07"
+item: "#item-b70c8e91a"
 unparsed: 
-line: 'Head: Savin|Entry: 692 [Savin]|#item-738631f07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/192,2103,407,116/full/0/default.jpg
+line: 'Head: Satyre|Entry: a|Entry: 1384 [Satyr]|#item-b70c8e91a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,2041,553,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239253263
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239197288
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/192,2103,407,116/150,/0/default.jpg
-label: Savin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/162,2041,553,130/150,/0/default.jpg
+label: Satyre
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0770'
+order: '0771'
 layout: index_item
 collection: index4
 ---

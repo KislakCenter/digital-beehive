@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4626/'>wounds of Christ</a>"
+index: "<a href='/digital-beehive/index5/index_4627/'>wounds of Christ</a>"
 item: "#item-95a4a8f71"
 unparsed: 
 line: 'Entry: Christs Wounds|Topic: Christs Wounds|Index: wounds of Christ|#item-95a4a8f71'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,600,180/250,/0/default.jpg
 label: Christs Wounds
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-num_match: 
 order: '128'
 layout: alpha_item
 collection: alpha5

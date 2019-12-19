@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_1986/'>in</a>"
+see: "<a href='/digital-beehive/index3/index_1988/'>in</a>"
 index: 
 item: "#item-a81fa0062"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,3
 label: throughout
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
 insertion_xref: 
-order: '104'
+order: '099'
 layout: index_item
 collection: index5
 ---

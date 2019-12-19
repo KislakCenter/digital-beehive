@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4186/'>too young</a>"
+index: "<a href='/digital-beehive/index5/index_4187/'>too young</a>"
 item: "#item-f53bf4603"
 unparsed: 
 line: 'Entry: too young|Topic: too young|Index: too young|#item-f53bf4603'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/355,3697,600,180/250,/0/default.jpg
 label: too young
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '032'
 layout: alpha_item
 collection: alpha5

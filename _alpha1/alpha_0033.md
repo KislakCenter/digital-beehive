@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/298,2732,600,180/250,/0/default.jpg
 label: AntiChrist
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
-num_match: 
 order: '032'
 layout: alpha_item
 collection: alpha1

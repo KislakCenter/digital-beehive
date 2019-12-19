@@ -3,7 +3,7 @@ pid: index_3871
 volume: Volume 3
 image_number: '44'
 head: staff
-entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0906/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1813,2
 label: staff
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1118'
+order: '1119'
 layout: index_item
 collection: index4
 ---

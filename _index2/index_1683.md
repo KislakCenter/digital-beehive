@@ -3,7 +3,7 @@ pid: index_1683
 volume: Volume 3
 image_number: '22'
 head: Grace
-entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>|a"
 topic: 
 first_letter: G
 page: 

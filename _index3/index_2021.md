@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num1/num_0183/'>176 [Indifferency]</a>|1850 [P
 topic: 
 first_letter: I/J
 page: 
-add: "<a href='/digital-beehive/index1/index_0041/'>adiaph</a>"
+add: "<a href='/digital-beehive/index1/index_0042/'>adiaph</a>"
 xref: 
 see: 
 index: 

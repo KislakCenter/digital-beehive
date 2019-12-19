@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: melt
+see: "<a href='/digital-beehive/index3/index_2478/'>melt</a>"
 index: 
 item: "#item-951f871b7"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/127,33
 label: to dissolve
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1097'
+order: '1099'
 layout: index_item
 collection: index1
 ---

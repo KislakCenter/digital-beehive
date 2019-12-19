@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Remission</a>|<a href='/digital-beehive/num2/num_0520/'>420
   [Forgiveness]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2878/'>pardon</a>"
+index: "<a href='/digital-beehive/index4/index_2879/'>pardon</a>"
 item: "#item-e5e568bc3"
 unparsed: 
 line: 'Entry: Pardon|Topic: Pardon|Xref: Remission|Xref: 420 [Forgiveness]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,3177,600,180/250,/0/default.jpg
 label: Pardon
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '029'
 layout: alpha_item
 collection: alpha4

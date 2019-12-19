@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,600,180/250,/0/default.jpg
 label: Laughter
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-num_match: 
 order: '075'
 layout: alpha_item
 collection: alpha3

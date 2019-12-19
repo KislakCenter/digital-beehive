@@ -2,8 +2,9 @@
 pid: index_0786
 volume: Volume 3
 image_number: '14'
-head: confidence
-entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [Confidence]</a>"
+head: confession auricular
+entry: "<a href='/digital-beehive/alpha1/alpha_0168/'>a</a>|<a href='/digital-beehive/toc/toc2_175/'>940
+  [Auricular Confession]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-27bbb030c"
+item: "#item-2d77105a6"
 unparsed: 
-line: 'Head: confidence|Entry: 719 [Confidence]|#item-27bbb030c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/389,3065,534,160/full/0/default.jpg
+line: 'Head: confession auricular|Entry: a|Entry: 940 [Auricular Confession]|#item-2d77105a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/389,2968,653,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216878536
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216858986
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/389,3065,534,160/150,/0/default.jpg
-label: confidence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/389,2968,653,122/150,/0/default.jpg
+label: confession auricular
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0784'
+order: '0785'
 layout: index_item
 collection: index1
 ---

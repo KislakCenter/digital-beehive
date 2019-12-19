@@ -2,27 +2,27 @@
 pid: index_3772
 volume: Volume 3
 image_number: '43'
-head: so
+head: snuffers
 entry: 
 topic: 
 first_letter: S
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4144/'>thus</a>"
+see: 
 index: 
-item: "#item-70621c3a4"
+item: "#item-6902a5bf0"
 unparsed: 
-line: 'Head: so|See: thus|#item-70621c3a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1616,322,98/full/0/default.jpg
+line: 'Head: snuffers|Page: p.38 [Image 1.98]|#item-6902a5bf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1594,1533,459,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586020760
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585995416
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1600,1616,322,98/150,/0/default.jpg
-label: so
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1594,1533,459,109/150,/0/default.jpg
+label: snuffers
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1019'
+order: '1020'
 layout: index_item
 collection: index4
 ---

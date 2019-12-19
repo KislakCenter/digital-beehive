@@ -9,7 +9,7 @@ first_letter: N
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3766/'>Sneez</a>"
+see: "<a href='/digital-beehive/index4/index_3767/'>Sneez</a>"
 index: 
 item: "#item-a9e91958e"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,35
 label: neesing
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '757'
+order: '758'
 layout: index_item
 collection: index3
 ---

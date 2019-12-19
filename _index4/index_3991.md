@@ -3,8 +3,8 @@ pid: index_3991
 volume: Volume 3
 image_number: '46'
 head: Lord's Supper
-entry: "<a href='/digital-beehive/alpha4/alpha_0930/'>a</a>|<a href='/digital-beehive/toc/toc2_117/'>482
-  [Communion or Partaking]</a>|<a href='/digital-beehive/toc/toc2_343/'>1773 [Lord's
+entry: "<a href='/digital-beehive/alpha4/alpha_0930/'>a</a>|<a href='/digital-beehive/num2/num_0597/'>482
+  [Com[m]union or Partaking]</a>|<a href='/digital-beehive/toc/toc2_343/'>1773 [Lord's
   Supper]</a>|<a href='/digital-beehive/toc/toc2_391/'>2240 [Lord's Supper]</a>|<a
   href='/digital-beehive/toc/toc2_419/'>2430 [Lord's Supper]</a>"
 topic: 
@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/459,20
 label: Lord's Supper
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1237'
+order: '1239'
 layout: index_item
 collection: index4
 ---

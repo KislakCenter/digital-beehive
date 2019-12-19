@@ -7,7 +7,7 @@ entry: 732 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index1/index_0362/'>Best</a>"
+add: Best
 xref: 
 see: 
 index: 

@@ -2,8 +2,8 @@
 pid: index_4580
 volume: Volume 3
 image_number: '53'
-head: without Christ
-entry: "<a href='/digital-beehive/toc/toc2_089/'>284 [without Xst]</a>"
+head: without
+entry: "<a href='/digital-beehive/toc/toc2_153/'>687 [Without]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2ed880806"
+item: "#item-eb2fa721a"
 unparsed: 
-line: 'Head: without Christ|Entry: 284 [without Xst]|#item-2ed880806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
+line: 'Head: without|Entry: 687 [Without]|#item-eb2fa721a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,2185,421,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792724694
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/150,/0/default.jpg
-label: without Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/173,2185,421,113/150,/0/default.jpg
+label: without
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '547'
+order: '542'
 layout: index_item
 collection: index5
 ---

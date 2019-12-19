@@ -3,7 +3,7 @@ pid: index_3848
 volume: Volume 3
 image_number: '44'
 head: spiritual
-entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1833,2
 label: spiritual
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1095'
+order: '1096'
 layout: index_item
 collection: index4
 ---

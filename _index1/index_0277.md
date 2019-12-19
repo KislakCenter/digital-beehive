@@ -2,26 +2,26 @@
 pid: index_0277
 volume: Volume 3
 image_number: '9'
-head: "[:11.]"
-entry: 
+head: baldness
+entry: "<a href='/digital-beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
 topic: 
 first_letter: B
-page: 
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-f80e21001"
-unparsed: 'Type: Index|Insertion Xref: [:11.]|#item-f80e21001'
-line: 'Type: Index|Insertion Xref: [:11.]|#item-f80e21001'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/full/0/default.jpg
+item: "#item-19fb3de50"
+unparsed: 
+line: 'Head: baldness|Page: p.43 [Image 1.103]|Entry: a|Entry: 4831 [PAGE_MISSING]|#item-19fb3de50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584664923
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403183123
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,991,138,93/150,/0/default.jpg
-label: "[:11.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/150,/0/default.jpg
+label: baldness
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4674/'>attributes of god</a>"
+insertion_xref: 
 order: '0276'
 layout: index_item
 collection: index1

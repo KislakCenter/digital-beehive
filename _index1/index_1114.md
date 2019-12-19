@@ -3,7 +3,7 @@ pid: index_1114
 volume: Volume 3
 image_number: '17'
 head: divines and divinity
-entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,14
 label: divines and divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1111'
+order: '1113'
 layout: index_item
 collection: index1
 ---

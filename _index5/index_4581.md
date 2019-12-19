@@ -2,28 +2,27 @@
 pid: index_4581
 volume: Volume 3
 image_number: '53'
-head: witnesses
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Witnesses]</a>|<a href='/digital-beehive/toc/toc2_386/'>2209
-  [Witness]</a>"
+head: without Christ
+entry: "<a href='/digital-beehive/num2/num_0319/'>284 [Without Xst]</a>"
 topic: 
 first_letter: W
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4101/'>testimony</a>"
+see: 
 index: 
-item: "#item-0be58393f"
+item: "#item-2ed880806"
 unparsed: 
-line: 'Head: witnesses|See: testimony|Entry: 1007 [Witnesses]|Entry: 2209 [Witness]|#item-0be58393f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/full/0/default.jpg
+line: 'Head: without Christ|Entry: 284 [without Xst]|#item-2ed880806'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792860680
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/180,2383,691,202/150,/0/default.jpg
-label: witnesses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/150,/0/default.jpg
+label: without Christ
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '548'
+order: '543'
 layout: index_item
 collection: index5
 ---

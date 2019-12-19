@@ -2,9 +2,8 @@
 pid: index_2494
 volume: Volume 3
 image_number: '30'
-head: merry
-entry: "<a href='/digital-beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
-  [Joy]</a>"
+head: Mermaids
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1563 [Mermain & Mermaids]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c8dfa3810"
+item: "#item-e1ba2e538"
 unparsed: 
-line: 'Head: merry|Entry: 1392 [Joy]|Entry: 1940 [Joy]|#item-c8dfa3810'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1122,3173,593,140/full/0/default.jpg
+line: 'Head: Mermaids|Entry: 1563 [Mermain & Mermaids]|#item-e1ba2e538'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1101,3261,462,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269649560
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269798261
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1122,3173,593,140/150,/0/default.jpg
-label: merry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1101,3261,462,127/150,/0/default.jpg
+label: Mermaids
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '574'
+order: '575'
 layout: index_item
 collection: index3
 ---

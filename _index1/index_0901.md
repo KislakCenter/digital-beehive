@@ -3,7 +3,7 @@ pid: index_0901
 volume: Volume 3
 image_number: '15'
 head: credit
-entry: "<a href='/digital-beehive/alpha1/alpha_0193/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0193/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,67
 label: credit
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0898'
+order: '0900'
 layout: index_item
 collection: index1
 ---

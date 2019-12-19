@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0401/'>Hatred</a>|<a href='/digital-beehive/alpha3/alpha_0558/'>Love
   of enemies</a>|858 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index2/index_1265/'>enmity</a>"
+index: "<a href='/digital-beehive/index2/index_1266/'>enmity</a>"
 item: "#item-a6c8131c3"
 unparsed: 
 line: 'Entry: Enmity|Topic: Enmity|Xref: Hatred|Xref: Love of enemies|Xref: 858 [PAGE_MISSING]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,600,180/250,/0/default.jpg
 label: Enmity
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-num_match: 
 order: '015'
 layout: alpha_item
 collection: alpha2

@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0261/'>bacchanals</a>"
+see: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 index: 
 item: "#item-6c3aead0e"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1633,6
 label: wakes
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
 insertion_xref: 
-order: '428'
+order: '423'
 layout: index_item
 collection: index5
 ---

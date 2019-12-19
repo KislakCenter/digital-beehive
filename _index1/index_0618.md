@@ -2,24 +2,24 @@
 pid: index_0618
 volume: Volume 3
 image_number: '12'
-head: cheat
+head: chearful
 entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
+see: "<a href='/digital-beehive/index2/index_1287/'>equanimity</a>"
 index: 
-item: "#item-c94a4acd1"
+item: "#item-35346d7a8"
 unparsed: 
-line: 'Head: cheat|See: fraud|#item-c94a4acd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/full/0/default.jpg
+line: 'Head: chearful|See: equanimity|#item-35346d7a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459211282
+annotation_uri: http://dev.llgc.org.uk/annotation/1532459174242
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,1026,535,137/150,/0/default.jpg
-label: cheat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1818,997,727,116/150,/0/default.jpg
+label: chearful
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0617'

@@ -3,7 +3,7 @@ pid: index_0693
 volume: Volume 3
 image_number: '13'
 head: clerk
-entry: "<a href='/digital-beehive/toc/toc2_086/'>260 [Scribe or publick Notary]</a>"
+entry: "<a href='/digital-beehive/num2/num_0287/'>260 [Scribe or publick Notary]</a>"
 topic: 
 first_letter: C
 page: 

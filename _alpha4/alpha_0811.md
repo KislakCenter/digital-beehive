@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4551 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_3435/'>river</a>"
+index: "<a href='/digital-beehive/index4/index_3436/'>river</a>"
 item: "#item-3012057af"
 unparsed: 
 line: 'Entry: River|Topic: River|Xref: 4551 [PAGE_MISSING]|Index: river|#item-3012057af'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,181,600,180/250,/0/default.jpg
 label: River
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-num_match: 
 order: '163'
 layout: alpha_item
 collection: alpha4

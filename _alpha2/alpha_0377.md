@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/412,3352,600,180/250,/0/default.jpg
 label: Grace
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
-num_match: 
 order: '108'
 layout: alpha_item
 collection: alpha2

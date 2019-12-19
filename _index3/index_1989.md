@@ -2,9 +2,9 @@
 pid: index_1989
 volume: Volume 3
 image_number: '25'
-head: incarnation
-entry: "<a href='/digital-beehive/toc/toc2_125/'>527 [Incarnation]</a>|<a href='/digital-beehive/toc/toc2_283/'>1449
-  [Incarnation of Christ]</a>"
+head: inamoured
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1324 [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_336/'>1716
+  [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_440/'>4862 [Inamoured]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,15 +12,16 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e23d5fa89"
+item: "#item-099db045d"
 unparsed: 
-line: 'Head: incarnation|Entry: 527 [Incarnation]|Entry: 1449 [Incarnation of Christ]|#item-e23d5fa89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,541,748,156/full/0/default.jpg
+line: 'Head: inamoured|Entry: 1324 [Inamoured]|Entry: 1716 [Inamoured]|Entry: 4862
+  [Inamoured]|#item-099db045d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669807483
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669565220
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,541,748,156/150,/0/default.jpg
-label: incarnation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/150,/0/default.jpg
+label: inamoured
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 insertion_xref: 
 order: '070'

@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,848,600,180/250,/0/default.jpg
 label: To Look
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
-num_match: 
 order: '105'
 layout: alpha_item
 collection: alpha3

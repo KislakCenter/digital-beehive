@@ -2,8 +2,8 @@
 pid: index_1850
 volume: Volume 3
 image_number: '24'
-head: hive
-entry: "<a href='/digital-beehive/toc/toc2_307/'>1565 [Hive]</a>"
+head: hither
+entry: "<a href='/digital-beehive/num2/num_0523/'>422 [Hither]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-15c2377c4"
+item: "#item-fc67ca024"
 unparsed: 
-line: 'Head: hive|Entry: 1565 [Hive]|#item-15c2377c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,686,355,157/full/0/default.jpg
+line: 'Head: hither|Entry: 422 [Hither]|#item-fc67ca024'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1138,573,391,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198295948
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581342386
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1137,686,355,157/150,/0/default.jpg
-label: hive
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1138,573,391,114/150,/0/default.jpg
+label: hither
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '669'

@@ -3,7 +3,7 @@ pid: index_0424
 volume: Volume 3
 image_number: '10'
 head: bounty
-entry: "<a href='/digital-beehive/alpha1/alpha_0095/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0095/'>a</a>|a"
 topic: 
 first_letter: B
 page: 

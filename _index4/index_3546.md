@@ -2,27 +2,29 @@
 pid: index_3546
 volume: Volume 3
 image_number: '41'
-head: schole fellows
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Schoolfellow]</a>"
+head: schole
+entry: "<a href='/digital-beehive/alpha4/alpha_0834/'>a</a>|839 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_409/'>2354 [Schoole]</a>"
 topic: 
 first_letter: S
-page: 
+page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-106e9a67c"
+item: "#item-a59e4a28d"
 unparsed: 
-line: 'Head: schole fellows|Entry: 1416 [Schoolfellow]|#item-106e9a67c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/full/0/default.jpg
+line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
+  2354 [Schoole]|#item-a59e4a28d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240513597
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,1117,547,146/150,/0/default.jpg
-label: schole fellows
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/150,/0/default.jpg
+label: schole
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0793'
+order: '0794'
 layout: index_item
 collection: index4
 ---

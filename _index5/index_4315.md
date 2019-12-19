@@ -2,8 +2,8 @@
 pid: index_4315
 volume: Volume 3
 image_number: '49'
-head: verses
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
+head: verbatim
+entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Verbatim]</a>"
 topic: 
 first_letter: U/V
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-878554fc2"
+item: "#item-002398d2d"
 unparsed: 
-line: 'Head: verses|Entry: 1585 [Verses]|#item-878554fc2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/956,3197,393,152/full/0/default.jpg
+line: 'Head: verbatim|Entry: 536 [Verbatim]|#item-002398d2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/937,3066,453,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658970231
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658844569
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/956,3197,393,152/150,/0/default.jpg
-label: verses
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/937,3066,453,112/150,/0/default.jpg
+label: verbatim
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '282'
+order: '277'
 layout: index_item
 collection: index5
 ---

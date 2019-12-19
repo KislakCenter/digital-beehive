@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/389,4729,600,180/250,/0/default.jpg
 label: Difficulty
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-num_match: 
 order: '234'
 layout: alpha_item
 collection: alpha1

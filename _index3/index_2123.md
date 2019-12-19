@@ -3,7 +3,7 @@ pid: index_2123
 volume: Volume 3
 image_number: '27'
 head: island
-entry: "<a href='/digital-beehive/alpha3/alpha_0489/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0489/'>a</a>|a"
 topic: 
 first_letter: I/J
 page: 

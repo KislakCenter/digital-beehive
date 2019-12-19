@@ -2,9 +2,8 @@
 pid: index_3560
 volume: Volume 3
 image_number: '41'
-head: Scriptures imperfection
-entry: "<a href='/digital-beehive/toc/toc2_197/'>1016 [Scriptures are imperfect as
-  to number]</a>"
+head: Scriptures explained
+entry: "<a href='/digital-beehive/toc/toc2_198/'>1025 [Scripture places Explained]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-effae759d"
+item: "#item-e387416cc"
 unparsed: 
-line: 'Head: Scriptures imperfection|Entry: 1016 [Scriptures are imperfect as to number]|#item-effae759d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/836,2654,660,112/full/0/default.jpg
+line: 'Head: Scriptures explained|Entry: 1025 [Scripture places Explained]|#item-e387416cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/863,2572,582,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241445248
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241380801
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/836,2654,660,112/150,/0/default.jpg
-label: Scriptures imperfection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/863,2572,582,96/150,/0/default.jpg
+label: Scriptures explained
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0807'
+order: '0808'
 layout: index_item
 collection: index4
 ---

@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/792,3538,600,180/250,/0/default.jpg
 label: Disorder
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-num_match: 
 order: '243'
 layout: alpha_item
 collection: alpha1

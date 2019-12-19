@@ -3,7 +3,7 @@ pid: index_3402
 volume: Volume 3
 image_number: '39'
 head: book of revelations
-entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>|a"
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,2
 label: book of revelations
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0649'
+order: '0650'
 layout: index_item
 collection: index4
 ---

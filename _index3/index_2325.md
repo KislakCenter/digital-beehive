@@ -6,7 +6,7 @@ head: womens longing
 entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Womens Longing]</a>|<a href='/digital-beehive/toc/toc2_238/'>1226
   [Womens Longing]</a>|<a href='/digital-beehive/toc/toc2_239/'>1226 [Womens Longing]</a>"
 topic: 
-first_letter: W
+first_letter: L
 page: 
 add: 
 xref: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,51
 label: womens longing
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '002'
+order: '406'
 layout: index_item
-collection: index5
+collection: index3
 ---

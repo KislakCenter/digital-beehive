@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: witch
+see: "<a href='/digital-beehive/index5/index_4574/'>witch</a>"
 index: 
 item: "#item-d909c25e2"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/577,14
 label: sorcery
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1049'
+order: '1050'
 layout: index_item
 collection: index4
 ---

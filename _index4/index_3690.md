@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/num1/num_0235/'>222 [Shrovetide]</a>"
 topic: 
 first_letter: S
 page: 
-add: "<a href='/digital-beehive/index1/index_0261/'>bacchanals</a>"
+add: bacchanals
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1789,2
 label: shrovetide
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0937'
+order: '0938'
 layout: index_item
 collection: index4
 ---

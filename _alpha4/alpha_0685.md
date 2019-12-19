@@ -10,7 +10,7 @@ page:
 add: 
 xref: 1836 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_2901/'>pasquil</a>"
+index: "<a href='/digital-beehive/index4/index_2903/'>pasquil</a>"
 item: "#item-337b1b5ff"
 unparsed: 
 line: 'Entry: Pasquil|Topic: Pasquil|Xref: 1836 [PAGE_MISSING]|Index: pasquil|#item-337b1b5ff'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/278,710,600,180/250,/0/default.jpg
 label: Pasquil
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-num_match: 
 order: '038'
 layout: alpha_item
 collection: alpha4

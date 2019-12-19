@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: 
-see: proof|<a href='/digital-beehive/index5/index_4085/'>temptation</a>
+see: "<a href='/digital-beehive/index4/index_3191/'>proof</a>|<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 index: 
 item: "#item-a6fb58496"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,53
 label: tryal
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 insertion_xref: 
-order: '225'
+order: '220'
 layout: index_item
 collection: index5
 ---

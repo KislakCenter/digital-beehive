@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1176/'>dwarf</a>|<a
+see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1178/'>dwarf</a>|<a
   href='/digital-beehive/index5/index_4216/'>transitory</a>"
 index: 
 item: "#item-de2a7d9a5"
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2
 label: short
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0933'
+order: '0934'
 layout: index_item
 collection: index4
 ---

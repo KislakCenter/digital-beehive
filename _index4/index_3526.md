@@ -2,27 +2,27 @@
 pid: index_3526
 volume: Volume 3
 image_number: '41'
-head: saucidge
-entry: 
+head: sauce
+entry: 4713 [PAGE_MISSING]
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
+see: 
 index: 
-item: "#item-585f2a74f"
+item: "#item-5e9fe7524"
 unparsed: 
-line: 'Head: saucidge|See: pudding|#item-585f2a74f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,2258,655,174/full/0/default.jpg
+line: 'Head: sauce|Entry: 4713 [PAGE_MISSING]|#item-5e9fe7524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239381989
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239338378
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,2258,655,174/150,/0/default.jpg
-label: saucidge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,2217,452,121/150,/0/default.jpg
+label: sauce
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0773'
+order: '0774'
 layout: index_item
 collection: index4
 ---

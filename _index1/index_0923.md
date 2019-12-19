@@ -2,8 +2,8 @@
 pid: index_0923
 volume: Volume 3
 image_number: '15'
-head: cuckold|cuckow
-entry: "<a href='/digital-beehive/toc/toc2_337/'>1730 [Cockold]</a>|4749 [PAGE_MISSING]"
+head: crystal
+entry: "<a href='/digital-beehive/toc/toc2_323/'>1645 [Chrystall]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9fa9be56a"
+item: "#item-3dc168891"
 unparsed: 
-line: 'Head: cuckold|Head: cuckow|Entry: a|Entry: 1730 [Cockold]|Entry: 4749 [PAGE_MISSING]|#item-9fa9be56a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/full/0/default.jpg
+line: 'Head: crystal|Entry: 1645 [Chrystall]|#item-3dc168891'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/855,2896,428,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577986281
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577911644
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/150,/0/default.jpg
-label: cuckold|cuckow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/855,2896,428,134/150,/0/default.jpg
+label: crystal
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0920'
+order: '0922'
 layout: index_item
 collection: index1
 ---

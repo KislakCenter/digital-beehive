@@ -3,7 +3,7 @@ pid: index_3461
 volume: Volume 3
 image_number: '40'
 head: rue
-entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>|a"
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2
 label: rue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0708'
+order: '0709'
 layout: index_item
 collection: index4
 ---

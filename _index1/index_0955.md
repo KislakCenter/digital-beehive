@@ -2,27 +2,27 @@
 pid: index_0955
 volume: Volume 3
 image_number: '15'
-head: first day
-entry: "<a href='/digital-beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
+head: day of humiliation
+entry: "<a href='/digital-beehive/num2/num_0336/'>298 [Day of humiliation]</a>"
 topic: 
 first_letter: D
 page: 
-add: 
+add: Visitation
 xref: 
 see: 
 index: 
-item: "#item-5e96bfd68"
+item: "#item-82ba7c3e6"
 unparsed: 
-line: 'Head: first day|Entry: 511 [First day of the Week]|#item-5e96bfd68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,2153,472,96/full/0/default.jpg
+line: 'Head: day of humiliation|Entry: 298 [Day of humiliation]|Add: Visitation|#item-82ba7c3e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391656745
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391627623
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,2153,472,96/150,/0/default.jpg
-label: first day
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1526,2042,704,133/150,/0/default.jpg
+label: day of humiliation
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0952'
+order: '0954'
 layout: index_item
 collection: index1
 ---

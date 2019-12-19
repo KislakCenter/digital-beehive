@@ -7,7 +7,7 @@ entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 topic: 
 first_letter: T
 page: 
-add: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
+add: craftiness
 xref: 
 see: 
 index: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1
 label: tricks
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '205'
+order: '200'
 layout: index_item
 collection: index5
 ---

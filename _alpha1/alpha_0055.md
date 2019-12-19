@@ -8,7 +8,8 @@ topic: Banishment
 first_letter: B
 page: 
 add: 
-xref: Pilgrimage|<a href='/digital-beehive/toc/toc2_230/'>1182 [Banishment]</a>
+xref: "<a href='/digital-beehive/num1/num_0030/'>Pilgrimage</a>|<a href='/digital-beehive/toc/toc2_230/'>1182
+  [Banishment]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
 item: "#item-ccc0b9c78"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/324,427,600,180/250,/0/default.jpg
 label: Banishment
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-num_match: 
 order: '054'
 layout: alpha_item
 collection: alpha1

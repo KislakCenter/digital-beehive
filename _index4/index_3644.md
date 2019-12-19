@@ -10,7 +10,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3764/'>snake</a>"
+see: "<a href='/digital-beehive/index4/index_3765/'>snake</a>"
 index: 
 item: "#item-4fb75ddf2"
 unparsed: 
@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1125,9
 label: serpent
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0891'
+order: '0892'
 layout: index_item
 collection: index4
 ---

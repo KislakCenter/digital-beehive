@@ -8,7 +8,7 @@ topic: Trance
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Extasies]</a>|Enthusiasm"
+xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Extasies]</a>|<a href='/digital-beehive/num1/num_0035/'>Enthusiasm</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4212/'>trance</a>"
 item: "#item-abf4403a2"
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,917,600,180/250,/0/default.jpg
 label: Trance
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-num_match: 
 order: '039'
 layout: alpha_item
 collection: alpha5

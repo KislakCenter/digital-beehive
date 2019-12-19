@@ -9,7 +9,7 @@ first_letter: N
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1843/'>history</a>"
+see: "<a href='/digital-beehive/index2/index_1844/'>history</a>"
 index: 
 item: "#item-ab62c539a"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/398,90
 label: narrative
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '724'
+order: '725'
 layout: index_item
 collection: index3
 ---

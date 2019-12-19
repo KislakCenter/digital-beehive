@@ -3,7 +3,7 @@ pid: index_4018
 volume: Volume 3
 image_number: '46'
 head: sweat
-entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1092,1
 label: sweat
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1264'
+order: '1266'
 layout: index_item
 collection: index4
 ---

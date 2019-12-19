@@ -3,7 +3,7 @@ pid: index_0986
 volume: Volume 3
 image_number: '16'
 head: deer
-entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/380,14
 label: deer
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0983'
+order: '0985'
 layout: index_item
 collection: index1
 ---

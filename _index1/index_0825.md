@@ -2,8 +2,8 @@
 pid: index_0825
 volume: Volume 3
 image_number: '14'
-head: continency
-entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>"
+head: context
+entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [Context]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4b8143562"
+item: "#item-9ae233cd7"
 unparsed: 
-line: 'Head: continency|Entry: a|#item-4b8143562'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/full/0/default.jpg
+line: 'Head: context|Entry: 867 [Context]|#item-9ae233cd7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1134,3559,459,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559205471
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542365549
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/150,/0/default.jpg
-label: continency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1134,3559,459,147/150,/0/default.jpg
+label: context
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 insertion_xref: 
-order: '0823'
+order: '0824'
 layout: index_item
 collection: index1
 ---

@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: perplex|<a href='/digital-beehive/index5/index_4357/'>unawares</a>
+see: "<a href='/digital-beehive/index4/index_2965/'>perplex</a>|<a href='/digital-beehive/index5/index_4357/'>unawares</a>"
 index: 
 item: "#item-9ce5e95f5"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1103,2
 label: surprise
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '1251'
+order: '1253'
 layout: index_item
 collection: index4
 ---

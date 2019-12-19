@@ -2,8 +2,8 @@
 pid: index_1662
 volume: Volume 3
 image_number: '22'
-head: godliness
-entry: "<a href='/digital-beehive/toc/toc2_301/'>1532 [Godliness]</a>"
+head: godfather
+entry: "<a href='/digital-beehive/alpha2/alpha_0370/'>a</a>|a"
 topic: 
 first_letter: G
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c5f23ed9d"
+item: "#item-235b1ba60"
 unparsed: 
-line: 'Head: godliness|Entry: 1532 [Godliness]|#item-c5f23ed9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/full/0/default.jpg
+line: 'Head: godfather|Entry: a|#item-235b1ba60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1179,3033,402,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050759955
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050694971
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/150,/0/default.jpg
-label: godliness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1179,3033,402,148/150,/0/default.jpg
+label: godfather
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '482'

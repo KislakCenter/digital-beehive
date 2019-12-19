@@ -3,7 +3,7 @@ pid: index_2293
 volume: Volume 3
 image_number: '28'
 head: likeness
-entry: "<a href='/digital-beehive/toc/toc2_308/'>1567 [Likeness]</a>|4702 [PAGE_MISSING]"
+entry: a|<a href='/digital-beehive/toc/toc2_308/'>1567 [Likeness]</a>|4702 [PAGE_MISSING]
 topic: 
 first_letter: L
 page: 

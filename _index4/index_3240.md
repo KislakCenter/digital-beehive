@@ -2,14 +2,14 @@
 pid: index_3240
 volume: Volume 3
 image_number: '38'
-head: pusillian
+head: pusillan
 entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: faintheart
+see: "<a href='/digital-beehive/index2/index_1379/'>faintheart</a>"
 index: 
 item: "#item-ff196699f"
 unparsed: 
@@ -19,10 +19,10 @@ full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/
 annotation_uri: http://dev.llgc.org.uk/annotation/1558452520637
 insertion: 
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/391,2319,804,142/150,/0/default.jpg
-label: pusillian
+label: pusillan
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0487'
+order: '0488'
 layout: index_item
 collection: index4
 ---

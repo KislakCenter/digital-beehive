@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index5/index_4590/'>women beaten</a>"
+index: "<a href='/digital-beehive/index5/index_4591/'>women beaten</a>"
 item: "#item-53da03350"
 unparsed: 
 line: 'Entry: Womans beating|Topic: Womans beating|Index: women beaten|#item-53da03350'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/356,3917,600,180/250,/0/default.jpg
 label: Womans beating
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '110'
 layout: alpha_item
 collection: alpha5

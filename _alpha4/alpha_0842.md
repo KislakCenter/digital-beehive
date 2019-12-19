@@ -8,7 +8,8 @@ topic: Security
 first_letter: S
 page: 
 add: 
-xref: Preparation|<a href='/digital-beehive/toc/toc2_170/'>914 [Security]</a>
+xref: "<a href='/digital-beehive/num1/num_0131/'>Preparation</a>|<a href='/digital-beehive/toc/toc2_170/'>914
+  [Security]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3588/'>security</a>"
 item: "#item-d86effcab"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,362,600,180/250,/0/default.jpg
 label: Security
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-num_match: 
 order: '194'
 layout: alpha_item
 collection: alpha4

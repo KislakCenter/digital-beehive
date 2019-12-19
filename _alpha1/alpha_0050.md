@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0937/'>Tautology</a>|<a href='/digital-beehive/num2/num_0532/'>430
   [Babbling]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0259/'>Babbling</a>"
+index: "<a href='/digital-beehive/index1/index_0260/'>Babbling</a>"
 item: "#item-7be7b5bcb"
 unparsed: 
 line: 'Entry: Babbling|Topic: Babbling|Xref: Tautology|Xref: 430 [Babbling]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/843,3613,600,180/250,/0/default.jpg
 label: Babbling
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
-num_match: 
 order: '049'
 layout: alpha_item
 collection: alpha1

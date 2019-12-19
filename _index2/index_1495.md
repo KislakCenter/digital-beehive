@@ -3,7 +3,7 @@ pid: index_1495
 volume: Volume 3
 image_number: '21'
 head: fontanell
-entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>|a"
 topic: 
 first_letter: F
 page: 

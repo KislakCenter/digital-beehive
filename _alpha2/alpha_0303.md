@@ -8,8 +8,8 @@ topic: External Worship
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1060/'>will-Worship</a>|<a href='/digital-beehive/toc/toc2_078/'>207
-  [Outside Religion]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_1060/'>will-Worship</a>|<a href='/digital-beehive/num1/num_0217/'>207
+  [Outside religion]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1363/'>external worship</a>"
 item: "#item-287033ba0"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/402,2395,600,180/250,/0/default.jpg
 label: 'Extern : Worship'
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-num_match: 
 order: '034'
 layout: alpha_item
 collection: alpha2

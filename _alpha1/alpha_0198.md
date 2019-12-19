@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4544 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index1/index_0916/'>crown</a>"
+index: "<a href='/digital-beehive/index1/index_0917/'>crown</a>"
 item: "#item-dbc28f448"
 unparsed: 
 line: 'Entry: Crown|Topic: Crown|Xref: 4544 [PAGE_MISSING]|Index: crown|#item-dbc28f448'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/817,4378,600,180/250,/0/default.jpg
 label: Crown
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
-num_match: 
 order: '197'
 layout: alpha_item
 collection: alpha1

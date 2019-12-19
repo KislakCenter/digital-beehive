@@ -3,7 +3,7 @@ pid: index_3197
 volume: Volume 3
 image_number: '37'
 head: prophanation
-entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>|a"
 topic: 
 first_letter: P
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,7
 label: prophanation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
-order: '0444'
+order: '0445'
 layout: index_item
 collection: index4
 ---

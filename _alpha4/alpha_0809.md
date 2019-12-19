@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_289/'>1480 [Ring]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3430/'>ring</a>"
+index: "<a href='/digital-beehive/index4/index_3431/'>ring</a>"
 item: "#item-24be7ae64"
 unparsed: 
 line: 'Entry: Ring|Topic: Ring|Xref: 1480 [Ring]|Index: ring|#item-24be7ae64'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,4666,600,180/250,/0/default.jpg
 label: Ring
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
-num_match: 
 order: '161'
 layout: alpha_item
 collection: alpha4

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1
 label: ἀνδρωποπαδῶς
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '662'
+order: '657'
 layout: index_item
 collection: index5
 ---

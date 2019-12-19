@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: capital
+see: "<a href='/digital-beehive/index1/index_0533/'>capital</a>"
 index: 
 item: "#item-6cde0d081"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/869,15
 label: criminal
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0906'
+order: '0908'
 layout: index_item
 collection: index1
 ---

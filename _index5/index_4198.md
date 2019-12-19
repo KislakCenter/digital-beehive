@@ -2,8 +2,8 @@
 pid: index_4198
 volume: Volume 3
 image_number: '48'
-head: to touch
-entry: 847 [PAGE_MISSING]
+head: torturing
+entry: "<a href='/digital-beehive/num2/num_0519/'>419 [Torturing]</a>"
 topic: 
 first_letter: T
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-70c5ce6f2"
+item: "#item-6cb85a76d"
 unparsed: 
-line: 'Head: to touch|Entry: 847 [PAGE_MISSING]|#item-70c5ce6f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1109,252,475,122/full/0/default.jpg
+line: 'Head: torturing|Entry: 419 [Torturing]|#item-6cb85a76d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,3592,577,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278489686
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278370090
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1109,252,475,122/150,/0/default.jpg
-label: to touch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,3592,577,160/150,/0/default.jpg
+label: torturing
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '165'
+order: '160'
 layout: index_item
 collection: index5
 ---

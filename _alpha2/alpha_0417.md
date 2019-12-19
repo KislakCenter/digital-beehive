@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_397/'>2266 [Herring]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1821/'>herring</a>"
+index: "<a href='/digital-beehive/index2/index_1822/'>herring</a>"
 item: "#item-1a2984eec"
 unparsed: 
 line: 'Entry: Herring|Topic: Herring|Xref: 2266 [Herring]|Index: herring|#item-1a2984eec'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/779,2867,600,180/250,/0/default.jpg
 label: Herring
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-num_match: 
 order: '148'
 layout: alpha_item
 collection: alpha2

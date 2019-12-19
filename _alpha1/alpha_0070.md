@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0885/'>Sleep</a>|<a href='/digital-beehive/toc/toc2_124/'>523
   [Bed]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0328/'>bed</a>"
+index: "<a href='/digital-beehive/index1/index_0329/'>bed</a>"
 item: "#item-384c11b92"
 unparsed: 
 line: 'Entry: Bed|Topic: Bed|Xref: Sleep|Xref: 523 [Bed]|Index: bed|#item-384c11b92'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/709,713,600,180/250,/0/default.jpg
 label: Bed
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
-num_match: 
 order: '069'
 layout: alpha_item
 collection: alpha1

@@ -8,7 +8,8 @@ topic: Compassion
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|Quarter|<a href='/digital-beehive/alpha3/alpha_0597/'>misery</a>|Sympathy|<a
+xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|<a href='/digital-beehive/alpha4/alpha_0764/'>Quarter</a>|<a
+  href='/digital-beehive/alpha3/alpha_0597/'>misery</a>|<a href='/digital-beehive/num1/num_0150/'>Sympathy</a>|<a
   href='/digital-beehive/alpha1/alpha_0155/'>Comfort</a>|<a href='/digital-beehive/toc/toc2_281/'>1436
   [Commiseration]</a>"
 see: 
@@ -24,7 +25,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,2231,600,180/250,/0/default.jpg
 label: Compassion
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-num_match: 
 order: '161'
 layout: alpha_item
 collection: alpha1

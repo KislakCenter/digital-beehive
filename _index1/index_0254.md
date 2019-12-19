@@ -2,25 +2,24 @@
 pid: index_0254
 volume: Volume 3
 image_number: '9'
-head: authority
-entry: "<a href='/digital-beehive/alpha1/alpha_0049/'>a</a>|<a href='/digital-beehive/toc/toc2_408/'>2346
-  [Authority]</a>"
+head: authors, out of wch this book's collected
+entry: 
 topic: 
 first_letter: A
-page: 
+page: "<a href='/digital-beehive/toc/toc1_107/'>p.56 [Image 1.117]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-e828db472"
+item: "#item-5f6cabf81"
 unparsed: 
-line: 'Head: authority|Entry: a|Entry: 2346 [Authority]|#item-e828db472'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,2120,636,142/full/0/default.jpg
+line: 'Head: authors, out of wch this book''s collected|Page: p.56 [Image 1.117]|#item-5f6cabf81'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,1905,751,247/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015964802
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015912341
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,2120,636,142/150,/0/default.jpg
-label: authority
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,1905,751,247/150,/0/default.jpg
+label: authors, out of wch this book's collected
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0253'

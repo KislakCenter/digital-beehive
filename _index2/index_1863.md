@@ -2,24 +2,24 @@
 pid: index_1863
 volume: Volume 3
 image_number: '24'
-head: homicide
-entry: 
+head: homer
+entry: "<a href='/digital-beehive/toc/toc2_433/'>4821 [WORD_MISSING]</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2616/'>murder</a>"
+see: 
 index: 
-item: "#item-736f74681"
+item: "#item-17a2f5609"
 unparsed: 
-line: 'Head: homicide|See: murder|#item-736f74681'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1155,1848,618,162/full/0/default.jpg
+line: 'Head: homer|Entry: 4821 [WORD_MISSING]|#item-17a2f5609'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1153,1811,401,90/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582799050
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582776320
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1155,1848,618,162/150,/0/default.jpg
-label: homicide
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1153,1811,401,90/150,/0/default.jpg
+label: homer
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '682'

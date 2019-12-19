@@ -8,7 +8,8 @@ topic: Teacher
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0478/'>393 [Teacher]</a>|False Prophets"
+xref: "<a href='/digital-beehive/num2/num_0478/'>393 [Teacher]</a>|<a href='/digital-beehive/num1/num_0041/'>False
+  Prophets</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4072/'>teachers</a>"
 item: "#item-e5a7c5921"
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/346,3102,600,180/250,/0/default.jpg
 label: Teacher
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-num_match: 
 order: '004'
 layout: alpha_item
 collection: alpha5

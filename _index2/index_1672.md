@@ -2,8 +2,9 @@
 pid: index_1672
 volume: Volume 3
 image_number: '22'
-head: "[:29.]"
-entry: 
+head: gospel
+entry: "<a href='/digital-beehive/alpha2/alpha_0374/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>967
+  [Gospel]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,17 +12,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bb7022dd5"
-unparsed: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
-line: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/full/0/default.jpg
+item: "#item-e02b60a26"
+unparsed: 
+line: 'Head: gospel|Entry: a|Entry: 967 [Gospel]|#item-e02b60a26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1840,730,429,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046062431
+annotation_uri: http://dev.llgc.org.uk/annotation/1561051998949
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/150,/0/default.jpg
-label: "[:29.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1840,730,429,138/150,/0/default.jpg
+label: gospel
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4694/'>gnashing of t.</a>"
+insertion_xref: 
 order: '491'
 layout: index_item
 collection: index2

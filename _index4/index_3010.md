@@ -2,8 +2,8 @@
 pid: index_3010
 volume: Volume 3
 image_number: '35'
-head: pillory
-entry: 1846 [PAGE_MISSING]
+head: pills
+entry: "<a href='/digital-beehive/toc/toc2_155/'>699 [Pills]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-70b747666"
+item: "#item-12307cfdf"
 unparsed: 
-line: 'Head: pillory|Entry: 1846 [PAGE_MISSING]|#item-70b747666'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1520,1347,524,137/full/0/default.jpg
+line: 'Head: pills|Entry: 699 [Pills]|#item-12307cfdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1404,355,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976380219
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976412860
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1520,1347,524,137/150,/0/default.jpg
-label: pillory
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1404,355,141/150,/0/default.jpg
+label: pills
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0258'

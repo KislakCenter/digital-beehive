@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_206/'>1065 [Agony]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0077/'>agony</a>"
+index: "<a href='/digital-beehive/index1/index_0078/'>agony</a>"
 item: "#item-b7d840586"
 unparsed: 
 line: 'Entry: Agony|Topic: Agony|Xref: 1065 [Agony]|Index: agony|#item-b7d840586'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,953,600,180/250,/0/default.jpg
 label: Agony
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
-num_match: 
 order: '012'
 layout: alpha_item
 collection: alpha1

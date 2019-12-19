@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1641/'>God's blessings</a>"
+index: "<a href='/digital-beehive/index2/index_1643/'>God's blessings</a>"
 item: "#item-501e61424"
 unparsed: 
 line: 'Entry: God''s blessings|Topic: God''s blessings|Index: God''s blessings|#item-501e61424'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/754,4330,600,180/250,/0/default.jpg
 label: God's blessings
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
-num_match: 
 order: '097'
 layout: alpha_item
 collection: alpha2

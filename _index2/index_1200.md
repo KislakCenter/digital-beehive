@@ -2,9 +2,8 @@
 pid: index_1200
 volume: Volume 3
 image_number: '18'
-head: ecclesiastical revenues
-entry: "<a href='/digital-beehive/toc/toc2_060/'>34 [Ecclesiastical (:excissive:)
-  Revenues]</a>|<a href='/digital-beehive/toc/toc2_328/'>1670 [Ecclesiastical Revenues]</a>"
+head: ebbing & flowing
+entry: "<a href='/digital-beehive/toc/toc2_243/'>1246 [Ebbing and Flowing]</a>"
 topic: 
 first_letter: E
 page: 
@@ -12,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4fc4ddb2a"
+item: "#item-e821e4873"
 unparsed: 
-line: 'Head: ecclesiastical revenues|Entry: 34 [Ecclesiastical (:excissive:) Revenues]|Entry:
-  1670 [Ecclesiastical Revenues]|#item-4fc4ddb2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1162,364,654,109/full/0/default.jpg
+line: 'Head: ebbing & flowing|Entry: 1246 [Ebbing and Flowing]|#item-e821e4873'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559670507797
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668391981
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1162,364,654,109/150,/0/default.jpg
-label: ecclesiastical revenues
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/375,3408,752,177/150,/0/default.jpg
+label: ebbing & flowing
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '020'

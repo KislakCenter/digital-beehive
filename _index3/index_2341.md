@@ -3,7 +3,7 @@ pid: index_2341
 volume: Volume 3
 image_number: '29'
 head: love of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>|a"
 topic: 
 first_letter: L
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/171,20
 label: love of Christ
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '421'
+order: '422'
 layout: index_item
 collection: index3
 ---

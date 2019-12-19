@@ -2,9 +2,9 @@
 pid: index_4608
 volume: Volume 3
 image_number: '53'
-head: old & new words
-entry: "<a href='/digital-beehive/toc/toc2_430/'>4810 [Old & obsolete words: New fangled
-  words]</a>"
+head: strange words
+entry: "<a href='/digital-beehive/toc/toc2_126/'>536 [Rare words]</a>|<a href='/digital-beehive/toc/toc2_320/'>1629
+  [Rare words]</a>"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-6898f208f"
+item: "#item-81fac9b93"
 unparsed: 
-line: 'Head: old & new words|Entry: 4810 [Old & obsolete words: New fangled words]|#item-6898f208f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2032,553,90/full/0/default.jpg
+line: 'Head: strange words|Entry: 536 [Rare words]|Entry: 1629 [Rare words]|#item-81fac9b93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796827396
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796748840
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2032,553,90/150,/0/default.jpg
-label: old & new words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/150,/0/default.jpg
+label: strange words
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '575'
+order: '570'
 layout: index_item
 collection: index5
 ---

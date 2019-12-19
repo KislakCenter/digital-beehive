@@ -2,25 +2,24 @@
 pid: index_1872
 volume: Volume 3
 image_number: '24'
-head: horse
-entry: "<a href='/digital-beehive/alpha2/alpha_0430/'>a</a>|<a href='/digital-beehive/toc/toc2_166/'>892
-  [Horse]</a>"
+head: horn
+entry: 774 [PAGE_MISSING]
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-c97b96213"
+item: "#item-14aba5e74"
 unparsed: 
-line: 'Head: horse|Page: p.34 [Image 1.94]|Entry: a|Entry: 892 [Horse]|#item-c97b96213'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1141,2817,544,158/full/0/default.jpg
+line: 'Head: horn|Page: p.10 [Image 1.70]|Entry: 774 [PAGE_MISSING]|#item-14aba5e74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583773304
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583645346
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1141,2817,544,158/150,/0/default.jpg
-label: horse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/150,/0/default.jpg
+label: horn
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '691'

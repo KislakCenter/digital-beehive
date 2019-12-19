@@ -3,7 +3,7 @@ pid: index_3325
 volume: Volume 3
 image_number: '39'
 head: to rectify
-entry: "<a href='/digital-beehive/toc/toc2_115/'>464 [Amending]</a>"
+entry: 464 [Amending]
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/124,74
 label: to rectify
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 insertion_xref: 
-order: '0572'
+order: '0573'
 layout: index_item
 collection: index4
 ---

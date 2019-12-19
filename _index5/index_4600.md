@@ -2,8 +2,9 @@
 pid: index_4600
 volume: Volume 3
 image_number: '53'
-head: wonderful things
-entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>"
+head: wonder
+entry: "<a href='/digital-beehive/alpha5/alpha_1049/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1423
+  [Wonder]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9d54d55d6"
+item: "#item-d8d033f7a"
 unparsed: 
-line: 'Head: wonderful things|Entry: a|#item-9d54d55d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/full/0/default.jpg
+line: 'Head: wonder|Entry: a|Entry: 1423 [Wonder]|#item-d8d033f7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796213984
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796197843
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/873,1132,586,146/150,/0/default.jpg
-label: wonderful things
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1037,517,109/150,/0/default.jpg
+label: wonder
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '567'
+order: '562'
 layout: index_item
 collection: index5
 ---

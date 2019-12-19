@@ -2,26 +2,24 @@
 pid: index_0629
 volume: Volume 3
 image_number: '12'
-head: child
-entry: "<a href='/digital-beehive/alpha1/alpha_0139/'>a</a>|<a href='/digital-beehive/num2/num_0351/'>308
-  [Children]</a>|<a href='/digital-beehive/toc/toc2_377/'>2117 [Children]</a>"
+head: chiefly
+entry: "<a href='/digital-beehive/toc/toc2_156/'>702 [Chiefly]</a>"
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-e8e9ca44d"
+item: "#item-2c5bd1bd9"
 unparsed: 
-line: 'Head: child|Page: p.42 [Image 1.102]|Entry: a|Entry: 308 [Children]|Entry:
-  2117 [Children]|#item-e8e9ca44d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,2062,737,158/full/0/default.jpg
+line: 'Head: chiefly|Entry: 702 [Chiefly]|#item-2c5bd1bd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460785757
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460666705
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,2062,737,158/150,/0/default.jpg
-label: child
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/150,/0/default.jpg
+label: chiefly
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0628'

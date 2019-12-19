@@ -3,7 +3,7 @@ pid: index_4484
 volume: Volume 3
 image_number: '52'
 head: washing of feet
-entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/481,44
 label: washing of feet
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '451'
+order: '446'
 layout: index_item
 collection: index5
 ---

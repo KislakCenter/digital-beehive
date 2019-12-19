@@ -2,8 +2,8 @@
 pid: index_0521
 volume: Volume 3
 image_number: '11'
-head: "[:27.]"
-entry: 
+head: canary bird
+entry: "<a href='/digital-beehive/alpha1/alpha_0115/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dc183efb8"
-unparsed: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
-line: 'Type: Index|Insertion Xref: [:27.]|#item-dc183efb8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1413,1596,152,88/full/0/default.jpg
+item: "#item-3bcf6fab4"
+unparsed: 
+line: 'Head: canary bird|Entry: a|#item-3bcf6fab4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,1560,540,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275409261
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495075763
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1413,1596,152,88/150,/0/default.jpg
-label: "[:27.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1571,1560,540,115/150,/0/default.jpg
+label: canary bird
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4692/'>Dr. Burnet</a>"
+insertion_xref: 
 order: '0520'
 layout: index_item
 collection: index1

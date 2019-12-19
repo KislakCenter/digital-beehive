@@ -2,9 +2,9 @@
 pid: index_4606
 volume: Volume 3
 image_number: '53'
-head: few words
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
-  [Laconism]</a>"
+head: words
+entry: "<a href='/digital-beehive/alpha5/alpha_1052/'>a</a>|<a href='/digital-beehive/toc/toc2_264/'>1353
+  [Word]</a>|<a href='/digital-beehive/toc/toc2_371/'>2058 [Words]</a>"
 topic: 
 first_letter: W
 page: 
@@ -12,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7f0da8434"
+item: "#item-d1329f6a2"
 unparsed: 
-line: 'Head: few words|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-7f0da8434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,1845,597,132/full/0/default.jpg
+line: 'Head: words|Entry: a|Entry: 1353 [Word]|Entry: 2058 [Words]|#item-d1329f6a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796653856
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796575329
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,1845,597,132/150,/0/default.jpg
-label: few words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/150,/0/default.jpg
+label: words
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '573'
+order: '568'
 layout: index_item
 collection: index5
 ---

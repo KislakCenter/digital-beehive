@@ -3,8 +3,8 @@ pid: index_4652
 volume: Volume 3
 image_number: '53'
 head: youth
-entry: "<a href='/digital-beehive/alpha5/alpha_1070/'>a</a>|<a href='/digital-beehive/toc/toc2_115/'>467
-  [youth]</a>|<a href='/digital-beehive/toc/toc2_408/'>2347 [Youth]</a>"
+entry: "<a href='/digital-beehive/alpha5/alpha_1070/'>a</a>|467 [youth]|<a href='/digital-beehive/toc/toc2_408/'>2347
+  [Youth]</a>"
 topic: 
 first_letter: Y
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1558,2
 label: youth
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '619'
+order: '614'
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_1756
 volume: Volume 3
 image_number: '23'
 head: hare
-entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>|a"
 topic: 
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"

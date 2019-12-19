@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,3524,600,180/250,/0/default.jpg
 label: Rain bow
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-num_match: 
 order: '124'
 layout: alpha_item
 collection: alpha4

@@ -2,9 +2,8 @@
 pid: index_3511
 volume: Volume 3
 image_number: '41'
-head: the same
-entry: "<a href='/digital-beehive/toc/toc2_086/'>264 [The Same]</a>|<a href='/digital-beehive/toc/toc2_319/'>1621
-  [The Same]</a>"
+head: samaritans
+entry: "<a href='/digital-beehive/toc/toc2_362/'>1974 [Samaritans]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ec046365a"
+item: "#item-7dbf16e5b"
 unparsed: 
-line: 'Head: the same|Entry: 264 [The Same]|Entry: 1621 [The Same]|#item-ec046365a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/full/0/default.jpg
+line: 'Head: samaritans|Entry: 1974 [Samaritans]|#item-7dbf16e5b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,1128,633,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238847411
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238758580
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,1158,621,136/150,/0/default.jpg
-label: the same
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/171,1128,633,115/150,/0/default.jpg
+label: samaritans
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0758'
+order: '0759'
 layout: index_item
 collection: index4
 ---

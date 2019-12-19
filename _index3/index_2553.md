@@ -3,8 +3,8 @@ pid: index_2553
 volume: Volume 3
 image_number: '31'
 head: moderate
-entry: "<a href='/digital-beehive/toc/toc2_059/'>21 [Moderate]</a>|<a href='/digital-beehive/toc/toc2_260/'>1331
-  [Moderation]</a>|<a href='/digital-beehive/toc/toc2_446/'>4916 [Moderation]</a>"
+entry: 21 [Moderate]|<a href='/digital-beehive/toc/toc2_260/'>1331 [Moderation]</a>|<a
+  href='/digital-beehive/toc/toc2_446/'>4916 [Moderation]</a>
 topic: 
 first_letter: M
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,23
 label: moderate
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '633'
+order: '634'
 layout: index_item
 collection: index3
 ---

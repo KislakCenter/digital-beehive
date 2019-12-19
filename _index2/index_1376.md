@@ -3,7 +3,7 @@ pid: index_1376
 volume: Volume 3
 image_number: '20'
 head: factions
-entry: "<a href='/digital-beehive/toc/toc2_061/'>46 [orthodox]</a>"
+entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>"
 topic: 
 first_letter: F
 page: 

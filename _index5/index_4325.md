@@ -2,8 +2,9 @@
 pid: index_4325
 volume: Volume 3
 image_number: '49'
-head: "[:32.]"
-entry: 
+head: victory
+entry: "<a href='/digital-beehive/alpha5/alpha_0991/'>a</a>|<a href='/digital-beehive/toc/toc2_240/'>1235
+  [Victory]</a>|4661 [PAGE_MISSING]"
 topic: 
 first_letter: U/V
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4b9389ac7"
-unparsed: 'Type: Index|Insertion Xref: [:32.]|#item-4b9389ac7'
-line: 'Type: Index|Insertion Xref: [:32.]|#item-4b9389ac7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/2166,891,194,148/full/0/default.jpg
+item: "#item-f6bfbfcb5"
+unparsed: 
+line: 'Head: victory|Entry: a|Entry: 1235 [Victory]|Entry: 4661 [PAGE_MISSING]|#item-f6bfbfcb5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659956578
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659711020
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/2166,891,194,148/150,/0/default.jpg
-label: "[:32.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1624,764,683,106/150,/0/default.jpg
+label: victory
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4699/'>to View</a>|<a href='/digital-beehive/index5/index_4700/'>vigor</a>"
-order: '292'
+insertion_xref: 
+order: '287'
 layout: index_item
 collection: index5
 ---

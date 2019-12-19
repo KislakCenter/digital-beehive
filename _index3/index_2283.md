@@ -2,24 +2,27 @@
 pid: index_2283
 volume: Volume 3
 image_number: '28'
-head: to live well
-entry: "<a href='/digital-beehive/toc/toc2_295/'>1506 [To Live well]</a>"
+head: life
+entry: "<a href='/digital-beehive/alpha3/alpha_0538/'>a</a>|<a href='/digital-beehive/toc/toc2_245/'>1260
+  [Life]</a>|<a href='/digital-beehive/toc/toc2_379/'>2139 [Life]</a>|<a href='/digital-beehive/num1/num_0070/'>69
+  [Life]</a>|<a href='/digital-beehive/toc/toc2_431/'>4812 [Life]</a>"
 topic: 
 first_letter: L
 page: 
-add: "<a href='/digital-beehive/index5/index_4092/'>term</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-c21643520"
+item: "#item-fcb7db8fe"
 unparsed: 
-line: 'Head: to live well|Entry: 1506 [To Live well]|Add: term|#item-c21643520'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/full/0/default.jpg
+line: 'Head: life|Entry: a|Entry: 1260 [Life]|Entry: 2139 [Life]|Entry: 69 [Life]|Entry:
+  4812 [Life]|#item-fcb7db8fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847033745
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846900908
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1142,2868,541,175/150,/0/default.jpg
-label: to live well
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/150,/0/default.jpg
+label: life
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 insertion_xref: 
 order: '364'

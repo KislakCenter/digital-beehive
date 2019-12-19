@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: wit
+see: "<a href='/digital-beehive/index5/index_4571/'>wit</a>"
 index: 
 item: "#item-0c59a386a"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1829,2
 label: sagacity
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0737'
+order: '0738'
 layout: index_item
 collection: index4
 ---

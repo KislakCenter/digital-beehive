@@ -2,8 +2,8 @@
 pid: index_2503
 volume: Volume 3
 image_number: '30'
-head: metempsychosis
-entry: "<a href='/digital-beehive/num1/num_0055/'>55 [Metempsychosis]</a>"
+head: meteors
+entry: 764 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-aee5ef7fd"
+item: "#item-97864ac14"
 unparsed: 
-line: 'Head: metempsychosis|Entry: 55 [Metempsychosis]|#item-aee5ef7fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1841,664,575,131/full/0/default.jpg
+line: 'Head: meteors|Entry: 764 [PAGE_MISSING]|#item-97864ac14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1830,778,434,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273536464
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273567333
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1841,664,575,131/150,/0/default.jpg
-label: metempsychosis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1830,778,434,88/150,/0/default.jpg
+label: meteors
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '583'
+order: '584'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,9 @@
 pid: index_4565
 volume: Volume 3
 image_number: '53'
-head: wire
-entry: 1883 [PAGE_MISSING]
+head: winter
+entry: "<a href='/digital-beehive/alpha5/alpha_1039/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1088
+  [Winter]</a>"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f55f22007"
+item: "#item-785185614"
 unparsed: 
-line: 'Head: wire|Entry: 1883 [PAGE_MISSING]|#item-f55f22007'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/200,734,369,92/full/0/default.jpg
+line: 'Head: winter|Entry: a|Entry: 1088 [Winter]|#item-785185614'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,656,514,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791445971
+annotation_uri: http://dev.llgc.org.uk/annotation/1560791429091
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/200,734,369,92/150,/0/default.jpg
-label: wire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/176,656,514,85/150,/0/default.jpg
+label: winter
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '532'
+order: '527'
 layout: index_item
 collection: index5
 ---

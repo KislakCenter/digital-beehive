@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/758,509,600,180/250,/0/default.jpg
 label: Humanity
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
-num_match: 
 order: '167'
 layout: alpha_item
 collection: alpha2

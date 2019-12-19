@@ -3,7 +3,7 @@ pid: index_2733
 volume: Volume 3
 image_number: '32'
 head: nota benè
-entry: "<a href='/digital-beehive/toc/toc2_067/'>104 [NB. Nota benè]</a>"
+entry: "<a href='/digital-beehive/num1/num_0108/'>104 [NB. Nota benè]</a>"
 topic: 
 first_letter: N
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1844,2
 label: nota benè
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 insertion_xref: 
-order: '813'
+order: '814'
 layout: index_item
 collection: index3
 ---

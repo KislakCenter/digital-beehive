@@ -2,27 +2,27 @@
 pid: index_3535
 volume: Volume 3
 image_number: '41'
-head: scar
-entry: 
+head: scandal
+entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: wound
+see: 
 index: 
-item: "#item-3fa9f6b5e"
+item: "#item-b18891a25"
 unparsed: 
-line: 'Head: scar|See: wound|#item-3fa9f6b5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/full/0/default.jpg
+line: 'Head: scandal|Entry: a|#item-b18891a25'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3139,387,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240096299
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/150,/0/default.jpg
-label: scar
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3139,387,113/150,/0/default.jpg
+label: scandal
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0782'
+order: '0783'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_3528
 volume: Volume 3
 image_number: '41'
-head: Saxony
-entry: "<a href='/digital-beehive/toc/toc2_268/'>1372 [According]</a>"
+head: a saw
+entry: "<a href='/digital-beehive/toc/toc2_134/'>581 [To Saw]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-14bdac9e5"
+item: "#item-6bad285b1"
 unparsed: 
-line: 'Head: Saxony|Entry: 1372 [According]|#item-14bdac9e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/157,2470,482,107/full/0/default.jpg
+line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239982774
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/157,2470,482,107/150,/0/default.jpg
-label: Saxony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/150,/0/default.jpg
+label: a saw
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0775'
+order: '0776'
 layout: index_item
 collection: index4
 ---

@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/316,3461,600,180/250,/0/default.jpg
 label: Self praise
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-num_match: 
 order: '205'
 layout: alpha_item
 collection: alpha4

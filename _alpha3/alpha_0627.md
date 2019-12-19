@@ -10,7 +10,8 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_358/'>1944 [Name of God]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2635/'>name of God</a>"
+index: "<a href='/digital-beehive/index2/index_1649/'>God's name</a>|<a href='/digital-beehive/index3/index_2635/'>name
+  of God</a>"
 item: "#item-e00d8e332"
 unparsed: 
 line: 'Entry: Name of God|Topic: Name of God|Xref: 1944 [Name of God]|Index: name
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,600,180/250,/0/default.jpg
 label: Name of God
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-num_match: 
 order: '183'
 layout: alpha_item
 collection: alpha3

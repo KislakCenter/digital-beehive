@@ -24,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/733,2520,600,180/250,/0/default.jpg
 label: Suffering
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
-num_match: 
 order: '276'
 layout: alpha_item
 collection: alpha4

@@ -3,7 +3,7 @@ pid: index_1814
 volume: Volume 3
 image_number: '24'
 head: heritage
-entry: "<a href='/digital-beehive/alpha2/alpha_0416/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0416/'>a</a>|a"
 topic: 
 first_letter: H
 page: 

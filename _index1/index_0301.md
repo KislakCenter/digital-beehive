@@ -2,9 +2,8 @@
 pid: index_0301
 volume: Volume 3
 image_number: '9'
-head: baseness
-entry: "<a href='/digital-beehive/alpha1/alpha_0062/'>a</a>|<a href='/digital-beehive/toc/toc2_135/'>589
-  [Base]</a>"
+head: barrenness
+entry: "<a href='/digital-beehive/alpha1/alpha_0061/'>a</a>|4555 [PAGE_MISSING]"
 topic: 
 first_letter: B
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b5383cd3f"
+item: "#item-9737e4abc"
 unparsed: 
-line: 'Head: baseness|Entry: a|Entry: 589 [Base]|#item-b5383cd3f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/full/0/default.jpg
+line: 'Head: barrenness|Entry: a|Entry: 4555 [PAGE_MISSING]|#item-9737e4abc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/890,3194,607,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105689365
+annotation_uri: http://dev.llgc.org.uk/annotation/1506105613203
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/150,/0/default.jpg
-label: baseness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/890,3194,607,164/150,/0/default.jpg
+label: barrenness
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0300'

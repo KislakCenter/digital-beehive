@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1513/'>form</a>|<a href='/digital-beehive/index1/index_0932/'>custom</a>"
+see: "<a href='/digital-beehive/index2/index_1513/'>form</a>|<a href='/digital-beehive/index1/index_0934/'>custom</a>"
 index: 
 item: "#item-31de29b16"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2
 label: manner
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '495'
+order: '496'
 layout: index_item
 collection: index3
 ---

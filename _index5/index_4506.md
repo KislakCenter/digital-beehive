@@ -3,7 +3,8 @@ pid: index_4506
 volume: Volume 3
 image_number: '52'
 head: weaver
-entry: a|<a href='/digital-beehive/num1/num_0141/'>136 [Weaver]</a>
+entry: "<a href='/digital-beehive/alpha5/num_0141/'>a</a>|<a href='/digital-beehive/num1/num_0141/'>136
+  [Weaver]</a>"
 topic: 
 first_letter: W
 page: 
@@ -22,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/477,32
 label: weaver
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '473'
+order: '468'
 layout: index_item
 collection: index5
 ---

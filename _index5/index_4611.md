@@ -2,8 +2,8 @@
 pid: index_4611
 volume: Volume 3
 image_number: '53'
-head: Gods Work
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
+head: work
+entry: "<a href='/digital-beehive/alpha5/alpha_1054/'>a</a>|a"
 topic: 
 first_letter: W
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4fe048e48"
+item: "#item-9777e87db"
 unparsed: 
-line: 'Head: Gods Work|Entry: 1057 [God''s work]|#item-4fe048e48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/full/0/default.jpg
+line: 'Head: work|Entry: a|#item-9777e87db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2239,360,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797099869
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796989988
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/865,2334,478,130/150,/0/default.jpg
-label: Gods Work
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/876,2239,360,99/150,/0/default.jpg
+label: work
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 insertion_xref: 
-order: '578'
+order: '573'
 layout: index_item
 collection: index5
 ---

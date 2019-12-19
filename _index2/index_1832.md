@@ -2,24 +2,24 @@
 pid: index_1832
 volume: Volume 3
 image_number: '24'
-head: highminded
-entry: "<a href='/digital-beehive/toc/toc2_238/'>1224 [Insolence]</a>"
+head: Hieronymus
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1572 [Hieronymus]</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: haughty
+see: 
 index: 
-item: "#item-5f895a4c7"
+item: "#item-858cdd810"
 unparsed: 
-line: 'Head: highminded|See: haughty|Entry: 1224 [Insolence]|#item-5f895a4c7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/422,2185,719,189/full/0/default.jpg
+line: 'Head: Hieronymus|Entry: 1572 [Hieronymus]|#item-858cdd810'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/430,2069,605,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576820697
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576661657
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/422,2185,719,189/150,/0/default.jpg
-label: highminded
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/430,2069,605,152/150,/0/default.jpg
+label: Hieronymus
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '651'

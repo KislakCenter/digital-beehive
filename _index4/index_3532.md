@@ -2,8 +2,8 @@
 pid: index_3532
 volume: Volume 3
 image_number: '41'
-head: to scald
-entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [To Burn]</a>"
+head: scabine
+entry: "<a href='/digital-beehive/alpha4/alpha_0832/'>a</a>|a"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-58f555fa2"
+item: "#item-e43295dd5"
 unparsed: 
-line: 'Head: to scald|Entry: 672 [To Burn]|#item-58f555fa2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/full/0/default.jpg
+line: 'Head: scabine|Entry: a|#item-e43295dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/147,2775,388,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240061130
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240038077
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/140,2871,442,160/150,/0/default.jpg
-label: to scald
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/147,2775,388,108/150,/0/default.jpg
+label: scabine
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0779'
+order: '0780'
 layout: index_item
 collection: index4
 ---

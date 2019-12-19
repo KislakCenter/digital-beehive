@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,3901,600,180/250,/0/default.jpg
 label: Disputation
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-num_match: 
 order: '244'
 layout: alpha_item
 collection: alpha1

@@ -9,7 +9,8 @@ first_letter: D
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0932/'>Suspition</a>|<a
-  href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|1842 [PAGE_MISSING]"
+  href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|<a href='/digital-beehive/num1/num_0008/'>Desperate</a>|1842
+  [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
 item: "#item-a95c35cba"
@@ -23,7 +24,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,4462,600,180/250,/0/default.jpg
 label: Distrust
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-num_match: 
 order: '245'
 layout: alpha_item
 collection: alpha1

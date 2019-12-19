@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/823,1282,600,180/250,/0/default.jpg
 label: Church
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-num_match: 
 order: '146'
 layout: alpha_item
 collection: alpha1

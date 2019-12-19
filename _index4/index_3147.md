@@ -3,7 +3,7 @@ pid: index_3147
 volume: Volume 3
 image_number: '37'
 head: prevarication
-entry: "<a href='/digital-beehive/toc/toc2_105/'>398 [Prevarication</a>|Prevaricating]"
+entry: 398 [Prevarication|Prevaricating]
 topic: 
 first_letter: P
 page: 

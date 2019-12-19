@@ -2,8 +2,9 @@
 pid: index_0628
 volume: Volume 3
 image_number: '12'
-head: chiefly
-entry: "<a href='/digital-beehive/toc/toc2_156/'>702 [Chiefly]</a>"
+head: chief
+entry: "<a href='/digital-beehive/num2/num_0458/'>381 [Principal]</a>|<a href='/digital-beehive/toc/toc2_383/'>2174
+  [Chief]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2c5bd1bd9"
+item: "#item-48b808ef3"
 unparsed: 
-line: 'Head: chiefly|Entry: 702 [Chiefly]|#item-2c5bd1bd9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/full/0/default.jpg
+line: 'Head: chief|Entry: 381 [Principal]|Entry: 2174 [Chief]|#item-48b808ef3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1835,1866,543,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460666705
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460620311
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,1949,483,134/150,/0/default.jpg
-label: chiefly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1835,1866,543,130/150,/0/default.jpg
+label: chief
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0627'

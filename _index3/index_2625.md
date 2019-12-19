@@ -3,8 +3,7 @@ pid: index_2625
 volume: Volume 3
 image_number: '31'
 head: mutation
-entry: "<a href='/digital-beehive/alpha3/alpha_0623/'>a</a>|<a href='/digital-beehive/toc/toc2_083/'>244
-  [Mutation]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0623/'>a</a>|244 [Mutation]"
 topic: 
 first_letter: M
 page: 
@@ -23,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1548,2
 label: mutation
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '705'
+order: '706'
 layout: index_item
 collection: index3
 ---

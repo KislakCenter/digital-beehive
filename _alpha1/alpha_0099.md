@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/848,1654,600,180/250,/0/default.jpg
 label: Bribe
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
-num_match: 
 order: '098'
 layout: alpha_item
 collection: alpha1

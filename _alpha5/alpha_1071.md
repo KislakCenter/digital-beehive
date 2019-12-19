@@ -8,7 +8,7 @@ topic: Zeal
 first_letter: Z
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|Lukewarmness|<a
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|<a href='/digital-beehive/num1/num_0027/'>Lukewarmness</a>|<a
   href='/digital-beehive/num1/num_0188/'>180 [Zeal]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4653/'>Zeal</a>"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,4287,600,180/250,/0/default.jpg
 label: Zeal
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-num_match: 
 order: '136'
 layout: alpha_item
 collection: alpha5

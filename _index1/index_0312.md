@@ -2,8 +2,8 @@
 pid: index_0312
 volume: Volume 3
 image_number: '9'
-head: be gone
-entry: "<a href='/digital-beehive/toc/toc2_222/'>1142 [Be gone]</a>"
+head: to be
+entry: 853 [PAGE_MISSING]
 topic: 
 first_letter: B
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e17fb047e"
+item: "#item-76c0f729b"
 unparsed: 
-line: 'Head: be gone|Entry: 1142 [Be gone]|#item-e17fb047e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1586,1283,430,111/full/0/default.jpg
+line: 'Head: to be|Entry: 853 [PAGE_MISSING]|#item-76c0f729b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,1210,362,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018144338
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018091358
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1586,1283,430,111/150,/0/default.jpg
-label: be gone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,1210,362,117/150,/0/default.jpg
+label: to be
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0311'

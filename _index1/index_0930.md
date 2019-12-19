@@ -2,28 +2,27 @@
 pid: index_0930
 volume: Volume 3
 image_number: '15'
-head: curse
-entry: "<a href='/digital-beehive/num1/num_0029/'>29 [Curse]</a>|<a href='/digital-beehive/toc/toc2_209/'>1078
-  [Curse]</a>"
+head: "[:16.]"
+entry: 
 topic: 
-first_letter: C
+first_letter: D
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1e80fb090"
-unparsed: 
-line: 'Head: curse|Entry: 29 [Curse]|Entry: 1078 [Curse]|#item-1e80fb090'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/full/0/default.jpg
+item: "#item-73acd12ec"
+unparsed: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
+line: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539810782980
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275970444
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1571,260,529,129/150,/0/default.jpg
-label: curse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/150,/0/default.jpg
+label: "[:16.]"
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-insertion_xref: 
-order: '0927'
+insertion_xref: "<a href='/digital-beehive/index5/index_4679/'>Cures. curable</a>"
+order: '0929'
 layout: index_item
 collection: index1
 ---

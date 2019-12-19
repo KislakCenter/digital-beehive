@@ -2,9 +2,8 @@
 pid: index_1878
 volume: Volume 3
 image_number: '24'
-head: hospital
-entry: "<a href='/digital-beehive/alpha2/alpha_0432/'>a</a>|<a href='/digital-beehive/toc/toc2_361/'>1969
-  [Hospital]</a>"
+head: horse traces
+entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [traces]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-24d08e157"
+item: "#item-c5065827c"
 unparsed: 
-line: 'Head: hospital|Entry: a|Entry: 1969 [Hospital]|#item-24d08e157'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1160,3294,540,177/full/0/default.jpg
+line: 'Head: horse traces|Entry: 871 [traces]|#item-c5065827c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1114,3206,449,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584527066
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584457062
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1160,3294,540,177/150,/0/default.jpg
-label: hospital
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1114,3206,449,108/150,/0/default.jpg
+label: horse traces
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
 order: '697'

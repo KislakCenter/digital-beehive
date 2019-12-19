@@ -3,7 +3,7 @@ pid: index_0159
 volume: Volume 3
 image_number: '8'
 head: antinomians
-entry: "<a href='/digital-beehive/toc/toc2_069/'>123 [Antinomians]</a>"
+entry: "<a href='/digital-beehive/num1/num_0127/'>123 [Antinomians]</a>"
 topic: 
 first_letter: A
 page: 

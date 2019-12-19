@@ -3,7 +3,7 @@ pid: index_2406
 volume: Volume 3
 image_number: '29'
 head: brave man
-entry: "<a href='/digital-beehive/toc/toc2_076/'>200 [a man of admirable (: extraordinary
+entry: "<a href='/digital-beehive/num1/num_0208/'>200 [A man of admirable (: extraordinary
   :) Qualities]</a>|<a href='/digital-beehive/toc/toc2_341/'>1760 [Gallant]</a>|<a
   href='/digital-beehive/toc/toc2_409/'>2353 [Brave men]</a>"
 topic: 
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1526,1
 label: brave man
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '486'
+order: '487'
 layout: index_item
 collection: index3
 ---

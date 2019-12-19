@@ -3,7 +3,7 @@ pid: index_0416
 volume: Volume 3
 image_number: '10'
 head: borrowing
-entry: "<a href='/digital-beehive/alpha1/alpha_0093/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0093/'>a</a>|a"
 topic: 
 first_letter: B
 page: 

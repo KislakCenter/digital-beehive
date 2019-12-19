@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"
+see: "<a href='/digital-beehive/index2/index_1885/'>hotchpotch</a>"
 index: 
 item: "#item-e4bbe7ce8"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2
 label: mingle
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '603'
+order: '604'
 layout: index_item
 collection: index3
 ---

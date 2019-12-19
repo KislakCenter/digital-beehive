@@ -8,10 +8,10 @@ topic: Fear of Death
 first_letter: D
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0852/'>Self-murther</a>|<a href='/digital-beehive/toc/toc2_109/'>424
-  [Fear of Death]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0852/'>Self-murther</a>|<a href='/digital-beehive/num2/num_0525/'>424
+  [Fear of death]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0970/'>fear of death</a>"
+index: "<a href='/digital-beehive/index1/index_0971/'>fear of death</a>"
 item: "#item-802c3c09e"
 unparsed: 
 line: 'Entry: Fear of Death|Topic: Fear of Death|Xref: Self-murther|Xref: 424 [Fear
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/722,742,600,180/250,/0/default.jpg
 label: Fear of Death
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-num_match: 
 order: '211'
 layout: alpha_item
 collection: alpha1

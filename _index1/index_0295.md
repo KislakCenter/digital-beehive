@@ -2,8 +2,8 @@
 pid: index_0295
 volume: Volume 3
 image_number: '9'
-head: bark
-entry: 850 [PAGE_MISSING]
+head: barefooted
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Barefooted]</a>"
 topic: 
 first_letter: B
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-546d60947"
+item: "#item-5399c245e"
 unparsed: 
-line: 'Head: bark|Entry: 850 [PAGE_MISSING]|#item-546d60947'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/861,2872,355,93/full/0/default.jpg
+line: 'Head: barefooted|Entry: 1939 [Barefooted]|#item-5399c245e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105066131
+annotation_uri: http://dev.llgc.org.uk/annotation/1506104731239
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/861,2872,355,93/150,/0/default.jpg
-label: bark
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/150,/0/default.jpg
+label: barefooted
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0294'

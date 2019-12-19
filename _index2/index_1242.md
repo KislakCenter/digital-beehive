@@ -2,8 +2,8 @@
 pid: index_1242
 volume: Volume 3
 image_number: '18'
-head: emulation
-entry: 828 [PAGE_MISSING]
+head: emptiness
+entry: 760 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ea35cbe7f"
+item: "#item-7337de288"
 unparsed: 
-line: 'Head: emulation|Entry: 828 [PAGE_MISSING]|#item-ea35cbe7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1841,471,546,135/full/0/default.jpg
+line: 'Head: emptiness|Entry: 760 [PAGE_MISSING]|#item-7337de288'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1859,376,521,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745195800
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745063011
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1841,471,546,135/150,/0/default.jpg
-label: emulation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1859,376,521,147/150,/0/default.jpg
+label: emptiness
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '062'

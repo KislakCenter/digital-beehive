@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0560/'>Love of the World</a>|<a href='/digital-beehive/alpha1/alpha_0173/'>contempt</a>|<a
   href='/digital-beehive/toc/toc2_245/'>1256 [Wild]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4616/'>world</a>"
+index: "<a href='/digital-beehive/index5/index_4617/'>world</a>"
 item: "#item-51052668f"
 unparsed: 
 line: 'Entry: World|Topic: World|Xref: Love of the World|Xref: contempt|Xref: 1256
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/799,3230,600,180/250,/0/default.jpg
 label: World
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-num_match: 
 order: '121'
 layout: alpha_item
 collection: alpha5

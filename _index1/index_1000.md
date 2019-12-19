@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: dainty|wit
+see: "<a href='/digital-beehive/index1/index_0940/'>dainty</a>|<a href='/digital-beehive/index5/index_4571/'>wit</a>"
 index: 
 item: "#item-90f566525"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/341,30
 label: delicacy
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '0997'
+order: '0999'
 layout: index_item
 collection: index1
 ---

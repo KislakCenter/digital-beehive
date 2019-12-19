@@ -3,7 +3,7 @@ pid: index_3618
 volume: Volume 3
 image_number: '42'
 head: Self holiness
-entry: "<a href='/digital-beehive/toc/toc2_091/'>300 [selfholiness, selfrighteousness]</a>|<a
+entry: "<a href='/digital-beehive/num2/num_0339/'>300 [Self holiness, Self righteous]</a>|<a
   href='/digital-beehive/toc/toc2_424/'>4459 [Self holiness]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,15
 label: Self holiness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0865'
+order: '0866'
 layout: index_item
 collection: index4
 ---

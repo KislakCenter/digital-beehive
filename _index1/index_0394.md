@@ -3,7 +3,7 @@ pid: index_0394
 volume: Volume 3
 image_number: '10'
 head: blood of Christ
-entry: 834 [PAGE_MISSING]
+entry: a|834 [PAGE_MISSING]
 topic: 
 first_letter: B
 page: 

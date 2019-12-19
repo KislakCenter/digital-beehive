@@ -9,7 +9,7 @@ first_letter: insertion
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0098/'>alliance</a>"
+see: "<a href='/digital-beehive/index1/index_0099/'>alliance</a>"
 index: 
 item: "#item-6a91f2777"
 unparsed: Type Index|Insertion [:40.]
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2
 label: Confederacy
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
 insertion_xref: 
-order: '675'
+order: '670'
 layout: index_item
 collection: index5
 ---

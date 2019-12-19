@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4323/'>victory</a>"
+see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
 index: 
 item: "#item-5b098d0c1"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1796,2
 label: triumph
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
 insertion_xref: 
-order: '211'
+order: '206'
 layout: index_item
 collection: index5
 ---

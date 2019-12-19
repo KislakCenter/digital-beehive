@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: 
-see: spring
+see: "<a href='/digital-beehive/index4/index_3863/'>spring</a>"
 index: 
 item: "#item-a1f645f75"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1108,1
 label: well
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
 insertion_xref: 
-order: '485'
+order: '480'
 layout: index_item
 collection: index5
 ---

@@ -2,8 +2,9 @@
 pid: index_3158
 volume: Volume 3
 image_number: '37'
-head: primum mobile
-entry: "<a href='/digital-beehive/toc/toc2_229/'>1176 [Heaven]</a>"
+head: prince
+entry: "<a href='/digital-beehive/alpha4/alpha_0732/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
+  [Prince]</a>|<a href='/digital-beehive/toc/toc2_340/'>1758 [Prince]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c679ad477"
+item: "#item-a70a56eac"
 unparsed: 
-line: 'Head: primum mobile|Entry: 1176 [Heaven]|#item-c679ad477'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2968,639,137/full/0/default.jpg
+line: 'Head: prince|Entry: a|Entry: 1186 [Prince]|Entry: 1758 [Prince]|#item-a70a56eac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867077069
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867164914
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2968,639,137/150,/0/default.jpg
-label: primum mobile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/150,/0/default.jpg
+label: prince
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 insertion_xref: 
 order: '0406'

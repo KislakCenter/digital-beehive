@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/830,239,600,180/250,/0/default.jpg
 label: Unanimity
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-num_match: 
 order: '064'
 layout: alpha_item
 collection: alpha5

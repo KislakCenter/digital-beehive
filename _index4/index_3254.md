@@ -3,7 +3,7 @@ pid: index_3254
 volume: Volume 3
 image_number: '38'
 head: quarter
-entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>|a"
 topic: 
 first_letter: Q
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2
 label: quarter
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0501'
+order: '0502'
 layout: index_item
 collection: index4
 ---

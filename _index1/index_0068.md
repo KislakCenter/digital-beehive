@@ -2,8 +2,9 @@
 pid: index_0068
 volume: Volume 3
 image_number: '7'
-head: again
-entry: "<a href='/digital-beehive/toc/toc2_166/'>893 [Again]</a>"
+head: after sweet sowre
+entry: "<a href='/digital-beehive/num1/num_0010/'>10 [After high floods (: come :)
+  low ebbs]</a>"
 topic: 
 first_letter: A
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c77503984"
+item: "#item-40dcb51f1"
 unparsed: 
-line: 'Head: again|Entry: 893 [Again]|#item-c77503984'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2541,399,126/full/0/default.jpg
+line: 'Head: after sweet sowre|Entry: 10 [After high floods (.come:) low ebbs]|#item-40dcb51f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766920644
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766871092
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2541,399,126/150,/0/default.jpg
-label: again
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/150,/0/default.jpg
+label: after sweet sowre
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
 insertion_xref: 
 order: '0067'

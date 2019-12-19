@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_1031/'>Whoredom</a>|765 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_0310/'>baudry</a>"
+index: "<a href='/digital-beehive/index1/index_0311/'>baudry</a>"
 item: "#item-c20186c9f"
 unparsed: 
 line: 'Entry: Baudry|Topic: Baudry|Xref: Whoredom|Xref: 765 [PAGE_MISSING]|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4039,600,180/250,/0/default.jpg
 label: Baudry
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-num_match: 
 order: '064'
 layout: alpha_item
 collection: alpha1

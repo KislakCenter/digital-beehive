@@ -9,7 +9,7 @@ first_letter: M
 page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
 add: 
 xref: 
-see: buildings
+see: "<a href='/digital-beehive/index1/index_0474/'>buildings</a>"
 index: 
 item: "#item-7ed991387"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/862,11
 label: monuments
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '653'
+order: '654'
 layout: index_item
 collection: index3
 ---

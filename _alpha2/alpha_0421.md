@@ -8,9 +8,9 @@ topic: Hindrance
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
+xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|<a href='/digital-beehive/num2/num_0580/'>Disappoint</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1838/'>hinderance</a>"
+index: "<a href='/digital-beehive/index2/index_1839/'>hinderance</a>"
 item: "#item-526731c25"
 unparsed: 
 line: 'Entry: Hindrance|Topic: Hindrance|Xref: 576 [Hinderance]|Xref: Disappoint|Index:
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/708,3722,600,180/250,/0/default.jpg
 label: Hindrance
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-num_match: 
 order: '152'
 layout: alpha_item
 collection: alpha2

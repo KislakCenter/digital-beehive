@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4623/'>Will worship</a>"
+see: "<a href='/digital-beehive/index5/index_4624/'>Will worship</a>"
 index: 
 item: "#item-3e31bf942"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/448,46
 label: Self acting
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 insertion_xref: 
-order: '0850'
+order: '0851'
 layout: index_item
 collection: index4
 ---

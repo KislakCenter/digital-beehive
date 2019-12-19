@@ -2,8 +2,8 @@
 pid: index_1246
 volume: Volume 3
 image_number: '18'
-head: encouragement
-entry: "<a href='/digital-beehive/toc/toc2_138/'>606 [Encouragement]</a>"
+head: to encompass
+entry: 739 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f72cec738"
+item: "#item-5fa62318c"
 unparsed: 
-line: 'Head: encouragement|Entry: 606 [Encouragement]|#item-f72cec738'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,860,564,121/full/0/default.jpg
+line: 'Head: to encompass|Entry: 739 [PAGE_MISSING]|#item-5fa62318c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1846,718,569,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754562146
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754088858
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,860,564,121/150,/0/default.jpg
-label: encouragement
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1846,718,569,180/150,/0/default.jpg
+label: to encompass
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
 order: '066'

@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/351,587,600,180/250,/0/default.jpg
 label: Certainty
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-num_match: 
 order: '133'
 layout: alpha_item
 collection: alpha1

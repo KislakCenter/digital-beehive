@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0236/'>Diligence</a>|<a href='/digital-beehive/toc/toc2_177/'>948
   [Labour]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2180/'>Labour</a>"
+index: "<a href='/digital-beehive/index3/index_2181/'>Labour</a>"
 item: "#item-151493662"
 unparsed: 
 line: 'Entry: Labour|Topic: Labour|Xref: Diligence|Xref: 948 [Labour]|Index: Labour|#item-151493662'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/793,228,600,180/250,/0/default.jpg
 label: Labour
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-num_match: 
 order: '061'
 layout: alpha_item
 collection: alpha3

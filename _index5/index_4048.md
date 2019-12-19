@@ -2,8 +2,8 @@
 pid: index_4048
 volume: Volume 3
 image_number: '46'
-head: talent
-entry: "<a href='/digital-beehive/num1/num_0056/'>56 [Talents]</a>"
+head: to take heed
+entry: "<a href='/digital-beehive/toc/toc2_417/'>2407 [to Take heed]</a>"
 topic: 
 first_letter: T
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-142c5189b"
+item: "#item-70dfc46a1"
 unparsed: 
-line: 'Head: talent|Entry: 56 [Talents]|#item-142c5189b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/full/0/default.jpg
+line: 'Head: to take heed|Entry: 2407 [to Take heed]|#item-70dfc46a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1822,1246,496,71/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531742796520
+annotation_uri: http://dev.llgc.org.uk/annotation/1531742632320
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1842,1434,339,120/150,/0/default.jpg
-label: talent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1822,1246,496,71/150,/0/default.jpg
+label: to take heed
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 insertion_xref: 
-order: '017'
+order: '010'
 layout: index_item
 collection: index5
 ---

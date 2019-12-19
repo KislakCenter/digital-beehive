@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num2/num_0570/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_242/'>1242
   [Woman]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4586/'>woman</a>"
+index: "<a href='/digital-beehive/index5/index_4587/'>woman</a>"
 item: "#item-863a24be4"
 unparsed: 
 line: 'Entry: Woman|Topic: Woman|Xref: 459 [Wife]|Xref: 1242 [Woman]|Index: woman|#item-863a24be4'
@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/333,3218,600,180/250,/0/default.jpg
 label: Woman
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-num_match: 
 order: '109'
 layout: alpha_item
 collection: alpha5

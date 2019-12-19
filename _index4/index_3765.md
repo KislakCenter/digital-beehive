@@ -2,27 +2,28 @@
 pid: index_3765
 volume: Volume 3
 image_number: '43'
-head: snare
-entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_354/'>1919 [Ambush]</a>
+head: snake
+entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/toc/toc2_243/'>1250</a>|<a
+  href='/digital-beehive/toc/toc2_377/'>2119</a>"
 topic: 
 first_letter: S
-page: 
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-91be05f84"
+item: "#item-ae6389661"
 unparsed: 
-line: 'Head: snare|Entry: 773 [PAGE_MISSING]|Entry: 1919 [Ambush]|#item-91be05f84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1570,836,592,124/full/0/default.jpg
+line: 'Head: snake|Page: p.37 [Image 1.97]|Entry: a|Entry: 1250|Entry: 2119|#item-ae6389661'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1568,683,609,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585302740
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585249462
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1570,836,592,124/150,/0/default.jpg
-label: snare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1568,683,609,170/150,/0/default.jpg
+label: snake
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: 
-order: '1012'
+order: '1013'
 layout: index_item
 collection: index4
 ---

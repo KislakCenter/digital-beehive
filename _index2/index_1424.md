@@ -3,7 +3,8 @@ pid: index_1424
 volume: Volume 3
 image_number: '20'
 head: feast, i.e. holy day
-entry: "<a href='/digital-beehive/toc/toc2_212/'>1093 [Holy days]</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0321/'>a</a>|<a href='/digital-beehive/toc/toc2_212/'>1093
+  [Holy days]</a>"
 topic: 
 first_letter: F
 page: 

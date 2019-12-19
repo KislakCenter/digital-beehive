@@ -3,7 +3,7 @@ pid: index_1415
 volume: Volume 3
 image_number: '20'
 head: fathers
-entry: "<a href='/digital-beehive/num1/num_0074/'>73 [Fathers]</a>"
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic: 
 first_letter: F
 page: 

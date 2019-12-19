@@ -2,8 +2,8 @@
 pid: index_1648
 volume: Volume 3
 image_number: '22'
-head: God's name
-entry: a
+head: God's invitations
+entry: "<a href='/digital-beehive/num2/num_0377/'>329 [Gods Invitations]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-424c7e467"
+item: "#item-fdd0617cb"
 unparsed: 
-line: 'Head: God''s name|Entry: a|#item-424c7e467'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1172,2130,397,66/full/0/default.jpg
+line: 'Head: God''s invitations|Entry: 329 [Gods Invitations]|#item-fdd0617cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,2080,581,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047640214
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047616755
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1172,2130,397,66/150,/0/default.jpg
-label: God's name
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1173,2080,581,89/150,/0/default.jpg
+label: God's invitations
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
 order: '468'

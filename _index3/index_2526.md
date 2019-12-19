@@ -9,7 +9,7 @@ first_letter: M
 page: 
 add: 
 xref: 
-see: dispensation
+see: "<a href='/digital-beehive/index1/index_1091/'>dispensation</a>"
 index: 
 item: "#item-179ef4b35"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1840,2
 label: ministra[ti]on
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 insertion_xref: 
-order: '606'
+order: '607'
 layout: index_item
 collection: index3
 ---

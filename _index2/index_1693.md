@@ -9,7 +9,7 @@ first_letter: G
 page: 
 add: 
 xref: 
-see: give|yield
+see: "<a href='/digital-beehive/index2/index_1616/'>give</a>|<a href='/digital-beehive/index5/index_4648/'>yield</a>"
 index: 
 item: "#item-21f11dd00"
 unparsed: 

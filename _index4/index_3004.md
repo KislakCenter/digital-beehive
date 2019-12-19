@@ -2,9 +2,8 @@
 pid: index_3004
 volume: Volume 3
 image_number: '35'
-head: pietists
-entry: "<a href='/digital-beehive/toc/toc2_208/'>1073 [Pietism]</a>|<a href='/digital-beehive/toc/toc2_410/'>2356
-  [Pietism]</a>"
+head: pigions
+entry: "<a href='/digital-beehive/toc/toc2_135/'>588 [Dove]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0e4568f44"
+item: "#item-2eca340da"
 unparsed: 
-line: 'Head: pietists|Entry: 1073 [Pietism]|Entry: 2356 [Pietism]|#item-0e4568f44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1507,894,663,111/full/0/default.jpg
+line: 'Head: pigions|Entry: 588 [Dove]|#item-2eca340da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1533,963,737,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976015716
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976154759
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1507,894,663,111/150,/0/default.jpg
-label: pietists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1533,963,737,126/150,/0/default.jpg
+label: pigions
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0252'

@@ -3,7 +3,8 @@ pid: index_2628
 volume: Volume 3
 image_number: '31'
 head: mystery
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1006 [Mystery]</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>|<a href='/digital-beehive/toc/toc2_195/'>1006
+  [Mystery]</a>"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2
 label: mystery
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '708'
+order: '709'
 layout: index_item
 collection: index3
 ---

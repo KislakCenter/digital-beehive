@@ -2,27 +2,27 @@
 pid: index_3516
 volume: Volume 3
 image_number: '41'
-head: "[:56.]"
-entry: 
+head: sanctification
+entry: "<a href='/digital-beehive/toc/toc2_184/'>990 [Holiness]</a>"
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1855/'>holiness</a>"
 index: 
-item: "#item-201d9fb20"
-unparsed: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
-line: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/694,1652,226,144/full/0/default.jpg
+item: "#item-5a4a0f290"
+unparsed: 
+line: 'Head: sanctification|See: holiness|Entry: 990 [Holiness]|#item-5a4a0f290'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277936699
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238976500
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/694,1652,226,144/150,/0/default.jpg
-label: "[:56.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/156,1556,746,158/150,/0/default.jpg
+label: sanctification
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4724/'>Sappho</a>|<a href='/digital-beehive/index5/index_4725/'>Sap</a>"
-order: '0763'
+insertion_xref: 
+order: '0764'
 layout: index_item
 collection: index4
 ---

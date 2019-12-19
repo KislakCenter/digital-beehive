@@ -3,7 +3,7 @@ pid: index_0743
 volume: Volume 3
 image_number: '13'
 head: common
-entry: "<a href='/digital-beehive/toc/toc2_073/'>164 [Common]</a>"
+entry: "<a href='/digital-beehive/num1/num_0171/'>164 [Com[m]on]</a>"
 topic: 
 first_letter: C
 page: 

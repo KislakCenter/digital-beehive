@@ -8,8 +8,8 @@ topic: Pedantry
 first_letter: P
 page: 
 add: 
-xref: Pretender to Learning|downright Scholar|<a href='/digital-beehive/toc/toc2_238/'>1224
-  [Pedantry]</a>
+xref: "<a href='/digital-beehive/num1/num_0109/'>Pretender to Learning</a>|downright
+  Scholar|<a href='/digital-beehive/toc/toc2_238/'>1224 [Pedantry]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2938/'>pedantery</a>"
 item: "#item-2d8fab4cb"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/300,4143,600,180/250,/0/default.jpg
 label: Pedantry
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-num_match: 
 order: '049'
 layout: alpha_item
 collection: alpha4

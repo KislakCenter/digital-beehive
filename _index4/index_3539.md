@@ -2,8 +2,8 @@
 pid: index_3539
 volume: Volume 3
 image_number: '41'
-head: scarlet
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1913 [Purple]</a>"
+head: "[:2.]"
+entry: 
 topic: 
 first_letter: S
 page: 
@@ -11,18 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-809cc81ff"
-unparsed: 
-line: 'Head: scarlet|Entry: 1913 [Purple]|#item-809cc81ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/854,466,457,101/full/0/default.jpg
+item: "#item-1752b8fad"
+unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+line: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240280239
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277985463
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/854,466,457,101/150,/0/default.jpg
-label: scarlet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/150,/0/default.jpg
+label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-insertion_xref: 
-order: '0786'
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
+order: '0787'
 layout: index_item
 collection: index4
 ---

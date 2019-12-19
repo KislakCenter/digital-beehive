@@ -3,7 +3,7 @@ pid: index_0136
 volume: Volume 3
 image_number: '8'
 head: anathema
-entry: "<a href='/digital-beehive/alpha1/alpha_0027/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0027/'>a</a>|a"
 topic: 
 first_letter: A
 page: 

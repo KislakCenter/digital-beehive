@@ -3,7 +3,7 @@ pid: index_1744
 volume: Volume 3
 image_number: '23'
 head: hand
-entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>|a"
 topic: 
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"

@@ -8,8 +8,8 @@ topic: Blackness
 first_letter: B
 page: 
 add: 
-xref: Neger|<a href='/digital-beehive/toc/toc2_307/'>1563 [Blackness]</a>|<a href='/digital-beehive/toc/toc2_359/'>1951
-  [White]</a>
+xref: "<a href='/digital-beehive/num2/num_0460/'>Neger</a>|<a href='/digital-beehive/toc/toc2_307/'>1563
+  [Blackness]</a>|<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0381/'>blackness</a>"
 item: "#item-c61e17bec"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/262,254,600,180/250,/0/default.jpg
 label: Blackness
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-num_match: 
 order: '082'
 layout: alpha_item
 collection: alpha1

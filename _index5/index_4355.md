@@ -3,8 +3,8 @@ pid: index_4355
 volume: Volume 3
 image_number: '50'
 head: unanimity
-entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/toc/toc2_093/'>312
-  [unanimity]</a>|<a href='/digital-beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a
+entry: "<a href='/digital-beehive/alpha5/alpha_0999/'>a</a>|<a href='/digital-beehive/num2/num_0356/'>312
+  [Unanimity]</a>|<a href='/digital-beehive/toc/toc2_179/'>962 [Unanimity]</a>|<a
   href='/digital-beehive/toc/toc2_308/'>1569 [Unity]</a>"
 topic: 
 first_letter: U/V
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/477,91
 label: unanimity
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '322'
+order: '317'
 layout: index_item
 collection: index5
 ---

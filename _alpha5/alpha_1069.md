@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/346,3613,600,180/250,/0/default.jpg
 label: Yielding
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-num_match: 
 order: '134'
 layout: alpha_item
 collection: alpha5

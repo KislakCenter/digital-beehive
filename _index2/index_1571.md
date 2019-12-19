@@ -2,24 +2,25 @@
 pid: index_1571
 volume: Volume 3
 image_number: '21'
-head: Gain
-entry: 
+head: future
+entry: "<a href='/digital-beehive/alpha2/alpha_0354/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1421
+  [Future]</a>"
 topic: 
-first_letter: G
+first_letter: F
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>|<a href='/digital-beehive/index4/index_3181/'>profit</a>"
+see: 
 index: 
-item: "#item-9b87fe671"
+item: "#item-3706466c3"
 unparsed: 
-line: 'Head: Gain|See: lucre|See: profit|#item-9b87fe671'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,1852,747,135/full/0/default.jpg
+line: 'Head: future|Entry: a|Entry: 1421 [Future]|#item-3706466c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1557,1682,566,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786413885
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786377056
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1563,1852,747,135/150,/0/default.jpg
-label: Gain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1557,1682,566,125/150,/0/default.jpg
+label: future
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
 order: '391'

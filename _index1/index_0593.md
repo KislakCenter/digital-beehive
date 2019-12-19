@@ -2,8 +2,8 @@
 pid: index_0593
 volume: Volume 3
 image_number: '12'
-head: chameleon
-entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Salamander]</a>"
+head: chamber pot
+entry: 809 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7fbb4d36c"
+item: "#item-ab1261919"
 unparsed: 
-line: 'Head: chameleon|Entry: 1245 [Salamander]|#item-7fbb4d36c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,2656,560,117/full/0/default.jpg
+line: 'Head: chamber pot|Entry: 809 [PAGE_MISSING]|#item-ab1261919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,2545,440,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532102290076
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100838116
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1123,2656,560,117/150,/0/default.jpg
-label: chameleon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,2545,440,127/150,/0/default.jpg
+label: chamber pot
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 insertion_xref: 
 order: '0592'

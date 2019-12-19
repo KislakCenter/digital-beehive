@@ -3,7 +3,7 @@ pid: index_4397
 volume: Volume 3
 image_number: '50'
 head: unjust goods
-entry: "<a href='/digital-beehive/toc/toc2_058/'>6 [Unjust substance]</a>|<a href='/digital-beehive/num2/num_0374/'>326
+entry: "<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a href='/digital-beehive/num2/num_0374/'>326
   [Ill gotten goods & gains]</a>|<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill
   gotten goods]</a>"
 topic: 
@@ -25,7 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1068,2
 label: unjust goods
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
 insertion_xref: 
-order: '364'
+order: '359'
 layout: index_item
 collection: index5
 ---

@@ -3,7 +3,7 @@ pid: index_2388
 volume: Volume 3
 image_number: '29'
 head: maimed
-entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>|a"
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/787,34
 label: maimed
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 insertion_xref: 
-order: '468'
+order: '469'
 layout: index_item
 collection: index3
 ---

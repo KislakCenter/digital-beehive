@@ -3,7 +3,7 @@ pid: index_0874
 volume: Volume 3
 image_number: '15'
 head: counterfeit money
-entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>|a"
 topic: 
 first_letter: C
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/140,16
 label: counterfeit money
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0872'
+order: '0873'
 layout: index_item
 collection: index1
 ---

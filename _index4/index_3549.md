@@ -2,8 +2,9 @@
 pid: index_3549
 volume: Volume 3
 image_number: '41'
-head: sciences
-entry: "<a href='/digital-beehive/num1/num_0176/'>169 [Art]</a>"
+head: scholars
+entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
+  [Scholars]</a>"
 topic: 
 first_letter: S
 page: 
@@ -11,18 +12,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-67a1e66fe"
+item: "#item-d8c98522f"
 unparsed: 
-line: 'Head: sciences|Entry: 169 [Art]|#item-67a1e66fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/862,1534,468,148/full/0/default.jpg
+line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240679804
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/862,1534,468,148/150,/0/default.jpg
-label: sciences
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/150,/0/default.jpg
+label: scholars
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0796'
+order: '0797'
 layout: index_item
 collection: index4
 ---

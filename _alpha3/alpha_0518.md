@@ -8,7 +8,7 @@ topic: Late
 first_letter: L
 page: 
 add: 
-xref: Too late|4786 [PAGE_MISSING]
+xref: "<a href='/digital-beehive/num1/num_0020/'>Too late</a>|4786 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
 item: "#item-2bad963b5"
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,4196,600,180/250,/0/default.jpg
 label: Late
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-num_match: 
 order: '074'
 layout: alpha_item
 collection: alpha3

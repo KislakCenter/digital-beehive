@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0183/'>176 [Indifferency]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0041/'>adiaphory</a>"
+index: "<a href='/digital-beehive/index1/index_0042/'>adiaphory</a>"
 item: "#item-d38a0df93"
 unparsed: 
 line: 'Entry: Adiaphory|Topic: Adiaphory|Xref: 176 [Indifferency]|Index: adiaphory|#item-d38a0df93'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,600,180/250,/0/default.jpg
 label: Adiaphory
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
-num_match: 
 order: '005'
 layout: alpha_item
 collection: alpha1

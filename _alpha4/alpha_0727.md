@@ -8,8 +8,8 @@ topic: Predestination
 first_letter: P
 page: 
 add: 
-xref: Reprobates|<a href='/digital-beehive/alpha2/alpha_0316/'>Fate</a>|<a href='/digital-beehive/num1/num_0242/'>228
-  [Predestination]</a>
+xref: "<a href='/digital-beehive/num1/num_0144/'>Reprobates</a>|<a href='/digital-beehive/alpha2/alpha_0316/'>Fate</a>|<a
+  href='/digital-beehive/num1/num_0242/'>228 [Predestination]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3120/'>predestination</a>"
 item: "#item-d6466de3e"
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,1756,600,180/250,/0/default.jpg
 label: Predestination
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
-num_match: 
 order: '080'
 layout: alpha_item
 collection: alpha4

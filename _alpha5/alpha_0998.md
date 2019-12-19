@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_279/'>1429 [Visit]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4343/'>visitation</a>"
+index: "<a href='/digital-beehive/index5/index_4344/'>visitation</a>"
 item: "#item-85e05a08f"
 unparsed: 
 line: 'Entry: Visit|Topic: Visit|Xref: 1429 [Visit]|Index: visitation|#item-85e05a08f'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,600,180/250,/0/default.jpg
 label: Visit
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-num_match: 
 order: '063'
 layout: alpha_item
 collection: alpha5

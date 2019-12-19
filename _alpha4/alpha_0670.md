@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Own]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2848/'>own</a>"
+index: "<a href='/digital-beehive/index4/index_2849/'>own</a>"
 item: "#item-68fdb3a75"
 unparsed: 
 line: 'Entry: Own|Topic: Own|Xref: 1939 [Own]|Index: own|#item-68fdb3a75'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/796,1655,600,180/250,/0/default.jpg
 label: Own
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '023'
 layout: alpha_item
 collection: alpha4

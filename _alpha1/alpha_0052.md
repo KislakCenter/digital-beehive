@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0235/'>222 [Shrovetide]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0261/'>bacchanals</a>"
+index: "<a href='/digital-beehive/index1/index_0262/'>bacchanals</a>"
 item: "#item-3d0b04143"
 unparsed: 
 line: 'Entry: Bacchanals|Topic: Bacchanals|Xref: 222 [Shrovetide]|Index: bacchanals|#item-3d0b04143'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/840,4340,600,180/250,/0/default.jpg
 label: Bacchanals
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
-num_match: 
 order: '051'
 layout: alpha_item
 collection: alpha1

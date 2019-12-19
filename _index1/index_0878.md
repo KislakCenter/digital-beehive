@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: agricult
+see: "<a href='/digital-beehive/index1/index_0082/'>agricult</a>"
 index: 
 item: "#item-07ba599ea"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/157,20
 label: Country life
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '0876'
+order: '0877'
 layout: index_item
 collection: index1
 ---

@@ -23,7 +23,7 @@ label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
   or winnow</a>"
-order: '0946'
+order: '0947'
 layout: index_item
 collection: index4
 ---

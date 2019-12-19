@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2503/'>metempsychosis</a>"
+see: "<a href='/digital-beehive/index3/index_2502/'>metempsychosis</a>"
 index: 
 item: "#item-67585363e"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,77
 label: revolution
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0658'
+order: '0659'
 layout: index_item
 collection: index4
 ---

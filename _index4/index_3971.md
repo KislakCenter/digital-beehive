@@ -5,7 +5,7 @@ image_number: '45'
 head: to suffer or bear
 entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [To bear]</a>"
 topic: 
-first_letter: T
+first_letter: S
 page: 
 add: 
 xref: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1596,2
 label: to suffer or bear
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 insertion_xref: 
-order: '004'
+order: '1219'
 layout: index_item
-collection: index5
+collection: index4
 ---

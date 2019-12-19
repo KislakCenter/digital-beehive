@@ -8,10 +8,10 @@ topic: Contempt
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>Derision</a>|Disregard|<a href='/digital-beehive/num2/num_0301/'>269
-  [Contempt]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>Derision</a>|<a href='/digital-beehive/num2/num_0579/'>Disregard</a>|<a
+  href='/digital-beehive/num2/num_0301/'>269 [Contempt]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0820/'>contempt</a>"
+index: "<a href='/digital-beehive/index1/index_0821/'>contempt</a>"
 item: "#item-05f1df571"
 unparsed: 
 line: 'Entry: Contempt|Topic: Contempt|Xref: Derision|Xref: Disregard|Xref: 269 [Contempt]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/792,2778,600,180/250,/0/default.jpg
 label: Contempt
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
-num_match: 
 order: '172'
 layout: alpha_item
 collection: alpha1

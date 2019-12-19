@@ -2,8 +2,8 @@
 pid: index_1632
 volume: Volume 3
 image_number: '22'
-head: goat
-entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>"
+head: "[:29.]"
+entry: 
 topic: 
 first_letter: G
 page: 
@@ -11,17 +11,17 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3f94af219"
-unparsed: 
-line: 'Head: goat|Entry: a|#item-3f94af219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/full/0/default.jpg
+item: "#item-bb7022dd5"
+unparsed: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+line: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046079319
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046062431
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/150,/0/default.jpg
-label: goat
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/150,/0/default.jpg
+label: "[:29.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-insertion_xref: 
+insertion_xref: "<a href='/digital-beehive/index5/index_4694/'>gnashing of t.</a>"
 order: '452'
 layout: index_item
 collection: index2

@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,3636,600,180/250,/0/default.jpg
 label: Omnipotency
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-num_match: 
 order: '014'
 layout: alpha_item
 collection: alpha4

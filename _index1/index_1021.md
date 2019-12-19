@@ -9,7 +9,7 @@ first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2491/'>merit</a>"
+see: "<a href='/digital-beehive/index3/index_2490/'>merit</a>"
 index: 
 item: "#item-e8192b591"
 unparsed: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1145,2
 label: desert
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 insertion_xref: 
-order: '1018'
+order: '1020'
 layout: index_item
 collection: index1
 ---

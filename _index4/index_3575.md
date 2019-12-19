@@ -3,7 +3,7 @@ pid: index_3575
 volume: Volume 3
 image_number: '41'
 head: seal
-entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>|a"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1531,7
 label: seal
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0822'
+order: '0823'
 layout: index_item
 collection: index4
 ---

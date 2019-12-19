@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/toc/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/digital-beehive/toc/toc2_236/'>1214
   [Letters]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2264/'>letters</a>"
+index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
 item: "#item-96d8869ae"
 unparsed: 
 line: 'Entry: Letters|Topic: Letters|Xref: 532 [WORD_MISSING]|Xref: 1214 [Letters]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,3352,600,180/250,/0/default.jpg
 label: Letters
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-num_match: 
 order: '087'
 layout: alpha_item
 collection: alpha3

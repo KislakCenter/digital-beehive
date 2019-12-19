@@ -22,7 +22,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/755,1121,600,180/250,/0/default.jpg
 label: Motto
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
-num_match: 
 order: '168'
 layout: alpha_item
 collection: alpha3

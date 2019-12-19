@@ -3,7 +3,7 @@ pid: index_1786
 volume: Volume 3
 image_number: '23'
 head: heavenly things
-entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|a"
 topic: 
 first_letter: H
 page: 

@@ -3,7 +3,7 @@ pid: index_1941
 volume: Volume 3
 image_number: '25'
 head: Jesus
-entry: "<a href='/digital-beehive/alpha3/alpha_0449/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0449/'>a</a>|a"
 topic: 
 first_letter: I/J
 page: 

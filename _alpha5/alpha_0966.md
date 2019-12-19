@@ -8,10 +8,10 @@ topic: Too slow or quick
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|too late|<a href='/digital-beehive/num1/num_0020/'>20
-  [Too late]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|<a href='/digital-beehive/num1/num_0020/'>too
+  late</a>|<a href='/digital-beehive/num1/num_0020/'>20 [Too late]</a>"
 see: 
-index: "<a href='/digital-beehive/index5/index_4182/'>too slow or quick</a>"
+index: "<a href='/digital-beehive/index5/index_4183/'>too slow or quick</a>"
 item: "#item-5bc71e62e"
 unparsed: 
 line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: too
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
 label: Too slow or quick
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-num_match: 
 order: '031'
 layout: alpha_item
 collection: alpha5

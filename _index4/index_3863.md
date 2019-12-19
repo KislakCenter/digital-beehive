@@ -3,7 +3,7 @@ pid: index_3863
 volume: Volume 3
 image_number: '44'
 head: spring. brun[n]
-entry: "<a href='/digital-beehive/alpha4/alpha_0904/'>a</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0904/'>a</a>|a"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1808,1
 label: spring. brun[n]
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 insertion_xref: 
-order: '1110'
+order: '1111'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_1688
 volume: Volume 3
 image_number: '22'
 head: gram[m]ars
-entry: "<a href='/digital-beehive/alpha2/alpha_0380/'>a</a>"
+entry: "<a href='/digital-beehive/alpha2/alpha_0380/'>a</a>|a"
 topic: 
 first_letter: G
 page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"

@@ -2,8 +2,9 @@
 pid: index_2849
 volume: Volume 3
 image_number: '34'
-head: to own
-entry: "<a href='/digital-beehive/num2/num_0320/'>284 [To own]</a>"
+head: own
+entry: "<a href='/digital-beehive/alpha4/alpha_0670/'>a</a>|<a href='/digital-beehive/toc/toc2_357/'>1939
+  [Own]</a>"
 topic: 
 first_letter: O
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-074920651"
+item: "#item-71752b70c"
 unparsed: 
-line: 'Head: to own|Entry: 284 [To own]|#item-074920651'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/456,2060,518,136/full/0/default.jpg
+line: 'Head: own|Entry: a|Entry: 1939 [Own]|#item-71752b70c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425625090
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425601526
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/456,2060,518,136/150,/0/default.jpg
-label: to own
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/150,/0/default.jpg
+label: own
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 insertion_xref: 
 order: '0097'

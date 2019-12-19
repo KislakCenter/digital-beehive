@@ -3,7 +3,7 @@ pid: index_1074
 volume: Volume 3
 image_number: '17'
 head: discretness
-entry: "<a href='/digital-beehive/alpha1/alpha_0241/'>a</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0241/'>a</a>|a"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,73
 label: discretness
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 insertion_xref: 
-order: '1071'
+order: '1073'
 layout: index_item
 collection: index1
 ---

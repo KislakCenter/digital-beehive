@@ -8,10 +8,10 @@ topic: Hope
 first_letter: H
 page: 
 add: 
-xref: Desperation|<a href='/digital-beehive/alpha1/alpha_0156/'>false Comfort</a>|<a
-  href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>
+xref: "<a href='/digital-beehive/num1/num_0008/'>Desperation</a>|<a href='/digital-beehive/alpha1/alpha_0156/'>false
+  Comfort</a>|<a href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1867/'>hope</a>"
+index: "<a href='/digital-beehive/index2/index_1868/'>hope</a>"
 item: "#item-1aa4646fe"
 unparsed: 
 line: 'Entry: Hope|Topic: Hope|Xref: Desperation|Xref: false Comfort|Xref: 1126 [Hope]|Index:
@@ -23,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,2505,600,180/250,/0/default.jpg
 label: Hope
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
-num_match: 
 order: '160'
 layout: alpha_item
 collection: alpha2

@@ -2,27 +2,27 @@
 pid: index_3540
 volume: Volume 3
 image_number: '41'
-head: to scatter
-entry: "<a href='/digital-beehive/num2/num_0601/'>485 [to Scatter]</a>"
+head: scarifying
+entry: 
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
 index: 
-item: "#item-e6e8b0587"
+item: "#item-00d400f81"
 unparsed: 
-line: 'Head: to scatter|Entry: 485 [to Scatter]|#item-e6e8b0587'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,516,467,118/full/0/default.jpg
+line: 'Head: scarifying|See: bloodletting|#item-00d400f81'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/864,343,749,187/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240301322
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240239660
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,516,467,118/150,/0/default.jpg
-label: to scatter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/864,343,749,187/150,/0/default.jpg
+label: scarifying
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0787'
+order: '0788'
 layout: index_item
 collection: index4
 ---

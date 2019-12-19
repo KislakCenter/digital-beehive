@@ -2,9 +2,8 @@
 pid: index_3519
 volume: Volume 3
 image_number: '41'
-head: satiety
-entry: "<a href='/digital-beehive/num1/num_0229/'>218 [Sufficient]</a>|<a href='/digital-beehive/toc/toc2_237/'>1218
-  [Satiety]</a>"
+head: Sarah
+entry: "<a href='/digital-beehive/toc/toc2_351/'>1892 [Sarah]</a>"
 topic: 
 first_letter: S
 page: 
@@ -12,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ac6d62f95"
+item: "#item-67b2763e4"
 unparsed: 
-line: 'Head: satiety|Entry: 218 [Sufficient]|Entry: 1218 [Satiety]|#item-ac6d62f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/full/0/default.jpg
+line: 'Head: Sarah|Entry: 1892 [Sarah]|#item-67b2763e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239096765
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239020652
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/133,1803,619,100/150,/0/default.jpg
-label: satiety
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/174,1728,371,100/150,/0/default.jpg
+label: Sarah
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0766'
+order: '0767'
 layout: index_item
 collection: index4
 ---

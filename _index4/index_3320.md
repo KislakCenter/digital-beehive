@@ -3,7 +3,7 @@ pid: index_3320
 volume: Volume 3
 image_number: '38'
 head: reconciliation universal
-entry: "<a href='/digital-beehive/toc/toc2_102/'>379 [Reconciliato universalis]</a>"
+entry: "<a href='/digital-beehive/num2/num_0455/'>379 [Reconciliatio universalis]</a>"
 topic: 
 first_letter: R
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1826,3
 label: reconciliation universal
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: 
-order: '0567'
+order: '0568'
 layout: index_item
 collection: index4
 ---

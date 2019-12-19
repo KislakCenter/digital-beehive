@@ -5,7 +5,7 @@ image_number: '15'
 head: 'wom: Courses'
 entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_325/'>1653 [Menstrua]</a>
 topic: 
-first_letter: W
+first_letter: C
 page: 
 add: 
 xref: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/146,23
 label: 'wom: Courses'
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 insertion_xref: 
-order: '001'
+order: '0882'
 layout: index_item
-collection: index5
+collection: index1
 ---

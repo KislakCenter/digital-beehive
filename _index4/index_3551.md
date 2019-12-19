@@ -2,29 +2,27 @@
 pid: index_3551
 volume: Volume 3
 image_number: '41'
-head: scolding words
-entry: "<a href='/digital-beehive/toc/toc2_151/'>680 [to Chide]</a>|<a href='/digital-beehive/toc/toc2_339/'>1747
-  [Scurrilous Epithets, Scheltwort]</a>"
+head: scoff
+entry: 814 [PAGE_MISSING]
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3553/'>scorn</a>"
 index: 
-item: "#item-58874eac1"
+item: "#item-3155f87ea"
 unparsed: 
-line: 'Head: scolding words|Entry: 680 [to Chide]|Entry: 1747 [Scurrilous Epithets,
-  Scheltwort]|#item-58874eac1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/831,1789,789,138/full/0/default.jpg
+line: 'Head: scoff|See: scorn|Entry: 814 [PAGE_MISSING]|#item-3155f87ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240970465
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240729978
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/831,1789,789,138/150,/0/default.jpg
-label: scolding words
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/888,1662,644,136/150,/0/default.jpg
+label: scoff
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 insertion_xref: 
-order: '0798'
+order: '0799'
 layout: index_item
 collection: index4
 ---

@@ -2,24 +2,25 @@
 pid: index_0302
 volume: Volume 3
 image_number: '9'
-head: basilisk
-entry: "<a href='/digital-beehive/toc/toc2_264/'>1353 [a Basilisk or Cockatrice]</a>"
+head: baseness
+entry: "<a href='/digital-beehive/alpha1/alpha_0062/'>a</a>|<a href='/digital-beehive/toc/toc2_135/'>589
+  [Base]</a>"
 topic: 
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-6970bd22d"
+item: "#item-b5383cd3f"
 unparsed: 
-line: 'Head: basilisk|Page: p.37 [Image 1.97]|Entry: 1353 [a Basilisk or Cockatrice]|#item-6970bd22d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/893,3430,609,205/full/0/default.jpg
+line: 'Head: baseness|Entry: a|Entry: 589 [Base]|#item-b5383cd3f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105732164
+annotation_uri: http://dev.llgc.org.uk/annotation/1506105689365
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/893,3430,609,205/150,/0/default.jpg
-label: basilisk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/897,3318,481,162/150,/0/default.jpg
+label: baseness
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 insertion_xref: 
 order: '0301'

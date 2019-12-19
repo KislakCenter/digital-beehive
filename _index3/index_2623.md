@@ -3,7 +3,7 @@ pid: index_2623
 volume: Volume 3
 image_number: '31'
 head: I must
-entry: 4586 [PAGE_MISSING]
+entry: a|4586 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1517,2
 label: I must
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 insertion_xref: 
-order: '703'
+order: '704'
 layout: index_item
 collection: index3
 ---

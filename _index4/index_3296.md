@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1
 label: "[:44.]"
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 insertion_xref: "<a href='/digital-beehive/index5/index_4712/'>Rat</a>"
-order: '0543'
+order: '0544'
 layout: index_item
 collection: index4
 ---

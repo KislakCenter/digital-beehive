@@ -9,7 +9,7 @@ first_letter: P
 page: 
 add: 
 xref: 
-see: pest
+see: "<a href='/digital-beehive/index4/index_2973/'>pest</a>"
 index: 
 item: "#item-e91fc13a1"
 unparsed: 

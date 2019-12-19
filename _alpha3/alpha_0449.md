@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/315,887,600,180/250,/0/default.jpg
 label: Jesus
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
-num_match: 
 order: '005'
 layout: alpha_item
 collection: alpha3

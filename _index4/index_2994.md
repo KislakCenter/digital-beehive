@@ -2,27 +2,24 @@
 pid: index_2994
 volume: Volume 3
 image_number: '35'
-head: physician
-entry: "<a href='/digital-beehive/alpha4/alpha_0704/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1251
-  [Physicians]</a>|<a href='/digital-beehive/toc/toc2_321/'>1634 [Physician]</a>|<a
-  href='/digital-beehive/toc/toc2_389/'>2229 [Physician]</a>"
+head: physical books
+entry: 
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-113299900"
+item: "#item-321dae27f"
 unparsed: 
-line: 'Head: physician|Entry: a|Entry: 1251 [Physicians]|Entry: 1634 [Physician]|Entry:
-  2229 [Physician]|#item-113299900'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/full/0/default.jpg
+line: 'Head: physical books|Page: p.379 [Image 2.201]|#item-321dae27f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/855,3415,602,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975624921
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975665557
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/858,3304,746,151/150,/0/default.jpg
-label: physician
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/855,3415,602,120/150,/0/default.jpg
+label: physical books
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 insertion_xref: 
 order: '0242'

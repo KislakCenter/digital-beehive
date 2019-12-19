@@ -2,8 +2,8 @@
 pid: index_3433
 volume: Volume 3
 image_number: '40'
-head: to rise
-entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [Ripeness]</a>"
+head: ripeness
+entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Ripeness]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-61d10e4e8"
+item: "#item-f383a352d"
 unparsed: 
-line: 'Head: to rise|Entry: 912 [Ripeness]|#item-61d10e4e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/432,3072,385,144/full/0/default.jpg
+line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232555309
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/432,3072,385,144/150,/0/default.jpg
-label: to rise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/150,/0/default.jpg
+label: ripeness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0680'
+order: '0681'
 layout: index_item
 collection: index4
 ---

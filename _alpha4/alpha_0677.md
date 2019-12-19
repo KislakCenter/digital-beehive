@@ -8,9 +8,10 @@ topic: Parents
 first_letter: P
 page: 
 add: 
-xref: Children|<a href='/digital-beehive/toc/toc2_431/'>4811 [WORD_MISSING]</a>
+xref: "<a href='/digital-beehive/num2/num_0351/'>Children</a>|<a href='/digital-beehive/toc/toc2_431/'>4811
+  [WORD_MISSING]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2879/'>parents</a>"
+index: "<a href='/digital-beehive/index4/index_2881/'>parents</a>"
 item: "#item-99f83d878"
 unparsed: 
 line: 'Entry: Parents|Topic: Parents|XRef: Children|Xref: 4811 [WORD_MISSING]|Index:
@@ -22,7 +23,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,3521,600,180/250,/0/default.jpg
 label: Parents
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-num_match: 
 order: '030'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_3445
 volume: Volume 3
 image_number: '40'
-head: room
-entry: 817 [PAGE_MISSING]
+head: roof
+entry: "<a href='/digital-beehive/num2/num_0430/'>362 [a Shingle]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,18 +11,18 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-64228e6fa"
+item: "#item-194cd1463"
 unparsed: 
-line: 'Head: room|Entry: 817 [PAGE_MISSING]|#item-64228e6fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/full/0/default.jpg
+line: 'Head: roof|Entry: 362 [a Shingle]|#item-194cd1463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1158,1137,313,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233442170
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233394683
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1168,1240,339,118/150,/0/default.jpg
-label: room
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1158,1137,313,116/150,/0/default.jpg
+label: roof
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0692'
+order: '0693'
 layout: index_item
 collection: index4
 ---

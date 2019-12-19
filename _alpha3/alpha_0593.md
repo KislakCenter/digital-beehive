@@ -10,7 +10,7 @@ page:
 add: 
 xref: 1873 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2517/'>miller</a>"
+index: "<a href='/digital-beehive/index3/index_2516/'>miller</a>"
 item: "#item-dd8dafc4c"
 unparsed: 
 line: 'Entry: Miller|Topic: Miller|Xref: 1873 [PAGE_MISSING]|Index: miller|#item-dd8dafc4c'
@@ -21,7 +21,6 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/306,213,600,180/250,/0/default.jpg
 label: Miller
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-num_match: 
 order: '149'
 layout: alpha_item
 collection: alpha3

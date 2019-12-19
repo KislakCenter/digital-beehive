@@ -3,7 +3,7 @@ pid: index_1607
 volume: Volume 3
 image_number: '22'
 head: giant
-entry: "<a href='/digital-beehive/toc/toc2_100/'>361 [Giant]</a>"
+entry: "<a href='/digital-beehive/num2/num_0427/'>361 [a little Giant]</a>"
 topic: 
 first_letter: G
 page: 

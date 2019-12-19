@@ -3,8 +3,8 @@ pid: index_3406
 volume: Volume 3
 image_number: '40'
 head: revenues. ecclesiastical
-entry: "<a href='/digital-beehive/num1/num_0034/'>34 [Ecclesiastical (:excessive:)
-  Revenues]</a>"
+entry: "<a href='/digital-beehive/num1/num_0034/'>34 [Ecclesiastical (: excessive
+  :) Revenues]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/419,34
 label: revenues. ecclesiastical
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 insertion_xref: 
-order: '0653'
+order: '0654'
 layout: index_item
 collection: index4
 ---
