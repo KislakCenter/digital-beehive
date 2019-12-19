@@ -136,7 +136,6 @@ search:
       alpha1:
         content: false
         fields:
-          - image_number
           - label
           - topic
           - xref
@@ -144,7 +143,6 @@ search:
       alpha2:
         content: false
         fields:
-          - image_number
           - label
           - topic
           - xref
@@ -152,7 +150,6 @@ search:
       alpha3:
         content: false
         fields:
-          - image_number
           - label
           - topic
           - xref
@@ -160,7 +157,6 @@ search:
       alpha4:
         content: false
         fields:
-          - image_number
           - label
           - topic
           - xref
@@ -168,7 +164,6 @@ search:
       alpha5:
         content: false
         fields:
-          - image_number
           - label
           - topic
           - xref
@@ -176,51 +171,46 @@ search:
       index1:
         content: false
         fields:
-          - image_number
           - label
           - entry
           - see
       index2:
         content: false
         fields:
-          - image_number
           - label
           - entry
           - see
       index3:
         content: false
         fields:
-          - image_number
           - label
           - entry
           - see
       index4:
         content: false
         fields:
-          - image_number
           - label
           - entry
           - see
       index5:
         content: false
         fields:
-          - image_number
           - label
           - entry
           - see
       num1:
         content: false
         fields:
-          - image_number
           - label
+          - entry
           - topic
           - xref
           - index
       num2:
         content: false
         fields:
-          - image_number
           - label
+          - entry
           - topic
           - xref
           - index
