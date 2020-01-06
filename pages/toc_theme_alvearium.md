@@ -1,12 +1,14 @@
 ---
 layout: page
 title: Alvearium
-permalink: /alvearium/
+permalink: /sectionbrowse/alvearium/
 ---
 
-* [Alphabetical Section]({{ site.baseurl }}/alveariumalphabetical/)
-* [Numerical Section]({{ site.baseurl }}/alveariumnumerical/)
+* [Alphabetical Section]({{ site.baseurl }}/sectionbrowse/alveariumalphabetical/)
+* [Numerical Section]({{ site.baseurl }}/sectionbrowse/alveariumnumerical/)
 
-NB: There are two different indices that refer to this section, the [Old Alvearium Index]({{ site.baseurl }}/oldalveariumindex/) and the [Octavo Index]({{ site.baseurl }}/octavoindex/).
+[Return to Section Browse]({{ site.baseurl }}/sectionbrowse)
+
+NB: There are two different indices that refer to this section, the [Old Alvearium Index]({{ site.baseurl }}/sectionbrowse/oldalveariumindex/) and the [Octavo Index]({{ site.baseurl }}/sectionbrowse/octavoindex/).
 
 {% include toc_theme.html collection='toc' facet_by='type' only='Alvearium' %}
