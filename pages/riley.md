@@ -10,7 +10,7 @@ Lyman W. Riley
 
 _The following document was prepared by Lyman W. Riley (1918-2000), who was a Curator of Special at the University of Pennsylvania Library, as an aid to using the Beehive. The document was OCRed is presented here as he prepared it, with the addition of some German titles missing from his original typescript. This page is his introduction. For the book list, click [here](book-list.md)_.
 
-Introduction
+#### Introduction
 
 Francis Daniel Pastorius (1651-1719) is best known as the "Founder of Germantown, Pennsylvania" and is celebrated for being one of the four who presented the 1688 condemnation of slavery (written in his hand) to Philadelphia Friends.[^1]
 
@@ -103,9 +103,9 @@ Another unusual entry (p. 64 [116B]): "Francis Rouse's some time ... Provost of 
 
 And one entry is especially worth noting because of Pastorius's part in the 1688 Philadelphia Friends Meeting's protest against slavery : "John Hepburn's Essay to prove the unlawfulness of making slaves of men ... 1715. Out of this I collected chiefly into my theological tracts ..." (p. 57 (115A]).
 
-This Beehive list of books——a complicated one and somewhat difficult to transcribe and identify~-can, I hope, provide a little more insight into the life of this early and important settler in Pennsylvania.
+This Beehive list of books——a complicated one and somewhat difficult to transcribe and identify–-can, I hope, provide a little more insight into the life of this early and important settler in Pennsylvania.
 
-NOTES
+#### NOTES
 
 [^1]: The principal sources for the life of Pastorius are: Marion Dexter Learned, _The Life pf Francis Daniel Pastorius, The Founder of Germantown_, Philadelphia, 1908; Marianne S. Wokeck, "Francis Daniel Pastorius," in _Lawmaking and Legislators in Pennsylvania, A Biographical Dictionary_, Philadelphia, University of Pennsylvania Press, 1991, I: 586-590; and De Ella Toms, “The international and literary background of Francis Daniel Pastorius," Ph.D. dissertation, Northwestern University, 1953.
 
