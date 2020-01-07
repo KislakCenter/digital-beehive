@@ -27,34 +27,42 @@ To do this individually for each entry would be impossible. It would take too lo
 import pandas as pd
 import re
 
-def annotation_maker(fl, pid, ref):
-    if fl.startswith(('A','B','C','D')):
-        return f"<a href='/New_Beehive/alpha1/{pid}/'>{ref}</a>"
-    elif fl.startswith(('E', 'F', 'G', 'H')):
-        return f"<a href='/New_Beehive/alpha2/{pid}/'>{ref}</a>"
-    elif fl.startswith(('I', 'K', 'L', 'M', 'N')):
-        return f"<a href='/New_Beehive/alpha3/{pid}/'>{ref}</a>"
-    elif fl.startswith(('O', 'P', 'Q', 'R', 'S')):
-        return f"<a href='/New_Beehive/alpha4/{pid}/'>{ref}</a>"
+def alpha_annotator(item, ref):
+    '''
+    This function will create links in HTML syntax to alphabetical
+    entries in the Beehive
+    '''
+    pid = item['pid'].to_list()
+    pid = pid[0]
+    first_letter = item['first_letter'].to_list()
+    first_letter = first_letter[0]
+    if first_letter.startswith(('A', 'B', 'C', 'D')):
+        return f"<a href='/digital-beehive/alpha1/{pid}/'>{ref}</a>"
+    elif first_letter.startswith(('E', 'F', 'G', 'H')):
+        return f"<a href='/digital-beehive/alpha2/{pid}/'>{ref}</a>"
+    elif first_letter.startswith(('I', 'K', 'L', 'M', 'N')):
+        return f"<a href='/digital-beehive/alpha3/{pid}/'>{ref}</a>"
+    elif first_letter.startswith(('O', 'P', 'Q', 'R', 'S')):
+        return f"<a href='/digital-beehive/alpha4/{pid}/'>{ref}</a>"
     else:
-        return f"<a href='/New_Beehive/alpha5/{pid}/'>{ref}</a>"
+        return f"<a href='/digital-beehive/alpha5/{pid}/'>{ref}</a>"
 
 with open('beehive-data.csv', 'r') as f:
   df = pd.read_csv(f)
 
 for row in df.index:
-  xref = str(df.loc[row,'xref'])
-  if df['entry'].isin([xref]).any():
-    pid = re.search('alpha_\d+', str(df.loc[df['entry'].isin([xref])])
-    letter = df.loc[df['entry'].isin([xref])]['first_letter']
-    letter = str(letter.values).strip("['").strip("']")
-    annotation = annotation_maker(letter, pid, xref)
-    df.loc[row,'xref'] = annotation
+  xref = df.loc[row, 'xref']
+  xref_match = df[df['entry'] == xref]
+  try:
+    annotation = alpha_annotator(xref_match, xref)
+    df.loc[row, 'xref'] = annotation
+  except IndexError:
+    print(f'{xref} does not match!')
 
 new_csv = df.to_csv('beehive-data-linked.csv')
 ```
 
-The collection for each item is determined by the first letter of the entry. In order to separate items out into the correct collection, we have to find the first letter and then assign the correct URL. In order to match up cross-references and entries, we use the pandas function ".isin()". This will query a column in our dataset to see if any values match the cross-reference. From there, we just need to extract the pid and first letter from the data in order to create the annotation.
+The collection for each item is determined by the first letter of the entry. In order to separate items out into the correct collection, we have to find the first letter and then assign the correct URL. In order to match up cross-references and entries, we can see query the column of entries to see if there is a match. Pandas returns a series, which we convert to a list to extract only the relevant information. It is possible that there are multiple or zero matches. In any case, indexing the list at the zeroeth position solves the problem. If there are multiple entries, we normatively assume only the first is correct. If there are no matches, we will get an error. We can then have the script print out the bad xref, and possibly other relevant metadata, which we can use to correct problems in the data. Once we have a match, we just need to extract the pid and first letter from the data in order to create the annotation.
 
 If Pastorius's data were neat and perfect, all of the entries would link like magic. Unfortunately, Pastorius never expected that his Paper-Hive would be manipulated computationally, and much of his raw input works very poorly for this code. We made the decision early on to keep his spelling and capitalization. Thus, if Pastorius forgets to capitalize a cross-reference, it won't link automatically:
 
@@ -64,8 +72,8 @@ In the above entry, Pastorius does not capitalize the cross-reference for "abund
 
 ```python
 for row in df.index:
-  xref = str(df.loc[row,'xref'])
-  if df['entry'].str.lower().isin([xref.lower()]).any():
+  xref = df.loc[row,'xref']
+  xref_match  = df[df['xref'].str.lower() == xref.lower()]
 ```
 
 Here, we change both the entry we are searching for and the cross-reference to a lowercase version of the word without rewriting the original data. We can thus correct for any irregularities in Pastorius's capitalization practices. The code, however, becomes increasingly complex and difficult for a human reader to parse.
@@ -78,8 +86,8 @@ We can use the ".replace()" method in python to correct for such things:
 
 ```python
 for row in df.index:
-  xref = str(df.loc[row,'xref'])
-  if df['entry'].str.lower().isin([xref.lower().replace('mt','ment')]).any():
+  xref = df.loc[row,'xref']
+  xref_match = df[df['entry'].str.lower() == xref.lower().replace('mt','ment')]
 ```
 
 But already, our code becomes quite complex and difficult to parse. And there are several additional abbreviations that we would also need to correct for.
