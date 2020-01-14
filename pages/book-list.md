@@ -93,7 +93,7 @@ Wing: Donald Wing, et al. _Short-title Catalogue of Books Printed in Scotland, W
 
 #### I\.
 
-|53.||James Jackson's The friendly Enquirers Doubts & Objections answered: Concerning &C. [obscured] first intended & written for the satisfaction of some particular acquaintances, & now published for more general Service.||
+|53.||James Jackson's The friendly Enquirers Doubts & Objections answered: Concerning &C. [obscured] first intended & written for the satisfaction of some particular acquaintances, & now published for more general Service.|12mo., 1698. Smith, 2:2.|
 |54.||Samuel Jennings the state of the Case between Friends in Peñsilvania & G. Keith & some few seduced by him into a separation from them. &c. (adde pag. seq. num. 101)|8vo., 1694. Smith 2:10.|
 |55-62||[No entries, and the number 63 omitted]||
 |64.||Richard Viver's the Vicar of Banbury Corrected: Or an Answer to Benj. Leveling's Reply &c.|4to., 1703. Smith 2:843.|
