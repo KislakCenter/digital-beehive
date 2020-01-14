@@ -244,7 +244,7 @@ menu:
         link: '/alphabetical/'
       - label: 'Numerical Section'
         link: '/numerical/'
-      - label: 'Index'
+      - label: 'Octavo Index'
         link: '/index/'
   - label: Search
     link: '/search/'
