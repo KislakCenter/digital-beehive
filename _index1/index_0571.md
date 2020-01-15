@@ -3,7 +3,7 @@ pid: index_0571
 volume: Volume 3
 image_number: '12'
 head: cause of Sin
-entry: "<a href='/digital-beehive/alpha1/alpha_0130/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0130/'>a</a>"
 topic: 
 first_letter: C
 page: 

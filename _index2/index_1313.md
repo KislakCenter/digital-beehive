@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,80
 label: Eva
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 insertion_xref: 
-order: '133'
+order: '131'
 layout: index_item
 collection: index2
 ---

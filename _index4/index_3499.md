@@ -3,7 +3,7 @@ pid: index_3499
 volume: Volume 3
 image_number: '40'
 head: salary
-entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>"
 topic: 
 first_letter: S
 page: 

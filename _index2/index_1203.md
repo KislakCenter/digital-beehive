@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1164,4
 label: ecclesiasticus
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
-order: '023'
+order: '021'
 layout: index_item
 collection: index2
 ---

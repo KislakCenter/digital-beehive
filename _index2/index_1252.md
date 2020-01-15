@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1834,1
 label: to endure
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
-order: '072'
+order: '070'
 layout: index_item
 collection: index2
 ---

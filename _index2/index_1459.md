@@ -3,7 +3,7 @@ pid: index_1459
 volume: Volume 3
 image_number: '20'
 head: first
-entry: "<a href='/digital-beehive/alpha2/alpha_0326/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0326/'>a</a>"
 topic: 
 first_letter: F
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1802,1
 label: first
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 insertion_xref: 
-order: '279'
+order: '277'
 layout: index_item
 collection: index2
 ---

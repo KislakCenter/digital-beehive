@@ -3,7 +3,7 @@ pid: index_3650
 volume: Volume 3
 image_number: '42'
 head: severity
-entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>"
 topic: 
 first_letter: S
 page: 

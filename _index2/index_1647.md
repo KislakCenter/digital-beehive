@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,2
 label: God hiding himself
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
-order: '467'
+order: '465'
 layout: index_item
 collection: index2
 ---

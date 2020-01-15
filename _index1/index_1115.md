@@ -3,7 +3,7 @@ pid: index_1115
 volume: Volume 3
 image_number: '17'
 head: divinity mystica
-entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>"
 topic: 
 first_letter: D
 page: 

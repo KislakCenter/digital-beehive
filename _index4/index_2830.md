@@ -3,7 +3,7 @@ pid: index_2830
 volume: Volume 3
 image_number: '33'
 head: orphanage
-entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>"
 topic: 
 first_letter: O
 page: 

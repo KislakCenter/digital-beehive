@@ -8,7 +8,7 @@ topic: Too slow or quick
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|<a href='/digital-beehive/num1/num_0020/'>too
+xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|<a href='/digital-beehive/alpha5/num_0020/'>too
   late</a>|<a href='/digital-beehive/num1/num_0020/'>20 [Too late]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4183/'>too slow or quick</a>"

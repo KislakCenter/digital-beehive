@@ -3,7 +3,7 @@ pid: index_4185
 volume: Volume 3
 image_number: '48'
 head: too suspicious
-entry: "<a href='/digital-beehive/alpha5/alpha_0964/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0964/'>a</a>"
 topic: 
 first_letter: T
 page: 

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/375,35
 label: history of partic. men
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
-order: '665'
+order: '663'
 layout: index_item
 collection: index2
 ---

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/140,36
 label: Mr. Hales
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '558'
+order: '556'
 layout: index_item
 collection: index2
 ---

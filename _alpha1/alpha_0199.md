@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0985/'>Tyran[n]y</a>|<a href='/digital-beehive/alpha4/alpha_0860/'>Severity</a>|<a
-  href='/digital-beehive/num1/num_0205/'>Oppression</a>|<a href='/digital-beehive/toc/toc2_131/'>565
+  href='/digital-beehive/alpha5/num_0205/'>Oppression</a>|<a href='/digital-beehive/toc/toc2_131/'>565
   [horrid Cruelties practised by the Papists upon Protestants]</a>|<a href='/digital-beehive/toc/toc2_123/'>514
   [Cruelty]</a>"
 see: 

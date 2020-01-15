@@ -3,7 +3,7 @@ pid: index_3848
 volume: Volume 3
 image_number: '44'
 head: spiritual
-entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0903/'>a</a>"
 topic: 
 first_letter: S
 page: 

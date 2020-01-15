@@ -3,7 +3,7 @@ pid: index_4628
 volume: Volume 3
 image_number: '53'
 head: wrath
-entry: "<a href='/digital-beehive/alpha5/alpha_1064/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1064/'>a</a>"
 topic: 
 first_letter: W
 page: 

@@ -3,7 +3,7 @@ pid: index_2557
 volume: Volume 3
 image_number: '31'
 head: mole. talpa
-entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>"
 topic: 
 first_letter: M
 page: 

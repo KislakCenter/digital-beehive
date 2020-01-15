@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2
 label: hemp
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '620'
+order: '618'
 layout: index_item
 collection: index2
 ---

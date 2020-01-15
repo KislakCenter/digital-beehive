@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,17
 label: freedom
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '355'
+order: '353'
 layout: index_item
 collection: index2
 ---

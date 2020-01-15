@@ -3,7 +3,7 @@ pid: index_0826
 volume: Volume 3
 image_number: '14'
 head: continency
-entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>"
 topic: 
 first_letter: C
 page: 

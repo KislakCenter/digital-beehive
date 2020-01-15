@@ -3,7 +3,7 @@ pid: index_4018
 volume: Volume 3
 image_number: '46'
 head: sweat
-entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>"
 topic: 
 first_letter: S
 page: 

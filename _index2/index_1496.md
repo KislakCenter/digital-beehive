@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/170,12
 label: fool & folly
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '316'
+order: '314'
 layout: index_item
 collection: index2
 ---

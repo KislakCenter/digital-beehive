@@ -8,7 +8,7 @@ topic: Star
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0024/'>Astrology</a>|<a href='/digital-beehive/alpha1/alpha_0154/'>Comet</a>|<a
+xref: "<a href='/digital-beehive/alpha5/num_0024/'>Astrology</a>|<a href='/digital-beehive/alpha1/alpha_0154/'>Comet</a>|<a
   href='/digital-beehive/alpha4/alpha_0710/'>Planets</a>|<a href='/digital-beehive/toc/toc2_265/'>1358
   [Star]</a>"
 see: 

@@ -23,7 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,81
 label: great men
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '527'
+order: '525'
 layout: index_item
 collection: index2
 ---

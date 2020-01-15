@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1102,3
 label: fight
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 insertion_xref: 
-order: '262'
+order: '260'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_4550
 volume: Volume 3
 image_number: '52'
 head: will of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>"
 topic: 
 first_letter: W
 page: 

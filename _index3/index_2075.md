@@ -3,7 +3,7 @@ pid: index_2075
 volume: Volume 3
 image_number: '26'
 head: intercession
-entry: "<a href='/digital-beehive/alpha3/alpha_0484/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0484/'>a</a>"
 topic: 
 first_letter: I/J
 page: 

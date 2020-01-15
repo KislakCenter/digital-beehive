@@ -3,7 +3,7 @@ pid: index_4591
 volume: Volume 3
 image_number: '53'
 head: women beaten
-entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>"
 topic: 
 first_letter: W
 page: 

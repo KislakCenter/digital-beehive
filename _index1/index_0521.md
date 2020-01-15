@@ -3,7 +3,7 @@ pid: index_0521
 volume: Volume 3
 image_number: '11'
 head: canary bird
-entry: "<a href='/digital-beehive/alpha1/alpha_0115/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0115/'>a</a>"
 topic: 
 first_letter: C
 page: 

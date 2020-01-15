@@ -3,7 +3,7 @@ pid: index_1112
 volume: Volume 3
 image_number: '17'
 head: diversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>"
 topic: 
 first_letter: D
 page: 

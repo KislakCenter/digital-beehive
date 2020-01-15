@@ -8,7 +8,7 @@ topic: Eternity
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0323/'>Always</a>|<a href='/digital-beehive/num2/num_0585/'>Immortality</a>|<a
+xref: "<a href='/digital-beehive/alpha5/num_0323/'>Always</a>|<a href='/digital-beehive/alpha5/num_0585/'>Immortality</a>|<a
   href='/digital-beehive/toc/toc2_222/'>1142 [Eternity]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1309/'>eternity</a>"

@@ -3,7 +3,7 @@ pid: index_2883
 volume: Volume 3
 image_number: '34'
 head: Paris
-entry: "<a href='/digital-beehive/alpha4/alpha_0678/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0678/'>a</a>"
 topic: 
 first_letter: P
 page: 

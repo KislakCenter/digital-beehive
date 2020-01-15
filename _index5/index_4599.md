@@ -3,7 +3,7 @@ pid: index_4599
 volume: Volume 3
 image_number: '53'
 head: woman's wit
-entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1047/'>a</a>"
 topic: 
 first_letter: W
 page: 

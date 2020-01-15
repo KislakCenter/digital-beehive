@@ -3,7 +3,7 @@ pid: index_4601
 volume: Volume 3
 image_number: '53'
 head: wonderful things
-entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1050/'>a</a>"
 topic: 
 first_letter: W
 page: 

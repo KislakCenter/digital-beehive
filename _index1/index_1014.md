@@ -3,7 +3,7 @@ pid: index_1014
 volume: Volume 3
 image_number: '16'
 head: deprecation
-entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0226/'>a</a>"
 topic: 
 first_letter: D
 page: 

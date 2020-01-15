@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,37
 label: hereditary
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
-order: '632'
+order: '630'
 layout: index_item
 collection: index2
 ---

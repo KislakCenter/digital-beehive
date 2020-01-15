@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,1
 label: hedgehog
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '611'
+order: '609'
 layout: index_item
 collection: index2
 ---

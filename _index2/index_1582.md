@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2
 label: garland
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '402'
+order: '400'
 layout: index_item
 collection: index2
 ---

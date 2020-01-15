@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1658,541,244,132/150,/0/default.jpg
 label: "[:39.]"
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4707/'>lesson</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4707/'><</a>"
 order: '340'
 layout: index_item
 collection: index3

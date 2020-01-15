@@ -3,7 +3,7 @@ pid: index_4457
 volume: Volume 3
 image_number: '51'
 head: wager
-entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>"
 topic: 
 first_letter: W
 page: 

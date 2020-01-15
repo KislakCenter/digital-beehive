@@ -8,7 +8,7 @@ topic: Fire
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0441/'>Incendiary</a>|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152
+xref: "<a href='/digital-beehive/alpha5/num_0441/'>Incendiary</a>|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152
   [Fire]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1454/'>fire</a>"

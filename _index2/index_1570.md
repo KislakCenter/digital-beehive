@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1531,1
 label: furies
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '390'
+order: '388'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_3154
 volume: Volume 3
 image_number: '37'
 head: priesthood
-entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
 topic: 
 first_letter: P
 page: 

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1525,2
 label: Xts. descension into hell
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '614'
+order: '612'
 layout: index_item
 collection: index2
 ---

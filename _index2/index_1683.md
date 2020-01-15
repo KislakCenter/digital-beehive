@@ -3,7 +3,7 @@ pid: index_1683
 volume: Volume 3
 image_number: '22'
 head: Grace
-entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0377/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1830,1
 label: Grace
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
-order: '502'
+order: '500'
 layout: index_item
 collection: index2
 ---

@@ -8,7 +8,7 @@ topic: Language
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0667/'>Original Tongue</a>|<a href='/digital-beehive/num2/num_0584/'>English
+xref: "<a href='/digital-beehive/alpha4/alpha_0667/'>Original Tongue</a>|<a href='/digital-beehive/alpha5/num_0584/'>English
   tongue</a>|<a href='/digital-beehive/alpha4/alpha_0900/'>Speech</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Tongue</a>|<a
   href='/digital-beehive/toc/toc2_276/'>1413 [Languages]</a>"
 see: 

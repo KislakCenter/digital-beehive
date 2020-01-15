@@ -3,7 +3,7 @@ pid: index_3502
 volume: Volume 3
 image_number: '41'
 head: sallet
-entry: "<a href='/digital-beehive/alpha4/alpha_0825/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0825/'>a</a>"
 topic: 
 first_letter: S
 page: 

@@ -3,7 +3,7 @@ pid: index_0916
 volume: Volume 3
 image_number: '15'
 head: cross of Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0197/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0197/'>a</a>"
 topic: 
 first_letter: C
 page: 

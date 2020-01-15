@@ -3,7 +3,7 @@ pid: index_3931
 volume: Volume 3
 image_number: '45'
 head: strappado
-entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0917/'>a</a>"
 topic: 
 first_letter: S
 page: 

@@ -3,7 +3,7 @@ pid: index_1700
 volume: Volume 3
 image_number: '22'
 head: grave
-entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0385/'>a</a>"
 topic: 
 first_letter: G
 page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1854,3
 label: grave
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
-order: '519'
+order: '517'
 layout: index_item
 collection: index2
 ---

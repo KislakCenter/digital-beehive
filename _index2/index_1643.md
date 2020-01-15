@@ -3,7 +3,7 @@ pid: index_1643
 volume: Volume 3
 image_number: '22'
 head: God's blessings
-entry: "<a href='/digital-beehive/alpha2/alpha_0366/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0366/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1146,1
 label: God's blessings
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
-order: '463'
+order: '461'
 layout: index_item
 collection: index2
 ---

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1135,3
 label: horse leech
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
-order: '695'
+order: '693'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_2346
 volume: Volume 3
 image_number: '29'
 head: love of sin
-entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>"
 topic: 
 first_letter: L
 page: 

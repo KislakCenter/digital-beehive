@@ -3,7 +3,7 @@ pid: index_2791
 volume: Volume 3
 image_number: '33'
 head: omnipresence
-entry: "<a href='/digital-beehive/alpha4/alpha_0662/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0662/'>a</a>"
 topic: 
 first_letter: O
 page: 

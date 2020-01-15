@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/2366,962,133,107/150,/0/default.jpg
 label: "[:6.]"
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4669/'>12 Tribes of Isr</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4669/'><</a>"
 order: '196'
 layout: index_item
 collection: index5

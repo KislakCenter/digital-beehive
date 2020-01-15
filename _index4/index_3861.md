@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2323,1585,203,162/150,/0/default.jpg
 label: "[:9.]"
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4672/'><</a>"
 order: '1109'
 layout: index_item
 collection: index4

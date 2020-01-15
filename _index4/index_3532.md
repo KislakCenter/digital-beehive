@@ -3,7 +3,7 @@ pid: index_3532
 volume: Volume 3
 image_number: '41'
 head: scabine
-entry: "<a href='/digital-beehive/alpha4/alpha_0832/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0832/'>a</a>"
 topic: 
 first_letter: S
 page: 

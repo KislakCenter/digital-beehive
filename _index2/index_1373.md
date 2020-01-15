@@ -3,7 +3,7 @@ pid: index_1373
 volume: Volume 3
 image_number: '19'
 head: eye lust
-entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0305/'>a</a>"
 topic: 
 first_letter: E
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1474,3
 label: eye lust
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 insertion_xref: 
-order: '193'
+order: '191'
 layout: index_item
 collection: index2
 ---

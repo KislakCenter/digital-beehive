@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/389,35
 label: fat. aroina
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 insertion_xref: 
-order: '232'
+order: '230'
 layout: index_item
 collection: index2
 ---

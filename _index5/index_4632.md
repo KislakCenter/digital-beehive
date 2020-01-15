@@ -3,7 +3,7 @@ pid: index_4632
 volume: Volume 3
 image_number: '53'
 head: wrinkle
-entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>"
 topic: 
 first_letter: W
 page: 

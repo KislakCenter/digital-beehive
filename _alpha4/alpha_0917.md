@@ -8,7 +8,7 @@ topic: Strappado
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0519/'>Torturing</a>"
+xref: "<a href='/digital-beehive/alpha5/num_0519/'>Torturing</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3931/'>strappado</a>"
 item: "#item-d63cc68df"

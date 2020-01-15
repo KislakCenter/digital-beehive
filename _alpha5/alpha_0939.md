@@ -8,7 +8,7 @@ topic: Teacher
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0478/'>393 [Teacher]</a>|<a href='/digital-beehive/num1/num_0041/'>False
+xref: "<a href='/digital-beehive/num2/num_0478/'>393 [Teacher]</a>|<a href='/digital-beehive/alpha5/num_0041/'>False
   Prophets</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4072/'>teachers</a>"

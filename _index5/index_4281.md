@@ -3,7 +3,7 @@ pid: index_4281
 volume: Volume 3
 image_number: '49'
 head: tyger
-entry: "<a href='/digital-beehive/alpha5/alpha_0984/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0984/'>a</a>"
 topic: 
 first_letter: T
 page: 

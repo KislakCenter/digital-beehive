@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/2196,675,157,78/150,/0/default.jpg
 label: "[:41.]"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4709/'>Albigenses</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4709/'><</a>"
 order: '0086'
 layout: index_item
 collection: index1

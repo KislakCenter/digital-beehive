@@ -8,7 +8,7 @@ topic: Trance
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Extasies]</a>|<a href='/digital-beehive/num1/num_0035/'>Enthusiasm</a>"
+xref: "<a href='/digital-beehive/toc/toc2_251/'>1286 [Extasies]</a>|<a href='/digital-beehive/alpha5/num_0035/'>Enthusiasm</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4212/'>trance</a>"
 item: "#item-abf4403a2"

@@ -3,7 +3,7 @@ pid: index_4119
 volume: Volume 3
 image_number: '47'
 head: thirst
-entry: "<a href='/digital-beehive/alpha5/alpha_0950/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0950/'>a</a>"
 topic: 
 first_letter: T
 page: 

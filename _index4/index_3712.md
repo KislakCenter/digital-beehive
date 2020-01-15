@@ -3,7 +3,7 @@ pid: index_3712
 volume: Volume 3
 image_number: '43'
 head: similitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0874/'>a</a>"
 topic: 
 first_letter: S
 page: 

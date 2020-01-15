@@ -3,7 +3,7 @@ pid: index_0908
 volume: Volume 3
 image_number: '15'
 head: crime
-entry: "<a href='/digital-beehive/alpha1/alpha_0194/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0194/'>a</a>"
 topic: 
 first_letter: C
 page: 

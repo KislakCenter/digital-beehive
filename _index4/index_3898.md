@@ -3,7 +3,7 @@ pid: index_3898
 volume: Volume 3
 image_number: '45'
 head: steward
-entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0910/'>a</a>"
 topic: 
 first_letter: S
 page: 

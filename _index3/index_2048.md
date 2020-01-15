@@ -3,7 +3,7 @@ pid: index_2048
 volume: Volume 3
 image_number: '26'
 head: injustice
-entry: "<a href='/digital-beehive/alpha3/alpha_0476/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0476/'>a</a>"
 topic: 
 first_letter: I/J
 page: 

@@ -3,7 +3,7 @@ pid: index_2396
 volume: Volume 3
 image_number: '29'
 head: malediction
-entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>"
 topic: 
 first_letter: M
 page: 

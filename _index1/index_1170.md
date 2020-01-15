@@ -3,7 +3,7 @@ pid: index_1170
 volume: Volume 3
 image_number: '18'
 head: dung. dunghil
-entry: "<a href='/digital-beehive/alpha1/alpha_0267/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0267/'>a</a>"
 topic: 
 first_letter: D
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/445,79
 label: dung. dunghil
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
-order: '1168'
+order: '1169'
 layout: index_item
 collection: index1
 ---

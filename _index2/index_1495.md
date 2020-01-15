@@ -3,7 +3,7 @@ pid: index_1495
 volume: Volume 3
 image_number: '21'
 head: fontanell
-entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>"
 topic: 
 first_letter: F
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/156,11
 label: fontanell
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '315'
+order: '313'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_1417
 volume: Volume 3
 image_number: '20'
 head: fault
-entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0318/'>a</a>"
 topic: 
 first_letter: F
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1141,6
 label: fault
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 insertion_xref: 
-order: '237'
+order: '235'
 layout: index_item
 collection: index2
 ---

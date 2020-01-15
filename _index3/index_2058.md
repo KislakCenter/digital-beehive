@@ -3,7 +3,7 @@ pid: index_2058
 volume: Volume 3
 image_number: '26'
 head: inscriptions
-entry: "<a href='/digital-beehive/alpha3/alpha_0479/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0479/'>a</a>"
 topic: 
 first_letter: I/J
 page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"

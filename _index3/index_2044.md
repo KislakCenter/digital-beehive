@@ -3,7 +3,7 @@ pid: index_2044
 volume: Volume 3
 image_number: '26'
 head: inhumanity
-entry: "<a href='/digital-beehive/alpha3/alpha_0475/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0475/'>a</a>"
 topic: 
 first_letter: I/J
 page: 

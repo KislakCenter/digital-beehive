@@ -3,7 +3,7 @@ pid: index_0275
 volume: Volume 3
 image_number: '9'
 head: baker
-entry: "<a href='/digital-beehive/alpha1/alpha_0053/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0053/'>a</a>"
 topic: 
 first_letter: B
 page: 

@@ -3,7 +3,7 @@ pid: index_3976
 volume: Volume 3
 image_number: '46'
 head: sugar
-entry: "<a href='/digital-beehive/alpha4/alpha_0925/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0925/'>a</a>"
 topic: 
 first_letter: S
 page: 

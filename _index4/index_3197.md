@@ -3,7 +3,7 @@ pid: index_3197
 volume: Volume 3
 image_number: '37'
 head: prophanation
-entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>"
 topic: 
 first_letter: P
 page: 

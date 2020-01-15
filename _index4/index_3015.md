@@ -21,9 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/150,/0/default.jpg
 label: "[:31.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4696/'>pink. gillifl.</a>|<a
-  href='/digital-beehive/index5/index_4697/'>pindar</a>|<a href='/digital-beehive/index5/index_4698/'>pin
-  money</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4696/'><</a>|<a href='/digital-beehive/index5/index_4697/'><</a>|<a
+  href='/digital-beehive/index5/index_4698/'><</a>"
 order: '0263'
 layout: index_item
 collection: index4

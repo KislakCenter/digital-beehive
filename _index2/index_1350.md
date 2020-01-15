@@ -3,7 +3,7 @@ pid: index_1350
 volume: Volume 3
 image_number: '19'
 head: exorcism
-entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>"
 topic: 
 first_letter: E
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1
 label: exorcism
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 insertion_xref: 
-order: '170'
+order: '168'
 layout: index_item
 collection: index2
 ---

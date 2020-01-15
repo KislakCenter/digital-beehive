@@ -3,7 +3,7 @@ pid: index_3166
 volume: Volume 3
 image_number: '37'
 head: priviledge
-entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>"
 topic: 
 first_letter: P
 page: 

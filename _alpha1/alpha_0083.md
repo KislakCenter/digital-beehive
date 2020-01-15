@@ -8,7 +8,7 @@ topic: Blackness
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0460/'>Neger</a>|<a href='/digital-beehive/toc/toc2_307/'>1563
+xref: "<a href='/digital-beehive/alpha5/num_0460/'>Neger</a>|<a href='/digital-beehive/toc/toc2_307/'>1563
   [Blackness]</a>|<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0381/'>blackness</a>"

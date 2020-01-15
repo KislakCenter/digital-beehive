@@ -3,7 +3,7 @@ pid: index_3221
 volume: Volume 3
 image_number: '38'
 head: pudding
-entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0757/'>a</a>"
 topic: 
 first_letter: P
 page: 

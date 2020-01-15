@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1040,255,148/150,/0/default.jpg
 label: "[:44.]"
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4712/'>Rat</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4712/'><</a>"
 order: '0544'
 layout: index_item
 collection: index4

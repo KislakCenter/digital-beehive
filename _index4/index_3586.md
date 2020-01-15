@@ -3,7 +3,7 @@ pid: index_3586
 volume: Volume 3
 image_number: '41'
 head: secretary
-entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>"
 topic: 
 first_letter: S
 page: 

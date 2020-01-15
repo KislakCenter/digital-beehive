@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/150,/0/default.jpg
 label: "[:45.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4713/'>Vernish</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4713/'><</a>"
 order: '276'
 layout: index_item
 collection: index5

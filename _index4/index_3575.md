@@ -3,7 +3,7 @@ pid: index_3575
 volume: Volume 3
 image_number: '41'
 head: seal
-entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0838/'>a</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"

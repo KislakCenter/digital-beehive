@@ -8,7 +8,7 @@ topic: Pedantry
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0109/'>Pretender to Learning</a>|downright
+xref: "<a href='/digital-beehive/alpha5/num_0109/'>Pretender to Learning</a>|downright
   Scholar|<a href='/digital-beehive/toc/toc2_238/'>1224 [Pedantry]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2938/'>pedantery</a>"

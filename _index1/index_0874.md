@@ -3,7 +3,7 @@ pid: index_0874
 volume: Volume 3
 image_number: '15'
 head: counterfeit money
-entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>"
 topic: 
 first_letter: C
 page: 

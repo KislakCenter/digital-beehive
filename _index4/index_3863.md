@@ -3,7 +3,7 @@ pid: index_3863
 volume: Volume 3
 image_number: '44'
 head: spring. brun[n]
-entry: "<a href='/digital-beehive/alpha4/alpha_0904/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0904/'>a</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"

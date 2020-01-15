@@ -3,7 +3,7 @@ pid: index_1995
 volume: Volume 3
 image_number: '25'
 head: incivility
-entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0466/'>a</a>"
 topic: 
 first_letter: I/J
 page: 

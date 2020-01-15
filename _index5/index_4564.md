@@ -21,8 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/746,592,153,127/150,/0/default.jpg
 label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
-  or winnow</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4668/'><</a>"
 order: '526'
 layout: index_item
 collection: index5

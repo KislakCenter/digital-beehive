@@ -3,7 +3,7 @@ pid: index_4484
 volume: Volume 3
 image_number: '52'
 head: washing of feet
-entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>"
 topic: 
 first_letter: W
 page: 

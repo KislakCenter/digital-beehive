@@ -3,7 +3,7 @@ pid: index_2073
 volume: Volume 3
 image_number: '26'
 head: intemperance
-entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0482/'>a</a>"
 topic: 
 first_letter: I/J
 page: 

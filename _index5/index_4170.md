@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/999,820,155,130/150,/0/default.jpg
 label: "[:54.]"
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4722/'>tomb</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4722/'><</a>"
 order: '132'
 layout: index_item
 collection: index5

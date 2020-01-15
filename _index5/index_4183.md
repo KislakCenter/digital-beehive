@@ -3,7 +3,7 @@ pid: index_4183
 volume: Volume 3
 image_number: '48'
 head: too slow or quick
-entry: "<a href='/digital-beehive/alpha5/alpha_0966/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0966/'>a</a>"
 topic: 
 first_letter: T
 page: 

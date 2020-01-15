@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/2333,2126,201,199/150,/0/default.jpg
 label: "[:63.]"
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4732/'>Dinah</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4732/'><</a>"
 order: '1055'
 layout: index_item
 collection: index1

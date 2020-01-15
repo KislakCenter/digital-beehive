@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/967,1854,151,99/150,/0/default.jpg
 label: "[:61.]"
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4730/'>angling</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4730/'><</a>"
 order: '0143'
 layout: index_item
 collection: index1

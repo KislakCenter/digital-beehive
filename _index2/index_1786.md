@@ -3,7 +3,7 @@ pid: index_1786
 volume: Volume 3
 image_number: '23'
 head: heavenly things
-entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1556,1
 label: heavenly things
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '605'
+order: '603'
 layout: index_item
 collection: index2
 ---

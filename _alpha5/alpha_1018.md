@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0634/'>Necessity</a>|<a href='/digital-beehive/alpha4/alpha_0720/'>Poverty</a>|<a
-  href='/digital-beehive/num2/num_0386/'>Impotency</a>|<a href='/digital-beehive/toc/toc2_263/'>1350
+  href='/digital-beehive/alpha5/num_0386/'>Impotency</a>|<a href='/digital-beehive/toc/toc2_263/'>1350
   [Want]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4468/'>want</a>"

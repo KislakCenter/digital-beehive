@@ -3,7 +3,7 @@ pid: index_2934
 volume: Volume 3
 image_number: '34'
 head: pear
-entry: "<a href='/digital-beehive/alpha4/alpha_0694/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0694/'>a</a>"
 topic: 
 first_letter: P
 page: 

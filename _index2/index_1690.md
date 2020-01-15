@@ -26,7 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2
 label: God's providence
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 insertion_xref: 
-order: '509'
+order: '507'
 layout: index_item
 collection: index2
 ---

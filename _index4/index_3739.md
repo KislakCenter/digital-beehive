@@ -3,7 +3,7 @@ pid: index_3739
 volume: Volume 3
 image_number: '43'
 head: skill
-entry: "<a href='/digital-beehive/alpha4/alpha_0882/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0882/'>a</a>"
 topic: 
 first_letter: S
 page: 

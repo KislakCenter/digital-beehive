@@ -3,7 +3,7 @@ pid: index_3667
 volume: Volume 3
 image_number: '42'
 head: shells of snails
-entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>"
 topic: 
 first_letter: S
 page: 

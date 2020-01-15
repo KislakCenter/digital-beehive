@@ -3,7 +3,7 @@ pid: index_1133
 volume: Volume 3
 image_number: '17'
 head: dormouse
-entry: "<a href='/digital-beehive/alpha1/alpha_0259/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0259/'>a</a>"
 topic: 
 first_letter: D
 page: 

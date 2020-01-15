@@ -3,7 +3,7 @@ pid: index_3535
 volume: Volume 3
 image_number: '41'
 head: scandal
-entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0833/'>a</a>"
 topic: 
 first_letter: S
 page: 

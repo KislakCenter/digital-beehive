@@ -3,7 +3,7 @@ pid: index_4252
 volume: Volume 3
 image_number: '48'
 head: trusting
-entry: "<a href='/digital-beehive/alpha5/alpha_0981/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0981/'>a</a>"
 topic: 
 first_letter: T
 page: 

@@ -3,7 +3,7 @@ pid: index_1756
 volume: Volume 3
 image_number: '23'
 head: hare
-entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>"
 topic: 
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,16
 label: hare
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '575'
+order: '573'
 layout: index_item
 collection: index2
 ---

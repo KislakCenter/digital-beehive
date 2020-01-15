@@ -8,7 +8,7 @@ topic: Friendship
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0001/'>familiarity</a>|<a href='/digital-beehive/num1/num_0001/'>1
+xref: "<a href='/digital-beehive/alpha5/num_0001/'>familiarity</a>|<a href='/digital-beehive/num1/num_0001/'>1
   [Familiarity]</a>|<a href='/digital-beehive/num2/num_0531/'>429 [Friendship]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1547/'>friendship</a>"

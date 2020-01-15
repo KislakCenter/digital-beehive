@@ -3,7 +3,7 @@ pid: index_0406
 volume: Volume 3
 image_number: '10'
 head: boldness
-entry: "<a href='/digital-beehive/alpha1/alpha_0091/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0091/'>a</a>"
 topic: 
 first_letter: B
 page: 

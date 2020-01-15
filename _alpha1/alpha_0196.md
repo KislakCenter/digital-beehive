@@ -8,7 +8,7 @@ topic: Cross
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|<a href='/digital-beehive/num1/num_0192/'>Crucifix</a>|<a
+xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|<a href='/digital-beehive/alpha5/num_0192/'>Crucifix</a>|<a
   href='/digital-beehive/toc/toc2_120/'>498 [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_295/'>1505
   [Cross]</a>"
 see: 

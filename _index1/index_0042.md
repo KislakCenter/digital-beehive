@@ -3,7 +3,7 @@ pid: index_0042
 volume: Volume 3
 image_number: '7'
 head: adiaphory
-entry: "<a href='/digital-beehive/alpha1/alpha_0006/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0006/'>a</a>"
 topic: 
 first_letter: A
 page: 

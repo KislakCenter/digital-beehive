@@ -3,7 +3,7 @@ pid: index_1022
 volume: Volume 3
 image_number: '16'
 head: desertion
-entry: "<a href='/digital-beehive/alpha1/alpha_0228/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0228/'>a</a>"
 topic: 
 first_letter: D
 page: 

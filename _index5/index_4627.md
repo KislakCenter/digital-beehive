@@ -3,7 +3,7 @@ pid: index_4627
 volume: Volume 3
 image_number: '53'
 head: wounds of Christ
-entry: "<a href='/digital-beehive/alpha5/alpha_1063/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1063/'>a</a>"
 topic: 
 first_letter: W
 page: 

@@ -3,7 +3,7 @@ pid: index_2320
 volume: Volume 3
 image_number: '28'
 head: logick
-entry: "<a href='/digital-beehive/alpha3/alpha_0544/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0544/'>a</a>"
 topic: 
 first_letter: L
 page: 

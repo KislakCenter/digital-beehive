@@ -3,7 +3,7 @@ pid: index_4586
 volume: Volume 3
 image_number: '53'
 head: wolf
-entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1043/'>a</a>"
 topic: 
 first_letter: W
 page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"

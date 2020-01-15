@@ -3,7 +3,7 @@ pid: index_4640
 volume: Volume 3
 image_number: '53'
 head: year
-entry: "<a href='/digital-beehive/alpha5/alpha_1068/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1068/'>a</a>"
 topic: 
 first_letter: Y
 page: 

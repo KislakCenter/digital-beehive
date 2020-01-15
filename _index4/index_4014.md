@@ -3,7 +3,7 @@ pid: index_4014
 volume: Volume 3
 image_number: '46'
 head: Swan
-entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0933/'>a</a>"
 topic: 
 first_letter: S
 page: 

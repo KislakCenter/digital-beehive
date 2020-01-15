@@ -3,7 +3,7 @@ pid: index_1164
 volume: Volume 3
 image_number: '18'
 head: duck
-entry: "<a href='/digital-beehive/alpha1/alpha_0265/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0265/'>a</a>"
 topic: 
 first_letter: D
 page: 

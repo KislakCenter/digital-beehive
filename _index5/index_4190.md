@@ -3,7 +3,7 @@ pid: index_4190
 volume: Volume 3
 image_number: '48'
 head: toothach
-entry: "<a href='/digital-beehive/alpha5/alpha_0970/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0970/'>a</a>"
 topic: 
 first_letter: T
 page: 

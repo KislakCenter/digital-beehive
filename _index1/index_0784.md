@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/994,2868,189,95/150,/0/default.jpg
 label: "[:40.]"
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4708/'>Confederacy</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4708/'><</a>"
 order: '0783'
 layout: index_item
 collection: index1

@@ -5,7 +5,7 @@ image_number: '18'
 head: "[:10.]"
 entry: 
 topic: 
-first_letter: E
+first_letter: D
 page: 
 add: 
 xref: 
@@ -21,8 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1016,484,188,109/150,/0/default.jpg
 label: "[:10.]"
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4673/'>Duke</a>"
-order: '000'
+insertion_xref: "<a href='/digital-beehive/index5/index_4673/'><</a>"
+order: '1166'
 layout: index_item
-collection: index2
+collection: index1
 ---

@@ -8,7 +8,7 @@ topic: Neutrality
 first_letter: N
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|<a href='/digital-beehive/num1/num_0183/'>Indifferency</a>|<a
+xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|<a href='/digital-beehive/alpha5/num_0183/'>Indifferency</a>|<a
   href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num2/num_0420/'>357
   [Neutrality]</a>"
 see: 

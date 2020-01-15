@@ -3,7 +3,7 @@ pid: index_1557
 volume: Volume 3
 image_number: '21'
 head: fruit
-entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0351/'>a</a>"
 topic: 
 first_letter: F
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1620,2
 label: fruit
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 insertion_xref: 
-order: '377'
+order: '375'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_0999
 volume: Volume 3
 image_number: '16'
 head: deliberation
-entry: "<a href='/digital-beehive/alpha1/alpha_0221/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0221/'>a</a>"
 topic: 
 first_letter: D
 page: 

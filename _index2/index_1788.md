@@ -3,7 +3,7 @@ pid: index_1788
 volume: Volume 3
 image_number: '23'
 head: heavy
-entry: "<a href='/digital-beehive/alpha2/alpha_0409/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0409/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1537,1
 label: heavy
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '607'
+order: '605'
 layout: index_item
 collection: index2
 ---

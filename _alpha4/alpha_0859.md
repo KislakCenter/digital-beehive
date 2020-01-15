@@ -8,7 +8,7 @@ topic: Servitude
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0886/'>Slavery</a>|<a href='/digital-beehive/num2/num_0460/'>Neger</a>|813
+xref: "<a href='/digital-beehive/alpha4/alpha_0886/'>Slavery</a>|<a href='/digital-beehive/alpha5/num_0460/'>Neger</a>|813
   [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index4/index_3647/'>servitude</a>"

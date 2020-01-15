@@ -3,7 +3,7 @@ pid: index_2347
 volume: Volume 3
 image_number: '29'
 head: love of the world
-entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0560/'>a</a>"
 topic: 
 first_letter: L
 page: 

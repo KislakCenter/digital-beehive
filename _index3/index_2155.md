@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1347,459,237,151/150,/0/default.jpg
 label: "[:34.]"
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4702/'>kidnapper</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4702/'><</a>"
 order: '236'
 layout: index_item
 collection: index3

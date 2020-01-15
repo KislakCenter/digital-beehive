@@ -3,7 +3,7 @@ pid: index_3414
 volume: Volume 3
 image_number: '40'
 head: rheum
-entry: "<a href='/digital-beehive/alpha4/alpha_0805/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0805/'>a</a>"
 topic: 
 first_letter: R
 page: 

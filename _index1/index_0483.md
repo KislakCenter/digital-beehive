@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1413,1596,152,88/150,/0/default.jpg
 label: "[:27.]"
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4692/'>Dr. Burnet</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4692/'><</a>"
 order: '0482'
 layout: index_item
 collection: index1

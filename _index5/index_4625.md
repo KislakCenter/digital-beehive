@@ -3,7 +3,7 @@ pid: index_4625
 volume: Volume 3
 image_number: '53'
 head: worthiness
-entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1061/'>a</a>"
 topic: 
 first_letter: W
 page: 

@@ -3,7 +3,7 @@ pid: index_2324
 volume: Volume 3
 image_number: '29'
 head: long sufferance
-entry: "<a href='/digital-beehive/alpha3/alpha_0547/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0547/'>a</a>"
 topic: 
 first_letter: L
 page: 

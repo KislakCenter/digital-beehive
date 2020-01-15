@@ -3,7 +3,7 @@ pid: index_0562
 volume: Volume 3
 image_number: '12'
 head: catechism
-entry: "<a href='/digital-beehive/alpha1/alpha_0125/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0125/'>a</a>"
 topic: 
 first_letter: C
 page: 

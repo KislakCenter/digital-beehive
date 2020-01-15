@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/967,2645,201,126/150,/0/default.jpg
 label: "[:25.]"
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4690/'>Neapolis</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4690/'><</a>"
 order: '747'
 layout: index_item
 collection: index3

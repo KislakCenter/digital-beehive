@@ -3,7 +3,7 @@ pid: index_4380
 volume: Volume 3
 image_number: '50'
 head: unfruitful
-entry: "<a href='/digital-beehive/alpha5/alpha_1003/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_1003/'>a</a>"
 topic: 
 first_letter: U/V
 page: 

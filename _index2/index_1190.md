@@ -3,7 +3,7 @@ pid: index_1190
 volume: Volume 3
 image_number: '18'
 head: earthquake
-entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>"
 topic: 
 first_letter: E
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,24
 label: earthquake
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
-order: '010'
+order: '008'
 layout: index_item
 collection: index2
 ---

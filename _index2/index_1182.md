@@ -3,7 +3,7 @@ pid: index_1182
 volume: Volume 3
 image_number: '18'
 head: Eagle
-entry: "<a href='/digital-beehive/alpha2/alpha_0269/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0269/'>a</a>"
 topic: 
 first_letter: E
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/439,16
 label: Eagle
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 insertion_xref: 
-order: '002'
+order: '000'
 layout: index_item
 collection: index2
 ---

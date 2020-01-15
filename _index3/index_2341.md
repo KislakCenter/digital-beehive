@@ -3,7 +3,7 @@ pid: index_2341
 volume: Volume 3
 image_number: '29'
 head: love of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>"
 topic: 
 first_letter: L
 page: 

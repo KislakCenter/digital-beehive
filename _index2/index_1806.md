@@ -3,7 +3,7 @@ pid: index_1806
 volume: Volume 3
 image_number: '23'
 head: heraldry
-entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0413/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1511,3
 label: heraldry
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '625'
+order: '623'
 layout: index_item
 collection: index2
 ---

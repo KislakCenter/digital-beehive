@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/713,2154,265,200/150,/0/default.jpg
 label: "[:26.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4691/'>Turpentine</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4691/'><</a>"
 order: '233'
 layout: index_item
 collection: index5

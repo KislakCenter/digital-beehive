@@ -3,7 +3,7 @@ pid: index_3181
 volume: Volume 3
 image_number: '37'
 head: prognostica[ti]ons
-entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>"
 topic: 
 first_letter: P
 page: 

@@ -21,8 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1726,2181,179,113/150,/0/default.jpg
 label: "[:57.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4726/'>God's preserva[ti]on</a>"
-order: '471'
+insertion_xref: "<a href='/digital-beehive/index5/index_4726/'><</a>"
+order: '469'
 layout: index_item
 collection: index2
 ---

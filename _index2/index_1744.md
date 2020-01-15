@@ -3,7 +3,7 @@ pid: index_1744
 volume: Volume 3
 image_number: '23'
 head: hand
-entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>"
 topic: 
 first_letter: H
 page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/834,57
 label: hand
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '563'
+order: '561'
 layout: index_item
 collection: index2
 ---

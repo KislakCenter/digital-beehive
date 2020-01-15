@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/150,/0/default.jpg
 label: "[:16.]"
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4679/'>Cures. curable</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4679/'><</a>"
 order: '0929'
 layout: index_item
 collection: index1

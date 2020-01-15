@@ -3,7 +3,7 @@ pid: index_2333
 volume: Volume 3
 image_number: '29'
 head: Lord
-entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>"
 topic: 
 first_letter: L
 page: 

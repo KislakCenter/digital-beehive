@@ -3,7 +3,7 @@ pid: index_3732
 volume: Volume 3
 image_number: '43'
 head: Siren
-entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0881/'>a</a>"
 topic: 
 first_letter: S
 page: 

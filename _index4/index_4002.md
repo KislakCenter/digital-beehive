@@ -3,7 +3,7 @@ pid: index_4002
 volume: Volume 3
 image_number: '46'
 head: surity. bürger
-entry: "<a href='/digital-beehive/alpha4/alpha_0931/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0931/'>a</a>"
 topic: 
 first_letter: S
 page: 

@@ -21,8 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/150,/0/default.jpg
 label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
-  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'><</a>|<a href='/digital-beehive/index5/index_4665/'><</a>"
 order: '0787'
 layout: index_item
 collection: index4

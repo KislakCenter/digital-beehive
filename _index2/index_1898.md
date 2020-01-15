@@ -3,7 +3,7 @@ pid: index_1898
 volume: Volume 3
 image_number: '24'
 head: humanity
-entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1853,1
 label: humanity
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 insertion_xref: 
-order: '717'
+order: '715'
 layout: index_item
 collection: index2
 ---

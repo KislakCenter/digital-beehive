@@ -3,7 +3,7 @@ pid: index_4187
 volume: Volume 3
 image_number: '48'
 head: too young
-entry: "<a href='/digital-beehive/alpha5/alpha_0967/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0967/'>a</a>"
 topic: 
 first_letter: T
 page: 

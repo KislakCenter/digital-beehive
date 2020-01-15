@@ -3,7 +3,7 @@ pid: index_3387
 volume: Volume 3
 image_number: '39'
 head: resistance
-entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0796/'>a</a>"
 topic: 
 first_letter: R
 page: 

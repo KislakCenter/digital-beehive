@@ -3,7 +3,7 @@ pid: index_2501
 volume: Volume 3
 image_number: '30'
 head: metaphysicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0590/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0590/'>a</a>"
 topic: 
 first_letter: M
 page: 

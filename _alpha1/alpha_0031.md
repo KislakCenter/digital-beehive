@@ -8,7 +8,7 @@ topic: Answer
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0765/'>Queries</a>|<a href='/digital-beehive/num1/num_0259/'>refutation</a>|<a
+xref: "<a href='/digital-beehive/alpha4/alpha_0765/'>Queries</a>|<a href='/digital-beehive/alpha5/num_0259/'>refutation</a>|<a
   href='/digital-beehive/num1/num_0261/'>243 [Answer]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0152/'>answer</a>"

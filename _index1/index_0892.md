@@ -3,7 +3,7 @@ pid: index_0892
 volume: Volume 3
 image_number: '15'
 head: crab
-entry: "<a href='/digital-beehive/alpha1/alpha_0189/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0189/'>a</a>"
 topic: 
 first_letter: C
 page: 

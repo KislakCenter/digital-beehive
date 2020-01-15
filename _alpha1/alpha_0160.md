@@ -8,7 +8,7 @@ topic: Communion
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0044/'>Unity</a>|<a href='/digital-beehive/alpha1/alpha_0147/'>Church</a>|<a
+xref: "<a href='/digital-beehive/alpha5/num_0044/'>Unity</a>|<a href='/digital-beehive/alpha1/alpha_0147/'>Church</a>|<a
   href='/digital-beehive/toc/toc2_345/'>1790 [Communion]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0753/'>communion</a>"

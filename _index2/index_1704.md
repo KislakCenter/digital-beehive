@@ -3,7 +3,7 @@ pid: index_1704
 volume: Volume 3
 image_number: '23'
 head: gray hairs
-entry: "<a href='/digital-beehive/alpha2/alpha_0379/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0379/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/129,45
 label: gray hairs
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '523'
+order: '521'
 layout: index_item
 collection: index2
 ---

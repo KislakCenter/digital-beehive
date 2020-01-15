@@ -8,7 +8,7 @@ topic: Scab
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0017/'>French Pocks</a>|<a href='/digital-beehive/toc/toc2_233/'>1199
+xref: "<a href='/digital-beehive/alpha5/num_0017/'>French Pocks</a>|<a href='/digital-beehive/toc/toc2_233/'>1199
   [Itch]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3531/'>scab</a>"

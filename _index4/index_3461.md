@@ -3,7 +3,7 @@ pid: index_3461
 volume: Volume 3
 image_number: '40'
 head: rue
-entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>"
 topic: 
 first_letter: R
 page: 

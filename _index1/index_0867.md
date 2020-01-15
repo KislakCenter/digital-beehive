@@ -3,7 +3,7 @@ pid: index_0867
 volume: Volume 3
 image_number: '15'
 head: covenant
-entry: "<a href='/digital-beehive/alpha1/alpha_0179/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0179/'>a</a>"
 topic: 
 first_letter: C
 page: 

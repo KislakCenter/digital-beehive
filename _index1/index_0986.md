@@ -3,7 +3,7 @@ pid: index_0986
 volume: Volume 3
 image_number: '16'
 head: deer
-entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>"
 topic: 
 first_letter: D
 page: 

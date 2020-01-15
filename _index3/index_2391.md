@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2139,370,183,131/150,/0/default.jpg
 label: "[:4.]"
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4667/'>Lord Major</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4667/'><</a>"
 order: '472'
 layout: index_item
 collection: index3

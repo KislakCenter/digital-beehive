@@ -3,7 +3,7 @@ pid: index_3210
 volume: Volume 3
 image_number: '37'
 head: proverbs
-entry: "<a href='/digital-beehive/alpha4/alpha_0753/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0753/'>a</a>"
 topic: 
 first_letter: P
 page: 

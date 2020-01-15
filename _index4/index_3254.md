@@ -3,7 +3,7 @@ pid: index_3254
 volume: Volume 3
 image_number: '38'
 head: quarter
-entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0764/'>a</a>"
 topic: 
 first_letter: Q
 page: 

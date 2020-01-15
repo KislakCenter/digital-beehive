@@ -3,7 +3,7 @@ pid: index_3698
 volume: Volume 3
 image_number: '43'
 head: siege
-entry: "<a href='/digital-beehive/alpha4/alpha_0871/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0871/'>a</a>"
 topic: 
 first_letter: S
 page: 

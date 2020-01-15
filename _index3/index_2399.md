@@ -3,7 +3,7 @@ pid: index_2399
 volume: Volume 3
 image_number: '29'
 head: malice & malignity
-entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>"
 topic: 
 first_letter: M
 page: 

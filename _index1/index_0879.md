@@ -3,7 +3,7 @@ pid: index_0879
 volume: Volume 3
 image_number: '15'
 head: native Country
-entry: "<a href='/digital-beehive/alpha1/alpha_0184/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0184/'>a</a>"
 topic: 
 first_letter: C
 page: 

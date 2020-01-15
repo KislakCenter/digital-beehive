@@ -3,7 +3,7 @@ pid: index_2449
 volume: Volume 3
 image_number: '30'
 head: mathematicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0577/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0577/'>a</a>"
 topic: 
 first_letter: M
 page: 

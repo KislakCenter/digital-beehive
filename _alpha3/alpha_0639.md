@@ -8,7 +8,7 @@ topic: News
 first_letter: N
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|<a href='/digital-beehive/num1/num_0088/'>messenger</a>|<a
+xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|<a href='/digital-beehive/alpha5/num_0088/'>messenger</a>|<a
   href='/digital-beehive/toc/toc2_244/'>1252 [News]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2702/'>news</a>"

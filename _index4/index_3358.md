@@ -3,7 +3,7 @@ pid: index_3358
 volume: Volume 3
 image_number: '39'
 head: remission
-entry: "<a href='/digital-beehive/alpha4/alpha_0788/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0788/'>a</a>"
 topic: 
 first_letter: R
 page: 

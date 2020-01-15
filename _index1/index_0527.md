@@ -3,7 +3,7 @@ pid: index_0527
 volume: Volume 3
 image_number: '11'
 head: canker
-entry: "<a href='/digital-beehive/alpha1/alpha_0116/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0116/'>a</a>"
 topic: 
 first_letter: C
 page: 

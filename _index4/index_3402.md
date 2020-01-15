@@ -3,7 +3,7 @@ pid: index_3402
 volume: Volume 3
 image_number: '39'
 head: book of revelations
-entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
 topic: 
 first_letter: R
 page: 

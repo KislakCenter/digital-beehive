@@ -3,7 +3,7 @@ pid: index_2464
 volume: Volume 3
 image_number: '30'
 head: mediator
-entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0579/'>a</a>"
 topic: 
 first_letter: M
 page: 

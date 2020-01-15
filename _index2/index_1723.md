@@ -3,7 +3,7 @@ pid: index_1723
 volume: Volume 3
 image_number: '23'
 head: guardian
-entry: "<a href='/digital-beehive/alpha2/alpha_0387/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha2/alpha_0387/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/152,20
 label: guardian
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 insertion_xref: 
-order: '542'
+order: '540'
 layout: index_item
 collection: index2
 ---

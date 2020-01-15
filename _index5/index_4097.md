@@ -3,7 +3,7 @@ pid: index_4097
 volume: Volume 3
 image_number: '47'
 head: testament
-entry: "<a href='/digital-beehive/alpha5/alpha_0945/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha5/alpha_0945/'>a</a>"
 topic: 
 first_letter: T
 page: 

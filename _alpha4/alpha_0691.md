@@ -8,7 +8,7 @@ topic: Peace
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0142/'>Truce</a>|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980
+xref: "<a href='/digital-beehive/alpha5/num_0142/'>Truce</a>|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980
   [Peace]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"

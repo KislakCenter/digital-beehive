@@ -21,9 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1696,1249,165,117/150,/0/default.jpg
 label: "[:15.]"
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4678/'>holiness of places
-  and times</a>"
-order: '675'
+insertion_xref: "<a href='/digital-beehive/index5/index_4678/'><</a>"
+order: '673'
 layout: index_item
 collection: index2
 ---

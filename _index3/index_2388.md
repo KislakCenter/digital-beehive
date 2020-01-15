@@ -3,7 +3,7 @@ pid: index_2388
 volume: Volume 3
 image_number: '29'
 head: maimed
-entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>"
 topic: 
 first_letter: M
 page: 

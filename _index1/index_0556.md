@@ -3,7 +3,7 @@ pid: index_0556
 volume: Volume 3
 image_number: '12'
 head: casualty
-entry: "<a href='/digital-beehive/alpha1/alpha_0123/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0123/'>a</a>"
 topic: 
 first_letter: C
 page: 

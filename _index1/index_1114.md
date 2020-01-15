@@ -3,7 +3,7 @@ pid: index_1114
 volume: Volume 3
 image_number: '17'
 head: divines and divinity
-entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>"
 topic: 
 first_letter: D
 page: 

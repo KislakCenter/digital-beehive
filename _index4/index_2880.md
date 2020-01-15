@@ -21,7 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1661,1673,177,113/150,/0/default.jpg
 label: "[:51.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-insertion_xref: "<a href='/digital-beehive/index5/index_4719/'>Parc[ae]</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4719/'><</a>"
 order: '0128'
 layout: index_item
 collection: index4

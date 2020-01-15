@@ -3,7 +3,7 @@ pid: index_3918
 volume: Volume 3
 image_number: '45'
 head: stork
-entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha4/alpha_0914/'>a</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"

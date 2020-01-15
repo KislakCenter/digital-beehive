@@ -3,7 +3,7 @@ pid: index_1127
 volume: Volume 3
 image_number: '17'
 head: dog-days
-entry: "<a href='/digital-beehive/alpha1/alpha_0258/'>a</a>|a"
+entry: "<a href='/digital-beehive/alpha1/alpha_0258/'>a</a>"
 topic: 
 first_letter: D
 page: 
