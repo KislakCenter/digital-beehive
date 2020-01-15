@@ -14,5 +14,7 @@ Annotation of the Numerical Section is currently in progress. The Numerical Sect
 
 For information on navigating the entries in the Numerical Section, please see [here](numerical-documentation.md).
 
+For a list of known issues in the Numerical Section, please see [here](num-issues.md).
+
 [Numerical Section, 1-250](num1.md)  
 [Numerical Section, 251-496](num2.md)
