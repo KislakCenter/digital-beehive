@@ -3,7 +3,7 @@ pid: index_4305
 volume: Volume 3
 image_number: '49'
 head: vendue
-entry: 
+entry: "<a href='/digital-beehive/toc/toc2_278/'>1425 [Vendue]</a>"
 topic: 
 first_letter: U/V
 page: 

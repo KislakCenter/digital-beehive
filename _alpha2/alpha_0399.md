@@ -9,8 +9,8 @@ first_letter: H
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0968/'>Too Soon</a>|<a href='/digital-beehive/alpha5/alpha_0962/'>too
-  hasty</a>|<a href='/digital-beehive/alpha4/alpha_0894/'>Soon</a>|<a href='/digital-beehive/alpha5/num_0182/'>dispatch</a>|<a
-  href='/digital-beehive/toc/toc2_165/'>886 [Haste]</a>"
+  hasty</a>|<a href='/digital-beehive/alpha4/alpha_0894/'>Soon</a>|dispatch|<a href='/digital-beehive/toc/toc2_165/'>886
+  [Haste]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1765/'>haste</a>"
 item: "#item-b472fa4fe"

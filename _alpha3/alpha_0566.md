@@ -8,7 +8,8 @@ topic: Maid
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0858/'>Servant</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0858/'>Servant</a>|<a href='/digital-beehive/toc/toc2_278/'>1425
+  [Maid]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2386/'>maid</a>"
 item: "#item-5d3b778b0"

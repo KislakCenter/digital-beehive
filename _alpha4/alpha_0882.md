@@ -8,8 +8,7 @@ topic: Skill
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0504/'>knowledge</a>|<a
-  href='/digital-beehive/alpha5/num_0283/'>ability</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0300/'>experience</a>|<a href='/digital-beehive/alpha3/alpha_0504/'>knowledge</a>|ability"
 see: 
 index: "<a href='/digital-beehive/index4/index_3739/'>skill</a>"
 item: "#item-101189171"

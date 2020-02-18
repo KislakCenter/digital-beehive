@@ -3,7 +3,8 @@ pid: index_2386
 volume: Volume 3
 image_number: '29'
 head: maid
-entry: "<a href='/digital-beehive/alpha3/alpha_0566/'>a</a>"
+entry: "<a href='/digital-beehive/alpha3/alpha_0566/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1425
+  [Maid]</a>"
 topic: 
 first_letter: M
 page: 

@@ -8,7 +8,7 @@ topic: Custody
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0488/'>Jailer</a>"
+xref: Jailer
 see: 
 index: "<a href='/digital-beehive/index1/index_0933/'>custody</a>"
 item: "#item-467fa12a2"

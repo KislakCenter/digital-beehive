@@ -8,9 +8,8 @@ topic: Gentleness
 first_letter: G
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0436/'>Humanity</a>|<a
-  href='/digital-beehive/alpha5/num_0021/'>Moderation</a>|<a href='/digital-beehive/toc/toc2_235/'>1206
-  [Gentleness]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0436/'>Humanity</a>|Moderation|<a
+  href='/digital-beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1598/'>gentleness</a>"
 item: "#item-271a74ff6"

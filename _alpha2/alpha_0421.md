@@ -8,7 +8,7 @@ topic: Hindrance
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|<a href='/digital-beehive/alpha5/num_0580/'>Disappoint</a>"
+xref: "<a href='/digital-beehive/toc/toc2_133/'>576 [Hinderance]</a>|Disappoint"
 see: 
 index: "<a href='/digital-beehive/index2/index_1839/'>hinderance</a>"
 item: "#item-526731c25"

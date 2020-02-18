@@ -8,8 +8,8 @@ topic: Predestination
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0144/'>Reprobates</a>|<a href='/digital-beehive/alpha2/alpha_0316/'>Fate</a>|<a
-  href='/digital-beehive/num1/num_0242/'>228 [Predestination]</a>"
+xref: Reprobates|<a href='/digital-beehive/alpha2/alpha_0316/'>Fate</a>|<a href='/digital-beehive/num1/num_0242/'>228
+  [Predestination]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_3120/'>predestination</a>"
 item: "#item-d6466de3e"

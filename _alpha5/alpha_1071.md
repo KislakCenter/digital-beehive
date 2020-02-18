@@ -8,7 +8,7 @@ topic: Zeal
 first_letter: Z
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|<a href='/digital-beehive/alpha5/num_0027/'>Lukewarmness</a>|<a
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|Lukewarmness|<a
   href='/digital-beehive/num1/num_0188/'>180 [Zeal]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4653/'>Zeal</a>"

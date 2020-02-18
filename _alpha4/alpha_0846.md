@@ -8,7 +8,7 @@ topic: Seeming
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0301/'>external appearance</a>|<a href='/digital-beehive/alpha5/num_0094/'>Substantial</a>|846
+xref: "<a href='/digital-beehive/alpha2/alpha_0301/'>external appearance</a>|Substantial|846
   [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index4/index_3596/'>seemingly</a>"

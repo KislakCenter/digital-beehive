@@ -8,8 +8,8 @@ topic: Hope
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0008/'>Desperation</a>|<a href='/digital-beehive/alpha1/alpha_0156/'>false
-  Comfort</a>|<a href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>"
+xref: Desperation|<a href='/digital-beehive/alpha1/alpha_0156/'>false Comfort</a>|<a
+  href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>
 see: 
 index: "<a href='/digital-beehive/index2/index_1868/'>hope</a>"
 item: "#item-1aa4646fe"

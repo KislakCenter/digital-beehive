@@ -8,9 +8,8 @@ topic: Custom
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0314/'>Fashion of the Country</a>|<a
-  href='/digital-beehive/alpha5/num_0132/'>Accustoming</a>|<a href='/digital-beehive/toc/toc2_218/'>1121
-  [Custom]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0314/'>Fashion of the Country</a>|Accustoming|<a
+  href='/digital-beehive/toc/toc2_218/'>1121 [Custom]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0934/'>custom</a>"
 item: "#item-b1fc36890"

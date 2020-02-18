@@ -8,8 +8,8 @@ topic: Instrument
 first_letter: I/J
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/digital-beehive/alpha5/num_0179/'>means</a>|<a
-  href='/digital-beehive/toc/toc2_412/'>2378 [Instruments]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/digital-beehive/toc/toc2_412/'>2378
+  [Instruments]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
 item: "#item-4818d98ae"

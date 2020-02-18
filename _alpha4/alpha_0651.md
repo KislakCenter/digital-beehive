@@ -8,8 +8,7 @@ topic: Obscurity
 first_letter: O
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0117/'>Plainness</a>|<a href='/digital-beehive/toc/toc2_252/'>1292
-  [Obscurity]</a>"
+xref: Plainness|<a href='/digital-beehive/toc/toc2_252/'>1292 [Obscurity]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_2760/'>obscurity</a>"
 item: "#item-02122876c"

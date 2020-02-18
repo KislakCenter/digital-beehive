@@ -8,8 +8,8 @@ topic: Contempt
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>Derision</a>|<a href='/digital-beehive/alpha5/num_0579/'>Disregard</a>|<a
-  href='/digital-beehive/num2/num_0301/'>269 [Contempt]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>Derision</a>|Disregard|<a href='/digital-beehive/num2/num_0301/'>269
+  [Contempt]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0821/'>contempt</a>"
 item: "#item-05f1df571"

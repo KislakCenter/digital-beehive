@@ -8,9 +8,8 @@ topic: Cross
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|<a href='/digital-beehive/alpha5/num_0192/'>Crucifix</a>|<a
-  href='/digital-beehive/toc/toc2_120/'>498 [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_295/'>1505
-  [Cross]</a>"
+xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|Crucifix|<a href='/digital-beehive/toc/toc2_120/'>498
+  [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_295/'>1505 [Cross]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0915/'>cross</a>"
 item: "#item-7dd51f4f8"

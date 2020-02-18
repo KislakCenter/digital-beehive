@@ -8,9 +8,8 @@ topic: Trade
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0543/'>Livelyhood</a>|<a href='/digital-beehive/alpha5/num_0113/'>Shopkeeper</a>|<a
-  href='/digital-beehive/alpha5/num_0408/'>Butcher</a>|<a href='/digital-beehive/toc/toc2_143/'>634
-  [Trade]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0543/'>Livelyhood</a>|Shopkeeper|Butcher|<a
+  href='/digital-beehive/toc/toc2_143/'>634 [Trade]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4208/'>trade</a>"
 item: "#item-dbf3ca43c"

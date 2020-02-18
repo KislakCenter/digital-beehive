@@ -8,8 +8,7 @@ topic: Almanack
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0024/'>Astrology</a>|<a href='/digital-beehive/toc/toc2_248/'>1275
-  [Almanack]</a>"
+xref: Astrology|<a href='/digital-beehive/toc/toc2_248/'>1275 [Almanack]</a>
 see: 
 index: "<a href='/digital-beehive/index1/index_0104/'>almanack</a>"
 item: "#item-3e8408a05"

@@ -8,8 +8,7 @@ topic: Perswasion
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0429/'>Conviction</a>|<a href='/digital-beehive/toc/toc2_361/'>1969
-  [Perswasion]</a>"
+xref: Conviction|<a href='/digital-beehive/toc/toc2_361/'>1969 [Perswasion]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_2971/'>perswasion</a>"
 item: "#item-321a39c13"

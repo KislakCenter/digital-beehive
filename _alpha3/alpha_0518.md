@@ -8,7 +8,7 @@ topic: Late
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0020/'>Too late</a>|4786 [PAGE_MISSING]"
+xref: Too late|4786 [PAGE_MISSING]
 see: 
 index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
 item: "#item-2bad963b5"

@@ -8,8 +8,8 @@ topic: Language
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0667/'>Original Tongue</a>|<a href='/digital-beehive/alpha5/num_0584/'>English
-  tongue</a>|<a href='/digital-beehive/alpha4/alpha_0900/'>Speech</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Tongue</a>|<a
+xref: "<a href='/digital-beehive/alpha4/alpha_0667/'>Original Tongue</a>|English tongue|<a
+  href='/digital-beehive/alpha4/alpha_0900/'>Speech</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Tongue</a>|<a
   href='/digital-beehive/toc/toc2_276/'>1413 [Languages]</a>"
 see: 
 index: "<a href='/digital-beehive/index3/index_2197/'>language</a>"

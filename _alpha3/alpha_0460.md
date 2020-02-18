@@ -9,7 +9,7 @@ first_letter: I/J
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0684/'>Partiality</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>Neutrality</a>|<a
-  href='/digital-beehive/toc/toc2_277/'>1417 [Impartial]</a>|<a href='/digital-beehive/alpha5/num_0183/'>Indifferency</a>"
+  href='/digital-beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
 see: 
 index: "<a href='/digital-beehive/index3/index_1964/'>impartiality</a>"
 item: "#item-37fe4196e"

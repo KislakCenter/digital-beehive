@@ -8,8 +8,7 @@ topic: Banishment
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0030/'>Pilgrimage</a>|<a href='/digital-beehive/toc/toc2_230/'>1182
-  [Banishment]</a>"
+xref: Pilgrimage|<a href='/digital-beehive/toc/toc2_230/'>1182 [Banishment]</a>
 see: 
 index: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
 item: "#item-ccc0b9c78"

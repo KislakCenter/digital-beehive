@@ -8,8 +8,7 @@ topic: Heritage
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0043/'>Clergy</a>|<a href='/digital-beehive/toc/toc2_334/'>1700
-  [Inheritage]</a>"
+xref: Clergy|<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritage]</a>
 see: 
 index: "<a href='/digital-beehive/index2/index_1814/'>heritage</a>"
 item: "#item-5cb5668f7"

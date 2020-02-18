@@ -8,7 +8,7 @@ topic: Concupiscence
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0119/'>desire</a>|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>"
+xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
 see: 
 index: "<a href='/digital-beehive/index1/index_0778/'>concupiscence</a>"
 item: "#item-1688d9123"

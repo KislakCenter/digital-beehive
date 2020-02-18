@@ -8,8 +8,7 @@ topic: Accusation
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0126/'>Perverting</a>|<a href='/digital-beehive/num2/num_0312/'>278
-  [Accusation]</a>"
+xref: Perverting|<a href='/digital-beehive/num2/num_0312/'>278 [Accusation]</a>
 see: 
 index: "<a href='/digital-beehive/index1/index_0029/'>accusation</a>"
 item: "#item-f602cdcb2"

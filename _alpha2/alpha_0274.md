@@ -8,9 +8,9 @@ topic: Ecclesiastical discipline
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0026/'>Excommunication</a>|<a href='/digital-beehive/num1/num_0075/'>74
-  [the Judge of religious Controversies]</a>|<a href='/digital-beehive/num2/num_0492/'>402
-  [Order & Discipline in the Church]</a>"
+xref: Excommunication|<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious
+  Controversies]</a>|<a href='/digital-beehive/num2/num_0492/'>402 [Order & Discipline
+  in the Church]</a>
 see: 
 index: "<a href='/digital-beehive/index2/index_1201/'>ecclesiastical discipline</a>"
 item: "#item-c4e2bba71"

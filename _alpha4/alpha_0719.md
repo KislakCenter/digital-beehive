@@ -8,7 +8,7 @@ topic: Posterity
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0351/'>Children</a>|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>"
+xref: Children|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_3088/'>posterity</a>"
 item: "#item-9c11c8b1f"

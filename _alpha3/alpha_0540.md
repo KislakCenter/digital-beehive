@@ -8,8 +8,8 @@ topic: Likelihood|Likeness
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0265/'>Probability</a>|<a href='/digital-beehive/alpha4/alpha_0874/'>Similitude</a>|758
-  [PAGE_MISSING]"
+xref: Probability|<a href='/digital-beehive/alpha4/alpha_0874/'>Similitude</a>|758
+  [PAGE_MISSING]
 see: 
 index: "<a href='/digital-beehive/index3/index_2292/'>likelyhood</a>|<a href='/digital-beehive/index3/index_2293/'>likeness</a>"
 item: "#item-a7c6cbcff"

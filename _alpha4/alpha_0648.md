@@ -8,8 +8,7 @@ topic: Oath
 first_letter: O
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0092/'>Swearing</a>|<a href='/digital-beehive/num1/num_0028/'>28
-  [Oath]</a>"
+xref: Swearing|<a href='/digital-beehive/num1/num_0028/'>28 [Oath]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_2753/'>oath</a>"
 item: "#item-8a41c29da"

@@ -8,7 +8,7 @@ topic: Heaviness
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0230/'>Balance</a>|Weight"
+xref: Balance|Weight
 see: 
 index: "<a href='/digital-beehive/index2/index_1788/'>heavy</a>"
 item: "#item-557c0909c"

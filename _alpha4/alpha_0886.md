@@ -8,8 +8,8 @@ topic: Slavery
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Servitude</a>|<a href='/digital-beehive/alpha5/num_0411/'>Captivity</a>|<a
-  href='/digital-beehive/toc/toc2_222/'>1141 [Slavery]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0859/'>Servitude</a>|Captivity|<a href='/digital-beehive/toc/toc2_222/'>1141
+  [Slavery]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3744/'>slavery</a>"
 item: "#item-60fdb7e63"

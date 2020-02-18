@@ -9,8 +9,8 @@ first_letter: E
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0746/'>proof</a>|<a href='/digital-beehive/num1/num_0047/'>47
-  [Try & Prove all things]</a>|<a href='/digital-beehive/alpha5/num_0121/'>Self-examination</a>|<a
-  href='/digital-beehive/toc/toc2_277/'>1416 [To Examine]</a>"
+  [Try & Prove all things]</a>|Self-examination|<a href='/digital-beehive/toc/toc2_277/'>1416
+  [To Examine]</a>"
 see: 
 index: "<a href='/digital-beehive/index2/index_1328/'>examination</a>"
 item: "#item-3baec17f6"

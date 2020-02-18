@@ -3,7 +3,7 @@ pid: index_0658
 volume: Volume 3
 image_number: '13'
 head: chrystal
-entry: 
+entry: "<a href='/digital-beehive/toc/toc2_222/'>1145 [Chrystal]</a>"
 topic: 
 first_letter: C
 page: 

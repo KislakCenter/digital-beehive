@@ -8,9 +8,8 @@ topic: Temptation
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0943/'>Temptation, continued</a>|Instigation|<a
-  href='/digital-beehive/alpha5/num_0124/'>Provocation</a>|<a href='/digital-beehive/num1/num_0216/'>206
-  [Temptation]</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0943/'>Temptation, continued</a>|Instigation|Provocation|<a
+  href='/digital-beehive/num1/num_0216/'>206 [Temptation]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
 item: "#item-d5b751b3a"

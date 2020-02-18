@@ -8,7 +8,7 @@ topic: External conversation
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/num_0129/'>Conversation</a>"
+xref: Conversation
 see: 
 index: "<a href='/digital-beehive/index2/index_1362/'>external conversation</a>"
 item: "#item-501034b2c"
