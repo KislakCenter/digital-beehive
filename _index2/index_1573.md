@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1552,1932,569,118/150,/0/default.jpg
 label: Gainsaying
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '391'
 layout: index_item

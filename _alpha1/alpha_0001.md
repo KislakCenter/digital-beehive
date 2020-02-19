@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/244,208,600,180/250,/0/default.jpg
 label: Absence
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
+issue: 
 order: '000'
 layout: alpha_item
 collection: alpha1

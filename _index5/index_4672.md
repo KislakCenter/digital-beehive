@@ -22,6 +22,7 @@ insertion: "[:9.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/375,1611,706,152/150,/0/default.jpg
 label: Spouse, espousing
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '634'
 layout: index_item

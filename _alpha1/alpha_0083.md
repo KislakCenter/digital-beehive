@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/262,254,600,180/250,/0/default.jpg
 label: Blackness
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
+issue: It is unclear whether "White" should be considered a separate entry.
 order: '082'
 layout: alpha_item
 collection: alpha1

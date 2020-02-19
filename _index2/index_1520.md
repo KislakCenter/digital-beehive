@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/150,/0/default.jpg
 label: fort
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '338'
 layout: index_item

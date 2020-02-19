@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/807,4522,600,180/250,/0/default.jpg
 label: Bishop
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
+issue: 
 order: '081'
 layout: alpha_item
 collection: alpha1

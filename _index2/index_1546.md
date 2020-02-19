@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/862,2456,510,62/150,/0/default.jpg
 label: friend union
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '364'
 layout: index_item

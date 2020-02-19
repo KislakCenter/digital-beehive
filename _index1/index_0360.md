@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/368,2418,564,152/150,/0/default.jpg
 label: besiege
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0359'
 layout: index_item

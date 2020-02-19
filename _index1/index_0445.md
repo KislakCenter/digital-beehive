@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/162,1409,364,116/150,/0/default.jpg
 label: breast
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0444'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/150,/0/default.jpg
 label: scriptures impro[per] express
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0810'
 layout: index_item

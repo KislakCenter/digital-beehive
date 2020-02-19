@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,779,579,127/150,/0/default.jpg
 label: prophanation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0445'
 layout: index_item

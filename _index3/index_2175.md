@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/830,2435,310,135/150,/0/default.jpg
 label: knot
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '256'
 layout: index_item

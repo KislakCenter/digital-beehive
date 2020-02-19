@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1845,3173,350,132/150,/0/default.jpg
 label: mints
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '611'
 layout: index_item

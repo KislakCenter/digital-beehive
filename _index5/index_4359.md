@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/468,1321,609,152/150,/0/default.jpg
 label: unbelief
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '321'
 layout: index_item

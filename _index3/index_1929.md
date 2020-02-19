@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/171,773,500,157/150,/0/default.jpg
 label: jaundise
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '010'
 layout: index_item

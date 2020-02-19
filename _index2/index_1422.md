@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1144,1166,719,158/150,/0/default.jpg
 label: fear of death
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '240'
 layout: index_item

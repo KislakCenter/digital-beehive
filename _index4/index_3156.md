@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/123,2863,686,172/150,/0/default.jpg
 label: primogen
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0404'
 layout: index_item

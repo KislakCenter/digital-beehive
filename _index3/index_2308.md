@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2101,438,137/150,/0/default.jpg
 label: little talk
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '389'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/908,2444,477,104/150,/0/default.jpg
 label: barbarism
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0290'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/150,/0/default.jpg
 label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0233'
 layout: index_item

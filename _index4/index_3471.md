@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,481,481,138/150,/0/default.jpg
 label: ruptures
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0719'
 layout: index_item

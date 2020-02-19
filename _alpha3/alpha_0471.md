@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/300,783,600,180/250,/0/default.jpg
 label: Infant Killing
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
+issue: 
 order: '027'
 layout: alpha_item
 collection: alpha3

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/337,2102,600,180/250,/0/default.jpg
 label: Wrath
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
+issue: 
 order: '129'
 layout: alpha_item
 collection: alpha5

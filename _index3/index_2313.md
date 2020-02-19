@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/150,/0/default.jpg
 label: livery or badge
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '394'
 layout: index_item

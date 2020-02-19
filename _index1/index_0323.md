@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/150,/0/default.jpg
 label: beauty
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0322'
 layout: index_item

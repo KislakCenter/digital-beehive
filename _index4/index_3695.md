@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1803,3496,761,192/150,/0/default.jpg
 label: sickness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0943'
 layout: index_item

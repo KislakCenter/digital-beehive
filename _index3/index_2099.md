@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1850,1861,528,83/150,/0/default.jpg
 label: inward man
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '180'
 layout: index_item

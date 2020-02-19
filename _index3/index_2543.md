@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/178,1194,688,159/150,/0/default.jpg
 label: missionaries
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '624'
 layout: index_item

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/875,1618,600,180/250,/0/default.jpg
 label: Begging
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
+issue: 
 order: '072'
 layout: alpha_item
 collection: alpha1

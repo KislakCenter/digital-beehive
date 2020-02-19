@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/150,/0/default.jpg
 label: Mahomet
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '466'
 layout: index_item

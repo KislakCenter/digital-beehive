@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1844,211,706,111/150,/0/default.jpg
 label: devils to be saved
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1034'
 layout: index_item

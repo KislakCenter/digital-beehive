@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,372,501,138/150,/0/default.jpg
 label: hereditary
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '630'
 layout: index_item

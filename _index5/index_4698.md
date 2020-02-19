@@ -21,6 +21,7 @@ insertion: "[:31.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1127,1240,659,133/150,/0/default.jpg
 label: pin money
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '660'
 layout: index_item

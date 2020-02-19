@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/150,/0/default.jpg
 label: lust
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '449'
 layout: index_item

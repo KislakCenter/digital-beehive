@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/883,1998,632,123/150,/0/default.jpg
 label: stratagem
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1180'
 layout: index_item

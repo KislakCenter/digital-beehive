@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,1905,751,247/150,/0/default.jpg
 label: authors, out of wch this book's collected
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0253'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,3366,624,132/150,/0/default.jpg
 label: to thrive
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '096'
 layout: index_item

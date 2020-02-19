@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1812,928,596,189/150,/0/default.jpg
 label: passport
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0157'
 layout: index_item

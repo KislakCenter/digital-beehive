@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,243,600,180/250,/0/default.jpg
 label: Eccho
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+issue: 
 order: '006'
 layout: alpha_item
 collection: alpha2

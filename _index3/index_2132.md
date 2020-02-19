@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/134,1599,714,103/150,/0/default.jpg
 label: judge of controversie
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '213'
 layout: index_item

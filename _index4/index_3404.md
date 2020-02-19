@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1468,3244,868,237/150,/0/default.jpg
 label: revenge
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0652'
 layout: index_item

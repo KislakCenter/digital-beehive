@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/150,/0/default.jpg
 label: months
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '652'
 layout: index_item

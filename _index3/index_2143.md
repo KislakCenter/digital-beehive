@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/158,2627,677,111/150,/0/default.jpg
 label: justice of the peace
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '224'
 layout: index_item

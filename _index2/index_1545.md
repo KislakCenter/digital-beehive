@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/853,2369,643,123/150,/0/default.jpg
 label: friend in need
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '363'
 layout: index_item

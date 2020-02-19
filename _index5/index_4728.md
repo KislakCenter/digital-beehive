@@ -22,6 +22,7 @@ insertion: "[:59.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1754,1820,743,208/150,/0/default.jpg
 label: duty of husband and
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '690'
 layout: index_item

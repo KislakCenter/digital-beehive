@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/445,983,460,112/150,/0/default.jpg
 label: George
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '419'
 layout: index_item

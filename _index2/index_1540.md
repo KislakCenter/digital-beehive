@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/870,2068,675,105/150,/0/default.jpg
 label: french
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '358'
 layout: index_item

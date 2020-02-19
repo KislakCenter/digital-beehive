@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1525,2208,796,139/150,/0/default.jpg
 label: Xts. descension into hell
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '612'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1102,2165,632,156/150,/0/default.jpg
 label: parliamt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0134'
 layout: index_item

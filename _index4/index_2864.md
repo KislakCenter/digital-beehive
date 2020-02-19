@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1162,249,498,153/150,/0/default.jpg
 label: palsie
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0112'
 layout: index_item

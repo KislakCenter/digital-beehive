@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,3547,448,86/150,/0/default.jpg
 label: powder
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0348'
 layout: index_item

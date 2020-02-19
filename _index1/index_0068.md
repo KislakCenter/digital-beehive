@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/150,/0/default.jpg
 label: after sweet sowre
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0067'
 layout: index_item

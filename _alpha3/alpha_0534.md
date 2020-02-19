@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,600,180/250,/0/default.jpg
 label: Liberty of Conscience
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+issue: The entry continues onto the next page.
 order: '090'
 layout: alpha_item
 collection: alpha3

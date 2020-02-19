@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2842,658,136/150,/0/default.jpg
 label: prolixness
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0434'
 layout: index_item

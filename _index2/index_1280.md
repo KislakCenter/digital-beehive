@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/124,498,757,147/150,/0/default.jpg
 label: epicurism
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '098'
 layout: index_item

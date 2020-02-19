@@ -21,6 +21,7 @@ insertion: "[:30.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1060,1011,727,158/150,/0/default.jpg
 label: ἀνδρωποπαδῶς
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '657'
 layout: index_item

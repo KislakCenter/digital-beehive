@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/403,3398,410,130/150,/0/default.jpg
 label: cattle
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0567'
 layout: index_item

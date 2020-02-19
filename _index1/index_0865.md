@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/150,/0/default.jpg
 label: cosmographical books
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+issue: Pastorius writes p.279, but "post num. 1005," which refers to pages 375ff.
+  It can be inferred Pastorius means p.379.
 insertion_xref: 
 order: '0864'
 layout: index_item

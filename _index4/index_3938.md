@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/908,2491,326,124/150,/0/default.jpg
 label: stress
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1186'
 layout: index_item

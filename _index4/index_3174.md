@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/778,1511,705,157/150,/0/default.jpg
 label: procrastination
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0422'
 layout: index_item

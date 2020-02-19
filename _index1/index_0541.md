@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1561,3566,730,188/150,/0/default.jpg
 label: careless
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0540'
 layout: index_item

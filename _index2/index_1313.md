@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,802,545,128/150,/0/default.jpg
 label: Eva
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '131'
 layout: index_item

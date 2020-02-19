@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/150,/0/default.jpg
 label: divines and divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1113'
 layout: index_item

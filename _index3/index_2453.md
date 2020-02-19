@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,2473,490,86/150,/0/default.jpg
 label: Maxims
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '534'
 layout: index_item

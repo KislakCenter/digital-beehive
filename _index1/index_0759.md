@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/424,483,649,139/150,/0/default.jpg
 label: compassion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0758'
 layout: index_item

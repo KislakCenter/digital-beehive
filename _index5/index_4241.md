@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1803,1788,646,143/150,/0/default.jpg
 label: trinity
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '203'
 layout: index_item

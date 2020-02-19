@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1519,2011,494,181/150,/0/default.jpg
 label: pirate
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0267'
 layout: index_item

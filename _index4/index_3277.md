@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/150,/0/default.jpg
 label: rachel
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0525'
 layout: index_item

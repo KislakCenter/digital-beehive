@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/427,1392,583,137/150,/0/default.jpg
 label: purgatory
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0479'
 layout: index_item

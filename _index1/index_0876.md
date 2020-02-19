@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/132,1848,740,110/150,/0/default.jpg
 label: Counter-witchcraft
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0875'
 layout: index_item

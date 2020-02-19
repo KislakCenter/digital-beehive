@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1609,1688,447,130/150,/0/default.jpg
 label: beard
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0317'
 layout: index_item

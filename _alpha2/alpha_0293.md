@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/771,2746,600,180/250,/0/default.jpg
 label: Eternity
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
+issue: 
 order: '024'
 layout: alpha_item
 collection: alpha2

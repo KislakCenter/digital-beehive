@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/854,2742,600,180/250,/0/default.jpg
 label: Brother
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
+issue: It is unclear whether "Brethren in Iniquity" should be considered a separate
+  entry.
 order: '102'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/841,2637,634,192/150,/0/default.jpg
 label: philosophy par[ae]netick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0234'
 layout: index_item

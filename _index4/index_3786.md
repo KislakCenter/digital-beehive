@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1587,3040,603,172/150,/0/default.jpg
 label: solitude
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1034'
 layout: index_item

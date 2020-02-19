@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1865,2180,677,172/150,/0/default.jpg
 label: reason
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0558'
 layout: index_item

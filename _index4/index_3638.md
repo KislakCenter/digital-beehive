@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1129,225,376,150/150,/0/default.jpg
 label: Sentinel
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0886'
 layout: index_item

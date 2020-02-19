@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/183,1784,709,109/150,/0/default.jpg
 label: turn in
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '230'
 layout: index_item

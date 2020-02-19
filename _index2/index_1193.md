@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/150,/0/default.jpg
 label: earth's division
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+issue: Pastorius links to entry 914 in the Onomastical Considerations. There is currently
+  no protocol for linking to specific entries in the Onomastical Considerations.
 insertion_xref: 
 order: '011'
 layout: index_item

@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/338,2038,600,180/250,/0/default.jpg
 label: Profit
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+issue: 
 order: '093'
 layout: alpha_item
 collection: alpha4

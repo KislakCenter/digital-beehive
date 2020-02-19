@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,2419,573,146/150,/0/default.jpg
 label: butchering
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0491'
 layout: index_item

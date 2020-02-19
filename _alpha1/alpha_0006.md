@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/232,2763,600,180/250,/0/default.jpg
 label: Adiaphory
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
+issue: 
 order: '005'
 layout: alpha_item
 collection: alpha1

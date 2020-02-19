@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1568,683,609,170/150,/0/default.jpg
 label: snake
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1013'
 layout: index_item

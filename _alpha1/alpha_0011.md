@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/714,224,600,180/250,/0/default.jpg
 label: "[WORD_MISSING]"
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+issue: 
 order: '010'
 layout: alpha_item
 collection: alpha1

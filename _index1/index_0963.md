@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1481,2625,490,124/150,/0/default.jpg
 label: deafness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0962'
 layout: index_item

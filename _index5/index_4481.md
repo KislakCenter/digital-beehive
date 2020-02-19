@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1636,3361,469,110/150,/0/default.jpg
 label: warts
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '443'
 layout: index_item

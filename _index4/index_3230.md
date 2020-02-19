@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/422,1306,520,119/150,/0/default.jpg
 label: purgation
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0478'
 layout: index_item

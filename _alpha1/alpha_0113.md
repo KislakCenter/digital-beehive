@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/321,1235,600,180/250,/0/default.jpg
 label: Calling
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
+issue: The point of reference for "Ordination" is unclear.
 order: '112'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/425,3355,609,194/150,/0/default.jpg
 label: palmistrie
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0111'
 layout: index_item

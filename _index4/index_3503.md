@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/154,382,405,131/150,/0/default.jpg
 label: to sally
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0751'
 layout: index_item

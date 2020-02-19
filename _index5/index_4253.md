@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1797,3257,715,197/150,/0/default.jpg
 label: trusting in the Lord
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '215'
 layout: index_item

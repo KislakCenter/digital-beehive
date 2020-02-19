@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,1523,594,124/150,/0/default.jpg
 label: hardning
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '572'
 layout: index_item

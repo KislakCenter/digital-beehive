@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1138,2774,687,184/150,/0/default.jpg
 label: life
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '364'
 layout: index_item

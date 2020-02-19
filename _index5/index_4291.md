@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/948,874,680,134/150,/0/default.jpg
 label: valour
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '253'
 layout: index_item

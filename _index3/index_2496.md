@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1101,3511,522,169/150,/0/default.jpg
 label: Messias
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '577'
 layout: index_item

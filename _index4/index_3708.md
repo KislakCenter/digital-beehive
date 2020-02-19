@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/190,1466,668,161/150,/0/default.jpg
 label: silent meetings
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0956'
 layout: index_item

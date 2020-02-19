@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/410,1933,583,140/150,/0/default.jpg
 label: riddle
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0670'
 layout: index_item

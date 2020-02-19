@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1799,1826,483,128/150,/0/default.jpg
 label: shoe
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0929'
 layout: index_item

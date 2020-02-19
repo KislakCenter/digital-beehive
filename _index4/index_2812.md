@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1469,1247,763,196/150,/0/default.jpg
 label: opprobrious words
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0060'
 layout: index_item

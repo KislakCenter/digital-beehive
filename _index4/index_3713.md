@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/177,2077,635,156/150,/0/default.jpg
 label: Simon Magus
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0961'
 layout: index_item

@@ -25,6 +25,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,2154,823,194/150,/0/default.jpg
 label: perfection
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0202'
 layout: index_item

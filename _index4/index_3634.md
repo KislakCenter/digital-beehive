@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/403,3108,653,138/150,/0/default.jpg
 label: Seneca
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0882'
 layout: index_item

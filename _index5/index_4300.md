@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/930,1756,405,121/150,/0/default.jpg
 label: Vaudois
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '262'
 layout: index_item

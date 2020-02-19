@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1540,890,510,142/150,/0/default.jpg
 label: malefactor
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '478'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1799,3180,452,114/150,/0/default.jpg
 label: taverns
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '028'
 layout: index_item

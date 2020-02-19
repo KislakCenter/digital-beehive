@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2616,461,129/150,/0/default.jpg
 label: gladness
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '435'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1529,3574,745,139/150,/0/default.jpg
 label: Zunfften
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '623'
 layout: index_item

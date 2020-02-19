@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/919,1890,352,101/150,/0/default.jpg
 label: thirst
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '081'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/430,1692,605,206/150,/0/default.jpg
 label: outward blessings
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0095'
 layout: index_item

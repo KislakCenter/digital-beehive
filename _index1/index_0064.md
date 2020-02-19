@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/890,1915,649,245/150,/0/default.jpg
 label: affront
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
+issue: The meaning of "it. contumely" cannot be determined.
 insertion_xref: 
 order: '0063'
 layout: index_item

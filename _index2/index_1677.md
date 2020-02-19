@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1835,1011,711,141/150,/0/default.jpg
 label: governess. hofmeisterin
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '494'
 layout: index_item

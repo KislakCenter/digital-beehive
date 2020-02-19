@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3312,575,201/150,/0/default.jpg
 label: reliques
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0598'
 layout: index_item

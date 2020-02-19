@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/941,931,361,125/150,/0/default.jpg
 label: valley
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '254'
 layout: index_item

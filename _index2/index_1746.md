@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/857,724,594,106/150,/0/default.jpg
 label: handkerchief
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '563'
 layout: index_item

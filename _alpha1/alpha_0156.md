@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/812,4377,600,180/250,/0/default.jpg
 label: False Comfort
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+issue: 
 order: '155'
 layout: alpha_item
 collection: alpha1

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/389,2968,653,122/150,/0/default.jpg
 label: confession auricular
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0785'
 layout: index_item

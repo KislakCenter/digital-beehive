@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/857,525,765,151/150,/0/default.jpg
 label: love of money
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '646'
 layout: index_item

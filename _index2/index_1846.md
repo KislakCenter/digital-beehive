@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/375,3585,687,112/150,/0/default.jpg
 label: history of partic. men
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '663'
 layout: index_item

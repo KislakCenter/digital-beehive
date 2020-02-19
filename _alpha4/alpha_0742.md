@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/330,3059,600,180/250,/0/default.jpg
 label: Progress
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+issue: 
 order: '095'
 layout: alpha_item
 collection: alpha4

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1434,3062,721,149/150,/0/default.jpg
 label: drowning
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1158'
 layout: index_item

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1136,2110,463,156/150,/0/default.jpg
 label: honey
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '683'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1806,1799,600,118/150,/0/default.jpg
 label: English Church government
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '076'
 layout: index_item

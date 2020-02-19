@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1138,1934,465,119/150,/0/default.jpg
 label: new Jersey
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '777'
 layout: index_item

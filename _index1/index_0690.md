@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/851,476,566,149/150,/0/default.jpg
 label: clemency
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0689'
 layout: index_item

@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,600,180/250,/0/default.jpg
 label: Revelling
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+issue: 
 order: '154'
 layout: alpha_item
 collection: alpha4

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/333,1637,895,156/150,/0/default.jpg
 label: defect
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+issue: The meaning of "it. too little" and "it. natural" cannot be determined.
 insertion_xref: 
 order: '0987'
 layout: index_item

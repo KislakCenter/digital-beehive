@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/336,2792,600,180/250,/0/default.jpg
 label: Stockfish
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+issue: 
 order: '263'
 layout: alpha_item
 collection: alpha4

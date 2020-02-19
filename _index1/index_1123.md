@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/824,2488,685,156/150,/0/default.jpg
 label: doctor of divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue: 'Pastorius links to section 47 on page 66. There is currently no protocol for
+  specifying a specific item on a page reference. '
 insertion_xref: 
 order: '1122'
 layout: index_item

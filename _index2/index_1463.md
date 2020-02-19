@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/150,/0/default.jpg
 label: first love
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '281'
 layout: index_item

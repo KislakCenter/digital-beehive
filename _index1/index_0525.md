@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1576,1927,649,169/150,/0/default.jpg
 label: candle
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0524'
 layout: index_item

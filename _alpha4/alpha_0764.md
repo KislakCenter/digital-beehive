@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,600,180/250,/0/default.jpg
 label: winter Quarters
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+issue: 
 order: '117'
 layout: alpha_item
 collection: alpha4

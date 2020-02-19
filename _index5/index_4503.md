@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/465,2946,663,140/150,/0/default.jpg
 label: weather
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '465'
 layout: index_item

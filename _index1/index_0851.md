@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,2743,361,107/150,/0/default.jpg
 label: cork
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0850'
 layout: index_item

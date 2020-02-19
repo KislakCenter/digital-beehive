@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,1733,711,182/150,/0/default.jpg
 label: clothes
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0700'
 layout: index_item

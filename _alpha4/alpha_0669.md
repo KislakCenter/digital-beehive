@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/806,1498,600,180/250,/0/default.jpg
 label: Owl
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+issue: 
 order: '022'
 layout: alpha_item
 collection: alpha4

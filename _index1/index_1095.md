@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/131,2899,655,137/150,/0/default.jpg
 label: disputation
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1094'
 layout: index_item

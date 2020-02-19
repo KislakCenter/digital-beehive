@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/318,3841,600,180/250,/0/default.jpg
 label: Too soon
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+issue: 
 order: '033'
 layout: alpha_item
 collection: alpha5

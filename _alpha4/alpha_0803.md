@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,1721,600,180/250,/0/default.jpg
 label: Revenge
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+issue: 
 order: '155'
 layout: alpha_item
 collection: alpha4

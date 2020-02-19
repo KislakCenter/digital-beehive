@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/401,3168,486,104/150,/0/default.jpg
 label: catmint
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0565'
 layout: index_item

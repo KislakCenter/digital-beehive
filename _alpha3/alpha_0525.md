@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/313,1808,600,180/250,/0/default.jpg
 label: Leanness
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+issue: 
 order: '081'
 layout: alpha_item
 collection: alpha3

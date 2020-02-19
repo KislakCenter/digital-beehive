@@ -23,6 +23,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/360,4572,600,180/250,/0/default.jpg
 label: Temptation
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+issue: The point of reference for "Instigation" is unclear.|The entry continues onto
+  the next page.
 order: '007'
 layout: alpha_item
 collection: alpha5

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/453,1621,517,112/150,/0/default.jpg
 label: plumage
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0297'
 layout: index_item

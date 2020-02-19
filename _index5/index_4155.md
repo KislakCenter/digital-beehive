@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1576,2354,645,122/150,/0/default.jpg
 label: complaint of times
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '117'
 layout: index_item

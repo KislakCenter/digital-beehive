@@ -21,6 +21,7 @@ insertion: "[:55.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1773,1298,591,141/150,/0/default.jpg
 label: tenant
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '685'
 layout: index_item

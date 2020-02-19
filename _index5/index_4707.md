@@ -21,6 +21,7 @@ insertion: "[:39.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1063,2290,669,169/150,/0/default.jpg
 label: lesson
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '669'
 layout: index_item

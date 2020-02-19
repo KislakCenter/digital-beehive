@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,2527,600,180/250,/0/default.jpg
 label: Prognostications
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+issue: 
 order: '094'
 layout: alpha_item
 collection: alpha4

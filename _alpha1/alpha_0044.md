@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/796,1524,600,180/250,/0/default.jpg
 label: Approbation
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
+issue: The point of reference for "Confirm" is unclear.
 order: '043'
 layout: alpha_item
 collection: alpha1

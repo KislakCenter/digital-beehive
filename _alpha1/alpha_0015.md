@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/577,1538,600,180/250,/0/default.jpg
 label: Agreement
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+issue: The point of reference for "Consent" is unclear.
 order: '014'
 layout: alpha_item
 collection: alpha1

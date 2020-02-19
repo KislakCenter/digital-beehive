@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/858,431,613,104/150,/0/default.jpg
 label: hamelen
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '559'
 layout: index_item

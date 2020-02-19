@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/772,1172,600,180/250,/0/default.jpg
 label: Debt
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+issue: 
 order: '212'
 layout: alpha_item
 collection: alpha1

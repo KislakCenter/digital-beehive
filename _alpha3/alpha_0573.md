@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/347,2971,600,180/250,/0/default.jpg
 label: Martyr
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+issue: 
 order: '129'
 layout: alpha_item
 collection: alpha3

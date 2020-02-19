@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1135,2896,715,162/150,/0/default.jpg
 label: rule of faith & life
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0712'
 layout: index_item

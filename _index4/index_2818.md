@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1527,1992,764,180/150,/0/default.jpg
 label: orchard
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+issue: The meaning of "it. paradise" cannot be determined.
 insertion_xref: 
 order: '0066'
 layout: index_item

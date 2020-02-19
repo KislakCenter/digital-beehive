@@ -21,6 +21,7 @@ insertion: "[:14.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/388,2200,509,133/150,/0/default.jpg
 label: yoke
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '639'
 layout: index_item

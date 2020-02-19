@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/722,742,600,180/250,/0/default.jpg
 label: Fear of Death
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+issue: 
 order: '211'
 layout: alpha_item
 collection: alpha1

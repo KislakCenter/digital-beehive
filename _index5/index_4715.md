@@ -21,6 +21,7 @@ insertion: "[:47.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1058,3487,721,143/150,/0/default.jpg
 label: Em (or Im)bossing
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '677'
 layout: index_item

@@ -21,6 +21,7 @@ insertion: "[:32.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1114,1319,731,156/150,/0/default.jpg
 label: vigor
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '662'
 layout: index_item

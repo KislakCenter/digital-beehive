@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1475,2187,769,196/150,/0/default.jpg
 label: Sacramt of Os or Ordination
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0068'
 layout: index_item

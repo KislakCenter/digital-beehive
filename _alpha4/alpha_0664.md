@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,600,180/250,/0/default.jpg
 label: Oracle
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+issue: The point of reference for "Divination" is unclear.
 order: '017'
 layout: alpha_item
 collection: alpha4

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,3031,600,180/250,/0/default.jpg
 label: Cloke
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+issue: 
 order: '150'
 layout: alpha_item
 collection: alpha1

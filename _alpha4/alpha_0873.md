@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/257,220,600,180/250,/0/default.jpg
 label: Silence, continued
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+issue: 
 order: '225'
 layout: alpha_item
 collection: alpha4

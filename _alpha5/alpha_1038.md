@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/336,975,600,180/250,/0/default.jpg
 label: Wine
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+issue: 
 order: '103'
 layout: alpha_item
 collection: alpha5

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/150,/0/default.jpg
 label: natural affection
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '733'
 layout: index_item

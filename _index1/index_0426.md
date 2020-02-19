@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1773,2984,394,105/150,/0/default.jpg
 label: to bow
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0425'
 layout: index_item

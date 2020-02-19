@@ -21,6 +21,7 @@ insertion: "[:1.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/372,346,695,156/150,/0/default.jpg
 label: to oversee or overslip
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '624'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/387,2613,760,165/150,/0/default.jpg
 label: meadow
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
+issue: The meaning of "It. field" cannot be determined.
 insertion_xref: 
 order: '536'
 layout: index_item

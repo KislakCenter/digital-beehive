@@ -33,6 +33,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/168,285,616,135/150,/0/default.jpg
 label: James 3d
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '002'
 layout: index_item

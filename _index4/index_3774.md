@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1593,1676,499,147/150,/0/default.jpg
 label: sobriety
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1022'
 layout: index_item

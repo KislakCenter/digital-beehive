@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1114,238,692,117/150,/0/default.jpg
 label: antropomorphism
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0162'
 layout: index_item

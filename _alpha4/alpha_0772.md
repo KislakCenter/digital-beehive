@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,600,180/250,/0/default.jpg
 label: Rarity
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
+issue: The point of reference for "Obsolete" is unclear.
 order: '125'
 layout: alpha_item
 collection: alpha4

@@ -34,6 +34,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/822,2573,899,216/150,/0/default.jpg
 label: knowledge
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+issue: It unclear which entries are for "knowledge" and which for "knowledge of God."
 insertion_xref: 
 order: '258'
 layout: index_item

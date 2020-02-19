@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/86,1375,746,206/150,/0/default.jpg
 label: pretense
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
+issue: The intended point of reference for "pretext" is unclear.
 insertion_xref: 
 order: '0392'
 layout: index_item

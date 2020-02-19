@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/465,637,394,93/150,/0/default.jpg
 label: sum[m]er
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1227'
 layout: index_item

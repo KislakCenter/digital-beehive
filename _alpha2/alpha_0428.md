@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,1887,600,180/250,/0/default.jpg
 label: Honour
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+issue: 
 order: '159'
 layout: alpha_item
 collection: alpha2

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,600,180/250,/0/default.jpg
 label: Favour
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
+issue: The point of reference for "Disfavour" is unclear.
 order: '050'
 layout: alpha_item
 collection: alpha2

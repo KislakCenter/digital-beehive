@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,3328,600,180/250,/0/default.jpg
 label: Mass
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
+issue: The point of reference for "Vespers" is unclear.
 order: '130'
 layout: alpha_item
 collection: alpha3

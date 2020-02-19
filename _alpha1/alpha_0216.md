@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/750,2519,600,180/250,/0/default.jpg
 label: Deer
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+issue: 
 order: '215'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion: "[:31.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1068,1230,417,109/150,/0/default.jpg
 label: pindar
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '659'
 layout: index_item

@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,600,180/250,/0/default.jpg
 label: Neighbour
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+issue: 
 order: '192'
 layout: alpha_item
 collection: alpha3

@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1828,885,396,93/150,/0/default.jpg
 label: Chaucer
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
+issue: 'Pastorius writes 1581, but there is no reference to Chaucer in any entry for
+  1581. The entry 1585, however, clearly references Chaucer. '
 insertion_xref: 
 order: '0615'
 layout: index_item

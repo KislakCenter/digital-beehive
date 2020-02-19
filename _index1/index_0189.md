@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1104,2583,545,110/150,/0/default.jpg
 label: approaching to God
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0188'
 layout: index_item

@@ -25,6 +25,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/843,3266,600,180/250,/0/default.jpg
 label: Contentment
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
+issue: The point of reference for "easy in living" is unclear.
 order: '173'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/434,1423,495,128/150,/0/default.jpg
 label: to infect
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '113'
 layout: index_item

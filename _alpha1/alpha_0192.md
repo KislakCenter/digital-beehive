@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,1694,600,180/250,/0/default.jpg
 label: Creature
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
+issue: 
 order: '191'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/958,437,480,135/150,/0/default.jpg
 label: voyage
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '396'
 layout: index_item

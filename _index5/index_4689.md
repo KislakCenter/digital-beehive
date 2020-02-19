@@ -21,6 +21,7 @@ insertion: "[:24.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,3484,590,153/150,/0/default.jpg
 label: womb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '651'
 layout: index_item

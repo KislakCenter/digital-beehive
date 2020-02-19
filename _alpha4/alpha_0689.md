@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/320,2046,600,180/250,/0/default.jpg
 label: Pawn
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+issue: 
 order: '042'
 layout: alpha_item
 collection: alpha4

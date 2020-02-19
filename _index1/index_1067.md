@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/150,/0/default.jpg
 label: discipline
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+issue: The meaning of "it. education" cannot be determined.
 insertion_xref: 
 order: '1066'
 layout: index_item

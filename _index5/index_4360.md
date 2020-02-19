@@ -22,6 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/461,1473,672,150/150,/0/default.jpg
 label: uncertain
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
+  he means to direct the reader to the alphabetical entry "Doubt."
 insertion_xref: 
 order: '322'
 layout: index_item

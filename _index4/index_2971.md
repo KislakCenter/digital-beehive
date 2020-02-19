@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/815,858,663,183/150,/0/default.jpg
 label: perswasion
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0219'
 layout: index_item

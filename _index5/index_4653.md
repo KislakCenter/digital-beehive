@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1566,3040,757,175/150,/0/default.jpg
 label: Zeal
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '615'
 layout: index_item

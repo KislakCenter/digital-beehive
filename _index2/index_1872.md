@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/150,/0/default.jpg
 label: horn
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
+issue: 'Pastorius links to section 32 on page ten. There is currently no protocol
+  for specifying a specific item on a page reference. '
 insertion_xref: 
 order: '689'
 layout: index_item

@@ -21,6 +21,7 @@ insertion: "[:18.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/390,2701,588,155/150,/0/default.jpg
 label: Barclay
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '644'
 layout: index_item

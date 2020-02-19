@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,2536,600,180/250,/0/default.jpg
 label: Pope
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+issue: 
 order: '070'
 layout: alpha_item
 collection: alpha4

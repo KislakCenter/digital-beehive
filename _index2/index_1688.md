@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1829,2037,398,165/150,/0/default.jpg
 label: gram[m]ars
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: 'Pastorius links to section 358 on page 379. There is currently no protocol
+  for specifying a specific item on a page reference. '
 insertion_xref: 
 order: '505'
 layout: index_item

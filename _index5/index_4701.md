@@ -22,6 +22,7 @@ insertion: "[:33.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1055,1445,714,159/150,/0/default.jpg
 label: Christ's absence
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '663'
 layout: index_item

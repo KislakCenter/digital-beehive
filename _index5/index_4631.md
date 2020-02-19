@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1607,810,463,170/150,/0/default.jpg
 label: wrestling
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '593'
 layout: index_item

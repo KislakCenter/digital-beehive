@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,2078,600,180/250,/0/default.jpg
 label: Too hasty
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+issue: 
 order: '027'
 layout: alpha_item
 collection: alpha5

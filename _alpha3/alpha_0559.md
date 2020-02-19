@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/770,937,600,180/250,/0/default.jpg
 label: Love of Sin
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+issue: 
 order: '115'
 layout: alpha_item
 collection: alpha3

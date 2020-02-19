@@ -24,6 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/344,1629,600,180/250,/0/default.jpg
 label: Blockhead
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
+issue: It is unclear whether "It. nick-name" should be considered a cross-reference.|The
+  point of reference for "Stupidity" is unclear.
 order: '085'
 layout: alpha_item
 collection: alpha1

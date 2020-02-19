@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1811,2182,436,134/150,/0/default.jpg
 label: liturgy
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue: The correct entry for 249 is ambiguous.
 insertion_xref: 
 order: '390'
 layout: index_item

@@ -21,6 +21,7 @@ insertion: "[:45.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1048,3173,660,152/150,/0/default.jpg
 label: Vernish
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '675'
 layout: index_item

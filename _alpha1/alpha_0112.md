@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/347,898,600,180/250,/0/default.jpg
 label: Cabal
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
+issue: 
 order: '111'
 layout: alpha_item
 collection: alpha1

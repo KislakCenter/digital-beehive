@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/704,2287,600,180/250,/0/default.jpg
 label: Alamode
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+issue: The point of reference for "Clothes" is unclear.
 order: '016'
 layout: alpha_item
 collection: alpha1

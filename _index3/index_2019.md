@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1542,3388,659,198/150,/0/default.jpg
 label: Indies
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+issue: The cross-reference "East & West Indies" refers to two separate index headers.
+  There is currently no protocol to link to two different items.
 insertion_xref: 
 order: '100'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/424,4160,600,180/250,/0/default.jpg
 label: Dearth
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
+issue: 
 order: '208'
 layout: alpha_item
 collection: alpha1

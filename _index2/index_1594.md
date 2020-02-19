@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/416,403,546,147/150,/0/default.jpg
 label: genethliacum
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: The page reference refers to Pastorius's older system of pagination.
 insertion_xref: 
 order: '412'
 layout: index_item

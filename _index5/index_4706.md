@@ -21,6 +21,7 @@ insertion: "[:38.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/150,/0/default.jpg
 label: reign
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '668'
 layout: index_item

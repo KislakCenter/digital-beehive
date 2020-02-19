@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/760,4163,600,180/250,/0/default.jpg
 label: Parrot
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+issue: 
 order: '032'
 layout: alpha_item
 collection: alpha4

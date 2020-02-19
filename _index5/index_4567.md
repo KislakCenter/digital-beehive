@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/185,807,665,82/150,/0/default.jpg
 label: wisdom
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '529'
 layout: index_item

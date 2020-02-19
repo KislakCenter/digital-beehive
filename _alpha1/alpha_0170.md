@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/788,1357,600,180/250,/0/default.jpg
 label: Consequence
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
+issue: 
 order: '169'
 layout: alpha_item
 collection: alpha1

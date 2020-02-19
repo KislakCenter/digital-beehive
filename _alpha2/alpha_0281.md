@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,600,180/250,/0/default.jpg
 label: Empire
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+issue: The point of reference for "Empire" is unclear.
 order: '012'
 layout: alpha_item
 collection: alpha2

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1089,3052,460,123/150,/0/default.jpg
 label: spinster
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1092'
 layout: index_item

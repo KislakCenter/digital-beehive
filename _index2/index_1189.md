@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/150,/0/default.jpg
 label: earth fleas
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+issue: 'Pastorius links to entry 366 in the Onomastical Considerations. There is currently
+  no protocol for linking to specific entries in the Onomastical Considerations. '
 insertion_xref: 
 order: '007'
 layout: index_item

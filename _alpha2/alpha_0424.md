@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/316,219,600,180/250,/0/default.jpg
 label: Holiness
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+issue: 
 order: '155'
 layout: alpha_item
 collection: alpha2

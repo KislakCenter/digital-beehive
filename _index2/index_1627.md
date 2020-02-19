@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1157,269,705,163/150,/0/default.jpg
 label: gloss
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
+issue: The intended entry for 299 is unclear.
 insertion_xref: 
 order: '445'
 layout: index_item

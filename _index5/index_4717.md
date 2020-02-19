@@ -21,6 +21,7 @@ insertion: "[:49.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1771,426,723,176/150,/0/default.jpg
 label: Pluto & Proserp.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '679'
 layout: index_item

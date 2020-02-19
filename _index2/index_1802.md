@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1512,2728,488,150/150,/0/default.jpg
 label: hen
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
+issue: The intended page reference cannot be determined.
 insertion_xref: 
 order: '619'
 layout: index_item

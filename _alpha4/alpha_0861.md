@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,1129,600,180/250,/0/default.jpg
 label: Shadow
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
+issue: 
 order: '213'
 layout: alpha_item
 collection: alpha4

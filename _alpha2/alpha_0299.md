@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,797,600,180/250,/0/default.jpg
 label: Exorcism
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+issue: 
 order: '030'
 layout: alpha_item
 collection: alpha2

@@ -26,6 +26,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,2135,713,242/150,/0/default.jpg
 label: baptism
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: The intended reference of "add. Arab" cannot be determined.
 insertion_xref: 
 order: '0288'
 layout: index_item

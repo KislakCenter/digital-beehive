@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1814,2773,641,106/150,/0/default.jpg
 label: staiedman
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '1121'
 layout: index_item

@@ -22,6 +22,7 @@ insertion: "[:5.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/357,1026,701,157/150,/0/default.jpg
 label: to boult, lift, fan or winnow
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '630'
 layout: index_item

@@ -33,6 +33,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1764,651,120/150,/0/default.jpg
 label: parentage
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '0130'
 layout: index_item

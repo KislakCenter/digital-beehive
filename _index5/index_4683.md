@@ -21,6 +21,7 @@ insertion: "[:19.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/150,/0/default.jpg
 label: forrest
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '645'
 layout: index_item

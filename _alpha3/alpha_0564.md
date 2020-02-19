@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,2747,600,180/250,/0/default.jpg
 label: Magistrate
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
+issue: 
 order: '120'
 layout: alpha_item
 collection: alpha3

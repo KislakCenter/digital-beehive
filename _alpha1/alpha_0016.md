@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/621,1945,600,180/250,/0/default.jpg
 label: Agriculture
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+issue: 
 order: '015'
 layout: alpha_item
 collection: alpha1

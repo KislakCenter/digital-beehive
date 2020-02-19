@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,600,180/250,/0/default.jpg
 label: Travelling
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
+issue: The point of reference for "Departure" is unclear.
 order: '041'
 layout: alpha_item
 collection: alpha5

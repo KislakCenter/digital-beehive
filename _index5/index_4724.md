@@ -21,6 +21,7 @@ insertion: "[:56.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/2209,1422,302,169/150,/0/default.jpg
 label: Sappho
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '686'
 layout: index_item

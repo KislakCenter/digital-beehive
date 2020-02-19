@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1868,368,688,174/150,/0/default.jpg
 label: continual
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+issue: The meaning of "it. to last" cannot be determined.
 insertion_xref: 
 order: '0826'
 layout: index_item

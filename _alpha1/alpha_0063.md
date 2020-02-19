@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/373,3344,600,180/250,/0/default.jpg
 label: Bastard
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
+issue: 
 order: '062'
 layout: alpha_item
 collection: alpha1

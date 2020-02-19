@@ -22,6 +22,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,600,180/250,/0/default.jpg
 label: Prison, continued
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+issue: 'It is unclear whether this entry is a new entry or a continuation of the preceding
+  entry. '
 order: '088'
 layout: alpha_item
 collection: alpha4

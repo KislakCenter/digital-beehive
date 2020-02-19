@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/968,3601,483,121/150,/0/default.jpg
 label: very
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
+issue: The correct entry for 535 is ambiguous.
 insertion_xref: 
 order: '282'
 layout: index_item

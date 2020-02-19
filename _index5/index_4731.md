@@ -21,6 +21,7 @@ insertion: "[:62.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,2244,736,164/150,/0/default.jpg
 label: to like
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '693'
 layout: index_item

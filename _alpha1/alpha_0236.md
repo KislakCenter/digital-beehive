@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,600,180/250,/0/default.jpg
 label: Diligence
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+issue: 
 order: '235'
 layout: alpha_item
 collection: alpha1

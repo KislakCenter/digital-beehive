@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/704,2591,600,180/250,/0/default.jpg
 label: Joy
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
+issue: 
 order: '044'
 layout: alpha_item
 collection: alpha3

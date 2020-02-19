@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,1596,600,180/250,/0/default.jpg
 label: External appearance
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
+issue: 
 order: '032'
 layout: alpha_item
 collection: alpha2

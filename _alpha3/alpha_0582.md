@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/746,938,600,180/250,/0/default.jpg
 label: Meditation
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+issue: The point of reference for "Contemplation" is unclear.
 order: '138'
 layout: alpha_item
 collection: alpha3

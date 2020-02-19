@@ -21,6 +21,7 @@ insertion: "[:34.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1054,1564,714,151/150,/0/default.jpg
 label: kidnapper
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '664'
 layout: index_item

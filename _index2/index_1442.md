@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1102,3157,781,233/150,/0/default.jpg
 label: fight
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+issue: The intended point of reference for "battle" is unclear.
 insertion_xref: 
 order: '260'
 layout: index_item

@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,2566,600,180/250,/0/default.jpg
 label: Peace
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+issue: The point of reference for "Tranquility" is unclear.
 order: '044'
 layout: alpha_item
 collection: alpha4

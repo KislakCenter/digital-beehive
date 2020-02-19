@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,777,600,180/250,/0/default.jpg
 label: Nakedness
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+issue: 
 order: '181'
 layout: alpha_item
 collection: alpha3

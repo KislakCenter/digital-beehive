@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/775,3724,600,180/250,/0/default.jpg
 label: Fasting
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
+issue: 
 order: '046'
 layout: alpha_item
 collection: alpha2

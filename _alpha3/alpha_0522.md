@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
 label: Lawyer
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+issue: 
 order: '078'
 layout: alpha_item
 collection: alpha3

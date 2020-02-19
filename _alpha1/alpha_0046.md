@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,2022,600,180/250,/0/default.jpg
 label: Articles of faith
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
+issue: 
 order: '045'
 layout: alpha_item
 collection: alpha1

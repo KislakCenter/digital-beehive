@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/355,2969,600,180/250,/0/default.jpg
 label: Wolf
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+issue: 
 order: '108'
 layout: alpha_item
 collection: alpha5

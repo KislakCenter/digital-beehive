@@ -21,6 +21,7 @@ insertion: "[:25.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1052,314,636,129/150,/0/default.jpg
 label: Neapolis
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '652'
 layout: index_item

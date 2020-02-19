@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/859,4061,600,180/250,/0/default.jpg
 label: Comfort
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+issue: 
 order: '154'
 layout: alpha_item
 collection: alpha1

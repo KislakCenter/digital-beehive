@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/823,3483,600,180/250,/0/default.jpg
 label: Comedy
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+issue: 
 order: '152'
 layout: alpha_item
 collection: alpha1

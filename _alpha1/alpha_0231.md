@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/405,3350,600,180/250,/0/default.jpg
 label: Dew
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+issue: 
 order: '230'
 layout: alpha_item
 collection: alpha1

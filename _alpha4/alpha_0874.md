@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/274,379,600,180/250,/0/default.jpg
 label: Similitude
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+issue: The point of reference for "comparison" is unclear.
 order: '226'
 layout: alpha_item
 collection: alpha4

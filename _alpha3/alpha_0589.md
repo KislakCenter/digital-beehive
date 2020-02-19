@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,3525,600,180/250,/0/default.jpg
 label: Metal
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+issue: The point of reference for "viscera terrae" is unclear.
 order: '145'
 layout: alpha_item
 collection: alpha3

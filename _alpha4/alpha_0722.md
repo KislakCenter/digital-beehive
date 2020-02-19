@@ -25,6 +25,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/308,4474,600,180/250,/0/default.jpg
 label: Praise of God & of men
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+issue: 
 order: '075'
 layout: alpha_item
 collection: alpha4

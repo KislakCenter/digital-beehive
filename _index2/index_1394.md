@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/380,2054,749,141/150,/0/default.jpg
 label: fame
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
+issue: The meaning of "it. report" cannot be determined.
 insertion_xref: 
 order: '212'
 layout: index_item

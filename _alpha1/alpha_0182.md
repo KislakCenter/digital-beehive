@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/308,2147,600,180/250,/0/default.jpg
 label: Counsel
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
+issue: 
 order: '181'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/764,1712,600,180/250,/0/default.jpg
 label: Dunghill
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+issue: 
 order: '266'
 layout: alpha_item
 collection: alpha1

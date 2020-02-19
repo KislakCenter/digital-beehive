@@ -21,6 +21,7 @@ insertion: "[:43.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,2884,582,129/150,/0/default.jpg
 label: I or You may
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '673'
 layout: index_item

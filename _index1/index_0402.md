@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1794,377,417,163/150,/0/default.jpg
 label: body of Christ
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 insertion_xref: 
 order: '0401'
 layout: index_item

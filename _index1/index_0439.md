@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,755,729,161/150,/0/default.jpg
 label: brave
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
+issue: The meaning of "it. man" cannot be determined.
 insertion_xref: 
 order: '0438'
 layout: index_item

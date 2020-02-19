@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/150,/0/default.jpg
 label: warlike discipline
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
+  he means to direct the reader to "martial discipline."
 insertion_xref: 
 order: '438'
 layout: index_item

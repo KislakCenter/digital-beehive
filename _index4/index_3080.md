@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1203,1330,725,139/150,/0/default.jpg
 label: portion
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: The meaning of "It. dowry" cannot be determined.
 insertion_xref: 
 order: '0328'
 layout: index_item

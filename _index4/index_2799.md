@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/836,3327,713,151/150,/0/default.jpg
 label: onomast. Consid
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
+issue: 'The specific pages intended by "&c." are unclear. '
 insertion_xref: 
 order: '0047'
 layout: index_item

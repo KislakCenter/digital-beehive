@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2757,806,155/150,/0/default.jpg
 label: bee
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: '"54" refers to a page number but is notated as an entry.'
 insertion_xref: 
 order: '0331'
 layout: index_item

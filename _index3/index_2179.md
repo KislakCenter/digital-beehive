@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/150,/0/default.jpg
 label: Korb
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+issue: It is unclear why Pastorius links "Korb" with "denial."
 insertion_xref: 
 order: '260'
 layout: index_item

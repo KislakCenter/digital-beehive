@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/382,2305,600,180/250,/0/default.jpg
 label: Canary bird
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
+issue: 
 order: '114'
 layout: alpha_item
 collection: alpha1

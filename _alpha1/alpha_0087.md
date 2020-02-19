@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/325,1858,600,180/250,/0/default.jpg
 label: Blood
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
+issue: It is unclear whether "blood of Xst" should be considered a separate entry.
 order: '086'
 layout: alpha_item
 collection: alpha1

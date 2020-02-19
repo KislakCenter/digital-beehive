@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,2760,600,180/250,/0/default.jpg
 label: Defence
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
+issue: It is unclear whether "It. War. Revenge" should be considered cross-references.
 order: '216'
 layout: alpha_item
 collection: alpha1

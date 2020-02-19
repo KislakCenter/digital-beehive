@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/772,3094,600,180/250,/0/default.jpg
 label: Hair
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+issue: 
 order: '122'
 layout: alpha_item
 collection: alpha2

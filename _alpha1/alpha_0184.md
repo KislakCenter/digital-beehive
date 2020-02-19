@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/338,2950,600,180/250,/0/default.jpg
 label: Native Country
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
+issue: 
 order: '183'
 layout: alpha_item
 collection: alpha1

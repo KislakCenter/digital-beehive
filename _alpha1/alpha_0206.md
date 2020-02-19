@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/359,2725,600,180/250,/0/default.jpg
 label: Danger
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
+issue: The point of reference for "Pinch" is unclear.
 order: '205'
 layout: alpha_item
 collection: alpha1

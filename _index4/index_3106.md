@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1908,619,667,112/150,/0/default.jpg
 label: praise of men
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref: 
 order: '0354'
 layout: index_item

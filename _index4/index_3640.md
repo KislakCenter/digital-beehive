@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/150,/0/default.jpg
 label: separation
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
+issue: The intended point of reference for "shirm" is unclear.
 insertion_xref: 
 order: '0888'
 layout: index_item

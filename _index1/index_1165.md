@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/410,314,747,165/150,/0/default.jpg
 label: due
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
+issue: The intended point of reference for "becoming" is unclear.|The intended point
+  of reference for "worthy" is unclear.
 insertion_xref: 
 order: '1164'
 layout: index_item

@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,977,600,180/250,/0/default.jpg
 label: Lie
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+issue: The point of reference for "Hyperbole" is unclear.
 order: '093'
 layout: alpha_item
 collection: alpha3

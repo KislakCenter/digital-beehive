@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/849,2621,600,180/250,/0/default.jpg
 label: To Bring
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
+issue: 
 order: '101'
 layout: alpha_item
 collection: alpha1

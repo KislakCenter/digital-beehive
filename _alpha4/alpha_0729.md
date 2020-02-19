@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,2498,600,180/250,/0/default.jpg
 label: Prevention
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+issue: 
 order: '082'
 layout: alpha_item
 collection: alpha4

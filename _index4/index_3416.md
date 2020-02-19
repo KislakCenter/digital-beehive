@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/339,1327,802,151/150,/0/default.jpg
 label: ABC rhymes & meeters
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+issue: The intended point of reference meant by "1701" is unclear.
 insertion_xref: 
 order: '0664'
 layout: index_item

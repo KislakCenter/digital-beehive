@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,3731,600,180/250,/0/default.jpg
 label: Idleness
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
+issue: 
 order: '000'
 layout: alpha_item
 collection: alpha3

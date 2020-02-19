@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/723,2582,600,180/250,/0/default.jpg
 label: Alchymie
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
+issue: 
 order: '017'
 layout: alpha_item
 collection: alpha1

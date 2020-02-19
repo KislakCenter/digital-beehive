@@ -22,6 +22,7 @@ insertion: "[:17.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/399,2589,663,111/150,/0/default.jpg
 label: publ. Calam.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '642'
 layout: index_item

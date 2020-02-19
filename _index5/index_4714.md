@@ -21,6 +21,7 @@ insertion: "[:46.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,3327,614,160/150,/0/default.jpg
 label: to gild
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '676'
 layout: index_item

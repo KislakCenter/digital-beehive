@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,600,180/250,/0/default.jpg
 label: Wonder
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+issue: 
 order: '114'
 layout: alpha_item
 collection: alpha5

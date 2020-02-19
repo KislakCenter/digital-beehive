@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/764,1111,600,180/250,/0/default.jpg
 label: Germany
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
+issue: 
 order: '089'
 layout: alpha_item
 collection: alpha2

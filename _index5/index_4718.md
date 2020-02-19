@@ -21,6 +21,7 @@ insertion: "[:50.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1732,570,648,147/150,/0/default.jpg
 label: Charon
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '680'
 layout: index_item

@@ -21,6 +21,7 @@ insertion: "[:2.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/361,679,563,100/150,/0/default.jpg
 label: fringes
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '627'
 layout: index_item

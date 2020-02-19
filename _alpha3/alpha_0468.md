@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,600,180/250,/0/default.jpg
 label: Incontinence
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
+issue: 
 order: '024'
 layout: alpha_item
 collection: alpha3

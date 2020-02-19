@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/724,932,600,180/250,/0/default.jpg
 label: Stubborness
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+issue: The point of reference for "waspish" is unclear.
 order: '272'
 layout: alpha_item
 collection: alpha4

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,600,180/250,/0/default.jpg
 label: Night
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+issue: 
 order: '196'
 layout: alpha_item
 collection: alpha3

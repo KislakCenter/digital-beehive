@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/828,2177,600,180/250,/0/default.jpg
 label: Cattel
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
+issue: 
 order: '127'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/157,2470,482,107/150,/0/default.jpg
 label: Saxony
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
+issue: The intended point of reference meant by "1372" is unclear.
 insertion_xref: 
 order: '0777'
 layout: index_item

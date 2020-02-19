@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/340,851,600,180/250,/0/default.jpg
 label: to Buy
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
+issue: 
 order: '110'
 layout: alpha_item
 collection: alpha1

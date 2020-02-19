@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/373,4366,600,180/250,/0/default.jpg
 label: Adversity
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
+issue: The point of reference for "Gods affection" is unclear.
 order: '009'
 layout: alpha_item
 collection: alpha1

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/395,4553,600,180/250,/0/default.jpg
 label: Beard
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
+issue: 
 order: '066'
 layout: alpha_item
 collection: alpha1

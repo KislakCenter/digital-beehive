@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/387,1364,370,128/150,/0/default.jpg
 label: to bely
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 insertion_xref: 
 order: '0349'
 layout: index_item

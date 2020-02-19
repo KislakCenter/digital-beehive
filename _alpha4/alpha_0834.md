@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/753,2249,600,180/250,/0/default.jpg
 label: Schoole
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
+issue: 
 order: '186'
 layout: alpha_item
 collection: alpha4

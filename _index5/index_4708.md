@@ -21,6 +21,7 @@ insertion: "[:40.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1047,2434,830,160/150,/0/default.jpg
 label: Confederacy
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '670'
 layout: index_item

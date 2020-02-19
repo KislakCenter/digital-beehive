@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,1735,600,180/250,/0/default.jpg
 label: Mourning
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+issue: The point of reference for "Lamentation" is unclear.
 order: '170'
 layout: alpha_item
 collection: alpha3

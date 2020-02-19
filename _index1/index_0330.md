@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1588,2573,333,99/150,/0/default.jpg
 label: bedtime
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
+issue: It is unclear how many of the preceding entries Pastorius means to include
+  with "ibid."
 insertion_xref: 
 order: '0329'
 layout: index_item

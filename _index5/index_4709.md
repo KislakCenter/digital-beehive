@@ -21,6 +21,7 @@ insertion: "[:41.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1057,2594,724,141/150,/0/default.jpg
 label: Albigenses
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '671'
 layout: index_item

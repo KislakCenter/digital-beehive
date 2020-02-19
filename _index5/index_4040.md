@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,553,543,107/150,/0/default.jpg
 label: tabernacle
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
+issue: Pastorius writes 582 but clearly intended 581.
 insertion_xref: 
 order: '002'
 layout: index_item

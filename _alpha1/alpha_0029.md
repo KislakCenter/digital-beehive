@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/290,1311,600,180/250,/0/default.jpg
 label: Angel
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
+issue: 
 order: '028'
 layout: alpha_item
 collection: alpha1

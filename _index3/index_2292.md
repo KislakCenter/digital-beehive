@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1829,496,628,135/150,/0/default.jpg
 label: likelyhood
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref: 
 order: '373'
 layout: index_item

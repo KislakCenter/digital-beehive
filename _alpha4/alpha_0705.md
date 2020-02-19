@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,600,180/250,/0/default.jpg
 label: Picture
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+issue: The point of reference for "painting" is unclear.
 order: '058'
 layout: alpha_item
 collection: alpha4

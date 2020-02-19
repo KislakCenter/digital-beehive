@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,600,180/250,/0/default.jpg
 label: Romances
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+issue: 
 order: '165'
 layout: alpha_item
 collection: alpha4

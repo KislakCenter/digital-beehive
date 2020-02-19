@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/388,2913,600,180/250,/0/default.jpg
 label: Gout
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
+issue: 
 order: '106'
 layout: alpha_item
 collection: alpha2

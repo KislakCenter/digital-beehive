@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,4155,600,180/250,/0/default.jpg
 label: Inconsiderancy
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
+issue: 
 order: '023'
 layout: alpha_item
 collection: alpha3

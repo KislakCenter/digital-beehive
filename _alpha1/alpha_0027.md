@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/234,754,600,180/250,/0/default.jpg
 label: Anathema
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
+issue: 
 order: '026'
 layout: alpha_item
 collection: alpha1

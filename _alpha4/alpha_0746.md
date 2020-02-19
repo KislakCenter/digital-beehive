@@ -24,6 +24,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,4557,600,180/250,/0/default.jpg
 label: Proof
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
+issue: The point of reference for "Trial" is unclear.|The point of reference for "essay"
+  is unclear.|The point of reference for "argument" is unclear.
 order: '099'
 layout: alpha_item
 collection: alpha4

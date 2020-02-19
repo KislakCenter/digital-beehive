@@ -21,6 +21,7 @@ insertion: "[:3.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/150,/0/default.jpg
 label: mam[m]on
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '628'
 layout: index_item

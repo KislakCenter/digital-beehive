@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/787,2685,600,180/250,/0/default.jpg
 label: Atheism
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
+issue: 
 order: '047'
 layout: alpha_item
 collection: alpha1

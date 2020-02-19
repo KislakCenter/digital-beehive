@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/365,2395,600,180/250,/0/default.jpg
 label: Dancing
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
+issue: 
 order: '204'
 layout: alpha_item
 collection: alpha1

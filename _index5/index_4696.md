@@ -22,6 +22,7 @@ insertion: "[:31.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1082,1153,705,174/150,/0/default.jpg
 label: pink. gillifl.
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '658'
 layout: index_item

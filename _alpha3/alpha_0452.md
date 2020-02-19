@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/324,2060,600,180/250,/0/default.jpg
 label: Ignoble
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+issue: 
 order: '008'
 layout: alpha_item
 collection: alpha3

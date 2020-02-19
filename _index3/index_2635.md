@@ -21,6 +21,8 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1505,3540,465,134/150,/0/default.jpg
 label: name of God
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref: 
 order: '716'
 layout: index_item

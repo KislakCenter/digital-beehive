@@ -21,6 +21,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1015,1425,172,104/150,/0/default.jpg
 label: "[:70.]"
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
+issue: The crochet refers not to a missing header but instead provides additional
+  information about "ABC rhymes and meeters." There is currently no protocol for connecting
+  the two.
 insertion_xref: 
 order: '0665'
 layout: index_item

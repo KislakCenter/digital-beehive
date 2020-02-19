@@ -23,6 +23,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,1397,600,180/250,/0/default.jpg
 label: Communion
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
+issue: 
 order: '159'
 layout: alpha_item
 collection: alpha1

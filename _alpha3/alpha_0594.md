@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,467,600,180/250,/0/default.jpg
 label: Mind
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+issue: 
 order: '150'
 layout: alpha_item
 collection: alpha3

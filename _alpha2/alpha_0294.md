@@ -24,6 +24,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/783,3300,600,180/250,/0/default.jpg
 label: Examination
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
+issue: 
 order: '025'
 layout: alpha_item
 collection: alpha2

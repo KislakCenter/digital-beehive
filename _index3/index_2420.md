@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/150,/0/default.jpg
 label: manuscripts of mine own
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+issue: 'The listed entry is on the page following the intended point of reference. '
 insertion_xref: 
 order: '501'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,4161,600,180/250,/0/default.jpg
 label: Moon
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
+issue: 
 order: '162'
 layout: alpha_item
 collection: alpha3

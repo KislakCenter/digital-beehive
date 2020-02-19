@@ -22,6 +22,7 @@ insertion: "[:12.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/385,1970,711,149/150,/0/default.jpg
 label: multitude
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '637'
 layout: index_item

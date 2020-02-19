@@ -21,6 +21,7 @@ insertion: "[:10.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/383,1730,573,147/150,/0/default.jpg
 label: Duke
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '635'
 layout: index_item

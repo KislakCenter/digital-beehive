@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/771,2481,600,180/250,/0/default.jpg
 label: Paradox
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+issue: 
 order: '027'
 layout: alpha_item
 collection: alpha4

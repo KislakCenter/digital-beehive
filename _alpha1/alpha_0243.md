@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,600,180/250,/0/default.jpg
 label: Disobedience
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+issue: 
 order: '242'
 layout: alpha_item
 collection: alpha1

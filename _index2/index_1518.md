@@ -22,6 +22,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/150,/0/default.jpg
 label: forsake all
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
+issue: It is unclear if "all" is part of this entry, the following entry, or both.
 insertion_xref: 
 order: '336'
 layout: index_item

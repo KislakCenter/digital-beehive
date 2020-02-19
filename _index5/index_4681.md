@@ -21,6 +21,7 @@ insertion: "[:17.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/454,2645,552,109/150,/0/default.jpg
 label: calamity
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '643'
 layout: index_item

@@ -21,6 +21,7 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/339,2569,600,180/250,/0/default.jpg
 label: Counterfeit money
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
+issue: 
 order: '182'
 layout: alpha_item
 collection: alpha1

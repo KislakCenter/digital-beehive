@@ -21,6 +21,7 @@ insertion: "[:42.]"
 thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1044,2734,718,152/150,/0/default.jpg
 label: copper-Cuts
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
+issue: 
 insertion_xref: 
 order: '672'
 layout: index_item
