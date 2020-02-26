@@ -12,9 +12,11 @@ permalink: '/tocvol3/'
       {% for item in site.data.master_toc%}
       {% case item.volume %}
         {% when '3' %}
+        {% unless item.secondary_type == "Historical Features" %}
           {% if item.toc_title %}
             <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
           {% endif %}
+        {% endunless %}
       {% endcase %}
       {% endfor %}
     </div>    
@@ -22,7 +24,7 @@ permalink: '/tocvol3/'
 </div>
 
 <div class="d-inline-flex">
-  <p style="margin-left: 315px; margin-right: 15px">This section provides a page-by-page overview of the Octavo Index and supplementary imaging of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>.The navigation is divided largely by divisions that we've created for ease of use, and it is otherwise divided and represented by Pastorius's own language. Additionally, each of these divisions is marked by its volume and image number for locational reference. <br />
+  <p style="margin-left: 315px; margin-right: 15px">This section provides a page-by-page overview of the Octavo Index of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>.The navigation is divided largely by divisions that we've created for ease of use, and it is otherwise divided and represented by Pastorius's own language. Additionally, each of these divisions is marked by its volume and image number for locational reference. <br />
   <br /> This volume provides the browsable content for the linked <a href="{{ site.baseurl }}/index">Index</a> entries.</p>
 </div>
 
@@ -31,6 +33,7 @@ permalink: '/tocvol3/'
 {% for item in site.data.master_toc %}
 {% case item.volume %}
   {% when '3' %}
+  {% unless item.secondary_type == "Historical Features"  %}
   <li style="position: static">
   <div id='divthumbs'>
     <div class= 'divthumb'>
@@ -61,6 +64,7 @@ permalink: '/tocvol3/'
     </div>
   </div>
   </li>
+  {% endunless %}
 {% endcase %}
 {% endfor %}
 </ul>

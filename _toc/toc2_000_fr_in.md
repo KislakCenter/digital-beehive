@@ -1,7 +1,7 @@
 ---
-pid: toc3_63
-volume: '3'
-image: '63'
+pid: toc2_000_fr_in
+volume: '2'
+image: '2'
 pastorius_page_numbers: 
 older_pastorius_page_numbers: 
 type: The Book's Physical Properties
@@ -13,14 +13,14 @@ secondary_section_title:
 tertiary_section_title: 
 pastorius_section_header: 
 pastorius_description: 
-contents: Octavo Alvearium Index Spine
+contents: 
 secondary_contents: 
 notes: 
 first_entry: 
 last_entry: 
-order: '962'
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_1006/full/100,/0/default.jpg
-full: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_1006/full/full/0/default.jpg
+order: '452'
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0469/full/100,/0/default.jpg
+full: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0469/full/full/0/default.jpg
 notes_DONOTUSE: 
 layout: toc_item
 collection: toc

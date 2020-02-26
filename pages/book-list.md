@@ -1455,3 +1455,10 @@ Half—Folio's,
 |100.||Hugh Broughton's Consent of Scripture.|“Concent [sic] of Scrip1ure." 4to., 1590 (& 1620). BMC 27:764; Pollard & Redgrave 3850-3851.5.|
 |101.||. . . Godwyn's Moses and Aaron.|Thomas Godwyn. 6th ed. 4to., 1641 (& later editions). Wing G976-984B.|
 |102.||. . . Cradock's harmony of the four Evangelists, with his Apostolical history.|Samuel Cradock. Fol., 1668 & 1670. Wing C6748-6749.|
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: 'rgb(173, 135, 31)',
+  textColor: '#fff'
+})</script>

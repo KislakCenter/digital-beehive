@@ -47,7 +47,7 @@ In this section, fundamentally structured as a piece of **continuous prose** div
 
 #### [Verse](toc_theme_verse.md)
 
-This section includes all parts of the "Bee-Hive" in which Pastorius crafts **his own poetry**. The majority of his poetry can be found in his Germantown Silva, the most **multilingual** space in the "Bee-Hive", in which Pastorius writes verse in his native German, low Dutch, French, and Latin, as well as of course in English, the main language of the "Bee-Hive". This section also includes **epigrams** and **miscellaneous verse** from throughout the manuscript.
+This section includes all parts of the "Bee-Hive" in which Pastorius crafts **his own poetry** or records poems from others. The majority of his poetry can be found in his Germantown Silva, the most **multilingual** space in the "Bee-Hive", in which Pastorius writes verse in his native German, low Dutch, French, and Latin, as well as of course in English, the main language of the "Bee-Hive". This section also includes **epigrams** and **miscellaneous verse** from throughout the manuscript.
 
 #### [Onomastic Symbols](toc_theme_onomastic_symbols.md)
 
@@ -55,7 +55,7 @@ These symbols, essentially **short phrases**, are almost entirely based on **Pas
 
 #### [Epitaphs](toc_theme_epitaphs.md)
 
-This section, culled from another of Pastorius's manuscripts (his Liber (here Libello) Epitaphiorum), presents a collection of **epitaphs** recorded and recollected from his various **travels.**
+This section, culled from another of Pastorius's manuscripts (his Liber [here Libello] Epitaphiorum), presents a collection of **epitaphs** recorded and recollected from his various **travels.**
 
 #### [Genealogy](toc_theme_genealogy.md)
 

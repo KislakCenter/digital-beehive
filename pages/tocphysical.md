@@ -1,8 +1,8 @@
 ---
 layout: toc
-title: Volume Two
-description: Navigating Volume Two
-permalink: '/tocvol2/'
+title: The Book's Physical Properties
+description: The physical properties of Pastorius's Beehive manuscript
+permalink: '/tocphysical/'
 ---
 
 <div id= 'divsidenav'
@@ -11,10 +11,12 @@ permalink: '/tocvol2/'
       <p style="letter-spacing: 0.04em; list-style-type: circle"><font color= "black"><h3>Navigation</h3></font></p>
       {% for item in site.data.master_toc%}
       {% case item.volume %}
-        {% when '2' %}
+        {% when '3' %}
+        {% if item.secondary_type == "Historical Features" %}
           {% if item.toc_title %}
             <a href="#{{ item.toc_link }}">{{ item.toc_title }}</a><br />
           {% endif %}
+        {% endif %}
       {% endcase %}
       {% endfor %}
     </div>    
@@ -22,15 +24,15 @@ permalink: '/tocvol2/'
 </div>
 
 <div class="d-inline-flex">
-  <p style="margin-left: 315px; margin-right: 15px">This section provides a page-by-page overview of the second volume of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>. The navigation is divided largely by divisions that we've created for ease of use, and it is otherwise divided and represented by Pastorius's own language. Additionally, each of these divisions is marked by its volume and image number for locational reference. <br />
-  <br />This volume provides the browsable content for the linked <a href="{{ site.baseurl }}/alphabetical/">Alphabetical Section</a> and <a href="{{ site.baseurl }}/numerical/">Numerical Section</a> entries.</p>
+  <p style="margin-left: 315px; margin-right: 15px">This section provides a page-by-page overview of the physical features and supplementary imaging of the Beehive as it is currently bound. You can find an explanation of this division and a user guide for page browsing <a href="{{ site.baseurl }}/pagebrowse/">here</a>.The navigation is divided largely by divisions that we've created for ease of use, and it is otherwise divided and represented by Pastorius's own language. Additionally, each of these divisions is marked by its volume and image number for locational reference. </p>
 </div>
 
 
 <ul class="list-unstyled">
 {% for item in site.data.master_toc %}
 {% case item.volume %}
-  {% when '2' %}
+  {% when '3' %}
+  {% if item.secondary_type == "Historical Features"  %}
   <li style="position: static">
   <div id='divthumbs'>
     <div class= 'divthumb'>
@@ -61,6 +63,7 @@ permalink: '/tocvol2/'
     </div>
   </div>
   </li>
+  {% endif %}
 {% endcase %}
 {% endfor %}
 </ul>
