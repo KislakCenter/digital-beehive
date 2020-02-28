@@ -6,4 +6,6 @@ permalink: /numerical/251-500/
 
 This page presents high quality scans of the Numerical Section of Pastorius's Beehive Manuscript with relevant metadata.
 
+[Return to Numerical Section]({{ site.baseurl }}/numerical/)
+
 {% include alpha_gallery.html collection='num2' facet_by='first_letter' %}
