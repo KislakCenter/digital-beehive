@@ -226,7 +226,7 @@ menu:
         link: '/documentation/'
       - label: 'Contact'
         link: '/contact/'
-  - label: 'Beehive Volumes'
+  - label: 'Contents'
     sub:
       - label: 'Introduction'
         link: '/pagebrowse/'
@@ -238,7 +238,7 @@ menu:
         link: '/tocvol3/'
       - label:  'Sections'
         link: '/sectionbrowse/'
-      - label: 'Phyiscal Features'
+      - label: 'Physical Features'
         link: '/tocphysical/'
   - label: 'Browse Entries'
     sub:
