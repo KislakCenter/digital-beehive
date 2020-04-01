@@ -224,6 +224,8 @@ menu:
         link: '/about/'
       - label: 'Technical Documentation'
         link: '/documentation/'
+      - label: 'Data Structure'
+        link: 'data-structure/'
       - label: 'Contact'
         link: '/contact/'
   - label: 'Contents'
