@@ -16,6 +16,10 @@ Our code and raw data sets can be found [here](https://github.com/drnelson6/beeh
 
 Much like Pastorius's own "Bee-Hive," the Digital Beehive is a work in progress and will continue to grow and expand.
 
+#### Project Support
+
+Support for this project has been provided by the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) and the [Kislak Center for Special Collections, Rare Books and Manuscripts](https://www.library.upenn.edu/kislak).
+
 #### Citation Style
 
 As the Beehive contains no consistent form of pagination, the Digital Beehive Team recommends citing information found through the Digital Beehive by volume and image number, in addition to any page or entry number from the original manuscript.  
