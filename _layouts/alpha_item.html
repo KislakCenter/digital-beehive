@@ -12,6 +12,9 @@ Topic: {{ page.topic }}<br>
   Cross-reference: {{ page.xref }}<br>
 {% endif %}
 Index: {{ page.index }}<br>
+{% if page.also_in_entry %}
+  Also in entry: {{ page.also_in_entry }}<br>
+{% endif %}
 {% if page.issue %}
   Issue: {{ page.issue }}<br>
 {% endif %}
