@@ -1,21 +1,23 @@
 ---
-layout: default
+layout: generic_collection_item
 pagination: true
+meta:
+  - label: 'Volume'
+    value: page.volume
+  - label: 'Image Number'
+    value: page.image_number
+  - label: 'Entry'
+    value: page.entry
+  - label: 'Topic'
+    value: page.topic
+  - label: 'Cross-reference'
+    value: page.xref
+  - label: 'Index'
+    value: page.index
+  - label: 'Also in entry'
+    value: page.also_in_entry
+  - label: 'Issue'
+    value: page.issue
+  - label: 'Full Page'
+    value: page.location
 ---
-
-<a href="{{ page.selection}}"><img src="{{ page.selection }}"/></a><br>
-
-Image Number: {{ page.volume }}, Image {{ page.image_number }}<br>
-Entry: {{ page.entry }}<br>
-Topic: {{ page.topic }}<br>
-{% if page.xref %}
-  Cross-reference: {{ page.xref }}<br>
-{% endif %}
-Index: {{ page.index }}<br>
-{% if page.also_in_entry %}
-  Also in entry: {{ page.also_in_entry }}<br>
-{% endif %}
-{% if page.issue %}
-  Issue: {{ page.issue }}<br>
-{% endif %}
-{{ page.location }}

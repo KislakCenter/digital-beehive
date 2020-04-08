@@ -25,6 +25,13 @@ layout: default
     <span class='pagination-link' id='nextlink'></span>
   </div>
   {% unless layout.pagination == false %}{% include item_pagination.html %}{% endunless %}
+{% else %}
+  <div class ='item-view'>
+    <span class='pagination-link' id='prevlink'></span>
+      <a href="{{ page.selection}}"><img src="{{ page.selection }}"></a>
+    <span class='pagination-link' id='nextlink'></span>
+  </div>
+  {% include item_pagination.html %}
 {% endif %}
 
 {% comment %}

@@ -105,21 +105,6 @@ collections:
     layout: 'alpha_item'
     metadata:
       source: num2.csv
-  toc_vol1:
-    output: true
-    layout: 'toc1_item'
-    metadata:
-      source: toc_vol1.csv
-  toc_vol2:
-    output: true
-    layout: 'toc2_item'
-    metadata:
-      source: toc_vol2.csv
-  toc_vol3:
-    output: true
-    layout: 'toc3_item'
-    metadata:
-      source: toc_vol3.csv
   toc:
     output: true
     layout: 'toc_item'

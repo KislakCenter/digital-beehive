@@ -1,28 +1,25 @@
 ---
-layout: default
+layout: generic_collection_item
 pagination: true
+meta:
+  - label: 'Volume'
+    value: page.volume
+  - label: 'Image Number'
+    value: page.image_number
+  - label: 'Head'
+    value: page.head
+  - label: 'Entry'
+    value: page.entry
+  - label: 'See'
+    value: page.see
+  - label: 'Add'
+    value: page.add
+  - label: 'Page'
+    value: page.page
+  - label: 'Insertion'
+    value: page.insertion_xref
+  - label: 'Issue'
+    value: page.issue
+  - label: 'Full Page'
+    value: page.location
 ---
-
-<a href="{{ page.selection }}"><img src="{{ page.selection }}"/></a><br>
-
-Image Number: {{ page.volume }}, Image {{ page.image_number }}<br>
-Head: {{ page.head }}<br>
-{% if page.entry %}
-  Entry: {{ page.entry }}<br>
-{% endif %}
-{% if page.see %}
-  See: {{ page.see }}<br>
-{% endif %}
-{% if page.add %}
-  Add: {{ page.add }}<br>
-{% endif %}
-{% if page.page %}
-  Page: {{ page.page }}<br>
-{% endif %}
-{% if page.insertion_xref %}
-  Insertion: {{ page.insertion_xref }}<br>
-{% endif %}
-{% if page.issue %}
-  Issue: {{ page.issue }}<br>
-{% endif %}
-{{ page.location }}
