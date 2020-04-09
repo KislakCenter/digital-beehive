@@ -30,28 +30,28 @@ Abbreviating 1480
 
 I then described my process step-by-step each day. Here is my first log entry that begins as if in mid-conversation:
 
-_4/12/17_
+>4/12/17
 
-_I then started search for Abatement in Vol. 2.  I looked at **Image 269**.  There, at the top of the page, is Entry number 1326, but the Topic is "to debase". Close, but no cigar._  
+>I then started search for Abatement in Vol. 2.  I looked at **Image 269**.  There, at the top of the page, is Entry number 1326, but the Topic is "to debase". Close, but no cigar.   
 
 ![Entry 1326](https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0736/200,200,3500,1200/full/0/default.jpg)  
 
-_I double-checked the Index to see if I had correctly copied the number and topic. I had. So then I went into Vol 1. There is a 1326 on Image 377, it turns out, but there is no Topic specified. It is, rather, an anti-Pope statement beginning, "Pontifex in its vulgar acceptation signifies a priest". What?? In any case, I boxed "to debase" in Volume 2, just for fun._
+>I double-checked the Index to see if I had correctly copied the number and topic. I had. So then I went into Vol 1. There is a 1326 on Image 377, it turns out, but there is no Topic specified. It is, rather, an anti-Pope statement beginning, "Pontifex in its vulgar acceptation signifies a priest". What?? In any case, I boxed "to debase" in Volume 2, just for fun.
 
-_I decided to move onto the next one: abbott. 1424. This time, I started in Vol 1, but its 1424 is "\*1424. Post. 596. ] As it is with the Names of the Seas &." Clearly not what I'm looking for, so back to **Volume 2. in Image 288**, 1424 starts with a paragraph on Clothes, has another paragraph (also numbered "1424") on Education, and in between, this definition, "an abbott: An Abbess or Abbatess." OK! If that's what he has, then I'll take it, and so I boxed just that definition, leaving Clothes and Education for another time.  I also pulled the actual Beehive off the shelf to quickly confirm that there were no other number 1326s or 1424s hiding in the woodwork._
+>I decided to move onto the next one: abbott. 1424. This time, I started in Vol 1, but its 1424 is "\*1424. Post. 596. ] As it is with the Names of the Seas &." Clearly not what I'm looking for, so back to **Volume 2. in Image 288**, 1424 starts with a paragraph on Clothes, has another paragraph (also numbered "1424") on Education, and in between, this definition, "an abbott: An Abbess or Abbatess." OK! If that's what he has, then I'll take it, and so I boxed just that definition, leaving Clothes and Education for another time.  I also pulled the actual Beehive off the shelf to quickly confirm that there were no other number 1326s or 1424s hiding in the woodwork.
 
 ![Entry 1424](https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0755/200,3100,3500,1200/full/0/default.jpg)
 
-_I then moved on to "Abbreviating. 1480", and it was where I expected to find it: Image 299 of Volume 2._
+>I then moved on to "Abbreviating. 1480", and it was where I expected to find it: Image 299 of Volume 2.
 
-_All the above took 1.5 hours._
+>All the above took 1.5 hours.
 
-_I took a breath and started with the Ms version for "abhorring. 1320". Looked in volume 2 where it should be (**Image 267**), and it was not there. I surrendered for the day._
+>I took a breath and started with the Ms version for "abhorring. 1320". Looked in volume 2 where it should be (**Image 267**), and it was not there. I surrendered for the day.
 
 And so it continued for a month, with my portion of the entries under the letter “A”. Along the way, I discovered missing pages:
 
-_April. 4576_
+>April. 4576
 
-_**Missing** [That's a real shame, because I would like to have known what he said about me. :-)]_
+>**Missing** [That's a real shame, because I would like to have known what he said about me. :-)]
 
 I wound up creating a separate Excel sheet that logged the missing pages, which helped later Beehivers in creating the Table of Contents. I have since moved from intern to librarian, and while I no longer take an active role in annotating the Digital Beehive, I, and my running log, remain on hand to provide advice, encouragement and a bit of gentle humor now and again.  

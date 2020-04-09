@@ -631,3 +631,13 @@ search box
   width: 80px;
   height: 80px;
 }
+
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-left: .25rem solid #eceeef;
+  padding: .5rem 1rem;
+}
