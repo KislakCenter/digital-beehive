@@ -111,6 +111,10 @@ collections:
     metadata:
       source: master_toc.csv
 
+# beehive futures: add collection for transcriptions (short term)
+# beehive futures: modify ruby code for wax so that transcriptions are
+# automatically included as content on wax pages for toc (long term)
+
 # Configure the search function
 # Can make multiple indices, but Wax recommends against it.
 
@@ -199,6 +203,8 @@ search:
           - topic
           - xref
           - index
+
+# beehive futures: modify ruby code to automatically clean up search
 
 # site menu settings
 
