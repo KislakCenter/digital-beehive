@@ -3,7 +3,7 @@ pid: index_3972
 volume: Volume 3
 image_number: '45'
 head: sufferings
-entry: "<a href='/digital-beehive/alpha4/alpha_0924/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>498
+entry: "<a href='/digital-beehive/alpha4/alpha_0924/'>a</a>|<a href='/digital-beehive/num2/num_0626/'>498
   [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_263/'>1349 [Affliction]</a>|<a
   href='/digital-beehive/toc/toc2_367/'>2020 [Sufferings]</a>|<a href='/digital-beehive/toc/toc2_425/'>4467
   [Sufferings]</a>"
@@ -27,7 +27,7 @@ label: sufferings
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1220'
+order: '1221'
 layout: index_item
 collection: index4
 ---

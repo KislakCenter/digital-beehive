@@ -3,7 +3,7 @@ pid: index_0617
 volume: Volume 3
 image_number: '12'
 head: cheap
-entry: "<a href='/digital-beehive/toc/toc2_146/'>651 [Cheap]</a>|<a href='/digital-beehive/toc/toc2_408/'>2343
+entry: "<a href='/digital-beehive/num3/num_0895'>651 [Cheap]</a>|<a href='/digital-beehive/toc/toc2_408/'>2343
   [Cheap]</a>"
 topic: 
 first_letter: C

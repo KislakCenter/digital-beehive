@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0290/'>Equity</a>|<a href='/digital-beehive/alpha3/alpha_0476/'>Injust</a>|<a
   href='/digital-beehive/toc/toc2_267/'>1366 [Justice]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2142/'>justice</a>"
+index: "<a href='/digital-beehive/index3/index_2141/'>justice</a>"
 item: "#item-b2e356724"
 unparsed: 
 line: 'Entry: Justice|Topic: Justice|Xref: Equity|Xref: Injust|Xref: 1366 [Justice]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/269,66
 label: Justice
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '052'
 layout: alpha_item
 collection: alpha3

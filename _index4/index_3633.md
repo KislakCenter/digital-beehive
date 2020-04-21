@@ -3,7 +3,7 @@ pid: index_3633
 volume: Volume 3
 image_number: '42'
 head: to send
-entry: "<a href='/digital-beehive/toc/toc2_152/'>685 [To Send away]</a>"
+entry: "<a href='/digital-beehive/num3/num_0972'>685 [To Send away]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to send
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0881'
+order: '0882'
 layout: index_item
 collection: index4
 ---

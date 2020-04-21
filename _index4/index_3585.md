@@ -24,7 +24,7 @@ label: secret writing or num.
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0833'
+order: '0834'
 layout: index_item
 collection: index4
 ---

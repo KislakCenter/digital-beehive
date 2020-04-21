@@ -23,7 +23,7 @@ label: strange business
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1175'
+order: '1176'
 layout: index_item
 collection: index4
 ---

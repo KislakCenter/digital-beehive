@@ -2,8 +2,8 @@
 pid: index_3136
 volume: Volume 3
 image_number: '37'
-head: preservation
-entry: "<a href='/digital-beehive/toc/toc2_218/'>1124 [Preserved]</a>"
+head: press
+entry: "<a href='/digital-beehive/num2/num_0477/'>392 [Press]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-55f502f9b"
+item: "#item-bbadabb72"
 unparsed: 
-line: 'Head: preservation|Entry: 1124 [Preserved]|#item-55f502f9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/76,628,680,156/full/0/default.jpg
+line: 'Head: press|Entry: 392 [Press]|#item-bbadabb72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/101,743,379,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550865983609
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204382778
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/76,628,680,156/150,/0/default.jpg
-label: preservation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/101,743,379,135/150,/0/default.jpg
+label: press
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0384'
+order: '0385'
 layout: index_item
 collection: index4
 ---

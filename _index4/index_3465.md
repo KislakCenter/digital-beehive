@@ -24,7 +24,7 @@ label: rules
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0713'
+order: '0714'
 layout: index_item
 collection: index4
 ---

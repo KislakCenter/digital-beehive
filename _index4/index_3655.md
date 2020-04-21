@@ -3,7 +3,7 @@ pid: index_3655
 volume: Volume 3
 image_number: '42'
 head: shadow
-entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/toc/toc2_145/'>641
+entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/num3/num_0872'>641
   [the Shadow]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: shadow
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0903'
+order: '0904'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_1466
 volume: Volume 3
 image_number: '20'
-head: fish pond
+head: "[:52.]"
 entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3569/'>sea</a>"
+see: 
 index: 
-item: "#item-c8f89c40f"
-unparsed: 
-line: 'Head: fish pond|See: sea|#item-c8f89c40f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1792,1879,556,179/full/0/default.jpg
+item: "#item-23667846e"
+unparsed: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
+line: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615035307
+annotation_uri: http://dev.llgc.org.uk/annotation/1562000917387
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1792,1879,556,179/150,/0/default.jpg
-label: fish pond
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/150,/0/default.jpg
+label: "[:52.]"
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '284'
+insertion_xref: "<a href='/digital-beehive/index5/index_4720/'><</a>"
+order: '285'
 layout: index_item
 collection: index2
 ---

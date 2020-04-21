@@ -3,7 +3,7 @@ pid: index_0310
 volume: Volume 3
 image_number: '9'
 head: battery
-entry: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>"
+entry: "<a href='/digital-beehive/num3/num_1031'>708 [Beating]</a>"
 topic: 
 first_letter: B
 page: 

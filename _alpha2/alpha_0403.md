@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_295/'>1506 [Health]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1777/'>health</a>"
+index: "<a href='/digital-beehive/index2/index_1776/'>health</a>"
 item: "#item-f7f321a7a"
 unparsed: 
 line: 'Entry: Health|Topic: Health|Xref: 1506 [Health]|Index: health|#item-f7f321a7a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/370,23
 label: Health
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '134'
 layout: alpha_item
 collection: alpha2

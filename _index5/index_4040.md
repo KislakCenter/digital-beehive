@@ -3,7 +3,7 @@ pid: index_4040
 volume: Volume 3
 image_number: '46'
 head: tabernacle
-entry: "<a href='/digital-beehive/toc/toc2_134/'>582 [Articles of faith]</a>"
+entry: "<a href='/digital-beehive/num3/num_0749'>582 [Tents]</a>"
 topic: 
 first_letter: T
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-4166e5676"
 unparsed: 
-line: 'Head: tabernacle|Entry: 582 [Articles of faith]|#item-4166e5676'
+line: 'Head: tabernacle|Entry: 582 [Tents]|#item-4166e5676'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1832,553,543,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531742286333

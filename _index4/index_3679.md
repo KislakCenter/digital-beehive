@@ -23,7 +23,7 @@ label: shirt
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0927'
+order: '0928'
 layout: index_item
 collection: index4
 ---

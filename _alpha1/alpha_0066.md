@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/407,43
 label: Bean
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '065'
 layout: alpha_item
 collection: alpha1

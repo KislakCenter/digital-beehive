@@ -2,8 +2,8 @@
 pid: index_2923
 volume: Volume 3
 image_number: '34'
-head: patriots
-entry: "<a href='/digital-beehive/toc/toc2_272/'>1394 [Patriots]</a>"
+head: patron
+entry: 1870 [PAGE_MISSING]
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-600277d89"
+item: "#item-ec43fd8c6"
 unparsed: 
-line: 'Head: patriots|Entry: 1394 [Patriots]|#item-600277d89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/full/0/default.jpg
+line: 'Head: patron|Entry: 1870 [PAGE_MISSING]|#item-ec43fd8c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,2219,541,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495692384
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495715166
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/150,/0/default.jpg
-label: patriots
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,2219,541,130/150,/0/default.jpg
+label: patron
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0171'
+order: '0172'
 layout: index_item
 collection: index4
 ---

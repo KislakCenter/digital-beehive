@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1277/'>envy</a>"
+see: "<a href='/digital-beehive/index2/index_1276/'>envy</a>"
 index: 
 item: "#item-b785141a6"
 unparsed: 
@@ -23,7 +23,7 @@ label: rival
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0683'
+order: '0684'
 layout: index_item
 collection: index4
 ---

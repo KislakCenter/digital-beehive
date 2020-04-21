@@ -3,7 +3,7 @@ pid: index_3542
 volume: Volume 3
 image_number: '41'
 head: to scatter
-entry: "<a href='/digital-beehive/num2/num_0601/'>485 [to Scatter]</a>"
+entry: "<a href='/digital-beehive/num2/num_0606/'>485 [to Scatter]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to scatter
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0790'
+order: '0791'
 layout: index_item
 collection: index4
 ---

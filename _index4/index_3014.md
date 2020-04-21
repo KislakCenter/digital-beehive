@@ -2,8 +2,8 @@
 pid: index_3014
 volume: Volume 3
 image_number: '35'
-head: pindapus
-entry: 4782 [PAGE_MISSING]
+head: "[:31.]"
+entry: 
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-792fcf7eb"
-unparsed: 
-line: 'Head: pindapus|Entry: 4782 [PAGE_MISSING]|#item-792fcf7eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,1687,804,214/full/0/default.jpg
+item: "#item-d81cc2858"
+unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+line: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976624865
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277282189
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,1687,804,214/150,/0/default.jpg
-label: pindapus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/150,/0/default.jpg
+label: "[:31.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '0262'
+insertion_xref: "<a href='/digital-beehive/index5/index_4696/'><</a>|<a href='/digital-beehive/index5/index_4697/'><</a>|<a
+  href='/digital-beehive/index5/index_4698/'><</a>"
+order: '0263'
 layout: index_item
 collection: index4
 ---

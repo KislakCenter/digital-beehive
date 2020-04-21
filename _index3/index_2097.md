@@ -2,8 +2,9 @@
 pid: index_2097
 volume: Volume 3
 image_number: '26'
-head: invocation of Saints
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1906 [Invocation of Saints]</a>"
+head: inward
+entry: "<a href='/digital-beehive/num2/num_0610/'>489 [Turn in!]</a>|<a href='/digital-beehive/toc/toc2_400/'>2281
+  [Turn in. Inward]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4ef806d6f"
+item: "#item-af7c595b4"
 unparsed: 
-line: 'Head: invocation of Saints|Entry: 1906 [Invocation of Saints]|#item-4ef806d6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/full/0/default.jpg
+line: 'Head: inward|Entry: 489 [Turn in!]|Entry: 2281 [Turn in. Inward]|#item-af7c595b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1871,1789,554,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751692486
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751844981
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/150,/0/default.jpg
-label: invocation of Saints
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1871,1789,554,134/150,/0/default.jpg
+label: inward
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '178'
+order: '179'
 layout: index_item
 collection: index3
 ---

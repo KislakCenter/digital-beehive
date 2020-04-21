@@ -24,7 +24,7 @@ label: spiritual pride
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1099'
+order: '1100'
 layout: index_item
 collection: index4
 ---

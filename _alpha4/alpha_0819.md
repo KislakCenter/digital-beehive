@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0322/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0797/'>rest</a>|<a
-  href='/digital-beehive/alpha4/alpha_0927/'>Sunday</a>|<a href='/digital-beehive/toc/toc2_173/'>930
+  href='/digital-beehive/alpha4/alpha_0927/'>Sunday</a>|<a href='/digital-beehive/num4/num_1239'>930
   [Sabbath]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3475/'>Sabbath</a>"
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/324,25
 label: Sabbath
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '171'
 layout: alpha_item
 collection: alpha4

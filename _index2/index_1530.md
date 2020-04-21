@@ -2,8 +2,8 @@
 pid: index_1530
 volume: Volume 3
 image_number: '21'
-head: 'Geo: Fox'
-entry: "<a href='/digital-beehive/toc/toc2_130/'>563 [George Fox]</a>"
+head: fragments
+entry: "<a href='/digital-beehive/num3/num_1053'>716 [Rest]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4c0eb99da"
+item: "#item-43fd4f8c7"
 unparsed: 
-line: 'Head: Geo: Fox|Entry: 563 [George Fox]|#item-4c0eb99da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/863,1321,497,123/full/0/default.jpg
+line: 'Head: fragments|Entry: 716 [Rest]|#item-43fd4f8c7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/868,1435,555,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763238609
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783004988
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/863,1321,497,123/150,/0/default.jpg
-label: 'Geo: Fox'
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/868,1435,555,125/150,/0/default.jpg
+label: fragments
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '348'
+order: '349'
 layout: index_item
 collection: index2
 ---

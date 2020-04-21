@@ -2,9 +2,9 @@
 pid: index_1765
 volume: Volume 3
 image_number: '23'
-head: haste
-entry: "<a href='/digital-beehive/alpha2/alpha_0399/'>a</a>|<a href='/digital-beehive/toc/toc2_165/'>886
-  [Haste]</a>"
+head: hat
+entry: "<a href='/digital-beehive/alpha2/alpha_0400/'>a</a>|<a href='/digital-beehive/num1/num_0224/'>213
+  [Hat]</a>|785 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_413/'>2385 [Hat]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b2255b41b"
+item: "#item-274c61644"
 unparsed: 
-line: 'Head: haste|Entry: a|Entry: 886 [Haste]|#item-b2255b41b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/839,2427,433,112/full/0/default.jpg
+line: 'Head: hat|Entry: a|Entry: 213 [Hat]|Entry: 785 [PAGE_MISSING]|Entry: 2385 [Hat]|#item-274c61644'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,2566,601,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240825725
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240987791
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/839,2427,433,112/150,/0/default.jpg
-label: haste
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,2566,601,132/150,/0/default.jpg
+label: hat
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '582'
+order: '583'
 layout: index_item
 collection: index2
 ---

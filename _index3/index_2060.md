@@ -2,9 +2,8 @@
 pid: index_2060
 volume: Volume 3
 image_number: '26'
-head: insensibleness
-entry: "<a href='/digital-beehive/alpha3/alpha_0480/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1070
-  [Insensible]</a>"
+head: inseparable
+entry: "<a href='/digital-beehive/num3/num_0652'>521 [Inseparable]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-03ea224b4"
+item: "#item-a4bfbc2ba"
 unparsed: 
-line: 'Head: insensibleness|Entry: a|Entry: 1070 [Insensible]|#item-03ea224b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1161,1008,616,175/full/0/default.jpg
+line: 'Head: inseparable|Entry: 521 [Inseparable]|#item-a4bfbc2ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1166,482,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747501560
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747613735
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1161,1008,616,175/150,/0/default.jpg
-label: insensibleness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1166,482,140/150,/0/default.jpg
+label: inseparable
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '141'
+order: '142'
 layout: index_item
 collection: index3
 ---

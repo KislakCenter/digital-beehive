@@ -2,24 +2,24 @@
 pid: index_0741
 volume: Volume 3
 image_number: '13'
-head: com[m]iseration
+head: com[m]ons
 entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0757/'>compass</a>"
+see: "<a href='/digital-beehive/index4/index_2913/'>pasture</a>"
 index: 
-item: "#item-1df33587f"
+item: "#item-a96fc89d4"
 unparsed: 
-line: 'Head: com[m]iseration|See: compass|#item-1df33587f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2202,771,126/full/0/default.jpg
+line: 'Head: com[m]ons|See: pasture|#item-a96fc89d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2288,612,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611539456
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611567642
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2202,771,126/150,/0/default.jpg
-label: com[m]iseration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,2288,612,96/150,/0/default.jpg
+label: com[m]ons
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

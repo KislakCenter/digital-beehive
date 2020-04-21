@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|<a href='/digital
   href='/digital-beehive/alpha1/alpha_0155/'>Comfort</a>|<a href='/digital-beehive/toc/toc2_281/'>1436
   [Commiseration]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0759/'>compassion</a>"
+index: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"
 item: "#item-69f0cc6f4"
 unparsed: 
 line: 'Entry: Compassion|Topic: Compassion|Xref: Mercy|Xref: Quarter|Xref: misery|Xref:
@@ -26,6 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,22
 label: Compassion
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '161'
 layout: alpha_item
 collection: alpha1

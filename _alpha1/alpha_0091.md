@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/379,35
 label: Boldness
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '090'
 layout: alpha_item
 collection: alpha1

@@ -2,8 +2,8 @@
 pid: index_2631
 volume: Volume 3
 image_number: '31'
-head: n[ae]
-entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [ru]</a>"
+head: nail
+entry: 794 [PAGE_MISSING]
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e16dbdbb4"
+item: "#item-3ba9191e3"
 unparsed: 
-line: 'Head: n[ae]|Entry: 2267 [ru]|#item-e16dbdbb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/full/0/default.jpg
+line: 'Head: nail|Entry: 794 [PAGE_MISSING]|#item-3ba9191e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1537,3188,301,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362942578
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362987453
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/150,/0/default.jpg
-label: n[ae]
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1537,3188,301,134/150,/0/default.jpg
+label: nail
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '712'
+order: '713'
 layout: index_item
 collection: index3
 ---

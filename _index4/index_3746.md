@@ -3,7 +3,7 @@ pid: index_3746
 volume: Volume 3
 image_number: '43'
 head: sleep
-entry: "<a href='/digital-beehive/alpha4/alpha_0885/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>925
+entry: "<a href='/digital-beehive/alpha4/alpha_0885/'>a</a>|<a href='/digital-beehive/num4/num_1226'>925
   [Sleep]</a>|<a href='/digital-beehive/toc/toc2_228/'>1172 [Sleep]</a>|4723 [PAGE_MISSING]"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: sleep
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0994'
+order: '0995'
 layout: index_item
 collection: index4
 ---

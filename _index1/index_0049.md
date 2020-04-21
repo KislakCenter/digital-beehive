@@ -3,7 +3,7 @@ pid: index_0049
 volume: Volume 3
 image_number: '7'
 head: adversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0010/'>a</a>|<a href='/digital-beehive/toc/toc2_158/'>712
+entry: "<a href='/digital-beehive/alpha1/alpha_0010/'>a</a>|<a href='/digital-beehive/num3/num_1039'>712
   [Adversity]</a>|<a href='/digital-beehive/toc/toc2_208/'>1074 [Adversity]</a>|<a
   href='/digital-beehive/toc/toc2_241/'>1238 [Adversity]</a>"
 topic: 

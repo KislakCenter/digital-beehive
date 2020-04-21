@@ -3,7 +3,7 @@ pid: index_3911
 volume: Volume 3
 image_number: '45'
 head: stones
-entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/toc/toc2_136/'>596
+entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/num3/num_0775'>596
   [The Stone Gravel of the Kidneys]</a>|<a href='/digital-beehive/toc/toc2_377/'>2116
   [Stones]</a>"
 topic: 
@@ -26,7 +26,7 @@ label: stones
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1159'
+order: '1160'
 layout: index_item
 collection: index4
 ---

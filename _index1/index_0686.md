@@ -3,7 +3,7 @@ pid: index_0686
 volume: Volume 3
 image_number: '13'
 head: cleanness
-entry: "<a href='/digital-beehive/toc/toc2_137/'>598 [Cleanliness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0781'>598 [Cleanliness]</a>"
 topic: 
 first_letter: C
 page: 

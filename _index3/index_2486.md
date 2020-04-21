@@ -2,9 +2,9 @@
 pid: index_2486
 volume: Volume 3
 image_number: '30'
-head: merchants rules
-entry: "<a href='/digital-beehive/toc/toc2_286/'>1463 [One friend Counsel the other
-  who newly begun to Merchandize]</a>"
+head: merchandize
+entry: "<a href='/digital-beehive/alpha3/alpha_0586/'>a</a>|<a href='/digital-beehive/num1/num_0113/'>109
+  [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1044'>714 [Market]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,20 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-11c4111c8"
+item: "#item-630404bd4"
 unparsed: 
-line: 'Head: merchants rules|Entry: 1463 [One friend Counsel the other who newly begun
-  to Merchandize]|#item-11c4111c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,2417,504,106/full/0/default.jpg
+line: 'Head: merchandize|Entry: a|Entry: 109 [A Shop keeper]|Entry: 714 [Market]|#item-630404bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1126,2507,728,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268838907
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269101651
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,2417,504,106/150,/0/default.jpg
-label: merchants rules
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1126,2507,728,153/150,/0/default.jpg
+label: merchandize
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '567'
+order: '568'
 layout: index_item
 collection: index3
 ---

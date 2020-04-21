@@ -2,10 +2,8 @@
 pid: index_2918
 volume: Volume 3
 image_number: '34'
-head: patience
-entry: "<a href='/digital-beehive/alpha4/alpha_0688/'>a</a>|<a href='/digital-beehive/toc/toc2_122/'>509
-  [Patience]</a>|<a href='/digital-beehive/toc/toc2_280/'>1433 [Patience]</a>|<a href='/digital-beehive/toc/toc2_335/'>1701
-  [Patience]</a>"
+head: patres
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic: 
 first_letter: P
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1fce6256d"
+item: "#item-adf4d9f87"
 unparsed: 
-line: 'Head: patience|Entry: a|Entry: 509 [Patience]|Entry: 1433 [Patience]|Entry:
-  1701 [Patience]|#item-1fce6256d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,1785,729,203/full/0/default.jpg
+line: 'Head: patres|Entry: 73 [the Fathers]|#item-adf4d9f87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1812,1907,558,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495527488
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495553454
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,1785,729,203/150,/0/default.jpg
-label: patience
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1812,1907,558,139/150,/0/default.jpg
+label: patres
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0166'
+order: '0167'
 layout: index_item
 collection: index4
 ---

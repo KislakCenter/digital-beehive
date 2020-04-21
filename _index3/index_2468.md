@@ -2,9 +2,9 @@
 pid: index_2468
 volume: Volume 3
 image_number: '30'
-head: mediocrity
-entry: "<a href='/digital-beehive/alpha3/alpha_0581/'>a</a>|<a href='/digital-beehive/toc/toc2_214/'>1103
-  [Mediocrity]</a>"
+head: meditation
+entry: "<a href='/digital-beehive/alpha3/alpha_0582/'>a</a>|<a href='/digital-beehive/num4/num_1089'>868
+  [Meditation]</a>|4602 [PAGE_MISSING]"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b1e3af3b9"
+item: "#item-a553073b1"
 unparsed: 
-line: 'Head: mediocrity|Entry: a|Entry: 1103 [Mediocrity]|#item-b1e3af3b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/full/0/default.jpg
+line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267656083
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/150,/0/default.jpg
-label: mediocrity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/150,/0/default.jpg
+label: meditation
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '549'
+order: '550'
 layout: index_item
 collection: index3
 ---

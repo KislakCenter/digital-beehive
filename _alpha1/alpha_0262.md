@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_300/'>1526 [Drought or Driness]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1149/'>drieness</a>"
+index: "<a href='/digital-beehive/index1/index_1148/'>drieness</a>"
 item: "#item-edc1632ba"
 unparsed: 
 line: 'Entry: Drieness|Topic: Drieness|Xref: 1526 [Drought or Driness]|Index: drieness|#item-edc1632ba'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,47
 label: Drieness
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '261'
+also_in_entry: 
+order: '260'
 layout: alpha_item
 collection: alpha1
 ---

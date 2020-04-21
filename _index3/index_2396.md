@@ -2,28 +2,28 @@
 pid: index_2396
 volume: Volume 3
 image_number: '29'
-head: malediction
-entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>"
+head: malefactor
+entry: 
 topic: 
 first_letter: M
-page: 
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-733efa96c"
+item: "#item-ab8964f08"
 unparsed: 
-line: 'Head: malediction|Entry: a|#item-733efa96c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1546,802,491,99/full/0/default.jpg
+line: 'Head: malefactor|Page: p.42 [Image 1.102]|#item-ab8964f08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1540,890,510,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194090884
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194113695
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1546,802,491,99/150,/0/default.jpg
-label: malediction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1540,890,510,142/150,/0/default.jpg
+label: malefactor
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '477'
+order: '478'
 layout: index_item
 collection: index3
 ---

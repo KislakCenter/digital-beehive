@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-ea92a5a21"
 unparsed: 
-line: 'Head: tape|Entry: 348 [a Band, A Rope]|#item-ea92a5a21'
+line: 'Head: tape|Entry: 348 [a Band]|#item-ea92a5a21'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1834,2426,353,83/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531743252839

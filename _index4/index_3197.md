@@ -2,8 +2,9 @@
 pid: index_3197
 volume: Volume 3
 image_number: '37'
-head: prophanation
-entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>"
+head: prophets
+entry: "<a href='/digital-beehive/alpha4/alpha_0750/'>a</a>|<a href='/digital-beehive/num4/num_1332'>1000
+  [Prophets]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3b30bbbd2"
+item: "#item-18936ccab"
 unparsed: 
-line: 'Head: prophanation|Entry: a|#item-3b30bbbd2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,779,579,127/full/0/default.jpg
+line: 'Head: prophets|Entry: a|Entry: 1000 [Prophets]|#item-18936ccab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,903,580,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565204696469
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869156410
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1478,779,579,127/150,/0/default.jpg
-label: prophanation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1498,903,580,175/150,/0/default.jpg
+label: prophets
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0445'
+order: '0446'
 layout: index_item
 collection: index4
 ---

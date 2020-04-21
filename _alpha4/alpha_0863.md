@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,16
 label: Shamefacedness
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '215'
 layout: alpha_item
 collection: alpha4

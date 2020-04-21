@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0310/'>276 [Original Sin]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2826/'>original Sin</a>"
+index: "<a href='/digital-beehive/index4/index_2825/'>original Sin</a>"
 item: "#item-9576f643d"
 unparsed: 
 line: 'Entry: Original Sin|Topic: Original Sin|Xref: 276 [Original Sin]|Index: original
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/766,49
 label: Original Sin
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '019'
 layout: alpha_item
 collection: alpha4

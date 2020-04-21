@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/861,37
 label: Caution
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '130'
 layout: alpha_item
 collection: alpha1

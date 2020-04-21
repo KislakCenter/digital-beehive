@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2622/'>must</a>"
+index: "<a href='/digital-beehive/index3/index_2621/'>must</a>"
 item: "#item-8ed5b0e78"
 unparsed: 
 line: 'Entry: Must|Topic: Must|Index: must|#item-8ed5b0e78'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/736,43
 label: Must
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '177'
 layout: alpha_item
 collection: alpha3

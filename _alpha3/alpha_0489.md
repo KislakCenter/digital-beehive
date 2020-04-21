@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2123/'>island</a>"
+index: "<a href='/digital-beehive/index3/index_2122/'>island</a>"
 item: "#item-a2deb4cdb"
 unparsed: 
 line: 'Entry: Island|Topic: Island|Index: island|#item-a2deb4cdb'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,31
 label: Island
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '045'
 layout: alpha_item
 collection: alpha3

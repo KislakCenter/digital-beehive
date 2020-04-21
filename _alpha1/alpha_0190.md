@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0893/'>cradle</a>"
+index: "<a href='/digital-beehive/index1/index_0892/'>cradle</a>"
 item: "#item-fe1918287"
 unparsed: 
 line: 'Entry: Cradle|Topic: Cradle|Index: cradle|#item-fe1918287'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/793,88
 label: Cradle
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '189'
 layout: alpha_item
 collection: alpha1

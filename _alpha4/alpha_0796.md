@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/356,39
 label: Resistance
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: The point of reference for "fielding" is unclear.
+also_in_entry: 
 order: '148'
 layout: alpha_item
 collection: alpha4

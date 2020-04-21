@@ -2,28 +2,29 @@
 pid: index_3257
 volume: Volume 3
 image_number: '38'
-head: Queen
-entry: 
+head: queries
+entry: "<a href='/digital-beehive/alpha4/alpha_0765/'>a</a>|<a href='/digital-beehive/toc/toc2_205/'>1058
+  [Queries]</a>"
 topic: 
 first_letter: Q
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2162/'>king</a>"
+see: 
 index: 
-item: "#item-1a4a2e57e"
+item: "#item-60cd65c2a"
 unparsed: 
-line: 'Head: Queen|See: king|#item-1a4a2e57e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1154,543,520,174/full/0/default.jpg
+line: 'Head: queries|Entry: a|Entry: 1058 [Queries]|#item-60cd65c2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1171,697,540,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455056347
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455081491
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1154,543,520,174/150,/0/default.jpg
-label: Queen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1171,697,540,128/150,/0/default.jpg
+label: queries
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0505'
+order: '0506'
 layout: index_item
 collection: index4
 ---

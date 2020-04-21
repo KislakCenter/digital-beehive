@@ -8,7 +8,7 @@ topic: Skin
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_147/'>654 [Hide]</a>"
+xref: "<a href='/digital-beehive/num3/num_0901'>654 [Hide]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3741/'>skin</a>"
 item: "#item-4c481d25a"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/323,36
 label: Skin
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '235'
 layout: alpha_item
 collection: alpha4

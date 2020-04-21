@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/330,61
 label: Wind
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 issue: 
-order: '102'
+also_in_entry: 
+order: '103'
 layout: alpha_item
 collection: alpha5
 ---

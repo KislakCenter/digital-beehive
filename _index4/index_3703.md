@@ -3,7 +3,7 @@ pid: index_3703
 volume: Volume 3
 image_number: '43'
 head: sign
-entry: "<a href='/digital-beehive/num1/num_0164/'>158 [Sign]</a>|<a href='/digital-beehive/toc/toc2_166/'>892
+entry: "<a href='/digital-beehive/num1/num_0164/'>158 [Sign]</a>|<a href='/digital-beehive/num4/num_1154'>892
   [Mark]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: sign
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0951'
+order: '0952'
 layout: index_item
 collection: index4
 ---

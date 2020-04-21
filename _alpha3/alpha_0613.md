@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physician</a>|Juggling|<a href='/digital-beehive/toc/toc2_260/'>1333
   [Mountebank]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2604/'>mountebank</a>"
+index: "<a href='/digital-beehive/index3/index_2603/'>mountebank</a>"
 item: "#item-0d4c7cfeb"
 unparsed: 
 line: 'Entry: Mountebank|Topic: Mountebank|Xref: Physician|Xref: Juggling|Xref: 1333
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/724,14
 label: Mountebank
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '169'
 layout: alpha_item
 collection: alpha3

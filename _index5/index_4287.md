@@ -3,7 +3,7 @@ pid: index_4287
 volume: Volume 3
 image_number: '49'
 head: vagabonds
-entry: "<a href='/digital-beehive/alpha5/alpha_0986/'>a</a>|<a href='/digital-beehive/toc/toc2_142/'>623
+entry: "<a href='/digital-beehive/alpha5/alpha_0986/'>a</a>|<a href='/digital-beehive/num3/num_0840'>623
   [Vagabond]</a>"
 topic: 
 first_letter: U/V

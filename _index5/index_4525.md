@@ -3,7 +3,7 @@ pid: index_4525
 volume: Volume 3
 image_number: '52'
 head: wheat
-entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Barley]</a>"
+entry: "<a href='/digital-beehive/num3/num_0918'>664 [Barley]</a>"
 topic: 
 first_letter: W
 page: 

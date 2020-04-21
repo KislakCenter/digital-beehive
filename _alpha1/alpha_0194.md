@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0117/'>Capital offence</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0908/'>crime</a>"
+index: "<a href='/digital-beehive/index1/index_0907/'>crime</a>"
 item: "#item-3c2215f76"
 unparsed: 
 line: 'Entry: Crime|Topic: Crime|Xref: Capital offence|Index: crime|#item-3c2215f76'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/800,24
 label: Crime
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '193'
 layout: alpha_item
 collection: alpha1

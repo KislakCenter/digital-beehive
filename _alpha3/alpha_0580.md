@@ -8,10 +8,10 @@ topic: Medicine
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physicians</a>|<a href='/digital-beehive/toc/toc2_149/'>665
+xref: "<a href='/digital-beehive/alpha4/alpha_0704/'>Physicians</a>|<a href='/digital-beehive/num3/num_0922'>665
   [Medicines]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2465/'>medicine</a>"
+index: "<a href='/digital-beehive/index3/index_2464/'>medicine</a>"
 item: "#item-15f8415ce"
 unparsed: 
 line: 'Entry: Medicine|Topic: Medicine|Xref: Physicians|Xref: 665 [Medicines]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/782,19
 label: Medicine
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '136'
 layout: alpha_item
 collection: alpha3

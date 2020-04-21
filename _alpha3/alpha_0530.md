@@ -8,9 +8,9 @@ topic: Letter
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0596/'>481 [Letter]</a>"
+xref: "<a href='/digital-beehive/num2/num_0601/'>481 [Letter]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2263/'>letter</a>"
+index: "<a href='/digital-beehive/index3/index_2262/'>letter</a>"
 item: "#item-0d1852435"
 unparsed: 
 line: 'Entry: Letter|Topic: Letter|Xref: 481 [Letter]|Index: letter|#item-0d1852435'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/368,30
 label: Letter
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '086'
 layout: alpha_item
 collection: alpha3

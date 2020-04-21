@@ -2,10 +2,8 @@
 pid: index_1751
 volume: Volume 3
 image_number: '23'
-head: happiness of the wicked
-entry: "<a href='/digital-beehive/alpha2/alpha_0394/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>923
-  [Blessings of God are upon the wicked]</a>|<a href='/digital-beehive/toc/toc2_339/'>1745
-  [Happiness of the Wicked]</a>"
+head: to happen
+entry: 833 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-293f79414"
+item: "#item-f17e1fb5f"
 unparsed: 
-line: 'Head: happiness of the wicked|Entry: a|Entry: 923 [Blessings of God are upon
-  the wicked]|Entry: 1745 [Happiness of the Wicked]|#item-293f79414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/full/0/default.jpg
+line: 'Head: to happen|Entry: 833 [PAGE_MISSING]|#item-f17e1fb5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/831,1303,483,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239433405
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239476518
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/150,/0/default.jpg
-label: happiness of the wicked
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/831,1303,483,141/150,/0/default.jpg
+label: to happen
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '568'
+order: '569'
 layout: index_item
 collection: index2
 ---

@@ -2,9 +2,9 @@
 pid: index_2819
 volume: Volume 3
 image_number: '33'
-head: order
-entry: "<a href='/digital-beehive/alpha4/alpha_0665/'>a</a>|<a href='/digital-beehive/num1/num_0233/'>221
-  [Order]</a>|4534 [PAGE_MISSING]"
+head: Sacramt of Os or Ordination
+entry: "<a href='/digital-beehive/num1/num_0232/'>221 [Sacrament of Orders]</a>|<a
+  href='/digital-beehive/toc/toc2_346/'>1805 [Ordination]</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,19 +12,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5473ff7fb"
+item: "#item-e04676ea4"
 unparsed: 
-line: 'Head: order|Entry: a|Entry: 221 [Order]|Entry: 4534 [PAGE_MISSING]|#item-5473ff7fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1508,2090,725,172/full/0/default.jpg
+line: 'Head: Sacramt of Os or Ordination|Entry: 221 [Sacrament of Orders]|Entry: 1805
+  [Ordination]|#item-e04676ea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1475,2187,769,196/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538162833869
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163014319
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1508,2090,725,172/150,/0/default.jpg
-label: order
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1475,2187,769,196/150,/0/default.jpg
+label: Sacramt of Os or Ordination
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0067'
+order: '0068'
 layout: index_item
 collection: index4
 ---

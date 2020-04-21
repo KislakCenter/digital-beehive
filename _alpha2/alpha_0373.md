@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4620 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1670/'>goose</a>"
+index: "<a href='/digital-beehive/index2/index_1669/'>goose</a>"
 item: "#item-f4a62f2a9"
 unparsed: 
 line: 'Entry: Goose|Topic: Goose|Xref: 4620 [PAGE_MISSING]|Index: goose|#item-f4a62f2a9'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/347,20
 label: Goose
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '104'
 layout: alpha_item
 collection: alpha2

@@ -2,28 +2,29 @@
 pid: index_1419
 volume: Volume 3
 image_number: '20'
-head: favorite
-entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
+head: fear
+entry: "<a href='/digital-beehive/alpha2/alpha_0320/'>a</a>|<a href='/digital-beehive/num3/num_0721'>566
+  [Fear]</a>|<a href='/digital-beehive/toc/toc2_225/'>1157 [Fear]</a>|1888 [PAGE_MISSING]"
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0950/'>Darling</a>"
+see: 
 index: 
-item: "#item-8bf586100"
+item: "#item-e0adff636"
 unparsed: 
-line: 'Head: favorite|See: Darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-8bf586100'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/full/0/default.jpg
+line: 'Head: fear|Entry: a|Entry: 566 [Fear]|Entry: 1157 [Fear]|Entry: 1888 [PAGE_MISSING]|#item-e0adff636'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1014,658,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661722756
+annotation_uri: http://dev.llgc.org.uk/annotation/1562091480644
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/150,/0/default.jpg
-label: favorite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1125,1014,658,184/150,/0/default.jpg
+label: fear
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '237'
+order: '238'
 layout: index_item
 collection: index2
 ---

@@ -8,9 +8,9 @@ topic: Lawyer
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_130/'>559 [Lawyer]</a>"
+xref: "<a href='/digital-beehive/num3/num_0711'>559 [Lawyer]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2226/'>lawyer</a>"
+index: "<a href='/digital-beehive/index3/index_2225/'>lawyer</a>"
 item: "#item-5ced3abcf"
 unparsed: 
 line: 'Entry: Lawyer|Topic: Lawyer|Xref: 559 [Lawyer]|Index: lawyer|#item-5ced3abcf'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,67
 label: Lawyer
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '078'
 layout: alpha_item
 collection: alpha3

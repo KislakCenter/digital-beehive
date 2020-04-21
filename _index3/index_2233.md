@@ -2,8 +2,8 @@
 pid: index_2233
 volume: Volume 3
 image_number: '28'
-head: leaf
-entry: "<a href='/digital-beehive/toc/toc2_202/'>1044 [Books]</a>"
+head: to leak
+entry: "<a href='/digital-beehive/num2/num_0447/'>371 [Leak or leakage]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0ba291921"
+item: "#item-630d10951"
 unparsed: 
-line: 'Head: leaf|Entry: 1044 [Books]|#item-0ba291921'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,1295,381,156/full/0/default.jpg
+line: 'Head: to leak|Entry: 371 [Leak or leakage]|#item-630d10951'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841923531
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841975506
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,1295,381,156/150,/0/default.jpg
-label: leaf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/150,/0/default.jpg
+label: to leak
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '314'
+order: '315'
 layout: index_item
 collection: index3
 ---

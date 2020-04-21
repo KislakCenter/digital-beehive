@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2934/'>pear</a>"
+index: "<a href='/digital-beehive/index4/index_2933/'>pear</a>"
 item: "#item-f35170c5e"
 unparsed: 
 line: 'Entry: Pear|Topic: Pear|Index: pear|#item-f35170c5e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/323,36
 label: Pear
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '047'
 layout: alpha_item
 collection: alpha4

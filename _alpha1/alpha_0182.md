@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_236/'>1215 [Counsel]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0872/'>counsel</a>"
+index: "<a href='/digital-beehive/index1/index_0871/'>counsel</a>"
 item: "#item-8f11e5fdd"
 unparsed: 
 line: 'Entry: Counsel|Topic: Counsel|Xref: 1215 [Counsel]|Index: counsel|#item-8f11e5fdd'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/308,21
 label: Counsel
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '181'
 layout: alpha_item
 collection: alpha1

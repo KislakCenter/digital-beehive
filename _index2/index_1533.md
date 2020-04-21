@@ -2,29 +2,28 @@
 pid: index_1533
 volume: Volume 3
 image_number: '21'
-head: fraud
-entry: "<a href='/digital-beehive/alpha2/alpha_0346/'>a</a>|<a href='/digital-beehive/num2/num_0466/'>384
-  [Fraud]</a>|<a href='/digital-beehive/toc/toc2_221/'>1137 [Fraud]</a>"
+head: freely
+entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1697/'>gratis</a>"
 index: 
-item: "#item-f7810c3e4"
+item: "#item-75b54205e"
 unparsed: 
-line: 'Head: fraud|Entry: a|Entry: 384 [Fraud]|Entry: 1137 [Fraud]|#item-f7810c3e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/full/0/default.jpg
+line: 'Head: freely|See: gratis|#item-75b54205e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/882,1653,455,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622910533
+annotation_uri: http://dev.llgc.org.uk/annotation/1531763392292
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/869,1552,599,149/150,/0/default.jpg
-label: fraud
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/882,1653,455,91/150,/0/default.jpg
+label: freely
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '351'
+order: '352'
 layout: index_item
 collection: index2
 ---

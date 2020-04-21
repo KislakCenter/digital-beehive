@@ -23,7 +23,7 @@ label: sun rising, setting
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1231'
+order: '1232'
 layout: index_item
 collection: index4
 ---

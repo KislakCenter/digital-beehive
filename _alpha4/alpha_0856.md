@@ -8,8 +8,7 @@ topic: Sense
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0480/'>Insensibleness</a>|<a href='/digital-beehive/toc/toc2_181/'>971
-  [NUMERICAL_ENTRY_MISSING]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0480/'>Insensibleness</a>|971 [Sense]"
 see: 
 index: "<a href='/digital-beehive/index4/index_3635/'>sense</a>"
 item: "#item-9c30c8a87"
@@ -24,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/291,44
 label: Sense
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '208'
 layout: alpha_item
 collection: alpha4

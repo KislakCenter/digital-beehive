@@ -2,24 +2,24 @@
 pid: index_0720
 volume: Volume 3
 image_number: '13'
-head: collation
-entry: 
+head: collections
+entry: "<a href='/digital-beehive/num3/num_0695'>551 [Collections]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0792/'>confront</a>"
+see: 
 index: 
-item: "#item-e1e6eb693"
+item: "#item-ac86eb66c"
 unparsed: 
-line: 'Head: collation|See: confront|#item-e1e6eb693'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/849,3564,687,125/full/0/default.jpg
+line: 'Head: collections|Entry: 551 [Collections]|#item-ac86eb66c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,241,493,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609187472
+annotation_uri: http://dev.llgc.org.uk/annotation/1536609666880
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/849,3564,687,125/150,/0/default.jpg
-label: collation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1555,241,493,92/150,/0/default.jpg
+label: collections
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

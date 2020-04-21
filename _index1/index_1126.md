@@ -2,25 +2,24 @@
 pid: index_1126
 volume: Volume 3
 image_number: '17'
-head: dog
-entry: "<a href='/digital-beehive/alpha1/alpha_0257/'>a</a>|<a href='/digital-beehive/toc/toc2_261/'>1338
-  [Dog]</a>"
+head: dog-days
+entry: "<a href='/digital-beehive/alpha1/alpha_0258/'>a</a>"
 topic: 
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-27ff12bcf"
+item: "#item-1c7c34bfe"
 unparsed: 
-line: 'Head: dog|Page: p.34 [Image 1.94]|Entry: a|Entry: 1338 [Dog]|#item-27ff12bcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/756,2876,640,158/full/0/default.jpg
+line: 'Head: dog-days|Entry: a|#item-1c7c34bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/793,2964,513,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367169621
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367202426
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/756,2876,640,158/150,/0/default.jpg
-label: dog
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/793,2964,513,168/150,/0/default.jpg
+label: dog-days
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

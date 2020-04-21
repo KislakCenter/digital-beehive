@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0047/'>Ass</a>|<a href='/digital-beehive/alpha4/alpha_0911/'>Stockfish</a>|<a
-  href='/digital-beehive/alpha3/alpha_0466/'>Incivility</a>|<a href='/digital-beehive/toc/toc2_149/'>668
+  href='/digital-beehive/alpha3/alpha_0466/'>Incivility</a>|<a href='/digital-beehive/num3/num_0925'>668
   [Peasant]</a>|Stupidity|750 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index1/index_0392/'>blockhead</a>"
@@ -25,7 +25,9 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/344,16
 label: Blockhead
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 issue: It is unclear whether "It. nick-name" should be considered a cross-reference.|The
-  point of reference for "Stupidity" is unclear.
+  point of reference for "Stupidity" is unclear. Pastorius perhaps intends numerical
+  entry 711 [Stupidity].
+also_in_entry: 
 order: '085'
 layout: alpha_item
 collection: alpha1

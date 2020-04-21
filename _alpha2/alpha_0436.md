@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha3/alpha_0475/'>Inhumanity</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1898/'>humanity</a>"
+index: "<a href='/digital-beehive/index2/index_1897/'>humanity</a>"
 item: "#item-677ba08f8"
 unparsed: 
 line: 'Entry: Humanity|Topic: Humanity|Xref: Civility|Xref: Inhumanity|Index: humanity|#item-677ba08f8'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/758,50
 label: Humanity
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '167'
 layout: alpha_item
 collection: alpha2

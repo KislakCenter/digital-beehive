@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_1018/'>Want</a>|918 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2670/'>necessity</a>"
+index: "<a href='/digital-beehive/index3/index_2669/'>necessity</a>"
 item: "#item-5daffe223"
 unparsed: 
 line: 'Entry: Necessity|Topic: Necessity|Xref: Want|Xref: 918 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/346,39
 label: Necessity
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '190'
 layout: alpha_item
 collection: alpha3

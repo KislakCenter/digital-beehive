@@ -3,7 +3,7 @@ pid: index_3999
 volume: Volume 3
 image_number: '46'
 head: surgeon
-entry: "<a href='/digital-beehive/toc/toc2_171/'>917 [Surgery]</a>"
+entry: "<a href='/digital-beehive/num4/num_1213'>917 [Surgery]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: surgeon
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1247'
+order: '1248'
 layout: index_item
 collection: index4
 ---

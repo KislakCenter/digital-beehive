@@ -16,8 +16,8 @@ see:
 index: "<a href='/digital-beehive/index1/index_0597/'>change</a>"
 item: "#item-d276aa007"
 unparsed: 
-line: 'Entry: Change|Topic: Change|Xref: Mutation|Xref: 4 [After sowre comes the sweet]|Xref:
-  10 [After high floods (:come:) low ebbs]|Xref: 1268 [Change]|Index: change|#item-d276aa007'
+line: 'Entry: Change|Topic: Change|Xref: Mutation|Xref: 4 [After Sowre comes the Sweet]|Xref:
+  10 [After high floods (: come :) low ebbs]|Xref: 1268 [Change]|Index: change|#item-d276aa007'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,960,3163,538/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1499437726742
@@ -26,6 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,96
 label: Change
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '134'
 layout: alpha_item
 collection: alpha1

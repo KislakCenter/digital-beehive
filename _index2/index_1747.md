@@ -2,8 +2,8 @@
 pid: index_1747
 volume: Volume 3
 image_number: '23'
-head: handsomness
-entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [Handsom[ly]ness]</a>"
+head: hanging
+entry: "<a href='/digital-beehive/num4/num_1122'>881 [Hanging]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c0180b28a"
+item: "#item-daeaa2449"
 unparsed: 
-line: 'Head: handsomness|Entry: 624 [Handsom[ly]ness]|#item-c0180b28a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/851,780,535,116/full/0/default.jpg
+line: 'Head: hanging|Entry: 881 [Hanging]|#item-daeaa2449'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/859,911,417,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238717500
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238855401
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/851,780,535,116/150,/0/default.jpg
-label: handsomness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/859,911,417,134/150,/0/default.jpg
+label: hanging
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '564'
+order: '565'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_3604
 volume: Volume 3
 image_number: '42'
 head: Self accusation
-entry: "<a href='/digital-beehive/toc/toc2_127/'>542 [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/num3/num_0683'>542 [Accuse himself]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: Self accusation
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0852'
+order: '0853'
 layout: index_item
 collection: index4
 ---

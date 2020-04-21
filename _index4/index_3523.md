@@ -24,7 +24,7 @@ label: Satyre
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0771'
+order: '0772'
 layout: index_item
 collection: index4
 ---

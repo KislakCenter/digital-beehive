@@ -2,8 +2,8 @@
 pid: index_2951
 volume: Volume 3
 image_number: '35'
-head: pepper
-entry: "<a href='/digital-beehive/toc/toc2_378/'>2121 [Pepper]</a>"
+head: perception
+entry: "<a href='/digital-beehive/num4/num_1293'>971 [Senses]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ab89e9c96"
+item: "#item-17907dc32"
 unparsed: 
-line: 'Head: pepper|Entry: 2121 [Pepper]|#item-ab89e9c96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/134,1908,481,100/full/0/default.jpg
+line: 'Head: perception|Entry: 971 [Senses]|#item-17907dc32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972707773
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972727340
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/134,1908,481,100/150,/0/default.jpg
-label: pepper
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/150,/0/default.jpg
+label: perception
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0199'
+order: '0200'
 layout: index_item
 collection: index4
 ---

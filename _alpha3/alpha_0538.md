@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2283/'>life</a>"
+index: "<a href='/digital-beehive/index3/index_2282/'>life</a>"
 item: "#item-96006f264"
 unparsed: 
 line: 'Entry: Life|Topic: Life|Index: life|#item-96006f264'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/730,15
 label: Life
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '094'
 layout: alpha_item
 collection: alpha3

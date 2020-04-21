@@ -8,7 +8,7 @@ topic: Vagabonds
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Travelling</a>|<a href='/digital-beehive/toc/toc2_142/'>623
+xref: "<a href='/digital-beehive/alpha5/alpha_0976/'>Travelling</a>|<a href='/digital-beehive/num3/num_0840'>623
   [Vagabond]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4287/'>vagabonds</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/288,10
 label: Vagabonds
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '051'
+also_in_entry: 
+order: '052'
 layout: alpha_item
 collection: alpha5
 ---

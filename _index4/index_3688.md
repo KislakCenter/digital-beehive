@@ -3,7 +3,7 @@ pid: index_3688
 volume: Volume 3
 image_number: '42'
 head: short of breath
-entry: "<a href='/digital-beehive/num2/num_0588/'>475 [Shortness of breath]</a>"
+entry: "<a href='/digital-beehive/num2/num_0593/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: short of breath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0936'
+order: '0937'
 layout: index_item
 collection: index4
 ---

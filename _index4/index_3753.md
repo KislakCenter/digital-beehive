@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2680/'>negligence</a>"
+see: "<a href='/digital-beehive/index3/index_2679/'>negligence</a>"
 index: 
 item: "#item-cb68150b0"
 unparsed: 
@@ -23,7 +23,7 @@ label: sloathful
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1001'
+order: '1002'
 layout: index_item
 collection: index4
 ---

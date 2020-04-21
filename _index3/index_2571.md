@@ -2,8 +2,8 @@
 pid: index_2571
 volume: Volume 3
 image_number: '31'
-head: months
-entry: 4546 [PAGE_MISSING]
+head: Montserrat
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1515 [Montserrat]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-094f6833a"
+item: "#item-7f208de1f"
 unparsed: 
-line: 'Head: months|Entry: 4546 [PAGE_MISSING]|#item-094f6833a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/full/0/default.jpg
+line: 'Head: Montserrat|Entry: 1515 [Montserrat]|#item-7f208de1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/870,1064,497,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355200407
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355283332
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/150,/0/default.jpg
-label: months
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/870,1064,497,122/150,/0/default.jpg
+label: Montserrat
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '652'
+order: '653'
 layout: index_item
 collection: index3
 ---

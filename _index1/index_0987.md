@@ -2,26 +2,26 @@
 pid: index_0987
 volume: Volume 3
 image_number: '16'
-head: defaming
-entry: 737 [PAGE_MISSING]
+head: defect
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4468/'>want</a>"
 index: 
-item: "#item-e64d9ed29"
+item: "#item-ab2dc2d2b"
 unparsed: 
-line: 'Head: defaming|Entry: 737 [PAGE_MISSING]|#item-e64d9ed29'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/348,1515,493,142/full/0/default.jpg
+line: 'Head: defect|See: want|#item-ab2dc2d2b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/333,1637,895,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570781143
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570965915
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/348,1515,493,142/150,/0/default.jpg
-label: defaming
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/333,1637,895,156/150,/0/default.jpg
+label: defect
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
+issue: The meaning of "it. too little" and "it. natural" cannot be determined.
 insertion_xref: 
 order: '0986'
 layout: index_item

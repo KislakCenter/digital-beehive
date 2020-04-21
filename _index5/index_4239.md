@@ -3,7 +3,7 @@ pid: index_4239
 volume: Volume 3
 image_number: '48'
 head: trident
-entry: "<a href='/digital-beehive/toc/toc2_144/'>639 [a Trident]</a>"
+entry: "<a href='/digital-beehive/num3/num_0868'>639 [a Trident]</a>"
 topic: 
 first_letter: T
 page: 

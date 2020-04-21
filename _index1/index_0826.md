@@ -2,26 +2,26 @@
 pid: index_0826
 volume: Volume 3
 image_number: '14'
-head: continency
-entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>"
+head: continual
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0117/'>always</a>"
 index: 
-item: "#item-4b8143562"
+item: "#item-b632270bd"
 unparsed: 
-line: 'Head: continency|Entry: a|#item-4b8143562'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/full/0/default.jpg
+line: 'Head: continual|See: always|#item-b632270bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1868,368,688,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559205471
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559232648
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/150,/0/default.jpg
-label: continency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1868,368,688,174/150,/0/default.jpg
+label: continual
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
+issue: The meaning of "it. to last" cannot be determined.
 insertion_xref: 
 order: '0825'
 layout: index_item

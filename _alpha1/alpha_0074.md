@@ -8,7 +8,7 @@ topic: Beginning
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>first</a>|<a href='/digital-beehive/toc/toc2_128/'>550
+xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>first</a>|<a href='/digital-beehive/num3/num_0694'>550
   [Beginn]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0339/'>beginning</a>"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/872,19
 label: Beginning
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '073'
 layout: alpha_item
 collection: alpha1

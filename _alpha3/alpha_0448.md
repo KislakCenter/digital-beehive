@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_252/'>1292 [Jesuites]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1942/'>Jesuite</a>"
+index: "<a href='/digital-beehive/index3/index_1941/'>Jesuite</a>"
 item: "#item-c421e7050"
 unparsed: 
 line: 'Entry: Jesuite|Topic: Jesuite|Xref: 1292 [Jesuites]|Index: Jesuite|#item-c421e7050'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/367,57
 label: Jesuite
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '004'
 layout: alpha_item
 collection: alpha3

@@ -2,8 +2,8 @@
 pid: index_2387
 volume: Volume 3
 image_number: '29'
-head: majesty
-entry: "<a href='/digital-beehive/num1/num_0073/'>72 [Majesty]</a>"
+head: maimed
+entry: "<a href='/digital-beehive/alpha3/alpha_0567/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-150100733"
+item: "#item-9e8a1ad57"
 unparsed: 
-line: 'Head: majesty|Entry: 72 [Majesty]|#item-150100733'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/834,3308,401,179/full/0/default.jpg
+line: 'Head: maimed|Entry: a|#item-9e8a1ad57'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/787,3441,463,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560189676336
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189783980
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/834,3308,401,179/150,/0/default.jpg
-label: majesty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/787,3441,463,145/150,/0/default.jpg
+label: maimed
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '468'
+order: '469'
 layout: index_item
 collection: index3
 ---

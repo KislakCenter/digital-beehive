@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3166/'>priviledge</a>"
+index: "<a href='/digital-beehive/index4/index_3165/'>priviledge</a>"
 item: "#item-b0ebe4c9a"
 unparsed: 
 line: 'Entry: Priviledge|Topic: Priviledge|Index: priviledge|#item-b0ebe4c9a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/325,88
 label: Priviledge
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '090'
 layout: alpha_item
 collection: alpha4

@@ -8,7 +8,7 @@ topic: Bribe
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_135/'>587 [Corrupted]</a>"
+xref: "<a href='/digital-beehive/num3/num_0757'>587 [Corrupted]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0451/'>bribe</a>"
 item: "#item-fd76c8de4"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/848,16
 label: Bribe
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '098'
 layout: alpha_item
 collection: alpha1

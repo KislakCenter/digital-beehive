@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0469/'>387 [Martyrs]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2436/'>martyr</a>"
+index: "<a href='/digital-beehive/index3/index_2435/'>martyr</a>"
 item: "#item-d6b715c2b"
 unparsed: 
 line: 'Entry: Martyr|Topic: Martyr|Xref: 387 [Martyrs]|Index: martyr|#item-d6b715c2b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/347,29
 label: Martyr
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '129'
 layout: alpha_item
 collection: alpha3

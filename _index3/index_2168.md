@@ -2,8 +2,8 @@
 pid: index_2168
 volume: Volume 3
 image_number: '27'
-head: kite
-entry: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite. a hawk]</a>"
+head: knave
+entry: "<a href='/digital-beehive/num3/num_1029'>707 [Roguery]</a>"
 topic: 
 first_letter: K
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-844baa882"
+item: "#item-fc273912c"
 unparsed: 
-line: 'Head: kite|Entry: 1351 [a kite. a hawk]|#item-844baa882'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1750,340,129/full/0/default.jpg
+line: 'Head: knave|Entry: 707 [Roguery]|#item-fc273912c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1851,393,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762275399
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762291639
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/849,1750,340,129/150,/0/default.jpg
-label: kite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1851,393,122/150,/0/default.jpg
+label: knave
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '249'
+order: '250'
 layout: index_item
 collection: index3
 ---

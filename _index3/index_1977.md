@@ -2,28 +2,28 @@
 pid: index_1977
 volume: Volume 3
 image_number: '25'
-head: imprecation
-entry: "<a href='/digital-beehive/toc/toc2_209/'>1078 [Curse]</a>"
+head: imprisonmt
+entry: 
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3161/'>prison</a>"
 index: 
-item: "#item-cc259d673"
+item: "#item-45948aa65"
 unparsed: 
-line: 'Head: imprecation|Entry: 1078 [Curse]|#item-cc259d673'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/866,2412,544,119/full/0/default.jpg
+line: 'Head: imprisonmt|See: prison|#item-45948aa65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/836,2460,685,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667055440
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/866,2412,544,119/150,/0/default.jpg
-label: imprecation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/836,2460,685,140/150,/0/default.jpg
+label: imprisonmt
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '058'
+order: '059'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: Probability|<a href='/digital-beehive/alpha4/alpha_0874/'>Similitude</a>|758
   [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2292/'>likelyhood</a>|<a href='/digital-beehive/index3/index_2293/'>likeness</a>"
+index: "<a href='/digital-beehive/index3/index_2291/'>likelyhood</a>|<a href='/digital-beehive/index3/index_2292/'>likeness</a>"
 item: "#item-a7c6cbcff"
 unparsed: 
 line: 'Entry: Likelihood|Topic: Likelihood|Topic: Likeness|Xref: Probability|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/725,26
 label: Likelihood
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '096'
 layout: alpha_item
 collection: alpha3

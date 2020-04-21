@@ -2,28 +2,28 @@
 pid: index_1710
 volume: Volume 3
 image_number: '23'
-head: greediness
-entry: 
+head: greek
+entry: 783 [PAGE_MISSING]
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4431/'>voracity</a>"
+see: 
 index: 
-item: "#item-1dcfaf667"
+item: "#item-bd1a8d430"
 unparsed: 
-line: 'Head: greediness|See: voracity|#item-1dcfaf667'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,1003,614,142/full/0/default.jpg
+line: 'Head: greek|Entry: 783 [PAGE_MISSING]|#item-bd1a8d430'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,1113,343,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230342660
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230461145
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,1003,614,142/150,/0/default.jpg
-label: greediness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,1113,343,125/150,/0/default.jpg
+label: greek
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '527'
+order: '528'
 layout: index_item
 collection: index2
 ---

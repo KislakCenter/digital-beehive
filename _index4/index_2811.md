@@ -2,9 +2,8 @@
 pid: index_2811
 volume: Volume 3
 image_number: '33'
-head: oppression
-entry: "<a href='/digital-beehive/num1/num_0205/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0586/'>474
-  [Oppression]</a>|<a href='/digital-beehive/toc/toc2_401/'>2287 [Oppressions]</a>"
+head: opprobrious words
+entry: "<a href='/digital-beehive/num3/num_0953'>680 [Scheltwort]</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-80c2dc60e"
+item: "#item-8417bf938"
 unparsed: 
-line: 'Head: oppression|Entry: 197 [Oppression]|Entry: 474 [Oppression]|Entry: 2287
-  [Oppressions]|#item-80c2dc60e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/full/0/default.jpg
+line: 'Head: opprobrious words|Entry: 680 [Scheltwort]|#item-8417bf938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1469,1247,763,196/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161687452
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161752769
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/150,/0/default.jpg
-label: oppression
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1469,1247,763,196/150,/0/default.jpg
+label: opprobrious words
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0059'
+order: '0060'
 layout: index_item
 collection: index4
 ---

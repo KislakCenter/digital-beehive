@@ -2,28 +2,28 @@
 pid: index_1535
 volume: Volume 3
 image_number: '21'
-head: freedom
-entry: "<a href='/digital-beehive/toc/toc2_215/'>1108 [Liberty]</a>"
+head: freedom from sin
+entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2953/'>perfection</a>"
 index: 
-item: "#item-8ce3f5499"
+item: "#item-9cf250a04"
 unparsed: 
-line: 'Head: freedom|Entry: 769 [missing page]|Entry: 1108 [Liberty]|#item-8ce3f5499'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,1715,651,99/full/0/default.jpg
+line: 'Head: freedom from sin|See: perfection|#item-9cf250a04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,1784,747,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763556946
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783079136
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,1715,651,99/150,/0/default.jpg
-label: freedom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,1784,747,117/150,/0/default.jpg
+label: freedom from sin
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '353'
+order: '354'
 layout: index_item
 collection: index2
 ---

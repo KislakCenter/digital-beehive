@@ -3,7 +3,7 @@ pid: index_3458
 volume: Volume 3
 image_number: '40'
 head: round
-entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [a Circle]</a>"
+entry: "<a href='/digital-beehive/num4/num_1086'>867 [a Circle]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: round
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0706'
+order: '0707'
 layout: index_item
 collection: index4
 ---

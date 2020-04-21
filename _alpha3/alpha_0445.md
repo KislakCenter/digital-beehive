@@ -8,10 +8,10 @@ topic: Idolatry
 first_letter: I/J
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0455/'>Images</a>|<a href='/digital-beehive/toc/toc2_139/'>610
+xref: "<a href='/digital-beehive/alpha3/alpha_0455/'>Images</a>|<a href='/digital-beehive/num3/num_0809'>610
   [Idolatry]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1933/'>idolatry</a>"
+index: "<a href='/digital-beehive/index3/index_1932/'>idolatry</a>"
 item: "#item-cab080c4a"
 unparsed: 
 line: 'Entry: Idolatry|Topic: Idolatry|Xref: Images|Xref: 610 [Idolatry]|Index: idolatry|#item-cab080c4a'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/716,41
 label: Idolatry
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '001'
 layout: alpha_item
 collection: alpha3

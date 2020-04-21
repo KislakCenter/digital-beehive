@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_353/'>1910 [Oil]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2779/'>oil</a>"
+index: "<a href='/digital-beehive/index4/index_2778/'>oil</a>"
 item: "#item-a229abb24"
 unparsed: 
 line: 'Entry: Oil|Topic: Oil|Xref: 1910 [Oil]|Index: oil|#item-a229abb24'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,26
 label: Oil
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '011'
 layout: alpha_item
 collection: alpha4

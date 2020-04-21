@@ -2,8 +2,9 @@
 pid: index_1941
 volume: Volume 3
 image_number: '25'
-head: Jesus
-entry: "<a href='/digital-beehive/alpha3/alpha_0449/'>a</a>"
+head: Jesuite
+entry: "<a href='/digital-beehive/alpha3/alpha_0448/'>a</a>|<a href='/digital-beehive/toc/toc2_252/'>1292
+  [Jesuites]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f7f96b109"
+item: "#item-8fb5f6526"
 unparsed: 
-line: 'Head: Jesus|Entry: a|#item-f7f96b109'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/162,2081,296,176/full/0/default.jpg
+line: 'Head: Jesuite|Entry: a|Entry: 1292 [Jesuites]|#item-8fb5f6526'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661112556
+annotation_uri: http://dev.llgc.org.uk/annotation/1559661209931
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/162,2081,296,176/150,/0/default.jpg
-label: Jesus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/150,/0/default.jpg
+label: Jesuite
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '022'
+order: '023'
 layout: index_item
 collection: index3
 ---

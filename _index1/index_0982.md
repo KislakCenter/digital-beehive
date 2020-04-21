@@ -2,25 +2,24 @@
 pid: index_0982
 volume: Volume 3
 image_number: '16'
-head: dedication
-entry: "<a href='/digital-beehive/alpha1/alpha_0214/'>a</a>|<a href='/digital-beehive/toc/toc2_263/'>1348
-  [Epistle Dedicatory]</a>|4628 [PAGE_MISSING]"
+head: decline
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3334/'>refusal</a>"
 index: 
-item: "#item-c1ffbb676"
+item: "#item-b1735beba"
 unparsed: 
-line: 'Head: dedication|Entry: a|Entry: 1348 [Epistle Dedicatory]|Entry: 4628 [PAGE_MISSING]|#item-c1ffbb676'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1066,763,88/full/0/default.jpg
+line: 'Head: decline|See: refusal|#item-b1735beba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1130,641,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507573325859
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570604110
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1066,763,88/150,/0/default.jpg
-label: dedication
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1130,641,107/150,/0/default.jpg
+label: decline
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

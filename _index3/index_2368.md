@@ -2,30 +2,28 @@
 pid: index_2368
 volume: Volume 3
 image_number: '29'
-head: lust
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
+head: lusty
+entry: "<a href='/digital-beehive/num4/num_1126'>882 [Pleasure]</a>"
 topic: 
 first_letter: L
 page: 
-add: "<a href='/digital-beehive/index1/index_0778/'>Concup</a>|<a href='/digital-beehive/index3/index_2202/'>lasciv</a>|<a
-  href='/digital-beehive/index4/index_3042/'>pleasure</a>|<a href='/digital-beehive/index2/index_1373/'>eye</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-510e75603"
+item: "#item-05fed984b"
 unparsed: 
-line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
-  eye|#item-510e75603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/full/0/default.jpg
+line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/150,/0/default.jpg
-label: lust
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/150,/0/default.jpg
+label: lusty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '449'
+order: '450'
 layout: index_item
 collection: index3
 ---

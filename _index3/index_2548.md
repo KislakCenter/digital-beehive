@@ -2,8 +2,8 @@
 pid: index_2548
 volume: Volume 3
 image_number: '31'
-head: misunderstanding
-entry: "<a href='/digital-beehive/num1/num_0122/'>118 [Misunderstanding]</a>"
+head: to mitigate
+entry: "<a href='/digital-beehive/num3/num_1022'>704 [To Mitigate]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-15ffd1f96"
+item: "#item-627426e58"
 unparsed: 
-line: 'Head: misunderstanding|Entry: 118 [Misunderstanding]|#item-15ffd1f96'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/167,1797,664,174/full/0/default.jpg
+line: 'Head: to mitigate|Entry: 704 [To Mitigate]|#item-627426e58'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/183,1955,505,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352116825
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352226348
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/167,1797,664,174/150,/0/default.jpg
-label: misunderstanding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/183,1955,505,158/150,/0/default.jpg
+label: to mitigate
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '629'
+order: '630'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_367/'>2012 [Propriety]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3202/'>propriety</a>"
+index: "<a href='/digital-beehive/index4/index_3201/'>propriety</a>"
 item: "#item-c9b87ff69"
 unparsed: 
 line: 'Entry: Propriety|Topic: Propriety|Xref: 2012 [Propriety]|Index: propriety|#item-c9b87ff69'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/759,17
 label: Propriety
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '104'
 layout: alpha_item
 collection: alpha4

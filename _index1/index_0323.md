@@ -3,7 +3,7 @@ pid: index_0323
 volume: Volume 3
 image_number: '9'
 head: beauty
-entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/toc/toc2_140/'>616
+entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/num3/num_0823'>616
   [Beauty]</a>|<a href='/digital-beehive/toc/toc2_316/'>1609 [Beauty]</a>|<a href='/digital-beehive/toc/toc2_431/'>4814
   [Beauty]</a>"
 topic: 

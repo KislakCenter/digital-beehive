@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0171/'>Considerateness</a>|<a href='/digital-beehive/alpha3/alpha_0582/'>Meditation</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0999/'>deliberation</a>"
+index: "<a href='/digital-beehive/index1/index_0998/'>deliberation</a>"
 item: "#item-8049ac248"
 unparsed: 
 line: 'Entry: Deliberation|Topic: Deliberation|Xref: Considerateness|Xref: Meditation|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/827,44
 label: Deliberation
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '220'
+also_in_entry: 
+order: '219'
 layout: alpha_item
 collection: alpha1
 ---

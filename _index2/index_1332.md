@@ -2,8 +2,8 @@
 pid: index_1332
 volume: Volume 3
 image_number: '19'
-head: to excell
-entry: "<a href='/digital-beehive/toc/toc2_127/'>539 [beter]</a>"
+head: exception
+entry: "<a href='/digital-beehive/num1/num_0096/'>93 [Exception]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4d17c7116"
+item: "#item-cfcf70fb7"
 unparsed: 
-line: 'Head: to excell|Entry: 539 [beter]|#item-4d17c7116'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/831,2835,488,150/full/0/default.jpg
+line: 'Head: exception|Entry: 93 [Exception]|#item-cfcf70fb7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/827,2972,520,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560359582460
+annotation_uri: http://dev.llgc.org.uk/annotation/1560359675733
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/831,2835,488,150/150,/0/default.jpg
-label: to excell
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/827,2972,520,146/150,/0/default.jpg
+label: exception
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '150'
+order: '151'
 layout: index_item
 collection: index2
 ---

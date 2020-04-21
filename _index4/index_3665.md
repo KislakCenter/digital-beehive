@@ -3,7 +3,7 @@ pid: index_3665
 volume: Volume 3
 image_number: '42'
 head: sheath
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Sheath]</a>"
+entry: "<a href='/digital-beehive/num4/num_1101'>871 [a Sheath]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sheath
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0913'
+order: '0914'
 layout: index_item
 collection: index4
 ---

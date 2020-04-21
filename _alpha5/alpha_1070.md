@@ -8,7 +8,8 @@ topic: Youth
 first_letter: Y
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0140/'>Childhood</a>|Boy|467 [Youth]"
+xref: "<a href='/digital-beehive/alpha1/alpha_0140/'>Childhood</a>|Boy|<a href='/digital-beehive/num2/num_0581/'>467
+  [youth]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4652/'>youth</a>"
 item: "#item-c4abd3d9f"
@@ -23,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/342,39
 label: Youth
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 issue: The point of reference for "Boy" is unclear.
-order: '135'
+also_in_entry: 
+order: '136'
 layout: alpha_item
 collection: alpha5
 ---

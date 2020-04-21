@@ -23,7 +23,7 @@ label: selah
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0847'
+order: '0848'
 layout: index_item
 collection: index4
 ---

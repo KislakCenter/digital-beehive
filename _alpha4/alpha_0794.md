@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|Esteem|<a href='/digital-beehive/alpha4/alpha_0789/'>Renown</a>|829
   [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3382/'>reputation</a>"
+index: "<a href='/digital-beehive/index4/index_3381/'>reputation</a>"
 item: "#item-e761d6029"
 unparsed: 
 line: 'Entry: Reputation|Topic: Reputation|Xref: Authority|Xref: Esteem|Xref: Renown|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/396,30
 label: Reputation
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: The point of reference for "Esteem" is unclear.
+also_in_entry: 
 order: '146'
 layout: alpha_item
 collection: alpha4

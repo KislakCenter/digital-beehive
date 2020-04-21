@@ -3,8 +3,8 @@ pid: index_3613
 volume: Volume 3
 image_number: '42'
 head: Self denial
-entry: "<a href='/digital-beehive/alpha4/alpha_0848/'>a</a>|<a href='/digital-beehive/toc/toc2_175/'>938
-  [Self-denial]</a>|<a href='/digital-beehive/toc/toc2_365/'>2000 [Selfdenial]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0848/'>a</a>|<a href='/digital-beehive/num4/num_1254'>938
+  [Self denial]</a>|<a href='/digital-beehive/toc/toc2_365/'>2000 [Selfdenial]</a>"
 topic: 
 first_letter: S
 page: 
@@ -24,7 +24,7 @@ label: Self denial
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0861'
+order: '0862'
 layout: index_item
 collection: index4
 ---

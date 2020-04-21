@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0284/'>259 [Book Prayers]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3113/'>book prayers</a>"
+index: "<a href='/digital-beehive/index4/index_3112/'>book prayers</a>"
 item: "#item-b752fcc73"
 unparsed: 
 line: 'Entry: Book prayers|Topic: Book prayers|Xref: 259 [Book Prayers]|Index: book
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/852,65
 label: Book prayers
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '077'
 layout: alpha_item
 collection: alpha4

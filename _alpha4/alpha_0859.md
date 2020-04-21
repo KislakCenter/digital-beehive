@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/811,49
 label: Servitude
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: It is unclear whether "It. Neger" should be considered a cross-reference.
+also_in_entry: 
 order: '211'
 layout: alpha_item
 collection: alpha4

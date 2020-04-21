@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_1945/'>Jewel</a>"
+see: "<a href='/digital-beehive/index3/index_1944/'>Jewel</a>"
 index: 
 item: "#item-62241e8dc"
 unparsed: 
@@ -23,7 +23,7 @@ label: stones precious
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1161'
+order: '1162'
 layout: index_item
 collection: index4
 ---

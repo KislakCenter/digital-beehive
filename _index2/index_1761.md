@@ -2,28 +2,28 @@
 pid: index_1761
 volume: Volume 3
 image_number: '23'
-head: harrow
-entry: 4614 [PAGE_MISSING]
+head: harpocrates
+entry: "<a href='/digital-beehive/toc/toc2_253/'>1299 [Silence & Reservedness]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-78aa4072e"
+item: "#item-c7f24aeb2"
 unparsed: 
-line: 'Head: harrow|Page: p.38 [Image 1.98]|Entry: 4614 [PAGE_MISSING]|#item-78aa4072e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/full/0/default.jpg
+line: 'Head: harpocrates|Entry: 1299 [Silence & Reservedness]|#item-c7f24aeb2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,2148,585,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240280150
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240490965
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/150,/0/default.jpg
-label: harrow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,2148,585,99/150,/0/default.jpg
+label: harpocrates
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '578'
+order: '579'
 layout: index_item
 collection: index2
 ---

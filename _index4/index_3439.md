@@ -3,7 +3,7 @@ pid: index_3439
 volume: Volume 3
 image_number: '40'
 head: rod
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Rod]</a>|<a href='/digital-beehive/toc/toc2_386/'>2208
+entry: "<a href='/digital-beehive/num4/num_1097'>871 [a Rod]</a>|<a href='/digital-beehive/toc/toc2_386/'>2208
   [Rod]</a>"
 topic: 
 first_letter: R
@@ -24,7 +24,7 @@ label: rod
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0687'
+order: '0688'
 layout: index_item
 collection: index4
 ---

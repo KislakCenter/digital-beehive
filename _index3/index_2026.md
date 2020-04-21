@@ -2,8 +2,8 @@
 pid: index_2026
 volume: Volume 3
 image_number: '26'
-head: inexpressible
-entry: "<a href='/digital-beehive/num2/num_0423/'>359 [Unspeakable]</a>"
+head: infallibility
+entry: "<a href='/digital-beehive/num1/num_0032/'>32 [Infallibility]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d89668f74"
+item: "#item-e1c3937d9"
 unparsed: 
-line: 'Head: inexpressible|Entry: 359 [Unspeakable]|#item-d89668f74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/467,789,601,107/full/0/default.jpg
+line: 'Head: infallibility|Entry: 32 [Infallibility]|#item-e1c3937d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/457,822,531,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559743873565
+annotation_uri: http://dev.llgc.org.uk/annotation/1559743941001
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/467,789,601,107/150,/0/default.jpg
-label: inexpressible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/457,822,531,160/150,/0/default.jpg
+label: infallibility
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '107'
+order: '108'
 layout: index_item
 collection: index3
 ---

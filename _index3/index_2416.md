@@ -2,28 +2,28 @@
 pid: index_2416
 volume: Volume 3
 image_number: '29'
-head: man[n]a
-entry: "<a href='/digital-beehive/toc/toc2_212/'>1095 [Manna]</a>"
+head: manslayer
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2615/'>murder</a>"
 index: 
-item: "#item-ea3b7da6b"
+item: "#item-df9a3ab7d"
 unparsed: 
-line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/full/0/default.jpg
+line: 'Head: manslayer|See: murder|#item-df9a3ab7d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,2770,639,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196363779
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/150,/0/default.jpg
-label: man[n]a
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,2770,639,105/150,/0/default.jpg
+label: manslayer
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '497'
+order: '498'
 layout: index_item
 collection: index3
 ---

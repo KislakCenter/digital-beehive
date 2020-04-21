@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_339/'>1741 [Hog]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1853/'>hog</a>"
+index: "<a href='/digital-beehive/index2/index_1852/'>hog</a>"
 item: "#item-2b9e0839b"
 unparsed: 
 line: 'Entry: Hog|Topic: Hog|Xref: 1741 [Hog]|Index: hog|#item-2b9e0839b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/780,45
 label: Hog
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '154'
 layout: alpha_item
 collection: alpha2

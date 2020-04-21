@@ -23,7 +23,7 @@ label: sophistry
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1049'
+order: '1050'
 layout: index_item
 collection: index4
 ---

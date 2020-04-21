@@ -2,24 +2,24 @@
 pid: index_1077
 volume: Volume 3
 image_number: '17'
-head: disgrace
-entry: 
+head: disguise
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1013/'>deposition</a>"
+see: 
 index: 
-item: "#item-462c3e197"
+item: "#item-6ec1e03a6"
 unparsed: 
-line: 'Head: disgrace|See: deposition|#item-462c3e197'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/127,1081,737,157/full/0/default.jpg
+line: 'Head: disguise|Entry: 129 [Vizard]|#item-6ec1e03a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/172,1228,453,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803799135
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803838438
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/127,1081,737,157/150,/0/default.jpg
-label: disgrace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/172,1228,453,109/150,/0/default.jpg
+label: disguise
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

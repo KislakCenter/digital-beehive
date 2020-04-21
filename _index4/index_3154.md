@@ -2,8 +2,8 @@
 pid: index_3154
 volume: Volume 3
 image_number: '37'
-head: priesthood
-entry: "<a href='/digital-beehive/alpha4/alpha_0731/'>a</a>"
+head: primitive Xtians
+entry: "<a href='/digital-beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d06402ebf"
+item: "#item-e70b17368"
 unparsed: 
-line: 'Head: priesthood|Entry: a|#item-d06402ebf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,2667,473,125/full/0/default.jpg
+line: 'Head: primitive Xtians|Entry: 1064 [Primitive Christians]|#item-e70b17368'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866956909
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866995981
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/104,2667,473,125/150,/0/default.jpg
-label: priesthood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/150,/0/default.jpg
+label: primitive Xtians
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0402'
+order: '0403'
 layout: index_item
 collection: index4
 ---

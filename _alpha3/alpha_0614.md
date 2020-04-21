@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0822/'>Sadness</a>|<a href='/digital-beehive/alpha3/alpha_0583/'>melancholy</a>|Lamentation|<a
   href='/digital-beehive/toc/toc2_201/'>1036 [Mourn]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2605/'>mourning</a>"
+index: "<a href='/digital-beehive/index3/index_2604/'>mourning</a>"
 item: "#item-ef1664611"
 unparsed: 
 line: 'Entry: Mourning|Topic: Mourning|Xref: Sadness|Xref: melancholy|Xref: Lamentation|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/711,17
 label: Mourning
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: The point of reference for "Lamentation" is unclear.
+also_in_entry: 
 order: '170'
 layout: alpha_item
 collection: alpha3

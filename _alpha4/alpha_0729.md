@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>First</a>|<a href='/digital-beehive/toc/toc2_218/'>1122
   [Preventing]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3148/'>prevention</a>"
+index: "<a href='/digital-beehive/index4/index_3147/'>prevention</a>"
 item: "#item-f2eea9052"
 unparsed: 
 line: 'Entry: Prevention|Topic: Prevention|Xref: First|Xref: 1122 [Preventing]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,24
 label: Prevention
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '082'
 layout: alpha_item
 collection: alpha4

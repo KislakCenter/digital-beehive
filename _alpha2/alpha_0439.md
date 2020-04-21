@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [Hunting]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1908/'>hunting</a>"
+index: "<a href='/digital-beehive/index2/index_1907/'>hunting</a>"
 item: "#item-4b88988ab"
 unparsed: 
 line: 'Entry: Hunting|Topic: Hunting|Xref: 1371 [Hunting]|Index: hunting|#item-4b88988ab'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/788,20
 label: Hunting
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '170'
 layout: alpha_item
 collection: alpha2

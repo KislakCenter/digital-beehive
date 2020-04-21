@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_375/'>2092 [Element]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1223/'>element</a>"
+index: "<a href='/digital-beehive/index2/index_1222/'>element</a>"
 item: "#item-741f9b803"
 unparsed: 
 line: 'Entry: Element|Topic: Element|Xref: 2092 [Element]|Index: element|#item-741f9b803'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/362,10
 label: Element
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '010'
 layout: alpha_item
 collection: alpha2

@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0799/'>Resurrection, continued</a>|<a
-  href='/digital-beehive/toc/toc2_121/'>502 [Resurrection]</a>"
+  href='/digital-beehive/num3/num_0632'>502 [Resurrection]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3396/'>resurrection</a>"
 item: "#item-2ed58825b"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/379,46
 label: Resurrection
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: The entry continues onto the next page.
+also_in_entry: 
 order: '150'
 layout: alpha_item
 collection: alpha4

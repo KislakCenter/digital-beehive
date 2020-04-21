@@ -3,7 +3,7 @@ pid: index_0029
 volume: Volume 3
 image_number: '7'
 head: accusation
-entry: "<a href='/digital-beehive/num2/num_0312/'>278 [Accusation]</a>|<a href='/digital-beehive/toc/toc2_170/'>915
+entry: "<a href='/digital-beehive/num2/num_0312/'>278 [Accusation]</a>|<a href='/digital-beehive/num4/num_1206'>915
   [Accusation]</a>|<a href='/digital-beehive/toc/toc2_326/'>1660 [Accuses]</a>"
 topic: 
 first_letter: A

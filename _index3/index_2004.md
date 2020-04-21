@@ -2,30 +2,28 @@
 pid: index_2004
 volume: Volume 3
 image_number: '25'
-head: inconstant
-entry: "<a href='/digital-beehive/toc/toc2_161/'>870 [Inconstancy]</a>|<a href='/digital-beehive/toc/toc2_319/'>1624
-  [Inconstant]</a>|4573 [PAGE_MISSING]"
+head: incontinence
+entry: "<a href='/digital-beehive/alpha3/alpha_0468/'>a</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4420/'>unstable</a>"
+see: 
 index: 
-item: "#item-7567faf36"
+item: "#item-ee5dc8d81"
 unparsed: 
-line: 'Head: inconstant|See: unstable|Entry: 870 [Inconstancy]|Entry: 1624 [Inconstant]|Entry:
-  4573 [PAGE_MISSING]|#item-7567faf36'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/full/0/default.jpg
+line: 'Head: incontinence|Entry: a|#item-ee5dc8d81'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1562,2112,505,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671848458
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671876797
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1958,706,178/150,/0/default.jpg
-label: inconstant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1562,2112,505,93/150,/0/default.jpg
+label: incontinence
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '085'
+order: '086'
 layout: index_item
 collection: index3
 ---

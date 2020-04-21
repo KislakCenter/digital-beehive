@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3154/'>priesthood</a>"
+index: "<a href='/digital-beehive/index4/index_3153/'>priesthood</a>"
 item: "#item-ad8e73282"
 unparsed: 
 line: 'Entry: Priesthood|Topic: Priesthood|Index: priesthood|#item-ad8e73282'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/821,35
 label: Priesthood
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '084'
 layout: alpha_item
 collection: alpha4

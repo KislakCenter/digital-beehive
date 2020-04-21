@@ -2,8 +2,9 @@
 pid: index_0823
 volume: Volume 3
 image_number: '14'
-head: contempt of the world
-entry: "<a href='/digital-beehive/toc/toc2_356/'>1931 [Contempt]</a>"
+head: contentmt
+entry: "<a href='/digital-beehive/alpha1/alpha_0174/'>a</a>|<a href='/digital-beehive/num2/num_0342/'>302
+  [Contentment]</a>|<a href='/digital-beehive/toc/toc2_226/'>1162 [Contentmt]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-016d13215"
+item: "#item-1d8707870"
 unparsed: 
-line: 'Head: contempt of the world|Entry: 1931 [Contempt]|#item-016d13215'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/full/0/default.jpg
+line: 'Head: contentmt|Entry: a|Entry: 302 [Contentment]|Entry: 1162 [Contentmt]|#item-1d8707870'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,3426,689,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542289899
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542332106
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/150,/0/default.jpg
-label: contempt of the world
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,3426,689,128/150,/0/default.jpg
+label: contentmt
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

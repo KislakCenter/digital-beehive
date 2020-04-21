@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1059/'>Worship</a>|<a href='/digital-beehive/num1/num_0240/'>226
   [Religion]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3349/'>religion</a>"
+index: "<a href='/digital-beehive/index4/index_3348/'>religion</a>"
 item: "#item-4ae715664"
 unparsed: 
 line: 'Entry: Religion|Topic: Religion|Xref: Worship|Xref: 226 [Religion]|Index: religion|#item-4ae715664'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/781,43
 label: Religion
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '139'
 layout: alpha_item
 collection: alpha4

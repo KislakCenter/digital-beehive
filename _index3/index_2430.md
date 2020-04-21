@@ -2,28 +2,28 @@
 pid: index_2430
 volume: Volume 3
 image_number: '30'
-head: market place
-entry: 
+head: Marlborough
+entry: "<a href='/digital-beehive/toc/toc2_260/'>1334 [Marlborough]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-83ef1daa1"
+item: "#item-17b6f038f"
 unparsed: 
-line: 'Head: market place|Page: p.7 [Image 1.67]|#item-83ef1daa1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/full/0/default.jpg
+line: 'Head: Marlborough|Entry: 1334 [Marlborough]|#item-17b6f038f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,509,578,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262908816
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262988698
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/150,/0/default.jpg
-label: market place
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,509,578,139/150,/0/default.jpg
+label: Marlborough
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '511'
+order: '512'
 layout: index_item
 collection: index3
 ---

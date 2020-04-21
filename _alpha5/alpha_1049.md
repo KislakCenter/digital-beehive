@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,21
 label: Wonder
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 issue: 
-order: '114'
+also_in_entry: 
+order: '115'
 layout: alpha_item
 collection: alpha5
 ---

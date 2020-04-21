@@ -24,7 +24,7 @@ label: soothsayers
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1046'
+order: '1047'
 layout: index_item
 collection: index4
 ---

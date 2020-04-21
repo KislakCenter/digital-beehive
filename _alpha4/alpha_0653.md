@@ -9,9 +9,9 @@ first_letter: O
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_1010/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0956/'>Time</a>|<a
-  href='/digital-beehive/toc/toc2_157/'>706 [Occasion]</a>"
+  href='/digital-beehive/num3/num_1026'>706 [Occasion]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2766/'>occasion</a>"
+index: "<a href='/digital-beehive/index4/index_2765/'>occasion</a>"
 item: "#item-2e7db2854"
 unparsed: 
 line: 'Entry: Occasion|Topic: Occasion|Xref: Untimely|Xref: Time|Xref: 706 [Occasion]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,10
 label: Occasion
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '006'
 layout: alpha_item
 collection: alpha4

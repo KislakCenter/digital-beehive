@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,12
 label: Understanding
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: 
-order: '067'
+also_in_entry: 
+order: '068'
 layout: alpha_item
 collection: alpha5
 ---

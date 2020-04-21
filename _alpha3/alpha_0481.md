@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|means|<a href='/digital-beehive/toc/toc2_412/'>2378
   [Instruments]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2070/'>instrumt</a>"
+index: "<a href='/digital-beehive/index3/index_2069/'>instrumt</a>"
 item: "#item-4818d98ae"
 unparsed: 
 line: 'Entry: Instrument|Topic: Instrument|Xref: Cause|Xref: means|Xref: 2378 [Instruments]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/354,44
 label: Instrument
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '037'
 layout: alpha_item
 collection: alpha3

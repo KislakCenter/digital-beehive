@@ -3,7 +3,7 @@ pid: index_3850
 volume: Volume 3
 image_number: '44'
 head: spiritual iniquities
-entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Spiritual Iniquities]</a>"
+entry: "<a href='/digital-beehive/num4/num_1318'>989 [Spiritual Iniquities]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spiritual iniquities
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1098'
+order: '1099'
 layout: index_item
 collection: index4
 ---

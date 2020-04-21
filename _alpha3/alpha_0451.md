@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_326/'>1657 [Jewel]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1945/'>Jewel</a>"
+index: "<a href='/digital-beehive/index3/index_1944/'>Jewel</a>"
 item: "#item-0faa36aaf"
 unparsed: 
 line: 'Entry: Jewel|Topic: Jewel|Xref: 1657 [Jewel]|Index: Jewel|#item-0faa36aaf'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,16
 label: Jewel
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '007'
 layout: alpha_item
 collection: alpha3

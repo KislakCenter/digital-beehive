@@ -2,8 +2,8 @@
 pid: index_1156
 volume: Volume 3
 image_number: '17'
-head: drop
-entry: "<a href='/digital-beehive/toc/toc2_154/'>694 [a Drop]</a>"
+head: dropsie
+entry: "<a href='/digital-beehive/num3/num_0772'>594 [Dropsie]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-041a86045"
+item: "#item-7303167f5"
 unparsed: 
-line: 'Head: drop|Entry: 694 [a Drop]|#item-041a86045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,2677,364,124/full/0/default.jpg
+line: 'Head: dropsie|Entry: 594 [Dropsie]|#item-7303167f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1428,2792,506,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453024692
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453084473
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,2677,364,124/150,/0/default.jpg
-label: drop
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1428,2792,506,145/150,/0/default.jpg
+label: dropsie
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

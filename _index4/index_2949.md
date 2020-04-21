@@ -2,8 +2,8 @@
 pid: index_2949
 volume: Volume 3
 image_number: '35'
-head: Pen[n]silvania
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1399 [Pennsylvania]</a>"
+head: pentecost
+entry: "<a href='/digital-beehive/num4/num_1152'>891 [Pentecost]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c75112755"
+item: "#item-26532136a"
 unparsed: 
-line: 'Head: Pen[n]silvania|Entry: 1399 [Pennsylvania]|#item-c75112755'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/full/0/default.jpg
+line: 'Head: pentecost|Entry: 891 [Pentecost]|#item-26532136a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972658171
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972686634
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/150,/0/default.jpg
-label: Pen[n]silvania
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/150,/0/default.jpg
+label: pentecost
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0197'
+order: '0198'
 layout: index_item
 collection: index4
 ---

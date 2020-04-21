@@ -3,7 +3,7 @@ pid: index_0329
 volume: Volume 3
 image_number: '9'
 head: bed
-entry: "<a href='/digital-beehive/alpha1/alpha_0070/'>a</a>|<a href='/digital-beehive/toc/toc2_124/'>523
+entry: "<a href='/digital-beehive/alpha1/alpha_0070/'>a</a>|<a href='/digital-beehive/num3/num_0656'>523
   [Bed]</a>|4619 [PAGE_MISSING]"
 topic: 
 first_letter: B

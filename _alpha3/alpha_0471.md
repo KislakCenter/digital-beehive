@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2031/'>infant killing</a>"
+index: "<a href='/digital-beehive/index3/index_2030/'>infant killing</a>"
 item: "#item-3532e502e"
 unparsed: 
 line: 'Entry: Infant Killing|Topic: Infant Killing|Index: infant killing|#item-3532e502e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/300,78
 label: Infant Killing
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '027'
 layout: alpha_item
 collection: alpha3

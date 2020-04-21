@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2619/'>mushroom</a>"
+index: "<a href='/digital-beehive/index3/index_2618/'>mushroom</a>"
 item: "#item-39a678c89"
 unparsed: 
 line: 'Entry: Mushroom|Topic: Mushroom|Index: mushroom|#item-39a678c89'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/716,35
 label: Mushroom
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '175'
 layout: alpha_item
 collection: alpha3

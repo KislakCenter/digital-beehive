@@ -3,7 +3,7 @@ pid: index_3853
 volume: Volume 3
 image_number: '44'
 head: spleen
-entry: "<a href='/digital-beehive/toc/toc2_136/'>595 [Liver]</a>"
+entry: "<a href='/digital-beehive/num3/num_0773'>595 [Liver]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spleen
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1101'
+order: '1102'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3715
 volume: Volume 3
 image_number: '43'
 head: simples
-entry: "<a href='/digital-beehive/toc/toc2_154/'>695 [Simples]</a>"
+entry: "<a href='/digital-beehive/num3/num_0999'>695 [Simples]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: simples
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0963'
+order: '0964'
 layout: index_item
 collection: index4
 ---

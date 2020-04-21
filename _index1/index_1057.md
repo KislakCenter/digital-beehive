@@ -2,8 +2,8 @@
 pid: index_1057
 volume: Volume 3
 image_number: '16'
-head: dinner
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1218 [Dinner]</a>"
+head: Diogenes
+entry: "<a href='/digital-beehive/toc/toc2_219/'>1128 [Diogenes]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3f5d87543"
+item: "#item-b209da524"
 unparsed: 
-line: 'Head: dinner|Entry: 1218 [Dinner]|#item-3f5d87543'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/full/0/default.jpg
+line: 'Head: Diogenes|Entry: 1128 [Diogenes]|#item-b209da524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1801,2258,455,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783937478
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783969797
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/150,/0/default.jpg
-label: dinner
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1801,2258,455,137/150,/0/default.jpg
+label: Diogenes
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

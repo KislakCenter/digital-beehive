@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0224/'>denial</a>|806 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3335/'>refusal</a>"
+index: "<a href='/digital-beehive/index4/index_3334/'>refusal</a>"
 item: "#item-eabea6e4b"
 unparsed: 
 line: 'Entry: Refusal|Topic: Refusal|Xref: denial|Xref: 806 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,30
 label: Refusal
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '136'
 layout: alpha_item
 collection: alpha4

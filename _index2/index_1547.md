@@ -2,11 +2,8 @@
 pid: index_1547
 volume: Volume 3
 image_number: '21'
-head: friendship
-entry: "<a href='/digital-beehive/alpha2/alpha_0349/'>a</a>|<a href='/digital-beehive/num2/num_0531/'>429
-  [Friendship]</a>|<a href='/digital-beehive/toc/toc2_228/'>1171 [Friendship]</a>|<a
-  href='/digital-beehive/toc/toc2_329/'>1674 [Friendship]</a>|<a href='/digital-beehive/toc/toc2_431/'>4813
-  [Friendship]</a>"
+head: friendship parted by poverty
+entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
 topic: 
 first_letter: F
 page: 
@@ -14,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a6ff2f53a"
+item: "#item-11bed1097"
 unparsed: 
-line: 'Head: friendship|Entry: a|Entry: 429 [Friendship]|Entry: 1171 [Friendship]|Entry:
-  1674 [Friendship]|Entry: 4813 [Friendship]|#item-a6ff2f53a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/844,2533,711,163/full/0/default.jpg
+line: 'Head: friendship parted by poverty|Entry: 16 [Poverty parts good fellowship]|#item-11bed1097'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/858,2676,727,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560783712245
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784200885
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/844,2533,711,163/150,/0/default.jpg
-label: friendship
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/858,2676,727,153/150,/0/default.jpg
+label: friendship parted by poverty
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '365'
+order: '366'
 layout: index_item
 collection: index2
 ---

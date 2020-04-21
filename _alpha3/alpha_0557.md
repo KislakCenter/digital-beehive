@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_209/'>1079 [Love of Neighbours]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2343/'>love of our neighbour</a>"
+index: "<a href='/digital-beehive/index3/index_2342/'>love of our neighbour</a>"
 item: "#item-404f51cf4"
 unparsed: 
 line: 'Entry: Love of our Neighbour|Topic: Love of our Neighbour|Xref: 1079 [Love
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,22
 label: Love of our Neighbour
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '113'
 layout: alpha_item
 collection: alpha3

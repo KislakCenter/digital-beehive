@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3210/'>proverbs</a>"
+index: "<a href='/digital-beehive/index4/index_3209/'>proverbs</a>"
 item: "#item-ae7b3ea31"
 unparsed: 
 line: 'Entry: Proverbs|Topic: Proverbs|Index: proverbs|#item-ae7b3ea31'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,24
 label: Proverbs
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '106'
 layout: alpha_item
 collection: alpha4

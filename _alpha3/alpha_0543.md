@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0972/'>Trade</a>|<a href='/digital-beehive/toc/toc2_321/'>1635
   [Livelyhood]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2312/'>livelyhood</a>"
+index: "<a href='/digital-beehive/index3/index_2311/'>livelyhood</a>"
 item: "#item-c59484501"
 unparsed: 
 line: 'Entry: Livelihood|Topic: Livelihood|Xref: Trade|Xref: 1635 [Livelyhood]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/753,39
 label: Livelihood
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '099'
 layout: alpha_item
 collection: alpha3

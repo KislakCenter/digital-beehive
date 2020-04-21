@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha2/alpha_0340/'>Force</a>|<a href='/digital
   [of Compulsion in Matters of Religion]</a>|<a href='/digital-beehive/num2/num_0276/'>253
   [Rape]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3290/'>rape</a>"
+index: "<a href='/digital-beehive/index4/index_3289/'>rape</a>"
 item: "#item-6d1502d53"
 unparsed: 
 line: 'Entry: Rape|Topic: Rape|Xref: Force|Xref: 1049 [of Compulsion in Matters of
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/372,43
 label: Rape
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '127'
 layout: alpha_item
 collection: alpha4

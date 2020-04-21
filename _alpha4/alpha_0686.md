@@ -9,9 +9,9 @@ first_letter: P
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Cross of Christ</a>|<a href='/digital-beehive/alpha4/alpha_0924/'>Suffering</a>|<a
-  href='/digital-beehive/toc/toc2_185/'>998 [Passion or Suffering of Xst]</a>"
+  href='/digital-beehive/num4/num_1330'>998 [Passion or Suffering of Xst]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2907/'>passion of Xst</a>"
+index: "<a href='/digital-beehive/index4/index_2906/'>passion of Xst</a>"
 item: "#item-74ba8c782"
 unparsed: 
 line: 'Entry: Passion|Topic: Passion|Xref: Cross of Christ|Xref: Suffering|Xref: 998
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/284,96
 label: Passion
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '039'
 layout: alpha_item
 collection: alpha4

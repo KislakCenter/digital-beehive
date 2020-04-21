@@ -23,7 +23,7 @@ label: Self deceit
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0859'
+order: '0860'
 layout: index_item
 collection: index4
 ---

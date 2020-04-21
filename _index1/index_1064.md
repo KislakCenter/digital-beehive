@@ -2,27 +2,24 @@
 pid: index_1064
 volume: Volume 3
 image_number: '16'
-head: discerning
-entry: "<a href='/digital-beehive/num2/num_0433/'>365 [Discern]</a>|<a href='/digital-beehive/toc/toc2_184/'>989
-  [Spiritual discerning]</a>|<a href='/digital-beehive/toc/toc2_411/'>2369 [Spiritual
-  Discerning]</a>"
+head: discharge
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2756/'>obliga[ti]on</a>|<a href='/digital-beehive/index1/index_1118/'>divorcement</a>"
 index: 
-item: "#item-6b56f65b4"
+item: "#item-8c40fd4f4"
 unparsed: 
-line: 'Head: discerning|Entry: 365 [Discern]|Entry: 989 [Spiritual discerning]|Entry:
-  2369 [Spiritual Discerning]|#item-6b56f65b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/full/0/default.jpg
+line: 'Head: discharge|See: obliga[ti]on|See: divorcement|#item-8c40fd4f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1771,2851,725,183/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784204926
+annotation_uri: http://dev.llgc.org.uk/annotation/1508177522072
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/150,/0/default.jpg
-label: discerning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1771,2851,725,183/150,/0/default.jpg
+label: discharge
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

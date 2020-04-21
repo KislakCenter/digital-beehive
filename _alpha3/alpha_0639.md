@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0792/'>Report</a>|messenger|<a href='/digital-beehive/toc/toc2_244/'>1252
   [News]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2702/'>news</a>"
+index: "<a href='/digital-beehive/index3/index_2701/'>news</a>"
 item: "#item-9f38763ad"
 unparsed: 
 line: 'Entry: News|Topic: News|Xref: Report|Xref: messenger|Xref: 1252 [News]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/751,14
 label: News
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '195'
 layout: alpha_item
 collection: alpha3

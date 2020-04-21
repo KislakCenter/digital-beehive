@@ -15,7 +15,7 @@ page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>|<a href='/d
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0287/'>epitaph</a>|<a href='/digital-beehive/alpha3/alpha_0612/'>motto</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2058/'>inscriptions</a>"
+index: "<a href='/digital-beehive/index3/index_2057/'>inscriptions</a>"
 item: "#item-454cfd666"
 unparsed: 
 line: 'Entry: Inscription|Topic: Inscription|Xref: epitaph|Xref: motto|Page: p.2 [Image
@@ -32,6 +32,7 @@ location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: It is unclear whether "Intitle" should be considered a separate entry.|There
   is currently no protocol for cross-references to page numbers in the Alphabetical
   Hive.
+also_in_entry: 
 order: '035'
 layout: alpha_item
 collection: alpha3

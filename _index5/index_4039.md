@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2051/'>Inn</a>"
+see: "<a href='/digital-beehive/index3/index_2050/'>Inn</a>"
 index: 
 item: "#item-733cb1714"
 unparsed: 

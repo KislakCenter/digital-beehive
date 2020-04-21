@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2346/'>love of sin</a>"
+index: "<a href='/digital-beehive/index3/index_2345/'>love of sin</a>"
 item: "#item-4bf576848"
 unparsed: 
 line: 'Entry: Love of Sin|Topic: Love of Sin|Index: love of sin|#item-4bf576848'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/770,93
 label: Love of Sin
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '115'
 layout: alpha_item
 collection: alpha3

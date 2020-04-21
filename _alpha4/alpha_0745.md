@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0411/'>Help</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3189/'>promoting</a>"
+index: "<a href='/digital-beehive/index4/index_3188/'>promoting</a>"
 item: "#item-5413ee3e8"
 unparsed: 
 line: 'Entry: Promoting|Topic: Promoting|Xref: Help|Index: promoting|#item-5413ee3e8'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/355,42
 label: Promoting
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '098'
 layout: alpha_item
 collection: alpha4

@@ -8,11 +8,10 @@ topic: Happiness
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0343/'>Fortune</a>|Success|Unhappiness|<a
-  href='/digital-beehive/toc/toc2_159/'>716 [unhappiness]</a>|<a href='/digital-beehive/toc/toc2_215/'>1106
-  [happy]</a>"
+xref: "<a href='/digital-beehive/alpha2/alpha_0343/'>Fortune</a>|Success|<a href='/digital-beehive/num3/num_1051'>716
+  [Unhappiness]</a>|<a href='/digital-beehive/toc/toc2_215/'>1106 [happy]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1750/'>happiness</a>"
+index: "<a href='/digital-beehive/index2/index_1749/'>happiness</a>"
 item: "#item-b5ca3c52d"
 unparsed: 
 line: 'Entry: Happiness|Topic: Happiness|Xref: Fortune|Xref: Success|Xref: Unhappiness|Xref:
@@ -25,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,38
 label: Happiness
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '124'
 layout: alpha_item
 collection: alpha2

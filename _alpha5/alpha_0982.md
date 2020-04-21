@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,41
 label: Truth
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '047'
+also_in_entry: 
+order: '048'
 layout: alpha_item
 collection: alpha5
 ---

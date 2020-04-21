@@ -3,7 +3,7 @@ pid: index_3474
 volume: Volume 3
 image_number: '40'
 head: rye
-entry: "<a href='/digital-beehive/toc/toc2_148/'>664 [Rye]</a>"
+entry: "<a href='/digital-beehive/num3/num_0919'>664 [Rye]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rye
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0722'
+order: '0723'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,8 @@
 pid: index_1579
 volume: Volume 3
 image_number: '21'
-head: galilee
-entry: "<a href='/digital-beehive/toc/toc2_441/'>4868 [Galileans]</a>"
+head: gaping
+entry: "<a href='/digital-beehive/num3/num_1023'>704 [to Gape]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-89eca517d"
+item: "#item-dc6a1c620"
 unparsed: 
-line: 'Head: galilee|Entry: 4868 [Galileans]|#item-89eca517d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1516,2276,521,140/full/0/default.jpg
+line: 'Head: gaping|Entry: 704 [to Gape]|#item-dc6a1c620'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787067680
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787120452
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1516,2276,521,140/150,/0/default.jpg
-label: galilee
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/150,/0/default.jpg
+label: gaping
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '397'
+order: '398'
 layout: index_item
 collection: index2
 ---

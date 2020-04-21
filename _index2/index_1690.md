@@ -2,11 +2,8 @@
 pid: index_1690
 volume: Volume 3
 image_number: '22'
-head: God's providence
-entry: "<a href='/digital-beehive/alpha2/alpha_0369/'>a</a>|<a href='/digital-beehive/num1/num_0241/'>227
-  [Gods Providence]</a>|<a href='/digital-beehive/toc/toc2_333/'>1691 [Gods Providence]</a>|<a
-  href='/digital-beehive/toc/toc2_361/'>1968 [God's Providence]</a>|<a href='/digital-beehive/toc/toc2_409/'>2355
-  [God's Providence]</a>"
+head: grandeur
+entry: "<a href='/digital-beehive/alpha2/alpha_0381/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -14,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-af719e3b7"
+item: "#item-09f29094f"
 unparsed: 
-line: 'Head: God''s providence|Entry: a|Entry: 227 [Gods Providence]|Entry: 1691 [Gods
-  Providence]|Entry: 1968 [God''s Providence]|Entry: 2355 [God''s Providence]|#item-af719e3b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/full/0/default.jpg
+line: 'Head: grandeur|Entry: a|#item-09f29094f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,2349,369,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053175536
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053259828
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1171,2304,965,156/150,/0/default.jpg
-label: God's providence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,2349,369,146/150,/0/default.jpg
+label: grandeur
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '507'
+order: '508'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0338/'>forbearance</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2324/'>long sufferance</a>"
+index: "<a href='/digital-beehive/index3/index_2323/'>long sufferance</a>"
 item: "#item-8ae6416e0"
 unparsed: 
 line: 'Entry: Longsufferance|Topic: Longsufferance|Xref: forbearance|Index: long sufferance|#item-8ae6416e0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/297,25
 label: Longsufferance
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '103'
 layout: alpha_item
 collection: alpha3

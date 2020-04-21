@@ -2,9 +2,8 @@
 pid: index_2136
 volume: Volume 3
 image_number: '27'
-head: juggling
-entry: "<a href='/digital-beehive/num2/num_0522/'>422 [Juggling]</a>|<a href='/digital-beehive/toc/toc2_304/'>1547
-  [Juggling]</a>"
+head: juice
+entry: "<a href='/digital-beehive/toc/toc2_241/'>1240 [Juice]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fff2e8bd4"
+item: "#item-7a1ecdf79"
 unparsed: 
-line: 'Head: juggling|Entry: 422 [Juggling]|Entry: 1547 [Juggling]|#item-fff2e8bd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/full/0/default.jpg
+line: 'Head: juice|Entry: 1240 [Juice]|#item-7a1ecdf79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/154,2174,353,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758370568
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758496571
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/150,/0/default.jpg
-label: juggling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/154,2174,353,97/150,/0/default.jpg
+label: juice
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '217'
+order: '218'
 layout: index_item
 collection: index3
 ---

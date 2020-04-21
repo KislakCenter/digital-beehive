@@ -2,8 +2,9 @@
 pid: index_1052
 volume: Volume 3
 image_number: '16'
-head: dilem[m]a
-entry: "<a href='/digital-beehive/num1/num_0249/'>232 [Dilem[m]a]</a>"
+head: diligence
+entry: "<a href='/digital-beehive/alpha1/alpha_0236/'>a</a>|<a href='/digital-beehive/num4/num_1225'>924
+  [Diligence]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ac0419e71"
+item: "#item-96135ebcc"
 unparsed: 
-line: 'Head: dilem[m]a|Entry: 232 [Dilem[m]a]|#item-ac0419e71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1800,1783,464,96/full/0/default.jpg
+line: 'Head: diligence|Entry: a|Entry: 924 [Diligence]|#item-96135ebcc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1786,1925,655,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783820679
+annotation_uri: http://dev.llgc.org.uk/annotation/1508174393359
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1800,1783,464,96/150,/0/default.jpg
-label: dilem[m]a
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1786,1925,655,131/150,/0/default.jpg
+label: diligence
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

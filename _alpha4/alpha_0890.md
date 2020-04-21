@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/797,13
 label: Snow
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '242'
 layout: alpha_item
 collection: alpha4

@@ -2,24 +2,24 @@
 pid: index_1112
 volume: Volume 3
 image_number: '17'
-head: diversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>"
+head: divertismt
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3322/'>recreation</a>"
 index: 
-item: "#item-618c2e032"
+item: "#item-98e328aec"
 unparsed: 
-line: 'Head: diversity|Entry: a|#item-618c2e032'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/full/0/default.jpg
+line: 'Head: divertismt|See: recreation|#item-98e328aec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849180342
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849212180
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/150,/0/default.jpg
-label: diversity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/150,/0/default.jpg
+label: divertismt
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

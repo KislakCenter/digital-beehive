@@ -3,7 +3,7 @@ pid: index_4022
 volume: Volume 3
 image_number: '46'
 head: swelling
-entry: "<a href='/digital-beehive/toc/toc2_171/'>916 [Swelling]</a>"
+entry: "<a href='/digital-beehive/num4/num_1211'>916 [Swelling]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: swelling
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1270'
+order: '1271'
 layout: index_item
 collection: index4
 ---

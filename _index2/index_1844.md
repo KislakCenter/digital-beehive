@@ -2,9 +2,8 @@
 pid: index_1844
 volume: Volume 3
 image_number: '24'
-head: history
-entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/toc/toc2_185/'>997
-  [History]</a>|<a href='/digital-beehive/toc/toc2_339/'>1746 [Chroniclers]</a>"
+head: history ecclesiastical
+entry: "<a href='/digital-beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-db16112d7"
+item: "#item-38cc4d6e3"
 unparsed: 
-line: 'Head: history|Entry: 31 [History]|Entry: 997 [History]|Entry: 1746 [Chroniclers]|#item-db16112d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/full/0/default.jpg
+line: 'Head: history ecclesiastical |Entry: 1497 [Historia Ecclesiastica]|#item-38cc4d6e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559579953415
+annotation_uri: http://dev.llgc.org.uk/annotation/1559580033481
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/150,/0/default.jpg
-label: history
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/150,/0/default.jpg
+label: history ecclesiastical
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '661'
+order: '662'
 layout: index_item
 collection: index2
 ---

@@ -8,7 +8,7 @@ topic: New Testamt
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_173/'>926 [New testament]</a>"
+xref: "<a href='/digital-beehive/num4/num_1227'>926 [New Testament]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4099/'>testament new</a>"
 item: "#item-84496680a"
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,14
 label: New Testamt
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '012'
+also_in_entry: 
+order: '013'
 layout: alpha_item
 collection: alpha5
 ---

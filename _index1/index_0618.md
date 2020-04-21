@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1287/'>equanimity</a>"
+see: "<a href='/digital-beehive/index2/index_1286/'>equanimity</a>"
 index: 
 item: "#item-35346d7a8"
 unparsed: 

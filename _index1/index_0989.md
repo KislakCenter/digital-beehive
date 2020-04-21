@@ -2,10 +2,8 @@
 pid: index_0989
 volume: Volume 3
 image_number: '16'
-head: defence
-entry: "<a href='/digital-beehive/alpha1/alpha_0217/'>a</a>|739 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_337/'>1722 [to Defend]</a>|<a href='/digital-beehive/toc/toc2_424/'>4465
-  [Defence]</a>"
+head: defiling
+entry: 859 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -13,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-690aa13b8"
+item: "#item-1e0b54794"
 unparsed: 
-line: 'Head: defence|Entry: a|Entry: 739 [PAGE_MISSING]|Entry: 1722 [to Defend]|Entry:
-  4465 [Defence]|#item-690aa13b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,1781,821,122/full/0/default.jpg
+line: 'Head: defiling|Entry: 859 [PAGE_MISSING]|#item-1e0b54794'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/347,1902,479,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507575945525
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572109283
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,1781,821,122/150,/0/default.jpg
-label: defence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/347,1902,479,157/150,/0/default.jpg
+label: defiling
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

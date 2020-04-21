@@ -15,8 +15,8 @@ see:
 index: 
 item: "#item-436bf55b3"
 unparsed: 
-line: 'Head: various lections|Entry: 301 [Uncertainty of the Scriptures]|Entry: 263
-  [Dittology]|Entry: 1022 [Uncertainty of the Scriptures]|#item-436bf55b3'
+line: 'Head: various lections|Entry: 301 [Uncertainty of the h. Scripture]|Entry:
+  263 [Dittology]|Entry: 1022 [Uncertainty of the Scriptures]|#item-436bf55b3'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/952,1624,704,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561658001283

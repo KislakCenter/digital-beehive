@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0286/'>epicurism</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1373/'>eye lust</a>"
+index: "<a href='/digital-beehive/index2/index_1372/'>eye lust</a>"
 item: "#item-992a5ce4c"
 unparsed: 
 line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,36
 label: lust of the eye
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '036'
 layout: alpha_item
 collection: alpha2

@@ -2,8 +2,8 @@
 pid: index_1923
 volume: Volume 3
 image_number: '25'
-head: Jacobites
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1789 [Jacobites]</a>"
+head: Jailer
+entry: "<a href='/digital-beehive/num2/num_0488/'>399 [Jailer]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-844047635"
+item: "#item-e30834ea8"
 unparsed: 
-line: 'Head: Jacobites|Entry: 1789 [Jacobites]|#item-844047635'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/183,410,457,102/full/0/default.jpg
+line: 'Head: Jailer|Entry: 399 [Jailer]|#item-e30834ea8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658172031
+annotation_uri: http://dev.llgc.org.uk/annotation/1559658251678
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/183,410,457,102/150,/0/default.jpg
-label: Jacobites
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/150,/0/default.jpg
+label: Jailer
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '004'
+order: '005'
 layout: index_item
 collection: index3
 ---

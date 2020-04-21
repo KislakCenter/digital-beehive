@@ -3,7 +3,7 @@ pid: index_4257
 volume: Volume 3
 image_number: '49'
 head: truth from ye pulpits
-entry: "<a href='/digital-beehive/toc/toc2_125/'>530 [Truth from the pulpit]</a>"
+entry: "<a href='/digital-beehive/num3/num_0665'>530 [Truths from the pulpit]</a>"
 topic: 
 first_letter: T
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-4690add9c"
 unparsed: 
-line: 'Head: truth from ye pulpits|Entry: 530 [Truth from the pulpit]|#item-4690add9c'
+line: 'Head: truth from ye pulpits|Entry: 530 [Truths from the pulpit]|#item-4690add9c'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/220,345,628,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561655233947

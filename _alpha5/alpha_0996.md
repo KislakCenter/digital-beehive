@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/359,42
 label: Virginity
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '061'
+also_in_entry: 
+order: '062'
 layout: alpha_item
 collection: alpha5
 ---

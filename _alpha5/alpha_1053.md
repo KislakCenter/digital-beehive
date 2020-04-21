@@ -8,7 +8,7 @@ topic: Word of God
 first_letter: W
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_167/'>900 [Word of God]</a>"
+xref: "<a href='/digital-beehive/num4/num_1169'>900 [Word of God]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4604/'>word of God</a>"
 item: "#item-2e7f9bce6"
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,18
 label: Word of God
 location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
 issue: 
-order: '118'
+also_in_entry: 
+order: '119'
 layout: alpha_item
 collection: alpha5
 ---

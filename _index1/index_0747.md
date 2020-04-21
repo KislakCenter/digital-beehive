@@ -2,8 +2,8 @@
 pid: index_0747
 volume: Volume 3
 image_number: '13'
-head: common calamities
-entry: "<a href='/digital-beehive/toc/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
+head: common opinion
+entry: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-65a388ba1"
+item: "#item-cd28e796e"
 unparsed: 
-line: 'Head: common calamities|Entry: 1368 [Publick or Com[m]on Calamities]|#item-65a388ba1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/full/0/default.jpg
+line: 'Head: common opinion|Entry: 95 [a Vulgar Spirited man]|#item-cd28e796e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1546,2744,502,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536612161966
+annotation_uri: http://dev.llgc.org.uk/annotation/1536612296703
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/150,/0/default.jpg
-label: common calamities
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1546,2744,502,111/150,/0/default.jpg
+label: common opinion
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

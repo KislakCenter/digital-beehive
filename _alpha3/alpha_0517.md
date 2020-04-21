@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_433/'>4825 [Latin]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2216/'>latin</a>"
+index: "<a href='/digital-beehive/index3/index_2215/'>latin</a>"
 item: "#item-22ec67ff1"
 unparsed: 
 line: 'Entry: Latin|Topic: Latin|Xref: 4825 [Latin]|Index: latin|#item-22ec67ff1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,39
 label: Latin
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '073'
 layout: alpha_item
 collection: alpha3

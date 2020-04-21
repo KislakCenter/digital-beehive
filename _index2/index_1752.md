@@ -2,8 +2,8 @@
 pid: index_1752
 volume: Volume 3
 image_number: '23'
-head: to happen
-entry: 833 [PAGE_MISSING]
+head: hard
+entry: "<a href='/digital-beehive/num3/num_0794'>603 [Hard]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f17e1fb5f"
+item: "#item-4b556dcb4"
 unparsed: 
-line: 'Head: to happen|Entry: 833 [PAGE_MISSING]|#item-f17e1fb5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/831,1303,483,141/full/0/default.jpg
+line: 'Head: hard|Entry: 603 [Hard]|#item-4b556dcb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1423,367,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239476518
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239567340
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/831,1303,483,141/150,/0/default.jpg
-label: to happen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1423,367,91/150,/0/default.jpg
+label: hard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '569'
+order: '570'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: Vespers|<a href='/digital-beehive/toc/toc2_328/'>1668 [Mass]</a>
 see: 
-index: "<a href='/digital-beehive/index3/index_2444/'>mass</a>"
+index: "<a href='/digital-beehive/index3/index_2443/'>mass</a>"
 item: "#item-596cbe576"
 unparsed: 
 line: 'Entry: Mass|Topic: Mass|Xref: Vespers|Xref: 1668 [Mass]|Index: mass|#item-596cbe576'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,33
 label: Mass
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: The point of reference for "Vespers" is unclear.
+also_in_entry: 
 order: '130'
 layout: alpha_item
 collection: alpha3

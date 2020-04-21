@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_261/'>1338 [Dog]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1126/'>dog</a>"
+index: "<a href='/digital-beehive/index1/index_1125/'>dog</a>"
 item: "#item-b80ead891"
 unparsed: 
 line: 'Entry: Dog|Topic: Dog|Xref: 1338 [Dog]|Index: dog|#item-b80ead891'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/388,28
 label: Dog
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '256'
+also_in_entry: 
+order: '255'
 layout: alpha_item
 collection: alpha1
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2893/'>parsly</a>"
+index: "<a href='/digital-beehive/index4/index_2892/'>parsly</a>"
 item: "#item-192c671b7"
 unparsed: 
 line: 'Entry: Parsly|Topic: Parsly|Index: parsly|#item-192c671b7'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/264,25
 label: Parsly
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '035'
 layout: alpha_item
 collection: alpha4

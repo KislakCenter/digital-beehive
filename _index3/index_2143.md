@@ -2,9 +2,8 @@
 pid: index_2143
 volume: Volume 3
 image_number: '27'
-head: justice of the peace
-entry: "<a href='/digital-beehive/toc/toc2_350/'>1835 [Justice of the Peace]</a>|4752
-  [PAGE_MISSING]"
+head: justice and mercy
+entry: "<a href='/digital-beehive/toc/toc2_237/'>1216 [Covetous]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c22e8fd90"
+item: "#item-f06729d1c"
 unparsed: 
-line: 'Head: justice of the peace|Entry: 1835 [Justice of the Peace]|Entry: 4752 [PAGE_MISSING]|#item-c22e8fd90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/158,2627,677,111/full/0/default.jpg
+line: 'Head: justice and mercy|Entry: 1216 [Covetous]|#item-f06729d1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/151,2672,570,218/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758944766
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759150045
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/158,2627,677,111/150,/0/default.jpg
-label: justice of the peace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/151,2672,570,218/150,/0/default.jpg
+label: justice and mercy
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '224'
+order: '225'
 layout: index_item
 collection: index3
 ---

@@ -2,9 +2,10 @@
 pid: index_1336
 volume: Volume 3
 image_number: '19'
-head: exclamation
-entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>|4645
-  [PAGE_MISSING]"
+head: excom[m]unication
+entry: "<a href='/digital-beehive/num1/num_0026/'>26 [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1165'>897
+  [Excom[m]unication]</a>|<a href='/digital-beehive/num4/num_1269'>951 [Excom[m]unication]</a>|<a
+  href='/digital-beehive/toc/toc2_345/'>1792 [Excommunication]</a>"
 topic: 
 first_letter: E
 page: 
@@ -12,20 +13,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c6579c41c"
+item: "#item-f5bab9463"
 unparsed: 
-line: 'Head: exclamation|Entry: 333 [Exclam[m]ations or Interjections]|Entry: 4645
-  [PAGE_MISSING]|#item-c6579c41c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/825,3224,746,123/full/0/default.jpg
+line: 'Head: excom[m]unication|Entry: 26 [Excom[m]unication]|Entry: 897 [Excom[m]unication]|Entry:
+  951 [Excom[m]unication]|Entry: 1792 [Excommunication]|#item-f5bab9463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361206469
+annotation_uri: http://dev.llgc.org.uk/annotation/1560364111842
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/825,3224,746,123/150,/0/default.jpg
-label: exclamation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/837,3352,696,177/150,/0/default.jpg
+label: excom[m]unication
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '154'
+order: '155'
 layout: index_item
 collection: index2
 ---

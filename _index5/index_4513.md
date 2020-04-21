@@ -3,7 +3,7 @@ pid: index_4513
 volume: Volume 3
 image_number: '52'
 head: weighty
-entry: "<a href='/digital-beehive/toc/toc2_122/'>510 [Concern]</a>"
+entry: "<a href='/digital-beehive/num3/num_0641'>510 [Concern]</a>"
 topic: 
 first_letter: W
 page: 

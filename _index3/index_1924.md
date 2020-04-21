@@ -2,8 +2,8 @@
 pid: index_1924
 volume: Volume 3
 image_number: '25'
-head: Jailer
-entry: "<a href='/digital-beehive/num2/num_0488/'>399 [Jailer]</a>"
+head: Janizaries
+entry: 1877 [PAGE_MISSING]
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e30834ea8"
+item: "#item-a392f3b85"
 unparsed: 
-line: 'Head: Jailer|Entry: 399 [Jailer]|#item-e30834ea8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/full/0/default.jpg
+line: 'Head: Janizaries|Entry: 1877 [PAGE_MISSING]|#item-a392f3b85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/167,514,515,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658251678
+annotation_uri: http://dev.llgc.org.uk/annotation/1559658750747
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/154,451,416,139/150,/0/default.jpg
-label: Jailer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/167,514,515,109/150,/0/default.jpg
+label: Janizaries
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '005'
+order: '006'
 layout: index_item
 collection: index3
 ---

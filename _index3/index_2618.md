@@ -2,8 +2,8 @@
 pid: index_2618
 volume: Volume 3
 image_number: '31'
-head: murrain
-entry: "<a href='/digital-beehive/toc/toc2_382/'>2170 [Murrain]</a>"
+head: mushroom
+entry: "<a href='/digital-beehive/alpha3/alpha_0619/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f996432e9"
+item: "#item-665224971"
 unparsed: 
-line: 'Head: murrain|Entry: 2170 [Murrain]|#item-f996432e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1836,502,86/full/0/default.jpg
+line: 'Head: mushroom|Entry: a|#item-665224971'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361963242
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361985267
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1836,502,86/150,/0/default.jpg
-label: murrain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/150,/0/default.jpg
+label: mushroom
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '699'
+order: '700'
 layout: index_item
 collection: index3
 ---

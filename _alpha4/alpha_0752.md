@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0217/'>Defence</a>|<a href='/digital-beehive/alpha2/alpha_0368/'>Gods
   help</a>|1855 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3205/'>protection</a>"
+index: "<a href='/digital-beehive/index4/index_3204/'>protection</a>"
 item: "#item-8801776b3"
 unparsed: 
 line: 'Entry: Protection|Topic: Protection|Xref: Defence|Xref: Gods help|Xref: 1855
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/731,21
 label: Protection
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '105'
 layout: alpha_item
 collection: alpha4

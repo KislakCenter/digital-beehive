@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_241/'>1237 [Earthquakes]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1190/'>earthquake</a>"
+index: "<a href='/digital-beehive/index2/index_1189/'>earthquake</a>"
 item: "#item-aada765c4"
 unparsed: 
 line: 'Entry: Earthquake|Topic: Earthquake|XRef: 1237 [Earthquakes]|Index: earthquake|#item-aada765c4'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,34
 label: Earthquake
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '003'
 layout: alpha_item
 collection: alpha2

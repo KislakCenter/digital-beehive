@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2170/'>kneeling</a>"
+index: "<a href='/digital-beehive/index3/index_2169/'>kneeling</a>"
 item: "#item-b9d62fe60"
 unparsed: 
 line: 'Entry: Kneeling|Topic: Kneeling|Index: kneeling|#item-b9d62fe60'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/382,39
 label: Kneeling
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '059'
 layout: alpha_item
 collection: alpha3

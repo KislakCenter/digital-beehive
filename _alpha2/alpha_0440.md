@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0016/'>Agriculture</a>|<a href='/digital-beehive/alpha4/alpha_0654/'>Oeconomy</a>|<a
   href='/digital-beehive/num2/num_0315/'>281 [Husbandry]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1912/'>husbandry and huswifery</a>"
+index: "<a href='/digital-beehive/index2/index_1911/'>husbandry and huswifery</a>"
 item: "#item-2ad75fadf"
 unparsed: 
 line: 'Entry: Husbandry|Topic: Husbandry|Xref: Agriculture|Xref: Oeconomy|Xref: 281
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/790,23
 label: Husbandry
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '171'
 layout: alpha_item
 collection: alpha2

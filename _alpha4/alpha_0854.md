@@ -14,7 +14,7 @@ see:
 index: "<a href='/digital-beehive/index4/index_3626/'>Self profit</a>"
 item: "#item-0e15b046c"
 unparsed: 
-line: 'Entry: Self profit|Topic: Self profit|Xref: Lucre|Xref: 455 [self-profit]|Index:
+line: 'Entry: Self profit|Topic: Self profit|Xref: Lucre|Xref: 455 [Self-profit]|Index:
   Self profit|#item-0e15b046c'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,3744,3045,418/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/286,37
 label: Self profit
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '206'
 layout: alpha_item
 collection: alpha4

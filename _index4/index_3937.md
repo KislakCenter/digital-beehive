@@ -3,7 +3,7 @@ pid: index_3937
 volume: Volume 3
 image_number: '45'
 head: strength
-entry: "<a href='/digital-beehive/toc/toc2_148/'>663 [Strength]</a>"
+entry: "<a href='/digital-beehive/num3/num_0915'>663 [Strength]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: strength
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1185'
+order: '1186'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0547/'>Longsufferance</a>|<a href='/digital-beehive/toc/toc2_328/'>1669
   [Langer]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1499/'>forbearance</a>"
+index: "<a href='/digital-beehive/index2/index_1498/'>forbearance</a>"
 item: "#item-798ba6561"
 unparsed: 
 line: 'Entry: Forbearance|Topic: Forbearance|Xref: Longsufferance|Xref: 1669 [Langer]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/680,32
 label: Forbearance
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '069'
 layout: alpha_item
 collection: alpha2

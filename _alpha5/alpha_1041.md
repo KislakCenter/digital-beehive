@@ -8,7 +8,7 @@ topic: Wish
 first_letter: W
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>gratulation</a>|<a href='/digital-beehive/toc/toc2_162/'>875
+xref: "<a href='/digital-beehive/alpha2/alpha_0384/'>gratulation</a>|<a href='/digital-beehive/num4/num_1109'>875
   [Wish]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4570/'>wish</a>"
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/325,21
 label: Wish
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 issue: 
-order: '106'
+also_in_entry: 
+order: '107'
 layout: alpha_item
 collection: alpha5
 ---

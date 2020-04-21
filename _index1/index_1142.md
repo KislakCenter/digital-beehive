@@ -2,8 +2,8 @@
 pid: index_1142
 volume: Volume 3
 image_number: '17'
-head: Drawing in picture
-entry: 4523 [PAGE_MISSING]
+head: to draw
+entry: "<a href='/digital-beehive/num3/num_0876'>642 [To Draw]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-548596353"
+item: "#item-581a4da1c"
 unparsed: 
-line: 'Head: Drawing in picture|Entry: 4523 [PAGE_MISSING]|#item-548596353'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1571,1379,680,138/full/0/default.jpg
+line: 'Head: to draw|Entry: 642 [To Draw]|#item-581a4da1c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1519,1421,462,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560451649740
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451715736
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1571,1379,680,138/150,/0/default.jpg
-label: Drawing in picture
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1519,1421,462,123/150,/0/default.jpg
+label: to draw
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

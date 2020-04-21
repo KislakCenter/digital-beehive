@@ -2,24 +2,24 @@
 pid: index_0781
 volume: Volume 3
 image_number: '14'
-head: condescension
-entry: "<a href='/digital-beehive/num1/num_0059/'>58 [acts of Forbearance or Condescension]</a>"
+head: condition
+entry: "<a href='/digital-beehive/alpha1/alpha_0166/'>a</a>"
 topic: 
 first_letter: C
 page: 
-add: 
+add: State
 xref: 
 see: 
 index: 
-item: "#item-59eae063c"
+item: "#item-11b241d21"
 unparsed: 
-line: 'Head: condescension|Entry: 58 [acts of Forbearance or Condescension]|#item-59eae063c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/full/0/default.jpg
+line: 'Head: condition|Entry: a|Add: State|#item-11b241d21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/400,2685,463,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216743595
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216781446
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/150,/0/default.jpg
-label: condescension
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/400,2685,463,176/150,/0/default.jpg
+label: condition
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

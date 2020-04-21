@@ -2,28 +2,28 @@
 pid: index_2834
 volume: Volume 3
 image_number: '34'
-head: other
-entry: "<a href='/digital-beehive/num2/num_0401/'>346 [Other]</a>"
+head: ostentation
+entry: 
 topic: 
 first_letter: O
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3106/'>praise</a>"
 index: 
-item: "#item-4e65c214d"
+item: "#item-1cea55a91"
 unparsed: 
-line: 'Head: other|Entry: 346 [Other]|#item-4e65c214d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/full/0/default.jpg
+line: 'Head: ostentation|See: praise|#item-1cea55a91'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/458,540,791,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424984796
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425021091
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/150,/0/default.jpg
-label: other
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/458,540,791,193/150,/0/default.jpg
+label: ostentation
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0082'
+order: '0083'
 layout: index_item
 collection: index4
 ---

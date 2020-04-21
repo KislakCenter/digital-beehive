@@ -2,28 +2,28 @@
 pid: index_2420
 volume: Volume 3
 image_number: '29'
-head: manuscripts of mine own
-entry: 
+head: many
+entry: "<a href='/digital-beehive/toc/toc2_207/'>1067 [Many]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_296/'>p.386 [Image 2.306]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d41e25954"
+item: "#item-1c08c8035"
 unparsed: 
-line: 'Head: manuscripts of mine own|Page: p.386 [Image 2.306]|#item-d41e25954'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/full/0/default.jpg
+line: 'Head: many|Entry: 1067 [Many]|#item-1c08c8035'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1529,3136,359,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196877210
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196937804
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/150,/0/default.jpg
-label: manuscripts of mine own
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1529,3136,359,123/150,/0/default.jpg
+label: many
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 'The listed entry is on the page following the intended point of reference. '
+issue: 
 insertion_xref: 
-order: '501'
+order: '502'
 layout: index_item
 collection: index3
 ---

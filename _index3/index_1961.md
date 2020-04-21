@@ -2,9 +2,8 @@
 pid: index_1961
 volume: Volume 3
 image_number: '25'
-head: imitation of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0459/'>a</a>|<a href='/digital-beehive/toc/toc2_195/'>1010
-  [Following of Christ]</a>"
+head: im[m]ensity
+entry: "<a href='/digital-beehive/num2/num_0286/'>260 [Immensity]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-afe949723"
+item: "#item-ff56f9e59"
 unparsed: 
-line: 'Head: imitation of Christ|Entry: a|Entry: 1010 [Following of Christ]|#item-afe949723'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/852,827,641,142/full/0/default.jpg
+line: 'Head: im[m]ensity|Entry: 260 [Immensity]|#item-ff56f9e59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/881,950,452,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665291036
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665357846
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/852,827,641,142/150,/0/default.jpg
-label: imitation of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/881,950,452,144/150,/0/default.jpg
+label: im[m]ensity
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '042'
+order: '043'
 layout: index_item
 collection: index3
 ---

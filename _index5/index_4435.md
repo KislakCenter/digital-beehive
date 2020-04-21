@@ -3,7 +3,7 @@ pid: index_4435
 volume: Volume 3
 image_number: '51'
 head: to upbraid
-entry: "<a href='/digital-beehive/num2/num_0468/'>386 [Upbraid]</a>"
+entry: "<a href='/digital-beehive/num2/num_0468/'>386 [upbraid]</a>"
 topic: 
 first_letter: U/V
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-4c7fb4ff9"
 unparsed: 
-line: 'Head: to upbraid|Entry: 386 [upbraid]|#item-4c7fb4ff9'
+line: 'Head: to upbraid|Entry: 386 [Upbraid]|#item-4c7fb4ff9'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/948,558,506,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1561646501039

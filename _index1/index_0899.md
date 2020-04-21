@@ -2,25 +2,24 @@
 pid: index_0899
 volume: Volume 3
 image_number: '15'
-head: creature
-entry: "<a href='/digital-beehive/alpha1/alpha_0192/'>a</a>|<a href='/digital-beehive/toc/toc2_424/'>4458
-  [Creature]</a>"
+head: credible
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3168/'>probable</a>"
 index: 
-item: "#item-10347f9aa"
+item: "#item-2ddf59b4c"
 unparsed: 
-line: 'Head: creature|Entry: a|Entry: 4458 [Creature]|#item-10347f9aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/877,441,664,118/full/0/default.jpg
+line: 'Head: credible|See: probable|#item-2ddf59b4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/860,567,708,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577203676
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577236658
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/877,441,664,118/150,/0/default.jpg
-label: creature
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/860,567,708,135/150,/0/default.jpg
+label: credible
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

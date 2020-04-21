@@ -2,9 +2,8 @@
 pid: index_2782
 volume: Volume 3
 image_number: '33'
-head: old
-entry: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0418/'>355
-  [Old and Obsolete]</a>|4599 [PAGE_MISSING]"
+head: old Adam
+entry: "<a href='/digital-beehive/alpha4/alpha_0659/'>a</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-531172bf5"
+item: "#item-69108b61d"
 unparsed: 
-line: 'Head: old|Entry: 12 [Old friends]|Entry: 355 [Old]|Entry: 4599 [PAGE_MISSING]|#item-531172bf5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/full/0/default.jpg
+line: 'Head: old Adam|Entry: a|#item-69108b61d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/804,1547,568,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348271147
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348290342
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/150,/0/default.jpg
-label: old
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/804,1547,568,106/150,/0/default.jpg
+label: old Adam
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0030'
+order: '0031'
 layout: index_item
 collection: index4
 ---

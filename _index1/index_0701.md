@@ -3,7 +3,7 @@ pid: index_0701
 volume: Volume 3
 image_number: '13'
 head: clothes
-entry: "<a href='/digital-beehive/num1/num_0202/'>194 [Apparel]</a>|<a href='/digital-beehive/toc/toc2_162/'>872
+entry: "<a href='/digital-beehive/num1/num_0202/'>194 [Apparel]</a>|<a href='/digital-beehive/num4/num_1103'>872
   [Clothes]</a>|<a href='/digital-beehive/toc/toc2_278/'>1424 [Clothes]</a>|<a href='/digital-beehive/toc/toc2_341/'>1762
   [Clothes]</a>"
 topic: 

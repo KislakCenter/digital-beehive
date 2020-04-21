@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2932/'>peach</a>"
+index: "<a href='/digital-beehive/index4/index_2931/'>peach</a>"
 item: "#item-c3ca7d5f7"
 unparsed: 
 line: 'Entry: Peach|Topic: Peach|Index: peach|#item-c3ca7d5f7'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/337,33
 label: Peach
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '046'
 layout: alpha_item
 collection: alpha4

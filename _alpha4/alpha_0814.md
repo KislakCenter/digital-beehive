@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/274,12
 label: Rome
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '166'
 layout: alpha_item
 collection: alpha4

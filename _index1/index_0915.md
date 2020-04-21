@@ -2,25 +2,24 @@
 pid: index_0915
 volume: Volume 3
 image_number: '15'
-head: cross
-entry: "<a href='/digital-beehive/alpha1/alpha_0196/'>a</a>|<a href='/digital-beehive/toc/toc2_295/'>1505
-  [Cross]</a>"
+head: crown
+entry: "<a href='/digital-beehive/alpha1/alpha_0198/'>a</a>|4544 [PAGE_MISSING]"
 topic: 
 first_letter: C
-page: 
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-89f3f519c"
+item: "#item-f2a2a381f"
 unparsed: 
-line: 'Head: cross|Entry: a|Entry: 1505 [Cross]|#item-89f3f519c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2096,432,114/full/0/default.jpg
+line: 'Head: crown|Page: p.4 [Image 1.64]|Entry: a|Entry: 4544 [PAGE_MISSING]|#item-f2a2a381f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577644409
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577704025
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2096,432,114/150,/0/default.jpg
-label: cross
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/150,/0/default.jpg
+label: crown
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

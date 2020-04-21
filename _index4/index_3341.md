@@ -2,28 +2,28 @@
 pid: index_3341
 volume: Volume 3
 image_number: '39'
-head: to reject
-entry: 806 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_386/'>2204 [Refusal]</a>
+head: reign
+entry: 
 topic: 
 first_letter: R
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
 index: 
-item: "#item-d70918643"
+item: "#item-cca72b48d"
 unparsed: 
-line: 'Head: to reject|Entry: 806 [PAGE_MISSING]|Entry: 2204 [Refusal]|#item-d70918643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/116,2466,652,129/full/0/default.jpg
+line: 'Head: reign|See: empire|#item-cca72b48d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/108,2515,581,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464979097
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464995406
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/116,2466,652,129/150,/0/default.jpg
-label: to reject
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/108,2515,581,135/150,/0/default.jpg
+label: reign
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0589'
+order: '0590'
 layout: index_item
 collection: index4
 ---

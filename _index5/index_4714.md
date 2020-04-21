@@ -9,7 +9,7 @@ first_letter: insertion
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1665/'>gold</a>"
+see: "<a href='/digital-beehive/index2/index_1664/'>gold</a>"
 index: 
 item: "#item-d62bc63a0"
 unparsed: Type Index|Insertion [:46.]

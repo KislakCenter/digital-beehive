@@ -2,28 +2,28 @@
 pid: index_2042
 volume: Volume 3
 image_number: '26'
-head: inhabitants
-entry: "<a href='/digital-beehive/toc/toc2_397/'>2270 [Inhabitants]</a>"
+head: inheritance
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1813/'>heritage</a>"
 index: 
-item: "#item-8de7a682e"
+item: "#item-52ddc533d"
 unparsed: 
-line: 'Head: inhabitants|Entry: 2270 [Inhabitants]|#item-8de7a682e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/418,2569,548,104/full/0/default.jpg
+line: 'Head: inheritance|See: heritage|Entry: 1700 [Inheritance]|#item-52ddc533d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745107097
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745191920
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/418,2569,548,104/150,/0/default.jpg
-label: inhabitants
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,2615,840,157/150,/0/default.jpg
+label: inheritance
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '123'
+order: '124'
 layout: index_item
 collection: index3
 ---

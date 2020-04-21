@@ -2,9 +2,8 @@
 pid: index_2446
 volume: Volume 3
 image_number: '30'
-head: master of arts
-entry: "<a href='/digital-beehive/alpha3/alpha_0575/'>a</a>|<a href='/digital-beehive/num2/num_0595/'>480
-  [Master of arts]</a>"
+head: materia prima
+entry: "<a href='/digital-beehive/toc/toc2_331/'>1681 [Creation]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-37fdcd214"
+item: "#item-d19ce408f"
 unparsed: 
-line: 'Head: master of arts|Entry: a|Entry: 480 [Master of arts]|#item-37fdcd214'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/404,1851,567,88/full/0/default.jpg
+line: 'Head: materia prima|Entry: 1681 [Creation]|#item-d19ce408f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/384,1928,652,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560264120078
+annotation_uri: http://dev.llgc.org.uk/annotation/1560264328625
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/404,1851,567,88/150,/0/default.jpg
-label: master of arts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/384,1928,652,91/150,/0/default.jpg
+label: materia prima
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '527'
+order: '528'
 layout: index_item
 collection: index3
 ---

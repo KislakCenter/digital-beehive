@@ -8,7 +8,7 @@ topic: Apocrypha
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_179/'>959 [apocryphis]</a>"
+xref: "<a href='/digital-beehive/num4/num_1278'>959 [apocryphis]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0166/'>apocrypha</a>"
 item: "#item-4c389f708"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/358,37
 label: Apocrypha
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '036'
 layout: alpha_item
 collection: alpha1

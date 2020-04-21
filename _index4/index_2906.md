@@ -2,28 +2,29 @@
 pid: index_2906
 volume: Volume 3
 image_number: '34'
-head: passover
-entry: "<a href='/digital-beehive/toc/toc2_196/'>1011 [Passover]</a>"
+head: passion of Xst
+entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num4/num_1330'>998
+  [Passion or Suffering of Xst]</a>"
 topic: 
 first_letter: P
 page: 
-add: Easter
+add: 
 xref: 
 see: 
 index: 
-item: "#item-0fbbfc5eb"
+item: "#item-8d8b0c045"
 unparsed: 
-line: 'Head: passover|Entry: 1011 [Passover]|Add: Easter|#item-0fbbfc5eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,524,523,165/full/0/default.jpg
+line: 'Head: passion of Xst|Entry: a|Entry: 998 [Passion or Suffering of Xst]|#item-8d8b0c045'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565192308257
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495037926
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,524,523,165/150,/0/default.jpg
-label: passover
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/150,/0/default.jpg
+label: passion of Xst
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0154'
+order: '0155'
 layout: index_item
 collection: index4
 ---

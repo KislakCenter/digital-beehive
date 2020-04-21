@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0369/'>Gods Providence</a>|<a href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|<a
   href='/digital-beehive/toc/toc2_271/'>1390 [Providence]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3211/'>providence</a>"
+index: "<a href='/digital-beehive/index4/index_3210/'>providence</a>"
 item: "#item-786e4fb0f"
 unparsed: 
 line: 'Entry: Providence|Topic: Providence|Xref: Gods Providence|Xref: Caution|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/737,29
 label: Providence
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '107'
 layout: alpha_item
 collection: alpha4

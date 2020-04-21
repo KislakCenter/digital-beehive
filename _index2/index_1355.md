@@ -2,8 +2,8 @@
 pid: index_1355
 volume: Volume 3
 image_number: '19'
-head: expert
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1780 [Expert]</a>"
+head: explanation
+entry: "<a href='/digital-beehive/num3/num_1042'>713 [Explanation]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-15c918412"
+item: "#item-bf718f5c4"
 unparsed: 
-line: 'Head: expert|Entry: 1780 [Expert]|#item-15c918412'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/full/0/default.jpg
+line: 'Head: explanation|Entry: 713 [Explanation]|#item-bf718f5c4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1524,1596,583,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046576658
+annotation_uri: http://dev.llgc.org.uk/annotation/1561395583936
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/150,/0/default.jpg
-label: expert
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1524,1596,583,163/150,/0/default.jpg
+label: explanation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '173'
+order: '174'
 layout: index_item
 collection: index2
 ---

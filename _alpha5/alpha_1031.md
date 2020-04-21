@@ -9,7 +9,7 @@ first_letter: W
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
-  href='/digital-beehive/toc/toc2_132/'>571 [Fornication or Whoredom]</a>"
+  href='/digital-beehive/num3/num_0728'>571 [Fornication or Whoredom]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4541/'>whoredom</a>"
 item: "#item-74d7d6014"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,30
 label: Whoredom
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 issue: The point of reference for "Stews' is unclear.
-order: '096'
+also_in_entry: 
+order: '097'
 layout: alpha_item
 collection: alpha5
 ---

@@ -9,10 +9,10 @@ first_letter: G
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha3/alpha_0532/'>liberality</a>|<a
-  href='/digital-beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/digital-beehive/toc/toc2_121/'>506
+  href='/digital-beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/digital-beehive/num3/num_0636'>506
   [Gift]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1611/'>gift</a>"
+index: "<a href='/digital-beehive/index2/index_1610/'>gift</a>"
 item: "#item-a7f1c4050"
 unparsed: 
 line: 'Entry: Gift|Topic: Gift|Xref: alms|Xref: liberality|Xref: Bribe|Xref: 506 [Gift]|Index:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,19
 label: Gift
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '091'
 layout: alpha_item
 collection: alpha2

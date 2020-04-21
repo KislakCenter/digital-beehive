@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2102/'>John Bapt</a>"
+index: "<a href='/digital-beehive/index3/index_2101/'>John Bapt</a>"
 item: "#item-ab6a81988"
 unparsed: 
 line: 'Entry: John the baptist|Topic: John the baptist|Index: John Bapt|#item-ab6a81988'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,22
 label: John the baptist
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '043'
 layout: alpha_item
 collection: alpha3

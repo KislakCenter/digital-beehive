@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0173/'>contempt</a>|4576 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2347/'>love of the world</a>"
+index: "<a href='/digital-beehive/index3/index_2346/'>love of the world</a>"
 item: "#item-0b0db11ac"
 unparsed: 
 line: 'Entry: Love of the world|Topic: Love of the world|XRef: contempt|XRef: 4576
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/724,13
 label: Love of the world
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '116'
 layout: alpha_item
 collection: alpha3

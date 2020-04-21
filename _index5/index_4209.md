@@ -3,7 +3,7 @@ pid: index_4209
 volume: Volume 3
 image_number: '48'
 head: tradition
-entry: "<a href='/digital-beehive/alpha5/alpha_0973/'>a</a>|<a href='/digital-beehive/num2/num_0599/'>484
+entry: "<a href='/digital-beehive/alpha5/alpha_0973/'>a</a>|<a href='/digital-beehive/num2/num_0604/'>484
   [Tradition]</a>|<a href='/digital-beehive/toc/toc2_269/'>1376 [Tradition]</a>"
 topic: 
 first_letter: T

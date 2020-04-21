@@ -24,7 +24,7 @@ label: Self profit
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0874'
+order: '0875'
 layout: index_item
 collection: index4
 ---

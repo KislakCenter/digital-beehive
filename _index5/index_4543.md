@@ -3,7 +3,7 @@ pid: index_4543
 volume: Volume 3
 image_number: '52'
 head: why
-entry: "<a href='/digital-beehive/toc/toc2_133/'>579 [Why?]</a>"
+entry: "<a href='/digital-beehive/num3/num_0743'>579 [Why?]</a>"
 topic: 
 first_letter: W
 page: 

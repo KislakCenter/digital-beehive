@@ -3,14 +3,14 @@ pid: index_4458
 volume: Volume 3
 image_number: '51'
 head: wages
-entry: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480
+entry: "<a href='/digital-beehive/num3/num_0692'>549 [Hirelings]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480
   [Reward]</a>|<a href='/digital-beehive/num2/num_0533/'>431 [Reward]</a>"
 topic: 
 first_letter: W
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1843/'>hirelings</a>|<a href='/digital-beehive/index4/index_3412/'>reward</a>"
+see: "<a href='/digital-beehive/index2/index_1842/'>hirelings</a>|<a href='/digital-beehive/index4/index_3412/'>reward</a>"
 index: 
 item: "#item-7acd42931"
 unparsed: 

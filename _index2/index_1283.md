@@ -2,28 +2,28 @@
 pid: index_1283
 volume: Volume 3
 image_number: '19'
-head: epistles
-entry: 
+head: epistolography
+entry: "<a href='/digital-beehive/toc/toc2_310/'>1576 [Vulgar Titles]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
+see: 
 index: 
-item: "#item-cc5704f12"
+item: "#item-4dfa8148b"
 unparsed: 
-line: 'Head: epistles|See: letters|#item-cc5704f12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/143,728,551,182/full/0/default.jpg
+line: 'Head: epistolography|Entry: 1576 [Vulgar Titles]|#item-4dfa8148b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,848,668,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843138418
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843348033
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/143,728,551,182/150,/0/default.jpg
-label: epistles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,848,668,165/150,/0/default.jpg
+label: epistolography
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '101'
+order: '102'
 layout: index_item
 collection: index2
 ---

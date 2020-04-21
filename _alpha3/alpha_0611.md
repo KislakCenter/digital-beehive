@@ -8,9 +8,9 @@ topic: Motions
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_178/'>958 [Motions]</a>"
+xref: "<a href='/digital-beehive/num4/num_1277'>958 [Motions]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2598/'>motion</a>"
+index: "<a href='/digital-beehive/index3/index_2597/'>motion</a>"
 item: "#item-75ad0ded9"
 unparsed: 
 line: 'Entry: Motions|Topic: Motions|Xref: 958 [Motions]|Index: motion|#item-75ad0ded9'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/747,79
 label: Motions
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '167'
 layout: alpha_item
 collection: alpha3

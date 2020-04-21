@@ -8,7 +8,7 @@ topic: Wars miseries
 first_letter: W
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
+xref: "<a href='/digital-beehive/num3/num_0804'>608 [Ruin]</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
   [Evils of war]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4475/'>wars miseries</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/360,36
 label: Wars miseries
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 issue: 
-order: '085'
+also_in_entry: 
+order: '086'
 layout: alpha_item
 collection: alpha5
 ---

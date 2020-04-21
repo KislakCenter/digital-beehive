@@ -2,8 +2,8 @@
 pid: index_3260
 volume: Volume 3
 image_number: '38'
-head: quickly
-entry: 843 [PAGE_MISSING]
+head: to quicken
+entry: "<a href='/digital-beehive/num4/num_1190'>911 [To Quicken]</a>"
 topic: 
 first_letter: Q
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-37d142e04"
+item: "#item-0eda6fe88"
 unparsed: 
-line: 'Head: quickly|Entry: 843 [PAGE_MISSING]|#item-37d142e04'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1163,855,429,144/full/0/default.jpg
+line: 'Head: to quicken|Entry: 911 [To Quicken]|#item-0eda6fe88'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1159,958,563,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455124959
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455144305
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1163,855,429,144/150,/0/default.jpg
-label: quickly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1159,958,563,190/150,/0/default.jpg
+label: to quicken
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0508'
+order: '0509'
 layout: index_item
 collection: index4
 ---

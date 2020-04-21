@@ -2,28 +2,28 @@
 pid: index_2333
 volume: Volume 3
 image_number: '29'
-head: Lord
-entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>"
+head: Loretto
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1319 [Loretto]</a>"
 topic: 
 first_letter: L
 page: 
-add: "<a href='/digital-beehive/index4/index_3110/'>prayer</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-20ce408c8"
+item: "#item-7f07a3bfe"
 unparsed: 
-line: 'Head: Lord|Entry: a|Add: prayer|#item-20ce408c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/full/0/default.jpg
+line: 'Head: Loretto|Entry: 1319 [Loretto]|#item-7f07a3bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/180,1483,387,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178124372
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178277556
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/150,/0/default.jpg
-label: Lord
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/180,1483,387,143/150,/0/default.jpg
+label: Loretto
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '414'
+order: '415'
 layout: index_item
 collection: index3
 ---

@@ -16,7 +16,7 @@ index: "<a href='/digital-beehive/index4/index_3947/'>Student</a>"
 item: "#item-940dd7ef9"
 unparsed: 
 line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a Pretender
-  to Learning]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
+  to learning]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,3081,630/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532550795801
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,13
 label: Student
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '273'
 layout: alpha_item
 collection: alpha4

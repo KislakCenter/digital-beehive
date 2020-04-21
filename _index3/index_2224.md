@@ -1,29 +1,31 @@
 ---
 pid: index_2224
 volume: Volume 3
-image_number: '27'
-head: Lawbooks
-entry: "<a href='/digital-beehive/toc/toc2_294/'>1501 [English Law books]</a>"
+image_number: '28'
+head: lawsuit
+entry: 790 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_282/'>1445 [Law Suit]</a>|<a
+  href='/digital-beehive/toc/toc2_423/'>4451 [WORD_MISSING]</a>
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3170/'>process</a>"
 index: 
-item: "#item-654ee50f7"
+item: "#item-72691f5c3"
 unparsed: 
-line: 'Head: Lawbooks|Entry: 1501 [English Law books]|#item-654ee50f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1523,3584,489,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837416972
+line: 'Head: lawsuit|See: process|Entry: 790 [PAGE_MISSING]|Entry: 1445 [Law Suit]|Entry:
+  4451 [WORD_MISSING]|#item-72691f5c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559838724012
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1523,3584,489,112/150,/0/default.jpg
-label: Lawbooks
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,245,760,179/150,/0/default.jpg
+label: lawsuit
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '305'
+order: '306'
 layout: index_item
 collection: index3
 ---

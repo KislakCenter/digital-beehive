@@ -2,30 +2,28 @@
 pid: index_2872
 volume: Volume 3
 image_number: '34'
-head: parable
-entry: "<a href='/digital-beehive/toc/toc2_267/'>1370 [of the Parables & Similitudes
-  which Christ spake]</a>"
+head: Paracelsus
+entry: "<a href='/digital-beehive/num4/num_1300'>974 [Paracelsus]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3712/'>similitude</a>"
+see: 
 index: 
-item: "#item-60b17c5c6"
+item: "#item-33517a234"
 unparsed: 
-line: 'Head: parable|See: similitude|Entry: 1370 [of the Parables & Similitudes which
-  Christ spake]|#item-60b17c5c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/full/0/default.jpg
+line: 'Head: Paracelsus|Entry: 974 [Paracelsus]|#item-33517a234'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492730190
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492826620
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/150,/0/default.jpg
-label: parable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/150,/0/default.jpg
+label: Paracelsus
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0120'
+order: '0121'
 layout: index_item
 collection: index4
 ---

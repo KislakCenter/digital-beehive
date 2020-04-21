@@ -2,28 +2,28 @@
 pid: index_2034
 volume: Volume 3
 image_number: '26'
-head: infinite
-entry: "<a href='/digital-beehive/num2/num_0496/'>406 [Infinitness]</a>"
+head: infirmeries
+entry: 
 topic: 
 first_letter: I/J
-page: 
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-70073e237"
+item: "#item-2d26819c8"
 unparsed: 
-line: 'Head: infinite|Entry: 406 [Infinitness]|#item-70073e237'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,1673,477,142/full/0/default.jpg
+line: 'Head: infirmeries|Page: p.4 [Image 1.64]|#item-2d26819c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744355946
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744399838
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,1673,477,142/150,/0/default.jpg
-label: infinite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/150,/0/default.jpg
+label: infirmeries
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '115'
+order: '116'
 layout: index_item
 collection: index3
 ---

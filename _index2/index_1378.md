@@ -2,10 +2,9 @@
 pid: index_1378
 volume: Volume 3
 image_number: '20'
-head: failings of Saints
-entry: "<a href='/digital-beehive/toc/toc2_178/'>956 [Failings of good men]</a>|<a
-  href='/digital-beehive/toc/toc2_234/'>1203 [Faults]</a>|<a href='/digital-beehive/toc/toc2_393/'>2248
-  [Church of England]</a>"
+head: fainthearted
+entry: "<a href='/digital-beehive/alpha2/alpha_0307/'>a</a>|<a href='/digital-beehive/toc/toc2_411/'>2366
+  [Fainthearted]</a>"
 topic: 
 first_letter: F
 page: 
@@ -13,20 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9cb741fc4"
+item: "#item-2e82ccbca"
 unparsed: 
-line: 'Head: failings of Saints|Entry: 956 [Failings of good men]|Entry: 1203 [Faults]|Entry:
-  2248 [Church of England]|#item-9cb741fc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/366,487,832,165/full/0/default.jpg
+line: 'Head: fainthearted|Entry: a|Entry: 2366 [Fainthearted]|#item-2e82ccbca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/352,615,778,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399680699
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399881364
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/366,487,832,165/150,/0/default.jpg
-label: failings of Saints
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/352,615,778,152/150,/0/default.jpg
+label: fainthearted
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '196'
+order: '197'
 layout: index_item
 collection: index2
 ---

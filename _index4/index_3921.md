@@ -23,7 +23,7 @@ label: stoutness
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1169'
+order: '1170'
 layout: index_item
 collection: index4
 ---

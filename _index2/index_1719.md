@@ -2,28 +2,28 @@
 pid: index_1719
 volume: Volume 3
 image_number: '23'
-head: groves
-entry: 
+head: growth
+entry: "<a href='/digital-beehive/num2/num_0615/'>491 [Growth]</a>"
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
+see: 
 index: 
-item: "#item-bf0eddd58"
+item: "#item-f9bbc285f"
 unparsed: 
-line: 'Head: groves|See: wood|#item-bf0eddd58'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/full/0/default.jpg
+line: 'Head: growth|Entry: 491 [Growth]|#item-f9bbc285f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,1822,378,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231786393
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231889652
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1776,460,112/150,/0/default.jpg
-label: groves
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,1822,378,136/150,/0/default.jpg
+label: growth
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '536'
+order: '537'
 layout: index_item
 collection: index2
 ---

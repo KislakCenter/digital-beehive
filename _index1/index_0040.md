@@ -3,7 +3,7 @@ pid: index_0040
 volume: Volume 3
 image_number: '7'
 head: addition
-entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [Addition]</a>"
+entry: "<a href='/digital-beehive/num3/num_0841'>624 [Addition]</a>"
 topic: 
 first_letter: A
 page: 

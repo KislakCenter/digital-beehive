@@ -9,14 +9,14 @@ first_letter: F
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0917/'>Strappado</a>|<a href='/digital-beehive/num1/num_0010/'>10
-  [After high floods (: come :) low ebbs]</a>|<a href='/digital-beehive/toc/toc2_183/'>983
+  [After high floods (: come :) low ebbs]</a>|<a href='/digital-beehive/num4/num_1311'>983
   [Fall]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1388/'>fall</a>"
+index: "<a href='/digital-beehive/index2/index_1387/'>fall</a>"
 item: "#item-ce4db9693"
 unparsed: 
-line: 'Entry: Fall|Topic: Fall|Xref: Strappado|Xref: 10 [After high floods come low
-  ebbs]|Xref: 983 [Fall]|Index: fall|#item-ce4db9693'
+line: 'Entry: Fall|Topic: Fall|Xref: Strappado|Xref: 10 [After high floods (: come
+  :) low ebbs]|Xref: 983 [Fall]|Index: fall|#item-ce4db9693'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/715,1785,3050,479/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564588680807
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/715,17
 label: Fall
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '042'
 layout: alpha_item
 collection: alpha2

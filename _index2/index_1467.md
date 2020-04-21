@@ -2,8 +2,8 @@
 pid: index_1467
 volume: Volume 3
 image_number: '20'
-head: "[:52.]"
-entry: 
+head: a fit
+entry: "<a href='/digital-beehive/toc/toc2_377/'>2118 [Fit or Paroxysm]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-23667846e"
-unparsed: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
-line: 'Type: Index|Insertion Xref: [:52.]|#item-23667846e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/full/0/default.jpg
+item: "#item-74afcdfcc"
+unparsed: 
+line: 'Head: a fit|Entry: 2118 [Fit or Paroxysm]|#item-74afcdfcc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562000917387
+annotation_uri: http://dev.llgc.org.uk/annotation/1562615225761
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2359,1926,187,105/150,/0/default.jpg
-label: "[:52.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/150,/0/default.jpg
+label: a fit
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4720/'><</a>"
-order: '285'
+insertion_xref: 
+order: '286'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,9 @@
 pid: index_2385
 volume: Volume 3
 image_number: '29'
-head: Mahomet
-entry: "<a href='/digital-beehive/toc/toc2_251/'>1290 [Religion of Mahomet]</a>"
+head: maid
+entry: "<a href='/digital-beehive/alpha3/alpha_0566/'>a</a>|<a href='/digital-beehive/toc/toc2_278/'>1425
+  [Maid]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ba533a961"
+item: "#item-df1adfb77"
 unparsed: 
-line: 'Head: Mahomet|Entry: 1290 [Religion of Mahomet]|#item-ba533a961'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/full/0/default.jpg
+line: 'Head: maid|Entry: a|Entry: 1425 [Maid]|#item-df1adfb77'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/816,3204,491,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560189485263
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189559084
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/150,/0/default.jpg
-label: Mahomet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/816,3204,491,108/150,/0/default.jpg
+label: maid
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '466'
+order: '467'
 layout: index_item
 collection: index3
 ---

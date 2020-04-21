@@ -3,7 +3,7 @@ pid: index_3711
 volume: Volume 3
 image_number: '43'
 head: silver
-entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [Silver]</a>"
+entry: "<a href='/digital-beehive/num4/num_1138'>887 [Silver]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: silver
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0959'
+order: '0960'
 layout: index_item
 collection: index4
 ---

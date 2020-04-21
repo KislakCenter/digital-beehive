@@ -2,8 +2,8 @@
 pid: index_2399
 volume: Volume 3
 image_number: '29'
-head: malice & malignity
-entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>"
+head: malt
+entry: 4613 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d6e2573d9"
+item: "#item-225f52c8b"
 unparsed: 
-line: 'Head: malice & malignity|Entry: a|#item-d6e2573d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1313,1093,604,160/full/0/default.jpg
+line: 'Head: malt|Entry: 4613 [PAGE_MISSING]|#item-225f52c8b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1177,378,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194191419
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194214909
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1313,1093,604,160/150,/0/default.jpg
-label: malice & malignity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1177,378,88/150,/0/default.jpg
+label: malt
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '480'
+order: '481'
 layout: index_item
 collection: index3
 ---

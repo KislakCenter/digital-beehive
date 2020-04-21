@@ -2,8 +2,9 @@
 pid: index_1498
 volume: Volume 3
 image_number: '21'
-head: footstep
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Footstep]</a>"
+head: forbearance
+entry: "<a href='/digital-beehive/alpha2/alpha_0338/'>a</a>|<a href='/digital-beehive/toc/toc2_328/'>1669
+  [forbearance]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a4d95c9c9"
+item: "#item-da9c660ec"
 unparsed: 
-line: 'Head: footstep|Entry: 866 [Footstep]|#item-a4d95c9c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/180,1481,424,134/full/0/default.jpg
+line: 'Head: forbearance|Entry: a|Entry: 1669 [forbearance]|#item-da9c660ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,1628,679,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622574396
+annotation_uri: http://dev.llgc.org.uk/annotation/1508355105878
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/180,1481,424,134/150,/0/default.jpg
-label: footstep
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/162,1628,679,129/150,/0/default.jpg
+label: forbearance
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '316'
+order: '317'
 layout: index_item
 collection: index2
 ---

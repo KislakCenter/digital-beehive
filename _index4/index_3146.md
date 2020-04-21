@@ -2,8 +2,8 @@
 pid: index_3146
 volume: Volume 3
 image_number: '37'
-head: to prevail
-entry: "<a href='/digital-beehive/toc/toc2_198/'>1021 [Prevail]</a>"
+head: prevarication
+entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Prevarication]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a18169dcf"
+item: "#item-77a3f3ad4"
 unparsed: 
-line: 'Head: to prevail|Entry: 1021 [Prevail]|#item-a18169dcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/92,1668,600,161/full/0/default.jpg
+line: 'Head: prevarication|Entry: 398 [Prevarication|Prevaricating]|#item-77a3f3ad4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/74,1756,689,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866450482
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866468982
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/92,1668,600,161/150,/0/default.jpg
-label: to prevail
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/74,1756,689,201/150,/0/default.jpg
+label: prevarication
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0394'
+order: '0395'
 layout: index_item
 collection: index4
 ---

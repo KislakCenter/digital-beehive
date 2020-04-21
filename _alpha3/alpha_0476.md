@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0496/'>Justice</a>|<a href='/digit
   [Wrong]</a>|<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a
   href='/digital-beehive/toc/toc2_239/'>1227 [Injustice]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2048/'>injustice</a>"
+index: "<a href='/digital-beehive/index3/index_2047/'>injustice</a>"
 item: "#item-fb210324c"
 unparsed: 
 line: 'Entry: Injustice|Topic: Injustice|Xref: Justice|Xref: 5 [Wrong]|Xref: 6 [Unjust
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/318,20
 label: Injustice
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '032'
 layout: alpha_item
 collection: alpha3

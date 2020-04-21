@@ -8,10 +8,10 @@ topic: Death, continued
 first_letter: D
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0210/'>Death</a>|<a href='/digital-beehive/toc/toc2_121/'>507
+xref: "<a href='/digital-beehive/alpha1/alpha_0210/'>Death</a>|<a href='/digital-beehive/num3/num_0638'>507
   [Death passed upon all men]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0966/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
 item: "#item-0f8d9dba5"
 unparsed: 
 line: 'Entry: Death, continued|Topic: Death, continued|Xref: Death|Xref: 507 [Death
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/721,20
 label: Death, continued
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '210'
+also_in_entry: 
+order: '209'
 layout: alpha_item
 collection: alpha1
 ---

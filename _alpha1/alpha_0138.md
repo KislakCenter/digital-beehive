@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/367,20
 label: Cherry
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '137'
 layout: alpha_item
 collection: alpha1

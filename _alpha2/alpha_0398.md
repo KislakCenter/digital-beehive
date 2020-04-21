@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4616 [PAGE_MISSING]|Ruin
 see: 
-index: "<a href='/digital-beehive/index2/index_1764/'>harvest</a>"
+index: "<a href='/digital-beehive/index2/index_1763/'>harvest</a>"
 item: "#item-6372e5640"
 unparsed: 
 line: 'Entry: Harvest|Topic: Harvest|Xref: 4616 [PAGE_MISSING]|Xref: Ruin|Index: harvest|#item-6372e5640'
@@ -21,7 +21,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,600,180/250,/0/default.jpg
 label: Harvest
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-issue: The point of reference for "Ruin" is unclear.
+issue: The point of reference for "Ruin" is unclear. Pastorius perhaps intends numerical
+  entry 608 [Ruin].
+also_in_entry: 
 order: '129'
 layout: alpha_item
 collection: alpha2

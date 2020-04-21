@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0165/'>Condemnation</a>|<a href='/digital-beehive/toc/toc2_209/'>1076
   [Hell]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1794/'>hell</a>"
+index: "<a href='/digital-beehive/index2/index_1793/'>hell</a>"
 item: "#item-09fe29285"
 unparsed: 
 line: 'Entry: Hell|Topic: Hell|Xref: Condemnation|Xref: 1076 [Hell]|Index: hell|#item-09fe29285'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/789,50
 label: Hell
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '141'
 layout: alpha_item
 collection: alpha2

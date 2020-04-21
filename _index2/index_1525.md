@@ -2,28 +2,29 @@
 pid: index_1525
 volume: Volume 3
 image_number: '21'
-head: to foster
-entry: 
+head: foundation
+entry: "<a href='/digital-beehive/alpha2/alpha_0344/'>a</a>|<a href='/digital-beehive/toc/toc2_196/'>1011
+  [Ground & Formation]</a>|<a href='/digital-beehive/toc/toc2_399/'>2276 [Foundation]</a>"
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3968/'>suck</a>"
+see: 
 index: 
-item: "#item-a6dae9385"
+item: "#item-3220111a4"
 unparsed: 
-line: 'Head: to foster|See: suck|#item-a6dae9385'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/893,696,632,99/full/0/default.jpg
+line: 'Head: foundation|Entry: a|Entry: 1011 [Ground & Formation]|Entry: 2276 [Foundation]|#item-3220111a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763030417
+annotation_uri: http://dev.llgc.org.uk/annotation/1508356527916
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/893,696,632,99/150,/0/default.jpg
-label: to foster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/150,/0/default.jpg
+label: foundation
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '343'
+order: '344'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,29 @@
 pid: index_1809
 volume: Volume 3
 image_number: '23'
-head: herdsmen
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
+head: hereafter
+entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Hereafter]</a>|<a href='/digital-beehive/num2/num_0274/'>252
+  [Afterwards]</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0568/'>cattel</a>"
+see: 
 index: 
-item: "#item-2cd310b1a"
+item: "#item-2b3d9f03a"
 unparsed: 
-line: 'Head: herdsmen|See: cattel|Entry: 1929 [Shepherds]|#item-2cd310b1a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,3348,763,165/full/0/default.jpg
+line: 'Head: hereafter|Entry: 1431 [Hereafter]|Entry: 252 [Afterwards]|#item-2b3d9f03a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572458192
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572698468
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,3348,763,165/150,/0/default.jpg
-label: herdsmen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/150,/0/default.jpg
+label: hereafter
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '626'
+order: '627'
 layout: index_item
 collection: index2
 ---

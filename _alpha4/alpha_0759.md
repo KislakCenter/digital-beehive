@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0758/'>Punishment</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
+index: "<a href='/digital-beehive/index4/index_3227/'>punishmt</a>"
 item: "#item-726c1f794"
 unparsed: 
 line: 'Entry: Punishment, continued|Topic: Punishment, continued|Xref: Punishment|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/245,19
 label: Punishment, continued
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '112'
 layout: alpha_item
 collection: alpha4

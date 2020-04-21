@@ -2,24 +2,24 @@
 pid: index_0952
 volume: Volume 3
 image_number: '15'
-head: David
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1582 [David]</a>|4751 [PAGE_MISSING]"
+head: dawning
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4274/'>twilight</a>"
 index: 
-item: "#item-aace52bac"
+item: "#item-9498f0f80"
 unparsed: 
-line: 'Head: David|Entry: 1582 [David]|Entry: 4751 [PAGE_MISSING]|#item-aace52bac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1532,1848,605,84/full/0/default.jpg
+line: 'Head: dawning|See: twilight|#item-9498f0f80'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391489863
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391523109
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1532,1848,605,84/150,/0/default.jpg
-label: David
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1455,1875,839,160/150,/0/default.jpg
+label: dawning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

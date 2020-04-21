@@ -2,8 +2,8 @@
 pid: index_2081
 volume: Volume 3
 image_number: '26'
-head: in the mean time
-entry: "<a href='/digital-beehive/toc/toc2_140/'>613 [In the mean time]</a>"
+head: intolerable
+entry: 764 [PAGE_MISSING]
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d047da359"
+item: "#item-55b6b680d"
 unparsed: 
-line: 'Head: in the mean time|Entry: 613 [In the mean time]|#item-d047da359'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1165,3479,624,118/full/0/default.jpg
+line: 'Head: intolerable|Entry: 764 [PAGE_MISSING]|#item-55b6b680d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1863,292,560,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749713187
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750507359
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1165,3479,624,118/150,/0/default.jpg
-label: in the mean time
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1863,292,560,103/150,/0/default.jpg
+label: intolerable
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '162'
+order: '163'
 layout: index_item
 collection: index3
 ---

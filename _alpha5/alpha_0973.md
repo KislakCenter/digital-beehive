@@ -8,7 +8,7 @@ topic: Tradition
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|hearsay|<a href='/digital-beehive/num2/num_0599/'>484
+xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|hearsay|<a href='/digital-beehive/num2/num_0604/'>484
   [Tradition]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4209/'>tradition</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,55
 label: Tradition
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: The point of reference for "hearsay" is unclear.
-order: '038'
+also_in_entry: 
+order: '039'
 layout: alpha_item
 collection: alpha5
 ---

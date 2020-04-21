@@ -23,7 +23,7 @@ label: Satyr
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0770'
+order: '0771'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_3203
 volume: Volume 3
 image_number: '37'
-head: proselyte
-entry: 836 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_331/'>1682 [Proselyse]</a>
+head: pros[per]ity
+entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1749/'>happiness</a>"
 index: 
-item: "#item-00060c8fb"
+item: "#item-d7dda5d07"
 unparsed: 
-line: 'Head: proselyte|Entry: 836 [PAGE_MISSING]|Entry: 1682 [Proselyse]|#item-00060c8fb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1483,1540,680,115/full/0/default.jpg
+line: 'Head: pros[per]ity|See: happiness|#item-d7dda5d07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869367610
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869398002
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1483,1540,680,115/150,/0/default.jpg
-label: proselyte
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/150,/0/default.jpg
+label: pros[per]ity
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0451'
+order: '0452'
 layout: index_item
 collection: index4
 ---

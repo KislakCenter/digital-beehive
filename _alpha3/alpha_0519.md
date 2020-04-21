@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>derision</a>|<a href='/digital-beehive/toc/toc2_244/'>1254
   [Laughter]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2221/'>laughter</a>"
+index: "<a href='/digital-beehive/index3/index_2220/'>laughter</a>"
 item: "#item-565ae020d"
 unparsed: 
 line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,43
 label: Laughter
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '075'
 layout: alpha_item
 collection: alpha3

@@ -3,7 +3,7 @@ pid: index_0388
 volume: Volume 3
 image_number: '10'
 head: to bleach
-entry: "<a href='/digital-beehive/toc/toc2_160/'>723 [To Bleach]</a>"
+entry: "<a href='/digital-beehive/num3/num_1071'>723 [To Bleach]</a>"
 topic: 
 first_letter: B
 page: 

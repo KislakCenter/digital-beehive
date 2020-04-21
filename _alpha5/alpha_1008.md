@@ -8,7 +8,7 @@ topic: Unstableness
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0172/'>Constancy</a>|<a href='/digital-beehive/toc/toc2_161/'>870
+xref: "<a href='/digital-beehive/alpha1/alpha_0172/'>Constancy</a>|<a href='/digital-beehive/num4/num_1093'>870
   [Inconstancy]</a>|Renouncing|<a href='/digital-beehive/alpha5/alpha_0986/'>Vagabonds</a>|<a
   href='/digital-beehive/alpha5/alpha_0975/'>Transitory</a>|<a href='/digital-beehive/alpha5/alpha_0987/'>Vanity</a>|<a
   href='/digital-beehive/alpha3/alpha_0643/'>Nothing</a>"
@@ -26,7 +26,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/810,37
 label: Unstableness
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: 
-order: '073'
+also_in_entry: 
+order: '074'
 layout: alpha_item
 collection: alpha5
 ---

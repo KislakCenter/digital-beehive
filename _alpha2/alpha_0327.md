@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_382/'>2163 [Birth-right]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1460/'>firstborn</a>"
+index: "<a href='/digital-beehive/index2/index_1459/'>firstborn</a>"
 item: "#item-024c28ee8"
 unparsed: 
 line: 'Entry: Firstborn|Topic: Firstborn|Xref: 2163 [Birth-right]|Index: firstborn|#item-024c28ee8'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,36
 label: Firstborn
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '058'
 layout: alpha_item
 collection: alpha2

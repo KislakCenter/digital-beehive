@@ -3,7 +3,7 @@ pid: index_0090
 volume: Volume 3
 image_number: '7'
 head: alcoran
-entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Alcoran]</a>"
+entry: "<a href='/digital-beehive/num4/num_1320'>989 [Alcoran]</a>"
 topic: 
 first_letter: A
 page: 

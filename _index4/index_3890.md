@@ -3,7 +3,7 @@ pid: index_3890
 volume: Volume 3
 image_number: '45'
 head: stealing
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
+entry: "<a href='/digital-beehive/num4/num_1078'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
   [Theft]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: stealing
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1138'
+order: '1139'
 layout: index_item
 collection: index4
 ---

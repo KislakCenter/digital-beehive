@@ -23,7 +23,7 @@ label: servant & service of God
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0894'
+order: '0895'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2337/'>lot</a>"
+index: "<a href='/digital-beehive/index3/index_2336/'>lot</a>"
 item: "#item-73a54f91e"
 unparsed: 
 line: 'Entry: Lot|Topic: Lot|Index: lot|#item-73a54f91e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/335,20
 label: Lot
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '108'
 layout: alpha_item
 collection: alpha3

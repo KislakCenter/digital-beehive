@@ -13,7 +13,7 @@ xref: "<a href='/digital-beehive/num1/num_0011/'>11 [Ill Name]</a>|<a href='/dig
   href='/digital-beehive/num2/num_0273/'>252 [Surnames]</a>|<a href='/digital-beehive/num2/num_0277/'>254
   [Name]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2634/'>name</a>"
+index: "<a href='/digital-beehive/index3/index_2633/'>name</a>"
 item: "#item-9c1a90cef"
 unparsed: 
 line: 'Entry: Name|Topic: Name|Xref: 11 [Ill Name]|Xref: 54 [false Names]|Xref: 181
@@ -26,6 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/275,10
 label: Name
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '182'
 layout: alpha_item
 collection: alpha3

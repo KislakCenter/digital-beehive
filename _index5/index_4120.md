@@ -3,7 +3,7 @@ pid: index_4120
 volume: Volume 3
 image_number: '47'
 head: thistles
-entry: "<a href='/digital-beehive/toc/toc2_140/'>615 [Thorns]</a>"
+entry: "<a href='/digital-beehive/num3/num_0821'>615 [Thorns]</a>"
 topic: 
 first_letter: T
 page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"

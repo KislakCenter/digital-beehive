@@ -3,7 +3,7 @@ pid: index_3565
 volume: Volume 3
 image_number: '41'
 head: scrupulous
-entry: "<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>"
+entry: "<a href='/digital-beehive/num4/num_1216'>918 [Doubtful]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: scrupulous
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0813'
+order: '0814'
 layout: index_item
 collection: index4
 ---

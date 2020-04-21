@@ -3,7 +3,7 @@ pid: index_4222
 volume: Volume 3
 image_number: '48'
 head: treachery
-entry: "<a href='/digital-beehive/alpha5/alpha_0977/'>a</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+entry: "<a href='/digital-beehive/alpha5/alpha_0977/'>a</a>|<a href='/digital-beehive/num4/num_1244'>933
   [Treachery]</a>"
 topic: 
 first_letter: T

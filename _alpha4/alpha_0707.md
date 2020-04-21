@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Devotion</a>|<a href='/digital-beehive/toc/toc2_301/'>1532
   [Godliness]</a>|<a href='/digital-beehive/toc/toc2_208/'>1073 [Pietism]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3002/'>piety</a>"
+index: "<a href='/digital-beehive/index4/index_3001/'>piety</a>"
 item: "#item-77c2a979b"
 unparsed: 
 line: 'Entry: Piety|Topic: Piety|Xref: Devotion|Xref: 1532 [Godliness]|Xref: 1073
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/829,35
 label: Piety
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '060'
 layout: alpha_item
 collection: alpha4

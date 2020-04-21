@@ -2,8 +2,8 @@
 pid: index_0817
 volume: Volume 3
 image_number: '14'
-head: consumption
-entry: "<a href='/digital-beehive/toc/toc2_136/'>594 [Dropsie]</a>"
+head: contagious
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e4ece8d56"
+item: "#item-61524e9aa"
 unparsed: 
-line: 'Head: consumption|Entry: 594 [Dropsie]|#item-e4ece8d56'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1116,2980,577,111/full/0/default.jpg
+line: 'Head: contagious|Entry: 1330 [To infect]|#item-61524e9aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542120769
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542155380
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1116,2980,577,111/150,/0/default.jpg
-label: consumption
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/150,/0/default.jpg
+label: contagious
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

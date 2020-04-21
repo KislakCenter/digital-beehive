@@ -2,8 +2,8 @@
 pid: index_2685
 volume: Volume 3
 image_number: '32'
-head: nerve
-entry: "<a href='/digital-beehive/toc/toc2_323/'>1641 [Nerve or Sinew]</a>"
+head: net
+entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_338/'>1739 [Snare]</a>
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-60e483734"
+item: "#item-1cc47b37c"
 unparsed: 
-line: 'Head: nerve|Entry: 1641 [Nerve or Sinew]|#item-60e483734'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1173,842,392,75/full/0/default.jpg
+line: 'Head: net|Entry: 773 [PAGE_MISSING]|Entry: 1739 [Snare]|#item-1cc47b37c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441413268
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441501644
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1173,842,392,75/150,/0/default.jpg
-label: nerve
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/150,/0/default.jpg
+label: net
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '766'
+order: '767'
 layout: index_item
 collection: index3
 ---

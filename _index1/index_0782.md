@@ -2,24 +2,24 @@
 pid: index_0782
 volume: Volume 3
 image_number: '14'
-head: condition
-entry: "<a href='/digital-beehive/alpha1/alpha_0166/'>a</a>"
+head: confabulation
+entry: "<a href='/digital-beehive/toc/toc2_367/'>2019 [Dialogue]</a>"
 topic: 
 first_letter: C
 page: 
-add: State
+add: 
 xref: 
 see: 
 index: 
-item: "#item-11b241d21"
+item: "#item-a0a80c1c3"
 unparsed: 
-line: 'Head: condition|Entry: a|Add: State|#item-11b241d21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/400,2685,463,176/full/0/default.jpg
+line: 'Head: confabulation|Entry: 2019 [Dialogue]|#item-a0a80c1c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/397,2818,721,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216781446
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216805279
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/400,2685,463,176/150,/0/default.jpg
-label: condition
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/397,2818,721,112/150,/0/default.jpg
+label: confabulation
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

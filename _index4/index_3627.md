@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-868a43b4b"
 unparsed: 
-line: 'Head: Self punishment|Entry: 59 [Self-hurt or dammage]|#item-868a43b4b'
+line: 'Head: Self punishmt|Entry: 59 [Self-hurt or dam[m]age]|#item-868a43b4b'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
@@ -23,7 +23,7 @@ label: Self punishmt
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0875'
+order: '0876'
 layout: index_item
 collection: index4
 ---

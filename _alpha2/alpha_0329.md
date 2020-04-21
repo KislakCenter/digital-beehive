@@ -10,7 +10,7 @@ page:
 add: 
 xref: Plausible Popularity|810 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1474/'>flattery</a>"
+index: "<a href='/digital-beehive/index2/index_1473/'>flattery</a>"
 item: "#item-c9615b60f"
 unparsed: 
 line: 'Entry: Flattery|Topic: Flattery|Xref: Plausible Popularity|Xref: 810 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/400,43
 label: Flattery
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: The point of reference for "Plausible Popularity" is unclear.
+also_in_entry: 
 order: '060'
 layout: alpha_item
 collection: alpha2

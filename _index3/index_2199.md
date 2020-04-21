@@ -2,8 +2,8 @@
 pid: index_2199
 volume: Volume 3
 image_number: '27'
-head: lapidaria
-entry: "<a href='/digital-beehive/toc/toc2_275/'>1406 [Lapidaria]</a>"
+head: laplanders
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1316 [Laplanders]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ac2b3087d"
+item: "#item-15c559e4c"
 unparsed: 
-line: 'Head: lapidaria|Entry: 1406 [Lapidaria]|#item-ac2b3087d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1552,1025,502,156/full/0/default.jpg
+line: 'Head: laplanders|Entry: 1316 [Laplanders]|#item-15c559e4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1553,1152,478,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835265165
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835474983
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1552,1025,502,156/150,/0/default.jpg
-label: lapidaria
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1553,1152,478,150/150,/0/default.jpg
+label: laplanders
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '280'
+order: '281'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_262/'>1345 [Exercise]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1346/'>exercise</a>"
+index: "<a href='/digital-beehive/index2/index_1345/'>exercise</a>"
 item: "#item-d845c95d0"
 unparsed: 
 line: 'Entry: Exercise|Topic: Exercise|XRef: 1345 [Exercise]|Index: exercise|#item-d845c95d0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/384,54
 label: Exercise
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '029'
 layout: alpha_item
 collection: alpha2

@@ -2,9 +2,8 @@
 pid: index_3189
 volume: Volume 3
 image_number: '37'
-head: promoting
-entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/toc/toc2_337/'>1726
-  [Preferment]</a>"
+head: pronunciation
+entry: 824 [PAGE_MISSING]
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-37a40cf6c"
+item: "#item-ef8da28a8"
 unparsed: 
-line: 'Head: promoting|Entry: a|Entry: 1726 [Preferment]|#item-37a40cf6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,3246,637,137/full/0/default.jpg
+line: 'Head: pronunciation|Entry: 824 [PAGE_MISSING]|#item-ef8da28a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/790,3381,629,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868683864
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868716864
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,3246,637,137/150,/0/default.jpg
-label: promoting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/790,3381,629,147/150,/0/default.jpg
+label: pronunciation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0437'
+order: '0438'
 layout: index_item
 collection: index4
 ---

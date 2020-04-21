@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_339/'>1742 [Judgmt of God]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2135/'>judgmt of God</a>"
+index: "<a href='/digital-beehive/index3/index_2134/'>judgmt of God</a>"
 item: "#item-06d986528"
 unparsed: 
 line: 'Entry: Judgmt of God|Topic: Judgmt of God|XRef: 1742 [Judgmt of God]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/284,22
 label: Judgmt of God
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '051'
 layout: alpha_item
 collection: alpha3

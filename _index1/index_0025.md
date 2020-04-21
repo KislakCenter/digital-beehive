@@ -3,7 +3,7 @@ pid: index_0025
 volume: Volume 3
 image_number: '7'
 head: accident
-entry: "<a href='/digital-beehive/toc/toc2_129/'>555 [Accident]</a>|<a href='/digital-beehive/toc/toc2_427/'>4484
+entry: "<a href='/digital-beehive/num3/num_0704'>555 [Accident]</a>|<a href='/digital-beehive/toc/toc2_427/'>4484
   [Accident]</a>"
 topic: 
 first_letter: A

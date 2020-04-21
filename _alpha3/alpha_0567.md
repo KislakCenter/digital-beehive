@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_1062/'>Wound</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2388/'>maimed</a>"
+index: "<a href='/digital-beehive/index3/index_2387/'>maimed</a>"
 item: "#item-b9f70ee6e"
 unparsed: 
 line: 'Entry: Maimed|Topic: Maimed|Xref: Wound|Index: maimed|#item-b9f70ee6e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/731,38
 label: Maimed
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '123'
 layout: alpha_item
 collection: alpha3

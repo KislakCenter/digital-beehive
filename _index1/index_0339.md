@@ -3,8 +3,8 @@ pid: index_0339
 volume: Volume 3
 image_number: '10'
 head: beginning
-entry: "<a href='/digital-beehive/alpha1/alpha_0074/'>a</a>|<a href='/digital-beehive/toc/toc2_128/'>550
-  [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0074/'>a</a>|<a href='/digital-beehive/num3/num_0694'>550
+  [Beginn]</a>"
 topic: 
 first_letter: B
 page: 

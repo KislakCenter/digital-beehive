@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,19
 label: Circumcision
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '147'
 layout: alpha_item
 collection: alpha1

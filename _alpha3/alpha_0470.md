@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0288/'>Equality</a>|<a href='/digital-beehive/toc/toc2_275/'>1407
   [Inequality]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2024/'>inequality</a>"
+index: "<a href='/digital-beehive/index3/index_2023/'>inequality</a>"
 item: "#item-bafe6a7d2"
 unparsed: 
 line: 'Entry: Inequality|Topic: Inequality|Xref: Equality|Xref: 1407 [Inequality]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/279,51
 label: Inequality
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '026'
 layout: alpha_item
 collection: alpha3

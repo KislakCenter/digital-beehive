@@ -10,7 +10,7 @@ page:
 add: 
 xref: Always|Immortality|<a href='/digital-beehive/toc/toc2_222/'>1142 [Eternity]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1309/'>eternity</a>"
+index: "<a href='/digital-beehive/index2/index_1308/'>eternity</a>"
 item: "#item-d1772fc49"
 unparsed: 
 line: 'Entry: Eternity|Topic: Eternity|Xref: Always|Xref: Immortality|Xref: 1142 [Eternity]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/771,27
 label: Eternity
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '024'
 layout: alpha_item
 collection: alpha2

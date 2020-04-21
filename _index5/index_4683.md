@@ -13,7 +13,7 @@ see: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
 index: 
 item: "#item-355b318ec"
 unparsed: Type Index|Insertion [:19.]
-line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|Entry: a|#item-355b318ec'
+line: 'Type: Index|Insertion: [:19.]|Head: forrest|See: wood|#item-355b318ec'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/400,2812,671,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560885069116

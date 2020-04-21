@@ -2,9 +2,8 @@
 pid: index_1785
 volume: Volume 3
 image_number: '23'
-head: heaven
-entry: "<a href='/digital-beehive/alpha2/alpha_0407/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1176
-  [Heaven]</a>|<a href='/digital-beehive/toc/toc2_331/'>1683 [Heaven]</a>"
+head: heavenly things
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-df6146150"
+item: "#item-dbcd5abc2"
 unparsed: 
-line: 'Head: heaven|Entry: a|Entry: 1176 [Heaven]|Entry: 1683 [Heaven]|#item-df6146150'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1558,1175,626,108/full/0/default.jpg
+line: 'Head: heavenly things|Entry: a|#item-dbcd5abc2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1556,1293,553,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244391880
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244438093
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1558,1175,626,108/150,/0/default.jpg
-label: heaven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1556,1293,553,136/150,/0/default.jpg
+label: heavenly things
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '602'
+order: '603'
 layout: index_item
 collection: index2
 ---

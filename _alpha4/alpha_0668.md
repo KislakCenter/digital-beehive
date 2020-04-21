@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0387/'>Guardians</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2830/'>orphanage</a>"
+index: "<a href='/digital-beehive/index4/index_2829/'>orphanage</a>"
 item: "#item-1d89b7ef2"
 unparsed: 
 line: 'Entry: Orphan|Topic: Orphan|Topic: Orphanage|Xref: Guardians|Index: orphanage|#item-1d89b7ef2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/772,11
 label: Orphan
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '021'
 layout: alpha_item
 collection: alpha4

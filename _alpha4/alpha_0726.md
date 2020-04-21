@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0024/'>ambition</a>|<a href='/digital-beehive/alpha2/alpha_0326/'>first</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3116/'>precedency</a>"
+index: "<a href='/digital-beehive/index4/index_3115/'>precedency</a>"
 item: "#item-bec3cfc6a"
 unparsed: 
 line: 'Entry: Precedency|Topic: Precedency|Xref: ambition|Xref: first|Index: precedency|#item-bec3cfc6a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/823,14
 label: Precedency
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '079'
 layout: alpha_item
 collection: alpha4

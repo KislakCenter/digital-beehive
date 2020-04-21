@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0337/'>298 [Fortress]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1520/'>fort</a>"
+index: "<a href='/digital-beehive/index2/index_1519/'>fort</a>"
 item: "#item-6e4f34fff"
 unparsed: 
 line: 'Entry: Fort|Topic: Fort|Xref: 298 [Fortress]|Index: fort|#item-6e4f34fff'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/381,19
 label: Fort
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '073'
 layout: alpha_item
 collection: alpha2

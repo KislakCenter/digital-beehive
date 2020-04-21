@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0484/'>Intercession</a>|<a href='/digital-beehive/alpha4/alpha_0692/'>Peacemaker</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2464/'>mediator</a>"
+index: "<a href='/digital-beehive/index3/index_2463/'>mediator</a>"
 item: "#item-e03fccbbb"
 unparsed: 
 line: 'Entry: Mediatour|Topic: Mediatour|Xref: Intercession|Xref: Peacemaker|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/355,46
 label: Mediatour
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '135'
 layout: alpha_item
 collection: alpha3

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_357/'>1937 [Nut]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2750/'>nut</a>"
+index: "<a href='/digital-beehive/index3/index_2749/'>nut</a>"
 item: "#item-b1b448436"
 unparsed: 
 line: 'Entry: Nut|Topic: Nut|Xref: 1937 [Nut]|Index: nut|#item-b1b448436'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,36
 label: Nut
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '202'
 layout: alpha_item
 collection: alpha3

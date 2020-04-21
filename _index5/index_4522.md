@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-1b38e5fa0"
 unparsed: 
-line: 'Head: West Indies|Entry: 228 [West Indies]|#item-1b38e5fa0'
+line: 'Head: West Indies|Entry: 1122 [West Indies]|#item-1b38e5fa0'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1076,2003,483,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560969155104

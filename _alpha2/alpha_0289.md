@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Contentmt</a>|<a href='/digital-beehive/alpha4/alpha_0688/'>Patience</a>|<a
   href='/digital-beehive/alpha2/alpha_0307/'>faintheartedness</a>|4560 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index2/index_1287/'>equanimity</a>"
+index: "<a href='/digital-beehive/index2/index_1286/'>equanimity</a>"
 item: "#item-ab4bc8710"
 unparsed: 
 line: 'Entry: Equanimity|Topic: Equanimity|Xref: Contentmt|Xref: Patience|Xref: faintheartedness|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/778,10
 label: Equanimity
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '020'
 layout: alpha_item
 collection: alpha2

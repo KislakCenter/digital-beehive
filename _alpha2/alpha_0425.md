@@ -11,7 +11,7 @@ add:
 xref: Pilgrimage|<a href='/digital-beehive/toc/toc2_283/'>1446 [Dwell]</a>|<a href='/digital-beehive/alpha1/alpha_0184/'>native
   Country</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1861/'>home</a>"
+index: "<a href='/digital-beehive/index2/index_1860/'>home</a>"
 item: "#item-e0ad89116"
 unparsed: 
 line: 'Entry: Home|Topic: Home|Xref: Pilgrimage|Xref: 1446 [Dwell]|Xref: native Country|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/302,75
 label: Home
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '156'
 layout: alpha_item
 collection: alpha2

@@ -2,28 +2,28 @@
 pid: index_2410
 volume: Volume 3
 image_number: '29'
-head: manhood
-entry: 
+head: manstealing
+entry: "<a href='/digital-beehive/num3/num_0787'>600 [Manstealing]</a>"
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
+see: 
 index: 
-item: "#item-171409b2c"
+item: "#item-7564d5b3c"
 unparsed: 
-line: 'Head: manhood|See: Christ|#item-171409b2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1949,535,157/full/0/default.jpg
+line: 'Head: manstealing|Entry: 600 [Manstealing]|#item-7564d5b3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,2092,565,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195693402
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195802411
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1949,535,157/150,/0/default.jpg
-label: manhood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,2092,565,144/150,/0/default.jpg
+label: manstealing
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '491'
+order: '492'
 layout: index_item
 collection: index3
 ---

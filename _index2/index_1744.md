@@ -2,28 +2,28 @@
 pid: index_1744
 volume: Volume 3
 image_number: '23'
-head: hand
-entry: "<a href='/digital-beehive/alpha2/alpha_0392/'>a</a>"
+head: laying on of hands
+entry: "<a href='/digital-beehive/num2/num_0592/'>475 [Laying on of hands]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-2231a5bf1"
+item: "#item-c70e2a039"
 unparsed: 
-line: 'Head: hand|Page: p.43 [Image 1.103]|Entry: a|#item-2231a5bf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/834,572,418,115/full/0/default.jpg
+line: 'Head: laying on of hands|Entry: 475 [Laying on of hands]|#item-c70e2a039'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,659,634,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238290120
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238423955
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/834,572,418,115/150,/0/default.jpg
-label: hand
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,659,634,111/150,/0/default.jpg
+label: laying on of hands
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '561'
+order: '562'
 layout: index_item
 collection: index2
 ---

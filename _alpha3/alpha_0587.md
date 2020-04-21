@@ -12,7 +12,7 @@ xref: clemency|<a href='/digital-beehive/alpha1/alpha_0162/'>Compassion</a>|<a h
   href='/digital-beehive/alpha5/alpha_1006/'>unmercifull</a>|<a href='/digital-beehive/num2/num_0391/'>338
   [Mercy]</a>
 see: 
-index: "<a href='/digital-beehive/index3/index_2489/'>mercy</a>"
+index: "<a href='/digital-beehive/index3/index_2488/'>mercy</a>"
 item: "#item-6bfaf540f"
 unparsed: 
 line: 'Entry: Mercy|Topic: Mercy|Xref: clemency|Xref: Compassion|Xref: grace|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/752,29
 label: Mercy
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: The point of reference for "clemency" is unclear.
+also_in_entry: 
 order: '143'
 layout: alpha_item
 collection: alpha3

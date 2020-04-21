@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0690/'>Payment</a>|<a href='/digital-beehive/toc/toc2_264/'>1352
   [Debt]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0976/'>debt</a>"
+index: "<a href='/digital-beehive/index1/index_0975/'>debt</a>"
 item: "#item-30cd35c11"
 unparsed: 
 line: 'Entry: Debt|Topic: Debt|Xref: Payment|Xref: 1352 [Debt]|Index: debt|#item-30cd35c11'
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/772,11
 label: Debt
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '212'
+also_in_entry: 
+order: '211'
 layout: alpha_item
 collection: alpha1
 ---

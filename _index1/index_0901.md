@@ -2,8 +2,8 @@
 pid: index_0901
 volume: Volume 3
 image_number: '15'
-head: credit
-entry: "<a href='/digital-beehive/alpha1/alpha_0193/'>a</a>"
+head: credulity
+entry: "<a href='/digital-beehive/num2/num_0542/'>439 [Credulity]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-08d7d9c2a"
+item: "#item-4680d38b6"
 unparsed: 
-line: 'Head: credit|Entry: a|#item-08d7d9c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,679,363,109/full/0/default.jpg
+line: 'Head: credulity|Entry: 439 [Credulity]|#item-4680d38b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577255972
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577285738
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,679,363,109/150,/0/default.jpg
-label: credit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/150,/0/default.jpg
+label: credulity
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

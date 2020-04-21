@@ -9,9 +9,9 @@ first_letter: E
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0510/'>Last</a>|<a href='/digital-beehive/alpha5/alpha_1057/'>World's
-  End</a>|<a href='/digital-beehive/toc/toc2_161/'>868 [End]</a>"
+  End</a>|<a href='/digital-beehive/num4/num_1088'>868 [End]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1249/'>end</a>"
+index: "<a href='/digital-beehive/index2/index_1248/'>end</a>"
 item: "#item-3f317cb7d"
 unparsed: 
 line: 'Entry: End|Topic: End|Xref: Last|Xref: World''s End|Xref: 868 [End]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/365,21
 label: End
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '013'
 layout: alpha_item
 collection: alpha2

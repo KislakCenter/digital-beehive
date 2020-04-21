@@ -10,7 +10,7 @@ page:
 add: 
 xref: Kingdom
 see: 
-index: "<a href='/digital-beehive/index2/index_1241/'>empire</a>"
+index: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
 item: "#item-3af6ee29e"
 unparsed: 
 line: 'Entry: Empire|Topic: Empire|Xref: Kingdom|Index: empire|#item-3af6ee29e'
@@ -21,7 +21,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,600,180/250,/0/default.jpg
 label: Empire
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: The point of reference for "Empire" is unclear.
+issue: The point of reference for "Kingdom" is unclear. Pastorius perhaps intends
+  numerical entry 906 [Kingdom].
+also_in_entry: 
 order: '012'
 layout: alpha_item
 collection: alpha2

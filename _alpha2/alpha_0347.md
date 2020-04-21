@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0796/'>Resistance</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1538/'>free will</a>"
+index: "<a href='/digital-beehive/index2/index_1537/'>free will</a>"
 item: "#item-6498701ba"
 unparsed: 
 line: 'Entry: Free will|Topic: Free will|Xref: Resistance|Index: free will|#item-6498701ba'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/330,19
 label: Free will
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '078'
 layout: alpha_item
 collection: alpha2

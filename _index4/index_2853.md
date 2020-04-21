@@ -2,28 +2,28 @@
 pid: index_2853
 volume: Volume 3
 image_number: '34'
-head: Pacification
-entry: 
+head: page
+entry: "<a href='/digital-beehive/toc/toc2_202/'>1044 [Books]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
+see: 
 index: 
-item: "#item-7b6f7e476"
+item: "#item-55ec3b942"
 unparsed: 
-line: 'Head: Pacification|See: peace|#item-7b6f7e476'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/442,2332,742,197/full/0/default.jpg
+line: 'Head: page|Entry: 1044 [Books]|#item-55ec3b942'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/449,2498,453,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425770718
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425818890
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/442,2332,742,197/150,/0/default.jpg
-label: Pacification
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/449,2498,453,147/150,/0/default.jpg
+label: page
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0101'
+order: '0102'
 layout: index_item
 collection: index4
 ---

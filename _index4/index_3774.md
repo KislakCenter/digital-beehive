@@ -23,7 +23,7 @@ label: sobriety
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1022'
+order: '1023'
 layout: index_item
 collection: index4
 ---

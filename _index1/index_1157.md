@@ -2,24 +2,24 @@
 pid: index_1157
 volume: Volume 3
 image_number: '17'
-head: dropsie
-entry: "<a href='/digital-beehive/toc/toc2_136/'>594 [Dropsie]</a>"
+head: dross
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_1059/'>dirt</a>"
 index: 
-item: "#item-7303167f5"
+item: "#item-b995b4b56"
 unparsed: 
-line: 'Head: dropsie|Entry: 594 [Dropsie]|#item-7303167f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1428,2792,506,145/full/0/default.jpg
+line: 'Head: dross|See: dirt|#item-b995b4b56'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1450,2920,521,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453084473
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453108811
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1428,2792,506,145/150,/0/default.jpg
-label: dropsie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1450,2920,521,156/150,/0/default.jpg
+label: dross
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

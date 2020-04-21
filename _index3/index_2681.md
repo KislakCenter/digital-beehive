@@ -2,8 +2,8 @@
 pid: index_2681
 volume: Volume 3
 image_number: '32'
-head: neighbour
-entry: "<a href='/digital-beehive/alpha3/alpha_0636/'>a</a>|4617 [PAGE_MISSING]"
+head: Nemesis
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1366 [Justice]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d3ce408aa"
+item: "#item-b1407868e"
 unparsed: 
-line: 'Head: neighbour|Entry: a|Entry: 4617 [PAGE_MISSING]|#item-d3ce408aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1165,576,665,156/full/0/default.jpg
+line: 'Head: Nemesis|Entry: 1366 [Justice]|#item-b1407868e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1181,661,440,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441019999
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441258464
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1165,576,665,156/150,/0/default.jpg
-label: neighbour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1181,661,440,111/150,/0/default.jpg
+label: Nemesis
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '762'
+order: '763'
 layout: index_item
 collection: index3
 ---

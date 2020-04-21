@@ -2,8 +2,8 @@
 pid: index_1456
 volume: Volume 3
 image_number: '20'
-head: bonefire
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1058 [Bonfires]</a>"
+head: firm
+entry: "<a href='/digital-beehive/num3/num_0976'>686 [Firm]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-733dd30b6"
+item: "#item-8b29097df"
 unparsed: 
-line: 'Head: bonefire|Entry: 1058 [Bonfires]|#item-733dd30b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1819,1028,516,232/full/0/default.jpg
+line: 'Head: firm|Entry: 686 [Firm]|#item-8b29097df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1801,1178,400,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613471042
+annotation_uri: http://dev.llgc.org.uk/annotation/1562613624725
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1819,1028,516,232/150,/0/default.jpg
-label: bonefire
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1801,1178,400,169/150,/0/default.jpg
+label: firm
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '274'
+order: '275'
 layout: index_item
 collection: index2
 ---

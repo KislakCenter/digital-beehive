@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1039/'>dew</a>"
+index: "<a href='/digital-beehive/index1/index_1038/'>dew</a>"
 item: "#item-896e03c99"
 unparsed: 
 line: 'Entry: Dew|Topic: Dew|Index: dew|#item-896e03c99'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/405,33
 label: Dew
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '230'
+also_in_entry: 
+order: '229'
 layout: alpha_item
 collection: alpha1
 ---

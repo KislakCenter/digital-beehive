@@ -2,8 +2,8 @@
 pid: index_2877
 volume: Volume 3
 image_number: '34'
-head: parasite
-entry: "<a href='/digital-beehive/alpha4/alpha_0675/'>a</a>|4641 [PAGE_MISSING]"
+head: parchment
+entry: "<a href='/digital-beehive/toc/toc2_258/'>1323 [Parchment]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e530a8c7e"
+item: "#item-c1dba0617"
 unparsed: 
-line: 'Head: parasite|Entry: a|Entry: 4641 [PAGE_MISSING]|#item-e530a8c7e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1120,1448,660,157/full/0/default.jpg
+line: 'Head: parchment|Entry: 1323 [Parchment]|#item-c1dba0617'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1115,1521,667,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538493725649
+annotation_uri: http://dev.llgc.org.uk/annotation/1538493895003
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1120,1448,660,157/150,/0/default.jpg
-label: parasite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1115,1521,667,143/150,/0/default.jpg
+label: parchment
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0125'
+order: '0126'
 layout: index_item
 collection: index4
 ---

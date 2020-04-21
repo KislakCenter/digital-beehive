@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,12
 label: Satyre
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '182'
 layout: alpha_item
 collection: alpha4

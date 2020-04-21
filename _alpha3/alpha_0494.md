@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0165/'>condemnation</a>|<a href='/digital-beehive/toc/toc2_200/'>1032
   [Judgmt]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2134/'>judgmt</a>"
+index: "<a href='/digital-beehive/index3/index_2133/'>judgmt</a>"
 item: "#item-575849230"
 unparsed: 
 line: 'Entry: Judgment|Topic: Judgment|Xref: condemnation|Xref: 1032 [Judgmt]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/703,44
 label: Judgment
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '050'
 layout: alpha_item
 collection: alpha3

@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/846,41
 label: to Thrust
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '019'
+also_in_entry: 
+order: '020'
 layout: alpha_item
 collection: alpha5
 ---

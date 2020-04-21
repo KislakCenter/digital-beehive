@@ -2,8 +2,8 @@
 pid: index_0931
 volume: Volume 3
 image_number: '15'
-head: currans
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Corinths]</a>"
+head: custody
+entry: "<a href='/digital-beehive/alpha1/alpha_0202/'>a</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-90690e1e5"
+item: "#item-91c906f16"
 unparsed: 
-line: 'Head: currans|Entry: 1344 [Corinths]|#item-90690e1e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/full/0/default.jpg
+line: 'Head: custody|Entry: a|#item-91c906f16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,369,366,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578148720
+annotation_uri: http://dev.llgc.org.uk/annotation/1539810804059
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3629,471,76/150,/0/default.jpg
-label: currans
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,369,366,117/150,/0/default.jpg
+label: custody
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

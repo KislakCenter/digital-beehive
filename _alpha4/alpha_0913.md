@@ -8,7 +8,7 @@ topic: Stone
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_136/'>596 [the Stone Gravel of the Kidneys]</a>|<a
+xref: "<a href='/digital-beehive/num3/num_0775'>596 [The Stone Gravel of the Kidneys]</a>|<a
   href='/digital-beehive/toc/toc2_250/'>1284 [Whetstone]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3911/'>stones</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/321,34
 label: Stone
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '265'
 layout: alpha_item
 collection: alpha4

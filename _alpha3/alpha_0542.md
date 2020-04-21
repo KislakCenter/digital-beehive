@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>Baseness</a>|<a href='/digital-beehive/alpha5/alpha_0963/'>Too
   little</a>|767 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2306/'>little</a>"
+index: "<a href='/digital-beehive/index3/index_2305/'>little</a>"
 item: "#item-f81ed4510"
 unparsed: 
 line: 'Entry: Littleness|Topic: Littleness|Xref: Baseness|Xref: Too little|Xref: 767
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/735,33
 label: Littleness
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '098'
 layout: alpha_item
 collection: alpha3

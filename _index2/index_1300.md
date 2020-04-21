@@ -2,8 +2,8 @@
 pid: index_1300
 volume: Volume 3
 image_number: '19'
-head: essay
-entry: "<a href='/digital-beehive/toc/toc2_143/'>633 [essay]</a>|4578 [PAGE_MISSING]"
+head: especially
+entry: "<a href='/digital-beehive/toc/toc2_198/'>1022 [Especially]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4e6900cea"
+item: "#item-0511113ce"
 unparsed: 
-line: 'Head: essay|Entry: 633 [essay]|Entry: 4578 [PAGE_MISSING]|#item-4e6900cea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/full/0/default.jpg
+line: 'Head: especially|Entry: 1022 [Especially]|#item-0511113ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,2860,510,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278175282
+annotation_uri: http://dev.llgc.org.uk/annotation/1560279068813
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/150,/0/default.jpg
-label: essay
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,2860,510,161/150,/0/default.jpg
+label: especially
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '118'
+order: '119'
 layout: index_item
 collection: index2
 ---

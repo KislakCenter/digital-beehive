@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/774,40
 label: Superfluity
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '280'
 layout: alpha_item
 collection: alpha4

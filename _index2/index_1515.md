@@ -2,8 +2,8 @@
 pid: index_1515
 volume: Volume 3
 image_number: '21'
-head: formerly
-entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Formerly]</a>"
+head: "[:19.]"
+entry: 
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-edc2303bc"
-unparsed: 
-line: 'Head: formerly|Entry: 1245 [Formerly]|#item-edc2303bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/147,3136,554,172/full/0/default.jpg
+item: "#item-5e320c6fe"
+unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
+line: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782450478
+annotation_uri: http://dev.llgc.org.uk/annotation/1560782489609
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/147,3136,554,172/150,/0/default.jpg
-label: formerly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/150,/0/default.jpg
+label: "[:19.]"
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '333'
+insertion_xref: "<a href='/digital-beehive/index5/index_4683/'><</a>"
+order: '334'
 layout: index_item
 collection: index2
 ---

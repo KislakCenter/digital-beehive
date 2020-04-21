@@ -2,9 +2,8 @@
 pid: index_3192
 volume: Volume 3
 image_number: '37'
-head: proof or evidence
-entry: "<a href='/digital-beehive/alpha4/alpha_0747/'>a</a>|<a href='/digital-beehive/toc/toc2_170/'>913
-  [Proof]</a>|<a href='/digital-beehive/num1/num_0212/'>202 [Seriousness]</a>"
+head: proof of a negative
+entry: "<a href='/digital-beehive/num4/num_1199'>913 [Proof]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4ce1fc4af"
+item: "#item-4d9887a6c"
 unparsed: 
-line: 'Head: proof or evidence|Entry: a|Entry: 913 [Proof]|Entry: 202 [Seriousness]|#item-4ce1fc4af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/full/0/default.jpg
+line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868801742
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1470,386,809,103/150,/0/default.jpg
-label: proof or evidence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/150,/0/default.jpg
+label: proof of a negative
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0440'
+order: '0441'
 layout: index_item
 collection: index4
 ---

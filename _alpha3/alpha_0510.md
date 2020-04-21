@@ -8,10 +8,10 @@ topic: Last
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0282/'>end</a>|<a href='/digital-beehive/toc/toc2_173/'>928
+xref: "<a href='/digital-beehive/alpha2/alpha_0282/'>end</a>|<a href='/digital-beehive/num4/num_1234'>928
   [Last]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2203/'>last</a>"
+index: "<a href='/digital-beehive/index3/index_2202/'>last</a>"
 item: "#item-8f51402a7"
 unparsed: 
 line: 'Entry: Last|Topic: Last|Xref: end|Xref: 928 [Last]|Index: last|#item-8f51402a7'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,21
 label: Last
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '066'
 layout: alpha_item
 collection: alpha3

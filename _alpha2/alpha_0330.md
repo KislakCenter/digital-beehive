@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1476/'>flea</a>"
+index: "<a href='/digital-beehive/index2/index_1475/'>flea</a>"
 item: "#item-7875404b6"
 unparsed: 
 line: 'Entry: Flea|Topic: Flea|Index: flea|#item-7875404b6'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,26
 label: Flea
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '061'
 layout: alpha_item
 collection: alpha2

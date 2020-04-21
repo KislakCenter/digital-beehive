@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>|<a href='/digital-beehive/alpha5/alpha_0947/'>New
   Testamt</a>|786 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2222/'>Law</a>"
+index: "<a href='/digital-beehive/index3/index_2221/'>Law</a>"
 item: "#item-28853d36d"
 unparsed: 
 line: 'Entry: Law, continued|Topic: Law, continued|Xref: Law|Xref: New Testamt|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/260,23
 label: Law, continued
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '077'
 layout: alpha_item
 collection: alpha3

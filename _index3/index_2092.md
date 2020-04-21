@@ -2,8 +2,8 @@
 pid: index_2092
 volume: Volume 3
 image_number: '26'
-head: invention
-entry: 734 [PAGE_MISSING]
+head: invincible
+entry: "<a href='/digital-beehive/num3/num_0798'>605 [Invincible]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-31bb6d9b8"
+item: "#item-6c8152e9e"
 unparsed: 
-line: 'Head: invention|Entry: 734 [PAGE_MISSING]|#item-31bb6d9b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1861,1119,521,135/full/0/default.jpg
+line: 'Head: invincible|Entry: 605 [Invincible]|#item-6c8152e9e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1863,1248,501,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751272492
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751321716
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1861,1119,521,135/150,/0/default.jpg
-label: invention
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1863,1248,501,106/150,/0/default.jpg
+label: invincible
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '173'
+order: '174'
 layout: index_item
 collection: index3
 ---

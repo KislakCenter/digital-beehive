@@ -2,24 +2,24 @@
 pid: index_1084
 volume: Volume 3
 image_number: '17'
-head: dislike
+head: dismiss
 entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1093/'>displeasure</a>"
+see: "<a href='/digital-beehive/index1/index_1118/'>divorcemt</a>|<a href='/digital-beehive/index1/index_1012/'>deposition</a>"
 index: 
-item: "#item-7196e5f88"
+item: "#item-d4952e330"
 unparsed: 
-line: 'Head: dislike|See: displeasure|#item-7196e5f88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/154,1566,704,153/full/0/default.jpg
+line: 'Head: dismiss|See: divorcemt|See: deposition|#item-d4952e330'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,1720,709,212/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804103401
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804150774
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/154,1566,704,153/150,/0/default.jpg
-label: dislike
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,1720,709,212/150,/0/default.jpg
+label: dismiss
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

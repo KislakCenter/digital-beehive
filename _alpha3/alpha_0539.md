@@ -8,10 +8,10 @@ topic: Light
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0454/'>illumination</a>|<a href='/digital-beehive/toc/toc2_130/'>562
+xref: "<a href='/digital-beehive/alpha3/alpha_0454/'>illumination</a>|<a href='/digital-beehive/num3/num_0715'>562
   [Light]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2286/'>light</a>"
+index: "<a href='/digital-beehive/index3/index_2285/'>light</a>"
 item: "#item-8228fcea3"
 unparsed: 
 line: 'Entry: Light|Topic: Light|XRef: illumination|XRef: 562 [Light]|Index: light|#item-8228fcea3'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/718,20
 label: Light
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '095'
 layout: alpha_item
 collection: alpha3

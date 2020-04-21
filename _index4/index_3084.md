@@ -2,8 +2,8 @@
 pid: index_3084
 volume: Volume 3
 image_number: '36'
-head: possession
-entry: "<a href='/digital-beehive/num1/num_0256/'>239 [Possession]</a>"
+head: possibility
+entry: "<a href='/digital-beehive/alpha4/alpha_0718/'>a</a>|1862 [PAGE_MISSING]"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-73be2b16c"
+item: "#item-f70e07457"
 unparsed: 
-line: 'Head: possession|Entry: 239 [Possession]|#item-73be2b16c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,1627,582,164/full/0/default.jpg
+line: 'Head: possibility|Entry: a|Entry: 1862 [PAGE_MISSING]|#item-f70e07457'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1157,1727,674,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438792267
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438829668
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,1627,582,164/150,/0/default.jpg
-label: possession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1157,1727,674,190/150,/0/default.jpg
+label: possibility
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0332'
+order: '0333'
 layout: index_item
 collection: index4
 ---

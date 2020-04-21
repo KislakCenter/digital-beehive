@@ -10,7 +10,7 @@ page:
 add: 
 xref: Too late|4786 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2213/'>late</a>"
+index: "<a href='/digital-beehive/index3/index_2212/'>late</a>"
 item: "#item-2bad963b5"
 unparsed: 
 line: 'Entry: Late|Topic: Late|Xref: Too late|Xref:  4786 [PAGE_MISSING]|Index: late|#item-2bad963b5'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/749,41
 label: Late
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '074'
 layout: alpha_item
 collection: alpha3

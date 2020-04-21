@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1756/'>hare</a>"
+index: "<a href='/digital-beehive/index2/index_1755/'>hare</a>"
 item: "#item-01e3acb48"
 unparsed: 
 line: 'Entry: Hare|Topic: Hare|Index: hare|#item-01e3acb48'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/330,21
 label: Hare
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '127'
 layout: alpha_item
 collection: alpha2

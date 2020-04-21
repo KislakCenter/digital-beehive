@@ -2,28 +2,28 @@
 pid: index_2349
 volume: Volume 3
 image_number: '29'
-head: wanton love
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
+head: platonick love
+entry: "<a href='/digital-beehive/toc/toc2_306/'>1559 [Platonical Love]</a>"
 topic: 
 first_letter: L
 page: 
-add: womanish
+add: 
 xref: 
 see: 
 index: 
-item: "#item-e66fc7bb6"
+item: "#item-204741b1b"
 unparsed: 
-line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|Add: womanish|#item-e66fc7bb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/157,2612,541,165/full/0/default.jpg
+line: 'Head: platonick love|Entry: 1559 [Platonical Love]|#item-204741b1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/166,2721,613,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179909760
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180035033
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/157,2612,541,165/150,/0/default.jpg
-label: wanton love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/166,2721,613,131/150,/0/default.jpg
+label: platonick love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '430'
+order: '431'
 layout: index_item
 collection: index3
 ---

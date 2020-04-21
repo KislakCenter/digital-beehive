@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0256/'>doctrine</a>|<a href='/digi
   href='/digital-beehive/alpha4/alpha_0921/'>Student</a>|<a href='/digital-beehive/num1/num_0223/'>212
   [Learning]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2238/'>learning</a>"
+index: "<a href='/digital-beehive/index3/index_2237/'>learning</a>"
 item: "#item-d520bb02c"
 unparsed: 
 line: 'Entry: Learning|Topic: Learning|Xref: doctrine|Xref: School|Xref: Student|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/363,21
 label: Learning
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '083'
 layout: alpha_item
 collection: alpha3

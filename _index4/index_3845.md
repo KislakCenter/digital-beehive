@@ -3,7 +3,7 @@ pid: index_3845
 volume: Volume 3
 image_number: '44'
 head: Frz. Spira
-entry: "<a href='/digital-beehive/toc/toc2_141/'>619 [Francis Spira]</a>"
+entry: "<a href='/digital-beehive/num3/num_0830'>619 [Francis Spira]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: Frz. Spira
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1093'
+order: '1094'
 layout: index_item
 collection: index4
 ---

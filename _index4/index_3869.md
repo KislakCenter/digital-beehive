@@ -3,7 +3,7 @@ pid: index_3869
 volume: Volume 3
 image_number: '44'
 head: squirril
-entry: "<a href='/digital-beehive/toc/toc2_140/'>617 [Squirrel]</a>"
+entry: "<a href='/digital-beehive/num3/num_0826'>617 [Squirrel]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: squirril
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1117'
+order: '1118'
 layout: index_item
 collection: index4
 ---

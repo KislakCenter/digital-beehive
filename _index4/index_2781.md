@@ -2,28 +2,30 @@
 pid: index_2781
 volume: Volume 3
 image_number: '33'
-head: oister
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Oister]</a>"
+head: old
+entry: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0418/'>355
+  [Old and Obsolete]</a>|4599 [PAGE_MISSING]"
 topic: 
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-0104e7d84"
+item: "#item-531172bf5"
 unparsed: 
-line: 'Head: oister|Page: p.36 [Image 1.96]|Entry: 1398 [Oister]|#item-0104e7d84'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/851,1337,577,133/full/0/default.jpg
+line: 'Head: old|Entry: 12 [Old friends]|Entry: 355 [Old and Obsolete]|Entry: 4599
+  [PAGE_MISSING]|#item-531172bf5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348210030
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348271147
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/851,1337,577,133/150,/0/default.jpg
-label: oister
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/150,/0/default.jpg
+label: old
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0029'
+order: '0030'
 layout: index_item
 collection: index4
 ---

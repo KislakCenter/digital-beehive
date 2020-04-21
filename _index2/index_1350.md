@@ -2,8 +2,8 @@
 pid: index_1350
 volume: Volume 3
 image_number: '19'
-head: exorcism
-entry: "<a href='/digital-beehive/alpha2/alpha_0299/'>a</a>"
+head: expectation
+entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Expectation]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ac3445f82"
+item: "#item-90cc89cc1"
 unparsed: 
-line: 'Head: exorcism|Entry: a|#item-ac3445f82'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1112,458,128/full/0/default.jpg
+line: 'Head: expectation|Entry: 489 [Expectation]|#item-90cc89cc1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1541,1245,599,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043359609
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044099469
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1112,458,128/150,/0/default.jpg
-label: exorcism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1541,1245,599,122/150,/0/default.jpg
+label: expectation
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '168'
+order: '169'
 layout: index_item
 collection: index2
 ---

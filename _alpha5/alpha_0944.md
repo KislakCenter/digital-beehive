@@ -8,7 +8,7 @@ topic: Terrour
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0320/'>fear</a>|<a href='/digital-beehive/toc/toc2_149/'>669
+xref: "<a href='/digital-beehive/alpha2/alpha_0320/'>fear</a>|<a href='/digital-beehive/num3/num_0926'>669
   [Terrour]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4096/'>terrour</a>"
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/753,41
 label: Terrour
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '009'
+also_in_entry: 
+order: '010'
 layout: alpha_item
 collection: alpha5
 ---

@@ -3,7 +3,7 @@ pid: index_4085
 volume: Volume 3
 image_number: '47'
 head: temptation
-entry: "<a href='/digital-beehive/toc/toc2_124/'>525 [Temptation]</a>|<a href='/digital-beehive/toc/toc2_280/'>1435
+entry: "<a href='/digital-beehive/num3/num_0658'>525 [Temptation]</a>|<a href='/digital-beehive/toc/toc2_280/'>1435
   [Temptation]</a>|<a href='/digital-beehive/toc/toc2_400/'>2283 [Free Will]</a>"
 topic: 
 first_letter: T

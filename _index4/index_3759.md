@@ -3,7 +3,7 @@ pid: index_3759
 volume: Volume 3
 image_number: '43'
 head: smart
-entry: "<a href='/digital-beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_375/'>2096
+entry: "<a href='/digital-beehive/num3/num_0905'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_375/'>2096
   [Smart]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: smart
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1007'
+order: '1008'
 layout: index_item
 collection: index4
 ---

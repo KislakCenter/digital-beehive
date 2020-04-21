@@ -3,7 +3,7 @@ pid: index_4126
 volume: Volume 3
 image_number: '47'
 head: thoughts
-entry: "<a href='/digital-beehive/alpha5/alpha_0952/'>a</a>|<a href='/digital-beehive/toc/toc2_182/'>982
+entry: "<a href='/digital-beehive/alpha5/alpha_0952/'>a</a>|<a href='/digital-beehive/num4/num_1310'>982
   [Thoughts]</a>|<a href='/digital-beehive/toc/toc2_415/'>2397 [Thoughts]</a>"
 topic: 
 first_letter: T

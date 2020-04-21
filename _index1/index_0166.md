@@ -3,8 +3,8 @@ pid: index_0166
 volume: Volume 3
 image_number: '8'
 head: apocrypha
-entry: "<a href='/digital-beehive/alpha1/alpha_0037/'>a</a>|<a href='/digital-beehive/toc/toc2_179/'>959
-  [Apocryphis]</a>"
+entry: "<a href='/digital-beehive/alpha1/alpha_0037/'>a</a>|<a href='/digital-beehive/num4/num_1278'>959
+  [apocryphis]</a>"
 topic: 
 first_letter: A
 page: 

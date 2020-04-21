@@ -2,28 +2,30 @@
 pid: index_2871
 volume: Volume 3
 image_number: '34'
-head: papists cruelty
-entry: "<a href='/digital-beehive/toc/toc2_123/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
+head: parable
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1370 [of the Parables & Similitudes
+  which Christ spake]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3712/'>similitude</a>"
 index: 
-item: "#item-4172485ff"
+item: "#item-60b17c5c6"
 unparsed: 
-line: 'Head: papists cruelty|Entry: 514 [Cruelty]|Entry: 4634 [PAGE_MISSING]|#item-4172485ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1167,758,736,145/full/0/default.jpg
+line: 'Head: parable|See: similitude|Entry: 1370 [of the Parables & Similitudes which
+  Christ spake]|#item-60b17c5c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492678550
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492730190
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1167,758,736,145/150,/0/default.jpg
-label: papists cruelty
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1170,873,750,185/150,/0/default.jpg
+label: parable
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0119'
+order: '0120'
 layout: index_item
 collection: index4
 ---

@@ -8,7 +8,7 @@ topic: Adventure
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0123/'>Casualty</a>|<a href='/digital-beehive/toc/toc2_142/'>623
+xref: "<a href='/digital-beehive/alpha1/alpha_0123/'>Casualty</a>|<a href='/digital-beehive/num3/num_0839'>623
   [Adventure]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0048/'>adventure</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/357,41
 label: Adventure
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '008'
 layout: alpha_item
 collection: alpha1

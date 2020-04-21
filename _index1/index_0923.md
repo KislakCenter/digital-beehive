@@ -2,8 +2,8 @@
 pid: index_0923
 volume: Volume 3
 image_number: '15'
-head: crystal
-entry: "<a href='/digital-beehive/toc/toc2_323/'>1645 [Chrystall]</a>"
+head: cucumers
+entry: "<a href='/digital-beehive/num3/num_0948'>678 [Cucumers]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3dc168891"
+item: "#item-074579e96"
 unparsed: 
-line: 'Head: crystal|Entry: 1645 [Chrystall]|#item-3dc168891'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/855,2896,428,134/full/0/default.jpg
+line: 'Head: cucumers|Entry: 678 [Cucumers]|#item-074579e96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/833,3171,466,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577911644
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578015354
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/855,2896,428,134/150,/0/default.jpg
-label: crystal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/833,3171,466,113/150,/0/default.jpg
+label: cucumers
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

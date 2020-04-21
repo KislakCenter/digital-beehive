@@ -8,10 +8,10 @@ topic: Images
 first_letter: I/J
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0445/'>Idolatry</a>|<a href='/digital-beehive/toc/toc2_178/'>955
+xref: "<a href='/digital-beehive/alpha3/alpha_0445/'>Idolatry</a>|<a href='/digital-beehive/num4/num_1273'>955
   [Images]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1957/'>images</a>"
+index: "<a href='/digital-beehive/index3/index_1956/'>images</a>"
 item: "#item-5c5901a59"
 unparsed: 
 line: 'Entry: Images|Topic: Images|Xref: Idolatry|Xref: 955 [Images]|Index: images|#item-5c5901a59'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/389,34
 label: Images
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '011'
 layout: alpha_item
 collection: alpha3

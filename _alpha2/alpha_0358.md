@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_269/'>1378 [Germany]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1602/'>Germany</a>"
+index: "<a href='/digital-beehive/index2/index_1601/'>Germany</a>"
 item: "#item-ae0fcaf74"
 unparsed: 
 line: 'Entry: Germany|Topic: Germany|Xref: 1378 [Germany]|Index: Germany|#item-ae0fcaf74'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/764,11
 label: Germany
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '089'
 layout: alpha_item
 collection: alpha2

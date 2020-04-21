@@ -3,7 +3,7 @@ pid: index_0685
 volume: Volume 3
 image_number: '13'
 head: to cleanse
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [Purge]</a>"
+entry: "<a href='/digital-beehive/num3/num_0906'>659 [Purge]</a>"
 topic: 
 first_letter: C
 page: 

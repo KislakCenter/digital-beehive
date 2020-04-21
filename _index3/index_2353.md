@@ -2,9 +2,8 @@
 pid: index_2353
 volume: Volume 3
 image_number: '29'
-head: love potion
-entry: "<a href='/digital-beehive/alpha3/alpha_0561/'>a</a>|<a href='/digital-beehive/toc/toc2_319/'>1623
-  [Love potions]</a>"
+head: first love
+entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [First Love]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-00d47fb4b"
+item: "#item-55b6f1813"
 unparsed: 
-line: 'Head: love potion|Entry: a|Entry: 1623 [Love potions]|#item-00d47fb4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/full/0/default.jpg
+line: 'Head: first love|Entry: 1601 [First Love]|#item-55b6f1813'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/163,2985,437,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180219524
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180308485
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/150,/0/default.jpg
-label: love potion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/163,2985,437,129/150,/0/default.jpg
+label: first love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '434'
+order: '435'
 layout: index_item
 collection: index3
 ---

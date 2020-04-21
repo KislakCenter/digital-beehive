@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_203/'>1049 [Persecution]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1502/'>force</a>"
+index: "<a href='/digital-beehive/index2/index_1501/'>force</a>"
 item: "#item-05b93e1d2"
 unparsed: 
 line: 'Entry: Force|Topic: Force|Xref: 1049 [Persecution]|Index: force|#item-05b93e1d2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/674,41
 label: Force
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '071'
 layout: alpha_item
 collection: alpha2

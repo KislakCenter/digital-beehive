@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/toc/toc2_303/'>1541 [Conjuring]</a>|<a href='/digital-beehive/toc/toc2_305/'>1551
   [Gafers]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1350/'>exorcism</a>"
+index: "<a href='/digital-beehive/index2/index_1349/'>exorcism</a>"
 item: "#item-a42a0b906"
 unparsed: 
 line: 'Entry: Exorcism|Topic: Exorcism|Xref: 1541 [Conjuring]|Xref: 1551 [Gafers]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,79
 label: Exorcism
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '030'
 layout: alpha_item
 collection: alpha2

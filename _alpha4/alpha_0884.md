@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0830/'>Satyre</a>|<a
-  href='/digital-beehive/toc/toc2_147/'>653 [Slander]</a>"
+  href='/digital-beehive/num3/num_0897'>653 [Slander]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3742/'>slander</a>"
 item: "#item-6f4b8314c"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,38
 label: Slander
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '236'
 layout: alpha_item
 collection: alpha4

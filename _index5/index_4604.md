@@ -3,7 +3,7 @@ pid: index_4604
 volume: Volume 3
 image_number: '53'
 head: word of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/toc/toc2_167/'>900
+entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num4/num_1169'>900
   [Word of God]</a>|<a href='/digital-beehive/toc/toc2_371/'>2060 [Word of God]</a>"
 topic: 
 first_letter: W

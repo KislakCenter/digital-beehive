@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_338/'>1734 [Pestilence]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2973/'>pestilence</a>"
+index: "<a href='/digital-beehive/index4/index_2972/'>pestilence</a>"
 item: "#item-1b9e3beb0"
 unparsed: 
 line: 'Entry: Pestilence|Topic: Pestilence|Xref: 1734 [Pestilence]|Index: pestilence|#item-1b9e3beb0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/816,15
 label: Pestilence
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '055'
 layout: alpha_item
 collection: alpha4

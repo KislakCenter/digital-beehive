@@ -2,8 +2,8 @@
 pid: index_1600
 volume: Volume 3
 image_number: '22'
-head: geometry
-entry: "<a href='/digital-beehive/toc/toc2_248/'>1274 [Geometry]</a>"
+head: George
+entry: "<a href='/digital-beehive/toc/toc2_384/'>2188 [George]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-328fb527c"
+item: "#item-5a0712ab0"
 unparsed: 
-line: 'Head: geometry|Entry: 1274 [Geometry]|#item-328fb527c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,920,500,122/full/0/default.jpg
+line: 'Head: George|Entry: 2188 [George]|#item-5a0712ab0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/445,983,460,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042437274
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042578621
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,920,500,122/150,/0/default.jpg
-label: geometry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/445,983,460,112/150,/0/default.jpg
+label: George
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '418'
+order: '419'
 layout: index_item
 collection: index2
 ---

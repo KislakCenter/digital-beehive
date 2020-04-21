@@ -10,7 +10,7 @@ page:
 add: 
 xref: 1879 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index1/index_0884/'>court</a>"
+index: "<a href='/digital-beehive/index1/index_0883/'>court</a>"
 item: "#item-e42ecf64b"
 unparsed: 
 line: 'Entry: Court|Topic: Court|Xref: 1879 [PAGE_MISSING]|Index: court|#item-e42ecf64b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/339,41
 label: Court
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '185'
 layout: alpha_item
 collection: alpha1

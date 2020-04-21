@@ -3,7 +3,8 @@ pid: index_3668
 volume: Volume 3
 image_number: '42'
 head: to shell
-entry: "<a href='/digital-beehive/toc/toc2_148/'>659 [to Shale]</a>"
+entry: "<a href='/digital-beehive/num3/num_0907'>659 [to shale, decorticare, potior,
+  to shell]</a>"
 topic: 
 first_letter: S
 page: 
@@ -13,7 +14,7 @@ see:
 index: 
 item: "#item-22691975e"
 unparsed: 
-line: 'Head: to shell|Entry: 659 [to Shale]|#item-22691975e'
+line: 'Head: to shell|Entry: 659 [to shale, decorticare, potior, to shell]|#item-22691975e'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1829,373,460,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559575513900
@@ -23,7 +24,7 @@ label: to shell
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0916'
+order: '0917'
 layout: index_item
 collection: index4
 ---

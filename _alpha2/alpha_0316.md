@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_242/'>1243 [Fate]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1413/'>fate</a>"
+index: "<a href='/digital-beehive/index2/index_1412/'>fate</a>"
 item: "#item-60683e6ab"
 unparsed: 
 line: 'Entry: Fate|Topic: Fate|Xref: 1243 [Fate]|Index: fate|#item-60683e6ab'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,40
 label: Fate
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '047'
 layout: alpha_item
 collection: alpha2

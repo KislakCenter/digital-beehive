@@ -2,8 +2,8 @@
 pid: index_0867
 volume: Volume 3
 image_number: '15'
-head: covenant
-entry: "<a href='/digital-beehive/alpha1/alpha_0179/'>a</a>"
+head: covering
+entry: 817 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-acfac2b8f"
+item: "#item-e5a3ca11b"
 unparsed: 
-line: 'Head: covenant|Entry: a|#item-acfac2b8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,747,463,106/full/0/default.jpg
+line: 'Head: covering|Entry: 817 [PAGE_MISSING]|#item-e5a3ca11b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,867,456,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974102400
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974125086
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,747,463,106/150,/0/default.jpg
-label: covenant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,867,456,124/150,/0/default.jpg
+label: covering
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/318,32
 label: Chiliasm
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 issue: The point of reference for "Restoration" is unclear.
+also_in_entry: 
 order: '140'
 layout: alpha_item
 collection: alpha1

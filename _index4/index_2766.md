@@ -2,9 +2,8 @@
 pid: index_2766
 volume: Volume 3
 image_number: '33'
-head: occasion
-entry: "<a href='/digital-beehive/alpha4/alpha_0653/'>a</a>|<a href='/digital-beehive/toc/toc2_157/'>706
-  [Occasion]</a>"
+head: to occupy
+entry: "<a href='/digital-beehive/num1/num_0256/'>239 [Possession]</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-176b912ac"
+item: "#item-c296b4ec9"
 unparsed: 
-line: 'Head: occasion|Entry: a|Entry: 706 [Occasion]|#item-176b912ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/121,2985,665,178/full/0/default.jpg
+line: 'Head: to occupy|Entry: 239 [Possession]|#item-c296b4ec9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/102,3130,645,186/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347595286
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347623287
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/121,2985,665,178/150,/0/default.jpg
-label: occasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/102,3130,645,186/150,/0/default.jpg
+label: to occupy
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0014'
+order: '0015'
 layout: index_item
 collection: index4
 ---

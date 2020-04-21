@@ -2,28 +2,28 @@
 pid: index_2415
 volume: Volume 3
 image_number: '29'
-head: manner
-entry: 
+head: man[n]a
+entry: "<a href='/digital-beehive/toc/toc2_212/'>1095 [Manna]</a>"
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1513/'>form</a>|<a href='/digital-beehive/index1/index_0934/'>custom</a>"
+see: 
 index: 
-item: "#item-31de29b16"
+item: "#item-ea3b7da6b"
 unparsed: 
-line: 'Head: manner|See: form|See: custom|#item-31de29b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/full/0/default.jpg
+line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/150,/0/default.jpg
-label: manner
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/150,/0/default.jpg
+label: man[n]a
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '496'
+order: '497'
 layout: index_item
 collection: index3
 ---

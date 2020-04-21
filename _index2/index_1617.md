@@ -2,8 +2,8 @@
 pid: index_1617
 volume: Volume 3
 image_number: '22'
-head: gladness
-entry: 832 [PAGE_MISSING]
+head: Glaucha hospital
+entry: "<a href='/digital-beehive/toc/toc2_276/'>1415 [Hospital]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-01ca9871c"
+item: "#item-d2e6eff2d"
 unparsed: 
-line: 'Head: gladness|Entry: 832 [PAGE_MISSING]|#item-01ca9871c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2616,461,129/full/0/default.jpg
+line: 'Head: Glaucha hospital|Entry: 1415 [Hospital]|#item-d2e6eff2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,2742,681,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043843051
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043947767
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2616,461,129/150,/0/default.jpg
-label: gladness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,2742,681,134/150,/0/default.jpg
+label: Glaucha hospital
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '435'
+order: '436'
 layout: index_item
 collection: index2
 ---

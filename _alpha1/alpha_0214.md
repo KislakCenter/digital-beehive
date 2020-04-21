@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Epistle Dedicatory]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0982/'>dedication</a>"
+index: "<a href='/digital-beehive/index1/index_0981/'>dedication</a>"
 item: "#item-1fd55f37c"
 unparsed: 
 line: 'Entry: Dedication|Topic: Dedication|Xref: 1348 [Epistle Dedicatory]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/782,16
 label: Dedication
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '213'
+also_in_entry: 
+order: '212'
 layout: alpha_item
 collection: alpha1
 ---

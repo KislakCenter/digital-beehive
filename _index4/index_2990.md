@@ -2,8 +2,8 @@
 pid: index_2990
 volume: Volume 3
 image_number: '35'
-head: phrase
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Bombast Expressions]</a>"
+head: phylacteries
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1911 [Phylacteries]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ef576384a"
+item: "#item-c45098871"
 unparsed: 
-line: 'Head: phrase|Entry: 537 [Bombast Expressions]|#item-ef576384a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/862,3064,429,154/full/0/default.jpg
+line: 'Head: phylacteries|Entry: 1911 [Phylacteries]|#item-c45098871'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/870,3128,545,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974903556
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974927689
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/862,3064,429,154/150,/0/default.jpg
-label: phrase
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/870,3128,545,158/150,/0/default.jpg
+label: phylacteries
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0238'
+order: '0239'
 layout: index_item
 collection: index4
 ---

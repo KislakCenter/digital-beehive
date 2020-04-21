@@ -3,7 +3,7 @@ pid: index_4431
 volume: Volume 3
 image_number: '51'
 head: voracity
-entry: "<a href='/digital-beehive/toc/toc2_151/'>677 [Voracity]</a>"
+entry: "<a href='/digital-beehive/num3/num_0945'>677 [Voracity]</a>"
 topic: 
 first_letter: U/V
 page: 

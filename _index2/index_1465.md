@@ -2,28 +2,28 @@
 pid: index_1465
 volume: Volume 3
 image_number: '20'
-head: fishery
-entry: "<a href='/digital-beehive/toc/toc2_395/'>2257 [Fishery]</a>"
+head: fish pond
+entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3569/'>sea</a>"
 index: 
-item: "#item-7272eee01"
+item: "#item-c8f89c40f"
 unparsed: 
-line: 'Head: fishery|Entry: 2257 [Fishery]|#item-7272eee01'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1769,1824,517,187/full/0/default.jpg
+line: 'Head: fish pond|See: sea|#item-c8f89c40f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1792,1879,556,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562614996379
+annotation_uri: http://dev.llgc.org.uk/annotation/1562615035307
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1769,1824,517,187/150,/0/default.jpg
-label: fishery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1792,1879,556,179/150,/0/default.jpg
+label: fish pond
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '283'
+order: '284'
 layout: index_item
 collection: index2
 ---

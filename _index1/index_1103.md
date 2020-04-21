@@ -2,8 +2,8 @@
 pid: index_1103
 volume: Volume 3
 image_number: '17'
-head: distilling
-entry: "<a href='/digital-beehive/toc/toc2_135/'>592 [Distilling]</a>"
+head: distinctly
+entry: 863 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9a2f2ea53"
+item: "#item-045e2be1e"
 unparsed: 
-line: 'Head: distilling|Entry: 592 [Distilling]|#item-9a2f2ea53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/full/0/default.jpg
+line: 'Head: distinctly|Entry: 863 [PAGE_MISSING]|#item-045e2be1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/844,470,566,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843392041
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848296861
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/150,/0/default.jpg
-label: distilling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/844,470,566,175/150,/0/default.jpg
+label: distinctly
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

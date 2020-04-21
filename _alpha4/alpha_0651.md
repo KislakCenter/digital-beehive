@@ -10,7 +10,7 @@ page:
 add: 
 xref: Plainness|<a href='/digital-beehive/toc/toc2_252/'>1292 [Obscurity]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2760/'>obscurity</a>"
+index: "<a href='/digital-beehive/index4/index_2759/'>obscurity</a>"
 item: "#item-02122876c"
 unparsed: 
 line: 'Entry: Obscurity|Topic: Obscurity|Xref: Plainness|Xref: 1292 [Obscurity]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/262,52
 label: Obscurity
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '004'
 layout: alpha_item
 collection: alpha4

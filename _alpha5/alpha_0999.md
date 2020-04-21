@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/830,23
 label: Unanimity
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: 
-order: '064'
+also_in_entry: 
+order: '065'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,8 +2,9 @@
 pid: index_1702
 volume: Volume 3
 image_number: '23'
-head: graving
-entry: 5424 [PAGE_MISSING]
+head: gravity
+entry: "<a href='/digital-beehive/alpha2/alpha_0383/'>a</a>|<a href='/digital-beehive/toc/toc2_408/'>2349
+  [Gravity]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b4a194767"
+item: "#item-a120b63f2"
 unparsed: 
-line: 'Head: graving|Entry: 5424 [PAGE_MISSING]|#item-b4a194767'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/130,328,471,107/full/0/default.jpg
+line: 'Head: gravity|Entry: a|Entry: 2349 [Gravity]|#item-a120b63f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/116,359,562,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559228680876
+annotation_uri: http://dev.llgc.org.uk/annotation/1559228863233
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/130,328,471,107/150,/0/default.jpg
-label: graving
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/116,359,562,116/150,/0/default.jpg
+label: gravity
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '519'
+order: '520'
 layout: index_item
 collection: index2
 ---

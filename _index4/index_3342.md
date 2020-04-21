@@ -2,28 +2,28 @@
 pid: index_3342
 volume: Volume 3
 image_number: '39'
-head: reign
+head: "[:38.]"
 entry: 
 topic: 
 first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1241/'>empire</a>"
+see: 
 index: 
-item: "#item-cca72b48d"
-unparsed: 
-line: 'Head: reign|See: empire|#item-cca72b48d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/108,2515,581,135/full/0/default.jpg
+item: "#item-7816bd5f4"
+unparsed: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
+line: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/683,2527,169,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464995406
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277589841
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/108,2515,581,135/150,/0/default.jpg
-label: reign
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/683,2527,169,126/150,/0/default.jpg
+label: "[:38.]"
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '0590'
+insertion_xref: "<a href='/digital-beehive/index5/index_4706/'><</a>"
+order: '0591'
 layout: index_item
 collection: index4
 ---

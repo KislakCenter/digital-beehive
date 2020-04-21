@@ -2,8 +2,8 @@
 pid: index_0866
 volume: Volume 3
 image_number: '15'
-head: costive
-entry: "<a href='/digital-beehive/toc/toc2_385/'>2191 [Costive]</a>"
+head: covenant
+entry: "<a href='/digital-beehive/alpha1/alpha_0179/'>a</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b4529346a"
+item: "#item-acfac2b8f"
 unparsed: 
-line: 'Head: costive|Entry: 2191 [Costive]|#item-b4529346a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/172,697,416,84/full/0/default.jpg
+line: 'Head: covenant|Entry: a|#item-acfac2b8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,747,463,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974084548
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974102400
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/172,697,416,84/150,/0/default.jpg
-label: costive
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,747,463,106/150,/0/default.jpg
+label: covenant
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -9,9 +9,9 @@ first_letter: R
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/digital-beehive/alpha1/alpha_0135/'>Change</a>|<a
-  href='/digital-beehive/num2/num_0602/'>486 [Reformation]</a>"
+  href='/digital-beehive/num2/num_0607/'>486 [Reformation]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3332/'>reformation</a>"
+index: "<a href='/digital-beehive/index4/index_3331/'>reformation</a>"
 item: "#item-5a9359b30"
 unparsed: 
 line: 'Entry: Reformation|Topic: Reformation|Xref: Amending|Xref: Change|Xref: 486
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,25
 label: Reformation
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '135'
 layout: alpha_item
 collection: alpha4

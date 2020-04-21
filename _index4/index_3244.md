@@ -2,28 +2,28 @@
 pid: index_3244
 volume: Volume 3
 image_number: '38'
-head: Pythagoras
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1056 [Pythagoras]</a>"
+head: quails
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1913 [Quails]</a>"
 topic: 
-first_letter: P
+first_letter: Q
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-3e74dcc8c"
+item: "#item-0781c57cc"
 unparsed: 
-line: 'Head: Pythagoras|Entry: 1056 [Pythagoras]|#item-3e74dcc8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/415,2638,568,147/full/0/default.jpg
+line: 'Head: quails|Entry: 1913 [Quails]|#item-0781c57cc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/416,2790,464,181/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452656125
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452694234
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/415,2638,568,147/150,/0/default.jpg
-label: Pythagoras
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/416,2790,464,181/150,/0/default.jpg
+label: quails
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0492'
+order: '0493'
 layout: index_item
 collection: index4
 ---

@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
+see: "<a href='/digital-beehive/index1/index_0988/'>defence</a>"
 index: 
 item: "#item-285a031cd"
 unparsed: 
@@ -23,7 +23,7 @@ label: Self defence
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0860'
+order: '0861'
 layout: index_item
 collection: index4
 ---

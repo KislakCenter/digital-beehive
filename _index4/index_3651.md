@@ -3,7 +3,7 @@ pid: index_3651
 volume: Volume 3
 image_number: '42'
 head: to sew
-entry: "<a href='/digital-beehive/toc/toc2_142/'>624 [To Sew]</a>"
+entry: "<a href='/digital-beehive/num3/num_0842'>624 [To Sew]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to sew
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0899'
+order: '0900'
 layout: index_item
 collection: index4
 ---

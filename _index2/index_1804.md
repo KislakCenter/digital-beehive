@@ -2,8 +2,8 @@
 pid: index_1804
 volume: Volume 3
 image_number: '23'
-head: Henry VIII. K. of E
-entry: 1838 [PAGE_MISSING]
+head: Heraclitus
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1612 [Democritus & Heraclitus]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-6f6e14478"
+item: "#item-2750fd938"
 unparsed: 
-line: 'Head: Henry VIII. K. of E|Entry: 1838 [PAGE_MISSING]|#item-6f6e14478'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1517,2944,543,86/full/0/default.jpg
+line: 'Head: Heraclitus|Entry: 1612 [Democritus & Heraclitus]|#item-2750fd938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,2995,456,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571979960
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572052146
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1517,2944,543,86/150,/0/default.jpg
-label: Henry VIII. K. of E
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,2995,456,100/150,/0/default.jpg
+label: Heraclitus
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '621'
+order: '622'
 layout: index_item
 collection: index2
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1065/'>discharge</a>"
+index: "<a href='/digital-beehive/index1/index_1064/'>discharge</a>"
 item: "#item-980f3a073"
 unparsed: 
 line: 'Entry: Discharge|Topic: Discharge|Xref: 1445 [Dismissing]|Index: discharge|#item-980f3a073'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,17
 label: Discharge
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '253'
+also_in_entry: 
+order: '252'
 layout: alpha_item
 collection: alpha1
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_254/'>1303 [Honesty]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1865/'>honesty</a>"
+index: "<a href='/digital-beehive/index2/index_1864/'>honesty</a>"
 item: "#item-4d4ef6ca7"
 unparsed: 
 line: 'Entry: Honesty|Topic: Honesty|Xref: 1303 [Honesty]|Index: honesty|#item-4d4ef6ca7'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/296,10
 label: Honesty
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '157'
 layout: alpha_item
 collection: alpha2

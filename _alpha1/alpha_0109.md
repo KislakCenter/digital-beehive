@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0353/'>funeral</a>|<a href='/digital-beehive/alpha2/alpha_0385/'>grave</a>|<a
-  href='/digital-beehive/toc/toc2_166/'>894 [Burial]</a>"
+  href='/digital-beehive/num4/num_1159'>894 [Burial]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0480/'>burial</a>"
 item: "#item-1fd7dd617"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,23
 label: Burial
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '108'
 layout: alpha_item
 collection: alpha1

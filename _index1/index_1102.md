@@ -2,8 +2,8 @@
 pid: index_1102
 volume: Volume 3
 image_number: '17'
-head: distance
-entry: 748 [PAGE_MISSING]
+head: distilling
+entry: "<a href='/digital-beehive/num3/num_0767'>592 [Distilling]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a62cdf9ce"
+item: "#item-9a2f2ea53"
 unparsed: 
-line: 'Head: distance|Entry: 748 [PAGE_MISSING]|#item-a62cdf9ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/794,259,605,177/full/0/default.jpg
+line: 'Head: distilling|Entry: 592 [Distilling]|#item-9a2f2ea53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843236407
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843392041
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/794,259,605,177/150,/0/default.jpg
-label: distance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/150,/0/default.jpg
+label: distilling
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

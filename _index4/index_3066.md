@@ -2,29 +2,28 @@
 pid: index_3066
 volume: Volume 3
 image_number: '36'
-head: polygamy
-entry: "<a href='/digital-beehive/alpha4/alpha_0716/'>a</a>|<a href='/digital-beehive/toc/toc2_180/'>969
-  [Polygamy]</a>"
+head: pomegranate
+entry: 4667 [PAGE_MISSING]
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1bb371d0f"
+item: "#item-7655f7350"
 unparsed: 
-line: 'Head: polygamy|Entry: a|Entry: 969 [Polygamy]|#item-1bb371d0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/full/0/default.jpg
+line: 'Head: pomegranate|Page: p.33 [Image 1.93]|Entry: 4667 [PAGE_MISSING]|#item-7655f7350'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/405,3336,787,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438085290
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438113398
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/436,3195,600,156/150,/0/default.jpg
-label: polygamy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/405,3336,787,138/150,/0/default.jpg
+label: pomegranate
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0314'
+order: '0315'
 layout: index_item
 collection: index4
 ---

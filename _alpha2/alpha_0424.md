@@ -8,9 +8,9 @@ topic: Holiness
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_184/'>990 [Holiness]</a>"
+xref: "<a href='/digital-beehive/num4/num_1321'>990 [Holiness]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1855/'>holiness</a>"
+index: "<a href='/digital-beehive/index2/index_1854/'>holiness</a>"
 item: "#item-1ccaec402"
 unparsed: 
 line: 'Entry: Holiness|Topic: Holiness|Xref: 990 [Holiness]|Index: holiness|#item-1ccaec402'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/316,21
 label: Holiness
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '155'
 layout: alpha_item
 collection: alpha2

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>falshood</a>|793 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index2/index_1916/'>hypocrisy</a>"
+index: "<a href='/digital-beehive/index2/index_1915/'>hypocrisy</a>"
 item: "#item-5821466fa"
 unparsed: 
 line: 'Entry: Hypocrisy|Topic: Hypocrisy|Xref: falshood|Xref: 793 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,28
 label: Hypocrisy
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '172'
 layout: alpha_item
 collection: alpha2

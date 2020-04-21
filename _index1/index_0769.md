@@ -2,8 +2,8 @@
 pid: index_0769
 volume: Volume 3
 image_number: '14'
-head: to conceal
-entry: 811 [PAGE_MISSING]
+head: concentration
+entry: "<a href='/digital-beehive/toc/toc2_325/'>1655 [Concentration]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cb4042d2d"
+item: "#item-c67afbe1e"
 unparsed: 
-line: 'Head: to conceal|Entry: 811 [PAGE_MISSING]|#item-cb4042d2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1380,503,118/full/0/default.jpg
+line: 'Head: concentration|Entry: 1655 [Concentration]|#item-c67afbe1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/427,1497,639,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215512132
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215534873
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1380,503,118/150,/0/default.jpg
-label: to conceal
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/427,1497,639,103/150,/0/default.jpg
+label: concentration
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

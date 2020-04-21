@@ -2,28 +2,28 @@
 pid: index_2345
 volume: Volume 3
 image_number: '29'
-head: love of money
-entry: 
+head: love of sin
+entry: "<a href='/digital-beehive/alpha3/alpha_0559/'>a</a>"
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0869/'>Covetousness</a>"
+see: 
 index: 
-item: "#item-227f351c8"
+item: "#item-0ebddbaa3"
 unparsed: 
-line: 'Head: love of money|See: Covetousness|#item-227f351c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/full/0/default.jpg
+line: 'Head: love of sin|Entry: a|#item-0ebddbaa3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2444,362,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179670621
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179692122
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/150,/0/default.jpg
-label: love of money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2444,362,104/150,/0/default.jpg
+label: love of sin
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '426'
+order: '427'
 layout: index_item
 collection: index3
 ---

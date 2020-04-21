@@ -2,8 +2,8 @@
 pid: index_2395
 volume: Volume 3
 image_number: '29'
-head: malabaria
-entry: "<a href='/digital-beehive/toc/toc2_286/'>1465 [Malabrians]</a>"
+head: malediction
+entry: "<a href='/digital-beehive/alpha3/alpha_0568/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b95e73c64"
+item: "#item-733efa96c"
 unparsed: 
-line: 'Head: malabaria|Entry: 1465 [Malabrians]|#item-b95e73c64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/full/0/default.jpg
+line: 'Head: malediction|Entry: a|#item-733efa96c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1546,802,491,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194050155
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194090884
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/150,/0/default.jpg
-label: malabaria
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1546,802,491,99/150,/0/default.jpg
+label: malediction
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '476'
+order: '477'
 layout: index_item
 collection: index3
 ---

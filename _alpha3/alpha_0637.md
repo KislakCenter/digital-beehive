@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|Indifferen
   href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num2/num_0420/'>357
   [Neutrality]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2692/'>neutrality</a>"
+index: "<a href='/digital-beehive/index3/index_2691/'>neutrality</a>"
 item: "#item-323b2f38d"
 unparsed: 
 line: 'Entry: Neutrality|Topic: Neutrality|Xref: Impartiality|Xref: Indifferency|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,63
 label: Neutrality
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '193'
 layout: alpha_item
 collection: alpha3

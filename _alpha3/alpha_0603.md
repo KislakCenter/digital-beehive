@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/digital-beehive/alpha2/alpha_0418/'>Hermit</a>|<a
   href='/digital-beehive/num2/num_0575/'>462 [Monks]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2567/'>monk</a>"
+index: "<a href='/digital-beehive/index3/index_2566/'>monk</a>"
 item: "#item-a0df82e32"
 unparsed: 
 line: 'Entry: Monk|Topic: Monk|Xref: Cloister|Xref: Hermit|Xref: 462 [Monks]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/374,34
 label: Monk
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '159'
 layout: alpha_item
 collection: alpha3

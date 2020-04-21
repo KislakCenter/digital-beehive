@@ -2,8 +2,8 @@
 pid: index_3218
 volume: Volume 3
 image_number: '37'
-head: psaltery
-entry: "<a href='/digital-beehive/toc/toc2_408/'>2341 [Harp]</a>"
+head: publick good
+entry: "<a href='/digital-beehive/toc/toc2_254/'>1304 [Publick good]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1215dbd0d"
+item: "#item-a39cac23f"
 unparsed: 
-line: 'Head: psaltery|Entry: 2341 [Harp]|#item-1215dbd0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,3230,601,124/full/0/default.jpg
+line: 'Head: publick good|Entry: 1304 [Publick good]|#item-a39cac23f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869815305
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869837124
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,3230,601,124/150,/0/default.jpg
-label: psaltery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1452,3287,642,169/150,/0/default.jpg
+label: publick good
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0466'
+order: '0467'
 layout: index_item
 collection: index4
 ---

@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,31
 label: Victory
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '056'
+also_in_entry: 
+order: '057'
 layout: alpha_item
 collection: alpha5
 ---

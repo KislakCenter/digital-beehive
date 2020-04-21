@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/812,91
 label: Trance
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '039'
+also_in_entry: 
+order: '040'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,8 +2,8 @@
 pid: index_3264
 volume: Volume 3
 image_number: '38'
-head: to quiet
-entry: 1864 [PAGE_MISSING]
+head: Quietists
+entry: "<a href='/digital-beehive/num4/num_1256'>939 [Quietists]</a>"
 topic: 
 first_letter: Q
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-92f02a5e3"
+item: "#item-d9c200413"
 unparsed: 
-line: 'Head: to quiet|Entry: 1864 [PAGE_MISSING]|#item-92f02a5e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1170,1278,525,96/full/0/default.jpg
+line: 'Head: Quietists|Entry: 939 [Quietists]|#item-d9c200413'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1168,1322,555,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455252630
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455277362
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1170,1278,525,96/150,/0/default.jpg
-label: to quiet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1168,1322,555,138/150,/0/default.jpg
+label: Quietists
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0512'
+order: '0513'
 layout: index_item
 collection: index4
 ---

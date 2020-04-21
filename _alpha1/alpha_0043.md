@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/814,13
 label: Apples
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '042'
 layout: alpha_item
 collection: alpha1

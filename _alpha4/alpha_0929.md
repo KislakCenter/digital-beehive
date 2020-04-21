@@ -8,7 +8,7 @@ topic: Superstition
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1060/'>will Worship</a>|<a href='/digital-beehive/toc/toc2_176/'>946
+xref: "<a href='/digital-beehive/alpha5/alpha_1060/'>will Worship</a>|<a href='/digital-beehive/num4/num_1263'>946
   [Superstition]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3989/'>superstition</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/769,44
 label: Superstition
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '281'
 layout: alpha_item
 collection: alpha4

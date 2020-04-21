@@ -2,9 +2,8 @@
 pid: index_1469
 volume: Volume 3
 image_number: '20'
-head: fitness
-entry: "<a href='/digital-beehive/toc/toc2_154/'>694 [Fitness]</a>|<a href='/digital-beehive/toc/toc2_340/'>1754
-  [Fit]</a>"
+head: fitcher
+entry: 4612 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3a871ed97"
+item: "#item-114176270"
 unparsed: 
-line: 'Head: fitness|Entry: 694 [Fitness]|Entry: 1754 [Fit]|#item-3a871ed97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1811,1986,573,205/full/0/default.jpg
+line: 'Head: fitcher|Entry: 4612 [PAGE_MISSING]|#item-114176270'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1791,2055,486,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615554080
+annotation_uri: http://dev.llgc.org.uk/annotation/1562615845625
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1811,1986,573,205/150,/0/default.jpg
-label: fitness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1791,2055,486,168/150,/0/default.jpg
+label: fitcher
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '287'
+order: '288'
 layout: index_item
 collection: index2
 ---

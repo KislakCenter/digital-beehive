@@ -2,8 +2,8 @@
 pid: index_2016
 volume: Volume 3
 image_number: '25'
-head: index
-entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Index]</a>"
+head: Indians
+entry: 768 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_299/'>1524 [Indians]</a>
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-379def9f7"
+item: "#item-18961b52b"
 unparsed: 
-line: 'Head: index|Entry: 975 [Index]|#item-379def9f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1477,3050,452,145/full/0/default.jpg
+line: 'Head: Indians|Entry: 768 [PAGE_MISSING]|Entry: 1524 [Indians]|#item-18961b52b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1525,3169,602,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672824375
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672892597
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1477,3050,452,145/150,/0/default.jpg
-label: index
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1525,3169,602,195/150,/0/default.jpg
+label: Indians
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '097'
+order: '098'
 layout: index_item
 collection: index3
 ---

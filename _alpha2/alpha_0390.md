@@ -9,9 +9,10 @@ first_letter: G
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/digital-beehive/alpha2/alpha_0318/'>fault</a>|<a
-  href='/digital-beehive/toc/toc2_318/'>1620 [Guilt]</a>|468 [Self-guilty]"
+  href='/digital-beehive/toc/toc2_318/'>1620 [Guilt]</a>|<a href='/digital-beehive/num2/num_0582/'>468
+  [Self-guilty]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1730/'>guilt</a>"
+index: "<a href='/digital-beehive/index2/index_1729/'>guilt</a>"
 item: "#item-0034a0ab2"
 unparsed: 
 line: 'Entry: Guilt|Topic: Guilt|Xref: Crime|Xref: fault|Xref: 1620 [Guilt]|Xref:
@@ -24,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,29
 label: Guilt
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '121'
 layout: alpha_item
 collection: alpha2

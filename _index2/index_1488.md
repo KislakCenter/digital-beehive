@@ -2,28 +2,28 @@
 pid: index_1488
 volume: Volume 3
 image_number: '21'
-head: flower
-entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>"
+head: flux
+entry: 805 [PAGE_MISSING]
 topic: 
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-e834c75d4"
+item: "#item-ad586d7b1"
 unparsed: 
-line: 'Head: flower|Page: p.33 [Image 1.93]|Entry: a|#item-e834c75d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,385,511,110/full/0/default.jpg
+line: 'Head: flux|Entry: 805 [PAGE_MISSING]|#item-ad586d7b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/183,496,344,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508355173678
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232750984
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,385,511,110/150,/0/default.jpg
-label: flower
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/183,496,344,102/150,/0/default.jpg
+label: flux
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '306'
+order: '307'
 layout: index_item
 collection: index2
 ---

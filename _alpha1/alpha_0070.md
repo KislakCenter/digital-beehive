@@ -8,7 +8,7 @@ topic: Bed
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0885/'>Sleep</a>|<a href='/digital-beehive/toc/toc2_124/'>523
+xref: "<a href='/digital-beehive/alpha4/alpha_0885/'>Sleep</a>|<a href='/digital-beehive/num3/num_0656'>523
   [Bed]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0329/'>bed</a>"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/709,71
 label: Bed
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '069'
 layout: alpha_item
 collection: alpha1

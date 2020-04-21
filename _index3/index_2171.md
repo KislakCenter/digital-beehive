@@ -2,28 +2,28 @@
 pid: index_2171
 volume: Volume 3
 image_number: '27'
-head: knife
-entry: 758 [PAGE_MISSING]
+head: knight
+entry: "<a href='/digital-beehive/toc/toc2_341/'>1760 [Knighthood]</a>"
 topic: 
 first_letter: K
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-29bb76f2b"
+item: "#item-ca15f6fdf"
 unparsed: 
-line: 'Head: knife|Page: p.10 [Image 1.70]|Entry: 758 [PAGE_MISSING]|#item-29bb76f2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/839,2040,472,157/full/0/default.jpg
+line: 'Head: knight|Entry: 1760 [Knighthood]|#item-ca15f6fdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/843,2113,460,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762430953
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762505905
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/839,2040,472,157/150,/0/default.jpg
-label: knife
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/843,2113,460,125/150,/0/default.jpg
+label: knight
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '252'
+order: '253'
 layout: index_item
 collection: index3
 ---

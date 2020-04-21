@@ -2,28 +2,28 @@
 pid: index_2058
 volume: Volume 3
 image_number: '26'
-head: inscriptions
-entry: "<a href='/digital-beehive/alpha3/alpha_0479/'>a</a>"
+head: insects
+entry: 792 [PAGE_MISSING]
 topic: 
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_052/'>p.2 [Image 1.62]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d99fbd113"
+item: "#item-10d020022"
 unparsed: 
-line: 'Head: inscriptions|Page: p.2 [Image 1.62]|Entry: a|#item-d99fbd113'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,743,678,183/full/0/default.jpg
+line: 'Head: insects|Entry: 792 [PAGE_MISSING]|#item-10d020022'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,896,384,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559747359676
+annotation_uri: http://dev.llgc.org.uk/annotation/1559747407769
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,743,678,183/150,/0/default.jpg
-label: inscriptions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,896,384,135/150,/0/default.jpg
+label: insects
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '139'
+order: '140'
 layout: index_item
 collection: index3
 ---

@@ -3,7 +3,7 @@ pid: index_3767
 volume: Volume 3
 image_number: '43'
 head: sneez
-entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Snuff]</a>|<a href='/digital-beehive/num2/num_0590/'>476
+entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Snuff]</a>|<a href='/digital-beehive/num2/num_0595/'>476
   [Sneezing]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: sneez
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1015'
+order: '1016'
 layout: index_item
 collection: index4
 ---

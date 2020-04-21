@@ -25,6 +25,7 @@ label: Celibate
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 issue: It is unclear whether "To prevent generation" should be considered a separate
   entry.
+also_in_entry: 
 order: '131'
 layout: alpha_item
 collection: alpha1

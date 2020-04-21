@@ -2,8 +2,9 @@
 pid: index_2627
 volume: Volume 3
 image_number: '31'
-head: myrrh
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1928 [Myrrh]</a>"
+head: mystery
+entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>|<a href='/digital-beehive/toc/toc2_195/'>1006
+  [Mystery]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-feba70808"
+item: "#item-569ede8f3"
 unparsed: 
-line: 'Head: myrrh|Entry: 1928 [Myrrh]|#item-feba70808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2688,415,110/full/0/default.jpg
+line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2768,568,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362504847
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2688,415,110/150,/0/default.jpg
-label: myrrh
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2768,568,113/150,/0/default.jpg
+label: mystery
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '708'
+order: '709'
 layout: index_item
 collection: index3
 ---

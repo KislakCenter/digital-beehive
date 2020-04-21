@@ -3,7 +3,7 @@ pid: index_3568
 volume: Volume 3
 image_number: '41'
 head: scurvy
-entry: "<a href='/digital-beehive/toc/toc2_136/'>593 [Scurvy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0768'>593 [Scurvy]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: scurvy
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0816'
+order: '0817'
 layout: index_item
 collection: index4
 ---

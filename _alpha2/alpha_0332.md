@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_186/'>1002 [Flies]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1481/'>flie</a>"
+index: "<a href='/digital-beehive/index2/index_1480/'>flie</a>"
 item: "#item-4b9a56ee5"
 unparsed: 
 line: 'Entry: Flies|Topic: Flies|Xref: 1002 [Flies]|Index: flie|#item-4b9a56ee5'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/750,76
 label: Flies
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '063'
 layout: alpha_item
 collection: alpha2

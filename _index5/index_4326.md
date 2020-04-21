@@ -3,12 +3,12 @@ pid: index_4326
 volume: Volume 3
 image_number: '49'
 head: victuals
-entry: "<a href='/digital-beehive/num2/num_0424/'>359 [Meat]</a>|<a href='/digital-beehive/toc/toc2_155/'>696
+entry: "<a href='/digital-beehive/num2/num_0424/'>359 [Meat]</a>|<a href='/digital-beehive/num3/num_1000'>696
   [Dainty meats]</a>|<a href='/digital-beehive/toc/toc2_381/'>2156 [Meat]</a>"
 topic: 
 first_letter: U/V
 page: 
-add: "<a href='/digital-beehive/index1/index_0940/'>dainties</a>"
+add: "<a href='/digital-beehive/index1/index_0938/'>dainties</a>"
 xref: 
 see: 
 index: 

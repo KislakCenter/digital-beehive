@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2928/'>pawn</a>"
+index: "<a href='/digital-beehive/index4/index_2927/'>pawn</a>"
 item: "#item-ab2cfebee"
 unparsed: 
 line: 'Entry: Pawn|Topic: Pawn|Index:  pawn|#item-ab2cfebee'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/320,20
 label: Pawn
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '042'
 layout: alpha_item
 collection: alpha4

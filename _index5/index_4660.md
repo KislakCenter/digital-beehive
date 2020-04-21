@@ -3,7 +3,7 @@ pid: index_4660
 volume: Volume 3
 image_number: '53'
 head: Zone
-entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [to Gird]</a>"
+entry: "<a href='/digital-beehive/num3/num_0988'>691 [to Gird]</a>"
 topic: 
 first_letter: Z
 page: 

@@ -2,8 +2,8 @@
 pid: index_2014
 volume: Volume 3
 image_number: '25'
-head: indemnity
-entry: "<a href='/digital-beehive/toc/toc2_160/'>721 [Indemnity]</a>"
+head: independency
+entry: "<a href='/digital-beehive/toc/toc2_240/'>1231 [Independent]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8fd79df16"
+item: "#item-e706cfe7a"
 unparsed: 
-line: 'Head: indemnity|Entry: 721 [Indemnity]|#item-8fd79df16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1486,2771,548,167/full/0/default.jpg
+line: 'Head: independency|Entry: 1231 [Independent]|#item-e706cfe7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1519,2922,600,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672691774
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672756235
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1486,2771,548,167/150,/0/default.jpg
-label: indemnity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1519,2922,600,167/150,/0/default.jpg
+label: independency
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '095'
+order: '096'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0941/'>Temperance</a>|<a href='/digital-beehive/alpha4/alpha_0802/'>Revelling</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2073/'>intemperance</a>"
+index: "<a href='/digital-beehive/index3/index_2072/'>intemperance</a>"
 item: "#item-adc38b33f"
 unparsed: 
 line: 'Entry: Intemperance|Topic: Intemperance|Xref: Temperance|Xref: Revelling|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/784,22
 label: Intemperance
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '038'
 layout: alpha_item
 collection: alpha3

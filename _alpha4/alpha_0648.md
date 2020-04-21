@@ -10,7 +10,7 @@ page:
 add: 
 xref: Swearing|<a href='/digital-beehive/num1/num_0028/'>28 [Oath]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2753/'>oath</a>"
+index: "<a href='/digital-beehive/index4/index_2752/'>oath</a>"
 item: "#item-8a41c29da"
 unparsed: 
 line: 'Entry: Oath|Topic: Oath|Xref:  Swearing|Xref: 28 [Oath]|Index: oath|#item-8a41c29da'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/780,40
 label: Oath
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '001'
 layout: alpha_item
 collection: alpha4

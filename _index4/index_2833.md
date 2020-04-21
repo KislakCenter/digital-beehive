@@ -2,8 +2,8 @@
 pid: index_2833
 volume: Volume 3
 image_number: '34'
-head: orthography
-entry: "<a href='/digital-beehive/num2/num_0589/'>476 [Orthography]</a>"
+head: other
+entry: "<a href='/digital-beehive/num2/num_0401/'>346 [Other]</a>"
 topic: 
 first_letter: O
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-581025b93"
+item: "#item-4e65c214d"
 unparsed: 
-line: 'Head: orthography|Entry: 476 [Orthography]|#item-581025b93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/full/0/default.jpg
+line: 'Head: other|Entry: 346 [Other]|#item-4e65c214d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424955981
+annotation_uri: http://dev.llgc.org.uk/annotation/1538424984796
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/150,/0/default.jpg
-label: orthography
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/150,/0/default.jpg
+label: other
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0081'
+order: '0082'
 layout: index_item
 collection: index4
 ---

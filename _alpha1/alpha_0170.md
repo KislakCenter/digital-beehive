@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_283/'>1447 [Consequence]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0806/'>consequence</a>"
+index: "<a href='/digital-beehive/index1/index_0805/'>consequence</a>"
 item: "#item-b4594761a"
 unparsed: 
 line: 'Entry: Consequence|Topic: Consequence|Xref: 1447 [Consequence]|Index: consequence|#item-b4594761a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/788,13
 label: Consequence
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '169'
 layout: alpha_item
 collection: alpha1

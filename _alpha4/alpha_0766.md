@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_308/'>1566 [Quicksilver]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3263/'>quicksilver</a>"
+index: "<a href='/digital-beehive/index4/index_3262/'>quicksilver</a>"
 item: "#item-46957795f"
 unparsed: 
 line: 'Entry: Quicksilver|Topic: Quicksilver|Xref: 1566 [Quicksilver]|Index: quicksilver|#item-46957795f'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/328,23
 label: Quicksilver
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '119'
 layout: alpha_item
 collection: alpha4

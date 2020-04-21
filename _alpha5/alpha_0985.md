@@ -8,7 +8,7 @@ topic: Tyranny
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0199/'>Cruelty</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0199/'>Cruelty</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4283/'>tyranny</a>"
 item: "#item-e932376fc"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/301,65
 label: Tyranny
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '050'
+also_in_entry: 
+order: '051'
 layout: alpha_item
 collection: alpha5
 ---

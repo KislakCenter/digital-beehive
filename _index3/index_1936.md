@@ -2,9 +2,8 @@
 pid: index_1936
 volume: Volume 3
 image_number: '25'
-head: Jersey
-entry: "<a href='/digital-beehive/toc/toc2_146/'>647 [West Jarsey]</a>|<a href='/digital-beehive/toc/toc2_299/'>1522
-  [New Jersey]</a>"
+head: Jerusalem
+entry: "<a href='/digital-beehive/num2/num_0470/'>388 [(New) Jerusalem]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-df5ed73eb"
+item: "#item-705225ec1"
 unparsed: 
-line: 'Head: Jersey|Entry: 647 [West Jarsey]|Entry: 1522 [New Jersey]|#item-df5ed73eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1504,546,141/full/0/default.jpg
+line: 'Head: Jerusalem|Entry: 388 [(New) Jerusalem]|#item-705225ec1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660676873
+annotation_uri: http://dev.llgc.org.uk/annotation/1559660760923
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1504,546,141/150,/0/default.jpg
-label: Jersey
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/150,/0/default.jpg
+label: Jerusalem
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '017'
+order: '018'
 layout: index_item
 collection: index3
 ---

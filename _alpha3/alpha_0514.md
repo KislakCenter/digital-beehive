@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2207/'>last unction</a>"
+index: "<a href='/digital-beehive/index3/index_2206/'>last unction</a>"
 item: "#item-40e40de28"
 unparsed: 
 line: 'Entry: Last unction|Topic: Last unction|Index: last unction|#item-40e40de28'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/722,32
 label: Last unction
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '070'
 layout: alpha_item
 collection: alpha3

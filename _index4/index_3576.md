@@ -23,7 +23,7 @@ label: seamster
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0824'
+order: '0825'
 layout: index_item
 collection: index4
 ---

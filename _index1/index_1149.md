@@ -2,9 +2,8 @@
 pid: index_1149
 volume: Volume 3
 image_number: '17'
-head: drieness
-entry: "<a href='/digital-beehive/alpha1/alpha_0262/'>a</a>|<a href='/digital-beehive/toc/toc2_300/'>1526
-  [Drought or Driness]</a>"
+head: to drieshave
+entry: "<a href='/digital-beehive/num3/num_1047'>714 [to rid one of his money]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f50fae2da"
+item: "#item-32157ee40"
 unparsed: 
-line: 'Head: drieness|Entry: a|Entry: 1526 [Drought or Driness]|#item-f50fae2da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1496,1928,575,132/full/0/default.jpg
+line: 'Head: to drieshave|Entry: 714 [to rid one of his money]|#item-32157ee40'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,2011,600,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452325141
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452565433
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1496,1928,575,132/150,/0/default.jpg
-label: drieness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,2011,600,126/150,/0/default.jpg
+label: to drieshave
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

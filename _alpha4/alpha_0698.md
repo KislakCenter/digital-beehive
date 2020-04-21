@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0697/'>Perfection</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2954/'>perfection</a>"
+index: "<a href='/digital-beehive/index4/index_2953/'>perfection</a>"
 item: "#item-13966475b"
 unparsed: 
 line: 'Entry: Perfection, continued|Topic: Perfection, continued|Xref: Perfection|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/769,19
 label: Perfection, continued
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '051'
 layout: alpha_item
 collection: alpha4

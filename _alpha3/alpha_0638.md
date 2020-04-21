@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0644/'>Novelty</a>|<a href='/digital-beehive/toc/toc2_326/'>1656
   [New]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2693/'>new</a>"
+index: "<a href='/digital-beehive/index3/index_2692/'>new</a>"
 item: "#item-df0d21a9b"
 unparsed: 
 line: 'Entry: New|Topic: New|Xref: Novelty|Xref: 1656 [New]|Index: new|#item-df0d21a9b'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/777,10
 label: New
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '194'
 layout: alpha_item
 collection: alpha3

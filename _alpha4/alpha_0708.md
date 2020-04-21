@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3023/'>pitch</a>"
+index: "<a href='/digital-beehive/index4/index_3022/'>pitch</a>"
 item: "#item-3011a16a6"
 unparsed: 
 line: 'Entry: Pitch|Topic: Pitch|Index: pitch|#item-3011a16a6'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/842,40
 label: Pitch
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '061'
 layout: alpha_item
 collection: alpha4

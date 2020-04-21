@@ -2,8 +2,8 @@
 pid: index_1160
 volume: Volume 3
 image_number: '17'
-head: drowsiness
-entry: "<a href='/digital-beehive/num2/num_0328/'>292 [Drowsiness]</a>"
+head: drugs
+entry: "<a href='/digital-beehive/num3/num_0827'>617 [Druggs]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-38369470f"
+item: "#item-ce435739c"
 unparsed: 
-line: 'Head: drowsiness|Entry: 292 [Drowsiness]|#item-38369470f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1452,3161,586,173/full/0/default.jpg
+line: 'Head: drugs|Entry: 617 [Druggs]|#item-ce435739c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1464,3288,417,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453319638
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453424656
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1452,3161,586,173/150,/0/default.jpg
-label: drowsiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1464,3288,417,194/150,/0/default.jpg
+label: drugs
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

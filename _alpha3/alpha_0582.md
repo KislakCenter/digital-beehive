@@ -9,9 +9,9 @@ first_letter: M
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0221/'>deliberation</a>|Contemplation|<a
-  href='/digital-beehive/toc/toc2_161/'>868 [Meditation]</a>"
+  href='/digital-beehive/num4/num_1089'>868 [Meditation]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2469/'>meditation</a>"
+index: "<a href='/digital-beehive/index3/index_2468/'>meditation</a>"
 item: "#item-532b7736a"
 unparsed: 
 line: 'Entry: Meditation|Topic: Meditation|Xref: deliberation|Xref: Contemplation|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/746,93
 label: Meditation
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: The point of reference for "Contemplation" is unclear.
+also_in_entry: 
 order: '138'
 layout: alpha_item
 collection: alpha3

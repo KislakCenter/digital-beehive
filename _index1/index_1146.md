@@ -2,9 +2,8 @@
 pid: index_1146
 volume: Volume 3
 image_number: '17'
-head: dream
-entry: "<a href='/digital-beehive/toc/toc2_268/'>1374 [Dream]</a>|<a href='/digital-beehive/toc/toc2_301/'>1535
-  [Dream]</a>|<a href='/digital-beehive/toc/toc2_370/'>2045 [Dreams]</a>"
+head: dregs
+entry: 853 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-33a1a7c9a"
+item: "#item-d42d04b19"
 unparsed: 
-line: 'Head: dream|Entry: 1374 [Dream]|Entry: 1535 [Dream]|Entry: 2045 [Dreams]|#item-33a1a7c9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1416,1566,826,94/full/0/default.jpg
+line: 'Head: dregs|Entry: 853 [PAGE_MISSING]|#item-d42d04b19'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,1665,465,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452079462
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452115739
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1416,1566,826,94/150,/0/default.jpg
-label: dream
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,1665,465,152/150,/0/default.jpg
+label: dregs
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -3,7 +3,7 @@ pid: index_4375
 volume: Volume 3
 image_number: '50'
 head: undone
-entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689
+entry: "<a href='/digital-beehive/num3/num_0832'>620 [Despair]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689
   [Despair]</a>"
 topic: 
 first_letter: U/V

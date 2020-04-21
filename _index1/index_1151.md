@@ -2,8 +2,8 @@
 pid: index_1151
 volume: Volume 3
 image_number: '17'
-head: drift
-entry: "<a href='/digital-beehive/toc/toc2_158/'>711 [Drift]</a>"
+head: drink
+entry: "<a href='/digital-beehive/alpha1/alpha_0263/'>a</a>|775 [PAGE_MISSING]"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3eb36df88"
+item: "#item-1b96031ab"
 unparsed: 
-line: 'Head: drift|Entry: 711 [Drift]|#item-3eb36df88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/full/0/default.jpg
+line: 'Head: drink|Entry: a|Entry: 775 [PAGE_MISSING]|#item-1b96031ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1547,2270,468,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452605939
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452644205
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/150,/0/default.jpg
-label: drift
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1547,2270,468,133/150,/0/default.jpg
+label: drink
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

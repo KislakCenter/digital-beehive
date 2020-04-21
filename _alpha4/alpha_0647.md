@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2754/'>oats</a>"
+index: "<a href='/digital-beehive/index4/index_2753/'>oats</a>"
 item: "#item-3a7c1240f"
 unparsed: 
 line: 'Entry: Oats|Topic: Oats|Index: oats|#item-3a7c1240f'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/749,38
 label: Oats
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '000'
 layout: alpha_item
 collection: alpha4

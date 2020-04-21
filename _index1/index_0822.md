@@ -2,8 +2,8 @@
 pid: index_0822
 volume: Volume 3
 image_number: '14'
-head: contempt of riches
-entry: "<a href='/digital-beehive/toc/toc2_238/'>1221 [Contemn Riches]</a>"
+head: contempt of the world
+entry: "<a href='/digital-beehive/toc/toc2_356/'>1931 [Contempt]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7920ed435"
+item: "#item-016d13215"
 unparsed: 
-line: 'Head: contempt of riches|Entry: 1221 [Contemn Riches]|#item-7920ed435'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1137,3314,623,104/full/0/default.jpg
+line: 'Head: contempt of the world|Entry: 1931 [Contempt]|#item-016d13215'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542262731
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542289899
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1137,3314,623,104/150,/0/default.jpg
-label: contempt of riches
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1133,3387,611,85/150,/0/default.jpg
+label: contempt of the world
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

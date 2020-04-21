@@ -2,9 +2,8 @@
 pid: index_1004
 volume: Volume 3
 image_number: '16'
-head: deluge
-entry: "<a href='/digital-beehive/alpha1/alpha_0222/'>a</a>|<a href='/digital-beehive/toc/toc2_272/'>1395
-  [Deluge]</a>"
+head: demand
+entry: "<a href='/digital-beehive/toc/toc2_238/'>1225 [To Demand]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f30b51fb4"
+item: "#item-9b40434f5"
 unparsed: 
-line: 'Head: deluge|Entry: a|Entry: 1395 [Deluge]|#item-f30b51fb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/full/0/default.jpg
+line: 'Head: demand|Entry: 1225 [To Demand]|#item-9b40434f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1073,221,579,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507755083722
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604527441
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/150,/0/default.jpg
-label: deluge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1073,221,579,135/150,/0/default.jpg
+label: demand
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

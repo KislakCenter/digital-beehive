@@ -8,10 +8,10 @@ topic: Lie
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>Falshood</a>|Hyperbole|<a href='/digital-beehive/toc/toc2_122/'>513
+xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>Falshood</a>|Hyperbole|<a href='/digital-beehive/num3/num_0645'>513
   [Lies]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2281/'>lie</a>"
+index: "<a href='/digital-beehive/index3/index_2280/'>lie</a>"
 item: "#item-17036b622"
 unparsed: 
 line: 'Entry: Lie|Topic: Lie|Xref: Falshood|Xref: Hyperbole|Xref: 513 [Lies]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/759,97
 label: Lie
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: The point of reference for "Hyperbole" is unclear.
+also_in_entry: 
 order: '093'
 layout: alpha_item
 collection: alpha3

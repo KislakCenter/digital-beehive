@@ -2,9 +2,8 @@
 pid: index_1877
 volume: Volume 3
 image_number: '24'
-head: horseman
-entry: "<a href='/digital-beehive/alpha2/alpha_0431/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1750
-  [Horseman]</a>"
+head: horse traces
+entry: "<a href='/digital-beehive/num4/num_1096'>871 [traces]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f0c3a30e4"
+item: "#item-c5065827c"
 unparsed: 
-line: 'Head: horseman|Entry: a|Entry: 1750 [Horseman]|#item-f0c3a30e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/full/0/default.jpg
+line: 'Head: horse traces|Entry: 871 [traces]|#item-c5065827c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1114,3206,449,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584210164
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584457062
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1105,3126,550,91/150,/0/default.jpg
-label: horseman
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1114,3206,449,108/150,/0/default.jpg
+label: horse traces
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '694'
+order: '695'
 layout: index_item
 collection: index2
 ---

@@ -2,8 +2,8 @@
 pid: index_1343
 volume: Volume 3
 image_number: '19'
-head: execution
-entry: "<a href='/digital-beehive/alpha2/alpha_0297/'>a</a>"
+head: exemplar
+entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Copy]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cfda30d0d"
+item: "#item-33a215afc"
 unparsed: 
-line: 'Head: execution|Entry: a|#item-cfda30d0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1556,424,474,89/full/0/default.jpg
+line: 'Head: exemplar|Entry: 452 [Copy]|#item-33a215afc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1557,558,563,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041906328
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042157433
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1556,424,474,89/150,/0/default.jpg
-label: execution
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1557,558,563,134/150,/0/default.jpg
+label: exemplar
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '161'
+order: '162'
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0521/'>Law, continued</a>|<a href='/digital-beehive/alpha4/alpha_0808/'>Right</a>|<a
   href='/digital-beehive/alpha5/alpha_0946/'>Old Testamt</a>|786 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2222/'>Law</a>"
+index: "<a href='/digital-beehive/index3/index_2221/'>Law</a>"
 item: "#item-6fd364d6b"
 unparsed: 
 line: 'Entry: Law|Topic: Law|Xref: Law, continued|Xref: Right|Xref: Old Testamt|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/764,47
 label: Law
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: The entry continues onto the next page.
+also_in_entry: 
 order: '076'
 layout: alpha_item
 collection: alpha3

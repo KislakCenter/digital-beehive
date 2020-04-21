@@ -2,24 +2,24 @@
 pid: index_0766
 volume: Volume 3
 image_number: '14'
-head: complices
-entry: "<a href='/digital-beehive/toc/toc2_417/'>2415 [Partake not with the wicked]</a>"
+head: compulsion
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1501/'>force</a>"
 index: 
-item: "#item-dda9bc6f6"
+item: "#item-f3d9c5edc"
 unparsed: 
-line: 'Head: complices|Entry: 2415 [Partake not with the wicked]|#item-dda9bc6f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/423,1165,532,62/full/0/default.jpg
+line: 'Head: compulsion|See: force|#item-f3d9c5edc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215414903
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215449631
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/423,1165,532,62/150,/0/default.jpg
-label: complices
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/150,/0/default.jpg
+label: compulsion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

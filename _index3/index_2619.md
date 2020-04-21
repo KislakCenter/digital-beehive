@@ -2,8 +2,8 @@
 pid: index_2619
 volume: Volume 3
 image_number: '31'
-head: mushroom
-entry: "<a href='/digital-beehive/alpha3/alpha_0619/'>a</a>"
+head: muses
+entry: 4543 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-665224971"
+item: "#item-57f492656"
 unparsed: 
-line: 'Head: mushroom|Entry: a|#item-665224971'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/full/0/default.jpg
+line: 'Head: muses|Entry: 4543 [PAGE_MISSING]|#item-57f492656'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1544,1933,399,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361985267
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362043490
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/150,/0/default.jpg
-label: mushroom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1544,1933,399,106/150,/0/default.jpg
+label: muses
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '700'
+order: '701'
 layout: index_item
 collection: index3
 ---

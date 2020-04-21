@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1913/'>husk</a>"
+index: "<a href='/digital-beehive/index2/index_1912/'>husk</a>"
 item: "#item-ebebddc38"
 unparsed: 
 line: 'Entry: Husk|Topic: Husk|Index: husk|#item-ebebddc38'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/741,36
 label: Husk
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '174'
 layout: alpha_item
 collection: alpha2

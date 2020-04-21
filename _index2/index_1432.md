@@ -2,9 +2,8 @@
 pid: index_1432
 volume: Volume 3
 image_number: '20'
-head: fencing
-entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [the art of Fencing]</a>|<a href='/digital-beehive/toc/toc2_272/'>1391
-  [Fencing]</a>"
+head: fennel
+entry: "<a href='/digital-beehive/num3/num_0963'>683 [Fennel]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4b34d597e"
+item: "#item-16125295e"
 unparsed: 
-line: 'Head: fencing|Entry: 698 [the art of Fencing]|Entry: 1391 [Fencing]|#item-4b34d597e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1114,2258,604,211/full/0/default.jpg
+line: 'Head: fennel|Entry: 683 [Fennel]|#item-16125295e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1129,2387,399,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562185070548
+annotation_uri: http://dev.llgc.org.uk/annotation/1562185156467
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1114,2258,604,211/150,/0/default.jpg
-label: fencing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1129,2387,399,169/150,/0/default.jpg
+label: fennel
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '250'
+order: '251'
 layout: index_item
 collection: index2
 ---

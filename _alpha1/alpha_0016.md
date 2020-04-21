@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/621,19
 label: Agriculture
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '015'
 layout: alpha_item
 collection: alpha1

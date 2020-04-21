@@ -2,8 +2,8 @@
 pid: index_1917
 volume: Volume 3
 image_number: '24'
-head: hypochondriack
-entry: 1847 [PAGE_MISSING]
+head: hyssop
+entry: "<a href='/digital-beehive/alpha2/alpha_0442/'>a</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8261ae6b9"
+item: "#item-a31737587"
 unparsed: 
-line: 'Head: hypochondriack|Entry: 1847 [PAGE_MISSING]|#item-8261ae6b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1871,3373,632,117/full/0/default.jpg
+line: 'Head: hyssop|Entry: a|#item-a31737587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1852,3445,349,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559589090216
+annotation_uri: http://dev.llgc.org.uk/annotation/1559589120251
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1871,3373,632,117/150,/0/default.jpg
-label: hypochondriack
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1852,3445,349,165/150,/0/default.jpg
+label: hyssop
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '734'
+order: '735'
 layout: index_item
 collection: index2
 ---

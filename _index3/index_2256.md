@@ -2,28 +2,29 @@
 pid: index_2256
 volume: Volume 3
 image_number: '28'
-head: lent
-entry: 
+head: leprosie
+entry: "<a href='/digital-beehive/alpha3/alpha_0529/'>a</a>|<a href='/digital-beehive/toc/toc2_380/'>2141
+  [Leprosie]</a>"
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1411/'>fasting</a>"
+see: 
 index: 
-item: "#item-40e1d85e7"
+item: "#item-f3bc53fc9"
 unparsed: 
-line: 'Head: lent|See: fasting|#item-40e1d85e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1158,346,482,146/full/0/default.jpg
+line: 'Head: leprosie|Entry: a|Entry: 2141 [Leprosie]|#item-f3bc53fc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1145,392,610,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844101460
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844164211
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1158,346,482,146/150,/0/default.jpg
-label: lent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1145,392,610,123/150,/0/default.jpg
+label: leprosie
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '337'
+order: '338'
 layout: index_item
 collection: index3
 ---

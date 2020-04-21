@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1170/'>dung. dunghil</a>"
+index: "<a href='/digital-beehive/index1/index_1169/'>dung. dunghil</a>"
 item: "#item-d7e076237"
 unparsed: 
 line: 'Entry: Dunghill|Topic: Dunghill|Index: dung. dunghil|#item-d7e076237'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/764,17
 label: Dunghill
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
-order: '266'
+also_in_entry: 
+order: '265'
 layout: alpha_item
 collection: alpha1
 ---

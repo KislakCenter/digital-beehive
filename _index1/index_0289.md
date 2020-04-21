@@ -10,7 +10,7 @@ entry: "<a href='/digital-beehive/alpha1/alpha_0059/'>a</a>|<a href='/digital-be
 topic: 
 first_letter: B
 page: 
-add: "<a href='/digital-beehive/index1/index_0194/'>Arab</a>|<a href='/digital-beehive/index3/index_2030/'>Infant
+add: "<a href='/digital-beehive/index1/index_0194/'>Arab</a>|<a href='/digital-beehive/index3/index_2029/'>Infant
   baptism</a>"
 xref: 
 see: 

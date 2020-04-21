@@ -8,7 +8,7 @@ topic: Care
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_147/'>654 [Care]</a>"
+xref: "<a href='/digital-beehive/num3/num_0899'>654 [Care]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0539/'>care</a>"
 item: "#item-51c02b046"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/273,43
 label: Care
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '120'
 layout: alpha_item
 collection: alpha1

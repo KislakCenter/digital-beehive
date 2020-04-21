@@ -8,10 +8,10 @@ topic: Interpretation
 first_letter: I/J
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|<a href='/digital-beehive/toc/toc2_172/'>923
+xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|<a href='/digital-beehive/num4/num_1223'>923
   [Interpretation]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2078/'>interpretation</a>"
+index: "<a href='/digital-beehive/index3/index_2077/'>interpretation</a>"
 item: "#item-d54a87d8f"
 unparsed: 
 line: 'Entry: Interpretation|Topic: Interpretation|Xref: Gloss|Xref: 923 [Interpretation]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/679,14
 label: Interpretation
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '041'
 layout: alpha_item
 collection: alpha3

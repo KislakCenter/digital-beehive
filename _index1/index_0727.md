@@ -2,8 +2,8 @@
 pid: index_0727
 volume: Volume 3
 image_number: '13'
-head: Columbus
-entry: "<a href='/digital-beehive/num2/num_0414/'>353 [Columbus]</a>"
+head: comb
+entry: "<a href='/digital-beehive/num3/num_0916'>663 [Comb]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2501361bd"
+item: "#item-f875a16fe"
 unparsed: 
-line: 'Head: Columbus|Entry: 353 [Columbus]|#item-2501361bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,844,487,110/full/0/default.jpg
+line: 'Head: comb|Entry: 663 [Comb]|#item-f875a16fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,956,357,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610357792
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610409517
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,844,487,110/150,/0/default.jpg
-label: Columbus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,956,357,108/150,/0/default.jpg
+label: comb
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

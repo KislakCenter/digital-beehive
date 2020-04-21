@@ -3,7 +3,7 @@ pid: index_3897
 volume: Volume 3
 image_number: '45'
 head: stern
-entry: "<a href='/digital-beehive/toc/toc2_147/'>655 [Sterness]</a>|4738 [PAGE_MISSING]"
+entry: "<a href='/digital-beehive/num3/num_0902'>655 [Sternness]</a>|4738 [PAGE_MISSING]"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stern
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1145'
+order: '1146'
 layout: index_item
 collection: index4
 ---

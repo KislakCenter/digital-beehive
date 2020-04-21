@@ -11,7 +11,7 @@ add:
 xref: Desperation|<a href='/digital-beehive/alpha1/alpha_0156/'>false Comfort</a>|<a
   href='/digital-beehive/toc/toc2_219/'>1126 [Hope]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1868/'>hope</a>"
+index: "<a href='/digital-beehive/index2/index_1867/'>hope</a>"
 item: "#item-1aa4646fe"
 unparsed: 
 line: 'Entry: Hope|Topic: Hope|Xref: Desperation|Xref: false Comfort|Xref: 1126 [Hope]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/267,25
 label: Hope
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '160'
 layout: alpha_item
 collection: alpha2

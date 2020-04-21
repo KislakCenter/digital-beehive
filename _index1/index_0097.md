@@ -9,7 +9,7 @@ first_letter: A
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2500/'>metaphor</a>"
+see: "<a href='/digital-beehive/index3/index_2499/'>metaphor</a>"
 index: 
 item: "#item-05a2fdfb9"
 unparsed: 

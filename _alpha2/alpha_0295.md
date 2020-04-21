@@ -11,10 +11,11 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0458/'>Imitation</a>|<a href='/digital-beehive/num2/num_0326/'>290
   [for Example]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1329/'>example</a>"
+index: "<a href='/digital-beehive/index2/index_1328/'>example</a>"
 item: "#item-c5b1d56a6"
 unparsed: 
-line: 'Entry: Example|Topic: Example|Xref: Imitation|Xref: 290 [Example]|Index: example|#item-c5b1d56a6'
+line: 'Entry: Example|Topic: Example|Xref: Imitation|Xref: 290 [for Example]|Index:
+  example|#item-c5b1d56a6'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/687,3900,3070,543/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564586535291
@@ -23,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/687,39
 label: Example
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '026'
 layout: alpha_item
 collection: alpha2

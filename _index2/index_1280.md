@@ -2,9 +2,8 @@
 pid: index_1280
 volume: Volume 3
 image_number: '19'
-head: epicurism
-entry: "<a href='/digital-beehive/alpha2/alpha_0286/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1087
-  [Epicures]</a>|<a href='/digital-beehive/toc/toc2_332/'>1686 [Epicure]</a>"
+head: epidemical
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
 topic: 
 first_letter: E
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c65258d33"
+item: "#item-da27a0159"
 unparsed: 
-line: 'Head: epicurism|Entry: a|Entry: 1087 [Epicures]|Entry: 1686 [Epicure]|#item-c65258d33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/124,498,757,147/full/0/default.jpg
+line: 'Head: epidemical|Entry: 1330 [To infect]|#item-da27a0159'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842334032
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842657352
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/124,498,757,147/150,/0/default.jpg
-label: epicurism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/150,/0/default.jpg
+label: epidemical
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '098'
+order: '099'
 layout: index_item
 collection: index2
 ---

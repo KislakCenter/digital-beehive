@@ -3,7 +3,7 @@ pid: index_4233
 volume: Volume 3
 image_number: '48'
 head: trial
-entry: "<a href='/digital-beehive/num2/num_0603/'>487 [Proof, Try all]</a>"
+entry: "<a href='/digital-beehive/num2/num_0608/'>487 [Proof, Try all]</a>"
 topic: 
 first_letter: T
 page: 

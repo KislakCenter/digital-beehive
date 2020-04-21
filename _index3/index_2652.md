@@ -2,8 +2,9 @@
 pid: index_2652
 volume: Volume 3
 image_number: '32'
-head: natural affection
-entry: 4717 [PAGE_MISSING]
+head: natural man
+entry: "<a href='/digital-beehive/num1/num_0050/'>50 [Natural man]</a>|<a href='/digital-beehive/toc/toc2_373/'>2080
+  [Natural man]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4e881ea9d"
+item: "#item-79594899d"
 unparsed: 
-line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/full/0/default.jpg
+line: 'Head: natural man|Entry: 50 [Natural man]|Entry: 2080 [Natural man]|#item-79594899d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/388,1691,571,51/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437959582
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/150,/0/default.jpg
-label: natural affection
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/388,1691,571,51/150,/0/default.jpg
+label: natural man
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '733'
+order: '734'
 layout: index_item
 collection: index3
 ---

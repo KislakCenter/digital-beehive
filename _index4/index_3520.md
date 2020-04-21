@@ -24,7 +24,7 @@ label: satiety
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0768'
+order: '0769'
 layout: index_item
 collection: index4
 ---

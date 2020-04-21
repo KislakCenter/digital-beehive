@@ -8,7 +8,7 @@ topic: Antipathy
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_149/'>670 [Antipathy]</a>"
+xref: "<a href='/digital-beehive/num3/num_0927'>670 [Antipathy]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0160/'>antipathy</a>"
 item: "#item-6a7ee57cc"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/331,32
 label: Antipathy
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '033'
 layout: alpha_item
 collection: alpha1

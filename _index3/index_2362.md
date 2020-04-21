@@ -2,29 +2,28 @@
 pid: index_2362
 volume: Volume 3
 image_number: '29'
-head: lukewarm
-entry: "<a href='/digital-beehive/num1/num_0027/'>27 [Lukewarmness]</a>|<a href='/digital-beehive/toc/toc2_358/'>1943
-  [Lukewarmness]</a>"
+head: to lull asleep
+entry: 
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0892/'>cradle</a>"
 index: 
-item: "#item-a0c08400e"
+item: "#item-3bae6c218"
 unparsed: 
-line: 'Head: lukewarm|Entry: 27 [Lukewarmness]|Entry: 1943 [Lukewarmness]|#item-a0c08400e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,470,580,133/full/0/default.jpg
+line: 'Head: to lull asleep|See: cradle|#item-3bae6c218'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184996286
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185020979
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/858,470,580,133/150,/0/default.jpg
-label: lukewarm
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/150,/0/default.jpg
+label: to lull asleep
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '443'
+order: '444'
 layout: index_item
 collection: index3
 ---

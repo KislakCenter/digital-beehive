@@ -2,8 +2,8 @@
 pid: index_3051
 volume: Volume 3
 image_number: '36'
-head: to plunder
-entry: "<a href='/digital-beehive/toc/toc2_261/'>1339 [To plunder]</a>"
+head: plural
+entry: "<a href='/digital-beehive/toc/toc2_269/'>1377 [Plural]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8cfbe6c7c"
+item: "#item-c52115377"
 unparsed: 
-line: 'Head: to plunder|Entry: 1339 [To plunder]|#item-8cfbe6c7c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/454,1778,547,139/full/0/default.jpg
+line: 'Head: plural|Entry: 1377 [Plural]|#item-c52115377'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/446,1860,521,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208079526
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208102873
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/454,1778,547,139/150,/0/default.jpg
-label: to plunder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/446,1860,521,145/150,/0/default.jpg
+label: plural
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0299'
+order: '0300'
 layout: index_item
 collection: index4
 ---

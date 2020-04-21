@@ -2,8 +2,9 @@
 pid: index_2375
 volume: Volume 3
 image_number: '29'
-head: Machiavellus
-entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Machiavellus]</a>"
+head: madness
+entry: 804 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_284/'>1453 [Mad]</a>|4519
+  [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2b56f0fd1"
+item: "#item-47ae216fe"
 unparsed: 
-line: 'Head: Machiavellus|Entry: 556 [Machiavellus]|#item-2b56f0fd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/full/0/default.jpg
+line: 'Head: madness|Entry: 804 [PAGE_MISSING]|Entry: 1453 [Mad]|Entry: 4519 [PAGE_MISSING]|#item-47ae216fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,2000,697,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186314831
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186411666
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/150,/0/default.jpg
-label: Machiavellus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,2000,697,146/150,/0/default.jpg
+label: madness
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '456'
+order: '457'
 layout: index_item
 collection: index3
 ---

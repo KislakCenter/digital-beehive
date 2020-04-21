@@ -2,28 +2,28 @@
 pid: index_1359
 volume: Volume 3
 image_number: '19'
-head: extasy
-entry: 
+head: extemporary
+entry: "<a href='/digital-beehive/num2/num_0515/'>416 [Extemporality]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4212/'>trance</a>"
+see: 
 index: 
-item: "#item-b2ea76ad4"
+item: "#item-c1db4b550"
 unparsed: 
-line: 'Head: extasy|See: trance|#item-b2ea76ad4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/full/0/default.jpg
+line: 'Head: extemporary|Entry: 416 [Extemporality]|#item-c1db4b550'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396070669
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396195899
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/150,/0/default.jpg
-label: extasy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/150,/0/default.jpg
+label: extemporary
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '177'
+order: '178'
 layout: index_item
 collection: index2
 ---

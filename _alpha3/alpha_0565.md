@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0381/'>grandeur</a>|795 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2381/'>magnanimity</a>"
+index: "<a href='/digital-beehive/index3/index_2380/'>magnanimity</a>"
 item: "#item-7f4b4bc8a"
 unparsed: 
 line: 'Entry: Magnanimity|Topic: Magnanimity|Xref: grandeur|Xref: 795 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/716,32
 label: Magnanimity
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '121'
 layout: alpha_item
 collection: alpha3

@@ -2,8 +2,8 @@
 pid: index_1111
 volume: Volume 3
 image_number: '17'
-head: ditto
-entry: "<a href='/digital-beehive/num2/num_0293/'>263 [the said]</a>"
+head: diversity
+entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-08043b43a"
+item: "#item-618c2e032"
 unparsed: 
-line: 'Head: ditto|Entry: 263 [the said]|#item-08043b43a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/full/0/default.jpg
+line: 'Head: diversity|Entry: a|#item-618c2e032'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849161512
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849180342
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/150,/0/default.jpg
-label: ditto
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/150,/0/default.jpg
+label: diversity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

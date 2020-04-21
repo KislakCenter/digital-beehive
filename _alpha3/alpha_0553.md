@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0541/'>438 [Love]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2339/'>love</a>"
+index: "<a href='/digital-beehive/index3/index_2338/'>love</a>"
 item: "#item-bb39d6d23"
 unparsed: 
 line: 'Entry: Love|Topic: Love|Xref: 438 [Love]|Index: love|#item-bb39d6d23'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/354,23
 label: Love
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '109'
 layout: alpha_item
 collection: alpha3

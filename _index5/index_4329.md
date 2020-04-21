@@ -3,7 +3,7 @@ pid: index_4329
 volume: Volume 3
 image_number: '49'
 head: vile
-entry: "<a href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_418/'>2421
+entry: "<a href='/digital-beehive/num3/num_0764'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_418/'>2421
   [Vile]</a>"
 topic: 
 first_letter: U/V

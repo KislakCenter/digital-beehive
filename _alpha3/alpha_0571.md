@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Many men, many minds]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2422/'>many men many minds</a>"
+index: "<a href='/digital-beehive/index3/index_2421/'>many men many minds</a>"
 item: "#item-b18b9fcd1"
 unparsed: 
 line: 'Entry: Many men, many minds|Topic: Many men, many minds|Xref: 1088 [Many men,
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/331,96
 label: Many men, many minds
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '127'
 layout: alpha_item
 collection: alpha3

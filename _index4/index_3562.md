@@ -3,7 +3,7 @@ pid: index_3562
 volume: Volume 3
 image_number: '41'
 head: scriptures impro[per] express
-entry: "<a href='/digital-beehive/toc/toc2_160/'>725 [Catachresis]</a>"
+entry: "<a href='/digital-beehive/num3/num_1077'>725 [Catachresis]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: scriptures impro[per] express
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0810'
+order: '0811'
 layout: index_item
 collection: index4
 ---

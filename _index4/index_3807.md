@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2015/'>indep</a>"
+see: "<a href='/digital-beehive/index3/index_2014/'>indep</a>"
 index: 
 item: "#item-d1a4b29e6"
 unparsed: 
@@ -23,7 +23,7 @@ label: soveraign
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1055'
+order: '1056'
 layout: index_item
 collection: index4
 ---

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0001/'>Absence</a>|<a href='/digit
   [Presence]</a>|<a href='/digital-beehive/num2/num_0288/'>261 [Absence & Presence
   of Xst]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3133/'>presence</a>"
+index: "<a href='/digital-beehive/index4/index_3132/'>presence</a>"
 item: "#item-7054f9e8f"
 unparsed: 
 line: 'Entry: Presence|Topic: Presence|Xref: Absence|Xref: 1664 [Presence]|Xref: 261
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/781,22
 label: Presence
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '081'
 layout: alpha_item
 collection: alpha4

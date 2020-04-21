@@ -2,25 +2,24 @@
 pid: index_0744
 volume: Volume 3
 image_number: '13'
-head: common goods
-entry: "<a href='/digital-beehive/alpha1/alpha_0159/'>a</a>|<a href='/digital-beehive/toc/toc2_228/'>1172
-  [Community of Goods]</a>"
+head: common good
+entry: 732 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
-add: 
+add: Best
 xref: 
 see: 
 index: 
-item: "#item-1336369fe"
+item: "#item-b650e2041"
 unparsed: 
-line: 'Head: common goods|Entry: a|Entry: 1172 [Community of Goods]|#item-1336369fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/full/0/default.jpg
+line: 'Head: common good|Entry: 732 [PAGE_MISSING]|Add: Best|#item-b650e2041'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2488,434,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611730674
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611811144
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/150,/0/default.jpg
-label: common goods
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2488,434,137/150,/0/default.jpg
+label: common good
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

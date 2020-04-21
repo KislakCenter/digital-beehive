@@ -2,9 +2,8 @@
 pid: index_1479
 volume: Volume 3
 image_number: '20'
-head: flesh
-entry: "<a href='/digital-beehive/alpha2/alpha_0331/'>a</a>|<a href='/digital-beehive/toc/toc2_124/'>522
-  [Flesh]</a>"
+head: flexible
+entry: "<a href='/digital-beehive/toc/toc2_413/'>2381 [Tough]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-52fb37308"
+item: "#item-380ecce59"
 unparsed: 
-line: 'Head: flesh|Entry: a|Entry: 522 [Flesh]|#item-52fb37308'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/full/0/default.jpg
+line: 'Head: flexible|Entry: 2381 [Tough]|#item-380ecce59'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1784,2995,512,205/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617390813
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617478685
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/150,/0/default.jpg
-label: flesh
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1784,2995,512,205/150,/0/default.jpg
+label: flexible
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '297'
+order: '298'
 layout: index_item
 collection: index2
 ---

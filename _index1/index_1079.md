@@ -2,8 +2,8 @@
 pid: index_1079
 volume: Volume 3
 image_number: '17'
-head: dish
-entry: 4652 [PAGE_MISSING]
+head: dish clout
+entry: "<a href='/digital-beehive/num3/num_0815'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-00698c434"
+item: "#item-4736915c5"
 unparsed: 
-line: 'Head: dish|Entry: 4652 [PAGE_MISSING]|#item-00698c434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,1288,427,89/full/0/default.jpg
+line: 'Head: dish clout|Entry: 612 [Shoe Clout]|#item-4736915c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/101,1332,649,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803892479
+annotation_uri: http://dev.llgc.org.uk/annotation/1579107110100
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,1288,427,89/150,/0/default.jpg
-label: dish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/101,1332,649,137/150,/0/default.jpg
+label: dish clout
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,28 +2,28 @@
 pid: index_2941
 volume: Volume 3
 image_number: '35'
-head: Pelagians
-entry: "<a href='/digital-beehive/num1/num_0049/'>49 [Pelagius]</a>"
+head: pelican
+entry: 
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-3e0b30c49"
+item: "#item-b43dd6aa0"
 unparsed: 
-line: 'Head: Pelagians|Entry: 49 [Pelagius]|#item-3e0b30c49'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,783,602,177/full/0/default.jpg
+line: 'Head: pelican|Page: p.35 [Image 1.95]|#item-b43dd6aa0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971857990
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971884614
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,783,602,177/150,/0/default.jpg
-label: Pelagians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/150,/0/default.jpg
+label: pelican
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0189'
+order: '0190'
 layout: index_item
 collection: index4
 ---

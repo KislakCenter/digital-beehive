@@ -2,28 +2,28 @@
 pid: index_1818
 volume: Volume 3
 image_number: '24'
-head: "[:58.]"
+head: hern
 entry: 
 topic: 
 first_letter: H
-page: 
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-b3038d87e"
-unparsed: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
-line: 'Type: Index|Insertion Xref: [:58.]|#item-b3038d87e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1018,784,167,90/full/0/default.jpg
+item: "#item-87f0f4d96"
+unparsed: 
+line: 'Head: hern|Page: p.35 [Image 1.95]|#item-87f0f4d96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/443,802,328,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198284792
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575073602
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1018,784,167,90/150,/0/default.jpg
-label: "[:58.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/443,802,328,153/150,/0/default.jpg
+label: hern
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4727/'><</a>"
-order: '635'
+insertion_xref: 
+order: '636'
 layout: index_item
 collection: index2
 ---

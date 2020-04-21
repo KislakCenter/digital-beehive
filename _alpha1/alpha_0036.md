@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/342,36
 label: Ape
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '035'
 layout: alpha_item
 collection: alpha1

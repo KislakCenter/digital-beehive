@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_346/'>1799 [Theologia Scholastica]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1116/'>divinity scholastica</a>"
+index: "<a href='/digital-beehive/index1/index_1115/'>divinity scholastica</a>"
 item: "#item-dc50d6578"
 unparsed: 
 line: 'Entry: Theola Scholastica|Topic: Theola Scholastica|Xref: 1799 [Theologia Scholastica]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/409,72
 label: Theola Scholastica
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '248'
+also_in_entry: 
+order: '247'
 layout: alpha_item
 collection: alpha1
 ---

@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/305,11
 label: Spring
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '256'
 layout: alpha_item
 collection: alpha4

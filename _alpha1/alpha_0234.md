@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0470/'>Inequality</a>|860 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1048/'>difference</a>"
+index: "<a href='/digital-beehive/index1/index_1047/'>difference</a>"
 item: "#item-90a5b16f8"
 unparsed: 
 line: 'Entry: Difference|Topic: Difference|Xref: Inequality|Xref: 860 [PAGE_MISSING]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/422,44
 label: Difference
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '233'
+also_in_entry: 
+order: '232'
 layout: alpha_item
 collection: alpha1
 ---

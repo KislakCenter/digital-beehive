@@ -2,9 +2,8 @@
 pid: index_1053
 volume: Volume 3
 image_number: '16'
-head: diligence
-entry: "<a href='/digital-beehive/alpha1/alpha_0236/'>a</a>|<a href='/digital-beehive/toc/toc2_172/'>924
-  [Diligence]</a>"
+head: diminishing
+entry: 736 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-96135ebcc"
+item: "#item-7a50128ba"
 unparsed: 
-line: 'Head: diligence|Entry: a|Entry: 924 [Diligence]|#item-96135ebcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1786,1925,655,131/full/0/default.jpg
+line: 'Head: diminishing|Entry: 736 [PAGE_MISSING]|#item-7a50128ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1813,2026,544,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174393359
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783887625
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1786,1925,655,131/150,/0/default.jpg
-label: diligence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1813,2026,544,149/150,/0/default.jpg
+label: diminishing
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

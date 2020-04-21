@@ -2,28 +2,29 @@
 pid: index_1735
 volume: Volume 3
 image_number: '23'
-head: a gypsie
-entry: "<a href='/digital-beehive/toc/toc2_307/'>1561 [[AE]gyptians]</a>"
+head: Habit
+entry: "<a href='/digital-beehive/num1/num_0132/'>127 [Accustoming]</a>|<a href='/digital-beehive/num4/num_1247'>934
+  [Accustoming]</a>"
 topic: 
-first_letter: G
+first_letter: H
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-e9eeb26ee"
+item: "#item-63a5a8ad2"
 unparsed: 
-line: 'Head: a gypsie|Entry: 1561 [[AE]gyptians]|#item-e9eeb26ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,3127,480,122/full/0/default.jpg
+line: 'Head: Habit|Entry: 127 [Accustoming]|Entry: 934 [Accustoming]|#item-63a5a8ad2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,3267,495,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233954917
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234120055
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,3127,480,122/150,/0/default.jpg
-label: a gypsie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,3267,495,115/150,/0/default.jpg
+label: Habit
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '552'
+order: '553'
 layout: index_item
 collection: index2
 ---

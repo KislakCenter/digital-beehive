@@ -3,7 +3,7 @@ pid: index_0230
 volume: Volume 3
 image_number: '8'
 head: astrology
-entry: "<a href='/digital-beehive/num1/num_0024/'>24 [Astrology]</a>|<a href='/digital-beehive/toc/toc2_146/'>648
+entry: "<a href='/digital-beehive/num1/num_0024/'>24 [Astrology]</a>|<a href='/digital-beehive/num3/num_0886'>648
   [Astrologer]</a>|<a href='/digital-beehive/toc/toc2_250/'>1283 [Astrology]</a>|<a
   href='/digital-beehive/toc/toc2_272/'>1392 [Astrology]</a>|<a href='/digital-beehive/toc/toc2_329/'>1675
   [Astrology]</a>|4627 [PAGE_MISSING]"

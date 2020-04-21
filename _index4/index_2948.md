@@ -2,8 +2,8 @@
 pid: index_2948
 volume: Volume 3
 image_number: '35'
-head: pen[n]ance
-entry: "<a href='/digital-beehive/num2/num_0559/'>450 [Pennance]</a>"
+head: Pen[n]silvania
+entry: "<a href='/digital-beehive/toc/toc2_273/'>1399 [Pennsylvania]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-674cec081"
+item: "#item-c75112755"
 unparsed: 
-line: 'Head: pen[n]ance|Entry: 450 [Pennance]|#item-674cec081'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/140,1587,520,127/full/0/default.jpg
+line: 'Head: Pen[n]silvania|Entry: 1399 [Pennsylvania]|#item-c75112755'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972629460
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972658171
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/140,1587,520,127/150,/0/default.jpg
-label: pen[n]ance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/107,1682,653,156/150,/0/default.jpg
+label: Pen[n]silvania
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0196'
+order: '0197'
 layout: index_item
 collection: index4
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0919/'>Strife</a>|<a href='/digital-beehive/num1/num_0177/'>170
   [Disputation]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1095/'>disputation</a>"
+index: "<a href='/digital-beehive/index1/index_1094/'>disputation</a>"
 item: "#item-8b68258ba"
 unparsed: 
 line: 'Entry: Disputation|Topic: Disputation|Xref: Strife|Xref: 170 [Disputation]|Index:
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/794,39
 label: Disputation
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '244'
+also_in_entry: 
+order: '243'
 layout: alpha_item
 collection: alpha1
 ---

@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-40dcb51f1"
 unparsed: 
-line: 'Head: after sweet sowre|Entry: 10 [After high floods (.come:) low ebbs]|#item-40dcb51f1'
+line: 'Head: after sweet sowre|Entry: 10 [After high floods (: come :) low ebbs]|#item-40dcb51f1'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/902,2401,659,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766871092

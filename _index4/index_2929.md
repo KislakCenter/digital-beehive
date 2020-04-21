@@ -2,29 +2,31 @@
 pid: index_2929
 volume: Volume 3
 image_number: '34'
-head: paymt
-entry: "<a href='/digital-beehive/alpha4/alpha_0690/'>a</a>|<a href='/digital-beehive/toc/toc2_220/'>1131
-  [Payment]</a>"
+head: peace
+entry: "<a href='/digital-beehive/alpha4/alpha_0691/'>a</a>|<a href='/digital-beehive/num4/num_1308'>980
+  [Peace]</a>|<a href='/digital-beehive/toc/toc2_361/'>1966 [Peace]</a>|<a href='/digital-beehive/toc/toc2_394/'>2254
+  [Peace]</a>"
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d26755afc"
+item: "#item-b681a923a"
 unparsed: 
-line: 'Head: paymt|Entry: a|Entry: 1131 [Payment]|#item-d26755afc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1772,2538,566,210/full/0/default.jpg
+line: 'Head: peace|Page: p.40 [Image 1.100]|Entry: a|Entry: 980 [Peace]|Entry: 1966
+  [Peace]|Entry: 2254 [Peace]|#item-b681a923a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495837650
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495888876
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1772,2538,566,210/150,/0/default.jpg
-label: paymt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1789,2754,769,179/150,/0/default.jpg
+label: peace
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0177'
+order: '0178'
 layout: index_item
 collection: index4
 ---

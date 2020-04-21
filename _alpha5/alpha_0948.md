@@ -14,8 +14,7 @@ see:
 index: "<a href='/digital-beehive/index5/index_4101/'>testimony</a>"
 item: "#item-4dde9e62"
 unparsed: 
-line: 'Entry: Testimony|Topic: Testimony|Xref: Proof|Xref: 61 [Prosecution]|Index:
-  testimony|#item-4dde9e62'
+line: 'Entry: Testimony|Topic: Testimony|Xref: Proof|Xref: 61 [Testimony]|Index: testimony|#item-4dde9e62'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,3006,551/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565113581729
@@ -24,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,18
 label: Testimony
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '013'
+also_in_entry: 
+order: '014'
 layout: alpha_item
 collection: alpha5
 ---

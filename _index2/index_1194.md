@@ -2,8 +2,8 @@
 pid: index_1194
 volume: Volume 3
 image_number: '18'
-head: east
-entry: 864 [PAGE_MISSING]
+head: east Indies
+entry: 
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5a61a74dd"
+item: "#item-ee8df147d"
 unparsed: 
-line: 'Head: east|Entry: 864 [PAGE_MISSING]|#item-5a61a74dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/420,2731,356,102/full/0/default.jpg
+line: 'Head: east Indies|Entry: 1486 [East Indies]|#item-ee8df147d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2796,453,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667609324
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667912478
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/420,2731,356,102/150,/0/default.jpg
-label: east
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2796,453,127/150,/0/default.jpg
+label: east Indies
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '012'
+order: '013'
 layout: index_item
 collection: index2
 ---

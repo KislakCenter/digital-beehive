@@ -10,7 +10,7 @@ page:
 add: 
 xref: Righteousness|<a href='/digital-beehive/num2/num_0473/'>390 [Justification]</a>
 see: 
-index: "<a href='/digital-beehive/index3/index_2145/'>justification</a>"
+index: "<a href='/digital-beehive/index3/index_2144/'>justification</a>"
 item: "#item-6329b41b8"
 unparsed: 
 line: 'Entry: Justification|Topic: Justification|Xref: Righteousness|Xref: 390 [Justification]|Index:
@@ -22,7 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/305,1231,600,180/250,/0/default.jpg
 label: Justification
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
-issue: The point of reference for "Righteousness" is unclear.
+issue: The point of reference for "Righteousness" is unclear. Pastorius perhaps intends
+  numerical entry 319 [Righteous].
+also_in_entry: 
 order: '053'
 layout: alpha_item
 collection: alpha3

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4586 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2624/'>mustard</a>"
+index: "<a href='/digital-beehive/index3/index_2623/'>mustard</a>"
 item: "#item-4653d80da"
 unparsed: 
 line: 'Entry: Mustard|Topic: Mustard|Xref: 4586 [PAGE_MISSING]|Index: mustard|#item-4653d80da'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/743,45
 label: Mustard
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '178'
 layout: alpha_item
 collection: alpha3

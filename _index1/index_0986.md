@@ -2,8 +2,8 @@
 pid: index_0986
 volume: Volume 3
 image_number: '16'
-head: deer
-entry: "<a href='/digital-beehive/alpha1/alpha_0216/'>a</a>"
+head: defaming
+entry: 737 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f11c86ccf"
+item: "#item-e64d9ed29"
 unparsed: 
-line: 'Head: deer|Entry: a|#item-f11c86ccf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/380,1424,258,81/full/0/default.jpg
+line: 'Head: defaming|Entry: 737 [PAGE_MISSING]|#item-e64d9ed29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/348,1515,493,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507575828581
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570781143
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/380,1424,258,81/150,/0/default.jpg
-label: deer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/348,1515,493,142/150,/0/default.jpg
+label: defaming
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

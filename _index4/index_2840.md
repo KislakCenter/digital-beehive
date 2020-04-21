@@ -2,28 +2,28 @@
 pid: index_2840
 volume: Volume 3
 image_number: '34'
-head: overmeasure
-entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [An Over measure]</a>"
+head: "[:1.]"
+entry: 
 topic: 
-first_letter: O
+first_letter: P
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-7990ad9cd"
-unparsed: 
-line: 'Head: overmeasure|Entry: 1452 [An Over measure]|#item-7990ad9cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1142,676,103/full/0/default.jpg
+item: "#item-37fa65ab6"
+unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276838616
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1142,676,103/150,/0/default.jpg
-label: overmeasure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1216,115,80/150,/0/default.jpg
+label: "[:1.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '0088'
+insertion_xref: "<a href='/digital-beehive/index5/index_4662/'><</a>|<a href='/digital-beehive/index5/index_4663/'><</a>"
+order: '0089'
 layout: index_item
 collection: index4
 ---

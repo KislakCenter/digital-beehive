@@ -24,7 +24,7 @@ label: strife
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1189'
+order: '1190'
 layout: index_item
 collection: index4
 ---

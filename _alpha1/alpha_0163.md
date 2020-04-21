@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0457/'>380 [Course Complements]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0764/'>complements</a>"
+index: "<a href='/digital-beehive/index1/index_0763/'>complements</a>"
 item: "#item-00b647cc9"
 unparsed: 
 line: 'Entry: Complements|Topic: Complements|Xref: 380 [Course Complements]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,27
 label: Complements
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '162'
 layout: alpha_item
 collection: alpha1

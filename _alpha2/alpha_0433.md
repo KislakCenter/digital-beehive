@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1881/'>hospitality</a>"
+index: "<a href='/digital-beehive/index2/index_1880/'>hospitality</a>"
 item: "#item-ea292ee78"
 unparsed: 
 line: 'Entry: Hospitality|Topic: Hospitality|Index: hospitality|#item-ea292ee78'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,43
 label: Hospitality
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '164'
 layout: alpha_item
 collection: alpha2

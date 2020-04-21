@@ -23,7 +23,7 @@ label: royalists
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0705'
+order: '0706'
 layout: index_item
 collection: index4
 ---

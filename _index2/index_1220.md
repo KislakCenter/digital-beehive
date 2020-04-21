@@ -2,8 +2,8 @@
 pid: index_1220
 volume: Volume 3
 image_number: '18'
-head: elders
-entry: "<a href='/digital-beehive/toc/toc2_140/'>614 [Meaning]</a>"
+head: election
+entry: "<a href='/digital-beehive/num2/num_0334/'>296 [Election]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d89339fb7"
+item: "#item-03abd63b4"
 unparsed: 
-line: 'Head: elders|Entry: 614 [Meaning]|#item-d89339fb7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1135,2029,395,112/full/0/default.jpg
+line: 'Head: election|Entry: 296 [Election]|#item-03abd63b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1147,2147,436,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674457684
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674528113
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1135,2029,395,112/150,/0/default.jpg
-label: elders
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1147,2147,436,145/150,/0/default.jpg
+label: election
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '038'
+order: '039'
 layout: index_item
 collection: index2
 ---

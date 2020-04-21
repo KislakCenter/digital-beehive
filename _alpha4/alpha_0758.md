@@ -14,7 +14,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0759/'>Punishment, continued</a>|<
   [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0117/'>Capital Offence</a>|<a
   href='/digital-beehive/toc/toc2_216/'>1113 [Punishment]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3228/'>punishmt</a>"
+index: "<a href='/digital-beehive/index4/index_3227/'>punishmt</a>"
 item: "#item-79ffc5944"
 unparsed: 
 line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Discipline|Xref:
@@ -28,6 +28,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/730,43
 label: Punishment
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: The entry continues onto the next page.
+also_in_entry: 
 order: '111'
 layout: alpha_item
 collection: alpha4

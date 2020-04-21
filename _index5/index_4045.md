@@ -3,7 +3,7 @@ pid: index_4045
 volume: Volume 3
 image_number: '46'
 head: tail
-entry: "<a href='/digital-beehive/toc/toc2_132/'>573 [a Tail]</a>"
+entry: "<a href='/digital-beehive/num3/num_0732'>573 [a Tail]</a>"
 topic: 
 first_letter: T
 page: 

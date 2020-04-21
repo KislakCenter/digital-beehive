@@ -9,9 +9,9 @@ first_letter: P
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0120/'>Cards</a>|<a href='/digital-beehive/alpha1/alpha_0232/'>Dice</a>|<a
-  href='/digital-beehive/toc/toc2_159/'>720 [Playing]</a>"
+  href='/digital-beehive/num3/num_1063'>720 [Playing]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3040/'>play</a>"
+index: "<a href='/digital-beehive/index4/index_3039/'>play</a>"
 item: "#item-709c4345e"
 unparsed: 
 line: 'Entry: Play|Topic: Play|Xref: Cards|Xref: Dice|Xref: 720 [Playing]|Index: play|#item-709c4345e'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/257,23
 label: Play
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '064'
 layout: alpha_item
 collection: alpha4

@@ -2,24 +2,25 @@
 pid: index_0731
 volume: Volume 3
 image_number: '13'
-head: comely
-entry: 731 [PAGE_MISSING]
+head: comet
+entry: "<a href='/digital-beehive/alpha1/alpha_0154/'>a</a>|<a href='/digital-beehive/toc/toc2_332/'>1690
+  [Comet]</a>"
 topic: 
 first_letter: C
-page: 
+page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-62bd5d064"
+item: "#item-ac684d5bf"
 unparsed: 
-line: 'Head: comely|Entry: 731 [PAGE_MISSING]|#item-62bd5d064'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1554,1263,420,105/full/0/default.jpg
+line: 'Head: comet|Page: p.28 [Image 1.88]|Entry: a|Entry: 1690 [Comet]|#item-ac684d5bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,1372,691,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610617396
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610685291
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1554,1263,420,105/150,/0/default.jpg
-label: comely
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,1372,691,136/150,/0/default.jpg
+label: comet
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

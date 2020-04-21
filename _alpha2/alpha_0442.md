@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1918/'>hyssop</a>"
+index: "<a href='/digital-beehive/index2/index_1917/'>hyssop</a>"
 item: "#item-13ab1820b"
 unparsed: 
 line: 'Entry: Hyssop|Topic: Hyssop|Index: hyssop|#item-13ab1820b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/743,34
 label: Hyssop
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '173'
 layout: alpha_item
 collection: alpha2

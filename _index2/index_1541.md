@@ -2,9 +2,8 @@
 pid: index_1541
 volume: Volume 3
 image_number: '21'
-head: french pocks
-entry: "<a href='/digital-beehive/toc/toc2_144/'>637 [French Pocks]</a>|<a href='/digital-beehive/toc/toc2_379/'>2138
-  [French Pocks]</a>"
+head: frenzy
+entry: "<a href='/digital-beehive/num2/num_0516/'>417 [Rage]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-542541b79"
+item: "#item-bd85186b1"
 unparsed: 
-line: 'Head: french pocks|Entry: 637 [French Pocks]|Entry: 2138 [French Pocks]|#item-542541b79'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/883,2140,616,91/full/0/default.jpg
+line: 'Head: frenzy|Entry: 417 [Rage]|#item-bd85186b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,2201,400,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619060158
+annotation_uri: http://dev.llgc.org.uk/annotation/1532619110574
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/883,2140,616,91/150,/0/default.jpg
-label: french pocks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/866,2201,400,91/150,/0/default.jpg
+label: frenzy
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '359'
+order: '360'
 layout: index_item
 collection: index2
 ---

@@ -23,7 +23,7 @@ label: sin agt. h. Ghost
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0967'
+order: '0968'
 layout: index_item
 collection: index4
 ---

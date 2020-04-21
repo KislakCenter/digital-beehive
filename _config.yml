@@ -105,6 +105,16 @@ collections:
     layout: 'alpha_item'
     metadata:
       source: num2.csv
+  num3:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num3.csv
+  num4:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num4.csv
   toc:
     output: true
     layout: 'toc_item'
@@ -196,6 +206,22 @@ search:
           - xref
           - index
       num2:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num3:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num4:
         content: false
         fields:
           - label

@@ -2,8 +2,9 @@
 pid: index_1767
 volume: Volume 3
 image_number: '23'
-head: hat off in prayer
-entry: "<a href='/digital-beehive/toc/toc2_130/'>561 [Why we Pull off our Hats]</a>"
+head: hatred
+entry: "<a href='/digital-beehive/alpha2/alpha_0401/'>a</a>|747 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_366/'>2009 [Hatred]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-84f3e3a68"
+item: "#item-c37f2742f"
 unparsed: 
-line: 'Head: hat off in prayer|Entry: 561 [Why we Pull off our Hats]|#item-84f3e3a68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/812,2678,587,122/full/0/default.jpg
+line: 'Head: hatred|Entry: a|Entry: 747 [PAGE_MISSING]|Entry: 2009 [Hatred]|#item-c37f2742f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240848538
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240962719
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/812,2678,587,122/150,/0/default.jpg
-label: hat off in prayer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/150,/0/default.jpg
+label: hatred
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '584'
+order: '585'
 layout: index_item
 collection: index2
 ---

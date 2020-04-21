@@ -2,9 +2,9 @@
 pid: index_2633
 volume: Volume 3
 image_number: '31'
-head: nakedness
-entry: "<a href='/digital-beehive/alpha3/alpha_0625/'>a</a>|<a href='/digital-beehive/toc/toc2_120/'>499
-  [Nackedness]</a>|<a href='/digital-beehive/toc/toc2_427/'>4479 [Nakedness]</a>"
+head: name
+entry: "<a href='/digital-beehive/alpha3/alpha_0626/'>a</a>|<a href='/digital-beehive/num4/num_1299'>974
+  [Name]</a>"
 topic: 
 first_letter: N
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-edf9151e3"
+item: "#item-e9d96acde"
 unparsed: 
-line: 'Head: nakedness|Entry: a|Entry: 499 [Nackedness]|Entry: 4479 [Nakedness]|#item-edf9151e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1541,3308,736,173/full/0/default.jpg
+line: 'Head: name|Entry: a|Entry: 974 [Name]|#item-e9d96acde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1534,3437,485,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560363100859
+annotation_uri: http://dev.llgc.org.uk/annotation/1560363198015
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1541,3308,736,173/150,/0/default.jpg
-label: nakedness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1534,3437,485,154/150,/0/default.jpg
+label: name
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '714'
+order: '715'
 layout: index_item
 collection: index3
 ---

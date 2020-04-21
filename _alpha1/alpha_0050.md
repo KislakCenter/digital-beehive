@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/843,36
 label: Babbling
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '049'
 layout: alpha_item
 collection: alpha1

@@ -2,8 +2,8 @@
 pid: index_2557
 volume: Volume 3
 image_number: '31'
-head: mole. talpa
-entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>"
+head: mole n[ae]vus
+entry: "<a href='/digital-beehive/toc/toc2_287/'>1468 [Mole, Müttermal]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ad8449e43"
+item: "#item-e642f9b3b"
 unparsed: 
-line: 'Head: mole. talpa|Entry: a|#item-ad8449e43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/full/0/default.jpg
+line: 'Head: mole n[ae]vus|Entry: 1468 [Mole, Müttermal]|#item-e642f9b3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/186,2962,478,92/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352831916
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352917898
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/150,/0/default.jpg
-label: mole. talpa
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/186,2962,478,92/150,/0/default.jpg
+label: mole n[ae]vus
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '638'
+order: '639'
 layout: index_item
 collection: index3
 ---

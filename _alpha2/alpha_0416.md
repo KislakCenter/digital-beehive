@@ -10,7 +10,7 @@ page:
 add: 
 xref: Clergy|<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritage]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1814/'>heritage</a>"
+index: "<a href='/digital-beehive/index2/index_1813/'>heritage</a>"
 item: "#item-5cb5668f7"
 unparsed: 
 line: 'Entry: Heritage|Topic: Heritage|Xref: Clergy|Xref: 1700 [Inheritage]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/761,24
 label: Heritage
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '147'
 layout: alpha_item
 collection: alpha2

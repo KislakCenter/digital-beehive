@@ -1,9 +1,9 @@
 ---
 pid: index_0861
 volume: Volume 3
-image_number: '14'
-head: correspondence
-entry: "<a href='/digital-beehive/toc/toc2_236/'>1214 [Letters]</a>"
+image_number: '15'
+head: corrupted
+entry: "<a href='/digital-beehive/num3/num_0757'>587 [Corrupted]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,16 +11,16 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1aa490de5"
+item: "#item-b69d2c115"
 unparsed: 
-line: 'Head: correspondence|Entry: 1214 [Letters]|#item-1aa490de5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3501,679,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560361931
+line: 'Head: corrupted|Entry: 587 [Corrupted]|#item-b69d2c115'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/160,274,560,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537973858507
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3501,679,146/150,/0/default.jpg
-label: correspondence
-location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/160,274,560,149/150,/0/default.jpg
+label: corrupted
+location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 
 order: '0860'

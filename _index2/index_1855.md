@@ -2,9 +2,8 @@
 pid: index_1855
 volume: Volume 3
 image_number: '24'
-head: holiness
-entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>|<a href='/digital-beehive/toc/toc2_184/'>990
-  [Holiness]</a>|<a href='/digital-beehive/toc/toc2_368/'>2025 [Holiness]</a>"
+head: "[:15.]"
+entry: 
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-24ad8915e"
-unparsed: 
-line: 'Head: holiness|Entry: a|Entry: 990 [Holiness]|Entry: 2025 [Holiness]|#item-24ad8915e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/full/0/default.jpg
+item: "#item-eb07b77b2"
+unparsed: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'
+line: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1696,1249,165,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582176530
+annotation_uri: http://dev.llgc.org.uk/annotation/1560198215848
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/150,/0/default.jpg
-label: holiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1696,1249,165,117/150,/0/default.jpg
+label: "[:15.]"
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '672'
+insertion_xref: "<a href='/digital-beehive/index5/index_4678/'><</a>"
+order: '673'
 layout: index_item
 collection: index2
 ---

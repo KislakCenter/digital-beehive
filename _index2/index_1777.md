@@ -2,9 +2,9 @@
 pid: index_1777
 volume: Volume 3
 image_number: '23'
-head: health
-entry: "<a href='/digital-beehive/alpha2/alpha_0403/'>a</a>|<a href='/digital-beehive/toc/toc2_295/'>1506
-  [Health]</a>"
+head: drinking of health
+entry: "<a href='/digital-beehive/alpha2/alpha_0404/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1403
+  [Drinking of healths]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0fd515aa3"
+item: "#item-d60a7e938"
 unparsed: 
-line: 'Head: health|Entry: a|Entry: 1506 [Health]|#item-0fd515aa3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1559,391,467,101/full/0/default.jpg
+line: 'Head: drinking of health|Entry: a|Entry: 1403 [Drinking of healths]|#item-d60a7e938'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242318979
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243479842
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1559,391,467,101/150,/0/default.jpg
-label: health
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/150,/0/default.jpg
+label: drinking of health
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '594'
+order: '595'
 layout: index_item
 collection: index2
 ---

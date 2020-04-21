@@ -2,29 +2,28 @@
 pid: index_1688
 volume: Volume 3
 image_number: '22'
-head: gram[m]ars
-entry: "<a href='/digital-beehive/alpha2/alpha_0380/'>a</a>"
+head: granaries
+entry: "<a href='/digital-beehive/num3/num_0921'>664 [Granaries]</a>"
 topic: 
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-831e63a81"
+item: "#item-588e7cfb6"
 unparsed: 
-line: 'Head: gram[m]ars|Entry: a|Page: p.379 [Image 2.201]|#item-831e63a81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1829,2037,398,165/full/0/default.jpg
+line: 'Head: granaries|Entry: 664 [Granaries]|#item-588e7cfb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1839,2221,457,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053020893
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053230535
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1829,2037,398,165/150,/0/default.jpg
-label: gram[m]ars
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1839,2221,457,130/150,/0/default.jpg
+label: granaries
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 'Pastorius links to section 358 on page 379. There is currently no protocol
-  for specifying a specific item on a page reference. '
+issue: 
 insertion_xref: 
-order: '505'
+order: '506'
 layout: index_item
 collection: index2
 ---

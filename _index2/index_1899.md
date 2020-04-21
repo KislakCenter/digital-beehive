@@ -2,8 +2,8 @@
 pid: index_1899
 volume: Volume 3
 image_number: '24'
-head: humbly be it spoken
-entry: "<a href='/digital-beehive/num1/num_0239/'>225 [Love of enemies]</a>"
+head: to humble
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [debase]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-270bb9d15"
+item: "#item-1761e56ed"
 unparsed: 
-line: 'Head: humbly be it spoken|Entry: 225 [Love of enemies]|#item-270bb9d15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1840,1660,704,127/full/0/default.jpg
+line: 'Head: to humble|Entry: 1326 [debase]|#item-1761e56ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559587222066
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587304273
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1840,1660,704,127/150,/0/default.jpg
-label: humbly be it spoken
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/150,/0/default.jpg
+label: to humble
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '716'
+order: '717'
 layout: index_item
 collection: index2
 ---

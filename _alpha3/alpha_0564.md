@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0365/'>318 [Magistrates]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2379/'>magistrate</a>"
+index: "<a href='/digital-beehive/index3/index_2378/'>magistrate</a>"
 item: "#item-39f583755"
 unparsed: 
 line: 'Entry: Magistrate|Topic: Magistrate|Xref: 318 [Magistrates]|Index: magistrate|#item-39f583755'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/747,27
 label: Magistrate
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '120'
 layout: alpha_item
 collection: alpha3

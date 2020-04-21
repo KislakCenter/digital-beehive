@@ -3,7 +3,7 @@ pid: index_3966
 volume: Volume 3
 image_number: '45'
 head: Successively
-entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [Successively]</a>"
+entry: "<a href='/digital-beehive/num4/num_1140'>887 [Successively]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: Successively
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1214'
+order: '1215'
 layout: index_item
 collection: index4
 ---

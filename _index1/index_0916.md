@@ -2,8 +2,8 @@
 pid: index_0916
 volume: Volume 3
 image_number: '15'
-head: cross of Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0197/'>a</a>"
+head: crucifixes
+entry: "<a href='/digital-beehive/num1/num_0192/'>184 [Crucifixes]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ff163e7f1"
+item: "#item-d9f0f4f69"
 unparsed: 
-line: 'Head: cross of Christ|Entry: a|#item-ff163e7f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/full/0/default.jpg
+line: 'Head: crucifixes|Entry: 184 [Crucifixes]|#item-d9f0f4f69'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,2391,460,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577663640
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577741408
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/861,2155,520,114/150,/0/default.jpg
-label: cross of Christ
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/853,2391,460,109/150,/0/default.jpg
+label: crucifixes
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

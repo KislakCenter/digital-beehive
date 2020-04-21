@@ -2,8 +2,8 @@
 pid: index_3224
 volume: Volume 3
 image_number: '38'
-head: pulse
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1417 [Pulse]</a>"
+head: to pulverize
+entry: 736 [PAGE_MISSING]
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ee68407d8"
+item: "#item-236424dc7"
 unparsed: 
-line: 'Head: pulse|Entry: 1417 [Pulse]|#item-ee68407d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/full/0/default.jpg
+line: 'Head: to pulverize|Entry: 736 [PAGE_MISSING]|#item-236424dc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/438,755,593,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558451973099
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452002588
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/431,652,404,112/150,/0/default.jpg
-label: pulse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/438,755,593,144/150,/0/default.jpg
+label: to pulverize
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0472'
+order: '0473'
 layout: index_item
 collection: index4
 ---

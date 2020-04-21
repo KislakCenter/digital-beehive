@@ -2,8 +2,8 @@
 pid: index_2682
 volume: Volume 3
 image_number: '32'
-head: Nemesis
-entry: "<a href='/digital-beehive/toc/toc2_267/'>1366 [Justice]</a>"
+head: Neptune
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Neptune]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b1407868e"
+item: "#item-fb48149db"
 unparsed: 
-line: 'Head: Nemesis|Entry: 1366 [Justice]|#item-b1407868e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1181,661,440,111/full/0/default.jpg
+line: 'Head: Neptune|Entry: 1383 [Neptune]|#item-fb48149db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1189,718,476,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441258464
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441308697
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1181,661,440,111/150,/0/default.jpg
-label: Nemesis
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1189,718,476,126/150,/0/default.jpg
+label: Neptune
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '763'
+order: '764'
 layout: index_item
 collection: index3
 ---

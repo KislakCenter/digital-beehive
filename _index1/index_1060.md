@@ -2,9 +2,8 @@
 pid: index_1060
 volume: Volume 3
 image_number: '16'
-head: dirt
-entry: "<a href='/digital-beehive/alpha1/alpha_0237/'>a</a>|<a href='/digital-beehive/num2/num_0360/'>314
-  [Dirt]</a>|<a href='/digital-beehive/toc/toc2_381/'>2159 [Dirt]</a>"
+head: disagree
+entry: "<a href='/digital-beehive/toc/toc2_324/'>1650 [Disagree]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b038215d2"
+item: "#item-f7e6faaf4"
 unparsed: 
-line: 'Head: dirt|Entry: a|Entry: 314 [Dirt]|Entry: 2159 [Dirt]|#item-b038215d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1760,2484,604,116/full/0/default.jpg
+line: 'Head: disagree|Entry: 1650 [Disagree]|#item-f7e6faaf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2554,504,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174530428
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784069638
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1760,2484,604,116/150,/0/default.jpg
-label: dirt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2554,504,114/150,/0/default.jpg
+label: disagree
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

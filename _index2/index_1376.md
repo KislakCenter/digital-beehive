@@ -2,8 +2,8 @@
 pid: index_1376
 volume: Volume 3
 image_number: '20'
-head: factions
-entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>"
+head: face
+entry: 762 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1d8bf301d"
+item: "#item-8f9bbe1cb"
 unparsed: 
-line: 'Head: factions|Entry: 46 [orthodox]|#item-1d8bf301d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/full/0/default.jpg
+line: 'Head: face|Entry: 762 [PAGE_MISSING]|#item-8f9bbe1cb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/379,390,304,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399245365
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399053656
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/150,/0/default.jpg
-label: factions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/379,390,304,121/150,/0/default.jpg
+label: face
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '194'
+order: '195'
 layout: index_item
 collection: index2
 ---

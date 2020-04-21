@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0246/'>Distrust</a>|<a href='/digital-beehive/alpha4/alpha_0795/'>resignation</a>|<a
-  href='/digital-beehive/toc/toc2_159/'>719 [Confidence]</a>"
+  href='/digital-beehive/num3/num_1062'>719 [Confidence]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4252/'>trusting</a>"
 item: "#item-43928140f"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/837,37
 label: Trusting
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '046'
+also_in_entry: 
+order: '047'
 layout: alpha_item
 collection: alpha5
 ---

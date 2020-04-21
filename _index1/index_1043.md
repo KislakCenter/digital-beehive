@@ -2,8 +2,8 @@
 pid: index_1043
 volume: Volume 3
 image_number: '16'
-head: dice
-entry: "<a href='/digital-beehive/alpha1/alpha_0232/'>a</a>"
+head: dictionaries
+entry: "<a href='/digital-beehive/num3/num_0742'>579 [Dictionaries]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8600a1cab"
+item: "#item-6a7c4a38c"
 unparsed: 
-line: 'Head: dice|Entry: a|#item-8600a1cab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1775,856,343,81/full/0/default.jpg
+line: 'Head: dictionaries|Entry: 579 [Dictionaries]|#item-6a7c4a38c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,975,577,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923485127
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783558076
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1775,856,343,81/150,/0/default.jpg
-label: dice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,975,577,127/150,/0/default.jpg
+label: dictionaries
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

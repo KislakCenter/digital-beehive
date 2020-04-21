@@ -3,7 +3,7 @@ pid: index_0156
 volume: Volume 3
 image_number: '8'
 head: antiChrist
-entry: "<a href='/digital-beehive/alpha1/alpha_0033/'>a</a>|<a href='/digital-beehive/toc/toc2_168/'>905
+entry: "<a href='/digital-beehive/alpha1/alpha_0033/'>a</a>|<a href='/digital-beehive/num4/num_1175'>905
   [AntiChrist]</a>|<a href='/digital-beehive/toc/toc2_420/'>2432 [AntiChrist]</a>"
 topic: 
 first_letter: A

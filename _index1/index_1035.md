@@ -2,24 +2,24 @@
 pid: index_1035
 volume: Volume 3
 image_number: '16'
-head: devils to be saved
-entry: "<a href='/digital-beehive/num1/num_0044/'>44 [Unity]</a>"
+head: device
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0998/'>deliberation</a>"
 index: 
-item: "#item-849965ebd"
+item: "#item-ecbe553ee"
 unparsed: 
-line: 'Head: devils to be saved|Entry: 44 [Unity]|#item-849965ebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1844,211,706,111/full/0/default.jpg
+line: 'Head: device|See: deliberation|#item-ecbe553ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1810,278,729,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783197931
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783225034
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1844,211,706,111/150,/0/default.jpg
-label: devils to be saved
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1810,278,729,119/150,/0/default.jpg
+label: device
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0639/'>News</a>|<a href='/digital-beehive/alpha4/alpha_0884/'>Slander</a>|779
   [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3372/'>report</a>"
+index: "<a href='/digital-beehive/index4/index_3371/'>report</a>"
 item: "#item-09ef909d9"
 unparsed: 
 line: 'Entry: Report|Topic: Report|Xref: News|Xref: Slander|Xref: 779 [PAGE_MISSING]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/327,22
 label: Report
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '144'
 layout: alpha_item
 collection: alpha4

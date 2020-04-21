@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0188/'>Coward</a>|<a href='/digita
   href='/digital-beehive/alpha5/alpha_0944/'>Terrour</a>|<a href='/digital-beehive/num1/num_0213/'>203
   [Fear]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1420/'>fear</a>"
+index: "<a href='/digital-beehive/index2/index_1419/'>fear</a>"
 item: "#item-c9de27b2b"
 unparsed: 
 line: 'Entry: Fear|Topic: Fear|Xref: Coward|Xref: fainthearted|Xref: Terrour|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,71
 label: Fear
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '051'
 layout: alpha_item
 collection: alpha2

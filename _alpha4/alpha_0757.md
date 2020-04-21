@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
+index: "<a href='/digital-beehive/index4/index_3220/'>pudding</a>"
 item: "#item-56804e584"
 unparsed: 
 line: 'Entry: Pudding|Topic: Pudding|Index: pudding|#item-56804e584'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/777,42
 label: Pudding
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '110'
 layout: alpha_item
 collection: alpha4

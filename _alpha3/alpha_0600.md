@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_314/'>1596 [Pore]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2557/'>mole. talpa</a>"
+index: "<a href='/digital-beehive/index3/index_2556/'>mole. talpa</a>"
 item: "#item-b3c0d1325"
 unparsed: 
 line: 'Entry: Mole|Topic: Mole|Xref: 1596 [Pore]|Index: mole. talpa|#item-b3c0d1325'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/364,25
 label: Mole
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '156'
 layout: alpha_item
 collection: alpha3

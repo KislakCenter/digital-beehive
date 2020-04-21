@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_380/'>2141 [Leprosie]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2257/'>leprosie</a>"
+index: "<a href='/digital-beehive/index3/index_2256/'>leprosie</a>"
 item: "#item-7393ec640"
 unparsed: 
 line: 'Entry: Leprosie|Topic: Leprosie|XRef: 2141 [Leprosie]|Index: leprosie|#item-7393ec640'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/379,28
 label: Leprosie
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '085'
 layout: alpha_item
 collection: alpha3

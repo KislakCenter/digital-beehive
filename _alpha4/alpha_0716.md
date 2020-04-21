@@ -8,9 +8,9 @@ topic: Polygamy
 first_letter: P
 page: 
 add: 
-xref: Bigamy|<a href='/digital-beehive/toc/toc2_180/'>969 [Polygamy]</a>
+xref: Bigamy|<a href='/digital-beehive/num4/num_1291'>969 [Polygamy]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_3066/'>polygamy</a>"
+index: "<a href='/digital-beehive/index4/index_3065/'>polygamy</a>"
 item: "#item-1942f2b6c"
 unparsed: 
 line: 'Entry: Polygamy|Topic: Polygamy|Xref: Bigamy|Xref: 969 [Polygamy]|Index: polygamy|#item-1942f2b6c'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/269,22
 label: Polygamy
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '069'
 layout: alpha_item
 collection: alpha4

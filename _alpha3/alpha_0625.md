@@ -8,9 +8,9 @@ topic: Nakedness
 first_letter: N
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_120/'>499 [Nackedness]</a>"
+xref: "<a href='/digital-beehive/num2/num_0627/'>499 [Nackedness]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2633/'>nakedness</a>"
+index: "<a href='/digital-beehive/index3/index_2632/'>nakedness</a>"
 item: "#item-b18c4100d"
 unparsed: 
 line: 'Entry: Nakedness|Topic: Nakedness|Xref: 499 [Nackedness]|Index: nakedness|#item-b18c4100d'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/298,77
 label: Nakedness
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '181'
 layout: alpha_item
 collection: alpha3

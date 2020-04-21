@@ -3,7 +3,7 @@ pid: index_3978
 volume: Volume 3
 image_number: '46'
 head: sum[m]arily
-entry: "<a href='/digital-beehive/toc/toc2_174/'>932 [Brevity]</a>"
+entry: "<a href='/digital-beehive/num4/num_1243'>932 [Brevity]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sum[m]arily
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1226'
+order: '1227'
 layout: index_item
 collection: index4
 ---

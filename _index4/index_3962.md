@@ -23,7 +23,7 @@ label: subtlety
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1210'
+order: '1211'
 layout: index_item
 collection: index4
 ---

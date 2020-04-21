@@ -3,7 +3,7 @@ pid: index_4176
 volume: Volume 3
 image_number: '48'
 head: too hasty
-entry: "<a href='/digital-beehive/alpha5/alpha_0962/'>a</a>|<a href='/digital-beehive/toc/toc2_179/'>961
+entry: "<a href='/digital-beehive/alpha5/alpha_0962/'>a</a>|<a href='/digital-beehive/num4/num_1281'>961
   [Too hasty]</a>"
 topic: 
 first_letter: T

@@ -3,7 +3,7 @@ pid: index_4099
 volume: Volume 3
 image_number: '47'
 head: testament new
-entry: "<a href='/digital-beehive/alpha5/alpha_0947/'>a</a>|<a href='/digital-beehive/toc/toc2_173/'>926
+entry: "<a href='/digital-beehive/alpha5/alpha_0947/'>a</a>|<a href='/digital-beehive/num4/num_1227'>926
   [New Testament]</a>|<a href='/digital-beehive/toc/toc2_419/'>2426 [New Testamt]</a>"
 topic: 
 first_letter: T

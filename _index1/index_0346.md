@@ -3,7 +3,7 @@ pid: index_0346
 volume: Volume 3
 image_number: '10'
 head: to believe
-entry: "<a href='/digital-beehive/alpha1/alpha_0077/'>a</a>|<a href='/digital-beehive/toc/toc2_156/'>705
+entry: "<a href='/digital-beehive/alpha1/alpha_0077/'>a</a>|<a href='/digital-beehive/num3/num_1025'>705
   [believe]</a>"
 topic: 
 first_letter: B

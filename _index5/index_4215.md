@@ -3,7 +3,7 @@ pid: index_4215
 volume: Volume 3
 image_number: '48'
 head: transform
-entry: "<a href='/digital-beehive/toc/toc2_146/'>650 [Transformation]</a>|<a href='/digital-beehive/toc/toc2_324/'>1650
+entry: "<a href='/digital-beehive/num3/num_0892'>650 [Transformation]</a>|<a href='/digital-beehive/toc/toc2_324/'>1650
   [Transmutation]</a>"
 topic: 
 first_letter: T

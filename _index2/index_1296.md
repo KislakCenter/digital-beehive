@@ -2,8 +2,8 @@
 pid: index_1296
 volume: Volume 3
 image_number: '19'
-head: error
-entry: 759 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_371/'>2056 [Error]</a>
+head: errata in print
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1581 [Errata's]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-304f3006a"
+item: "#item-bfa85327e"
 unparsed: 
-line: 'Head: error|Entry: 759 [PAGE_MISSING]|Entry: 2056 [Error]|#item-304f3006a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/133,2324,577,157/full/0/default.jpg
+line: 'Head: errata in print|Entry: 1581 [Errata''s]|#item-bfa85327e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2453,661,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275773421
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276217279
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/133,2324,577,157/150,/0/default.jpg
-label: error
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2453,661,164/150,/0/default.jpg
+label: errata in print
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '114'
+order: '115'
 layout: index_item
 collection: index2
 ---

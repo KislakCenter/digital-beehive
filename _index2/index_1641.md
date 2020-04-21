@@ -2,8 +2,10 @@
 pid: index_1641
 volume: Volume 3
 image_number: '22'
-head: God willing
-entry: "<a href='/digital-beehive/toc/toc2_279/'>1429 [God willing]</a>"
+head: God within
+entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
+  href='/digital-beehive/num2/num_0298/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1253'>937
+  [Union with God]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +13,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9dfdc3f1f"
+item: "#item-afc78be45"
 unparsed: 
-line: 'Head: God willing|Entry: 1429 [God willing]|#item-9dfdc3f1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1152,1548,506,129/full/0/default.jpg
+line: 'Head: God within|Entry: 36 [God with & in men]|Entry: 267 [God is in us]|Entry:
+  937 [Union with God]|#item-afc78be45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047025858
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047205277
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1152,1548,506,129/150,/0/default.jpg
-label: God willing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1154,1650,642,131/150,/0/default.jpg
+label: God within
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '459'
+order: '460'
 layout: index_item
 collection: index2
 ---

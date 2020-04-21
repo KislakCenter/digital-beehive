@@ -2,8 +2,9 @@
 pid: index_1679
 volume: Volume 3
 image_number: '22'
-head: gourmandizing
-entry: 816 [PAGE_MISSING]
+head: gout
+entry: "<a href='/digital-beehive/alpha2/alpha_0375/'>a</a>|<a href='/digital-beehive/toc/toc2_242/'>1241
+  [Gout]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-30ec98db0"
+item: "#item-dd4b76fec"
 unparsed: 
-line: 'Head: gourmandizing|Entry: 816 [PAGE_MISSING]|#item-30ec98db0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1856,1180,623,136/full/0/default.jpg
+line: 'Head: gout|Entry: a|Entry: 1241 [Gout]|#item-dd4b76fec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1845,1254,445,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561052510650
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052580340
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1856,1180,623,136/150,/0/default.jpg
-label: gourmandizing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1845,1254,445,111/150,/0/default.jpg
+label: gout
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '496'
+order: '497'
 layout: index_item
 collection: index2
 ---

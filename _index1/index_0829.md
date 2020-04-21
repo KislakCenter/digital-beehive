@@ -2,9 +2,8 @@
 pid: index_0829
 volume: Volume 3
 image_number: '14'
-head: contradiction
-entry: "<a href='/digital-beehive/alpha1/alpha_0176/'>a</a>|<a href='/digital-beehive/toc/toc2_168/'>901
-  [Contradiction]</a>"
+head: contrariety. ècontrà
+entry: "<a href='/digital-beehive/num3/num_0986'>690 [Contrariety]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cf4b9936a"
+item: "#item-1a4f8aca9"
 unparsed: 
-line: 'Head: contradiction|Entry: a|Entry: 901 [Contradiction]|#item-cf4b9936a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/full/0/default.jpg
+line: 'Head: contrariety. ècontrà|Entry: 690 [Contrariety]|#item-1a4f8aca9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559290644
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559352349
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/150,/0/default.jpg
-label: contradiction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1846,783,717,190/150,/0/default.jpg
+label: contrariety. ècontrà
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

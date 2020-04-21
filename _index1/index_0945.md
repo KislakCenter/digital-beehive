@@ -2,9 +2,8 @@
 pid: index_0945
 volume: Volume 3
 image_number: '15'
-head: dancing
-entry: "<a href='/digital-beehive/alpha1/alpha_0205/'>a</a>|<a href='/digital-beehive/toc/toc2_299/'>1525
-  [Dancing]</a>|1870 [PAGE_MISSING]"
+head: past danger
+entry: "<a href='/digital-beehive/num2/num_0508/'>411 [Past all Danger]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c3647b3d8"
+item: "#item-029b1eaac"
 unparsed: 
-line: 'Head: dancing|Entry: a|Entry: 1525 [Dancing]|Entry: 1870 [PAGE_MISSING]|#item-c3647b3d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1560,1218,716,146/full/0/default.jpg
+line: 'Head: past danger|Entry: 411 [Past all danger]|#item-029b1eaac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321197489
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391162408
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1560,1218,716,146/150,/0/default.jpg
-label: dancing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1558,1430,507,94/150,/0/default.jpg
+label: past danger
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

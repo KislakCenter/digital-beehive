@@ -3,8 +3,7 @@ pid: index_3617
 volume: Volume 3
 image_number: '42'
 head: Self hatred
-entry: "<a href='/digital-beehive/alpha4/alpha_0849/'>a</a>|<a href='/digital-beehive/toc/toc2_162/'>874
-  [Self-hatred]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0849/'>a</a>|874 [Self-hatred]"
 topic: 
 first_letter: S
 page: 
@@ -24,7 +23,7 @@ label: Self hatred
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0865'
+order: '0866'
 layout: index_item
 collection: index4
 ---

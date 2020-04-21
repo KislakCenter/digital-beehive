@@ -2,8 +2,8 @@
 pid: index_1267
 volume: Volume 3
 image_number: '18'
-head: enough
-entry: "<a href='/digital-beehive/num1/num_0229/'>218 [Sufficient]</a>"
+head: enquiry
+entry: "<a href='/digital-beehive/num1/num_0118/'>114 [Seeking]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c81f6e378"
+item: "#item-fb57c1c7a"
 unparsed: 
-line: 'Head: enough|Entry: 218 [Sufficient]|#item-c81f6e378'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/full/0/default.jpg
+line: 'Head: enquiry|Entry: 114 [Seeking]|#item-fb57c1c7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1870,2705,407,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835408251
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835502748
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/150,/0/default.jpg
-label: enough
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1870,2705,407,148/150,/0/default.jpg
+label: enquiry
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '085'
+order: '086'
 layout: index_item
 collection: index2
 ---

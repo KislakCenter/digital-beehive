@@ -2,8 +2,8 @@
 pid: index_2460
 volume: Volume 3
 image_number: '30'
-head: measels
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Measels]</a>"
+head: measure
+entry: 771 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-75491b0ba"
+item: "#item-b51f0d446"
 unparsed: 
-line: 'Head: measels|Entry: 1939 [Measels]|#item-75491b0ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/full/0/default.jpg
+line: 'Head: measure|Entry: 771 [PAGE_MISSING]|#item-b51f0d446'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/411,3124,441,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265925006
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265958302
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/416,3075,460,125/150,/0/default.jpg
-label: measels
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/411,3124,441,171/150,/0/default.jpg
+label: measure
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '541'
+order: '542'
 layout: index_item
 collection: index3
 ---

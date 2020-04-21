@@ -2,28 +2,28 @@
 pid: index_3061
 volume: Volume 3
 image_number: '36'
-head: poetical toys
-entry: 
+head: point
+entry: 739 [PAGE_MISSING]
 topic: 
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_247/'>p.79 [Image 1.257]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-87cc8ae4f"
+item: "#item-babca6d2a"
 unparsed: 
-line: 'Head: poetical toys|Page: p.79 [Image 1.257]|#item-87cc8ae4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/444,2662,577,141/full/0/default.jpg
+line: 'Head: point|Entry: 739 [PAGE_MISSING]|#item-babca6d2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/407,2823,463,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437908063
+annotation_uri: http://dev.llgc.org.uk/annotation/1548437958169
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/444,2662,577,141/150,/0/default.jpg
-label: poetical toys
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/407,2823,463,155/150,/0/default.jpg
+label: point
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: The page reference refers to Pastorius's older system of pagination.
+issue: 
 insertion_xref: 
-order: '0309'
+order: '0310'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_2332
 volume: Volume 3
 image_number: '29'
-head: loquacity
-entry: "<a href='/digital-beehive/num2/num_0532/'>430 [Babbling]</a>|<a href='/digital-beehive/toc/toc2_337/'>1728
-  [Babbling]</a>"
+head: Lord
+entry: "<a href='/digital-beehive/alpha3/alpha_0550/'>a</a>"
 topic: 
 first_letter: L
 page: 
-add: 
+add: "<a href='/digital-beehive/index4/index_3109/'>prayer</a>"
 xref: 
 see: 
 index: 
-item: "#item-53377a99c"
+item: "#item-20ce408c8"
 unparsed: 
-line: 'Head: loquacity|Entry: 430 [Babbling]|Entry: 1728 [Babbling]|#item-53377a99c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/full/0/default.jpg
+line: 'Head: Lord|Entry: a|Add: prayer|#item-20ce408c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178071036
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178124372
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/183,1205,565,125/150,/0/default.jpg
-label: loquacity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/175,1310,344,184/150,/0/default.jpg
+label: Lord
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '413'
+order: '414'
 layout: index_item
 collection: index3
 ---

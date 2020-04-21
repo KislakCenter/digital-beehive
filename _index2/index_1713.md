@@ -2,29 +2,28 @@
 pid: index_1713
 volume: Volume 3
 image_number: '23'
-head: grief
-entry: "<a href='/digital-beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_409/'>2352
-  [Grief]</a>"
+head: grim[m]ace
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_1017/'>derision</a>|<a href='/digital-beehive/index4/index_3897/'>stern</a>"
 index: 
-item: "#item-ee1d87f04"
+item: "#item-9b4ceb6dd"
 unparsed: 
-line: 'Head: grief|Entry: 658 [Grief]|Entry: 2352 [Grief]|#item-ee1d87f04'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,1249,488,126/full/0/default.jpg
+line: 'Head: grim[m]ace|See: derision|See: stern|#item-9b4ceb6dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230963057
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231060913
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,1249,488,126/150,/0/default.jpg
-label: grief
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/150,/0/default.jpg
+label: grim[m]ace
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '530'
+order: '531'
 layout: index_item
 collection: index2
 ---

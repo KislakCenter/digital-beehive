@@ -10,7 +10,7 @@ page:
 add: 
 xref: Incendiary|Coal|<a href='/digital-beehive/toc/toc2_224/'>1152 [Fire]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1454/'>fire</a>"
+index: "<a href='/digital-beehive/index2/index_1453/'>fire</a>"
 item: "#item-c2d913b30"
 unparsed: 
 line: 'Entry: Fire|Topic: Fire|Xref: Incendiary|Xref: Coal|Xref: 1152 [Fire]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/418,27
 label: Fire
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: The point of reference for "Coal" is unclear.
+also_in_entry: 
 order: '056'
 layout: alpha_item
 collection: alpha2

@@ -3,7 +3,7 @@ pid: index_3397
 volume: Volume 3
 image_number: '39'
 head: to retain
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Retain]</a>"
+entry: "<a href='/digital-beehive/num4/num_1079'>866 [To Retain]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: to retain
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0645'
+order: '0646'
 layout: index_item
 collection: index4
 ---

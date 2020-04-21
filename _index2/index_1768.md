@@ -2,9 +2,8 @@
 pid: index_1768
 volume: Volume 3
 image_number: '23'
-head: hatred
-entry: "<a href='/digital-beehive/alpha2/alpha_0401/'>a</a>|747 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_366/'>2009 [Hatred]</a>"
+head: to have
+entry: 863 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c37f2742f"
+item: "#item-83da0dc1d"
 unparsed: 
-line: 'Head: hatred|Entry: a|Entry: 747 [PAGE_MISSING]|Entry: 2009 [Hatred]|#item-c37f2742f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/full/0/default.jpg
+line: 'Head: to have|Entry: 863 [PAGE_MISSING]|#item-83da0dc1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,2947,419,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240962719
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241000099
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/150,/0/default.jpg
-label: hatred
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,2947,419,99/150,/0/default.jpg
+label: to have
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '585'
+order: '586'
 layout: index_item
 collection: index2
 ---

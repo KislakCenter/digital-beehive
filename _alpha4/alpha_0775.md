@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_212/'>1091 [Reading]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3306/'>reading</a>"
+index: "<a href='/digital-beehive/index4/index_3305/'>reading</a>"
 item: "#item-f9caaa65f"
 unparsed: 
 line: 'Entry: Reading|Topic: Reading|Xref: 1091 [Reading]|Index: reading |#item-f9caaa65f'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/380,44
 label: Reading
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '128'
 layout: alpha_item
 collection: alpha4

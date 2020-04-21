@@ -2,8 +2,8 @@
 pid: index_1289
 volume: Volume 3
 image_number: '19'
-head: equipage
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Train]</a>"
+head: equity
+entry: "<a href='/digital-beehive/alpha2/alpha_0290/'>a</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-64206d8b6"
+item: "#item-f8727988e"
 unparsed: 
-line: 'Head: equipage|Entry: 866 [Train]|#item-64206d8b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/152,1506,479,93/full/0/default.jpg
+line: 'Head: equity|Entry: a|#item-f8727988e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/143,1567,347,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845902535
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845927522
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/152,1506,479,93/150,/0/default.jpg
-label: equipage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/143,1567,347,136/150,/0/default.jpg
+label: equity
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '107'
+order: '108'
 layout: index_item
 collection: index2
 ---

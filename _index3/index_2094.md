@@ -2,28 +2,28 @@
 pid: index_2094
 volume: Volume 3
 image_number: '26'
-head: invisible
-entry: "<a href='/digital-beehive/num1/num_0187/'>179 [Invisibility]</a>"
+head: invitation
+entry: 804 [PAGE_MISSING]
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3980/'>Sum[m]ons</a>"
 index: 
-item: "#item-30ea38d11"
+item: "#item-d80324991"
 unparsed: 
-line: 'Head: invisible|Entry: 179 [Invisibility]|#item-30ea38d11'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,1358,446,153/full/0/default.jpg
+line: 'Head: invitation|See: Sum[m]ons|Entry: 804 [PAGE_MISSING]|#item-d80324991'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1501,632,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751400388
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751466838
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,1358,446,153/150,/0/default.jpg
-label: invisible
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1501,632,138/150,/0/default.jpg
+label: invitation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '175'
+order: '176'
 layout: index_item
 collection: index3
 ---

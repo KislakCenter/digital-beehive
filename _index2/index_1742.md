@@ -2,28 +2,28 @@
 pid: index_1742
 volume: Volume 3
 image_number: '23'
-head: hamelen
-entry: 768 [PAGE_MISSING]
+head: ham[m]er
+entry: 756 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3018/'>pipe</a>"
+see: 
 index: 
-item: "#item-39462881d"
+item: "#item-2be0592a2"
 unparsed: 
-line: 'Head: hamelen|See: pipe|Entry: 768 [PAGE_MISSING]|#item-39462881d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/858,431,613,104/full/0/default.jpg
+line: 'Head: ham[m]er|Entry: 756 [PAGE_MISSING]|#item-2be0592a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,459,356,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238114445
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238185375
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/858,431,613,104/150,/0/default.jpg
-label: hamelen
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/848,459,356,99/150,/0/default.jpg
+label: ham[m]er
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '559'
+order: '560'
 layout: index_item
 collection: index2
 ---

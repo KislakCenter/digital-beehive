@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0234/'>Difference</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1112/'>diversity</a>"
+index: "<a href='/digital-beehive/index1/index_1111/'>diversity</a>"
 item: "#item-c1e8cd7f5"
 unparsed: 
 line: 'Entry: Diversity|Topic: Diversity|Xref: Difference|Index: diversity|#item-c1e8cd7f5'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,14
 label: Diversity
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '251'
+also_in_entry: 
+order: '250'
 layout: alpha_item
 collection: alpha1
 ---

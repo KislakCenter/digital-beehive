@@ -8,7 +8,7 @@ topic: Tithes
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_129/'>554 [Tithes]</a>"
+xref: "<a href='/digital-beehive/num3/num_0701'>554 [Tithes]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4160/'>tithes</a>"
 item: "#item-a3075b99e"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/309,35
 label: Tithes
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 issue: 
-order: '023'
+also_in_entry: 
+order: '024'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,28 +2,28 @@
 pid: index_2629
 volume: Volume 3
 image_number: '31'
-head: mysticks
-entry: 
+head: Nadir
+entry: 809 [PAGE_MISSING]
 topic: 
-first_letter: M
+first_letter: N
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1114/'>divines</a>"
+see: 
 index: 
-item: "#item-8dc39408a"
+item: "#item-525b16c27"
 unparsed: 
-line: 'Head: mysticks|See: divines|#item-8dc39408a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1533,2850,645,148/full/0/default.jpg
+line: 'Head: Nadir|Entry: 809 [PAGE_MISSING]|#item-525b16c27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1538,3029,391,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362583783
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362621818
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1533,2850,645,148/150,/0/default.jpg
-label: mysticks
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1538,3029,391,169/150,/0/default.jpg
+label: Nadir
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '710'
+order: '711'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_3253
 volume: Volume 3
 image_number: '38'
-head: quarries
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1989 [Quarries]</a>"
+head: quarter
+entry: a
 topic: 
 first_letter: Q
 page: 
@@ -11,19 +11,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3d6d22212"
+item: "#item-6ed391101"
 unparsed: 
-line: 'Head: quarries|Entry: 1989 [Quarries]|#item-3d6d22212'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1164,181,601,147/full/0/default.jpg
+line: 'Head: quarter|Entry: a|#item-6ed391101'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,281,428,91/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454913322
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454931177
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1164,181,601,147/150,/0/default.jpg
-label: quarries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,281,428,91/150,/0/default.jpg
+label: quarter
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
 insertion_xref: 
-order: '0501'
+order: '0502'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,8 @@ pid: index_4163
 volume: Volume 3
 image_number: '47'
 head: to ye end that
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [to the end]</a>"
+entry: "<a href='/digital-beehive/num4/num_1183'>907 [Purposely]</a>|<a href='/digital-beehive/num4/num_1184'>907
+  [to the end]</a>"
 topic: 
 first_letter: T
 page: 
@@ -13,7 +14,7 @@ see:
 index: 
 item: "#item-ed4564e03"
 unparsed: 
-line: 'Head: to ye end that|Entry: 907 [to the end]|#item-ed4564e03'
+line: 'Head: to ye end that|Entry: 907 [Purposely]|Entry: 907 [to the end]|#item-ed4564e03'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1567,3461,456,207/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560281620411

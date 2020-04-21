@@ -2,28 +2,30 @@
 pid: index_1369
 volume: Volume 3
 image_number: '19'
-head: to extricate
-entry: "<a href='/digital-beehive/num2/num_0305/'>271 [To escape]</a>"
+head: eye
+entry: "<a href='/digital-beehive/alpha2/alpha_0304/'>a</a>|757 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_312/'>Entry 1587 [Eyes]</a>|4728 [PAGE_MISSING]"
 topic: 
 first_letter: E
-page: 
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ffad65cf1"
+item: "#item-9c40fd517"
 unparsed: 
-line: 'Head: to extricate|Entry: 271 [To escape]|#item-ffad65cf1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1499,3208,561,122/full/0/default.jpg
+line: 'Head: eye|Page: p.43 [Image 1.103]|Entry: a|Entry: 757 [PAGE_MISSING]|Entry
+  1587 [Eyes]|Entry: 4728 [PAGE_MISSING]|#item-9c40fd517'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1506,3325,799,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561397391774
+annotation_uri: http://dev.llgc.org.uk/annotation/1561397807920
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1499,3208,561,122/150,/0/default.jpg
-label: to extricate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1506,3325,799,133/150,/0/default.jpg
+label: eye
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '187'
+order: '188'
 layout: index_item
 collection: index2
 ---

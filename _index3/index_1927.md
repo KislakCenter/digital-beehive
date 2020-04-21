@@ -2,8 +2,9 @@
 pid: index_1927
 volume: Volume 3
 image_number: '25'
-head: Janus
-entry: 4541 [PAGE_MISSING]
+head: Jarsey
+entry: "<a href='/digital-beehive/num3/num_0883'>647 [West-Jarsey]</a>|<a href='/digital-beehive/toc/toc2_299/'>1522
+  [New Jersey]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4f64b07e8"
+item: "#item-68af3d9f8"
 unparsed: 
-line: 'Head: Janus|Entry: 4541 [PAGE_MISSING]|#item-4f64b07e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/177,647,421,95/full/0/default.jpg
+line: 'Head: Jarsey|Entry: 647 [West-Jarsey]|Entry: 1522 [New Jersey]|#item-68af3d9f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/176,673,557,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658869158
+annotation_uri: http://dev.llgc.org.uk/annotation/1559659034598
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/177,647,421,95/150,/0/default.jpg
-label: Janus
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/176,673,557,140/150,/0/default.jpg
+label: Jarsey
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '008'
+order: '009'
 layout: index_item
 collection: index3
 ---

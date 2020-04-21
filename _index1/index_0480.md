@@ -3,7 +3,7 @@ pid: index_0480
 volume: Volume 3
 image_number: '11'
 head: burial
-entry: "<a href='/digital-beehive/alpha1/alpha_0109/'>a</a>|<a href='/digital-beehive/toc/toc2_166/'>894
+entry: "<a href='/digital-beehive/alpha1/alpha_0109/'>a</a>|<a href='/digital-beehive/num4/num_1159'>894
   [Burial]</a>|<a href='/digital-beehive/toc/toc2_281/'>1440 [Burial]</a>"
 topic: 
 first_letter: B

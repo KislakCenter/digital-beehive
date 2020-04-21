@@ -3,17 +3,17 @@ pid: index_3548
 volume: Volume 3
 image_number: '41'
 head: schole terms
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [termini didascalia]</a>"
+entry: "<a href='/digital-beehive/num3/num_0676'>537 [Terms in didascalia]</a>"
 topic: 
 first_letter: S
 page: 
-add: "<a href='/digital-beehive/index1/index_1116/'>Divinity</a>"
+add: "<a href='/digital-beehive/index1/index_1115/'>Divinity</a>"
 xref: 
 see: 
 index: 
 item: "#item-c01881cbd"
 unparsed: 
-line: 'Head: schole terms|Entry: 537 [termini didascalia]|Add: Divinity|#item-c01881cbd'
+line: 'Head: schole terms|Entry: 537 [Terms in didascalia]|Add: Divinity|#item-c01881cbd'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/859,1252,514,179/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559240572534
@@ -23,7 +23,7 @@ label: schole terms
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0796'
+order: '0797'
 layout: index_item
 collection: index4
 ---

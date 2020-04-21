@@ -2,9 +2,11 @@
 pid: index_2965
 volume: Volume 3
 image_number: '35'
-head: perplexity
-entry: "<a href='/digital-beehive/toc/toc2_148/'>661 [Perplexity]</a>|<a href='/digital-beehive/toc/toc2_264/'>1354
-  [Perplexity]</a>"
+head: persecution
+entry: "<a href='/digital-beehive/alpha4/alpha_0699/'>a</a>|<a href='/digital-beehive/toc/toc2_212/'>1092
+  [Persecution]</a>|<a href='/digital-beehive/toc/toc2_340/'>1756 [Persecution]</a>|<a
+  href='/digital-beehive/toc/toc2_398/'>2272 [Persecution]</a>|<a href='/digital-beehive/toc/toc2_426/'>4473
+  [Persecution]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +14,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-64ac8a3f6"
+item: "#item-6ebb08ccd"
 unparsed: 
-line: 'Head: perplexity|Entry: 661 [Perplexity]|Entry: 1354 [Perplexity]|#item-64ac8a3f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/full/0/default.jpg
+line: 'Head: persecution|Entry: a|Entry: 1092 [Persecution]|Entry: 1756 [Persecution]|Entry:
+  2272 [Persecution]|Entry: 4473 [Persecution]|#item-6ebb08ccd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/811,286,717,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973905582
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973969666
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/160,3440,711,162/150,/0/default.jpg
-label: perplexity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/811,286,717,153/150,/0/default.jpg
+label: persecution
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0213'
+order: '0214'
 layout: index_item
 collection: index4
 ---

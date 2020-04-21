@@ -2,9 +2,8 @@
 pid: index_2229
 volume: Volume 3
 image_number: '28'
-head: laypeople
-entry: "<a href='/digital-beehive/toc/toc2_167/'>899 [Lay people]</a>|<a href='/digital-beehive/toc/toc2_348/'>1813
-  [Lay people]</a>"
+head: laziness
+entry: "<a href='/digital-beehive/alpha3/alpha_0523/'>a</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d2ae32185"
+item: "#item-b4eef1984"
 unparsed: 
-line: 'Head: laypeople|Entry: 899 [Lay people]|Entry: 1813 [Lay people]|#item-d2ae32185'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,820,653,138/full/0/default.jpg
+line: 'Head: laziness|Entry: a|#item-b4eef1984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,958,399,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841523974
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841548930
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/392,820,653,138/150,/0/default.jpg
-label: laypeople
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/403,958,399,127/150,/0/default.jpg
+label: laziness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '310'
+order: '311'
 layout: index_item
 collection: index3
 ---

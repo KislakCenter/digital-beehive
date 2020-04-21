@@ -2,8 +2,9 @@
 pid: index_1935
 volume: Volume 3
 image_number: '25'
-head: jelly
-entry: "<a href='/digital-beehive/toc/toc2_155/'>699 [Jelly]</a>"
+head: Jersey
+entry: "<a href='/digital-beehive/num3/num_0883'>647 [West-Jarsey]</a>|<a href='/digital-beehive/toc/toc2_299/'>1522
+  [New Jersey]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4a9c795d9"
+item: "#item-df5ed73eb"
 unparsed: 
-line: 'Head: jelly|Entry: 699 [Jelly]|#item-4a9c795d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1394,344,140/full/0/default.jpg
+line: 'Head: Jersey|Entry: 647 [West-Jarsey]|Entry: 1522 [New Jersey]|#item-df5ed73eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1504,546,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660632727
+annotation_uri: http://dev.llgc.org.uk/annotation/1559660676873
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/170,1394,344,140/150,/0/default.jpg
-label: jelly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1504,546,141/150,/0/default.jpg
+label: Jersey
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '016'
+order: '017'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1164/'>duck</a>"
+index: "<a href='/digital-beehive/index1/index_1163/'>duck</a>"
 item: "#item-22ba711ad"
 unparsed: 
 line: 'Entry: Duck|Topic: Duck|Index: duck|#item-22ba711ad'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,10
 label: Duck
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
-order: '264'
+also_in_entry: 
+order: '263'
 layout: alpha_item
 collection: alpha1
 ---

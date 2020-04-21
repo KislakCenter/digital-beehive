@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3221/'>pudding</a>"
+see: "<a href='/digital-beehive/index4/index_3220/'>pudding</a>"
 index: 
 item: "#item-585f2a74f"
 unparsed: 
@@ -23,7 +23,7 @@ label: saucidge
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0775'
+order: '0776'
 layout: index_item
 collection: index4
 ---

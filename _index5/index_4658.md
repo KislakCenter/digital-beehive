@@ -3,7 +3,7 @@ pid: index_4658
 volume: Volume 3
 image_number: '53'
 head: Zoilus
-entry: "<a href='/digital-beehive/alpha5/alpha_1072/'>a</a>|<a href='/digital-beehive/toc/toc2_143/'>629
+entry: "<a href='/digital-beehive/alpha5/alpha_1072/'>a</a>|<a href='/digital-beehive/num3/num_0850'>629
   [Zoilus]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689 [Zoilus]</a>|<a href='/digital-beehive/toc/toc2_428/'>4492
   [Zoilus]</a>"
 topic: 

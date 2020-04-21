@@ -2,29 +2,28 @@
 pid: index_2021
 volume: Volume 3
 image_number: '26'
-head: indifferency
-entry: "<a href='/digital-beehive/num1/num_0183/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
+head: indued
+entry: "<a href='/digital-beehive/num2/num_0543/'>440 [Qualities]</a>"
 topic: 
 first_letter: I/J
 page: 
-add: "<a href='/digital-beehive/index1/index_0042/'>adiaph</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-b6ea78923"
+item: "#item-61c23b957"
 unparsed: 
-line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
-  adiaph|#item-b6ea78923'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/full/0/default.jpg
+line: 'Head: indued|Entry: 440 [Qualities]|#item-61c23b957'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/404,354,488,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674327846
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/150,/0/default.jpg
-label: indifferency
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/404,354,488,120/150,/0/default.jpg
+label: indued
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '102'
+order: '103'
 layout: index_item
 collection: index3
 ---

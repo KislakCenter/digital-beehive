@@ -8,9 +8,9 @@ topic: Peace
 first_letter: P
 page: 
 add: 
-xref: Truce|Tranquility|<a href='/digital-beehive/toc/toc2_182/'>980 [Peace]</a>
+xref: Truce|Tranquility|<a href='/digital-beehive/num4/num_1308'>980 [Peace]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2930/'>peace</a>"
+index: "<a href='/digital-beehive/index4/index_2929/'>peace</a>"
 item: "#item-f73a2700c"
 unparsed: 
 line: 'Entry: Peace|Topic: Peace|Xref: Truce|Xref: Tranquility|Xref: 980 [Peace]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/280,25
 label: Peace
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: The point of reference for "Tranquility" is unclear.
+also_in_entry: 
 order: '044'
 layout: alpha_item
 collection: alpha4

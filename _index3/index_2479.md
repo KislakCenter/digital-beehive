@@ -2,29 +2,28 @@
 pid: index_2479
 volume: Volume 3
 image_number: '30'
-head: members
-entry: "<a href='/digital-beehive/alpha3/alpha_0584/'>a</a>|<a href='/digital-beehive/toc/toc2_182/'>979
-  [Members]</a>"
+head: memoirs
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1418 [Notes & Papers]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-a19ac8c69"
+item: "#item-bc5a56485"
 unparsed: 
-line: 'Head: members|Page: p.43 [Image 1.103]|Entry: a|Entry: 979 [Members]|#item-a19ac8c69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1140,1637,687,174/full/0/default.jpg
+line: 'Head: memoirs|Entry: 1418 [Notes & Papers]|#item-bc5a56485'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,1781,491,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268313187
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268371386
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1140,1637,687,174/150,/0/default.jpg
-label: members
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,1781,491,104/150,/0/default.jpg
+label: memoirs
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '560'
+order: '561'
 layout: index_item
 collection: index3
 ---

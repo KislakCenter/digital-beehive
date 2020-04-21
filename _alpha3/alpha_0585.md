@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0341/'>forgetfulness</a>|832 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2481/'>memory</a>"
+index: "<a href='/digital-beehive/index3/index_2480/'>memory</a>"
 item: "#item-7c5b22926"
 unparsed: 
 line: 'Entry: Memory|Topic: Memory|Xref: forgetfulness|Xref: 832 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/758,20
 label: Memory
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '141'
 layout: alpha_item
 collection: alpha3

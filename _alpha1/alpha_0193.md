@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0093/'>Borrowing</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0901/'>credit</a>"
+index: "<a href='/digital-beehive/index1/index_0900/'>credit</a>"
 item: "#item-6574f5f56"
 unparsed: 
 line: 'Entry: Credit|Topic: Credit|Xref: Borrowing|Index: credit|#item-6574f5f56'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/839,20
 label: Credit
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '192'
 layout: alpha_item
 collection: alpha1

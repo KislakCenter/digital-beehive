@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0858/'>Servant</a>|<a href='/digital-beehive/toc/toc2_278/'>1425
   [Maid]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2386/'>maid</a>"
+index: "<a href='/digital-beehive/index3/index_2385/'>maid</a>"
 item: "#item-5d3b778b0"
 unparsed: 
 line: 'Entry: Maid|Topic: Maid|Xref: Servant|Xref: 1425 [Maid]|Index: maid|#item-5d3b778b0'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/748,35
 label: Maid
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '122'
 layout: alpha_item
 collection: alpha3

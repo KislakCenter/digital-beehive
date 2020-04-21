@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/dig
   href='/digital-beehive/alpha3/alpha_0473/'>Infirmity</a>|<a href='/digital-beehive/toc/toc2_411/'>2362
   [Power]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3102/'>power</a>"
+index: "<a href='/digital-beehive/index4/index_3101/'>power</a>"
 item: "#item-6b67d5259"
 unparsed: 
 line: 'Entry: Power|Topic: Power|Xref: Authority|Xref: Force|Xref: Infirmity|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,42
 label: Power
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '074'
 layout: alpha_item
 collection: alpha4

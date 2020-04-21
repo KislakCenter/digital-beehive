@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [WORD_MISSING]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1114/'>divines and divinity</a>"
+index: "<a href='/digital-beehive/index1/index_1113/'>divines and divinity</a>"
 item: "#item-a97ed4337"
 unparsed: 
 line: 'Entry: Divinity|Topic: Divinity|Xref: 1371 [WORD_MISSING]|Index: divines and
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,22
 label: Divinity
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 'The correct cross-reference under entry 1371 cannot be determined. '
-order: '246'
+also_in_entry: 
+order: '245'
 layout: alpha_item
 collection: alpha1
 ---

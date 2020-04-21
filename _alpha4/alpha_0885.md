@@ -8,7 +8,7 @@ topic: Sleep
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_172/'>925 [Sleep]</a>"
+xref: "<a href='/digital-beehive/num4/num_1226'>925 [Sleep]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3746/'>sleep</a>"
 item: "#item-49ddc387a"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/284,43
 label: Sleep
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '237'
 layout: alpha_item
 collection: alpha4

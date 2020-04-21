@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0542/'>Little</a>|<a href='/digital-beehive/alpha2/alpha_0437/'>humility</a>|<a
-  href='/digital-beehive/toc/toc2_135/'>589 [Base]</a>"
+  href='/digital-beehive/num3/num_0764'>589 [Base]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0302/'>baseness</a>"
 item: "#item-588519acf"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/380,30
 label: Baseness
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '061'
 layout: alpha_item
 collection: alpha1

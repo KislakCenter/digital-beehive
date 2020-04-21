@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/303,17
 label: Abuse
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '003'
 layout: alpha_item
 collection: alpha1

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0565/'>Magnanimity</a>|<a href='/digital-beehive/toc/toc2_222/'>1143
   [Courage]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0881/'>courage</a>"
+index: "<a href='/digital-beehive/index1/index_0880/'>courage</a>"
 item: "#item-7a1be1068"
 unparsed: 
 line: 'Entry: Courage|Topic: Courage|Xref: Magnanimity|Xref: 1143 [Courage]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/351,35
 label: Courage
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '184'
 layout: alpha_item
 collection: alpha1

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_282/'>1444 [Riches]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1497/'>foot</a>"
+index: "<a href='/digital-beehive/index2/index_1496/'>foot</a>"
 item: "#item-ecd9550b0"
 unparsed: 
 line: 'Entry: Foot|Topic: Foot|Xref: 1444 [Riches]|Index: foot|#item-ecd9550b0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/732,30
 label: Foot
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '068'
 layout: alpha_item
 collection: alpha2

@@ -2,9 +2,8 @@
 pid: index_1375
 volume: Volume 3
 image_number: '20'
-head: Fables
-entry: "<a href='/digital-beehive/alpha2/alpha_0306/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1405
-  [Fable]</a>"
+head: factions
+entry: "<a href='/digital-beehive/num1/num_0046/'>46 [Orthodox]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-691c5d7fd"
+item: "#item-1d8bf301d"
 unparsed: 
-line: 'Head: Fables|Entry: a|Entry: 1405 [Fable]|#item-691c5d7fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/355,290,516,141/full/0/default.jpg
+line: 'Head: factions|Entry: 46 [Orthodox]|#item-1d8bf301d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398784733
+annotation_uri: http://dev.llgc.org.uk/annotation/1561399245365
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/355,290,516,141/150,/0/default.jpg
-label: Fables
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/790,384,359,142/150,/0/default.jpg
+label: factions
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '193'
+order: '194'
 layout: index_item
 collection: index2
 ---

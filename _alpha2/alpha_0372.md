@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0095/'>Bounty</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1668/'>goodness</a>"
+index: "<a href='/digital-beehive/index2/index_1667/'>goodness</a>"
 item: "#item-f0c950d14"
 unparsed: 
 line: 'Entry: Goodness|Topic: Goodness|Xref: Bounty|Index: goodness|#item-f0c950d14'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/339,16
 label: Goodness
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '103'
 layout: alpha_item
 collection: alpha2

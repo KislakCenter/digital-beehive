@@ -2,8 +2,8 @@
 pid: index_2556
 volume: Volume 3
 image_number: '31'
-head: moist
-entry: 738 [PAGE_MISSING]
+head: mole. talpa
+entry: "<a href='/digital-beehive/alpha3/alpha_0600/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7315ab2cd"
+item: "#item-ad8449e43"
 unparsed: 
-line: 'Head: moist|Entry: 738 [PAGE_MISSING]|#item-7315ab2cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,2726,358,144/full/0/default.jpg
+line: 'Head: mole. talpa|Entry: a|#item-ad8449e43'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352809304
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352831916
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/164,2726,358,144/150,/0/default.jpg
-label: moist
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2874,508,138/150,/0/default.jpg
+label: mole. talpa
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '637'
+order: '638'
 layout: index_item
 collection: index3
 ---

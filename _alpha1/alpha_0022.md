@@ -9,7 +9,7 @@ first_letter: A
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0073/'>Begging</a>|<a href='/digital-beehive/alpha2/alpha_0360/'>Gift</a>|<a
-  href='/digital-beehive/toc/toc2_125/'>528 [Alms]</a>"
+  href='/digital-beehive/num3/num_0662'>528 [Alms]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0109/'>alms</a>"
 item: "#item-36ff0e636"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/786,36
 label: Alms
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '021'
 layout: alpha_item
 collection: alpha1

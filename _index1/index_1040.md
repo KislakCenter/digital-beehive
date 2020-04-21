@@ -2,8 +2,8 @@
 pid: index_1040
 volume: Volume 3
 image_number: '16'
-head: dial
-entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Dial]</a>"
+head: dialogue
+entry: "<a href='/digital-beehive/toc/toc2_367/'>2019 [Dialogue]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-06b3a1987"
+item: "#item-bc9347011"
 unparsed: 
-line: 'Head: dial|Entry: 568 [Dial]|#item-06b3a1987'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/full/0/default.jpg
+line: 'Head: dialogue|Entry: 2019 [Dialogue]|#item-bc9347011'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1754,690,626,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783440637
+annotation_uri: http://dev.llgc.org.uk/annotation/1565625905597
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1802,611,379,119/150,/0/default.jpg
-label: dial
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1754,690,626,105/150,/0/default.jpg
+label: dialogue
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

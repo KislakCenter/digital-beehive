@@ -2,25 +2,24 @@
 pid: index_0872
 volume: Volume 3
 image_number: '15'
-head: counsel
-entry: "<a href='/digital-beehive/alpha1/alpha_0182/'>a</a>|<a href='/digital-beehive/toc/toc2_236/'>1215
-  [Counsel]</a>|4753 [PAGE_MISSING]"
+head: countenance
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1376/'>face</a>"
 index: 
-item: "#item-f9b2e8e5c"
+item: "#item-fbebe60e1"
 unparsed: 
-line: 'Head: counsel|Entry: a|Entry: 1215 [Counsel]|Entry: 4753 [PAGE_MISSING]|#item-f9b2e8e5c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/full/0/default.jpg
+line: 'Head: countenance|See: face|#item-fbebe60e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974373622
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974394813
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/150,/0/default.jpg
-label: counsel
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/150,/0/default.jpg
+label: countenance
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

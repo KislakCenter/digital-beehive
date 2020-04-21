@@ -3,7 +3,7 @@ pid: index_3403
 volume: Volume 3
 image_number: '39'
 head: revelling. sauß und schmauß
-entry: "<a href='/digital-beehive/alpha4/alpha_0802/'>a</a>|<a href='/digital-beehive/toc/toc2_184/'>990
+entry: "<a href='/digital-beehive/alpha4/alpha_0802/'>a</a>|<a href='/digital-beehive/num4/num_1322'>990
   [Revelling]</a>"
 topic: 
 first_letter: R
@@ -24,7 +24,7 @@ label: revelling. sauß und schmauß
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0651'
+order: '0652'
 layout: index_item
 collection: index4
 ---

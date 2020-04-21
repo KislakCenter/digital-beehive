@@ -10,7 +10,7 @@ page:
 add: 
 xref: Disfavour|<a href='/digital-beehive/toc/toc2_265/'>1359 [Favour]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1418/'>favour & disfavour</a>"
+index: "<a href='/digital-beehive/index2/index_1417/'>favour & disfavour</a>"
 item: "#item-89fc7f3f5"
 unparsed: 
 line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,25
 label: Favour
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: The point of reference for "Disfavour" is unclear.
+also_in_entry: 
 order: '050'
 layout: alpha_item
 collection: alpha2

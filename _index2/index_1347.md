@@ -2,30 +2,28 @@
 pid: index_1347
 volume: Volume 3
 image_number: '19'
-head: exhortation
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_205/'>1060 [Admonishing
-  & Warning]</a>
+head: exile
+entry: 
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0045/'>admonishing</a>"
+see: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
 index: 
-item: "#item-d278815d8"
+item: "#item-f73333200"
 unparsed: 
-line: 'Head: exhortation|See: admonishing|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing
-  & Warning]|#item-d278815d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1527,750,845,171/full/0/default.jpg
+line: 'Head: exile|See: banishmt|#item-f73333200'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1546,887,697,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042568283
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042620890
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1527,750,845,171/150,/0/default.jpg
-label: exhortation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1546,887,697,146/150,/0/default.jpg
+label: exile
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '165'
+order: '166'
 layout: index_item
 collection: index2
 ---

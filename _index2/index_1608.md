@@ -2,8 +2,8 @@
 pid: index_1608
 volume: Volume 3
 image_number: '22'
-head: gibberish
-entry: "<a href='/digital-beehive/num2/num_0425/'>360 [Canting]</a>"
+head: giddiness
+entry: "<a href='/digital-beehive/num3/num_0785'>599 [Giddiness]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-01ed5789c"
+item: "#item-effe74e93"
 unparsed: 
-line: 'Head: gibberish|Entry: 360 [Canting]|#item-01ed5789c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,1821,396,119/full/0/default.jpg
+line: 'Head: giddiness|Entry: 599 [Giddiness]|#item-effe74e93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,1861,425,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043079548
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043129532
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,1821,396,119/150,/0/default.jpg
-label: gibberish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/433,1861,425,138/150,/0/default.jpg
+label: giddiness
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '426'
+order: '427'
 layout: index_item
 collection: index2
 ---

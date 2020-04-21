@@ -2,24 +2,24 @@
 pid: index_0973
 volume: Volume 3
 image_number: '15'
-head: debauch
-entry: 
+head: to debase
+entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [To debase]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3403/'>revelling</a>"
+see: 
 index: 
-item: "#item-c9db7a647"
+item: "#item-60fdd1dcd"
 unparsed: 
-line: 'Head: debauch|See: revelling|#item-c9db7a647'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1535,3474,717,134/full/0/default.jpg
+line: 'Head: to debase|Entry: 1326 [To debase]|#item-60fdd1dcd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1533,3586,521,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392491289
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392520880
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1535,3474,717,134/150,/0/default.jpg
-label: debauch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1533,3586,521,118/150,/0/default.jpg
+label: to debase
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

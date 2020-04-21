@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0089/'>Boasting</a>|<a href='/digital-beehive/alpha2/alpha_0381/'>Grandeur</a>|819
   [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3151/'>pride</a>"
+index: "<a href='/digital-beehive/index4/index_3150/'>pride</a>"
 item: "#item-37a8f0cc4"
 unparsed: 
 line: 'Entry: Pride|Topic: Pride|Xref: Boasting|Xref: Grandeur|Xref: 819 [PAGE_MISSING]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/845,29
 label: Pride
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '083'
 layout: alpha_item
 collection: alpha4

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1118/'>division</a>"
+index: "<a href='/digital-beehive/index1/index_1117/'>division</a>"
 item: "#item-f01b54131"
 unparsed: 
 line: 'Entry: Division|Topic: Division|Index: division|#item-f01b54131'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/412,11
 label: Division
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '250'
+also_in_entry: 
+order: '249'
 layout: alpha_item
 collection: alpha1
 ---

@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/832,83
 label: Cat
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '123'
 layout: alpha_item
 collection: alpha1

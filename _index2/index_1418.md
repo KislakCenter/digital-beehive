@@ -2,28 +2,28 @@
 pid: index_1418
 volume: Volume 3
 image_number: '20'
-head: favour & disfavour
-entry: "<a href='/digital-beehive/toc/toc2_265/'>1359 [Favour]</a>"
+head: favorite
+entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0948/'>Darling</a>"
 index: 
-item: "#item-a9b107b5b"
+item: "#item-8bf586100"
 unparsed: 
-line: 'Head: favour & disfavour|Entry: 1359 [Favour]|#item-a9b107b5b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1131,786,698,151/full/0/default.jpg
+line: 'Head: favorite|See: Darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-8bf586100'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661605111
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661722756
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1131,786,698,151/150,/0/default.jpg
-label: favour & disfavour
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1136,905,759,148/150,/0/default.jpg
+label: favorite
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '236'
+order: '237'
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0882/'>Skill</a>|<a href='/digital-beehive/toc/toc2_262/'>1345
   [Experience]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1354/'>experience</a>"
+index: "<a href='/digital-beehive/index2/index_1353/'>experience</a>"
 item: "#item-5d82b5199"
 unparsed: 
 line: 'Entry: Experience|Topic: Experience|Xref: Skill|Xref: 1345 [Experience]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/375,10
 label: Experience
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '031'
 layout: alpha_item
 collection: alpha2

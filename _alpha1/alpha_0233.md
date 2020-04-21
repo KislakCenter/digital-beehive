@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0941/'>Temperance</a>|<a href='/digital-beehive/num2/num_0424/'>359
   [Meat]</a>|4735 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1047/'>diet</a>"
+index: "<a href='/digital-beehive/index1/index_1046/'>diet</a>"
 item: "#item-a44dc7143"
 unparsed: 
 line: 'Entry: Diet|Topic: Diet|Xref: Temperance|Xref: 359 [Meat]|Xref: 4735 [PAGE_MISSING]|Index:
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/399,38
 label: Diet
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '232'
+also_in_entry: 
+order: '231'
 layout: alpha_item
 collection: alpha1
 ---

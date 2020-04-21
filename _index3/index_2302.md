@@ -2,29 +2,28 @@
 pid: index_2302
 volume: Volume 3
 image_number: '28'
-head: lion
-entry: "<a href='/digital-beehive/alpha3/alpha_0541/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1088
-  [Lion]</a>"
+head: lips
+entry: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Lips]</a>"
 topic: 
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1e2a7d74a"
+item: "#item-568c068ba"
 unparsed: 
-line: 'Head: lion|Page: p.34 [Image 1.94]|Entry: a|Entry: 1088 [Lion]|#item-1e2a7d74a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1836,1521,574,139/full/0/default.jpg
+line: 'Head: lips|Entry: 1647 [Lips]|#item-568c068ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1838,1649,329,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848895839
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848951928
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1836,1521,574,139/150,/0/default.jpg
-label: lion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1838,1649,329,146/150,/0/default.jpg
+label: lips
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '383'
+order: '384'
 layout: index_item
 collection: index3
 ---

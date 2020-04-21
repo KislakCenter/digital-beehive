@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_301/'>1534 [Purgatory]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3231/'>purgatory</a>"
+index: "<a href='/digital-beehive/index4/index_3230/'>purgatory</a>"
 item: "#item-cceea3136"
 unparsed: 
 line: 'Entry: Purgatory|Topic: Purgatory|Xref: 1534 [Purgatory]|Index: purgatory|#item-cceea3136'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/280,36
 label: Purgatory
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '113'
 layout: alpha_item
 collection: alpha4

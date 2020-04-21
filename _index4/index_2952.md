@@ -2,28 +2,28 @@
 pid: index_2952
 volume: Volume 3
 image_number: '35'
-head: perception
-entry: "<a href='/digital-beehive/toc/toc2_181/'>971 [Senses]</a>"
+head: perdition
+entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2334/'>loss</a>"
 index: 
-item: "#item-17907dc32"
+item: "#item-3aafb5524"
 unparsed: 
-line: 'Head: perception|Entry: 971 [Senses]|#item-17907dc32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/full/0/default.jpg
+line: 'Head: perdition|See: loss|#item-3aafb5524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/129,2034,664,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972727340
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972838158
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/150,/0/default.jpg
-label: perception
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/129,2034,664,156/150,/0/default.jpg
+label: perdition
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0200'
+order: '0201'
 layout: index_item
 collection: index4
 ---

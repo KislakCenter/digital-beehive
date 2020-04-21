@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_312/'>1590 [Rainbow]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3284/'>rainbow</a>"
+index: "<a href='/digital-beehive/index4/index_3283/'>rainbow</a>"
 item: "#item-4e33af066"
 unparsed: 
 line: 'Entry: Rain bow|Topic: Rain bow|Xref: 1590 [Rainbow]|Index: rainbow|#item-4e33af066'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/365,35
 label: Rain bow
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '124'
 layout: alpha_item
 collection: alpha4

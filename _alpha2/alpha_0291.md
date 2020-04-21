@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_302/'>1540 [Equivocation]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1291/'>equivocation</a>"
+index: "<a href='/digital-beehive/index2/index_1290/'>equivocation</a>"
 item: "#item-5de478888"
 unparsed: 
 line: 'Entry: Equivocation|Topic: Equivocation|Xref: 1540 [Equivocation]|Index: equivocation|#item-5de478888'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/737,18
 label: Equivocation
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '022'
 layout: alpha_item
 collection: alpha2

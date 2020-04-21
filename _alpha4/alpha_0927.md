@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0322/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0819/'>Sabbath</a>|<a
-  href='/digital-beehive/toc/toc2_122/'>511 [First day of the week]</a>"
+  href='/digital-beehive/num3/num_0643'>511 [First day of the Week]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3984/'>sunday</a>"
 item: "#item-9a748c2a7"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/776,36
 label: Sunday
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '279'
 layout: alpha_item
 collection: alpha4

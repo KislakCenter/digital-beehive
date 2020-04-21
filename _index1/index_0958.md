@@ -2,24 +2,24 @@
 pid: index_0958
 volume: Volume 3
 image_number: '15'
-head: holy day
-entry: 
+head: dead
+entry: "<a href='/digital-beehive/toc/toc2_285/'>1459 [Dead]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1424/'>feast</a>"
+see: 
 index: 
-item: "#item-f65c5ce11"
+item: "#item-ed6c12c13"
 unparsed: 
-line: 'Head: holy day|See: feast|#item-f65c5ce11'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1547,2218,616,112/full/0/default.jpg
+line: 'Head: dead|Entry: 1459 [Dead]|#item-ed6c12c13'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1469,2309,405,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391683823
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391716489
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1547,2218,616,112/150,/0/default.jpg
-label: holy day
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1469,2309,405,154/150,/0/default.jpg
+label: dead
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

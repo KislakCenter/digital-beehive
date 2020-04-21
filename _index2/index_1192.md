@@ -2,28 +2,29 @@
 pid: index_1192
 volume: Volume 3
 image_number: '18'
-head: earthlyminded
+head: earth's division
 entry: 
 topic: 
 first_letter: E
-page: 
+page: "<a href='/digital-beehive/toc/toc1_333/'>p.192 [Image 1.343]</a>"
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4619/'>worldly</a>"
+see: 
 index: 
-item: "#item-7424f8fb2"
+item: "#item-26c8334cd"
 unparsed: 
-line: 'Head: earthlyminded|See: worldly|#item-7424f8fb2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/400,2556,746,126/full/0/default.jpg
+line: 'Head: earth''s division|Page: p.192 [Image 1.343]|#item-26c8334cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667439938
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668978970
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/400,2556,746,126/150,/0/default.jpg
-label: earthlyminded
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/409,2645,907,93/150,/0/default.jpg
+label: earth's division
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
+issue: Pastorius links to entry 914 in the Onomastical Considerations. There is currently
+  no protocol for linking to specific entries in the Onomastical Considerations.
 insertion_xref: 
-order: '010'
+order: '011'
 layout: index_item
 collection: index2
 ---

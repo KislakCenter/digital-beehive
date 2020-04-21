@@ -2,8 +2,8 @@
 pid: index_1951
 volume: Volume 3
 image_number: '25'
-head: jilts
-entry: 4789 [PAGE_MISSING]
+head: iliack passion
+entry: "<a href='/digital-beehive/toc/toc2_222/'>1144 [Iliack passion]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f3d2719c9"
+item: "#item-78083b3b7"
 unparsed: 
-line: 'Head: jilts|Entry: 4789 [PAGE_MISSING]|#item-f3d2719c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3168,344,122/full/0/default.jpg
+line: 'Head: iliack passion|Entry: 1144 [Iliack passion]|#item-78083b3b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3229,572,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559662385859
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662473573
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3168,344,122/150,/0/default.jpg
-label: jilts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3229,572,168/150,/0/default.jpg
+label: iliack passion
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '032'
+order: '033'
 layout: index_item
 collection: index3
 ---

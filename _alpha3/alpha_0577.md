@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2449/'>mathematicks</a>"
+index: "<a href='/digital-beehive/index3/index_2448/'>mathematicks</a>"
 item: "#item-3a11d51b2"
 unparsed: 
 line: 'Entry: Mathematicks|Topic: Mathematicks|Index: mathematicks|#item-3a11d51b2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/342,39
 label: Mathematicks
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '133'
 layout: alpha_item
 collection: alpha3

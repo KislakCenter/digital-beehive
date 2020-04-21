@@ -2,24 +2,24 @@
 pid: index_1137
 volume: Volume 3
 image_number: '17'
-head: dove
-entry: "<a href='/digital-beehive/toc/toc2_135/'>588 [Dove]</a>"
+head: dowry
+entry: "<a href='/digital-beehive/num3/num_0687'>544 [[WORD_ILLEGIBLE]]</a>"
 topic: 
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-bdc15c94b"
+item: "#item-6cd7e1ea9"
 unparsed: 
-line: 'Head: dove|Page: p.35 [Image 1.95]|Entry: 588 [Dove]|#item-bdc15c94b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,869,595,155/full/0/default.jpg
+line: 'Head: dowry|Entry: 544 [WORD_ILLEGIBLE]|#item-6cd7e1ea9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1435,986,504,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367832995
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367910631
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,869,595,155/150,/0/default.jpg
-label: dove
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1435,986,504,134/150,/0/default.jpg
+label: dowry
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

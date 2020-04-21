@@ -2,9 +2,8 @@
 pid: index_2513
 volume: Volume 3
 image_number: '30'
-head: milk
-entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/toc/toc2_280/'>1434
-  [Milk]</a>"
+head: milky way
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Milky way]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-31c2fb042"
+item: "#item-bf0334b6e"
 unparsed: 
-line: 'Head: milk|Entry: a|Entry: 1434 [Milk]|#item-31c2fb042'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1848,1696,468,135/full/0/default.jpg
+line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273988003
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1848,1696,468,135/150,/0/default.jpg
-label: milk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/150,/0/default.jpg
+label: milky way
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '594'
+order: '595'
 layout: index_item
 collection: index3
 ---

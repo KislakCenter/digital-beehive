@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/701,48
 label: Affections
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '011'
 layout: alpha_item
 collection: alpha1

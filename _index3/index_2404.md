@@ -2,31 +2,30 @@
 pid: index_2404
 volume: Volume 3
 image_number: '29'
-head: man
-entry: "<a href='/digital-beehive/alpha3/alpha_0570/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1124
-  [Man]</a>|<a href='/digital-beehive/toc/toc2_355/'>1923 [Man]</a>|<a href='/digital-beehive/toc/toc2_390/'>2232
-  [Man]</a>"
+head: bad & base man
+entry: "<a href='/digital-beehive/num3/num_0764'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_341/'>1759
+  [ill natur'd man]</a>|<a href='/digital-beehive/toc/toc2_432/'>4817 [Bad man]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-f4740f14d"
+item: "#item-43391adb4"
 unparsed: 
-line: 'Head: man|Page: p.42 [Image 1.102]|Entry: a|Entry: 1124 [Man]|Entry: 1923 [Man]|Entry:
-  2232 [Man]|#item-f4740f14d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/full/0/default.jpg
+line: 'Head: bad & base man|Entry: 589 [Base]|Entry: 1759 [ill natur''d man]|Entry:
+  4817 [Bad man]|#item-43391adb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1381,1463,866,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194602083
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194792286
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/150,/0/default.jpg
-label: man
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1381,1463,866,165/150,/0/default.jpg
+label: bad & base man
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '485'
+order: '486'
 layout: index_item
 collection: index3
 ---

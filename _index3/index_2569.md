@@ -2,8 +2,9 @@
 pid: index_2569
 volume: Volume 3
 image_number: '31'
-head: monopolies
-entry: "<a href='/digital-beehive/toc/toc2_346/'>1803 [Monopolies]</a>"
+head: monster
+entry: "<a href='/digital-beehive/alpha3/alpha_0604/'>a</a>|<a href='/digital-beehive/toc/toc2_365/'>1996
+  [Monster]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8dad24912"
+item: "#item-abbd4ad14"
 unparsed: 
-line: 'Head: monopolies|Entry: 1803 [Monopolies]|#item-8dad24912'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/881,912,529,99/full/0/default.jpg
+line: 'Head: monster|Entry: a|Entry: 1996 [Monster]|#item-abbd4ad14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/896,966,528,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355112264
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355179831
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/881,912,529,99/150,/0/default.jpg
-label: monopolies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/896,966,528,107/150,/0/default.jpg
+label: monster
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '650'
+order: '651'
 layout: index_item
 collection: index3
 ---

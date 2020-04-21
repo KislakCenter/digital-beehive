@@ -2,8 +2,8 @@
 pid: index_1109
 volume: Volume 3
 image_number: '17'
-head: to disturb
-entry: "<a href='/digital-beehive/toc/toc2_283/'>1446 [To disturb]</a>"
+head: ditch
+entry: "<a href='/digital-beehive/num3/num_0942'>676 [a Ditch]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-29cb46cc1"
+item: "#item-40e8271d7"
 unparsed: 
-line: 'Head: to disturb|Entry: 1446 [To disturb]|#item-29cb46cc1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/814,911,598,144/full/0/default.jpg
+line: 'Head: ditch|Entry: 676 [a Ditch]|#item-40e8271d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848992543
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849088978
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/814,911,598,144/150,/0/default.jpg
-label: to disturb
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/150,/0/default.jpg
+label: ditch
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -3,7 +3,7 @@ pid: index_3577
 volume: Volume 3
 image_number: '41'
 head: to search
-entry: "<a href='/digital-beehive/toc/toc2_142/'>625 [Inquiry]</a>"
+entry: "<a href='/digital-beehive/num3/num_0844'>625 [Inquiry]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to search
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0825'
+order: '0826'
 layout: index_item
 collection: index4
 ---

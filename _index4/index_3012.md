@@ -2,8 +2,8 @@
 pid: index_3012
 volume: Volume 3
 image_number: '35'
-head: pincers
-entry: "<a href='/digital-beehive/toc/toc2_362/'>1974 [Pincers]</a>"
+head: pinch
+entry: "<a href='/digital-beehive/num3/num_0880'>645 [Pinch]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c7e355fc9"
+item: "#item-13bb3a9ef"
 unparsed: 
-line: 'Head: pincers|Entry: 1974 [Pincers]|#item-c7e355fc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1580,498,139/full/0/default.jpg
+line: 'Head: pinch|Entry: 645 [Pinch]|#item-13bb3a9ef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1535,1645,407,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976459589
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976489249
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1517,1580,498,139/150,/0/default.jpg
-label: pincers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1535,1645,407,116/150,/0/default.jpg
+label: pinch
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0260'
+order: '0261'
 layout: index_item
 collection: index4
 ---

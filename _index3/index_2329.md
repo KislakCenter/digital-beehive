@@ -2,28 +2,28 @@
 pid: index_2329
 volume: Volume 3
 image_number: '29'
-head: to loose
-entry: 786 [PAGE_MISSING]
+head: looseness
+entry: 
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1488/'>flux</a>|<a href='/digital-beehive/index3/index_2277/'>license</a>"
 index: 
-item: "#item-d6a01d508"
+item: "#item-847c61974"
 unparsed: 
-line: 'Head: to loose|Entry: 786 [PAGE_MISSING]|#item-d6a01d508'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/154,883,382,101/full/0/default.jpg
+line: 'Head: looseness|See: flux|See: license|#item-847c61974'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/164,974,737,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177825332
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177867246
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/154,883,382,101/150,/0/default.jpg
-label: to loose
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/164,974,737,154/150,/0/default.jpg
+label: looseness
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '410'
+order: '411'
 layout: index_item
 collection: index3
 ---

@@ -8,7 +8,7 @@ topic: Weeping
 first_letter: W
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_143/'>630 [Weeping]</a>"
+xref: "<a href='/digital-beehive/num3/num_0854'>630 [Weeping]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4511/'>weeping</a>"
 item: "#item-a80c8d607"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/825,27
 label: Weeping
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 issue: 
-order: '095'
+also_in_entry: 
+order: '096'
 layout: alpha_item
 collection: alpha5
 ---

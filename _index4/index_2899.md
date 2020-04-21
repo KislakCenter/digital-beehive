@@ -2,9 +2,8 @@
 pid: index_2899
 volume: Volume 3
 image_number: '34'
-head: partiality
-entry: "<a href='/digital-beehive/alpha4/alpha_0684/'>a</a>|<a href='/digital-beehive/toc/toc2_169/'>910
-  [Partial]</a>|4575 [PAGE_MISSING]"
+head: particles
+entry: "<a href='/digital-beehive/toc/toc2_370/'>2044 [Particles]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-64d406f95"
+item: "#item-23faa8eda"
 unparsed: 
-line: 'Head: partiality|Entry: a|Entry: 910 [Partial]|Entry: 4575 [PAGE_MISSING]|#item-64d406f95'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1077,3148,897,171/full/0/default.jpg
+line: 'Head: particles|Entry: 2044 [Particles]|#item-23faa8eda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494746333
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494774841
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1077,3148,897,171/150,/0/default.jpg
-label: partiality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/150,/0/default.jpg
+label: particles
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0147'
+order: '0148'
 layout: index_item
 collection: index4
 ---

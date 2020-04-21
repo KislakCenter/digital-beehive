@@ -2,9 +2,8 @@
 pid: index_1987
 volume: Volume 3
 image_number: '25'
-head: imputation
-entry: "<a href='/digital-beehive/alpha3/alpha_0465/'>a</a>|<a href='/digital-beehive/toc/toc2_128/'>548
-  [Imputation]</a>"
+head: in
+entry: "<a href='/digital-beehive/toc/toc2_201/'>1040 [In]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-171be3dea"
+item: "#item-e970114b5"
 unparsed: 
-line: 'Head: imputation|Entry: a|Entry: 548 [Imputation]|#item-171be3dea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3439,657,133/full/0/default.jpg
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668408703
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3439,657,133/150,/0/default.jpg
-label: imputation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '068'
+order: '069'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_403/'>2298 [Last words]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2208/'>last words</a>"
+index: "<a href='/digital-beehive/index3/index_2207/'>last words</a>"
 item: "#item-680c357e1"
 unparsed: 
 line: 'Entry: Last words|Topic: Last words|Xref: 2298 [Last words]|Index: last words|#item-680c357e1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/760,34
 label: Last words
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '072'
 layout: alpha_item
 collection: alpha3

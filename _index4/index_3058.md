@@ -2,9 +2,8 @@
 pid: index_3058
 volume: Volume 3
 image_number: '36'
-head: poesie
-entry: "<a href='/digital-beehive/alpha4/alpha_0714/'>a</a>|<a href='/digital-beehive/num2/num_0564/'>454
-  [Poesie]</a>|<a href='/digital-beehive/toc/toc2_312/'>1586 [Poesy]</a>"
+head: poets
+entry: "<a href='/digital-beehive/toc/toc2_311/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-27cc5c83f"
+item: "#item-d1a8046d0"
 unparsed: 
-line: 'Head: poesie|Entry: a|Entry: 454 [Poesie]|Entry: 1586 [Poesy]|#item-27cc5c83f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/full/0/default.jpg
+line: 'Head: poets|Entry: 1584 [Poets]|Entry: 4563 [PAGE_MISSING]|#item-d1a8046d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,2410,635,194/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208288531
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208591515
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/438,2293,692,161/150,/0/default.jpg
-label: poesie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,2410,635,194/150,/0/default.jpg
+label: poets
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0306'
+order: '0307'
 layout: index_item
 collection: index4
 ---

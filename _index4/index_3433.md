@@ -3,7 +3,7 @@ pid: index_3433
 volume: Volume 3
 image_number: '40'
 head: ripeness
-entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Ripeness]</a>"
+entry: "<a href='/digital-beehive/num3/num_0814'>612 [Ripeness]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: ripeness
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0681'
+order: '0682'
 layout: index_item
 collection: index4
 ---

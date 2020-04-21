@@ -2,28 +2,28 @@
 pid: index_1358
 volume: Volume 3
 image_number: '19'
-head: expressly
-entry: 760 [PAGE_MISSING]
+head: extasy
+entry: 
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4212/'>trance</a>"
 index: 
-item: "#item-4a7cbe078"
+item: "#item-b2ea76ad4"
 unparsed: 
-line: 'Head: expressly|Entry: 760 [PAGE_MISSING]|#item-4a7cbe078'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1856,546,158/full/0/default.jpg
+line: 'Head: extasy|See: trance|#item-b2ea76ad4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396029831
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396070669
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1856,546,158/150,/0/default.jpg
-label: expressly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1523,2004,694,144/150,/0/default.jpg
+label: extasy
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '176'
+order: '177'
 layout: index_item
 collection: index2
 ---

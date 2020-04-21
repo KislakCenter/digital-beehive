@@ -8,9 +8,9 @@ topic: Hunger
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_157/'>710 [Hunger]</a>"
+xref: "<a href='/digital-beehive/num3/num_1035'>710 [Hunger]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1906/'>hunger</a>"
+index: "<a href='/digital-beehive/index2/index_1905/'>hunger</a>"
 item: "#item-8053dee9a"
 unparsed: 
 line: 'Entry: Hunger|Topic: Hunger|Xref: 710 [Hunger]|Index: hunger|#item-8053dee9a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/792,15
 label: Hunger
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '169'
 layout: alpha_item
 collection: alpha2

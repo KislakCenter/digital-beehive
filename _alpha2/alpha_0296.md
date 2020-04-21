@@ -10,7 +10,7 @@ page:
 add: 
 xref: 756 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1339/'>excuse</a>"
+index: "<a href='/digital-beehive/index2/index_1338/'>excuse</a>"
 item: "#item-93f4f440a"
 unparsed: 
 line: 'Entry: Excuse|Topic: Excuse|XRef: 756 [PAGE_MISSING]|Index: excuse|#item-93f4f440a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/703,43
 label: Excuse
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '027'
 layout: alpha_item
 collection: alpha2

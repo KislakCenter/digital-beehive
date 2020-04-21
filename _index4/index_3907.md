@@ -3,7 +3,7 @@ pid: index_3907
 volume: Volume 3
 image_number: '45'
 head: stocks
-entry: "<a href='/digital-beehive/toc/toc2_143/'>632 [Stock]</a>"
+entry: "<a href='/digital-beehive/num3/num_0856'>632 [Stock]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stocks
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1155'
+order: '1156'
 layout: index_item
 collection: index4
 ---

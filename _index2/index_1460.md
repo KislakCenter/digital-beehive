@@ -2,9 +2,8 @@
 pid: index_1460
 volume: Volume 3
 image_number: '20'
-head: firstborn
-entry: "<a href='/digital-beehive/alpha2/alpha_0327/'>a</a>|<a href='/digital-beehive/toc/toc2_382/'>2163
-  [Birth-right]</a>"
+head: first day
+entry: "<a href='/digital-beehive/num3/num_0643'>511 [First day of the Week]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-337393eaa"
+item: "#item-84841672f"
 unparsed: 
-line: 'Head: firstborn|Entry: a|Entry: 2163 [Birth-right]|#item-337393eaa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1469,531,148/full/0/default.jpg
+line: 'Head: first day|Entry: 511 [First day of the Week]|#item-84841672f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1795,1511,392,199/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613985222
+annotation_uri: http://dev.llgc.org.uk/annotation/1562614079758
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1469,531,148/150,/0/default.jpg
-label: firstborn
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1795,1511,392,199/150,/0/default.jpg
+label: first day
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '278'
+order: '279'
 layout: index_item
 collection: index2
 ---

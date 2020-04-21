@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-fd8cfb194"
 unparsed: 
-line: 'Head: secret parts|Entry: 458 [Privy Parts]|Entry: 2192 [Privy parts]|#item-fd8cfb194'
+line: 'Head: secret parts|Entry: 458 [Privy parts]|Entry: 2192 [Privy parts]|#item-fd8cfb194'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559242615279
@@ -24,7 +24,7 @@ label: secret parts
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0832'
+order: '0833'
 layout: index_item
 collection: index4
 ---

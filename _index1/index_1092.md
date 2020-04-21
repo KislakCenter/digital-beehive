@@ -2,24 +2,25 @@
 pid: index_1092
 volume: Volume 3
 image_number: '17'
-head: disperse
-entry: 
+head: displeasure
+entry: "<a href='/digital-beehive/num3/num_0822'>615 [displeasure]</a>|<a href='/digital-beehive/toc/toc2_290/'>1482
+  [Displeasure]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3542/'>Scatter</a>"
+see: 
 index: 
-item: "#item-2c04fc280"
+item: "#item-43f22c6f4"
 unparsed: 
-line: 'Head: disperse|See: Scatter|#item-2c04fc280'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/118,2601,661,156/full/0/default.jpg
+line: 'Head: displeasure|Entry: 615 [displeasure]|Entry: 1482 [Displeasure]|#item-43f22c6f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804432700
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804477583
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/118,2601,661,156/150,/0/default.jpg
-label: disperse
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/150,/0/default.jpg
+label: displeasure
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

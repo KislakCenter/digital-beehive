@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0286/'>Epicurism</a>|<a href='/digital-beehive/toc/toc2_274/'>1402
   [Lasciviousness]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2202/'>lascivious</a>"
+index: "<a href='/digital-beehive/index3/index_2201/'>lascivious</a>"
 item: "#item-8fba8eb7b"
 unparsed: 
 line: 'Entry: Lasciviousness|Topic: Lasciviousness|Xref: Epicurism|Xref: 1402 [Lasciviousness]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/680,16
 label: Lasciviousness
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '065'
 layout: alpha_item
 collection: alpha3

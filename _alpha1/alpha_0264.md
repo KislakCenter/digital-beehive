@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0167/'>161 [Drunkeness]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1163/'>drunken[n]ess</a>"
+index: "<a href='/digital-beehive/index1/index_1162/'>drunken[n]ess</a>"
 item: "#item-18aa7dc9f"
 unparsed: 
 line: 'Entry: Drunkeness|Topic: Drunkeness|Xref: 161 [Drunkeness]|Index: drunken[n]ess|#item-18aa7dc9f'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/778,55
 label: Drunkeness
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
-order: '263'
+also_in_entry: 
+order: '262'
 layout: alpha_item
 collection: alpha1
 ---

@@ -23,7 +23,7 @@ label: strangury
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1178'
+order: '1179'
 layout: index_item
 collection: index4
 ---

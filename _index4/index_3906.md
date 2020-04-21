@@ -23,7 +23,7 @@ label: stockfish
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1154'
+order: '1155'
 layout: index_item
 collection: index4
 ---

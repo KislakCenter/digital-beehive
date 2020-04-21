@@ -2,28 +2,28 @@
 pid: index_2984
 volume: Volume 3
 image_number: '35'
-head: books of Ph. Society
+head: philosopher stone
 entry: 
 topic: 
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.202]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
 index: 
-item: "#item-2de79c801"
+item: "#item-4ec30a3ed"
 unparsed: 
-line: 'Head: books of Ph. Society|Page: p.380 [Image 2.202]|#item-2de79c801'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/full/0/default.jpg
+line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974625764
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/150,/0/default.jpg
-label: books of Ph. Society
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/150,/0/default.jpg
+label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0232'
+order: '0233'
 layout: index_item
 collection: index4
 ---

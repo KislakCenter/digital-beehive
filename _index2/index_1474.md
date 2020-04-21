@@ -2,29 +2,28 @@
 pid: index_1474
 volume: Volume 3
 image_number: '20'
-head: flattery
-entry: "<a href='/digital-beehive/alpha2/alpha_0329/'>a</a>|810 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_347/'>1810 [Flattery]</a>"
+head: flax
+entry: 853 [PAGE_MISSING]
 topic: 
 first_letter: F
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-e3b2fe070"
+item: "#item-8bb352856"
 unparsed: 
-line: 'Head: flattery|Entry: a|Entry: 810 [PAGE_MISSING]|Entry: 1810 [Flattery]|#item-e3b2fe070'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1797,2365,684,213/full/0/default.jpg
+line: 'Head: flax|Page: p.38 [Image 1.98]|Entry: 853 [PAGE_MISSING]|#item-8bb352856'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1798,2505,546,195/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616239330
+annotation_uri: http://dev.llgc.org.uk/annotation/1562616345582
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1797,2365,684,213/150,/0/default.jpg
-label: flattery
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1798,2505,546,195/150,/0/default.jpg
+label: flax
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '292'
+order: '293'
 layout: index_item
 collection: index2
 ---

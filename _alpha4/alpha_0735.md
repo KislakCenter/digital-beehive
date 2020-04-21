@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0734/'>Prison</a>|<a href='/digital-beehive/alpha1/alpha_0202/'>Custody</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3162/'>prison</a>"
+index: "<a href='/digital-beehive/index4/index_3161/'>prison</a>"
 item: "#item-352e6ec4b"
 unparsed: 
 line: 'Entry: Prison, continued|Topic: Prison, continued|Xref: Prison|Xref: Custody|Index:
@@ -24,6 +24,7 @@ label: Prison, continued
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 'It is unclear whether this entry is a new entry or a continuation of the preceding
   entry. '
+also_in_entry: 
 order: '088'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_1753
 volume: Volume 3
 image_number: '23'
-head: hard
-entry: "<a href='/digital-beehive/toc/toc2_138/'>603 [Hard]</a>"
+head: hardship
+entry: "<a href='/digital-beehive/toc/toc2_251/'>1290 [Difficulty]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4b556dcb4"
+item: "#item-f3f17b099"
 unparsed: 
-line: 'Head: hard|Entry: 603 [Hard]|#item-4b556dcb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1423,367,91/full/0/default.jpg
+line: 'Head: hardship|Entry: 1290 [Difficulty]|#item-f3f17b099'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1468,456,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239567340
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239683896
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1423,367,91/150,/0/default.jpg
-label: hard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/837,1468,456,129/150,/0/default.jpg
+label: hardship
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '570'
+order: '571'
 layout: index_item
 collection: index2
 ---

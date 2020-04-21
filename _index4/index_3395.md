@@ -3,7 +3,7 @@ pid: index_3395
 volume: Volume 3
 image_number: '39'
 head: retaliation
-entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/toc/toc2_165/'>886
+entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1137'>886
   [Retaliation]</a>"
 topic: 
 first_letter: R
@@ -24,7 +24,7 @@ label: retaliation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0643'
+order: '0644'
 layout: index_item
 collection: index4
 ---

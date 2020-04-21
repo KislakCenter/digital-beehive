@@ -8,7 +8,7 @@ topic: Security
 first_letter: S
 page: 
 add: 
-xref: Preparation|<a href='/digital-beehive/toc/toc2_170/'>914 [Security]</a>
+xref: Preparation|<a href='/digital-beehive/num4/num_1202'>914 [Security]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_3588/'>security</a>"
 item: "#item-d86effcab"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/249,36
 label: Security
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '194'
 layout: alpha_item
 collection: alpha4

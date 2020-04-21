@@ -2,10 +2,8 @@
 pid: index_0754
 volume: Volume 3
 image_number: '13'
-head: company
-entry: "<a href='/digital-beehive/alpha1/alpha_0161/'>a</a>|<a href='/digital-beehive/num2/num_0318/'>283
-  [Company]</a>|<a href='/digital-beehive/toc/toc2_176/'>942 [Comany]</a>|<a href='/digital-beehive/toc/toc2_265/'>1358
-  [Company]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964 [Company]</a>"
+head: comparison
+entry: "<a href='/digital-beehive/num3/num_0669'>534 [Comparison]</a>"
 topic: 
 first_letter: C
 page: 
@@ -13,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5ac603ff9"
+item: "#item-f746ec03d"
 unparsed: 
-line: 'Head: company|Entry: a|Entry: 283 [Company]|Entry: 942 [Comany]|Entry: 1358
-  [Company]|Entry: 1964 [Company]|#item-5ac603ff9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1532,3196,694,165/full/0/default.jpg
+line: 'Head: comparison|Entry: 534 [Comparison]|#item-f746ec03d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,3395,511,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163870349
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163895279
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1532,3196,694,165/150,/0/default.jpg
-label: company
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,3395,511,116/150,/0/default.jpg
+label: comparison
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

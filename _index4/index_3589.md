@@ -23,7 +23,7 @@ label: sedition
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0837'
+order: '0838'
 layout: index_item
 collection: index4
 ---

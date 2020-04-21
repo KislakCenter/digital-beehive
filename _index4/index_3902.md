@@ -3,7 +3,7 @@ pid: index_3902
 volume: Volume 3
 image_number: '45'
 head: stile
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Terms in didascalia]</a>|<a
+entry: "<a href='/digital-beehive/num3/num_0676'>537 [Terms in didascalia]</a>|<a
   href='/digital-beehive/toc/toc2_275/'>1406 [Lapidaria]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: stile
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1150'
+order: '1151'
 layout: index_item
 collection: index4
 ---

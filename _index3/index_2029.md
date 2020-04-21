@@ -2,28 +2,28 @@
 pid: index_2029
 volume: Volume 3
 image_number: '26'
-head: infancy
-entry: 
+head: infant baptism
+entry: "<a href='/digital-beehive/num2/num_0510/'>413 [Infant baptism]</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0633/'>Childhood</a>"
+see: 
 index: 
-item: "#item-086ab94c5"
+item: "#item-50d6d9719"
 unparsed: 
-line: 'Head: infancy|See: Childhood|#item-086ab94c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/full/0/default.jpg
+line: 'Head: infant baptism|Entry: 413 [Infant baptism]|#item-50d6d9719'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/464,1205,620,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744055955
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744137484
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/150,/0/default.jpg
-label: infancy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/464,1205,620,134/150,/0/default.jpg
+label: infant baptism
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '110'
+order: '111'
 layout: index_item
 collection: index3
 ---

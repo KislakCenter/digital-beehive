@@ -3,13 +3,13 @@ pid: index_3516
 volume: Volume 3
 image_number: '41'
 head: sanctification
-entry: "<a href='/digital-beehive/toc/toc2_184/'>990 [Holiness]</a>"
+entry: "<a href='/digital-beehive/num4/num_1321'>990 [Holiness]</a>"
 topic: 
 first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1855/'>holiness</a>"
+see: "<a href='/digital-beehive/index2/index_1854/'>holiness</a>"
 index: 
 item: "#item-5a4a0f290"
 unparsed: 
@@ -23,7 +23,7 @@ label: sanctification
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0764'
+order: '0765'
 layout: index_item
 collection: index4
 ---

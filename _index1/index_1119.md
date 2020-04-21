@@ -2,9 +2,8 @@
 pid: index_1119
 volume: Volume 3
 image_number: '17'
-head: divorcement
-entry: "<a href='/digital-beehive/alpha1/alpha_0253/'>a</a>|<a href='/digital-beehive/toc/toc2_293/'>1498
-  [Divorsement]</a>"
+head: to do
+entry: "<a href='/digital-beehive/num4/num_1128'>883 [To act]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-52c4269a0"
+item: "#item-cfbc63fa7"
 unparsed: 
-line: 'Head: divorcement|Entry: a|Entry: 1498 [Divorsement]|#item-52c4269a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/765,2043,724,124/full/0/default.jpg
+line: 'Head: to do|Entry: 883 [To act]|#item-cfbc63fa7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,2167,396,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560366617140
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366695818
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/765,2043,724,124/150,/0/default.jpg
-label: divorcement
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,2167,396,140/150,/0/default.jpg
+label: to do
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

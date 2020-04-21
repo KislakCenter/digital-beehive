@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0854/'>Selfprofit</a>|<a href='/digital-beehive/alpha4/alpha_0740/'>Profit</a>|<a
   href='/digital-beehive/toc/toc2_244/'>1252 [Gainful]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2360/'>lucre</a>"
+index: "<a href='/digital-beehive/index3/index_2359/'>lucre</a>"
 item: "#item-4e73b2de1"
 unparsed: 
 line: 'Entry: Lucre|Topic: Lucre|Xref: Selfprofit|Xref: Profit|Xref: 1252 [Gainful]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/742,23
 label: Lucre
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '119'
 layout: alpha_item
 collection: alpha3

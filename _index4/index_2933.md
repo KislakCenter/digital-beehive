@@ -2,28 +2,28 @@
 pid: index_2933
 volume: Volume 3
 image_number: '34'
-head: peacock
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1404 [Peacocks]</a>"
+head: pear
+entry: "<a href='/digital-beehive/alpha4/alpha_0694/'>a</a>"
 topic: 
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-9037818ca"
+item: "#item-57376df37"
 unparsed: 
-line: 'Head: peacock|Page: p.35 [Image 1.95]|Entry: 1404 [Peacocks]|#item-9037818ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1799,3122,691,171/full/0/default.jpg
+line: 'Head: pear|Entry: a|#item-57376df37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1788,3272,388,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495986728
+annotation_uri: http://dev.llgc.org.uk/annotation/1538496019412
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1799,3122,691,171/150,/0/default.jpg
-label: peacock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1788,3272,388,173/150,/0/default.jpg
+label: pear
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0181'
+order: '0182'
 layout: index_item
 collection: index4
 ---

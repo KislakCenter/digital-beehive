@@ -3,7 +3,7 @@ pid: index_3800
 volume: Volume 3
 image_number: '44'
 head: sope
-entry: "<a href='/digital-beehive/toc/toc2_173/'>927 [Sope]</a>"
+entry: "<a href='/digital-beehive/num4/num_1233'>927 [Sope]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sope
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1048'
+order: '1049'
 layout: index_item
 collection: index4
 ---

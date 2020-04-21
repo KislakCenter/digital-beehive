@@ -1,9 +1,9 @@
 ---
 pid: index_3320
 volume: Volume 3
-image_number: '38'
-head: reconciliation universal
-entry: "<a href='/digital-beehive/num2/num_0455/'>379 [Reconciliatio universalis]</a>"
+image_number: '39'
+head: record
+entry: 843 [PAGE_MISSING]
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-93706d7fe"
+item: "#item-002f19043"
 unparsed: 
-line: 'Head: reconciliation universal|Entry: 379 [Reconciliato universalis]|#item-93706d7fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1826,3462,678,215/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462142147
+line: 'Head: record|Entry: 843 [PAGE_MISSING]|#item-002f19043'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558463166463
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1826,3462,678,215/150,/0/default.jpg
-label: reconciliation universal
-location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/150,/0/default.jpg
+label: record
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0568'
+order: '0569'
 layout: index_item
 collection: index4
 ---

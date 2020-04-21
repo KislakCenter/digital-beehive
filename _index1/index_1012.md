@@ -2,8 +2,9 @@
 pid: index_1012
 volume: Volume 3
 image_number: '16'
-head: departure
-entry: "<a href='/digital-beehive/toc/toc2_158/'>713 [Departure]</a>"
+head: deposition
+entry: "<a href='/digital-beehive/alpha1/alpha_0225/'>a</a>|<a href='/digital-beehive/toc/toc2_348/'>1816
+  [Degradation]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-429e35603"
+item: "#item-c6924489f"
 unparsed: 
-line: 'Head: departure|Entry: 713 [Departure]|#item-429e35603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1107,1000,548,116/full/0/default.jpg
+line: 'Head: deposition|Entry: a|Entry: 1816 [Degradation]|#item-c6924489f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604716217
+annotation_uri: http://dev.llgc.org.uk/annotation/1507922442048
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1107,1000,548,116/150,/0/default.jpg
-label: departure
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/150,/0/default.jpg
+label: deposition
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

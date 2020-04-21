@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0802/'>Revelling</a>|<a href='/dig
   of the eye</a>|<a href='/digital-beehive/alpha4/alpha_0712/'>Pleasure</a>|<a href='/digital-beehive/alpha5/alpha_1058/'>Worldly</a>|<a
   href='/digital-beehive/toc/toc2_211/'>1087 [Epicures]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1280/'>epicurism</a>"
+index: "<a href='/digital-beehive/index2/index_1279/'>epicurism</a>"
 item: "#item-42a12e4a4"
 unparsed: 
 line: 'Entry: Epicurism|Topic: Epicurism|Xref: Revelling|Xref: lust of the eye|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/367,45
 label: Epicurism
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '017'
 layout: alpha_item
 collection: alpha2

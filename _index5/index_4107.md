@@ -13,7 +13,7 @@ see: "<a href='/digital-beehive/index5/index_4128/'>thouing</a>"
 index: 
 item: "#item-d670cb381"
 unparsed: 
-line: 'Head: thee & thou|See: thouing|Entry: a|Entry: 1512 [Thee & thou]|#item-d670cb381'
+line: 'Head: thee & thou|See: thouing|Entry: 1512 [Thee & thou]|#item-d670cb381'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,774,744,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565294327005

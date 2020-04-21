@@ -2,8 +2,8 @@
 pid: index_3352
 volume: Volume 3
 image_number: '39'
-head: to remain
-entry: "<a href='/digital-beehive/toc/toc2_312/'>1590 [To Last]</a>"
+head: remark
+entry: "<a href='/digital-beehive/toc/toc2_288/'>1472 [Remarkably]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f52ebf05f"
+item: "#item-ecd8cc9bc"
 unparsed: 
-line: 'Head: to remain|Entry: 1590 [To Last]|#item-f52ebf05f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/784,246,609,204/full/0/default.jpg
+line: 'Head: remark|Entry: 1472 [Remarkably]|#item-ecd8cc9bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,388,609,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468797706
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468851053
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/784,246,609,204/150,/0/default.jpg
-label: to remain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/771,388,609,138/150,/0/default.jpg
+label: remark
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0600'
+order: '0601'
 layout: index_item
 collection: index4
 ---

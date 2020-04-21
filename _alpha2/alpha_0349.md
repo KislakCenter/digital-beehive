@@ -11,7 +11,7 @@ add:
 xref: familiarity|<a href='/digital-beehive/num1/num_0001/'>1 [Familiarity]</a>|<a
   href='/digital-beehive/num2/num_0531/'>429 [Friendship]</a>
 see: 
-index: "<a href='/digital-beehive/index2/index_1547/'>friendship</a>"
+index: "<a href='/digital-beehive/index2/index_1546/'>friendship</a>"
 item: "#item-5f9c379a0"
 unparsed: 
 line: 'Entry: Friendship|Topic: Friendship|Xref: familiarity|Xref: 1 [Familiarity]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/397,23
 label: Friendship
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '080'
 layout: alpha_item
 collection: alpha2

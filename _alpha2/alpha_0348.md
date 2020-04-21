@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_251/'>1288 [French]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1540/'>french</a>"
+index: "<a href='/digital-beehive/index2/index_1539/'>french</a>"
 item: "#item-a2c7ebd98"
 unparsed: 
 line: 'Entry: French|Topic: French|Xref: 1288 [French]|Index: french|#item-a2c7ebd98'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,21
 label: French
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '079'
 layout: alpha_item
 collection: alpha2

@@ -3,7 +3,8 @@ pid: index_4001
 volume: Volume 3
 image_number: '46'
 head: surity. sicher
-entry: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, Safety]</a>"
+entry: "<a href='/digital-beehive/num4/num_1204'>914 [Security, he that promises for
+  another]</a>"
 topic: 
 first_letter: S
 page: 
@@ -13,7 +14,7 @@ see:
 index: 
 item: "#item-83d2a8eb6"
 unparsed: 
-line: 'Head: surity. sicher|Entry: 914 [Security, Safety]|#item-83d2a8eb6'
+line: 'Head: surity. sicher|Entry: 914 [Security, he that promises for another]|#item-83d2a8eb6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/467,3108,640,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1531683828216
@@ -23,7 +24,7 @@ label: surity. sicher
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1249'
+order: '1250'
 layout: index_item
 collection: index4
 ---

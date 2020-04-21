@@ -2,8 +2,8 @@
 pid: index_1516
 volume: Volume 3
 image_number: '21'
-head: "[:19.]"
-entry: 
+head: forsake
+entry: 1856 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5e320c6fe"
-unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-line: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/full/0/default.jpg
+item: "#item-b0623eda3"
+unparsed: 
+line: 'Head: forsake|Entry: 1856 [PAGE_MISSING]|#item-b0623eda3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/169,3239,439,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782489609
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762532262
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/150,/0/default.jpg
-label: "[:19.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/169,3239,439,80/150,/0/default.jpg
+label: forsake
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4683/'><</a>"
-order: '334'
+insertion_xref: 
+order: '335'
 layout: index_item
 collection: index2
 ---

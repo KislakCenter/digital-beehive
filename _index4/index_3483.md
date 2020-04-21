@@ -3,7 +3,7 @@ pid: index_3483
 volume: Volume 3
 image_number: '40'
 head: saddle
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [a Saddle]</a>"
+entry: "<a href='/digital-beehive/num4/num_1095'>871 [a Saddle]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: saddle
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0731'
+order: '0732'
 layout: index_item
 collection: index4
 ---

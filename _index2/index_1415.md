@@ -2,8 +2,9 @@
 pid: index_1415
 volume: Volume 3
 image_number: '20'
-head: fathers
-entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
+head: fatness
+entry: "<a href='/digital-beehive/alpha2/alpha_0317/'>a</a>|<a href='/digital-beehive/num3/num_0863'>636
+  [Fatness]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-505e358ce"
+item: "#item-c93743a22"
 unparsed: 
-line: 'Head: fathers|Entry: 73 [Fathers]|#item-505e358ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,428,368,112/full/0/default.jpg
+line: 'Head: fatness|Entry: a|Entry: 636 [Fatness]|#item-c93743a22'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,548,460,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660864534
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661037674
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,428,368,112/150,/0/default.jpg
-label: fathers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,548,460,136/150,/0/default.jpg
+label: fatness
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '233'
+order: '234'
 layout: index_item
 collection: index2
 ---

@@ -3,7 +3,7 @@ pid: index_3938
 volume: Volume 3
 image_number: '45'
 head: stress
-entry: "<a href='/digital-beehive/toc/toc2_158/'>711 [Drift]</a>"
+entry: "<a href='/digital-beehive/num3/num_1036'>711 [Drift]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stress
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1186'
+order: '1187'
 layout: index_item
 collection: index4
 ---

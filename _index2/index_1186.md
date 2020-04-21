@@ -2,28 +2,28 @@
 pid: index_1186
 volume: Volume 3
 image_number: '18'
-head: earnest
-entry: 
+head: earnest money
+entry: "<a href='/digital-beehive/num3/num_0688'>546 [[WORD_MISSING]]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3642/'>serious</a>"
+see: 
 index: 
-item: "#item-54a9f818a"
+item: "#item-593ccc608"
 unparsed: 
-line: 'Head: earnest|See: serious|#item-54a9f818a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,2125,576,131/full/0/default.jpg
+line: 'Head: earnest money|Entry: 546 [WORD_ILLEGIBLE]|#item-593ccc608'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666838813
+annotation_uri: http://dev.llgc.org.uk/annotation/1559666986380
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,2125,576,131/150,/0/default.jpg
-label: earnest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/424,2227,483,95/150,/0/default.jpg
+label: earnest money
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '004'
+order: '005'
 layout: index_item
 collection: index2
 ---

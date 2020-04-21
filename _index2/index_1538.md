@@ -2,9 +2,8 @@
 pid: index_1538
 volume: Volume 3
 image_number: '21'
-head: free will
-entry: "<a href='/digital-beehive/alpha2/alpha_0347/'>a</a>|<a href='/digital-beehive/toc/toc2_204/'>1052
-  [Free Will]</a>|<a href='/digital-beehive/toc/toc2_404/'>2307 [Free Will]</a>"
+head: free thinkers
+entry: 4725 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-aa1c8b6c8"
+item: "#item-bb7a3e6c2"
 unparsed: 
-line: 'Head: free will|Entry: a|Entry: 1052 [Free Will]|Entry: 2307 [Free Will]|#item-aa1c8b6c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/857,1913,733,131/full/0/default.jpg
+line: 'Head: free thinkers|Entry: 4725 [PAGE_MISSING]|#item-bb7a3e6c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/872,1970,596,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623019252
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783132945
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/857,1913,733,131/150,/0/default.jpg
-label: free will
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/872,1970,596,109/150,/0/default.jpg
+label: free thinkers
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '356'
+order: '357'
 layout: index_item
 collection: index2
 ---

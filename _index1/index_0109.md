@@ -3,7 +3,7 @@ pid: index_0109
 volume: Volume 3
 image_number: '7'
 head: alms
-entry: "<a href='/digital-beehive/alpha1/alpha_0022/'>a</a>|<a href='/digital-beehive/toc/toc2_125/'>528
+entry: "<a href='/digital-beehive/alpha1/alpha_0022/'>a</a>|<a href='/digital-beehive/num3/num_0662'>528
   [Alms]</a>|<a href='/digital-beehive/toc/toc2_286/'>1461 [Alms]</a>|<a href='/digital-beehive/toc/toc2_338/'>1732
   [Alms]</a>"
 topic: 

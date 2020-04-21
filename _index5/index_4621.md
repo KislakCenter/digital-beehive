@@ -3,7 +3,7 @@ pid: index_4621
 volume: Volume 3
 image_number: '53'
 head: wormwood
-entry: "<a href='/digital-beehive/toc/toc2_154/'>693 [Wormwood]</a>"
+entry: "<a href='/digital-beehive/num3/num_0993'>693 [Wormwood]</a>"
 topic: 
 first_letter: W
 page: 

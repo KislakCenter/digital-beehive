@@ -8,7 +8,7 @@ topic: Bell
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_165/'>888 [Bell]</a>"
+xref: "<a href='/digital-beehive/num4/num_1142'>888 [Bell]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0348/'>bells</a>"
 item: "#item-c367931ce"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/864,25
 label: Bell
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '075'
 layout: alpha_item
 collection: alpha1

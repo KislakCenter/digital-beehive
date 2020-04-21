@@ -3,7 +3,7 @@ pid: index_4214
 volume: Volume 3
 image_number: '48'
 head: tranquillity
-entry: "<a href='/digital-beehive/toc/toc2_138/'>603 [Tranquillity]</a>"
+entry: "<a href='/digital-beehive/num3/num_0793'>603 [Tranquillity]</a>"
 topic: 
 first_letter: T
 page: 

@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '11'
 head: brevity
 entry: "<a href='/digital-beehive/alpha1/alpha_0098/'>a</a>|<a href='/digital-beehive/num2/num_0452/'>374
-  [Brevity]</a>|<a href='/digital-beehive/toc/toc2_174/'>932 [Brevity]</a>|<a href='/digital-beehive/toc/toc2_260/'>1335
+  [Brevity]</a>|<a href='/digital-beehive/num4/num_1243'>932 [Brevity]</a>|<a href='/digital-beehive/toc/toc2_260/'>1335
   [Brevity]</a>|<a href='/digital-beehive/toc/toc2_369/'>2031 [Brevity]</a>"
 topic: 
 first_letter: B

@@ -2,9 +2,8 @@
 pid: index_1950
 volume: Volume 3
 image_number: '25'
-head: ignorance
-entry: "<a href='/digital-beehive/alpha3/alpha_0453/'>a</a>|<a href='/digital-beehive/toc/toc2_145/'>642
-  [Ignorance]</a>|<a href='/digital-beehive/toc/toc2_346/'>1798 [the Ignorance]</a>"
+head: jilts
+entry: 4789 [PAGE_MISSING]
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-37c331d05"
+item: "#item-f3d2719c9"
 unparsed: 
-line: 'Head: ignorance|Entry: a|Entry: 642 [Ignorance]|Entry: 1798 [the Ignorance]|#item-37c331d05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/152,3102,712,139/full/0/default.jpg
+line: 'Head: jilts|Entry: 4789 [PAGE_MISSING]|#item-f3d2719c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3168,344,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559662338880
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662385859
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/152,3102,712,139/150,/0/default.jpg
-label: ignorance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/158,3168,344,122/150,/0/default.jpg
+label: jilts
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '031'
+order: '032'
 layout: index_item
 collection: index3
 ---

@@ -2,8 +2,8 @@
 pid: index_1190
 volume: Volume 3
 image_number: '18'
-head: earthquake
-entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>"
+head: earthenware
+entry: 4625 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-632447253"
+item: "#item-745b7eead"
 unparsed: 
-line: 'Head: earthquake|Entry: a|#item-632447253'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,2456,394,105/full/0/default.jpg
+line: 'Head: earthenware|Entry: 4625 [PAGE_MISSING]|#item-745b7eead'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667281610
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667379481
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,2456,394,105/150,/0/default.jpg
-label: earthquake
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/150,/0/default.jpg
+label: earthenware
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '008'
+order: '009'
 layout: index_item
 collection: index2
 ---

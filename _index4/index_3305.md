@@ -2,28 +2,29 @@
 pid: index_3305
 volume: Volume 3
 image_number: '38'
-head: readiness
-entry: "<a href='/digital-beehive/toc/toc2_127/'>541 [WORD_MISSING]</a>"
+head: reading
+entry: "<a href='/digital-beehive/alpha4/alpha_0775/'>a</a>|<a href='/digital-beehive/toc/toc2_212/'>1091
+  [Reading]</a>"
 topic: 
 first_letter: R
 page: 
-add: 
+add: "<a href='/digital-beehive/index5/index_4299/'>various</a>"
 xref: 
 see: 
 index: 
-item: "#item-4e56a0208"
+item: "#item-f84b40f45"
 unparsed: 
-line: 'Head: readiness|Entry: 541 [WORD_MISSING]|#item-4e56a0208'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1840,1667,445,163/full/0/default.jpg
+line: 'Head: reading|Entry: a|Entry: 1091 [Reading]|Add: various|#item-f84b40f45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461185240
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461304691
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1840,1667,445,163/150,/0/default.jpg
-label: readiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1837,1824,540,118/150,/0/default.jpg
+label: reading
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0553'
+order: '0554'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Example</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1960/'>imitation</a>"
+index: "<a href='/digital-beehive/index3/index_1959/'>imitation</a>"
 item: "#item-4bce0df37"
 unparsed: 
 line: 'Entry: Imitation|Topic: Imitation|Xref: Example|Index: imitation|#item-4bce0df37'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/378,46
 label: Imitation
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '014'
 layout: alpha_item
 collection: alpha3

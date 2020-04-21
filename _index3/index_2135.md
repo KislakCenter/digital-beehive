@@ -2,29 +2,29 @@
 pid: index_2135
 volume: Volume 3
 image_number: '27'
-head: judgmt of God
-entry: "<a href='/digital-beehive/alpha3/alpha_0495/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1742
-  [Judgmt of God]</a>"
+head: juggling
+entry: "<a href='/digital-beehive/num2/num_0522/'>422 [Juggling]</a>|<a href='/digital-beehive/toc/toc2_304/'>1547
+  [Juggling]</a>"
 topic: 
 first_letter: I/J
 page: 
-add: last day
+add: 
 xref: 
 see: 
 index: 
-item: "#item-b35bec0d7"
+item: "#item-fff2e8bd4"
 unparsed: 
-line: 'Head: judgmt of God|Entry: a|Entry: 1742 [Judgmt of God]|Add: last day|#item-b35bec0d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/143,1909,595,173/full/0/default.jpg
+line: 'Head: juggling|Entry: 422 [Juggling]|Entry: 1547 [Juggling]|#item-fff2e8bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758255820
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758370568
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/143,1909,595,173/150,/0/default.jpg
-label: judgmt of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/140,2043,582,150/150,/0/default.jpg
+label: juggling
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '216'
+order: '217'
 layout: index_item
 collection: index3
 ---

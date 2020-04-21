@@ -2,9 +2,9 @@
 pid: index_3113
 volume: Volume 3
 image_number: '36'
-head: book prayers
-entry: "<a href='/digital-beehive/alpha4/alpha_0724/'>a</a>|<a href='/digital-beehive/num2/num_0284/'>259
-  [Book Prayers]</a>|<a href='/digital-beehive/toc/toc2_331/'>1684 [Prayer Books]</a>"
+head: preaching
+entry: "<a href='/digital-beehive/alpha4/alpha_0725/'>a</a>|<a href='/digital-beehive/num3/num_0644'>512
+  [Preaching]</a>|<a href='/digital-beehive/toc/toc2_361/'>1967 [Preaching]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5495f7beb"
+item: "#item-b38545441"
 unparsed: 
-line: 'Head: book prayers|Entry: a|Entry: 259 [Book Prayers]|Entry: 1684 [Prayer Books]|#item-5495f7beb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1877,1361,662,117/full/0/default.jpg
+line: 'Head: preaching|Entry: a|Entry: 512 [Preaching]|Entry: 1967 [Preaching]|#item-b38545441'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1884,1456,685,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440176515
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440217986
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1877,1361,662,117/150,/0/default.jpg
-label: book prayers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1884,1456,685,139/150,/0/default.jpg
+label: preaching
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0361'
+order: '0362'
 layout: index_item
 collection: index4
 ---

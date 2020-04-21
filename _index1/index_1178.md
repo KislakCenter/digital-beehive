@@ -2,8 +2,8 @@
 pid: index_1178
 volume: Volume 3
 image_number: '18'
-head: dwarf
-entry: "<a href='/digital-beehive/alpha1/alpha_0268/'>a</a>"
+head: to dwell
+entry: "<a href='/digital-beehive/toc/toc2_283/'>1446 [To Dwell]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f499c6c6e"
+item: "#item-6f049f2d7"
 unparsed: 
-line: 'Head: dwarf|Entry: a|#item-f499c6c6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/432,1275,320,116/full/0/default.jpg
+line: 'Head: to dwell|Entry: 1446 [To Dwell]|#item-6f049f2d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559664825717
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664921533
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/432,1275,320,116/150,/0/default.jpg
-label: dwarf
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/426,1365,486,116/150,/0/default.jpg
+label: to dwell
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 

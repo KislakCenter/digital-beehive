@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_376/'>2102 [Cold]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0718/'>cold</a>"
+index: "<a href='/digital-beehive/index1/index_0717/'>cold</a>"
 item: "#item-052029731"
 unparsed: 
 line: 'Entry: Cold|Topic: Cold|Index: cold|Xref: 2102 [Cold]|#item-052029731'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/859,32
 label: Cold
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '151'
 layout: alpha_item
 collection: alpha1

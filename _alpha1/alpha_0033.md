@@ -8,7 +8,7 @@ topic: AntiChrist
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/digital-beehive/toc/toc2_168/'>905
+xref: "<a href='/digital-beehive/alpha1/alpha_0051/'>Babylon</a>|<a href='/digital-beehive/num4/num_1175'>905
   [AntiChrist]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0156/'>antiChrist</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/298,27
 label: AntiChrist
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '032'
 layout: alpha_item
 collection: alpha1

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0608/'>mortality</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2586/'>mortality</a>"
+index: "<a href='/digital-beehive/index3/index_2585/'>mortality</a>"
 item: "#item-8eac5dd03"
 unparsed: 
 line: 'Entry: Mortality, continued|Topic: Mortality, continued|Xref: mortality|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/710,18
 label: Mortality, continued
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '165'
 layout: alpha_item
 collection: alpha3

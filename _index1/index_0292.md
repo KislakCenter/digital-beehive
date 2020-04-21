@@ -3,7 +3,7 @@ pid: index_0292
 volume: Volume 3
 image_number: '9'
 head: barber Surgeon
-entry: "<a href='/digital-beehive/alpha1/alpha_0060/'>a</a>|<a href='/digital-beehive/toc/toc2_171/'>917
+entry: "<a href='/digital-beehive/alpha1/alpha_0060/'>a</a>|<a href='/digital-beehive/num4/num_1213'>917
   [Surgery]</a>"
 topic: 
 first_letter: B

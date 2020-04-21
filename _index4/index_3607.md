@@ -23,7 +23,7 @@ label: Self condemned
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0855'
+order: '0856'
 layout: index_item
 collection: index4
 ---

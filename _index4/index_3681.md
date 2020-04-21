@@ -24,7 +24,7 @@ label: shoe
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0929'
+order: '0930'
 layout: index_item
 collection: index4
 ---

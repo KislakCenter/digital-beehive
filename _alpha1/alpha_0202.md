@@ -10,7 +10,7 @@ page:
 add: 
 xref: Jailer
 see: 
-index: "<a href='/digital-beehive/index1/index_0933/'>custody</a>"
+index: "<a href='/digital-beehive/index1/index_0931/'>custody</a>"
 item: "#item-467fa12a2"
 unparsed: 
 line: 'Entry: Custody|Topic: Custody|Xref: Jailer|Index: custody|#item-467fa12a2'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/355,11
 label: Custody
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 issue: 
-order: '201'
+also_in_entry: 
+order: '200'
 layout: alpha_item
 collection: alpha1
 ---

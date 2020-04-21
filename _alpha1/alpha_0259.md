@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1133/'>dormouse</a>"
+index: "<a href='/digital-beehive/index1/index_1132/'>dormouse</a>"
 item: "#item-53af5e652"
 unparsed: 
 line: 'Entry: Dormouse|Topic: Dormouse|Index: dormouse|#item-53af5e652'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/443,34
 label: Dormouse
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '258'
+also_in_entry: 
+order: '257'
 layout: alpha_item
 collection: alpha1
 ---

@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/425,47
 label: Beast
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '067'
 layout: alpha_item
 collection: alpha1

@@ -2,9 +2,8 @@
 pid: index_1798
 volume: Volume 3
 image_number: '23'
-head: help
-entry: "<a href='/digital-beehive/alpha2/alpha_0411/'>a</a>|<a href='/digital-beehive/toc/toc2_241/'>1240
-  [Help]</a>|<a href='/digital-beehive/toc/toc2_393/'>2249 [Help]</a>"
+head: hem
+entry: 749 [PAGE_MISSING]|4609 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a615b0606"
+item: "#item-df2937853"
 unparsed: 
-line: 'Head: help|Entry: a|Entry: 1240 [Help]|Entry: 2249 [Help]|#item-a615b0606'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1522,2410,581,138/full/0/default.jpg
+line: 'Head: hem|Entry: 749 [PAGE_MISSING]|Entry: 4609 [PAGE_MISSING]|#item-df2937853'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2512,337,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571431397
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571502651
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1522,2410,581,138/150,/0/default.jpg
-label: help
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2512,337,145/150,/0/default.jpg
+label: hem
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '615'
+order: '616'
 layout: index_item
 collection: index2
 ---

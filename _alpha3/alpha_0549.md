@@ -10,7 +10,7 @@ page:
 add: 
 xref: Stare|<a href='/digital-beehive/toc/toc2_280/'>1433 [To Look]</a>
 see: 
-index: "<a href='/digital-beehive/index3/index_2326/'>to look</a>"
+index: "<a href='/digital-beehive/index3/index_2325/'>to look</a>"
 item: "#item-afb09bfa4"
 unparsed: 
 line: 'Entry: To Look|Topic: To Look|Xref: Stare |Xref: 1433 [To Look]|Index: to look|#item-afb09bfa4'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,84
 label: To Look
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: The point of reference for "Stare" is unclear.
+also_in_entry: 
 order: '105'
 layout: alpha_item
 collection: alpha3

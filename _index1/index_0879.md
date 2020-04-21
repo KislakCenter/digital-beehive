@@ -2,8 +2,9 @@
 pid: index_0879
 volume: Volume 3
 image_number: '15'
-head: native Country
-entry: "<a href='/digital-beehive/alpha1/alpha_0184/'>a</a>"
+head: couple
+entry: "<a href='/digital-beehive/num1/num_0195/'>187 [Two]</a>|<a href='/digital-beehive/num2/num_0381/'>332
+  [Two]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ae1379b05"
+item: "#item-304f06720"
 unparsed: 
-line: 'Head: native Country|Entry: a|#item-ae1379b05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/142,2081,651,132/full/0/default.jpg
+line: 'Head: couple|Entry: 187 [Two]|Entry: 332 [Two]|#item-304f06720'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/154,2196,483,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974679002
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974712276
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/142,2081,651,132/150,/0/default.jpg
-label: native Country
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/154,2196,483,105/150,/0/default.jpg
+label: couple
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

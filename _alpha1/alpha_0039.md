@@ -9,7 +9,7 @@ first_letter: A
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0023/'>Ambassage</a>|<a href='/digital-beehive/num2/num_0376/'>328
-  [Peter]</a>|<a href='/digital-beehive/toc/toc2_177/'>947 [Apostle]</a>"
+  [Peter]</a>|<a href='/digital-beehive/num4/num_1264'>947 [Apostle]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0170/'>apostle</a>"
 item: "#item-a70633592"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/377,45
 label: Apostle
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '038'
 layout: alpha_item
 collection: alpha1

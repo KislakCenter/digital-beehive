@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0762/'>Purpose</a>|<a href='/digital-beehive/toc/toc2_215/'>1109
   [Intention]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2074/'>intention</a>"
+index: "<a href='/digital-beehive/index3/index_2073/'>intention</a>"
 item: "#item-cfea063e5"
 unparsed: 
 line: 'Entry: Intention|Topic: Intention|Xref: Purpose|Xref: 1109 [Intention]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/724,72
 label: Intention
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '039'
 layout: alpha_item
 collection: alpha3

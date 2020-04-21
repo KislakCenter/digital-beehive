@@ -8,7 +8,7 @@ topic: Articles of faith
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
+xref: "<a href='/digital-beehive/num3/num_0745'>581 [Articles of faith]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0215/'>articles of faith</a>"
 item: "#item-4a2192656"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/798,20
 label: Articles of faith
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '045'
 layout: alpha_item
 collection: alpha1

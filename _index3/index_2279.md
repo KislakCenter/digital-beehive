@@ -2,8 +2,8 @@
 pid: index_2279
 volume: Volume 3
 image_number: '28'
-head: licentiousness
-entry: "<a href='/digital-beehive/toc/toc2_131/'>565 [too much liberty]</a>"
+head: Lidford law
+entry: "<a href='/digital-beehive/num4/num_1281'>961 [Too hasty]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-25e4137ee"
+item: "#item-85f1f92fb"
 unparsed: 
-line: 'Head: licentiousness|Entry: 565 [too much liberty]|#item-25e4137ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1111,2420,585,120/full/0/default.jpg
+line: 'Head: Lidford law|Entry: 961 [Too hasty]|#item-85f1f92fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1088,2476,570,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846310155
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846395394
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1111,2420,585,120/150,/0/default.jpg
-label: licentiousness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1088,2476,570,154/150,/0/default.jpg
+label: Lidford law
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '360'
+order: '361'
 layout: index_item
 collection: index3
 ---

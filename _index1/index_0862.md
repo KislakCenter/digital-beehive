@@ -2,8 +2,8 @@
 pid: index_0862
 volume: Volume 3
 image_number: '15'
-head: corrupted
-entry: "<a href='/digital-beehive/toc/toc2_135/'>587 [Corrupted]</a>"
+head: corruption. Eijter
+entry: "<a href='/digital-beehive/num3/num_0758'>587 [Corruption & Matter, Eijter]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b69d2c115"
+item: "#item-5d9331413"
 unparsed: 
-line: 'Head: corrupted|Entry: 587 [Corrupted]|#item-b69d2c115'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/160,274,560,149/full/0/default.jpg
+line: 'Head: corruption. Eijter|Entry: 587 [Corruption & Matter, Eijter]|#item-5d9331413'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/156,377,726,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537973858507
+annotation_uri: http://dev.llgc.org.uk/annotation/1537973925746
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/160,274,560,149/150,/0/default.jpg
-label: corrupted
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/156,377,726,171/150,/0/default.jpg
+label: corruption. Eijter
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

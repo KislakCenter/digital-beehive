@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_252/'>1293 [Paris]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2883/'>Paris</a>"
+index: "<a href='/digital-beehive/index4/index_2882/'>Paris</a>"
 item: "#item-379a4ca51"
 unparsed: 
 line: 'Entry: Paris|Topic: Paris|Xref: 1293 [Paris]|Index: Paris|#item-379a4ca51'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/756,39
 label: Paris
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '031'
 layout: alpha_item
 collection: alpha4

@@ -23,7 +23,7 @@ label: stories
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1165'
+order: '1166'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0339/'>forbidden things</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3184/'>prohibition</a>"
+index: "<a href='/digital-beehive/index4/index_3183/'>prohibition</a>"
 item: "#item-2d7698387"
 unparsed: 
 line: 'Entry: Prohibition|Topic: Prohibition|Xref: forbidden things|Index: prohibition|#item-2d7698387'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,34
 label: Prohibition
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '096'
 layout: alpha_item
 collection: alpha4

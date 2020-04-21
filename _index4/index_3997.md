@@ -3,7 +3,7 @@ pid: index_3997
 volume: Volume 3
 image_number: '46'
 head: surfeits
-entry: "<a href='/digital-beehive/toc/toc2_136/'>597 [Surfeits]</a>"
+entry: "<a href='/digital-beehive/num3/num_0778'>597 [Surfeits]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: surfeits
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1245'
+order: '1246'
 layout: index_item
 collection: index4
 ---

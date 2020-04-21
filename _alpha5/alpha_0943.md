@@ -11,10 +11,10 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0942/'>Temptation</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4085/'>temptation</a>"
-item: 
+item: "#item-2b6eb82d1"
 unparsed: 
 line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptation|Index:
-  temptation'
+  temptation|#item-2b6eb82d1'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/752,194,3061,216/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1573246855240
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/752,19
 label: Temptation, continued
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '008'
+also_in_entry: 
+order: '009'
 layout: alpha_item
 collection: alpha5
 ---

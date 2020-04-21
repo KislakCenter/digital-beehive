@@ -8,7 +8,7 @@ topic: Unworthy
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>Worthiness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>Worthiness</a>|<a href='/digital-beehive/num4/num_1245'>933
   [Unworthy]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4426/'>unworthy</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/328,56
 label: Unworthy
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 issue: 
-order: '077'
+also_in_entry: 
+order: '078'
 layout: alpha_item
 collection: alpha5
 ---

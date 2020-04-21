@@ -2,9 +2,8 @@
 pid: index_2232
 volume: Volume 3
 image_number: '28'
-head: leader
-entry: "<a href='/digital-beehive/alpha3/alpha_0524/'>a</a>|<a href='/digital-beehive/toc/toc2_249/'>1280
-  [Leader]</a>"
+head: leaf
+entry: "<a href='/digital-beehive/toc/toc2_202/'>1044 [Books]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0eaf4d2ab"
+item: "#item-0ba291921"
 unparsed: 
-line: 'Head: leader|Entry: a|Entry: 1280 [Leader]|#item-0eaf4d2ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/407,1197,517,104/full/0/default.jpg
+line: 'Head: leaf|Entry: 1044 [Books]|#item-0ba291921'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,1295,381,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841845723
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841923531
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/407,1197,517,104/150,/0/default.jpg
-label: leader
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/406,1295,381,156/150,/0/default.jpg
+label: leaf
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '313'
+order: '314'
 layout: index_item
 collection: index3
 ---

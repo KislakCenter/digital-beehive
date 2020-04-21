@@ -2,8 +2,8 @@
 pid: index_2980
 volume: Volume 3
 image_number: '35'
-head: phanatick
-entry: "<a href='/digital-beehive/toc/toc2_140/'>616 [Fanatick]</a>"
+head: pharisees
+entry: "<a href='/digital-beehive/num2/num_0367/'>319 [Pharisees]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b5955eb3c"
+item: "#item-fb67585ec"
 unparsed: 
-line: 'Head: phanatick|Entry: 616 [Fanatick]|#item-b5955eb3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/838,1837,577,195/full/0/default.jpg
+line: 'Head: pharisees|Entry: 319 [Pharisees]|#item-fb67585ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/859,1981,437,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974497485
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974525459
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/838,1837,577,195/150,/0/default.jpg
-label: phanatick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/859,1981,437,158/150,/0/default.jpg
+label: pharisees
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0228'
+order: '0229'
 layout: index_item
 collection: index4
 ---

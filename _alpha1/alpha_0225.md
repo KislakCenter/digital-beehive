@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_348/'>1816 [Degradation]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1013/'>deposition</a>"
+index: "<a href='/digital-beehive/index1/index_1012/'>deposition</a>"
 item: "#item-8a9cd5a04"
 unparsed: 
 line: 'Entry: Deposition|Topic: Deposition|Xref: 1816 [Degradation]|Index: deposition|#item-8a9cd5a04'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/395,13
 label: Deposition
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '224'
+also_in_entry: 
+order: '223'
 layout: alpha_item
 collection: alpha1
 ---

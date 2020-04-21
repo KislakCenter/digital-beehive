@@ -2,8 +2,9 @@
 pid: index_2411
 volume: Volume 3
 image_number: '29'
-head: manstealing
-entry: "<a href='/digital-beehive/toc/toc2_137/'>600 [Manstealing]</a>"
+head: manage
+entry: "<a href='/digital-beehive/num1/num_0161/'>155 [Use]</a>|<a href='/digital-beehive/toc/toc2_307/'>1561
+  [Manage]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7564d5b3c"
+item: "#item-2a28c435c"
 unparsed: 
-line: 'Head: manstealing|Entry: 600 [Manstealing]|#item-7564d5b3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,2092,565,144/full/0/default.jpg
+line: 'Head: manage|Entry: 155 [Use]|Entry: 1561 [Manage]|#item-2a28c435c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1522,2216,605,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195802411
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195923807
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,2092,565,144/150,/0/default.jpg
-label: manstealing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1522,2216,605,173/150,/0/default.jpg
+label: manage
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '492'
+order: '493'
 layout: index_item
 collection: index3
 ---

@@ -2,9 +2,8 @@
 pid: index_2870
 volume: Volume 3
 image_number: '34'
-head: papists
-entry: "<a href='/digital-beehive/num2/num_0493/'>403 [Papists]</a>|<a href='/digital-beehive/toc/toc2_328/'>1668
-  [Papists]</a>|<a href='/digital-beehive/toc/toc2_349/'>1821 [Papists]</a>"
+head: papists cruelty
+entry: "<a href='/digital-beehive/num3/num_0646'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-31e104bfe"
+item: "#item-4172485ff"
 unparsed: 
-line: 'Head: papists|Entry: 403 [Papists]|Entry: 1668 [Papists]|Entry: 1821 [Papists]|#item-31e104bfe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1161,638,743,199/full/0/default.jpg
+line: 'Head: papists cruelty|Entry: 514 [Cruelty]|Entry: 4634 [PAGE_MISSING]|#item-4172485ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1167,758,736,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492514004
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492678550
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1161,638,743,199/150,/0/default.jpg
-label: papists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1167,758,736,145/150,/0/default.jpg
+label: papists cruelty
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0118'
+order: '0119'
 layout: index_item
 collection: index4
 ---

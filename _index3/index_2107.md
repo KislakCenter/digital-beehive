@@ -2,8 +2,8 @@
 pid: index_2107
 volume: Volume 3
 image_number: '26'
-head: Jonas
-entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [Jonas]</a>"
+head: Jonathan
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Jonathan]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ece687b78"
+item: "#item-791e107c2"
 unparsed: 
-line: 'Head: Jonas|Entry: 891 [Jonas]|#item-ece687b78'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1843,2593,353,126/full/0/default.jpg
+line: 'Head: Jonathan|Entry: 1615 [Jonathan]|#item-791e107c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,2678,447,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754254794
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754347042
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1843,2593,353,126/150,/0/default.jpg
-label: Jonas
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,2678,447,132/150,/0/default.jpg
+label: Jonathan
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '188'
+order: '189'
 layout: index_item
 collection: index3
 ---

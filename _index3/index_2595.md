@@ -2,28 +2,28 @@
 pid: index_2595
 volume: Volume 3
 image_number: '31'
-head: moth
-entry: "<a href='/digital-beehive/toc/toc2_313/'>1591 [Moth]</a>"
+head: mother
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2880/'>parents</a>"
 index: 
-item: "#item-e8be112e7"
+item: "#item-c27d57ba5"
 unparsed: 
-line: 'Head: moth|Entry: 1591 [Moth]|#item-e8be112e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/856,3148,373,106/full/0/default.jpg
+line: 'Head: mother|See: parents|#item-c27d57ba5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/835,3198,551,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356859853
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356878130
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/856,3148,373,106/150,/0/default.jpg
-label: moth
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/835,3198,551,126/150,/0/default.jpg
+label: mother
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '676'
+order: '677'
 layout: index_item
 collection: index3
 ---

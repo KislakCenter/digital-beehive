@@ -3,7 +3,7 @@ pid: index_3875
 volume: Volume 3
 image_number: '44'
 head: stam[m]ering
-entry: "<a href='/digital-beehive/toc/toc2_160/'>722 [Stammering]</a>"
+entry: "<a href='/digital-beehive/num3/num_1068'>722 [Stammering]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stam[m]ering
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1123'
+order: '1124'
 layout: index_item
 collection: index4
 ---

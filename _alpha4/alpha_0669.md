@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2848/'>owl</a>"
+index: "<a href='/digital-beehive/index4/index_2847/'>owl</a>"
 item: "#item-f52535d0e"
 unparsed: 
 line: 'Entry: Owl|Topic: Owl|Index: owl|#item-f52535d0e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/806,14
 label: Owl
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '022'
 layout: alpha_item
 collection: alpha4

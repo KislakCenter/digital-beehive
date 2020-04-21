@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
   href='/digital-beehive/toc/toc2_421/'>2440 [To Teach]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1124/'>doctrine</a>"
+index: "<a href='/digital-beehive/index1/index_1123/'>doctrine</a>"
 item: "#item-664bc12aee"
 unparsed: 
 line: 'Entry: Doctrine|Topic: Doctrine|Xref: Catechism|Xref: Learning|Xref: 2440 [To
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/346,22
 label: Doctrine
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '255'
+also_in_entry: 
+order: '254'
 layout: alpha_item
 collection: alpha1
 ---

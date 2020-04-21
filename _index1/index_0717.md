@@ -2,8 +2,9 @@
 pid: index_0717
 volume: Volume 3
 image_number: '13'
-head: cokonuts
-entry: "<a href='/digital-beehive/toc/toc2_297/'>1514 [Barbada or Barbuda]</a>"
+head: cold
+entry: "<a href='/digital-beehive/alpha1/alpha_0152/'>a</a>|<a href='/digital-beehive/toc/toc2_376/'>2102
+  [Cold]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9f5ea84e5"
+item: "#item-37d4975c6"
 unparsed: 
-line: 'Head: cokonuts|Entry: 1514 [Barbada or Barbuda]|#item-9f5ea84e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/845,3183,452,126/full/0/default.jpg
+line: 'Head: cold|Entry: a|Entry: 2102 [Cold]|#item-37d4975c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/847,3310,407,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609025504
+annotation_uri: http://dev.llgc.org.uk/annotation/1536609106583
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/845,3183,452,126/150,/0/default.jpg
-label: cokonuts
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/847,3310,407,126/150,/0/default.jpg
+label: cold
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

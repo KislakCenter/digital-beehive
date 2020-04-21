@@ -3,7 +3,7 @@ pid: index_3992
 volume: Volume 3
 image_number: '46'
 head: supply
-entry: "<a href='/digital-beehive/toc/toc2_151/'>677 [Supplying]</a>"
+entry: "<a href='/digital-beehive/num3/num_0946'>677 [Supplying]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: supply
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1240'
+order: '1241'
 layout: index_item
 collection: index4
 ---

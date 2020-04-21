@@ -2,24 +2,24 @@
 pid: index_0739
 volume: Volume 3
 image_number: '13'
-head: to com[m]end
-entry: 
+head: com[m]entary
+entry: "<a href='/digital-beehive/num1/num_0125/'>121 [Gloss]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3317/'>recom[m]enda[ti]on</a>"
+see: 
 index: 
-item: "#item-107b6ac4d"
+item: "#item-d9567a820"
 unparsed: 
-line: 'Head: to com[m]end|See: recom[m]enda[ti]on|#item-107b6ac4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1541,1939,757,170/full/0/default.jpg
+line: 'Head: com[m]entary|Entry: 121 [Gloss]|#item-d9567a820'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1528,2103,545,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611418347
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611504272
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1541,1939,757,170/150,/0/default.jpg
-label: to com[m]end
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1528,2103,545,138/150,/0/default.jpg
+label: com[m]entary
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

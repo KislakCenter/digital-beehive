@@ -2,9 +2,8 @@
 pid: index_1518
 volume: Volume 3
 image_number: '21'
-head: forsake all
-entry: "<a href='/digital-beehive/toc/toc2_175/'>938 [Forsake all for Christ's sake]</a>|<a
-  href='/digital-beehive/toc/toc2_369/'>2035 [Forsake]</a>"
+head: forsake sins
+entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-470136d89"
+item: "#item-0ba0c657c"
 unparsed: 
-line: 'Head: forsake all|Entry: 938 [Forsake all for Christ''s sake]|Entry: 2035 [Forsake]|#item-470136d89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/full/0/default.jpg
+line: 'Head: forsake sins|Entry: 1700 [Inheritance]|#item-0ba0c657c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622708493
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762696082
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/166,3271,595,151/150,/0/default.jpg
-label: forsake all
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/150,/0/default.jpg
+label: forsake sins
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: It is unclear if "all" is part of this entry, the following entry, or both.
+issue: 
 insertion_xref: 
-order: '336'
+order: '337'
 layout: index_item
 collection: index2
 ---

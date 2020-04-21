@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4522 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2607/'>mouth</a>"
+index: "<a href='/digital-beehive/index3/index_2606/'>mouth</a>"
 item: "#item-b57b2b898"
 unparsed: 
 line: 'Entry: Mouth|Topic: Mouth|Xref: 4522 [PAGE_MISSING]|Index: mouth|#item-b57b2b898'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/728,24
 label: Mouth
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '172'
 layout: alpha_item
 collection: alpha3

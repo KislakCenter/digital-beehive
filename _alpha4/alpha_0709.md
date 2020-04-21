@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0779/'>Reconcilemt</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3026/'>placable</a>"
+index: "<a href='/digital-beehive/index4/index_3025/'>placable</a>"
 item: "#item-787530525"
 unparsed: 
 line: 'Entry: Placableness|Topic: Placableness|Xref: Reconcilemt|Index: placable|#item-787530525'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/855,42
 label: Placableness
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '062'
 layout: alpha_item
 collection: alpha4

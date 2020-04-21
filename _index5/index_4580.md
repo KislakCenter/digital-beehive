@@ -3,7 +3,7 @@ pid: index_4580
 volume: Volume 3
 image_number: '53'
 head: without
-entry: "<a href='/digital-beehive/toc/toc2_153/'>687 [Without]</a>"
+entry: "<a href='/digital-beehive/num3/num_0979'>687 [Without]</a>"
 topic: 
 first_letter: W
 page: 

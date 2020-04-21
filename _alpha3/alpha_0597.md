@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_267/'>1370 [Misery]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2538/'>misery</a>"
+index: "<a href='/digital-beehive/index3/index_2537/'>misery</a>"
 item: "#item-5576e0e37"
 unparsed: 
 line: 'Entry: Misery|Topic: Misery|Xref: 1370 [Misery]|Index: misery|#item-5576e0e37'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/358,14
 label: Misery
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '153'
 layout: alpha_item
 collection: alpha3

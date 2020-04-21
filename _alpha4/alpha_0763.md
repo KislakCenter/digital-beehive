@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0146/'>Christianity</a>|<a href='/
   href='/digital-beehive/toc/toc2_204/'>1053 [Objections of the Quakers answered]</a>|<a
   href='/digital-beehive/num1/num_0225/'>214 [Quakers]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3246/'>Quakers</a>"
+index: "<a href='/digital-beehive/index4/index_3245/'>Quakers</a>"
 item: "#item-6908449d1"
 unparsed: 
 line: 'Entry: Quaker|Topic: Quaker|Xref: Christianity|Xref: Saints|Xref: 1053 [Objections
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,11
 label: Quaker
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '116'
 layout: alpha_item
 collection: alpha4

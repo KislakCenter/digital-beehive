@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0718/'>Possibility</a>|807 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_1974/'>impossible</a>"
+index: "<a href='/digital-beehive/index3/index_1973/'>impossible</a>"
 item: "#item-dfaf3e8c6"
 unparsed: 
 line: 'Entry: Impossibility|Topic: Impossibility|Xref: Possibility|Xref: 807 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/762,28
 label: Impossibility
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '020'
 layout: alpha_item
 collection: alpha3

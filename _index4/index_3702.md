@@ -23,7 +23,7 @@ label: sigils
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0950'
+order: '0951'
 layout: index_item
 collection: index4
 ---

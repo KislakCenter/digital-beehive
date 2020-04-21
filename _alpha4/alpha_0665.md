@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0244/'>disorder</a>|<a href='/digital-beehive/num1/num_0233/'>221
   [Order]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2819/'>order</a>"
+index: "<a href='/digital-beehive/index4/index_2818/'>order</a>"
 item: "#item-5075f85ab"
 unparsed: 
 line: 'Entry: Order|Topic: Order|Xref: disorder|Xref: 221 [Order]|Index: order|#item-5075f85ab'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,21
 label: Order
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '018'
 layout: alpha_item
 collection: alpha4

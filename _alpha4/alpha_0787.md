@@ -10,7 +10,7 @@ page:
 add: 
 xref: Old rags|<a href='/digital-beehive/toc/toc2_270/'>1385 [Reliques]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_3350/'>reliques</a>"
+index: "<a href='/digital-beehive/index4/index_3349/'>reliques</a>"
 item: "#item-d3ad071e9"
 unparsed: 
 line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/270,23
 label: Reliques
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: The point of reference for "Old rags" is unclear.
+also_in_entry: 
 order: '140'
 layout: alpha_item
 collection: alpha4

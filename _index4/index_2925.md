@@ -2,9 +2,8 @@
 pid: index_2925
 volume: Volume 3
 image_number: '34'
-head: pattern
-entry: "<a href='/digital-beehive/num2/num_0326/'>290 [for Example]</a>|<a href='/digital-beehive/toc/toc2_319/'>1625
-  [Example]</a>"
+head: pavemt
+entry: "<a href='/digital-beehive/toc/toc2_441/'>4871 [Pavement]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4726570ed"
+item: "#item-7c34e855a"
 unparsed: 
-line: 'Head: pattern|Entry: 290 [for Example]|Entry: 1625 [Example]|#item-4726570ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/full/0/default.jpg
+line: 'Head: pavemt|Entry: 4871 [Pavement]|#item-7c34e855a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1793,2333,636,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495748788
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495773110
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/150,/0/default.jpg
-label: pattern
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1793,2333,636,112/150,/0/default.jpg
+label: pavemt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0173'
+order: '0174'
 layout: index_item
 collection: index4
 ---

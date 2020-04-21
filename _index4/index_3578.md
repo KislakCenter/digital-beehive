@@ -3,7 +3,7 @@ pid: index_3578
 volume: Volume 3
 image_number: '41'
 head: seasonable
-entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
+entry: "<a href='/digital-beehive/num3/num_0737'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
   [Seasonable Opportunity]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: seasonable
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0826'
+order: '0827'
 layout: index_item
 collection: index4
 ---

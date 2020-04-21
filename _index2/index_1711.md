@@ -2,8 +2,8 @@
 pid: index_1711
 volume: Volume 3
 image_number: '23'
-head: greek
-entry: 783 [PAGE_MISSING]
+head: green
+entry: "<a href='/digital-beehive/toc/toc2_340/'>1757 [Green]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bd1a8d430"
+item: "#item-dc6d17ebd"
 unparsed: 
-line: 'Head: greek|Entry: 783 [PAGE_MISSING]|#item-bd1a8d430'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,1113,343,125/full/0/default.jpg
+line: 'Head: green|Entry: 1757 [Green]|#item-dc6d17ebd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/150,1210,398,88/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230461145
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230629707
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/142,1113,343,125/150,/0/default.jpg
-label: greek
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/150,1210,398,88/150,/0/default.jpg
+label: green
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '528'
+order: '529'
 layout: index_item
 collection: index2
 ---

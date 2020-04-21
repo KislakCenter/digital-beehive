@@ -10,7 +10,7 @@ page:
 add: 
 xref: painting|4516 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_2997/'>picture</a>"
+index: "<a href='/digital-beehive/index4/index_2996/'>picture</a>"
 item: "#item-4aea507cf"
 unparsed: 
 line: 'Entry: Picture|Topic: Picture|Xref: painting|Xref: 4516 [PAGE_MISSING]|Index:
@@ -22,7 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/796,2970,600,180/250,/0/default.jpg
 label: Picture
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-issue: The point of reference for "painting" is unclear.
+issue: The point of reference for "painting" is unclear. Pastorius perhaps intends
+  numerical entry 575 [Painting].
+also_in_entry: 
 order: '058'
 layout: alpha_item
 collection: alpha4

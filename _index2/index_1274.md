@@ -2,8 +2,8 @@
 pid: index_1274
 volume: Volume 3
 image_number: '18'
-head: enticing
-entry: 729 [PAGE_MISSING]
+head: entrails
+entry: 802 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-70d8e6591"
+item: "#item-4edbc92af"
 unparsed: 
-line: 'Head: enticing|Entry: 729 [PAGE_MISSING]|#item-70d8e6591'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1835,3347,504,158/full/0/default.jpg
+line: 'Head: entrails|Entry: 802 [PAGE_MISSING]|#item-4edbc92af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1840,3452,487,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836711730
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836855674
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1835,3347,504,158/150,/0/default.jpg
-label: enticing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1840,3452,487,117/150,/0/default.jpg
+label: entrails
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '092'
+order: '093'
 layout: index_item
 collection: index2
 ---

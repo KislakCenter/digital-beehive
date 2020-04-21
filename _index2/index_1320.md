@@ -2,8 +2,8 @@
 pid: index_1320
 volume: Volume 3
 image_number: '19'
-head: evil
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1901 [Evil]</a>"
+head: evildoers
+entry: "<a href='/digital-beehive/num2/num_0614/'>491 [Evildoers]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b292e56e4"
+item: "#item-4f001be21"
 unparsed: 
-line: 'Head: evil|Entry: 1901 [Evil]|#item-b292e56e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/834,1464,335,144/full/0/default.jpg
+line: 'Head: evildoers|Entry: 491 [Evildoers]|#item-4f001be21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/822,1493,506,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351732045
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351907489
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/834,1464,335,144/150,/0/default.jpg
-label: evil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/822,1493,506,138/150,/0/default.jpg
+label: evildoers
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '138'
+order: '139'
 layout: index_item
 collection: index2
 ---

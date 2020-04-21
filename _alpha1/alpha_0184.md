@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0425/'>Home</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0879/'>native Country</a>"
+index: "<a href='/digital-beehive/index1/index_0878/'>native Country</a>"
 item: "#item-565693a74"
 unparsed: 
 line: 'Entry: Native Country|Topic: Native Country|Xref: Home|Index: native Country|#item-565693a74'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/338,29
 label: Native Country
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '183'
 layout: alpha_item
 collection: alpha1

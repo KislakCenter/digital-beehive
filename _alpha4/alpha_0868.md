@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,32
 label: Shooting
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '220'
 layout: alpha_item
 collection: alpha4

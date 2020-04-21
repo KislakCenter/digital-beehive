@@ -9,10 +9,10 @@ first_letter: P
 page: 
 add: 
 xref: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|783
-  [PAGE_MISSING; argument]|Trial|essay|<a href='/digital-beehive/num2/num_0603/'>487
+  [PAGE_MISSING; argument]|Trial|essay|<a href='/digital-beehive/num2/num_0608/'>487
   [Proof, Try all]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3191/'>proof, or trial</a>"
+index: "<a href='/digital-beehive/index4/index_3190/'>proof, or trial</a>"
 item: "#item-46d52871a"
 unparsed: 
 line: 'Entry: Proof|Topic: Proof|Xref: 47 [Try & Prove all things]|Xref: 783 [PAGE_MISSING;
@@ -25,7 +25,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,45
 label: Proof
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: The point of reference for "Trial" is unclear.|The point of reference for "essay"
-  is unclear.|The point of reference for "argument" is unclear.
+  is unclear. Pastorius perhaps intends numerical entry 633 [essay].
+also_in_entry: 
 order: '099'
 layout: alpha_item
 collection: alpha4

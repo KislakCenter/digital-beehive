@@ -2,29 +2,28 @@
 pid: index_1392
 volume: Volume 3
 image_number: '20'
-head: falshood
-entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/toc/toc2_182/'>979
-  [Falsehood]</a>"
+head: false brethren
+entry: "<a href='/digital-beehive/toc/toc2_362/'>1975 [Hypocrisie]</a>"
 topic: 
 first_letter: F
 page: 
-add: 
+add: surreptitious
 xref: 
 see: 
 index: 
-item: "#item-f7ff6c2f2"
+item: "#item-8ad1cca5a"
 unparsed: 
-line: 'Head: falshood|Entry: a|Entry: 979 [Falsehood]|#item-f7ff6c2f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,1913,615,137/full/0/default.jpg
+line: 'Head: false brethren|Entry: 1975 [Hypocrisie]|Add: surreptitious|#item-8ad1cca5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561402153990
+annotation_uri: http://dev.llgc.org.uk/annotation/1561402797642
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,1913,615,137/150,/0/default.jpg
-label: falshood
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/393,1981,563,168/150,/0/default.jpg
+label: false brethren
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '210'
+order: '211'
 layout: index_item
 collection: index2
 ---

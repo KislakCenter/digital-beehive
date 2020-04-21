@@ -2,8 +2,8 @@
 pid: index_3054
 volume: Volume 3
 image_number: '36'
-head: pocket
-entry: "<a href='/digital-beehive/alpha4/alpha_0713/'>a</a>"
+head: pocketbook
+entry: a
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d6d65b194"
+item: "#item-dea6dacb6"
 unparsed: 
-line: 'Head: pocket|Entry: a|#item-d6d65b194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/458,1943,396,117/full/0/default.jpg
+line: 'Head: pocketbook|Entry: a|#item-dea6dacb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208121710
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208139567
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/458,1943,396,117/150,/0/default.jpg
-label: pocket
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/437,1980,443,170/150,/0/default.jpg
+label: pocketbook
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
+issue: Pastorius lists "a" but no alphabetical entry can be identified.
 insertion_xref: 
-order: '0302'
+order: '0303'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0796/'>Resistance</a>|739 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_0989/'>defence</a>"
+index: "<a href='/digital-beehive/index1/index_0988/'>defence</a>"
 item: "#item-7da8743c5"
 unparsed: 
 line: 'Entry: Defence|Topic: Defence|Xref: Resistance|Xref: 739 [PAGE_MISSING]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/788,27
 label: Defence
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: It is unclear whether "It. War. Revenge" should be considered cross-references.
-order: '216'
+also_in_entry: 
+order: '215'
 layout: alpha_item
 collection: alpha1
 ---

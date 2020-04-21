@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0399/'>Haste</a>|[WORD_ILLEGIBLE]|<a
-  href='/digital-beehive/toc/toc2_179/'>961 [Too hasty]</a>"
+  href='/digital-beehive/num4/num_1281'>961 [Too hasty]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
 item: "#item-333aac4a6"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/335,20
 label: Too hasty
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 issue: 
-order: '027'
+also_in_entry: 
+order: '028'
 layout: alpha_item
 collection: alpha5
 ---

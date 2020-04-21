@@ -2,8 +2,8 @@
 pid: index_2426
 volume: Volume 3
 image_number: '29'
-head: mariners
-entry: 764 [PAGE_MISSING]
+head: map
+entry: 4533 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8cd8407cf"
+item: "#item-c0021d48f"
 unparsed: 
-line: 'Head: mariners|Entry: 764 [PAGE_MISSING]|#item-8cd8407cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/full/0/default.jpg
+line: 'Head: map|Entry: 4533 [PAGE_MISSING]|#item-c0021d48f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1519,3653,374,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197249447
+annotation_uri: http://dev.llgc.org.uk/annotation/1560197277871
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/150,/0/default.jpg
-label: mariners
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1519,3653,374,112/150,/0/default.jpg
+label: map
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '507'
+order: '508'
 layout: index_item
 collection: index3
 ---

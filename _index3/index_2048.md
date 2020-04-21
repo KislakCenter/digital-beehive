@@ -2,8 +2,8 @@
 pid: index_2048
 volume: Volume 3
 image_number: '26'
-head: injustice
-entry: "<a href='/digital-beehive/alpha3/alpha_0476/'>a</a>"
+head: ink
+entry: "<a href='/digital-beehive/num2/num_0506/'>410 [Ink-horn]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-982dc611b"
+item: "#item-78b87f6bb"
 unparsed: 
-line: 'Head: injustice|Entry: a|#item-982dc611b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,3166,413,128/full/0/default.jpg
+line: 'Head: ink|Entry: 410 [Ink-horn]|#item-78b87f6bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/414,3271,320,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745420529
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745555764
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/422,3166,413,128/150,/0/default.jpg
-label: injustice
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/414,3271,320,120/150,/0/default.jpg
+label: ink
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '129'
+order: '130'
 layout: index_item
 collection: index3
 ---

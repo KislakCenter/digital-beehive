@@ -10,7 +10,7 @@ page:
 add: 
 xref: 791 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1802/'>hen</a>"
+index: "<a href='/digital-beehive/index2/index_1801/'>hen</a>"
 item: "#item-4f384ce52"
 unparsed: 
 line: 'Entry: Hen|Topic: Hen|Xref: 791 [PAGE_MISSING]|Index: hen|#item-4f384ce52'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/802,14
 label: Hen
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '143'
 layout: alpha_item
 collection: alpha2

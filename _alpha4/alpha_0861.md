@@ -8,7 +8,7 @@ topic: Shadow
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_145/'>641 [the Shadow]</a>"
+xref: "<a href='/digital-beehive/num3/num_0872'>641 [the Shadow]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3655/'>shadow</a>"
 item: "#item-34247929a"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/834,11
 label: Shadow
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '213'
 layout: alpha_item
 collection: alpha4

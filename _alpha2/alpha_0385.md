@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>Burial</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1700/'>grave</a>"
+index: "<a href='/digital-beehive/index2/index_1699/'>grave</a>"
 item: "#item-e1efb75b2"
 unparsed: 
 line: 'Entry: Grave|Topic: Grave|Xref: Burial|Index: grave|#item-e1efb75b2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,13
 label: Grave
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '116'
 layout: alpha_item
 collection: alpha2

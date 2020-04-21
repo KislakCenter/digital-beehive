@@ -2,8 +2,9 @@
 pid: index_2678
 volume: Volume 3
 image_number: '32'
-head: proof of a Negative
-entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [to prove a Negative]</a>"
+head: neger
+entry: "<a href='/digital-beehive/num2/num_0460/'>382 [Neger or Negro]</a>|<a href='/digital-beehive/toc/toc2_320/'>1628
+  [Negro]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e71737611"
+item: "#item-87116ca3c"
 unparsed: 
-line: 'Head: proof of a Negative|Entry: 913 [to prove a Negative]|#item-e71737611'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1174,242,672,154/full/0/default.jpg
+line: 'Head: neger|Entry: 382 [Neger or Negro]|Entry: 1628 [Negro]|#item-87116ca3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1182,349,512,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560440797032
+annotation_uri: http://dev.llgc.org.uk/annotation/1560440944942
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1174,242,672,154/150,/0/default.jpg
-label: proof of a Negative
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1182,349,512,144/150,/0/default.jpg
+label: neger
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '759'
+order: '760'
 layout: index_item
 collection: index3
 ---

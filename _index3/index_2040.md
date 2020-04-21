@@ -2,28 +2,28 @@
 pid: index_2040
 volume: Volume 3
 image_number: '26'
-head: ingenious
+head: ingenuous
 entry: 
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4571/'>wit</a>"
+see: "<a href='/digital-beehive/index4/index_3724/'>sincerity</a>"
 index: 
-item: "#item-a50e616ee"
+item: "#item-8eada7410"
 unparsed: 
-line: 'Head: ingenious|See: wit|#item-a50e616ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/429,2399,543,205/full/0/default.jpg
+line: 'Head: ingenuous|See: sincerity|#item-8eada7410'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,2502,657,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744994040
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745027802
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/429,2399,543,205/150,/0/default.jpg
-label: ingenious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,2502,657,157/150,/0/default.jpg
+label: ingenuous
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '121'
+order: '122'
 layout: index_item
 collection: index3
 ---

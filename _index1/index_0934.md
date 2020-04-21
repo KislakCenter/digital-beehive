@@ -2,9 +2,8 @@
 pid: index_0934
 volume: Volume 3
 image_number: '15'
-head: custom
-entry: "<a href='/digital-beehive/alpha1/alpha_0203/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1121
-  [Custom]</a>"
+head: Cuts
+entry: 4526 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dd543ebc7"
+item: "#item-a82a4bb93"
 unparsed: 
-line: 'Head: custom|Entry: a|Entry: 1121 [Custom]|#item-dd543ebc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,483,454,103/full/0/default.jpg
+line: 'Head: Cuts|Entry: 4526 [PAGE_MISSING]|#item-a82a4bb93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/2025,563,294,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539810830511
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390774680
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,483,454,103/150,/0/default.jpg
-label: custom
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/2025,563,294,136/150,/0/default.jpg
+label: Cuts
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

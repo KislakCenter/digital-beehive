@@ -2,28 +2,29 @@
 pid: index_1229
 volume: Volume 3
 image_number: '18'
-head: elope
-entry: 
+head: eloquence
+entry: "<a href='/digital-beehive/alpha2/alpha_0280/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
+  [Eloquence]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3470/'>run away</a>"
+see: 
 index: 
-item: "#item-17736a732"
+item: "#item-abf2666f2"
 unparsed: 
-line: 'Head: elope|See: run away|#item-17736a732'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,2778,564,164/full/0/default.jpg
+line: 'Head: eloquence|Entry: a|Entry: 1659 [Eloquence]|#item-abf2666f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1167,2916,542,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680033554
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680193850
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,2778,564,164/150,/0/default.jpg
-label: elope
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1167,2916,542,111/150,/0/default.jpg
+label: eloquence
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '047'
+order: '048'
 layout: index_item
 collection: index2
 ---

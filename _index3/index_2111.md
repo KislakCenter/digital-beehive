@@ -2,28 +2,31 @@
 pid: index_2111
 volume: Volume 3
 image_number: '26'
-head: journey
-entry: 
+head: joy
+entry: "<a href='/digital-beehive/alpha3/alpha_0488/'>a</a>|832 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
+  [Joy]</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4221/'>travelling</a>"
+see: 
 index: 
-item: "#item-35acd4ca8"
+item: "#item-02f6aa1ec"
 unparsed: 
-line: 'Head: journey|See: travelling|#item-35acd4ca8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1821,2897,677,153/full/0/default.jpg
+line: 'Head: joy|Entry: a|Entry: 832 [PAGE_MISSING]|Entry: 1392 [Joy]|Entry: 1940
+  [Joy]|#item-02f6aa1ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754502911
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754627695
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1821,2897,677,153/150,/0/default.jpg
-label: journey
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/150,/0/default.jpg
+label: joy
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '192'
+order: '193'
 layout: index_item
 collection: index3
 ---

@@ -8,7 +8,7 @@ topic: Beauty
 first_letter: B
 page: 
 add: 
-xref: "[WORD_MISSING]|<a href='/digital-beehive/toc/toc2_140/'>616 [Beauty]</a>"
+xref: "[WORD_MISSING]|<a href='/digital-beehive/num3/num_0823'>616 [Beauty]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0323/'>beauty</a>"
 item: "#item-74417d341"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/857,20
 label: "[WORD_MISSING]"
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '068'
 layout: alpha_item
 collection: alpha1

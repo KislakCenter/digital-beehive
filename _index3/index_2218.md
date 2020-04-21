@@ -2,8 +2,8 @@
 pid: index_2218
 volume: Volume 3
 image_number: '27'
-head: latin English
-entry: "<a href='/digital-beehive/toc/toc2_196/'>1015 [Some English Latin]</a>"
+head: Lavender
+entry: "<a href='/digital-beehive/toc/toc2_357/'>1938 [Lavender]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7b42a65fe"
+item: "#item-37a8f986f"
 unparsed: 
-line: 'Head: latin English|Entry: 1015 [Some English Latin]|#item-7b42a65fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1507,3020,491,134/full/0/default.jpg
+line: 'Head: Lavender|Entry: 1938 [Lavender]|#item-37a8f986f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1533,3107,476,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836790573
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836910585
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1507,3020,491,134/150,/0/default.jpg
-label: latin English
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1533,3107,476,108/150,/0/default.jpg
+label: Lavender
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '299'
+order: '300'
 layout: index_item
 collection: index3
 ---

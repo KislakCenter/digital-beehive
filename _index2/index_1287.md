@@ -2,8 +2,8 @@
 pid: index_1287
 volume: Volume 3
 image_number: '19'
-head: equanimity
-entry: "<a href='/digital-beehive/alpha2/alpha_0289/'>a</a>|4560 [PAGE_MISSING]"
+head: equinox
+entry: "<a href='/digital-beehive/toc/toc2_211/'>1088 [Equinox]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4627212f6"
+item: "#item-88b429cb9"
 unparsed: 
-line: 'Head: equanimity|Entry: a|Entry: 4560 [PAGE_MISSING]|#item-4627212f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/128,1280,685,163/full/0/default.jpg
+line: 'Head: equinox|Entry: 1088 [Equinox]|#item-88b429cb9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,1409,493,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844358920
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844489187
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/128,1280,685,163/150,/0/default.jpg
-label: equanimity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/140,1409,493,143/150,/0/default.jpg
+label: equinox
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '105'
+order: '106'
 layout: index_item
 collection: index2
 ---

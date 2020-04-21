@@ -1,10 +1,9 @@
 ---
 pid: index_1069
 volume: Volume 3
-image_number: '16'
-head: discord
-entry: "<a href='/digital-beehive/alpha1/alpha_0240/'>a</a>|840 [PAGE_MISSING]|1854
-  [PAGE_MISSING]"
+image_number: '17'
+head: discovery
+entry: 734 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -12,16 +11,16 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cec050802"
+item: "#item-04cbb309b"
 unparsed: 
-line: 'Head: discord|Entry: a|Entry: 840 [PAGE_MISSING]|Entry: 1854 [PAGE_MISSING]|#item-cec050802'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1808,3559,636,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784533878
+line: 'Head: discovery|Entry: 734 [PAGE_MISSING]|#item-04cbb309b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/156,278,523,172/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803589963
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1808,3559,636,124/150,/0/default.jpg
-label: discord
-location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/156,278,523,172/150,/0/default.jpg
+label: discovery
+location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 
 order: '1068'

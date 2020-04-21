@@ -2,9 +2,9 @@
 pid: index_2038
 volume: Volume 3
 image_number: '26'
-head: information
-entry: "<a href='/digital-beehive/alpha3/alpha_0474/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1176
-  [to Inform]</a>"
+head: informer
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1163 [Informer]</a>|<a href='/digital-beehive/toc/toc2_350/'>1827
+  [Informer]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-598622861"
+item: "#item-0c6baa675"
 unparsed: 
-line: 'Head: information|Entry: a|Entry: 1176 [to Inform]|#item-598622861'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/427,2197,594,130/full/0/default.jpg
+line: 'Head: informer|Entry: 1163 [Informer]|Entry: 1827 [Informer]|#item-0c6baa675'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744860661
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744952568
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/427,2197,594,130/150,/0/default.jpg
-label: information
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/150,/0/default.jpg
+label: informer
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '119'
+order: '120'
 layout: index_item
 collection: index3
 ---

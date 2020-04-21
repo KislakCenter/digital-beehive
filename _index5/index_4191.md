@@ -3,7 +3,7 @@ pid: index_4191
 volume: Volume 3
 image_number: '48'
 head: top
-entry: "<a href='/digital-beehive/toc/toc2_124/'>520 [Tower]</a>"
+entry: "<a href='/digital-beehive/num3/num_0651'>520 [Tower]</a>"
 topic: 
 first_letter: T
 page: 

@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-2ed880806"
 unparsed: 
-line: 'Head: without Christ|Entry: 284 [without Xst]|#item-2ed880806'
+line: 'Head: without Christ|Entry: 284 [Without Xst]|#item-2ed880806'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311

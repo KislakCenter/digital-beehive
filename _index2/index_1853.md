@@ -2,9 +2,8 @@
 pid: index_1853
 volume: Volume 3
 image_number: '24'
-head: hog
-entry: "<a href='/digital-beehive/alpha2/alpha_0423/'>a</a>|<a href='/digital-beehive/toc/toc2_339/'>1741
-  [Hog]</a>"
+head: hole
+entry: "<a href='/digital-beehive/num4/num_1124'>881 [make an hole]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-41b97c51e"
+item: "#item-37e73ef39"
 unparsed: 
-line: 'Head: hog|Entry: a|Entry: 1741 [Hog]|#item-41b97c51e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/full/0/default.jpg
+line: 'Head: hole|Entry: 881 [make a hole]|#item-37e73ef39'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1126,1088,337,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581853751
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581999247
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1118,940,421,185/150,/0/default.jpg
-label: hog
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1126,1088,337,122/150,/0/default.jpg
+label: hole
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '670'
+order: '671'
 layout: index_item
 collection: index2
 ---

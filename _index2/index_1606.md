@@ -2,9 +2,8 @@
 pid: index_1606
 volume: Volume 3
 image_number: '22'
-head: h. Ghost
-entry: "<a href='/digital-beehive/alpha2/alpha_0359/'>a</a>|<a href='/digital-beehive/toc/toc2_196/'>1012
-  [h. Ghost]</a>"
+head: giant
+entry: "<a href='/digital-beehive/num2/num_0427/'>361 [a little Giant]</a>"
 topic: 
 first_letter: G
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1cd0eea23"
+item: "#item-141a90a24"
 unparsed: 
-line: 'Head: h. Ghost|Entry: a|Entry: 1012 [h. Ghost]|#item-1cd0eea23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/422,1568,493,142/full/0/default.jpg
+line: 'Head: giant|Entry: 361 [a little Giant]|#item-141a90a24'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,1736,351,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042979521
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043019598
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/422,1568,493,142/150,/0/default.jpg
-label: h. Ghost
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/412,1736,351,136/150,/0/default.jpg
+label: giant
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '424'
+order: '425'
 layout: index_item
 collection: index2
 ---

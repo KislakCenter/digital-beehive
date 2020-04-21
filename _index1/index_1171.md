@@ -2,24 +2,24 @@
 pid: index_1171
 volume: Volume 3
 image_number: '18'
-head: durable
-entry: "<a href='/digital-beehive/toc/toc2_366/'>2002 [Lasting]</a>"
+head: dust
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1187/'>earth</a>"
 index: 
-item: "#item-5c4475cca"
+item: "#item-815d91783"
 unparsed: 
-line: 'Head: durable|Entry: 2002 [Lasting]|#item-5c4475cca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/full/0/default.jpg
+line: 'Head: dust|See: earth|#item-815d91783'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,923,425,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559663879808
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663929313
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/150,/0/default.jpg
-label: durable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,923,425,114/150,/0/default.jpg
+label: dust
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,9 +2,8 @@
 pid: index_2373
 volume: Volume 3
 image_number: '29'
-head: to lye with one
-entry: "<a href='/digital-beehive/num2/num_0571/'>459 [To use a woman]</a>|<a href='/digital-beehive/toc/toc2_315/'>1601
-  [First love]</a>"
+head: lycanthropia
+entry: "<a href='/digital-beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-aa472b8ac"
+item: "#item-5b3c8598b"
 unparsed: 
-line: 'Head: to lye with one|Entry: 459 [To use a woman]|Entry: 1601 [First love]|#item-aa472b8ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,1652,699,147/full/0/default.jpg
+line: 'Head: lycanthropia|Entry: 1535 [Lycanthropia]|#item-5b3c8598b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/847,1755,538,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186172962
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186238272
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,1652,699,147/150,/0/default.jpg
-label: to lye with one
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/847,1755,538,140/150,/0/default.jpg
+label: lycanthropia
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '454'
+order: '455'
 layout: index_item
 collection: index3
 ---

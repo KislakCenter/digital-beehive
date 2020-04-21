@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/354,36
 label: Vinegar
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '057'
+also_in_entry: 
+order: '058'
 layout: alpha_item
 collection: alpha5
 ---

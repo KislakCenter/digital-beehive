@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/315,41
 label: Selfwilledness
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '207'
 layout: alpha_item
 collection: alpha4

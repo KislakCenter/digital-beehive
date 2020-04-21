@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Obliga[ti]on]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2757/'>obligation</a>"
+index: "<a href='/digital-beehive/index4/index_2756/'>obligation</a>"
 item: "#item-3f76e6e63"
 unparsed: 
 line: 'Entry: Obligation|Topic: Obligation|Xref: 1396 [Obliga[ti]on]|Index: obligation|#item-3f76e6e63'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/276,22
 label: Obligation
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '003'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_1895
 volume: Volume 3
 image_number: '24'
-head: how?
-entry: "<a href='/digital-beehive/toc/toc2_158/'>712 [How?]</a>"
+head: howsoever
+entry: "<a href='/digital-beehive/toc/toc2_270/'>1385 [Howsoever]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f4cd6b1ad"
+item: "#item-74eec6601"
 unparsed: 
-line: 'Head: how?|Entry: 712 [How?]|#item-f4cd6b1ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1849,1244,358,118/full/0/default.jpg
+line: 'Head: howsoever|Entry: 1385 [Howsoever]|#item-74eec6601'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1826,1353,477,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586977654
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587055758
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1849,1244,358,118/150,/0/default.jpg
-label: how?
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1826,1353,477,100/150,/0/default.jpg
+label: howsoever
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '712'
+order: '713'
 layout: index_item
 collection: index2
 ---

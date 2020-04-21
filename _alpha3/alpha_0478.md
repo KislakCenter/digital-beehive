@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0758/'>punishmt</a>|761 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2052/'>innocence</a>"
+index: "<a href='/digital-beehive/index3/index_2051/'>innocence</a>"
 item: "#item-21351cd8c"
 unparsed: 
 line: 'Entry: Innocence|Topic: Innocence|Xref: punishmt|Xref: 761 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/359,31
 label: Innocence
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '034'
 layout: alpha_item
 collection: alpha3

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1634/'>goat</a>"
+index: "<a href='/digital-beehive/index2/index_1633/'>goat</a>"
 item: "#item-637b1b7c1"
 unparsed: 
 line: 'Entry: Goat|Topic: Goat|Index: goat|#item-637b1b7c1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/762,35
 label: Goat
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '095'
 layout: alpha_item
 collection: alpha2

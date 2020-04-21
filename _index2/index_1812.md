@@ -2,9 +2,8 @@
 pid: index_1812
 volume: Volume 3
 image_number: '24'
-head: heresy
-entry: "<a href='/digital-beehive/alpha2/alpha_0415/'>a</a>|<a href='/digital-beehive/toc/toc2_130/'>558
-  [Heresy]</a>|1841 [PAGE_MISSING]"
+head: hereditary
+entry: "<a href='/digital-beehive/num1/num_0234/'>221 [Succeed]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e109238c6"
+item: "#item-92435aef9"
 unparsed: 
-line: 'Head: heresy|Entry: a|Entry: 558 [Heresy]|Entry: 1841 [PAGE_MISSING]|#item-e109238c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/439,244,674,150/full/0/default.jpg
+line: 'Head: hereditary|Entry: 221 [hereditary]|#item-92435aef9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,372,501,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574040341
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574355641
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/439,244,674,150/150,/0/default.jpg
-label: heresy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/445,372,501,138/150,/0/default.jpg
+label: hereditary
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '629'
+order: '630'
 layout: index_item
 collection: index2
 ---

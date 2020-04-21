@@ -2,8 +2,8 @@
 pid: index_2090
 volume: Volume 3
 image_number: '26'
-head: invasion
-entry: "<a href='/digital-beehive/toc/toc2_142/'>628 [Invasion]</a>"
+head: invective
+entry: "<a href='/digital-beehive/num2/num_0459/'>381 [Invective]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-da75aea5f"
+item: "#item-2c36d0e32"
 unparsed: 
-line: 'Head: invasion|Entry: 628 [Invasion]|#item-da75aea5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1862,891,442,113/full/0/default.jpg
+line: 'Head: invective|Entry: 381 [Invective]|#item-2c36d0e32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1857,990,457,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751167069
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751230514
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1862,891,442,113/150,/0/default.jpg
-label: invasion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1857,990,457,106/150,/0/default.jpg
+label: invective
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '171'
+order: '172'
 layout: index_item
 collection: index3
 ---

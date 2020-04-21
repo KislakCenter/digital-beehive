@@ -3,7 +3,7 @@ pid: index_3537
 volume: Volume 3
 image_number: '41'
 head: scarce
-entry: "<a href='/digital-beehive/toc/toc2_156/'>702</a>"
+entry: "<a href='/digital-beehive/num3/num_1016'>702 [Scarce]</a>"
 topic: 
 first_letter: S
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-1dc118ecb"
 unparsed: 
-line: 'Head: scarce|Entry: 702|#item-1dc118ecb'
+line: 'Head: scarce|Entry: 702 [Scarce]|#item-1dc118ecb'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/166,3400,457,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559240101204
@@ -23,7 +23,7 @@ label: scarce
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0785'
+order: '0786'
 layout: index_item
 collection: index4
 ---

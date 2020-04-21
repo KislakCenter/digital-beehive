@@ -2,8 +2,9 @@
 pid: index_2210
 volume: Volume 3
 image_number: '27'
-head: to last or remain
-entry: "<a href='/digital-beehive/toc/toc2_312/'>1590 [To Last]</a>"
+head: at last
+entry: "<a href='/digital-beehive/num4/num_1234'>928 [Last]</a>|<a href='/digital-beehive/num4/num_1235'>928
+  [Finally]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a3198f5f8"
+item: "#item-2d1dbdea4"
 unparsed: 
-line: 'Head: to last or remain|Entry: 1590 [To Last]|#item-a3198f5f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1530,2221,597,129/full/0/default.jpg
+line: 'Head: at last|Entry: 928 [Last]|Entry: 928 [Finally]|#item-2d1dbdea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1554,2318,423,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836148435
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836277708
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1530,2221,597,129/150,/0/default.jpg
-label: to last or remain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1554,2318,423,139/150,/0/default.jpg
+label: at last
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '291'
+order: '292'
 layout: index_item
 collection: index3
 ---

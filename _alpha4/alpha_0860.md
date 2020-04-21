@@ -8,7 +8,7 @@ topic: Severity
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0199/'>Cruelty</a>"
+xref: "<a href='/digital-beehive/alpha5/alpha_0199/'>Cruelty</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3650/'>severity</a>"
 item: "#item-248d6ff8e"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,81
 label: Severity
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '212'
 layout: alpha_item
 collection: alpha4

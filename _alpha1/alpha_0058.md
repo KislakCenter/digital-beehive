@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/322,13
 label: Banquetting Stuff
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '057'
 layout: alpha_item
 collection: alpha1

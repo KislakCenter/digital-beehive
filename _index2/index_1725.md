@@ -2,8 +2,8 @@
 pid: index_1725
 volume: Volume 3
 image_number: '23'
-head: guest
-entry: 4608 [PAGE_MISSING]
+head: Guiana
+entry: "<a href='/digital-beehive/toc/toc2_298/'>1517 [Guiana]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-199acac44"
+item: "#item-950038cde"
 unparsed: 
-line: 'Head: guest|Entry: 4608 [PAGE_MISSING]|#item-199acac44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2198,359,68/full/0/default.jpg
+line: 'Head: Guiana|Entry: 1517 [Guiana]|#item-950038cde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,2210,405,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232373971
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232528527
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2198,359,68/150,/0/default.jpg
-label: guest
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/139,2210,405,124/150,/0/default.jpg
+label: Guiana
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '542'
+order: '543'
 layout: index_item
 collection: index2
 ---

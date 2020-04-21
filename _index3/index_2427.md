@@ -1,9 +1,10 @@
 ---
 pid: index_2427
 volume: Volume 3
-image_number: '29'
-head: map
-entry: 4533 [PAGE_MISSING]
+image_number: '30'
+head: mark
+entry: "<a href='/digital-beehive/num4/num_1154'>892 [Mark]</a>|<a href='/digital-beehive/toc/toc2_201/'>1040
+  [Signs]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c0021d48f"
+item: "#item-5b9ba2aef"
 unparsed: 
-line: 'Head: map|Entry: 4533 [PAGE_MISSING]|#item-c0021d48f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1519,3653,374,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197277871
+line: 'Head: mark|Entry: 892 [Mark]|Entry: 1040 [Signs]|#item-5b9ba2aef'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/414,224,527,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262841621
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1519,3653,374,112/150,/0/default.jpg
-label: map
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/414,224,527,135/150,/0/default.jpg
+label: mark
+location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '508'
+order: '509'
 layout: index_item
 collection: index3
 ---

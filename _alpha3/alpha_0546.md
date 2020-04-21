@@ -10,7 +10,7 @@ page:
 add: 
 xref: 820 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2322/'>long</a>"
+index: "<a href='/digital-beehive/index3/index_2321/'>long</a>"
 item: "#item-14b86296a"
 unparsed: 
 line: 'Entry: Long|Topic: Long|Xref: 820 [PAGE_MISSING]|Index: long|#item-14b86296a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/684,48
 label: Long
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '102'
 layout: alpha_item
 collection: alpha3

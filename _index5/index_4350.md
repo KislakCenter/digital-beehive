@@ -3,7 +3,7 @@ pid: index_4350
 volume: Volume 3
 image_number: '50'
 head: umbrella
-entry: "<a href='/digital-beehive/toc/toc2_145/'>641 [an umbrage]</a>"
+entry: "<a href='/digital-beehive/num3/num_0873'>641 [an umbrage]</a>"
 topic: 
 first_letter: U/V
 page: 

@@ -2,8 +2,8 @@
 pid: index_1114
 volume: Volume 3
 image_number: '17'
-head: divines and divinity
-entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>"
+head: divinity mystica
+entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c5721caca"
+item: "#item-a9bb27d26"
 unparsed: 
-line: 'Head: divines and divinity|Entry: a|#item-c5721caca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/full/0/default.jpg
+line: 'Head: divinity mystica|Entry: a|#item-a9bb27d26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/841,1571,396,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849323353
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366256031
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/150,/0/default.jpg
-label: divines and divinity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/841,1571,396,114/150,/0/default.jpg
+label: divinity mystica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

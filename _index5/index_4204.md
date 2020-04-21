@@ -3,7 +3,7 @@ pid: index_4204
 volume: Volume 3
 image_number: '48'
 head: towel
-entry: "<a href='/digital-beehive/toc/toc2_139/'>612 [Shoe Clout]</a>"
+entry: "<a href='/digital-beehive/num3/num_0815'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: T
 page: 

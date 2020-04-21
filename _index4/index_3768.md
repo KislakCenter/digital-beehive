@@ -3,7 +3,7 @@ pid: index_3768
 volume: Volume 3
 image_number: '43'
 head: snorting
-entry: "<a href='/digital-beehive/toc/toc2_137/'>601 [Snorting]</a>"
+entry: "<a href='/digital-beehive/num3/num_0790'>601 [Snorting]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: snorting
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1016'
+order: '1017'
 layout: index_item
 collection: index4
 ---

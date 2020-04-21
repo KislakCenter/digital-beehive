@@ -2,8 +2,8 @@
 pid: index_1196
 volume: Volume 3
 image_number: '18'
-head: easter
-entry: "<a href='/digital-beehive/alpha2/alpha_0273/'>a</a>"
+head: easy
+entry: "<a href='/digital-beehive/num1/num_0250/'>233 [Easy]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b456e342f"
+item: "#item-4d7c7cea9"
 unparsed: 
-line: 'Head: easter|Entry: a|#item-b456e342f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/full/0/default.jpg
+line: 'Head: easy|Entry: 233 [Easy]|#item-4d7c7cea9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,3065,346,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667939926
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668044110
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/150,/0/default.jpg
-label: easter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/419,3065,346,112/150,/0/default.jpg
+label: easy
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '014'
+order: '015'
 layout: index_item
 collection: index2
 ---

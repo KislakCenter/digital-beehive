@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1050/'>wonderfull things</a>|<a href='/digital-beehive/num1/num_0260/'>243
   [Miracles]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2532/'>miracle</a>"
+index: "<a href='/digital-beehive/index3/index_2531/'>miracle</a>"
 item: "#item-a2f4c508e"
 unparsed: 
 line: 'Entry: Miracles|Topic: Miracles|Xref: wonderfull things|Xref: 243 [Miracles]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/346,11
 label: Miracles
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '152'
 layout: alpha_item
 collection: alpha3

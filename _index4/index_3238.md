@@ -2,28 +2,28 @@
 pid: index_3238
 volume: Volume 3
 image_number: '38'
-head: purposely
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [Purposely]</a>"
+head: purse
+entry: 
 topic: 
 first_letter: P
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3053/'>pocket</a>"
 index: 
-item: "#item-c4ae76f71"
+item: "#item-d9586f165"
 unparsed: 
-line: 'Head: purposely|Entry: 907 [Purposely]|#item-c4ae76f71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/412,2101,487,169/full/0/default.jpg
+line: 'Head: purse|Page: p.38 [Image 1.98]|See: pocket|#item-d9586f165'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/386,2257,717,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452410214
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452483652
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/412,2101,487,169/150,/0/default.jpg
-label: purposely
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/386,2257,717,146/150,/0/default.jpg
+label: purse
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0486'
+order: '0487'
 layout: index_item
 collection: index4
 ---

@@ -23,7 +23,7 @@ label: spectator
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1075'
+order: '1076'
 layout: index_item
 collection: index4
 ---

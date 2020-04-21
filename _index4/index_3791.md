@@ -3,7 +3,7 @@ pid: index_3791
 volume: Volume 3
 image_number: '44'
 head: sometimes
-entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [Sometimes]</a>"
+entry: "<a href='/digital-beehive/num4/num_1085'>867 [Sometimes]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sometimes
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1039'
+order: '1040'
 layout: index_item
 collection: index4
 ---

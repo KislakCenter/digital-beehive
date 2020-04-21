@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '49'
 head: try all things
 entry: "<a href='/digital-beehive/num1/num_0047/'>47 [Try & Prove all things]</a>|<a
-  href='/digital-beehive/toc/toc2_169/'>908 [Try all things]</a>"
+  href='/digital-beehive/num4/num_1185'>908 [Try all things]</a>"
 topic: 
 first_letter: T
 page: 

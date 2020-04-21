@@ -3,7 +3,7 @@ pid: index_0342
 volume: Volume 3
 image_number: '10'
 head: beheading
-entry: "<a href='/digital-beehive/toc/toc2_157/'>709 [To Behead]</a>"
+entry: "<a href='/digital-beehive/num3/num_1034'>709 [To Behead]</a>"
 topic: 
 first_letter: B
 page: 

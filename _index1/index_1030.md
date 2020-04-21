@@ -2,24 +2,24 @@
 pid: index_1030
 volume: Volume 3
 image_number: '16'
-head: destruction
-entry: 744 [PAGE_MISSING]
+head: detract
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0986/'>defaming</a>"
 index: 
-item: "#item-11707f99d"
+item: "#item-1bd7117c7"
 unparsed: 
-line: 'Head: destruction|Entry: 744 [PAGE_MISSING]|#item-11707f99d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1062,3131,613,148/full/0/default.jpg
+line: 'Head: detract|See: defaming|#item-1bd7117c7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1041,3303,742,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605248959
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605271970
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1062,3131,613,148/150,/0/default.jpg
-label: destruction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1041,3303,742,151/150,/0/default.jpg
+label: detract
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

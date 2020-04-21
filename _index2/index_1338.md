@@ -2,8 +2,10 @@
 pid: index_1338
 volume: Volume 3
 image_number: '19'
-head: excrements
-entry: "<a href='/digital-beehive/num2/num_0361/'>314 [Foam]</a>"
+head: excuse
+entry: "<a href='/digital-beehive/alpha2/alpha_0296/'>a</a>|756 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_279/'>1427 [Excuse]</a>|<a href='/digital-beehive/toc/toc2_441/'>4869
+  [Excuse]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +13,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e1274210c"
+item: "#item-4461567ca"
 unparsed: 
-line: 'Head: excrements|Entry: 314 [Foam]|#item-e1274210c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/821,3475,540,103/full/0/default.jpg
+line: 'Head: excuse|Entry: a|Entry: 756 [PAGE_MISSING]|Entry: 1427 [Excuse]|Entry:
+  4869 [Excuse]|#item-4461567ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/791,3494,736,292/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560364438930
+annotation_uri: http://dev.llgc.org.uk/annotation/1560365469519
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/821,3475,540,103/150,/0/default.jpg
-label: excrements
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/791,3494,736,292/150,/0/default.jpg
+label: excuse
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '156'
+order: '157'
 layout: index_item
 collection: index2
 ---

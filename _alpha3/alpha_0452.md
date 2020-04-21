@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0641/'>Nobility</a>|<a href='/digital-beehive/toc/toc2_443/'>4884
   [Ignoble]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1949/'>ignoble</a>"
+index: "<a href='/digital-beehive/index3/index_1948/'>ignoble</a>"
 item: "#item-bebb1e5fa"
 unparsed: 
 line: 'Entry: Ignoble|Topic: Ignoble|Xref: Nobility|Xref: 4884 [Ignoble]|Index: ignoble|#item-bebb1e5fa'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/324,20
 label: Ignoble
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '008'
 layout: alpha_item
 collection: alpha3

@@ -23,7 +23,7 @@ label: rust
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0721'
+order: '0722'
 layout: index_item
 collection: index4
 ---

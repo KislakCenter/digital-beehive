@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_253/'>1296 [Printing]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3161/'>printing</a>"
+index: "<a href='/digital-beehive/index4/index_3160/'>printing</a>"
 item: "#item-9776fdeb6"
 unparsed: 
 line: 'Entry: Printing|Topic: Printing|Xref: 1296 [Printing]|Index: printing|#item-9776fdeb6'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/811,42
 label: Printing
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '086'
 layout: alpha_item
 collection: alpha4

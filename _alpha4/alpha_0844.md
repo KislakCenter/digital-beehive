@@ -23,6 +23,7 @@ label: Sedition vid. Rebellion
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: It is unclear whether "Sedition" should be annotated as its own entry.|The
   meaning of "vid. Rebellion" is unclear.
+also_in_entry: 
 order: '196'
 layout: alpha_item
 collection: alpha4

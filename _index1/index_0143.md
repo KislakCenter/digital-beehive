@@ -3,7 +3,7 @@ pid: index_0143
 volume: Volume 3
 image_number: '8'
 head: anger
-entry: "<a href='/digital-beehive/alpha1/alpha_0030/'>a</a>|<a href='/digital-beehive/toc/toc2_125/'>529
+entry: "<a href='/digital-beehive/alpha1/alpha_0030/'>a</a>|<a href='/digital-beehive/num3/num_0663'>529
   [Angry]</a>|<a href='/digital-beehive/toc/toc2_217/'>1118 [Anger]</a>|<a href='/digital-beehive/toc/toc2_231/'>1188
   [Anger]</a>|<a href='/digital-beehive/toc/toc2_233/'>1198 [Anger]</a>"
 topic: 

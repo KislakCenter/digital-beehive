@@ -2,28 +2,28 @@
 pid: index_2096
 volume: Volume 3
 image_number: '26'
-head: inundation
-entry: 
+head: invocation of Saints
+entry: "<a href='/digital-beehive/toc/toc2_353/'>1906 [Invocation of Saints]</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1004/'>deluge</a>"
+see: 
 index: 
-item: "#item-0452b5fbc"
+item: "#item-4ef806d6f"
 unparsed: 
-line: 'Head: inundation|See: deluge|#item-0452b5fbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1867,1644,625,159/full/0/default.jpg
+line: 'Head: invocation of Saints|Entry: 1906 [Invocation of Saints]|#item-4ef806d6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751500776
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751692486
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1867,1644,625,159/150,/0/default.jpg
-label: inundation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1866,1729,669,135/150,/0/default.jpg
+label: invocation of Saints
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '177'
+order: '178'
 layout: index_item
 collection: index3
 ---

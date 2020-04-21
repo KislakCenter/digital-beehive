@@ -2,28 +2,28 @@
 pid: index_1758
 volume: Volume 3
 image_number: '23'
-head: harmony
-entry: 
+head: harness
+entry: 783 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4388/'>unity</a>"
+see: 
 index: 
-item: "#item-23170c3ec"
+item: "#item-6435b3a3c"
 unparsed: 
-line: 'Head: harmony|See: unity|#item-23170c3ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/841,1855,607,139/full/0/default.jpg
+line: 'Head: harness|Entry: 783 [PAGE_MISSING]|#item-6435b3a3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/852,1968,391,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240039875
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240088023
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/841,1855,607,139/150,/0/default.jpg
-label: harmony
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/852,1968,391,114/150,/0/default.jpg
+label: harness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '575'
+order: '576'
 layout: index_item
 collection: index2
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha1/alpha_0241/'>Discretness</a>|<a
   href='/digital-beehive/toc/toc2_281/'>1437 [Modesty]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2554/'>modesty</a>"
+index: "<a href='/digital-beehive/index3/index_2553/'>modesty</a>"
 item: "#item-15da617d5"
 unparsed: 
 line: 'Entry: Modesty|Topic: Modesty|Xref: Civility|Xref: Discretness|Xref: 1437 [Modesty]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/352,22
 label: Modesty
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '155'
 layout: alpha_item
 collection: alpha3

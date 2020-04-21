@@ -8,10 +8,10 @@ topic: Obedience
 first_letter: O
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0243/'>disobed</a>|<a href='/digital-beehive/toc/toc2_183/'>985
+xref: "<a href='/digital-beehive/alpha1/alpha_0243/'>disobed</a>|<a href='/digital-beehive/num4/num_1314'>985
   [Obedience]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2755/'>obedience</a>"
+index: "<a href='/digital-beehive/index4/index_2754/'>obedience</a>"
 item: "#item-7dfdfd864"
 unparsed: 
 line: 'Entry: Obedience|Topic: Obedience|Xref: disobed|Xref: 985 [Obedience]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/704,44
 label: Obedience
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '002'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,8 @@
 pid: index_2425
 volume: Volume 3
 image_number: '29'
-head: marigolds
-entry: "<a href='/digital-beehive/toc/toc2_153/'>686 [Marigolds]</a>"
+head: mariners
+entry: 764 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4e0711290"
+item: "#item-8cd8407cf"
 unparsed: 
-line: 'Head: marigolds|Entry: 686 [Marigolds]|#item-4e0711290'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/full/0/default.jpg
+line: 'Head: mariners|Entry: 764 [PAGE_MISSING]|#item-8cd8407cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197230520
+annotation_uri: http://dev.llgc.org.uk/annotation/1560197249447
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1527,3468,494,157/150,/0/default.jpg
-label: marigolds
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/150,/0/default.jpg
+label: mariners
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '506'
+order: '507'
 layout: index_item
 collection: index3
 ---

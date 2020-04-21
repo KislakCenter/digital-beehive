@@ -2,24 +2,25 @@
 pid: index_0752
 volume: Volume 3
 image_number: '13'
-head: to com[m]unicate
-entry: "<a href='/digital-beehive/toc/toc2_411/'>2364 [To Comunicate & partake]</a>"
+head: communion
+entry: "<a href='/digital-beehive/alpha1/alpha_0160/'>a</a>|<a href='/digital-beehive/toc/toc2_345/'>1790
+  [Communion]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2897/'>partake</a>"
+see: 
 index: 
-item: "#item-3fca3bef2"
+item: "#item-a611b07de"
 unparsed: 
-line: 'Head: to com[m]unicate|See: partake|Entry: 2364 [To Comunicate & partake]|#item-3fca3bef2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1530,2915,774,168/full/0/default.jpg
+line: 'Head: communion|Entry: a|Entry: 1790 [Communion]|#item-a611b07de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1534,3067,652,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163789386
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163814858
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1530,2915,774,168/150,/0/default.jpg
-label: to com[m]unicate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1534,3067,652,121/150,/0/default.jpg
+label: communion
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

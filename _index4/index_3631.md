@@ -3,7 +3,7 @@ pid: index_3631
 volume: Volume 3
 image_number: '42'
 head: Selling. to sell
-entry: "<a href='/digital-beehive/toc/toc2_138/'>604 [to Sell]</a>"
+entry: "<a href='/digital-beehive/num3/num_0797'>604 [to Sell]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: Selling. to sell
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0879'
+order: '0880'
 layout: index_item
 collection: index4
 ---

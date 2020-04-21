@@ -2,28 +2,28 @@
 pid: index_2437
 volume: Volume 3
 image_number: '30'
-head: martyrologies
-entry: 
+head: Mary
+entry: "<a href='/digital-beehive/num4/num_1141'>887 [Mary]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-a9963fa83"
+item: "#item-8f62b4742"
 unparsed: 
-line: 'Head: martyrologies|Page: p.379 [Image 2.201]|#item-a9963fa83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/full/0/default.jpg
+line: 'Head: Mary|Entry: 887 [Mary]|#item-8f62b4742'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/418,1204,345,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263521929
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263600885
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/150,/0/default.jpg
-label: martyrologies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/418,1204,345,105/150,/0/default.jpg
+label: Mary
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '518'
+order: '519'
 layout: index_item
 collection: index3
 ---

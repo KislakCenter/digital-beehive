@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_196/'>1011 [Ground & Foundation]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1526/'>foundation</a>"
+index: "<a href='/digital-beehive/index2/index_1525/'>foundation</a>"
 item: "#item-27f0de06e"
 unparsed: 
 line: 'Entry: Foundation|Topic: Foundation|Xref: 1011 [Ground & Foundation]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/386,83
 label: Foundation
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '075'
 layout: alpha_item
 collection: alpha2

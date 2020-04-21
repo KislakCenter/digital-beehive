@@ -2,8 +2,9 @@
 pid: index_1784
 volume: Volume 3
 image_number: '23'
-head: heathens moderation
-entry: "<a href='/digital-beehive/toc/toc2_260/'>1331 [Moderation]</a>"
+head: heaven
+entry: "<a href='/digital-beehive/alpha2/alpha_0407/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1176
+  [Heaven]</a>|<a href='/digital-beehive/toc/toc2_331/'>1683 [Heaven]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cd713d5ad"
+item: "#item-df6146150"
 unparsed: 
-line: 'Head: heathens moderation|Entry: 1331 [Moderation]|#item-cd713d5ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1540,1056,614,85/full/0/default.jpg
+line: 'Head: heaven|Entry: a|Entry: 1176 [Heaven]|Entry: 1683 [Heaven]|#item-df6146150'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1558,1175,626,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244247654
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244391880
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1540,1056,614,85/150,/0/default.jpg
-label: heathens moderation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1558,1175,626,108/150,/0/default.jpg
+label: heaven
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '601'
+order: '602'
 layout: index_item
 collection: index2
 ---

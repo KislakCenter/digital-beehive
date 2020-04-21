@@ -3,7 +3,7 @@ pid: index_3691
 volume: Volume 3
 image_number: '42'
 head: to shun
-entry: "<a href='/digital-beehive/toc/toc2_159/'>719 [To Avoid]</a>"
+entry: "<a href='/digital-beehive/num3/num_1061'>719 [To Avoid]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to shun
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0939'
+order: '0940'
 layout: index_item
 collection: index4
 ---

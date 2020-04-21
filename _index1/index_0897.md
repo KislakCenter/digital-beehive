@@ -2,9 +2,8 @@
 pid: index_0897
 volume: Volume 3
 image_number: '15'
-head: Creation
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1324 [Creation]</a>|<a href='/digital-beehive/toc/toc2_331/'>1681
-  [Creation]</a>"
+head: creator
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1705 [Creators]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f606aba66"
+item: "#item-c5d8d60b9"
 unparsed: 
-line: 'Head: Creation|Entry: 1324 [Creation]|Entry: 1681 [Creation]|#item-f606aba66'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/877,264,657,106/full/0/default.jpg
+line: 'Head: creator|Entry: 1705 [Creators]|#item-c5d8d60b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,354,536,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577144123
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577180679
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/877,264,657,106/150,/0/default.jpg
-label: Creation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/862,354,536,101/150,/0/default.jpg
+label: creator
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,25 +2,25 @@
 pid: index_0732
 volume: Volume 3
 image_number: '13'
-head: comet
-entry: "<a href='/digital-beehive/alpha1/alpha_0154/'>a</a>|<a href='/digital-beehive/toc/toc2_332/'>1690
-  [Comet]</a>"
+head: comfort
+entry: "<a href='/digital-beehive/alpha1/alpha_0155/'>a</a>|<a href='/digital-beehive/num1/num_0190/'>182
+  [Comfort]</a>|<a href='/digital-beehive/toc/toc2_331/'>1682 [Comfort]</a>"
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_078/'>p.28 [Image 1.88]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ac684d5bf"
+item: "#item-e8bf7064f"
 unparsed: 
-line: 'Head: comet|Page: p.28 [Image 1.88]|Entry: a|Entry: 1690 [Comet]|#item-ac684d5bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,1372,691,136/full/0/default.jpg
+line: 'Head: comfort|Entry: a|Entry: 182 [Comfort]|Entry: 1682 [Comfort]|#item-e8bf7064f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,1480,673,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610685291
+annotation_uri: http://dev.llgc.org.uk/annotation/1536610779010
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1535,1372,691,136/150,/0/default.jpg
-label: comet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1544,1480,673,122/150,/0/default.jpg
+label: comfort
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,8 +2,8 @@
 pid: index_1297
 volume: Volume 3
 image_number: '19'
-head: errata in print
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1581 [Errata's]</a>"
+head: Esau
+entry: "<a href='/digital-beehive/toc/toc2_352/'>1901 [Esau]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bfa85327e"
+item: "#item-65e263ae6"
 unparsed: 
-line: 'Head: errata in print|Entry: 1581 [Errata''s]|#item-bfa85327e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2453,661,164/full/0/default.jpg
+line: 'Head: Esau|Entry: 1901 [Esau]|#item-65e263ae6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/141,2546,308,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276217279
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277124736
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2453,661,164/150,/0/default.jpg
-label: errata in print
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/141,2546,308,104/150,/0/default.jpg
+label: Esau
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '115'
+order: '116'
 layout: index_item
 collection: index2
 ---

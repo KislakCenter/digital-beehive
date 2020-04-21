@@ -2,8 +2,8 @@
 pid: index_1147
 volume: Volume 3
 image_number: '17'
-head: dregs
-entry: 853 [PAGE_MISSING]
+head: dress
+entry: "<a href='/digital-beehive/num1/num_0203/'>195 [Ornament]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d42d04b19"
+item: "#item-76fab5bc5"
 unparsed: 
-line: 'Head: dregs|Entry: 853 [PAGE_MISSING]|#item-d42d04b19'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,1665,465,152/full/0/default.jpg
+line: 'Head: dress|Entry: 195 [Ornament]|#item-76fab5bc5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452115739
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452232666
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1456,1665,465,152/150,/0/default.jpg
-label: dregs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/150,/0/default.jpg
+label: dress
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

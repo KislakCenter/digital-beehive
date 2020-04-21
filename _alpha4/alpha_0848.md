@@ -8,7 +8,7 @@ topic: Self denial
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_175/'>938 [Self denial]</a>"
+xref: "<a href='/digital-beehive/num4/num_1254'>938 [Self denial]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3613/'>Self denial</a>"
 item: "#item-e12c96c89"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/313,20
 label: Self denial
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '200'
 layout: alpha_item
 collection: alpha4

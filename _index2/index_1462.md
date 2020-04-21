@@ -2,8 +2,8 @@
 pid: index_1462
 volume: Volume 3
 image_number: '20'
-head: first fruits
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1902 [First fruits]</a>"
+head: first love
+entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [First Love]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2a46e9e12"
+item: "#item-bb6d06c0d"
 unparsed: 
-line: 'Head: first fruits|Entry: 1902 [First fruits]|#item-2a46e9e12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2180,1526,362,181/full/0/default.jpg
+line: 'Head: first love|Entry: 1601 [First Love]|#item-bb6d06c0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562614399322
+annotation_uri: http://dev.llgc.org.uk/annotation/1562614470957
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/2180,1526,362,181/150,/0/default.jpg
-label: first fruits
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/150,/0/default.jpg
+label: first love
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '280'
+order: '281'
 layout: index_item
 collection: index2
 ---

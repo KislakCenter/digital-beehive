@@ -3,7 +3,7 @@ pid: index_3661
 volume: Volume 3
 image_number: '42'
 head: shameless
-entry: "<a href='/digital-beehive/num2/num_0581/'>471 [Impudence]</a>"
+entry: "<a href='/digital-beehive/num2/num_0586/'>471 [Impudence]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: shameless
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0909'
+order: '0910'
 layout: index_item
 collection: index4
 ---

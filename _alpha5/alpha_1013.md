@@ -8,7 +8,7 @@ topic: Voracity
 first_letter: U/V
 page: 
 add: 
-xref: glutton|<a href='/digital-beehive/toc/toc2_151/'>677 [Voracity]</a>
+xref: glutton|<a href='/digital-beehive/num3/num_0945'>677 [Voracity]</a>
 see: 
 index: "<a href='/digital-beehive/index5/index_4431/'>voracity</a>"
 item: "#item-9e391e5e8"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/306,95
 label: Voracity
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 issue: The point of reference for "glutton" is unclear.
-order: '078'
+also_in_entry: 
+order: '079'
 layout: alpha_item
 collection: alpha5
 ---

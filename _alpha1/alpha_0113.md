@@ -9,7 +9,7 @@ first_letter: C
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0655/'>office</a>|<a href='/digital-beehive/alpha4/alpha_0875/'>Simony</a>|Ordination|<a
-  href='/digital-beehive/toc/toc2_168/'>904 [Calling]</a>"
+  href='/digital-beehive/num4/num_1174'>904 [Calling]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0510/'>calling</a>"
 item: "#item-01e9433b9"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/321,12
 label: Calling
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 issue: The point of reference for "Ordination" is unclear.
+also_in_entry: 
 order: '112'
 layout: alpha_item
 collection: alpha1

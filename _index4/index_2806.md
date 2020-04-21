@@ -2,9 +2,8 @@
 pid: index_2806
 volume: Volume 3
 image_number: '33'
-head: opinion
-entry: "<a href='/digital-beehive/alpha4/alpha_0663/'>a</a>|<a href='/digital-beehive/toc/toc2_199/'>1029
-  [Opinion]</a>"
+head: opium
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1213 [Poppy-Juice]</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5c930db8c"
+item: "#item-18fcd5b60"
 unparsed: 
-line: 'Head: opinion|Entry: a|Entry: 1029 [Opinion]|#item-5c930db8c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1516,630,620,151/full/0/default.jpg
+line: 'Head: opium|Entry: 1213 [Poppy-Juice]|#item-18fcd5b60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1506,763,474,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161354330
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161384833
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1516,630,620,151/150,/0/default.jpg
-label: opinion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1506,763,474,136/150,/0/default.jpg
+label: opium
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0054'
+order: '0055'
 layout: index_item
 collection: index4
 ---

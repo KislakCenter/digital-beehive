@@ -2,9 +2,8 @@
 pid: index_1087
 volume: Volume 3
 image_number: '17'
-head: disorder
-entry: "<a href='/digital-beehive/alpha1/alpha_0244/'>a</a>|<a href='/digital-beehive/toc/toc2_173/'>929
-  [Disorder]</a>"
+head: disordinate love
+entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8e9b95dcd"
+item: "#item-4868783dc"
 unparsed: 
-line: 'Head: disorder|Entry: a|Entry: 929 [Disorder]|#item-8e9b95dcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,2071,535,113/full/0/default.jpg
+line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-4868783dc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175628315
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804273327
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,2071,535,113/150,/0/default.jpg
-label: disorder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/150,/0/default.jpg
+label: disordinate love
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

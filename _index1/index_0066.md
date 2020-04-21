@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-ecd235efe"
 unparsed: 
-line: 'Head: afterwards|Entry: 248 [Long Ago]|#item-ecd235efe'
+line: 'Head: afterwards|Entry: 248 [Long ago]|#item-ecd235efe'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/909,2199,536,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564766719489

@@ -2,29 +2,28 @@
 pid: index_1189
 volume: Volume 3
 image_number: '18'
-head: earth fleas
-entry: 
+head: earthquake
+entry: "<a href='/digital-beehive/alpha2/alpha_0272/'>a</a>"
 topic: 
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_281/'>p.140 [Image 1.291]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-06dc62c3d"
+item: "#item-632447253"
 unparsed: 
-line: 'Head: earth fleas|Page: p.140 [Image 1.291]|#item-06dc62c3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/full/0/default.jpg
+line: 'Head: earthquake|Entry: a|#item-632447253'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,2456,394,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669068258
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667281610
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/415,2415,706,76/150,/0/default.jpg
-label: earth fleas
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/430,2456,394,105/150,/0/default.jpg
+label: earthquake
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 'Pastorius links to entry 366 in the Onomastical Considerations. There is currently
-  no protocol for linking to specific entries in the Onomastical Considerations. '
+issue: 
 insertion_xref: 
-order: '007'
+order: '008'
 layout: index_item
 collection: index2
 ---

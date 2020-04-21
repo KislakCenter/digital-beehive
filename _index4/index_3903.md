@@ -3,7 +3,7 @@ pid: index_3903
 volume: Volume 3
 image_number: '45'
 head: a still
-entry: "<a href='/digital-beehive/toc/toc2_135/'>592 [Distilling]</a>"
+entry: "<a href='/digital-beehive/num3/num_0767'>592 [Distilling]</a>"
 topic: 
 first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
@@ -23,7 +23,7 @@ label: a still
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1151'
+order: '1152'
 layout: index_item
 collection: index4
 ---

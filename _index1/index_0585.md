@@ -3,7 +3,7 @@ pid: index_0585
 volume: Volume 3
 image_number: '12'
 head: certainty
-entry: "<a href='/digital-beehive/alpha1/alpha_0134/'>a</a>|<a href='/digital-beehive/toc/toc2_169/'>908
+entry: "<a href='/digital-beehive/alpha1/alpha_0134/'>a</a>|<a href='/digital-beehive/num4/num_1186'>908
   [Certainty]</a>|<a href='/digital-beehive/toc/toc2_383/'>2180 [Certainty]</a>"
 topic: 
 first_letter: C

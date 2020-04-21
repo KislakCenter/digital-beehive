@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0720/'>Poverty</a>|<a href='/digital-beehive/alpha1/alpha_0203/'>Custom</a>|<a
   href='/digital-beehive/toc/toc2_327/'>1663 [Nature]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2659/'>nature</a>"
+index: "<a href='/digital-beehive/index3/index_2658/'>nature</a>"
 item: "#item-ced0ebdf8"
 unparsed: 
 line: 'Entry: Nature|Topic: Nature|Xref: Poverty|Xref: Custom|Xref: 1663 [Nature]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,27
 label: Nature
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '187'
 layout: alpha_item
 collection: alpha3

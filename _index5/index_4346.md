@@ -9,7 +9,7 @@ first_letter: U/V
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0269/'>bad</a>|<a href='/digital-beehive/index1/index_0862/'>corrupt</a>"
+see: "<a href='/digital-beehive/index1/index_0269/'>bad</a>|<a href='/digital-beehive/index1/index_0861/'>corrupt</a>"
 index: 
 item: "#item-1dc1368f8"
 unparsed: 

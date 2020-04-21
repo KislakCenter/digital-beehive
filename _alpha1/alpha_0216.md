@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0986/'>deer</a>"
+index: "<a href='/digital-beehive/index1/index_0985/'>deer</a>"
 item: "#item-ce13c55af"
 unparsed: 
 line: 'Entry: Deer|Topic: Deer|Index: deer|#item-ce13c55af'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/750,25
 label: Deer
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '215'
+also_in_entry: 
+order: '214'
 layout: alpha_item
 collection: alpha1
 ---

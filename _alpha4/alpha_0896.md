@@ -8,8 +8,8 @@ topic: Soul
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0594/'>mind</a>|<a href='/digital-beehive/toc/toc2_121/'>507
-  [Death]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0594/'>mind</a>|<a href='/digital-beehive/num3/num_0638'>507
+  [Death passed upon all men]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3808/'>soul</a>"
 item: "#item-7a3a1062e"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/825,26
 label: Soul
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '248'
 layout: alpha_item
 collection: alpha4

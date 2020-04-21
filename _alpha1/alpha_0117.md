@@ -8,7 +8,7 @@ topic: Capital offence
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/digital-beehive/toc/toc2_144/'>638
+xref: "<a href='/digital-beehive/alpha1/alpha_0194/'>Crime</a>|<a href='/digital-beehive/num3/num_0865'>638
   [Capital Offences]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0533/'>capital offence</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/378,25
 label: Capital offence
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '116'
 layout: alpha_item
 collection: alpha1

@@ -3,7 +3,7 @@ pid: index_4667
 volume: Volume 3
 image_number: '54'
 head: Lord Major
-entry: "<a href='/digital-beehive/toc/toc2_129/'>555 [Lord Major]</a>"
+entry: "<a href='/digital-beehive/num3/num_0703'>555 [Lord Major]</a>"
 topic: 
 first_letter: insertion
 page: 

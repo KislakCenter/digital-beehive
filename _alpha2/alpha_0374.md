@@ -8,10 +8,10 @@ topic: Gospel
 first_letter: G
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0947/'>New Testament</a>|<a href='/digital-beehive/toc/toc2_180/'>967
+xref: "<a href='/digital-beehive/alpha5/alpha_0947/'>New Testament</a>|<a href='/digital-beehive/num4/num_1288'>967
   [Gospel]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1672/'>gospel</a>"
+index: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"
 item: "#item-5cd91f76f"
 unparsed: 
 line: 'Entry: Gospel|Topic: Gospel|Xref: New Testament|Xref: 967 [Gospel]|Index: gospel|#item-5cd91f76f'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/336,23
 label: Gospel
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '105'
 layout: alpha_item
 collection: alpha2

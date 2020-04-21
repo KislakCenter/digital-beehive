@@ -3,7 +3,7 @@ pid: index_3421
 volume: Volume 3
 image_number: '40'
 head: rickets
-entry: "<a href='/digital-beehive/toc/toc2_152/'>681 [Rickets]</a>"
+entry: "<a href='/digital-beehive/num3/num_0958'>681 [Rickets]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rickets
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0669'
+order: '0670'
 layout: index_item
 collection: index4
 ---

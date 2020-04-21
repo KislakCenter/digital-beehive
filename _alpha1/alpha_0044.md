@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/796,15
 label: Approbation
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: The point of reference for "Confirm" is unclear.
+also_in_entry: 
 order: '043'
 layout: alpha_item
 collection: alpha1

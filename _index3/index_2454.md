@@ -2,28 +2,28 @@
 pid: index_2454
 volume: Volume 3
 image_number: '30'
-head: mead
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1051 [Mead]</a>"
+head: meadow
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2913/'>pasture</a>"
 index: 
-item: "#item-697a079e7"
+item: "#item-dcfece0f8"
 unparsed: 
-line: 'Head: mead|Entry: 1051 [Mead]|#item-697a079e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/391,2544,332,71/full/0/default.jpg
+line: 'Head: meadow|See: pasture|#item-dcfece0f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/387,2613,760,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265457633
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265579534
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/391,2544,332,71/150,/0/default.jpg
-label: mead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/387,2613,760,165/150,/0/default.jpg
+label: meadow
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
+issue: The meaning of "It. field" cannot be determined.
 insertion_xref: 
-order: '535'
+order: '536'
 layout: index_item
 collection: index3
 ---

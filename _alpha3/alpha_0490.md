@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4549 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2116/'>iron</a>"
+index: "<a href='/digital-beehive/index3/index_2115/'>iron</a>"
 item: "#item-a5dae48ef"
 unparsed: 
 line: 'Entry: Iron|Topic: Iron|Xref: 4549 [PAGE_MISSING]|Index: iron|#item-a5dae48ef'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/720,33
 label: Iron
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '046'
 layout: alpha_item
 collection: alpha3

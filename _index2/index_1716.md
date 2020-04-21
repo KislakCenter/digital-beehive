@@ -2,8 +2,8 @@
 pid: index_1716
 volume: Volume 3
 image_number: '23'
-head: grinding
-entry: "<a href='/digital-beehive/toc/toc2_227/'>1167 [To whet]</a>"
+head: grinding stone
+entry: "<a href='/digital-beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-04918d7db"
+item: "#item-a9e3bcb71"
 unparsed: 
-line: 'Head: grinding|Entry: 1167 [To whet]|#item-04918d7db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/141,1491,446,156/full/0/default.jpg
+line: 'Head: grinding stone|Entry: 1284 [a Whetstone]|#item-a9e3bcb71'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,1593,392,66/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231397598
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231569087
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/141,1491,446,156/150,/0/default.jpg
-label: grinding
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,1593,392,66/150,/0/default.jpg
+label: grinding stone
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '533'
+order: '534'
 layout: index_item
 collection: index2
 ---

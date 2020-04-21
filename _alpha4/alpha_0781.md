@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0829/'>Saviour</a>|deliverance|<a href='/digital-beehive/alpha4/alpha_0828/'>Salvation</a>|<a
   href='/digital-beehive/toc/toc2_404/'>2306 [Redemption]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3328/'>redemption</a>"
+index: "<a href='/digital-beehive/index4/index_3327/'>redemption</a>"
 item: "#item-6483207bc"
 unparsed: 
 line: 'Entry: Redemption|Topic: Redemption|Xref: Saviour|Xref: deliverance|Xref: Salvation|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/805,21
 label: Redemption
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: The point of reference for "deliverance" is unclear.
+also_in_entry: 
 order: '134'
 layout: alpha_item
 collection: alpha4

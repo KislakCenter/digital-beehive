@@ -2,8 +2,9 @@
 pid: index_1215
 volume: Volume 3
 image_number: '18'
-head: efficacy
-entry: "<a href='/digital-beehive/toc/toc2_139/'>611 [Efficacy]</a>"
+head: egg
+entry: "<a href='/digital-beehive/alpha2/alpha_0278/'>a</a>|<a href='/digital-beehive/toc/toc2_325/'>1651
+  [Eggs]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e8dc67cc5"
+item: "#item-2f9927409"
 unparsed: 
-line: 'Head: efficacy|Entry: 611 [Efficacy]|#item-e8dc67cc5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/full/0/default.jpg
+line: 'Head: egg|Entry: a|Entry: 1651 [Eggs]|#item-2f9927409'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1165,1597,346,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673428530
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673564143
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/150,/0/default.jpg
-label: efficacy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1165,1597,346,122/150,/0/default.jpg
+label: egg
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '033'
+order: '034'
 layout: index_item
 collection: index2
 ---

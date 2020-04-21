@@ -2,8 +2,9 @@
 pid: index_1696
 volume: Volume 3
 image_number: '22'
-head: grasshopper
-entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Grasshopper]</a>"
+head: gratitude
+entry: "<a href='/digital-beehive/alpha2/alpha_0382/'>a</a>|<a href='/digital-beehive/toc/toc2_214/'>1104
+  [Benefits]</a>|<a href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-334c6bfbf"
+item: "#item-2226d8ac8"
 unparsed: 
-line: 'Head: grasshopper|Entry: 1250 [Grasshopper]|#item-334c6bfbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1824,2877,575,157/full/0/default.jpg
+line: 'Head: gratitude|Entry: a|Entry: 1104 [Benefits]|Entry: 1132 [Gratitude]|#item-2226d8ac8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1838,3008,693,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053526605
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053628006
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1824,2877,575,157/150,/0/default.jpg
-label: grasshopper
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1838,3008,693,201/150,/0/default.jpg
+label: gratitude
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '513'
+order: '514'
 layout: index_item
 collection: index2
 ---

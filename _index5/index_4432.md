@@ -3,7 +3,7 @@ pid: index_4432
 volume: Volume 3
 image_number: '51'
 head: to vote
-entry: "<a href='/digital-beehive/toc/toc2_161/'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
+entry: "<a href='/digital-beehive/num4/num_1083'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
   [Votes]</a>"
 topic: 
 first_letter: U/V

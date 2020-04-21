@@ -8,9 +8,9 @@ topic: Comedy
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_169/'>909 [Comedies]</a>"
+xref: "<a href='/digital-beehive/num4/num_1187'>909 [Comedies]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0730/'>comedy</a>"
+index: "<a href='/digital-beehive/index1/index_0729/'>comedy</a>"
 item: "#item-778e80adc"
 unparsed: 
 line: 'Entry: Comedy|Topic: Comedy|Xref: 909 [Comedies]|Index: comedy|#item-778e80adc'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/823,34
 label: Comedy
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '152'
 layout: alpha_item
 collection: alpha1

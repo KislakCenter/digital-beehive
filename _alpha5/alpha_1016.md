@@ -14,8 +14,8 @@ see:
 index: "<a href='/digital-beehive/index5/index_4453/'>the vulgar</a>"
 item: "#item-f749e0afc"
 unparsed: 
-line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [Vulgar Spirited Man]|Xref: 1136
-  [Vulgar]|Index: the vulgar|#item-f749e0afc'
+line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [a Vulgar Spirited man]|Xref:
+  1136 [Vulgar]|Index: the vulgar|#item-f749e0afc'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,1947,3013,331/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1529004999189
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/339,19
 label: the Vulgar
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 issue: 
-order: '081'
+also_in_entry: 
+order: '082'
 layout: alpha_item
 collection: alpha5
 ---

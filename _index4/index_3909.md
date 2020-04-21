@@ -23,7 +23,7 @@ label: Stoicks
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1157'
+order: '1158'
 layout: index_item
 collection: index4
 ---

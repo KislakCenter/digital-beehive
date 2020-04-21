@@ -2,8 +2,8 @@
 pid: index_2699
 volume: Volume 3
 image_number: '32'
-head: new year
-entry: "<a href='/digital-beehive/toc/toc2_338/'>1735 [New Year]</a>"
+head: new york
+entry: "<a href='/digital-beehive/toc/toc2_299/'>1523 [New York]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e1ffc1c46"
+item: "#item-480f892c5"
 unparsed: 
-line: 'Head: new year|Entry: 1735 [New Year]|#item-e1ffc1c46'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1126,2163,420,106/full/0/default.jpg
+line: 'Head: new york|Entry: 1523 [New York]|#item-480f892c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1122,2225,460,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442562743
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442568651
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1126,2163,420,106/150,/0/default.jpg
-label: new year
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1122,2225,460,145/150,/0/default.jpg
+label: new york
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '780'
+order: '781'
 layout: index_item
 collection: index3
 ---

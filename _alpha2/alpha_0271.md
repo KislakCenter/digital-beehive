@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1056/'>World</a>|<a href='/digital-beehive/toc/toc2_378/'>2130
   [Earth]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1188/'>earth</a>"
+index: "<a href='/digital-beehive/index2/index_1187/'>earth</a>"
 item: "#item-a3ac6b45a"
 unparsed: 
 line: 'Entry: Earth|Topic: Earth|Xref: World|Xref: 2130 [Earth]|Index: earth|#item-a3ac6b45a'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/766,28
 label: Earth
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '002'
 layout: alpha_item
 collection: alpha2

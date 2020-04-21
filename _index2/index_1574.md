@@ -2,8 +2,8 @@
 pid: index_1574
 volume: Volume 3
 image_number: '21'
-head: gag
-entry: 4742 [PAGE_MISSING]
+head: Galenus
+entry: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Noia Medicorum]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b1f0dc4bc"
+item: "#item-e4f0eda64"
 unparsed: 
-line: 'Head: gag|Entry: 4742 [PAGE_MISSING]|#item-b1f0dc4bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1970,1992,344,143/full/0/default.jpg
+line: 'Head: Galenus|Entry: 2228 [Noia Medicorum]|#item-e4f0eda64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1556,2054,430,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786458152
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786520040
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1970,1992,344,143/150,/0/default.jpg
-label: gag
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1556,2054,430,79/150,/0/default.jpg
+label: Galenus
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '392'
+order: '393'
 layout: index_item
 collection: index2
 ---

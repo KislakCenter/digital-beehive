@@ -2,28 +2,28 @@
 pid: index_2466
 volume: Volume 3
 image_number: '30'
-head: medicoru[m] nomina
-entry: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Noia medicorum]</a>"
+head: medicine books
+entry: 
 topic: 
 first_letter: M
-page: 
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-200c7f5da"
+item: "#item-72064cf15"
 unparsed: 
-line: 'Head: medicoru[m] nomina|Entry: 2228 [Noia medicorum]|#item-200c7f5da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/full/0/default.jpg
+line: 'Head: medicine books|Page: p.379 [Image 2.201]|#item-72064cf15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267444628
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267248226
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/150,/0/default.jpg
-label: medicoru[m] nomina
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/150,/0/default.jpg
+label: medicine books
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '547'
+order: '548'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1073/'>discretion</a>"
+index: "<a href='/digital-beehive/index1/index_1072/'>discretion</a>"
 item: "#item-c8b7cc6c4"
 unparsed: 
 line: 'Entry: Discretion|Topic: Discretion|Index: discretion|#item-c8b7cc6c4'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/784,27
 label: Discretion
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '241'
+also_in_entry: 
+order: '240'
 layout: alpha_item
 collection: alpha1
 ---

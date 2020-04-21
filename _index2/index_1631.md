@@ -2,8 +2,8 @@
 pid: index_1631
 volume: Volume 3
 image_number: '22'
-head: glyster
-entry: "<a href='/digital-beehive/toc/toc2_380/'>2145 [Glyster]</a>"
+head: "[:29.]"
+entry: 
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-72659344c"
-unparsed: 
-line: 'Head: glyster|Entry: 2145 [Glyster]|#item-72659344c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1116,720,480,133/full/0/default.jpg
+item: "#item-bb7022dd5"
+unparsed: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+line: 'Type: Index|Insertion Xref: [:29.]|#item-bb7022dd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045758638
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046062431
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1116,720,480,133/150,/0/default.jpg
-label: glyster
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,765,180,120/150,/0/default.jpg
+label: "[:29.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '449'
+insertion_xref: "<a href='/digital-beehive/index5/index_4694/'><</a>"
+order: '450'
 layout: index_item
 collection: index2
 ---

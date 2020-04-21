@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0543/'>Livelyhood</a>|Shopkeeper|Butcher|<a
-  href='/digital-beehive/toc/toc2_143/'>634 [Trade]</a>"
+  href='/digital-beehive/num3/num_0859'>634 [Trade]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4208/'>trade</a>"
 item: "#item-dbf3ca43c"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/802,21
 label: Trade
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '037'
+also_in_entry: 
+order: '038'
 layout: alpha_item
 collection: alpha5
 ---

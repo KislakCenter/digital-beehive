@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_198/'>1021 [Officers]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2775/'>officer</a>"
+index: "<a href='/digital-beehive/index4/index_2774/'>officer</a>"
 item: "#item-f0fcc51f2"
 unparsed: 
 line: 'Entry: Officer|Topic: Officer|Xref: 1021 [Officers]|Index: officer|#item-f0fcc51f2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/299,20
 label: Officer
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '009'
 layout: alpha_item
 collection: alpha4

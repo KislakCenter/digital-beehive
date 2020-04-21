@@ -2,28 +2,28 @@
 pid: index_1313
 volume: Volume 3
 image_number: '19'
-head: Eva
+head: evangelists
 entry: 
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0039/'>Adam</a>"
+see: "<a href='/digital-beehive/index2/index_1671/'>gospel</a>"
 index: 
-item: "#item-d11c69e4c"
+item: "#item-17332b14b"
 unparsed: 
-line: 'Head: Eva|See: Adam|#item-d11c69e4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,802,545,128/full/0/default.jpg
+line: 'Head: evangelists|See: gospel|#item-17332b14b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565296916442
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350963400
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,802,545,128/150,/0/default.jpg
-label: Eva
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/150,/0/default.jpg
+label: evangelists
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '131'
+order: '132'
 layout: index_item
 collection: index2
 ---

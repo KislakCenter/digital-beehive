@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/794,34
 label: Unprofitable
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: 
-order: '072'
+also_in_entry: 
+order: '073'
 layout: alpha_item
 collection: alpha5
 ---

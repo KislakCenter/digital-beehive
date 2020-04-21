@@ -8,10 +8,10 @@ topic: Last day of Judgmt
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0033/'>33 [Last day]</a>|<a href='/digital-beehive/toc/toc2_183/'>988
+xref: "<a href='/digital-beehive/num1/num_0033/'>33 [Last day]</a>|<a href='/digital-beehive/num4/num_1317'>988
   [Last day of Judgmt]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2204/'>last day</a>"
+index: "<a href='/digital-beehive/index3/index_2203/'>last day</a>"
 item: "#item-aaa97c3ac"
 unparsed: 
 line: 'Entry: Last day of Judgmt|Topic: Last day of Judgmt|Xref: 33 [Last day]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,23
 label: Last day of Judgmt
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '067'
 layout: alpha_item
 collection: alpha3

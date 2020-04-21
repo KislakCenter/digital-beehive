@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,11
 label: Way
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 issue: 
-order: '091'
+also_in_entry: 
+order: '092'
 layout: alpha_item
 collection: alpha5
 ---

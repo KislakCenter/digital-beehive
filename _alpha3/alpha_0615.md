@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2606/'>mouse</a>"
+index: "<a href='/digital-beehive/index3/index_2605/'>mouse</a>"
 item: "#item-f09647abd"
 unparsed: 
 line: 'Entry: Mouse|Topic: Mouse|Index: mouse|#item-f09647abd'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/754,21
 label: Mouse
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '171'
 layout: alpha_item
 collection: alpha3

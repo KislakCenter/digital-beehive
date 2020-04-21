@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/digital-beehive/toc/toc2_276/'>1415
   [Hospita]</a>|<a href='/digital-beehive/alpha4/alpha_0668/'>Oprhan house</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1879/'>hospital</a>"
+index: "<a href='/digital-beehive/index2/index_1878/'>hospital</a>"
 item: "#item-8c5bbd263"
 unparsed: 
 line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospita]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,40
 label: Hospital
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '163'
 layout: alpha_item
 collection: alpha2

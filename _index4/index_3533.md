@@ -3,7 +3,7 @@ pid: index_3533
 volume: Volume 3
 image_number: '41'
 head: to scald
-entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [To Burn]</a>"
+entry: "<a href='/digital-beehive/num3/num_0932'>672 [To Burn]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to scald
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0781'
+order: '0782'
 layout: index_item
 collection: index4
 ---

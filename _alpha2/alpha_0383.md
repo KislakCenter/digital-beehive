@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_408/'>2349 [Gravity]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1703/'>gravity</a>"
+index: "<a href='/digital-beehive/index2/index_1702/'>gravity</a>"
 item: "#item-62b38a997"
 unparsed: 
 line: 'Entry: Gravity|Topic: Gravity|Xref: 2349 [Gravity]|Index: gravity|#item-62b38a997'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/728,96
 label: Gravity
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '114'
 layout: alpha_item
 collection: alpha2

@@ -23,7 +23,7 @@ label: to Stone
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1162'
+order: '1163'
 layout: index_item
 collection: index4
 ---

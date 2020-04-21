@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/814,44
 label: Time
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: The entry continues onto the next page.
-order: '021'
+also_in_entry: 
+order: '022'
 layout: alpha_item
 collection: alpha5
 ---

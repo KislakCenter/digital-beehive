@@ -11,7 +11,7 @@ add:
 xref: Reprobates|<a href='/digital-beehive/alpha2/alpha_0316/'>Fate</a>|<a href='/digital-beehive/num1/num_0242/'>228
   [Predestination]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_3120/'>predestination</a>"
+index: "<a href='/digital-beehive/index4/index_3119/'>predestination</a>"
 item: "#item-d6466de3e"
 unparsed: 
 line: 'Entry: Predestination|Topic: Predestination|Xref: Reprobates|Xref: Fate|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/806,17
 label: Predestination
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '080'
 layout: alpha_item
 collection: alpha4

@@ -2,8 +2,9 @@
 pid: index_1635
 volume: Volume 3
 image_number: '22'
-head: go to!
-entry: 4560 [PAGE_MISSING]
+head: to goe
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_222/'>1142 [To Go]</a>|4580
+  [PAGE_MISSING]
 topic: 
 first_letter: G
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-cfa9d8bae"
+item: "#item-6ec647170"
 unparsed: 
-line: 'Head: go to!|Entry: 4560 [PAGE_MISSING]|#item-cfa9d8bae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/full/0/default.jpg
+line: 'Head: to goe|Entry: 805 [PAGE_MISSING]|Entry: 1142 [To Go]|Entry: 4580 [PAGE_MISSING]|#item-6ec647170'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046109548
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046182699
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/150,/0/default.jpg
-label: go to!
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1182,1028,527,166/150,/0/default.jpg
+label: to goe
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '453'
+order: '454'
 layout: index_item
 collection: index2
 ---

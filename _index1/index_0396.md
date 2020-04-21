@@ -3,7 +3,7 @@ pid: index_0396
 volume: Volume 3
 image_number: '10'
 head: to blot out
-entry: "<a href='/digital-beehive/toc/toc2_159/'>717 [To Blot out]</a>"
+entry: "<a href='/digital-beehive/num3/num_1056'>717 [To Blot out]</a>"
 topic: 
 first_letter: B
 page: 

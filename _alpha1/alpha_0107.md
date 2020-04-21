@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/827,42
 label: Building
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '106'
 layout: alpha_item
 collection: alpha1

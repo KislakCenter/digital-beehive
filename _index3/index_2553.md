@@ -2,9 +2,9 @@
 pid: index_2553
 volume: Volume 3
 image_number: '31'
-head: moderate
-entry: 21 [Moderate]|<a href='/digital-beehive/toc/toc2_260/'>1331 [Moderation]</a>|<a
-  href='/digital-beehive/toc/toc2_446/'>4916 [Moderation]</a>
+head: modesty
+entry: "<a href='/digital-beehive/alpha3/alpha_0599/'>a</a>|<a href='/digital-beehive/toc/toc2_281/'>1437
+  [Modesty]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-67e28300d"
+item: "#item-769059135"
 unparsed: 
-line: 'Head: moderate|Entry: 21 [Moderate]|Entry: 1331 [Moderation]|Entry: 4916 [Moderation]|#item-67e28300d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2361,699,124/full/0/default.jpg
+line: 'Head: modesty|Entry: a|Entry: 1437 [Modesty]|#item-769059135'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2485,540,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352564550
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352638204
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/177,2361,699,124/150,/0/default.jpg
-label: moderate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2485,540,143/150,/0/default.jpg
+label: modesty
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '634'
+order: '635'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: Divination|<a href='/digital-beehive/toc/toc2_298/'>1518 [Oracle]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2815/'>oracle</a>"
+index: "<a href='/digital-beehive/index4/index_2814/'>oracle</a>"
 item: "#item-211319dde"
 unparsed: 
 line: 'Entry: Oracle|Topic: Oracle|Xref: Divination|Xref: 1518 [Oracle]|Index: oracle|#item-211319dde'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,47
 label: Oracle
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: The point of reference for "Divination" is unclear.
+also_in_entry: 
 order: '017'
 layout: alpha_item
 collection: alpha4

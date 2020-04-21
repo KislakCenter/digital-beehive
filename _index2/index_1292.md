@@ -2,8 +2,8 @@
 pid: index_1292
 volume: Volume 3
 image_number: '19'
-head: to eradicate
-entry: 777 [PAGE_MISSING]
+head: Erasmus Rot
+entry: "<a href='/digital-beehive/toc/toc2_309/'>1573 [Erasmus Rot]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9750fc0c9"
+item: "#item-ed5e5be28"
 unparsed: 
-line: 'Head: to eradicate|Entry: 777 [PAGE_MISSING]|#item-9750fc0c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/138,1785,552,133/full/0/default.jpg
+line: 'Head: Erasmus Rot|Entry: 1573 [Erasmus Rot]|#item-ed5e5be28'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,1915,599,150/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846904215
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847114275
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/138,1785,552,133/150,/0/default.jpg
-label: to eradicate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,1915,599,150/150,/0/default.jpg
+label: Erasmus Rot
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '110'
+order: '111'
 layout: index_item
 collection: index2
 ---

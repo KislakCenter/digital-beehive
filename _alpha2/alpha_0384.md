@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_271/'>1386 [Gratulation]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1699/'>gratulation</a>"
+index: "<a href='/digital-beehive/index2/index_1698/'>gratulation</a>"
 item: "#item-e07dea125"
 unparsed: 
 line: 'Entry: Gratulation|Topic: Gratulation|Xref: 1386 [Gratulation]|Index: gratulation|#item-e07dea125'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/795,10
 label: Gratulation
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '115'
 layout: alpha_item
 collection: alpha2

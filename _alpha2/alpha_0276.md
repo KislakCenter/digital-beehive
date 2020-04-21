@@ -8,9 +8,9 @@ topic: Eclipse
 first_letter: E
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_175/'>936 [Eclipse]</a>"
+xref: "<a href='/digital-beehive/num4/num_1251'>936 [Eclipse]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1205/'>eclipse</a>"
+index: "<a href='/digital-beehive/index2/index_1204/'>eclipse</a>"
 item: "#item-3a398c693"
 unparsed: 
 line: 'Entry: Eclipse|Topic: Eclipse|Xref: 936 [Eclipse]|Index: eclipse|#item-3a398c693'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,52
 label: Eclipse
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '007'
 layout: alpha_item
 collection: alpha2

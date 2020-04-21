@@ -3,7 +3,7 @@ pid: index_3405
 volume: Volume 3
 image_number: '40'
 head: revenue
-entry: "<a href='/digital-beehive/toc/toc2_131/'>568 [Rent of Revenue]</a>"
+entry: "<a href='/digital-beehive/num3/num_0724'>568 [Rent or Revenue]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: revenue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0653'
+order: '0654'
 layout: index_item
 collection: index4
 ---

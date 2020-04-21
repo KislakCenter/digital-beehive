@@ -3,7 +3,7 @@ pid: index_3455
 volume: Volume 3
 image_number: '40'
 head: to rot
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [To Rot]</a>"
+entry: "<a href='/digital-beehive/num4/num_1082'>866 [To Rot]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: to rot
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0703'
+order: '0704'
 layout: index_item
 collection: index4
 ---

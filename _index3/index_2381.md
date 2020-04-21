@@ -2,10 +2,8 @@
 pid: index_2381
 volume: Volume 3
 image_number: '29'
-head: magnanimity
-entry: "<a href='/digital-beehive/alpha3/alpha_0565/'>a</a>|<a href='/digital-beehive/toc/toc2_125/'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_239/'>1229
-  [Magnanimity]</a>"
+head: magnete
+entry: 826 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fb96256fd"
+item: "#item-172e1f28f"
 unparsed: 
-line: 'Head: magnanimity|Entry: a|Entry: 529 [Magnanimity]|Entry: 795 [PAGE_MISSING]|Entry:
-  1229 [Magnanimity]|#item-fb96256fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/full/0/default.jpg
+line: 'Head: magnete|Entry: 826 [PAGE_MISSING]|#item-172e1f28f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/831,2750,453,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187021929
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187080475
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/150,/0/default.jpg
-label: magnanimity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/831,2750,453,132/150,/0/default.jpg
+label: magnete
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '462'
+order: '463'
 layout: index_item
 collection: index3
 ---

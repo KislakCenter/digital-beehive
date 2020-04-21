@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0736/'>Privacy</a>|<a href='/digital-beehive/alpha1/alpha_0161/'>Company</a>|<a
   href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>|<a href='/digital-beehive/alpha4/alpha_0734/'>Prison</a>|<a
-  href='/digital-beehive/toc/toc2_160/'>722 [Solitude]</a>"
+  href='/digital-beehive/num3/num_1067'>722 [Solitude]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3786/'>solitude</a>"
 item: "#item-4fa38d446"
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/759,15
 label: Solitude
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '244'
 layout: alpha_item
 collection: alpha4

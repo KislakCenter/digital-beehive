@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kissing]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2165/'>kiss</a>"
+index: "<a href='/digital-beehive/index3/index_2164/'>kiss</a>"
 item: "#item-5ebdc777a"
 unparsed: 
 line: 'Entry: Kiss|Topic: Kiss|Xref: 1905 [Kissing]|Index: kiss|#item-5ebdc777a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,34
 label: Kiss
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '058'
 layout: alpha_item
 collection: alpha3

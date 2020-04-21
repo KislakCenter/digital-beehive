@@ -10,7 +10,7 @@ page:
 add: 
 xref: 753 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_3176/'>prodigality</a>"
+index: "<a href='/digital-beehive/index4/index_3175/'>prodigality</a>"
 item: "#item-fd5f35404"
 unparsed: 
 line: 'Entry: Prodigality|Topic: Prodigality|Xref: 753 [PAGE_MISSING]|Index: prodigality|#item-fd5f35404'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/332,16
 label: Prodigality
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '092'
 layout: alpha_item
 collection: alpha4

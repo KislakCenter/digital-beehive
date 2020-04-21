@@ -3,7 +3,7 @@ pid: index_3849
 volume: Volume 3
 image_number: '44'
 head: spiritual discerning
-entry: "<a href='/digital-beehive/toc/toc2_184/'>989 [Spiritual Discerning]</a>"
+entry: "<a href='/digital-beehive/num4/num_1319'>989 [Spiritual Discerning]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spiritual discerning
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1097'
+order: '1098'
 layout: index_item
 collection: index4
 ---

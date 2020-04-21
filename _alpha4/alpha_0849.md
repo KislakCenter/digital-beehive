@@ -8,7 +8,7 @@ topic: Self hatred
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_162/'>874 [Self hatred]</a>"
+xref: "<a href='/digital-beehive/num4/num_1108'>874 [Self hatred]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3617/'>Self hatred</a>"
 item: "#item-e1efa3c08"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/282,23
 label: Self hatred
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '201'
 layout: alpha_item
 collection: alpha4

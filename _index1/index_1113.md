@@ -2,24 +2,24 @@
 pid: index_1113
 volume: Volume 3
 image_number: '17'
-head: divertismt
-entry: 
+head: divines and divinity
+entry: "<a href='/digital-beehive/alpha1/alpha_0247/'>a</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3323/'>recreation</a>"
+see: 
 index: 
-item: "#item-98e328aec"
+item: "#item-c5721caca"
 unparsed: 
-line: 'Head: divertismt|See: recreation|#item-98e328aec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/full/0/default.jpg
+line: 'Head: divines and divinity|Entry: a|#item-c5721caca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849212180
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849323353
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/150,/0/default.jpg
-label: divertismt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/804,1459,476,157/150,/0/default.jpg
+label: divines and divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

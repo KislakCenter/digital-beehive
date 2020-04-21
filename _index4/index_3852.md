@@ -3,7 +3,7 @@ pid: index_3852
 volume: Volume 3
 image_number: '44'
 head: spittle
-entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Spittle]</a>"
+entry: "<a href='/digital-beehive/num3/num_0834'>621 [Spittle]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spittle
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1100'
+order: '1101'
 layout: index_item
 collection: index4
 ---

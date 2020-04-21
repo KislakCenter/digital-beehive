@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0999/'>Unanimity</a>|840 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1069/'>discord</a>"
+index: "<a href='/digital-beehive/index1/index_1068/'>discord</a>"
 item: "#item-40ce07a4f"
 unparsed: 
 line: 'Entry: Discord|Topic: Discord|Xref: Unanimity|Xref: 840 [PAGE_MISSING]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/711,19
 label: Discord
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '239'
+also_in_entry: 
+order: '238'
 layout: alpha_item
 collection: alpha1
 ---

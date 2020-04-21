@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0631/'>Nature</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3196/'>property</a>"
+index: "<a href='/digital-beehive/index4/index_3195/'>property</a>"
 item: "#item-504806ca0"
 unparsed: 
 line: 'Entry: Property|Topic: Property|Xref: Nature|Index: property|#item-504806ca0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/788,59
 label: Property
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '101'
 layout: alpha_item
 collection: alpha4

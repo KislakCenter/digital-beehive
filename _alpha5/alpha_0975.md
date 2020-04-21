@@ -8,7 +8,7 @@ topic: Transitory
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0987/'>Vanity</a>|<a href='/digital-beehive/toc/toc2_172/'>922
+xref: "<a href='/digital-beehive/alpha5/alpha_0987/'>Vanity</a>|<a href='/digital-beehive/num4/num_1221'>922
   [Transitory]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4216/'>transitory</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/792,12
 label: Transitory
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '040'
+also_in_entry: 
+order: '041'
 layout: alpha_item
 collection: alpha5
 ---

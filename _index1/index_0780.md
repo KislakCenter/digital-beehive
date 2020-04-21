@@ -2,8 +2,8 @@
 pid: index_0780
 volume: Volume 3
 image_number: '14'
-head: condemnation of ones fault
-entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
+head: condescension
+entry: "<a href='/digital-beehive/num1/num_0059/'>58 [acts of Forbearance or Condescension]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bd9fee6b0"
+item: "#item-59eae063c"
 unparsed: 
-line: 'Head: condemnation of ones fault|Entry: 418 [Renouncing]|#item-bd9fee6b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/full/0/default.jpg
+line: 'Head: condescension|Entry: 58 [acts of Forbearance or Condescension]|#item-59eae063c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216714356
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216743595
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/150,/0/default.jpg
-label: condemnation of ones fault
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/150,/0/default.jpg
+label: condescension
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

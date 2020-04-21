@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0216/'>Deer</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1763/'>hart</a>"
+index: "<a href='/digital-beehive/index2/index_1762/'>hart</a>"
 item: "#item-7736252de"
 unparsed: 
 line: 'Entry: Hart|Topic: Hart|Xref: Deer|Index: hart|#item-7736252de'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,35
 label: Hart
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '128'
 layout: alpha_item
 collection: alpha2

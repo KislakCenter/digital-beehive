@@ -2,8 +2,8 @@
 pid: index_0937
 volume: Volume 3
 image_number: '15'
-head: to cut
-entry: 838 [PAGE_MISSING]
+head: cynicks
+entry: "<a href='/digital-beehive/toc/toc2_226/'>1161 [Cynicks]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4dcd2ab54"
+item: "#item-e8c7dd39e"
 unparsed: 
-line: 'Head: to cut|Entry: 838 [PAGE_MISSING]|#item-4dcd2ab54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1577,608,408,77/full/0/default.jpg
+line: 'Head: cynicks|Entry: 1161 [Cynicks]|#item-e8c7dd39e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390739294
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390874499
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1577,608,408,77/150,/0/default.jpg
-label: to cut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1568,699,481,135/150,/0/default.jpg
+label: cynicks
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

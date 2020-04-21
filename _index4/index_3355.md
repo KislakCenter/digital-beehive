@@ -2,8 +2,8 @@
 pid: index_3355
 volume: Volume 3
 image_number: '39'
-head: remedyless
-entry: "<a href='/digital-beehive/toc/toc2_141/'>620 [Despair]</a>"
+head: remember
+entry: 4771 [PAGE_MISSING]
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-eb921a81d"
+item: "#item-8de1f919f"
 unparsed: 
-line: 'Head: remedyless|Entry: 620 [Despair]|#item-eb921a81d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/775,582,422,113/full/0/default.jpg
+line: 'Head: remember|Entry: 4771 [PAGE_MISSING]|#item-8de1f919f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468896244
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468922314
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/775,582,422,113/150,/0/default.jpg
-label: remedyless
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/150,/0/default.jpg
+label: remember
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0603'
+order: '0604'
 layout: index_item
 collection: index4
 ---

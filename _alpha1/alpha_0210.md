@@ -9,10 +9,10 @@ first_letter: D
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0211/'>Death, continued</a>|<a href='/digital-beehive/alpha1/alpha_0013/'>Agony</a>|<a
-  href='/digital-beehive/alpha3/alpha_0608/'>Mortality</a>|<a href='/digital-beehive/toc/toc2_121/'>507
+  href='/digital-beehive/alpha3/alpha_0608/'>Mortality</a>|<a href='/digital-beehive/num3/num_0638'>507
   [Death passed upon all men]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0966/'>death</a>"
+index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
 item: "#item-7e364ca49"
 unparsed: 
 line: 'Entry: Death|Topic: Death|Xref: Death, continued|Xref: Agony|Xref: Mortality|Xref:
@@ -25,7 +25,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/404,44
 label: Death
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 issue: The entry continues onto the next page.
-order: '209'
+also_in_entry: 
+order: '208'
 layout: alpha_item
 collection: alpha1
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0652/'>Obstinacy</a>|<a href='/digital-beehive/toc/toc2_412/'>2374
   [Hardning]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1755/'>hardning</a>"
+index: "<a href='/digital-beehive/index2/index_1754/'>hardning</a>"
 item: "#item-b81c3e687"
 unparsed: 
 line: 'Entry: Hardning|Topic: Hardning|Xref: Obstinacy|Xref: 2374 [Hardning]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/791,45
 label: Hardning
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '126'
 layout: alpha_item
 collection: alpha2

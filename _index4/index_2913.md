@@ -2,28 +2,29 @@
 pid: index_2913
 volume: Volume 3
 image_number: '34'
-head: pastime
-entry: 
+head: pasture
+entry: "<a href='/digital-beehive/num4/num_1115'>878 [Pasture]</a>|<a href='/digital-beehive/toc/toc2_381/'>2151
+  [Grass & Pasture]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3323/'>recreation</a>"
+see: 
 index: 
-item: "#item-ca0a5480e"
+item: "#item-3192019d5"
 unparsed: 
-line: 'Head: pastime|See: recreation|#item-ca0a5480e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1837,1285,710,180/full/0/default.jpg
+line: 'Head: pasture|Entry: 878 [Pasture]|Entry: 2151 [Grass & Pasture]|#item-3192019d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1803,1399,659,163/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495219389
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495251815
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1837,1285,710,180/150,/0/default.jpg
-label: pastime
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1803,1399,659,163/150,/0/default.jpg
+label: pasture
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0161'
+order: '0162'
 layout: index_item
 collection: index4
 ---

@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0781/'>Redemption</a>|<a href='/digital-beehive/alpha3/alpha_0449/'>Jesus</a>|<a
-  href='/digital-beehive/toc/toc2_180/'>966 [Saviour]</a>"
+  href='/digital-beehive/num4/num_1287'>966 [Saviour]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3525/'>saviour</a>"
 item: "#item-b7ad2723d"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/803,91
 label: Saviour
 location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '181'
 layout: alpha_item
 collection: alpha4

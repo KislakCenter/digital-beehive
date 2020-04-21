@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_269/'>1379 [Italy]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2126/'>Italy</a>"
+index: "<a href='/digital-beehive/index3/index_2125/'>Italy</a>"
 item: "#item-d4f2cb8a7"
 unparsed: 
 line: 'Entry: Italy|Topic: Italy|Xref: 1379 [Italy]|Index: Italy|#item-d4f2cb8a7'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,36
 label: Italy
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '047'
 layout: alpha_item
 collection: alpha3

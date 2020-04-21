@@ -2,8 +2,8 @@
 pid: index_1212
 volume: Volume 3
 image_number: '18'
-head: effect
-entry: 761 [PAGE_MISSING]
+head: to effect
+entry: "<a href='/digital-beehive/num4/num_1114'>878 [To Finish]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4a876c5e3"
+item: "#item-9d558f638"
 unparsed: 
-line: 'Head: effect|Entry: 761 [PAGE_MISSING]|#item-4a876c5e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/full/0/default.jpg
+line: 'Head: to effect |Entry: 878 [To Finish]|#item-9d558f638'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1183,1244,440,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673084477
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673177428
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1187,1131,398,166/150,/0/default.jpg
-label: effect
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1183,1244,440,107/150,/0/default.jpg
+label: to effect
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '030'
+order: '031'
 layout: index_item
 collection: index2
 ---

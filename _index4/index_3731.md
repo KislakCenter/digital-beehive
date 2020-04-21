@@ -23,7 +23,7 @@ label: Sirach
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0979'
+order: '0980'
 layout: index_item
 collection: index4
 ---

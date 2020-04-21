@@ -3,7 +3,7 @@ pid: index_3950
 volume: Volume 3
 image_number: '45'
 head: stupidity
-entry: "<a href='/digital-beehive/toc/toc2_158/'>711 [Stupidity]</a>"
+entry: "<a href='/digital-beehive/num3/num_1037'>711 [Stupidity]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stupidity
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1198'
+order: '1199'
 layout: index_item
 collection: index4
 ---

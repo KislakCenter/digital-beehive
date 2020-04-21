@@ -3,7 +3,7 @@ pid: index_4241
 volume: Volume 3
 image_number: '48'
 head: trinity
-entry: "<a href='/digital-beehive/alpha5/alpha_0980/'>a</a>|<a href='/digital-beehive/toc/toc2_144/'>639
+entry: "<a href='/digital-beehive/alpha5/alpha_0980/'>a</a>|<a href='/digital-beehive/num3/num_0866'>639
   [Trinity]</a>|<a href='/digital-beehive/toc/toc2_283/'>1450 [Trinity]</a>"
 topic: 
 first_letter: T

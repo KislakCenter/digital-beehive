@@ -2,8 +2,8 @@
 pid: index_1105
 volume: Volume 3
 image_number: '17'
-head: distinction
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1793 [the distinction]</a>"
+head: distract
+entry: 804 [PAGE_MISSING]
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5cef91027"
+item: "#item-a867486af"
 unparsed: 
-line: 'Head: distinction|Entry: 1793 [the distinction]|#item-5cef91027'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/820,536,547,124/full/0/default.jpg
+line: 'Head: distract|Entry: 804 [PAGE_MISSING]|#item-a867486af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/751,592,573,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848616492
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848656854
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/820,536,547,124/150,/0/default.jpg
-label: distinction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/751,592,573,126/150,/0/default.jpg
+label: distract
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

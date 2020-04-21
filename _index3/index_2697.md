@@ -2,8 +2,9 @@
 pid: index_2697
 volume: Volume 3
 image_number: '32'
-head: new inventions
-entry: "<a href='/digital-beehive/num2/num_0309/'>275 [New Inventions]</a>"
+head: new terms
+entry: "<a href='/digital-beehive/num3/num_0676'>537 [Terms in didascalia]</a>|<a
+  href='/digital-beehive/toc/toc2_266/'>1364 [Casuists]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e96a3e5b8"
+item: "#item-42851bcde"
 unparsed: 
-line: 'Head: new inventions|Entry: 275 [New Inventions]|#item-e96a3e5b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1119,2038,617,100/full/0/default.jpg
+line: 'Head: new terms|Entry: 537 [Terms in didascalia]|Entry: 1364 [Casuists]|#item-42851bcde'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1136,2111,634,80/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442536199
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442557379
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1119,2038,617,100/150,/0/default.jpg
-label: new inventions
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1136,2111,634,80/150,/0/default.jpg
+label: new terms
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '778'
+order: '779'
 layout: index_item
 collection: index3
 ---

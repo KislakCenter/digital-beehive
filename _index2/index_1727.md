@@ -2,28 +2,28 @@
 pid: index_1727
 volume: Volume 3
 image_number: '23'
-head: guide
-entry: "<a href='/digital-beehive/toc/toc2_249/'>1280 [Leader]</a>"
+head: guild halls
+entry: 
 topic: 
 first_letter: G
-page: 
+page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
+see: 
 index: 
-item: "#item-35fb60b4d"
+item: "#item-c13111d30"
 unparsed: 
-line: 'Head: guide|See: leader|Entry: 1280 [Leader]|#item-35fb60b4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2329,663,134/full/0/default.jpg
+line: 'Head: guild halls|Page: p.5 [Image 1.65]|#item-c13111d30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,2467,441,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232639407
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232706451
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2329,663,134/150,/0/default.jpg
-label: guide
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/146,2467,441,144/150,/0/default.jpg
+label: guild halls
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '544'
+order: '545'
 layout: index_item
 collection: index2
 ---

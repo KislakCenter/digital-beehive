@@ -2,28 +2,28 @@
 pid: index_2769
 volume: Volume 3
 image_number: '33'
-head: oeconomical books
-entry: 
+head: of blessed Memory
+entry: 4762 [PAGE_MISSING]
 topic: 
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-3accecf63"
+item: "#item-21d5c68cf"
 unparsed: 
-line: 'Head: oeconomical books|Page: p.379 [Image 2.201]|#item-3accecf63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/77,3390,791,163/full/0/default.jpg
+line: 'Head: of blessed Memory|Entry: 4762 [PAGE_MISSING]|#item-21d5c68cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/51,3488,773,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347797850
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347833629
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/77,3390,791,163/150,/0/default.jpg
-label: oeconomical books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/51,3488,773,180/150,/0/default.jpg
+label: of blessed Memory
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0017'
+order: '0018'
 layout: index_item
 collection: index4
 ---

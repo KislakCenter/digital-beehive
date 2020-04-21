@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/846,57
 label: Unbelief
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: 
-order: '065'
+also_in_entry: 
+order: '066'
 layout: alpha_item
 collection: alpha5
 ---

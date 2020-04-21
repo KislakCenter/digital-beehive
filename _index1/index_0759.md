@@ -2,9 +2,8 @@
 pid: index_0759
 volume: Volume 3
 image_number: '14'
-head: compassion
-entry: "<a href='/digital-beehive/alpha1/alpha_0162/'>a</a>|<a href='/digital-beehive/toc/toc2_281/'>1436
-  [Obscenity]</a>"
+head: compendium
+entry: "<a href='/digital-beehive/num2/num_0452/'>374 [Brevity]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-501fc98ca"
+item: "#item-2d8a8395b"
 unparsed: 
-line: 'Head: compassion|Entry: a|Entry: 1436 [Obscenity]|#item-501fc98ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/424,483,649,139/full/0/default.jpg
+line: 'Head: compendium|Entry: 374 [Brevity]|#item-2d8a8395b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/439,593,579,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215133832
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215156742
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/424,483,649,139/150,/0/default.jpg
-label: compassion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/439,593,579,146/150,/0/default.jpg
+label: compendium
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

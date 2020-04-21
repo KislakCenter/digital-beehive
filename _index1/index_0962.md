@@ -2,8 +2,8 @@
 pid: index_0962
 volume: Volume 3
 image_number: '15'
-head: to speak of dead men
-entry: "<a href='/digital-beehive/toc/toc2_401/'>2290 [To speak of them that are dead]</a>"
+head: deafness
+entry: "<a href='/digital-beehive/num2/num_0598/'>479 [Deaf]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-107679c7e"
+item: "#item-33c27d8ca"
 unparsed: 
-line: 'Head: to speak of dead men|Entry: 2290 [To speak of them that are dead]|#item-107679c7e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/full/0/default.jpg
+line: 'Head: deafness|Entry: 479 [Deaf]|#item-33c27d8ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1481,2625,490,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391840662
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391865199
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/150,/0/default.jpg
-label: to speak of dead men
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1481,2625,490,124/150,/0/default.jpg
+label: deafness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

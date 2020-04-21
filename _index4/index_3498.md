@@ -9,7 +9,7 @@ first_letter: S
 page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1475/'>flax</a>"
+see: "<a href='/digital-beehive/index2/index_1474/'>flax</a>"
 index: 
 item: "#item-bb53de5e3"
 unparsed: 
@@ -23,7 +23,7 @@ label: salamander stone
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0746'
+order: '0747'
 layout: index_item
 collection: index4
 ---

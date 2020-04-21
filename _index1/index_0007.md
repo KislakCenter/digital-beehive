@@ -3,7 +3,7 @@ pid: index_0007
 volume: Volume 3
 image_number: '7'
 head: abiding
-entry: "<a href='/digital-beehive/toc/toc2_164/'>884 [to abide]</a>"
+entry: "<a href='/digital-beehive/num4/num_1133'>884 [to abide]</a>"
 topic: 
 first_letter: A
 page: 

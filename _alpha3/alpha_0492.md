@@ -8,9 +8,9 @@ topic: Judas
 first_letter: I/J
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_124/'>520 [Judas]</a>"
+xref: "<a href='/digital-beehive/num3/num_0650'>520 [Judas]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2129/'>Judas</a>"
+index: "<a href='/digital-beehive/index3/index_2128/'>Judas</a>"
 item: "#item-ad3e5c21a"
 unparsed: 
 line: 'Entry: Judas|Topic: Judas|Xref: 520 [Judas]|Index: Judas|#item-ad3e5c21a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/723,38
 label: Judas
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '048'
 layout: alpha_item
 collection: alpha3

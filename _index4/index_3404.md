@@ -3,7 +3,7 @@ pid: index_3404
 volume: Volume 3
 image_number: '39'
 head: revenge
-entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/toc/toc2_121/'>504
+entry: "<a href='/digital-beehive/alpha4/alpha_0803/'>a</a>|<a href='/digital-beehive/num3/num_0634'>504
   [Revenge]</a>|<a href='/digital-beehive/toc/toc2_250/'>1282 [Revenge]</a>|<a href='/digital-beehive/toc/toc2_393/'>2246
   [Revenge]</a>"
 topic: 
@@ -26,7 +26,7 @@ label: revenge
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0652'
+order: '0653'
 layout: index_item
 collection: index4
 ---

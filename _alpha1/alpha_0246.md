@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0981/'>Trusting</a>|<a href='/digital-beehive/alpha4/alpha_0932/'>Suspition</a>|<a
   href='/digital-beehive/alpha1/alpha_0131/'>Caution</a>|Desperate|1842 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
+index: "<a href='/digital-beehive/index1/index_1107/'>distrust</a>"
 item: "#item-a95c35cba"
 unparsed: 
 line: 'Entry: Distrust|Topic: Distrust|Xref: Trusting|Xref: Suspition|Xref: Caution|Xref:
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,44
 label: Distrust
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '245'
+also_in_entry: 
+order: '244'
 layout: alpha_item
 collection: alpha1
 ---

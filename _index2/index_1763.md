@@ -2,28 +2,28 @@
 pid: index_1763
 volume: Volume 3
 image_number: '23'
-head: hart
-entry: 
+head: harvest
+entry: "<a href='/digital-beehive/alpha2/alpha_0398/'>a</a>|4616 [PAGE_MISSING]"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0986/'>deer</a>"
+see: 
 index: 
-item: "#item-194a3123e"
+item: "#item-027a78b10"
 unparsed: 
-line: 'Head: hart|Page: p.34 [Image 1.94]|See: deer|#item-194a3123e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2197,549,133/full/0/default.jpg
+line: 'Head: harvest|Entry: a|Entry: 4616 [PAGE_MISSING]|#item-027a78b10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/839,2306,499,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240544532
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240660398
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2197,549,133/150,/0/default.jpg
-label: hart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/839,2306,499,139/150,/0/default.jpg
+label: harvest
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '580'
+order: '581'
 layout: index_item
 collection: index2
 ---

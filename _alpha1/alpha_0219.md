@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0742/'>Progress</a>|<a href='/digital-beehive/toc/toc2_269/'>1377
   [Great with young]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0994/'>degree</a>"
+index: "<a href='/digital-beehive/index1/index_0993/'>degree</a>"
 item: "#item-b4234514f"
 unparsed: 
 line: 'Entry: Degree|Topic: Degree|Xref: Progress|Xref: 1377 [Great with young]|Index:
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,37
 label: Degree
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
 issue: 
-order: '218'
+also_in_entry: 
+order: '217'
 layout: alpha_item
 collection: alpha1
 ---

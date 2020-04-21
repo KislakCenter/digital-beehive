@@ -2,28 +2,28 @@
 pid: index_1756
 volume: Volume 3
 image_number: '23'
-head: hare
-entry: "<a href='/digital-beehive/alpha2/alpha_0396/'>a</a>"
+head: harmless
+entry: 
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2051/'>In[n]oc</a>|<a href='/digital-beehive/index3/index_2013/'>Indemn</a>"
 index: 
-item: "#item-e423fdca4"
+item: "#item-bac6450b0"
 unparsed: 
-line: 'Head: hare|Page: p.34 [Image 1.94]|Entry: a|#item-e423fdca4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,1607,451,145/full/0/default.jpg
+line: 'Head: harmless|See: In[n]oc|See: Indemn|#item-bac6450b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/847,1716,686,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239856850
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239964592
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/840,1607,451,145/150,/0/default.jpg
-label: hare
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/847,1716,686,140/150,/0/default.jpg
+label: harmless
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '573'
+order: '574'
 layout: index_item
 collection: index2
 ---

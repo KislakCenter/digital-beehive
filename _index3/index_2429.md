@@ -2,28 +2,28 @@
 pid: index_2429
 volume: Volume 3
 image_number: '30'
-head: market
-entry: "<a href='/digital-beehive/toc/toc2_158/'>714 [Market]</a>"
+head: market place
+entry: 
 topic: 
 first_letter: M
-page: 
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d87de56bd"
+item: "#item-83ef1daa1"
 unparsed: 
-line: 'Head: market|Entry: 714 [Market]|#item-d87de56bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/405,335,413,108/full/0/default.jpg
+line: 'Head: market place|Page: p.7 [Image 1.67]|#item-83ef1daa1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262887534
+annotation_uri: http://dev.llgc.org.uk/annotation/1560262908816
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/405,335,413,108/150,/0/default.jpg
-label: market
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/150,/0/default.jpg
+label: market place
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '510'
+order: '511'
 layout: index_item
 collection: index3
 ---

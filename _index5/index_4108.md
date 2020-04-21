@@ -3,7 +3,7 @@ pid: index_4108
 volume: Volume 3
 image_number: '47'
 head: theft
-entry: "<a href='/digital-beehive/toc/toc2_161/'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
+entry: "<a href='/digital-beehive/num4/num_1078'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
   [Theft]</a>"
 topic: 
 first_letter: T

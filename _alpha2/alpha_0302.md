@@ -10,7 +10,7 @@ page:
 add: 
 xref: Conversation
 see: 
-index: "<a href='/digital-beehive/index2/index_1362/'>external conversation</a>"
+index: "<a href='/digital-beehive/index2/index_1361/'>external conversation</a>"
 item: "#item-501034b2c"
 unparsed: 
 line: 'Entry: External conversation|Topic: External conversation|Xref: Conversation|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/416,19
 label: External conversation
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '033'
 layout: alpha_item
 collection: alpha2

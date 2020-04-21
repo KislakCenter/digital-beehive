@@ -8,7 +8,7 @@ topic: Shame
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0592/'>478 [Shame]</a>"
+xref: "<a href='/digital-beehive/num2/num_0597/'>478 [Shame]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3659/'>shame</a>"
 item: "#item-fcd85d2a0"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/785,13
 label: Shame
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '214'
 layout: alpha_item
 collection: alpha4

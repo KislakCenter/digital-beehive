@@ -2,28 +2,28 @@
 pid: index_2455
 volume: Volume 3
 image_number: '30'
-head: meadow
-entry: 
+head: meal
+entry: 797 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2914/'>pasture</a>"
+see: 
 index: 
-item: "#item-dcfece0f8"
+item: "#item-ceb916181"
 unparsed: 
-line: 'Head: meadow|See: pasture|#item-dcfece0f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/387,2613,760,165/full/0/default.jpg
+line: 'Head: meal|Entry: 797 [PAGE_MISSING]|#item-ceb916181'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265579534
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265638017
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/387,2613,760,165/150,/0/default.jpg
-label: meadow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/150,/0/default.jpg
+label: meal
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: The meaning of "It. field" cannot be determined.
+issue: 
 insertion_xref: 
-order: '536'
+order: '537'
 layout: index_item
 collection: index3
 ---

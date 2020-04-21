@@ -2,8 +2,8 @@
 pid: index_1739
 volume: Volume 3
 image_number: '23'
-head: Mr. Hales
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1794 [Mr. Hales]</a>"
+head: half
+entry: 823 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9f75a1331"
+item: "#item-305ab2a99"
 unparsed: 
-line: 'Head: Mr. Hales|Entry: 1794 [Mr. Hales]|#item-9f75a1331'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/140,3627,571,123/full/0/default.jpg
+line: 'Head: half|Entry: 823 [PAGE_MISSING]|#item-305ab2a99'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/861,247,322,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234608842
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235659023
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/140,3627,571,123/150,/0/default.jpg
-label: Mr. Hales
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/861,247,322,132/150,/0/default.jpg
+label: half
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '556'
+order: '557'
 layout: index_item
 collection: index2
 ---

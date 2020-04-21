@@ -2,27 +2,24 @@
 pid: index_1136
 volume: Volume 3
 image_number: '17'
-head: doubt
-entry: "<a href='/digital-beehive/alpha1/alpha_0260/'>a</a>|<a href='/digital-beehive/toc/toc2_156/'>705
-  [Doubtfulness]</a>|<a href='/digital-beehive/toc/toc2_171/'>918 [Doubtful]</a>|<a
-  href='/digital-beehive/toc/toc2_372/'>2061 [Doubt]</a>"
+head: dove
+entry: "<a href='/digital-beehive/num3/num_0761'>588 [Dove]</a>"
 topic: 
 first_letter: D
-page: 
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-708c2d23b"
+item: "#item-bdc15c94b"
 unparsed: 
-line: 'Head: doubt|Entry: a|Entry: 705 [Doubtfulness]|Entry: 918 [Doubtful]|Entry:
-  2061 [Doubt]|#item-708c2d23b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/full/0/default.jpg
+line: 'Head: dove|Page: p.35 [Image 1.95]|Entry: 588 [Dove]|#item-bdc15c94b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,869,595,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367766739
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367832995
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1451,754,787,144/150,/0/default.jpg
-label: doubt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,869,595,155/150,/0/default.jpg
+label: dove
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

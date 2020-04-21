@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0145/'>140 [Conscience]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0802/'>conscience</a>"
+index: "<a href='/digital-beehive/index1/index_0801/'>conscience</a>"
 item: "#item-2d10e0793"
 unparsed: 
 line: 'Entry: Conscience|Topic: Conscience|Xref: 140 [Conscience]|Index: conscience|#item-2d10e0793'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/757,55
 label: Conscience
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '168'
 layout: alpha_item
 collection: alpha1

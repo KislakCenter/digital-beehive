@@ -2,28 +2,28 @@
 pid: index_1348
 volume: Volume 3
 image_number: '19'
-head: exile
-entry: 
+head: exorable
+entry: "<a href='/digital-beehive/toc/toc2_285/'>1457 [Exorable]</a>"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0283/'>banishmt</a>"
+see: 
 index: 
-item: "#item-f73333200"
+item: "#item-d72eef820"
 unparsed: 
-line: 'Head: exile|See: banishmt|#item-f73333200'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1546,887,697,146/full/0/default.jpg
+line: 'Head: exorable|Entry: 1457 [Exorable]|#item-d72eef820'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1537,1000,547,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042620890
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043008362
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1546,887,697,146/150,/0/default.jpg
-label: exile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1537,1000,547,115/150,/0/default.jpg
+label: exorable
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '166'
+order: '167'
 layout: index_item
 collection: index2
 ---

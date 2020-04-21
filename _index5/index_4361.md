@@ -13,7 +13,7 @@ see: "<a href='/digital-beehive/index5/index_4354/'>unalt</a>"
 index: 
 item: "#item-edf576c4c"
 unparsed: 
-line: 'Head: unchangeable|See: unalt.|#item-edf576c4c'
+line: 'Head: unchangeable|See: unalt|#item-edf576c4c'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/483,1595,685,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560872545875

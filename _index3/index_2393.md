@@ -2,28 +2,28 @@
 pid: index_2393
 volume: Volume 3
 image_number: '29'
-head: to make
-entry: 763 [PAGE_MISSING]
+head: makebate
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
 index: 
-item: "#item-77db6c6cd"
+item: "#item-05af7b703"
 unparsed: 
-line: 'Head: to make|Entry: 763 [PAGE_MISSING]|#item-77db6c6cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,462,431,127/full/0/default.jpg
+line: 'Head: makebate|See: strife|#item-05af7b703'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,578,596,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560193940890
+annotation_uri: http://dev.llgc.org.uk/annotation/1560193974714
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,462,431,127/150,/0/default.jpg
-label: to make
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,578,596,159/150,/0/default.jpg
+label: makebate
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '474'
+order: '475'
 layout: index_item
 collection: index3
 ---

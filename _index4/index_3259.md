@@ -2,8 +2,8 @@
 pid: index_3259
 volume: Volume 3
 image_number: '38'
-head: quick
-entry: "<a href='/digital-beehive/alpha4/alpha_0767/'>a</a>|1872 [PAGE_MISSING]"
+head: quickly
+entry: 843 [PAGE_MISSING]
 topic: 
 first_letter: Q
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5f1cbc8f4"
+item: "#item-37d142e04"
 unparsed: 
-line: 'Head: quick|Entry: a|Entry: 1872 [PAGE_MISSING]|#item-5f1cbc8f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,801,517,138/full/0/default.jpg
+line: 'Head: quickly|Entry: 843 [PAGE_MISSING]|#item-37d142e04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1163,855,429,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455106178
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455124959
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,801,517,138/150,/0/default.jpg
-label: quick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1163,855,429,144/150,/0/default.jpg
+label: quickly
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0507'
+order: '0508'
 layout: index_item
 collection: index4
 ---

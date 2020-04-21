@@ -2,8 +2,8 @@
 pid: index_1046
 volume: Volume 3
 image_number: '16'
-head: to die colours
-entry: "<a href='/digital-beehive/toc/toc2_335/'>1704 [Tictare, Colour or Dye]</a>"
+head: diet
+entry: "<a href='/digital-beehive/alpha1/alpha_0233/'>a</a>|4735 [PAGE_MISSING]"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-763f5f98e"
+item: "#item-da528d330"
 unparsed: 
-line: 'Head: to die colours|Entry: 1704 [Tictare, Colour or Dye]|#item-763f5f98e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1829,1180,532,99/full/0/default.jpg
+line: 'Head: diet|Entry: a|Entry: 4735 [PAGE_MISSING]|#item-da528d330'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1763,1227,513,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783642445
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923553169
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1829,1180,532,99/150,/0/default.jpg
-label: to die colours
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1763,1227,513,115/150,/0/default.jpg
+label: diet
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

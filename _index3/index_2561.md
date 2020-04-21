@@ -2,8 +2,8 @@
 pid: index_2561
 volume: Volume 3
 image_number: '31'
-head: Moloch
-entry: "<a href='/digital-beehive/toc/toc2_318/'>1618 [Moloch]</a>"
+head: moment
+entry: "<a href='/digital-beehive/toc/toc2_308/'>1569 [Prescience]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ac240e2ed"
+item: "#item-38304b919"
 unparsed: 
-line: 'Head: Moloch|Entry: 1618 [Moloch]|#item-ac240e2ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/full/0/default.jpg
+line: 'Head: moment|Entry: 1569 [Prescience]|#item-38304b919'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/158,3366,539,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560353252135
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353602310
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/150,/0/default.jpg
-label: Moloch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/158,3366,539,167/150,/0/default.jpg
+label: moment
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '642'
+order: '643'
 layout: index_item
 collection: index3
 ---

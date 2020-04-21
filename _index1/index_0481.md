@@ -3,7 +3,7 @@ pid: index_0481
 volume: Volume 3
 image_number: '11'
 head: to burn
-entry: "<a href='/digital-beehive/toc/toc2_150/'>672 [To Burn]</a>|<a href='/digital-beehive/toc/toc2_368/'>2021
+entry: "<a href='/digital-beehive/num3/num_0932'>672 [To Burn]</a>|<a href='/digital-beehive/toc/toc2_368/'>2021
   [To burn]</a>"
 topic: 
 first_letter: B

@@ -2,8 +2,8 @@
 pid: index_1663
 volume: Volume 3
 image_number: '22'
-head: godliness
-entry: "<a href='/digital-beehive/toc/toc2_301/'>1532 [Godliness]</a>"
+head: Gog & Magog
+entry: "<a href='/digital-beehive/alpha2/alpha_0371/'>a</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c5f23ed9d"
+item: "#item-e6051f44e"
 unparsed: 
-line: 'Head: godliness|Entry: 1532 [Godliness]|#item-c5f23ed9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/full/0/default.jpg
+line: 'Head: Gog & Magog|Entry: a|#item-e6051f44e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050759955
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050836214
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,3152,455,154/150,/0/default.jpg
-label: godliness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1167,3313,538,120/150,/0/default.jpg
+label: Gog & Magog
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '481'
+order: '482'
 layout: index_item
 collection: index2
 ---

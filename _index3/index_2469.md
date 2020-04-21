@@ -2,29 +2,28 @@
 pid: index_2469
 volume: Volume 3
 image_number: '30'
-head: meditation
-entry: "<a href='/digital-beehive/alpha3/alpha_0582/'>a</a>|<a href='/digital-beehive/toc/toc2_161/'>868
-  [Meditation]</a>|4602 [PAGE_MISSING]"
+head: medlar
+entry: 
 topic: 
 first_letter: M
-page: 
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-a553073b1"
+item: "#item-2b344cb4e"
 unparsed: 
-line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/full/0/default.jpg
+line: 'Head: medlar|Page: p.33 [Image 1.93]|#item-2b344cb4e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1110,601,425,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267755970
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/150,/0/default.jpg
-label: meditation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1110,601,425,136/150,/0/default.jpg
+label: medlar
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '550'
+order: '551'
 layout: index_item
 collection: index3
 ---

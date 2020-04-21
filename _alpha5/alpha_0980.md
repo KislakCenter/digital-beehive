@@ -8,7 +8,7 @@ topic: Trinity
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_144/'>639 [Trinity]</a>"
+xref: "<a href='/digital-beehive/num3/num_0866'>639 [Trinity]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4241/'>trinity</a>"
 item: "#item-7671343b9"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/805,33
 label: Trinity
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '045'
+also_in_entry: 
+order: '046'
 layout: alpha_item
 collection: alpha5
 ---

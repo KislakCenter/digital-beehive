@@ -2,9 +2,8 @@
 pid: index_1810
 volume: Volume 3
 image_number: '23'
-head: hereafter
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1431 [Hereafter]</a>|<a href='/digital-beehive/num2/num_0274/'>252
-  [Afterwards]</a>"
+head: heretofore
+entry: 766 [PAGE_MISSING]
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-2b3d9f03a"
+item: "#item-8c2adfc92"
 unparsed: 
-line: 'Head: hereafter|Entry: 1431 [Hereafter]|Entry: 292 [Afterwards]|#item-2b3d9f03a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/full/0/default.jpg
+line: 'Head: heretofore|Entry: 766 [PAGE_MISSING]|#item-8c2adfc92'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1503,3592,479,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572698468
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572747919
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1513,3492,608,145/150,/0/default.jpg
-label: hereafter
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1503,3592,479,125/150,/0/default.jpg
+label: heretofore
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '627'
+order: '628'
 layout: index_item
 collection: index2
 ---

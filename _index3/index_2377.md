@@ -2,8 +2,8 @@
 pid: index_2377
 volume: Volume 3
 image_number: '29'
-head: Magellanica
-entry: "<a href='/digital-beehive/toc/toc2_223/'>1147 [Magellanica]</a>"
+head: magick
+entry: "<a href='/digital-beehive/toc/toc2_327/'>1661 [Magick]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-20eb33f0e"
+item: "#item-4935df44b"
 unparsed: 
-line: 'Head: Magellanica|Entry: 1147 [Magellanica]|#item-20eb33f0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/839,2121,567,128/full/0/default.jpg
+line: 'Head: magick|Entry: 1661 [Magick]|#item-4935df44b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/845,2218,396,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186480428
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186536423
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/839,2121,567,128/150,/0/default.jpg
-label: Magellanica
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/845,2218,396,151/150,/0/default.jpg
+label: magick
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '458'
+order: '459'
 layout: index_item
 collection: index3
 ---

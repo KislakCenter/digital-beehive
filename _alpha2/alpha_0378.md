@@ -8,9 +8,9 @@ topic: Grace of God
 first_letter: G
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_145/'>646 [Grace of God]</a>"
+xref: "<a href='/digital-beehive/num3/num_0882'>646 [Grace of God]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1684/'>Grace of God</a>"
+index: "<a href='/digital-beehive/index2/index_1683/'>Grace of God</a>"
 item: "#item-f20619d2c"
 unparsed: 
 line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: Grace
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/390,37
 label: Grace of God
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '109'
 layout: alpha_item
 collection: alpha2

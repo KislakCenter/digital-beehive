@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3338/'>regard</a>"
+see: "<a href='/digital-beehive/index4/index_3337/'>regard</a>"
 index: 
 item: "#item-4f3534813"
 unparsed: 
@@ -23,7 +23,7 @@ label: respect of [per]s
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0637'
+order: '0638'
 layout: index_item
 collection: index4
 ---

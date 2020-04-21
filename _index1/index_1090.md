@@ -2,8 +2,8 @@
 pid: index_1090
 volume: Volume 3
 image_number: '17'
-head: dispatch
-entry: "<a href='/digital-beehive/num1/num_0182/'>175 [Dispatch]</a>"
+head: dispensations of God
+entry: "<a href='/digital-beehive/toc/toc2_292/'>1493 [Dispensations]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8082059de"
+item: "#item-3dc52fddf"
 unparsed: 
-line: 'Head: dispatch|Entry: 175 [Dispatch]|#item-8082059de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,2324,475,156/full/0/default.jpg
+line: 'Head: dispensations of God|Entry: 1493 [Dispensations]|#item-3dc52fddf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2437,754,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804372967
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804412758
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,2324,475,156/150,/0/default.jpg
-label: dispatch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2437,754,164/150,/0/default.jpg
+label: dispensations of God
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

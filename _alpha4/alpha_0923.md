@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/764,21
 label: Suck
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '275'
 layout: alpha_item
 collection: alpha4

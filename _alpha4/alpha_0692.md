@@ -8,10 +8,10 @@ topic: Peacemaker
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>mediator</a>|<a href='/digital-beehive/toc/toc2_165/'>888
+xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>mediator</a>|<a href='/digital-beehive/num4/num_1143'>888
   [Peace-making]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2931/'>peacemaker</a>"
+index: "<a href='/digital-beehive/index4/index_2930/'>peacemaker</a>"
 item: "#item-fb8af06a3"
 unparsed: 
 line: 'Entry: Peacemaker|Topic: Peacemaker|Xref: mediator|Xref: 888 [Peace-making]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/299,30
 label: Peacemaker
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '045'
 layout: alpha_item
 collection: alpha4

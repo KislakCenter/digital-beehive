@@ -2,8 +2,8 @@
 pid: index_0910
 volume: Volume 3
 image_number: '15'
-head: criticism
-entry: "<a href='/digital-beehive/toc/toc2_320/'>1627 [Criticism]</a>"
+head: crocodile
+entry: "<a href='/digital-beehive/num3/num_1021'>704 [Crocodile]</a>|4730 [PAGE_MISSING]"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-bb65b239b"
+item: "#item-4e8549f08"
 unparsed: 
-line: 'Head: criticism|Entry: 1627 [Criticism]|#item-bb65b239b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1627,549,109/full/0/default.jpg
+line: 'Head: crocodile|Entry: 704 [Crocodile]|Entry: 4730 [PAGE_MISSING]|#item-4e8549f08'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577498666
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577536770
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1627,549,109/150,/0/default.jpg
-label: criticism
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/150,/0/default.jpg
+label: crocodile
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,8 +2,8 @@
 pid: index_2121
 volume: Volume 3
 image_number: '27'
-head: irreligion
-entry: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Atheism]</a>"
+head: irresolution
+entry: "<a href='/digital-beehive/toc/toc2_402/'>2295 [Irresolution]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9ce298fba"
+item: "#item-87af2b04f"
 unparsed: 
-line: 'Head: irreligion|Entry: 1421 [Atheism]|#item-9ce298fba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/161,635,478,139/full/0/default.jpg
+line: 'Head: irresolution|Entry: 2295 [Irresolution]|#item-87af2b04f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/156,705,568,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756593249
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756657097
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/161,635,478,139/150,/0/default.jpg
-label: irreligion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/156,705,568,113/150,/0/default.jpg
+label: irresolution
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '202'
+order: '203'
 layout: index_item
 collection: index3
 ---

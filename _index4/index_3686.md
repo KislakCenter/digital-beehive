@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1178/'>dwarf</a>|<a
+see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1177/'>dwarf</a>|<a
   href='/digital-beehive/index5/index_4216/'>transitory</a>"
 index: 
 item: "#item-de2a7d9a5"
@@ -24,7 +24,7 @@ label: short
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0934'
+order: '0935'
 layout: index_item
 collection: index4
 ---

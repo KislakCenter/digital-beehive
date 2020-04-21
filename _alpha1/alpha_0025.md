@@ -8,7 +8,8 @@ topic: Amending
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0782/'>Reformation</a>|464 [Amending]"
+xref: "<a href='/digital-beehive/alpha4/alpha_0782/'>Reformation</a>|<a href='/digital-beehive/num2/num_0578/'>464
+  [Amending]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0125/'>amending</a>"
 item: "#item-8e7bab3aa"
@@ -23,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/252,18
 label: Amending
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '024'
 layout: alpha_item
 collection: alpha1

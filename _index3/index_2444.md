@@ -2,9 +2,9 @@
 pid: index_2444
 volume: Volume 3
 image_number: '30'
-head: mass
-entry: "<a href='/digital-beehive/alpha3/alpha_0574/'>a</a>|<a href='/digital-beehive/toc/toc2_328/'>1668
-  [Mass]</a>"
+head: master
+entry: "<a href='/digital-beehive/alpha3/alpha_0576/'>a</a>|<a href='/digital-beehive/toc/toc2_258/'>1323
+  [Master's]</a>|4618 [PAGE_MISSING]"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8a7a4c45e"
+item: "#item-05922491b"
 unparsed: 
-line: 'Head: mass|Entry: a|Entry: 1668 [Mass]|#item-8a7a4c45e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,1642,510,142/full/0/default.jpg
+line: 'Head: master|Entry: a|Entry: 1323 [Master''s]|Entry: 4618 [PAGE_MISSING]|#item-05922491b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,1768,675,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263996639
+annotation_uri: http://dev.llgc.org.uk/annotation/1560264057767
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/399,1642,510,142/150,/0/default.jpg
-label: mass
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,1768,675,96/150,/0/default.jpg
+label: master
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '525'
+order: '526'
 layout: index_item
 collection: index3
 ---

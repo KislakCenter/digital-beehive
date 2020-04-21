@@ -8,10 +8,10 @@ topic: Forgetfulness
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0585/'>memory</a>|<a href='/digital-beehive/toc/toc2_155/'>697
+xref: "<a href='/digital-beehive/alpha3/alpha_0585/'>memory</a>|<a href='/digital-beehive/num3/num_1003'>697
   [Forgetfulness]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1510/'>forgetfulness</a>"
+index: "<a href='/digital-beehive/index2/index_1509/'>forgetfulness</a>"
 item: "#item-f6cafa35f"
 unparsed: 
 line: 'Entry: Forgetfulness|Topic: Forgetfulness|Xref: memory|Xref: 697 [Forgetfulness]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/763,46
 label: Forgetfulness
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '072'
 layout: alpha_item
 collection: alpha2

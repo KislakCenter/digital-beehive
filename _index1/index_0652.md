@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-cdf4af1e1"
 unparsed: 
-line: 'Head: christians|Entry: 216 [christians]|Entry: 1751 [Christians]|Entry: 2245
+line: 'Head: christians|Entry: 216 [Christians]|Entry: 1751 [Christians]|Entry: 2245
   [Failings]|#item-cdf4af1e1'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/144,612,771,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg

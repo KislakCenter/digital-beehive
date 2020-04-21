@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/792,40
 label: Thrush
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '018'
+also_in_entry: 
+order: '019'
 layout: alpha_item
 collection: alpha5
 ---

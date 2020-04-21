@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/804,21
 label: Christendom
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '144'
 layout: alpha_item
 collection: alpha1

@@ -2,7 +2,7 @@
 pid: index_2149
 volume: Volume 3
 image_number: '27'
-head: to keep back
+head: to keep under
 entry: 828 [PAGE_MISSING]
 topic: 
 first_letter: K
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-701e34976"
+item: "#item-46c410059"
 unparsed: 
-line: 'Head: to keep back|Entry: 828 [PAGE_MISSING]|#item-701e34976'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/133,3357,528,148/full/0/default.jpg
+line: 'Head: to keep under|Entry: 828 [PAGE_MISSING]|#item-46c410059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/135,3435,459,103/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759573504
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759598099
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/133,3357,528,148/150,/0/default.jpg
-label: to keep back
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/135,3435,459,103/150,/0/default.jpg
+label: to keep under
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '230'
+order: '231'
 layout: index_item
 collection: index3
 ---

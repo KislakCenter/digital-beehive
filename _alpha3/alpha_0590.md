@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2501/'>metaphysicks</a>"
+index: "<a href='/digital-beehive/index3/index_2500/'>metaphysicks</a>"
 item: "#item-0755d4391"
 unparsed: 
 line: 'Entry: Metaphysics|Topic: Metaphysics|Index: metaphysicks|#item-0755d4391'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/748,38
 label: Metaphysics
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '146'
 layout: alpha_item
 collection: alpha3

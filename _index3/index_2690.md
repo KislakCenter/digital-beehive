@@ -2,8 +2,8 @@
 pid: index_2690
 volume: Volume 3
 image_number: '32'
-head: nevertheless
-entry: 857 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_181/'>973 [Not withstanding]</a>
+head: Nevis
+entry: "<a href='/digital-beehive/toc/toc2_298/'>1519 [Mevis or Nevis]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3d22f323f"
+item: "#item-7029583a4"
 unparsed: 
-line: 'Head: nevertheless|Entry: 857 [PAGE_MISSING]|Entry: 973 [Not withstanding]|#item-3d22f323f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1145,1256,645,137/full/0/default.jpg
+line: 'Head: Nevis|Entry: 1519 [Mevis or Nevis]|#item-7029583a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1165,1361,379,149/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442162372
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442212301
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1145,1256,645,137/150,/0/default.jpg
-label: nevertheless
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1165,1361,379,149/150,/0/default.jpg
+label: Nevis
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '771'
+order: '772'
 layout: index_item
 collection: index3
 ---

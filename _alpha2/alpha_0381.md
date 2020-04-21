@@ -9,10 +9,10 @@ first_letter: G
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0730/'>Pride</a>|<a href='/digital-beehive/alpha2/alpha_0420/'>highness</a>|<a
-  href='/digital-beehive/alpha3/alpha_0565/'>magnanimity</a>|<a href='/digital-beehive/toc/toc2_164/'>883
+  href='/digital-beehive/alpha3/alpha_0565/'>magnanimity</a>|<a href='/digital-beehive/num4/num_1131'>883
   [highness]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1691/'>grandeur</a>"
+index: "<a href='/digital-beehive/index2/index_1690/'>grandeur</a>"
 item: "#item-d2c4ae635"
 unparsed: 
 line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanimity|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,23
 label: Grandeur
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '112'
 layout: alpha_item
 collection: alpha2

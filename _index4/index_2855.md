@@ -2,9 +2,8 @@
 pid: index_2855
 volume: Volume 3
 image_number: '34'
-head: pain
-entry: "<a href='/digital-beehive/alpha4/alpha_0672/'>a</a>|<a href='/digital-beehive/toc/toc2_225/'>1158
-  [Pain]</a>"
+head: painting
+entry: "<a href='/digital-beehive/num3/num_0734'>575 [Painting]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-759ecdba3"
+item: "#item-aadd15fb1"
 unparsed: 
-line: 'Head: pain|Entry: a|Entry: 1158 [Pain]|#item-759ecdba3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/406,2588,578,176/full/0/default.jpg
+line: 'Head: painting|Entry: 575 [Painting]|#item-aadd15fb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425838623
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425859834
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/406,2588,578,176/150,/0/default.jpg
-label: pain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/150,/0/default.jpg
+label: painting
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0103'
+order: '0104'
 layout: index_item
 collection: index4
 ---

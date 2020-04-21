@@ -2,28 +2,28 @@
 pid: index_1714
 volume: Volume 3
 image_number: '23'
-head: grim[m]ace
-entry: 
+head: grinning
+entry: 4707 [PAGE_MISSING]
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1018/'>derision</a>|<a href='/digital-beehive/index4/index_3897/'>stern</a>"
+see: 
 index: 
-item: "#item-9b4ceb6dd"
+item: "#item-ec422f2e7"
 unparsed: 
-line: 'Head: grim[m]ace|See: derision|See: stern|#item-9b4ceb6dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/full/0/default.jpg
+line: 'Head: grinning|Entry: 4707 [PAGE_MISSING]|#item-ec422f2e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/158,1457,449,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231060913
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231161465
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/144,1379,668,123/150,/0/default.jpg
-label: grim[m]ace
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/158,1457,449,111/150,/0/default.jpg
+label: grinning
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '531'
+order: '532'
 layout: index_item
 collection: index2
 ---

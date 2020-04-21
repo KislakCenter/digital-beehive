@@ -3,8 +3,8 @@ pid: index_3583
 volume: Volume 3
 image_number: '41'
 head: secret
-entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|<a href='/digital-beehive/toc/toc2_248/'>1272
-  [Secrecy]</a>"
+entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|792 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_248/'>1272 [Secrecy]</a>"
 topic: 
 first_letter: S
 page: 
@@ -24,7 +24,7 @@ label: secret
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0831'
+order: '0832'
 layout: index_item
 collection: index4
 ---

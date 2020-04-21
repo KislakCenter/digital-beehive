@@ -3,7 +3,7 @@ pid: index_0291
 volume: Volume 3
 image_number: '9'
 head: barbarism
-entry: "<a href='/digital-beehive/toc/toc2_126/'>537 [Welch Tongues]</a>"
+entry: "<a href='/digital-beehive/num3/num_0676'>537 [Terms in didascalia]</a>"
 topic: 
 first_letter: B
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-6cce0abf6"
 unparsed: 
-line: 'Head: barbarism|Entry: 537 [Welch Tongues]|#item-6cce0abf6'
+line: 'Head: barbarism|Entry: 537 [Terms in didiscalia]|#item-6cce0abf6'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/908,2444,477,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1506104324001

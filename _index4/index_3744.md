@@ -24,7 +24,7 @@ label: slavery
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0992'
+order: '0993'
 layout: index_item
 collection: index4
 ---

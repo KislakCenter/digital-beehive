@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0346/'>fraud</a>|<a href='/digital-beehive/alpha4/alpha_0918/'>Stratagem</a>|<a
   href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0894/'>craftiness</a>"
+index: "<a href='/digital-beehive/index1/index_0893/'>craftiness</a>"
 item: "#item-a392dd95e"
 unparsed: 
 line: 'Entry: Craftiness|Topic: Craftiness|Xref: fraud|Xref: Stratagem|Xref: 1228
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/835,11
 label: Craftiness
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '190'
 layout: alpha_item
 collection: alpha1

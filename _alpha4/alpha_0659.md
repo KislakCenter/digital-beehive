@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_334/'>1697 [Old Adam]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2783/'>old Adam</a>"
+index: "<a href='/digital-beehive/index4/index_2782/'>old Adam</a>"
 item: "#item-978d15000"
 unparsed: 
 line: 'Entry: Old Adam|Topic: Old Adam|Xref: 1697 [Old Adam]|Index: old Adam|#item-978d15000'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/312,29
 label: Old Adam
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '012'
 layout: alpha_item
 collection: alpha4

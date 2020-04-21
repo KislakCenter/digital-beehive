@@ -2,24 +2,24 @@
 pid: index_0716
 volume: Volume 3
 image_number: '13'
-head: coins
-entry: 
+head: cokonuts
+entry: "<a href='/digital-beehive/toc/toc2_297/'>1514 [Barbada or Barbuda]</a>"
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-a7096c539"
+item: "#item-9f5ea84e5"
 unparsed: 
-line: 'Head: coins|Page: p.6 [Image 1.66]|#item-a7096c539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/863,3075,330,131/full/0/default.jpg
+line: 'Head: cokonuts|Entry: 1514 [Barbada or Barbuda]|#item-9f5ea84e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/845,3183,452,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608930571
+annotation_uri: http://dev.llgc.org.uk/annotation/1536609025504
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/863,3075,330,131/150,/0/default.jpg
-label: coins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/845,3183,452,126/150,/0/default.jpg
+label: cokonuts
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

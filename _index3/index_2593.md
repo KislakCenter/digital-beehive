@@ -2,8 +2,8 @@
 pid: index_2593
 volume: Volume 3
 image_number: '31'
-head: moss
-entry: "<a href='/digital-beehive/toc/toc2_374/'>2086 [Moss]</a>"
+head: most
+entry: 851 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9b1dc0544"
+item: "#item-a2a512e4d"
 unparsed: 
-line: 'Head: moss|Entry: 2086 [Moss]|#item-9b1dc0544'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/850,3029,399,120/full/0/default.jpg
+line: 'Head: most|Entry: 851 [PAGE_MISSING]|#item-a2a512e4d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/842,3092,349,95/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356790729
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356808020
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/850,3029,399,120/150,/0/default.jpg
-label: moss
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/842,3092,349,95/150,/0/default.jpg
+label: most
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '674'
+order: '675'
 layout: index_item
 collection: index3
 ---

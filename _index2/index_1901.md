@@ -2,28 +2,29 @@
 pid: index_1901
 volume: Volume 3
 image_number: '24'
-head: humidum rad
-entry: 
+head: humility
+entry: "<a href='/digital-beehive/alpha2/alpha_0437/'>a</a>|<a href='/digital-beehive/toc/toc2_245/'>1259
+  [Humility]</a>|<a href='/digital-beehive/toc/toc2_356/'>1935 [Humility]</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4523/'>wet</a>"
+see: 
 index: 
-item: "#item-4de74eaac"
+item: "#item-4579b63b7"
 unparsed: 
-line: 'Head: humidum rad|See: wet|#item-4de74eaac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,1800,547,107/full/0/default.jpg
+line: 'Head: humility|Entry: a|Entry: 1259 [Humility]|Entry: 1935 [Humility]|#item-4579b63b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1844,1844,681,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559587522638
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587675688
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1847,1800,547,107/150,/0/default.jpg
-label: humidum rad
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1844,1844,681,169/150,/0/default.jpg
+label: humility
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '718'
+order: '719'
 layout: index_item
 collection: index2
 ---

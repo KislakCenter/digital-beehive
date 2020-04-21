@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha5/alpha_0977/'>Treachery</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1386/'>faithfulness</a>"
+index: "<a href='/digital-beehive/index2/index_1385/'>faithfulness</a>"
 item: "#item-d0ddf2293"
 unparsed: 
 line: 'Entry: Faithfulness|Topic: Faithfulness|Xref: Treachery|Index: faithfulness|#item-d0ddf2293'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/759,12
 label: Faithfulness
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '041'
 layout: alpha_item
 collection: alpha2

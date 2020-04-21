@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0574/'>461
   [Old age]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2784/'>old age</a>"
+index: "<a href='/digital-beehive/index4/index_2783/'>old age</a>"
 item: "#item-b98f24942"
 unparsed: 
 line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,32
 label: Old age
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '013'
 layout: alpha_item
 collection: alpha4

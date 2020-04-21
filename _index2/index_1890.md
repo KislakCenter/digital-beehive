@@ -2,9 +2,8 @@
 pid: index_1890
 volume: Volume 3
 image_number: '24'
-head: house
-entry: "<a href='/digital-beehive/alpha2/alpha_0435/'>a</a>|<a href='/digital-beehive/toc/toc2_230/'>1184
-  [House]</a>"
+head: house of office
+entry: "<a href='/digital-beehive/num3/num_0803'>607 [Privy house]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ead7ae2d7"
+item: "#item-56a9246b5"
 unparsed: 
-line: 'Head: house|Entry: a|Entry: 1184 [House]|#item-ead7ae2d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1835,879,489,128/full/0/default.jpg
+line: 'Head: house of office|Entry: 607 [Privy house]|#item-56a9246b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586537705
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586630335
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1835,879,489,128/150,/0/default.jpg
-label: house
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,969,467,93/150,/0/default.jpg
+label: house of office
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '707'
+order: '708'
 layout: index_item
 collection: index2
 ---

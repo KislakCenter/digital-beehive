@@ -2,28 +2,28 @@
 pid: index_2533
 volume: Volume 3
 image_number: '31'
-head: misapply
-entry: "<a href='/digital-beehive/toc/toc2_200/'>1032 [misapply]</a>"
+head: miscarry
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4423/'>untimely</a>"
 index: 
-item: "#item-cef4bd8bd"
+item: "#item-fafa8c453"
 unparsed: 
-line: 'Head: misapply|Entry: 1032 [misapply]|#item-cef4bd8bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/184,225,504,120/full/0/default.jpg
+line: 'Head: miscarry|See: untimely|#item-fafa8c453'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/157,260,719,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350469074
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350499044
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/184,225,504,120/150,/0/default.jpg
-label: misapply
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/157,260,719,152/150,/0/default.jpg
+label: miscarry
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '614'
+order: '615'
 layout: index_item
 collection: index3
 ---

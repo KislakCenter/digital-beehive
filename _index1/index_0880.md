@@ -2,9 +2,9 @@
 pid: index_0880
 volume: Volume 3
 image_number: '15'
-head: couple
-entry: "<a href='/digital-beehive/num1/num_0195/'>187 [Two]</a>|<a href='/digital-beehive/num2/num_0381/'>332
-  [Two]</a>"
+head: courage
+entry: "<a href='/digital-beehive/alpha1/alpha_0185/'>a</a>|<a href='/digital-beehive/toc/toc2_222/'>1143
+  [Courage]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-304f06720"
+item: "#item-a4a6ead3e"
 unparsed: 
-line: 'Head: couple|Entry: 187 [Two]|Entry: 332 [Two]|#item-304f06720'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/154,2196,483,105/full/0/default.jpg
+line: 'Head: courage|Entry: a|Entry: 1143 [Courage]|#item-a4a6ead3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,2266,548,108/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974712276
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974746772
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/154,2196,483,105/150,/0/default.jpg
-label: couple
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,2266,548,108/150,/0/default.jpg
+label: courage
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

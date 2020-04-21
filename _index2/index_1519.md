@@ -2,8 +2,9 @@
 pid: index_1519
 volume: Volume 3
 image_number: '21'
-head: forsake sins
-entry: "<a href='/digital-beehive/toc/toc2_334/'>1700 [Inheritance]</a>"
+head: fort
+entry: "<a href='/digital-beehive/alpha2/alpha_0342/'>a</a>|<a href='/digital-beehive/num2/num_0337/'>298
+  [Fortress]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0ba0c657c"
+item: "#item-e56a26260"
 unparsed: 
-line: 'Head: forsake sins|Entry: 1700 [Inheritance]|#item-0ba0c657c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/full/0/default.jpg
+line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762696082
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,3373,490,80/150,/0/default.jpg
-label: forsake sins
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/150,/0/default.jpg
+label: fort
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '337'
+order: '338'
 layout: index_item
 collection: index2
 ---

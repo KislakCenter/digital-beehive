@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0772/'>Rarity</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1438/'>fewness</a>"
+index: "<a href='/digital-beehive/index2/index_1437/'>fewness</a>"
 item: "#item-5113dc0b5"
 unparsed: 
 line: 'Entry: Fewness|Topic: Fewness|Xref: Rarity|Index: fewness|#item-5113dc0b5'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,22
 label: Fewness
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '055'
 layout: alpha_item
 collection: alpha2

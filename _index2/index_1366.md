@@ -2,8 +2,8 @@
 pid: index_1366
 volume: Volume 3
 image_number: '19'
-head: extortion
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1677 [Fees]</a>"
+head: extraordinary
+entry: "<a href='/digital-beehive/num4/num_1155'>893 [Extraordinary]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-02f8f6603"
+item: "#item-ed6e953a1"
 unparsed: 
-line: 'Head: extortion|Entry: 1677 [Fees]|#item-02f8f6603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1522,2880,504,91/full/0/default.jpg
+line: 'Head: extraordinary|Entry: 893 [Extraordinary]|#item-ed6e953a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1525,2975,588,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561397034373
+annotation_uri: http://dev.llgc.org.uk/annotation/1561397120235
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1522,2880,504,91/150,/0/default.jpg
-label: extortion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1525,2975,588,135/150,/0/default.jpg
+label: extraordinary
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '184'
+order: '185'
 layout: index_item
 collection: index2
 ---

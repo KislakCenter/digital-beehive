@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/252,23
 label: Time, continued
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 issue: 
-order: '022'
+also_in_entry: 
+order: '023'
 layout: alpha_item
 collection: alpha5
 ---

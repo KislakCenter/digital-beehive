@@ -2,28 +2,28 @@
 pid: index_2127
 volume: Volume 3
 image_number: '27'
-head: itch
-entry: 
+head: Jubilee
+entry: "<a href='/digital-beehive/num2/num_0576/'>463 [Jubilees]</a>"
 topic: 
 first_letter: I/J
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3531/'>scab</a>"
+see: 
 index: 
-item: "#item-e4083e4d5"
+item: "#item-04b83a053"
 unparsed: 
-line: 'Head: itch|See: scab|#item-e4083e4d5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/142,1137,394,121/full/0/default.jpg
+line: 'Head: Jubilee|Entry: 463 [Jubilees]|#item-04b83a053'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559757035702
+annotation_uri: http://dev.llgc.org.uk/annotation/1559757109749
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/142,1137,394,121/150,/0/default.jpg
-label: itch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/132,1233,390,128/150,/0/default.jpg
+label: Jubilee
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '208'
+order: '209'
 layout: index_item
 collection: index3
 ---

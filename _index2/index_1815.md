@@ -2,28 +2,28 @@
 pid: index_1815
 volume: Volume 3
 image_number: '24'
-head: hermaphrodite
-entry: 731 [PAGE_MISSING]
+head: hermes Trism
+entry: "<a href='/digital-beehive/toc/toc2_212/'>1094 [Mercurius or Hermes trismegistus]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d874b1524"
+item: "#item-bcbd009b7"
 unparsed: 
-line: 'Head: hermaphrodite|Page: p.42 [Image 1.102]|Entry: 731 [PAGE_MISSING]|#item-d874b1524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/full/0/default.jpg
+line: 'Head: hermes Trism|Entry: 1094 [Mercurius or Hermes trismegistus]|#item-bcbd009b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,641,626,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574495996
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574793655
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/150,/0/default.jpg
-label: hermaphrodite
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/431,641,626,121/150,/0/default.jpg
+label: hermes Trism
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '632'
+order: '633'
 layout: index_item
 collection: index2
 ---

@@ -8,7 +8,7 @@ topic: Sop
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_127/'>540 [Pottages]</a>"
+xref: "<a href='/digital-beehive/num3/num_0680'>540 [Pottages]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3799/'>sop</a>"
 item: "#item-a4a9aad85"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/807,24
 label: Sop
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '247'
 layout: alpha_item
 collection: alpha4

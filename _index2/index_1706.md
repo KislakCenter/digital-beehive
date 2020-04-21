@@ -2,8 +2,9 @@
 pid: index_1706
 volume: Volume 3
 image_number: '23'
-head: grease
-entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [Grease]</a>"
+head: great
+entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num3/num_0860'>635
+  [Great, rich & eminent Persons]</a>|800 [PAGE_MISSING]"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +12,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d21c66cbc"
+item: "#item-dc437600a"
 unparsed: 
-line: 'Head: grease|Entry: 698 [Grease]|#item-d21c66cbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/full/0/default.jpg
+line: 'Head: great|Entry: a|Entry: 635 [Great, rich & eminent Persons]|Entry: 800
+  [PAGE_MISSING]|#item-dc437600a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229295078
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229762887
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/150,/0/default.jpg
-label: grease
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/150,/0/default.jpg
+label: great
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '523'
+order: '524'
 layout: index_item
 collection: index2
 ---

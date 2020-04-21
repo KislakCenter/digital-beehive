@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,46
 label: Washing of feet
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
 issue: 
-order: '088'
+also_in_entry: 
+order: '089'
 layout: alpha_item
 collection: alpha5
 ---

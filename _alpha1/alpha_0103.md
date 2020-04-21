@@ -23,6 +23,7 @@ label: Brother
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 issue: It is unclear whether "Brethren in Iniquity" should be considered a separate
   entry.
+also_in_entry: 
 order: '102'
 layout: alpha_item
 collection: alpha1

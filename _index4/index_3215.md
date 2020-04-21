@@ -2,9 +2,8 @@
 pid: index_3215
 volume: Volume 3
 image_number: '37'
-head: prudence
-entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/toc/toc2_359/'>1954
-  [Prudence]</a>"
+head: to prune
+entry: "<a href='/digital-beehive/num3/num_0906'>659 [Purge]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b357fa7e6"
+item: "#item-2c930b0ba"
 unparsed: 
-line: 'Head: prudence|Entry: a|Entry: 1954 [Prudence]|#item-b357fa7e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/full/0/default.jpg
+line: 'Head: to prune|Entry: 659 [Purge]|#item-2c930b0ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869741067
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869757186
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/150,/0/default.jpg
-label: prudence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1464,3033,479,130/150,/0/default.jpg
+label: to prune
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0463'
+order: '0464'
 layout: index_item
 collection: index4
 ---

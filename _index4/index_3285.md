@@ -2,8 +2,8 @@
 pid: index_3285
 volume: Volume 3
 image_number: '38'
-head: to raise
-entry: 751 [PAGE_MISSING]
+head: rake
+entry: 461- [PAGE_MISSING]
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-85dbbc53b"
+item: "#item-92170a0a6"
 unparsed: 
-line: 'Head: to raise|Entry: 751 [PAGE_MISSING]|#item-85dbbc53b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1852,213,415,160/full/0/default.jpg
+line: 'Head: rake|Entry: 461- [PAGE_MISSING]|#item-92170a0a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2283,231,320,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459893867
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460277386
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1852,213,415,160/150,/0/default.jpg
-label: to raise
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2283,231,320,112/150,/0/default.jpg
+label: rake
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0533'
+order: '0534'
 layout: index_item
 collection: index4
 ---

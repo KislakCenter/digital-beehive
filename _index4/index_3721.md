@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '43'
 head: sin venial
 entry: "<a href='/digital-beehive/num2/num_0387/'>335 [mortal & venial sins]</a>|<a
-  href='/digital-beehive/toc/toc2_128/'>546 [WORD_MISSING]</a>"
+  href='/digital-beehive/num3/num_0689'>546 [Punctilio]</a>"
 topic: 
 first_letter: S
 page: 
@@ -24,7 +24,7 @@ label: sin venial
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0969'
+order: '0970'
 layout: index_item
 collection: index4
 ---

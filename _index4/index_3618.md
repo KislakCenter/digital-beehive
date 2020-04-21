@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-055cdeea0"
 unparsed: 
-line: 'Head: Self holiness|Entry: 300 [selfholiness, selfrighteousness]|Entry: 4459
+line: 'Head: Self holiness|Entry: 300 [Self holiness, Self righteous]|Entry: 4459
   [Self holiness]|#item-055cdeea0'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,1580,753,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
@@ -25,7 +25,7 @@ label: Self holiness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0866'
+order: '0867'
 layout: index_item
 collection: index4
 ---

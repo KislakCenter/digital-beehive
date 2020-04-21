@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_325/'>1652 [Judge]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2131/'>judge</a>"
+index: "<a href='/digital-beehive/index3/index_2130/'>judge</a>"
 item: "#item-af0b7a605"
 unparsed: 
 line: 'Entry: Judge|Topic: Judge|Xref: 1652 [Judge]|Index: judge|#item-af0b7a605'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/722,40
 label: Judge
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '049'
 layout: alpha_item
 collection: alpha3

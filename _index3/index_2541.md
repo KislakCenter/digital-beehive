@@ -2,28 +2,28 @@
 pid: index_2541
 volume: Volume 3
 image_number: '31'
-head: misrepsent
-entry: 
+head: to miss
+entry: "<a href='/digital-beehive/num3/num_0829'>618 [To Miss]</a>"
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2972/'>pervert</a>"
+see: 
 index: 
-item: "#item-fd873aa83"
+item: "#item-850697179"
 unparsed: 
-line: 'Head: misrepsent|See: pervert|#item-fd873aa83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,975,703,139/full/0/default.jpg
+line: 'Head: to miss|Entry: 618 [To Miss]|#item-850697179'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/173,1076,415,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351368449
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351712840
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,975,703,139/150,/0/default.jpg
-label: misrepsent
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/173,1076,415,143/150,/0/default.jpg
+label: to miss
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '622'
+order: '623'
 layout: index_item
 collection: index3
 ---

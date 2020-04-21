@@ -2,9 +2,8 @@
 pid: index_0746
 volume: Volume 3
 image_number: '13'
-head: common prayer
-entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Com[m]on Prayer Book]</a>|<a
-  href='/digital-beehive/toc/toc2_422/'>4449 [Common Prayer]</a>"
+head: common calamities
+entry: "<a href='/digital-beehive/toc/toc2_267/'>1368 [Publick or Com[m]on Calamities]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4c13d7eec"
+item: "#item-65a388ba1"
 unparsed: 
-line: 'Head: common prayer|Entry: 259 [Com[m]on Prayer Book]|Entry: 4449 [Common Prayer]|#item-4c13d7eec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2611,658,109/full/0/default.jpg
+line: 'Head: common calamities|Entry: 1368 [Publick or Com[m]on Calamities]|#item-65a388ba1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611950885
+annotation_uri: http://dev.llgc.org.uk/annotation/1536612161966
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1545,2611,658,109/150,/0/default.jpg
-label: common prayer
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,2690,633,77/150,/0/default.jpg
+label: common calamities
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

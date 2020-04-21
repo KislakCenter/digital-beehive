@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/323,45
 label: Day of Visitation
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '062'
+also_in_entry: 
+order: '063'
 layout: alpha_item
 collection: alpha5
 ---

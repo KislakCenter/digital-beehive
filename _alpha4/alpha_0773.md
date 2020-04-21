@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite, a hawk]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3302/'>raven</a>"
+index: "<a href='/digital-beehive/index4/index_3301/'>raven</a>"
 item: "#item-f20901ff9"
 unparsed: 
 line: 'Entry: Raven|Topic: Raven|Xref: 1351 [a kite, a hawk]|Index: raven|#item-f20901ff9'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/375,42
 label: Raven
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '126'
 layout: alpha_item
 collection: alpha4

@@ -3,7 +3,7 @@ pid: index_0124
 volume: Volume 3
 image_number: '8'
 head: amen
-entry: "<a href='/digital-beehive/num2/num_0616/'>495 [Amen]</a>"
+entry: "<a href='/digital-beehive/num2/num_0621/'>495 [Amen]</a>"
 topic: 
 first_letter: A
 page: 

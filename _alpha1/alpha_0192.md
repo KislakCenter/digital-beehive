@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_424/'>4458 [Creature]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0899/'>creature</a>"
+index: "<a href='/digital-beehive/index1/index_0898/'>creature</a>"
 item: "#item-178f2b621"
 unparsed: 
 line: 'Entry: Creature|Topic: Creature|Xref: 4458 [Creature]|Index: creature|#item-178f2b621'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/788,16
 label: Creature
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '191'
 layout: alpha_item
 collection: alpha1

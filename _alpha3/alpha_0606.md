@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_265/'>1357 [Moon]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2574/'>moon</a>"
+index: "<a href='/digital-beehive/index3/index_2573/'>moon</a>"
 item: "#item-81a8ed7ca"
 unparsed: 
 line: 'Entry: Moon|Topic: Moon|Xref: 1357 [Moon]|Index: moon|#item-81a8ed7ca'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/406,41
 label: Moon
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '162'
 layout: alpha_item
 collection: alpha3

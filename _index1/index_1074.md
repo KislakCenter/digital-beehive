@@ -2,8 +2,8 @@
 pid: index_1074
 volume: Volume 3
 image_number: '17'
-head: discretness
-entry: "<a href='/digital-beehive/alpha1/alpha_0241/'>a</a>"
+head: disentangle
+entry: "<a href='/digital-beehive/toc/toc2_247/'>1269 [Entangle & disentangle]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d8e6d46ba"
+item: "#item-b82df68a7"
 unparsed: 
-line: 'Head: discretness|Entry: a|#item-d8e6d46ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,737,480,150/full/0/default.jpg
+line: 'Head: disentangle|Entry: 1269 [Entangle & disentangle]|#item-b82df68a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/142,863,604,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175223087
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803737752
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/158,737,480,150/150,/0/default.jpg
-label: discretness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/142,863,604,138/150,/0/default.jpg
+label: disentangle
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

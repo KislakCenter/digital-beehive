@@ -2,10 +2,8 @@
 pid: index_2112
 volume: Volume 3
 image_number: '26'
-head: joy
-entry: "<a href='/digital-beehive/alpha3/alpha_0488/'>a</a>|832 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_272/'>1392 [Joy]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
-  [Joy]</a>"
+head: joy after sorrow
+entry: "<a href='/digital-beehive/num1/num_0004/'>4 [After Sowre comes the Sweet]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-02f6aa1ec"
+item: "#item-7e0aa4c3f"
 unparsed: 
-line: 'Head: joy|Entry: a|Entry: 832 [PAGE_MISSING]|Entry: 1392 [Joy]|Entry: 1940
-  [Joy]|#item-02f6aa1ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/full/0/default.jpg
+line: 'Head: joy after sorrow|Entry: 4 [After Sowre comes the Sweet]|#item-7e0aa4c3f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1837,3125,521,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754627695
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754720433
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,3036,657,121/150,/0/default.jpg
-label: joy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1837,3125,521,143/150,/0/default.jpg
+label: joy after sorrow
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '193'
+order: '194'
 layout: index_item
 collection: index3
 ---

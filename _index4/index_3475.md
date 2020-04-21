@@ -3,7 +3,7 @@ pid: index_3475
 volume: Volume 3
 image_number: '40'
 head: Sabbath
-entry: "<a href='/digital-beehive/alpha4/alpha_0819/'>a</a>|<a href='/digital-beehive/toc/toc2_173/'>930
+entry: "<a href='/digital-beehive/alpha4/alpha_0819/'>a</a>|<a href='/digital-beehive/num4/num_1239'>930
   [Sabbath]</a>|<a href='/digital-beehive/toc/toc2_312/'>1589 [Sabbath]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: Sabbath
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0723'
+order: '0724'
 layout: index_item
 collection: index4
 ---

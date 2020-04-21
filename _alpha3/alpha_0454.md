@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0800/'>revelation</a>|<a href='/digital-beehive/toc/toc2_199/'>1027
   [Illumination]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1955/'>illumination</a>"
+index: "<a href='/digital-beehive/index3/index_1954/'>illumination</a>"
 item: "#item-7c6ed06fa"
 unparsed: 
 line: 'Entry: Illumination|Topic: Illumination|XRef: revelation|XRef: 1027 [Illumination]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/375,29
 label: Illumination
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '010'
 layout: alpha_item
 collection: alpha3

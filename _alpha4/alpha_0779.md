@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0709/'>Placableness</a>|770 [PAGE_MISSING]|<a
   href='/digital-beehive/num2/num_0455/'>379 [Reconciliatio universalis]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3319/'>reconciliation</a>"
+index: "<a href='/digital-beehive/index4/index_3318/'>reconciliation</a>"
 item: "#item-2542e44da"
 unparsed: 
 line: 'Entry: Reconcilemt|Topic: Reconcilemt|Xref: Placableness|Xref: 770 [PAGE_MISSING]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/830,16
 label: Reconcilemt
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '132'
 layout: alpha_item
 collection: alpha4

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0379/'>gray hairs</a>|<a href='/digital-beehive/alpha4/alpha_0780/'>red
   haired</a>|<a href='/digital-beehive/toc/toc2_261/'>1337 [Hair and Perriwigs]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1738/'>hair</a>"
+index: "<a href='/digital-beehive/index2/index_1737/'>hair</a>"
 item: "#item-40babfce6"
 unparsed: 
 line: 'Entry: Hair|Topic: Hair|Xref: gray hairs|Xref: red haired|Xref: 1337 [Hair
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/772,30
 label: Hair
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '122'
 layout: alpha_item
 collection: alpha2

@@ -8,10 +8,10 @@ topic: Moral Philosophy
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/toc/toc2_163/'>880
+xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/num4/num_1120'>880
   [Moral Philos]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"
+index: "<a href='/digital-beehive/index3/index_2576/'>moral philosophy</a>"
 item: "#item-ac4e76034"
 unparsed: 
 line: 'Entry: Moral Philosophy|Topic: Moral Philosophy|Xref: 15 [Moral Philosophy]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,40
 label: Moral Philosophy
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '161'
 layout: alpha_item
 collection: alpha3

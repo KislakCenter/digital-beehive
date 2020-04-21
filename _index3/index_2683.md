@@ -2,8 +2,8 @@
 pid: index_2683
 volume: Volume 3
 image_number: '32'
-head: Neptune
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Neptune]</a>"
+head: Nero
+entry: "<a href='/digital-beehive/num4/num_1282'>961 [Nero]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fb48149db"
+item: "#item-c6f9f6b34"
 unparsed: 
-line: 'Head: Neptune|Entry: 1383 [Neptune]|#item-fb48149db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1189,718,476,126/full/0/default.jpg
+line: 'Head: Nero|Entry: 961 [Nero]|#item-c6f9f6b34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,775,308,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441308697
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441356161
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1189,718,476,126/150,/0/default.jpg
-label: Neptune
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,775,308,93/150,/0/default.jpg
+label: Nero
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '764'
+order: '765'
 layout: index_item
 collection: index3
 ---

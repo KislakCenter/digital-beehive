@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0667/'>Original Tongue</a>|English
   href='/digital-beehive/alpha4/alpha_0900/'>Speech</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Tongue</a>|<a
   href='/digital-beehive/toc/toc2_276/'>1413 [Languages]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2197/'>language</a>"
+index: "<a href='/digital-beehive/index3/index_2196/'>language</a>"
 item: "#item-793d2cc74"
 unparsed: 
 line: 'Entry: Language|Topic: Language|Xref: Original Tongue|Xref: English tongue|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/750,11
 label: Language
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '064'
 layout: alpha_item
 collection: alpha3

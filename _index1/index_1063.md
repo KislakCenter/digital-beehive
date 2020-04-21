@@ -2,8 +2,10 @@
 pid: index_1063
 volume: Volume 3
 image_number: '16'
-head: disbelieve
-entry: "<a href='/digital-beehive/toc/toc2_156/'>705 [believe]</a>"
+head: discerning
+entry: "<a href='/digital-beehive/num2/num_0433/'>365 [Discern]</a>|<a href='/digital-beehive/num4/num_1319'>989
+  [Spiritual Discerning]</a>|<a href='/digital-beehive/toc/toc2_411/'>2369 [Spiritual
+  Discerning]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +13,16 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1a0683297"
+item: "#item-6b56f65b4"
 unparsed: 
-line: 'Head: disbelieve|Entry: 705 [believe]|#item-1a0683297'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/full/0/default.jpg
+line: 'Head: discerning|Entry: 365 [Discern]|Entry: 989 [Spiritual discerning]|Entry:
+  2369 [Spiritual Discerning]|#item-6b56f65b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784141979
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784204926
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/150,/0/default.jpg
-label: disbelieve
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1759,2730,708,136/150,/0/default.jpg
+label: discerning
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,9 +2,8 @@
 pid: index_1159
 volume: Volume 3
 image_number: '17'
-head: drowning
-entry: "<a href='/digital-beehive/toc/toc2_152/'>684 [Drowning]</a>|<a href='/digital-beehive/toc/toc2_437/'>4857
-  [Drowning]</a>"
+head: drowsiness
+entry: "<a href='/digital-beehive/num2/num_0328/'>292 [Drowsiness]</a>"
 topic: 
 first_letter: D
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a897b66b0"
+item: "#item-38369470f"
 unparsed: 
-line: 'Head: drowning|Entry: 684 [Drowning]|Entry: 4857 [Drowning]|#item-a897b66b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1434,3062,721,149/full/0/default.jpg
+line: 'Head: drowsiness|Entry: 292 [Drowsiness]|#item-38369470f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1452,3161,586,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453246737
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453319638
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1434,3062,721,149/150,/0/default.jpg
-label: drowning
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1452,3161,586,173/150,/0/default.jpg
+label: drowsiness
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

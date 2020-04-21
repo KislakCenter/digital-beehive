@@ -10,9 +10,9 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0441/'>Hypocrisie</a>|<a href='/digital-beehive/alpha1/alpha_0156/'>false
   Comfort</a>|<a href='/digital-beehive/alpha1/alpha_0191/'>craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0877/'>Simulation</a>|<a
-  href='/digital-beehive/toc/toc2_182/'>979 [Falsehood]</a>"
+  href='/digital-beehive/num4/num_1306'>979 [Falsehood]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1392/'>falshood</a>"
+index: "<a href='/digital-beehive/index2/index_1391/'>falshood</a>"
 item: "#item-eeba60407"
 unparsed: 
 line: 'Entry: Falshood|Topic: Falshood|Xref: Hypocrisie|Xref: false Comfort|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/727,21
 label: Falshood
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '043'
 layout: alpha_item
 collection: alpha2

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0874/'>counterfeit money</a>"
+index: "<a href='/digital-beehive/index1/index_0873/'>counterfeit money</a>"
 item: "#item-49edbb468"
 unparsed: 
 line: 'Entry: Counterfeit money|Topic: Counterfeit money|Index: counterfeit money|#item-49edbb468'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/339,25
 label: Counterfeit money
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '182'
 layout: alpha_item
 collection: alpha1

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_299/'>1525 [False Comfort]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0734/'>comfort false</a>"
+index: "<a href='/digital-beehive/index1/index_0733/'>comfort false</a>"
 item: "#item-0a6af823f"
 unparsed: 
 line: 'Entry: False Comfort|Topic: False Comfort|Xref: 1525 [False Comfort]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/812,43
 label: False Comfort
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '155'
 layout: alpha_item
 collection: alpha1

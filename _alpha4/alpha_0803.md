@@ -8,7 +8,7 @@ topic: Revenge
 first_letter: R
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_121/'>504 [Revenge]</a>"
+xref: "<a href='/digital-beehive/num3/num_0634'>504 [Revenge]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3404/'>revenge</a>"
 item: "#item-4e31ecb7b"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/818,17
 label: Revenge
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '155'
 layout: alpha_item
 collection: alpha4

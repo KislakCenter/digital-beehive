@@ -3,7 +3,7 @@ pid: index_3843
 volume: Volume 3
 image_number: '44'
 head: to spin
-entry: "<a href='/digital-beehive/toc/toc2_157/'>706 [To Spin]</a>|<a href='/digital-beehive/toc/toc2_197/'>1019
+entry: "<a href='/digital-beehive/num3/num_1028'>706 [To Spin]</a>|<a href='/digital-beehive/toc/toc2_197/'>1019
   [Spinning]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: to spin
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1091'
+order: '1092'
 layout: index_item
 collection: index4
 ---

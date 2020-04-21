@@ -2,28 +2,28 @@
 pid: index_1527
 volume: Volume 3
 image_number: '21'
-head: fountain
+head: fowling
 entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3863/'>spring</a>"
+see: "<a href='/digital-beehive/index2/index_1907/'>hunting</a>"
 index: 
-item: "#item-4378a2c3e"
+item: "#item-217a6f509"
 unparsed: 
-line: 'Head: fountain|See: spring|#item-4378a2c3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,940,677,146/full/0/default.jpg
+line: 'Head: fowling|See: hunting|#item-217a6f509'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,1084,664,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531763096478
+annotation_uri: http://dev.llgc.org.uk/annotation/1531763118023
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,940,677,146/150,/0/default.jpg
-label: fountain
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/886,1084,664,136/150,/0/default.jpg
+label: fowling
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '345'
+order: '346'
 layout: index_item
 collection: index2
 ---

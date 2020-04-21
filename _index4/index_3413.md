@@ -3,7 +3,7 @@ pid: index_3413
 volume: Volume 3
 image_number: '40'
 head: rhetorick
-entry: "<a href='/digital-beehive/num2/num_0582/'>472 [Rhetorick]</a>"
+entry: "<a href='/digital-beehive/num2/num_0587/'>472 [Rhetorick]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rhetorick
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0661'
+order: '0662'
 layout: index_item
 collection: index4
 ---

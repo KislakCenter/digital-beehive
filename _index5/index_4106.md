@@ -3,8 +3,8 @@ pid: index_4106
 volume: Volume 3
 image_number: '47'
 head: that, auffdaß
-entry: "<a href='/digital-beehive/num2/num_0330/'>293 [That]</a>|<a href='/digital-beehive/toc/toc2_169/'>907
-  [to the end]</a>"
+entry: "<a href='/digital-beehive/num2/num_0330/'>293 [That]</a>|<a href='/digital-beehive/num4/num_1183'>907
+  [Purposely]</a>|<a href='/digital-beehive/num4/num_1184'>907 [to the end]</a>"
 topic: 
 first_letter: T
 page: 
@@ -14,7 +14,8 @@ see:
 index: 
 item: "#item-66a37eb58"
 unparsed: 
-line: 'Head: that, auffdaß|Entry: 293 [That]|Entry: 907 [to the end]|#item-66a37eb58'
+line: 'Head: that, auffdaß|Entry: 293 [That]|Entry: 907 [Purposely]|Entry: 907 [to
+  the end]|#item-66a37eb58'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/915,686,661,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532720130991

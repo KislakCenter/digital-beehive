@@ -3,7 +3,7 @@ pid: index_0503
 volume: Volume 3
 image_number: '11'
 head: cabbages
-entry: "<a href='/digital-beehive/toc/toc2_150/'>675 [Cabbages]</a>"
+entry: "<a href='/digital-beehive/num3/num_0938'>675 [Cabbages]</a>"
 topic: 
 first_letter: C
 page: 

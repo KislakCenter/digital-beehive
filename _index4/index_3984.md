@@ -3,7 +3,7 @@ pid: index_3984
 volume: Volume 3
 image_number: '46'
 head: sunday
-entry: "<a href='/digital-beehive/toc/toc2_122/'>511 [First day of the Week]</a>"
+entry: "<a href='/digital-beehive/num3/num_0643'>511 [First day of the Week]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sunday
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1232'
+order: '1233'
 layout: index_item
 collection: index4
 ---

@@ -2,24 +2,24 @@
 pid: index_1050
 volume: Volume 3
 image_number: '16'
-head: diffidence
-entry: 
+head: digression
+entry: "<a href='/digital-beehive/num2/num_0402/'>347 [Digression]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1108/'>distrust</a>"
+see: 
 index: 
-item: "#item-8dac9212c"
+item: "#item-28cffae74"
 unparsed: 
-line: 'Head: diffidence|See: distrust|#item-8dac9212c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1858,1599,612,109/full/0/default.jpg
+line: 'Head: digression|Entry: 347 [Digression]|#item-28cffae74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1780,1663,526,130/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783766709
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783796508
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1858,1599,612,109/150,/0/default.jpg
-label: diffidence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1780,1663,526,130/150,/0/default.jpg
+label: digression
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

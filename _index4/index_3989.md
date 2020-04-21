@@ -3,7 +3,7 @@ pid: index_3989
 volume: Volume 3
 image_number: '46'
 head: superstition
-entry: "<a href='/digital-beehive/alpha4/alpha_0929/'>a</a>|<a href='/digital-beehive/toc/toc2_176/'>946
+entry: "<a href='/digital-beehive/alpha4/alpha_0929/'>a</a>|<a href='/digital-beehive/num4/num_1263'>946
   [Superstition]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: superstition
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1237'
+order: '1238'
 layout: index_item
 collection: index4
 ---

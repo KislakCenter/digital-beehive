@@ -2,8 +2,8 @@
 pid: index_2809
 volume: Volume 3
 image_number: '33'
-head: opposers
-entry: "<a href='/digital-beehive/num2/num_0491/'>401 [Opposers]</a>"
+head: opposit
+entry: "<a href='/digital-beehive/num3/num_0986'>690 [Contrariety]</a>"
 topic: 
 first_letter: O
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-29acd2423"
+item: "#item-84cebb0aa"
 unparsed: 
-line: 'Head: opposers|Entry: 401 [Opposers]|#item-29acd2423'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1486,992,504,137/full/0/default.jpg
+line: 'Head: opposit|Entry: 690 [Contrariety]|#item-84cebb0aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1501,1078,509,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161598811
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161632319
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1486,992,504,137/150,/0/default.jpg
-label: opposers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1501,1078,509,124/150,/0/default.jpg
+label: opposit
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0057'
+order: '0058'
 layout: index_item
 collection: index4
 ---

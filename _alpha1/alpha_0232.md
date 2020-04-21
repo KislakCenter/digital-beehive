@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0711/'>Play</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1043/'>dice</a>"
+index: "<a href='/digital-beehive/index1/index_1042/'>dice</a>"
 item: "#item-0c245cfc1"
 unparsed: 
 line: 'Entry: Dice|Topic: Dice|Xref: Play|Index: dice|#item-0c245cfc1'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/440,36
 label: Dice
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '231'
+also_in_entry: 
+order: '230'
 layout: alpha_item
 collection: alpha1
 ---

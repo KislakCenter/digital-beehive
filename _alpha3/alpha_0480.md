@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0856/'>Sense</a>|<a href='/digital-beehive/num1/num_0158/'>152
   [Insensibleness]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2060/'>insensibleness</a>"
+index: "<a href='/digital-beehive/index3/index_2059/'>insensibleness</a>"
 item: "#item-090ffa5e5"
 unparsed: 
 line: 'Entry: Insensibleness|Topic: Insensibleness|Xref: Sense|Xref: 152 [Insensibleness]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,41
 label: Insensibleness
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '036'
 layout: alpha_item
 collection: alpha3

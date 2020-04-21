@@ -2,8 +2,8 @@
 pid: index_1543
 volume: Volume 3
 image_number: '21'
-head: fresh
-entry: "<a href='/digital-beehive/toc/toc2_164/'>882 [Fresh]</a>"
+head: fribler
+entry: "<a href='/digital-beehive/toc/toc2_430/'>4806 [Coquets]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-86d570d1a"
+item: "#item-ef1afbd1d"
 unparsed: 
-line: 'Head: fresh|Entry: 882 [Fresh]|#item-86d570d1a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,2234,417,118/full/0/default.jpg
+line: 'Head: fribler|Entry: 4806 [Coquets]|#item-ef1afbd1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/817,2301,464,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623229751
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783192438
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/874,2234,417,118/150,/0/default.jpg
-label: fresh
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/817,2301,464,110/150,/0/default.jpg
+label: fribler
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '361'
+order: '362'
 layout: index_item
 collection: index2
 ---

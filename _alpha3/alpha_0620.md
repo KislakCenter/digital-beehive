@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0880/'>Singing</a>|Sound|<a href='/digital-beehive/num2/num_0526/'>425
   [Musick]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2621/'>musick</a>"
+index: "<a href='/digital-beehive/index3/index_2620/'>musick</a>"
 item: "#item-843ee86fd"
 unparsed: 
 line: 'Entry: Musick|Topic: Musick|Xref: Singing|Xref: Sound|Xref: 425 [Musick]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,39
 label: Musick
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: The point of reference for "Sound" is unclear.
+also_in_entry: 
 order: '176'
 layout: alpha_item
 collection: alpha3

@@ -23,8 +23,9 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/336,20
 label: Tailor
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: The point of reference for "Seamster" is unclear.|The point of reference for
-  "to sell" is unclear.
-order: '001'
+  "to sell" is unclear. Pastorius perhaps intends numerical entry 604 [to Sell].
+also_in_entry: 
+order: '002'
 layout: alpha_item
 collection: alpha5
 ---

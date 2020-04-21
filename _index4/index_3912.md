@@ -23,7 +23,7 @@ label: stones of a man
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1160'
+order: '1161'
 layout: index_item
 collection: index4
 ---

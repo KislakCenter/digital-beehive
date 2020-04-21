@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0308/'>fair words</a>|<a href='/digital-beehive/toc/toc2_326/'>1659
   [Eloquence]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1230/'>eloquence</a>"
+index: "<a href='/digital-beehive/index2/index_1229/'>eloquence</a>"
 item: "#item-eec917b43"
 unparsed: 
 line: 'Entry: Eloquence|Topic: Eloquence|Xref: fair words|Xref: 1659 [Eloquence]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/400,14
 label: Eloquence
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '011'
 layout: alpha_item
 collection: alpha2

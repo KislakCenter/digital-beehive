@@ -3,7 +3,7 @@ pid: index_4165
 volume: Volume 3
 image_number: '48'
 head: tobacco
-entry: "<a href='/digital-beehive/alpha5/alpha_0960/'>a</a>|<a href='/digital-beehive/toc/toc2_174/'>935
+entry: "<a href='/digital-beehive/alpha5/alpha_0960/'>a</a>|<a href='/digital-beehive/num4/num_1248'>935
   [Tobacco]</a>|<a href='/digital-beehive/toc/toc2_278/'>1423 [Tobacco]</a>|4585 [PAGE_MISSING]"
 topic: 
 first_letter: T

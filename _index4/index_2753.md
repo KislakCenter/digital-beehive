@@ -2,9 +2,8 @@
 pid: index_2753
 volume: Volume 3
 image_number: '33'
-head: oath
-entry: "<a href='/digital-beehive/alpha4/alpha_0648/'>a</a>|<a href='/digital-beehive/toc/toc2_133/'>576
-  [Oath]</a>|<a href='/digital-beehive/toc/toc2_248/'>1272 [Oath]</a>"
+head: oats
+entry: "<a href='/digital-beehive/alpha4/alpha_0647/'>a</a>"
 topic: 
 first_letter: O
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c1aecfb23"
+item: "#item-0be4a7bf6"
 unparsed: 
-line: 'Head: oath|Entry: a|Entry: 576 [Oath]|Entry: 1272 [Oath]|#item-c1aecfb23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/180,1442,651,96/full/0/default.jpg
+line: 'Head: oats|Entry: a|#item-0be4a7bf6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/175,1574,295,96/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510673928480
+annotation_uri: http://dev.llgc.org.uk/annotation/1510673932593
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/180,1442,651,96/150,/0/default.jpg
-label: oath
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/175,1574,295,96/150,/0/default.jpg
+label: oats
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0001'
+order: '0002'
 layout: index_item
 collection: index4
 ---

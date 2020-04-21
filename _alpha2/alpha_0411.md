@@ -8,11 +8,11 @@ topic: Help
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_142/'>627 [Help]</a>|<a href='/digital-beehive/alpha3/alpha_0481/'>Instrument</a>|<a
+xref: "<a href='/digital-beehive/num3/num_0846'>627 [Help]</a>|<a href='/digital-beehive/alpha3/alpha_0481/'>Instrument</a>|<a
   href='/digital-beehive/alpha4/alpha_0745/'>Promoting</a>|<a href='/digital-beehive/alpha2/alpha_0368/'>God's
   Help</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1798/'>help</a>"
+index: "<a href='/digital-beehive/index2/index_1797/'>help</a>"
 item: "#item-31af7bea3"
 unparsed: 
 line: 'Entry: Help|Topic: Help|Xref: 627 [Help]|Xref: Instrument|Xref: Promoting|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/678,86
 label: Help
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '142'
 layout: alpha_item
 collection: alpha2

@@ -2,8 +2,8 @@
 pid: index_2996
 volume: Volume 3
 image_number: '35'
-head: pick-pocket
-entry: 4720 [PAGE_MISSING]
+head: picture
+entry: "<a href='/digital-beehive/alpha4/alpha_0705/'>a</a>|4516 [PAGE_MISSING]"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-345e017c6"
+item: "#item-670ced1e5"
 unparsed: 
-line: 'Head: pick-pocket|Entry: 4720 [PAGE_MISSING]|#item-345e017c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1493,216,683,171/full/0/default.jpg
+line: 'Head: picture|Entry: a|Entry: 4516 [PAGE_MISSING]|#item-670ced1e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1538,270,586,180/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975843891
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975873815
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1493,216,683,171/150,/0/default.jpg
-label: pick-pocket
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1538,270,586,180/150,/0/default.jpg
+label: picture
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0244'
+order: '0245'
 layout: index_item
 collection: index4
 ---

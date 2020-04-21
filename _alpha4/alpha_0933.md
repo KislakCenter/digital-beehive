@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/348,14
 label: Swan
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '285'
 layout: alpha_item
 collection: alpha4

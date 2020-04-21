@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0404/'>Drinking of healths</a>|<a href='/digital-beehive/alpha5/alpha_0950/'>Thirst</a>|775
   [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1152/'>drink</a>"
+index: "<a href='/digital-beehive/index1/index_1151/'>drink</a>"
 item: "#item-6376317e7"
 unparsed: 
 line: 'Entry: Drink|Topic: Drink|Xref: Drinking of healths|Xref: Thirst|Xref: 775
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/817,25
 label: Drink
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue: 
-order: '262'
+also_in_entry: 
+order: '261'
 layout: alpha_item
 collection: alpha1
 ---

@@ -2,8 +2,8 @@
 pid: index_2764
 volume: Volume 3
 image_number: '33'
-head: to obstruct
-entry: 1880 [PAGE_MISSING]
+head: obvious
+entry: "<a href='/digital-beehive/toc/toc2_224/'>1153 [Obvious]</a>"
 topic: 
 first_letter: O
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-df9681456"
+item: "#item-68fda7979"
 unparsed: 
-line: 'Head: to obstruct|Entry: 1880 [PAGE_MISSING]|#item-df9681456'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/67,2781,663,142/full/0/default.jpg
+line: 'Head: obvious|Entry: 1153 [Obvious]|#item-68fda7979'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/111,2876,519,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347517973
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347556501
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/67,2781,663,142/150,/0/default.jpg
-label: to obstruct
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/111,2876,519,121/150,/0/default.jpg
+label: obvious
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0012'
+order: '0013'
 layout: index_item
 collection: index4
 ---

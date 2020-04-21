@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0080/'>79 [Imputation]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1987/'>imputation</a>"
+index: "<a href='/digital-beehive/index3/index_1986/'>imputation</a>"
 item: "#item-5c83dacce"
 unparsed: 
 line: 'Entry: Imputation|Topic: Imputation|Xref: 79 [Imputation]|Index: imputation|#item-5c83dacce'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/786,34
 label: Imputation
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '021'
 layout: alpha_item
 collection: alpha3

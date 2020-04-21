@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0554/'>446 [Pope]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3071/'>pope</a>"
+index: "<a href='/digital-beehive/index4/index_3070/'>pope</a>"
 item: "#item-5317aefeb"
 unparsed: 
 line: 'Entry: Pope|Topic: Pope|Xref: 446 [Pope]|Index: pope|#item-5317aefeb'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,25
 label: Pope
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '070'
 layout: alpha_item
 collection: alpha4

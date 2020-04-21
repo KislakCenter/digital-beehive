@@ -2,8 +2,8 @@
 pid: index_1796
 volume: Volume 3
 image_number: '23'
-head: helmut
-entry: 849 [PAGE_MISSING]
+head: helpless
+entry: "<a href='/digital-beehive/num3/num_0832'>620 [Despair]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-93a41ce42"
+item: "#item-cb9f51c9f"
 unparsed: 
-line: 'Head: helmut|Entry: 849 [PAGE_MISSING]|#item-93a41ce42'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1528,2278,404,123/full/0/default.jpg
+line: 'Head: helpless|Entry: 620 [Despair]|#item-cb9f51c9f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1535,2353,439,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571131865
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571242963
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1528,2278,404,123/150,/0/default.jpg
-label: helmut
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1535,2353,439,124/150,/0/default.jpg
+label: helpless
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '613'
+order: '614'
 layout: index_item
 collection: index2
 ---

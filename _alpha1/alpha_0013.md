@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/684,95
 label: Agony
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '012'
 layout: alpha_item
 collection: alpha1

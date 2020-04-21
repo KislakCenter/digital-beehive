@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3292/'>rarity</a>"
+see: "<a href='/digital-beehive/index4/index_3291/'>rarity</a>"
 index: 
 item: "#item-38df66372"
 unparsed: 
@@ -23,7 +23,7 @@ label: seldom
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0849'
+order: '0850'
 layout: index_item
 collection: index4
 ---

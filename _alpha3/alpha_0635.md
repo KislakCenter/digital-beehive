@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0444/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|<a
   href='/digital-beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2680/'>negligence</a>"
+index: "<a href='/digital-beehive/index3/index_2679/'>negligence</a>"
 item: "#item-dfd2d85c3"
 unparsed: 
 line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,43
 label: Negligenge
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '191'
 layout: alpha_item
 collection: alpha3

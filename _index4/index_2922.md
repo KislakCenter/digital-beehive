@@ -2,8 +2,8 @@
 pid: index_2922
 volume: Volume 3
 image_number: '34'
-head: patriarchs
-entry: "<a href='/digital-beehive/toc/toc2_434/'>4839 [Patriarchs]</a>"
+head: patriots
+entry: "<a href='/digital-beehive/toc/toc2_272/'>1394 [Patriots]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dfb7ba6a6"
+item: "#item-600277d89"
 unparsed: 
-line: 'Head: patriarchs|Entry: 4839 [Patriarchs]|#item-dfb7ba6a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/full/0/default.jpg
+line: 'Head: patriots|Entry: 1394 [Patriots]|#item-600277d89'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495604199
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495692384
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2078,599,167/150,/0/default.jpg
-label: patriarchs
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/150,/0/default.jpg
+label: patriots
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0170'
+order: '0171'
 layout: index_item
 collection: index4
 ---

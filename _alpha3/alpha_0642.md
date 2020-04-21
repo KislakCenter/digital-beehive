@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_378/'>2123 [Nose]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2731/'>nose</a>"
+index: "<a href='/digital-beehive/index3/index_2730/'>nose</a>"
 item: "#item-79d524cfa"
 unparsed: 
 line: 'Entry: Nose|Topic: Nose|Xref: 2123 [Nose]|Index: nose|#item-79d524cfa'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/762,24
 label: Nose
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '198'
 layout: alpha_item
 collection: alpha3

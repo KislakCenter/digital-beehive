@@ -2,8 +2,8 @@
 pid: index_1414
 volume: Volume 3
 image_number: '20'
-head: father
-entry: "<a href='/digital-beehive/num2/num_0325/'>289 [Father]</a>"
+head: fathers
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a82fe788c"
+item: "#item-505e358ce"
 unparsed: 
-line: 'Head: father|Entry: 289 [Father]|#item-a82fe788c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1141,338,399,116/full/0/default.jpg
+line: 'Head: fathers|Entry: 73 [the Fathers]|#item-505e358ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,428,368,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660789927
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660864534
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1141,338,399,116/150,/0/default.jpg
-label: father
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1161,428,368,112/150,/0/default.jpg
+label: fathers
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '232'
+order: '233'
 layout: index_item
 collection: index2
 ---

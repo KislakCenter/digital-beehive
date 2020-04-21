@@ -2,8 +2,9 @@
 pid: index_3141
 volume: Volume 3
 image_number: '37'
-head: the pretender
-entry: "<a href='/digital-beehive/toc/toc2_384/'>2186 [the Pretender James 3d]</a>"
+head: pretender to learning
+entry: "<a href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a
+  href='/digital-beehive/toc/toc2_387/'>2212 [Pretender to learning]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +12,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c870dc9ee"
+item: "#item-228d43914"
 unparsed: 
-line: 'Head: the pretender|Entry: 2186 [the Pretender James 3d]|#item-c870dc9ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/full/0/default.jpg
+line: 'Head: pretender to learning|Entry: 105 [a Pretender to learning]|Entry: 2212
+  [Pretender to learning]|#item-228d43914'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,1131,704,166/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866206145
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866266669
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/91,1070,717,124/150,/0/default.jpg
-label: the pretender
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,1131,704,166/150,/0/default.jpg
+label: pretender to learning
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0389'
+order: '0390'
 layout: index_item
 collection: index4
 ---

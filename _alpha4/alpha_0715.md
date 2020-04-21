@@ -10,7 +10,7 @@ page:
 add: 
 xref: Temporizing|<a href='/digital-beehive/toc/toc2_186/'>1001 [Politick]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_3065/'>politick</a>"
+index: "<a href='/digital-beehive/index4/index_3064/'>politick</a>"
 item: "#item-654f9212d"
 unparsed: 
 line: 'Entry: Politick|Topic: Politick|Xref: Temporizing|Xref: 1001 [Politick]|Index:
@@ -22,7 +22,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/267,1767,600,180/250,/0/default.jpg
 label: Politick
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue: The point of reference for "Temporizing" is unclear.
+issue: The point of reference for "Temporizing" is unclear. Pastorius perhaps intends
+  numerical entry 643 [Temporising].
+also_in_entry: 
 order: '068'
 layout: alpha_item
 collection: alpha4

@@ -9,7 +9,7 @@ first_letter: R
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0454/'>illumination</a>|<a href='/digital-beehive/num2/num_0502/'>409
-  [Vision]</a>|<a href='/digital-beehive/toc/toc2_179/'>960 [Revelation]</a>"
+  [Vision]</a>|<a href='/digital-beehive/num4/num_1280'>960 [Revelation]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3401/'>revelation</a>"
 item: "#item-f56034c82"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/784,48
 label: Revelation
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '152'
 layout: alpha_item
 collection: alpha4

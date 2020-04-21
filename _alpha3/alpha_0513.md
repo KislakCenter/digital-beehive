@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2206/'>last time</a>"
+index: "<a href='/digital-beehive/index3/index_2205/'>last time</a>"
 item: "#item-261b9f1f0"
 unparsed: 
 line: 'Entry: Last time|Topic: Last time|Index: last time|#item-261b9f1f0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/766,27
 label: Last time
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '069'
 layout: alpha_item
 collection: alpha3

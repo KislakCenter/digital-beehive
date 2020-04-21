@@ -2,9 +2,8 @@
 pid: index_0894
 volume: Volume 3
 image_number: '15'
-head: craftiness
-entry: "<a href='/digital-beehive/alpha1/alpha_0191/'>a</a>|<a href='/digital-beehive/toc/toc2_239/'>1228
-  [Craftiness]</a>"
+head: cramp
+entry: "<a href='/digital-beehive/num3/num_0780'>597 [Cramp]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-045f06e66"
+item: "#item-35a777660"
 unparsed: 
-line: 'Head: craftiness|Entry: a|Entry: 1228 [Craftiness]|#item-045f06e66'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,3324,673,157/full/0/default.jpg
+line: 'Head: cramp|Entry: 597 [Cramp]|#item-35a777660'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/170,3491,398,132/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975301625
+annotation_uri: http://dev.llgc.org.uk/annotation/1537975328283
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/153,3324,673,157/150,/0/default.jpg
-label: craftiness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/170,3491,398,132/150,/0/default.jpg
+label: cramp
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -3,7 +3,7 @@ pid: index_3831
 volume: Volume 3
 image_number: '44'
 head: speechless
-entry: "<a href='/digital-beehive/toc/toc2_128/'>551 [WORD_MISSING]</a>"
+entry: "<a href='/digital-beehive/num3/num_0697'>551 [[WORD_ILLEGIBLE]]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: speechless
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1079'
+order: '1080'
 layout: index_item
 collection: index4
 ---

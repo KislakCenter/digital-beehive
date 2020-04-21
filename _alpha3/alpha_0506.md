@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2188/'>lamb</a>"
+index: "<a href='/digital-beehive/index3/index_2187/'>lamb</a>"
 item: "#item-2581cfd1b"
 unparsed: 
 line: 'Entry: Lamb|Topic: Lamb|Index: lamb|#item-2581cfd1b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/745,77
 label: Lamb
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '062'
 layout: alpha_item
 collection: alpha3

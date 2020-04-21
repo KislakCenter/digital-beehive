@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1420/'>fear</a>"
+see: "<a href='/digital-beehive/index2/index_1419/'>fear</a>"
 index: 
 item: "#item-d0f77249a"
 unparsed: 
@@ -23,7 +23,7 @@ label: shy
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0941'
+order: '0942'
 layout: index_item
 collection: index4
 ---

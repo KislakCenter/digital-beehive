@@ -2,9 +2,8 @@
 pid: index_2499
 volume: Volume 3
 image_number: '30'
-head: metamorphosing
-entry: "<a href='/digital-beehive/toc/toc2_146/'>650 [Transformation]</a>|<a href='/digital-beehive/toc/toc2_324/'>1650
-  [Transformation]</a>"
+head: metaphor
+entry: "<a href='/digital-beehive/num2/num_0296/'>265 [Metaphor or figurative Speech]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5aef9463b"
+item: "#item-fbbdb9d29"
 unparsed: 
-line: 'Head: metamorphosing|Entry: 650 [Transformation]|Entry: 1650 [Transformation]|#item-5aef9463b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,307,663,148/full/0/default.jpg
+line: 'Head: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-fbbdb9d29'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1824,407,507,162/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273268104
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273288010
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1843,307,663,148/150,/0/default.jpg
-label: metamorphosing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1824,407,507,162/150,/0/default.jpg
+label: metaphor
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '580'
+order: '581'
 layout: index_item
 collection: index3
 ---

@@ -2,9 +2,8 @@
 pid: index_0779
 volume: Volume 3
 image_number: '14'
-head: condemnation
-entry: "<a href='/digital-beehive/alpha1/alpha_0165/'>a</a>|<a href='/digital-beehive/toc/toc2_348/'>1817
-  [Damnation]</a>"
+head: condemnation of ones fault
+entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b7d40955f"
+item: "#item-bd9fee6b0"
 unparsed: 
-line: 'Head: condemnation|Entry: a|Entry: 1817 [Damnation]|#item-b7d40955f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2471,738,98/full/0/default.jpg
+line: 'Head: condemnation of ones fault|Entry: 418 [Renouncing]|#item-bd9fee6b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216680917
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216714356
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2471,738,98/150,/0/default.jpg
-label: condemnation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/150,/0/default.jpg
+label: condemnation of ones fault
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

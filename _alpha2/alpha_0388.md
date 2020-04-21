@@ -10,7 +10,7 @@ page:
 add: 
 xref: 752 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1675/'>governmt</a>"
+index: "<a href='/digital-beehive/index2/index_1674/'>governmt</a>"
 item: "#item-066ac94a1"
 unparsed: 
 line: 'Entry: Governmt|Topic: Governmt|Xref: 752 [PAGE_MISSING]|Index: governmt|#item-066ac94a1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/754,25
 label: Governmt
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '119'
 layout: alpha_item
 collection: alpha2

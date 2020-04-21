@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0171/'>Consid</a>|1884 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_2003/'>inconsiderancy</a>"
+index: "<a href='/digital-beehive/index3/index_2002/'>inconsiderancy</a>"
 item: "#item-62a54fe6c"
 unparsed: 
 line: 'Entry: Inconsiderancy|Topic: Inconsiderancy|Xref: Consid|Xref: 1884 [PAGE_MISSING]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,41
 label: Inconsiderancy
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '023'
 layout: alpha_item
 collection: alpha3

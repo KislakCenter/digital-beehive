@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0581/'>Mediocrity</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2508/'>middle</a>"
+index: "<a href='/digital-beehive/index3/index_2507/'>middle</a>"
 item: "#item-65df4efaa"
 unparsed: 
 line: 'Entry: Middle|Topic: Middle|Xref: Mediocrity|Index: middle|#item-65df4efaa'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/734,40
 label: Middle
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '147'
 layout: alpha_item
 collection: alpha3

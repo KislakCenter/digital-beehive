@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2273/'>liberal</a>"
+see: "<a href='/digital-beehive/index3/index_2272/'>liberal</a>"
 index: 
 item: "#item-9eadd4f10"
 unparsed: 

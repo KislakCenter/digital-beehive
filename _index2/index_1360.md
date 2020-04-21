@@ -2,8 +2,9 @@
 pid: index_1360
 volume: Volume 3
 image_number: '19'
-head: extemporary
-entry: "<a href='/digital-beehive/num2/num_0515/'>416 [Extemporality]</a>"
+head: external appearance
+entry: "<a href='/digital-beehive/alpha2/alpha_0301/'>a</a>|<a href='/digital-beehive/num2/num_0540/'>437
+  [External Appearance]</a>|4515 [PAGE_MISSING]"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +12,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c1db4b550"
+item: "#item-85d198479"
 unparsed: 
-line: 'Head: extemporary|Entry: 416 [Extemporality]|#item-c1db4b550'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/full/0/default.jpg
+line: 'Head: external appearance|Entry: a|Entry: 437 [External Appearance]|Entry:
+  4515 [PAGE_MISSING]|#item-85d198479'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1513,2263,773,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561396195899
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396461265
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1518,2142,617,141/150,/0/default.jpg
-label: extemporary
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1513,2263,773,154/150,/0/default.jpg
+label: external appearance
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '178'
+order: '179'
 layout: index_item
 collection: index2
 ---

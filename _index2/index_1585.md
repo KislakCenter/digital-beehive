@@ -2,28 +2,28 @@
 pid: index_1585
 volume: Volume 3
 image_number: '21'
-head: gates
-entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Door]</a>"
+head: gathering
+entry: "<a href='/digital-beehive/num3/num_0695'>551 [Collections]</a>"
 topic: 
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-eff871d32"
+item: "#item-05f1d2d1a"
 unparsed: 
-line: 'Head: gates|Page: p.8 [Image 1.68]|Entry: 621 [Door]|#item-eff871d32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1500,3012,586,132/full/0/default.jpg
+line: 'Head: gathering|Entry: 551 [Collections]|#item-05f1d2d1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1481,3140,570,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787469688
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787667965
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1500,3012,586,132/150,/0/default.jpg
-label: gates
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1481,3140,570,139/150,/0/default.jpg
+label: gathering
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '403'
+order: '404'
 layout: index_item
 collection: index2
 ---

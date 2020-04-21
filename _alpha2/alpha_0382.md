@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1009/'>Unthankfullness</a>|<a href='/digital-beehive/alpha5/alpha_0949/'>thanks</a>|<a
   href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1697/'>gratitude</a>"
+index: "<a href='/digital-beehive/index2/index_1696/'>gratitude</a>"
 item: "#item-6091f25b6"
 unparsed: 
 line: 'Entry: Gratitude|Topic: Gratitude|Xref: Unthankfullness|Xref: thanks|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,54
 label: Gratitude
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '113'
 layout: alpha_item
 collection: alpha2

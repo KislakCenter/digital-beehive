@@ -2,8 +2,8 @@
 pid: index_1140
 volume: Volume 3
 image_number: '17'
-head: Fr. Drake
-entry: "<a href='/digital-beehive/num2/num_0415/'>353 [Francis Drake]</a>"
+head: draught
+entry: "<a href='/digital-beehive/num3/num_0857'>633 [essay]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-842671de4"
+item: "#item-681a7187e"
 unparsed: 
-line: 'Head: Fr. Drake|Entry: 353 [Francis Drake]|#item-842671de4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,1254,484,119/full/0/default.jpg
+line: 'Head: draught|Entry: 633 [essay]|#item-681a7187e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1508,1336,418,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560451430817
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451571219
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1507,1254,484,119/150,/0/default.jpg
-label: Fr. Drake
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1508,1336,418,110/150,/0/default.jpg
+label: draught
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

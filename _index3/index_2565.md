@@ -2,28 +2,28 @@
 pid: index_2565
 volume: Volume 3
 image_number: '31'
-head: love of money
-entry: 
+head: mongrel
+entry: 821 [PAGE_MISSING]
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0869/'>Covetousness</a>"
+see: 
 index: 
-item: "#item-7f99b8d6d"
+item: "#item-7b2b615b6"
 unparsed: 
-line: 'Head: love of money|See: Covetousness|#item-7f99b8d6d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/857,525,765,151/full/0/default.jpg
+line: 'Head: mongrel|Entry: 821 [PAGE_MISSING]|#item-7b2b615b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/867,643,475,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354656751
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354901147
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/857,525,765,151/150,/0/default.jpg
-label: love of money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/867,643,475,134/150,/0/default.jpg
+label: mongrel
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '646'
+order: '647'
 layout: index_item
 collection: index3
 ---

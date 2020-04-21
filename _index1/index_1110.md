@@ -2,8 +2,8 @@
 pid: index_1110
 volume: Volume 3
 image_number: '17'
-head: ditch
-entry: "<a href='/digital-beehive/toc/toc2_151/'>676 [a Ditch]</a>"
+head: ditto
+entry: "<a href='/digital-beehive/num2/num_0293/'>263 [the said]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-40e8271d7"
+item: "#item-08043b43a"
 unparsed: 
-line: 'Head: ditch|Entry: 676 [a Ditch]|#item-40e8271d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/full/0/default.jpg
+line: 'Head: ditto|Entry: 263 [the said]|#item-08043b43a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849088978
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849161512
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/783,1034,483,152/150,/0/default.jpg
-label: ditch
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/817,1158,398,104/150,/0/default.jpg
+label: ditto
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -10,9 +10,9 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0758/'>Punishmt</a>|<a href='/digital-beehive/num1/num_0184/'>177
   [Strain a gnat]</a>|<a href='/digital-beehive/num1/num_0196/'>188 [Reproof]</a>|<a
-  href='/digital-beehive/toc/toc2_173/'>928 [Reproof]</a>"
+  href='/digital-beehive/num4/num_1236'>928 [Reproof]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3379/'>reproof</a>"
+index: "<a href='/digital-beehive/index4/index_3378/'>reproof</a>"
 item: "#item-619af4159"
 unparsed: 
 line: 'Entry: Reproof|Topic: Reproof|Xref: Punishmt|Xref: 177 [Strain a gnat]|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/365,26
 label: Reproof
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '145'
 layout: alpha_item
 collection: alpha4

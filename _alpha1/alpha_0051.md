@@ -9,7 +9,7 @@ first_letter: B
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0814/'>Rome</a>|<a href='/digital-beehive/alpha1/alpha_0033/'>Antichrist</a>|<a
-  href='/digital-beehive/toc/toc2_177/'>952 [Babel]</a>"
+  href='/digital-beehive/num4/num_1270'>952 [Babel]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0261/'>babylon</a>"
 item: "#item-43ad5283e"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/826,40
 label: Babylon
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '050'
 layout: alpha_item
 collection: alpha1

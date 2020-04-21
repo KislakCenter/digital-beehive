@@ -3,7 +3,7 @@ pid: index_0526
 volume: Volume 3
 image_number: '11'
 head: canibal
-entry: "<a href='/digital-beehive/num2/num_0600/'>485 [Canibal]</a>"
+entry: "<a href='/digital-beehive/num2/num_0605/'>485 [Canibal]</a>"
 topic: 
 first_letter: C
 page: 

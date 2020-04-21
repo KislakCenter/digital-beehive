@@ -2,28 +2,28 @@
 pid: index_3083
 volume: Volume 3
 image_number: '36'
-head: possessed
-entry: 
+head: possession
+entry: "<a href='/digital-beehive/num1/num_0256/'>239 [Possession]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1008/'>demoniack</a>"
+see: 
 index: 
-item: "#item-b1248b52a"
+item: "#item-73be2b16c"
 unparsed: 
-line: 'Head: possessed|See: demoniack|#item-b1248b52a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1180,1502,724,174/full/0/default.jpg
+line: 'Head: possession|Entry: 239 [Possession]|#item-73be2b16c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,1627,582,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438763533
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438792267
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1180,1502,724,174/150,/0/default.jpg
-label: possessed
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,1627,582,164/150,/0/default.jpg
+label: possession
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0331'
+order: '0332'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,9 @@
 pid: index_1403
 volume: Volume 3
 image_number: '20'
-head: fard
-entry: "<a href='/digital-beehive/toc/toc2_132/'>575 [Painting]</a>|4512 [PAGE_MISSING]"
+head: farewel
+entry: "<a href='/digital-beehive/alpha2/alpha_0313/'>a</a>|<a href='/digital-beehive/num3/num_0939'>675
+  [Farewell]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b6ac8dc05"
+item: "#item-a8f8e91f1"
 unparsed: 
-line: 'Head: fard|Entry: 575 [Painting]|Entry: 4512 [PAGE_MISSING]|#item-b6ac8dc05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/380,2885,518,102/full/0/default.jpg
+line: 'Head: farewel|Entry: a|Entry: 675 [Farewell]|#item-a8f8e91f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2953,526,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659310086
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659644070
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/380,2885,518,102/150,/0/default.jpg
-label: fard
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2953,526,106/150,/0/default.jpg
+label: farewel
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '221'
+order: '222'
 layout: index_item
 collection: index2
 ---

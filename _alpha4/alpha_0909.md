@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/285,24
 label: Stepfather
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '261'
 layout: alpha_item
 collection: alpha4

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0659/'>Old Adam</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
   [Natural]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2651/'>natural</a>"
+index: "<a href='/digital-beehive/index3/index_2650/'>natural</a>"
 item: "#item-ce551c783"
 unparsed: 
 line: 'Entry: Natural|Topic: Natural|Xref: Old Adam|Xref: 1086 [Natural]|Index: natural|#item-ce551c783'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,20
 label: Natural
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '185'
 layout: alpha_item
 collection: alpha3

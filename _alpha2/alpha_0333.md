@@ -8,9 +8,9 @@ topic: Flight
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_148/'>660 [Flight]</a>"
+xref: "<a href='/digital-beehive/num3/num_0911'>660 [Flight]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1482/'>flight</a>"
+index: "<a href='/digital-beehive/index2/index_1481/'>flight</a>"
 item: "#item-f62671716"
 unparsed: 
 line: 'Entry: Flight|Topic: Flight|Xref: 660 [Flight]|Index: flight|#item-f62671716'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/708,99
 label: Flight
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '064'
 layout: alpha_item
 collection: alpha2

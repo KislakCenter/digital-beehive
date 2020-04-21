@@ -2,8 +2,8 @@
 pid: index_2623
 volume: Volume 3
 image_number: '31'
-head: I must
-entry: a|4586 [PAGE_MISSING]
+head: mustard
+entry: "<a href='/digital-beehive/alpha3/alpha_0622/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-65561c6ab"
+item: "#item-a422f29b3"
 unparsed: 
-line: 'Head: I must|Entry: a|Entry: 4586 [PAGE_MISSING]|#item-65561c6ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1517,2240,562,144/full/0/default.jpg
+line: 'Head: mustard|Entry: a|#item-a422f29b3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1552,2352,379,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362333193
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362346376
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1517,2240,562,144/150,/0/default.jpg
-label: I must
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1552,2352,379,113/150,/0/default.jpg
+label: mustard
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '704'
+order: '705'
 layout: index_item
 collection: index3
 ---

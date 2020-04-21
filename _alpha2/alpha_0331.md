@@ -8,9 +8,9 @@ topic: Flesh
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_124/'>522 [Flesh]</a>"
+xref: "<a href='/digital-beehive/num3/num_0655'>522 [Flesh]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1479/'>flesh</a>"
+index: "<a href='/digital-beehive/index2/index_1478/'>flesh</a>"
 item: "#item-a82bff2a3"
 unparsed: 
 line: 'Entry: Flesh|Topic: Flesh|Xref: 522 [Flesh]|Index: flesh|#item-a82bff2a3'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,46
 label: Flesh
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '062'
 layout: alpha_item
 collection: alpha2

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_0978/'>Treasure</a>|<a href='/digital-beehive/num2/num_0527/'>426
   [Money]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2564/'>money</a>"
+index: "<a href='/digital-beehive/index3/index_2563/'>money</a>"
 item: "#item-adf4c763a"
 unparsed: 
 line: 'Entry: Money|Topic: Money|Xref: Treasure|Xref: 426 [Money]|Index: money|#item-adf4c763a'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/339,29
 label: Money
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '158'
 layout: alpha_item
 collection: alpha3

@@ -2,8 +2,8 @@
 pid: index_2686
 volume: Volume 3
 image_number: '32'
-head: net
-entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_338/'>1739 [Snare]</a>
+head: netherlands
+entry: "<a href='/digital-beehive/num2/num_0409/'>351 [Holland]</a>"
 topic: 
 first_letter: N
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-1cc47b37c"
+item: "#item-fe0436282"
 unparsed: 
-line: 'Head: net|Entry: 773 [PAGE_MISSING]|Entry: 1739 [Snare]|#item-1cc47b37c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/full/0/default.jpg
+line: 'Head: netherlands|Entry: 351 [Holland]|#item-fe0436282'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441501644
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441685164
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/150,/0/default.jpg
-label: net
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1188,988,491,97/150,/0/default.jpg
+label: netherlands
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '767'
+order: '768'
 layout: index_item
 collection: index3
 ---

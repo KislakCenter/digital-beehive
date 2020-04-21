@@ -2,8 +2,8 @@
 pid: index_2859
 volume: Volume 3
 image_number: '34'
-head: palatine
-entry: 763 [PAGE_MISSING]
+head: paleness
+entry: 822 [PAGE_MISSING]
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-77a54a75d"
+item: "#item-fe2dcaaf8"
 unparsed: 
-line: 'Head: palatine|Entry: 763 [PAGE_MISSING]|#item-77a54a75d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/415,3064,561,118/full/0/default.jpg
+line: 'Head: paleness|Entry: 822 [PAGE_MISSING]|#item-fe2dcaaf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/433,3122,576,159/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538426272747
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426308897
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/415,3064,561,118/150,/0/default.jpg
-label: palatine
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/433,3122,576,159/150,/0/default.jpg
+label: paleness
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0107'
+order: '0108'
 layout: index_item
 collection: index4
 ---

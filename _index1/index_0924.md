@@ -2,25 +2,24 @@
 pid: index_0924
 volume: Volume 3
 image_number: '15'
-head: cuckold|cuckow
-entry: "<a href='/digital-beehive/alpha1/alpha_0200/'>a</a>|<a href='/digital-beehive/toc/toc2_337/'>1730
-  [Cockold]</a>|4749 [PAGE_MISSING]"
+head: cunning
+entry: 
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0893/'>craftiness</a>"
 index: 
-item: "#item-9fa9be56a"
+item: "#item-00b1f85ec"
 unparsed: 
-line: 'Head: cuckold|Head: cuckow|Entry: a|Entry: 1730 [Cockold]|Entry: 4749 [PAGE_MISSING]|#item-9fa9be56a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/full/0/default.jpg
+line: 'Head: cunning|See: craftiness|#item-00b1f85ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577986281
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578032042
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/831,2996,671,172/150,/0/default.jpg
-label: cuckold|cuckow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3268,649,137/150,/0/default.jpg
+label: cunning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

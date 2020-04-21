@@ -2,30 +2,28 @@
 pid: index_3043
 volume: Volume 3
 image_number: '36'
-head: be pleased
-entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>|<a
-  href='/digital-beehive/toc/toc2_214/'>1102 [Be blessed]</a>"
+head: pledge
+entry: 
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_2927/'>pawn</a>"
 index: 
-item: "#item-5117de882"
+item: "#item-69e18b989"
 unparsed: 
-line: 'Head: be pleased|Entry: 333 [Exclam[m]ations of Interjections]|Entry: 1102
-  [Be blessed]|#item-5117de882|'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/full/0/default.jpg
+line: 'Head: pledge|See: pawn|#item-69e18b989'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207532446
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207651001
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/150,/0/default.jpg
-label: be pleased
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/150,/0/default.jpg
+label: pledge
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0291'
+order: '0292'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_280/'>1434 [Milk]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2513/'>milk</a>"
+index: "<a href='/digital-beehive/index3/index_2512/'>milk</a>"
 item: "#item-5f0e1326b"
 unparsed: 
 line: 'Entry: Milk|Topic: Milk|Xref: 1434 [Milk]|Index: milk|#item-5f0e1326b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/747,45
 label: Milk
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '148'
 layout: alpha_item
 collection: alpha3

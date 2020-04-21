@@ -2,8 +2,8 @@
 pid: index_0772
 volume: Volume 3
 image_number: '14'
-head: concern
-entry: "<a href='/digital-beehive/toc/toc2_122/'>510 [Concern]</a>"
+head: concerning
+entry: "<a href='/digital-beehive/toc/toc2_230/'>1185 [Concerning]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0e5823088"
+item: "#item-c02db9fea"
 unparsed: 
-line: 'Head: concern|Entry: 510 [Concern]|#item-0e5823088'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1721,442,86/full/0/default.jpg
+line: 'Head: concerning|Entry: 1185 [Concerning]|#item-c02db9fea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215580751
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216517211
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1721,442,86/150,/0/default.jpg
-label: concern
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/417,1784,558,124/150,/0/default.jpg
+label: concerning
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

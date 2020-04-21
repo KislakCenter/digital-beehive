@@ -11,7 +11,7 @@ add:
 xref: Pretender to Learning|downright Scholar|<a href='/digital-beehive/toc/toc2_238/'>1224
   [Pedantry]</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_2938/'>pedantery</a>"
+index: "<a href='/digital-beehive/index4/index_2937/'>pedantery</a>"
 item: "#item-2d8fab4cb"
 unparsed: 
 line: 'Entry: Pedantry|Topic: Pedantry|XRef: Pretender to Learning|XRef: downright
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/300,41
 label: Pedantry
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: The point of reference for "downright Scholar" is unclear.
+also_in_entry: 
 order: '049'
 layout: alpha_item
 collection: alpha4

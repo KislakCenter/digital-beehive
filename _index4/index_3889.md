@@ -3,7 +3,7 @@ pid: index_3889
 volume: Volume 3
 image_number: '45'
 head: stay away
-entry: "<a href='/digital-beehive/toc/toc2_165/'>887 [To Stay away]</a>"
+entry: "<a href='/digital-beehive/num4/num_1139'>887 [To Stay away]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: stay away
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1137'
+order: '1138'
 layout: index_item
 collection: index4
 ---

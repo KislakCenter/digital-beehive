@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_242/'>1241 [Gout]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1680/'>gout</a>"
+index: "<a href='/digital-beehive/index2/index_1679/'>gout</a>"
 item: "#item-d2563939d"
 unparsed: 
 line: 'Entry: Gout|Topic: Gout|Xref: 1241 [Gout]|Index: gout|#item-d2563939d'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/388,29
 label: Gout
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '106'
 layout: alpha_item
 collection: alpha2

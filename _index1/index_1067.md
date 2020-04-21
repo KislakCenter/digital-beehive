@@ -2,26 +2,27 @@
 pid: index_1067
 volume: Volume 3
 image_number: '16'
-head: discipline
-entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>"
+head: discontentmt
+entry: "<a href='/digital-beehive/alpha1/alpha_0239/'>a</a>|<a href='/digital-beehive/num3/num_0639'>508
+  [Discontentmt]</a>|<a href='/digital-beehive/toc/toc2_359/'>1952 [Discontentmt]</a>"
 topic: 
 first_letter: D
 page: 
-add: "<a href='/digital-beehive/index2/index_1201/'>Eccles</a>|<a href='/digital-beehive/index3/index_2435/'>martial</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-b6407c228"
+item: "#item-f584626d2"
 unparsed: 
-line: 'Head: discipline|Entry: a|Add: Eccles.|Add: martial|#item-b6407c228'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/full/0/default.jpg
+line: 'Head: discontentmt|Entry: a|Entry: 508 [Discontentmt]|Entry: 1952 [Discontentmt]|#item-f584626d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,3430,733,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174648413
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175010104
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/150,/0/default.jpg
-label: discipline
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,3430,733,117/150,/0/default.jpg
+label: discontentmt
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: The meaning of "it. education" cannot be determined.
+issue: 
 insertion_xref: 
 order: '1066'
 layout: index_item

@@ -10,7 +10,7 @@ page:
 add: 
 xref: Tares|<a href='/digital-beehive/num2/num_0360/'>314 [Dirt]</a>
 see: 
-index: "<a href='/digital-beehive/index1/index_1060/'>dirt</a>"
+index: "<a href='/digital-beehive/index1/index_1059/'>dirt</a>"
 item: "#item-6500f1f9d"
 unparsed: 
 line: 'Entry: Dirt|Topic: Dirt|Xref: Tares|Xref: 314 [Dirt]|Index: dirt|#item-6500f1f9d'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/812,73
 label: Dirt
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: The point of reference for "Tares" is unclear.
-order: '236'
+also_in_entry: 
+order: '235'
 layout: alpha_item
 collection: alpha1
 ---

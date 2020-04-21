@@ -2,8 +2,8 @@
 pid: index_1170
 volume: Volume 3
 image_number: '18'
-head: dung. dunghil
-entry: "<a href='/digital-beehive/alpha1/alpha_0267/'>a</a>"
+head: durable
+entry: "<a href='/digital-beehive/toc/toc2_366/'>2002 [Lasting]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-645c35fd4"
+item: "#item-5c4475cca"
 unparsed: 
-line: 'Head: dung. dunghil|Entry: a|#item-645c35fd4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/445,791,492,143/full/0/default.jpg
+line: 'Head: durable|Entry: 2002 [Lasting]|#item-5c4475cca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559663765430
+annotation_uri: http://dev.llgc.org.uk/annotation/1559663879808
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/445,791,492,143/150,/0/default.jpg
-label: dung. dunghil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/150,/0/default.jpg
+label: durable
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 

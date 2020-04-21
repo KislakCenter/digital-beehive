@@ -2,24 +2,24 @@
 pid: index_1091
 volume: Volume 3
 image_number: '17'
-head: dispensations of God
-entry: "<a href='/digital-beehive/toc/toc2_292/'>1493 [Dispensations]</a>"
+head: disperse
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3542/'>Scatter</a>"
 index: 
-item: "#item-3dc52fddf"
+item: "#item-2c04fc280"
 unparsed: 
-line: 'Head: dispensations of God|Entry: 1493 [Dispensations]|#item-3dc52fddf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2437,754,164/full/0/default.jpg
+line: 'Head: disperse|See: Scatter|#item-2c04fc280'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/118,2601,661,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804412758
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804432700
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2437,754,164/150,/0/default.jpg
-label: dispensations of God
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/118,2601,661,156/150,/0/default.jpg
+label: disperse
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

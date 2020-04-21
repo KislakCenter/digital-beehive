@@ -2,8 +2,8 @@
 pid: index_1341
 volume: Volume 3
 image_number: '19'
-head: execrable
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
+head: executors
+entry: "<a href='/digital-beehive/toc/toc2_434/'>4833 [Executors]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-dcd91300c"
+item: "#item-cecce5fda"
 unparsed: 
-line: 'Head: execrable|Entry: 1320 [Unacceptable]|#item-dcd91300c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/full/0/default.jpg
+line: 'Head: executors|Entry: 4833 [Executors]|#item-cecce5fda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1580,377,530,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041751656
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041868924
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/150,/0/default.jpg
-label: execrable
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1580,377,530,84/150,/0/default.jpg
+label: executors
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '159'
+order: '160'
 layout: index_item
 collection: index2
 ---

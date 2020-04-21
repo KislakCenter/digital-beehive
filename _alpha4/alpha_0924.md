@@ -8,8 +8,8 @@ topic: Suffering
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0686/'>Passion</a>|<a href='/digital-beehive/toc/toc2_123/'>515
-  [horrid Cruelties, practiced by Papists upon Protestants]</a>|<a href='/digital-beehive/toc/toc2_120/'>498
+xref: "<a href='/digital-beehive/alpha4/alpha_0686/'>Passion</a>|<a href='/digital-beehive/num3/num_0647'>515
+  [horrid Cruelties, practised by Papists upon Protestants]</a>|<a href='/digital-beehive/num2/num_0626/'>498
   [Sufferings]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3972/'>sufferings</a>"
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/733,25
 label: Suffering
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '276'
 layout: alpha_item
 collection: alpha4

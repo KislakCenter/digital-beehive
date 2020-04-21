@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0772/'>rarity</a>|<a href='/digital-beehive/alpha5/alpha_1050/'>wonderfull
   things</a>|<a href='/digital-beehive/toc/toc2_365/'>1996 [Monster]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2570/'>monster</a>"
+index: "<a href='/digital-beehive/index3/index_2569/'>monster</a>"
 item: "#item-2d1bb474f"
 unparsed: 
 line: 'Entry: Monster|Topic: Monster|Xref: rarity|Xref: wonderfull things|Xref: 1996
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/363,37
 label: Monster
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '160'
 layout: alpha_item
 collection: alpha3

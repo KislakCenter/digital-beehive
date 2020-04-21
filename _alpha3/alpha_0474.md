@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0125/'>Catechism</a>|<a href='/digital-beehive/alpha1/alpha_0256/'>doctrine</a>|<a
   href='/digital-beehive/toc/toc2_229/'>1176 [Inform]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2038/'>information</a>"
+index: "<a href='/digital-beehive/index3/index_2037/'>information</a>"
 item: "#item-aee722ed8"
 unparsed: 
 line: 'Entry: Information|Topic: Information|Xref: Catechism|Xref: doctrine|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/339,13
 label: Information
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '030'
 layout: alpha_item
 collection: alpha3

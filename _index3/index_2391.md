@@ -2,8 +2,8 @@
 pid: index_2391
 volume: Volume 3
 image_number: '29'
-head: "[:4.]"
-entry: 
+head: maiz
+entry: "<a href='/digital-beehive/toc/toc2_335/'>1702 [Maiz]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9a06bbb61"
-unparsed: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-line: 'Type: Index|Insertion Xref: [:4.]|#item-9a06bbb61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2139,370,183,131/full/0/default.jpg
+item: "#item-9a1f831e6"
+unparsed: 
+line: 'Head: maiz|Entry: 1702 [Maiz]|#item-9a1f831e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1559,383,377,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199596809
+annotation_uri: http://dev.llgc.org.uk/annotation/1560193918566
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/2139,370,183,131/150,/0/default.jpg
-label: "[:4.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1559,383,377,98/150,/0/default.jpg
+label: maiz
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4667/'><</a>"
-order: '472'
+insertion_xref: 
+order: '473'
 layout: index_item
 collection: index3
 ---

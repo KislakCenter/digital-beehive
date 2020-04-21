@@ -2,28 +2,28 @@
 pid: index_1314
 volume: Volume 3
 image_number: '19'
-head: evangelists
-entry: 
+head: evasion
+entry: "<a href='/digital-beehive/num2/num_0304/'>271 [Evasion]</a>|4763 [PAGE_MISSING]"
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1672/'>gospel</a>"
+see: 
 index: 
-item: "#item-17332b14b"
+item: "#item-3700e66e0"
 unparsed: 
-line: 'Head: evangelists|See: gospel|#item-17332b14b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/full/0/default.jpg
+line: 'Head: evasion|Entry: 271 [Evasion]|Entry: 4763 [PAGE_MISSING]|#item-3700e66e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/848,976,633,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350963400
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351133654
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/855,832,697,184/150,/0/default.jpg
-label: evangelists
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/848,976,633,141/150,/0/default.jpg
+label: evasion
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '132'
+order: '133'
 layout: index_item
 collection: index2
 ---

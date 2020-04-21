@@ -2,24 +2,24 @@
 pid: index_1088
 volume: Volume 3
 image_number: '17'
-head: disordinate love
-entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
+head: disown
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_1009/'>denial</a>|<a href='/digital-beehive/index2/index_1336/'>excom[m]unication</a>"
 index: 
-item: "#item-4868783dc"
+item: "#item-14dfbaf46"
 unparsed: 
-line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-4868783dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/full/0/default.jpg
+line: 'Head: disown|See: denial|See: excom[m]unication|#item-14dfbaf46'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,2171,623,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804273327
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804305331
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/150,/0/default.jpg
-label: disordinate love
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,2171,623,169/150,/0/default.jpg
+label: disown
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

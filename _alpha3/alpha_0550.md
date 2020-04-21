@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2333/'>Lord</a>"
+index: "<a href='/digital-beehive/index3/index_2332/'>Lord</a>"
 item: "#item-e3affb3e0"
 unparsed: 
 line: 'Entry: Lord|Topic: Lord|Index: Lord|#item-e3affb3e0'
@@ -23,6 +23,7 @@ label: Lord
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: It is unclear whether "a Miss, or Mistress" should be considered a separate
   entry.
+also_in_entry: 
 order: '106'
 layout: alpha_item
 collection: alpha3

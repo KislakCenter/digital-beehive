@@ -2,28 +2,28 @@
 pid: index_2296
 volume: Volume 3
 image_number: '28'
-head: lime
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Lime]</a>"
+head: limit
+entry: 749 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_346/'>1802 [Limit]</a>
 topic: 
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1d7f895f3"
+item: "#item-1e252a19c"
 unparsed: 
-line: 'Head: lime|Page: p.31 [Image 1.91]|Entry: 1396 [Lime]|#item-1d7f895f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/full/0/default.jpg
+line: 'Head: limit|Entry: 749 [PAGE_MISSING]|Entry: 1802 [Limit]|#item-1e252a19c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1837,999,578,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848573959
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848655641
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/150,/0/default.jpg
-label: lime
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1837,999,578,146/150,/0/default.jpg
+label: limit
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '377'
+order: '378'
 layout: index_item
 collection: index3
 ---

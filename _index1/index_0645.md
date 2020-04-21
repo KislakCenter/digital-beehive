@@ -4,7 +4,7 @@ volume: Volume 3
 image_number: '12'
 head: Christ
 entry: "<a href='/digital-beehive/alpha1/alpha_0144/'>a</a>|<a href='/digital-beehive/num2/num_0297/'>266
-  [Christ]</a>|<a href='/digital-beehive/toc/toc2_125/'>526 [Xst Jesus]</a>|<a href='/digital-beehive/toc/toc2_203/'>1046
+  [Christ]</a>|<a href='/digital-beehive/num3/num_0659'>526 [Xst Jesus]</a>|<a href='/digital-beehive/toc/toc2_203/'>1046
   [Christ]</a>|<a href='/digital-beehive/toc/toc2_266/'>1361 [Christ Jesus]</a>"
 topic: 
 first_letter: C

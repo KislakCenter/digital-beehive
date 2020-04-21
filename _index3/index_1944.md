@@ -2,8 +2,9 @@
 pid: index_1944
 volume: Volume 3
 image_number: '25'
-head: wandering Jew
-entry: "<a href='/digital-beehive/toc/toc2_260/'>1332 [Wandring Jews]</a>"
+head: Jewel
+entry: "<a href='/digital-beehive/alpha3/alpha_0451/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1657
+  [Jewel]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-ec7abe356"
+item: "#item-3d9f2ca4a"
 unparsed: 
-line: 'Head: wandering Jew|Entry: 1332 [Wandring Jews]|#item-ec7abe356'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/149,2475,618,134/full/0/default.jpg
+line: 'Head: Jewel|Entry: a|Entry: 1657 [Jewel]|#item-3d9f2ca4a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661555122
+annotation_uri: http://dev.llgc.org.uk/annotation/1559661627429
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/149,2475,618,134/150,/0/default.jpg
-label: wandering Jew
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/166,2575,482,141/150,/0/default.jpg
+label: Jewel
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '025'
+order: '026'
 layout: index_item
 collection: index3
 ---

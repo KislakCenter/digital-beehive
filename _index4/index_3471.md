@@ -3,7 +3,7 @@ pid: index_3471
 volume: Volume 3
 image_number: '40'
 head: ruptures
-entry: "<a href='/digital-beehive/toc/toc2_136/'>593 [Ruptures]</a>"
+entry: "<a href='/digital-beehive/num3/num_0769'>593 [Ruptures]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: ruptures
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0719'
+order: '0720'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3549
 volume: Volume 3
 image_number: '41'
 head: scholars
-entry: "<a href='/digital-beehive/toc/toc2_181/'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
+entry: "<a href='/digital-beehive/num4/num_1303'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
   [Scholars]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: scholars
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0797'
+order: '0798'
 layout: index_item
 collection: index4
 ---

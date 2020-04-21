@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3065/'>politick</a>"
+see: "<a href='/digital-beehive/index4/index_3064/'>politick</a>"
 index: 
 item: "#item-fc320bcf0"
 unparsed: 
@@ -23,7 +23,7 @@ label: statist
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1133'
+order: '1134'
 layout: index_item
 collection: index4
 ---

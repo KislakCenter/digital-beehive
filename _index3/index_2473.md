@@ -2,9 +2,8 @@
 pid: index_2473
 volume: Volume 3
 image_number: '30'
-head: meetings
-entry: "<a href='/digital-beehive/num1/num_0120/'>116 [Meetings]</a>|<a href='/digital-beehive/toc/toc2_249/'>1276
-  [Meetings to worship God in]</a>|<a href='/digital-beehive/toc/toc2_398/'>2273 [Meetings]</a>"
+head: meetings silent
+entry: "<a href='/digital-beehive/num2/num_0332/'>295 [Silent meetings]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b891f6b11"
+item: "#item-02ba1974a"
 unparsed: 
-line: 'Head: meetings|Entry: 116 [Meetings]|Entry: 1276 [Meetings to worship God in]|Entry:
-  2273 [Meetings]|#item-b891f6b11'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/full/0/default.jpg
+line: 'Head: meetings silent|Entry: 295 [Silent meetings]|#item-02ba1974a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1011,436,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267998913
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268057069
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/150,/0/default.jpg
-label: meetings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1011,436,137/150,/0/default.jpg
+label: meetings silent
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '554'
+order: '555'
 layout: index_item
 collection: index3
 ---

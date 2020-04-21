@@ -2,8 +2,9 @@
 pid: index_0763
 volume: Volume 3
 image_number: '14'
-head: complaint of the damned
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1936 [Complaint of ye Damned]</a>"
+head: complements
+entry: "<a href='/digital-beehive/alpha1/alpha_0163/'>a</a>|<a href='/digital-beehive/num2/num_0457/'>380
+  [Course Complements]</a>|4496 [PAGE_MISSING]"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-32379d007"
+item: "#item-4c3cb95f4"
 unparsed: 
-line: 'Head: complaint of the damned|Entry: 1936 [Complaint of ye Damned]|#item-32379d007'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/443,844,708,90/full/0/default.jpg
+line: 'Head: complements|Entry: a|Entry: 380 [Course Complements]|Entry: 4496 [PAGE_MISSING]|#item-4c3cb95f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,918,697,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215267406
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215311712
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/443,844,708,90/150,/0/default.jpg
-label: complaint of the damned
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,918,697,133/150,/0/default.jpg
+label: complements
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

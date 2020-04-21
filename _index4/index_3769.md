@@ -3,7 +3,7 @@ pid: index_3769
 volume: Volume 3
 image_number: '43'
 head: snot
-entry: "<a href='/digital-beehive/toc/toc2_141/'>621 [Snot]</a>"
+entry: "<a href='/digital-beehive/num3/num_0835'>621 [Snot]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: snot
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1017'
+order: '1018'
 layout: index_item
 collection: index4
 ---

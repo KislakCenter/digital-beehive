@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0150/'>Cloister</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2748/'>nun</a>"
+index: "<a href='/digital-beehive/index3/index_2747/'>nun</a>"
 item: "#item-fdb9a60d2"
 unparsed: 
 line: 'Entry: Nun|Topic: Nun|Xref: Cloister|Index: nun|#item-fdb9a60d2'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/765,33
 label: Nun
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '201'
 layout: alpha_item
 collection: alpha3

@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/820,29
 label: Tree
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '044'
+also_in_entry: 
+order: '045'
 layout: alpha_item
 collection: alpha5
 ---

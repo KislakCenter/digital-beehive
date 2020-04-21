@@ -2,30 +2,29 @@
 pid: index_1782
 volume: Volume 3
 image_number: '23'
-head: heart
-entry: "<a href='/digital-beehive/alpha2/alpha_0405/'>a</a>|<a href='/digital-beehive/toc/toc2_295/'>1507
-  [Heart]</a>|<a href='/digital-beehive/toc/toc2_425/'>4468 [Heart]</a>"
+head: heathens
+entry: "<a href='/digital-beehive/alpha2/alpha_0406/'>a</a>|<a href='/digital-beehive/toc/toc2_285/'>1456
+  [Heathens]</a>"
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-ef301ece2"
+item: "#item-08daf1459"
 unparsed: 
-line: 'Head: heart|Page: p.43 [Image 1.103]|Entry: a|Entry: 1507 [Heart]|Entry: 4468
-  [Heart]|#item-ef301ece2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1553,861,751,127/full/0/default.jpg
+line: 'Head: heathens|Entry: a|Entry: 1456 [Heathens]|#item-08daf1459'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1553,967,612,118/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243925993
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244125644
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1553,861,751,127/150,/0/default.jpg
-label: heart
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1553,967,612,118/150,/0/default.jpg
+label: heathens
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '599'
+order: '600'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,28 @@
 pid: index_2363
 volume: Volume 3
 image_number: '29'
-head: to lull asleep
-entry: 
+head: lump
+entry: "<a href='/digital-beehive/num3/num_0815'>612 [Shoe Clout]</a>"
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0893/'>cradle</a>"
+see: 
 index: 
-item: "#item-3bae6c218"
+item: "#item-7513bc93c"
 unparsed: 
-line: 'Head: to lull asleep|See: cradle|#item-3bae6c218'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/full/0/default.jpg
+line: 'Head: lump|Entry: 612 [Shoe Clout]|#item-7513bc93c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,616,291,99/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185020979
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185227863
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/150,/0/default.jpg
-label: to lull asleep
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,616,291,99/150,/0/default.jpg
+label: lump
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '444'
+order: '445'
 layout: index_item
 collection: index3
 ---

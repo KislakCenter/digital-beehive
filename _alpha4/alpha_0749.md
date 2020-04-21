@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_3197/'>prophanation</a>"
+index: "<a href='/digital-beehive/index4/index_3196/'>prophanation</a>"
 item: "#item-4a2554bad"
 unparsed: 
 line: 'Entry: Prophanation|Topic: Prophanation|Index: prophanation|#item-4a2554bad'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/775,10
 label: Prophanation
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '102'
 layout: alpha_item
 collection: alpha4

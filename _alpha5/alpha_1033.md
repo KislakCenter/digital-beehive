@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/813,39
 label: Widowhood
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
 issue: 
-order: '098'
+also_in_entry: 
+order: '099'
 layout: alpha_item
 collection: alpha5
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_318/'>1620 [Mind]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2519/'>mind</a>"
+index: "<a href='/digital-beehive/index3/index_2518/'>mind</a>"
 item: "#item-b1dacc9bc"
 unparsed: 
 line: 'Entry: Mind|Topic: Mind|Xref: 1620 [Mind]|Index: mind|#item-b1dacc9bc'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/328,46
 label: Mind
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '150'
 layout: alpha_item
 collection: alpha3

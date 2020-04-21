@@ -2,9 +2,9 @@
 pid: index_2325
 volume: Volume 3
 image_number: '29'
-head: womens longing
-entry: "<a href='/digital-beehive/toc/toc2_153/'>688 [Womens Longing]</a>|<a href='/digital-beehive/toc/toc2_238/'>1226
-  [Womens Longing]</a>|<a href='/digital-beehive/toc/toc2_239/'>1226 [Womens Longing]</a>"
+head: to look
+entry: "<a href='/digital-beehive/alpha3/alpha_0549/'>a</a>|<a href='/digital-beehive/toc/toc2_280/'>1433
+  [To Look]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e8fdd4ebd"
+item: "#item-039f38823"
 unparsed: 
-line: 'Head: womens longing|Entry: 688 [Womens Longing]|Entry: 1226 [Womens Longing]|#item-e8fdd4ebd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,512,622,148/full/0/default.jpg
+line: 'Head: to look|Entry: a|Entry: 1433 [To Look]|#item-039f38823'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,634,527,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177508090
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177635673
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/178,512,622,148/150,/0/default.jpg
-label: womens longing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,634,527,115/150,/0/default.jpg
+label: to look
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '406'
+order: '407'
 layout: index_item
 collection: index3
 ---

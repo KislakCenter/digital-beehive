@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0499/'>King</a>|<a href='/digital-beehive/toc/toc2_341/'>1763
   [Monarchy]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2563/'>monarchy</a>"
+index: "<a href='/digital-beehive/index3/index_2562/'>monarchy</a>"
 item: "#item-713020ad5"
 unparsed: 
 line: 'Entry: Monarchy|Topic: Monarchy|Xref: King|Xref: 1763 [Monarchy]|Index: monarchy|#item-713020ad5'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/375,26
 label: Monarchy
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '157'
 layout: alpha_item
 collection: alpha3

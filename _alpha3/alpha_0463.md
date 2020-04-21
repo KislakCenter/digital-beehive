@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0697/'>Perfect</a>|<a href='/digital-beehive/num1/num_0215/'>205
   [Imperfection]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1968/'>imperfection</a>"
+index: "<a href='/digital-beehive/index3/index_1967/'>imperfection</a>"
 item: "#item-ba07ed192"
 unparsed: 
 line: 'Entry: Imperfection|Topic: Imperfection|Xref: Perfect|Xref: 205 [Imperfection]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/756,24
 label: Imperfection
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '019'
 layout: alpha_item
 collection: alpha3

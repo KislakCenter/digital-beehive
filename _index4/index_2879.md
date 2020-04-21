@@ -2,10 +2,8 @@
 pid: index_2879
 volume: Volume 3
 image_number: '34'
-head: pardon
-entry: "<a href='/digital-beehive/alpha4/alpha_0676/'>a</a>|<a href='/digital-beehive/toc/toc2_210/'>1081
-  [Forgiveness]</a>|<a href='/digital-beehive/toc/toc2_341/'>1764 [Forgiveness]</a>|4561
-  [PAGE_MISSING]"
+head: "[:51.]"
+entry: 
 topic: 
 first_letter: P
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-950e46d7c"
-unparsed: 
-line: 'Head: pardon|Entry: a|Entry: 1081 [Forgiveness]|Entry: 1764 [Forgiveness]|Entry:
-  4561 [PAGE_MISSING]|#item-950e46d7c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/full/0/default.jpg
+item: "#item-77c3e5e78"
+unparsed: 'Type: Index|Insertion Xref: [:51.]|#item-77c3e5e78'
+line: 'Type: Index|Insertion Xref: [:51.]|#item-77c3e5e78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1661,1673,177,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494083145
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277025811
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1155,1578,702,142/150,/0/default.jpg
-label: pardon
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1661,1673,177,113/150,/0/default.jpg
+label: "[:51.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '0127'
+insertion_xref: "<a href='/digital-beehive/index5/index_4719/'><</a>"
+order: '0128'
 layout: index_item
 collection: index4
 ---

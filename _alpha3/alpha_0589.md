@@ -11,7 +11,7 @@ add:
 xref: viscera terrae|<a href='/digital-beehive/alpha3/alpha_0595/'>Minerals</a>|<a
   href='/digital-beehive/toc/toc2_226/'>1164 [Metal]</a>
 see: 
-index: "<a href='/digital-beehive/index3/index_2497/'>metal</a>"
+index: "<a href='/digital-beehive/index3/index_2496/'>metal</a>"
 item: "#item-ecdd9765c"
 unparsed: 
 line: 'Entry: Metal|Topic: Metal|Xref: viscera terrae|Xref: Minerals|Xref: 1164 [Metal]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/732,35
 label: Metal
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: The point of reference for "viscera terrae" is unclear.
+also_in_entry: 
 order: '145'
 layout: alpha_item
 collection: alpha3

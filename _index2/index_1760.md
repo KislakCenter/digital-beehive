@@ -2,29 +2,28 @@
 pid: index_1760
 volume: Volume 3
 image_number: '23'
-head: harp
-entry: "<a href='/digital-beehive/toc/toc2_348/'>1812 [Musick]</a>|<a href='/digital-beehive/toc/toc2_408/'>2341
-  [Harp]</a>"
+head: harrow
+entry: 4614 [PAGE_MISSING]
 topic: 
 first_letter: H
-page: 
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-f24768f98"
+item: "#item-78aa4072e"
 unparsed: 
-line: 'Head: harp|Entry: 1812 [Musick]|Entry: 2341 [Harp]|#item-f24768f98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2042,502,121/full/0/default.jpg
+line: 'Head: harrow|Page: p.38 [Image 1.98]|Entry: 4614 [PAGE_MISSING]|#item-78aa4072e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240190762
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240280150
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/836,2042,502,121/150,/0/default.jpg
-label: harp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/150,/0/default.jpg
+label: harrow
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '577'
+order: '578'
 layout: index_item
 collection: index2
 ---

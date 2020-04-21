@@ -2,8 +2,8 @@
 pid: index_2075
 volume: Volume 3
 image_number: '26'
-head: intercession
-entry: "<a href='/digital-beehive/alpha3/alpha_0484/'>a</a>"
+head: interjections
+entry: "<a href='/digital-beehive/num2/num_0384/'>333 [Exclam[m]ations or Interjections]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-19c631cea"
+item: "#item-b3ffe88a4"
 unparsed: 
-line: 'Head: intercession|Entry: a|#item-19c631cea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1157,2814,488,117/full/0/default.jpg
+line: 'Head: interjections|Entry: 333 [Exclam[m]ations or Interjections]|#item-b3ffe88a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1150,2983,551,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748990702
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749084434
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1157,2814,488,117/150,/0/default.jpg
-label: intercession
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1150,2983,551,113/150,/0/default.jpg
+label: interjections
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '156'
+order: '157'
 layout: index_item
 collection: index3
 ---

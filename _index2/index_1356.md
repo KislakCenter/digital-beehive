@@ -2,28 +2,28 @@
 pid: index_1356
 volume: Volume 3
 image_number: '19'
-head: explanation
-entry: "<a href='/digital-beehive/toc/toc2_158/'>713 [Explanation]</a>"
+head: exploit
+entry: 
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0983/'>deed</a>"
 index: 
-item: "#item-bf718f5c4"
+item: "#item-6e7ee6f60"
 unparsed: 
-line: 'Head: explanation|Entry: 713 [Explanation]|#item-bf718f5c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1524,1596,583,163/full/0/default.jpg
+line: 'Head: exploit|See: deed|#item-6e7ee6f60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1548,1728,527,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561395583936
+annotation_uri: http://dev.llgc.org.uk/annotation/1561395612943
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1524,1596,583,163/150,/0/default.jpg
-label: explanation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1548,1728,527,151/150,/0/default.jpg
+label: exploit
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '174'
+order: '175'
 layout: index_item
 collection: index2
 ---

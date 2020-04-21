@@ -2,8 +2,8 @@
 pid: index_0874
 volume: Volume 3
 image_number: '15'
-head: counterfeit money
-entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>"
+head: counterfeit books, physick
+entry: "<a href='/digital-beehive/toc/toc2_261/'>1336 [Counterfeit]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c624a63d3"
+item: "#item-7548e18e7"
 unparsed: 
-line: 'Head: counterfeit money|Entry: a|#item-c624a63d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/140,1627,729,145/full/0/default.jpg
+line: 'Head: counterfeit books, physick|Entry: 1336 [Counterfeit]|#item-7548e18e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/132,1726,754,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974411528
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974443942
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/140,1627,729,145/150,/0/default.jpg
-label: counterfeit money
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/132,1726,754,137/150,/0/default.jpg
+label: counterfeit books, physick
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

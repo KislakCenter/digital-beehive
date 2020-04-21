@@ -2,28 +2,28 @@
 pid: index_1709
 volume: Volume 3
 image_number: '23'
-head: great with young
-entry: "<a href='/digital-beehive/toc/toc2_269/'>1377 [Great with young]</a>"
+head: greediness
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4431/'>voracity</a>"
 index: 
-item: "#item-3e5ca0fdb"
+item: "#item-1dcfaf667"
 unparsed: 
-line: 'Head: great with young|Entry: 1377 [Great with young]|#item-3e5ca0fdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,888,597,96/full/0/default.jpg
+line: 'Head: greediness|See: voracity|#item-1dcfaf667'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,1003,614,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230252090
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230342660
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,888,597,96/150,/0/default.jpg
-label: great with young
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/145,1003,614,142/150,/0/default.jpg
+label: greediness
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '526'
+order: '527'
 layout: index_item
 collection: index2
 ---

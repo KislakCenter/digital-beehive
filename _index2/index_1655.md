@@ -2,28 +2,28 @@
 pid: index_1655
 volume: Volume 3
 image_number: '22'
-head: God's reward
-entry: "<a href='/digital-beehive/toc/toc2_180/'>968 [Example]</a>"
+head: God's teaching
+entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3412/'>reward</a>"
+see: 
 index: 
-item: "#item-90468997f"
+item: "#item-10f04f291"
 unparsed: 
-line: 'Head: God''s reward|See: reward|Entry: 968 [Example]|#item-90468997f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/full/0/default.jpg
+line: 'Head: God''s teaching|Entry: 1057 [God''s work]|#item-10f04f291'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1169,2456,510,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048007379
+annotation_uri: http://dev.llgc.org.uk/annotation/1561048064916
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1165,2411,688,109/150,/0/default.jpg
-label: God's reward
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1169,2456,510,122/150,/0/default.jpg
+label: God's teaching
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '473'
+order: '474'
 layout: index_item
 collection: index2
 ---

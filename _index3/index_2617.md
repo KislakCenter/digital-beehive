@@ -2,9 +2,8 @@
 pid: index_2617
 volume: Volume 3
 image_number: '31'
-head: murmuring
-entry: "<a href='/digital-beehive/toc/toc2_251/'>1288 [Murmurings agt God]</a>|<a
-  href='/digital-beehive/toc/toc2_418/'>2419 [Murmuring]</a>"
+head: murrain
+entry: "<a href='/digital-beehive/toc/toc2_382/'>2170 [Murrain]</a>"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-122d6c01e"
+item: "#item-f996432e9"
 unparsed: 
-line: 'Head: murmuring|Entry: 1288 [Murmurings agt God]|Entry: 2419 [Murmuring]|#item-122d6c01e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1774,731,122/full/0/default.jpg
+line: 'Head: murrain|Entry: 2170 [Murrain]|#item-f996432e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1836,502,86/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361775640
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361963242
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1774,731,122/150,/0/default.jpg
-label: murmuring
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1836,502,86/150,/0/default.jpg
+label: murrain
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '698'
+order: '699'
 layout: index_item
 collection: index3
 ---

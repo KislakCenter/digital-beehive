@@ -2,8 +2,10 @@
 pid: index_2338
 volume: Volume 3
 image_number: '29'
-head: lotteries
-entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Glückshafen)]</a>"
+head: love
+entry: "<a href='/digital-beehive/alpha3/alpha_0553/'>a</a>|<a href='/digital-beehive/num2/num_0541/'>438
+  [Love]</a>|<a href='/digital-beehive/toc/toc2_209/'>1077 [Love]</a>|<a href='/digital-beehive/toc/toc2_423/'>4452
+  [Love]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +13,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-27746065d"
+item: "#item-678ef107c"
 unparsed: 
-line: 'Head: lotteries|Entry: 89 [Lotteries (Glückshafen)]|#item-27746065d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/full/0/default.jpg
+line: 'Head: love|Entry: a|Entry: 438 [Love]|Entry: 1077 [Love]|Entry: 4452 [Love]|#item-678ef107c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1944,713,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178876145
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/150,/0/default.jpg
-label: lotteries
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/179,1944,713,104/150,/0/default.jpg
+label: love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '419'
+order: '420'
 layout: index_item
 collection: index3
 ---

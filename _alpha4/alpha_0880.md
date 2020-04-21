@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0620/'>Musick</a>|<a href='/digital-beehive/alpha4/alpha_0756/'>Psalm</a>|<a
-  href='/digital-beehive/num2/num_0598/'>483 [Singing]</a>"
+  href='/digital-beehive/num2/num_0603/'>483 [Singing]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3726/'>Singing</a>"
 item: "#item-d8a54e24a"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/304,27
 label: Singing
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '232'
 layout: alpha_item
 collection: alpha4

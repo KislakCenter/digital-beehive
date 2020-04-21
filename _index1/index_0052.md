@@ -3,7 +3,7 @@ pid: index_0052
 volume: Volume 3
 image_number: '7'
 head: adultery
-entry: "<a href='/digital-beehive/alpha1/alpha_0011/'>a</a>|<a href='/digital-beehive/toc/toc2_129/'>556
+entry: "<a href='/digital-beehive/alpha1/alpha_0011/'>a</a>|<a href='/digital-beehive/num3/num_0705'>556
   [Advocate]</a>|<a href='/digital-beehive/toc/toc2_186/'>1002 [Adultery]</a>|<a href='/digital-beehive/toc/toc2_275/'>1406
   [break Wedlock]</a>"
 topic: 

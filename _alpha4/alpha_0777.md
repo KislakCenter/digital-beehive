@@ -8,9 +8,9 @@ topic: Rebellion
 first_letter: R
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_143/'>630 [Rebellion]</a>"
+xref: "<a href='/digital-beehive/num3/num_0853'>630 [Rebellion]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3311/'>rebellion</a>"
+index: "<a href='/digital-beehive/index4/index_3310/'>rebellion</a>"
 item: "#item-7fe9ac8ca"
 unparsed: 
 line: 'Entry: Rebellion |Topic: Rebellion |Xref: 630 [Rebellion]|Index: rebellion|#item-7fe9ac8ca'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/835,62
 label: Rebellion
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '130'
 layout: alpha_item
 collection: alpha4

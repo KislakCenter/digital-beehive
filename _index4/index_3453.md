@@ -3,7 +3,7 @@ pid: index_3453
 volume: Volume 3
 image_number: '40'
 head: rosemary
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Rosemary]</a>"
+entry: "<a href='/digital-beehive/num3/num_0990'>692 [Rosemary]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rosemary
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0701'
+order: '0702'
 layout: index_item
 collection: index4
 ---

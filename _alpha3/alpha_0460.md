@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0684/'>Partiality</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>Neutrality</a>|<a
   href='/digital-beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
 see: 
-index: "<a href='/digital-beehive/index3/index_1964/'>impartiality</a>"
+index: "<a href='/digital-beehive/index3/index_1963/'>impartiality</a>"
 item: "#item-37fe4196e"
 unparsed: 
 line: 'Entry: Impartiality|Topic: Impartiality|Xref: Partiality|Xref: Neutrality|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,86
 label: Impartiality
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '016'
 layout: alpha_item
 collection: alpha3

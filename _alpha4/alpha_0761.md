@@ -9,10 +9,10 @@ first_letter: P
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0136/'>Chastity</a>|<a href='/digital-beehive/alpha2/alpha_0424/'>Holiness</a>|Cleanliness|<a
-  href='/digital-beehive/alpha5/alpha_1022/'>Washing</a>|<a href='/digital-beehive/toc/toc2_175/'>936
+  href='/digital-beehive/alpha5/alpha_1022/'>Washing</a>|<a href='/digital-beehive/num4/num_1250'>936
   [Purity]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3235/'>purity</a>"
+index: "<a href='/digital-beehive/index4/index_3234/'>purity</a>"
 item: "#item-1853bb2f8"
 unparsed: 
 line: 'Entry: Purity|Topic: Purity|Xref: Chastity|Xref: Holiness|Xref: Cleanliness|Xref:
@@ -24,7 +24,9 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/300,626,600,180/250,/0/default.jpg
 label: Purity
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: The point of reference for "Cleanliness" is unclear.
+issue: The point of reference for "Cleanliness" is unclear. Pastorius perhaps means
+  numerical entry 598 [Cleanliness].
+also_in_entry: 
 order: '114'
 layout: alpha_item
 collection: alpha4

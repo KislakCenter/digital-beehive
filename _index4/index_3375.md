@@ -2,8 +2,8 @@
 pid: index_3375
 volume: Volume 3
 image_number: '39'
-head: repressing
-entry: 741 [PAGE_MISSING]
+head: reprisals
+entry: 1849 [PAGE_MISSING]
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-03570b13a"
+item: "#item-62a340fa1"
 unparsed: 
-line: 'Head: repressing|Entry: 741 [PAGE_MISSING]|#item-03570b13a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/807,2919,589,132/full/0/default.jpg
+line: 'Head: reprisals|Entry: 1849 [PAGE_MISSING]|#item-62a340fa1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/809,2992,602,128/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469558937
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469592472
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/807,2919,589,132/150,/0/default.jpg
-label: repressing
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/809,2992,602,128/150,/0/default.jpg
+label: reprisals
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0623'
+order: '0624'
 layout: index_item
 collection: index4
 ---

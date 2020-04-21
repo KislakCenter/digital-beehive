@@ -2,8 +2,8 @@
 pid: index_2500
 volume: Volume 3
 image_number: '30'
-head: metaphor
-entry: "<a href='/digital-beehive/num2/num_0296/'>265 [Metaphor or figurative Speech]</a>"
+head: metaphysicks
+entry: "<a href='/digital-beehive/alpha3/alpha_0590/'>a</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fbbdb9d29"
+item: "#item-37b2da10d"
 unparsed: 
-line: 'Head: metaphor|Entry: 265 [Metaphor or figurative Speech]|#item-fbbdb9d29'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1824,407,507,162/full/0/default.jpg
+line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273288010
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1824,407,507,162/150,/0/default.jpg
-label: metaphor
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/150,/0/default.jpg
+label: metaphysicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '581'
+order: '582'
 layout: index_item
 collection: index3
 ---

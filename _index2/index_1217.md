@@ -2,8 +2,8 @@
 pid: index_1217
 volume: Volume 3
 image_number: '18'
-head: egyptians
-entry: "<a href='/digital-beehive/toc/toc2_307/'>1561 [Egyptians]</a>"
+head: either
+entry: "<a href='/digital-beehive/num3/num_1075'>724 [Each]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-004123490"
+item: "#item-ce42b6daa"
 unparsed: 
-line: 'Head: egyptians|Entry: 1561 [Egyptians]|#item-004123490'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1153,1702,513,136/full/0/default.jpg
+line: 'Head: either|Entry: 724 [Each]|#item-ce42b6daa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,1811,387,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673683402
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673819198
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1153,1702,513,136/150,/0/default.jpg
-label: egyptians
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,1811,387,114/150,/0/default.jpg
+label: either
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '035'
+order: '036'
 layout: index_item
 collection: index2
 ---

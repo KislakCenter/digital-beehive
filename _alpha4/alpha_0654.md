@@ -10,7 +10,7 @@ page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.202]</a>"
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0440/'>Husbandry</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2768/'>oeconomy</a>"
+index: "<a href='/digital-beehive/index4/index_2767/'>oeconomy</a>"
 item: "#item-e72af992e"
 unparsed: 
 line: 'Entry: Oeconomy|Topic: Oeconomy|Xref: Husbandry|Page: p.379 [Image 2.202]|Index:
@@ -24,6 +24,7 @@ label: Oeconomy
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: There is currently no protocol for cross-references to page numbers in the
   Alphabetical Hive.
+also_in_entry: 
 order: '007'
 layout: alpha_item
 collection: alpha4

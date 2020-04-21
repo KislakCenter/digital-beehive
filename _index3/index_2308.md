@@ -2,9 +2,8 @@
 pid: index_2308
 volume: Volume 3
 image_number: '28'
-head: little talk
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
-  [Laconism]</a>"
+head: liturgy
+entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Com[m]on Prayer Book]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-47e9ba329"
+item: "#item-4d2d66327"
 unparsed: 
-line: 'Head: little talk|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-47e9ba329'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2101,438,137/full/0/default.jpg
+line: 'Head: liturgy|Entry: 259 [Com[m]on Prayer Book]|#item-4d2d66327'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1811,2182,436,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849396978
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849559392
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2101,438,137/150,/0/default.jpg
-label: little talk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1811,2182,436,134/150,/0/default.jpg
+label: liturgy
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
+issue: The correct entry for 249 is ambiguous.
 insertion_xref: 
-order: '389'
+order: '390'
 layout: index_item
 collection: index3
 ---

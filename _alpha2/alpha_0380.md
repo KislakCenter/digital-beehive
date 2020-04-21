@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1688/'>gram[m]ars</a>"
+index: "<a href='/digital-beehive/index2/index_1687/'>gram[m]ars</a>"
 item: "#item-4d8eef3d5"
 unparsed: 
 line: 'Entry: Grammar|Topic: Grammar|Index: gram[m]ars|#item-4d8eef3d5'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/431,44
 label: Grammar
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '111'
 layout: alpha_item
 collection: alpha2

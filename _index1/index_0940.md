@@ -2,24 +2,24 @@
 pid: index_0940
 volume: Volume 3
 image_number: '15'
-head: Dainty meats
-entry: "<a href='/digital-beehive/toc/toc2_155/'>696 [Dainty meats]</a>"
+head: dame
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2545/'>mistress</a>"
 index: 
-item: "#item-5f95bfd5d"
+item: "#item-bb7216f3a"
 unparsed: 
-line: 'Head: Dainty meats|Entry: 696 [Dainty meats]|#item-5f95bfd5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/full/0/default.jpg
+line: 'Head: dame|See: mistress|#item-bb7216f3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1531,961,675,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390904986
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390957156
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1563,859,630,105/150,/0/default.jpg
-label: Dainty meats
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1531,961,675,138/150,/0/default.jpg
+label: dame
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

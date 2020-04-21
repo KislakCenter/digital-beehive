@@ -2,8 +2,8 @@
 pid: index_3361
 volume: Volume 3
 image_number: '39'
-head: to remove
-entry: 803 [PAGE_MISSING]
+head: to render
+entry: "<a href='/digital-beehive/num2/num_0495/'>405 [Restitution]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d937afb68"
+item: "#item-617dc16bd"
 unparsed: 
-line: 'Head: to remove|Entry: 803 [PAGE_MISSING]|#item-d937afb68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/774,1160,503,170/full/0/default.jpg
+line: 'Head: to render|Entry: 405 [Restitution]|#item-617dc16bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/743,1300,638,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469027421
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469101069
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/774,1160,503,170/150,/0/default.jpg
-label: to remove
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/743,1300,638,142/150,/0/default.jpg
+label: to render
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0609'
+order: '0610'
 layout: index_item
 collection: index4
 ---

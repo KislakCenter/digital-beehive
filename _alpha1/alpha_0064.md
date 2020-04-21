@@ -8,7 +8,7 @@ topic: Battery
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>"
+xref: "<a href='/digital-beehive/num3/num_1031'>708 [Beating]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0310/'>battery</a>"
 item: "#item-68ff2988e"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/405,37
 label: Battery
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '063'
 layout: alpha_item
 collection: alpha1

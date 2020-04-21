@@ -2,8 +2,8 @@
 pid: index_3193
 volume: Volume 3
 image_number: '37'
-head: proof of a negative
-entry: "<a href='/digital-beehive/toc/toc2_170/'>913 [Proof]</a>"
+head: prop
+entry: "<a href='/digital-beehive/num3/num_0900'>654 [a Prop]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4d9887a6c"
+item: "#item-bd171737e"
 unparsed: 
-line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/full/0/default.jpg
+line: 'Head: prop|Entry: 654 [a Prop]|#item-bd171737e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,598,337,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869039401
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/150,/0/default.jpg
-label: proof of a negative
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,598,337,84/150,/0/default.jpg
+label: prop
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0441'
+order: '0442'
 layout: index_item
 collection: index4
 ---

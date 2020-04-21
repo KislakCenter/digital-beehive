@@ -2,24 +2,24 @@
 pid: index_0886
 volume: Volume 3
 image_number: '15'
-head: courtesie
-entry: 
+head: cousin
+entry: "<a href='/digital-beehive/toc/toc2_307/'>1564 [Cousin German]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0680/'>civility</a>"
+see: 
 index: 
-item: "#item-f7044a5ed"
+item: "#item-26fb7f068"
 unparsed: 
-line: 'Head: courtesie|See: civility|#item-f7044a5ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/full/0/default.jpg
+line: 'Head: cousin|Entry: 1564 [Cousin German]|#item-26fb7f068'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2719,439,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974965472
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974993691
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/149,2581,709,142/150,/0/default.jpg
-label: courtesie
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2719,439,142/150,/0/default.jpg
+label: cousin
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

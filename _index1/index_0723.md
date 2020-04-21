@@ -2,24 +2,24 @@
 pid: index_0723
 volume: Volume 3
 image_number: '13'
-head: colloquies
-entry: "<a href='/digital-beehive/toc/toc2_367/'>2019 [Dialogue]</a>"
+head: collusion
+entry: "<a href='/digital-beehive/num2/num_0487/'>398 [Prevarication]</a>"
 topic: 
 first_letter: C
 page: 
-add: 
+add: treachery
 xref: 
 see: 
 index: 
-item: "#item-4ef811af3"
+item: "#item-c33fe3c23"
 unparsed: 
-line: 'Head: colloquies|Entry: 2019 [Dialogue]|#item-4ef811af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1554,381,508,105/full/0/default.jpg
+line: 'Head: collusion|Entry: 398 [Prevarication|Prevaricating]|Add: treachery|#item-c33fe3c23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1510,452,546,206/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536609867374
+annotation_uri: http://dev.llgc.org.uk/annotation/1565637146893
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1554,381,508,105/150,/0/default.jpg
-label: colloquies
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1510,452,546,206/150,/0/default.jpg
+label: collusion
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

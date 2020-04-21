@@ -3,7 +3,7 @@ pid: index_4053
 volume: Volume 3
 image_number: '46'
 head: tall
-entry: "<a href='/digital-beehive/toc/toc2_164/'>883 [highness]</a>"
+entry: "<a href='/digital-beehive/num4/num_1131'>883 [highness]</a>"
 topic: 
 first_letter: T
 page: 

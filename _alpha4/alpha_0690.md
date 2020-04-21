@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0213/'>Debt</a>|<a href='/digital-beehive/toc/toc2_220/'>1131
   [Payment]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2929/'>paymt</a>"
+index: "<a href='/digital-beehive/index4/index_2928/'>paymt</a>"
 item: "#item-53c27424f"
 unparsed: 
 line: 'Entry: Payment|Topic: Payment|Xref: Debt|Xref: 1131 [Payment]|Index: paymt|#item-53c27424f'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/260,23
 label: Payment
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '043'
 layout: alpha_item
 collection: alpha4

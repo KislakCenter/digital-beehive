@@ -8,7 +8,7 @@ topic: Robbery
 first_letter: R
 page: 
 add: 
-xref: Steal|<a href='/digital-beehive/toc/toc2_120/'>499 [Robbery]</a>
+xref: Steal|<a href='/digital-beehive/num2/num_0628/'>499 [Robbery]</a>
 see: 
 index: "<a href='/digital-beehive/index4/index_3437/'>robbery</a>"
 item: "#item-8f2a11623"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,50
 label: Robbery
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
 issue: The point of reference for "Steal" is unclear.
+also_in_entry: 
 order: '164'
 layout: alpha_item
 collection: alpha4

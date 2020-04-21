@@ -3,7 +3,7 @@ pid: index_3856
 volume: Volume 3
 image_number: '44'
 head: spoil
-entry: "<a href='/digital-beehive/toc/toc2_162/'>871 [Prey]</a>"
+entry: "<a href='/digital-beehive/num4/num_1094'>871 [Prey]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spoil
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1104'
+order: '1105'
 layout: index_item
 collection: index4
 ---

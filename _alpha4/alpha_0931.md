@@ -8,7 +8,7 @@ topic: Surety|Suretyship
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_170/'>914 [Security, he that promises for
+xref: "<a href='/digital-beehive/num4/num_1204'>914 [Security, he that promises for
   another]</a>|4509 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index4/index_4002/'>surity. bürger</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/282,70
 label: Surety
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '283'
 layout: alpha_item
 collection: alpha4

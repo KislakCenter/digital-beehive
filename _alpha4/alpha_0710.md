@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_276/'>1414 [Seven Planets]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3033/'>planets</a>"
+index: "<a href='/digital-beehive/index4/index_3032/'>planets</a>"
 item: "#item-eb185b5f6"
 unparsed: 
 line: 'Entry: Planets|Topic: Planets|Xref: 1414 [Seven Planets]|Index: planets| #item-eb185b5f6'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/838,45
 label: Planets
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '063'
 layout: alpha_item
 collection: alpha4

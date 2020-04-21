@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/846,20
 label: Bride & Bridegroom
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
 issue: The point of reference for "Wedding" is unclear.
+also_in_entry: 
 order: '099'
 layout: alpha_item
 collection: alpha1

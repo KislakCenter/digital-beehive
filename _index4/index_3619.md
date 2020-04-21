@@ -24,7 +24,7 @@ label: Self knowledge
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0867'
+order: '0868'
 layout: index_item
 collection: index4
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index3/index_2649/'>nativity</a>"
+index: "<a href='/digital-beehive/index3/index_2648/'>nativity</a>"
 item: "#item-688fe48b3"
 unparsed: 
 line: 'Entry: Nativity|Topic: Nativity|Index: nativity|#item-688fe48b3'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/294,17
 label: Nativity
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '184'
 layout: alpha_item
 collection: alpha3

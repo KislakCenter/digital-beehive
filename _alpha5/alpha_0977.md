@@ -8,7 +8,7 @@ topic: Treachery
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0310/'>faithfullness</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+xref: "<a href='/digital-beehive/alpha2/alpha_0310/'>faithfullness</a>|<a href='/digital-beehive/num4/num_1244'>933
   [Treachery]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4222/'>treachery</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,21
 label: Treachery
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: 
-order: '042'
+also_in_entry: 
+order: '043'
 layout: alpha_item
 collection: alpha5
 ---

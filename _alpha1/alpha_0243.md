@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1086/'>disobedience</a>"
+index: "<a href='/digital-beehive/index1/index_1085/'>disobedience</a>"
 item: "#item-ab66bd9fd"
 unparsed: 
 line: 'Entry: Disobedience|Topic: Disobedience|Xref: 1898 [Disobedience]|Index: disobedience|#item-ab66bd9fd'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,29
 label: Disobedience
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '242'
+also_in_entry: 
+order: '241'
 layout: alpha_item
 collection: alpha1
 ---

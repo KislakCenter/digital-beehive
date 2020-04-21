@@ -8,9 +8,9 @@ topic: Hireling
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_128/'>549 [Hirelings]</a>"
+xref: "<a href='/digital-beehive/num3/num_0692'>549 [Hirelings]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1843/'>hireling</a>"
+index: "<a href='/digital-beehive/index2/index_1842/'>hireling</a>"
 item: "#item-2c8f931b4"
 unparsed: 
 line: 'Entry: Hireling|Topic: Hireling|Xref: 549 [Hirelings]|Index: hireling|#item-2c8f931b4|'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,41
 label: Hireling
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '153'
 layout: alpha_item
 collection: alpha2

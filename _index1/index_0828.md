@@ -2,24 +2,25 @@
 pid: index_0828
 volume: Volume 3
 image_number: '14'
-head: contract
-entry: 
+head: contradiction
+entry: "<a href='/digital-beehive/alpha1/alpha_0176/'>a</a>|<a href='/digital-beehive/num4/num_1170'>901
+  [Contradiction]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0081/'>agreemt</a>"
+see: 
 index: 
-item: "#item-f5743bc2e"
+item: "#item-cf4b9936a"
 unparsed: 
-line: 'Head: contract|See: agreemt|#item-f5743bc2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1853,549,686,152/full/0/default.jpg
+line: 'Head: contradiction|Entry: a|Entry: 901 [Contradiction]|#item-cf4b9936a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559256587
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559290644
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1853,549,686,152/150,/0/default.jpg
-label: contract
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1842,674,656,135/150,/0/default.jpg
+label: contradiction
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,28 +2,29 @@
 pid: index_1871
 volume: Volume 3
 image_number: '24'
-head: hops
-entry: 4613 [PAGE_MISSING]
+head: horn
+entry: 774 [PAGE_MISSING]
 topic: 
 first_letter: H
-page: 
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-d60c2c6c5"
+item: "#item-14aba5e74"
 unparsed: 
-line: 'Head: hops|Entry: 4613 [PAGE_MISSING]|#item-d60c2c6c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1142,2582,372,139/full/0/default.jpg
+line: 'Head: horn|Page: p.10 [Image 1.70]|Entry: 774 [PAGE_MISSING]|#item-14aba5e74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583546833
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583645346
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1142,2582,372,139/150,/0/default.jpg
-label: hops
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/150,/0/default.jpg
+label: horn
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
+issue: 'Pastorius links to section 32 on page ten. There is currently no protocol
+  for specifying a specific item on a page reference. '
 insertion_xref: 
-order: '688'
+order: '689'
 layout: index_item
 collection: index2
 ---

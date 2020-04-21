@@ -3,7 +3,7 @@ pid: index_4570
 volume: Volume 3
 image_number: '53'
 head: wish
-entry: "<a href='/digital-beehive/alpha5/alpha_1041/'>a</a>|<a href='/digital-beehive/toc/toc2_162/'>875
+entry: "<a href='/digital-beehive/alpha5/alpha_1041/'>a</a>|<a href='/digital-beehive/num4/num_1109'>875
   [Wish]</a>|<a href='/digital-beehive/toc/toc2_327/'>1663 [Wish]</a>"
 topic: 
 first_letter: W

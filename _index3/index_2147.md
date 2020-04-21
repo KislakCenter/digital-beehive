@@ -2,28 +2,28 @@
 pid: index_2147
 volume: Volume 3
 image_number: '27'
-head: ivy
-entry: "<a href='/digital-beehive/toc/toc2_324/'>1646 [Ivy]</a>"
+head: Geo. Keith
+entry: "<a href='/digital-beehive/toc/toc2_202/'>1042 [George Keith]</a>"
 topic: 
-first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+first_letter: K
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-497758b3d"
+item: "#item-4c77a0a5a"
 unparsed: 
-line: 'Head: ivy|Page: p.33 [Image 1.93]|Entry: 1646 [Ivy]|#item-497758b3d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/130,2999,466,153/full/0/default.jpg
+line: 'Head: Geo. Keith|Entry: 1042 [George Keith]|#item-4c77a0a5a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/100,3202,551,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759441380
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759525539
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/130,2999,466,153/150,/0/default.jpg
-label: ivy
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/100,3202,551,158/150,/0/default.jpg
+label: Geo. Keith
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '228'
+order: '229'
 layout: index_item
 collection: index3
 ---

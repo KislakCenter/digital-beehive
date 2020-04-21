@@ -8,9 +8,9 @@ topic: Garden Garlick
 first_letter: G
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_152/'>685 [Garlick]</a>"
+xref: "<a href='/digital-beehive/num3/num_0970'>685 [Garlick]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1583/'>garlick</a>"
+index: "<a href='/digital-beehive/index2/index_1582/'>garlick</a>"
 item: "#item-d6a50bdc4"
 unparsed: 
 line: 'Entry: Garden Garlick|Topic: Garden Garlick|Xref: 685 [Garlick]|Index: garlick|#item-d6a50bdc4'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/740,59
 label: Garden Garlick
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '087'
 layout: alpha_item
 collection: alpha2

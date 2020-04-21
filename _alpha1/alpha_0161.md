@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0295/'>Example</a>|<a href='/digital-beehive/alpha4/alpha_0892/'>Solitude</a>|Stock|Train|<a
   href='/digital-beehive/num2/num_0318/'>283 [Company]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0754/'>company</a>"
+index: "<a href='/digital-beehive/index1/index_0753/'>company</a>"
 item: "#item-ece88d81a"
 unparsed: 
 line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: Stock|Xref:
@@ -23,8 +23,10 @@ insertion:
 thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/314,1738,600,180/250,/0/default.jpg
 label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: The point of reference for "Stock" is unclear.|The point of reference for "Train"
-  is unclear.
+issue: The point of reference for "Stock" is unclear. Pastorius perhaps intends numerical
+  entry 632 [Stock].|The point of reference for "Train" is unclear. Pastorius perhaps
+  intends numerical entry 866 [Train].
+also_in_entry: 
 order: '160'
 layout: alpha_item
 collection: alpha1

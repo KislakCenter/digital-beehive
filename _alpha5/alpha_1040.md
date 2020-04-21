@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,16
 label: Wisedom
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
 issue: 
-order: '105'
+also_in_entry: 
+order: '106'
 layout: alpha_item
 collection: alpha5
 ---

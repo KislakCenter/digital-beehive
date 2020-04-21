@@ -2,9 +2,8 @@
 pid: index_2693
 volume: Volume 3
 image_number: '32'
-head: new
-entry: "<a href='/digital-beehive/alpha3/alpha_0638/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1656
-  [New coyn'd News]</a>"
+head: new England
+entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_299/'>1523 [New England]</a>
 topic: 
 first_letter: N
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-06247a9a1"
+item: "#item-29744158d"
 unparsed: 
-line: 'Head: new|Entry: a|Entry: 1656 [New coyn''d News]|#item-06247a9a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/full/0/default.jpg
+line: 'Head: new England|Entry: 766 [PAGE_MISSING]|Entry: 1523 [New England]|#item-29744158d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442364918
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442425031
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/150,/0/default.jpg
-label: new
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/150,/0/default.jpg
+label: new England
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '774'
+order: '775'
 layout: index_item
 collection: index3
 ---

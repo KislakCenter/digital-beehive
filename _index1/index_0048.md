@@ -3,7 +3,7 @@ pid: index_0048
 volume: Volume 3
 image_number: '7'
 head: adventure
-entry: "<a href='/digital-beehive/alpha1/alpha_0009/'>a</a>|<a href='/digital-beehive/toc/toc2_142/'>623
+entry: "<a href='/digital-beehive/alpha1/alpha_0009/'>a</a>|<a href='/digital-beehive/num3/num_0839'>623
   [Adventure]</a>"
 topic: 
 first_letter: A

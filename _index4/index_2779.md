@@ -2,9 +2,8 @@
 pid: index_2779
 volume: Volume 3
 image_number: '33'
-head: oil
-entry: "<a href='/digital-beehive/alpha4/alpha_0658/'>a</a>|<a href='/digital-beehive/toc/toc2_353/'>1910
-  [Oil]</a>"
+head: ointment
+entry: 821 [PAGE_MISSING]
 topic: 
 first_letter: O
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f2f0bedc7"
+item: "#item-77ac84bcf"
 unparsed: 
-line: 'Head: oil|Entry: a|Entry: 1910 [Oil]|#item-f2f0bedc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/822,1092,478,141/full/0/default.jpg
+line: 'Head: ointment|Entry: 821 [PAGE_MISSING]|#item-77ac84bcf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/828,1209,524,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348138712
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348172580
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/822,1092,478,141/150,/0/default.jpg
-label: oil
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/828,1209,524,101/150,/0/default.jpg
+label: ointment
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0027'
+order: '0028'
 layout: index_item
 collection: index4
 ---

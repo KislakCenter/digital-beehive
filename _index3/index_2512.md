@@ -2,8 +2,9 @@
 pid: index_2512
 volume: Volume 3
 image_number: '30'
-head: mile
-entry: "<a href='/digital-beehive/toc/toc2_319/'>1624 [Mile]</a>"
+head: milk
+entry: "<a href='/digital-beehive/alpha3/alpha_0592/'>a</a>|<a href='/digital-beehive/toc/toc2_280/'>1434
+  [Milk]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d91bbfdf6"
+item: "#item-31c2fb042"
 unparsed: 
-line: 'Head: mile|Entry: 1624 [Mile]|#item-d91bbfdf6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1830,1596,391,123/full/0/default.jpg
+line: 'Head: milk|Entry: a|Entry: 1434 [Milk]|#item-31c2fb042'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1848,1696,468,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273941995
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273988003
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1830,1596,391,123/150,/0/default.jpg
-label: mile
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1848,1696,468,135/150,/0/default.jpg
+label: milk
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '593'
+order: '594'
 layout: index_item
 collection: index3
 ---

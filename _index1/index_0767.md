@@ -2,24 +2,24 @@
 pid: index_0767
 volume: Volume 3
 image_number: '14'
-head: compulsion
-entry: 
+head: compulsion in matters of rel
+entry: "<a href='/digital-beehive/toc/toc2_203/'>1049 [Compulsion (in Matters of Religion)]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1502/'>force</a>"
+see: 
 index: 
-item: "#item-f3d9c5edc"
+item: "#item-36818ce8f"
 unparsed: 
-line: 'Head: compulsion|See: force|#item-f3d9c5edc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/full/0/default.jpg
+line: 'Head: compulsion in matters of rel|Entry: 1049 [Compulsion (in Matters of Religion)]|#item-36818ce8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/424,1258,776,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215449631
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215490252
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/422,1189,689,107/150,/0/default.jpg
-label: compulsion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/424,1258,776,112/150,/0/default.jpg
+label: compulsion in matters of rel
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

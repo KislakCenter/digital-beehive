@@ -2,24 +2,24 @@
 pid: index_1021
 volume: Volume 3
 image_number: '16'
-head: desert
-entry: 
+head: desertion
+entry: "<a href='/digital-beehive/alpha1/alpha_0228/'>a</a>"
 topic: 
 first_letter: D
 page: 
-add: 
+add: "<a href='/digital-beehive/index4/index_3470/'>run[n] away</a>"
 xref: 
-see: "<a href='/digital-beehive/index3/index_2490/'>merit</a>"
+see: 
 index: 
-item: "#item-e8192b591"
+item: "#item-fb2a1c9f4"
 unparsed: 
-line: 'Head: desert|See: merit|#item-e8192b591'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1145,2076,495,125/full/0/default.jpg
+line: 'Head: desertion|Entry: a|Add: run[n] away|#item-fb2a1c9f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,2210,538,201/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541604968105
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923086013
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1145,2076,495,125/150,/0/default.jpg
-label: desert
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,2210,538,201/150,/0/default.jpg
+label: desertion
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

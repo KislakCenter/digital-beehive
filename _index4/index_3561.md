@@ -24,7 +24,7 @@ label: Scriptures imperfection
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0809'
+order: '0810'
 layout: index_item
 collection: index4
 ---

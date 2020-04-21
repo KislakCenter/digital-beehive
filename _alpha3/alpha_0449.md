@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Christ</a>|<a href='/digital-beehive/alpha4/alpha_0829/'>Saviour</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_1941/'>Jesus</a>"
+index: "<a href='/digital-beehive/index3/index_1940/'>Jesus</a>"
 item: "#item-fc54ff4b7"
 unparsed: 
 line: 'Entry: Jesus|Topic: Jesus|Xref: Christ|Xref: Saviour|Index: Jesus|#item-fc54ff4b7'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/315,88
 label: Jesus
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '005'
 layout: alpha_item
 collection: alpha3

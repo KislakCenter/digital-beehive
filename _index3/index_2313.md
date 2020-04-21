@@ -2,8 +2,8 @@
 pid: index_2313
 volume: Volume 3
 image_number: '28'
-head: livery or badge
-entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
+head: liver
+entry: "<a href='/digital-beehive/num3/num_0773'>595 [Liver]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-7cf15af50"
+item: "#item-5de36d4e4"
 unparsed: 
-line: 'Head: livery or badge|Entry: 4464 [Livery or Badge]|#item-7cf15af50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/full/0/default.jpg
+line: 'Head: liver|Entry: 595 [Liver]|#item-5de36d4e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1816,2647,350,116/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849840609
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849906386
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/150,/0/default.jpg
-label: livery or badge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1816,2647,350,116/150,/0/default.jpg
+label: liver
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '394'
+order: '395'
 layout: index_item
 collection: index3
 ---

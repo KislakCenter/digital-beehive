@@ -3,7 +3,7 @@ pid: index_3602
 volume: Volume 3
 image_number: '42'
 head: Self
-entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/toc/toc2_164/'>884
+entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/num4/num_1132'>884
   [Self]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: Self
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0850'
+order: '0851'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_3886
 volume: Volume 3
 image_number: '45'
 head: statues
-entry: "<a href='/digital-beehive/toc/toc2_178/'>955 [Images]</a>|<a href='/digital-beehive/toc/toc2_330/'>1680
+entry: "<a href='/digital-beehive/num4/num_1273'>955 [Images]</a>|<a href='/digital-beehive/toc/toc2_330/'>1680
   [Images]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: statues
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1134'
+order: '1135'
 layout: index_item
 collection: index4
 ---

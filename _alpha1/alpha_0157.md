@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0141/'>Chiliasm</a>|<a href='/digital-beehive/toc/toc2_203/'>1047
   [Coming of God and Christ]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0735/'>coming of Christ</a>"
+index: "<a href='/digital-beehive/index1/index_0734/'>coming of Christ</a>"
 item: "#item-e202e67bc"
 unparsed: 
 line: 'Entry: Coming of Christ|Topic: Coming of Christ|Xref: Chiliasm|Xref: 1047 [Coming
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/275,22
 label: Coming of Christ
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '156'
 layout: alpha_item
 collection: alpha1

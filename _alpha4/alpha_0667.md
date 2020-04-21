@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_376/'>2105 [Original Tongues]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2827/'>original tongues</a>"
+index: "<a href='/digital-beehive/index4/index_2826/'>original tongues</a>"
 item: "#item-dc3f33b5e"
 unparsed: 
 line: 'Entry: Original tongues|Topic: Original tongues|Xref: 2105 [Original Tongues]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/783,79
 label: Original tongues
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '020'
 layout: alpha_item
 collection: alpha4

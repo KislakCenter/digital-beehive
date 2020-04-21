@@ -2,8 +2,8 @@
 pid: index_1061
 volume: Volume 3
 image_number: '16'
-head: disagree
-entry: "<a href='/digital-beehive/toc/toc2_324/'>1650 [Disagree]</a>"
+head: disappointmt
+entry: "<a href='/digital-beehive/num2/num_0585/'>470 [Disappointmt]</a>|1861 [PAGE_MISSING]"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f7e6faaf4"
+item: "#item-4cdd63587"
 unparsed: 
-line: 'Head: disagree|Entry: 1650 [Disagree]|#item-f7e6faaf4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2554,504,114/full/0/default.jpg
+line: 'Head: disappointmt|Entry: 470 [Disappointmt]|Entry: 1861 [PAGE_MISSING]|#item-4cdd63587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1737,2604,744,105/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784069638
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784115199
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2554,504,114/150,/0/default.jpg
-label: disagree
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1737,2604,744,105/150,/0/default.jpg
+label: disappointmt
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

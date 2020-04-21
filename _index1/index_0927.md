@@ -2,24 +2,25 @@
 pid: index_0927
 volume: Volume 3
 image_number: '15'
-head: cup
-entry: 733 [PAGE_MISSING]
+head: curiosity
+entry: "<a href='/digital-beehive/alpha1/alpha_0201/'>a</a>|<a href='/digital-beehive/toc/toc2_315/'>1602
+  [Curiosity]</a>"
 topic: 
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-265839893"
+item: "#item-4f2af0a93"
 unparsed: 
-line: 'Head: cup|Page: p.38 [Image 1.98]|Entry: 733 [PAGE_MISSING]|#item-265839893'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/848,3409,463,114/full/0/default.jpg
+line: 'Head: curiosity|Entry: a|Entry: 1602 [Curiosity]|#item-4f2af0a93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538578062159
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578124343
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/848,3409,463,114/150,/0/default.jpg
-label: cup
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/844,3510,579,122/150,/0/default.jpg
+label: curiosity
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -9,9 +9,9 @@ first_letter: Q
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0691/'>Peace</a>|<a href='/digital-beehive/alpha4/alpha_0797/'>Rest</a>|<a
-  href='/digital-beehive/toc/toc2_181/'>976 [Quietness]</a>"
+  href='/digital-beehive/num4/num_1304'>976 [Quietness]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3266/'>quietness</a>"
+index: "<a href='/digital-beehive/index4/index_3265/'>quietness</a>"
 item: "#item-dc5dca21d"
 unparsed: 
 line: 'Entry: Quietness|Topic: Quietness|Xref: Peace|Xref: Rest|Xref: 976 [Quietness]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/314,25
 label: Quietness
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '121'
 layout: alpha_item
 collection: alpha4

@@ -2,29 +2,28 @@
 pid: index_1649
 volume: Volume 3
 image_number: '22'
-head: God's name
-entry: a
+head: God's love
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2338/'>love</a>"
 index: 
-item: "#item-424c7e467"
+item: "#item-2f34a3bc9"
 unparsed: 
-line: 'Head: God''s name|Entry: a|#item-424c7e467'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1172,2130,397,66/full/0/default.jpg
+line: 'Head: God''s love|See: love|#item-2f34a3bc9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561047640214
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047656525
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1172,2130,397,66/150,/0/default.jpg
-label: God's name
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1185,2153,419,98/150,/0/default.jpg
+label: God's love
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
+issue: 
 insertion_xref: 
-order: '467'
+order: '468'
 layout: index_item
 collection: index2
 ---

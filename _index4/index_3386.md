@@ -24,7 +24,7 @@ label: resignation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0634'
+order: '0635'
 layout: index_item
 collection: index4
 ---

@@ -3,7 +3,7 @@ pid: index_0278
 volume: Volume 3
 image_number: '9'
 head: ball
-entry: 295 [Ball-playing]
+entry: "<a href='/digital-beehive/num2/num_0333/'>295 [Ball playing]</a>"
 topic: 
 first_letter: B
 page: 

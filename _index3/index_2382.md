@@ -2,8 +2,8 @@
 pid: index_2382
 volume: Volume 3
 image_number: '29'
-head: magnete
-entry: 826 [PAGE_MISSING]
+head: magnificence
+entry: "<a href='/digital-beehive/num4/num_1195'>912 [Magnificen(ce:)]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-172e1f28f"
+item: "#item-6b7f20efe"
 unparsed: 
-line: 'Head: magnete|Entry: 826 [PAGE_MISSING]|#item-172e1f28f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/831,2750,453,132/full/0/default.jpg
+line: 'Head: magnificence|Entry: 912 [Magnificen(ce:)]|#item-6b7f20efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/819,2826,558,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187080475
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187149848
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/831,2750,453,132/150,/0/default.jpg
-label: magnete
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/819,2826,558,177/150,/0/default.jpg
+label: magnificence
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '463'
+order: '464'
 layout: index_item
 collection: index3
 ---

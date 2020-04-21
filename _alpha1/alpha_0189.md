@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0892/'>crab</a>"
+index: "<a href='/digital-beehive/index1/index_0891/'>crab</a>"
 item: "#item-2ab8122d3"
 unparsed: 
 line: 'Entry: Crab|Topic: Crab|Index: crab|#item-2ab8122d3'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/820,68
 label: Crab
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '188'
 layout: alpha_item
 collection: alpha1

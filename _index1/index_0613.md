@@ -3,7 +3,7 @@ pid: index_0613
 volume: Volume 3
 image_number: '12'
 head: charter
-entry: "<a href='/digital-beehive/toc/toc2_144/'>635 [Great, rich & eminent Persons]</a>"
+entry: "<a href='/digital-beehive/num3/num_0861'>635 [Great Charter of England]</a>"
 topic: 
 first_letter: C
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-7be07c676"
 unparsed: 
-line: 'Head: charter|Entry: 635 [Great, rich & eminent Persons]|#item-7be07c676'
+line: 'Head: charter|Entry: 635 [the Great Charter of England]|#item-7be07c676'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1833,642,362,84/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1532443980324

@@ -3,7 +3,7 @@ pid: index_3472
 volume: Volume 3
 image_number: '40'
 head: rush
-entry: "<a href='/digital-beehive/toc/toc2_151/'>676 [Rush]</a>"
+entry: "<a href='/digital-beehive/num3/num_0943'>676 [Rush]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rush
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0720'
+order: '0721'
 layout: index_item
 collection: index4
 ---

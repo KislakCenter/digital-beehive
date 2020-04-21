@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-1fd693f86"
 unparsed: 
-line: 'Head: woman''s speaking in ye Church|Entry: 230 [Womans Speaking in the church]|#item-1fd693f86'
+line: 'Head: woman''s speaking in ye Church|Entry: 230 [Womans Speaking in the Church]|#item-1fd693f86'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/861,754,823,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560794882527

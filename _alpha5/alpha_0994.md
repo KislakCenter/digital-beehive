@@ -8,7 +8,7 @@ topic: Vineyard
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_181/'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
+xref: "<a href='/digital-beehive/num4/num_1298'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
   [Vineyards]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4333/'>vineyard</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,38
 label: Vineyard
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
 issue: 
-order: '059'
+also_in_entry: 
+order: '060'
 layout: alpha_item
 collection: alpha5
 ---

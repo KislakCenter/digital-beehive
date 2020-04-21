@@ -2,24 +2,24 @@
 pid: index_1129
 volume: Volume 3
 image_number: '17'
-head: dolphin
-entry: 
+head: to domineer
+entry: "<a href='/digital-beehive/toc/toc2_235/'>1209 [To Domineer]</a>"
 topic: 
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1e64b6899"
+item: "#item-6fe932a66"
 unparsed: 
-line: 'Head: dolphin|Page: p.36 [Image 1.96]|#item-1e64b6899'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/766,3220,512,161/full/0/default.jpg
+line: 'Head: to domineer|Entry: 1209 [To Domineer]|#item-6fe932a66'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/813,3355,579,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367315905
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367382043
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/766,3220,512,161/150,/0/default.jpg
-label: dolphin
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/813,3355,579,153/150,/0/default.jpg
+label: to domineer
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -2,9 +2,9 @@
 pid: index_1843
 volume: Volume 3
 image_number: '24'
-head: hireling
-entry: "<a href='/digital-beehive/alpha2/alpha_0422/'>a</a>|<a href='/digital-beehive/toc/toc2_250/'>1282
-  [Hirelings]</a>|<a href='/digital-beehive/toc/toc2_417/'>2414 [Hirelings]</a>"
+head: history
+entry: "<a href='/digital-beehive/num1/num_0031/'>31 [History]</a>|<a href='/digital-beehive/num4/num_1329'>997
+  [History]</a>|<a href='/digital-beehive/toc/toc2_339/'>1746 [Chroniclers]</a>"
 topic: 
 first_letter: H
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-eb0cf7036"
+item: "#item-db16112d7"
 unparsed: 
-line: 'Head: hireling|Entry: a|Entry: 1282 [Hirelings]|Entry: 2414 [Hirelings]|#item-eb0cf7036'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,3259,733,171/full/0/default.jpg
+line: 'Head: history|Entry: 31 [History]|Entry: 997 [History]|Entry: 1746 [Chroniclers]|#item-db16112d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559579723005
+annotation_uri: http://dev.llgc.org.uk/annotation/1559579953415
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/418,3259,733,171/150,/0/default.jpg
-label: hireling
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/409,3392,621,173/150,/0/default.jpg
+label: history
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '660'
+order: '661'
 layout: index_item
 collection: index2
 ---

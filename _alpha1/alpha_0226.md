@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1014/'>deprecation</a>"
+index: "<a href='/digital-beehive/index1/index_1013/'>deprecation</a>"
 item: "#item-8855fe0e6"
 unparsed: 
 line: 'Entry: Deprecation|Topic: Deprecation|Index: deprecation|#item-8855fe0e6'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,15
 label: Deprecation
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '225'
+also_in_entry: 
+order: '224'
 layout: alpha_item
 collection: alpha1
 ---

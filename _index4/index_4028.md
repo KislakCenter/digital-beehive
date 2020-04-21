@@ -23,7 +23,7 @@ label: "[:20.]"
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
 insertion_xref: "<a href='/digital-beehive/index5/index_4684/'><</a>"
-order: '1276'
+order: '1277'
 layout: index_item
 collection: index4
 ---

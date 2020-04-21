@@ -2,8 +2,8 @@
 pid: index_1224
 volume: Volume 3
 image_number: '18'
-head: elephant
-entry: "<a href='/digital-beehive/toc/toc2_363/'>1980 [Elephant]</a>"
+head: Elijah
+entry: "<a href='/digital-beehive/num2/num_0324/'>288 [Elijah]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e2d550d75"
+item: "#item-9a9bfaf30"
 unparsed: 
-line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/full/0/default.jpg
+line: 'Head: Elijah|Entry: 288 [Elijah]|#item-9a9bfaf30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2409,376,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
+annotation_uri: http://dev.llgc.org.uk/annotation/1559678780427
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/150,/0/default.jpg
-label: elephant
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2409,376,147/150,/0/default.jpg
+label: Elijah
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '042'
+order: '043'
 layout: index_item
 collection: index2
 ---

@@ -23,7 +23,7 @@ label: Self love
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0869'
+order: '0870'
 layout: index_item
 collection: index4
 ---

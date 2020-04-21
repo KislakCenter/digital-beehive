@@ -2,9 +2,9 @@
 pid: index_0871
 volume: Volume 3
 image_number: '15'
-head: councils
-entry: "<a href='/digital-beehive/alpha1/alpha_0181/'>a</a>|<a href='/digital-beehive/toc/toc2_197/'>1016
-  [Councils]</a>|<a href='/digital-beehive/toc/toc2_344/'>1782 [Councils]</a>"
+head: counsel
+entry: "<a href='/digital-beehive/alpha1/alpha_0182/'>a</a>|<a href='/digital-beehive/toc/toc2_236/'>1215
+  [Counsel]</a>|4753 [PAGE_MISSING]"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-e996165f4"
+item: "#item-f9b2e8e5c"
 unparsed: 
-line: 'Head: councils|Entry: a|Entry: 1016 [Councils]|Entry: 1782 [Councils]|#item-e996165f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/161,1252,676,131/full/0/default.jpg
+line: 'Head: counsel|Entry: a|Entry: 1215 [Counsel]|Entry: 4753 [PAGE_MISSING]|#item-f9b2e8e5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974330335
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974373622
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/161,1252,676,131/150,/0/default.jpg
-label: councils
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/152,1360,705,140/150,/0/default.jpg
+label: counsel
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

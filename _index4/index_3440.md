@@ -3,7 +3,7 @@ pid: index_3440
 volume: Volume 3
 image_number: '40'
 head: rogue
-entry: "<a href='/digital-beehive/toc/toc2_157/'>707 [Roguery]</a>"
+entry: "<a href='/digital-beehive/num3/num_1029'>707 [Roguery]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: rogue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0688'
+order: '0689'
 layout: index_item
 collection: index4
 ---

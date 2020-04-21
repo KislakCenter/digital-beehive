@@ -2,29 +2,29 @@
 pid: index_2616
 volume: Volume 3
 image_number: '31'
-head: murder
-entry: "<a href='/digital-beehive/alpha3/alpha_0618/'>a</a>|<a href='/digital-beehive/toc/toc2_294/'>1504
-  [Murder]</a>"
+head: murmuring
+entry: "<a href='/digital-beehive/toc/toc2_251/'>1288 [Murmurings agt God]</a>|<a
+  href='/digital-beehive/toc/toc2_418/'>2419 [Murmuring]</a>"
 topic: 
 first_letter: M
 page: 
-add: "<a href='/digital-beehive/index4/index_3622/'>Self</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-7155f3c00"
+item: "#item-122d6c01e"
 unparsed: 
-line: 'Head: murder|Entry: a|Entry: 1504 [Murder]|Add: Self|#item-7155f3c00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1572,557,191/full/0/default.jpg
+line: 'Head: murmuring|Entry: 1288 [Murmurings agt God]|Entry: 2419 [Murmuring]|#item-122d6c01e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1774,731,122/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361517079
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361775640
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1572,557,191/150,/0/default.jpg
-label: murder
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1551,1774,731,122/150,/0/default.jpg
+label: murmuring
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '697'
+order: '698'
 layout: index_item
 collection: index3
 ---

@@ -8,10 +8,10 @@ topic: Reason
 first_letter: R
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/digital-beehive/toc/toc2_172/'>921
+xref: "<a href='/digital-beehive/alpha1/alpha_0129/'>Cause</a>|<a href='/digital-beehive/num4/num_1220'>921
   [Reason]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3310/'>reason</a>"
+index: "<a href='/digital-beehive/index4/index_3309/'>reason</a>"
 item: "#item-4e263b65d"
 unparsed: 
 line: 'Entry: Reason |Topic: Reason|Xref: Cause|Xref: 921 [Reason]|Index: reason|#item-4e263b65d'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/822,19
 label: Reason
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '129'
 layout: alpha_item
 collection: alpha4

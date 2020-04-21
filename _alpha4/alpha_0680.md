@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2888/'>parricide</a>"
+index: "<a href='/digital-beehive/index4/index_2887/'>parricide</a>"
 item: "#item-6ff19a160"
 unparsed: 
 line: 'Entry: Parricidal|Topic: Parricidal|Index: parricide|#item-6ff19a160'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/777,42
 label: Parricidal
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '033'
 layout: alpha_item
 collection: alpha4

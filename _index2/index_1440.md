@@ -2,29 +2,28 @@
 pid: index_1440
 volume: Volume 3
 image_number: '20'
-head: fields
-entry: "<a href='/digital-beehive/toc/toc2_211/'>1089 [Fields]</a>"
+head: fifth monarchy men
+entry: "<a href='/digital-beehive/num2/num_0486/'>398 [Fifth-monarchy men]</a>"
 topic: 
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/digital-beehive/toc/toc1_081/'>p.31
-  [Image 1.91]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-b56d1a6b8"
+item: "#item-97f454e9d"
 unparsed: 
-line: 'Head: fields|Page: p.11 [Image 1.71]|Page: p.31 [Image 1.91]|Entry: 1089 [Fields]|#item-b56d1a6b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1094,2923,653,220/full/0/default.jpg
+line: 'Head: fifth monarchy men|Entry: 398 [Fifth-monarchy men]|#item-97f454e9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1097,3061,778,178/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562599176236
+annotation_uri: http://dev.llgc.org.uk/annotation/1565620912263
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1094,2923,653,220/150,/0/default.jpg
-label: fields
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1097,3061,778,178/150,/0/default.jpg
+label: fifth monarchy men
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '258'
+order: '259'
 layout: index_item
 collection: index2
 ---

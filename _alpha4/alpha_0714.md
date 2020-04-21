@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0564/'>454 [Poesie]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3058/'>poesie</a>"
+index: "<a href='/digital-beehive/index4/index_3057/'>poesie</a>"
 item: "#item-b82f190ab"
 unparsed: 
 line: 'Entry: Poesie|Topic: Poesie|Xref: 454 [Poesie]|Index: poesie|#item-b82f190ab'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/272,12
 label: Poesie
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '067'
 layout: alpha_item
 collection: alpha4

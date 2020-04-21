@@ -3,7 +3,7 @@ pid: index_3867
 volume: Volume 3
 image_number: '44'
 head: square
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [Square]</a>"
+entry: "<a href='/digital-beehive/num4/num_1181'>907 [Square]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: square
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1115'
+order: '1116'
 layout: index_item
 collection: index4
 ---

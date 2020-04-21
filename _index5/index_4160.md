@@ -3,7 +3,7 @@ pid: index_4160
 volume: Volume 3
 image_number: '47'
 head: tithes
-entry: "<a href='/digital-beehive/alpha5/alpha_0958/'>a</a>|<a href='/digital-beehive/toc/toc2_129/'>554
+entry: "<a href='/digital-beehive/alpha5/alpha_0958/'>a</a>|<a href='/digital-beehive/num3/num_0701'>554
   [Tithes]</a>|<a href='/digital-beehive/toc/toc2_323/'>1643 [Of the Duty of Tithes]</a>|<a
   href='/digital-beehive/toc/toc2_416/'>2404 [Tithes]</a>"
 topic: 

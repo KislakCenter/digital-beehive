@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0211/'>201 [Taverns]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2051/'>inn & in[n]keeper</a>"
+index: "<a href='/digital-beehive/index3/index_2050/'>inn & in[n]keeper</a>"
 item: "#item-223d88960"
 unparsed: 
 line: 'Entry: Inn & Innkeeper|Topic: Inn & Innkeeper|Xref: 201 [Taverns]|Index: inn
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/343,27
 label: Inn & Innkeeper
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '033'
 layout: alpha_item
 collection: alpha3

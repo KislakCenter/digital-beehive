@@ -2,29 +2,28 @@
 pid: index_1659
 volume: Volume 3
 image_number: '22'
-head: God's work
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>|<a href='/digital-beehive/toc/toc2_442/'>4876
-  [God's work]</a>"
+head: God's will
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4549/'>will</a>"
 index: 
-item: "#item-a34d57b07"
+item: "#item-1acaf7ea5"
 unparsed: 
-line: 'Head: God''s work|Entry: 1057 [God''s work]|Entry: 4876 [God''s work]|#item-a34d57b07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2713,632,127/full/0/default.jpg
+line: 'Head: God''s will|See: will|#item-1acaf7ea5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050572811
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050651570
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2713,632,127/150,/0/default.jpg
-label: God's work
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1168,2804,446,140/150,/0/default.jpg
+label: God's will
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '477'
+order: '478'
 layout: index_item
 collection: index2
 ---

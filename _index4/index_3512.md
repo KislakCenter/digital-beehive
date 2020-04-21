@@ -3,7 +3,8 @@ pid: index_3512
 volume: Volume 3
 image_number: '41'
 head: the same
-entry: 264 [The Same]|<a href='/digital-beehive/toc/toc2_319/'>1621 [The Same]</a>
+entry: "<a href='/digital-beehive/num2/num_0295/'>264 [The Same]</a>|<a href='/digital-beehive/toc/toc2_319/'>1621
+  [The Same]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +24,7 @@ label: the same
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0760'
+order: '0761'
 layout: index_item
 collection: index4
 ---

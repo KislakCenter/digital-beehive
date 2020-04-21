@@ -8,7 +8,7 @@ topic: Absurdity
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_135/'>589 [Nonsense]</a>|<a href='/digital-beehive/toc/toc2_171/'>919
+xref: "<a href='/digital-beehive/num3/num_0763'>589 [Nonsense]</a>|<a href='/digital-beehive/num4/num_1217'>919
   [Absurd]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0018/'>absurdity</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0430/275,69
 label: Absurdity
 location: "<a href='/digital-beehive/toc/toc1_421/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '001'
 layout: alpha_item
 collection: alpha1

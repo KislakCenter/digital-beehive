@@ -2,28 +2,28 @@
 pid: index_2374
 volume: Volume 3
 image_number: '29'
-head: lycanthropia
-entry: "<a href='/digital-beehive/toc/toc2_301/'>1535 [Lycanthropia]</a>"
+head: Machiavellus
+entry: "<a href='/digital-beehive/num3/num_0706'>556 [Machiavellus]</a>"
 topic: 
-first_letter: L
+first_letter: M
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-5b3c8598b"
+item: "#item-2b56f0fd1"
 unparsed: 
-line: 'Head: lycanthropia|Entry: 1535 [Lycanthropia]|#item-5b3c8598b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/847,1755,538,140/full/0/default.jpg
+line: 'Head: Machiavellus|Entry: 556 [Machiavellus]|#item-2b56f0fd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186238272
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186314831
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/847,1755,538,140/150,/0/default.jpg
-label: lycanthropia
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/150,/0/default.jpg
+label: Machiavellus
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '455'
+order: '456'
 layout: index_item
 collection: index3
 ---

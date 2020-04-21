@@ -2,9 +2,8 @@
 pid: index_2033
 volume: Volume 3
 image_number: '26'
-head: infidelity
-entry: "<a href='/digital-beehive/alpha3/alpha_0472/'>a</a>|<a href='/digital-beehive/toc/toc2_412/'>2380
-  [Unfaithful]</a>"
+head: infinite
+entry: "<a href='/digital-beehive/num2/num_0496/'>406 [Infinitness]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0cee4a603"
+item: "#item-70073e237"
 unparsed: 
-line: 'Head: infidelity|Entry: a|Entry: 2380 [Unfaithful]|#item-0cee4a603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/443,1524,611,159/full/0/default.jpg
+line: 'Head: infinite|Entry: 406 [Infinitness]|#item-70073e237'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,1673,477,142/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744292512
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744355946
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/443,1524,611,159/150,/0/default.jpg
-label: infidelity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/426,1673,477,142/150,/0/default.jpg
+label: infinite
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '114'
+order: '115'
 layout: index_item
 collection: index3
 ---

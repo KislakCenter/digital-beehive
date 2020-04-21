@@ -23,7 +23,7 @@ label: to suffer or bear
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1219'
+order: '1220'
 layout: index_item
 collection: index4
 ---

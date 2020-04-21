@@ -2,8 +2,9 @@
 pid: index_3041
 volume: Volume 3
 image_number: '36'
-head: to plead
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1924 [to Plead]</a>"
+head: pleasure
+entry: "<a href='/digital-beehive/alpha4/alpha_0712/'>a</a>|<a href='/digital-beehive/num4/num_1126'>882
+  [Pleasure]</a>|<a href='/digital-beehive/toc/toc2_358/'>1947 [Pleasure]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-70c283e34"
+item: "#item-973858398"
 unparsed: 
-line: 'Head: to plead|Entry: 1924 [to Plead]|#item-70c283e34'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/487,808,508,129/full/0/default.jpg
+line: 'Head: pleasure|Entry: a|Entry: 882 [Pleasure]|Entry: 1947 [Pleasure]|#item-973858398'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/457,868,741,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1542052924927
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052955293
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/487,808,508,129/150,/0/default.jpg
-label: to plead
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/457,868,741,165/150,/0/default.jpg
+label: pleasure
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0289'
+order: '0290'
 layout: index_item
 collection: index4
 ---

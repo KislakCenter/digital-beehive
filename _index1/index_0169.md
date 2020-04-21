@@ -3,7 +3,7 @@ pid: index_0169
 volume: Volume 3
 image_number: '8'
 head: apostacy
-entry: "<a href='/digital-beehive/alpha1/alpha_0038/'>a</a>|<a href='/digital-beehive/toc/toc2_129/'>553
+entry: "<a href='/digital-beehive/alpha1/alpha_0038/'>a</a>|<a href='/digital-beehive/num3/num_0700'>553
   [Apostate]</a>|<a href='/digital-beehive/toc/toc2_202/'>1045 [Apostacy]</a>|<a href='/digital-beehive/toc/toc2_347/'>1807
   [Apostacy]</a>"
 topic: 

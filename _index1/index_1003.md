@@ -2,8 +2,9 @@
 pid: index_1003
 volume: Volume 3
 image_number: '16'
-head: deliverance
-entry: "<a href='/digital-beehive/toc/toc2_171/'>920 [Delivering]</a>"
+head: deluge
+entry: "<a href='/digital-beehive/alpha1/alpha_0222/'>a</a>|<a href='/digital-beehive/toc/toc2_272/'>1395
+  [Deluge]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +12,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c5f4e7e5d"
+item: "#item-f30b51fb4"
 unparsed: 
-line: 'Head: deliverance|Entry: 920 [Delivering]|#item-c5f4e7e5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/369,3418,563,127/full/0/default.jpg
+line: 'Head: deluge|Entry: a|Entry: 1395 [Deluge]|#item-f30b51fb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572828145
+annotation_uri: http://dev.llgc.org.uk/annotation/1507755083722
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/369,3418,563,127/150,/0/default.jpg
-label: deliverance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/372,3537,525,174/150,/0/default.jpg
+label: deluge
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

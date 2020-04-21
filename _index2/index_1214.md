@@ -2,8 +2,8 @@
 pid: index_1214
 volume: Volume 3
 image_number: '18'
-head: effeminate
-entry: "<a href='/digital-beehive/toc/toc2_232/'>1192 [Effeminate]</a>"
+head: efficacy
+entry: "<a href='/digital-beehive/num3/num_0813'>611 [with Efficacy]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0b00f09e0"
+item: "#item-e8dc67cc5"
 unparsed: 
-line: 'Head: effeminate|Entry: 1192 [Effeminate]|#item-0b00f09e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1176,1341,512,125/full/0/default.jpg
+line: 'Head: efficacy|Entry: 611 [with Efficacy]|#item-e8dc67cc5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673249807
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673428530
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1176,1341,512,125/150,/0/default.jpg
-label: effeminate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1144,1458,411,147/150,/0/default.jpg
+label: efficacy
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '032'
+order: '033'
 layout: index_item
 collection: index2
 ---

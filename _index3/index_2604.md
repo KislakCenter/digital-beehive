@@ -2,9 +2,10 @@
 pid: index_2604
 volume: Volume 3
 image_number: '31'
-head: mountebank
-entry: "<a href='/digital-beehive/alpha3/alpha_0613/'>a</a>|<a href='/digital-beehive/toc/toc2_260/'>1333
-  [Mountebank]</a>|<a href='/digital-beehive/toc/toc2_401/'>2288 [Mountebanck]</a>"
+head: mourning
+entry: "<a href='/digital-beehive/alpha3/alpha_0614/'>a</a>|<a href='/digital-beehive/toc/toc2_230/'>1181
+  [Mourning]</a>|<a href='/digital-beehive/toc/toc2_336/'>1713 [Mourning]</a>|4731
+  [PAGE_MISSING]"
 topic: 
 first_letter: M
 page: 
@@ -12,19 +13,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-132cac763"
+item: "#item-47a551c0c"
 unparsed: 
-line: 'Head: mountebank|Entry: a|Entry: 1333 [Mountebank]|Entry: 2288 [Mountebanck]|#item-132cac763'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1602,526,664,145/full/0/default.jpg
+line: 'Head: mourning|Entry: a|Entry: 1181 [Mourning]|Entry: 1713 [Mourning]|Entry:
+  4731 [PAGE_MISSING]|#item-47a551c0c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1575,647,690,140/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360524709
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360678139
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1602,526,664,145/150,/0/default.jpg
-label: mountebank
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1575,647,690,140/150,/0/default.jpg
+label: mourning
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '685'
+order: '686'
 layout: index_item
 collection: index3
 ---

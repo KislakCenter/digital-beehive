@@ -2,29 +2,28 @@
 pid: index_2524
 volume: Volume 3
 image_number: '30'
-head: ministers of State
-entry: "<a href='/digital-beehive/num1/num_0181/'>174 [Ministers of State]</a>|1843
-  [PAGE_MISSING]"
+head: ministers of Gospel
+entry: 
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3113/'>Preachers</a>|<a href='/digital-beehive/index5/index_4072/'>Teachers</a>"
 index: 
-item: "#item-1d57a4335"
+item: "#item-adfa67363"
 unparsed: 
-line: 'Head: ministers of State|Entry: 174 [Ministers of State]|Entry: 1843 [PAGE_MISSING]|#item-1d57a4335'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1838,2530,617,145/full/0/default.jpg
+line: 'Head: ministers of Gospel|See: Preachers|See: Teachers|#item-adfa67363'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1818,2649,684,136/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274512102
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274608284
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1838,2530,617,145/150,/0/default.jpg
-label: ministers of State
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1818,2649,684,136/150,/0/default.jpg
+label: ministers of Gospel
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '605'
+order: '606'
 layout: index_item
 collection: index3
 ---

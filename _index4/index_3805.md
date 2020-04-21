@@ -3,7 +3,7 @@ pid: index_3805
 volume: Volume 3
 image_number: '44'
 head: sorrow
-entry: "<a href='/digital-beehive/toc/toc2_147/'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_230/'>1181
+entry: "<a href='/digital-beehive/num3/num_0905'>658 [Grief]</a>|<a href='/digital-beehive/toc/toc2_230/'>1181
   [Sadness]</a>|<a href='/digital-beehive/toc/toc2_382/'>2165 [Sorrow]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: sorrow
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1053'
+order: '1054'
 layout: index_item
 collection: index4
 ---

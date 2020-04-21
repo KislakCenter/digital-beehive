@@ -2,24 +2,24 @@
 pid: index_0774
 volume: Volume 3
 image_number: '14'
-head: conclusion
-entry: 
+head: concoction
+entry: 766 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0806/'>consequence</a>"
+see: 
 index: 
-item: "#item-249907beb"
+item: "#item-43a0245f4"
 unparsed: 
-line: 'Head: conclusion|See: consequence|#item-249907beb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/418,1868,856,160/full/0/default.jpg
+line: 'Head: concoction|Entry: 766 [PAGE_MISSING]|#item-43a0245f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/406,2004,576,135/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216538890
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216584706
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/418,1868,856,160/150,/0/default.jpg
-label: conclusion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/406,2004,576,135/150,/0/default.jpg
+label: concoction
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

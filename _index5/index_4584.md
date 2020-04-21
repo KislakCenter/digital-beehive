@@ -3,7 +3,7 @@ pid: index_4584
 volume: Volume 3
 image_number: '53'
 head: to woe
-entry: "<a href='/digital-beehive/toc/toc2_170/'>912 [To Wooe]</a>|<a href='/digital-beehive/toc/toc2_271/'>1389
+entry: "<a href='/digital-beehive/num4/num_1198'>912 [To Wooe]</a>|<a href='/digital-beehive/toc/toc2_271/'>1389
   [of Courting women]</a>|<a href='/digital-beehive/toc/toc2_317/'>1614 [Courting]</a>"
 topic: 
 first_letter: W

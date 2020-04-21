@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0485/'>Interpretation</a>|<a href='/digital-beehive/alpha5/alpha_0973/'>Tradition</a>|<a
   href='/digital-beehive/num1/num_0125/'>121 [Gloss]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1627/'>gloss</a>"
+index: "<a href='/digital-beehive/index2/index_1626/'>gloss</a>"
 item: "#item-896e75d1c"
 unparsed: 
 line: 'Entry: Gloss|Topic: Gloss|Xref: Interpretation|Xref: Tradition|Xref: 121 [Gloss]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/759,30
 label: Gloss
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '094'
 layout: alpha_item
 collection: alpha2

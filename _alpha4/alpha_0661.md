@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4630 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index4/index_2790/'>omnipotency</a>"
+index: "<a href='/digital-beehive/index4/index_2789/'>omnipotency</a>"
 item: "#item-69dddeb47"
 unparsed: 
 line: 'Entry: Omnipotency|Topic: Omnipotency|Xref: 4630 [PAGE_MISSING]|Index: omnipotency|#item-69dddeb47'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/332,36
 label: Omnipotency
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '014'
 layout: alpha_item
 collection: alpha4

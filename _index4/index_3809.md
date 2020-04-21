@@ -23,7 +23,7 @@ label: soul of Christ
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1057'
+order: '1058'
 layout: index_item
 collection: index4
 ---

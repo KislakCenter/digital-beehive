@@ -2,8 +2,9 @@
 pid: index_1222
 volume: Volume 3
 image_number: '18'
-head: election of Kings
-entry: 4722 [PAGE_MISSING]
+head: element
+entry: "<a href='/digital-beehive/alpha2/alpha_0279/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2092
+  [Element]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-96eb7ff86"
+item: "#item-17447117a"
 unparsed: 
-line: 'Head: election of Kings|Entry: 4722 [PAGE_MISSING]|#item-96eb7ff86'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1168,2174,464,152/full/0/default.jpg
+line: 'Head: element|Entry: a|Entry: 2092 [Element]|#item-17447117a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1149,2294,591,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559674612456
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674726722
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1168,2174,464,152/150,/0/default.jpg
-label: election of Kings
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1149,2294,591,138/150,/0/default.jpg
+label: element
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '040'
+order: '041'
 layout: index_item
 collection: index2
 ---

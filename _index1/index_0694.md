@@ -3,7 +3,7 @@ pid: index_0694
 volume: Volume 3
 image_number: '13'
 head: clime
-entry: "<a href='/digital-beehive/toc/toc2_146/'>649 [Consent]</a>|<a href='/digital-beehive/toc/toc2_262/'>1342
+entry: "<a href='/digital-beehive/num3/num_0890'>649 [Country]</a>|<a href='/digital-beehive/toc/toc2_262/'>1342
   [Climate]</a>"
 topic: 
 first_letter: C
@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-a84ea3044"
 unparsed: 
-line: 'Head: clime|Entry: 649 [Consent]|Entry: 1342 [Climate]|#item-a84ea3044'
+line: 'Head: clime|Entry: 649 [Country]|Entry: 1342 [Climate]|#item-a84ea3044'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,933,605,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1536334352478

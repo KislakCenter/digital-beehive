@@ -2,28 +2,31 @@
 pid: index_2403
 volume: Volume 3
 image_number: '29'
-head: Mamut his valet
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
+head: man
+entry: "<a href='/digital-beehive/alpha3/alpha_0570/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1124
+  [Man]</a>|<a href='/digital-beehive/toc/toc2_355/'>1923 [Man]</a>|<a href='/digital-beehive/toc/toc2_390/'>2232
+  [Man]</a>"
 topic: 
 first_letter: M
-page: 
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-00362f6b2"
+item: "#item-f4740f14d"
 unparsed: 
-line: 'Head: Mamut his valet|Entry: 1322 [Mamuts Valet]|#item-00362f6b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,1276,492,104/full/0/default.jpg
+line: 'Head: man|Page: p.42 [Image 1.102]|Entry: a|Entry: 1124 [Man]|Entry: 1923 [Man]|Entry:
+  2232 [Man]|#item-f4740f14d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194427690
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194602083
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1533,1276,492,104/150,/0/default.jpg
-label: Mamut his valet
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1550,1388,689,139/150,/0/default.jpg
+label: man
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '484'
+order: '485'
 layout: index_item
 collection: index3
 ---

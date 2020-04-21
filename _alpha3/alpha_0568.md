@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0027/'>Anathema</a>|<a href='/digital-beehive/num1/num_0029/'>29
   [Curse]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2396/'>malediction</a>"
+index: "<a href='/digital-beehive/index3/index_2395/'>malediction</a>"
 item: "#item-0605a4c00"
 unparsed: 
 line: 'Entry: Malediction|Topic: Malediction|Xref: Anathema|Xref: 29 [Curse]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/771,42
 label: Malediction
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '124'
 layout: alpha_item
 collection: alpha3

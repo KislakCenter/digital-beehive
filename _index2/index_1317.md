@@ -2,8 +2,8 @@
 pid: index_1317
 volume: Volume 3
 image_number: '19'
-head: evening
-entry: "<a href='/digital-beehive/toc/toc2_304/'>1546 [Evening]</a>"
+head: every
+entry: "<a href='/digital-beehive/num3/num_1075'>724 [Each]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-04846ce35"
+item: "#item-5d925b98b"
 unparsed: 
-line: 'Head: evening|Entry: 1546 [Evening]|#item-04846ce35'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/864,1179,476,145/full/0/default.jpg
+line: 'Head: every|Entry: 724 [Each]|#item-5d925b98b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/858,1309,395,114/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351384234
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351485840
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/864,1179,476,145/150,/0/default.jpg
-label: evening
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/858,1309,395,114/150,/0/default.jpg
+label: every
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '135'
+order: '136'
 layout: index_item
 collection: index2
 ---

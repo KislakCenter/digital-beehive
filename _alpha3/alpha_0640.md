@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_220/'>1131 [Night]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2709/'>night</a>"
+index: "<a href='/digital-beehive/index3/index_2708/'>night</a>"
 item: "#item-1399c5577"
 unparsed: 
 line: 'Entry: Night|Topic: Night|Xref: 1131 [Night]|Index: night|#item-1399c5577'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,17
 label: Night
 location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '196'
 layout: alpha_item
 collection: alpha3

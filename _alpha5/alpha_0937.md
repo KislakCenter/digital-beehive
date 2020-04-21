@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/325,23
 label: Tautology
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: 
-order: '002'
+also_in_entry: 
+order: '003'
 layout: alpha_item
 collection: alpha5
 ---

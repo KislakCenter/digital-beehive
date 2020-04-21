@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0479/'>Inscriptions</a>|<a href='/digital-beehive/num1/num_0264/'>245
   [Epitaphs]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1285/'>epitaphs</a>"
+index: "<a href='/digital-beehive/index2/index_1284/'>epitaphs</a>"
 item: "#item-1a230df78"
 unparsed: 
 line: 'Entry: Epitaph|Topic: Epitaph|Xref: Inscriptions|Xref: 245 [Epitaphs]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,23
 label: Epitaph
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '018'
 layout: alpha_item
 collection: alpha2

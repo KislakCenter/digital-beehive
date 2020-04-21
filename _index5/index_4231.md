@@ -3,7 +3,7 @@ pid: index_4231
 volume: Volume 3
 image_number: '48'
 head: to tremble
-entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [To Tremble]</a>"
+entry: "<a href='/digital-beehive/num4/num_1104'>873 [To Tremble]</a>"
 topic: 
 first_letter: T
 page: 

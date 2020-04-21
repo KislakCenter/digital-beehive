@@ -2,8 +2,8 @@
 pid: index_3362
 volume: Volume 3
 image_number: '39'
-head: to render
-entry: "<a href='/digital-beehive/num2/num_0495/'>405 [Restitution]</a>"
+head: renovation
+entry: "<a href='/digital-beehive/num3/num_1009'>699 [Repair]</a>"
 topic: 
 first_letter: R
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-617dc16bd"
+item: "#item-4ccf952e8"
 unparsed: 
-line: 'Head: to render|Entry: 405 [Restitution]|#item-617dc16bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/743,1300,638,142/full/0/default.jpg
+line: 'Head: renovation|Entry: 699 [Repair]|#item-4ccf952e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469101069
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469119321
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/743,1300,638,142/150,/0/default.jpg
-label: to render
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/802,1434,561,160/150,/0/default.jpg
+label: renovation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0610'
+order: '0611'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_2212
 volume: Volume 3
 image_number: '27'
-head: lasting
-entry: "<a href='/digital-beehive/toc/toc2_366/'>2002 [Lasting]</a>"
+head: late
+entry: "<a href='/digital-beehive/alpha3/alpha_0518/'>a</a>"
 topic: 
 first_letter: L
 page: 
-add: 
+add: "<a href='/digital-beehive/index4/index_3369/'>repentance</a>"
 xref: 
 see: 
 index: 
-item: "#item-8b5a4b3c3"
+item: "#item-4294c44c6"
 unparsed: 
-line: 'Head: lasting|Entry: 2002 [Lasting]|#item-8b5a4b3c3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1545,2393,455,128/full/0/default.jpg
+line: 'Head: late|Entry: a|Add: repentance|#item-4294c44c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836411883
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836429486
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1545,2393,455,128/150,/0/default.jpg
-label: lasting
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1548,2478,497,204/150,/0/default.jpg
+label: late
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '293'
+order: '294'
 layout: index_item
 collection: index3
 ---

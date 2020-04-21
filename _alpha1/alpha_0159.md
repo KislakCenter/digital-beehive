@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_228/'>1172 [Community of Goods]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0744/'>common goods</a>"
+index: "<a href='/digital-beehive/index1/index_0743/'>common goods</a>"
 item: "#item-8f4d83e15"
 unparsed: 
 line: 'Entry: Common goods|Topic: Common goods|Xref: 1172 [Community of Goods]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/378,10
 label: Common goods
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '158'
 layout: alpha_item
 collection: alpha1

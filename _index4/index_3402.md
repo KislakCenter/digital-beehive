@@ -23,7 +23,7 @@ label: book of revelations
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0650'
+order: '0651'
 layout: index_item
 collection: index4
 ---

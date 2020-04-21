@@ -3,7 +3,7 @@ pid: index_3743
 volume: Volume 3
 image_number: '43'
 head: slate
-entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [Paper]</a>"
+entry: "<a href='/digital-beehive/num4/num_1105'>873 [Paper]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: slate
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0991'
+order: '0992'
 layout: index_item
 collection: index4
 ---

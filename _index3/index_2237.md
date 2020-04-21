@@ -2,28 +2,31 @@
 pid: index_2237
 volume: Volume 3
 image_number: '28'
-head: to leap
-entry: 
+head: learning
+entry: "<a href='/digital-beehive/alpha3/alpha_0527/'>a</a>|<a href='/digital-beehive/toc/toc2_221/'>1139
+  [Learning]</a>|<a href='/digital-beehive/toc/toc2_362/'>1973 [Learning]</a>|4747
+  [PAGE_MISSING]"
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0945/'>dance</a>"
+see: 
 index: 
-item: "#item-20c5282b4"
+item: "#item-da5c0ea19"
 unparsed: 
-line: 'Head: to leap|See: dance|#item-20c5282b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/383,1771,559,146/full/0/default.jpg
+line: 'Head: learning|Entry: a|Entry: 1139 [Learning]|Entry: 1973 [Learning]|Entry:
+  4747 [PAGE_MISSING]|#item-da5c0ea19'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/367,1936,770,137/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842104748
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842209777
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/383,1771,559,146/150,/0/default.jpg
-label: to leap
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/367,1936,770,137/150,/0/default.jpg
+label: learning
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '318'
+order: '319'
 layout: index_item
 collection: index3
 ---

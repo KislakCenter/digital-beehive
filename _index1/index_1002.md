@@ -2,8 +2,8 @@
 pid: index_1002
 volume: Volume 3
 image_number: '16'
-head: delineation
-entry: 807 [PAGE_MISSING]
+head: deliverance
+entry: "<a href='/digital-beehive/num4/num_1218'>920 [Delivering]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4009702e7"
+item: "#item-c5f4e7e5d"
 unparsed: 
-line: 'Head: delineation|Entry: 807 [PAGE_MISSING]|#item-4009702e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,3294,526,108/full/0/default.jpg
+line: 'Head: deliverance|Entry: 920 [Delivering]|#item-c5f4e7e5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/369,3418,563,127/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572802170
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572828145
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/345,3294,526,108/150,/0/default.jpg
-label: delineation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/369,3418,563,127/150,/0/default.jpg
+label: deliverance
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
 issue: 
 insertion_xref: 

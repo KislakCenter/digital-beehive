@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1495/'>fontanell</a>"
+index: "<a href='/digital-beehive/index2/index_1494/'>fontanell</a>"
 item: "#item-74981c1af"
 unparsed: 
 line: 'Entry: Fontanell|Topic: Fontanell|Index: fontanell|#item-74981c1af'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/778,19
 label: Fontanell
 location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '066'
 layout: alpha_item
 collection: alpha2

@@ -8,7 +8,7 @@ topic: University
 first_letter: U/V
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0834/'>Schoole</a>|Professors|<a href='/digital-beehive/toc/toc2_168/'>902
+xref: "<a href='/digital-beehive/alpha4/alpha_0834/'>Schoole</a>|Professors|<a href='/digital-beehive/num4/num_1172'>902
   [University]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4393/'>universities</a>"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/793,21
 label: University
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
 issue: The point of reference for "Professors" is unclear.
-order: '069'
+also_in_entry: 
+order: '070'
 layout: alpha_item
 collection: alpha5
 ---

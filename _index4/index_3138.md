@@ -2,8 +2,8 @@
 pid: index_3138
 volume: Volume 3
 image_number: '37'
-head: to press souldiers
-entry: "<a href='/digital-beehive/num2/num_0607/'>490 [Will-worship]</a>"
+head: prester John
+entry: "<a href='/digital-beehive/toc/toc2_319/'>1622 [Prester John]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-5c7d4ef26"
+item: "#item-9ac7e1c47"
 unparsed: 
-line: 'Head: to press souldiers|Entry: 490 [Will-worship]|#item-5c7d4ef26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/106,809,671,108/full/0/default.jpg
+line: 'Head: prester John|Entry: 1622 [Prester John]|#item-9ac7e1c47'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,848,591,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866106434
+annotation_uri: http://dev.llgc.org.uk/annotation/1565204422255
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/106,809,671,108/150,/0/default.jpg
-label: to press souldiers
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/111,848,591,148/150,/0/default.jpg
+label: prester John
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0386'
+order: '0387'
 layout: index_item
 collection: index4
 ---

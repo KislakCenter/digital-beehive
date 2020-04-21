@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2936/'>peas</a>"
+index: "<a href='/digital-beehive/index4/index_2935/'>peas</a>"
 item: "#item-70d09e835"
 unparsed: 
 line: 'Entry: Pease|Topic: Pease|Index: peas|#item-70d09e835'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/304,38
 label: Pease
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '048'
 layout: alpha_item
 collection: alpha4

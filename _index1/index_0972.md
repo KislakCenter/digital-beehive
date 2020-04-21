@@ -2,24 +2,24 @@
 pid: index_0972
 volume: Volume 3
 image_number: '15'
-head: deathly
-entry: "<a href='/digital-beehive/toc/toc2_373/'>2078 [Mortal]</a>"
+head: debauch
+entry: 
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index4/index_3403/'>revelling</a>"
 index: 
-item: "#item-48fc46b9b"
+item: "#item-c9db7a647"
 unparsed: 
-line: 'Head: deathly|Entry: 2078 [Mortal]|#item-48fc46b9b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1524,3436,512,85/full/0/default.jpg
+line: 'Head: debauch|See: revelling|#item-c9db7a647'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1535,3474,717,134/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392469595
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392491289
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1524,3436,512,85/150,/0/default.jpg
-label: deathly
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1535,3474,717,134/150,/0/default.jpg
+label: debauch
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -8,7 +8,7 @@ topic: Certainty
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_169/'>908 [Certainty]</a>"
+xref: "<a href='/digital-beehive/num4/num_1186'>908 [Certainty]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0585/'>certainty</a>"
 item: "#item-2f6fb588a"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/351,58
 label: Certainty
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '133'
 layout: alpha_item
 collection: alpha1

@@ -2,30 +2,28 @@
 pid: index_2522
 volume: Volume 3
 image_number: '30'
-head: merchants
-entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/toc/toc2_158/'>714
-  [Market]</a>|<a href='/digital-beehive/toc/toc2_286/'>1464 [Merchant]</a>|4610 [PAGE_MISSING]"
+head: mingle
+entry: 
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"
 index: 
-item: "#item-f1c5cab53"
+item: "#item-e4bbe7ce8"
 unparsed: 
-line: 'Head: merchants|Page: p.42 [Image 1.102]|Entry: 109 [a Shop keeper]|Entry:
-  714 [Market]|Entry: 1464 [Merchant]|Entry: 4610 [PAGE_MISSING]|#item-f1c5cab53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1134,2315,1075,138/full/0/default.jpg
+line: 'Head: mingle|See: hotchpotch|#item-e4bbe7ce8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560269058881
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274447145
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1134,2315,1075,138/150,/0/default.jpg
-label: merchants
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/150,/0/default.jpg
+label: mingle
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '603'
+order: '604'
 layout: index_item
 collection: index3
 ---

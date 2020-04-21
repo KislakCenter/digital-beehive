@@ -2,8 +2,8 @@
 pid: index_1448
 volume: Volume 3
 image_number: '20'
-head: finally
-entry: "<a href='/digital-beehive/toc/toc2_173/'>928 [Finally]</a>"
+head: fine. geldstraff
+entry: 826 [PAGE_MISSING]
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f8d91b1ca"
+item: "#item-aeebb3b10"
 unparsed: 
-line: 'Head: finally |Entry: 928 [Finally]|#item-f8d91b1ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1785,342,513,195/full/0/default.jpg
+line: 'Head: fine. geldstraff|Entry: 826 [PAGE_MISSING]|#item-aeebb3b10'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1785,441,690,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562600306114
+annotation_uri: http://dev.llgc.org.uk/annotation/1562600546473
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1785,342,513,195/150,/0/default.jpg
-label: finally
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1785,441,690,167/150,/0/default.jpg
+label: fine. geldstraff
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '266'
+order: '267'
 layout: index_item
 collection: index2
 ---

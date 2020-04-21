@@ -8,7 +8,7 @@ topic: Self
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_164/'>884 [Self]</a>"
+xref: "<a href='/digital-beehive/num4/num_1132'>884 [Self]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3602/'>Self</a>"
 item: "#item-b43a61ecb"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/283,17
 label: Self
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '199'
 layout: alpha_item
 collection: alpha4

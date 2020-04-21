@@ -8,10 +8,10 @@ topic: Humility
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/toc/toc2_171/'>917
+xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/num4/num_1212'>917
   [Humility]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1902/'>humility</a>"
+index: "<a href='/digital-beehive/index2/index_1901/'>humility</a>"
 item: "#item-b5702089e"
 unparsed: 
 line: 'Entry: Humility|Topic: Humility|Xref: baseness|Xref: 917 [Humility]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,96
 label: Humility
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '168'
 layout: alpha_item
 collection: alpha2

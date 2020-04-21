@@ -8,7 +8,7 @@ topic: Alchymie
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_155/'>700 [Chymistry]</a>|<a href='/digital-beehive/toc/toc2_259/'>1326
+xref: "<a href='/digital-beehive/num3/num_1010'>700 [Chymistry]</a>|<a href='/digital-beehive/toc/toc2_259/'>1326
   [Alchymie]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0431/723,25
 label: Alchymie
 location: "<a href='/digital-beehive/toc/toc1_422/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '017'
 layout: alpha_item
 collection: alpha1

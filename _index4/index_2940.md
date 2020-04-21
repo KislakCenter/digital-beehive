@@ -2,8 +2,8 @@
 pid: index_2940
 volume: Volume 3
 image_number: '35'
-head: peevish
-entry: 735 [PAGE_MISSING]
+head: Pelagians
+entry: "<a href='/digital-beehive/num1/num_0049/'>49 [Pelagius]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d77a5ae1d"
+item: "#item-3e0b30c49"
 unparsed: 
-line: 'Head: peevish|Entry: 735 [PAGE_MISSING]|#item-d77a5ae1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/141,739,544,109/full/0/default.jpg
+line: 'Head: Pelagians|Entry: 49 [Pelagius]|#item-3e0b30c49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,783,602,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971733455
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971857990
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/141,739,544,109/150,/0/default.jpg
-label: peevish
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/117,783,602,177/150,/0/default.jpg
+label: Pelagians
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0188'
+order: '0189'
 layout: index_item
 collection: index4
 ---

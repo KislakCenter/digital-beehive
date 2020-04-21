@@ -8,8 +8,8 @@ topic: Calumny
 first_letter: C
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0884/'>Slander</a>|<a href='/digital-beehive/toc/toc2_147/'>653
-  [Slander]</a>|<a href='/digital-beehive/toc/toc2_151/'>680 [Scheltwort]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0884/'>Slander</a>|<a href='/digital-beehive/num3/num_0897'>653
+  [Slander]</a>|<a href='/digital-beehive/num3/num_0953'>680 [Scheltwort]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0515/'>calumny</a>"
 item: "#item-d4633b6e6"
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/296,16
 label: Calumny
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '113'
 layout: alpha_item
 collection: alpha1

@@ -2,24 +2,24 @@
 pid: index_0860
 volume: Volume 3
 image_number: '14'
-head: to correct
-entry: 
+head: correspondence
+entry: "<a href='/digital-beehive/toc/toc2_236/'>1214 [Letters]</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0125/'>amend</a>"
+see: 
 index: 
-item: "#item-053887c0f"
+item: "#item-1aa490de5"
 unparsed: 
-line: 'Head: to correct|See: amend|#item-053887c0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,3450,630,94/full/0/default.jpg
+line: 'Head: correspondence|Entry: 1214 [Letters]|#item-1aa490de5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3501,679,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560328931
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560361931
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,3450,630,94/150,/0/default.jpg
-label: to correct
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1820,3501,679,146/150,/0/default.jpg
+label: correspondence
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

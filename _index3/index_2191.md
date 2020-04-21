@@ -2,8 +2,8 @@
 pid: index_2191
 volume: Volume 3
 image_number: '27'
-head: lamp
-entry: "<a href='/digital-beehive/toc/toc2_314/'>1597 [Lamps]</a>"
+head: lampoon
+entry: 1836 [PAGE_MISSING]
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-49795a895"
+item: "#item-b660b3906"
 unparsed: 
-line: 'Head: lamp|Entry: 1597 [Lamps]|#item-49795a895'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1573,545,352,139/full/0/default.jpg
+line: 'Head: lampoon|Entry: 1836 [PAGE_MISSING]|#item-b660b3906'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1567,626,586,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559834375245
+annotation_uri: http://dev.llgc.org.uk/annotation/1559834419778
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1573,545,352,139/150,/0/default.jpg
-label: lamp
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1567,626,586,129/150,/0/default.jpg
+label: lampoon
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '272'
+order: '273'
 layout: index_item
 collection: index3
 ---

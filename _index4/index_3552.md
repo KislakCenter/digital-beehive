@@ -3,7 +3,7 @@ pid: index_3552
 volume: Volume 3
 image_number: '41'
 head: scolding words
-entry: "<a href='/digital-beehive/toc/toc2_151/'>680 [to Chide]</a>|<a href='/digital-beehive/toc/toc2_339/'>1747
+entry: "<a href='/digital-beehive/num3/num_0954'>680 [to Chide]</a>|<a href='/digital-beehive/toc/toc2_339/'>1747
   [Scurrilous Epithets, Scheltwort]</a>"
 topic: 
 first_letter: S
@@ -25,7 +25,7 @@ label: scolding words
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0800'
+order: '0801'
 layout: index_item
 collection: index4
 ---

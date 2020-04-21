@@ -2,24 +2,24 @@
 pid: index_0815
 volume: Volume 3
 image_number: '14'
-head: construction
-entry: 844 [PAGE_MISSING]
+head: consult
+entry: 751 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
-add: "<a href='/digital-beehive/index1/index_0608/'>charitable</a>"
+add: 
 xref: 
 see: 
 index: 
-item: "#item-0ed39de38"
+item: "#item-2779c15c9"
 unparsed: 
-line: 'Head: construction|Entry: 844 [PAGE_MISSING]|Add: charitable|#item-0ed39de38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,2761,651,152/full/0/default.jpg
+line: 'Head: consult|Entry: 751 [PAGE_MISSING]|#item-2779c15c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1127,2904,409,106/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542062705
+annotation_uri: http://dev.llgc.org.uk/annotation/1537542093268
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1125,2761,651,152/150,/0/default.jpg
-label: construction
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1127,2904,409,106/150,/0/default.jpg
+label: consult
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/317,36
 label: Temerity
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue: 
-order: '005'
+also_in_entry: 
+order: '006'
 layout: alpha_item
 collection: alpha5
 ---

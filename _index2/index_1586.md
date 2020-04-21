@@ -2,8 +2,8 @@
 pid: index_1586
 volume: Volume 3
 image_number: '21'
-head: gathering
-entry: "<a href='/digital-beehive/toc/toc2_128/'>551 [Collections]</a>"
+head: Gazet
+entry: 4574 [PAGE_MISSING]
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-05f1d2d1a"
+item: "#item-9cdce11eb"
 unparsed: 
-line: 'Head: gathering|Entry: 551 [Collections]|#item-05f1d2d1a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1481,3140,570,139/full/0/default.jpg
+line: 'Head: Gazet|Entry: 4574 [PAGE_MISSING]|#item-9cdce11eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1507,3218,440,107/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787667965
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787698549
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1481,3140,570,139/150,/0/default.jpg
-label: gathering
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1507,3218,440,107/150,/0/default.jpg
+label: Gazet
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '404'
+order: '405'
 layout: index_item
 collection: index2
 ---

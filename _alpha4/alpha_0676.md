@@ -8,10 +8,10 @@ topic: Pardon
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Remission</a>|<a href='/digital-beehive/num2/num_0520/'>420
-  [Forgiveness]</a>"
+xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Remission</a>|420 [absolulte
+  Forgiveness]"
 see: 
-index: "<a href='/digital-beehive/index4/index_2879/'>pardon</a>"
+index: "<a href='/digital-beehive/index4/index_2878/'>pardon</a>"
 item: "#item-e5e568bc3"
 unparsed: 
 line: 'Entry: Pardon|Topic: Pardon|Xref: Remission|Xref: 420 [Forgiveness]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,31
 label: Pardon
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '029'
 layout: alpha_item
 collection: alpha4

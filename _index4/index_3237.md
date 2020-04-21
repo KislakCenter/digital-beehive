@@ -2,9 +2,8 @@
 pid: index_3237
 volume: Volume 3
 image_number: '38'
-head: purpose
-entry: "<a href='/digital-beehive/alpha4/alpha_0762/'>a</a>|<a href='/digital-beehive/toc/toc2_366/'>2001
-  [Purpose]</a>"
+head: purposely
+entry: "<a href='/digital-beehive/num4/num_1183'>907 [Purposely]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-aac442727"
+item: "#item-c4ae76f71"
 unparsed: 
-line: 'Head: purpose|Entry: a|Entry: 2001 [Purpose]|#item-aac442727'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/399,2003,608,135/full/0/default.jpg
+line: 'Head: purposely|Entry: 907 [Purposely]|#item-c4ae76f71'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/412,2101,487,169/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452387740
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452410214
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/399,2003,608,135/150,/0/default.jpg
-label: purpose
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/412,2101,487,169/150,/0/default.jpg
+label: purposely
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0485'
+order: '0486'
 layout: index_item
 collection: index4
 ---

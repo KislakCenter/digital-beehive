@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0846/'>Seeming</a>|<a href='/digital-beehive/alpha4/alpha_0864/'>Shape</a>|<a
   href='/digital-beehive/num2/num_0540/'>437 [External Appearance]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1361/'>external appearance</a>"
+index: "<a href='/digital-beehive/index2/index_1360/'>external appearance</a>"
 item: "#item-e1e329d42"
 unparsed: 
 line: 'Entry: External appearance|Topic: External appearance|Xref: Seeming|Xref: Shape|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,15
 label: External appearance
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '032'
 layout: alpha_item
 collection: alpha2

@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/di
   href='/digital-beehive/alpha4/alpha_0843/'>Seducing</a>|<a href='/digital-beehive/num2/num_0466/'>384
   [Fraud]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1533/'>fraud</a>"
+index: "<a href='/digital-beehive/index2/index_1532/'>fraud</a>"
 item: "#item-ddc5b9956"
 unparsed: 
 line: 'Entry: Fraud|Topic: Fraud|Xref: Craftiness|Xref: Stratagem|Xref: Seducing|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/362,14
 label: Fraud
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '077'
 layout: alpha_item
 collection: alpha2

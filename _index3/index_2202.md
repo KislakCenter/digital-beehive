@@ -2,9 +2,9 @@
 pid: index_2202
 volume: Volume 3
 image_number: '27'
-head: lascivious
-entry: "<a href='/digital-beehive/alpha3/alpha_0509/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1402
-  [Lasciviousness]</a>|4646 [PAGE_MISSING]"
+head: last
+entry: "<a href='/digital-beehive/alpha3/alpha_0510/'>a</a>|<a href='/digital-beehive/num4/num_1234'>928
+  [Last]</a>|<a href='/digital-beehive/num4/num_1235'>928 [Finally]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-9d68ce6c6"
+item: "#item-a951d6020"
 unparsed: 
-line: 'Head: lascivious|Entry: a|Entry: 1402 [Lasciviousness]|Entry: 4646 [PAGE_MISSING]|#item-9d68ce6c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1558,1411,763,162/full/0/default.jpg
+line: 'Head: last|Entry: a|Entry: 928 [Last]|Entry: 928 [Finally]|#item-a951d6020'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1557,1550,422,139/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835703862
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835843926
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1558,1411,763,162/150,/0/default.jpg
-label: lascivious
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1557,1550,422,139/150,/0/default.jpg
+label: last
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '283'
+order: '284'
 layout: index_item
 collection: index3
 ---

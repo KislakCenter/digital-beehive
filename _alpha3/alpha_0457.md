@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha4/alpha_0663/'>opinion</a>|<a href='/digital-beehive/alpha5/alpha_0952/'>thought</a>|736
   [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index3/index_1958/'>imagination</a>"
+index: "<a href='/digital-beehive/index3/index_1957/'>imagination</a>"
 item: "#item-c17c682d7"
 unparsed: 
 line: 'Entry: Imagination|Topic: Imagination|Xref: opinion|Xref: thought|Xref: 736
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/340,42
 label: Imagination
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '013'
 layout: alpha_item
 collection: alpha3

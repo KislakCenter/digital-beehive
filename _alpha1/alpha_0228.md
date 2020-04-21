@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0224/'>Denial</a>|1856 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index1/index_1022/'>desertion</a>"
+index: "<a href='/digital-beehive/index1/index_1021/'>desertion</a>"
 item: "#item-26dd25431"
 unparsed: 
 line: 'Entry: Desertion|Topic: Desertion|Xref: Denial|Xref: 1856 [PAGE_MISSING]|Index:
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/374,20
 label: Desertion
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '227'
+also_in_entry: 
+order: '226'
 layout: alpha_item
 collection: alpha1
 ---

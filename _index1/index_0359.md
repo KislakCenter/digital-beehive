@@ -3,7 +3,7 @@ pid: index_0359
 volume: Volume 3
 image_number: '10'
 head: besides the purpose
-entry: "<a href='/digital-beehive/toc/toc2_149/'>666 [In vain]</a>"
+entry: "<a href='/digital-beehive/num3/num_0923'>666 [In vain]</a>"
 topic: 
 first_letter: B
 page: 

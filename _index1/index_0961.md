@@ -2,8 +2,8 @@
 pid: index_0961
 volume: Volume 3
 image_number: '15'
-head: dead mens candles
-entry: "<a href='/digital-beehive/toc/toc2_312/'>1589 [Ignis Fatunus]</a>"
+head: to speak of dead men
+entry: "<a href='/digital-beehive/toc/toc2_401/'>2290 [To speak of them that are dead]</a>"
 topic: 
 first_letter: D
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-23246506e"
+item: "#item-107679c7e"
 unparsed: 
-line: 'Head: dead mens candles|Entry: 1589 [Ignis Fatunus]|#item-23246506e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,2486,588,83/full/0/default.jpg
+line: 'Head: to speak of dead men|Entry: 2290 [To speak of them that are dead]|#item-107679c7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391792077
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391840662
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1528,2486,588,83/150,/0/default.jpg
-label: dead mens candles
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1522,2538,622,93/150,/0/default.jpg
+label: to speak of dead men
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

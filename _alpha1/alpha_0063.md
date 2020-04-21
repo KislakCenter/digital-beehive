@@ -8,7 +8,7 @@ topic: Bastard
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_181/'>972 [Bastard]</a>"
+xref: "<a href='/digital-beehive/num4/num_1295'>972 [Bastard]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0305/'>bastard</a>"
 item: "#item-e316a8228"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/373,33
 label: Bastard
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '062'
 layout: alpha_item
 collection: alpha1

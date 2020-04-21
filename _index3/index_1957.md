@@ -2,30 +2,31 @@
 pid: index_1957
 volume: Volume 3
 image_number: '25'
-head: images
-entry: "<a href='/digital-beehive/alpha3/alpha_0455/'>a</a>|<a href='/digital-beehive/toc/toc2_178/'>955
-  [Images]</a>|4632 [PAGE_MISSING]"
+head: imagination
+entry: "<a href='/digital-beehive/alpha3/alpha_0457/'>a</a>|736 [PAGE_MISSING]|<a
+  href='/digital-beehive/toc/toc2_322/'>1637 [Imagination]</a>|<a href='/digital-beehive/toc/toc2_386/'>2210
+  [Imagination]</a>"
 topic: 
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-84345db13"
+item: "#item-a24337dfa"
 unparsed: 
-line: 'Head: images|Page: p.4 [Image 1.64]|Entry: a|Entry: 955 [Images]|Entry: 4632
-  [PAGE_MISSING]|#item-84345db13'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/875,502,663,141/full/0/default.jpg
+line: 'Head: imagination|Entry: a|Entry: 736 [PAGE_MISSING]|Entry: 1637 [Imagination]|Entry:
+  2210 [Imagination]|#item-a24337dfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559664857096
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665047940
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/875,502,663,141/150,/0/default.jpg
-label: images
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,627,678,126/150,/0/default.jpg
+label: imagination
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '038'
+order: '039'
 layout: index_item
 collection: index3
 ---

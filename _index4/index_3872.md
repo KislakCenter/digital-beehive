@@ -3,7 +3,7 @@ pid: index_3872
 volume: Volume 3
 image_number: '44'
 head: to stagger
-entry: "<a href='/digital-beehive/toc/toc2_157/'>706 [to Stumble]</a>"
+entry: "<a href='/digital-beehive/num3/num_1027'>706 [to Stumble]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to stagger
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1120'
+order: '1121'
 layout: index_item
 collection: index4
 ---

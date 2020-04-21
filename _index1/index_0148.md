@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-cdaa941a8"
 unparsed: 
-line: 'Head: annulling|Entry: 363 [Annuling]|#item-cdaa941a8'
+line: 'Head: annulling|Entry: 363 [Annulling]|#item-cdaa941a8'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/370,2083,554,161/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564758780608

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0579/'>Mediator</a>|<a href='/digital-beehive/toc/toc2_421/'>2443
   [Intercession]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2075/'>intercession</a>"
+index: "<a href='/digital-beehive/index3/index_2074/'>intercession</a>"
 item: "#item-d1e0e3d41"
 unparsed: 
 line: 'Entry: Intercession|Topic: Intercession|Xref: Mediator|Xref: 2443 [Intercession]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/765,10
 label: Intercession
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '040'
 layout: alpha_item
 collection: alpha3

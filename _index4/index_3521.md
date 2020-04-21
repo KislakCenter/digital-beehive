@@ -3,7 +3,7 @@ pid: index_3521
 volume: Volume 3
 image_number: '41'
 head: satisfaction
-entry: "<a href='/digital-beehive/toc/toc2_128/'>547 [Satisfaction]</a>"
+entry: "<a href='/digital-beehive/num3/num_0690'>547 [Satisfaction]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: satisfaction
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0769'
+order: '0770'
 layout: index_item
 collection: index4
 ---

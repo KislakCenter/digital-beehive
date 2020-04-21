@@ -2,8 +2,8 @@
 pid: index_1239
 volume: Volume 3
 image_number: '18'
-head: embush
-entry: 773 [PAGE_MISSING]
+head: emphatically
+entry: 4759 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-d41f1ed91"
+item: "#item-cb27bd3d7"
 unparsed: 
-line: 'Head: embush|Entry: 773 [PAGE_MISSING]|#item-d41f1ed91'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,3502,433,121/full/0/default.jpg
+line: 'Head: emphatically|Entry: 4759 [PAGE_MISSING]|#item-cb27bd3d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1138,3588,577,157/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744163768
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744425721
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1150,3502,433,121/150,/0/default.jpg
-label: embush
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1138,3588,577,157/150,/0/default.jpg
+label: emphatically
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '057'
+order: '058'
 layout: index_item
 collection: index2
 ---

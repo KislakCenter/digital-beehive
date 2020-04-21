@@ -2,28 +2,28 @@
 pid: index_1909
 volume: Volume 3
 image_number: '24'
-head: hurricane
-entry: "<a href='/digital-beehive/num2/num_0444/'>370 [Storm]</a>"
+head: hurtful
+entry: 
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0941/'>damage</a>"
 index: 
-item: "#item-c63273102"
+item: "#item-c58147b82"
 unparsed: 
-line: 'Head: hurricane|Entry: 370 [Storm]|#item-c63273102'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1843,2399,511,117/full/0/default.jpg
+line: 'Head: hurtful|See: damage|#item-c58147b82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1844,2509,631,177/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559588246863
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588279054
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1843,2399,511,117/150,/0/default.jpg
-label: hurricane
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1844,2509,631,177/150,/0/default.jpg
+label: hurtful
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '726'
+order: '727'
 layout: index_item
 collection: index2
 ---

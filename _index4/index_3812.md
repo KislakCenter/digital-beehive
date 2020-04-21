@@ -3,7 +3,7 @@ pid: index_3812
 volume: Volume 3
 image_number: '44'
 head: sound words
-entry: "<a href='/digital-beehive/toc/toc2_134/'>581 [Articles of faith]</a>"
+entry: "<a href='/digital-beehive/num3/num_0745'>581 [Articles of faith]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sound words
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1060'
+order: '1061'
 layout: index_item
 collection: index4
 ---

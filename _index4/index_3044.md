@@ -2,28 +2,28 @@
 pid: index_3044
 volume: Volume 3
 image_number: '36'
-head: pledge
-entry: 
+head: pleurisie
+entry: "<a href='/digital-beehive/toc/toc2_373/'>2073 [Pleurisie]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_2928/'>pawn</a>"
+see: 
 index: 
-item: "#item-69e18b989"
+item: "#item-cbcfdb236"
 unparsed: 
-line: 'Head: pledge|See: pawn|#item-69e18b989'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/full/0/default.jpg
+line: 'Head: pleurisie|Entry: 2073 [Pleurisie]|#item-cbcfdb236'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207651001
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207714992
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/150,/0/default.jpg
-label: pledge
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/150,/0/default.jpg
+label: pleurisie
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0292'
+order: '0293'
 layout: index_item
 collection: index4
 ---

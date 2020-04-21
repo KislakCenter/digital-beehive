@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_285/'>1456 [Heathens]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1783/'>heathens</a>"
+index: "<a href='/digital-beehive/index2/index_1782/'>heathens</a>"
 item: "#item-187d5c649"
 unparsed: 
 line: 'Entry: Heathenism|Topic: Heathenism|Xref: 1456 [Heathens]|Index: heathens|#item-187d5c649'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/419,34
 label: Heathenism
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '137'
 layout: alpha_item
 collection: alpha2

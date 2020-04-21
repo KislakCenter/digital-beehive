@@ -2,28 +2,28 @@
 pid: index_1614
 volume: Volume 3
 image_number: '22'
-head: to gird
-entry: "<a href='/digital-beehive/toc/toc2_154/'>691 [to Gird]</a>"
+head: girl
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index3/index_2385/'>maid</a>"
 index: 
-item: "#item-432d02ee1"
+item: "#item-577daa240"
 unparsed: 
-line: 'Head: to gird|Entry: 691 [to Gird]|#item-432d02ee1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/415,2187,361,146/full/0/default.jpg
+line: 'Head: girl|See: maid|#item-577daa240'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043651193
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043693834
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/415,2187,361,146/150,/0/default.jpg
-label: to gird
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/150,/0/default.jpg
+label: girl
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '432'
+order: '433'
 layout: index_item
 collection: index2
 ---

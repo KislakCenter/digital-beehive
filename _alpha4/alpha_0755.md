@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1040/'>Wisdom</a>|Wit|<a href='/digital-beehive/toc/toc2_359/'>1954
   [Prudence]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3215/'>prudence</a>"
+index: "<a href='/digital-beehive/index4/index_3214/'>prudence</a>"
 item: "#item-65603f9c3"
 unparsed: 
 line: 'Entry: Prudence|Topic: Prudence|Xref: Wisdom|Xref: Wit|Xref: 1954 [Prudence]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0511/790,34
 label: Prudence
 location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
 issue: It is unclear whether "It. Wit" should be considered a cross-reference.
+also_in_entry: 
 order: '108'
 layout: alpha_item
 collection: alpha4

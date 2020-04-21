@@ -8,10 +8,10 @@ topic: Fault
 first_letter: F
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0292/'>Error</a>|<a href='/digital-beehive/toc/toc2_178/'>956
+xref: "<a href='/digital-beehive/alpha2/alpha_0292/'>Error</a>|<a href='/digital-beehive/num4/num_1275'>956
   [Failings of good men]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1417/'>fault</a>"
+index: "<a href='/digital-beehive/index2/index_1416/'>fault</a>"
 item: "#item-3e32c3b6e"
 unparsed: 
 line: 'Entry: Fault|Topic: Fault|Xref: Error|Xref: 956 [Failings of good men]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/746,45
 label: Fault
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '049'
 layout: alpha_item
 collection: alpha2

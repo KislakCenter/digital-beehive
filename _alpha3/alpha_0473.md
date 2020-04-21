@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0373/'>325 [Infirmity]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2036/'>infirmity</a>"
+index: "<a href='/digital-beehive/index3/index_2035/'>infirmity</a>"
 item: "#item-24f20eccd"
 unparsed: 
 line: 'Entry: Infirmity|Topic: Infirmity|Xref: 325 [Infirmity]|Index: infirmity|#item-24f20eccd'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/308,10
 label: Infirmity
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '029'
 layout: alpha_item
 collection: alpha3

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0609/'>Mortality, continued</a>|<a href='/digital-beehive/toc/toc2_208/'>1075
   [Mortality]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2586/'>mortality</a>"
+index: "<a href='/digital-beehive/index3/index_2585/'>mortality</a>"
 item: "#item-81ba29bce"
 unparsed: 
 line: 'Entry: Mortality|Topic: Mortality|Xref: Mortality, continued|Xref: 1075 [Mortality]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,46
 label: Mortality
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
 issue: The entry continues onto the next page.
+also_in_entry: 
 order: '164'
 layout: alpha_item
 collection: alpha3

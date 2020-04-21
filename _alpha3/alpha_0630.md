@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_303/'>1543 [Natural Philosophy]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2655/'>natural philosophy</a>"
+index: "<a href='/digital-beehive/index3/index_2654/'>natural philosophy</a>"
 item: "#item-6aa80fade"
 unparsed: 
 line: 'Entry: Natural Philosophy|Topic: Natural Philosophy|Xref: 1543 [Natural Philosophy]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/299,24
 label: Natural Philosophy
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '186'
 layout: alpha_item
 collection: alpha3

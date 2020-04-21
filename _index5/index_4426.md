@@ -3,7 +3,7 @@ pid: index_4426
 volume: Volume 3
 image_number: '51'
 head: unworthy
-entry: "<a href='/digital-beehive/alpha5/alpha_1012/'>a</a>|<a href='/digital-beehive/toc/toc2_174/'>933
+entry: "<a href='/digital-beehive/alpha5/alpha_1012/'>a</a>|<a href='/digital-beehive/num4/num_1245'>933
   [Unworthy]</a>"
 topic: 
 first_letter: U/V

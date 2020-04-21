@@ -2,10 +2,8 @@
 pid: index_2432
 volume: Volume 3
 image_number: '30'
-head: marriage
-entry: "<a href='/digital-beehive/alpha3/alpha_0572/'>a</a>|<a href='/digital-beehive/toc/toc2_282/'>1443
-  [Marriage]</a>|<a href='/digital-beehive/toc/toc2_318/'>1619 [Marriage]</a>|4647
-  [PAGE_MISSING]"
+head: mars
+entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Evils of War]</a>"
 topic: 
 first_letter: M
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f0eb8480f"
+item: "#item-89378d60f"
 unparsed: 
-line: 'Head: marriage|Entry: a|Entry: 1443 [Marriage]|Entry: 1619 [Marriage]|Entry:
-  4647 [PAGE_MISSING]|#item-f0eb8480f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/409,643,724,119/full/0/default.jpg
+line: 'Head: mars|Entry: 1416 [Evils of War]|#item-89378d60f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,716,434,89/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263160865
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263285514
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/409,643,724,119/150,/0/default.jpg
-label: marriage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,716,434,89/150,/0/default.jpg
+label: mars
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '513'
+order: '514'
 layout: index_item
 collection: index3
 ---

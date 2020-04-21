@@ -8,10 +8,10 @@ topic: Devotion
 first_letter: D
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0707/'>Piety</a>|<a href='/digital-beehive/num2/num_0605/'>489
+xref: "<a href='/digital-beehive/alpha4/alpha_0707/'>Piety</a>|<a href='/digital-beehive/num2/num_0610/'>489
   [Turn in!]</a>|<a href='/digital-beehive/toc/toc2_388/'>2223 [Devotion]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1037/'>devotion</a>"
+index: "<a href='/digital-beehive/index1/index_1036/'>devotion</a>"
 item: "#item-19bd7db90"
 unparsed: 
 line: 'Entry: Devotion|Topic: Devotion|Xref: Piety|Xref: 489 [Turn in!]|Xref: 2223
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/391,29
 label: Devotion
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '229'
+also_in_entry: 
+order: '228'
 layout: alpha_item
 collection: alpha1
 ---

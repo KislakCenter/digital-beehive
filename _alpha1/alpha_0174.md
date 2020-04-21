@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha1/alpha_0239/'>Discont</a>|<a href='/digit
   in Living|<a href='/digital-beehive/alpha4/alpha_0795/'>Resignation</a>|<a href='/digital-beehive/num2/num_0342/'>302
   [Contentment]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0824/'>contentmt</a>"
+index: "<a href='/digital-beehive/index1/index_0823/'>contentmt</a>"
 item: "#item-5f770ccf9"
 unparsed: 
 line: 'Entry: Contentment|Topic: Contentment|Topic: Contentedness|Xref: Discont|Xref:
@@ -26,6 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/843,32
 label: Contentment
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 issue: The point of reference for "easy in living" is unclear.
+also_in_entry: 
 order: '173'
 layout: alpha_item
 collection: alpha1

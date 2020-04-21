@@ -2,28 +2,28 @@
 pid: index_1357
 volume: Volume 3
 image_number: '19'
-head: exploit
-entry: 
+head: expressly
+entry: 760 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0984/'>deed</a>"
+see: 
 index: 
-item: "#item-6e7ee6f60"
+item: "#item-4a7cbe078"
 unparsed: 
-line: 'Head: exploit|See: deed|#item-6e7ee6f60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1548,1728,527,151/full/0/default.jpg
+line: 'Head: expressly|Entry: 760 [PAGE_MISSING]|#item-4a7cbe078'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1856,546,158/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561395612943
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396029831
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1548,1728,527,151/150,/0/default.jpg
-label: exploit
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1528,1856,546,158/150,/0/default.jpg
+label: expressly
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '175'
+order: '176'
 layout: index_item
 collection: index2
 ---

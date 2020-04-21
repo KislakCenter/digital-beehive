@@ -10,7 +10,7 @@ page:
 add: 
 xref: 848 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2663/'>navigation</a>"
+index: "<a href='/digital-beehive/index3/index_2662/'>navigation</a>"
 item: "#item-6aee1c497"
 unparsed: 
 line: 'Entry: Navigation|Topic: Navigation|Xref: 848 [PAGE_MISSING]|Index: navigation|#item-6aee1c497'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/346,36
 label: Navigation
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '189'
 layout: alpha_item
 collection: alpha3

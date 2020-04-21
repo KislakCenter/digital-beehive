@@ -2,24 +2,24 @@
 pid: index_0776
 volume: Volume 3
 image_number: '14'
-head: concord
-entry: 
+head: concubine
+entry: 787 [PAGE_MISSING]
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4355/'>unanimity</a>"
+see: 
 index: 
-item: "#item-3e388510e"
+item: "#item-e4bfb0b15"
 unparsed: 
-line: 'Head: concord|See: unanimity|#item-3e388510e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/409,2113,758,162/full/0/default.jpg
+line: 'Head: concubine|Entry: 787 [PAGE_MISSING]|#item-e4bfb0b15'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/415,2233,551,120/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216607618
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216627872
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/409,2113,758,162/150,/0/default.jpg
-label: concord
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/415,2233,551,120/150,/0/default.jpg
+label: concubine
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

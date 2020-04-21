@@ -8,10 +8,10 @@ topic: Heresy
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0841/'>Sect</a>|<a href='/digital-beehive/toc/toc2_130/'>558
+xref: "<a href='/digital-beehive/alpha4/alpha_0841/'>Sect</a>|<a href='/digital-beehive/num3/num_0710'>558
   [Heresy]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1812/'>heresy</a>"
+index: "<a href='/digital-beehive/index2/index_1811/'>heresy</a>"
 item: "#item-d5165bbd3"
 unparsed: 
 line: 'Entry: Heresy|Topic: Heresy|Xref: Sect|Xref: 558 [Heresy]|Index: heresy|#item-d5165bbd3'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/691,19
 label: Heresy
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '146'
 layout: alpha_item
 collection: alpha2

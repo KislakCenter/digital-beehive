@@ -2,9 +2,8 @@
 pid: index_1354
 volume: Volume 3
 image_number: '19'
-head: experience
-entry: "<a href='/digital-beehive/alpha2/alpha_0300/'>a</a>|<a href='/digital-beehive/toc/toc2_262/'>Entry
-  1345 [Experience]</a>"
+head: expert
+entry: "<a href='/digital-beehive/toc/toc2_343/'>1780 [Expert]</a>"
 topic: 
 first_letter: E
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-268299e97"
+item: "#item-15c918412"
 unparsed: 
-line: 'Head: experience|Entry: a|Entry 1345 [Experience]|#item-268299e97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1517,1487,711,135/full/0/default.jpg
+line: 'Head: expert|Entry: 1780 [Expert]|#item-15c918412'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045656937
+annotation_uri: http://dev.llgc.org.uk/annotation/1561046576658
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1517,1487,711,135/150,/0/default.jpg
-label: experience
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1534,1576,425,85/150,/0/default.jpg
+label: expert
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '172'
+order: '173'
 layout: index_item
 collection: index2
 ---

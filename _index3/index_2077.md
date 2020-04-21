@@ -2,8 +2,9 @@
 pid: index_2077
 volume: Volume 3
 image_number: '26'
-head: intermission
-entry: 1883 [PAGE_MISSING]
+head: interpretation
+entry: "<a href='/digital-beehive/alpha3/alpha_0485/'>a</a>|<a href='/digital-beehive/num4/num_1223'>923
+  [Interpretation]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-3c70073f9"
+item: "#item-7be42eb90"
 unparsed: 
-line: 'Head: intermission|Entry: 1883 [PAGE_MISSING]|#item-3c70073f9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,3043,526,127/full/0/default.jpg
+line: 'Head: interpretation|Entry: a|Entry: 923 [Interpretation]|#item-7be42eb90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749179865
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749247048
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1162,3043,526,127/150,/0/default.jpg
-label: intermission
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/150,/0/default.jpg
+label: interpretation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '158'
+order: '159'
 layout: index_item
 collection: index3
 ---

@@ -8,9 +8,9 @@ topic: Promise
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_162/'>872 [Promise]</a>"
+xref: "<a href='/digital-beehive/num4/num_1102'>872 [Promise]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3188/'>promise</a>"
+index: "<a href='/digital-beehive/index4/index_3187/'>promise</a>"
 item: "#item-37b8c35f1"
 unparsed: 
 line: 'Entry: Promise|Topic: Promise|Xref: 872 [Promise]|Index: promise|#item-37b8c35f1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/375,38
 label: Promise
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '097'
 layout: alpha_item
 collection: alpha4

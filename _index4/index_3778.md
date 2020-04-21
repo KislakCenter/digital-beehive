@@ -23,7 +23,7 @@ label: Socinians
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1026'
+order: '1027'
 layout: index_item
 collection: index4
 ---

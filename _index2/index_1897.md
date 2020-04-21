@@ -2,28 +2,28 @@
 pid: index_1897
 volume: Volume 3
 image_number: '24'
-head: hue & Cry
-entry: 
+head: humanity
+entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3594/'>Seek</a>"
+see: 
 index: 
-item: "#item-cc50bb89b"
+item: "#item-ac360c4b8"
 unparsed: 
-line: 'Head: hue & Cry|See: Seek|#item-cc50bb89b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1856,1429,575,179/full/0/default.jpg
+line: 'Head: humanity|Entry: a|#item-ac360c4b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1853,1563,448,170/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559587103469
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587140352
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1856,1429,575,179/150,/0/default.jpg
-label: hue & Cry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1853,1563,448,170/150,/0/default.jpg
+label: humanity
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '714'
+order: '715'
 layout: index_item
 collection: index2
 ---

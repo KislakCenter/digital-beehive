@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha5/alpha_1008/'>Unstableness</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
   [Constancy of mind]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0814/'>constancy</a>"
+index: "<a href='/digital-beehive/index1/index_0813/'>constancy</a>"
 item: "#item-34711b714"
 unparsed: 
 line: 'Entry: Constancy|Topic: Constancy|Xref: Unstableness|Xref: 1112 [Constancy
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,22
 label: Constancy
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '171'
 layout: alpha_item
 collection: alpha1

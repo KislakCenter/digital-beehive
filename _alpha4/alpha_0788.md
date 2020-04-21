@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_266/'>1363 [Pardon and Remission of Sins]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3358/'>remission</a>"
+index: "<a href='/digital-beehive/index4/index_3357/'>remission</a>"
 item: "#item-891f6fb74"
 unparsed: 
 line: 'Entry: Remission of Sins|Topic: Remission of Sins|Xref: 1363 [Pardon and Remission
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/272,56
 label: Remission of Sins
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '141'
 layout: alpha_item
 collection: alpha4

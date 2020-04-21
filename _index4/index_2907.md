@@ -2,9 +2,9 @@
 pid: index_2907
 volume: Volume 3
 image_number: '34'
-head: passion of Xst
-entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/toc/toc2_185/'>998
-  [Passion or Suffering of Xst]</a>"
+head: passions
+entry: "<a href='/digital-beehive/num1/num_0123/'>119 [Passions]</a>|<a href='/digital-beehive/toc/toc2_370/'>2043
+  [Passions]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-8d8b0c045"
+item: "#item-115249413"
 unparsed: 
-line: 'Head: passion of Xst|Entry: a|Entry: 998 [Passion or Suffering of Xst]|#item-8d8b0c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/full/0/default.jpg
+line: 'Head: passions|Entry: 119 [Passions]|Entry: 2043 [Passions]|#item-115249413'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,791,673,237/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495037926
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495066492
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/150,/0/default.jpg
-label: passion of Xst
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,791,673,237/150,/0/default.jpg
+label: passions
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0155'
+order: '0156'
 layout: index_item
 collection: index4
 ---

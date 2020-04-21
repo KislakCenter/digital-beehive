@@ -10,12 +10,12 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_358/'>1944 [Name of God]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1649/'>God's name</a>|<a href='/digital-beehive/index3/index_2635/'>name
-  of God</a>"
+index: "<a href='/digital-beehive/index3/index_2634/'>name of God</a>|<a href='/digital-beehive/index2/index_1648/'>God's
+  name</a>"
 item: "#item-e00d8e332"
 unparsed: 
 line: 'Entry: Name of God|Topic: Name of God|Xref: 1944 [Name of God]|Index: name
-  of God|#item-e00d8e332'
+  of God|Index: God''s name|#item-e00d8e332'
 selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,3061,529/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564778678758
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,13
 label: Name of God
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '183'
 layout: alpha_item
 collection: alpha3

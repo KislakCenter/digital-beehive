@@ -8,7 +8,8 @@ topic: Spiritual
 first_letter: S
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_184/'>989 [Spiritual]</a>"
+xref: "<a href='/digital-beehive/num4/num_1318'>989 [Spiritual Iniquities]</a>|<a
+  href='/digital-beehive/num4/num_1319'>989 [Spiritual Discerning]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3848/'>spiritual</a>"
 item: "#item-2a449c272"
@@ -22,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0522/273,79
 label: Spiritual
 location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '255'
 layout: alpha_item
 collection: alpha4

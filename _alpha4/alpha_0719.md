@@ -10,7 +10,7 @@ page:
 add: 
 xref: Children|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>
 see: 
-index: "<a href='/digital-beehive/index4/index_3088/'>posterity</a>"
+index: "<a href='/digital-beehive/index4/index_3087/'>posterity</a>"
 item: "#item-9c11c8b1f"
 unparsed: 
 line: 'Entry: Posterity|Topic: Posterity|Xref: Children|Xref: Bastard|Index: posterity|#item-9c11c8b1f'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,33
 label: Posterity
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '072'
 layout: alpha_item
 collection: alpha4

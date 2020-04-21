@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha2/alpha_0284/'>enmity</a>|747 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index2/index_1768/'>hatred</a>"
+index: "<a href='/digital-beehive/index2/index_1767/'>hatred</a>"
 item: "#item-703cad630"
 unparsed: 
 line: 'Entry: Hatred|Topic: Hatred|Xref: enmity|Xref: 747 [PAGE_MISSING]|Index: hatred|#item-703cad630'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,13
 label: Hatred
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '132'
 layout: alpha_item
 collection: alpha2

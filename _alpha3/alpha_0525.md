@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0354/'>310 [Leanness]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2236/'>lean[n]ess</a>"
+index: "<a href='/digital-beehive/index3/index_2235/'>lean[n]ess</a>"
 item: "#item-611d33851"
 unparsed: 
 line: 'Entry: Leanness|Topic: Leanness|XRef: 310 [Leanness]|Index: lean[n]ess|#item-611d33851'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/313,18
 label: Leanness
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '081'
 layout: alpha_item
 collection: alpha3

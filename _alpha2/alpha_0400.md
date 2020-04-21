@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0224/'>213 [Hat]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1766/'>hat</a>"
+index: "<a href='/digital-beehive/index2/index_1765/'>hat</a>"
 item: "#item-155fba134"
 unparsed: 
 line: 'Entry: Hat|Topic: Hat|Xref: 213 [Hat]|Index: hat|#item-155fba134'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/357,10
 label: Hat
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '131'
 layout: alpha_item
 collection: alpha2

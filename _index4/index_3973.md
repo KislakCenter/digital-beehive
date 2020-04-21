@@ -3,8 +3,9 @@ pid: index_3973
 volume: Volume 3
 image_number: '45'
 head: sufferings of Qrs
-entry: "<a href='/digital-beehive/toc/toc2_123/'>515 [horrid Cruelties practiced by
-  Papists upon Protestants]</a>|<a href='/digital-beehive/toc/toc2_248/'>1273 [Sufferings
+entry: "<a href='/digital-beehive/num3/num_0647'>515 [horrid Cruelties, practised
+  by Papists upon Protestants]</a>|<a href='/digital-beehive/num3/num_0648'>515 [Cruelty
+  used against Quakers]</a>|<a href='/digital-beehive/toc/toc2_248/'>1273 [Sufferings
   of the Qu]</a>|<a href='/digital-beehive/toc/toc2_397/'>2269 [Suffering of the Qus]</a>"
 topic: 
 first_letter: S
@@ -26,7 +27,7 @@ label: sufferings of Qrs
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1221'
+order: '1222'
 layout: index_item
 collection: index4
 ---

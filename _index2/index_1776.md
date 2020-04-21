@@ -2,28 +2,29 @@
 pid: index_1776
 volume: Volume 3
 image_number: '23'
-head: headdress
-entry: 
+head: health
+entry: "<a href='/digital-beehive/alpha2/alpha_0403/'>a</a>|<a href='/digital-beehive/toc/toc2_295/'>1506
+  [Health]</a>"
 topic: 
 first_letter: H
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4192/'>top knot</a>"
+see: 
 index: 
-item: "#item-2cb894dfd"
+item: "#item-0fd515aa3"
 unparsed: 
-line: 'Head: headdress|See: top knot|#item-2cb894dfd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1554,295,728,137/full/0/default.jpg
+line: 'Head: health|Entry: a|Entry: 1506 [Health]|#item-0fd515aa3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1559,391,467,101/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242167593
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242318979
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1554,295,728,137/150,/0/default.jpg
-label: headdress
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1559,391,467,101/150,/0/default.jpg
+label: health
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '593'
+order: '594'
 layout: index_item
 collection: index2
 ---

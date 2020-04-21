@@ -2,28 +2,28 @@
 pid: index_1692
 volume: Volume 3
 image_number: '22'
-head: grandfather
-entry: "<a href='/digital-beehive/toc/toc2_416/'>2405 [Grandfather]</a>"
+head: grant
+entry: 
 topic: 
 first_letter: G
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index2/index_1615/'>give</a>|<a href='/digital-beehive/index5/index_4648/'>yield</a>"
 index: 
-item: "#item-1eea1fd00"
+item: "#item-21f11dd00"
 unparsed: 
-line: 'Head: grandfather|Entry: 2405 [Grandfather]|#item-1eea1fd00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1871,2395,571,115/full/0/default.jpg
+line: 'Head: grant|See: give|See: yield|#item-21f11dd00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1852,2441,594,191/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053309950
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053339704
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1871,2395,571,115/150,/0/default.jpg
-label: grandfather
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1852,2441,594,191/150,/0/default.jpg
+label: grant
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '509'
+order: '510'
 layout: index_item
 collection: index2
 ---

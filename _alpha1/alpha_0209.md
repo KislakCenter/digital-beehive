@@ -8,9 +8,9 @@ topic: Dearth
 first_letter: D
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_130/'>563 [Dearth]</a>"
+xref: "<a href='/digital-beehive/num3/num_0717'>563 [Dearth]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0965/'>dearth</a>"
+index: "<a href='/digital-beehive/index1/index_0964/'>dearth</a>"
 item: "#item-801e3b1cc"
 unparsed: 
 line: 'Entry: Dearth|Topic: Dearth|Xref: 563 [Dearth]|Index: dearth|#item-801e3b1cc'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/424,41
 label: Dearth
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
 issue: 
-order: '208'
+also_in_entry: 
+order: '207'
 layout: alpha_item
 collection: alpha1
 ---

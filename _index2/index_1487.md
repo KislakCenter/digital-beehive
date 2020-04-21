@@ -2,28 +2,28 @@
 pid: index_1487
 volume: Volume 3
 image_number: '21'
-head: to flow
-entry: "<a href='/digital-beehive/toc/toc2_151/'>678 [To flow]</a>"
+head: flower
+entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>"
 topic: 
 first_letter: F
-page: 
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-1670cd8a2"
+item: "#item-e834c75d4"
 unparsed: 
-line: 'Head: to flow|Entry: 678 [To flow]|#item-1670cd8a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,275,559,102/full/0/default.jpg
+line: 'Head: flower|Page: p.33 [Image 1.93]|Entry: a|#item-e834c75d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,385,511,110/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531232591857
+annotation_uri: http://dev.llgc.org.uk/annotation/1508355173678
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,275,559,102/150,/0/default.jpg
-label: to flow
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/181,385,511,110/150,/0/default.jpg
+label: flower
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '305'
+order: '306'
 layout: index_item
 collection: index2
 ---

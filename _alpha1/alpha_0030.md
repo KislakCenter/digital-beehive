@@ -8,7 +8,7 @@ topic: Anger
 first_letter: A
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1064/'>Wrath</a>|<a href='/digital-beehive/toc/toc2_125/'>529
+xref: "<a href='/digital-beehive/alpha5/alpha_1064/'>Wrath</a>|<a href='/digital-beehive/num3/num_0663'>529
   [Angry]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0143/'>anger</a>"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0432/264,15
 label: Anger
 location: "<a href='/digital-beehive/toc/toc1_423/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '029'
 layout: alpha_item
 collection: alpha1

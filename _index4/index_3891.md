@@ -9,7 +9,7 @@ first_letter: S
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index3/index_2116/'>Iron</a>"
+see: "<a href='/digital-beehive/index3/index_2115/'>Iron</a>"
 index: 
 item: "#item-e7596f93c"
 unparsed: 
@@ -23,7 +23,7 @@ label: steel
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1139'
+order: '1140'
 layout: index_item
 collection: index4
 ---

@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/396,51
 label: Theologia ethnicorum
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '247'
+also_in_entry: 
+order: '246'
 layout: alpha_item
 collection: alpha1
 ---

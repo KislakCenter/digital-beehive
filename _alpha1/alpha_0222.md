@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_272/'>1395 [Deluge]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1004/'>deluge</a>"
+index: "<a href='/digital-beehive/index1/index_1003/'>deluge</a>"
 item: "#item-a503485d3"
 unparsed: 
 line: 'Entry: Deluge|Topic: Deluge|Xref: 1395 [Deluge]|Index: deluge|#item-a503485d3'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/326,19
 label: Deluge
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
 issue: 
-order: '221'
+also_in_entry: 
+order: '220'
 layout: alpha_item
 collection: alpha1
 ---

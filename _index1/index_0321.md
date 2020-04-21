@@ -3,7 +3,7 @@ pid: index_0321
 volume: Volume 3
 image_number: '9'
 head: to beat
-entry: "<a href='/digital-beehive/toc/toc2_157/'>708 [Beating]</a>|<a href='/digital-beehive/toc/toc2_378/'>2122
+entry: "<a href='/digital-beehive/num3/num_1031'>708 [Beating]</a>|<a href='/digital-beehive/toc/toc2_378/'>2122
   [Beating]</a>"
 topic: 
 first_letter: B

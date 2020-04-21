@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_332/'>1690 [Comet]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0732/'>comet</a>"
+index: "<a href='/digital-beehive/index1/index_0731/'>comet</a>"
 item: "#item-dbe0e399d"
 unparsed: 
 line: 'Entry: Comet|Topic: Comet|Xref: 1690 [Comet]|Index: comet|#item-dbe0e399d'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/878,38
 label: Comet
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '153'
 layout: alpha_item
 collection: alpha1

@@ -23,7 +23,7 @@ label: Self righteousness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0876'
+order: '0877'
 layout: index_item
 collection: index4
 ---

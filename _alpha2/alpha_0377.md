@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|<a href='/digital-beehive/toc/toc2_196/'>1014
   [Grace]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1683/'>Grace</a>"
+index: "<a href='/digital-beehive/index2/index_1682/'>Grace</a>"
 item: "#item-d90660193"
 unparsed: 
 line: 'Entry: Grace|Topic: Grace|Xref: Mercy|Xref: 1014 [Grace]|Index: Grace|#item-d90660193'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0482/412,33
 label: Grace
 location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '108'
 layout: alpha_item
 collection: alpha2

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_1115/'>divinity mystica</a>"
+index: "<a href='/digital-beehive/index1/index_1114/'>divinity mystica</a>"
 item: "#item-a42afa50a"
 unparsed: 
 line: 'Entry: Theola Mystica|Topic: Theola Mystica|Index: divinity mystica|#item-a42afa50a'
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/403,93
 label: Theola Mystica
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
 issue: 
-order: '249'
+also_in_entry: 
+order: '248'
 layout: alpha_item
 collection: alpha1
 ---

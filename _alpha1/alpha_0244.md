@@ -8,10 +8,10 @@ topic: Disorder
 first_letter: D
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0665/'>Order</a>|<a href='/digital-beehive/toc/toc2_173/'>929
+xref: "<a href='/digital-beehive/alpha4/alpha_0665/'>Order</a>|<a href='/digital-beehive/num4/num_1237'>929
   [Disorder]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1087/'>disorder</a>"
+index: "<a href='/digital-beehive/index1/index_1086/'>disorder</a>"
 item: "#item-ec88b80d1"
 unparsed: 
 line: 'Entry: Disorder|Topic: Disorder|Xref: Order|Xref: 929 [Disorder]|Index: disorder|#item-ec88b80d1'
@@ -23,7 +23,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/792,35
 label: Disorder
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '243'
+also_in_entry: 
+order: '242'
 layout: alpha_item
 collection: alpha1
 ---

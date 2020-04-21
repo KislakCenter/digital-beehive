@@ -10,7 +10,7 @@ page:
 add: 
 xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
 see: 
-index: "<a href='/digital-beehive/index1/index_0778/'>concupiscence</a>"
+index: "<a href='/digital-beehive/index1/index_0777/'>concupiscence</a>"
 item: "#item-1688d9123"
 unparsed: 
 line: 'Entry: Concupiscence|Topic: Concupiscence|Xref: desire|Xref: Affections|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,32
 label: Concupiscence
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '163'
 layout: alpha_item
 collection: alpha1

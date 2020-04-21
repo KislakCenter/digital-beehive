@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/num1/num_0106/'>103 [Sordidness]</a>|727 [PAGE_MISSING;Miser]|<a
   href='/digital-beehive/num1/num_0198/'>190 [Covetousness]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_0869/'>covetousness</a>"
+index: "<a href='/digital-beehive/index1/index_0868/'>covetousness</a>"
 item: "#item-036e87c27"
 unparsed: 
 line: 'Entry: Covetousness|Topic: Covetousness|Xref: 103 [Sordidness]|Xref: 727 [PAGE_MISSING;Miser]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,12
 label: Covetousness
 location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '179'
 layout: alpha_item
 collection: alpha1

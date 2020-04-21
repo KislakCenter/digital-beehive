@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0132/'>Celibate</a>|<a href='/digital-beehive/num2/num_0321/'>285
   [Marriage]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2432/'>marriage</a>"
+index: "<a href='/digital-beehive/index3/index_2431/'>marriage</a>"
 item: "#item-315abb275"
 unparsed: 
 line: 'Entry: Marriage|Topic: Marriage|Xref: Celibate|Xref: 285 [Marriage]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0498/343,12
 label: Marriage
 location: "<a href='/digital-beehive/toc/toc2_021/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '128'
 layout: alpha_item
 collection: alpha3

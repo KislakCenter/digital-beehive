@@ -3,7 +3,7 @@ pid: index_0215
 volume: Volume 3
 image_number: '8'
 head: articles of faith
-entry: "<a href='/digital-beehive/alpha1/alpha_0046/'>a</a>|<a href='/digital-beehive/toc/toc2_134/'>581
+entry: "<a href='/digital-beehive/alpha1/alpha_0046/'>a</a>|<a href='/digital-beehive/num3/num_0745'>581
   [Articles of faith]</a>|<a href='/digital-beehive/toc/toc2_331/'>1684 [Points of
   Christian Religion]</a>|<a href='/digital-beehive/toc/toc2_411/'>2367 [Articles
   of Faith]</a>"

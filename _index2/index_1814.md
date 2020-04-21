@@ -2,28 +2,28 @@
 pid: index_1814
 volume: Volume 3
 image_number: '24'
-head: heritage
-entry: "<a href='/digital-beehive/alpha2/alpha_0416/'>a</a>"
+head: hermaphrodite
+entry: 731 [PAGE_MISSING]
 topic: 
 first_letter: H
-page: 
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-23791b90d"
+item: "#item-d874b1524"
 unparsed: 
-line: 'Head: heritage|Entry: a|#item-23791b90d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/437,462,432,156/full/0/default.jpg
+line: 'Head: hermaphrodite|Page: p.42 [Image 1.102]|Entry: 731 [PAGE_MISSING]|#item-d874b1524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574425354
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574495996
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/437,462,432,156/150,/0/default.jpg
-label: heritage
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,559,692,153/150,/0/default.jpg
+label: hermaphrodite
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '631'
+order: '632'
 layout: index_item
 collection: index2
 ---

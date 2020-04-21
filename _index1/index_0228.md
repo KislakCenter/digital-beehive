@@ -3,7 +3,7 @@ pid: index_0228
 volume: Volume 3
 image_number: '8'
 head: asthma
-entry: "<a href='/digital-beehive/num2/num_0588/'>475 [Shortness of breath]</a>"
+entry: "<a href='/digital-beehive/num2/num_0593/'>475 [Shortness of breath]</a>"
 topic: 
 first_letter: A
 page: 
@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-12afda803"
 unparsed: 
-line: 'Head: asthma|Entry: 475 [Shortness of Breath]|#item-12afda803'
+line: 'Head: asthma|Entry: 475 [Shortness of breath]|#item-12afda803'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1776,2991,431,111/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1565631964919

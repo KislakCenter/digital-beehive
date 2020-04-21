@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0569/'>Malignity</a>|<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a
   href='/digital-beehive/toc/toc2_280/'>1432 [Naughtiness]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2662/'>naughtiness</a>"
+index: "<a href='/digital-beehive/index3/index_2661/'>naughtiness</a>"
 item: "#item-c20a79fcf"
 unparsed: 
 line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/337,32
 label: Naughtiness
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '188'
 layout: alpha_item
 collection: alpha3

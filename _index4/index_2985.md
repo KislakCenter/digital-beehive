@@ -2,28 +2,28 @@
 pid: index_2985
 volume: Volume 3
 image_number: '35'
-head: philosopher stone
-entry: 
+head: philosophy par[ae]netick
+entry: "<a href='/digital-beehive/toc/toc2_202/'>1041 [Commandments]</a>"
 topic: 
 first_letter: P
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_0089/'>alchymie</a>"
+see: 
 index: 
-item: "#item-4ec30a3ed"
+item: "#item-fa5c9c104"
 unparsed: 
-line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/full/0/default.jpg
+line: 'Head: philosophy par[ae]netick|Entry: 1041 [Commandments]|#item-fa5c9c104'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/841,2637,634,192/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974763441
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/814,2523,760,185/150,/0/default.jpg
-label: philosopher stone
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/841,2637,634,192/150,/0/default.jpg
+label: philosophy par[ae]netick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0233'
+order: '0234'
 layout: index_item
 collection: index4
 ---

@@ -2,8 +2,9 @@
 pid: index_3222
 volume: Volume 3
 image_number: '38'
-head: to pull
-entry: "<a href='/digital-beehive/toc/toc2_169/'>907 [To pull or pluck]</a>"
+head: pulpit
+entry: "<a href='/digital-beehive/num3/num_0644'>512 [Preaching]</a>|<a href='/digital-beehive/toc/toc2_358/'>1942
+  [Pulpit]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-4331bd32c"
+item: "#item-b05ca011e"
 unparsed: 
-line: 'Head: to pull|Entry: 907 [To pull or pluck]|#item-4331bd32c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/428,407,400,127/full/0/default.jpg
+line: 'Head: pulpit|Entry: 512 [Preaching]|Entry: 1942 [Pulpit]|#item-b05ca011e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/435,533,566,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558451922360
+annotation_uri: http://dev.llgc.org.uk/annotation/1558451955474
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/428,407,400,127/150,/0/default.jpg
-label: to pull
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/435,533,566,119/150,/0/default.jpg
+label: pulpit
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0470'
+order: '0471'
 layout: index_item
 collection: index4
 ---

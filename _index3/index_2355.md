@@ -2,8 +2,8 @@
 pid: index_2355
 volume: Volume 3
 image_number: '29'
-head: lowd
-entry: 4578 [PAGE_MISSING]
+head: low
+entry: "<a href='/digital-beehive/num1/num_0248/'>231 [Low]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-948156e7e"
+item: "#item-c9c5f69c0"
 unparsed: 
-line: 'Head: lowd|Entry: 4578 [PAGE_MISSING]|#item-948156e7e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/160,3050,331,118/full/0/default.jpg
+line: 'Head: low|Entry: 231 [Low]|#item-c9c5f69c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/170,3129,274,117/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180352089
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180525356
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/160,3050,331,118/150,/0/default.jpg
-label: lowd
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/170,3129,274,117/150,/0/default.jpg
+label: low
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '436'
+order: '437'
 layout: index_item
 collection: index3
 ---

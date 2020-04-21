@@ -3,7 +3,7 @@ pid: index_3824
 volume: Volume 3
 image_number: '44'
 head: special
-entry: "<a href='/digital-beehive/toc/toc2_166/'>893 [Extraordinary]</a>"
+entry: "<a href='/digital-beehive/num4/num_1155'>893 [Extraordinary]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: special
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1072'
+order: '1073'
 layout: index_item
 collection: index4
 ---

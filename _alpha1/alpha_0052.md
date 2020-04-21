@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0433/840,43
 label: Bacchanals
 location: "<a href='/digital-beehive/toc/toc1_424/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '051'
 layout: alpha_item
 collection: alpha1

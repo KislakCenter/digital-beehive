@@ -2,29 +2,28 @@
 pid: index_1520
 volume: Volume 3
 image_number: '21'
-head: fort
-entry: "<a href='/digital-beehive/alpha2/alpha_0342/'>a</a>|<a href='/digital-beehive/num2/num_0337/'>298
-  [Fortress]</a>"
+head: fortitude
+entry: 
 topic: 
 first_letter: F
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0880/'>Courage</a>"
 index: 
-item: "#item-e56a26260"
+item: "#item-75e552efe"
 unparsed: 
-line: 'Head: fort|Entry: a|Entry: 298 [Fortress]|#item-e56a26260'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/full/0/default.jpg
+line: 'Head: fortitude|See: Courage|#item-75e552efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762744756
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762812530
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/171,3482,468,142/150,/0/default.jpg
-label: fort
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/150,/0/default.jpg
+label: fortitude
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '338'
+order: '339'
 layout: index_item
 collection: index2
 ---

@@ -9,7 +9,7 @@ first_letter: Z
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha4/alpha_0830/'>Satyre</a>|<a href='/digital-beehive/alpha4/alpha_0685/'>Pasquil</a>|<a
-  href='/digital-beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/digital-beehive/toc/toc2_143/'>629
+  href='/digital-beehive/alpha1/alpha_0195/'>Criticism</a>|<a href='/digital-beehive/num3/num_0850'>629
   [Zoilus]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4658/'>Zoilus</a>"
@@ -25,7 +25,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/330,46
 label: Zoilus
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 issue: 
-order: '137'
+also_in_entry: 
+order: '138'
 layout: alpha_item
 collection: alpha5
 ---

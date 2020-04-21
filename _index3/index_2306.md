@@ -2,9 +2,9 @@
 pid: index_2306
 volume: Volume 3
 image_number: '28'
-head: little
-entry: "<a href='/digital-beehive/alpha3/alpha_0542/'>a</a>|767 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_323/'>1641 [Littleness]</a>"
+head: little sufficeth
+entry: "<a href='/digital-beehive/num1/num_0045/'>45 [Little will suffice Nature]</a>|<a
+  href='/digital-beehive/toc/toc2_225/'>1160 [a Little is sufficient]</a>"
 topic: 
 first_letter: L
 page: 
@@ -12,19 +12,20 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f6e27818b"
+item: "#item-2f8372714"
 unparsed: 
-line: 'Head: little|Entry: a|Entry: 767 [PAGE_MISSING]|Entry: 1641 [Littleness]|#item-f6e27818b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1815,1935,596,118/full/0/default.jpg
+line: 'Head: little sufficeth|Entry: 45 [Little will suffice Nature]|Entry: 1160 [a
+  Little is sufficient]|#item-2f8372714'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1845,2039,551,125/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849161596
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849294330
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1815,1935,596,118/150,/0/default.jpg
-label: little
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1845,2039,551,125/150,/0/default.jpg
+label: little sufficeth
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '387'
+order: '388'
 layout: index_item
 collection: index3
 ---

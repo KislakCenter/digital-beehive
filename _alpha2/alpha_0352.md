@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index2/index_1558/'>fruitful</a>"
+index: "<a href='/digital-beehive/index2/index_1557/'>fruitful</a>"
 item: "#item-5135f6a4b"
 unparsed: 
 line: 'Entry: Fruitfulness|Topic: Fruitfulness|Index: fruitful|#item-5135f6a4b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/414,35
 label: Fruitfulness
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '083'
 layout: alpha_item
 collection: alpha2

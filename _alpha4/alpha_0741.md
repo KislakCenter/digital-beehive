@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num1/num_0164/'>158 [Sign]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3181/'>prognostica[ti]ons</a>"
+index: "<a href='/digital-beehive/index4/index_3180/'>prognostica[ti]ons</a>"
 item: "#item-46c12529d"
 unparsed: 
 line: 'Entry: Prognostications|Topic: Prognostications|Xref: 158 [Sign]|Index: prognostica[ti]ons|#item-46c12529d'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/328,25
 label: Prognostications
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '094'
 layout: alpha_item
 collection: alpha4

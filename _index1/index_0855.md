@@ -2,8 +2,8 @@
 pid: index_0855
 volume: Volume 3
 image_number: '14'
-head: corner
-entry: "<a href='/digital-beehive/toc/toc2_166/'>891 [Corner]</a>"
+head: corporations
+entry: "<a href='/digital-beehive/num3/num_0859'>634 [Trade]</a>"
 topic: 
 first_letter: C
 page: 
@@ -11,15 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-15731d85b"
+item: "#item-5d755ad7b"
 unparsed: 
-line: 'Head: corner|Entry: 891 [Corner]|#item-15731d85b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/full/0/default.jpg
+line: 'Head: corporations|Entry: 634 [Trade]|#item-5d755ad7b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1829,3198,485,97/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560198733
+annotation_uri: http://dev.llgc.org.uk/annotation/1537560226695
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1813,3139,377,99/150,/0/default.jpg
-label: corner
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1829,3198,485,97/150,/0/default.jpg
+label: corporations
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
 issue: 
 insertion_xref: 

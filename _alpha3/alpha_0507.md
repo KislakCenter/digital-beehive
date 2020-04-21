@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0567/'>Maimed</a>|<a href='/digital-beehive/toc/toc2_379/'>2140
   [Lame]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2189/'>lame</a>"
+index: "<a href='/digital-beehive/index3/index_2188/'>lame</a>"
 item: "#item-95d8f9b2a"
 unparsed: 
 line: 'Entry: Lame|Topic: Lame|Xref: Maimed|Xref: 2140 [Lame]|Index: lame|#item-95d8f9b2a'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/772,10
 label: Lame
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '063'
 layout: alpha_item
 collection: alpha3

@@ -8,7 +8,7 @@ topic: Bishop
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0613/'>494 [Bishop]</a>"
+xref: "<a href='/digital-beehive/num2/num_0618/'>494 [Bishop]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0378/'>bishop</a>"
 item: "#item-227794847"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0435/807,45
 label: Bishop
 location: "<a href='/digital-beehive/toc/toc1_426/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '081'
 layout: alpha_item
 collection: alpha1

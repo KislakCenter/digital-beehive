@@ -2,8 +2,8 @@
 pid: index_2067
 volume: Volume 3
 image_number: '26'
-head: inspiration
-entry: "<a href='/digital-beehive/toc/toc2_166/'>893 [Inspiration]</a>"
+head: instigation
+entry: "<a href='/digital-beehive/num3/num_0791'>602 [Instigation]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a34a52a4f"
+item: "#item-9d9d393bf"
 unparsed: 
-line: 'Head: inspiration|Entry: 893 [Inspiration]|#item-a34a52a4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1782,521,139/full/0/default.jpg
+line: 'Head: instigation|Entry: 602 [Instigation]|#item-9d9d393bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1166,1893,558,146/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748084693
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748185836
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1154,1782,521,139/150,/0/default.jpg
-label: inspiration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1166,1893,558,146/150,/0/default.jpg
+label: instigation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '148'
+order: '149'
 layout: index_item
 collection: index3
 ---

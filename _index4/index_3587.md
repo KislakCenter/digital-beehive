@@ -3,7 +3,7 @@ pid: index_3587
 volume: Volume 3
 image_number: '41'
 head: sect
-entry: "<a href='/digital-beehive/alpha4/alpha_0841/'>a</a>|<a href='/digital-beehive/toc/toc2_121/'>505
+entry: "<a href='/digital-beehive/alpha4/alpha_0841/'>a</a>|<a href='/digital-beehive/num3/num_0635'>505
   [Sect]</a>|<a href='/digital-beehive/toc/toc2_268/'>1373 [Sects]</a>|<a href='/digital-beehive/toc/toc2_402/'>2291
   [Sect]</a>|4724 [PAGE_MISSING]"
 topic: 
@@ -26,7 +26,7 @@ label: sect
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0835'
+order: '0836'
 layout: index_item
 collection: index4
 ---

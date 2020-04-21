@@ -2,8 +2,8 @@
 pid: index_2986
 volume: Volume 3
 image_number: '35'
-head: philosophy par[ae]netick
-entry: "<a href='/digital-beehive/toc/toc2_202/'>1041 [Commandments]</a>"
+head: phisiognomy
+entry: 831 [PAGE_MISSING]
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fa5c9c104"
+item: "#item-d734d55c3"
 unparsed: 
-line: 'Head: philosophy par[ae]netick|Entry: 1041 [Commandments]|#item-fa5c9c104'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/841,2637,634,192/full/0/default.jpg
+line: 'Head: phisiognomy|Entry: 831 [PAGE_MISSING]|#item-d734d55c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,2790,585,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974763441
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974817007
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/841,2637,634,192/150,/0/default.jpg
-label: philosophy par[ae]netick
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/848,2790,585,156/150,/0/default.jpg
+label: phisiognomy
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0234'
+order: '0235'
 layout: index_item
 collection: index4
 ---

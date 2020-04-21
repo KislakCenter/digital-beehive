@@ -2,10 +2,8 @@
 pid: index_0869
 volume: Volume 3
 image_number: '15'
-head: covetousness
-entry: "<a href='/digital-beehive/alpha1/alpha_0180/'>a</a>|<a href='/digital-beehive/num1/num_0198/'>190
-  [Covetousness]</a>|848 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_237/'>1216
-  [Covetous men]</a>|<a href='/digital-beehive/toc/toc2_349/'>1823 [Covetousness]</a>"
+head: cough
+entry: "<a href='/digital-beehive/num3/num_0771'>594 [Catarrhs, Inveterate Coughs]</a>"
 topic: 
 first_letter: C
 page: 
@@ -13,16 +11,15 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-03c86e879"
+item: "#item-400b9b2a1"
 unparsed: 
-line: 'Head: covetousness|Entry: a|Entry: 190 [Covetousness]|Entry: 848 [PAGE_MISSING]|Entry:
-  1216 [Covetous men]|Entry: 1823 [Covetousness]|#item-03c86e879'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,998,714,149/full/0/default.jpg
+line: 'Head: cough|Entry: 594 [Catarrhs, Inveterate Coughs]|#item-400b9b2a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,1125,411,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974196076
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974297182
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,998,714,149/150,/0/default.jpg
-label: covetousness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/150,1125,411,165/150,/0/default.jpg
+label: cough
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

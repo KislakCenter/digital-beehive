@@ -2,8 +2,8 @@
 pid: index_2365
 volume: Volume 3
 image_number: '29'
-head: Lully
-entry: "<a href='/digital-beehive/toc/toc2_429/'>4796 [Lully's]</a>"
+head: lunaticks
+entry: "<a href='/digital-beehive/toc/toc2_313/'>1591 [Lunaticks]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-50cf47264"
+item: "#item-17655ec7b"
 unparsed: 
-line: 'Head: Lully|Entry: 4796 [Lully''s]|#item-50cf47264'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/889,658,413,118/full/0/default.jpg
+line: 'Head: lunaticks|Entry: 1591 [Lunaticks]|#item-17655ec7b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/870,727,482,121/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185340795
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185401828
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/889,658,413,118/150,/0/default.jpg
-label: Lully
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/870,727,482,121/150,/0/default.jpg
+label: lunaticks
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '446'
+order: '447'
 layout: index_item
 collection: index3
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_318/'>1616 [Eccho]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1204/'>echo</a>"
+index: "<a href='/digital-beehive/index2/index_1203/'>echo</a>"
 item: "#item-9d68ddad8"
 unparsed: 
 line: 'Entry: Eccho|Topic: Eccho|Xref: 1616 [Eccho]|Index: echo|#item-9d68ddad8'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/399,24
 label: Eccho
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '006'
 layout: alpha_item
 collection: alpha2

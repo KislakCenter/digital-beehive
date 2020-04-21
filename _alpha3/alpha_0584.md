@@ -8,10 +8,10 @@ topic: Member
 first_letter: M
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0090/'>body</a>|<a href='/digital-beehive/toc/toc2_182/'>979
+xref: "<a href='/digital-beehive/alpha1/alpha_0090/'>body</a>|<a href='/digital-beehive/num4/num_1307'>979
   [Members]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2479/'>members</a>"
+index: "<a href='/digital-beehive/index3/index_2478/'>members</a>"
 item: "#item-8617f3d8e"
 unparsed: 
 line: 'Entry: Member|Topic: Member|Xref: body|Xref: 979 [Members]|Index: members|#item-8617f3d8e'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0499/757,16
 label: Member
 location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '140'
 layout: alpha_item
 collection: alpha3

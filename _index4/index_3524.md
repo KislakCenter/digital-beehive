@@ -3,7 +3,7 @@ pid: index_3524
 volume: Volume 3
 image_number: '41'
 head: Savin
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Savin]</a>"
+entry: "<a href='/digital-beehive/num3/num_0992'>692 [Savin]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: Savin
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0772'
+order: '0773'
 layout: index_item
 collection: index4
 ---

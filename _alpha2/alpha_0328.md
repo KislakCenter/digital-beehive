@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0277/'>Eel</a>|<a href='/digital-beehive/toc/toc2_324/'>1646
   [Fish]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1464/'>fish</a>"
+index: "<a href='/digital-beehive/index2/index_1463/'>fish</a>"
 item: "#item-499282970"
 unparsed: 
 line: 'Entry: Fish|Topic: Fish|Xref: Eel|Xref: 1646 [Fish]|Index: fish|#item-499282970'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/422,40
 label: Fish
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '059'
 layout: alpha_item
 collection: alpha2

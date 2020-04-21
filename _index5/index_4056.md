@@ -3,7 +3,7 @@ pid: index_4056
 volume: Volume 3
 image_number: '46'
 head: tansie
-entry: "<a href='/digital-beehive/toc/toc2_154/'>692 [Tansie]</a>"
+entry: "<a href='/digital-beehive/num3/num_0991'>692 [Tansie]</a>"
 topic: 
 first_letter: T
 page: 

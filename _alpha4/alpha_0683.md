@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_411/'>2364 [To Com[m]unicate & partake]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2897/'>partakers</a>"
+index: "<a href='/digital-beehive/index4/index_2896/'>partakers</a>"
 item: "#item-e4003314c"
 unparsed: 
 line: 'Entry: Partakers|Topic: Partakers|Xref: 2364 [To Com[m]unicate & partake]|Index:
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/242,30
 label: Partakers
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '036'
 layout: alpha_item
 collection: alpha4

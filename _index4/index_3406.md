@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-857d30b80"
 unparsed: 
-line: 'Head: revenues. ecclesiastical|Entry: 34 [Ecclesiastical (:excessive:) Revenues]|#item-857d30b80'
+line: 'Head: revenues. ecclesiastical|Entry: 34 [Ecclesiastical (: excessive :) Revenues]|#item-857d30b80'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/419,343,635,100/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1559230890122
@@ -24,7 +24,7 @@ label: revenues. ecclesiastical
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0654'
+order: '0655'
 layout: index_item
 collection: index4
 ---

@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-ea21d527b"
 unparsed: 
-line: 'Head: tile|Entry: 362 [Shingle]|#item-ea21d527b'
+line: 'Head: tile|Entry: 362 [a Shingle]|#item-ea21d527b'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,1675,334,104/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1552670440439

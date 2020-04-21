@@ -8,10 +8,11 @@ topic: Purpose
 first_letter: P
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0483/'>Intention</a>|<a href='/digital-beehive/toc/toc2_169/'>907
-  [Purposely, to the end]</a>|<a href='/digital-beehive/toc/toc2_366/'>2001 [Purpose]</a>"
+xref: "<a href='/digital-beehive/alpha3/alpha_0483/'>Intention</a>|<a href='/digital-beehive/num4/num_1183'>907
+  [Purposely]</a>|<a href='/digital-beehive/num4/num_1184'>907 [to the end]</a>|<a
+  href='/digital-beehive/toc/toc2_366/'>2001 [Purpose]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3237/'>purpose</a>"
+index: "<a href='/digital-beehive/index4/index_3236/'>purpose</a>"
 item: "#item-9f91ad58e"
 unparsed: 
 line: 'Entry: Purpose|Topic: Purpose|Xref: Intention|Xref: 907 [Purposely, to the
@@ -24,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/287,89
 label: Purpose
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '115'
 layout: alpha_item
 collection: alpha4

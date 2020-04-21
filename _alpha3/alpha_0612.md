@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha3/alpha_0479/'>Inscription</a>|<a href='/digital-beehive/num1/num_0270/'>250
   [Embleme]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2601/'>motto</a>"
+index: "<a href='/digital-beehive/index3/index_2600/'>motto</a>"
 item: "#item-750c936c3"
 unparsed: 
 line: 'Entry: Motto|Topic: Motto|Xref: Inscription|Xref: 250 [Embleme]|Index: motto|#item-750c936c3'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/755,11
 label: Motto
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '168'
 layout: alpha_item
 collection: alpha3

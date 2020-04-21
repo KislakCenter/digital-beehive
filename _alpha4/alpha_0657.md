@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_333/'>1694 [Often]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2777/'>often</a>"
+index: "<a href='/digital-beehive/index4/index_2776/'>often</a>"
 item: "#item-364e5ef8b"
 unparsed: 
 line: 'Entry: Oftness|Topic: Oftness|Xref: 1694 [Often]|Index: often|#item-364e5ef8b'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/313,23
 label: Oftness
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '010'
 layout: alpha_item
 collection: alpha4

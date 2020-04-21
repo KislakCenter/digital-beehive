@@ -10,7 +10,7 @@ page:
 add: 
 xref: 769 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2275/'>liberty</a>"
+index: "<a href='/digital-beehive/index3/index_2274/'>liberty</a>"
 item: "#item-fd5199659"
 unparsed: 
 line: 'Entry: Liberty|Topic: Liberty|Xref: 769 [PAGE_MISSING]|Index: liberty|#item-fd5199659'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/331,42
 label: Liberty
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '089'
 layout: alpha_item
 collection: alpha3

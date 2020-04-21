@@ -9,10 +9,10 @@ first_letter: D
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0505/'>Labour</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|<a
-  href='/digital-beehive/alpha5/alpha_1024/'>Watchfulness</a>|<a href='/digital-beehive/toc/toc2_172/'>924
+  href='/digital-beehive/alpha5/alpha_1024/'>Watchfulness</a>|<a href='/digital-beehive/num4/num_1225'>924
   [Diligence]</a>"
 see: 
-index: "<a href='/digital-beehive/index1/index_1053/'>diligence</a>"
+index: "<a href='/digital-beehive/index1/index_1052/'>diligence</a>"
 item: "#item-6419df951"
 unparsed: 
 line: 'Entry: Diligence|Topic: Diligence|Xref: Labour|Xref: Laziness|Xref: Watchfulness|Xref:
@@ -25,7 +25,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,22
 label: Diligence
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
 issue: 
-order: '235'
+also_in_entry: 
+order: '234'
 layout: alpha_item
 collection: alpha1
 ---

@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Future]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1571/'>future</a>"
+index: "<a href='/digital-beehive/index2/index_1570/'>future</a>"
 item: "#item-bc91c9cd4"
 unparsed: 
 line: 'Entry: Future|Topic: Future|Xref: 1421 [Future]|Index: future|#item-bc91c9cd4'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,43
 label: Future
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '085'
 layout: alpha_item
 collection: alpha2

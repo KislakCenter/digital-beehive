@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/781,46
 label: Ring
 location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '161'
 layout: alpha_item
 collection: alpha4

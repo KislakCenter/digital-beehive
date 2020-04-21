@@ -2,8 +2,8 @@
 pid: index_1395
 volume: Volume 3
 image_number: '20'
-head: familiarity
-entry: "<a href='/digital-beehive/num1/num_0001/'>1 [Familiarity]</a>|4712 [PAGE_MISSING]"
+head: familiar spirits
+entry: "<a href='/digital-beehive/toc/toc2_256/'>1311 [Familiar Spirits]</a>"
 topic: 
 first_letter: F
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a00efa3af"
+item: "#item-7ef024536"
 unparsed: 
-line: 'Head: familiarity|Entry: 1 [Familiarity]|Entry: 4712 [PAGE_MISSING]|#item-a00efa3af'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/376,2169,744,157/full/0/default.jpg
+line: 'Head: familiar spirits| Entry: 1311 [Familiar Spirits]|#item-7ef024536'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2270,519,141/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656046381
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657538498
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/376,2169,744,157/150,/0/default.jpg
-label: familiarity
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,2270,519,141/150,/0/default.jpg
+label: familiar spirits
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '213'
+order: '214'
 layout: index_item
 collection: index2
 ---

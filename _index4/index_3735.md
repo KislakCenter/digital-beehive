@@ -3,7 +3,7 @@ pid: index_3735
 volume: Volume 3
 image_number: '43'
 head: sive
-entry: "<a href='/digital-beehive/toc/toc2_155/'>698 [Sive]</a>"
+entry: "<a href='/digital-beehive/num3/num_1004'>698 [Sive]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sive
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0983'
+order: '0984'
 layout: index_item
 collection: index4
 ---

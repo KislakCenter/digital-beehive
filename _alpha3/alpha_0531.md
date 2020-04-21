@@ -8,10 +8,10 @@ topic: Letters
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_126/'>532 [WORD_MISSING]</a>|<a href='/digital-beehive/toc/toc2_236/'>1214
+xref: "<a href='/digital-beehive/num3/num_0667'>532 [letter]</a>|<a href='/digital-beehive/toc/toc2_236/'>1214
   [Letters]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2265/'>letters</a>"
+index: "<a href='/digital-beehive/index3/index_2264/'>letters</a>"
 item: "#item-96d8869ae"
 unparsed: 
 line: 'Entry: Letters|Topic: Letters|Xref: 532 [WORD_MISSING]|Xref: 1214 [Letters]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/341,33
 label: Letters
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '087'
 layout: alpha_item
 collection: alpha3

@@ -2,8 +2,8 @@
 pid: index_2967
 volume: Volume 3
 image_number: '35'
-head: perseverance
-entry: "<a href='/digital-beehive/toc/toc2_121/'>503 [Perseverance]</a>"
+head: Persians
+entry: "<a href='/digital-beehive/toc/toc2_257/'>1318 [Persians]</a>"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-490c1fddb"
+item: "#item-ff252dfa2"
 unparsed: 
-line: 'Head: perseverance|Entry: 503 [Perseverance]|#item-490c1fddb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/818,387,666,186/full/0/default.jpg
+line: 'Head: Persians|Entry: 1318 [Persians]|#item-ff252dfa2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/806,531,589,153/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973997530
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974019591
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/818,387,666,186/150,/0/default.jpg
-label: perseverance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/806,531,589,153/150,/0/default.jpg
+label: Persians
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0215'
+order: '0216'
 layout: index_item
 collection: index4
 ---

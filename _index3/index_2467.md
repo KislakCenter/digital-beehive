@@ -2,28 +2,29 @@
 pid: index_2467
 volume: Volume 3
 image_number: '30'
-head: medicine books
-entry: 
+head: mediocrity
+entry: "<a href='/digital-beehive/alpha3/alpha_0581/'>a</a>|<a href='/digital-beehive/toc/toc2_214/'>1103
+  [Mediocrity]</a>"
 topic: 
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-72064cf15"
+item: "#item-b1e3af3b9"
 unparsed: 
-line: 'Head: medicine books|Page: p.379 [Image 2.201]|#item-72064cf15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/full/0/default.jpg
+line: 'Head: mediocrity|Entry: a|Entry: 1103 [Mediocrity]|#item-b1e3af3b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267248226
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267656083
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1118,286,457,109/150,/0/default.jpg
-label: medicine books
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1069,381,693,151/150,/0/default.jpg
+label: mediocrity
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '548'
+order: '549'
 layout: index_item
 collection: index3
 ---

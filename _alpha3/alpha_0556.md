@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0103/'>Brother</a>|<a href='/digital-beehive/toc/toc2_255/'>1309
   [Love to God & the Brethren]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2342/'>love of ye brethren</a>"
+index: "<a href='/digital-beehive/index3/index_2341/'>love of ye brethren</a>"
 item: "#item-7b1286b19"
 unparsed: 
 line: 'Entry: Love of the brethren|Topic: Love of the brethren|Xref: Brother|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/320,43
 label: Love of the brethren
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '112'
 layout: alpha_item
 collection: alpha3

@@ -10,7 +10,7 @@ page:
 add: 
 xref: 757 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index2/index_1370/'>eye</a>"
+index: "<a href='/digital-beehive/index2/index_1369/'>eye</a>"
 item: "#item-a6db77dc0"
 unparsed: 
 line: 'Entry: Eye|Topic: Eye|XRef: 757 [PAGE_MISSING]|Index: eye|#item-a6db77dc0'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/399,32
 label: Eye
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '035'
 layout: alpha_item
 collection: alpha2

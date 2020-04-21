@@ -8,7 +8,7 @@ topic: Tobacco
 first_letter: T
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_174/'>935 [Tobacco]</a>"
+xref: "<a href='/digital-beehive/num4/num_1248'>935 [Tobacco]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4165/'>tobacco</a>"
 item: "#item-708941700"
@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/316,11
 label: Tobacco
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 issue: 
-order: '025'
+also_in_entry: 
+order: '026'
 layout: alpha_item
 collection: alpha5
 ---

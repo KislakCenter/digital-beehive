@@ -3,7 +3,7 @@ pid: index_3654
 volume: Volume 3
 image_number: '42'
 head: sexton
-entry: "<a href='/digital-beehive/toc/toc2_129/'>556 [Sexton]</a>"
+entry: "<a href='/digital-beehive/num3/num_0707'>556 [Sexton]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: sexton
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0902'
+order: '0903'
 layout: index_item
 collection: index4
 ---

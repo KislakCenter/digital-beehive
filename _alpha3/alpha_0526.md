@@ -10,7 +10,7 @@ page:
 add: 
 xref: 4639 [PAGE_MISSING]
 see: 
-index: "<a href='/digital-beehive/index3/index_2241/'>leasure</a>"
+index: "<a href='/digital-beehive/index3/index_2240/'>leasure</a>"
 item: "#item-6797039d9"
 unparsed: 
 line: 'Entry: Leasure|Topic: Leasure|Xref: 4639 [PAGE_MISSING]|Index: leasure|#item-6797039d9'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,19
 label: Leasure
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '082'
 layout: alpha_item
 collection: alpha3

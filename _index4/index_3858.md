@@ -3,7 +3,7 @@ pid: index_3858
 volume: Volume 3
 image_number: '44'
 head: spoiled
-entry: "<a href='/digital-beehive/toc/toc2_135/'>587 [mouldy]</a>"
+entry: "<a href='/digital-beehive/num3/num_0760'>587 [mouldy]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: spoiled
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '1106'
+order: '1107'
 layout: index_item
 collection: index4
 ---

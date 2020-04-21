@@ -3,7 +3,7 @@ pid: index_0465
 volume: Volume 3
 image_number: '11'
 head: broth
-entry: "<a href='/digital-beehive/toc/toc2_127/'>540 [Pottages]</a>"
+entry: "<a href='/digital-beehive/num3/num_0680'>540 [Pottages]</a>"
 topic: 
 first_letter: B
 page: 

@@ -1,29 +1,30 @@
 ---
 pid: index_2020
 volume: Volume 3
-image_number: '25'
-head: indictment
-entry: "<a href='/digital-beehive/toc/toc2_226/'>1163 [Indictment]</a>"
+image_number: '26'
+head: indifferency
+entry: "<a href='/digital-beehive/num1/num_0183/'>176 [Indifferency]</a>|1850 [PAGE_MISSING]"
 topic: 
 first_letter: I/J
 page: 
-add: 
+add: "<a href='/digital-beehive/index1/index_0042/'>adiaph</a>"
 xref: 
 see: 
 index: 
-item: "#item-26282b5bb"
+item: "#item-b6ea78923"
 unparsed: 
-line: 'Head: indictment|Entry: 1163 [Indictment]|#item-26282b5bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1543,3550,577,87/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673132872
+line: 'Head: indifferency|Entry: 176 [Indifferency]|Entry: 1850 [PAGE_MISSING]|Add:
+  adiaph|#item-b6ea78923'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674225380
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1543,3550,577,87/150,/0/default.jpg
-label: indictment
-location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/439,229,825,179/150,/0/default.jpg
+label: indifferency
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '101'
+order: '102'
 layout: index_item
 collection: index3
 ---

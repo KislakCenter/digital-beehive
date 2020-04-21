@@ -13,7 +13,7 @@ see:
 index: 
 item: "#item-2cf64048a"
 unparsed: Type Index|Insertion [:3.]
-line: 'Type: Index|Insertion: [:3]|Head: mam[m]on|Entry: 1829 [Mammon]|#item-2cf64048a'
+line: 'Type: Index|Insertion: [:3.]|Head: mam[m]on|Entry: 1829 [Mammon]|#item-2cf64048a'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560867474056

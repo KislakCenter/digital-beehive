@@ -2,9 +2,8 @@
 pid: index_1514
 volume: Volume 3
 image_number: '21'
-head: formality
-entry: "<a href='/digital-beehive/num1/num_0243/'>229 [Formality]</a>|<a href='/digital-beehive/toc/toc2_287/'>1470
-  [Form without power]</a>"
+head: formerly
+entry: "<a href='/digital-beehive/toc/toc2_242/'>1245 [Formerly]</a>"
 topic: 
 first_letter: F
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-026640b39"
+item: "#item-edc2303bc"
 unparsed: 
-line: 'Head: formality|Entry: 229 [Formality]|Entry: 1470 [Form without power]|#item-026640b39'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,3025,687,135/full/0/default.jpg
+line: 'Head: formerly|Entry: 1245 [Formerly]|#item-edc2303bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/147,3136,554,172/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762378339
+annotation_uri: http://dev.llgc.org.uk/annotation/1560782450478
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/174,3025,687,135/150,/0/default.jpg
-label: formality
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/147,3136,554,172/150,/0/default.jpg
+label: formerly
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '332'
+order: '333'
 layout: index_item
 collection: index2
 ---

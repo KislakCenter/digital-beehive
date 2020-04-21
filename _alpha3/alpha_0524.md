@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0118/'>Captain</a>|Inspiration|<a href='/digital-beehive/toc/toc2_249/'>1280
   [Leader]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2232/'>leader</a>"
+index: "<a href='/digital-beehive/index3/index_2231/'>leader</a>"
 item: "#item-e94eb3b2e"
 unparsed: 
 line: 'Entry: Leader|Topic: Leader|Xref: Captain|Xref: Inspiration|Xref: 1280 [Leader]|Index:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/332,13
 label: Leader
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
 issue: The point of reference for "Inspiration" is unclear.
+also_in_entry: 
 order: '080'
 layout: alpha_item
 collection: alpha3

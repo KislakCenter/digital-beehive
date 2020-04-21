@@ -12,7 +12,7 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0698/'>Perfection, continued</a>|<
   href='/digital-beehive/alpha3/alpha_0463/'>Imperfect</a>|<a href='/digital-beehive/num1/num_0061/'>60
   [Perfection]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_2954/'>perfection</a>"
+index: "<a href='/digital-beehive/index4/index_2953/'>perfection</a>"
 item: "#item-d2dd2128e"
 unparsed: 
 line: 'Entry: Perfection|Topic: Perfection|Xref: Perfection, continued|Xref: Imperfect|Xref:
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/331,45
 label: Perfection
 location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
 issue: The entry continues onto the next page.
+also_in_entry: 
 order: '050'
 layout: alpha_item
 collection: alpha4

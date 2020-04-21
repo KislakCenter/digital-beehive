@@ -3,7 +3,7 @@ pid: index_3635
 volume: Volume 3
 image_number: '42'
 head: sense
-entry: "<a href='/digital-beehive/alpha4/alpha_0856/'>a</a>|<a href='/digital-beehive/toc/toc2_181/'>971
+entry: "<a href='/digital-beehive/alpha4/alpha_0856/'>a</a>|<a href='/digital-beehive/num4/num_1293'>971
   [Senses]</a>|<a href='/digital-beehive/toc/toc2_371/'>2057 [Senses]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: sense
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0883'
+order: '0884'
 layout: index_item
 collection: index4
 ---

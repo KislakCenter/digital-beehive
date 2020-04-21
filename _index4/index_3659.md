@@ -3,7 +3,7 @@ pid: index_3659
 volume: Volume 3
 image_number: '42'
 head: shame
-entry: "<a href='/digital-beehive/alpha4/alpha_0862/'>a</a>|<a href='/digital-beehive/num2/num_0592/'>478
+entry: "<a href='/digital-beehive/alpha4/alpha_0862/'>a</a>|<a href='/digital-beehive/num2/num_0597/'>478
   [Shame]</a>|<a href='/digital-beehive/toc/toc2_443/'>4885 [Shames]</a>"
 topic: 
 first_letter: S
@@ -24,7 +24,7 @@ label: shame
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0907'
+order: '0908'
 layout: index_item
 collection: index4
 ---

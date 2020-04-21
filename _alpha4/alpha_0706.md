@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2999/'>pie</a>"
+index: "<a href='/digital-beehive/index4/index_2998/'>pie</a>"
 item: "#item-ff2055b13"
 unparsed: 
 line: 'Entry: Pie|Topic: Pie|Index: pie|#item-ff2055b13'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/830,33
 label: Pie
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '059'
 layout: alpha_item
 collection: alpha4

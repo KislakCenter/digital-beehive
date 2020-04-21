@@ -8,10 +8,10 @@ topic: Quick
 first_letter: Q
 page: 
 add: 
-xref: "<a href='/digital-beehive/num2/num_0328/'>292 [Drowsiness]</a>|<a href='/digital-beehive/toc/toc2_127/'>541
+xref: "<a href='/digital-beehive/num2/num_0328/'>292 [Drowsiness]</a>|<a href='/digital-beehive/num3/num_0681'>541
   [Alacrity]</a>|1872 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index4/index_3259/'>quick</a>"
+index: "<a href='/digital-beehive/index4/index_3258/'>quick</a>"
 item: "#item-b20118d32"
 unparsed: 
 line: 'Entry: Quick|Topic: Quick|Xref: 292 [Drowsiness]|Xref: 541 [Alacrity]|Xref:
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/367,23
 label: Quick
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '120'
 layout: alpha_item
 collection: alpha4

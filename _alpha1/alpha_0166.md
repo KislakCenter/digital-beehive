@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index1/index_0782/'>condition</a>"
+index: "<a href='/digital-beehive/index1/index_0781/'>condition</a>"
 item: "#item-55a589dec"
 unparsed: 
 line: 'Entry: Condition|Topic: Condition|Topic: Conditionally|Index: condition|#item-55a589dec'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/309,39
 label: Condition
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '165'
 layout: alpha_item
 collection: alpha1

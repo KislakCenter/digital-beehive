@@ -2,28 +2,28 @@
 pid: index_2394
 volume: Volume 3
 image_number: '29'
-head: makebate
-entry: 
+head: malabaria
+entry: "<a href='/digital-beehive/toc/toc2_286/'>1465 [Malabrians]</a>"
 topic: 
 first_letter: M
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index4/index_3941/'>strife</a>"
+see: 
 index: 
-item: "#item-05af7b703"
+item: "#item-b95e73c64"
 unparsed: 
-line: 'Head: makebate|See: strife|#item-05af7b703'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,578,596,159/full/0/default.jpg
+line: 'Head: malabaria|Entry: 1465 [Malabrians]|#item-b95e73c64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560193974714
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194050155
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,578,596,159/150,/0/default.jpg
-label: makebate
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/150,/0/default.jpg
+label: malabaria
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '475'
+order: '476'
 layout: index_item
 collection: index3
 ---

@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0204/'>dam[m]age</a>|<a href='/digital-beehive/toc/toc2_224/'>1151
   [Loss]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2335/'>loss</a>"
+index: "<a href='/digital-beehive/index3/index_2334/'>loss</a>"
 item: "#item-87e1e9d3e"
 unparsed: 
 line: 'Entry: Losse|Topic: Losse|Xref: dam[m]age|Xref: 1151 [Loss]|Index: loss|#item-87e1e9d3e'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/336,15
 label: Losse
 location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '107'
 layout: alpha_item
 collection: alpha3

@@ -3,7 +3,7 @@ pid: index_4385
 volume: Volume 3
 image_number: '50'
 head: Uniformity
-entry: "<a href='/digital-beehive/num2/num_0611/'>492 [Dissenters]</a>|<a href='/digital-beehive/toc/toc2_417/'>2413
+entry: "<a href='/digital-beehive/num2/num_0616/'>492 [Dissenters]</a>|<a href='/digital-beehive/toc/toc2_417/'>2413
   [forced Uniformity]</a>"
 topic: 
 first_letter: U/V
@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-f6430c683"
 unparsed: 
-line: 'Head: Uniformity|Entry: 492 [forced Uniformity]|Entry: 2413 [forced Uniformity]|#item-f6430c683'
+line: 'Head: Uniformity|Entry: 492 [Dissenters]|Entry: 2413 [forced Uniformity]|#item-f6430c683'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1135,911,689,138/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560878643251

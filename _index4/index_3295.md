@@ -2,28 +2,28 @@
 pid: index_3295
 volume: Volume 3
 image_number: '38'
-head: rashness
+head: "[:44.]"
 entry: 
 topic: 
 first_letter: R
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index5/index_4176/'>too hasty</a>"
+see: 
 index: 
-item: "#item-f500e35bd"
-unparsed: 
-line: 'Head: rashness|See: too hasty|#item-f500e35bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1860,984,700,123/full/0/default.jpg
+item: "#item-3c3fc3cf8"
+unparsed: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
+line: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1040,255,148/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460762153
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462787077
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1860,984,700,123/150,/0/default.jpg
-label: rashness
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1040,255,148/150,/0/default.jpg
+label: "[:44.]"
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
 issue: 
-insertion_xref: 
-order: '0543'
+insertion_xref: "<a href='/digital-beehive/index5/index_4712/'><</a>"
+order: '0544'
 layout: index_item
 collection: index4
 ---

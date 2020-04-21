@@ -8,7 +8,7 @@ topic: Body
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0584/'>Member</a>|<a href='/digital-beehive/toc/toc2_134/'>583
+xref: "<a href='/digital-beehive/alpha3/alpha_0584/'>Member</a>|<a href='/digital-beehive/num3/num_0750'>583
   [Body]</a>"
 see: 
 index: "<a href='/digital-beehive/index1/index_0401/'>body</a>"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/360,29
 label: Body
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '089'
 layout: alpha_item
 collection: alpha1

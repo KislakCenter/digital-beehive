@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0362/'>glory</a>|<a href='/digital-beehive/alpha2/alpha_0381/'>grandeur</a>|<a
   href='/digital-beehive/alpha4/alpha_0789/'>Renown</a>|778 [PAGE_MISSING]"
 see: 
-index: "<a href='/digital-beehive/index2/index_1867/'>honour</a>"
+index: "<a href='/digital-beehive/index2/index_1866/'>honour</a>"
 item: "#item-d7d435bf3"
 unparsed: 
 line: 'Entry: Honour|Topic: Honour|Xref: glory|Xref: grandeur|Xref: Renown|Xref: 778
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/270,18
 label: Honour
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '159'
 layout: alpha_item
 collection: alpha2

@@ -14,7 +14,7 @@ see:
 index: 
 item: "#item-376f4b490"
 unparsed: 
-line: 'Head: tribulation|Entry: 316 [Affliction and adversity]|Entry: 1367 [Afflictions]|Entry:
+line: 'Head: tribulation|Entry: 316 [Affliction]|Entry: 1367 [Afflictions]|Entry:
   1349 [Affliction]|#item-376f4b490'
 selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg

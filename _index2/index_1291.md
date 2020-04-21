@@ -2,9 +2,8 @@
 pid: index_1291
 volume: Volume 3
 image_number: '19'
-head: equivocation
-entry: "<a href='/digital-beehive/alpha2/alpha_0291/'>a</a>|<a href='/digital-beehive/toc/toc2_385/'>2198
-  [Equivocation]</a>"
+head: to eradicate
+entry: 777 [PAGE_MISSING]
 topic: 
 first_letter: E
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-12fd95220"
+item: "#item-9750fc0c9"
 unparsed: 
-line: 'Head: equivocation|Entry: a|Entry: 2198 [Equivocation]|#item-12fd95220'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/full/0/default.jpg
+line: 'Head: to eradicate|Entry: 777 [PAGE_MISSING]|#item-9750fc0c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/138,1785,552,133/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846073557
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846904215
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/130,1674,735,143/150,/0/default.jpg
-label: equivocation
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/138,1785,552,133/150,/0/default.jpg
+label: to eradicate
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '109'
+order: '110'
 layout: index_item
 collection: index2
 ---

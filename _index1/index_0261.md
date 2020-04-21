@@ -3,7 +3,7 @@ pid: index_0261
 volume: Volume 3
 image_number: '9'
 head: babylon
-entry: "<a href='/digital-beehive/alpha1/alpha_0051/'>a</a>|<a href='/digital-beehive/toc/toc2_177/'>952
+entry: "<a href='/digital-beehive/alpha1/alpha_0051/'>a</a>|<a href='/digital-beehive/num4/num_1270'>952
   [Babel]</a>"
 topic: 
 first_letter: B

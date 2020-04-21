@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0175/'>Continency</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2005/'>incontinence</a>"
+index: "<a href='/digital-beehive/index3/index_2004/'>incontinence</a>"
 item: "#item-b52b4d5e1"
 unparsed: 
 line: 'Entry: Incontinence|Topic: Incontinence|Xref: Continency|Index: incontinence|#item-b52b4d5e1'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,45
 label: Incontinence
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '024'
 layout: alpha_item
 collection: alpha3

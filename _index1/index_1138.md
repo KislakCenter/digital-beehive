@@ -2,24 +2,24 @@
 pid: index_1138
 volume: Volume 3
 image_number: '17'
-head: dowry
-entry: "<a href='/digital-beehive/toc/toc2_127/'>544 [WORD_ILLEGIBLE]</a>"
+head: dragon
+entry: "<a href='/digital-beehive/toc/toc2_317/'>1613 [Dragons]</a>"
 topic: 
 first_letter: D
-page: 
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
 add: 
 xref: 
 see: 
 index: 
-item: "#item-6cd7e1ea9"
+item: "#item-860264de9"
 unparsed: 
-line: 'Head: dowry|Entry: 544 [WORD_ILLEGIBLE]|#item-6cd7e1ea9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1435,986,504,134/full/0/default.jpg
+line: 'Head: dragon|Page: p.37 [Image 1.97]|Entry: 1613 [Dragons]|#item-860264de9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1447,1127,660,176/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367910631
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451358813
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1435,986,504,134/150,/0/default.jpg
-label: dowry
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1447,1127,660,176/150,/0/default.jpg
+label: dragon
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

@@ -1,29 +1,30 @@
 ---
 pid: index_1374
 volume: Volume 3
-image_number: '19'
-head: Ezekiel
-entry: "<a href='/digital-beehive/toc/toc2_382/'>2164 [Ezekiel]</a>"
+image_number: '20'
+head: Fables
+entry: "<a href='/digital-beehive/alpha2/alpha_0306/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1405
+  [Fable]</a>"
 topic: 
-first_letter: E
+first_letter: F
 page: 
 add: 
 xref: 
 see: 
 index: 
-item: "#item-f8278db89"
+item: "#item-691c5d7fd"
 unparsed: 
-line: 'Head: Ezekiel|Entry: 2164 [Ezekiel]|#item-f8278db89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1512,3591,537,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398317016
+line: 'Head: Fables|Entry: a|Entry: 1405 [Fable]|#item-691c5d7fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/355,290,516,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561398784733
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1512,3591,537,135/150,/0/default.jpg
-label: Ezekiel
-location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/355,290,516,141/150,/0/default.jpg
+label: Fables
+location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '192'
+order: '193'
 layout: index_item
 collection: index2
 ---

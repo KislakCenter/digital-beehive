@@ -8,7 +8,7 @@ topic: Blood
 first_letter: B
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_178/'>956 [Blood]</a>|834 [PAGE_MISSING]"
+xref: "<a href='/digital-beehive/num4/num_1274'>956 [Blood]</a>|834 [PAGE_MISSING]"
 see: 
 index: "<a href='/digital-beehive/index1/index_0393/'>blood</a>"
 item: "#item-f9f42e163"
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/325,18
 label: Blood
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
 issue: It is unclear whether "blood of Xst" should be considered a separate entry.
+also_in_entry: 
 order: '086'
 layout: alpha_item
 collection: alpha1

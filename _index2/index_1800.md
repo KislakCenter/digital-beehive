@@ -2,8 +2,8 @@
 pid: index_1800
 volume: Volume 3
 image_number: '23'
-head: hemlock
-entry: "<a href='/digital-beehive/num2/num_0440/'>368 [Hemlock]</a>"
+head: hemp
+entry: "<a href='/digital-beehive/num3/num_0951'>679 [Hemp]</a>"
 topic: 
 first_letter: H
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-62e86c403"
+item: "#item-196a585ac"
 unparsed: 
-line: 'Head: hemlock|Entry: 368 [Hemlock]|#item-62e86c403'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1853,2513,393,127/full/0/default.jpg
+line: 'Head: hemp|Entry: 679 [Hemp]|#item-196a585ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2615,293,129/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571582227
+annotation_uri: http://dev.llgc.org.uk/annotation/1559571683729
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1853,2513,393,127/150,/0/default.jpg
-label: hemlock
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1519,2615,293,129/150,/0/default.jpg
+label: hemp
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '617'
+order: '618'
 layout: index_item
 collection: index2
 ---

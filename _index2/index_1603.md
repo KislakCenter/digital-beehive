@@ -2,9 +2,8 @@
 pid: index_1603
 volume: Volume 3
 image_number: '22'
-head: by gess
-entry: "<a href='/digital-beehive/num1/num_0130/'>125 [Conjectures]</a>|<a href='/digital-beehive/toc/toc2_174/'>932
-  [Conjecture]</a>"
+head: gestures
+entry: "<a href='/digital-beehive/num3/num_0783'>599 [Gestures]</a>"
 topic: 
 first_letter: G
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-b0be343ef"
+item: "#item-5713dd8d9"
 unparsed: 
-line: 'Head: by gess|Entry: 125 [Conjectures]|Entry: 932 [Conjecture]|#item-b0be343ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/427,1155,525,127/full/0/default.jpg
+line: 'Head: gestures|Entry: 599 [Gestures]|#item-5713dd8d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/420,1280,445,144/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042834323
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042887533
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/427,1155,525,127/150,/0/default.jpg
-label: by gess
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/420,1280,445,144/150,/0/default.jpg
+label: gestures
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '421'
+order: '422'
 layout: index_item
 collection: index2
 ---

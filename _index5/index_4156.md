@@ -3,7 +3,7 @@ pid: index_4156
 volume: Volume 3
 image_number: '47'
 head: timely
-entry: "<a href='/digital-beehive/toc/toc2_133/'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
+entry: "<a href='/digital-beehive/num3/num_0737'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
   [Seasonable Opportunity]</a>"
 topic: 
 first_letter: T

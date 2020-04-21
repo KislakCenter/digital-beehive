@@ -2,24 +2,24 @@
 pid: index_1089
 volume: Volume 3
 image_number: '17'
-head: disown
-entry: 
+head: dispatch
+entry: "<a href='/digital-beehive/num1/num_0182/'>175 [Dispatch]</a>"
 topic: 
 first_letter: D
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index1/index_1010/'>denial</a>|<a href='/digital-beehive/index2/index_1337/'>excom[m]unication</a>"
+see: 
 index: 
-item: "#item-14dfbaf46"
+item: "#item-8082059de"
 unparsed: 
-line: 'Head: disown|See: denial|See: excom[m]unication|#item-14dfbaf46'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,2171,623,169/full/0/default.jpg
+line: 'Head: dispatch|Entry: 175 [Dispatch]|#item-8082059de'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,2324,475,156/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804305331
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804372967
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/145,2171,623,169/150,/0/default.jpg
-label: disown
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/147,2324,475,156/150,/0/default.jpg
+label: dispatch
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
 issue: 
 insertion_xref: 

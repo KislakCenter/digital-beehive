@@ -26,6 +26,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/750,40
 label: Speech
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '252'
 layout: alpha_item
 collection: alpha4

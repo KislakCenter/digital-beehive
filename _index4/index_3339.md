@@ -2,10 +2,8 @@
 pid: index_3339
 volume: Volume 3
 image_number: '39'
-head: regeneration
-entry: "<a href='/digital-beehive/alpha4/alpha_0785/'>a</a>|<a href='/digital-beehive/toc/toc2_199/'>1026
-  [Regeneration]</a>|<a href='/digital-beehive/toc/toc2_367/'>2013 [Regeneration]</a>|<a
-  href='/digital-beehive/toc/toc2_402/'>2293 [Regeneration. New birth]</a>"
+head: to regulate
+entry: 
 topic: 
 first_letter: R
 page: 
@@ -13,20 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-fae25f546"
+item: "#item-acc33cc9f"
 unparsed: 
-line: 'Head: regeneration|Entry: a|Entry: 1026 [Regeneration]|Entry: 2013 [Regeneration]|Entry:
-  2293 [Regeneration. New birth]|#item-fae25f546'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/102,2249,725,169/full/0/default.jpg
+line: 'Head: to regulate|#item-acc33cc9f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/112,2383,454,154/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464911242
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464928410
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/102,2249,725,169/150,/0/default.jpg
-label: regeneration
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/112,2383,454,154/150,/0/default.jpg
+label: to regulate
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0587'
+order: '0588'
 layout: index_item
 collection: index4
 ---

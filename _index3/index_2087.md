@@ -2,8 +2,9 @@
 pid: index_2087
 volume: Volume 3
 image_number: '26'
-head: to intrude
-entry: 858 [PAGE_MISSING]
+head: in vain
+entry: "<a href='/digital-beehive/num3/num_0923'>666 [In vain]</a>|<a href='/digital-beehive/toc/toc2_305/'>1553
+  [In vain]</a>"
 topic: 
 first_letter: I/J
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-f9ec91c2a"
+item: "#item-abc8a6b6b"
 unparsed: 
-line: 'Head: to intrude|Entry: 858 [PAGE_MISSING]|#item-f9ec91c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1823,692,539,84/full/0/default.jpg
+line: 'Head: in vain|Entry: 666 [In vain]|Entry: 1553 [In vain]|#item-abc8a6b6b|'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1858,766,556,113/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750904011
+annotation_uri: http://dev.llgc.org.uk/annotation/1559750990240
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1823,692,539,84/150,/0/default.jpg
-label: to intrude
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1858,766,556,113/150,/0/default.jpg
+label: in vain
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '168'
+order: '169'
 layout: index_item
 collection: index3
 ---

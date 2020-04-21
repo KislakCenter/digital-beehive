@@ -2,28 +2,28 @@
 pid: index_2836
 volume: Volume 3
 image_number: '34'
-head: oven
-entry: "<a href='/digital-beehive/toc/toc2_161/'>869 [Oven]</a>"
+head: to overcome
+entry: 
 topic: 
 first_letter: O
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
 index: 
-item: "#item-02444b30e"
+item: "#item-b731aac05"
 unparsed: 
-line: 'Head: oven|Entry: 869 [Oven]|#item-02444b30e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/461,646,474,124/full/0/default.jpg
+line: 'Head: to overcome|See: victory|#item-b731aac05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/439,727,819,197/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425043679
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425071468
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/461,646,474,124/150,/0/default.jpg
-label: oven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/439,727,819,197/150,/0/default.jpg
+label: to overcome
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0084'
+order: '0085'
 layout: index_item
 collection: index4
 ---

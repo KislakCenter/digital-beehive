@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/alpha1/alpha_0092/'>Book</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2277/'>library</a>"
+index: "<a href='/digital-beehive/index3/index_2276/'>library</a>"
 item: "#item-ae386080e"
 unparsed: 
 line: 'Entry: Library|Topic: Library|Xref: Book|Index: library|#item-ae386080e'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/779,49
 label: Library
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '092'
 layout: alpha_item
 collection: alpha3

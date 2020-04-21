@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,16
 label: Travelling
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
 issue: The point of reference for "Departure" is unclear.
-order: '041'
+also_in_entry: 
+order: '042'
 layout: alpha_item
 collection: alpha5
 ---

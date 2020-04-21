@@ -2,9 +2,10 @@
 pid: index_0753
 volume: Volume 3
 image_number: '13'
-head: communion
-entry: "<a href='/digital-beehive/alpha1/alpha_0160/'>a</a>|<a href='/digital-beehive/toc/toc2_345/'>1790
-  [Communion]</a>"
+head: company
+entry: "<a href='/digital-beehive/alpha1/alpha_0161/'>a</a>|<a href='/digital-beehive/num2/num_0318/'>283
+  [Company]</a>|<a href='/digital-beehive/num4/num_1259'>942 [Company]</a>|<a href='/digital-beehive/toc/toc2_265/'>1358
+  [Company]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964 [Company]</a>"
 topic: 
 first_letter: C
 page: 
@@ -12,15 +13,16 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a611b07de"
+item: "#item-5ac603ff9"
 unparsed: 
-line: 'Head: communion|Entry: a|Entry: 1790 [Communion]|#item-a611b07de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1534,3067,652,121/full/0/default.jpg
+line: 'Head: company|Entry: a|Entry: 283 [Company]|Entry: 942 [Company]|Entry: 1358
+  [Company]|Entry: 1964 [Company]|#item-5ac603ff9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1532,3196,694,165/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163814858
+annotation_uri: http://dev.llgc.org.uk/annotation/1537163870349
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1534,3067,652,121/150,/0/default.jpg
-label: communion
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1532,3196,694,165/150,/0/default.jpg
+label: company
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
 issue: 
 insertion_xref: 

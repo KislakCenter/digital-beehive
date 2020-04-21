@@ -2,8 +2,8 @@
 pid: index_2614
 volume: Volume 3
 image_number: '31'
-head: mum[m]y
-entry: "<a href='/digital-beehive/toc/toc2_320/'>1629 [Mummy]</a>"
+head: Bp of Munster
+entry: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Chr. Bernard Bishop of Munster]</a>"
 topic: 
 first_letter: M
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-a5afcd9ad"
+item: "#item-c0bedd696"
 unparsed: 
-line: 'Head: mum[m]y|Entry: 1629 [Mummy]|#item-a5afcd9ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1564,1363,416,138/full/0/default.jpg
+line: 'Head: Bp of Munster|Entry: 1348 [Chr. Bernard Bishop of Munster]|#item-c0bedd696'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361281753
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361406501
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1564,1363,416,138/150,/0/default.jpg
-label: mum[m]y
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/150,/0/default.jpg
+label: Bp of Munster
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '695'
+order: '696'
 layout: index_item
 collection: index3
 ---

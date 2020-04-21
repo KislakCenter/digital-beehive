@@ -10,7 +10,7 @@ page:
 add: 
 xref: 
 see: 
-index: "<a href='/digital-beehive/index4/index_2851/'>ox</a>"
+index: "<a href='/digital-beehive/index4/index_2850/'>ox</a>"
 item: "#item-969d8ca53"
 unparsed: 
 line: 'Entry: Ox|Topic: Ox|Index: ox|#item-969d8ca53'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/790,17
 label: Ox
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '024'
 layout: alpha_item
 collection: alpha4

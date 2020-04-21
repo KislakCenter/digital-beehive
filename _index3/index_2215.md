@@ -2,8 +2,9 @@
 pid: index_2215
 volume: Volume 3
 image_number: '27'
-head: latton
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1992 [Latton]</a>"
+head: latin
+entry: "<a href='/digital-beehive/alpha3/alpha_0517/'>a</a>|<a href='/digital-beehive/toc/toc2_433/'>4825
+  [Latin]</a>"
 topic: 
 first_letter: L
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-92d2ba5a2"
+item: "#item-229c00e23"
 unparsed: 
-line: 'Head: latton|Entry: 1992 [Latton]|#item-92d2ba5a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1546,2783,423,114/full/0/default.jpg
+line: 'Head: latin|Entry: a|Entry: 4825 [Latin]|#item-229c00e23'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1528,2825,495,119/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836612193
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836664349
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1546,2783,423,114/150,/0/default.jpg
-label: latton
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1528,2825,495,119/150,/0/default.jpg
+label: latin
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '296'
+order: '297'
 layout: index_item
 collection: index3
 ---

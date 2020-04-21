@@ -2,8 +2,8 @@
 pid: index_1691
 volume: Volume 3
 image_number: '22'
-head: grandeur
-entry: "<a href='/digital-beehive/alpha2/alpha_0381/'>a</a>"
+head: grandfather
+entry: "<a href='/digital-beehive/toc/toc2_416/'>2405 [Grandfather]</a>"
 topic: 
 first_letter: G
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-09f29094f"
+item: "#item-1eea1fd00"
 unparsed: 
-line: 'Head: grandeur|Entry: a|#item-09f29094f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,2349,369,146/full/0/default.jpg
+line: 'Head: grandfather|Entry: 2405 [Grandfather]|#item-1eea1fd00'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1871,2395,571,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053259828
+annotation_uri: http://dev.llgc.org.uk/annotation/1561053309950
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1853,2349,369,146/150,/0/default.jpg
-label: grandeur
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1871,2395,571,115/150,/0/default.jpg
+label: grandfather
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '508'
+order: '509'
 layout: index_item
 collection: index2
 ---

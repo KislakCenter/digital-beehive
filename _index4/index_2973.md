@@ -2,9 +2,8 @@
 pid: index_2973
 volume: Volume 3
 image_number: '35'
-head: pestilence
-entry: "<a href='/digital-beehive/alpha4/alpha_0702/'>a</a>|<a href='/digital-beehive/toc/toc2_338/'>1734
-  [Pestilence]</a>|<a href='/digital-beehive/toc/toc2_382/'>2170 [Pestilence]</a>"
+head: Peter
+entry: "<a href='/digital-beehive/num2/num_0376/'>328 [Peter]</a>"
 topic: 
 first_letter: P
 page: 
@@ -12,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-0ddce70bf"
+item: "#item-5580c63d8"
 unparsed: 
-line: 'Head: pestilence|Entry: a|Entry: 1734 [Pestilence]|Entry: 2170 [Pestilence]|#item-0ddce70bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/822,1165,718,136/full/0/default.jpg
+line: 'Head: Peter|Entry: 328 [Peter]|#item-5580c63d8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/810,1279,403,115/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974237170
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974255948
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/822,1165,718,136/150,/0/default.jpg
-label: pestilence
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/810,1279,403,115/150,/0/default.jpg
+label: Peter
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0221'
+order: '0222'
 layout: index_item
 collection: index4
 ---

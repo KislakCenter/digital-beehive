@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0059/'>Baptism</a>|<a href='/digital-beehive/alpha4/alpha_0893/'>Sonship</a>|<a
   href='/digital-beehive/toc/toc2_199/'>1026 [Regeneration]</a>"
 see: 
-index: "<a href='/digital-beehive/index4/index_3339/'>regeneration</a>"
+index: "<a href='/digital-beehive/index4/index_3338/'>regeneration</a>"
 item: "#item-862e4e858"
 unparsed: 
 line: 'Entry: Regeneration|Topic: Regeneration|Xref: Baptism|Xref: Sonship|Xref: 1026
@@ -24,6 +24,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/789,38
 label: Regeneration
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '138'
 layout: alpha_item
 collection: alpha4

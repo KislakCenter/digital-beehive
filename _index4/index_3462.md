@@ -3,7 +3,7 @@ pid: index_3462
 volume: Volume 3
 image_number: '40'
 head: ruin
-entry: "<a href='/digital-beehive/toc/toc2_139/'>608 [Ruin]</a>"
+entry: "<a href='/digital-beehive/num3/num_0804'>608 [Ruin]</a>"
 topic: 
 first_letter: R
 page: 
@@ -23,7 +23,7 @@ label: ruin
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0710'
+order: '0711'
 layout: index_item
 collection: index4
 ---

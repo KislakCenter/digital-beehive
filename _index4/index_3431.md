@@ -24,7 +24,7 @@ label: ring
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0679'
+order: '0680'
 layout: index_item
 collection: index4
 ---

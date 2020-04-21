@@ -2,28 +2,28 @@
 pid: index_2244
 volume: Volume 3
 image_number: '28'
-head: leaven
-entry: "<a href='/digital-beehive/num1/num_0111/'>107 [Leaven]</a>"
+head: lechery
+entry: 
 topic: 
 first_letter: L
 page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0938/'>dainty</a>"
 index: 
-item: "#item-45298e76d"
+item: "#item-7a66f2665"
 unparsed: 
-line: 'Head: leaven|Entry: 107 [Leaven]|#item-45298e76d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/382,2733,402,112/full/0/default.jpg
+line: 'Head: lechery|See: dainty|#item-7a66f2665'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/379,2860,574,168/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842556613
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842576721
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/382,2733,402,112/150,/0/default.jpg
-label: leaven
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/379,2860,574,168/150,/0/default.jpg
+label: lechery
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '325'
+order: '326'
 layout: index_item
 collection: index3
 ---

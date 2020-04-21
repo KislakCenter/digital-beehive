@@ -11,7 +11,7 @@ add:
 xref: "<a href='/digital-beehive/alpha2/alpha_0393/'>Happiness</a>|<a href='/digital-beehive/toc/toc2_225/'>1159
   [Folly]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1523/'>fortune</a>"
+index: "<a href='/digital-beehive/index2/index_1522/'>fortune</a>"
 item: "#item-7b80a010f"
 unparsed: 
 line: 'Entry: Fortune|Topic: Fortune|Xref: Happiness|Xref: 1159 [Folly]|Index: fortune|#item-7b80a010f'
@@ -23,6 +23,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/371,48
 label: Fortune
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '074'
 layout: alpha_item
 collection: alpha2

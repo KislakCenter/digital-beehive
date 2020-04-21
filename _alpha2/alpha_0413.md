@@ -10,7 +10,7 @@ page:
 add: 
 xref: "<a href='/digital-beehive/num2/num_0281/'>257 [Arms]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1806/'>heraldry</a>"
+index: "<a href='/digital-beehive/index2/index_1805/'>heraldry</a>"
 item: "#item-046cb1d2d"
 unparsed: 
 line: 'Entry: Heraldry|Topic: Heraldry|Xref: 257 [Arms]|Index: heraldry|#item-046cb1d2d'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/732,15
 label: Heraldry
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '144'
 layout: alpha_item
 collection: alpha2

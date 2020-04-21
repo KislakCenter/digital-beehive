@@ -8,7 +8,7 @@ topic: Resignation
 first_letter: R
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_175/'>937 [Resignation]</a>"
+xref: "<a href='/digital-beehive/num4/num_1252'>937 [Resignation]</a>"
 see: 
 index: "<a href='/digital-beehive/index4/index_3386/'>resignation</a>"
 item: "#item-803885c1c"
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/404,34
 label: Resignation
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '147'
 layout: alpha_item
 collection: alpha4

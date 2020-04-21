@@ -3,7 +3,7 @@ pid: index_3656
 volume: Volume 3
 image_number: '42'
 head: to shake
-entry: "<a href='/digital-beehive/toc/toc2_162/'>873 [To Tremble]</a>"
+entry: "<a href='/digital-beehive/num4/num_1104'>873 [To Tremble]</a>"
 topic: 
 first_letter: S
 page: 
@@ -23,7 +23,7 @@ label: to shake
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0904'
+order: '0905'
 layout: index_item
 collection: index4
 ---

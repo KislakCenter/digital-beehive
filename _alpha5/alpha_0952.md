@@ -9,7 +9,7 @@ first_letter: T
 page: 
 add: 
 xref: "<a href='/digital-beehive/alpha3/alpha_0457/'>Imagination</a>|<a href='/digital-beehive/alpha3/alpha_0582/'>meditation</a>|<a
-  href='/digital-beehive/toc/toc2_182/'>982 [Thoughts]</a>"
+  href='/digital-beehive/num4/num_1310'>982 [Thoughts]</a>"
 see: 
 index: "<a href='/digital-beehive/index5/index_4126/'>thoughts</a>"
 item: "#item-de3bd0f07"
@@ -24,7 +24,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,34
 label: Thought
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
 issue: 
-order: '017'
+also_in_entry: 
+order: '018'
 layout: alpha_item
 collection: alpha5
 ---

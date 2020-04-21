@@ -2,8 +2,8 @@
 pid: index_1281
 volume: Volume 3
 image_number: '19'
-head: epidemical
-entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
+head: epigrams
+entry: "<a href='/digital-beehive/num1/num_0267/'>248 [Epigram[m]s]</a>"
 topic: 
 first_letter: E
 page: 
@@ -11,19 +11,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-da27a0159"
+item: "#item-beb90e260"
 unparsed: 
-line: 'Head: epidemical|Entry: 1330 [To infect]|#item-da27a0159'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/full/0/default.jpg
+line: 'Head: epigrams|Entry: 248 [Epigram[m]s]|#item-beb90e260'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,643,512,147/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842657352
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842743689
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/150,/0/default.jpg
-label: epidemical
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,643,512,147/150,/0/default.jpg
+label: epigrams
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '099'
+order: '100'
 layout: index_item
 collection: index2
 ---

@@ -8,9 +8,9 @@ topic: To Last
 first_letter: L
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_121/'>503 [Perseverance]</a>"
+xref: "<a href='/digital-beehive/num3/num_0633'>503 [Perseverance]</a>"
 see: 
-index: "<a href='/digital-beehive/index3/index_2209/'>to last or endure</a>"
+index: "<a href='/digital-beehive/index3/index_2208/'>to last or endure</a>"
 item: "#item-4e2aa1b9a"
 unparsed: 
 line: 'Entry: To Last|Topic: To Last|Xref: 503 [Perseverance]|Index: to last or endure|#item-4e2aa1b9a'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/713,33
 label: To Last
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '071'
 layout: alpha_item
 collection: alpha3

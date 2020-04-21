@@ -2,28 +2,28 @@
 pid: index_1773
 volume: Volume 3
 image_number: '23'
-head: hawk
-entry: "<a href='/digital-beehive/toc/toc2_264/'>1351 [a kite. a hawk]</a>"
+head: hazard
+entry: 
 topic: 
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+page: 
 add: 
 xref: 
-see: 
+see: "<a href='/digital-beehive/index1/index_0048/'>adventure</a>"
 index: 
-item: "#item-1ac2fb880"
+item: "#item-8988557ba"
 unparsed: 
-line: 'Head: hawk|Page: p.35 [Image 1.95]|Entry: 1351 [a kite. a hawk]|#item-1ac2fb880'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/813,3421,508,153/full/0/default.jpg
+line: 'Head: hazard|See: adventure|#item-8988557ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/814,3540,673,164/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241902040
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241946776
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/813,3421,508,153/150,/0/default.jpg
-label: hawk
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/814,3540,673,164/150,/0/default.jpg
+label: hazard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '590'
+order: '591'
 layout: index_item
 collection: index2
 ---

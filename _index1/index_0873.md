@@ -2,24 +2,24 @@
 pid: index_0873
 volume: Volume 3
 image_number: '15'
-head: countenance
-entry: 
+head: counterfeit money
+entry: "<a href='/digital-beehive/alpha1/alpha_0183/'>a</a>"
 topic: 
 first_letter: C
 page: 
 add: 
 xref: 
-see: "<a href='/digital-beehive/index2/index_1377/'>face</a>"
+see: 
 index: 
-item: "#item-fbebe60e1"
+item: "#item-c624a63d3"
 unparsed: 
-line: 'Head: countenance|See: face|#item-fbebe60e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/full/0/default.jpg
+line: 'Head: counterfeit money|Entry: a|#item-c624a63d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/140,1627,729,145/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974394813
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974411528
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/141,1479,734,163/150,/0/default.jpg
-label: countenance
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/140,1627,729,145/150,/0/default.jpg
+label: counterfeit money
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
 issue: 
 insertion_xref: 

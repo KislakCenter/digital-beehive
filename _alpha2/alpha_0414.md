@@ -8,9 +8,9 @@ topic: Herb
 first_letter: H
 page: 
 add: 
-xref: "<a href='/digital-beehive/toc/toc2_150/'>672 [Herbs]</a>"
+xref: "<a href='/digital-beehive/num3/num_0929'>672 [Herbs]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1807/'>herb</a>"
+index: "<a href='/digital-beehive/index2/index_1806/'>herb</a>"
 item: "#item-df285cbfd"
 unparsed: 
 line: 'Entry: Herb|Topic: Herb|Xref: 672 [Herbs]|Index: herb|#item-df285cbfd'
@@ -22,6 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/775,16
 label: Herb
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '145'
 layout: alpha_item
 collection: alpha2

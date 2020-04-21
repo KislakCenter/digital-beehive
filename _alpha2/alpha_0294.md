@@ -12,11 +12,11 @@ xref: "<a href='/digital-beehive/alpha4/alpha_0746/'>proof</a>|<a href='/digital
   [Try & Prove all things]</a>|Self-examination|<a href='/digital-beehive/toc/toc2_277/'>1416
   [To Examine]</a>"
 see: 
-index: "<a href='/digital-beehive/index2/index_1328/'>examination</a>"
+index: "<a href='/digital-beehive/index2/index_1327/'>examination</a>"
 item: "#item-3baec17f6"
 unparsed: 
-line: 'Entry: Examination|Topic: Examination|Xref: proof|Xref: 47 [Try & Prove]|Xref:
-  Self-examination|Xref: 1416 [To Examine]|Index: examination|#item-3baec17f6'
+line: 'Entry: Examination|Topic: Examination|Xref: proof|Xref: 47 [Try & Prove all
+  things]|Xref: Self-examination|Xref: 1416 [To Examine]|Index: examination|#item-3baec17f6'
 selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/783,3300,2976,674/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1564586422391
@@ -25,6 +25,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/783,33
 label: Examination
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
 issue: 
+also_in_entry: 
 order: '025'
 layout: alpha_item
 collection: alpha2

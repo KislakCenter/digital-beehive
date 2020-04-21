@@ -2,8 +2,9 @@
 pid: index_3070
 volume: Volume 3
 image_number: '36'
-head: poor man defendt
-entry: "<a href='/digital-beehive/num1/num_0166/'>160 [Gods help]</a>"
+head: pope
+entry: "<a href='/digital-beehive/alpha4/alpha_0717/'>a</a>|<a href='/digital-beehive/num4/num_1166'>898
+  [Pope]</a>|<a href='/digital-beehive/toc/toc2_287/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
 topic: 
 first_letter: P
 page: 
@@ -11,19 +12,19 @@ add:
 xref: 
 see: 
 index: 
-item: "#item-c859ed304"
+item: "#item-f73ae65e4"
 unparsed: 
-line: 'Head: poor man defendt|Entry: 160 [Gods help]|#item-c859ed304'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/full/0/default.jpg
+line: 'Head: pope|Entry: a|Entry: 898 [Pope]|Entry: 1467 [Pope]|Entry: 1860 [PAGE_MISSING]|#item-f73ae65e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1190,498,753,167/full/0/default.jpg
 full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438258254
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438306739
 insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1189,375,681,150/150,/0/default.jpg
-label: poor man defendt
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1190,498,753,167/150,/0/default.jpg
+label: pope
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
 issue: 
 insertion_xref: 
-order: '0318'
+order: '0319'
 layout: index_item
 collection: index4
 ---

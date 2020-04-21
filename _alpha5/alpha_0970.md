@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,45
 label: Toothach
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
 issue: 
-order: '035'
+also_in_entry: 
+order: '036'
 layout: alpha_item
 collection: alpha5
 ---
