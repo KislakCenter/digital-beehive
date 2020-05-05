@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2369,3
 label: "[:33.]"
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4701/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4701/'>Christ's absence</a>"
 order: '0646'
 layout: index_item
 collection: index1

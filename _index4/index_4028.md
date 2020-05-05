@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1672,2
 label: "[:20.]"
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4684/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4684/'>Syllogism</a>"
 order: '1277'
 layout: index_item
 collection: index4

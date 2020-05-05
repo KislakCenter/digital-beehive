@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2032,9
 label: "[:23.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4688/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4688/'>pike, Hecht</a>"
 order: '0253'
 layout: index_item
 collection: index4

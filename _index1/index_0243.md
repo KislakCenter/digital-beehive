@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/751,99
 label: "[:11.]"
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4674/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4674/'>attributes of god</a>"
 order: '0242'
 layout: index_item
 collection: index1

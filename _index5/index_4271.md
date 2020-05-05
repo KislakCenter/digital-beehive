@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/713,21
 label: "[:26.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4691/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4691/'>Turpentine</a>"
 order: '233'
 layout: index_item
 collection: index5

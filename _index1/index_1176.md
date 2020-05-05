@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1021,1
 label: "[:59.]"
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4728/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4728/'>duty of husband and</a>"
 order: '1175'
 layout: index_item
 collection: index1

@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1440,8
 label: "[:24.]"
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4689/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4689/'>womb</a>"
 order: '560'
 layout: index_item
 collection: index5

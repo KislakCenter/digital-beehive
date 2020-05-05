@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/2147,4
 label: "[:17.]"
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4680/'><</a>|<a href='/digital-beehive/index5/index_4681/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4680/'>publ. Calam.</a>|<a
+  href='/digital-beehive/index5/index_4681/'>calamity</a>"
 order: '0507'
 layout: index_item
 collection: index1

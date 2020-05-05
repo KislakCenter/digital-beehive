@@ -22,7 +22,8 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1010,1
 label: "[:1.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4662/'><</a>|<a href='/digital-beehive/index5/index_4663/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>to oversee or overslip</a>|<a
+  href='/digital-beehive/index5/index_4663/'>overseer</a>"
 order: '0089'
 layout: index_item
 collection: index4

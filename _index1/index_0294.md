@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1410,2
 label: "[:18.]"
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4682/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>Barclay</a>"
 order: '0293'
 layout: index_item
 collection: index1

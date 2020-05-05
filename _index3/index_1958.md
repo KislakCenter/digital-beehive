@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1441,7
 label: "[:47.]"
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4715/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4715/'>Em (or Im)bossing</a>"
 order: '040'
 layout: index_item
 collection: index3

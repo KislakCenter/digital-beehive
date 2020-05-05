@@ -22,7 +22,7 @@ thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1704,7
 label: "[:29.]"
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
 issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4694/'><</a>"
+insertion_xref: "<a href='/digital-beehive/index5/index_4694/'>gnashing of t.</a>"
 order: '450'
 layout: index_item
 collection: index2
