@@ -10,6 +10,6 @@ For the data sets used to build the site, please visit our [Github](https://gith
 
 The Ruby code used to process the Mirador annotations can be found in this [repository](https://github.com/upenn-libraries/beehive-scripts).
 
-The scripts used to process the data can be found [here](https://github.com/drnelson6/beehive-scripts). Our raw dataset can be downloaded [here](https://github.com/drnelson6/beehive-scripts/blob/master/data/beehive-data-raw.csv).
+The scripts used to process the data can be found [here](https://github.com/KislakCenter/beehive-annotation-scripts). Our raw dataset can be downloaded [here](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/beehive-data-raw.csv).
 
 You can read more about how we made the Digital Beehive [here](making-the-beehive.md).
