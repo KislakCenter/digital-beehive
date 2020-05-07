@@ -12,7 +12,7 @@ In 1696, Francis Daniel Pastorius, the founder of Germantown in Pennsylvania, be
 
 The manuscript's contents reveal a compendium and alphabetical digest of knowledge including inscriptions, epitaphs, proverbs, poetry, Biblical citations, theological citations, quotations, a list of books he read or knew, copies of letters, and notes on science, useful herbs and other plants. The complexities of Pastorius’s beehive metaphor are interwoven throughout the entire work, as he refines and redefines the ways in which the physical construction of a beehive informs the construction of his own “Paper-Hive.” For Pastorius, documenting his source materials in a book list, itself an impressive catalogue of printed materials available in Early America, was only the first step in the construction of the manuscript. In his hive metaphor, these books serve as flowers, the quotations he collects, pollen. His commonplacing reveals the work of the hive. The quotations are interwoven conceptually into discrete honeycombs, each of which is explicitly linked to other semantically relevant combs.
 
-Our code and raw data sets can be found [here](https://github.com/drnelson6/beehive-scripts).
+Our code and raw data sets can be found [here](https://github.com/KislakCenter/beehive-annotation-scripts).
 
 Much like Pastorius's own "Bee-Hive," the Digital Beehive is a work in progress and will continue to grow and expand.
 
