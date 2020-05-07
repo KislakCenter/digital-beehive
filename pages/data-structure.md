@@ -102,23 +102,23 @@ In addition to these metadata categories, the following categories are generated
 
 In addition to the core data, the following additional data sets are used in building the site:
 
-- [Alphabetical Sorts](https://github.com/drnelson6/beehive-scripts/blob/master/data/beehive-alpha-sorts.csv)
-- [Index Sorts](https://github.com/drnelson6/beehive-scripts/blob/master/data/beehive-index-sorts.csv)
+- [Alphabetical Sorts](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/beehive-alpha-sorts.csv)
+- [Index Sorts](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/beehive-index-sorts.csv)
 
 These files provide the "first_letter" metadata used to build the website for alphabetical and index entries, in the case that the entry or head field does not begin with the expected letter (e.g. "False Comfort" is ordered under "C", not "F.")
 
-- [Alphabetical Corrections](https://github.com/drnelson6/beehive-scripts/blob/master/data/alpha-corrections.csv)
-- [Index Add Corrections](https://github.com/drnelson6/beehive-scripts/blob/master/data/index-add-corrections.csv)
-- [Index See Corrections](https://github.com/drnelson6/beehive-scripts/blob/master/data/index-see-corrections.csv)
+- [Alphabetical Corrections](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/alpha-corrections.csv)
+- [Index Add Corrections](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/index-add-corrections.csv)
+- [Index See Corrections](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/index-see-corrections.csv)
 
 These files are used to build cross-references on the website. Because the project follows Pastorius's orthography exactly, only some data will match automatically. In the case that Pastorius cross-references to an entry using a different version of the word than the corresponding entry (e.g. xref "punishmt" should link to entry "Punishment"), the cross-reference and its intended target are recorded here.
 
-- [Alphabetical Issues](https://github.com/drnelson6/beehive-scripts/blob/master/data/alpha-issues.csv)
-- [Numerical Issues](https://github.com/drnelson6/beehive-scripts/blob/master/data/num-issues.csv)
-- [Index Issues](https://github.com/drnelson6/beehive-scripts/blob/master/data/index-issues.csv)
+- [Alphabetical Issues](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/alpha-issues.csv)
+- [Numerical Issues](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/num-issues.csv)
+- [Index Issues](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/index-issues.csv)
 
 These files are used to document uncertainties and editorial decisions made while annotating the Beehive and building the site. In the event an annotation has an issue, the issue will appear on its corresponding page.
 
-- [Pastorius pages](https://github.com/drnelson6/beehive-scripts/blob/master/data/pastorius-pages.csv)
+- [Pastorius pages](https://github.com/KislakCenter/beehive-annotation-scripts/blob/master/data/pastorius-pages.csv)
 
 This file is used to build the page references. It supplies a list of page references in the Beehive along with their corresponding pid from the Table of Contents. Note that it differs from the page numbers supplied in the Table of Contents in that the fields "pastorius_page_numbers" and "older_pastorius_page_numbers" have been collapsed into one.
