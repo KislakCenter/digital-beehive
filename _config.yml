@@ -115,6 +115,41 @@ collections:
     layout: 'alpha_item'
     metadata:
       source: num4.csv
+  num5:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num5.csv
+  num6:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num6.csv
+  num7:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num7.csv
+  num8:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num8.csv
+  num9:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num9.csv
+  num10:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num10.csv
+  num11:
+    output: true
+    layout: 'alpha_item'
+    metadata:
+      source: num11.csv
   toc:
     output: true
     layout: 'toc_item'
@@ -222,6 +257,62 @@ search:
           - xref
           - index
       num4:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num5:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num6:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num7:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num8:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num9:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num10:
+        content: false
+        fields:
+          - label
+          - entry
+          - topic
+          - xref
+          - index
+      num11:
         content: false
         fields:
           - label

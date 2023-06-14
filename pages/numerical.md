@@ -4,13 +4,20 @@ title: Numerical Section
 permalink: /numerical/
 ---
 
-The following pages present high quality scans of the Numerical of Pastorius's Beehive Manuscript with relevant metadata for each entry.
+The following pages present high quality scans of the Numerical Section of Pastorius's Beehive Manuscript with relevant metadata for each entry.
 
 [Numerical Section, 1-250](num1.md)  
 [Numerical Section, 251-500](num2.md)  
 [Numerical Section, 501-725](num3.md)  
-[Numerical Section, 865-1000](num4.md)  
-<a class="text-muted">Numerical Section, 1001-1250 (Projected June 2020)</a>
+[Numerical Section, 866-1000](num4.md)  
+[Numerical Section, 1001-1250](num5.md)  
+[Numerical Section, 1251-1500](num6.md)  
+[Numerical Section, 1501-1750](num7.md)  
+[Numerical Section, 1751-2000](num8.md)  
+[Numerical Section, 2001-2250](num9.md)  
+[Numerical Section, 2251-4495](num10.md)  
+[Numerical Section, 4496-4927](num11.md)  
+
 
 #### Section Overview
 
