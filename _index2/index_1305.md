@@ -2,27 +2,28 @@
 pid: index_1305
 volume: Volume 3
 image_number: '19'
-head: estrich
-entry: 
-topic: 
+head: equality
+entry: "<a href='/digital-beehive/alpha2/alpha_0291/'>a</a>|<a href='/digital-beehive/num5/num_1532/'>1129
+  [Equality]</a>"
+topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0375/'>Birds</a>"
-index: 
-item: "#item-91c8116df"
-unparsed: 
-line: 'Head: estrich|Page: p.35 [Image 1.95]|See: Birds|#item-91c8116df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/118,3424,692,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560348725465
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/118,3424,692,162/150,/0/default.jpg
-label: estrich
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cacfe1453"
+unparsed:
+line: 'Head: equality|Entry: a|Entry: 1129 [Equality]|#item-cacfe1453'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/135,1141,577,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844147532
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/135,1141,577,162/150,/0/default.jpg
+label: equality
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '124'
 layout: index_item
 collection: index2

@@ -2,27 +2,30 @@
 pid: index_1301
 volume: Volume 3
 image_number: '19'
-head: "[:9.]"
-entry: 
-topic: 
+head: epitaphs
+entry: "<a href='/digital-beehive/alpha2/alpha_0290/'>a</a>|<a href='/digital-beehive/num1/num_0265/'>245
+  [Epitaphs]</a>|<a href='/digital-beehive/num6/num_2153/'>1466 [Epitaphs]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a89e1dac1"
-unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-a89e1dac1'
-line: 'Type: Index|Insertion Xref: [:9.]|#item-a89e1dac1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/689,2962,169,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276361075
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/689,2962,169,143/150,/0/default.jpg
-label: "[:9.]"
+page: "<a href='/digital-beehive/toc/toc1_061/'>p.11 [Image 1.71]</a>|<a href='/digital-beehive/toc/toc1_075/'>p.25
+  [Image 1.85]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-f1c99f7be"
+unparsed:
+line: 'Head: epitaphs|Page: p.11 [Image 1.71]|Page: p.25 [Image 1.85]|Entry: a|Entry:
+  245 [Epitaphs]|Entry: 1466 [Epitaphs]|#item-f1c99f7be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/146,976,582,187/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843824080
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/146,976,582,187/150,/0/default.jpg
+label: epitaphs
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
+issue:
+insertion_xref:
 order: '120'
 layout: index_item
 collection: index2

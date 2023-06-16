@@ -2,28 +2,28 @@
 pid: alpha_0422
 volume: Volume 2
 image_number: '18'
-head: 
-entry: Hireling
-topic: Hireling
+head:
+entry: Hieroglyphicks
+topic: Hieroglyphicks
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0692'>549 [Hirelings]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1842/'>hireling</a>"
-item: "#item-2c8f931b4"
-unparsed: 
-line: 'Entry: Hireling|Topic: Hireling|Xref: 549 [Hirelings]|Index: hireling|#item-2c8f931b4|'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,2918,529/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508963957119
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/770,4165,600,180/250,/0/default.jpg
-label: Hireling
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0272/'>250 [Rebus]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1872/'>hieroglyphicks</a>"
+item: "#item-90b569061"
+unparsed:
+line: 'Entry: Hieroglyphicks|Topic: Hieroglyphicks|Xref: 250 [Rebus]|Index: hieroglyphicks|#item-90b569061'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/747,3098,3024,410/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564756612430
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/747,3098,600,180/250,/0/default.jpg
+label: Hieroglyphicks
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '153'
+issue:
+also_in_entry:
+order: '150'
 layout: alpha_item
 collection: alpha2
 ---

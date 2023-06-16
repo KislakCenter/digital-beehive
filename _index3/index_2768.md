@@ -3,7 +3,7 @@ pid: index_2768
 volume: Volume 3
 image_number: '33'
 head: nut
-entry: "<a href='/digital-beehive/alpha3/alpha_0651/'>a</a>|<a href='/digital-beehive/num8/num_2852/'>1937
+entry: "<a href='/digital-beehive/alpha3/alpha_0651/'>a</a>|<a href='/digital-beehive/num8/num_2853/'>1937
   [Nut]</a>"
 topic:
 first_letter: N
@@ -24,7 +24,7 @@ label: nut
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '831'
+order: '832'
 layout: index_item
 collection: index3
 ---

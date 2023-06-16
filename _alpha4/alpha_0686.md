@@ -1,31 +1,31 @@
 ---
 pid: alpha_0686
 volume: Volume 2
-image_number: '39'
-head: 
-entry: Passion
-topic: Passion
+image_number: '38'
+head:
+entry: Parsimony
+topic: Parsimony
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Cross of Christ</a>|<a href='/digital-beehive/alpha4/alpha_0924/'>Suffering</a>|<a
-  href='/digital-beehive/num4/num_1330'>998 [Passion or Suffering of Xst]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2906/'>passion of Xst</a>"
-item: "#item-74ba8c782"
-unparsed: 
-line: 'Entry: Passion|Topic: Passion|Xref: Cross of Christ|Xref: Suffering|Xref: 998
-  [Passion or Suffering of Xst]|Index: passion of Xst|#item-74ba8c782'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/284,960,3056,463/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565021670199
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0506/284,960,600,180/250,/0/default.jpg
-label: Passion
-location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '039'
+page:
+add:
+xref: 115 [Expenses]|<a href='/digital-beehive/num5/num_1509/'>1115 [Frugality]</a>
+see:
+index: "<a href='/digital-beehive/index4/index_2910/'>parsimony</a>"
+item: "#item-c0243529d"
+unparsed:
+line: 'Entry: Parsimony|Topic: Parsimony|Xref: 115 [Expenses]|Xref: 1115 [Frugality]|Index:
+  parsimony|#item-c0243529d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/770,4396,2953,675/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565020869009
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/770,4396,600,180/250,/0/default.jpg
+label: Parsimony
+location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
+issue: The point of reference for "Expenses" is unclear. Pastorius perhaps intends
+  numerical entry 715 [Expenses].
+also_in_entry:
+order: '034'
 layout: alpha_item
 collection: alpha4
 ---

@@ -1,29 +1,29 @@
 ---
 pid: alpha_0714
 volume: Volume 2
-image_number: '41'
-head: 
-entry: Poesie
-topic: Poesie
+image_number: '40'
+head:
+entry: Placableness
+topic: Placableness
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/num2/num_0564/'>454 [Poesie]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3057/'>poesie</a>"
-item: "#item-b82f190ab"
-unparsed: 
-line: 'Entry: Poesie|Topic: Poesie|Xref: 454 [Poesie]|Index: poesie|#item-b82f190ab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/272,1233,3134,597/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528373206655
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/272,1233,600,180/250,/0/default.jpg
-label: Poesie
-location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '067'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0784/'>Reconcilemt</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3009/'>placable</a>"
+item: "#item-787530525"
+unparsed:
+line: 'Entry: Placableness|Topic: Placableness|Xref: Reconcilemt|Index: placable|#item-787530525'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/855,4244,2944,387/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528334615359
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/855,4244,600,180/250,/0/default.jpg
+label: Placableness
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '062'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,30 +2,30 @@
 pid: alpha_1067
 volume: Volume 2
 image_number: '67'
-head: 
-entry: Writing
-topic: Writing
+head:
+entry: Wound
+topic: Wound
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0836/'>Scripture</a>|<a href='/digital-beehive/num2/num_0509/'>412
-  [Writing]</a>|<a href='/digital-beehive/toc/toc2_269/'>1376 [Writing]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4633/'>writing</a>"
-item: "#item-434c92894"
-unparsed: 
-line: 'Entry: Writing|Topic: Writing|Xref: Scripture|Xref: 412 [Writing]|Xref: 1376
-  [Writing]|Index: writing|#item-434c92894'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,3010,316/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529599666670
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/326,2982,600,180/250,/0/default.jpg
-label: Writing
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0570/'>Maimed</a>|852 [[PAGE_MISSING],
+  Bites]|<a href='/digital-beehive/num5/num_1561/'>1146 [Wound]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4565/'>wounds</a>"
+item: "#item-daf426cdf"
+unparsed:
+line: 'Entry: Wound|Topic: Wound|Xref: Maimed|Xref: 852 [[PAGE_MISSING], Bites]|Xref:
+  1146 [Wound]|Index: wounds|#item-daf426cdf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/328,1580,3036,333/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529598702398
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0534/328,1580,600,180/250,/0/default.jpg
+label: Wound
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '133'
+issue: The point of reference for "Bites" is unclear.
+also_in_entry:
+order: '127'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,30 +2,28 @@
 pid: index_3647
 volume: Volume 3
 image_number: '42'
-head: servitude
-entry: "<a href='/digital-beehive/alpha4/alpha_0859/'>a</a>|813 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_240/'>1233 [the friendlist office]</a>"
-topic: 
+head: shirt
+entry: 808 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ec91b719f"
-unparsed: 
-line: 'Head: servitude|Entry: a|Entry: 813 [PAGE_MISSING]|Entry: 1233 [the friendlist
-  office]|#item-ec91b719f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1098,1326,724,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574067348
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1098,1326,724,140/150,/0/default.jpg
-label: servitude
+page:
+add:
+xref:
+see:
+index:
+item: "#item-590a0c493"
+unparsed:
+line: 'Head: shirt|Entry: 808 [PAGE_MISSING]|#item-590a0c493'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,1578,436,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576094288
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1803,1578,436,129/150,/0/default.jpg
+label: shirt
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0896'
+issue:
+insertion_xref:
+order: '0895'
 layout: index_item
 collection: index4
 ---

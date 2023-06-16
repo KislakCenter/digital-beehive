@@ -2,28 +2,28 @@
 pid: index_3537
 volume: Volume 3
 image_number: '41'
-head: scarce
-entry: "<a href='/digital-beehive/num3/num_1016'>702 [Scarce]</a>"
-topic: 
+head: seat
+entry: 838 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1dc118ecb"
-unparsed: 
-line: 'Head: scarce|Entry: 702 [Scarce]|#item-1dc118ecb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/166,3400,457,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240101204
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/166,3400,457,151/150,/0/default.jpg
-label: scarce
+page:
+add:
+xref:
+see:
+index:
+item: "#item-352f020a8"
+unparsed:
+line: 'Head: seat|Entry: 838 [PAGE_MISSING]|#item-352f020a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242473484
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1573,1297,346,122/150,/0/default.jpg
+label: seat
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0786'
+issue:
+insertion_xref:
+order: '0785'
 layout: index_item
 collection: index4
 ---

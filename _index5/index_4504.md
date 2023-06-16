@@ -2,28 +2,28 @@
 pid: index_4504
 volume: Volume 3
 image_number: '52'
-head: weather cock
-entry: 
-topic: 
+head: weights
+entry: 833 [PAGE_MISSING]
+topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e444b01d4"
-unparsed: 
-line: 'Head: weather cock|Page: p.29 [Image 1.89]|#item-e444b01d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/485,3071,471,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560961178682
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/485,3071,471,141/150,/0/default.jpg
-label: weather cock
+page:
+add:
+xref:
+see:
+index:
+item: "#item-65b68b993"
+unparsed:
+line: 'Head: weights|Entry: 833 [PAGE_MISSING]|#item-65b68b993'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,773,471,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968239135
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,773,471,132/150,/0/default.jpg
+label: weights
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '466'
+issue:
+insertion_xref:
+order: '467'
 layout: index_item
 collection: index5
 ---

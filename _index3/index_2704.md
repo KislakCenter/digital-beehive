@@ -2,27 +2,27 @@
 pid: index_2704
 volume: Volume 3
 image_number: '32'
-head: nicodemus's gospel
-entry: 
-topic: 
+head: new inventions
+entry: "<a href='/digital-beehive/num2/num_0310/'>275 [New Inventions]</a>"
+topic:
 first_letter: N
-page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c7b7d274b"
-unparsed: 
-line: 'Head: nicodemus''s gospel|Page: p.24 [Image 1.84]|#item-c7b7d274b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1139,2906,715,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560443354154
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1139,2906,715,158/150,/0/default.jpg
-label: nicodemus's gospel
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e96a3e5b8"
+unparsed:
+line: 'Head: new inventions|Entry: 275 [New Inventions]|#item-e96a3e5b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442536199
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1119,2038,617,100/150,/0/default.jpg
+label: new inventions
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '786'
 layout: index_item
 collection: index3

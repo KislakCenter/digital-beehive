@@ -2,27 +2,27 @@
 pid: index_0442
 volume: Volume 3
 image_number: '11'
-head: to break
-entry: "<a href='/digital-beehive/num3/num_1033'>709 [To break]</a>"
-topic: 
+head: to bruise
+entry: "<a href='/digital-beehive/num3/num_1058/'>718 [Piece]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fc2ae4261"
-unparsed: 
-line: 'Head: to break|Entry: 709 [To break]|#item-fc2ae4261'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/158,1153,439,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418016212
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/158,1153,439,138/150,/0/default.jpg
-label: to break
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eae0eba53"
+unparsed:
+line: 'Head: to bruise|Entry: 718 [Piece]|#item-eae0eba53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,373,467,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531420210131
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/885,373,467,116/150,/0/default.jpg
+label: to bruise
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0441'
 layout: index_item
 collection: index1

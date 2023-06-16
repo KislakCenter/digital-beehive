@@ -2,27 +2,27 @@
 pid: index_2664
 volume: Volume 3
 image_number: '32'
-head: nazarites
-entry: "<a href='/digital-beehive/toc/toc2_353/'>1912 [Nazarites]</a>"
-topic: 
+head: hard names
+entry: "<a href='/digital-beehive/num3/num_0677/'>538 [Reviling, so called]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-216199391"
-unparsed: 
-line: 'Head: nazarites|Entry: 1912 [Nazarites]|#item-216199391'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,2622,485,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438750684
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,2622,485,101/150,/0/default.jpg
-label: nazarites
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5d2bdc577"
+unparsed:
+line: 'Head: hard names|Entry: 538 [Reviling, so called]|#item-5d2bdc577'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560436789645
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/386,458,527,103/150,/0/default.jpg
+label: hard names
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '746'
 layout: index_item
 collection: index3

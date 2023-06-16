@@ -2,27 +2,27 @@
 pid: index_0859
 volume: Volume 3
 image_number: '14'
-head: to correct
-entry: 
-topic: 
+head: conformity occasional
+entry: 1839 [PAGE_MISSING]
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0125/'>amend</a>"
-index: 
-item: "#item-053887c0f"
-unparsed: 
-line: 'Head: to correct|See: amend|#item-053887c0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,3450,630,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537560328931
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1818,3450,630,94/150,/0/default.jpg
-label: to correct
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f911ec12c"
+unparsed:
+line: 'Head: conformity occasional|Entry: 1839 [PAGE_MISSING]|#item-f911ec12c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537217009102
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/394,3556,621,95/150,/0/default.jpg
+label: conformity occasional
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0858'
 layout: index_item
 collection: index1

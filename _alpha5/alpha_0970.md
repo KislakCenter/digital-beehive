@@ -2,28 +2,30 @@
 pid: alpha_0970
 volume: Volume 2
 image_number: '59'
-head: 
-entry: Toothach
-topic: Toothach
+head:
+entry: Too much
+topic: Too much
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc2_189/'>p.377 [Image 2.199]</a>"
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index5/index_4190/'>toothach</a>"
-item: "#item-e7678121e"
-unparsed: 
-line: 'Entry: Toothach|Topic: Toothach|Page: p.377 [Image 2.199]|Index: toothach|#item-e7678121e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,2924,347/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565114616162
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/371,4516,600,180/250,/0/default.jpg
-label: Toothach
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0003/'>abundance</a>|<a href='/digital-beehive/alpha4/alpha_0933/'>Superfluity</a>|815
+  [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index5/index_4212/'>too much</a>"
+item: "#item-5b4f65a9f"
+unparsed:
+line: 'Entry: Too much|Topic: Too much|Xref: abundance|Xref: Superfluity|Xref: 815
+  [PAGE_MISSING]|Index: too much|#item-5b4f65a9f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/344,2948,3001,585/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529521320309
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/344,2948,600,180/250,/0/default.jpg
+label: Too much
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '036'
+issue:
+also_in_entry:
+order: '030'
 layout: alpha_item
 collection: alpha5
 ---

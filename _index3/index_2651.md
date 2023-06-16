@@ -2,27 +2,27 @@
 pid: index_2651
 volume: Volume 3
 image_number: '32'
-head: natural affection
-entry: 4717 [PAGE_MISSING]
-topic: 
+head: navy
+entry: "<a href='/digital-beehive/num7/num_2565/'>1671 [Fleet]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e881ea9d"
-unparsed: 
-line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/392,1650,740,80/150,/0/default.jpg
-label: natural affection
+page:
+add:
+xref:
+see:
+index:
+item: "#item-565fffc52"
+unparsed:
+line: 'Head: navy|Entry: 1671 [Fleet]|#item-565fffc52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438687014
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2538,374,129/150,/0/default.jpg
+label: navy
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '733'
 layout: index_item
 collection: index3

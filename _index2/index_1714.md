@@ -2,28 +2,28 @@
 pid: index_1714
 volume: Volume 3
 image_number: '23'
-head: grinning
-entry: 4707 [PAGE_MISSING]
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ec422f2e7"
-unparsed: 
-line: 'Head: grinning|Entry: 4707 [PAGE_MISSING]|#item-ec422f2e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/158,1457,449,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231161465
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/158,1457,449,111/150,/0/default.jpg
-label: grinning
+head: heap
+entry: 788 [PAGE_MISSING]
+topic:
+first_letter: H
+page:
+add:
+xref:
+see:
+index:
+item: "#item-24727af01"
+unparsed:
+line: 'Head: heap|Entry: 788 [PAGE_MISSING]|#item-24727af01'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1544,596,349,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243527236
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1544,596,349,150/150,/0/default.jpg
+label: heap
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '532'
+issue:
+insertion_xref:
+order: '533'
 layout: index_item
 collection: index2
 ---

@@ -2,29 +2,28 @@
 pid: index_1777
 volume: Volume 3
 image_number: '23'
-head: drinking of health
-entry: "<a href='/digital-beehive/alpha2/alpha_0404/'>a</a>|<a href='/digital-beehive/toc/toc2_274/'>1403
-  [Drinking of healths]</a>"
-topic: 
-first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d60a7e938"
-unparsed: 
-line: 'Head: drinking of health|Entry: a|Entry: 1403 [Drinking of healths]|#item-d60a7e938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559243479842
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1421,450,802,175/150,/0/default.jpg
-label: drinking of health
+head: guild halls
+entry:
+topic:
+first_letter: G
+page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-c13111d30"
+unparsed:
+line: 'Head: guild halls|Page: p.5 [Image 1.65]|#item-c13111d30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,2467,441,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232706451
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/146,2467,441,144/150,/0/default.jpg
+label: guild halls
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '595'
+issue:
+insertion_xref:
+order: '596'
 layout: index_item
 collection: index2
 ---

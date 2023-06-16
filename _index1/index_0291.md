@@ -2,27 +2,28 @@
 pid: index_0291
 volume: Volume 3
 image_number: '9'
-head: barbarism
-entry: "<a href='/digital-beehive/num3/num_0676'>537 [Terms in didascalia]</a>"
-topic: 
+head: banquetting stuff
+entry: "<a href='/digital-beehive/alpha1/alpha_0058/'>a</a>|<a href='/digital-beehive/num3/num_1000/'>696
+  [Dainty meats]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6cce0abf6"
-unparsed: 
-line: 'Head: barbarism|Entry: 537 [Terms in didiscalia]|#item-6cce0abf6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/908,2444,477,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506104324001
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/908,2444,477,104/150,/0/default.jpg
-label: barbarism
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8f1969fcf"
+unparsed:
+line: 'Head: banquetting stuff|Entry: a|Entry: 696 [Dainty meats]|#item-8f1969fcf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404658350
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/898,1972,631,138/150,/0/default.jpg
+label: banquetting stuff
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0290'
 layout: index_item
 collection: index1

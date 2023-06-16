@@ -2,30 +2,29 @@
 pid: alpha_0792
 volume: Volume 2
 image_number: '47'
-head: 
-entry: Report
-topic: Report
+head:
+entry: Reliques
+topic: Reliques
 first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0639/'>News</a>|<a href='/digital-beehive/alpha4/alpha_0884/'>Slander</a>|779
-  [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3371/'>report</a>"
-item: "#item-09ef909d9"
-unparsed: 
-line: 'Entry: Report|Topic: Report|Xref: News|Xref: Slander|Xref: 779 [PAGE_MISSING]|Index:
-  report|#item-09ef909d9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/327,2272,3015,426/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528746325167
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0514/327,2272,600,180/250,/0/default.jpg
-label: Report
+page:
+add:
+xref: Old rags|<a href='/digital-beehive/num6/num_1980/'>1385 [Reliques]</a>
+see:
+index: "<a href='/digital-beehive/index4/index_3403/'>reliques</a>"
+item: "#item-d3ad071e9"
+unparsed:
+line: 'Entry: Reliques|Topic: Reliques|Xref: Old rags|Xref: 1385 [Reliques]|Index:
+  reliques|#item-d3ad071e9'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,238,3052,416/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1523300704294
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/270,238,600,180/250,/0/default.jpg
+label: Reliques
 location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '144'
+issue: The point of reference for "Old rags" is unclear.
+also_in_entry:
+order: '140'
 layout: alpha_item
 collection: alpha4
 ---

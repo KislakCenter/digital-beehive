@@ -2,27 +2,30 @@
 pid: index_2457
 volume: Volume 3
 image_number: '30'
-head: mean men
-entry: "<a href='/digital-beehive/toc/toc2_424/'>4456 [WORD_MISSING]</a>"
-topic: 
+head: marriage
+entry: "<a href='/digital-beehive/alpha3/alpha_0575/'>a</a>|<a href='/digital-beehive/num6/num_2106/'>1443
+  [Marriage]</a>|<a href='/digital-beehive/num7/num_2450/'>1619 [Marriage]</a>|4647
+  [PAGE_MISSING]"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-48b269d06"
-unparsed: 
-line: 'Head: mean men|Entry: 4456 [WORD_MISSING]|#item-48b269d06'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/407,2948,487,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265784674
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/407,2948,487,91/150,/0/default.jpg
-label: mean men
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f0eb8480f"
+unparsed:
+line: 'Head: marriage|Entry: a|Entry: 1443 [Marriage]|Entry: 1619 [Marriage]|Entry:
+  4647 [PAGE_MISSING]|#item-f0eb8480f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/409,643,724,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263160865
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/409,643,724,119/150,/0/default.jpg
+label: marriage
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '539'
 layout: index_item
 collection: index3

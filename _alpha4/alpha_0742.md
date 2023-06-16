@@ -2,30 +2,28 @@
 pid: alpha_0742
 volume: Volume 2
 image_number: '43'
-head: 
-entry: Progress
-topic: Progress
+head:
+entry: Priviledge
+topic: Priviledge
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0469/'>Increase</a>|<a href='/digital-beehive/alpha1/alpha_0219/'>Degree</a>|778
-  [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3181/'>progress</a>"
-item: "#item-e5e9e75fd"
-unparsed: 
-line: 'Entry: Progress|Topic: Progress|Xref: Increase|Xref: Degree|Xref: 778 [PAGE_MISSING]|Index:
-  progress|#item-e5e9e75fd'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/330,3059,3017,504/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565100581952
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/330,3059,600,180/250,/0/default.jpg
-label: Progress
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_3147/'>priviledge</a>"
+item: "#item-b0ebe4c9a"
+unparsed:
+line: 'Entry: Priviledge|Topic: Priviledge|Index: priviledge|#item-b0ebe4c9a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/325,882,3058,450/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565100341160
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/325,882,600,180/250,/0/default.jpg
+label: Priviledge
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '095'
+issue:
+also_in_entry:
+order: '090'
 layout: alpha_item
 collection: alpha4
 ---

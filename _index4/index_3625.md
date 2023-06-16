@@ -2,28 +2,28 @@
 pid: index_3625
 volume: Volume 3
 image_number: '42'
-head: Self preservation
-entry: "<a href='/digital-beehive/toc/toc2_372/'>2069 [Selfpreservation]</a>"
-topic: 
+head: Self condemned
+entry: "<a href='/digital-beehive/num5/num_1334/'>1001 [Self Condemned]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4d214eed3"
-unparsed: 
-line: 'Head: Self preservation|Entry: 2069 [Selfpreservation]|#item-4d214eed3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244811244
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/406,2184,720,79/150,/0/default.jpg
-label: Self preservation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e134ac49"
+unparsed:
+line: 'Head: Self condemned|Entry: 1001 [Self Condemned]|#item-0e134ac49'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/443,703,570,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243995320
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/443,703,570,97/150,/0/default.jpg
+label: Self condemned
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0874'
+issue:
+insertion_xref:
+order: '0873'
 layout: index_item
 collection: index4
 ---

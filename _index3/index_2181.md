@@ -2,27 +2,27 @@
 pid: index_2181
 volume: Volume 3
 image_number: '27'
-head: labourers
-entry: 4608 [PAGE_MISSING]
-topic: 
+head: to last or remain
+entry: "<a href='/digital-beehive/num7/num_2387/'>1590 [To Last]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8bce1e586"
-unparsed: 
-line: 'Head: labourers|Entry: 4608 [PAGE_MISSING]|#item-8bce1e586'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/838,2950,509,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832035621
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/838,2950,509,101/150,/0/default.jpg
-label: labourers
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a3198f5f8"
+unparsed:
+line: 'Head: to last or remain|Entry: 1590 [To Last]|#item-a3198f5f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1530,2221,597,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836148435
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1530,2221,597,129/150,/0/default.jpg
+label: to last or remain
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '263'
 layout: index_item
 collection: index3

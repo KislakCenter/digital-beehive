@@ -1,30 +1,31 @@
 ---
 pid: alpha_0398
 volume: Volume 2
-image_number: '17'
-head: 
-entry: Harvest
-topic: Harvest
+image_number: '16'
+head:
+entry: Hardning
+topic: Hardning
 first_letter: H
-page: 
-add: 
-xref: 4616 [PAGE_MISSING]|Ruin
-see: 
-index: "<a href='/digital-beehive/index2/index_1763/'>harvest</a>"
-item: "#item-6372e5640"
-unparsed: 
-line: 'Entry: Harvest|Topic: Harvest|Xref: 4616 [PAGE_MISSING]|Xref: Ruin|Index: harvest|#item-6372e5640'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,3058,361/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508784997324
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/361,358,600,180/250,/0/default.jpg
-label: Harvest
-location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-issue: The point of reference for "Ruin" is unclear. Pastorius perhaps intends numerical
-  entry 608 [Ruin].
-also_in_entry: 
-order: '129'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num10/num_3346/'>2374
+  [Hardning]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1745/'>hardning</a>"
+item: "#item-b81c3e687"
+unparsed:
+line: 'Entry: Hardning|Topic: Hardning|Xref: Obstinacy|Xref: 2374 [Hardning]|Index:
+  hardning|#item-b81c3e687'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/791,4564,2937,532/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508784631867
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/791,4564,600,180/250,/0/default.jpg
+label: Hardning
+location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '126'
 layout: alpha_item
 collection: alpha2
 ---

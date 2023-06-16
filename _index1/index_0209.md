@@ -2,28 +2,29 @@
 pid: index_0209
 volume: Volume 3
 image_number: '8'
-head: army
-entry: 864 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_351/'>1891 [Armies or
-  hosts]</a>
-topic: 
+head: assault
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
+  : besiege]</a>|<a href=''/digital-beehive/num9/num_3009/''>2075 [Attack]</a>'
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7935c88a8"
-unparsed: 
-line: 'Head: army|Entry: 864 [PAGE_MISSING]|Entry: 1891 [Armies or hosts]|#item-7935c88a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1805,1008,540,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491248552443
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1805,1008,540,100/150,/0/default.jpg
-label: army
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cc62b5fe4"
+unparsed:
+line: 'Head: assault|Entry: 742 [PAGE_MISSING]|Entry: 1338 [To Assault : besiege]|Entry:
+  2075 [Attack]|#item-cc62b5fe4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631802107
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1764,2573,784,162/150,/0/default.jpg
+label: assault
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0208'
 layout: index_item
 collection: index1

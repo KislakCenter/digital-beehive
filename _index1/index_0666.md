@@ -2,28 +2,27 @@
 pid: index_0666
 volume: Volume 3
 image_number: '13'
-head: chymist
-entry: "<a href='/digital-beehive/num3/num_1010'>700 [Chymistry]</a>|<a href='/digital-beehive/toc/toc2_261/'>1340
-  [Chymistry]</a>"
-topic: 
+head: clerk
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bbbd44aca"
-unparsed: 
-line: 'Head: chymist|Entry: 700 [Chymistry]|Entry: 1340 [Chymistry]|#item-bbbd44aca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/147,1733,574,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532620246903
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/147,1733,574,144/150,/0/default.jpg
-label: chymist
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b6f5abb5c"
+unparsed:
+line: 'Head: clerk|Entry: 260 [Scribe or publick Notary]|#item-b6f5abb5c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536334214371
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/850,805,416,123/150,/0/default.jpg
+label: clerk
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0665'
 layout: index_item
 collection: index1

@@ -2,27 +2,27 @@
 pid: index_1488
 volume: Volume 3
 image_number: '21'
-head: flux
-entry: 805 [PAGE_MISSING]
-topic: 
+head: fortitude
+entry:
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ad586d7b1"
-unparsed: 
-line: 'Head: flux|Entry: 805 [PAGE_MISSING]|#item-ad586d7b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/183,496,344,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531232750984
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/183,496,344,102/150,/0/default.jpg
-label: flux
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0928/'>Courage</a>"
+index:
+item: "#item-75e552efe"
+unparsed:
+line: 'Head: fortitude|See: Courage|#item-75e552efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/896,254,688,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762812530
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/896,254,688,155/150,/0/default.jpg
+label: fortitude
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '307'
 layout: index_item
 collection: index2

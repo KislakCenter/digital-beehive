@@ -2,27 +2,27 @@
 pid: alpha_0125
 volume: Volume 1
 image_number: '440'
-head: 
-entry: Catechism
-topic: Catechism
+head:
+entry: Carriage
+topic: Carriage
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0474/'>Information</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0562/'>catechism</a>"
-item: "#item-317d9da14"
-unparsed: 
-line: 'Entry: Catechism|Topic: Catechism|Xref: Information|Index: catechism|#item-317d9da14'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,1046,3018,593/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499370045595
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/839,1046,600,180/250,/0/default.jpg
-label: Catechism
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1583/'>1162 [Carriage]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0581/'>carriage</a>"
+item: "#item-6ac61a69c"
+unparsed:
+line: 'Entry: Carriage|Topic: Carriage|Xref: 1162 [Carriage]|Index: carriage|#item-6ac61a69c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/800,214,3143,367/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499369938026
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/800,214,600,180/250,/0/default.jpg
+label: Carriage
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '124'
 layout: alpha_item
 collection: alpha1

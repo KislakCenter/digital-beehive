@@ -2,27 +2,27 @@
 pid: index_2436
 volume: Volume 3
 image_number: '30'
-head: martyrologies
-entry: 
-topic: 
+head: milt
+entry: "<a href='/digital-beehive/num3/num_0773/'>595 [Liver]</a>"
+topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a9963fa83"
-unparsed: 
-line: 'Head: martyrologies|Page: p.379 [Image 2.201]|#item-a9963fa83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263521929
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/400,1088,648,140/150,/0/default.jpg
-label: martyrologies
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3bd579263"
+unparsed:
+line: 'Head: milt|Entry: 595 [Liver]|#item-3bd579263'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,2096,300,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274181939
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1843,2096,300,131/150,/0/default.jpg
+label: milt
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '518'
 layout: index_item
 collection: index3

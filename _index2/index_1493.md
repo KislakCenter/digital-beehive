@@ -2,27 +2,27 @@
 pid: index_1493
 volume: Volume 3
 image_number: '21'
-head: following
-entry: 853 [PAGE_MISSING]
-topic: 
+head: fruitful
+entry: "<a href='/digital-beehive/alpha2/alpha_0355/'>a</a>"
+topic:
 first_letter: F
-page: 
-add: Imitation
-xref: 
-see: 
-index: 
-item: "#item-c014a9ad1"
-unparsed: 
-line: 'Head: following|Entry: 853 [PAGE_MISSING]|Add: Imitation|#item-c014a9ad1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,988,533,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565622540634
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/185,988,533,191/150,/0/default.jpg
-label: following
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e30a480aa"
+unparsed:
+line: 'Head: fruitful|Entry: a|#item-e30a480aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1566,405,444,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560785395095
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1566,405,444,152/150,/0/default.jpg
+label: fruitful
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '312'
 layout: index_item
 collection: index2

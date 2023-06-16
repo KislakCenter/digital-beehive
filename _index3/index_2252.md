@@ -2,27 +2,29 @@
 pid: index_2252
 volume: Volume 3
 image_number: '28'
-head: legislature
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1778 [Legislative power]</a>"
-topic: 
+head: likeness
+entry: "<a href='/digital-beehive/alpha5/num_2346/'>a</a>|<a href='/digital-beehive/num7/num_2346/'>1567
+  [Likeness]</a>|4702 [PAGE_MISSING]"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e8340e41"
-unparsed: 
-line: 'Head: legislature|Entry: 1778 [Legislative power]|#item-4e8340e41'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/404,3582,562,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843008051
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/404,3582,562,120/150,/0/default.jpg
-label: legislature
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7df09f1c2"
+unparsed:
+line: 'Head: likeness|Entry: a|Entry: 1567 [Likeness]|Entry: 4702 [PAGE_MISSING]|#item-7df09f1c2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1850,585,656,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848355453
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1850,585,656,136/150,/0/default.jpg
+label: likeness
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
+insertion_xref:
 order: '334'
 layout: index_item
 collection: index3

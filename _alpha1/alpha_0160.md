@@ -2,29 +2,29 @@
 pid: alpha_0160
 volume: Volume 1
 image_number: '443'
-head: 
-entry: Communion
-topic: Communion
+head:
+entry: Coming of Christ
+topic: Coming of Christ
 first_letter: C
-page: 
-add: 
-xref: Unity|<a href='/digital-beehive/alpha1/alpha_0147/'>Church</a>|<a href='/digital-beehive/toc/toc2_345/'>1790
-  [Communion]</a>
-see: 
-index: "<a href='/digital-beehive/index1/index_0752/'>communion</a>"
-item: "#item-04591d53c"
-unparsed: 
-line: 'Entry: Communion|Topic: Communion|Xref: Unity|Xref: Church|Xref: 1790 [Communion]|Index:
-  communion|#item-04591d53c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,1397,3131,425/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499700374351
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,1397,600,180/250,/0/default.jpg
-label: Communion
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0144/'>Chiliasm</a>|<a href='/digital-beehive/num5/num_1401/'>1047
+  [Coming of God and Christ]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0693/'>coming of Christ</a>"
+item: "#item-e202e67bc"
+unparsed:
+line: 'Entry: Coming of Christ|Topic: Coming of Christ|Xref: Chiliasm|Xref: 1047 [Coming
+  of God and Christ]|Index: coming of Christ|#item-e202e67bc'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/275,227,3203,523/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563822644312
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/275,227,600,180/250,/0/default.jpg
+label: Coming of Christ
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '159'
 layout: alpha_item
 collection: alpha1

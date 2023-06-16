@@ -2,29 +2,30 @@
 pid: alpha_0290
 volume: Volume 1
 image_number: '454'
-head: 
-entry: Equity
-topic: Equity
+head:
+entry: Epitaph
+topic: Epitaph
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0496/'>Justice</a>|<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>|<a
-  href='/digital-beehive/alpha4/alpha_0808/'>Right</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1289/'>equity</a>"
-item: "#item-814bcd187"
-unparsed: 
-line: 'Entry: Equity|Topic: Equity|Xref: Justice|Xref: Law|Xref: Right|Index: equity|#item-814bcd187'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/766,1367,2895,301/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564585108076
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/766,1367,600,180/250,/0/default.jpg
-label: Equity
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0482/'>Inscriptions</a>|<a href='/digital-beehive/num1/num_0265/'>245
+  [Epitaphs]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1301/'>epitaphs</a>"
+item: "#item-1a230df78"
+unparsed:
+line: 'Entry: Epitaph|Topic: Epitaph|Xref: Inscriptions|Xref: 245 [Epitaphs]|Index:
+  epitaphs|#item-1a230df78'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/786,236,3024,518/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564584640313
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/786,236,600,180/250,/0/default.jpg
+label: Epitaph
 location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '021'
+issue:
+also_in_entry:
+order: '018'
 layout: alpha_item
 collection: alpha2
 ---

@@ -1,30 +1,29 @@
 ---
 pid: alpha_0830
 volume: Volume 2
-image_number: '50'
-head: 
-entry: Satyre
-topic: Satyre
+image_number: '49'
+head:
+entry: Sallet
+topic: Sallet
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1072/'>Zoilus</a>|<a href='/digital-beehive/toc/toc2_270/'>1384
-  [Satyr]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3523/'>Satyre</a>"
-item: "#item-407803ef9"
-unparsed: 
-line: 'Entry: Satyre|Topic: Satyre|Xref: Zoilus|Xref: 1384 [Satyr]|Index: Satyre|#item-407803ef9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,3015,403/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922693577
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/754,1230,600,180/250,/0/default.jpg
-label: Satyre
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '182'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_3507/'>sallet</a>"
+item: "#item-a3ed6fe98"
+unparsed:
+line: 'Entry: Sallet|Topic: Sallet|Index: sallet|#item-a3ed6fe98'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/343,4670,3001,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917901257
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/343,4670,600,180/250,/0/default.jpg
+label: Sallet
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '178'
 layout: alpha_item
 collection: alpha4
 ---

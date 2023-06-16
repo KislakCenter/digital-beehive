@@ -2,28 +2,28 @@
 pid: index_0078
 volume: Volume 3
 image_number: '7'
-head: agony
-entry: "<a href='/digital-beehive/alpha1/alpha_0013/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1065
-  [Agony]</a>"
-topic: 
+head: accident
+entry: "<a href='/digital-beehive/num3/num_0704/'>555 [Accident]</a>|<a href='/digital-beehive/num10/num_3471/'>4484
+  [Accident]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-617650a3e"
-unparsed: 
-line: 'Head: agony|Entry: a|Entry: 1065 [Agony]|#item-617650a3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3173,465,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767567535
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/900,3173,465,119/150,/0/default.jpg
-label: agony
+page:
+add:
+xref:
+see:
+index:
+item: "#item-530c6efcc"
+unparsed:
+line: 'Head: accident|Entry: 555 [Accident]|Entry: 4484 [Accident]|#item-530c6efcc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/186,2172,680,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759719484
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/186,2172,680,134/150,/0/default.jpg
+label: accident
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0077'
 layout: index_item
 collection: index1

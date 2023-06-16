@@ -2,27 +2,27 @@
 pid: index_2522
 volume: Volume 3
 image_number: '30'
-head: mingle
-entry: 
-topic: 
+head: measels
+entry: "<a href='/digital-beehive/num8/num_2861/'>1939 [Measels]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1884/'>hotchpotch</a>"
-index: 
-item: "#item-e4bbe7ce8"
-unparsed: 
-line: 'Head: mingle|See: hotchpotch|#item-e4bbe7ce8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274447145
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1842,2379,652,176/150,/0/default.jpg
-label: mingle
+page:
+add:
+xref:
+see:
+index:
+item: "#item-75491b0ba"
+unparsed:
+line: 'Head: measels|Entry: 1939 [Measels]|#item-75491b0ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/416,3075,460,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265925006
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/416,3075,460,125/150,/0/default.jpg
+label: measels
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '604'
 layout: index_item
 collection: index3

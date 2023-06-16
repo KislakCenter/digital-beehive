@@ -2,29 +2,30 @@
 pid: alpha_0092
 volume: Volume 1
 image_number: '437'
-head: 
-entry: Book
-topic: Book
+head:
+entry: Body
+topic: Body
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0536/'>Library</a>|<a href='/digital-beehive/alpha4/alpha_0733/'>Printing</a>|<a
-  href='/digital-beehive/toc/toc2_202/'>1044 [Books]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0409/'>books</a>"
-item: "#item-2d96b7e19"
-unparsed: 
-line: 'Entry: Book|Topic: Book|Xref: Library|Xref: Printing|Xref: 1044 [Books]|Index:
-  books|#item-2d96b7e19'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,3005,591/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558733278488
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/399,4084,600,180/250,/0/default.jpg
-label: Book
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Member</a>|<a href='/digital-beehive/num3/num_0750/'>583
+  [Body]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0370/'>body</a>|<a href='/digital-beehive/index1/index_0371/'>body
+  of Christ</a>"
+item: "#item-4e1fb40cc"
+unparsed:
+line: 'Entry: Body|Topic: Body|Xref: Member|Xref: 583 [Body]|Index: body|Index: body
+  of Christ|#item-4e1fb40cc'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/360,2980,3058,563/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558732975812
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/360,2980,600,180/250,/0/default.jpg
+label: Body
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '091'
 layout: alpha_item
 collection: alpha1

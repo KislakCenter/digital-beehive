@@ -2,27 +2,28 @@
 pid: index_0919
 volume: Volume 3
 image_number: '15'
-head: crux ansata
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1236 [Crux ansata]</a>"
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-21f67f2ba"
-unparsed: 
-line: 'Head: crux ansata|Entry: 1236 [Crux ansata]|#item-21f67f2ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/839,2686,568,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577836106
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/839,2686,568,116/150,/0/default.jpg
-label: crux ansata
+head: day
+entry: "<a href='/digital-beehive/alpha1/alpha_0211/'>a</a>|<a href='/digital-beehive/num6/num_2115/'>1447
+  [Day]</a>"
+topic:
+first_letter: D
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e6884194d"
+unparsed:
+line: 'Head: day|Entry: a|Entry: 1447 [Day]|#item-e6884194d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321988619
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1551,1973,475,98/150,/0/default.jpg
+label: day
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0918'
 layout: index_item
 collection: index1

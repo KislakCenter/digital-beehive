@@ -2,28 +2,28 @@
 pid: index_3075
 volume: Volume 3
 image_number: '36'
-head: pore
-entry: "<a href='/digital-beehive/toc/toc2_314/'>1596 [Pore]</a>"
-topic: 
+head: plough
+entry: "<a href='/digital-beehive/num5/num_1534/'>1130 [Agriculture]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c851afa4a"
-unparsed: 
-line: 'Head: pore|Entry: 1596 [Pore]|#item-c851afa4a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1202,1022,436,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438503510
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1202,1022,436,123/150,/0/default.jpg
-label: pore
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-9c902355c"
+unparsed:
+line: 'Head: plough|Page: p.38 [Image 1.98]|Entry: 1130 [Agriculture]|#item-9c902355c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/463,1371,624,189/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207968355
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/463,1371,624,189/150,/0/default.jpg
+label: plough
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0324'
+issue:
+insertion_xref:
+order: '0323'
 layout: index_item
 collection: index4
 ---

@@ -1,29 +1,29 @@
 ---
 pid: index_3320
 volume: Volume 3
-image_number: '39'
-head: record
-entry: 843 [PAGE_MISSING]
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-002f19043"
-unparsed: 
-line: 'Head: record|Entry: 843 [PAGE_MISSING]|#item-002f19043'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463166463
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/183,229,442,165/150,/0/default.jpg
-label: record
-location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0569'
+image_number: '38'
+head: quarrelsome
+entry: "<a href='/digital-beehive/num4/num_1168/'>899 [Quarrelsome]</a>"
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fb1846ca6"
+unparsed:
+line: 'Head: quarrelsome|Entry: 899 [Quarrelsome]|#item-fb1846ca6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454853715
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/409,3566,517,110/150,/0/default.jpg
+label: quarrelsome
+location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
+issue:
+insertion_xref:
+order: '0568'
 layout: index_item
 collection: index4
 ---

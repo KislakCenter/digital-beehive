@@ -2,28 +2,28 @@
 pid: index_2843
 volume: Volume 3
 image_number: '34'
-head: out
-entry: "<a href='/digital-beehive/num3/num_0981'>688 [Out]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dfd2e1cdb"
-unparsed: 
-line: 'Head: out|Entry: 688 [Out]|#item-dfd2e1cdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,1397,481,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425337953
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/438,1397,481,141/150,/0/default.jpg
-label: out
+head: passage
+entry: "<a href='/digital-beehive/num4/num_1232/'>927 [Passage]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b86599391"
+unparsed:
+line: 'Head: passage|Entry: 927 [Passage]|#item-b86599391'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1827,367,505,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494933805
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1827,367,505,150/150,/0/default.jpg
+label: passage
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0092'
+issue:
+insertion_xref:
+order: '0091'
 layout: index_item
 collection: index4
 ---

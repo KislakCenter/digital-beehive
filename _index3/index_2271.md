@@ -2,27 +2,27 @@
 pid: index_2271
 volume: Volume 3
 image_number: '28'
-head: liberal arts
-entry: 
-topic: 
+head: levity
+entry:
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2444/'>master</a>"
-index: 
-item: "#item-f6dcb0ccc"
-unparsed: 
-line: 'Head: liberal arts|See: master|#item-f6dcb0ccc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,1499,700,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845615086
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1131,1499,700,162/150,/0/default.jpg
-label: liberal arts
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4447/'>unstable</a>"
+index:
+item: "#item-244d49d3e"
+unparsed:
+line: 'Head: levity|See: unstable|#item-244d49d3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845542601
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1139,1233,629,140/150,/0/default.jpg
+label: levity
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '353'
 layout: index_item
 collection: index3

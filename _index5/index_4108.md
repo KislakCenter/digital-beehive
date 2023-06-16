@@ -2,29 +2,28 @@
 pid: index_4108
 volume: Volume 3
 image_number: '47'
-head: theft
-entry: "<a href='/digital-beehive/num4/num_1078'>866 [Stealing]</a>|<a href='/digital-beehive/toc/toc2_375/'>2094
-  [Theft]</a>"
-topic: 
+head: thin
+entry: "<a href='/digital-beehive/num2/num_0355/'>310 [Leanness]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3bb05830f"
-unparsed: 
-line: 'Head: theft|Entry: 866 [Stealing]|Entry: 2094 [Theft]|#item-3bb05830f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,950,559,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532720355964
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/911,950,559,114/150,/0/default.jpg
-label: theft
+page:
+add:
+xref:
+see:
+index:
+item: "#item-22a27f0d6"
+unparsed:
+line: 'Head: thin|Entry: 310 [Leanness]|#item-22a27f0d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1640,343,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532720836176
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/906,1640,343,138/150,/0/default.jpg
+label: thin
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '070'
+issue:
+insertion_xref:
+order: '071'
 layout: index_item
 collection: index5
 ---

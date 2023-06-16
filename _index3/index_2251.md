@@ -2,27 +2,27 @@
 pid: index_2251
 volume: Volume 3
 image_number: '28'
-head: legion
-entry: "<a href='/digital-beehive/toc/toc2_300/'>1529 [Legion]</a>"
-topic: 
+head: to lessen
+entry: "<a href='/digital-beehive/num6/num_2179/'>1479 [to Lessen]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-31c3dbe80"
-unparsed: 
-line: 'Head: legion|Entry: 1529 [Legion]|#item-31c3dbe80'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/419,3488,479,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842953101
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/419,3488,479,167/150,/0/default.jpg
-label: legion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1092fadfd"
+unparsed:
+line: 'Head: to lessen|Entry: 1479 [to Lessen]|#item-1092fadfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844288078
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1135,575,506,123/150,/0/default.jpg
+label: to lessen
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '333'
 layout: index_item
 collection: index3

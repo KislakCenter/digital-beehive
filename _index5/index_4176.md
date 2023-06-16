@@ -2,29 +2,29 @@
 pid: index_4176
 volume: Volume 3
 image_number: '48'
-head: too hasty
-entry: "<a href='/digital-beehive/alpha5/alpha_0962/'>a</a>|<a href='/digital-beehive/num4/num_1281'>961
-  [Too hasty]</a>"
-topic: 
+head: treasure
+entry: "<a href='/digital-beehive/alpha5/alpha_0983/'>a</a>|<a href='/digital-beehive/num7/num_2230/'>1509
+  [Treasure]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-58d6b0f09"
-unparsed: 
-line: 'Head: too hasty|Entry: a |Entry: 961 [Too hasty]|#item-58d6b0f09'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/478,1152,481,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273552660
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/478,1152,481,150/150,/0/default.jpg
-label: too hasty
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bcde1c57f"
+unparsed:
+line: 'Head: treasure|Entry: a|Entry: 1509 [Treasure]|#item-bcde1c57f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1785,246,585,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561490092975
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1785,246,585,168/150,/0/default.jpg
+label: treasure
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '138'
+issue:
+insertion_xref:
+order: '139'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,28 @@
 pid: index_3107
 volume: Volume 3
 image_number: '36'
-head: praised be God!
-entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>|<a href='/digital-beehive/toc/toc2_290/'>1484
-  [Soli deo gloria]</a>"
-topic: 
+head: pot
+entry: 733 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a758144da"
-unparsed: 
-line: 'Head: praised be God!|Entry: 82 [Praise God]|Entry: 1484 [Soli deo gloria]|#item-a758144da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1895,742,701,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439923294
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1895,742,701,130/150,/0/default.jpg
-label: praised be God!
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e70c97d2c"
+unparsed:
+line: 'Head: pot|Entry: 733 [PAGE_MISSING]|#item-e70c97d2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1132,2541,460,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439081154
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1132,2541,460,127/150,/0/default.jpg
+label: pot
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0356'
+issue:
+insertion_xref:
+order: '0355'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: alpha_0261
 volume: Volume 1
 image_number: '451'
-head: 
-entry: Dream
-topic: Dream
+head:
+entry: Dog-dayes
+topic: Dog-days
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_268/'>1374 [Dream]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1145/'>dream</a>"
-item: "#item-7723640e4"
-unparsed: 
-line: 'Entry: Dream|Topic: Dream|Xref: 1374 [Dream]|Index: dream|#item-7723640e4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,2993,600/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508179157253
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/422,4149,600,180/250,/0/default.jpg
-label: Dream
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index1/index_1147/'>dog-days</a>"
+item: "#item-7c551681e"
+unparsed:
+line: 'Entry: Dog-dayes|Topic: Dog-days|Index: dog-days|#item-7c551681e'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/435,3240,2936,219/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508178209764
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/435,3240,600,180/250,/0/default.jpg
+label: Dog-dayes
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '259'
+issue:
+also_in_entry:
+order: '260'
 layout: alpha_item
 collection: alpha1
 ---

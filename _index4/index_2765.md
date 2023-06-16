@@ -2,29 +2,28 @@
 pid: index_2765
 volume: Volume 3
 image_number: '33'
-head: occasion
-entry: "<a href='/digital-beehive/alpha4/alpha_0653/'>a</a>|<a href='/digital-beehive/num3/num_1026'>706
-  [Occasion]</a>"
-topic: 
+head: ogler
+entry: 4577 [PAGE_MISSING]
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-176b912ac"
-unparsed: 
-line: 'Head: occasion|Entry: a|Entry: 706 [Occasion]|#item-176b912ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/121,2985,665,178/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347595286
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/121,2985,665,178/150,/0/default.jpg
-label: occasion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7f434190e"
+unparsed:
+line: 'Head: ogler|Entry: 4577 [PAGE_MISSING]|#item-7f434190e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/816,1042,530,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348111638
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/816,1042,530,124/150,/0/default.jpg
+label: ogler
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0014'
+issue:
+insertion_xref:
+order: '0015'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_3484
 volume: Volume 3
 image_number: '40'
-head: sadduces
-entry: "<a href='/digital-beehive/toc/toc2_290/'>1483 [Sadduces]</a>"
-topic: 
-first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bdb90dfff"
-unparsed: 
-line: 'Head: sadduces|Entry: 1483 [Sadduces]|#item-bdb90dfff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1775,1845,549,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234844484
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1775,1845,549,138/150,/0/default.jpg
-label: sadduces
+head: rime. reiff
+entry: "<a href='/digital-beehive/num2/num_0465/'>383 [Rime upon the ground]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f26a47423"
+unparsed:
+line: 'Head: rime. reiff|Entry: 383 [Rime upon the ground]|#item-f26a47423'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232269028
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/443,2571,555,137/150,/0/default.jpg
+label: rime. reiff
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0733'
+issue:
+insertion_xref:
+order: '0732'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,29 @@
 pid: index_2347
 volume: Volume 3
 image_number: '29'
-head: disordinate love
-entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
-topic: 
+head: lust
+entry: "<a href='/digital-beehive/num6/num_2014/'>1402 [Lasciviousness]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3da94f461"
-unparsed: 
-line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-3da94f461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/160,2568,642,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179816488
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/160,2568,642,107/150,/0/default.jpg
-label: disordinate love
+page:
+add: "<a href='/digital-beehive/index1/index_0822/'>Concup</a>|<a href='/digital-beehive/index3/index_2155/'>lasciv</a>|<a
+  href='/digital-beehive/index4/index_3060/'>pleasure</a>|<a href='/digital-beehive/index2/index_1370/'>eye</a>"
+xref:
+see:
+index:
+item: "#item-510e75603"
+unparsed:
+line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
+  eye|#item-510e75603'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/851,924,646,184/150,/0/default.jpg
+label: lust
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '429'
 layout: index_item
 collection: index3

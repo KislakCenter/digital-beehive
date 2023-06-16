@@ -2,28 +2,30 @@
 pid: index_1723
 volume: Volume 3
 image_number: '23'
-head: guardian angels
-entry: "<a href='/digital-beehive/toc/toc2_385/'>2196 [Guardian Angels]</a>"
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6dd319f91"
-unparsed: 
-line: 'Head: guardian angels|Entry: 2196 [Guardian Angels]|#item-6dd319f91'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/182,2120,526,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232291881
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/182,2120,526,163/150,/0/default.jpg
-label: guardian angels
+head: heart
+entry: "<a href='/digital-beehive/alpha2/alpha_0408/'>a</a>|<a href='/digital-beehive/num7/num_2226/'>1507
+  [Heart]</a>|<a href='/digital-beehive/num10/num_3452/'>4468 [Heart]</a>"
+topic:
+first_letter: H
+page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-ef301ece2"
+unparsed:
+line: 'Head: heart|Page: p.43 [Image 1.103]|Entry: a|Entry: 1507 [Heart]|Entry: 4468
+  [Heart]|#item-ef301ece2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,861,751,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243925993
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1553,861,751,127/150,/0/default.jpg
+label: heart
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '541'
+issue:
+insertion_xref:
+order: '542'
 layout: index_item
 collection: index2
 ---

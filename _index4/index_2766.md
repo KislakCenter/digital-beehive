@@ -2,28 +2,28 @@
 pid: index_2766
 volume: Volume 3
 image_number: '33'
-head: to occupy
-entry: "<a href='/digital-beehive/num1/num_0256/'>239 [Possession]</a>"
-topic: 
+head: opposit
+entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c296b4ec9"
-unparsed: 
-line: 'Head: to occupy|Entry: 239 [Possession]|#item-c296b4ec9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/102,3130,645,186/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536347623287
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/102,3130,645,186/150,/0/default.jpg
-label: to occupy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-84cebb0aa"
+unparsed:
+line: 'Head: opposit|Entry: 690 [Contrariety]|#item-84cebb0aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1501,1078,509,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538161632319
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1501,1078,509,124/150,/0/default.jpg
+label: opposit
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0015'
+issue:
+insertion_xref:
+order: '0016'
 layout: index_item
 collection: index4
 ---

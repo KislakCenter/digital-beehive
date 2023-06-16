@@ -2,28 +2,28 @@
 pid: index_3015
 volume: Volume 3
 image_number: '35'
-head: to pinch
-entry: "<a href='/digital-beehive/num4/num_1180'>907 [To pull or pluck]</a>"
-topic: 
+head: plagiary
+entry: "<a href='/digital-beehive/num3/num_0788/'>600 [Plagiarius]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-262b11c0f"
-unparsed: 
-line: 'Head: to pinch|Entry: 907 [To pull or pluck]|#item-262b11c0f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976645176
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1487,1776,478,126/150,/0/default.jpg
-label: to pinch
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9e2016152"
+unparsed:
+line: 'Head: plagiary|Entry: 600 [Plagiarius]|#item-9e2016152'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539977143134
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1511,2932,499,189/150,/0/default.jpg
+label: plagiary
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0264'
+issue:
+insertion_xref:
+order: '0263'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_1851
 volume: Volume 3
 image_number: '24'
-head: hoarsness
-entry: 807 [PAGE_MISSING]
-topic: 
+head: household stuff
+entry: "<a href='/digital-beehive/num3/num_1059/'>718 [Household stuff]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7cfc58916"
-unparsed: 
-line: 'Head: hoarsness|Entry: 807 [PAGE_MISSING]|#item-7cfc58916'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,841,439,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581746883
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,841,439,175/150,/0/default.jpg
-label: hoarsness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d743d8fa5"
+unparsed:
+line: 'Head: household stuff|Entry: 718 [Household stuff]|#item-d743d8fa5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1820,1117,503,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586914273
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1820,1117,503,116/150,/0/default.jpg
+label: household stuff
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '669'
+issue:
+insertion_xref:
+order: '670'
 layout: index_item
 collection: index2
 ---

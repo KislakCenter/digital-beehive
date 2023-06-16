@@ -2,29 +2,29 @@
 pid: index_1687
 volume: Volume 3
 image_number: '22'
-head: gram[m]ars
-entry: "<a href='/digital-beehive/alpha2/alpha_0380/'>a</a>"
-topic: 
+head: glass
+entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>|<a href='/digital-beehive/num7/num_2532/'>1655
+  [Glass]</a>"
+topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-831e63a81"
-unparsed: 
-line: 'Head: gram[m]ars|Entry: a|Page: p.379 [Image 2.201]|#item-831e63a81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1829,2037,398,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053020893
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1829,2037,398,165/150,/0/default.jpg
-label: gram[m]ars
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-3956ccdfd"
+unparsed:
+line: 'Head: glass|Page: p.32 [Image 1.92]|Entry: a|Entry: 1655 [Glass]|#item-3956ccdfd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/406,2979,608,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044050826
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/406,2979,608,136/150,/0/default.jpg
+label: glass
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 'Pastorius links to section 358 on page 379. There is currently no protocol
-  for specifying a specific item on a page reference. '
-insertion_xref: 
-order: '505'
+issue:
+insertion_xref:
+order: '506'
 layout: index_item
 collection: index2
 ---

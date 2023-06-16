@@ -2,27 +2,27 @@
 pid: index_2579
 volume: Volume 3
 image_number: '31'
-head: more
-entry: "<a href='/digital-beehive/num3/num_0807'>609 [More]</a>"
-topic: 
+head: moral law
+entry: "<a href='/digital-beehive/num8/num_2748/'>1815 [Moral]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b832f68fd"
-unparsed: 
-line: 'Head: more|Entry: 609 [More]|#item-b832f68fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/874,1774,303,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565796112779
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/874,1774,303,109/150,/0/default.jpg
-label: more
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1e2e54727"
+unparsed:
+line: 'Head: moral law|Entry: 1815 [Moral]|#item-1e2e54727'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355836700
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/851,1729,416,74/150,/0/default.jpg
+label: moral law
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '661'
 layout: index_item
 collection: index3

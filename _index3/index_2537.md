@@ -2,28 +2,27 @@
 pid: index_2537
 volume: Volume 3
 image_number: '31'
-head: misery
-entry: "<a href='/digital-beehive/alpha3/alpha_0597/'>a</a>|<a href='/digital-beehive/toc/toc2_267/'>1370
-  [Misery]</a>"
-topic: 
+head: miscarry
+entry:
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f2929cbce"
-unparsed: 
-line: 'Head: misery|Entry: a|Entry: 1370 [Misery]|#item-f2929cbce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/187,728,498,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351026717
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/187,728,498,145/150,/0/default.jpg
-label: misery
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4456/'>untimely</a>"
+index:
+item: "#item-fafa8c453"
+unparsed:
+line: 'Head: miscarry|See: untimely|#item-fafa8c453'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350499044
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/157,260,719,152/150,/0/default.jpg
+label: miscarry
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '619'
 layout: index_item
 collection: index3

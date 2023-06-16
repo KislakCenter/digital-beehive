@@ -2,27 +2,27 @@
 pid: index_0612
 volume: Volume 3
 image_number: '12'
-head: charnelhouse
-entry: 
-topic: 
+head: childhood
+entry: "<a href='/digital-beehive/alpha1/alpha_0143/'>a</a>|1865 [PAGE_MISSING]"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2f6dfd57d"
-unparsed: 
-line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1826,569,644,138/150,/0/default.jpg
-label: charnelhouse
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3419f0784"
+unparsed:
+line: 'Head: childhood|Entry: a|Entry: 1865 [PAGE_MISSING]|#item-3419f0784'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532460951400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1833,2321,560,111/150,/0/default.jpg
+label: childhood
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0611'
 layout: index_item
 collection: index1

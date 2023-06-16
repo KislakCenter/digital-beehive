@@ -2,28 +2,28 @@
 pid: index_2842
 volume: Volume 3
 image_number: '34'
-head: Ovidius
-entry: 4590 [PAGE_MISSING]
-topic: 
+head: orthography
+entry: "<a href='/digital-beehive/num2/num_0595/'>476 [Orthography]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-23e037706"
-unparsed: 
-line: 'Head: Ovidius|Entry: 4590 [PAGE_MISSING]|#item-23e037706'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/469,1332,534,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425319464
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/469,1332,534,149/150,/0/default.jpg
-label: Ovidius
+page:
+add:
+xref:
+see:
+index:
+item: "#item-581025b93"
+unparsed:
+line: 'Head: orthography|Entry: 476 [Orthography]|#item-581025b93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/512,337,640,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538424955981
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/512,337,640,180/150,/0/default.jpg
+label: orthography
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0091'
+issue:
+insertion_xref:
+order: '0090'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,30 @@
 pid: alpha_1009
 volume: Volume 2
 image_number: '62'
-head: 
-entry: Unthankfull
-topic: Unthankfull
+head:
+entry: University
+topic: University
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0382/'>gratitude</a>|<a href='/digital-beehive/num2/num_0403/'>347
-  [Unthankful]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4421/'>unthankful</a>"
-item: "#item-400ddd2e0"
-unparsed: 
-line: 'Entry: Unthankfull|Topic: Unthankfull|Xref: gratitude|Xref: 347 [Unthankful]|Index:
-  unthankful|#item-400ddd2e0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/755,4242,2945,412/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528913678234
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/755,4242,600,180/250,/0/default.jpg
-label: Unthankfull
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0839/'>Schoole</a>|Professors|<a href='/digital-beehive/num4/num_1172/'>902
+  [University]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4379/'>universities</a>"
+item: "#item-fb3f37194"
+unparsed:
+line: 'Entry: University|Topic: University|Xref: Schoole|Xref: Professors|Xref: 902
+  [University]|Index: universities|#item-fb3f37194'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/793,2150,2973,491/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528912421661
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/793,2150,600,180/250,/0/default.jpg
+label: University
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '075'
+issue: The point of reference for "Professors" is unclear.
+also_in_entry:
+order: '069'
 layout: alpha_item
 collection: alpha5
 ---

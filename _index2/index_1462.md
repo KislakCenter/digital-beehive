@@ -2,27 +2,28 @@
 pid: index_1462
 volume: Volume 3
 image_number: '20'
-head: first love
-entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [First Love]</a>"
-topic: 
+head: flesh
+entry: "<a href='/digital-beehive/alpha2/alpha_0334/'>a</a>|<a href='/digital-beehive/num3/num_0655/'>522
+  [Flesh]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bb6d06c0d"
-unparsed: 
-line: 'Head: first love|Entry: 1601 [First Love]|#item-bb6d06c0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562614470957
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1787,1618,470,158/150,/0/default.jpg
-label: first love
+page:
+add:
+xref:
+see:
+index:
+item: "#item-52fb37308"
+unparsed:
+line: 'Head: flesh|Entry: a|Entry: 522 [Flesh]|#item-52fb37308'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2881,483,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617390813
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1796,2881,483,166/150,/0/default.jpg
+label: flesh
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '281'
 layout: index_item
 collection: index2

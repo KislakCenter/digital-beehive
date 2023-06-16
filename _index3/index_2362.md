@@ -2,27 +2,27 @@
 pid: index_2362
 volume: Volume 3
 image_number: '29'
-head: to lull asleep
-entry: 
-topic: 
+head: Loretto
+entry: "<a href='/digital-beehive/num6/num_1845/'>1319 [Loretto]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0892/'>cradle</a>"
-index: 
-item: "#item-3bae6c218"
-unparsed: 
-line: 'Head: to lull asleep|See: cradle|#item-3bae6c218'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185020979
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,551,655,129/150,/0/default.jpg
-label: to lull asleep
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7f07a3bfe"
+unparsed:
+line: 'Head: Loretto|Entry: 1319 [Loretto]|#item-7f07a3bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/180,1483,387,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178277556
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/180,1483,387,143/150,/0/default.jpg
+label: Loretto
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '444'
 layout: index_item
 collection: index3

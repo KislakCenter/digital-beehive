@@ -2,29 +2,28 @@
 pid: index_4307
 volume: Volume 3
 image_number: '49'
-head: vengeange
-entry: "<a href='/digital-beehive/num3/num_0634'>504 [Revenge]</a>|<a href='/digital-beehive/toc/toc2_393/'>2246
-  [Revenge]</a>"
-topic: 
-first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b94b50d32"
-unparsed: 
-line: 'Head: vengeange|Entry: 504 [Revenge]|Entry: 2246 [Revenge]|#item-b94b50d32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/934,2327,705,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658627876
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/934,2327,705,139/150,/0/default.jpg
-label: vengeange
+head: turnips
+entry: "<a href='/digital-beehive/num3/num_0984/'>689 [Turnip]</a>"
+topic:
+first_letter: T
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1e86ceae9"
+unparsed:
+line: 'Head: turnips|Entry: 689 [Turnip]|#item-1e86ceae9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,2059,411,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561656817526
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/188,2059,411,157/150,/0/default.jpg
+label: turnips
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '269'
+issue:
+insertion_xref:
+order: '270'
 layout: index_item
 collection: index5
 ---

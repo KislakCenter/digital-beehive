@@ -3,7 +3,7 @@ pid: index_2762
 volume: Volume 3
 image_number: '33'
 head: nurse
-entry: "<a href='/digital-beehive/num7/num_2392/'>1593 [Nurse]</a>"
+entry: "<a href='/digital-beehive/num7/num_2393/'>1593 [Nurse]</a>"
 topic:
 first_letter: N
 page:
@@ -23,7 +23,7 @@ label: nurse
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '830'
+order: '831'
 layout: index_item
 collection: index3
 ---

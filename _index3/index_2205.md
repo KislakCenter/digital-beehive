@@ -2,27 +2,27 @@
 pid: index_2205
 volume: Volume 3
 image_number: '27'
-head: last time
-entry: "<a href='/digital-beehive/alpha3/alpha_0513/'>a</a>"
-topic: 
+head: labourers
+entry: 4608 [PAGE_MISSING]
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2926196df"
-unparsed: 
-line: 'Head: last time|Entry: a|#item-2926196df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1537,1829,371,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835959722
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1537,1829,371,84/150,/0/default.jpg
-label: last time
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8bce1e586"
+unparsed:
+line: 'Head: labourers|Entry: 4608 [PAGE_MISSING]|#item-8bce1e586'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559832035621
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/838,2950,509,101/150,/0/default.jpg
+label: labourers
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '287'
 layout: index_item
 collection: index3

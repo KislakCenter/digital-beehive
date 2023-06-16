@@ -2,29 +2,28 @@
 pid: index_4571
 volume: Volume 3
 image_number: '53'
-head: wit. witticism
-entry: "<a href='/digital-beehive/num2/num_0357/'>313 [Wit]</a>|<a href='/digital-beehive/toc/toc2_413/'>2383
-  [Wit]</a>"
-topic: 
+head: wrath
+entry: "<a href='/digital-beehive/alpha5/alpha_1069/'>a</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-43eb9c689"
-unparsed: 
-line: 'Head: wit. witticism|Entry: 313 [Wit]|Entry: 2383 [Wit]|#item-43eb9c689'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792021065
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/177,1338,743,121/150,/0/default.jpg
-label: wit. witticism
+page:
+add:
+xref:
+see:
+index:
+item: "#item-677ec7e4f"
+unparsed:
+line: 'Head: wrath|Entry: a|#item-677ec7e4f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1597,627,356,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798440613
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1597,627,356,91/150,/0/default.jpg
+label: wrath
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '533'
+issue:
+insertion_xref:
+order: '534'
 layout: index_item
 collection: index5
 ---

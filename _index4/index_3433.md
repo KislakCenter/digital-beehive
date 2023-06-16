@@ -2,28 +2,28 @@
 pid: index_3433
 volume: Volume 3
 image_number: '40'
-head: ripeness
-entry: "<a href='/digital-beehive/num3/num_0814'>612 [Ripeness]</a>"
-topic: 
+head: run away
+entry: "<a href='/digital-beehive/num6/num_1885/'>1339 [Run away]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f383a352d"
-unparsed: 
-line: 'Head: ripeness|Entry: 612 [Ripeness]|#item-f383a352d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232516956
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/441,2941,480,152/150,/0/default.jpg
-label: ripeness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c04313dc0"
+unparsed:
+line: 'Head: run away|Entry: 1339 [Run away]|#item-c04313dc0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1826,350,507,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234353943
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1826,350,507,121/150,/0/default.jpg
+label: run away
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0682'
+issue:
+insertion_xref:
+order: '0681'
 layout: index_item
 collection: index4
 ---

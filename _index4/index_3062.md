@@ -2,28 +2,28 @@
 pid: index_3062
 volume: Volume 3
 image_number: '36'
-head: poison
-entry: "<a href='/digital-beehive/toc/toc2_302/'>1540 [Poisoning]</a>"
-topic: 
+head: populosity
+entry: "<a href='/digital-beehive/num5/num_1436/'>1067 [Many]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4311/'>venom</a>"
-index: 
-item: "#item-96a984c27"
-unparsed: 
-line: 'Head: poison|See: venom|Entry: 1540 [Poisoning]|#item-96a984c27'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548437996503
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/452,2951,682,144/150,/0/default.jpg
-label: poison
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2414/'>many</a>"
+index:
+item: "#item-7d62fa0aa"
+unparsed:
+line: 'Head: populosity|See: many|Entry: 1067 [Many]|#item-7d62fa0aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,948,754,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438481998
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1192,948,754,158/150,/0/default.jpg
+label: populosity
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0311'
+issue:
+insertion_xref:
+order: '0310'
 layout: index_item
 collection: index4
 ---

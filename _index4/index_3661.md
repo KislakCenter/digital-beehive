@@ -2,28 +2,28 @@
 pid: index_3661
 volume: Volume 3
 image_number: '42'
-head: shameless
-entry: "<a href='/digital-beehive/num2/num_0586/'>471 [Impudence]</a>"
-topic: 
+head: Self opinioned
+entry: "<a href='/digital-beehive/num11/num_3548/'>4853 [Selfopinionated]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4fbf219c1"
-unparsed: 
-line: 'Head: shameless|Entry: 471 [Impudence]|#item-4fbf219c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1072,2920,432,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575000213
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1072,2920,432,136/150,/0/default.jpg
-label: shameless
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e98d1c2b2"
+unparsed:
+line: 'Head: Self opinioned|Entry: 4853 [Selfopinionated]|#item-e98d1c2b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/373,2072,685,82/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244748763
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/373,2072,685,82/150,/0/default.jpg
+label: Self opinioned
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0910'
+issue:
+insertion_xref:
+order: '0909'
 layout: index_item
 collection: index4
 ---

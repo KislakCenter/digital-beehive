@@ -1,31 +1,31 @@
 ---
 pid: alpha_0802
 volume: Volume 2
-image_number: '48'
-head: 
-entry: Revelling
-topic: Revelling
+image_number: '47'
+head:
+entry: Rest
+topic: Rest
 first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0286/'>Epicurism</a>|<a href='/digital-beehive/alpha3/alpha_0482/'>Intemperance</a>|<a
-  href='/digital-beehive/num4/num_1322'>990 [Revelling]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3403/'>revelling. sauß und schmauß</a>"
-item: "#item-c80f58e9c"
-unparsed: 
-line: 'Entry: Revelling|Topic: Revelling|Xref: Epicurism|Xref: Intemperance|Xref:
-  990 [Revelling]|Index: revelling. sauß und schmauß|#item-c80f58e9c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,2967,440/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528823966575
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0515/809,1365,600,180/250,/0/default.jpg
-label: Revelling
-location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '154'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0773/'>Quietness</a>|<a href='/digital-beehive/alpha4/alpha_0824/'>Sabbath</a>|<a
+  href='/digital-beehive/num7/num_2490/'>1638 [Nothing]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3356/'>rest & restless</a>"
+item: "#item-c17661053"
+unparsed:
+line: 'Entry: Rest|Topic: Rest|Xref: Quietness|Xref: Sabbath|Xref: 1638 [Nothing]|Index:
+  rest & restless|#item-c17661053'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/370,4283,2992,415/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528822645620
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0514/370,4283,600,180/250,/0/default.jpg
+label: Rest
+location: "<a href='/digital-beehive/toc/toc2_037/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '150'
 layout: alpha_item
 collection: alpha4
 ---

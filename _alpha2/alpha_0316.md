@@ -2,28 +2,31 @@
 pid: alpha_0316
 volume: Volume 1
 image_number: '456'
-head: 
-entry: Fate
-topic: Fate
+head:
+entry: Farewell
+topic: Farewell
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_242/'>1243 [Fate]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1412/'>fate</a>"
-item: "#item-60683e6ab"
-unparsed: 
-line: 'Entry: Fate|Topic: Fate|Xref: 1243 [Fate]|Index: fate|#item-60683e6ab'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,3017,355/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564589335080
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/748,4082,600,180/250,/0/default.jpg
-label: Fate
+page:
+add:
+xref: 712 [Departure]|<a href='/digital-beehive/alpha1/alpha_0055/'>Banishmt</a>|<a
+  href='/digital-beehive/num3/num_0939/'>675 [Farewell]</a>
+see:
+index: "<a href='/digital-beehive/index2/index_1465/'>farewel</a>"
+item: "#item-b17b8e943"
+unparsed:
+line: 'Entry: Farewell|Topic: Farewell|Xref: 712 [Departure]|Xref: Banishmt|Xref:
+  675 [Farewell]|Index: farewel|#item-b17b8e943'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/767,2743,2989,564/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564589077567
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/767,2743,600,180/250,/0/default.jpg
+label: Farewell
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '047'
+issue: The point of reference for "Departure" is unclear. Pastorius perhaps intends
+  numerical entry 713 [Departure].
+also_in_entry:
+order: '044'
 layout: alpha_item
 collection: alpha2
 ---

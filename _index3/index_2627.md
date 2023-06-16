@@ -2,28 +2,27 @@
 pid: index_2627
 volume: Volume 3
 image_number: '31'
-head: mystery
-entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>|<a href='/digital-beehive/toc/toc2_195/'>1006
-  [Mystery]</a>"
-topic: 
+head: mother disease
+entry: "<a href='/digital-beehive/num8/num_2910/'>1980 [fits of the Mother]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-569ede8f3"
-unparsed: 
-line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2768,568,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2768,568,113/150,/0/default.jpg
-label: mystery
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dc4e85621"
+unparsed:
+line: 'Head: mother disease|Entry: 1980 [fits of the Mother]|#item-dc4e85621'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356918013
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/852,3266,533,105/150,/0/default.jpg
+label: mother disease
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '709'
 layout: index_item
 collection: index3

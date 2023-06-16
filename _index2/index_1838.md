@@ -2,29 +2,28 @@
 pid: index_1838
 volume: Volume 3
 image_number: '24'
-head: hinderance
-entry: "<a href='/digital-beehive/alpha2/alpha_0421/'>a</a>|<a href='/digital-beehive/num3/num_0736'>576
-  [Hinderance]</a>|<a href='/digital-beehive/toc/toc2_331/'>1683 [Hinderance]</a>"
-topic: 
+head: hermaphrodite
+entry: 731 [PAGE_MISSING]
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-34fa2d749"
-unparsed: 
-line: 'Head: hinderance|Entry: a|Entry: 576 [Hinderance]|Entry: 1683 [Hinderance]|#item-34fa2d749|'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/414,2758,689,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577392281
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/414,2758,689,115/150,/0/default.jpg
-label: hinderance
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-d874b1524"
+unparsed:
+line: 'Head: hermaphrodite|Page: p.42 [Image 1.102]|Entry: 731 [PAGE_MISSING]|#item-d874b1524'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/424,559,692,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574495996
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/424,559,692,153/150,/0/default.jpg
+label: hermaphrodite
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '656'
+issue:
+insertion_xref:
+order: '657'
 layout: index_item
 collection: index2
 ---

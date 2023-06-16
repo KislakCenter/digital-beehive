@@ -2,28 +2,28 @@
 pid: index_3924
 volume: Volume 3
 image_number: '45'
-head: to strain a sinew
-entry: "<a href='/digital-beehive/toc/toc2_398/'>2275 [Luxation]</a>"
-topic: 
+head: sterility
+entry:
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-311db591c"
-unparsed: 
-line: 'Head: to strain a sinew|Entry: 2275 [Luxation]|#item-311db591c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,1083,585,89/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290651344
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/882,1083,585,89/150,/0/default.jpg
-label: to strain a sinew
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0329/'>barren[n]ess</a>"
+index:
+item: "#item-26bd82276"
+unparsed:
+line: 'Head: sterility|See: barren[n]ess|#item-26bd82276'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290050527
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/221,1689,705,149/150,/0/default.jpg
+label: sterility
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1173'
+issue:
+insertion_xref:
+order: '1172'
 layout: index_item
 collection: index4
 ---

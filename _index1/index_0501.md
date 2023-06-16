@@ -2,27 +2,27 @@
 pid: index_0501
 volume: Volume 3
 image_number: '11'
-head: by reason of
-entry: "<a href='/digital-beehive/toc/toc2_349/'>1825 [Sake]</a>"
-topic: 
+head: but
+entry: "<a href='/digital-beehive/num3/num_0751/'>584 [But]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ba0c45f6e"
-unparsed: 
-line: 'Head: by reason of|Entry: 1825 [Sake]|#item-ba0c45f6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/862,3275,509,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493746189
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/862,3275,509,102/150,/0/default.jpg
-label: by reason of
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c183e49e6"
+unparsed:
+line: 'Head: but|Entry: 584 [But]|#item-c183e49e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/870,2302,332,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421829266
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/870,2302,332,113/150,/0/default.jpg
+label: but
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0500'
 layout: index_item
 collection: index1

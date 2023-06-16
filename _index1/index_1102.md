@@ -2,28 +2,28 @@
 pid: index_1102
 volume: Volume 3
 image_number: '17'
-head: distilling
-entry: "<a href='/digital-beehive/num3/num_0767'>592 [Distilling]</a>"
-topic: 
+head: Drawing in picture
+entry: 4523 [PAGE_MISSING]
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9a2f2ea53"
-unparsed: 
-line: 'Head: distilling|Entry: 592 [Distilling]|#item-9a2f2ea53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559843392041
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/774,373,587,123/150,/0/default.jpg
-label: distilling
+page:
+add:
+xref:
+see:
+index:
+item: "#item-548596353"
+unparsed:
+line: 'Head: Drawing in picture|Entry: 4523 [PAGE_MISSING]|#item-548596353'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1571,1379,680,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451649740
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1571,1379,680,138/150,/0/default.jpg
+label: Drawing in picture
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1101'
+issue:
+insertion_xref:
+order: '1100'
 layout: index_item
 collection: index1
 ---

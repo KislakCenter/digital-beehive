@@ -26,7 +26,7 @@ label: Zoilus
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '138'
+order: '137'
 layout: alpha_item
 collection: alpha5
 ---

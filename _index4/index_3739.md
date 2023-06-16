@@ -2,28 +2,28 @@
 pid: index_3739
 volume: Volume 3
 image_number: '43'
-head: skill
-entry: "<a href='/digital-beehive/alpha4/alpha_0882/'>a</a>"
-topic: 
+head: silkworm
+entry: "<a href='/digital-beehive/num7/num_2325/'>1558 [Silkworm]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e7bdbec67"
-unparsed: 
-line: 'Head: skill|Entry: a|#item-e7bdbec67'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/879,1454,323,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583350661
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/879,1454,323,94/150,/0/default.jpg
-label: skill
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-0e104c57a"
+unparsed:
+line: 'Head: silkworm|Page: p.37 [Image 1.97]|Entry: 1558 [Silkworm]|#item-0e104c57a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,1700,639,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582212936
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/169,1700,639,140/150,/0/default.jpg
+label: silkworm
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0988'
+issue:
+insertion_xref:
+order: '0987'
 layout: index_item
 collection: index4
 ---

@@ -23,7 +23,7 @@ label: dying words
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1176'
+order: '1178'
 layout: index_item
 collection: index1
 ---

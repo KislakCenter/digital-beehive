@@ -2,30 +2,28 @@
 pid: index_4562
 volume: Volume 3
 image_number: '53'
-head: artificial Wines
-entry: "<a href='/digital-beehive/num3/num_0765'>590 [artificial Wines]</a>|<a href='/digital-beehive/toc/toc2_357/'>1940
-  [Artificial Wines]</a>"
-topic: 
+head: woman's Courses
+entry: 838 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2527/'>1653 [Menstrua]</a>
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7b85a04f4"
-unparsed: 
-line: 'Head: artificial Wines|Entry: 590 [artificial Wines]|Entry: 1940 [Artificial
-  Wines]|#item-7b85a04f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791321924
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,475,710,169/150,/0/default.jpg
-label: artificial Wines
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0a5d33f70"
+unparsed:
+line: 'Head: woman''s Courses|Entry: 838 [PAGE_MISSING]|Entry: 1653 [Menstrua]|#item-0a5d33f70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560794501597
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/878,291,657,149/150,/0/default.jpg
+label: woman's Courses
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '524'
+issue:
+insertion_xref:
+order: '525'
 layout: index_item
 collection: index5
 ---

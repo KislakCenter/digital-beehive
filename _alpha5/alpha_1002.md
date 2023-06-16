@@ -1,31 +1,30 @@
 ---
 pid: alpha_1002
 volume: Volume 2
-image_number: '62'
-head: 
-entry: Understanding
-topic: Understanding
+image_number: '61'
+head:
+entry: Day of Visitation
+topic: Day of Visitation
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0504/'>Knowledge</a>|<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a
-  href='/digital-beehive/toc/toc2_333/'>1693 [Understanding]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4371/'>understanding</a>"
-item: "#item-fc6d5a61c"
-unparsed: 
-line: 'Entry: Understanding|Topic: Understanding|Xref: Knowledge|Xref: Learning|Xref:
-  1693 [Understanding]|Index: understanding|#item-fc6d5a61c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,2985,633/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912064179
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/789,1235,600,180/250,/0/default.jpg
-label: Understanding
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '068'
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1771/'>1276 [Day of Visitation]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4335/'>day of Visitn</a>"
+item: "#item-1cbb90b37"
+unparsed:
+line: 'Entry: Day of Visitation|Topic: Day of Visitation|Xref: 1276 [Day of Visitation]|Index:
+  day of Visitn|#item-1cbb90b37'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/323,4529,2995,298/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004469454
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/323,4529,600,180/250,/0/default.jpg
+label: Day of Visitation
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '062'
 layout: alpha_item
 collection: alpha5
 ---

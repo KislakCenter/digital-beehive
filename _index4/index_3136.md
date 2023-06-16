@@ -2,28 +2,28 @@
 pid: index_3136
 volume: Volume 3
 image_number: '37'
-head: press
-entry: "<a href='/digital-beehive/num2/num_0477/'>392 [Press]</a>"
-topic: 
+head: presence of Christ
+entry: "<a href='/digital-beehive/num2/num_0289/'>261 [Absence & Presence of Xst]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bbadabb72"
-unparsed: 
-line: 'Head: press|Entry: 392 [Press]|#item-bbadabb72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/101,743,379,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565204382778
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/101,743,379,135/150,/0/default.jpg
-label: press
+page:
+add:
+xref:
+see:
+index:
+item: "#item-772ab6bc1"
+unparsed:
+line: 'Head: presence of Christ|Entry: 261 [Absence & Presence of Xst]|#item-772ab6bc1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/98,354,593,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550865893640
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/98,354,593,126/150,/0/default.jpg
+label: presence of Christ
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0385'
+issue:
+insertion_xref:
+order: '0384'
 layout: index_item
 collection: index4
 ---

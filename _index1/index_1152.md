@@ -2,28 +2,28 @@
 pid: index_1152
 volume: Volume 3
 image_number: '17'
-head: drink artificial
-entry: "<a href='/digital-beehive/num3/num_0765'>590 [artificial Wines]</a>"
-topic: 
+head: drowsiness
+entry: "<a href='/digital-beehive/num2/num_0329/'>292 [Drowsiness]</a>"
+topic:
 first_letter: D
-page: 
-add: "<a href='/digital-beehive/index2/index_1777/'>health</a>"
-xref: 
-see: 
-index: 
-item: "#item-882827ccb"
-unparsed: 
-line: 'Head: drink artificial|Entry: 590 [artificial Wines]|Add: health|#item-882827ccb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1460,2379,605,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452754384
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1460,2379,605,159/150,/0/default.jpg
-label: drink artificial
+page:
+add:
+xref:
+see:
+index:
+item: "#item-38369470f"
+unparsed:
+line: 'Head: drowsiness|Entry: 292 [Drowsiness]|#item-38369470f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1452,3161,586,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560453319638
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1452,3161,586,173/150,/0/default.jpg
+label: drowsiness
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1151'
+issue:
+insertion_xref:
+order: '1150'
 layout: index_item
 collection: index1
 ---

@@ -2,30 +2,29 @@
 pid: alpha_0620
 volume: Volume 2
 image_number: '34'
-head: 
-entry: Musick
-topic: Musick
+head:
+entry: Multitude
+topic: Multitude
 first_letter: M
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0880/'>Singing</a>|Sound|<a href='/digital-beehive/num2/num_0526/'>425
-  [Musick]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2620/'>musick</a>"
-item: "#item-843ee86fd"
-unparsed: 
-line: 'Entry: Musick|Topic: Musick|Xref: Singing|Xref: Sound|Xref: 425 [Musick]|Index:
-  musick|#item-843ee86fd'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,3033,555/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564777940324
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0501/704,3921,600,180/250,/0/default.jpg
-label: Musick
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0574/'>many men</a>|864 [PAGE_MISSING]"
+see:
+index: "[INDEX_HEADING_MISSING]"
+item: "#item-321235c52"
+unparsed:
+line: 'Entry: Multitude|Topic: Multitude|Xref: many men|Xref: 864 [PAGE_MISSING]|Index:
+  [INDEX_HEADING_MISSING]|#item-321235c52'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/698,2862,3069,485/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564777721268
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/698,2862,600,180/250,/0/default.jpg
+label: Multitude
 location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
-issue: The point of reference for "Sound" is unclear.
-also_in_entry: 
-order: '176'
+issue:
+also_in_entry:
+order: '173'
 layout: alpha_item
 collection: alpha3
 ---

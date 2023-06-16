@@ -2,27 +2,27 @@
 pid: index_0365
 volume: Volume 3
 image_number: '10'
-head: better
-entry: "<a href='/digital-beehive/num3/num_0679'>539 [beter]</a>|4583 [PAGE_MISSING]"
-topic: 
+head: brain
+entry: "<a href='/digital-beehive/num8/num_2925/'>1993 [Brain]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-70b1edd74"
-unparsed: 
-line: 'Head: better|Entry: 539 [beter]|Entry: 4583 [PAGE_MISSING]|#item-70b1edd74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/363,3046,572,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531148940538
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/363,3046,572,146/150,/0/default.jpg
-label: better
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6c7ff92ba"
+unparsed:
+line: 'Head: brain|Entry: 1993 [Brain]|#item-6c7ff92ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1767,3612,370,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417430809
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1767,3612,370,135/150,/0/default.jpg
+label: brain
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0364'
 layout: index_item
 collection: index1

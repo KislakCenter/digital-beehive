@@ -2,27 +2,27 @@
 pid: index_0779
 volume: Volume 3
 image_number: '14'
-head: condemnation of ones fault
-entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
-topic: 
+head: contrariety. √®contr√†
+entry: "<a href='/digital-beehive/num3/num_0986/'>690 [Contrariety]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bd9fee6b0"
-unparsed: 
-line: 'Head: condemnation of ones fault|Entry: 418 [Renouncing]|#item-bd9fee6b0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216714356
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/395,2547,667,79/150,/0/default.jpg
-label: condemnation of ones fault
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1a4f8aca9"
+unparsed:
+line: 'Head: contrariety. √®contr√†|Entry: 690 [Contrariety]|#item-1a4f8aca9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1846,783,717,190/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559352349
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1846,783,717,190/150,/0/default.jpg
+label: contrariety. √®contr√†
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0778'
 layout: index_item
 collection: index1

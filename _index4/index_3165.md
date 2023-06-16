@@ -2,28 +2,28 @@
 pid: index_3165
 volume: Volume 3
 image_number: '37'
-head: priviledge
-entry: "<a href='/digital-beehive/alpha4/alpha_0737/'>a</a>"
-topic: 
+head: to propose
+entry: 742 [PAGE_MISSING]|856 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0f6dd47f5"
-unparsed: 
-line: 'Head: priviledge|Entry: a|#item-0f6dd47f5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/776,725,443,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867594234
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/776,725,443,143/150,/0/default.jpg
-label: priviledge
+page:
+add:
+xref:
+see:
+index:
+item: "#item-626d46bb6"
+unparsed:
+line: 'Head: to propose|Entry: 742 [PAGE_MISSING]|Entry: 856 [PAGE_MISSING]|#item-626d46bb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1494,1300,649,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869268495
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1494,1300,649,113/150,/0/default.jpg
+label: to propose
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0414'
+issue:
+insertion_xref:
+order: '0413'
 layout: index_item
 collection: index4
 ---

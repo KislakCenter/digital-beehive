@@ -2,27 +2,27 @@
 pid: index_2676
 volume: Volume 3
 image_number: '32'
-head: neesing
-entry: 
-topic: 
+head: narrow
+entry: 827 [PAGE_MISSING]
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3767/'>Sneez</a>"
-index: 
-item: "#item-a9e91958e"
-unparsed: 
-line: 'Head: neesing|See: Sneez|#item-a9e91958e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3510,582,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439550512
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/373,3510,582,148/150,/0/default.jpg
-label: neesing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-715c6ff52"
+unparsed:
+line: 'Head: narrow|Entry: 827 [PAGE_MISSING]|#item-715c6ff52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1019,437,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437513790
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1019,437,106/150,/0/default.jpg
+label: narrow
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '758'
 layout: index_item
 collection: index3

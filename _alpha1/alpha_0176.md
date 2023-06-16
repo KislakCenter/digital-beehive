@@ -2,29 +2,29 @@
 pid: alpha_0176
 volume: Volume 1
 image_number: '444'
-head: 
-entry: Contradiction
-topic: Contradiction
+head:
+entry: Contempt
+topic: Contempt
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0211/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1170'>901
-  [Contradiction]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0828/'>contradiction</a>"
-item: "#item-ecfae9f9c"
-unparsed: 
-line: 'Entry: Contradiction|Topic: Contradiction|Xref: 201 [Taverns]|Xref: 901 [Contradiction]|Index:
-  contradiction|#item-ecfae9f9c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/780,4393,3061,667/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499784916861
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/780,4393,600,180/250,/0/default.jpg
-label: Contradiction
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>Derision</a>|<a href='/digital-beehive/num2/num_0585/'>470
+  [Disregard]</a>|<a href='/digital-beehive/num2/num_0302/'>269 [Contempt]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0849/'>contempt</a>"
+item: "#item-05f1df571"
+unparsed:
+line: 'Entry: Contempt|Topic: Contempt|Xref: Derision|Xref: 470 [Disregard]|Xref:
+  269 [Contempt]|Index: contempt|#item-05f1df571'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/790,2776,3063,568/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499784729323
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/790,2776,600,180/250,/0/default.jpg
+label: Contempt
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '175'
 layout: alpha_item
 collection: alpha1

@@ -2,28 +2,28 @@
 pid: index_4278
 volume: Volume 3
 image_number: '49'
-head: two headed
-entry: "<a href='/digital-beehive/toc/toc2_317/'>1612 [Double-headed]</a>"
-topic: 
+head: tube
+entry:
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-aaec67f99"
-unparsed: 
-line: 'Head: two headed|Entry: 1612 [Double-headed]|#item-aaec67f99'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,2782,460,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657157179
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/208,2782,460,110/150,/0/default.jpg
-label: two headed
+page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-8ae3811e2"
+unparsed:
+line: 'Head: tube|Page: p.39 [Image 1.99]|#item-8ae3811e2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,1005,294,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655714565
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/214,1005,294,121/150,/0/default.jpg
+label: tube
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '240'
+issue:
+insertion_xref:
+order: '241'
 layout: index_item
 collection: index5
 ---

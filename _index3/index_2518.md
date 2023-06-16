@@ -2,28 +2,27 @@
 pid: index_2518
 volume: Volume 3
 image_number: '30'
-head: mind
-entry: "<a href='/digital-beehive/alpha3/alpha_0594/'>a</a>|<a href='/digital-beehive/toc/toc2_318/'>1620
-  [Mind]</a>"
-topic: 
+head: mean men
+entry: 4456 [WORD_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e54db0a0"
-unparsed: 
-line: 'Head: mind|Entry: a|Entry: 1620 [Mind]|#item-4e54db0a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1810,2149,500,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274271545
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1810,2149,500,109/150,/0/default.jpg
-label: mind
+page:
+add:
+xref:
+see:
+index:
+item: "#item-48b269d06"
+unparsed:
+line: 'Head: mean men|Entry: 4456 [WORD_MISSING]|#item-48b269d06'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560265784674
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/407,2948,487,91/150,/0/default.jpg
+label: mean men
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '600'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_3899
 volume: Volume 3
 image_number: '45'
-head: stews
-entry: 765 [PAGE_MISSING]
-topic: 
+head: stoutness
+entry: "<a href='/digital-beehive/num6/num_1846/'>1319 [Stoutness]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1bb2fc9a5"
-unparsed: 
-line: 'Head: stews|Entry: 765 [PAGE_MISSING]|#item-1bb2fc9a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,2031,370,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290080197
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/190,2031,370,98/150,/0/default.jpg
-label: stews
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6641f453b"
+unparsed:
+line: 'Head: stoutness|Entry: 1319 [Stoutness]|#item-6641f453b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,870,417,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449632330
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/898,870,417,117/150,/0/default.jpg
+label: stoutness
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1148'
+issue:
+insertion_xref:
+order: '1147'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_1021
 volume: Volume 3
 image_number: '16'
-head: desertion
-entry: "<a href='/digital-beehive/alpha1/alpha_0228/'>a</a>"
-topic: 
+head: digression
+entry: "<a href='/digital-beehive/num2/num_0403/'>347 [Digression]</a>"
+topic:
 first_letter: D
-page: 
-add: "<a href='/digital-beehive/index4/index_3470/'>run[n] away</a>"
-xref: 
-see: 
-index: 
-item: "#item-fb2a1c9f4"
-unparsed: 
-line: 'Head: desertion|Entry: a|Add: run[n] away|#item-fb2a1c9f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,2210,538,201/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923086013
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1103,2210,538,201/150,/0/default.jpg
-label: desertion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-28cffae74"
+unparsed:
+line: 'Head: digression|Entry: 347 [Digression]|#item-28cffae74'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783796508
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1780,1663,526,130/150,/0/default.jpg
+label: digression
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1020'
+issue:
+insertion_xref:
+order: '1019'
 layout: index_item
 collection: index1
 ---

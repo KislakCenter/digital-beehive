@@ -2,28 +2,28 @@
 pid: index_3347
 volume: Volume 3
 image_number: '39'
-head: to release
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1418 [To Remit]</a>"
-topic: 
+head: resistance
+entry: "<a href='/digital-beehive/alpha4/alpha_0801/'>a</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ae7573b24"
-unparsed: 
-line: 'Head: to release|Entry: 1418 [To Remit]|#item-ae7573b24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/110,3059,593,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468627265
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/110,3059,593,177/150,/0/default.jpg
-label: to release
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5872e4d97"
+unparsed:
+line: 'Head: resistance|Entry: a|#item-5872e4d97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229131277
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1480,1065,553,155/150,/0/default.jpg
+label: resistance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0596'
+issue:
+insertion_xref:
+order: '0595'
 layout: index_item
 collection: index4
 ---

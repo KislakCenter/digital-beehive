@@ -2,27 +2,27 @@
 pid: index_1618
 volume: Volume 3
 image_number: '22'
-head: Glaucha hospital books there printed
-entry: 
-topic: 
+head: generation
+entry: "<a href='/digital-beehive/num7/num_2402/'>1597 [Generation]</a>"
+topic:
 first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-700090667"
-unparsed: 
-line: 'Head: Glaucha hospital books there printed|Page: p.62 [Image 1.129]|#item-700090667'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/404,2825,769,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043967570
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/404,2825,769,147/150,/0/default.jpg
-label: Glaucha hospital books there printed
+page:
+add:
+xref:
+see:
+index:
+item: "#item-66bb9b068"
+unparsed:
+line: 'Head: generation|Entry: 1597 [Generation]|#item-66bb9b068'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/442,298,489,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041830066
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/442,298,489,107/150,/0/default.jpg
+label: generation
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '437'
 layout: index_item
 collection: index2

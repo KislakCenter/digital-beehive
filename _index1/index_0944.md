@@ -2,31 +2,28 @@
 pid: index_0944
 volume: Volume 3
 image_number: '15'
-head: danger
-entry: "<a href='/digital-beehive/alpha1/alpha_0206/'>a</a>|<a href='/digital-beehive/num3/num_0934'>673
-  [Danger]</a>|<a href='/digital-beehive/toc/toc2_257/'>1320 [Danger]</a>|<a href='/digital-beehive/toc/toc2_360/'>1964
-  [Danger]</a>"
-topic: 
-first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e16127466"
-unparsed: 
-line: 'Head: danger|Entry: a|Entry: 673 [Danger]|Entry: 1320 [Danger]|Entry: 1964
-  [Danger]|#item-e16127466'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321676455
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1536,1338,820,122/150,/0/default.jpg
-label: danger
+head: crux ansata
+entry: "<a href='/digital-beehive/num5/num_1704/'>1236 [Crux ansata]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-21f67f2ba"
+unparsed:
+line: 'Head: crux ansata|Entry: 1236 [Crux ansata]|#item-21f67f2ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/839,2686,568,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577836106
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/839,2686,568,116/150,/0/default.jpg
+label: crux ansata
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0943'
+issue:
+insertion_xref:
+order: '0942'
 layout: index_item
 collection: index1
 ---

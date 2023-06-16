@@ -2,27 +2,27 @@
 pid: index_1634
 volume: Volume 3
 image_number: '22'
-head: go to!
-entry: 4560 [PAGE_MISSING]
-topic: 
+head: geometry
+entry: "<a href='/digital-beehive/num6/num_1768/'>1274 [Geometry]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cfa9d8bae"
-unparsed: 
-line: 'Head: go to!|Entry: 4560 [PAGE_MISSING]|#item-cfa9d8bae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046109548
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1149,999,438,121/150,/0/default.jpg
-label: go to!
+page:
+add:
+xref:
+see:
+index:
+item: "#item-328fb527c"
+unparsed:
+line: 'Head: geometry|Entry: 1274 [Geometry]|#item-328fb527c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,920,500,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042437274
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/412,920,500,122/150,/0/default.jpg
+label: geometry
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '453'
 layout: index_item
 collection: index2

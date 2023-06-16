@@ -2,28 +2,28 @@
 pid: index_4123
 volume: Volume 3
 image_number: '47'
-head: 'Tho: of Kempis'
-entry: "<a href='/digital-beehive/toc/toc2_195/'>1009 [Thomas of Kempis]</a>"
-topic: 
+head: tenderness
+entry: 833 [PAGE_MISSING]
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-79d9639f3"
-unparsed: 
-line: 'Head: Tho: of Kempis|Entry: 1009 [Thomas of Kempis]|#item-79d9639f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/861,2303,655,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532721825091
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/861,2303,655,143/150,/0/default.jpg
-label: 'Tho: of Kempis'
+page:
+add:
+xref:
+see:
+index:
+item: "#item-476398229"
+unparsed:
+line: 'Head: tenderness|Entry: 833 [PAGE_MISSING]|#item-476398229'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/171,2112,471,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532714267057
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/171,2112,471,120/150,/0/default.jpg
+label: tenderness
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '085'
+issue:
+insertion_xref:
+order: '086'
 layout: index_item
 collection: index5
 ---

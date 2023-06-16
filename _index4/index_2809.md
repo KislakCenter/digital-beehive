@@ -2,28 +2,28 @@
 pid: index_2809
 volume: Volume 3
 image_number: '33'
-head: opposit
-entry: "<a href='/digital-beehive/num3/num_0986'>690 [Contrariety]</a>"
-topic: 
+head: obstinacy
+entry: "<a href='/digital-beehive/alpha4/alpha_0657/'>a</a>|743 [PAGE_MISSING]"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-84cebb0aa"
-unparsed: 
-line: 'Head: opposit|Entry: 690 [Contrariety]|#item-84cebb0aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1501,1078,509,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161632319
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1501,1078,509,124/150,/0/default.jpg
-label: opposit
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4bafeade0"
+unparsed:
+line: 'Head: obstinacy|Entry: a|Entry: 743 [PAGE_MISSING]|#item-4bafeade0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/103,2720,690,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347476499
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/103,2720,690,127/150,/0/default.jpg
+label: obstinacy
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0058'
+issue:
+insertion_xref:
+order: '0057'
 layout: index_item
 collection: index4
 ---

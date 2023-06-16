@@ -2,29 +2,28 @@
 pid: index_4482
 volume: Volume 3
 image_number: '52'
-head: washing
-entry: "<a href='/digital-beehive/alpha5/alpha_1022/'>a</a>|<a href='/digital-beehive/toc/toc2_206/'>1061
-  [Washing]</a>"
-topic: 
+head: weeds
+entry: 809 [PAGE_MISSING]
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-be34df83f"
-unparsed: 
-line: 'Head: washing|Entry: a|Entry: 1061 [Washing]|#item-be34df83f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960041171
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/545,259,570,140/150,/0/default.jpg
-label: washing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2b04f41e7"
+unparsed:
+line: 'Head: weeds|Entry: 809 [PAGE_MISSING]|#item-2b04f41e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1102,404,400,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968065763
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1102,404,400,134/150,/0/default.jpg
+label: weeds
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '444'
+issue:
+insertion_xref:
+order: '445'
 layout: index_item
 collection: index5
 ---

@@ -2,27 +2,27 @@
 pid: index_0178
 volume: Volume 3
 image_number: '8'
-head: appeal
-entry: "<a href='/digital-beehive/num1/num_0151/'>145 [Appeal]</a>"
-topic: 
+head: ancestors
+entry: 776 [PAGE_MISSING]
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9f6bf47d8"
-unparsed: 
-line: 'Head: appeal|Entry: 145 [Appeal]|#item-9f6bf47d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1109,1463,389,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760408129
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1109,1463,389,119/150,/0/default.jpg
-label: appeal
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0fef4bf12"
+unparsed:
+line: 'Head: ancestors|Entry: 776 [PAGE_MISSING]|#item-0fef4bf12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/383,1484,528,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758266184
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/383,1484,528,133/150,/0/default.jpg
+label: ancestors
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0177'
 layout: index_item
 collection: index1

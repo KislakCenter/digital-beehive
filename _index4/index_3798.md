@@ -2,29 +2,28 @@
 pid: index_3798
 volume: Volume 3
 image_number: '44'
-head: soothsayers
-entry: "<a href='/digital-beehive/num1/num_0041/'>41 [False Prophets]</a>|<a href='/digital-beehive/toc/toc2_309/'>1571
-  [Soothsayers]</a>"
-topic: 
+head: a spot
+entry: 789 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d820dc130"
-unparsed: 
-line: 'Head: soothsayers|Entry: 41 [False Prophets]|Entry: 1571 [Soothsayers]|#item-d820dc130'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,902,543,186/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565288226805
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/560,902,543,186/150,/0/default.jpg
-label: soothsayers
+page:
+add:
+xref:
+see:
+index:
+item: "#item-575ee9f93"
+unparsed:
+line: 'Head: a spot|Entry: 789 [PAGE_MISSING]|#item-575ee9f93'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1819,1580,374,83/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530105240503
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1819,1580,374,83/150,/0/default.jpg
+label: a spot
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1047'
+issue:
+insertion_xref:
+order: '1046'
 layout: index_item
 collection: index4
 ---

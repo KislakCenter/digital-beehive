@@ -2,27 +2,27 @@
 pid: index_1978
 volume: Volume 3
 image_number: '25'
-head: imprimis
-entry: 
-topic: 
+head: Jesus
+entry: "<a href='/digital-beehive/alpha3/alpha_0452/'>a</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1458/'>first</a>"
-index: 
-item: "#item-c6f4d5e90"
-unparsed: 
-line: 'Head: imprimis|See: first|#item-c6f4d5e90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,2532,589,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667415347
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,2532,589,140/150,/0/default.jpg
-label: imprimis
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f7f96b109"
+unparsed:
+line: 'Head: Jesus|Entry: a|#item-f7f96b109'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559661112556
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/162,2081,296,176/150,/0/default.jpg
+label: Jesus
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '060'
 layout: index_item
 collection: index3

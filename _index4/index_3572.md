@@ -2,28 +2,29 @@
 pid: index_3572
 volume: Volume 3
 image_number: '41'
-head: Sea gods
-entry: "<a href='/digital-beehive/toc/toc2_270/'>1383 [Neptune]</a>"
-topic: 
+head: Saxony
+entry: "<a href='/digital-beehive/num10/num_3344/'>2372 [Saxony]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-912b9305d"
-unparsed: 
-line: 'Head: Sea gods|Entry: 1383 [Neptune]|#item-912b9305d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1539,484,459,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242156353
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1539,484,459,145/150,/0/default.jpg
-label: Sea gods
+page:
+add:
+xref:
+see:
+index:
+item: "#item-14bdac9e5"
+unparsed:
+line: 'Head: Saxony|Entry: 2372 [Saxony]|#item-14bdac9e5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/155,2468,484,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239982774
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/155,2468,484,109/150,/0/default.jpg
+label: Saxony
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0821'
+issue: The intended point of reference meant by "1372" is unclear.|This index entry
+  mistakenly lists 1372. Pastorius likely meant to list 2372 [Saxony].
+insertion_xref:
+order: '0820'
 layout: index_item
 collection: index4
 ---

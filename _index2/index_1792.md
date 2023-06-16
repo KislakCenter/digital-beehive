@@ -2,28 +2,28 @@
 pid: index_1792
 volume: Volume 3
 image_number: '23'
-head: heir
-entry: 
-topic: 
-first_letter: H
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1813/'>heritage</a>"
-index: 
-item: "#item-92d20a86b"
-unparsed: 
-line: 'Head: heir|See: heritage|#item-92d20a86b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1523,2005,535,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559570550638
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1523,2005,535,166/150,/0/default.jpg
-label: heir
+head: gum
+entry: "<a href='/digital-beehive/num10/num_3209/'>2259 [Gum]</a>"
+topic:
+first_letter: G
+page:
+add:
+xref:
+see:
+index:
+item: "#item-72d3276d2"
+unparsed:
+line: 'Head: gum|Entry: 2259 [Gum]|#item-72d3276d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,2988,358,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233582306
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/150,2988,358,101/150,/0/default.jpg
+label: gum
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '610'
+issue:
+insertion_xref:
+order: '611'
 layout: index_item
 collection: index2
 ---

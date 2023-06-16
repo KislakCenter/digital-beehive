@@ -1,29 +1,31 @@
 ---
 pid: alpha_1025
 volume: Volume 2
-image_number: '64'
-head: 
-entry: Water
-topic: Water
+image_number: '63'
+head:
+entry: Wars miseries
+topic: Wars miseries
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_304/'>1546 [Water]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4491/'>water</a>"
-item: "#item-5bb81e6fc"
-unparsed: 
-line: 'Entry: Water|Topic: Water|Xref: 1546 [Water]|Index: water|#item-5bb81e6fc'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,2971,521/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529523586023
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/817,695,600,180/250,/0/default.jpg
-label: Water
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '091'
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0804/'>608 [Ruin]</a>|<a href='/digital-beehive/num6/num_2043/'>1416
+  [Evils of war]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4458/'>wars miseries</a>"
+item: "#item-05ccd66db"
+unparsed:
+line: 'Entry: Wars miseries|Topic: Wars miseries|Xref: 608 [Ruin]|Xref: 1416 [Evils
+  of war]|Index: wars miseries|#item-05ccd66db'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/360,3661,2970,428/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522561082
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/360,3661,600,180/250,/0/default.jpg
+label: Wars miseries
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '085'
 layout: alpha_item
 collection: alpha5
 ---

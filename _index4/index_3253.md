@@ -2,29 +2,28 @@
 pid: index_3253
 volume: Volume 3
 image_number: '38'
-head: quarter
-entry: a
-topic: 
+head: to quicken
+entry: "<a href='/digital-beehive/num4/num_1190/'>911 [To Quicken]</a>"
+topic:
 first_letter: Q
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6ed391101"
-unparsed: 
-line: 'Head: quarter|Entry: a|#item-6ed391101'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,281,428,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454931177
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,281,428,91/150,/0/default.jpg
-label: quarter
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0eda6fe88"
+unparsed:
+line: 'Head: to quicken|Entry: 911 [To Quicken]|#item-0eda6fe88'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455144305
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1159,958,563,190/150,/0/default.jpg
+label: to quicken
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
-insertion_xref: 
-order: '0502'
+issue:
+insertion_xref:
+order: '0501'
 layout: index_item
 collection: index4
 ---

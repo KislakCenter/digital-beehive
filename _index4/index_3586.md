@@ -2,28 +2,28 @@
 pid: index_3586
 volume: Volume 3
 image_number: '41'
-head: secretary
-entry: "<a href='/digital-beehive/alpha4/alpha_0840/'>a</a>"
-topic: 
+head: scale
+entry: "<a href='/digital-beehive/num1/num_0231/'>219 [Balance]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-41397788f"
-unparsed: 
-line: 'Head: secretary|Entry: a|#item-41397788f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1962,515,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242683221
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1556,1962,515,106/150,/0/default.jpg
-label: secretary
+page:
+add:
+xref:
+see:
+index:
+item: "#item-35a29dc41"
+unparsed:
+line: 'Head: scale|Entry: 219 [Balance]|#item-35a29dc41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/150,3004,433,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240080053
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/150,3004,433,145/150,/0/default.jpg
+label: scale
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0835'
+issue:
+insertion_xref:
+order: '0834'
 layout: index_item
 collection: index4
 ---

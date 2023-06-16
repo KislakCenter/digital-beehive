@@ -2,27 +2,27 @@
 pid: index_1437
 volume: Volume 3
 image_number: '20'
-head: fewness
-entry: "<a href='/digital-beehive/alpha2/alpha_0324/'>a</a>"
-topic: 
+head: fellow sufferer
+entry: "<a href='/digital-beehive/num10/num_3204/'>2256 [Fellow Sufferer]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-58dd353c0"
-unparsed: 
-line: 'Head: fewness|Entry: a|#item-58dd353c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1116,2794,466,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562598632479
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1116,2794,466,153/150,/0/default.jpg
-label: fewness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-61f77d756"
+unparsed:
+line: 'Head: fellow sufferer|Entry: 2256 [Fellow Sufferer]|#item-61f77d756'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,1956,599,177/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562184528585
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,1956,599,177/150,/0/default.jpg
+label: fellow sufferer
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '256'
 layout: index_item
 collection: index2

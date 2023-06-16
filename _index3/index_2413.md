@@ -2,27 +2,27 @@
 pid: index_2413
 volume: Volume 3
 image_number: '29'
-head: manifesta[ti]on
-entry: 
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3401/'>revelation</a>"
-index: 
-item: "#item-1bea52bca"
-unparsed: 
-line: 'Head: manifesta[ti]on|See: revelation|#item-1bea52bca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2488,709,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196193168
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2488,709,116/150,/0/default.jpg
-label: manifesta[ti]on
+head: low
+entry: "<a href='/digital-beehive/num1/num_0249/'>231 [Low]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c9c5f69c0"
+unparsed:
+line: 'Head: low|Entry: 231 [Low]|#item-c9c5f69c0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/170,3129,274,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180525356
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/170,3129,274,117/150,/0/default.jpg
+label: low
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '495'
 layout: index_item
 collection: index3

@@ -2,27 +2,27 @@
 pid: index_2090
 volume: Volume 3
 image_number: '26'
-head: invective
-entry: "<a href='/digital-beehive/num2/num_0459/'>381 [Invective]</a>"
-topic: 
+head: inhabitants
+entry: "<a href='/digital-beehive/num10/num_3228/'>2270 [Inhabitants]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2c36d0e32"
-unparsed: 
-line: 'Head: invective|Entry: 381 [Invective]|#item-2c36d0e32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1857,990,457,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559751230514
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1857,990,457,106/150,/0/default.jpg
-label: invective
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8de7a682e"
+unparsed:
+line: 'Head: inhabitants|Entry: 2270 [Inhabitants]|#item-8de7a682e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745107097
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/418,2569,548,104/150,/0/default.jpg
+label: inhabitants
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '172'
 layout: index_item
 collection: index3

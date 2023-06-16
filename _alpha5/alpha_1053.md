@@ -1,30 +1,31 @@
 ---
 pid: alpha_1053
 volume: Volume 2
-image_number: '66'
-head: 
-entry: Word of God
-topic: Word of God
+image_number: '65'
+head:
+entry: Womanish
+topic: Womanish
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1169'>900 [Word of God]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4604/'>word of God</a>"
-item: "#item-2e7f9bce6"
-unparsed: 
-line: 'Entry: Word of God|Topic: Word of God|Xref: 900 [Word of God]|Index: word of
-  God|#item-2e7f9bce6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,1809,2994,488/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529595930719
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/780,1809,600,180/250,/0/default.jpg
-label: Word of God
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '119'
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1986/'>1388 [Love of Women]</a>|<a href='/digital-beehive/num5/num_1623/'>1192
+  [Effeminate]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4651/'>womanish</a>"
+item: "#item-25cdbc304"
+unparsed:
+line: 'Entry: Womanish|Topic: Womanish|Xref: 1388 [Love of Women]|Xref: 1192 [Effeminate]|Index:
+  womanish|#item-25cdbc304'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/359,4738,2949,343/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529594629747
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/359,4738,600,180/250,/0/default.jpg
+label: Womanish
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '113'
 layout: alpha_item
 collection: alpha5
 ---

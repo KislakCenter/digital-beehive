@@ -2,28 +2,28 @@
 pid: index_3461
 volume: Volume 3
 image_number: '40'
-head: rue
-entry: "<a href='/digital-beehive/alpha4/alpha_0817/'>a</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d9bd6a5d8"
-unparsed: 
-line: 'Head: rue|Entry: a|#item-d9bd6a5d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2568,284,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233862497
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1142,2568,284,116/150,/0/default.jpg
-label: rue
+head: Sacriledge
+entry: "<a href='/digital-beehive/num1/num_0267/'>247 [Sacriledge]</a>"
+topic:
+first_letter: S
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ed4b80754"
+unparsed:
+line: 'Head: Sacriledge|Entry: 247 [Sacriledge]|#item-ed4b80754'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1780,1624,549,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234782317
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1780,1624,549,156/150,/0/default.jpg
+label: Sacriledge
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0710'
+issue:
+insertion_xref:
+order: '0709'
 layout: index_item
 collection: index4
 ---

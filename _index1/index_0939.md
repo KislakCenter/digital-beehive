@@ -2,28 +2,29 @@
 pid: index_0939
 volume: Volume 3
 image_number: '15'
-head: dairy
-entry: "<a href='/digital-beehive/toc/toc2_280/'>1434 [Milk]</a>"
-topic: 
+head: to speak of dead men
+entry: "<a href='/digital-beehive/num10/num_3252/'>2290 [To speak of them that are
+  dead]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-13cb439f6"
-unparsed: 
-line: 'Head: dairy|Entry: 1434 [Milk]|#item-13cb439f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540390933289
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1507,914,409,93/150,/0/default.jpg
-label: dairy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-107679c7e"
+unparsed:
+line: 'Head: to speak of dead men|Entry: 2290 [To speak of them that are dead]|#item-107679c7e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391840662
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1520,2536,624,95/150,/0/default.jpg
+label: to speak of dead men
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0938'
+issue:
+insertion_xref:
+order: '0937'
 layout: index_item
 collection: index1
 ---

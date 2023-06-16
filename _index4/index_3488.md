@@ -2,28 +2,29 @@
 pid: index_3488
 volume: Volume 3
 image_number: '40'
-head: saffe
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1986 [Saffe]</a>"
-topic: 
-first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1886ba88d"
-unparsed: 
-line: 'Head: saffe|Entry: 1986 [Saffe]|#item-1886ba88d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1813,2326,405,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234965369
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1813,2326,405,99/150,/0/default.jpg
-label: saffe
+head: ring leader
+entry: "<a href='/digital-beehive/alpha4/alpha_0815/'>a</a>|<a href='/digital-beehive/num9/num_3124/'>2181
+  [Ring-leader]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1d4ef9dba"
+unparsed:
+line: 'Head: ring leader|Entry: a|Entry: 2181 [Ring-leader]|#item-1d4ef9dba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/434,2805,639,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232491647
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/434,2805,639,144/150,/0/default.jpg
+label: ring leader
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0737'
+issue:
+insertion_xref:
+order: '0736'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,28 @@
 pid: index_1474
 volume: Volume 3
 image_number: '20'
-head: flax
-entry: 853 [PAGE_MISSING]
-topic: 
+head: flight
+entry: "<a href='/digital-beehive/alpha2/alpha_0336/'>a</a>|<a href='/digital-beehive/num3/num_0911/'>660
+  [Flight]</a>|<a href='/digital-beehive/num6/num_1875/'>1333 [Flight]</a>"
+topic:
 first_letter: F
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8bb352856"
-unparsed: 
-line: 'Head: flax|Page: p.38 [Image 1.98]|Entry: 853 [PAGE_MISSING]|#item-8bb352856'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1798,2505,546,195/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562616345582
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1798,2505,546,195/150,/0/default.jpg
-label: flax
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0eb4770dd"
+unparsed:
+line: 'Head: flight|Entry: a|Entry: 660 [Flight]|Entry: 1333 [Flight]|#item-0eb4770dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1802,3244,635,238/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562617677469
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1802,3244,635,238/150,/0/default.jpg
+label: flight
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '293'
 layout: index_item
 collection: index2

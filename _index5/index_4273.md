@@ -2,28 +2,28 @@
 pid: index_4273
 volume: Volume 3
 image_number: '49'
-head: turtledoves
-entry: "<a href='/digital-beehive/num3/num_0761'>588 [Dove]</a>"
-topic: 
+head: Thos. Tryons writing
+entry:
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-facd25a1e"
-unparsed: 
-line: 'Head: turtledoves|Entry: 588 [Dove]|#item-facd25a1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656905871
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,2283,528,118/150,/0/default.jpg
-label: turtledoves
+page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-8cccbb8ee"
+unparsed:
+line: 'Head: Thos. Tryons writing|Page: p.62 [Image 1.129]|#item-8cccbb8ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/206,816,692,192/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561655600795
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/206,816,692,192/150,/0/default.jpg
+label: Thos. Tryons writing
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '235'
+issue:
+insertion_xref:
+order: '236'
 layout: index_item
 collection: index5
 ---

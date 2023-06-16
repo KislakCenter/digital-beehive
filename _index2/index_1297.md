@@ -2,27 +2,27 @@
 pid: index_1297
 volume: Volume 3
 image_number: '19'
-head: Esau
-entry: "<a href='/digital-beehive/toc/toc2_352/'>1901 [Esau]</a>"
-topic: 
+head: evangelists
+entry:
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-65e263ae6"
-unparsed: 
-line: 'Head: Esau|Entry: 1901 [Esau]|#item-65e263ae6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/141,2546,308,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277124736
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/141,2546,308,104/150,/0/default.jpg
-label: Esau
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1628/'>gospel</a>"
+index:
+item: "#item-17332b14b"
+unparsed:
+line: 'Head: evangelists|See: gospel|#item-17332b14b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350963400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/855,832,697,184/150,/0/default.jpg
+label: evangelists
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '116'
 layout: index_item
 collection: index2

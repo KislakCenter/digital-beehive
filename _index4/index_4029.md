@@ -2,28 +2,29 @@
 pid: index_4029
 volume: Volume 3
 image_number: '46'
-head: sword
-entry: "<a href='/digital-beehive/toc/toc2_228/'>1175 [Weapons]</a>"
-topic: 
+head: superstition
+entry: "<a href='/digital-beehive/alpha4/alpha_0934/'>a</a>|<a href='/digital-beehive/num4/num_1263/'>946
+  [Superstition]</a>"
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-498c66c8b"
-unparsed: 
-line: 'Head: sword|Page: p.40 [Image 1.100]|Entry: 1175 [Weapons]|#item-498c66c8b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531741554515
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1089,2728,598,77/150,/0/default.jpg
-label: sword
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d4e1ca046"
+unparsed:
+line: 'Head: superstition|Entry: a|Entry: 946 [Superstition]|#item-d4e1ca046'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/451,1772,635,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530473760756
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/451,1772,635,155/150,/0/default.jpg
+label: superstition
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1278'
+issue:
+insertion_xref:
+order: '1255'
 layout: index_item
 collection: index4
 ---

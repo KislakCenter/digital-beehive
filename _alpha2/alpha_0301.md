@@ -2,30 +2,28 @@
 pid: alpha_0301
 volume: Volume 1
 image_number: '455'
-head: 
-entry: External appearance
-topic: External appearance
+head:
+entry: Exercise
+topic: Exercise
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0846/'>Seeming</a>|<a href='/digital-beehive/alpha4/alpha_0864/'>Shape</a>|<a
-  href='/digital-beehive/num2/num_0540/'>437 [External Appearance]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1360/'>external appearance</a>"
-item: "#item-e1e329d42"
-unparsed: 
-line: 'Entry: External appearance|Topic: External appearance|Xref: Seeming|Xref: Shape|Xref:
-  437 [External Appearance]|Index: external appearance|#item-e1e329d42'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,1596,3109,481/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587416080
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/359,1596,600,180/250,/0/default.jpg
-label: External appearance
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1899/'>1345 [Exercise]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1292/'>exercise</a>"
+item: "#item-d845c95d0"
+unparsed:
+line: 'Entry: Exercise|Topic: Exercise|XRef: 1345 [Exercise]|Index: exercise|#item-d845c95d0'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/384,547,3103,303/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587146356
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/384,547,600,180/250,/0/default.jpg
+label: Exercise
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '032'
+issue:
+also_in_entry:
+order: '029'
 layout: alpha_item
 collection: alpha2
 ---

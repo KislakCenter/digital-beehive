@@ -2,29 +2,28 @@
 pid: index_2924
 volume: Volume 3
 image_number: '34'
-head: pattern
-entry: "<a href='/digital-beehive/num2/num_0326/'>290 [for Example]</a>|<a href='/digital-beehive/toc/toc2_319/'>1625
-  [Example]</a>"
-topic: 
+head: palatine
+entry: 763 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4726570ed"
-unparsed: 
-line: 'Head: pattern|Entry: 290 [for Example]|Entry: 1625 [Example]|#item-4726570ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495748788
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1830,2256,607,155/150,/0/default.jpg
-label: pattern
+page:
+add:
+xref:
+see:
+index:
+item: "#item-77a54a75d"
+unparsed:
+line: 'Head: palatine|Entry: 763 [PAGE_MISSING]|#item-77a54a75d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/415,3064,561,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426272747
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/415,3064,561,118/150,/0/default.jpg
+label: palatine
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0173'
+issue:
+insertion_xref:
+order: '0172'
 layout: index_item
 collection: index4
 ---

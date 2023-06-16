@@ -2,29 +2,29 @@
 pid: alpha_0455
 volume: Volume 2
 image_number: '21'
-head: 
-entry: Images
-topic: Images
+head:
+entry: Ignoble
+topic: Ignoble
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0445/'>Idolatry</a>|<a href='/digital-beehive/num4/num_1273'>955
-  [Images]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_1956/'>images</a>"
-item: "#item-5c5901a59"
-unparsed: 
-line: 'Entry: Images|Topic: Images|Xref: Idolatry|Xref: 955 [Images]|Index: images|#item-5c5901a59'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/389,3479,3010,562/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758885711
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/389,3479,600,180/250,/0/default.jpg
-label: Images
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0646/'>Nobility</a>|<a href='/digital-beehive/num11/num_3579/'>4884
+  [Ignoble]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2006/'>ignoble</a>"
+item: "#item-bebb1e5fa"
+unparsed:
+line: 'Entry: Ignoble|Topic: Ignoble|Xref: Nobility|Xref: 4884 [Ignoble]|Index: ignoble|#item-bebb1e5fa'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/324,2060,3035,514/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758714078
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/324,2060,600,180/250,/0/default.jpg
+label: Ignoble
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '011'
+issue:
+also_in_entry:
+order: '008'
 layout: alpha_item
 collection: alpha3
 ---

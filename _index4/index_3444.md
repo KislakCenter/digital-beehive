@@ -2,29 +2,29 @@
 pid: index_3444
 volume: Volume 3
 image_number: '40'
-head: Rome
-entry: "<a href='/digital-beehive/alpha4/alpha_0814/'>a</a>|<a href='/digital-beehive/toc/toc2_283/'>1450
-  [Rome]</a>"
-topic: 
+head: romance
+entry: "<a href='/digital-beehive/alpha4/alpha_0818/'>a</a>|<a href='/digital-beehive/num6/num_1997/'>1393
+  [Romances]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2ba8be2e0"
-unparsed: 
-line: 'Head: Rome|Entry: a|Entry: 1450 [Rome]|#item-2ba8be2e0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233355853
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1160,1004,491,152/150,/0/default.jpg
-label: Rome
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6af490f6b"
+unparsed:
+line: 'Head: romance|Entry: a|Entry: 1393 [Romances]|#item-6af490f6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233052220
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1179,819,580,130/150,/0/default.jpg
+label: romance
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0693'
+issue:
+insertion_xref:
+order: '0692'
 layout: index_item
 collection: index4
 ---

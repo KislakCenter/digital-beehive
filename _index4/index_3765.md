@@ -2,29 +2,28 @@
 pid: index_3765
 volume: Volume 3
 image_number: '43'
-head: snake
-entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/toc/toc2_243/'>1250</a>|<a
-  href='/digital-beehive/toc/toc2_377/'>2119</a>"
-topic: 
+head: to solder
+entry: 822 [PAGE_MISSING]
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ae6389661"
-unparsed: 
-line: 'Head: snake|Page: p.37 [Image 1.97]|Entry: a|Entry: 1250|Entry: 2119|#item-ae6389661'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1568,683,609,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559585249462
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1568,683,609,170/150,/0/default.jpg
-label: snake
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c7c4e608a"
+unparsed:
+line: 'Head: to solder|Entry: 822 [PAGE_MISSING]|#item-c7c4e608a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586369671
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1599,2593,471,166/150,/0/default.jpg
+label: to solder
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1014'
+issue:
+insertion_xref:
+order: '1013'
 layout: index_item
 collection: index4
 ---

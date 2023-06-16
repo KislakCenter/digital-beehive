@@ -2,29 +2,28 @@
 pid: index_1816
 volume: Volume 3
 image_number: '24'
-head: hermit
-entry: "<a href='/digital-beehive/alpha2/alpha_0418/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2093
-  [Hermit]</a>"
-topic: 
+head: herod
+entry: "<a href='/digital-beehive/num11/num_3523/'>4828 [Herod]</a>"
+topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9d676a8bb"
-unparsed: 
-line: 'Head: hermit|Page: p.37 [Image 1.97]|Entry: a|Entry: 2093 [Hermit]|#item-9d676a8bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/435,689,652,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574923454
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/435,689,652,150/150,/0/default.jpg
-label: hermit
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ba28155cf"
+unparsed:
+line: 'Head: herod|Entry: 4828 [Herod]|#item-ba28155cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/824,830,334,90/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575233388
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/824,830,334,90/150,/0/default.jpg
+label: herod
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '634'
+issue:
+insertion_xref:
+order: '635'
 layout: index_item
 collection: index2
 ---

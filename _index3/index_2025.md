@@ -2,27 +2,27 @@
 pid: index_2025
 volume: Volume 3
 image_number: '26'
-head: inexpressible
-entry: "<a href='/digital-beehive/num2/num_0423/'>359 [Unspeakable]</a>"
-topic: 
+head: ink
+entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d89668f74"
-unparsed: 
-line: 'Head: inexpressible|Entry: 359 [Unspeakable]|#item-d89668f74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/467,789,601,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559743873565
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/467,789,601,107/150,/0/default.jpg
-label: inexpressible
+page:
+add:
+xref:
+see:
+index:
+item: "#item-78b87f6bb"
+unparsed:
+line: 'Head: ink|Entry: 410 [Ink-horn]|#item-78b87f6bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/414,3271,320,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745555764
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/414,3271,320,120/150,/0/default.jpg
+label: ink
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '107'
 layout: index_item
 collection: index3

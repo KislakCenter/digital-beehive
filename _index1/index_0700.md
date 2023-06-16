@@ -2,27 +2,27 @@
 pid: index_0700
 volume: Volume 3
 image_number: '13'
-head: close
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [Leak or leakage]</a>"
-topic: 
+head: cloud
+entry: "<a href='/digital-beehive/num2/num_0462/'>383 [Clouds]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cc78c615a"
-unparsed: 
-line: 'Head: close|Entry: 371 [Leak or leakage]|#item-cc78c615a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/877,1621,376,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536607122523
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/877,1621,376,138/150,/0/default.jpg
-label: close
+page: "<a href='/digital-beehive/toc/toc1_079/'>p.29 [Image 1.89]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-2e78d2dbd"
+unparsed:
+line: 'Head: cloud|Page: p.29 [Image 1.89]|Entry: 383 [Clouds]|#item-2e78d2dbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/815,1879,598,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607587760
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/815,1879,598,146/150,/0/default.jpg
+label: cloud
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0699'
 layout: index_item
 collection: index1

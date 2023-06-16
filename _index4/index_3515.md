@@ -2,28 +2,28 @@
 pid: index_3515
 volume: Volume 3
 image_number: '41'
-head: Samuel
-entry: "<a href='/digital-beehive/toc/toc2_304/'>1550 [Samuel]</a>"
-topic: 
+head: to scatter
+entry: "<a href='/digital-beehive/num2/num_0607/'>485 [to Scatter]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0b33b4bfa"
-unparsed: 
-line: 'Head: Samuel|Entry: 1550 [Samuel]|#item-0b33b4bfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559238941366
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/148,1459,373,120/150,/0/default.jpg
-label: Samuel
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e6e8b0587"
+unparsed:
+line: 'Head: to scatter|Entry: 485 [to Scatter]|#item-e6e8b0587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,516,467,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240301322
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/856,516,467,118/150,/0/default.jpg
+label: to scatter
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0764'
+issue:
+insertion_xref:
+order: '0763'
 layout: index_item
 collection: index4
 ---

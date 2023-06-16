@@ -2,31 +2,28 @@
 pid: index_3114
 volume: Volume 3
 image_number: '36'
-head: bad preachers
-entry: "<a href='/digital-beehive/num1/num_0042/'>42 [False ministers]</a>|<a href='/digital-beehive/toc/toc2_246/'>1264
-  [False Teachers]</a>|<a href='/digital-beehive/toc/toc2_344/'>1784 [False Teachers]</a>|<a
-  href='/digital-beehive/toc/toc2_396/'>2263 [False Teachers]</a>|4500 [PAGE_MISSING]"
-topic: 
+head: preposterous
+entry: "<a href='/digital-beehive/num6/num_1793/'>1287 [Preposterously]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-43ab5fd6e"
-unparsed: 
-line: 'Head: bad preachers|Entry: 42 [False ministers]|Entry: 1264 [False Teachers]|Entry:
-  1784 [False Teachers]|Entry: 2263 [False Teachers]|Entry: 4500 [PAGE_MISSING]|#item-43ab5fd6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1549,654,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440302820
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1901,1549,654,162/150,/0/default.jpg
-label: bad preachers
+page:
+add:
+xref:
+see:
+index:
+item: "#item-410a33f14"
+unparsed:
+line: 'Head: preposterous|Entry: 1287 [Preposterously]|#item-410a33f14'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1839,2903,656,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440865080
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1839,2903,656,134/150,/0/default.jpg
+label: preposterous
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0363'
+issue:
+insertion_xref:
+order: '0362'
 layout: index_item
 collection: index4
 ---

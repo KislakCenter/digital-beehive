@@ -2,27 +2,27 @@
 pid: index_0557
 volume: Volume 3
 image_number: '12'
-head: casuists
-entry: "<a href='/digital-beehive/toc/toc2_266/'>1364 [Casuists]</a>"
-topic: 
+head: Cato
+entry: "<a href='/digital-beehive/num5/num_1669/'>1219 [Cato]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a5c251c6f"
-unparsed: 
-line: 'Head: casuists|Entry: 1364 [Casuists]|#item-a5c251c6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/411,1961,525,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098110567
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/411,1961,525,140/150,/0/default.jpg
-label: casuists
+page:
+add:
+xref:
+see:
+index:
+item: "#item-00185a1f4"
+unparsed:
+line: 'Head: Cato|Entry: 1219 [Cato]|#item-00185a1f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/392,3267,401,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098753013
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/392,3267,401,147/150,/0/default.jpg
+label: Cato
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0556'
 layout: index_item
 collection: index1

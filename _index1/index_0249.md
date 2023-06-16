@@ -2,27 +2,27 @@
 pid: index_0249
 volume: Volume 3
 image_number: '9'
-head: aurora
-entry: 
-topic: 
+head: at once
+entry: "<a href='/digital-beehive/num5/num_1573/'>1153 [At once]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2582/'>Morning</a>"
-index: 
-item: "#item-bb6af25f7"
-unparsed: 
-line: 'Head: aurora|See: Morning|#item-bb6af25f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015447346
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/184,1433,599,154/150,/0/default.jpg
-label: aurora
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2385328e6"
+unparsed:
+line: 'Head: at once|Entry: 1153 [At once]|#item-2385328e6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/152,616,495,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565014801751
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/152,616,495,96/150,/0/default.jpg
+label: at once
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0248'
 layout: index_item
 collection: index1

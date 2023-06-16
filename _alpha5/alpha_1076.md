@@ -25,7 +25,7 @@ label: Zeal
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '137'
+order: '136'
 layout: alpha_item
 collection: alpha5
 ---

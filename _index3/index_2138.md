@@ -2,27 +2,27 @@
 pid: index_2138
 volume: Volume 3
 image_number: '27'
-head: juniper
-entry: "<a href='/digital-beehive/num3/num_0977'>687 [Juniper-Bush]</a>"
-topic: 
-first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cf711619f"
-unparsed: 
-line: 'Head: juniper|Entry: 687 [Juniper-Bush]|#item-cf711619f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/149,2285,464,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559758631703
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/149,2285,464,168/150,/0/default.jpg
-label: juniper
+head: kindness
+entry:
+topic:
+first_letter: K
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0738/'>Civility</a>|<a href='/digital-beehive/index2/index_1863/'>humanity</a>"
+index:
+item: "#item-2bcbec7c1"
+unparsed:
+line: 'Head: kindness|See: Civility|See: humanity|#item-2bcbec7c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,798,819,187/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761605877
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/842,798,819,187/150,/0/default.jpg
+label: kindness
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '220'
 layout: index_item
 collection: index3

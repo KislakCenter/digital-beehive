@@ -1,29 +1,31 @@
 ---
 pid: alpha_1063
 volume: Volume 2
-image_number: '67'
-head: 
-entry: Christs Wounds
-topic: Christs Wounds
+image_number: '66'
+head:
+entry: Worldly
+topic: Worldly|Worldlymindedness
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index5/index_4627/'>wounds of Christ</a>"
-item: "#item-95a4a8f71"
-unparsed: 
-line: 'Entry: Christs Wounds|Topic: Christs Wounds|Index: wounds of Christ|#item-95a4a8f71'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,3022,346/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529598929215
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0534/327,1852,600,180/250,/0/default.jpg
-label: Christs Wounds
-location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '129'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0289/'>Epicurism</a>|<a href='/digital-beehive/num5/num_1386/'>1037
+  [Worldly]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4642/'>worldly</a>"
+item: "#item-f9b0dfbe3"
+unparsed:
+line: 'Entry: Worldly|Topic: Worldly|Topic: Worldlymindedness|Xref: Epicurism|Xref:
+  1037 [Worldly]|Index: worldly|#item-f9b0dfbe3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0533/860,4492,2901,564/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0533/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529596982403
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0533/860,4492,600,180/250,/0/default.jpg
+label: Worldly
+location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '123'
 layout: alpha_item
 collection: alpha5
 ---

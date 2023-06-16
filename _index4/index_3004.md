@@ -2,28 +2,28 @@
 pid: index_3004
 volume: Volume 3
 image_number: '35'
-head: "[:23.]"
-entry: 
-topic: 
+head: philosopher stone
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-af87e25ee"
-unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-line: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2032,965,265,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277247869
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2032,965,265,126/150,/0/default.jpg
-label: "[:23.]"
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0027/'>alchymie</a>"
+index:
+item: "#item-4ec30a3ed"
+unparsed:
+line: 'Head: philosopher stone|See: alchymie|#item-4ec30a3ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974701712
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/814,2523,760,185/150,/0/default.jpg
+label: philosopher stone
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4688/'>pike, Hecht</a>"
-order: '0253'
+issue:
+insertion_xref:
+order: '0252'
 layout: index_item
 collection: index4
 ---

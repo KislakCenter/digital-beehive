@@ -2,28 +2,29 @@
 pid: index_3673
 volume: Volume 3
 image_number: '42'
-head: shield
-entry: 849 [PAGE_MISSING]
-topic: 
+head: Self will
+entry: "<a href='/digital-beehive/alpha4/alpha_0860/'>a</a>|<a href='/digital-beehive/num5/num_1340/'>1005
+  [Self will]</a>"
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7dbd59aa6"
-unparsed: 
-line: 'Head: shield|Page: p.40 [Image 1.100]|Entry: 849 [PAGE_MISSING]|#item-7dbd59aa6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1834,763,589,178/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575773023
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1834,763,589,178/150,/0/default.jpg
-label: shield
+page:
+add:
+xref:
+see:
+index:
+item: "#item-45b3e3bdf"
+unparsed:
+line: 'Head: Self will|Entry: a|Entry: 1005 [Self will]|#item-45b3e3bdf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/398,2581,554,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244963434
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/398,2581,554,100/150,/0/default.jpg
+label: Self will
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0922'
+issue:
+insertion_xref:
+order: '0921'
 layout: index_item
 collection: index4
 ---

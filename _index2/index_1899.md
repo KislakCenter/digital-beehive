@@ -2,28 +2,28 @@
 pid: index_1899
 volume: Volume 3
 image_number: '24'
-head: to humble
-entry: "<a href='/digital-beehive/toc/toc2_259/'>1326 [debase]</a>"
-topic: 
+head: hinges
+entry: "<a href='/digital-beehive/num7/num_2676/'>1748 [Hinges]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1761e56ed"
-unparsed: 
-line: 'Head: to humble|Entry: 1326 [debase]|#item-1761e56ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559587304273
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1820,1720,567,109/150,/0/default.jpg
-label: to humble
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8bab85db1"
+unparsed:
+line: 'Head: hinges|Entry: 1748 [Hinges]|#item-8bab85db1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577474176
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/406,2849,447,178/150,/0/default.jpg
+label: hinges
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '717'
+issue:
+insertion_xref:
+order: '718'
 layout: index_item
 collection: index2
 ---

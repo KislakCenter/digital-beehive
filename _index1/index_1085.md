@@ -2,29 +2,28 @@
 pid: index_1085
 volume: Volume 3
 image_number: '17'
-head: disobedience
-entry: "<a href='/digital-beehive/alpha1/alpha_0243/'>a</a>|<a href='/digital-beehive/toc/toc2_351/'>1898
-  [Disobedience]</a>"
-topic: 
+head: distrust
+entry: "<a href='/digital-beehive/alpha1/alpha_0249/'>a</a>|1842 [PAGE_MISSING]"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6ef930463"
-unparsed: 
-line: 'Head: disobedience|Entry: a|Entry: 1898 [Disobedience]|#item-6ef930463'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/146,1951,704,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175493527
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/146,1951,704,140/150,/0/default.jpg
-label: disobedience
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ddfddabb3"
+unparsed:
+line: 'Head: distrust|Entry: a|Entry: 1842 [PAGE_MISSING]|#item-ddfddabb3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/840,819,549,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559848866525
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/840,819,549,118/150,/0/default.jpg
+label: distrust
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1084'
+issue:
+insertion_xref:
+order: '1083'
 layout: index_item
 collection: index1
 ---

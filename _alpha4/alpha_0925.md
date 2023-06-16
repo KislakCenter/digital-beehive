@@ -2,28 +2,30 @@
 pid: alpha_0925
 volume: Volume 2
 image_number: '56'
-head: 
-entry: Sugar
-topic: Sugar
+head:
+entry: Stubborness
+topic: Stubborness
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index4/index_3976/'>sugar</a>"
-item: "#item-15b291398"
-unparsed: 
-line: 'Entry: Sugar|Topic: Sugar|Index: sugar|#item-15b291398'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/761,2923,3002,408/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532551364229
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/761,2923,600,180/250,/0/default.jpg
-label: Sugar
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|waspish|<a href='/digital-beehive/num10/num_3267/'>2303
+  [Stubborn]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3968/'>stubborn</a>"
+item: "#item-223af03d7"
+unparsed:
+line: 'Entry: Stubborness|Topic: Stubborness|Xref: Obstinacy|Xref: waspish|Xref: 2303
+  [Stubborn]|Index: stubborn|#item-223af03d7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/724,932,3042,678/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532550720737
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/724,932,600,180/250,/0/default.jpg
+label: Stubborness
 location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '277'
+issue: The point of reference for "waspish" is unclear.
+also_in_entry:
+order: '273'
 layout: alpha_item
 collection: alpha4
 ---

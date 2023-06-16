@@ -2,28 +2,28 @@
 pid: index_2875
 volume: Volume 3
 image_number: '34'
-head: paraphrase
-entry: 
-topic: 
+head: to patch
+entry: "<a href='/digital-beehive/num3/num_1009/'>699 [Repair]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1626/'>gloss</a>"
-index: 
-item: "#item-e7fe1ad2b"
-unparsed: 
-line: 'Head: paraphrase|See: gloss|#item-e7fe1ad2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1139,1293,714,217/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538493690931
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1139,1293,714,217/150,/0/default.jpg
-label: paraphrase
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f0208108c"
+unparsed:
+line: 'Head: to patch|Entry: 699 [Repair]|#item-f0208108c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1818,1502,529,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495292150
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1818,1502,529,154/150,/0/default.jpg
+label: to patch
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0124'
+issue:
+insertion_xref:
+order: '0123'
 layout: index_item
 collection: index4
 ---

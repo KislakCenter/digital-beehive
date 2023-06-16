@@ -2,28 +2,31 @@
 pid: index_3640
 volume: Volume 3
 image_number: '42'
-head: separation
-entry: 
-topic: 
+head: servitude
+entry: "<a href='/digital-beehive/alpha4/alpha_0864/'>a</a>|813 [PAGE_MISSING]|<a
+  href='/digital-beehive/num5/num_1698/'>1233 [Servants]</a>|<a href='/digital-beehive/num5/num_1699/'>1233
+  [friendliest office]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3587/'>sect</a>|shirm"
-index: 
-item: "#item-0aa6dfd18"
-unparsed: 
-line: 'Head: separation|See: sect|See: shirm|#item-0aa6dfd18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559573582624
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1095,474,696,131/150,/0/default.jpg
-label: separation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ec91b719f"
+unparsed:
+line: 'Head: servitude|Entry: a|Entry: 813 [PAGE_MISSING]|Entry: 1233 [Servants]|Entry:
+  1233 [friendliest office]|#item-ec91b719f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1324,726,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574067348
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1096,1324,726,142/150,/0/default.jpg
+label: servitude
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: The intended point of reference for "shirm" is unclear.
-insertion_xref: 
-order: '0889'
+issue:
+insertion_xref:
+order: '0888'
 layout: index_item
 collection: index4
 ---

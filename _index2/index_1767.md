@@ -2,29 +2,28 @@
 pid: index_1767
 volume: Volume 3
 image_number: '23'
-head: hatred
-entry: "<a href='/digital-beehive/alpha2/alpha_0401/'>a</a>|747 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_366/'>2009 [Hatred]</a>"
-topic: 
+head: hart
+entry:
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c37f2742f"
-unparsed: 
-line: 'Head: hatred|Entry: a|Entry: 747 [PAGE_MISSING]|Entry: 2009 [Hatred]|#item-c37f2742f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240962719
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/819,2814,628,150/150,/0/default.jpg
-label: hatred
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0980/'>deer</a>"
+index:
+item: "#item-194a3123e"
+unparsed:
+line: 'Head: hart|Page: p.34 [Image 1.94]|See: deer|#item-194a3123e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2197,549,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240544532
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/836,2197,549,133/150,/0/default.jpg
+label: hart
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '585'
+issue:
+insertion_xref:
+order: '586'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,30 @@
 pid: index_3498
 volume: Volume 3
 image_number: '40'
-head: salamander stone
-entry: 
-topic: 
-first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1474/'>flax</a>"
-index: 
-item: "#item-bb53de5e3"
-unparsed: 
-line: 'Head: salamander stone|Page: p.30 [Image 1.90]|See: flax|#item-bb53de5e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1848,3167,607,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235335317
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1848,3167,607,137/150,/0/default.jpg
-label: salamander stone
+head: rules for young merchants
+entry: "<a href='/digital-beehive/num6/num_2148/'>1463 [One friend Counsel the other
+  who newly begun to Merchandize]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b586608f7"
+unparsed:
+line: 'Head: rules for young merchants|Entry: 1463 [One friend Counsel the other who
+  newly begun to Merchandize]|#item-b586608f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234182812
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1146,3190,734,181/150,/0/default.jpg
+label: rules for young merchants
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0747'
+issue:
+insertion_xref:
+order: '0746'
 layout: index_item
 collection: index4
 ---

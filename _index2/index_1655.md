@@ -2,27 +2,30 @@
 pid: index_1655
 volume: Volume 3
 image_number: '22'
-head: God's teaching
-entry: "<a href='/digital-beehive/toc/toc2_205/'>1057 [God's work]</a>"
-topic: 
+head: God within
+entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
+  href='/digital-beehive/num2/num_0299/'>267 [God is in us]</a>|<a href='/digital-beehive/num4/num_1253/'>937
+  [Union with God]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-10f04f291"
-unparsed: 
-line: 'Head: God''s teaching|Entry: 1057 [God''s work]|#item-10f04f291'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1169,2456,510,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561048064916
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1169,2456,510,122/150,/0/default.jpg
-label: God's teaching
+page:
+add:
+xref:
+see:
+index:
+item: "#item-afc78be45"
+unparsed:
+line: 'Head: God within|Entry: 36 [God with - & in men]|Entry: 267 [God is in us]|Entry:
+  937 [Union with God]|#item-afc78be45'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1154,1650,642,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047205277
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1154,1650,642,131/150,/0/default.jpg
+label: God within
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '474'
 layout: index_item
 collection: index2

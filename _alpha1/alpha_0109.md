@@ -1,30 +1,29 @@
 ---
 pid: alpha_0109
 volume: Volume 1
-image_number: '439'
-head: 
-entry: Burial
-topic: Burial
+image_number: '438'
+head:
+entry: Buffoonry
+topic: Buffoonry
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0353/'>funeral</a>|<a href='/digital-beehive/alpha2/alpha_0385/'>grave</a>|<a
-  href='/digital-beehive/num4/num_1159'>894 [Burial]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0480/'>burial</a>"
-item: "#item-1fd7dd617"
-unparsed: 
-line: 'Entry: Burial|Topic: Burial|Xref: funeral|Xref: grave|Xref: 894 [Burial]|Index:
-  burial|#item-1fd7dd617'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,3106,447/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558626698112
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/322,230,600,180/250,/0/default.jpg
-label: Burial
-location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-issue: 
-also_in_entry: 
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0450/'>Jesting</a>|1436 [Buffoons]"
+see:
+index: "<a href='/digital-beehive/index1/index_0446/'>buffoonry</a>"
+item: "#item-8a3aacc79"
+unparsed:
+line: 'Entry: Buffoonry|Topic: Buffoonry|Xref: Jesting|Xref: 1436 [Buffoons]|Index:
+  buffoonry|#item-8a3aacc79'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/851,3858,2906,581/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563210927269
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/851,3858,600,180/250,/0/default.jpg
+label: Buffoonry
+location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
+issue:
+also_in_entry:
 order: '108'
 layout: alpha_item
 collection: alpha1

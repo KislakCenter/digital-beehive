@@ -2,28 +2,29 @@
 pid: index_3863
 volume: Volume 3
 image_number: '44'
-head: spring. brun[n]
-entry: "<a href='/digital-beehive/alpha4/alpha_0904/'>a</a>"
-topic: 
+head: stair
+entry: "<a href='/digital-beehive/alpha4/alpha_0912/'>a</a>|<a href='/digital-beehive/num5/num_1646/'>1206
+  [Ladder]</a>"
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-279998f53"
-unparsed: 
-line: 'Head: spring. brun[n]|Page: p.30 [Image 1.90]|Entry: a|#item-279998f53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1808,1705,694,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530105322859
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1808,1705,694,117/150,/0/default.jpg
-label: spring. brun[n]
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e2bc5d0b"
+unparsed:
+line: 'Head: stair|Entry: a|Entry: 1206 [Ladder]|#item-0e2bc5d0b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1819,2903,437,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530106447132
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1819,2903,437,107/150,/0/default.jpg
+label: stair
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1112'
+issue:
+insertion_xref:
+order: '1111'
 layout: index_item
 collection: index4
 ---

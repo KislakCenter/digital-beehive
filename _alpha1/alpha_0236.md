@@ -1,32 +1,31 @@
 ---
 pid: alpha_0236
 volume: Volume 1
-image_number: '450'
-head: 
-entry: Diligence
-topic: Diligence
+image_number: '449'
+head:
+entry: Diet
+topic: Diet
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0505/'>Labour</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|<a
-  href='/digital-beehive/alpha5/alpha_1024/'>Watchfulness</a>|<a href='/digital-beehive/num4/num_1225'>924
-  [Diligence]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1052/'>diligence</a>"
-item: "#item-6419df951"
-unparsed: 
-line: 'Entry: Diligence|Topic: Diligence|Xref: Labour|Xref: Laziness|Xref: Watchfulness|Xref:
-  924 [Diligence]|Index: diligence|#item-6419df951'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,2945,631/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174453045
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/834,226,600,180/250,/0/default.jpg
-label: Diligence
-location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '234'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0946/'>Temperance</a>|<a href='/digital-beehive/num2/num_0425/'>359
+  [Meat]</a>|4735 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index1/index_1011/'>diet</a>"
+item: "#item-a44dc7143"
+unparsed:
+line: 'Entry: Diet|Topic: Diet|Xref: Temperance|Xref: 359 [Meat]|Xref: 4735 [PAGE_MISSING]|Index:
+  diet|#item-a44dc7143'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/399,3898,3049,587/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923623839
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/399,3898,600,180/250,/0/default.jpg
+label: Diet
+location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '235'
 layout: alpha_item
 collection: alpha1
 ---

@@ -2,28 +2,27 @@
 pid: index_0474
 volume: Volume 3
 image_number: '11'
-head: building
-entry: "<a href='/digital-beehive/alpha1/alpha_0107/'>a</a>|<a href='/digital-beehive/toc/toc2_327/'>1662
-  [Architecture]</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a0a537fd6"
-unparsed: 
-line: 'Head: building|Entry: a|Entry: 1662 [Architecture]|#item-a0a537fd6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,751,540,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420488933
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,751,540,147/150,/0/default.jpg
-label: building
+head: I can
+entry:
+topic:
+first_letter: C
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0026/'>ability</a>"
+index:
+item: "#item-be85b56f5"
+unparsed:
+line: 'Head: I can|See: ability|#item-be85b56f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,1449,594,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494984078
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1568,1449,594,128/150,/0/default.jpg
+label: I can
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0473'
 layout: index_item
 collection: index1

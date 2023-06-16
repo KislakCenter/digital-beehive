@@ -2,28 +2,27 @@
 pid: index_0813
 volume: Volume 3
 image_number: '14'
-head: constancy
-entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
-  [Constancy of mind]</a>|<a href='/digital-beehive/toc/toc2_420/'>2435 [Constancy]</a>"
-topic: 
+head: concoction
+entry: 766 [PAGE_MISSING]
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-705cbca6b"
-unparsed: 
-line: 'Head: constancy|Entry: a|Entry: 1112 [Constancy of mind]|Entry: 2435 [Constancy]|#item-705cbca6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541978660
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1136,2655,687,120/150,/0/default.jpg
-label: constancy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-43a0245f4"
+unparsed:
+line: 'Head: concoction|Entry: 766 [PAGE_MISSING]|#item-43a0245f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/406,2004,576,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216584706
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/406,2004,576,135/150,/0/default.jpg
+label: concoction
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0812'
 layout: index_item
 collection: index1

@@ -2,28 +2,27 @@
 pid: index_0265
 volume: Volume 3
 image_number: '9'
-head: backbiting
-entry: "<a href='/digital-beehive/num2/num_0453/'>375 [Backbiting]</a>|<a href='/digital-beehive/toc/toc2_422/'>4449
-  [Backbiting]</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5356062ed"
-unparsed: 
-line: 'Head: backbiting|Entry: 375 [Backbiting]|Entry: 4449 [Backbiting]|#item-5356062ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3290,699,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1504210985250
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3290,699,130/150,/0/default.jpg
-label: backbiting
+head: augment
+entry:
+topic:
+first_letter: A
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_1987/'>Increase</a>"
+index:
+item: "#item-6a29311a2"
+unparsed:
+line: 'Head: augment|See: Increase|#item-6a29311a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/168,1105,706,172/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015226725
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/168,1105,706,172/150,/0/default.jpg
+label: augment
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0264'
 layout: index_item
 collection: index1

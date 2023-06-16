@@ -2,28 +2,28 @@
 pid: index_3937
 volume: Volume 3
 image_number: '45'
-head: strength
-entry: "<a href='/digital-beehive/num3/num_0915'>663 [Strength]</a>"
-topic: 
+head: strayed or lost
+entry: "<a href='/digital-beehive/num8/num_2811/'>1915 [Strayed & lost]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4ba7cf319"
-unparsed: 
-line: 'Head: strength|Entry: 663 [Strength]|#item-4ba7cf319'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2350,449,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530465609430
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/900,2350,449,140/150,/0/default.jpg
-label: strength
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bdd6a3442"
+unparsed:
+line: 'Head: strayed or lost|Entry: 1915 [Strayed & lost]|#item-bdd6a3442'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/891,2173,599,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565290806350
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/891,2173,599,130/150,/0/default.jpg
+label: strayed or lost
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1186'
+issue:
+insertion_xref:
+order: '1185'
 layout: index_item
 collection: index4
 ---

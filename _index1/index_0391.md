@@ -2,28 +2,28 @@
 pid: index_0391
 volume: Volume 3
 image_number: '10'
-head: blindness
-entry: "<a href='/digital-beehive/num1/num_0013/'>13 [Blindness]</a>|<a href='/digital-beehive/toc/toc2_261/'>1336
-  [Blindness]</a>|<a href='/digital-beehive/toc/toc2_385/'>2200 [Blindness]</a>"
-topic: 
+head: books of several parts
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4f71a1eca"
-unparsed: 
-line: 'Head: blindness|Entry: 13 [Blindness]|Entry: 1336 [Blindness]|Entry: 2200 [Blindness]|#item-4f71a1eca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531151509203
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1089,2511,718,150/150,/0/default.jpg
-label: blindness
+page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>|<a href='/digital-beehive/toc/toc2_187/'>p.375
+  [Image 2.197]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-8802dc054"
+unparsed:
+line: 'Head: books of several parts|Page: p.62 [Image 1.129]|Page: p.375 [Image 2.197]|#item-8802dc054'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1437,729,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531153084424
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1794,1437,729,162/150,/0/default.jpg
+label: books of several parts
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0390'
 layout: index_item
 collection: index1

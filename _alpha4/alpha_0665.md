@@ -1,30 +1,31 @@
 ---
 pid: alpha_0665
 volume: Volume 2
-image_number: '38'
-head: 
-entry: Order
-topic: Order
+image_number: '37'
+head:
+entry: Old age
+topic: Old age
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0244/'>disorder</a>|<a href='/digital-beehive/num1/num_0233/'>221
-  [Order]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2818/'>order</a>"
-item: "#item-5075f85ab"
-unparsed: 
-line: 'Entry: Order|Topic: Order|Xref: disorder|Xref: 221 [Order]|Index: order|#item-5075f85ab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,3063,458/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018382723
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/758,213,600,180/250,/0/default.jpg
-label: Order
-location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '018'
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0575/'>461
+  [Old age]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2781/'>old age</a>"
+item: "#item-b98f24942"
+unparsed:
+line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:
+  old age|#item-b98f24942'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/346,3222,3037,506/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017707398
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/346,3222,600,180/250,/0/default.jpg
+label: Old age
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '013'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: index_3151
 volume: Volume 3
 image_number: '37'
-head: pricking
-entry: "<a href='/digital-beehive/num3/num_0969'>684 [To prick]</a>"
-topic: 
+head: privy house
+entry: "<a href='/digital-beehive/num3/num_0803/'>607 [Privy house]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-118008acc"
-unparsed: 
-line: 'Head: pricking|Entry: 684 [To prick]|#item-118008acc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866764902
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/88,2403,510,146/150,/0/default.jpg
-label: pricking
+page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-6f7a85233"
+unparsed:
+line: 'Head: privy house|Page: p.10 [Image 1.70]|Entry: 607 [Privy house]|#item-6f7a85233'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867626843
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/742,823,671,169/150,/0/default.jpg
+label: privy house
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0400'
+issue:
+insertion_xref:
+order: '0399'
 layout: index_item
 collection: index4
 ---

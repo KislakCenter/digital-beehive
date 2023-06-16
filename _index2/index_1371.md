@@ -2,27 +2,27 @@
 pid: index_1371
 volume: Volume 3
 image_number: '19'
-head: eye bright
-entry: "<a href='/digital-beehive/num3/num_0961'>682 [Eye-bright]</a>"
-topic: 
+head: etching
+entry: 4529 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-469080892"
-unparsed: 
-line: 'Head: eye bright|Entry: 682 [Eye-bright]|#item-469080892'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1496,3431,515,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561398031091
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1496,3431,515,142/150,/0/default.jpg
-label: eye bright
+page:
+add:
+xref:
+see:
+index:
+item: "#item-39ebeb1ec"
+unparsed:
+line: 'Head: etching|Entry: 4529 [PAGE_MISSING]|#item-39ebeb1ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560348940529
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/110,3563,518,171/150,/0/default.jpg
+label: etching
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '190'
 layout: index_item
 collection: index2

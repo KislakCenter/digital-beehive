@@ -2,27 +2,27 @@
 pid: index_0724
 volume: Volume 3
 image_number: '13'
-head: colony
-entry: "<a href='/digital-beehive/num2/num_0530/'>428 [Colonies]</a>"
-topic: 
+head: citron
+entry: "<a href='/digital-beehive/num7/num_2440/'>1614 [Citron]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fce86d40d"
-unparsed: 
-line: 'Head: colony|Entry: 428 [Colonies]|#item-fce86d40d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,633,420,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536610195565
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1540,633,420,125/150,/0/default.jpg
-label: colony
+page:
+add:
+xref:
+see:
+index:
+item: "#item-90b7724e0"
+unparsed:
+line: 'Head: citron|Entry: 1614 [Citron]|#item-90b7724e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332872418
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/155,2595,388,104/150,/0/default.jpg
+label: citron
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0723'
 layout: index_item
 collection: index1

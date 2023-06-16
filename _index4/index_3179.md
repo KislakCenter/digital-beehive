@@ -2,29 +2,30 @@
 pid: index_3179
 volume: Volume 3
 image_number: '37'
-head: profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0740/'>a</a>|<a href='/digital-beehive/toc/toc2_333/'>1692
-  [Gain]</a>"
-topic: 
+head: protestants
+entry: "<a href='/digital-beehive/num1/num_0084/'>83 [Protestant]</a>|<a href='/digital-beehive/num7/num_2232/'>1511
+  [Protestant Religion]</a>|<a href='/digital-beehive/num10/num_3217/'>2264 [Protestants]</a>"
+topic:
 first_letter: P
-page: 
-add: Utility
-xref: 
-see: 
-index: 
-item: "#item-7875629be"
-unparsed: 
-line: 'Head: profit|Entry: a|Entry: 1692 [Gain]|Add: Utility|#item-7875629be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868490570
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/799,2247,483,129/150,/0/default.jpg
-label: profit
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f84e26f79"
+unparsed:
+line: 'Head: protestants|Entry: 83 [Protestant]|Entry: 1511 [Protestant Religion]|Entry:
+  2264 [Protestants]|#item-f84e26f79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869472203
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,1927,792,135/150,/0/default.jpg
+label: protestants
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0428'
+issue:
+insertion_xref:
+order: '0427'
 layout: index_item
 collection: index4
 ---

@@ -2,30 +2,31 @@
 pid: alpha_0393
 volume: Volume 2
 image_number: '16'
-head: 
-entry: Happiness
-topic: Happiness
-first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0343/'>Fortune</a>|Success|<a href='/digital-beehive/num3/num_1051'>716
-  [Unhappiness]</a>|<a href='/digital-beehive/toc/toc2_215/'>1106 [happy]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1749/'>happiness</a>"
-item: "#item-b5ca3c52d"
-unparsed: 
-line: 'Entry: Happiness|Topic: Happiness|Xref: Fortune|Xref: Success|Xref: Unhappiness|Xref:
-  716 [unhappiness]|Xref: 1106 [happy]|Index: happiness|#item-b5ca3c52d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,3807,2931,520/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564604377281
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,3807,600,180/250,/0/default.jpg
-label: Happiness
+head:
+entry: Guilt
+topic: Guilt
+first_letter: G
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/alpha2/alpha_0321/'>fault</a>|<a
+  href='/digital-beehive/num7/num_2451/'>1620 [Guilt]</a>|<a href='/digital-beehive/num2/num_0583/'>468
+  [Self-guilty]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1785/'>guilt</a>"
+item: "#item-0034a0ab2"
+unparsed:
+line: 'Entry: Guilt|Topic: Guilt|Xref: Crime|Xref: fault|Xref: 1620 [Guilt]|Xref:
+  468 [Self-guilty]|Index: guilt|#item-0034a0ab2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/780,2960,3013,231/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508858189643
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/780,2960,600,180/250,/0/default.jpg
+label: Guilt
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '124'
+issue:
+also_in_entry:
+order: '121'
 layout: alpha_item
 collection: alpha2
 ---

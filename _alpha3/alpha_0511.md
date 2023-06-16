@@ -2,30 +2,31 @@
 pid: alpha_0511
 volume: Volume 2
 image_number: '26'
-head: 
-entry: Last day of Judgmt
-topic: Last day of Judgmt
+head:
+entry: Language
+topic: Language
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0033/'>33 [Last day]</a>|<a href='/digital-beehive/num4/num_1317'>988
-  [Last day of Judgmt]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2203/'>last day</a>"
-item: "#item-aaa97c3ac"
-unparsed: 
-line: 'Entry: Last day of Judgmt|Topic: Last day of Judgmt|Xref: 33 [Last day]|Xref:
-  988 [Last day of Judgmt]|Index: last day|#item-aaa97c3ac'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,2989,369/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766519071
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/737,2316,600,180/250,/0/default.jpg
-label: Last day of Judgmt
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0672/'>Original Tongue</a>|473 [English
+  tongue]|<a href='/digital-beehive/alpha4/alpha_0905/'>Speech</a>|<a href='/digital-beehive/alpha5/alpha_0966/'>Tongue</a>|<a
+  href='/digital-beehive/num6/num_2040/'>1413 [Languages]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2142/'>language</a>"
+item: "#item-793d2cc74"
+unparsed:
+line: 'Entry: Language|Topic: Language|Xref: Original Tongue|Xref: 473 [English tongue]|Xref:
+  Speech|Xref: Tongue|Xref: 1413 [Languages]|Index: language|#item-793d2cc74'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/748,1151,3011,681/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766059718
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/748,1151,600,180/250,/0/default.jpg
+label: Language
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '067'
+issue:
+also_in_entry:
+order: '064'
 layout: alpha_item
 collection: alpha3
 ---

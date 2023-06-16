@@ -2,27 +2,30 @@
 pid: index_0031
 volume: Volume 3
 image_number: '7'
-head: acidul[ae]
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1680 [Hot Baths]</a>"
-topic: 
+head: adversity
+entry: "<a href='/digital-beehive/alpha1/alpha_0010/'>a</a>|<a href='/digital-beehive/num3/num_1039/'>712
+  [Adversity]</a>|<a href='/digital-beehive/num5/num_1448/'>1074 [Adversity]</a>|<a
+  href='/digital-beehive/num5/num_1706/'>1238 [Adversity]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2efdddb3b"
-unparsed: 
-line: 'Head: acidul[ae]|Entry: 1680 [Hot Baths]|#item-2efdddb3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191575907
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/166,2827,652,109/150,/0/default.jpg
-label: acidul[ae]
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6cba55eed"
+unparsed:
+line: 'Head: adversity|Entry: a|Entry: 712 [Adversity]|Entry: 1074 [Adversity]|Entry:
+  1238 [Adversity]|#item-6cba55eed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/910,858,673,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761116494
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/910,858,673,117/150,/0/default.jpg
+label: adversity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0030'
 layout: index_item
 collection: index1

@@ -2,28 +2,29 @@
 pid: index_3242
 volume: Volume 3
 image_number: '38'
-head: pyramid
-entry: 861 [PAGE_MISSING]
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1d1fd790d"
-unparsed: 
-line: 'Head: pyramid|Entry: 861 [PAGE_MISSING]|#item-1d1fd790d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,2564,450,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452630070
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/403,2564,450,106/150,/0/default.jpg
-label: pyramid
+head: rape
+entry: "<a href='/digital-beehive/alpha4/alpha_0779/'>a</a>|<a href='/digital-beehive/num2/num_0277/'>253
+  [Rape]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e08df4235"
+unparsed:
+line: 'Head: rape|Entry: a|Entry: 253 [Rape]|#item-e08df4235'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460383574
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1832,577,509,140/150,/0/default.jpg
+label: rape
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0491'
+issue:
+insertion_xref:
+order: '0490'
 layout: index_item
 collection: index4
 ---

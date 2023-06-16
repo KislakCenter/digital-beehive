@@ -2,27 +2,29 @@
 pid: index_2287
 volume: Volume 3
 image_number: '28'
-head: lightness
-entry: 758 [PAGE_MISSING]
-topic: 
+head: little sufficeth
+entry: "<a href='/digital-beehive/num1/num_0045/'>45 [Little will suffice Nature]</a>|<a
+  href='/digital-beehive/num5/num_1580/'>1160 [a Little is sufficient]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1787/'>heaviness</a>"
-index: 
-item: "#item-e90ef265d"
-unparsed: 
-line: 'Head: lightness|See: heaviness|Entry: 758 [PAGE_MISSING]|#item-e90ef265d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,3379,741,218/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847542973
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,3379,741,218/150,/0/default.jpg
-label: lightness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2f8372714"
+unparsed:
+line: 'Head: little sufficeth|Entry: 45 [Little will suffice Nature]|Entry: 1160 [a
+  Little is sufficient]|#item-2f8372714'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1845,2039,551,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849294330
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1845,2039,551,125/150,/0/default.jpg
+label: little sufficeth
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '369'
 layout: index_item
 collection: index3

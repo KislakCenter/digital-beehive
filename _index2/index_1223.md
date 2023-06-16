@@ -2,27 +2,27 @@
 pid: index_1223
 volume: Volume 3
 image_number: '18'
-head: elephant
-entry: "<a href='/digital-beehive/toc/toc2_363/'>1980 [Elephant]</a>"
-topic: 
+head: England new
+entry: 766 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e2d550d75"
-unparsed: 
-line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1139,2376,475,92/150,/0/default.jpg
-label: elephant
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ef0f60d21"
+unparsed:
+line: 'Head: England new|Entry: 766 [PAGE_MISSING]|#item-ef0f60d21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756254114
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1823,1568,403,94/150,/0/default.jpg
+label: England new
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '042'
 layout: index_item
 collection: index2

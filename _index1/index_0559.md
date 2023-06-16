@@ -2,27 +2,27 @@
 pid: index_0559
 volume: Volume 3
 image_number: '12'
-head: catachresis
-entry: "<a href='/digital-beehive/num3/num_1077'>725 [Catachresis]</a>"
-topic: 
+head: caribeans
+entry: "<a href='/digital-beehive/num7/num_2240/'>1514 [Carribbee Islands]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-19becdf3e"
-unparsed: 
-line: 'Head: catachresis|Entry: 725 [Catachresis]|#item-19becdf3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/408,2204,599,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098341962
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/408,2204,599,140/150,/0/default.jpg
-label: catachresis
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d05bc4674"
+unparsed:
+line: 'Head: caribeans|Entry: 1514 [Carribbee Islands]|#item-d05bc4674'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/415,207,555,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531496564890
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/415,207,555,134/150,/0/default.jpg
+label: caribeans
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0558'
 layout: index_item
 collection: index1

@@ -2,28 +2,29 @@
 pid: index_3248
 volume: Volume 3
 image_number: '38'
-head: qualities
-entry: "<a href='/digital-beehive/num2/num_0543/'>440 [Qualities]</a>"
-topic: 
-first_letter: Q
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dfd60fb83"
-unparsed: 
-line: 'Head: qualities|Entry: 440 [Qualities]|#item-dfd60fb83'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558454730696
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/402,3197,510,187/150,/0/default.jpg
-label: qualities
+head: rarity
+entry: "<a href='/digital-beehive/alpha4/alpha_0777/'>a</a>|<a href='/digital-beehive/num6/num_2078/'>1429
+  [Rarity]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-167d2b58d"
+unparsed:
+line: 'Head: rarity|Entry: a|Entry: 1429 [Rarity]|#item-167d2b58d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1855,800,504,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460456007
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1855,800,504,111/150,/0/default.jpg
+label: rarity
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0497'
+issue:
+insertion_xref:
+order: '0496'
 layout: index_item
 collection: index4
 ---

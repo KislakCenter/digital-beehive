@@ -2,27 +2,30 @@
 pid: index_2716
 volume: Volume 3
 image_number: '32'
-head: no matter
-entry: "<a href='/digital-beehive/num3/num_0642'>510 [So trivial a thing]</a>"
-topic: 
+head: navigation
+entry: "<a href='/digital-beehive/alpha3/alpha_0638/'>a</a>|848 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_2083/'>1431 [Navigation]</a>|<a href='/digital-beehive/num9/num_2950/'>2016
+  [Navigation]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-11a9ec298"
-unparsed: 
-line: 'Head: no matter|Entry: 510 [So trivial a thing]|#item-11a9ec298'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1819,687,457,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560447528089
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1819,687,457,94/150,/0/default.jpg
-label: no matter
+page:
+add:
+xref:
+see:
+index:
+item: "#item-77842fc60"
+unparsed:
+line: 'Head: navigation|Entry: a|Entry: 848 [PAGE_MISSING]|Entry: 1431 [Navigation]|Entry:
+  2016 [Navigation]|#item-77842fc60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2426,724,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438614063
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,2426,724,156/150,/0/default.jpg
+label: navigation
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '798'
 layout: index_item
 collection: index3

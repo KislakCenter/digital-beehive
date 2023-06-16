@@ -2,28 +2,29 @@
 pid: index_2923
 volume: Volume 3
 image_number: '34'
-head: patron
-entry: 1870 [PAGE_MISSING]
-topic: 
+head: partakers
+entry: "<a href='/digital-beehive/alpha4/alpha_0688/'>a</a>|<a href='/digital-beehive/num10/num_3336/'>2364
+  [To Com[m]unicate & partake]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ec43fd8c6"
-unparsed: 
-line: 'Head: patron|Entry: 1870 [PAGE_MISSING]|#item-ec43fd8c6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,2219,541,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495715166
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1809,2219,541,130/150,/0/default.jpg
-label: patron
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a14134c3c"
+unparsed:
+line: 'Head: partakers|Entry: a|Entry: 2364 [To Com[m]unicate & partake]|#item-a14134c3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494650292
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1112,3023,673,170/150,/0/default.jpg
+label: partakers
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0172'
+issue:
+insertion_xref:
+order: '0171'
 layout: index_item
 collection: index4
 ---

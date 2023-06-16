@@ -2,27 +2,30 @@
 pid: index_0297
 volume: Volume 3
 image_number: '9'
-head: to bark
-entry: "<a href='/digital-beehive/num4/num_1192'>911 [To Bark]</a>"
-topic: 
+head: beauty
+entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/num3/num_0823/'>616
+  [Beauty]</a>|<a href='/digital-beehive/num7/num_2426/'>1609 [Beauty]</a>|<a href='/digital-beehive/num11/num_3508/'>4814
+  [Beauty]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-97f883562"
-unparsed: 
-line: 'Head: to bark|Entry: 911 [To Bark]|#item-97f883562'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/862,2961,438,90/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506105168279
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/862,2961,438,90/150,/0/default.jpg
-label: to bark
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fae0d52db"
+unparsed:
+line: 'Head: beauty|Entry: a|Entry: 616 [Beauty]|Entry: 1609 [Beauty]|Entry: 4814
+  [Beauty]|#item-fae0d52db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1583,2155,773,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565018471113
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1583,2155,773,126/150,/0/default.jpg
+label: beauty
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0296'
 layout: index_item
 collection: index1

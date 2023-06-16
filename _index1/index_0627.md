@@ -2,27 +2,27 @@
 pid: index_0627
 volume: Volume 3
 image_number: '12'
-head: chiding
-entry: "<a href='/digital-beehive/num3/num_0954'>680 [to Chide]</a>"
-topic: 
+head: changelings
+entry: "<a href='/digital-beehive/num8/num_2909/'>1979 [Changelings]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-eb3058f7c"
-unparsed: 
-line: 'Head: chiding|Entry: 680 [to Chide]|#item-eb3058f7c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1727,459,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565373417479
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1819,1727,459,168/150,/0/default.jpg
-label: chiding
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d6445975f"
+unparsed:
+line: 'Head: changelings|Entry: 1979 [Changelings]|#item-d6445975f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2846,546,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532442449032
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1133,2846,546,109/150,/0/default.jpg
+label: changelings
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0626'
 layout: index_item
 collection: index1

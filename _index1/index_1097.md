@@ -2,28 +2,28 @@
 pid: index_1097
 volume: Volume 3
 image_number: '17'
-head: dissim
-entry: 
-topic: 
+head: Fr. Drake
+entry: "<a href='/digital-beehive/num2/num_0416/'>353 [Francis Drake]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3717/'>Simulation</a>"
-index: 
-item: "#item-f9d34bc3a"
-unparsed: 
-line: 'Head: dissim|See: Simulation|#item-f9d34bc3a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/129,3216,633,97/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804717550
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/129,3216,633,97/150,/0/default.jpg
-label: dissim
+page:
+add:
+xref:
+see:
+index:
+item: "#item-842671de4"
+unparsed:
+line: 'Head: Fr. Drake|Entry: 353 [Francis Drake]|#item-842671de4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,1254,484,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451430817
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1507,1254,484,119/150,/0/default.jpg
+label: Fr. Drake
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1096'
+issue:
+insertion_xref:
+order: '1095'
 layout: index_item
 collection: index1
 ---

@@ -2,27 +2,27 @@
 pid: index_1998
 volume: Volume 3
 image_number: '25'
-head: incomparable
-entry: "<a href='/digital-beehive/num3/num_0670'>535 [Incomparable]</a>|1853 [PAGE_MISSING]"
-topic: 
+head: indeed
+entry: "<a href='/digital-beehive/num6/num_2059/'>1422 [In (very) Deed]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4885ef3bb"
-unparsed: 
-line: 'Head: incomparable|Entry: 535 [Incomparable]|Entry: 1853 [PAGE_MISSING]|#item-4885ef3bb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1575,1358,739,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671027075
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1575,1358,739,161/150,/0/default.jpg
-label: incomparable
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fae32567a"
+unparsed:
+line: 'Head: indeed|Entry: 1422 [In (very) Deed]|#item-fae32567a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672636359
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1554,2686,430,94/150,/0/default.jpg
+label: indeed
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '080'
 layout: index_item
 collection: index3

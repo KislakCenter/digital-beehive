@@ -2,28 +2,29 @@
 pid: index_4706
 volume: Volume 3
 image_number: '54'
-head: reign
-entry: 
-topic: 
+head: Salvation of devils
+entry: "<a href='/digital-beehive/num10/num_3472/'>4485 [Devils to be Saved]</a>"
+topic:
 first_letter: insertion
-page: 
-add: "<a href='/digital-beehive/index3/index_2162/'>kingdom</a>"
-xref: 
-see: 
-index: 
-item: "#item-a48c88327"
-unparsed: Type Index|Insertion [:38.]
-line: 'Type: Index|Insertion: [:38.]|Head: reign|Add: kingdom|#item-a48c88327'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955522468
-insertion: "[:38.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1036,2108,777,200/150,/0/default.jpg
-label: reign
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e6173fae"
+unparsed: Type Index|Insertion [:37.]
+line: 'Type: Index|Insertion: [:37.]|Head: Salvation of devils|Entry: 4485 [Devils
+  to be Saved]|#item-0e6173fae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1071,2005,722,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560955474959
+insertion: "[:37.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1071,2005,722,151/150,/0/default.jpg
+label: Salvation of devils
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '668'
+issue:
+insertion_xref:
+order: '669'
 layout: index_item
 collection: index5
 ---

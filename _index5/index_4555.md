@@ -2,28 +2,28 @@
 pid: index_4555
 volume: Volume 3
 image_number: '52'
-head: King William
-entry: "<a href='/digital-beehive/toc/toc2_344/'>1781 [King William]</a>"
-topic: 
+head: whetstone
+entry: "<a href='/digital-beehive/num6/num_1787/'>1284 [a Whetstone]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2a0bb3c50"
-unparsed: 
-line: 'Head: King William|Entry: 1781 [King William]|#item-2a0bb3c50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972579086
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1812,3004,582,168/150,/0/default.jpg
-label: King William
+page:
+add:
+xref:
+see:
+index:
+item: "#item-be0c7d747"
+unparsed:
+line: 'Head: whetstone|Entry: 1284 [a Whetstone]|#item-be0c7d747'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,3304,564,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970165716
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1096,3304,564,139/150,/0/default.jpg
+label: whetstone
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '517'
+issue:
+insertion_xref:
+order: '518'
 layout: index_item
 collection: index5
 ---

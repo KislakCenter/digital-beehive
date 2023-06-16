@@ -2,28 +2,32 @@
 pid: index_3564
 volume: Volume 3
 image_number: '41'
-head: scrivener
-entry: "<a href='/digital-beehive/num2/num_0287/'>260 [Scribe or publick Notary]</a>"
-topic: 
+head: security
+entry: "<a href='/digital-beehive/alpha4/alpha_0847/'>a</a>|<a href='/digital-beehive/num4/num_1202/'>914
+  [Security]</a>|<a href='/digital-beehive/num4/num_1204/'>914 [Security, he that
+  promises for another]</a>|<a href='/digital-beehive/num10/num_3383/'>2410 [Carelessness
+  & Security]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-48e2f1439"
-unparsed: 
-line: 'Head: scrivener|Entry: 260 [Scribe or publick Notary]|#item-48e2f1439'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241696255
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/852,2929,529,142/150,/0/default.jpg
-label: scrivener
+page:
+add:
+xref:
+see:
+index:
+item: "#item-20a6a39fb"
+unparsed:
+line: 'Head: security|Entry: a|Entry: 914 [Security]|Entry: 914 [Security, he that
+  promises for another]|Entry: 2410 [Carelessness & Security]|#item-20a6a39fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2199,717,181/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559242880125
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1585,2199,717,181/150,/0/default.jpg
+label: security
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0813'
+issue:
+insertion_xref:
+order: '0812'
 layout: index_item
 collection: index4
 ---

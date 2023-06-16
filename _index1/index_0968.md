@@ -2,31 +2,28 @@
 pid: index_0968
 volume: Volume 3
 image_number: '15'
-head: death of good men
-entry: "<a href='/digital-beehive/num3/num_0845'>626 [the Death of good & holy men]</a>|<a
-  href='/digital-beehive/toc/toc2_360/'>1963 [the Death of good & great men]</a>|<a
-  href='/digital-beehive/toc/toc2_446/'>4914 [WORD_ILLEGIBLE]</a>"
-topic: 
+head: debauch
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-533275d44"
-unparsed: 
-line: 'Head: death of good men|Entry: 626 [the Death of good & holy men]|Entry: 1963
-  [the Death of good & great men]|Entry: 4914 [WORD_ILLEGIBLE]|#item-533275d44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1523,3103,777,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392305350
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1523,3103,777,167/150,/0/default.jpg
-label: death of good men
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3397/'>revelling</a>"
+index:
+item: "#item-c9db7a647"
+unparsed:
+line: 'Head: debauch|See: revelling|#item-c9db7a647'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392491289
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1535,3474,717,134/150,/0/default.jpg
+label: debauch
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0967'
+issue:
+insertion_xref:
+order: '0966'
 layout: index_item
 collection: index1
 ---

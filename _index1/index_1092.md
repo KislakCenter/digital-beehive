@@ -2,29 +2,28 @@
 pid: index_1092
 volume: Volume 3
 image_number: '17'
-head: displeasure
-entry: "<a href='/digital-beehive/num3/num_0822'>615 [displeasure]</a>|<a href='/digital-beehive/toc/toc2_290/'>1482
-  [Displeasure]</a>"
-topic: 
+head: disgrace
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-43f22c6f4"
-unparsed: 
-line: 'Head: displeasure|Entry: 615 [displeasure]|Entry: 1482 [Displeasure]|#item-43f22c6f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804477583
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/120,2742,694,130/150,/0/default.jpg
-label: displeasure
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1007/'>deposition</a>"
+index:
+item: "#item-462c3e197"
+unparsed:
+line: 'Head: disgrace|See: deposition|#item-462c3e197'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/127,1081,737,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803799135
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/127,1081,737,157/150,/0/default.jpg
+label: disgrace
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1091'
+issue:
+insertion_xref:
+order: '1090'
 layout: index_item
 collection: index1
 ---

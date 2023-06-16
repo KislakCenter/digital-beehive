@@ -2,27 +2,27 @@
 pid: index_1947
 volume: Volume 3
 image_number: '25'
-head: ignis fatuus
-entry: "<a href='/digital-beehive/toc/toc2_312/'>1589 [Ignis fatuus]</a>"
-topic: 
+head: idea
+entry: "<a href='/digital-beehive/num9/num_2976/'>2042 [Ideas]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b924d1d16"
-unparsed: 
-line: 'Head: ignis fatuus|Entry: 1589 [Ignis fatuus]|#item-b924d1d16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/156,2823,607,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661852237
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/156,2823,607,168/150,/0/default.jpg
-label: ignis fatuus
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5c7801cf5"
+unparsed:
+line: 'Head: idea|Entry: 2042 [Ideas]|#item-5c7801cf5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/163,993,398,81/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559659403875
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/163,993,398,81/150,/0/default.jpg
+label: idea
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '029'
 layout: index_item
 collection: index3

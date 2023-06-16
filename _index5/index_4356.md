@@ -2,28 +2,28 @@
 pid: index_4356
 volume: Volume 3
 image_number: '50'
-head: unarmed
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1775 [Unarmed]</a>"
-topic: 
+head: ungodly
+entry:
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9fce19fd1"
-unparsed: 
-line: 'Head: unarmed|Entry: 1775 [Unarmed]|#item-9fce19fd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/439,1013,532,82/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872182365
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/439,1013,532,82/150,/0/default.jpg
-label: unarmed
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4519/'>wicked</a>"
+index:
+item: "#item-0e0c13b7b"
+unparsed:
+line: 'Head: ungodly|See: wicked|#item-0e0c13b7b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1142,496,577,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560878120588
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1142,496,577,173/150,/0/default.jpg
+label: ungodly
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '318'
+issue:
+insertion_xref:
+order: '319'
 layout: index_item
 collection: index5
 ---

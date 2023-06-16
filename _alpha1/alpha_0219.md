@@ -2,30 +2,28 @@
 pid: alpha_0219
 volume: Volume 1
 image_number: '448'
-head: 
-entry: Degree
-topic: Degree
+head:
+entry: Deer
+topic: Deer
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0742/'>Progress</a>|<a href='/digital-beehive/toc/toc2_269/'>1377
-  [Great with young]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0993/'>degree</a>"
-item: "#item-b4234514f"
-unparsed: 
-line: 'Entry: Degree|Topic: Degree|Xref: Progress|Xref: 1377 [Great with young]|Index:
-  degree|#item-b4234514f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,3742,2966,415/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507576466054
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/801,3742,600,180/250,/0/default.jpg
-label: Degree
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index1/index_0980/'>deer</a>"
+item: "#item-ce13c55af"
+unparsed:
+line: 'Entry: Deer|Topic: Deer|Index: deer|#item-ce13c55af'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/750,2519,2995,266/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563997220329
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/750,2519,600,180/250,/0/default.jpg
+label: Deer
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '217'
+issue:
+also_in_entry:
+order: '218'
 layout: alpha_item
 collection: alpha1
 ---

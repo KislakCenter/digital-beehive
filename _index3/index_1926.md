@@ -2,27 +2,28 @@
 pid: index_1926
 volume: Volume 3
 image_number: '25'
-head: Janus
-entry: 4541 [PAGE_MISSING]
-topic: 
+head: Image of God
+entry: "<a href='/digital-beehive/alpha3/alpha_0459/'>a</a>|<a href='/digital-beehive/num9/num_3011/'>2077
+  [Image of God]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4f64b07e8"
-unparsed: 
-line: 'Head: Janus|Entry: 4541 [PAGE_MISSING]|#item-4f64b07e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/177,647,421,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658869158
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/177,647,421,95/150,/0/default.jpg
-label: Janus
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f129a326c"
+unparsed:
+line: 'Head: Image of God|Entry: a|Entry: 2077 [Image of God]|#item-f129a326c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,376,739,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559664766400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,376,739,125/150,/0/default.jpg
+label: Image of God
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '008'
 layout: index_item
 collection: index3

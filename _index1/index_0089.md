@@ -2,30 +2,27 @@
 pid: index_0089
 volume: Volume 3
 image_number: '7'
-head: alchymie
-entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/toc/toc2_259/'>1326
-  [Alchymie]</a>|<a href='/digital-beehive/toc/toc2_304/'>1548 [Alchymie]</a>|<a href='/digital-beehive/toc/toc2_374/'>2090
-  [Alchymie]</a>|4555 [PAGE_MISSING]"
-topic: 
+head: accurate
+entry: "<a href='/digital-beehive/num1/num_0153/'>147 [Exactness]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-acedd3f25"
-unparsed: 
-line: 'Head: alchymie|Entry: a|Entry: 1326 [Alchymie]|Entry: 1548 [Alchymie]|Entry:
-  2090 [Alchymie]|Entry: 4555 [PAGE_MISSING]|#item-acedd3f25'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1608,722,717,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768095550
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1608,722,717,154/150,/0/default.jpg
-label: alchymie
+page:
+add:
+xref:
+see:
+index:
+item: "#item-25553776f"
+unparsed:
+line: 'Head: accurate|Entry: 147 [Exactness]|#item-25553776f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/176,2524,537,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1491191433131
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/176,2524,537,93/150,/0/default.jpg
+label: accurate
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0088'
 layout: index_item
 collection: index1

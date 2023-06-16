@@ -2,28 +2,29 @@
 pid: index_1845
 volume: Volume 3
 image_number: '24'
-head: history of partic. men
-entry: "<a href='/digital-beehive/toc/toc2_292/'>1494 [Lives of particular Persons]</a>"
-topic: 
+head: house
+entry: "<a href='/digital-beehive/alpha2/alpha_0438/'>a</a>|<a href='/digital-beehive/num5/num_1614/'>1184
+  [House]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-96fde325a"
-unparsed: 
-line: 'Head: history of partic. men|Entry: 1494 [Lives of particular Persons]|#item-96fde325a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/375,3585,687,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580103569
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/375,3585,687,112/150,/0/default.jpg
-label: history of partic. men
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ead7ae2d7"
+unparsed:
+line: 'Head: house|Entry: a|Entry: 1184 [House]|#item-ead7ae2d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1835,879,489,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586537705
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1835,879,489,128/150,/0/default.jpg
+label: house
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '663'
+issue:
+insertion_xref:
+order: '664'
 layout: index_item
 collection: index2
 ---

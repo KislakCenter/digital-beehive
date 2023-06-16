@@ -2,27 +2,27 @@
 pid: index_0624
 volume: Volume 3
 image_number: '12'
-head: chest
-entry: "<a href='/digital-beehive/num4/num_1099'>871 [a Chest]</a>"
-topic: 
+head: caterpillars
+entry: "<a href='/digital-beehive/num5/num_1533/'>1129 [Caterpillers]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8ca7db9b3"
-unparsed: 
-line: 'Head: chest|Entry: 871 [a Chest]|#item-8ca7db9b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,1508,384,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532459668533
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,1508,384,108/150,/0/default.jpg
-label: chest
+page:
+add:
+xref:
+see:
+index:
+item: "#item-22ee3e9a8"
+unparsed:
+line: 'Head: caterpillars|Entry: 1129 [Caterpillers]|#item-22ee3e9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098537057
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/401,2759,625,164/150,/0/default.jpg
+label: caterpillars
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0623'
 layout: index_item
 collection: index1

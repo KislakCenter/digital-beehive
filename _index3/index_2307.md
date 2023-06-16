@@ -2,28 +2,27 @@
 pid: index_2307
 volume: Volume 3
 image_number: '28'
-head: little talk
-entry: "<a href='/digital-beehive/num1/num_0002/'>2 [Laconism]</a>|<a href='/digital-beehive/toc/toc2_227/'>1169
-  [Laconism]</a>"
-topic: 
+head: loadstone
+entry: "<a href='/digital-beehive/num7/num_2441/'>1615 [Loadstone]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-47e9ba329"
-unparsed: 
-line: 'Head: little talk|Entry: 2 [Laconism]|Entry: 1169 [Laconism]|#item-47e9ba329'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2101,438,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849396978
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1814,2101,438,137/150,/0/default.jpg
-label: little talk
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-b55b38a1e"
+unparsed:
+line: 'Head: loadstone|Page: p.32 [Image 1.92]|Entry: 1615 [Loadstone]|#item-b55b38a1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1818,2774,643,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559850069180
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1818,2774,643,141/150,/0/default.jpg
+label: loadstone
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '389'
 layout: index_item
 collection: index3

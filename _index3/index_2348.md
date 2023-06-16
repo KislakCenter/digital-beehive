@@ -2,27 +2,27 @@
 pid: index_2348
 volume: Volume 3
 image_number: '29'
-head: wanton love
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
-topic: 
+head: looseness
+entry:
+topic:
 first_letter: L
-page: 
-add: womanish
-xref: 
-see: 
-index: 
-item: "#item-e66fc7bb6"
-unparsed: 
-line: 'Head: wanton love|Entry: 1402 [Lasciviousness]|Add: womanish|#item-e66fc7bb6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/157,2612,541,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179909760
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/157,2612,541,165/150,/0/default.jpg
-label: wanton love
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1494/'>flux</a>|<a href='/digital-beehive/index3/index_2294/'>license</a>"
+index:
+item: "#item-847c61974"
+unparsed:
+line: 'Head: looseness|See: flux|See: license|#item-847c61974'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,974,737,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177867246
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,974,737,154/150,/0/default.jpg
+label: looseness
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '430'
 layout: index_item
 collection: index3

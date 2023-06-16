@@ -2,28 +2,30 @@
 pid: index_2983
 volume: Volume 3
 image_number: '35'
-head: books of Ph. Society
-entry: 
-topic: 
+head: "[:31.]"
+entry:
+topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc2_290/'>p.380 [Image 2.202]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2de79c801"
-unparsed: 
-line: 'Head: books of Ph. Society|Page: p.380 [Image 2.202]|#item-2de79c801'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974625764
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/839,2334,848,159/150,/0/default.jpg
-label: books of Ph. Society
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d81cc2858"
+unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+line: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2093,1724,217,196/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277282189
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2093,1724,217,196/150,/0/default.jpg
+label: "[:31.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0232'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4683/'>pink. gillifl.</a>|<a
+  href='/digital-beehive/index5/index_4686/'>pindar</a>|<a href='/digital-beehive/index5/index_4687/'>pin
+  money</a>"
+order: '0231'
 layout: index_item
 collection: index4
 ---

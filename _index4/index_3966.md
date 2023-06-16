@@ -2,28 +2,30 @@
 pid: index_3966
 volume: Volume 3
 image_number: '45'
-head: Successively
-entry: "<a href='/digital-beehive/num4/num_1140'>887 [Successively]</a>"
-topic: 
+head: Stuart
+entry: "<a href='/digital-beehive/num6/num_2194/'>1488 [K. Charles I]</a>|<a href='/digital-beehive/num6/num_2193/'>1488
+  [Stuart]</a>|<a href='/digital-beehive/num6/num_2195/'>1488 [K. Charles II]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-02002dd90"
-unparsed: 
-line: 'Head: Successively|Entry: 887 [Successively]|#item-02002dd90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1580,2404,544,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469402262
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1580,2404,544,129/150,/0/default.jpg
-label: Successively
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7f88a828b"
+unparsed:
+line: 'Head: Stuart|Entry: 1488 [K. Charles I]|Entry: 1488 [Stuart]|Entry: 1488 [K.
+  Charles II]|#item-7f88a828b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,3175,440,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530466676180
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/899,3175,440,123/150,/0/default.jpg
+label: Stuart
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1215'
+issue:
+insertion_xref:
+order: '1214'
 layout: index_item
 collection: index4
 ---

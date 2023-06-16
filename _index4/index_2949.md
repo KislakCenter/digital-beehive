@@ -2,28 +2,29 @@
 pid: index_2949
 volume: Volume 3
 image_number: '35'
-head: pentecost
-entry: "<a href='/digital-beehive/num4/num_1152'>891 [Pentecost]</a>"
-topic: 
+head: pedlars
+entry: "<a href='/digital-beehive/num1/num_0113/'>109 [A Shop keeper]</a>|<a href='/digital-beehive/num3/num_1048/'>714
+  [a haggler]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-26532136a"
-unparsed: 
-line: 'Head: pentecost|Entry: 891 [Pentecost]|#item-26532136a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972686634
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/147,1838,454,124/150,/0/default.jpg
-label: pentecost
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d647a6a78"
+unparsed:
+line: 'Head: pedlars|Entry: 109 [A Shop keeper]|Entry: 714 [a haggler]|#item-d647a6a78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/97,660,608,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971672762
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/97,660,608,129/150,/0/default.jpg
+label: pedlars
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0198'
+issue:
+insertion_xref:
+order: '0197'
 layout: index_item
 collection: index4
 ---

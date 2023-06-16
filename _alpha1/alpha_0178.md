@@ -1,28 +1,28 @@
 ---
 pid: alpha_0178
 volume: Volume 1
-image_number: '445'
-head: 
-entry: Cookery
-topic: Cookery
+image_number: '444'
+head:
+entry: Continency
+topic: Continency
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0253/'>236 [Cookery]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0840/'>cookery</a>"
-item: "#item-65367d05f"
-unparsed: 
-line: 'Entry: Cookery|Topic: Cookery|Xref: 236 [Cookery]|Index: cookery|#item-65367d05f'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/269,706,3202,316/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499784973605
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/269,706,600,180/250,/0/default.jpg
-label: Cookery
-location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
-issue: 
-also_in_entry: 
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0471/'>Incontinence</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0766/'>continency</a>"
+item: "#item-7842cd78e"
+unparsed:
+line: 'Entry: Continency|Topic: Continency|Xref: Incontinence|Index: continency|#item-7842cd78e'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/804,3944,3045,499/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499784892066
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/804,3944,600,180/250,/0/default.jpg
+label: Continency
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
+issue:
+also_in_entry:
 order: '177'
 layout: alpha_item
 collection: alpha1

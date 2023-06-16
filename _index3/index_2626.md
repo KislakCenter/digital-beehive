@@ -2,27 +2,27 @@
 pid: index_2626
 volume: Volume 3
 image_number: '31'
-head: myrrh
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1928 [Myrrh]</a>"
-topic: 
+head: Molinos
+entry: "<a href='/digital-beehive/num4/num_1256/'>939 [Quietists]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-feba70808"
-unparsed: 
-line: 'Head: myrrh|Entry: 1928 [Myrrh]|#item-feba70808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2688,415,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362504847
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1527,2688,415,110/150,/0/default.jpg
-label: myrrh
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7e4dac028"
+unparsed:
+line: 'Head: Molinos|Entry: 939 [Quietists]|#item-7e4dac028'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560353174279
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/154,3220,422,140/150,/0/default.jpg
+label: Molinos
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '708'
 layout: index_item
 collection: index3

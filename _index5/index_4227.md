@@ -2,28 +2,29 @@
 pid: index_4227
 volume: Volume 3
 image_number: '48'
-head: treasure houses
-entry: 
-topic: 
+head: too wise
+entry: "<a href='/digital-beehive/num2/num_0549/'>444 [Too Wise]</a>|<a href='/digital-beehive/num6/num_1953/'>1372
+  [Too wise]</a>"
+topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-99fde9bb3"
-unparsed: 
-line: 'Head: treasure houses|Page: p.6 [Image 1.66]|#item-99fde9bb3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1785,320,502,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561490336099
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1785,320,502,156/150,/0/default.jpg
-label: treasure houses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6bdafed90"
+unparsed:
+line: 'Head: too wise|Entry: 444 [Too Wise]|Entry: 1372 [Too wise]|#item-6bdafed90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,2242,560,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275323916
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/454,2242,560,160/150,/0/default.jpg
+label: too wise
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '189'
+issue:
+insertion_xref:
+order: '190'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,28 @@
 pid: index_1819
 volume: Volume 3
 image_number: '24'
-head: herod
-entry: "<a href='/digital-beehive/toc/toc2_433/'>4828 [Herod]</a>"
-topic: 
+head: hole
+entry: "<a href='/digital-beehive/num4/num_1124/'>881 [make an hole]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ba28155cf"
-unparsed: 
-line: 'Head: herod|Entry: 4828 [Herod]|#item-ba28155cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/824,830,334,90/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575233388
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/824,830,334,90/150,/0/default.jpg
-label: herod
+page:
+add:
+xref:
+see:
+index:
+item: "#item-37e73ef39"
+unparsed:
+line: 'Head: hole|Entry: 881 [make an hole]|#item-37e73ef39'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1126,1088,337,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581999247
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1126,1088,337,122/150,/0/default.jpg
+label: hole
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '637'
+issue:
+insertion_xref:
+order: '638'
 layout: index_item
 collection: index2
 ---

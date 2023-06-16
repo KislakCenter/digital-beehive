@@ -2,27 +2,27 @@
 pid: index_2551
 volume: Volume 3
 image_number: '31'
-head: mode
-entry: 
-topic: 
+head: monkey
+entry: 802 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
-index: 
-item: "#item-9f270ccb1"
-unparsed: 
-line: 'Head: mode|See: alamode|#item-9f270ccb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2305,605,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352303792
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/179,2305,605,111/150,/0/default.jpg
-label: mode
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ce7d258c1"
+unparsed:
+line: 'Head: monkey|Entry: 802 [PAGE_MISSING]|#item-ce7d258c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560355024441
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/868,819,478,157/150,/0/default.jpg
+label: monkey
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '633'
 layout: index_item
 collection: index3

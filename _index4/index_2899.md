@@ -2,28 +2,28 @@
 pid: index_2899
 volume: Volume 3
 image_number: '34'
-head: particles
-entry: "<a href='/digital-beehive/toc/toc2_370/'>2044 [Particles]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-23faa8eda"
-unparsed: 
-line: 'Head: particles|Entry: 2044 [Particles]|#item-23faa8eda'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494774841
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1099,3212,631,173/150,/0/default.jpg
-label: particles
+head: Oxford
+entry: 4587 [PAGE_MISSING]
+topic:
+first_letter: O
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7d058d9a8"
+unparsed:
+line: 'Head: Oxford|Entry: 4587 [PAGE_MISSING]|#item-7d058d9a8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425741692
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/467,2239,559,150/150,/0/default.jpg
+label: Oxford
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0148'
+issue:
+insertion_xref:
+order: '0147'
 layout: index_item
 collection: index4
 ---

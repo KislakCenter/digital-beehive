@@ -2,28 +2,28 @@
 pid: index_1217
 volume: Volume 3
 image_number: '18'
-head: either
-entry: "<a href='/digital-beehive/num3/num_1075'>724 [Each]</a>"
-topic: 
+head: effeminate
+entry: "<a href='/digital-beehive/num5/num_1623/'>1192 [Effeminate]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ce42b6daa"
-unparsed: 
-line: 'Head: either|Entry: 724 [Each]|#item-ce42b6daa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,1811,387,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559673819198
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1169,1811,387,114/150,/0/default.jpg
-label: either
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0b00f09e0"
+unparsed:
+line: 'Head: effeminate|Entry: 1192 [Effeminate]|#item-0b00f09e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1176,1341,512,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559673249807
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1176,1341,512,125/150,/0/default.jpg
+label: effeminate
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '036'
+issue:
+insertion_xref:
+order: '039'
 layout: index_item
 collection: index2
 ---

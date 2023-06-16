@@ -2,27 +2,30 @@
 pid: index_0173
 volume: Volume 3
 image_number: '8'
-head: apothecary shop
-entry: 
-topic: 
+head: apparitions
+entry: "<a href='/digital-beehive/alpha1/alpha_0042/'>a</a>|<a href='/digital-beehive/num9/num_3161/'>2218
+  [Apparitions]</a>|<a href='/digital-beehive/num6/num_1834/'>1313 [Spectres]</a>|<a
+  href='/digital-beehive/num7/num_2419/'>1604 [Apparitions]</a>"
+topic:
 first_letter: A
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-526270810"
-unparsed: 
-line: 'Head: apothecary shop|Page: p.7 [Image 1.67]|#item-526270810'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1113,1054,406,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759990023
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1113,1054,406,107/150,/0/default.jpg
-label: apothecary shop
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bbb91a063"
+unparsed:
+line: 'Head: apparitions|Entry: a|Entry: 2218 [Apparitions]|Entry: 1313 [Spectres]|Entry:
+  1604 [Apparitions]|#item-bbb91a063'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1101,1266,712,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760099313
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1101,1266,712,135/150,/0/default.jpg
+label: apparitions
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0172'
 layout: index_item
 collection: index1

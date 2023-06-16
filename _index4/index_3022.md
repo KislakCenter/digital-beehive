@@ -2,28 +2,28 @@
 pid: index_3022
 volume: Volume 3
 image_number: '35'
-head: pitch
-entry: "<a href='/digital-beehive/alpha4/alpha_0708/'>a</a>"
-topic: 
+head: phylacteries
+entry: "<a href='/digital-beehive/num8/num_2804/'>1911 [Phylacteries]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-74f1d34bc"
-unparsed: 
-line: 'Head: pitch|Entry: a|#item-74f1d34bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,2432,334,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977015173
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1528,2432,334,122/150,/0/default.jpg
-label: pitch
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c45098871"
+unparsed:
+line: 'Head: phylacteries|Entry: 1911 [Phylacteries]|#item-c45098871'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974927689
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/870,3128,545,158/150,/0/default.jpg
+label: phylacteries
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0271'
+issue:
+insertion_xref:
+order: '0270'
 layout: index_item
 collection: index4
 ---

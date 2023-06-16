@@ -2,27 +2,27 @@
 pid: index_1467
 volume: Volume 3
 image_number: '20'
-head: a fit
-entry: "<a href='/digital-beehive/toc/toc2_377/'>2118 [Fit or Paroxysm]</a>"
-topic: 
+head: farmer
+entry: 1882 [PAGE_MISSING]
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-74afcdfcc"
-unparsed: 
-line: 'Head: a fit|Entry: 2118 [Fit or Paroxysm]|#item-74afcdfcc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562615225761
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1803,1940,409,157/150,/0/default.jpg
-label: a fit
+page:
+add:
+xref:
+see:
+index:
+item: "#item-764cc29d6"
+unparsed:
+line: 'Head: farmer|Entry: 1882 [PAGE_MISSING]|#item-764cc29d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/409,3003,415,87/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659685600
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/409,3003,415,87/150,/0/default.jpg
+label: farmer
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '286'
 layout: index_item
 collection: index2

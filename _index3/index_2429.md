@@ -2,27 +2,27 @@
 pid: index_2429
 volume: Volume 3
 image_number: '30'
-head: market place
-entry: 
-topic: 
+head: Mevis
+entry: "<a href='/digital-beehive/num7/num_2248/'>1519 [Mevis or Nevis]</a>"
+topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-83ef1daa1"
-unparsed: 
-line: 'Head: market place|Page: p.7 [Image 1.67]|#item-83ef1daa1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560262908816
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,406,421,137/150,/0/default.jpg
-label: market place
+page:
+add:
+xref:
+see:
+index:
+item: "#item-34c1e30f5"
+unparsed:
+line: 'Head: Mevis|Entry: 1519 [Mevis or Nevis]|#item-34c1e30f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,997,364,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273742407
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,997,364,126/150,/0/default.jpg
+label: Mevis
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '511'
 layout: index_item
 collection: index3

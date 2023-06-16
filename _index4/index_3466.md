@@ -2,28 +2,28 @@
 pid: index_3466
 volume: Volume 3
 image_number: '40'
-head: rules false
-entry: "<a href='/digital-beehive/num1/num_0143/'>138 [False Rules]</a>"
-topic: 
+head: rickets
+entry: "<a href='/digital-beehive/num3/num_0958/'>681 [Rickets]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5fdece7e1"
-unparsed: 
-line: 'Head: rules false|Entry: 138 [False Rules]|#item-5fdece7e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1133,3151,407,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234131360
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1133,3151,407,103/150,/0/default.jpg
-label: rules false
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c8b27897d"
+unparsed:
+line: 'Head: rickets|Entry: 681 [Rickets]|#item-c8b27897d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,1804,466,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231842670
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,1804,466,138/150,/0/default.jpg
+label: rickets
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0715'
+issue:
+insertion_xref:
+order: '0714'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,27 @@
 pid: index_1327
 volume: Volume 3
 image_number: '19'
-head: examination
-entry: "<a href='/digital-beehive/alpha2/alpha_0294/'>a</a>|<a href='/digital-beehive/toc/toc2_277/'>1416
-  [To Examine]</a>"
-topic: 
+head: expressly
+entry: 760 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7fb9ccfb3"
-unparsed: 
-line: 'Head: examination|Entry: a|Entry: 1416 [To Examine]|#item-7fb9ccfb3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/823,2351,710,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354166564
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/823,2351,710,107/150,/0/default.jpg
-label: examination
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4a7cbe078"
+unparsed:
+line: 'Head: expressly|Entry: 760 [PAGE_MISSING]|#item-4a7cbe078'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561396029831
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1856,546,158/150,/0/default.jpg
+label: expressly
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '146'
 layout: index_item
 collection: index2

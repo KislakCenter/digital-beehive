@@ -1,30 +1,29 @@
 ---
 pid: alpha_0724
 volume: Volume 2
-image_number: '42'
-head: 
-entry: Book prayers
-topic: Book prayers
+image_number: '41'
+head:
+entry: Posterity
+topic: Posterity
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/num2/num_0284/'>259 [Book Prayers]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3112/'>book prayers</a>"
-item: "#item-b752fcc73"
-unparsed: 
-line: 'Entry: Book prayers|Topic: Book prayers|Xref: 259 [Book Prayers]|Index: book
-  prayers|#item-b752fcc73'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/852,650,2961,393/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528375725082
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/852,650,600,180/250,/0/default.jpg
-label: Book prayers
-location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '077'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0142/'>Child</a>|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3094/'>posterity</a>"
+item: "#item-9c11c8b1f"
+unparsed:
+line: 'Entry: Posterity|Topic: Posterity|Xref: Child|Xref: Bastard|Index: posterity|#item-9c11c8b1f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/319,3367,3055,379/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528374091601
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/319,3367,600,180/250,/0/default.jpg
+label: Posterity
+location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '072'
 layout: alpha_item
 collection: alpha4
 ---

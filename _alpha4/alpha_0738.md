@@ -1,30 +1,29 @@
 ---
 pid: alpha_0738
 volume: Volume 2
-image_number: '43'
-head: 
-entry: Process in Law
-topic: Process in Law
+image_number: '42'
+head:
+entry: Printing
+topic: Printing
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0015/'>agreement</a>|790 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3170/'>process in law</a>"
-item: "#item-69f3575b3"
-unparsed: 
-line: 'Entry: Process in Law|Topic: Process in Law|Xref: agreement|Xref: 790 [PAGE_MISSING]|Index:
-  process in law|#item-69f3575b3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/331,1261,3086,469/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528667572470
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/331,1261,600,180/250,/0/default.jpg
-label: Process in Law
-location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '091'
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1810/'>1296 [Printing]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3219/'>printing</a>"
+item: "#item-9776fdeb6"
+unparsed:
+line: 'Entry: Printing|Topic: Printing|Xref: 1296 [Printing]|Index: printing|#item-9776fdeb6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/811,4286,2978,396/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528404783700
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/811,4286,600,180/250,/0/default.jpg
+label: Printing
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '086'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: alpha_0515
 volume: Volume 2
 image_number: '26'
-head: 
-entry: To Last
-topic: To Last
+head:
+entry: Last things
+topic: Last things
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0633'>503 [Perseverance]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2208/'>to last or endure</a>"
-item: "#item-4e2aa1b9a"
-unparsed: 
-line: 'Entry: To Last|Topic: To Last|Xref: 503 [Perseverance]|Index: to last or endure|#item-4e2aa1b9a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/713,3384,2980,283/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766719965
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/713,3384,600,180/250,/0/default.jpg
-label: To Last
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index3/index_2165/'>last things</a>"
+item: "#item-1933cda88"
+unparsed:
+line: 'Entry: Last things|Topic: Last things|Index: last things|#item-1933cda88'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/754,2510,3006,343/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766586696
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/754,2510,600,180/250,/0/default.jpg
+label: Last things
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '071'
+issue:
+also_in_entry:
+order: '068'
 layout: alpha_item
 collection: alpha3
 ---

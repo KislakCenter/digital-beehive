@@ -2,31 +2,28 @@
 pid: index_3911
 volume: Volume 3
 image_number: '45'
-head: stones
-entry: "<a href='/digital-beehive/alpha4/alpha_0913/'>a</a>|<a href='/digital-beehive/num3/num_0775'>596
-  [The Stone Gravel of the Kidneys]</a>|<a href='/digital-beehive/toc/toc2_377/'>2116
-  [Stones]</a>"
-topic: 
+head: subscribed
+entry: "<a href='/digital-beehive/num5/num_1615/'>1184 [the hereunto Subscribed]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-43ae88c98"
-unparsed: 
-line: 'Head: stones|Entry: a|Entry: 596 [The Stone Gravel of the Kidneys]|Entry: 2116
-  [Stones]|#item-43ae88c98'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,3333,655,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530448634149
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/202,3333,655,109/150,/0/default.jpg
-label: stones
+page:
+add:
+xref:
+see:
+index:
+item: "#item-49e769050"
+unparsed:
+line: 'Head: subscribed|Entry: 1184 [the hereunto Subscribed]|#item-49e769050'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,1246,478,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467765116
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,1246,478,161/150,/0/default.jpg
+label: subscribed
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1160'
+issue:
+insertion_xref:
+order: '1159'
 layout: index_item
 collection: index4
 ---

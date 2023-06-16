@@ -2,28 +2,28 @@
 pid: alpha_0136
 volume: Volume 1
 image_number: '441'
-head: 
-entry: Chastity
-topic: Chastity
+head:
+entry: Ceremony
+topic: Ceremony
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0761/'>Purity</a>|794 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index1/index_0615/'>chastity</a>"
-item: "#item-c08ad89c9"
-unparsed: 
-line: 'Entry: Chastity|Topic: Chastity|Xref: Purity|Xref: 794 [PAGE_MISSING]|Index:
-  chastity|#item-c08ad89c9'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/316,1405,3221,484/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499437941056
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/316,1405,600,180/250,/0/default.jpg
-label: Chastity
+page:
+add:
+xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/num5/num_1525/'>1125 [Ceremonies]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0596/'>ceremony</a>"
+item: "#item-56a80e6d3"
+unparsed:
+line: 'Entry: Ceremony|Topic: Ceremony|Xref: [WORD_ILLEGIBLE]|Xref: 1125 [Ceremonies]|Index:
+  ceremony|#item-56a80e6d3'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/312,218,3280,452/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499372055674
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/312,218,600,180/250,/0/default.jpg
+label: Ceremony
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '135'
 layout: alpha_item
 collection: alpha1

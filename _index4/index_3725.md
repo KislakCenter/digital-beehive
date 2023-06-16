@@ -2,28 +2,28 @@
 pid: index_3725
 volume: Volume 3
 image_number: '43'
-head: sinew
-entry: "<a href='/digital-beehive/toc/toc2_323/'>1641 [Nerve or Sinew]</a>"
-topic: 
+head: skeleton
+entry: "<a href='/digital-beehive/num6/num_1970/'>1381 [Skeleton]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2e07ddc23"
-unparsed: 
-line: 'Head: sinew|Entry: 1641 [Nerve or Sinew]|#item-2e07ddc23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/181,3477,517,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582790107
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/181,3477,517,135/150,/0/default.jpg
-label: sinew
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-5d6dead9a"
+unparsed:
+line: 'Head: skeleton|Page: p.44 [Image 1.104]|Entry: 1381 [Skeleton]|#item-5d6dead9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583248785
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/889,1185,635,144/150,/0/default.jpg
+label: skeleton
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0974'
+issue:
+insertion_xref:
+order: '0973'
 layout: index_item
 collection: index4
 ---

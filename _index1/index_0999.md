@@ -2,28 +2,28 @@
 pid: index_0999
 volume: Volume 3
 image_number: '16'
-head: delicacy
-entry: 
-topic: 
+head: diamant
+entry: "<a href='/digital-beehive/num7/num_2495/'>1639 [Adamas]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0938/'>dainty</a>|<a href='/digital-beehive/index5/index_4571/'>wit</a>"
-index: 
-item: "#item-90f566525"
-unparsed: 
-line: 'Head: delicacy|See: dainty|See: wit|#item-90f566525'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/341,3061,742,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540572731411
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/341,3061,742,141/150,/0/default.jpg
-label: delicacy
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-b511008ed"
+unparsed:
+line: 'Head: diamant|Page: p.32 [Image 1.92]|Entry: 1639 [Adamas]|#item-b511008ed'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1777,731,685,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783511112
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1777,731,685,125/150,/0/default.jpg
+label: diamant
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0998'
+issue:
+insertion_xref:
+order: '0997'
 layout: index_item
 collection: index1
 ---

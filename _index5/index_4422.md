@@ -2,28 +2,28 @@
 pid: index_4422
 volume: Volume 3
 image_number: '51'
-head: until
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Till]</a>"
-topic: 
-first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9cd293b32"
-unparsed: 
-line: 'Head: until|Entry: 1398 [Till]|#item-9cd293b32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,2113,398,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645758180
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/221,2113,398,159/150,/0/default.jpg
-label: until
+head: Waldenses
+entry: "<a href='/digital-beehive/num1/num_0063/'>62 [Waldenses or Lyonists]</a>"
+topic:
+first_letter: W
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e30db187"
+unparsed:
+line: 'Head: Waldenses|Entry: 62 [Waldenses or Lyonists]|#item-0e30db187'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1624,760,480,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647619162
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1624,760,480,156/150,/0/default.jpg
+label: Waldenses
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '384'
+issue:
+insertion_xref:
+order: '385'
 layout: index_item
 collection: index5
 ---

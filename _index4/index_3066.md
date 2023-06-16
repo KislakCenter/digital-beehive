@@ -2,28 +2,28 @@
 pid: index_3066
 volume: Volume 3
 image_number: '36'
-head: pomegranate
-entry: 4667 [PAGE_MISSING]
-topic: 
+head: pledge
+entry:
+topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7655f7350"
-unparsed: 
-line: 'Head: pomegranate|Page: p.33 [Image 1.93]|Entry: 4667 [PAGE_MISSING]|#item-7655f7350'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/405,3336,787,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438113398
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/405,3336,787,138/150,/0/default.jpg
-label: pomegranate
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_2908/'>pawn</a>"
+index:
+item: "#item-69e18b989"
+unparsed:
+line: 'Head: pledge|See: pawn|#item-69e18b989'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/489,1121,599,175/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207651001
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/489,1121,599,175/150,/0/default.jpg
+label: pledge
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0315'
+issue:
+insertion_xref:
+order: '0314'
 layout: index_item
 collection: index4
 ---

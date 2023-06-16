@@ -23,7 +23,7 @@ label: east
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '012'
+order: '011'
 layout: index_item
 collection: index2
 ---

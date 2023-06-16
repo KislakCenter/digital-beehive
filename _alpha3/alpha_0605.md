@@ -2,30 +2,29 @@
 pid: alpha_0605
 volume: Volume 2
 image_number: '33'
-head: 
-entry: Moral Philosophy
-topic: Moral Philosophy
+head:
+entry: Money
+topic: Money
 first_letter: M
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/num4/num_1120'>880
-  [Moral Philos]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2576/'>moral philosophy</a>"
-item: "#item-ac4e76034"
-unparsed: 
-line: 'Entry: Moral Philosophy|Topic: Moral Philosophy|Xref: 15 [Moral Philosophy]|Xref:
-  880 [Moral Philos]|Index: moral philosophy|#item-ac4e76034'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,3045,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564776745879
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/337,4055,600,180/250,/0/default.jpg
-label: Moral Philosophy
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0983/'>Treasure</a>|<a href='/digital-beehive/num2/num_0528/'>426
+  [Money]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2540/'>money</a>"
+item: "#item-adf4c763a"
+unparsed:
+line: 'Entry: Money|Topic: Money|Xref: Treasure|Xref: 426 [Money]|Index: money|#item-adf4c763a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/339,2987,3060,500/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776426551
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/339,2987,600,180/250,/0/default.jpg
+label: Money
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '161'
+issue:
+also_in_entry:
+order: '158'
 layout: alpha_item
 collection: alpha3
 ---

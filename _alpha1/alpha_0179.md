@@ -1,30 +1,30 @@
 ---
 pid: alpha_0179
 volume: Volume 1
-image_number: '445'
-head: 
-entry: Covenant
-topic: Covenant
+image_number: '444'
+head:
+entry: Contradiction
+topic: Contradiction
 first_letter: C
-page: 
-add: 
-xref: "(: old & new :) Testament"
-see: 
-index: "<a href='/digital-beehive/index1/index_0866/'>covenant</a>"
-item: "#item-4506d1ee4"
-unparsed: 
-line: 'Entry: Covenant|Topic: Covenant|Xref: (: old & new :) Testament|Index: covenant|#item-4506d1ee4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,938,3063,234/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563906423848
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0444/343,938,600,180/250,/0/default.jpg
-label: Covenant
-location: "<a href='/digital-beehive/toc/toc1_435/'>Full Page</a>"
-issue: 'The cross-reference "(: old & new :) Testament" points to two separate entries.
-  There is currently no protocol for linking a single cross-reference to two different
-  places. '
-also_in_entry: 
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>|<a href='/digital-beehive/num4/num_1170/'>901
+  [Contradiction]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0775/'>contradiction</a>"
+item: "#item-ecfae9f9c"
+unparsed:
+line: 'Entry: Contradiction|Topic: Contradiction|Xref: 201 [Taverns]|Xref: 901 [Contradiction]|Index:
+  contradiction|#item-ecfae9f9c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/780,4393,3061,667/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499784916861
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/780,4393,600,180/250,/0/default.jpg
+label: Contradiction
+location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
+issue:
+also_in_entry:
 order: '178'
 layout: alpha_item
 collection: alpha1

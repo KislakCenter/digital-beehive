@@ -1,29 +1,29 @@
 ---
 pid: alpha_0812
 volume: Volume 2
-image_number: '49'
-head: 
-entry: Robbery
-topic: Robbery
+image_number: '48'
+head:
+entry: Riddles
+topic: Riddles
 first_letter: R
-page: 
-add: 
-xref: Steal|<a href='/digital-beehive/num2/num_0628/'>499 [Robbery]</a>
-see: 
-index: "<a href='/digital-beehive/index4/index_3437/'>robbery</a>"
-item: "#item-8f2a11623"
-unparsed: 
-line: 'Entry: Robbery|Topic: Robbery|Xref: Steal|Xref: 499 [Robbery]|Index: robbery|#item-8f2a11623'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,3071,574/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528826807737
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/242,504,600,180/250,/0/default.jpg
-label: Robbery
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-issue: The point of reference for "Steal" is unclear.
-also_in_entry: 
-order: '164'
+page:
+add:
+xref: "<a href='/digital-beehive/num9/num_3167/'>2224 [Riddle]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3470/'>riddle</a>"
+item: "#item-7c2447fe3"
+unparsed:
+line: 'Entry: Riddles|Topic: Riddles|Xref: 2224 [Riddle]|Index: riddle|#item-7c2447fe3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/801,3728,2933,497/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528825156750
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/801,3728,600,180/250,/0/default.jpg
+label: Riddles
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '160'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: index_0018
 volume: Volume 3
 image_number: '7'
-head: absurdity
-entry: "<a href='/digital-beehive/alpha1/alpha_0002/'>a</a>|<a href='/digital-beehive/num4/num_1217'>919
-  [Absurd]</a>|<a href='/digital-beehive/toc/toc2_386/'>2205 [Absurd]</a>"
-topic: 
+head: admonishing
+entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1426/'>1060 [Admonishing
+  & Warning]</a>
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-63eec4140"
-unparsed: 
-line: 'Head: absurdity|Entry: a|Entry: 919 [Absurd]|Entry: 2205 [Absurd]|#item-63eec4140'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,1631,736,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759380351
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/187,1631,736,144/150,/0/default.jpg
-label: absurdity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f28176249"
+unparsed:
+line: 'Head: admonishing|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing & Warning]|#item-f28176249'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/908,488,680,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760864163
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/908,488,680,131/150,/0/default.jpg
+label: admonishing
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0017'
 layout: index_item
 collection: index1

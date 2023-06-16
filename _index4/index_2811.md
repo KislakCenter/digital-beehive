@@ -2,28 +2,28 @@
 pid: index_2811
 volume: Volume 3
 image_number: '33'
-head: opprobrious words
-entry: "<a href='/digital-beehive/num3/num_0953'>680 [Scheltwort]</a>"
-topic: 
+head: to obstruct
+entry: 1880 [PAGE_MISSING]
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8417bf938"
-unparsed: 
-line: 'Head: opprobrious words|Entry: 680 [Scheltwort]|#item-8417bf938'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1469,1247,763,196/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161752769
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1469,1247,763,196/150,/0/default.jpg
-label: opprobrious words
+page:
+add:
+xref:
+see:
+index:
+item: "#item-df9681456"
+unparsed:
+line: 'Head: to obstruct|Entry: 1880 [PAGE_MISSING]|#item-df9681456'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/67,2781,663,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347517973
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/67,2781,663,142/150,/0/default.jpg
+label: to obstruct
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0060'
+issue:
+insertion_xref:
+order: '0059'
 layout: index_item
 collection: index4
 ---

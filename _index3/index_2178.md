@@ -2,27 +2,27 @@
 pid: index_2178
 volume: Volume 3
 image_number: '27'
-head: Korb
-entry: 
-topic: 
+head: knight errant
+entry: "<a href='/digital-beehive/num7/num_2388/'>1591 [A Knight Errant]</a>"
+topic:
 first_letter: K
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_1009/'>denial</a>"
-index: 
-item: "#item-bf8c26ff0"
-unparsed: 
-line: 'Head: Korb|See: denial|#item-bf8c26ff0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559831720844
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,2762,439,98/150,/0/default.jpg
-label: Korb
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9ec4c70b2"
+unparsed:
+line: 'Head: knight errant|Entry: 1591 [A Knight Errant]|#item-9ec4c70b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/834,2172,599,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762579111
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/834,2172,599,163/150,/0/default.jpg
+label: knight errant
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: It is unclear why Pastorius links "Korb" with "denial."
-insertion_xref: 
+issue:
+insertion_xref:
 order: '260'
 layout: index_item
 collection: index3

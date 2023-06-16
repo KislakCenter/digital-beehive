@@ -2,27 +2,28 @@
 pid: index_2363
 volume: Volume 3
 image_number: '29'
-head: lump
-entry: "<a href='/digital-beehive/num3/num_0815'>612 [Shoe Clout]</a>"
-topic: 
+head: luxury
+entry: "<a href='/digital-beehive/num1/num_0198/'>189 [Luxury]</a>|<a href='/digital-beehive/num5/num_1612/'>1183
+  [Luxury]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7513bc93c"
-unparsed: 
-line: 'Head: lump|Entry: 612 [Shoe Clout]|#item-7513bc93c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,616,291,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185227863
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/861,616,291,99/150,/0/default.jpg
-label: lump
+page:
+add:
+xref:
+see:
+index:
+item: "#item-31d0317a1"
+unparsed:
+line: 'Head: luxury|Entry: 189 [Luxury]|Entry: 1183 [Luxury]|#item-31d0317a1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185979637
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/867,1526,494,141/150,/0/default.jpg
+label: luxury
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '445'
 layout: index_item
 collection: index3

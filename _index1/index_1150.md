@@ -2,28 +2,28 @@
 pid: index_1150
 volume: Volume 3
 image_number: '17'
-head: drift
-entry: "<a href='/digital-beehive/num3/num_1036'>711 [Drift]</a>"
-topic: 
+head: dolus bonus
+entry: "<a href='/digital-beehive/num6/num_2125/'>1452 [good Guile]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3eb36df88"
-unparsed: 
-line: 'Head: drift|Entry: 711 [Drift]|#item-3eb36df88'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452605939
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1497,2148,334,129/150,/0/default.jpg
-label: drift
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b8a616199"
+unparsed:
+line: 'Head: dolus bonus|Entry: 1452 [good Guile]|#item-b8a616199'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/809,3088,595,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367277487
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/809,3088,595,113/150,/0/default.jpg
+label: dolus bonus
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1149'
+issue:
+insertion_xref:
+order: '1148'
 layout: index_item
 collection: index1
 ---

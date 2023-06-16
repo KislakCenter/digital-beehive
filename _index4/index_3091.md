@@ -2,28 +2,28 @@
 pid: index_3091
 volume: Volume 3
 image_number: '36'
-head: pot
-entry: 733 [PAGE_MISSING]
-topic: 
+head: post Script
+entry: "<a href='/digital-beehive/num7/num_2368/'>1579 [Post Script]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e70c97d2c"
-unparsed: 
-line: 'Head: pot|Entry: 733 [PAGE_MISSING]|#item-e70c97d2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1132,2541,460,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439081154
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1132,2541,460,127/150,/0/default.jpg
-label: pot
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9d98bc259"
+unparsed:
+line: 'Head: post Script|Entry: 1579 [Post Script]|#item-9d98bc259'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1128,1958,573,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438883131
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1128,1958,573,161/150,/0/default.jpg
+label: post Script
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0340'
+issue:
+insertion_xref:
+order: '0339'
 layout: index_item
 collection: index4
 ---

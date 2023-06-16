@@ -2,28 +2,27 @@
 pid: index_2343
 volume: Volume 3
 image_number: '29'
-head: love of Enemies
-entry: "<a href='/digital-beehive/alpha3/alpha_0558/'>a</a>|<a href='/digital-beehive/num1/num_0239/'>225
-  [Love of enemies]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d7b217d31"
-unparsed: 
-line: 'Head: love of Enemies|Entry: a|Entry: 225 [Love of enemies]|#item-d7b217d31'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/167,2306,504,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179641283
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/167,2306,504,95/150,/0/default.jpg
-label: love of Enemies
+head: malediction
+entry: "<a href='/digital-beehive/alpha3/alpha_0571/'>a</a>"
+topic:
+first_letter: M
+page:
+add:
+xref:
+see:
+index:
+item: "#item-733efa96c"
+unparsed:
+line: 'Head: malediction|Entry: a|#item-733efa96c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,802,491,99/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194090884
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1546,802,491,99/150,/0/default.jpg
+label: malediction
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '425'
 layout: index_item
 collection: index3

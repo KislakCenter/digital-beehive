@@ -2,28 +2,27 @@
 pid: index_1391
 volume: Volume 3
 image_number: '20'
-head: falshood
-entry: "<a href='/digital-beehive/alpha2/alpha_0312/'>a</a>|<a href='/digital-beehive/num4/num_1306'>979
-  [Falsehood]</a>"
-topic: 
+head: fart
+entry: "<a href='/digital-beehive/num3/num_0782/'>598 [Fart]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f7ff6c2f2"
-unparsed: 
-line: 'Head: falshood|Entry: a|Entry: 979 [Falsehood]|#item-f7ff6c2f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,1913,615,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561402153990
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/387,1913,615,137/150,/0/default.jpg
-label: falshood
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4fda921b8"
+unparsed:
+line: 'Head: fart|Entry: 598 [Fart]|#item-4fda921b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/393,3061,334,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561659866324
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/393,3061,334,124/150,/0/default.jpg
+label: fart
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '210'
 layout: index_item
 collection: index2

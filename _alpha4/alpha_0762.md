@@ -1,32 +1,29 @@
 ---
 pid: alpha_0762
 volume: Volume 2
-image_number: '45'
-head: 
-entry: Purpose
-topic: Purpose
+image_number: '44'
+head:
+entry: Pudding
+topic: Pudding
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0483/'>Intention</a>|<a href='/digital-beehive/num4/num_1183'>907
-  [Purposely]</a>|<a href='/digital-beehive/num4/num_1184'>907 [to the end]</a>|<a
-  href='/digital-beehive/toc/toc2_366/'>2001 [Purpose]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3236/'>purpose</a>"
-item: "#item-9f91ad58e"
-unparsed: 
-line: 'Entry: Purpose|Topic: Purpose|Xref: Intention|Xref: 907 [Purposely, to the
-  end]|Xref: 2001 [Purpose]|Index: purpose|#item-9f91ad58e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/287,898,3081,374/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558812099468
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/287,898,600,180/250,/0/default.jpg
-label: Purpose
-location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '115'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_3233/'>pudding</a>"
+item: "#item-56804e584"
+unparsed:
+line: 'Entry: Pudding|Topic: Pudding|Index: pudding|#item-56804e584'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/777,4217,2982,255/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565101929551
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/777,4217,600,180/250,/0/default.jpg
+label: Pudding
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '110'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: index_0966
 volume: Volume 3
 image_number: '15'
-head: death of Christ
-entry: "<a href='/digital-beehive/num3/num_0748'>582 [Death of Xst]</a>"
-topic: 
+head: deathly
+entry: "<a href='/digital-beehive/num9/num_3012/'>2078 [Mortal]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d75a08170"
-unparsed: 
-line: 'Head: death of Christ|Entry: 582 [Death of Xst]|#item-d75a08170'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540392063066
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1517,3015,528,126/150,/0/default.jpg
-label: death of Christ
+page:
+add:
+xref:
+see:
+index:
+item: "#item-48fc46b9b"
+unparsed:
+line: 'Head: deathly|Entry: 2078 [Mortal]|#item-48fc46b9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1524,3436,512,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540392469595
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1524,3436,512,85/150,/0/default.jpg
+label: deathly
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0965'
+issue:
+insertion_xref:
+order: '0964'
 layout: index_item
 collection: index1
 ---

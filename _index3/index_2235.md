@@ -2,28 +2,27 @@
 pid: index_2235
 volume: Volume 3
 image_number: '28'
-head: lean[n]ess
-entry: "<a href='/digital-beehive/alpha3/alpha_0525/'>a</a>|<a href='/digital-beehive/num2/num_0354/'>310
-  [Leanness]</a>"
-topic: 
+head: leaven
+entry: "<a href='/digital-beehive/num1/num_0111/'>107 [Leaven]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6a45550ad"
-unparsed: 
-line: 'Head: lean[n]ess|Entry: a|Entry: 310 [Leanness]|#item-6a45550ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/396,1644,505,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842086014
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/396,1644,505,158/150,/0/default.jpg
-label: lean[n]ess
+page:
+add:
+xref:
+see:
+index:
+item: "#item-45298e76d"
+unparsed:
+line: 'Head: leaven|Entry: 107 [Leaven]|#item-45298e76d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842556613
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/382,2733,402,112/150,/0/default.jpg
+label: leaven
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '317'
 layout: index_item
 collection: index3

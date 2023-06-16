@@ -2,27 +2,27 @@
 pid: index_0453
 volume: Volume 3
 image_number: '11'
-head: bridge
-entry: "<a href='/digital-beehive/alpha1/alpha_0101/'>a</a>"
-topic: 
-first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-502546850"
-unparsed: 
-line: 'Head: bridge|Page: p.9 [Image 1.69]|Entry: a|#item-502546850'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/162,2133,467,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531419231617
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/162,2133,467,173/150,/0/default.jpg
-label: bridge
+head: Callis
+entry: "<a href='/digital-beehive/num6/num_2156/'>1467 [Callis : Calais]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5675efcf0"
+unparsed:
+line: 'Head: Callis|Entry: 1467 [Callis : Calais]|#item-5675efcf0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,708,449,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494571677
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,708,449,152/150,/0/default.jpg
+label: Callis
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0452'
 layout: index_item
 collection: index1

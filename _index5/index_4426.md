@@ -2,29 +2,28 @@
 pid: index_4426
 volume: Volume 3
 image_number: '51'
-head: unworthy
-entry: "<a href='/digital-beehive/alpha5/alpha_1012/'>a</a>|<a href='/digital-beehive/num4/num_1245'>933
-  [Unworthy]</a>"
-topic: 
-first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8f0776b9d"
-unparsed: 
-line: 'Head: unworthy|Entry: a|Entry: 933 [Unworthy]|#item-8f0776b9d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,2629,520,196/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645878440
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/223,2629,520,196/150,/0/default.jpg
-label: unworthy
+head: to walk
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/num5/num_1555/'>1142 [To Go]</a>
+topic:
+first_letter: W
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a9759f1f4"
+unparsed:
+line: 'Head: to walk|Entry: 805 [PAGE_MISSING]|Entry: 1142 [To Go]|#item-a9759f1f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1645,926,614,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647670684
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1645,926,614,107/150,/0/default.jpg
+label: to walk
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '388'
+issue:
+insertion_xref:
+order: '389'
 layout: index_item
 collection: index5
 ---

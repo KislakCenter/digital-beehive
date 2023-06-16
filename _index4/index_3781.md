@@ -2,29 +2,29 @@
 pid: index_3781
 volume: Volume 3
 image_number: '43'
-head: soft
-entry: "<a href='/digital-beehive/alpha4/alpha_0891/'>a</a>|<a href='/digital-beehive/num3/num_0795'>603
-  [Flaccid]</a>"
-topic: 
+head: Solomon
+entry: "<a href='/digital-beehive/num2/num_0359/'>314 [Solomon]</a>|<a href='/digital-beehive/num7/num_2376/'>1583
+  [Solomon]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0ce067e23"
-unparsed: 
-line: 'Head: soft|Entry: a|Entry: 603 [Flaccid]|#item-0ce067e23'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1591,2515,467,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586334471
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1591,2515,467,141/150,/0/default.jpg
-label: soft
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d7d7b3b0a"
+unparsed:
+line: 'Head: Solomon|Entry: 314 [Solomon]|Entry: 1583 [Solomon]|#item-d7d7b3b0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1581,3206,591,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586542641
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1581,3206,591,144/150,/0/default.jpg
+label: Solomon
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1030'
+issue:
+insertion_xref:
+order: '1029'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_0427
 volume: Volume 3
 image_number: '10'
-head: bowels
-entry: 
-topic: 
+head: to blow
+entry: "<a href='/digital-beehive/num2/num_0498/'>406 [To Blow]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 802 [PAGE_MISSING]
-index: 
-item: "#item-2e56261dc"
-unparsed: 
-line: 'Head: bowels|See: 802 [PAGE_MISSING]|#item-2e56261dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1779,3064,464,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417083596
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1779,3064,464,125/150,/0/default.jpg
-label: bowels
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b40a7a264"
+unparsed:
+line: 'Head: to blow|Entry: 406 [To Blow]|#item-b40a7a264'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,3306,418,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151876875
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,3306,418,104/150,/0/default.jpg
+label: to blow
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0426'
 layout: index_item
 collection: index1

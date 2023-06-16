@@ -2,27 +2,27 @@
 pid: index_2550
 volume: Volume 3
 image_number: '31'
-head: mock
-entry: 
-topic: 
+head: mouse
+entry: "<a href='/digital-beehive/alpha3/alpha_0618/'>a</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3553/'>scorn</a>"
-index: 
-item: "#item-8ffe8d422"
-unparsed: 
-line: 'Head: mock|See: scorn|#item-8ffe8d422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/168,2198,475,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352283535
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/168,2198,475,159/150,/0/default.jpg
-label: mock
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7db48f6ff"
+unparsed:
+line: 'Head: mouse|Entry: a|#item-7db48f6ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,728,345,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360696210
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1557,728,345,128/150,/0/default.jpg
+label: mouse
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '632'
 layout: index_item
 collection: index3

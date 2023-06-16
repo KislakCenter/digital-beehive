@@ -2,28 +2,28 @@
 pid: index_3672
 volume: Volume 3
 image_number: '42'
-head: to shew
-entry: 812 [PAGE_MISSING]
-topic: 
+head: shambles
+entry:
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8e7b4d005"
-unparsed: 
-line: 'Head: to shew|Entry: 812 [PAGE_MISSING]|#item-8e7b4d005'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1811,648,474,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575739762
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1811,648,474,120/150,/0/default.jpg
-label: to shew
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-b5510b6b2"
+unparsed:
+line: 'Head: shambles|Page: p.7 [Image 1.67]|#item-b5510b6b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,2492,542,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574819507
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1102,2492,542,176/150,/0/default.jpg
+label: shambles
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0921'
+issue:
+insertion_xref:
+order: '0920'
 layout: index_item
 collection: index4
 ---

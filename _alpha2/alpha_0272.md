@@ -2,28 +2,28 @@
 pid: alpha_0272
 volume: Volume 1
 image_number: '452'
-head: 
-entry: Earthquake
-topic: Earthquake
+head:
+entry: Eagle
+topic: Eagle
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_241/'>1237 [Earthquakes]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1189/'>earthquake</a>"
-item: "#item-aada765c4"
-unparsed: 
-line: 'Entry: Earthquake|Topic: Earthquake|XRef: 1237 [Earthquakes]|Index: earthquake|#item-aada765c4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,3029,581/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564517613653
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/786,3462,600,180/250,/0/default.jpg
-label: Earthquake
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index2/index_1225/'>Eagle</a>"
+item: "#item-b66ae7913"
+unparsed:
+line: 'Entry: Eagle|Topic: Eagle|Index: Eagle|#item-b66ae7913'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/776,2274,2926,280/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564517108861
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/776,2274,600,180/250,/0/default.jpg
+label: Eagle
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '003'
+issue:
+also_in_entry:
+order: '000'
 layout: alpha_item
 collection: alpha2
 ---

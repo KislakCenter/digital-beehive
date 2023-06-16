@@ -2,29 +2,28 @@
 pid: index_1702
 volume: Volume 3
 image_number: '23'
-head: gravity
-entry: "<a href='/digital-beehive/alpha2/alpha_0383/'>a</a>|<a href='/digital-beehive/toc/toc2_408/'>2349
-  [Gravity]</a>"
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a120b63f2"
-unparsed: 
-line: 'Head: gravity|Entry: a|Entry: 2349 [Gravity]|#item-a120b63f2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/116,359,562,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559228863233
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/116,359,562,116/150,/0/default.jpg
-label: gravity
+head: half
+entry: 823 [PAGE_MISSING]
+topic:
+first_letter: H
+page:
+add:
+xref:
+see:
+index:
+item: "#item-305ab2a99"
+unparsed:
+line: 'Head: half|Entry: 823 [PAGE_MISSING]|#item-305ab2a99'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/861,247,322,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235659023
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/861,247,322,132/150,/0/default.jpg
+label: half
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '520'
+issue:
+insertion_xref:
+order: '521'
 layout: index_item
 collection: index2
 ---

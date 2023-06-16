@@ -2,28 +2,28 @@
 pid: index_1836
 volume: Volume 3
 image_number: '24'
-head: high Church
-entry: "<a href='/digital-beehive/toc/toc2_342/'>1766 [High Church]</a>"
-topic: 
+head: heritage
+entry: "<a href='/digital-beehive/alpha2/alpha_0419/'>a</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0a0c6e2f3"
-unparsed: 
-line: 'Head: high Church|Entry: 1766 [High Church]|#item-0a0c6e2f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/423,2583,559,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559577216909
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/423,2583,559,108/150,/0/default.jpg
-label: high Church
+page:
+add:
+xref:
+see:
+index:
+item: "#item-23791b90d"
+unparsed:
+line: 'Head: heritage|Entry: a|#item-23791b90d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/437,462,432,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574425354
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/437,462,432,156/150,/0/default.jpg
+label: heritage
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '654'
+issue:
+insertion_xref:
+order: '655'
 layout: index_item
 collection: index2
 ---

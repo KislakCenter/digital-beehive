@@ -2,30 +2,27 @@
 pid: index_2221
 volume: Volume 3
 image_number: '27'
-head: Law
-entry: "<a href='/digital-beehive/alpha3/alpha_0520/'>a</a>|<a href='/digital-beehive/num4/num_1323'>991
-  [Law]</a>|<a href='/digital-beehive/toc/toc2_335/'>1707 [Law inwardly engraven]</a>|<a
-  href='/digital-beehive/toc/toc2_362/'>1972 [Laws]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-048500050"
-unparsed: 
-line: 'Head: Law|Entry: a|Entry: 991 [Law]|Entry: 1707 [Law inwardly engraven]|Entry:
-  1972 [Laws]|#item-048500050'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1513,3350,709,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837231971
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1513,3350,709,154/150,/0/default.jpg
-label: Law
+head: Tho. of Kempis
+entry: "<a href='/digital-beehive/num5/num_1348/'>1009 [Thomas of Kempis]</a>"
+topic:
+first_letter: K
+page:
+add:
+xref:
+see:
+index:
+item: "#item-58914e255"
+unparsed:
+line: 'Head: Tho. of Kempis|Entry: 1009 [Thomas of Kempis]|#item-58914e255'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759660997
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/121,3530,613,127/150,/0/default.jpg
+label: Tho. of Kempis
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '303'
 layout: index_item
 collection: index3

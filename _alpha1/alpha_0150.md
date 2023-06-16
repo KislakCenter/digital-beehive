@@ -2,29 +2,28 @@
 pid: alpha_0150
 volume: Volume 1
 image_number: '442'
-head: 
-entry: Cloister
-topic: Cloister
+head:
+entry: Church
+topic: Church
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0603/'>Monk</a>|<a href='/digital-beehive/alpha3/alpha_0645/'>Nun</a>|<a
-  href='/digital-beehive/num2/num_0480/'>395 [Cloister]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0698/'>cloister</a>"
-item: "#item-baae14d3b"
-unparsed: 
-line: 'Entry: Cloister|Topic: Cloister|Xref: Monk|Xref: Nun|Xref: 395 [Cloister]|Index:
-  cloister|#item-baae14d3b'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/886,2684,2912,448/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563822125383
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/886,2684,600,180/250,/0/default.jpg
-label: Cloister
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0163/'>Com[m]union</a>|<a href='/digital-beehive/num1/num_0223/'>211
+  [Church]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0678/'>church</a>"
+item: "#item-053566c3d"
+unparsed:
+line: 'Entry: Church|Topic: Church|Xref: Com[m]union|Xref: 211 [Church]|Index: church|#item-053566c3d'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/823,1282,3030,847/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499699832221
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/823,1282,600,180/250,/0/default.jpg
+label: Church
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '149'
 layout: alpha_item
 collection: alpha1

@@ -2,29 +2,28 @@
 pid: index_2869
 volume: Volume 3
 image_number: '34'
-head: papists
-entry: "<a href='/digital-beehive/num2/num_0493/'>403 [Papists]</a>|<a href='/digital-beehive/toc/toc2_328/'>1668
-  [Papists]</a>|<a href='/digital-beehive/toc/toc2_349/'>1821 [Papists]</a>"
-topic: 
+head: pastime
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-31e104bfe"
-unparsed: 
-line: 'Head: papists|Entry: 403 [Papists]|Entry: 1668 [Papists]|Entry: 1821 [Papists]|#item-31e104bfe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1161,638,743,199/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492514004
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1161,638,743,199/150,/0/default.jpg
-label: papists
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3329/'>recreation</a>"
+index:
+item: "#item-ca0a5480e"
+unparsed:
+line: 'Head: pastime|See: recreation|#item-ca0a5480e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1837,1285,710,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495219389
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1837,1285,710,180/150,/0/default.jpg
+label: pastime
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0118'
+issue:
+insertion_xref:
+order: '0117'
 layout: index_item
 collection: index4
 ---

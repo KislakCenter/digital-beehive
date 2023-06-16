@@ -2,29 +2,27 @@
 pid: index_1580
 volume: Volume 3
 image_number: '21'
-head: garden
-entry: "<a href='/digital-beehive/alpha2/alpha_0355/'>a</a>|1890 [PAGE_MISSING]"
-topic: 
-first_letter: G
-page: "<a href='/digital-beehive/toc/toc1_058/'>p.8 [Image 1.68]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
-  [Image 1.97]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-91f06e853"
-unparsed: 
-line: 'Head: garden|Page: p.8 [Image 1.68]|Page: p.37 [Image 1.97]|Entry: a|Entry:
-  1890 [PAGE_MISSING]|#item-91f06e853'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787168724
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1541,2538,813,135/150,/0/default.jpg
-label: garden
+head: forsake
+entry: 1856 [PAGE_MISSING]
+topic:
+first_letter: F
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b0623eda3"
+unparsed:
+line: 'Head: forsake|Entry: 1856 [PAGE_MISSING]|#item-b0623eda3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/169,3239,439,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531762532262
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/169,3239,439,80/150,/0/default.jpg
+label: forsake
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '399'
 layout: index_item
 collection: index2

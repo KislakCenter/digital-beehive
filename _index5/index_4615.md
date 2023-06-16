@@ -2,28 +2,28 @@
 pid: index_4615
 volume: Volume 3
 image_number: '53'
-head: workhouse
-entry: 793 [PAGE_MISSING]
-topic: 
+head: Geo. Wither
+entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-12b572f1c"
-unparsed: 
-line: 'Head: workhouse|Entry: 793 [PAGE_MISSING]|#item-12b572f1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,2739,587,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797250784
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/868,2739,587,137/150,/0/default.jpg
-label: workhouse
+page:
+add:
+xref:
+see:
+index:
+item: "#item-782b2bdd5"
+unparsed:
+line: 'Head: Geo. Wither|Entry: 1585 [Verses]|#item-782b2bdd5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/187,2115,504,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792682099
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/187,2115,504,96/150,/0/default.jpg
+label: Geo. Wither
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '577'
+issue:
+insertion_xref:
+order: '578'
 layout: index_item
 collection: index5
 ---

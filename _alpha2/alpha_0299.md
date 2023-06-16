@@ -1,31 +1,29 @@
 ---
 pid: alpha_0299
 volume: Volume 1
-image_number: '455'
-head: 
-entry: Exorcism
-topic: Exorcism
+image_number: '454'
+head:
+entry: Excuse
+topic: Excuse
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_303/'>1541 [Conjuring]</a>|<a href='/digital-beehive/toc/toc2_305/'>1551
-  [Gafers]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1349/'>exorcism</a>"
-item: "#item-a42a0b906"
-unparsed: 
-line: 'Entry: Exorcism|Topic: Exorcism|Xref: 1541 [Conjuring]|Xref: 1551 [Gafers]|Index:
-  exorcism|#item-a42a0b906'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,797,3102,310/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587224376
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/378,797,600,180/250,/0/default.jpg
-label: Exorcism
-location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '030'
+page:
+add:
+xref: 756 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index2/index_1369/'>excuse</a>"
+item: "#item-93f4f440a"
+unparsed:
+line: 'Entry: Excuse|Topic: Excuse|XRef: 756 [PAGE_MISSING]|Index: excuse|#item-93f4f440a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/703,4364,3055,695/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564586615347
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0453/703,4364,600,180/250,/0/default.jpg
+label: Excuse
+location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '027'
 layout: alpha_item
 collection: alpha2
 ---

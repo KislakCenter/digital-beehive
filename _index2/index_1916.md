@@ -2,28 +2,28 @@
 pid: index_1916
 volume: Volume 3
 image_number: '24'
-head: hypochondriack
-entry: 1847 [PAGE_MISSING]
-topic: 
+head: hospitality
+entry: "<a href='/digital-beehive/alpha2/alpha_0436/'>a</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8261ae6b9"
-unparsed: 
-line: 'Head: hypochondriack|Entry: 1847 [PAGE_MISSING]|#item-8261ae6b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1871,3373,632,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559589090216
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1871,3373,632,117/150,/0/default.jpg
-label: hypochondriack
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a0f35d184"
+unparsed:
+line: 'Head: hospitality|Entry: a|#item-a0f35d184'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584684762
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1149,3522,468,173/150,/0/default.jpg
+label: hospitality
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '734'
+issue:
+insertion_xref:
+order: '735'
 layout: index_item
 collection: index2
 ---

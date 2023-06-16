@@ -2,28 +2,30 @@
 pid: index_0104
 volume: Volume 3
 image_number: '7'
-head: almanack
-entry: "<a href='/digital-beehive/alpha1/alpha_0021/'>a</a>|<a href='/digital-beehive/toc/toc2_248/'>1275
-  [Almanack]</a>"
-topic: 
+head: always
+entry: "<a href='/digital-beehive/num2/num_0324/'>287 [Always]</a>|<a href='/digital-beehive/num2/num_0420/'>356
+  [Allways]</a>|<a href='/digital-beehive/num5/num_1395/'>1043 [Always]</a>|<a href='/digital-beehive/num11/num_3518/'>4823
+  [Always]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-514fb4554"
-unparsed: 
-line: 'Head: almanack|Entry: a|Entry: 1275 [Almanack]|#item-514fb4554'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1597,1912,568,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770090341
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1597,1912,568,129/150,/0/default.jpg
-label: almanack
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d282d24d1"
+unparsed:
+line: 'Head: always|Entry: 287 [Always]|Entry: 356 [Allways]|Entry: 1043 [Always]|Entry:
+  4823 [Always]|#item-d282d24d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,2918,647,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564771011583
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1584,2918,647,166/150,/0/default.jpg
+label: always
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0103'
 layout: index_item
 collection: index1

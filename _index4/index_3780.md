@@ -2,29 +2,29 @@
 pid: index_3780
 volume: Volume 3
 image_number: '43'
-head: Sodom and Sodomy
-entry: "<a href='/digital-beehive/num2/num_0555/'>447 [Sodomy]</a>|<a href='/digital-beehive/toc/toc2_345/'>1787
-  [Sodom & Sodomy]</a>"
-topic: 
+head: sin always
+entry: "<a href='/digital-beehive/num7/num_2623/'>1700 [Continuance]</a>|<a href='/digital-beehive/num10/num_3401/'>2427
+  [Sin as long as we live]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-23418998c"
-unparsed: 
-line: 'Head: Sodom and Sodomy|Entry: 447 [Sodomy]|Entry: 1787 [Sodom & Sodomy]|#item-23418998c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586307905
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1567,2332,640,191/150,/0/default.jpg
-label: Sodom and Sodomy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-62cda65a6"
+unparsed:
+line: 'Head: sin always|Entry: 1700 [Continuance]|Entry: 2427 [Sin as long as we live]|#item-62cda65a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/178,3178,737,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582631573
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/178,3178,737,129/150,/0/default.jpg
+label: sin always
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1029'
+issue:
+insertion_xref:
+order: '1028'
 layout: index_item
 collection: index4
 ---

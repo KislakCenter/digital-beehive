@@ -2,27 +2,28 @@
 pid: index_0368
 volume: Volume 3
 image_number: '10'
-head: beyond
-entry: "<a href='/digital-beehive/toc/toc2_443/'>4888 [Beyond]</a>"
-topic: 
+head: beginning
+entry: "<a href='/digital-beehive/alpha1/alpha_0074/'>a</a>|<a href='/digital-beehive/num3/num_0694/'>550
+  [Beginn]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e5874a2d7"
-unparsed: 
-line: 'Head: beyond|Entry: 4888 [Beyond]|#item-e5874a2d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/338,3434,468,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531149083872
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/338,3434,468,125/150,/0/default.jpg
-label: beyond
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8a67690a9"
+unparsed:
+line: 'Head: beginning|Entry: a|Entry: 550 [Beginn]|#item-8a67690a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/417,244,492,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531146489645
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/417,244,492,149/150,/0/default.jpg
+label: beginning
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0367'
 layout: index_item
 collection: index1

@@ -2,28 +2,29 @@
 pid: index_4537
 volume: Volume 3
 image_number: '52'
-head: whistle
-entry: 768 [PAGE_MISSING]
-topic: 
+head: weapons
+entry: "<a href='/digital-beehive/alpha5/alpha_1033/'>a</a>|<a href='/digital-beehive/num5/num_1602/'>1175
+  [Weapons]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c2d0cd582"
-unparsed: 
-line: 'Head: whistle|Entry: 768 [PAGE_MISSING]|#item-c2d0cd582'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1768,642,447,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971504718
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1768,642,447,111/150,/0/default.jpg
-label: whistle
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-315af01da"
+unparsed:
+line: 'Head: weapons|Page: p.40 [Image 1.100]|Entry: a|Entry: 1175 [Weapons]|#item-315af01da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/498,2490,587,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961062076
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/498,2490,587,145/150,/0/default.jpg
+label: weapons
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '499'
+issue:
+insertion_xref:
+order: '500'
 layout: index_item
 collection: index5
 ---

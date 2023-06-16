@@ -2,29 +2,28 @@
 pid: index_4623
 volume: Volume 3
 image_number: '53'
-head: worship
-entry: "<a href='/digital-beehive/alpha5/alpha_1059/'>a</a>|<a href='/digital-beehive/toc/toc2_207/'>1070
-  [Worship]</a>|<a href='/digital-beehive/toc/toc2_368/'>2029 [Worship]</a>"
-topic: 
-first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b09fd4560"
-unparsed: 
-line: 'Head: worship|Entry: a|Entry: 1070 [Worship]|Entry: 2029 [Worship]|#item-b09fd4560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797714420
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/852,3429,716,154/150,/0/default.jpg
-label: worship
+head: yesterday
+entry: "<a href='/digital-beehive/num5/num_1692/'>1230 [Yesterday]</a>"
+topic:
+first_letter: Y
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4c258ee38"
+unparsed:
+line: 'Head: yesterday|Entry: 1230 [Yesterday]|#item-4c258ee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799205710
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1566,2376,550,130/150,/0/default.jpg
+label: yesterday
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '585'
+issue:
+insertion_xref:
+order: '586'
 layout: index_item
 collection: index5
 ---

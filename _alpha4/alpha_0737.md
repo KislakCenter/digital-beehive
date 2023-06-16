@@ -1,29 +1,31 @@
 ---
 pid: alpha_0737
 volume: Volume 2
-image_number: '43'
-head: 
-entry: Priviledge
-topic: Priviledge
+image_number: '42'
+head:
+entry: Prince
+topic: Prince
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index4/index_3165/'>priviledge</a>"
-item: "#item-b0ebe4c9a"
-unparsed: 
-line: 'Entry: Priviledge|Topic: Priviledge|Index: priviledge|#item-b0ebe4c9a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/325,882,3058,450/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565100341160
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/325,882,600,180/250,/0/default.jpg
-label: Priviledge
-location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '090'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0502/'>King</a>|<a href='/digital-beehive/alpha3/alpha_0604/'>Monarchy</a>|<a
+  href='/digital-beehive/num5/num_1618/'>1186 [Prince]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3210/'>prince</a>"
+item: "#item-45dc1e3ae"
+unparsed:
+line: 'Entry: Prince|Topic: Prince|Xref: King|Xref: Monarchy|Xref: 1186 [Prince]|Index:
+  prince|#item-45dc1e3ae'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/842,3977,2959,355/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528404396276
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/842,3977,600,180/250,/0/default.jpg
+label: Prince
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '085'
 layout: alpha_item
 collection: alpha4
 ---

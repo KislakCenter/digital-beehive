@@ -2,27 +2,27 @@
 pid: alpha_0093
 volume: Volume 1
 image_number: '437'
-head: 
-entry: Borrowing
-topic: Borrowing
+head:
+entry: Boldness
+topic: Boldness
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0193/'>Credit</a>|<a href='/digital-beehive/alpha3/alpha_0528/'>Lending</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0416/'>borrowing</a>"
-item: "#item-b724256b1"
-unparsed: 
-line: 'Entry: Borrowing|Topic: Borrowing|Xref: Credit|Xref: Lending|Index: borrowing|#item-b724256b1'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/403,4615,3012,331/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558733421124
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/403,4615,600,180/250,/0/default.jpg
-label: Borrowing
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0945/'>Temerity</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0382/'>boldness</a>"
+item: "#item-5d2c5ab39"
+unparsed:
+line: 'Entry: Boldness|Topic: Boldness|Xref: Temerity|Index: boldness|#item-5d2c5ab39'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/379,3506,3016,517/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558733067491
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/379,3506,600,180/250,/0/default.jpg
+label: Boldness
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '092'
 layout: alpha_item
 collection: alpha1

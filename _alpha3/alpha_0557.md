@@ -1,30 +1,31 @@
 ---
 pid: alpha_0557
 volume: Volume 2
-image_number: '30'
-head: 
-entry: Love of our Neighbour
-topic: Love of our Neighbour
+image_number: '29'
+head:
+entry: Love of God
+topic: Love of God
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_209/'>1079 [Love of Neighbours]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2342/'>love of our neighbour</a>"
-item: "#item-404f51cf4"
-unparsed: 
-line: 'Entry: Love of our Neighbour|Topic: Love of our Neighbour|Xref: 1079 [Love
-  of Neighbours]|Index: love of our neighbour|#item-404f51cf4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,3082,538/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771077950
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/733,222,600,180/250,/0/default.jpg
-label: Love of our Neighbour
-location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '113'
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1830/'>1309 [Love to God & the Brethren]</a>|<a
+  href='/digital-beehive/num9/num_2974/'>2040 [Love of God]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2378/'>love of God</a>"
+item: "#item-7b863a95e"
+unparsed:
+line: 'Entry: Love of God|Topic: Love of God|Xref: 1309 [Love to God & the Brethren]|Xref:
+  2040 [Love of God]|Index: love of God|#item-7b863a95e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/329,3168,3055,682/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770800880
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/329,3168,600,180/250,/0/default.jpg
+label: Love of God
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '110'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,28 +2,28 @@
 pid: index_1525
 volume: Volume 3
 image_number: '21'
-head: foundation
-entry: "<a href='/digital-beehive/alpha2/alpha_0344/'>a</a>|<a href='/digital-beehive/toc/toc2_196/'>1011
-  [Ground & Formation]</a>|<a href='/digital-beehive/toc/toc2_399/'>2276 [Foundation]</a>"
-topic: 
+head: fraud
+entry: "<a href='/digital-beehive/alpha2/alpha_0349/'>a</a>|<a href='/digital-beehive/num2/num_0467/'>384
+  [Fraud]</a>|<a href='/digital-beehive/num5/num_1546/'>1137 [Fraud]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3220111a4"
-unparsed: 
-line: 'Head: foundation|Entry: a|Entry: 1011 [Ground & Formation]|Entry: 2276 [Foundation]|#item-3220111a4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508356527916
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/891,818,637,134/150,/0/default.jpg
-label: foundation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f7810c3e4"
+unparsed:
+line: 'Head: fraud|Entry: a|Entry: 384 [Fraud]|Entry: 1137 [Fraud]|#item-f7810c3e4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/869,1552,599,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565622910533
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/869,1552,599,149/150,/0/default.jpg
+label: fraud
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '344'
 layout: index_item
 collection: index2

@@ -2,27 +2,28 @@
 pid: index_2009
 volume: Volume 3
 image_number: '25'
-head: incredulous
-entry: "<a href='/digital-beehive/toc/toc2_244/'>1254 [Scepticism]</a>"
-topic: 
+head: ignorance
+entry: "<a href='/digital-beehive/alpha3/alpha_0456/'>a</a>|<a href='/digital-beehive/num3/num_0875/'>642
+  [Ignorance]</a>|<a href='/digital-beehive/num8/num_2731/'>1798 [Ignorance]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a713609f8"
-unparsed: 
-line: 'Head: incredulous|Entry: 1254 [Scepticism]|#item-a713609f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1566,2525,571,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672281312
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1566,2525,571,106/150,/0/default.jpg
-label: incredulous
+page:
+add:
+xref:
+see:
+index:
+item: "#item-37c331d05"
+unparsed:
+line: 'Head: ignorance|Entry: a|Entry: 642 [Ignorance]|Entry: 1798 [Ignorance]|#item-37c331d05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/150,3100,714,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662338880
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/150,3100,714,141/150,/0/default.jpg
+label: ignorance
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '091'
 layout: index_item
 collection: index3

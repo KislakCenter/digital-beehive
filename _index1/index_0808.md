@@ -2,29 +2,27 @@
 pid: index_0808
 volume: Volume 3
 image_number: '14'
-head: considerable and to consider
-entry: "<a href='/digital-beehive/num1/num_0238/'>224 [Considerable]</a>|855 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_428/'>4490 [Considerable]</a>"
-topic: 
+head: consequently
+entry: "<a href='/digital-beehive/num7/num_2634/'>1710 [Needs]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6e003ec53"
-unparsed: 
-line: 'Head: considerable and to consider|Entry: 224 [Considerable]|Entry: 855 [PAGE_MISSING]|Entry:
-  4490 [Considerable]|#item-6e003ec53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,2036,705,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541734488
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1149,2036,705,169/150,/0/default.jpg
-label: considerable and to consider
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d910d47f1"
+unparsed:
+line: 'Head: consequently|Entry: 1710 [Needs]|#item-d910d47f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541607164
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1142,1789,649,132/150,/0/default.jpg
+label: consequently
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0807'
 layout: index_item
 collection: index1

@@ -2,28 +2,34 @@
 pid: index_3967
 volume: Volume 3
 image_number: '45'
-head: such
-entry: "<a href='/digital-beehive/num1/num_0221/'>210 [Such like]</a>"
-topic: 
+head: sufferings of Qrs
+entry: "<a href='/digital-beehive/num3/num_0647/'>515 [horrid Cruelties, practised
+  by Papists upon Protestants]</a>|<a href='/digital-beehive/num3/num_0648/'>515 [Cruelty
+  used against Quakers]</a>|<a href='/digital-beehive/num6/num_1766/'>1273 [Sufferings
+  of the Qu]</a>|<a href='/digital-beehive/num10/num_3226/'>2269 [Suffering of the
+  Qus]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0cea1b536"
-unparsed: 
-line: 'Head: such|Entry: 210 [Such like]|#item-0cea1b536'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1610,2511,333,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530469484174
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1610,2511,333,128/150,/0/default.jpg
-label: such
+page:
+add:
+xref:
+see:
+index:
+item: "#item-16f1085b8"
+unparsed:
+line: 'Head: sufferings of Qrs|Entry: 515 [horrid Cruelties, practised by Papists
+  upon Protestants]|Entry: 515 [Cruelty used against Quakers]|Entry: 1273 [Sufferings
+  of the Qu]|Entry: 2269 [Suffering of the Qus]|#item-16f1085b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1597,3197,749,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530470782745
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1597,3197,749,123/150,/0/default.jpg
+label: sufferings of Qrs
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1216'
+issue:
+insertion_xref:
+order: '1215'
 layout: index_item
 collection: index4
 ---

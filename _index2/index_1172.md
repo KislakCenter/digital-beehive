@@ -3,7 +3,7 @@ pid: index_1172
 volume: Volume 3
 image_number: '18'
 head: egg
-entry: "<a href='/digital-beehive/alpha2/alpha_0281/'>a</a>|<a href='/digital-beehive/num7/num_2523/'>1651
+entry: "<a href='/digital-beehive/alpha2/alpha_0281/'>a</a>|<a href='/digital-beehive/num7/num_2524/'>1651
   [Eggs]</a>"
 topic:
 first_letter: E
@@ -24,7 +24,7 @@ label: egg
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '004'
+order: '003'
 layout: index_item
 collection: index2
 ---

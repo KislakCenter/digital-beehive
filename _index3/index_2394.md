@@ -2,27 +2,27 @@
 pid: index_2394
 volume: Volume 3
 image_number: '29'
-head: malabaria
-entry: "<a href='/digital-beehive/toc/toc2_286/'>1465 [Malabrians]</a>"
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b95e73c64"
-unparsed: 
-line: 'Head: malabaria|Entry: 1465 [Malabrians]|#item-b95e73c64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194050155
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,712,511,112/150,/0/default.jpg
-label: malabaria
+head: disordinate love
+entry: "<a href='/digital-beehive/num10/num_3434/'>4454 [Disordinate Love]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3da94f461"
+unparsed:
+line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-3da94f461'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560179816488
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/160,2568,642,107/150,/0/default.jpg
+label: disordinate love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '476'
 layout: index_item
 collection: index3

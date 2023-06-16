@@ -2,28 +2,28 @@
 pid: alpha_0451
 volume: Volume 2
 image_number: '21'
-head: 
-entry: Jewel
-topic: Jewel
+head:
+entry: Jesuite
+topic: Jesuite
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_326/'>1657 [Jewel]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_1944/'>Jewel</a>"
-item: "#item-0faa36aaf"
-unparsed: 
-line: 'Entry: Jewel|Topic: Jewel|Xref: 1657 [Jewel]|Index: Jewel|#item-0faa36aaf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,1699,3039,460/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758676767
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0488/342,1699,600,180/250,/0/default.jpg
-label: Jewel
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1802/'>1292 [Jesuites]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_1982/'>Jesuite</a>"
+item: "#item-c421e7050"
+unparsed:
+line: 'Entry: Jesuite|Topic: Jesuite|Xref: 1292 [Jesuites]|Index: Jesuite|#item-c421e7050'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/367,572,2981,449/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758512212
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/367,572,600,180/250,/0/default.jpg
+label: Jesuite
 location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '007'
+issue:
+also_in_entry:
+order: '004'
 layout: alpha_item
 collection: alpha3
 ---

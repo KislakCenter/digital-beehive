@@ -2,29 +2,29 @@
 pid: alpha_0948
 volume: Volume 2
 image_number: '58'
-head: 
-entry: Testimony
-topic: Testimony
+head:
+entry: Temptation, continued
+topic: Temptation, continued
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0746/'>Proof</a>|<a href='/digital-beehive/num1/num_0062/'>61
-  [Testimony]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4101/'>testimony</a>"
-item: "#item-4dde9e62"
-unparsed: 
-line: 'Entry: Testimony|Topic: Testimony|Xref: Proof|Xref: 61 [Testimony]|Index: testimony|#item-4dde9e62'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,3006,551/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113581729
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/763,1830,600,180/250,/0/default.jpg
-label: Testimony
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0947/'>Temptation</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4118/'>temptation</a>"
+item: "#item-2b6eb82d1"
+unparsed:
+line: 'Entry: Temptation, continued|Topic: Temptation, continued|Xref: Temptation|Index:
+  temptation|#item-2b6eb82d1'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,3061,216/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1573246855240
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/752,194,600,180/250,/0/default.jpg
+label: Temptation, continued
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '014'
+issue:
+also_in_entry:
+order: '008'
 layout: alpha_item
 collection: alpha5
 ---

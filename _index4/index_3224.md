@@ -2,28 +2,28 @@
 pid: index_3224
 volume: Volume 3
 image_number: '38'
-head: to pulverize
-entry: 736 [PAGE_MISSING]
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-236424dc7"
-unparsed: 
-line: 'Head: to pulverize|Entry: 736 [PAGE_MISSING]|#item-236424dc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/438,755,593,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452002588
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/438,755,593,144/150,/0/default.jpg
-label: to pulverize
+head: "[:44.]"
+entry:
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3c3fc3cf8"
+unparsed: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
+line: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/2307,1040,255,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462787077
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/2307,1040,255,148/150,/0/default.jpg
+label: "[:44.]"
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0473'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4725/'>Rat</a>"
+order: '0472'
 layout: index_item
 collection: index4
 ---

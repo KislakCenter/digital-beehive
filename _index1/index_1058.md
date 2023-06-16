@@ -2,28 +2,28 @@
 pid: index_1058
 volume: Volume 3
 image_number: '16'
-head: directly
-entry: "<a href='/digital-beehive/num4/num_1156'>893 [Directly]</a>"
-topic: 
+head: discipline
+entry: "<a href='/digital-beehive/alpha1/alpha_0241/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-72546a6b2"
-unparsed: 
-line: 'Head: directly|Entry: 893 [Directly]|#item-72546a6b2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1793,2367,483,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784005001
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1793,2367,483,138/150,/0/default.jpg
-label: directly
+page:
+add: "<a href='/digital-beehive/index2/index_1185/'>Eccles</a>|<a href='/digital-beehive/index3/index_2463/'>martial</a>"
+xref:
+see:
+index:
+item: "#item-b6407c228"
+unparsed:
+line: 'Head: discipline|Entry: a|Add: Eccles|Add: martial|#item-b6407c228'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1783,3156,707,244/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508174648413
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1783,3156,707,244/150,/0/default.jpg
+label: discipline
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1057'
+issue: The meaning of "it. education" cannot be determined.
+insertion_xref:
+order: '1056'
 layout: index_item
 collection: index1
 ---

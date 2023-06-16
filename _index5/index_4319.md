@@ -2,29 +2,28 @@
 pid: index_4319
 volume: Volume 3
 image_number: '49'
-head: vertue
-entry: "<a href='/digital-beehive/alpha5/alpha_0990/'>a</a>|<a href='/digital-beehive/toc/toc2_221/'>1138
-  [Virtue]</a>|<a href='/digital-beehive/toc/toc2_432/'>4819 [Virtue]</a>"
-topic: 
+head: venial sin
+entry: "<a href='/digital-beehive/num2/num_0388/'>335 [mortal & venial sins]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4f3408a5f"
-unparsed: 
-line: 'Head: vertue|Entry: a|Entry: 1138 [Virtue]|Entry: 4819 [Virtue]|#item-4f3408a5f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/945,3459,687,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659161439
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/945,3459,687,134/150,/0/default.jpg
-label: vertue
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1e50d73b4"
+unparsed:
+line: 'Head: venial sin|Entry: 335 [mortal & venial sins]|#item-1e50d73b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/947,2443,517,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658664692
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/947,2443,517,111/150,/0/default.jpg
+label: venial sin
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '281'
+issue:
+insertion_xref:
+order: '282'
 layout: index_item
 collection: index5
 ---

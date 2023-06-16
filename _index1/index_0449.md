@@ -2,30 +2,28 @@
 pid: index_0449
 volume: Volume 3
 image_number: '11'
-head: brevity
-entry: "<a href='/digital-beehive/alpha1/alpha_0098/'>a</a>|<a href='/digital-beehive/num2/num_0452/'>374
-  [Brevity]</a>|<a href='/digital-beehive/num4/num_1243'>932 [Brevity]</a>|<a href='/digital-beehive/toc/toc2_260/'>1335
-  [Brevity]</a>|<a href='/digital-beehive/toc/toc2_369/'>2031 [Brevity]</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-eff3f88e4"
-unparsed: 
-line: 'Head: brevity|Entry: a|Entry: 374 [Brevity]|Entry: 932 [Brevity]|Entry: 1335
-  [Brevity]|Entry: 2031 [Brevity]|#item-eff3f88e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/145,1693,753,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531418662125
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/145,1693,753,145/150,/0/default.jpg
-label: brevity
+head: calling to the ministry
+entry: "<a href='/digital-beehive/num4/num_1174/'>904 [Calling]</a>|<a href='/digital-beehive/num10/num_3213/'>2261
+  [Call]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-33e36a803"
+unparsed:
+line: 'Head: calling to the ministry|Entry: 904 [Calling]|Entry: 2261 [Call]|#item-33e36a803'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,578,719,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494492728
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,578,719,136/150,/0/default.jpg
+label: calling to the ministry
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0448'
 layout: index_item
 collection: index1

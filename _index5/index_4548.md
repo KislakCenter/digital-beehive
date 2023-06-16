@@ -2,28 +2,28 @@
 pid: index_4548
 volume: Volume 3
 image_number: '52'
-head: wilderness
-entry: "<a href='/digital-beehive/num2/num_0465/'>384 [Wilderness]</a>"
-topic: 
+head: whereas
+entry: 860 [PAGE_MISSING]
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c1eb25440"
-unparsed: 
-line: 'Head: wilderness|Entry: 384 [Wilderness]|#item-c1eb25440'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,2074,590,174/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972195852
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,2074,590,174/150,/0/default.jpg
-label: wilderness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-618821249"
+unparsed:
+line: 'Head: whereas|Entry: 860 [PAGE_MISSING]|#item-618821249'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970012560
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1062,3039,524,138/150,/0/default.jpg
+label: whereas
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '510'
+issue:
+insertion_xref:
+order: '511'
 layout: index_item
 collection: index5
 ---

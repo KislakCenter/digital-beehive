@@ -2,30 +2,29 @@
 pid: index_4236
 volume: Volume 3
 image_number: '48'
-head: tribulation
-entry: "<a href='/digital-beehive/num2/num_0363/'>316 [Affliction]</a>|<a href='/digital-beehive/toc/toc2_267/'>1367
-  [Afflictions]</a>|<a href='/digital-beehive/toc/toc2_263/'>1349 [Affliction]</a>"
-topic: 
+head: tooth
+entry: "<a href='/digital-beehive/alpha5/alpha_0974/'>a</a>|<a href='/digital-beehive/num6/num_1790/'>1286
+  [Tooth]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-376f4b490"
-unparsed: 
-line: 'Head: tribulation|Entry: 316 [Affliction]|Entry: 1367 [Afflictions]|Entry:
-  1349 [Affliction]|#item-376f4b490'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088358286
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1822,1069,694,193/150,/0/default.jpg
-label: tribulation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-291c9ed5e"
+unparsed:
+line: 'Head: tooth|Entry: a|Entry: 1286 [Tooth]|#item-291c9ed5e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560275690671
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/462,2670,493,116/150,/0/default.jpg
+label: tooth
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '198'
+issue:
+insertion_xref:
+order: '199'
 layout: index_item
 collection: index5
 ---

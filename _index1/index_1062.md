@@ -2,28 +2,28 @@
 pid: index_1062
 volume: Volume 3
 image_number: '16'
-head: disbelieve
-entry: "<a href='/digital-beehive/num3/num_1025'>705 [believe]</a>"
-topic: 
+head: deliverance
+entry: "<a href='/digital-beehive/num4/num_1218/'>920 [Delivering]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1a0683297"
-unparsed: 
-line: 'Head: disbelieve|Entry: 705 [believe]|#item-1a0683297'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784141979
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1790,2658,480,94/150,/0/default.jpg
-label: disbelieve
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c5f4e7e5d"
+unparsed:
+line: 'Head: deliverance|Entry: 920 [Delivering]|#item-c5f4e7e5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/369,3418,563,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572828145
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/369,3418,563,127/150,/0/default.jpg
+label: deliverance
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1061'
+issue:
+insertion_xref:
+order: '1060'
 layout: index_item
 collection: index1
 ---

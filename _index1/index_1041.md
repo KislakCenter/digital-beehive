@@ -2,28 +2,28 @@
 pid: index_1041
 volume: Volume 3
 image_number: '16'
-head: diamant
-entry: "<a href='/digital-beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
-topic: 
+head: disagree
+entry: "<a href='/digital-beehive/num7/num_2522/'>1650 [Disagree]</a>"
+topic:
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b511008ed"
-unparsed: 
-line: 'Head: diamant|Page: p.32 [Image 1.92]|Entry: 1639 [Spectacles]|#item-b511008ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,733,683,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783511112
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,733,683,117/150,/0/default.jpg
-label: diamant
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f7e6faaf4"
+unparsed:
+line: 'Head: disagree|Entry: 1650 [Disagree]|#item-f7e6faaf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2554,504,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784069638
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1779,2554,504,114/150,/0/default.jpg
+label: disagree
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1040'
+issue:
+insertion_xref:
+order: '1039'
 layout: index_item
 collection: index1
 ---

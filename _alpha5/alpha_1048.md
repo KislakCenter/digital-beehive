@@ -2,30 +2,28 @@
 pid: alpha_1048
 volume: Volume 2
 image_number: '65'
-head: 
-entry: Womanish
-topic: Womanish
+head:
+entry: Wolf
+topic: Wolf
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_271/'>1388 [Love of Women]</a>|<a href='/digital-beehive/toc/toc2_232/'>1192
-  [Effeminate]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4589/'>womanish</a>"
-item: "#item-25cdbc304"
-unparsed: 
-line: 'Entry: Womanish|Topic: Womanish|Xref: 1388 [Love of Women]|Xref: 1192 [Effeminate]|Index:
-  womanish|#item-25cdbc304'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,2949,343/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529594629747
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/359,4738,600,180/250,/0/default.jpg
-label: Womanish
+page:
+add:
+xref: 1535 [Lycanthropia]
+see:
+index: "<a href='/digital-beehive/index5/index_4639/'>wolf</a>"
+item: "#item-3595fd35e"
+unparsed:
+line: 'Entry: Wolf|Topic: Wolf|Xref: 1535 [Lycanthropia]|Index: wolf|#item-3595fd35e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/355,2969,2973,344/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529592949023
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/355,2969,600,180/250,/0/default.jpg
+label: Wolf
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '114'
+issue:
+also_in_entry:
+order: '108'
 layout: alpha_item
 collection: alpha5
 ---

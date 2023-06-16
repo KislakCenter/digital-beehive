@@ -1,29 +1,31 @@
 ---
 pid: alpha_0559
 volume: Volume 2
-image_number: '30'
-head: 
-entry: Love of Sin
-topic: Love of Sin
+image_number: '29'
+head:
+entry: Love of the brethren
+topic: Love of the brethren
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index3/index_2345/'>love of sin</a>"
-item: "#item-4bf576848"
-unparsed: 
-line: 'Entry: Love of Sin|Topic: Love of Sin|Index: love of sin|#item-4bf576848'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/770,937,3013,413/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564771539683
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/770,937,600,180/250,/0/default.jpg
-label: Love of Sin
-location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '115'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0105/'>Brother</a>|<a href='/digital-beehive/num6/num_1830/'>1309
+  [Love to God & the Brethren]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2382/'>love of ye brethren</a>"
+item: "#item-7b1286b19"
+unparsed:
+line: 'Entry: Love of the brethren|Topic: Love of the brethren|Xref: Brother|Xref:
+  1309 [Love to God & the Brethren]|Index: love of ye brethren|#item-7b1286b19'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/320,4346,3065,708/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770917292
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0496/320,4346,600,180/250,/0/default.jpg
+label: Love of the brethren
+location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '112'
 layout: alpha_item
 collection: alpha3
 ---

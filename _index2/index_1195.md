@@ -2,28 +2,31 @@
 pid: index_1195
 volume: Volume 3
 image_number: '18'
-head: easter
-entry: "<a href='/digital-beehive/alpha2/alpha_0273/'>a</a>"
-topic: 
+head: eclipse
+entry: "<a href='/digital-beehive/alpha2/alpha_0279/'>a</a>|<a href='/digital-beehive/num4/num_1251/'>936
+  [Eclipse]</a>|<a href='/digital-beehive/num6/num_1814/'>1299 [Eclipse]</a>|<a href='/digital-beehive/num10/num_3273/'>2309
+  [Eclipse]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b456e342f"
-unparsed: 
-line: 'Head: easter|Entry: a|#item-b456e342f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667939926
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/413,2929,326,116/150,/0/default.jpg
-label: easter
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cd97d63fb"
+unparsed:
+line: 'Head: eclipse|Entry: a|Entry: 936 [Eclipse]|Entry: 1299 [Eclipse]|Entry: 2309
+  [Eclipse]|#item-cd97d63fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1169,598,790,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671708102
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1169,598,790,143/150,/0/default.jpg
+label: eclipse
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '014'
+issue:
+insertion_xref:
+order: '023'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,31 @@
 pid: index_3740
 volume: Volume 3
 image_number: '43'
-head: skillfully
-entry: "<a href='/digital-beehive/toc/toc2_343/'>1780 [Expert]</a>"
-topic: 
+head: slander
+entry: "<a href='/digital-beehive/alpha4/alpha_0889/'>a</a>|<a href='/digital-beehive/num5/num_1640/'>1202
+  [Slander]</a>|<a href='/digital-beehive/num9/num_2984/'>2050 [Slander]</a>|<a href='/digital-beehive/num11/num_3588/'>4915
+  [Slander]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9339cd36d"
-unparsed: 
-line: 'Head: skillfully|Entry: 1780 [Expert]|#item-9339cd36d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/879,1513,515,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583392589
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/879,1513,515,102/150,/0/default.jpg
-label: skillfully
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0c9ba1de5"
+unparsed:
+line: 'Head: slander|Entry: a|Entry: 1202 [Slander]|Entry: 2050 [Slander]|Entry: 4915
+  [Slander]|#item-0c9ba1de5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,1706,740,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583465323
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/892,1706,740,143/150,/0/default.jpg
+label: slander
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0989'
+issue:
+insertion_xref:
+order: '0988'
 layout: index_item
 collection: index4
 ---

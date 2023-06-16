@@ -2,27 +2,27 @@
 pid: index_0901
 volume: Volume 3
 image_number: '15'
-head: credulity
-entry: "<a href='/digital-beehive/num2/num_0542/'>439 [Credulity]</a>"
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4680d38b6"
-unparsed: 
-line: 'Head: credulity|Entry: 439 [Credulity]|#item-4680d38b6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577285738
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/857,766,589,186/150,/0/default.jpg
-label: credulity
+head: past danger
+entry: "<a href='/digital-beehive/num2/num_0509/'>411 [Past all Danger]</a>"
+topic:
+first_letter: D
+page:
+add:
+xref:
+see:
+index:
+item: "#item-029b1eaac"
+unparsed:
+line: 'Head: past danger|Entry: 411 [Past all Danger]|#item-029b1eaac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1430,507,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391162408
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1558,1430,507,94/150,/0/default.jpg
+label: past danger
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0900'
 layout: index_item
 collection: index1

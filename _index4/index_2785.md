@@ -2,28 +2,28 @@
 pid: index_2785
 volume: Volume 3
 image_number: '33'
-head: Oligarchy
-entry: 
-topic: 
+head: old Testamt
+entry:
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2562/'>monarchy</a>"
-index: 
-item: "#item-ef9a714df"
-unparsed: 
-line: 'Head: Oligarchy|See: monarchy|#item-ef9a714df'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1878,778,177/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348405920
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1878,778,177/150,/0/default.jpg
-label: Oligarchy
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4150/'>Testamt</a>"
+index:
+item: "#item-7f8581984"
+unparsed:
+line: 'Head: old Testamt|See: Testamt|#item-7f8581984'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/830,1727,667,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348381327
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/830,1727,667,149/150,/0/default.jpg
+label: old Testamt
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0034'
+issue:
+insertion_xref:
+order: '0033'
 layout: index_item
 collection: index4
 ---

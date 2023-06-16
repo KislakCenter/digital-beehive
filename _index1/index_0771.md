@@ -2,27 +2,28 @@
 pid: index_0771
 volume: Volume 3
 image_number: '14'
-head: concern
-entry: "<a href='/digital-beehive/num3/num_0641'>510 [Concern]</a>"
-topic: 
+head: compassion
+entry: "<a href='/digital-beehive/alpha1/alpha_0165/'>a</a>|<a href='/digital-beehive/num6/num_2094/'>1436
+  [Commiseration]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0e5823088"
-unparsed: 
-line: 'Head: concern|Entry: 510 [Concern]|#item-0e5823088'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1721,442,86/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215580751
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1721,442,86/150,/0/default.jpg
-label: concern
+page:
+add:
+xref:
+see:
+index:
+item: "#item-501fc98ca"
+unparsed:
+line: 'Head: compassion|Entry: a|Entry: 1436 [Commiseration]|#item-501fc98ca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/422,481,651,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215133832
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/422,481,651,141/150,/0/default.jpg
+label: compassion
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0770'
 layout: index_item
 collection: index1

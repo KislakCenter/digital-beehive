@@ -2,28 +2,29 @@
 pid: index_3180
 volume: Volume 3
 image_number: '37'
-head: prognostica[ti]ons
-entry: "<a href='/digital-beehive/alpha4/alpha_0741/'>a</a>"
-topic: 
+head: prevention
+entry: "<a href='/digital-beehive/alpha4/alpha_0734/'>a</a>|<a href='/digital-beehive/num5/num_1517/'>1122
+  [Preventing]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-683f714b4"
-unparsed: 
-line: 'Head: prognostica[ti]ons|Entry: a|#item-683f714b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564084141262
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2343,576,157/150,/0/default.jpg
-label: prognostica[ti]ons
+page:
+add:
+xref:
+see:
+index:
+item: "#item-430f88fb1"
+unparsed:
+line: 'Head: prevention|Entry: a|Entry: 1122 [Preventing]|#item-430f88fb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866639049
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/79,1930,680,149/150,/0/default.jpg
+label: prevention
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0429'
+issue:
+insertion_xref:
+order: '0428'
 layout: index_item
 collection: index4
 ---

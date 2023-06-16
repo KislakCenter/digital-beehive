@@ -2,30 +2,29 @@
 pid: index_2781
 volume: Volume 3
 image_number: '33'
-head: old
-entry: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0418/'>355
-  [Old and Obsolete]</a>|4599 [PAGE_MISSING]"
-topic: 
+head: old age
+entry: "<a href='/digital-beehive/alpha4/alpha_0665/'>a</a>|<a href='/digital-beehive/num6/num_1996/'>1393
+  [Old Age]</a>|<a href='/digital-beehive/num8/num_2757/'>1824 [Old Age]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-531172bf5"
-unparsed: 
-line: 'Head: old|Entry: 12 [Old friends]|Entry: 355 [Old and Obsolete]|Entry: 4599
-  [PAGE_MISSING]|#item-531172bf5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536348271147
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/825,1474,625,130/150,/0/default.jpg
-label: old
+page:
+add:
+xref:
+see:
+index:
+item: "#item-898554e69"
+unparsed:
+line: 'Head: old age|Entry: a|Entry: 1393 [Old Age]|Entry: 1824 [Old Age]|#item-898554e69'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/829,1638,708,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348332204
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/829,1638,708,108/150,/0/default.jpg
+label: old age
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0030'
+issue:
+insertion_xref:
+order: '0029'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_1056
 volume: Volume 3
 image_number: '16'
-head: dinner
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1218 [Dinner]</a>"
-topic: 
+head: delicacy
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3f5d87543"
-unparsed: 
-line: 'Head: dinner|Entry: 1218 [Dinner]|#item-3f5d87543'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783937478
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1843,2146,379,90/150,/0/default.jpg
-label: dinner
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0883/'>dainty</a>|<a href='/digital-beehive/index5/index_4592/'>wit</a>"
+index:
+item: "#item-90f566525"
+unparsed:
+line: 'Head: delicacy|See: dainty|See: wit|#item-90f566525'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/341,3061,742,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572731411
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/341,3061,742,141/150,/0/default.jpg
+label: delicacy
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1055'
+issue:
+insertion_xref:
+order: '1054'
 layout: index_item
 collection: index1
 ---

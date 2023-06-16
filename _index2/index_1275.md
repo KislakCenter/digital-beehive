@@ -2,28 +2,27 @@
 pid: index_1275
 volume: Volume 3
 image_number: '18'
-head: to entreat
-entry: "<a href='/digital-beehive/num2/num_0389/'>336 [To pray]</a>|<a href='/digital-beehive/num3/num_0896'>652
-  [Petition, Request]</a>"
-topic: 
+head: emphatically
+entry: 4759 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3f6e5bbe1"
-unparsed: 
-line: 'Head: to entreat|Entry: 336 [To pray]|Entry: 652 [Petition, Request]|#item-3f6e5bbe1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,3581,628,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837665653
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1838,3581,628,113/150,/0/default.jpg
-label: to entreat
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cb27bd3d7"
+unparsed:
+line: 'Head: emphatically|Entry: 4759 [PAGE_MISSING]|#item-cb27bd3d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3588,577,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744425721
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1138,3588,577,157/150,/0/default.jpg
+label: emphatically
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '094'
 layout: index_item
 collection: index2

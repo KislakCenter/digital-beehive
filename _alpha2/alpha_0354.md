@@ -2,28 +2,28 @@
 pid: alpha_0354
 volume: Volume 2
 image_number: '13'
-head: 
-entry: Future
-topic: Future
+head:
+entry: Fruit
+topic: Fruit
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_278/'>1421 [Future]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1570/'>future</a>"
-item: "#item-bc91c9cd4"
-unparsed: 
-line: 'Entry: Future|Topic: Future|Xref: 1421 [Future]|Index: future|#item-bc91c9cd4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,3009,655/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564600653441
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/401,4380,600,180/250,/0/default.jpg
-label: Future
+page:
+add:
+xref: "<a href='/digital-beehive/num9/num_3188/'>2242 [Fruits]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1489/'>fruit</a>"
+item: "#item-665e1b38d"
+unparsed:
+line: 'Entry: Fruit|Topic: Fruit|Xref: 2242 [Fruits]|Index: fruit|#item-665e1b38d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/419,3262,2967,349/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564590567864
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/419,3262,600,180/250,/0/default.jpg
+label: Fruit
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '085'
+issue:
+also_in_entry:
+order: '082'
 layout: alpha_item
 collection: alpha2
 ---

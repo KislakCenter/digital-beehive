@@ -1,29 +1,32 @@
 ---
 pid: alpha_0702
 volume: Volume 2
-image_number: '40'
-head: 
-entry: Pestilence
-topic: Pestilence
+image_number: '39'
+head:
+entry: Perfection
+topic: Perfection
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_338/'>1734 [Pestilence]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2972/'>pestilence</a>"
-item: "#item-1b9e3beb0"
-unparsed: 
-line: 'Entry: Pestilence|Topic: Pestilence|Xref: 1734 [Pestilence]|Index: pestilence|#item-1b9e3beb0'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/816,1598,3009,482/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565023023917
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/816,1598,600,180/250,/0/default.jpg
-label: Pestilence
-location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '055'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0703/'>Perfection, continued</a>|<a
+  href='/digital-beehive/alpha3/alpha_0466/'>Imperfect</a>|<a href='/digital-beehive/num1/num_0061/'>60
+  [Perfection]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2995/'>perfection</a>"
+item: "#item-d2dd2128e"
+unparsed:
+line: 'Entry: Perfection|Topic: Perfection|Xref: Perfection, continued|Xref: Imperfect|Xref:
+  60 [Perfection]|Index: perfection|#item-d2dd2128e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/331,4555,3044,541/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565022727523
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0506/331,4555,600,180/250,/0/default.jpg
+label: Perfection
+location: "<a href='/digital-beehive/toc/toc2_029/'>Full Page</a>"
+issue: The entry continues onto the next page.
+also_in_entry:
+order: '050'
 layout: alpha_item
 collection: alpha4
 ---

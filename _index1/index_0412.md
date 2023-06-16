@@ -2,27 +2,27 @@
 pid: index_0412
 volume: Volume 3
 image_number: '10'
-head: books for the fire
-entry: "<a href='/digital-beehive/toc/toc2_435/'>4844 [Vain Books]</a>"
-topic: 
+head: temporal blessings
+entry: "<a href='/digital-beehive/num7/num_2673/'>1745 [Happiness of the Wicked]</a>"
+topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_119/'>p.62 [Image 1.129]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3418a1272"
-unparsed: 
-line: 'Head: books for the fire|Page: p.62 [Image 1.129]|Entry: 4844 [Vain Books]|#item-3418a1272'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1797,1625,691,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531154558434
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1797,1625,691,135/150,/0/default.jpg
-label: books for the fire
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ebca1fb30"
+unparsed:
+line: 'Head: temporal blessings|Entry: 1745 [Happiness of the Wicked]|#item-ebca1fb30'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2424,602,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151038001
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1088,2424,602,125/150,/0/default.jpg
+label: temporal blessings
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0411'
 layout: index_item
 collection: index1

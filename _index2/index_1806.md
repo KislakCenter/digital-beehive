@@ -2,29 +2,29 @@
 pid: index_1806
 volume: Volume 3
 image_number: '23'
-head: herb
-entry: "<a href='/digital-beehive/alpha2/alpha_0414/'>a</a>|<a href='/digital-beehive/num3/num_0929'>672
-  [Herbs]</a>"
-topic: 
+head: hereafter
+entry: "<a href='/digital-beehive/num6/num_2082/'>1431 [Hereafter]</a>|<a href='/digital-beehive/num2/num_0275/'>252
+  [Afterwards]</a>"
+topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a0e29d05d"
-unparsed: 
-line: 'Head: herb|Page: p.33 [Image 1.93]|Entry: a|Entry: 672 [Herbs]|#item-a0e29d05d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1506,3230,507,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572214278
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1506,3230,507,129/150,/0/default.jpg
-label: herb
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2b3d9f03a"
+unparsed:
+line: 'Head: hereafter|Entry: 1431 [Hereafter]|Entry: 252 [Afterwards]|#item-2b3d9f03a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1513,3492,608,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572698468
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1513,3492,608,145/150,/0/default.jpg
+label: hereafter
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '624'
+issue:
+insertion_xref:
+order: '625'
 layout: index_item
 collection: index2
 ---

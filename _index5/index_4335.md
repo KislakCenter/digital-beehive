@@ -2,28 +2,31 @@
 pid: index_4335
 volume: Volume 3
 image_number: '49'
-head: violence
-entry: 
-topic: 
+head: day of Visitn
+entry: "<a href='/digital-beehive/alpha5/alpha_1002/'>a</a>|<a href='/digital-beehive/num6/num_1771/'>1276
+  [Day of Visitation]</a>|<a href='/digital-beehive/num10/num_3374/'>2402 [Day of
+  Visitation]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1501/'>force</a>|<a href='/digital-beehive/index4/index_3919/'>storm</a>"
-index: 
-item: "#item-e97d8d93f"
-unparsed: 
-line: 'Head: violence|See: force|See: storm|#item-e97d8d93f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660815116
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1623,1793,723,170/150,/0/default.jpg
-label: violence
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ac3777a9d"
+unparsed:
+line: 'Head: day of Visitn|Entry: a|Entry: 1276 [Day of Visitation]|Entry: 2402 [Day
+  of Visitation]|#item-ac3777a9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,3031,645,175/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661438971
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1626,3031,645,175/150,/0/default.jpg
+label: day of Visitn
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '297'
+issue:
+insertion_xref:
+order: '298'
 layout: index_item
 collection: index5
 ---

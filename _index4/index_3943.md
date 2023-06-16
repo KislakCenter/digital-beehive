@@ -2,28 +2,28 @@
 pid: index_3943
 volume: Volume 3
 image_number: '45'
-head: stroker
-entry: "<a href='/digital-beehive/num2/num_0450/'>372 [Stroker]</a>"
-topic: 
+head: strength
+entry: "<a href='/digital-beehive/num3/num_0915/'>663 [Strength]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-53e545149"
-unparsed: 
-line: 'Head: stroker|Entry: 372 [Stroker]|#item-53e545149'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565290931024
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/896,2991,462,86/150,/0/default.jpg
-label: stroker
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4ba7cf319"
+unparsed:
+line: 'Head: strength|Entry: 663 [Strength]|#item-4ba7cf319'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/900,2350,449,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530465609430
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/900,2350,449,140/150,/0/default.jpg
+label: strength
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1192'
+issue:
+insertion_xref:
+order: '1191'
 layout: index_item
 collection: index4
 ---

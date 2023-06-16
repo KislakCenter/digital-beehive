@@ -1,31 +1,31 @@
 ---
 pid: alpha_0460
 volume: Volume 2
-image_number: '22'
-head: 
-entry: Impartiality
-topic: Impartiality
+image_number: '21'
+head:
+entry: Imagination
+topic: Imagination
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0684/'>Partiality</a>|<a href='/digital-beehive/alpha3/alpha_0637/'>Neutrality</a>|<a
-  href='/digital-beehive/toc/toc2_277/'>1417 [Impartial]</a>|Indifferency"
-see: 
-index: "<a href='/digital-beehive/index3/index_1963/'>impartiality</a>"
-item: "#item-37fe4196e"
-unparsed: 
-line: 'Entry: Impartiality|Topic: Impartiality|Xref: Partiality|Xref: Neutrality|Xref:
-  1417 [Impartial]|Xref: Indifferency|Index: impartiality|#item-37fe4196e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,3084,665/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759343221
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/711,868,600,180/250,/0/default.jpg
-label: Impartiality
-location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '016'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0668/'>opinion</a>|<a href='/digital-beehive/alpha5/alpha_0957/'>thought</a>|736
+  [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index3/index_1935/'>imagination</a>"
+item: "#item-c17c682d7"
+unparsed:
+line: 'Entry: Imagination|Topic: Imagination|Xref: opinion|Xref: thought|Xref: 736
+  [PAGE_MISSING]|Index: imagination|#item-c17c682d7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/340,4288,3024,482/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759131884
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0488/340,4288,600,180/250,/0/default.jpg
+label: Imagination
+location: "<a href='/digital-beehive/toc/toc2_011/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '013'
 layout: alpha_item
 collection: alpha3
 ---

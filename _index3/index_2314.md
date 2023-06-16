@@ -2,27 +2,27 @@
 pid: index_2314
 volume: Volume 3
 image_number: '28'
-head: lizzard
-entry: 1869 [PAGE_MISSING]
-topic: 
+head: leek
+entry:
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-696a30b77"
-unparsed: 
-line: 'Head: lizzard|Entry: 1869 [PAGE_MISSING]|#item-696a30b77'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1828,2695,448,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849946156
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1828,2695,448,138/150,/0/default.jpg
-label: lizzard
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_2818/'>onions</a>"
+index:
+item: "#item-8cd5de5d0"
+unparsed:
+line: 'Head: leek|See: onions|#item-8cd5de5d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/385,3115,532,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842739941
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/385,3115,532,157/150,/0/default.jpg
+label: leek
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '396'
 layout: index_item
 collection: index3

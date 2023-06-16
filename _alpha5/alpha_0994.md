@@ -2,30 +2,28 @@
 pid: alpha_0994
 volume: Volume 2
 image_number: '61'
-head: 
-entry: Vineyard
-topic: Vineyard
+head:
+entry: Venom
+topic: Venom
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1298'>973 [Grapes]</a>|<a href='/digital-beehive/toc/toc2_364/'>1990
-  [Vineyards]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4333/'>vineyard</a>"
-item: "#item-fc758dd02"
-unparsed: 
-line: 'Entry: Vineyard|Topic: Vineyard|Xref: 973 [Grapes]|Xref: 1990 [Vineyards]|Index:
-  vineyard|#item-fc758dd02'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,2969,276/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529003787011
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/340,3871,600,180/250,/0/default.jpg
-label: Vineyard
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2292/'>1540 [Poisoning]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4327/'>venom</a>"
+item: "#item-09994abd8"
+unparsed:
+line: 'Entry: Venom|Topic: Venom|Xref: 1540 [Poisoning]|Index: venom|#item-09994abd8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/326,2195,2993,452/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529002547521
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/326,2195,600,180/250,/0/default.jpg
+label: Venom
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '060'
+issue:
+also_in_entry:
+order: '054'
 layout: alpha_item
 collection: alpha5
 ---

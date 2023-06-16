@@ -2,27 +2,27 @@
 pid: index_2401
 volume: Volume 3
 image_number: '29'
-head: Mamut
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1317 [Mamut]</a>"
-topic: 
+head: manslayer
+entry:
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-94133a51f"
-unparsed: 
-line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1531,1232,391,81/150,/0/default.jpg
-label: Mamut
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2576/'>murder</a>"
+index:
+item: "#item-df9a3ab7d"
+unparsed:
+line: 'Head: manslayer|See: murder|#item-df9a3ab7d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196363779
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1533,2770,639,105/150,/0/default.jpg
+label: manslayer
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '483'
 layout: index_item
 collection: index3

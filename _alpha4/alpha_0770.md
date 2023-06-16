@@ -2,28 +2,30 @@
 pid: alpha_0770
 volume: Volume 2
 image_number: '45'
-head: 
-entry: Rain
-topic: Rain
-first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_312/'>1588 [Rain]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3282/'>rain</a>"
-item: "#item-96b1db4e3"
-unparsed: 
-line: 'Entry: Rain|Topic: Rain|Xref: 1588 [Rain]|Index: rain|#item-96b1db4e3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,3033,368/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528397897586
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/324,3208,600,180/250,/0/default.jpg
-label: Rain
+head:
+entry: Queries
+topic: Queries
+first_letter: Q
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0297/'>Examination</a>|<a href='/digital-beehive/num5/num_1422/'>1058
+  [Queries]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3245/'>queries</a>"
+item: "#item-2d3a3b67b"
+unparsed:
+line: 'Entry: Queries|Topic: Queries|Xref: Examination|Xref: 1058 [Queries]|Index:
+  queries|#item-2d3a3b67b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/285,1754,3084,668/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565103444208
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/285,1754,600,180/250,/0/default.jpg
+label: Queries
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '123'
+issue:
+also_in_entry:
+order: '118'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: index_3653
 volume: Volume 3
 image_number: '42'
-head: sex
-entry: "<a href='/digital-beehive/num1/num_0174/'>167 [Sexes]</a>"
-topic: 
+head: Self learning
+entry: "<a href='/digital-beehive/num7/num_2359/'>1573 [Self Learning]</a>"
+topic:
 first_letter: S
-page: 
-add: "<a href='/digital-beehive/index1/index_0599/'>change</a>"
-xref: 
-see: 
-index: 
-item: "#item-e88be887b"
-unparsed: 
-line: 'Head: sex|Entry: 167 [Sexes]|Add: change|#item-e88be887b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574459469
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1106,1855,384,143/150,/0/default.jpg
-label: sex
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bcaff5674"
+unparsed:
+line: 'Head: Self learning|Entry: 1573 [Self Learning]|#item-bcaff5674'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/370,1803,644,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244659279
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/370,1803,644,113/150,/0/default.jpg
+label: Self learning
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0902'
+issue:
+insertion_xref:
+order: '0901'
 layout: index_item
 collection: index4
 ---

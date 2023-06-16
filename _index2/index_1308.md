@@ -2,30 +2,27 @@
 pid: index_1308
 volume: Volume 3
 image_number: '19'
-head: eternity
-entry: "<a href='/digital-beehive/alpha2/alpha_0293/'>a</a>|<a href='/digital-beehive/toc/toc2_222/'>Entry
-  1142 [Eternity]</a>|<a href='/digital-beehive/toc/toc2_410/'>2358 [Eternity]</a>|<a
-  href='/digital-beehive/toc/toc2_426/'>4474 [Eternity]</a>"
-topic: 
+head: equanimity
+entry: "<a href='/digital-beehive/alpha2/alpha_0292/'>a</a>|4560 [PAGE_MISSING]"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-33b54bb52"
-unparsed: 
-line: 'Head: eternity|Entry: a|Entry 1142 [Eternity]|Entry: 2358 [Eternity]|Entry:
-  4474 [Eternity]|#item-33b54bb52'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/874,391,683,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560350271184
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/874,391,683,143/150,/0/default.jpg
-label: eternity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4627212f6"
+unparsed:
+line: 'Head: equanimity|Entry: a|Entry: 4560 [PAGE_MISSING]|#item-4627212f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844358920
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/128,1280,685,163/150,/0/default.jpg
+label: equanimity
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '127'
 layout: index_item
 collection: index2

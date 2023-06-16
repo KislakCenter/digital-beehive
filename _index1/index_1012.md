@@ -2,29 +2,28 @@
 pid: index_1012
 volume: Volume 3
 image_number: '16'
-head: deposition
-entry: "<a href='/digital-beehive/alpha1/alpha_0225/'>a</a>|<a href='/digital-beehive/toc/toc2_348/'>1816
-  [Degradation]</a>"
-topic: 
+head: deprecation
+entry: "<a href='/digital-beehive/alpha1/alpha_0229/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c6924489f"
-unparsed: 
-line: 'Head: deposition|Entry: a|Entry: 1816 [Degradation]|#item-c6924489f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922442048
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,1122,652,113/150,/0/default.jpg
-label: deposition
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4572b819a"
+unparsed:
+line: 'Head: deprecation|Entry: a|#item-4572b819a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1101,1244,563,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507922515309
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1101,1244,563,107/150,/0/default.jpg
+label: deprecation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1011'
+issue:
+insertion_xref:
+order: '1010'
 layout: index_item
 collection: index1
 ---

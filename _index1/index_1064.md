@@ -2,28 +2,28 @@
 pid: index_1064
 volume: Volume 3
 image_number: '16'
-head: discharge
-entry: 
-topic: 
+head: detriment
+entry: "<a href='/digital-beehive/num3/num_0759/'>587 [Decrement]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_2756/'>obliga[ti]on</a>|<a href='/digital-beehive/index1/index_1118/'>divorcement</a>"
-index: 
-item: "#item-8c40fd4f4"
-unparsed: 
-line: 'Head: discharge|See: obliga[ti]on|See: divorcement|#item-8c40fd4f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1771,2851,725,183/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508177522072
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1771,2851,725,183/150,/0/default.jpg
-label: discharge
+page:
+add:
+xref:
+see:
+index:
+item: "#item-07d74aeb1"
+unparsed:
+line: 'Head: detriment|Entry: 587 [Decrement]|#item-07d74aeb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605296868
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1063,3444,575,79/150,/0/default.jpg
+label: detriment
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1063'
+issue:
+insertion_xref:
+order: '1062'
 layout: index_item
 collection: index1
 ---

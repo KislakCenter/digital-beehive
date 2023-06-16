@@ -2,29 +2,28 @@
 pid: index_3070
 volume: Volume 3
 image_number: '36'
-head: pope
-entry: "<a href='/digital-beehive/alpha4/alpha_0717/'>a</a>|<a href='/digital-beehive/num4/num_1166'>898
-  [Pope]</a>|<a href='/digital-beehive/toc/toc2_287/'>1467 [Pope]</a>|1860 [PAGE_MISSING]"
-topic: 
+head: portugal
+entry: "<a href='/digital-beehive/num11/num_3491/'>4798 [Portugal]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f73ae65e4"
-unparsed: 
-line: 'Head: pope|Entry: a|Entry: 898 [Pope]|Entry: 1467 [Pope]|Entry: 1860 [PAGE_MISSING]|#item-f73ae65e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1190,498,753,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438306739
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1190,498,753,167/150,/0/default.jpg
-label: pope
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d86e36251"
+unparsed:
+line: 'Head: portugal|Entry: 4798 [Portugal]|#item-d86e36251'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1226,533,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438547024
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1203,1226,533,105/150,/0/default.jpg
+label: portugal
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0319'
+issue:
+insertion_xref:
+order: '0318'
 layout: index_item
 collection: index4
 ---

@@ -1,29 +1,31 @@
 ---
 pid: alpha_0640
 volume: Volume 2
-image_number: '36'
-head: 
-entry: Night
-topic: Night
+image_number: '35'
+head:
+entry: Negligenge
+topic: Negligenge
 first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_220/'>1131 [Night]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2708/'>night</a>"
-item: "#item-1399c5577"
-unparsed: 
-line: 'Entry: Night|Topic: Night|Xref: 1131 [Night]|Index: night|#item-1399c5577'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,2967,393/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015405816
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/798,1764,600,180/250,/0/default.jpg
-label: Night
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '196'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0447/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0526/'>Laziness</a>|<a
+  href='/digital-beehive/num7/num_2324/'>1558 [To Neglect]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2663/'>negligence</a>"
+item: "#item-dfd2d85c3"
+unparsed:
+line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558
+  [To Neglect]|Index: negligence|#item-dfd2d85c3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/316,4340,3020,738/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565014670396
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/316,4340,600,180/250,/0/default.jpg
+label: Negligenge
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '193'
 layout: alpha_item
 collection: alpha3
 ---

@@ -3,7 +3,7 @@ pid: index_4047
 volume: Volume 3
 image_number: '46'
 head: surely
-entry: "<a href='/digital-beehive/num4/num_1203/'>914 [Surely]</a>|<a href='/digital-beehive/num9/num_3155/'>2213
+entry: "<a href='/digital-beehive/num4/num_1203/'>914 [Surely]</a>|<a href='/digital-beehive/num9/num_3156/'>2213
   [I am Sure]</a>"
 topic:
 first_letter: S
@@ -24,7 +24,7 @@ label: surely
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1270'
+order: '1269'
 layout: index_item
 collection: index4
 ---

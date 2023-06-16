@@ -2,30 +2,28 @@
 pid: alpha_0660
 volume: Volume 2
 image_number: '37'
-head: 
-entry: Old age
-topic: Old age
+head:
+entry: Office
+topic: Office
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0012/'>12 [Old friends]</a>|<a href='/digital-beehive/num2/num_0574/'>461
-  [Old age]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2783/'>old age</a>"
-item: "#item-b98f24942"
-unparsed: 
-line: 'Entry: Old age|Topic: Old age|Xref: 12 [Old friends]|Xref: 461 [Old age]|Index:
-  old age|#item-b98f24942'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,3037,506/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017707398
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/346,3222,600,180/250,/0/default.jpg
-label: Old age
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0116/'>Calling</a>|845 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_2754/'>office</a>"
+item: "#item-f055f382a"
+unparsed:
+line: 'Entry: Office|Topic: Office|Xref: Calling|Xref: 845 [PAGE_MISSING]|Index: office|#item-f055f382a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/334,1718,3064,412/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017011742
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/334,1718,600,180/250,/0/default.jpg
+label: Office
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '013'
+issue:
+also_in_entry:
+order: '008'
 layout: alpha_item
 collection: alpha4
 ---

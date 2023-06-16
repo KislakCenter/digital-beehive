@@ -2,28 +2,29 @@
 pid: index_3373
 volume: Volume 3
 image_number: '39'
-head: to represent
-entry: "<a href='/digital-beehive/num3/num_0755'>586 [To represent]</a>"
-topic: 
+head: retaliation
+entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1137/'>886
+  [Retaliation]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5a58f47fa"
-unparsed: 
-line: 'Head: to represent|Entry: 586 [To represent]|#item-5a58f47fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/795,2762,655,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469536419
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/795,2762,655,171/150,/0/default.jpg
-label: to represent
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cd90bc6fe"
+unparsed:
+line: 'Head: retaliation|Entry: 150 [Retaliation]|Entry: 886 [Retaliation]|#item-cd90bc6fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230026170
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1516,2152,670,147/150,/0/default.jpg
+label: retaliation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0622'
+issue:
+insertion_xref:
+order: '0621'
 layout: index_item
 collection: index4
 ---

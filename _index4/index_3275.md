@@ -2,28 +2,28 @@
 pid: index_3275
 volume: Volume 3
 image_number: '38'
-head: race
-entry: 771 [PAGE_MISSING]
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-32c15e422"
-unparsed: 
-line: 'Head: race|Entry: 771 [PAGE_MISSING]|#item-32c15e422'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2633,363,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459410404
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1176,2633,363,121/150,/0/default.jpg
-label: race
+head: quintessence
+entry: "<a href='/digital-beehive/num7/num_2400/'>1596 [Quintessence]</a>"
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see:
+index:
+item: "#item-134c8e685"
+unparsed:
+line: 'Head: quintessence|Entry: 1596 [Quintessence]|#item-134c8e685'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1149,1723,591,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455345904
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1149,1723,591,145/150,/0/default.jpg
+label: quintessence
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0524'
+issue:
+insertion_xref:
+order: '0523'
 layout: index_item
 collection: index4
 ---

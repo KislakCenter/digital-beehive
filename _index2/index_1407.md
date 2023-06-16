@@ -2,29 +2,29 @@
 pid: index_1407
 volume: Volume 3
 image_number: '20'
-head: fashion of the Country
-entry: "<a href='/digital-beehive/alpha2/alpha_0314/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1386
-  [Fashion of the Country]</a>|1872 [PAGE_MISSING]"
-topic: 
+head: fire
+entry: "<a href='/digital-beehive/alpha2/alpha_0328/'>a</a>|<a href='/digital-beehive/num5/num_1569/'>1152
+  [Fire]</a>|<a href='/digital-beehive/num8/num_2880/'>1956 [Fire]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-739548319"
-unparsed: 
-line: 'Head: fashion of the Country|Entry: a|Entry: 1386 [Fashion of the Country]|Entry:
-  1872 [PAGE_MISSING]|#item-739548319'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/369,3161,751,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660040452
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/369,3161,751,162/150,/0/default.jpg
-label: fashion of the Country
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-a1eb3df1d"
+unparsed:
+line: 'Head: fire|Page: p.30 [Image 1.90]|Entry: a|Entry: 1152 [Fire]|Entry: 1956
+  [Fire]|#item-a1eb3df1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562613126400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1793,816,740,187/150,/0/default.jpg
+label: fire
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '226'
 layout: index_item
 collection: index2

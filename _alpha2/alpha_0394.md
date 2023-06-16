@@ -2,30 +2,30 @@
 pid: alpha_0394
 volume: Volume 2
 image_number: '16'
-head: 
-entry: Happiness of the Wicked
-topic: Happiness of the Wicked
+head:
+entry: Hair
+topic: Hair
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1224'>923 [Blessings of God are upon the
-  wicked]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1750/'>happiness of the wicked</a>"
-item: "#item-7b5ae19be"
-unparsed: 
-line: 'Entry: Happiness of the Wicked|Topic: Happiness of the Wicked|Xref: 923 [Blessings
-  of God be upon the wicked]|Index: happiness of the wicked|#item-7b5ae19be'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,2919,442/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564604483907
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/789,4224,600,180/250,/0/default.jpg
-label: Happiness of the Wicked
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0382/'>gray hairs</a>|<a href='/digital-beehive/alpha4/alpha_0785/'>red
+  haired</a>|1337 [Hair and Perriwigs]"
+see:
+index: "<a href='/digital-beehive/index2/index_1807/'>hair</a>"
+item: "#item-40babfce6"
+unparsed:
+line: 'Entry: Hair|Topic: Hair|Xref: gray hairs|Xref: red haired|Xref: 1337 [Hair
+  and Perriwigs]|Index: hair|#item-40babfce6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/772,3094,2974,471/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564604131078
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/772,3094,600,180/250,/0/default.jpg
+label: Hair
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '125'
+issue:
+also_in_entry:
+order: '122'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,28 +2,31 @@
 pid: index_4367
 volume: Volume 3
 image_number: '50'
-head: unction
-entry: "<a href='/digital-beehive/alpha5/alpha_1001/'>a</a>"
-topic: 
+head: union with God
+entry: "<a href='/digital-beehive/num1/num_0036/'>36 [God with - & in men]</a>|<a
+  href='/digital-beehive/num4/num_1253/'>937 [Union with God]</a>|<a href='/digital-beehive/num9/num_2960/'>2026
+  [Conformity]</a>|<a href='/digital-beehive/num10/num_3361/'>2389 [Union with God]</a>"
+topic:
 first_letter: U/V
-page: 
-add: "<a href='/digital-beehive/index3/index_2206/'>last</a>"
-xref: 
-see: 
-index: 
-item: "#item-195a16c85"
-unparsed: 
-line: 'Head: unction|Entry: a|Add: last|#item-195a16c85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560872880550
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/413,2343,422,170/150,/0/default.jpg
-label: unction
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0bbb4ee95"
+unparsed:
+line: 'Head: union with God|Entry: 36 [God with - & in men]|Entry: 937 [Union with
+  God]|Entry: 2026 [Conformity]|Entry: 2389 [Union with God]|#item-0bbb4ee95'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1147,1037,696,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560879359612
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1147,1037,696,176/150,/0/default.jpg
+label: union with God
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '329'
+issue:
+insertion_xref:
+order: '330'
 layout: index_item
 collection: index5
 ---

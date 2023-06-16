@@ -2,28 +2,28 @@
 pid: index_2736
 volume: Volume 3
 image_number: '32'
-head: nothing
-entry: "<a href='/digital-beehive/alpha3/alpha_0643/'>a</a>|<a href='/digital-beehive/toc/toc2_322/'>1638
-  [Nothing]</a>"
-topic: 
+head: night
+entry: "<a href='/digital-beehive/alpha3/alpha_0645/'>a</a>|<a href='/digital-beehive/num5/num_1537/'>1131
+  [Night]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c1a28d550"
-unparsed: 
-line: 'Head: nothing|Entry: a|Entry: 1638 [Nothing]|#item-c1a28d550'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1829,2621,579,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449607434
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1829,2621,579,138/150,/0/default.jpg
-label: nothing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3d252da1b"
+unparsed:
+line: 'Head: night|Entry: a|Entry: 1131 [Night]|#item-3d252da1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3240,492,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560446150047
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1144,3240,492,164/150,/0/default.jpg
+label: night
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '818'
 layout: index_item
 collection: index3

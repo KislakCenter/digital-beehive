@@ -1,29 +1,30 @@
 ---
 pid: alpha_1049
 volume: Volume 2
-image_number: '66'
-head: 
-entry: Wonder
-topic: Wonder
+image_number: '65'
+head:
+entry: Woman
+topic: Woman
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_278/'>1423 [Wonder]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4600/'>wonder</a>"
-item: "#item-f80f8eafe"
-unparsed: 
-line: 'Entry: Wonder|Topic: Wonder|Xref: 1423 [Wonder]|Index: wonder|#item-f80f8eafe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,3021,359/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529594987696
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/774,217,600,180/250,/0/default.jpg
-label: Wonder
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '115'
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0571/'>459 [Wife]</a>|<a href='/digital-beehive/num5/num_1715/'>1242
+  [Woman]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4643/'>woman</a>"
+item: "#item-863a24be4"
+unparsed:
+line: 'Entry: Woman|Topic: Woman|Xref: 459 [Wife]|Xref: 1242 [Woman]|Index: woman|#item-863a24be4'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/333,3218,3003,786/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529593174212
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/333,3218,600,180/250,/0/default.jpg
+label: Woman
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '109'
 layout: alpha_item
 collection: alpha5
 ---

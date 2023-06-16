@@ -1,29 +1,29 @@
 ---
 pid: alpha_0713
 volume: Volume 2
-image_number: '41'
-head: 
-entry: Pocket
-topic: Pocket
+image_number: '40'
+head:
+entry: Pitch
+topic: Pitch
 first_letter: P
-page: 
-add: 
-xref: 4673 [PAGE_MISSING; Bags]
-see: 
-index: "<a href='/digital-beehive/index4/index_3053/'>pocket</a>"
-item: "#item-bcfac1ad7"
-unparsed: 
-line: 'Entry: Pocket|Topic: Pocket|Xref: 4673 [PAGE_MISSING; Bags]|Index: pocket|#item-bcfac1ad7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/296,972,3096,311/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528373084407
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/296,972,600,180/250,/0/default.jpg
-label: Pocket
-location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '066'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_3003/'>pitch</a>"
+item: "#item-3011a16a6"
+unparsed:
+line: 'Entry: Pitch|Topic: Pitch|Index: pitch|#item-3011a16a6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/842,4062,2930,188/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528334496605
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/842,4062,600,180/250,/0/default.jpg
+label: Pitch
+location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '061'
 layout: alpha_item
 collection: alpha4
 ---

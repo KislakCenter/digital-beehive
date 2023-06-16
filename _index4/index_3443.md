@@ -2,28 +2,28 @@
 pid: index_3443
 volume: Volume 3
 image_number: '40'
-head: Roman Empire
-entry: "<a href='/digital-beehive/toc/toc2_395/'>2260 [Roman Empire]</a>"
-topic: 
+head: revolution
+entry:
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e45f2244e"
-unparsed: 
-line: 'Head: Roman Empire|Entry: 2260 [Roman Empire]|#item-e45f2244e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1144,905,677,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233301423
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1144,905,677,158/150,/0/default.jpg
-label: Roman Empire
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2458/'>metempsychosis</a>"
+index:
+item: "#item-67585363e"
+unparsed:
+line: 'Head: revolution|See: metempsychosis|#item-67585363e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/454,776,721,164/150,/0/default.jpg
+label: revolution
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0692'
+issue:
+insertion_xref:
+order: '0691'
 layout: index_item
 collection: index4
 ---

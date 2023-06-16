@@ -2,30 +2,29 @@
 pid: index_1706
 volume: Volume 3
 image_number: '23'
-head: great
-entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num3/num_0860'>635
-  [Great, rich & eminent Persons]</a>|800 [PAGE_MISSING]"
-topic: 
+head: gravity
+entry: "<a href='/digital-beehive/alpha2/alpha_0386/'>a</a>|<a href='/digital-beehive/num10/num_3319/'>2349
+  [Gravity]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dc437600a"
-unparsed: 
-line: 'Head: great|Entry: a|Entry: 635 [Great, rich & eminent Persons]|Entry: 800
-  [PAGE_MISSING]|#item-dc437600a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229762887
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/147,756,535,102/150,/0/default.jpg
-label: great
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a120b63f2"
+unparsed:
+line: 'Head: gravity|Entry: a|Entry: 2349 [Gravity]|#item-a120b63f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/116,359,562,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559228863233
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/116,359,562,116/150,/0/default.jpg
+label: gravity
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '524'
+issue:
+insertion_xref:
+order: '525'
 layout: index_item
 collection: index2
 ---

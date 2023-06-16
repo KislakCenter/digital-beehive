@@ -2,29 +2,28 @@
 pid: alpha_0629
 volume: Volume 2
 image_number: '35'
-head: 
-entry: Natural
-topic: Natural
-first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0659/'>Old Adam</a>|<a href='/digital-beehive/toc/toc2_211/'>1086
-  [Natural]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2650/'>natural</a>"
-item: "#item-ce551c783"
-unparsed: 
-line: 'Entry: Natural|Topic: Natural|Xref: Old Adam|Xref: 1086 [Natural]|Index: natural|#item-ce551c783'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,2959,402/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1510163587615
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/339,2087,600,180/250,/0/default.jpg
-label: Natural
+head:
+entry: Mystery
+topic: Mystery
+first_letter: M
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1342/'>1006 [Mystery]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2612/'>mystery</a>"
+item: "#item-b18c4100d"
+unparsed:
+line: 'Entry: Mystery|Topic: Mystery|Xref: 1006 [Mystery]|Index: mystery|#item-b18c4100d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/268,471,3106,415/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564778296351
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/268,471,600,180/250,/0/default.jpg
+label: Mystery
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '185'
+issue:
+also_in_entry:
+order: '182'
 layout: alpha_item
 collection: alpha3
 ---

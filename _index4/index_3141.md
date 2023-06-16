@@ -2,30 +2,28 @@
 pid: index_3141
 volume: Volume 3
 image_number: '37'
-head: pretender to learning
-entry: "<a href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a
-  href='/digital-beehive/toc/toc2_387/'>2212 [Pretender to learning]</a>"
-topic: 
+head: privateer
+entry: "<a href='/digital-beehive/num2/num_0398/'>344 [Privateers]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-228d43914"
-unparsed: 
-line: 'Head: pretender to learning|Entry: 105 [a Pretender to learning]|Entry: 2212
-  [Pretender to learning]|#item-228d43914'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,1131,704,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866266669
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,1131,704,166/150,/0/default.jpg
-label: pretender to learning
+page:
+add:
+xref:
+see:
+index:
+item: "#item-38437fa25"
+unparsed:
+line: 'Head: privateer|Entry: 344 [Privateers]|#item-38437fa25'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/783,516,494,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867557662
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/783,516,494,121/150,/0/default.jpg
+label: privateer
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0390'
+issue:
+insertion_xref:
+order: '0389'
 layout: index_item
 collection: index4
 ---

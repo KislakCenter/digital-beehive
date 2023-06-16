@@ -2,27 +2,27 @@
 pid: index_0551
 volume: Volume 3
 image_number: '12'
-head: carving
-entry: "<a href='/digital-beehive/num3/num_0766'>591 [Carving]</a>|4524 [PAGE_MISSING]"
-topic: 
+head: chain
+entry: "<a href='/digital-beehive/num1/num_0246/'>229 [Chain]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-29135f689"
-unparsed: 
-line: 'Head: carving|Entry: 591 [Carving]|Entry: 4524 [PAGE_MISSING]|#item-29135f689'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/415,1263,719,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097764628
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/415,1263,719,159/150,/0/default.jpg
-label: carving
+page:
+add:
+xref:
+see:
+index:
+item: "#item-64fa4ff3f"
+unparsed:
+line: 'Head: chain|Entry: 229 [Chain]|#item-64fa4ff3f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,2222,384,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532100537378
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,2222,384,102/150,/0/default.jpg
+label: chain
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0550'
 layout: index_item
 collection: index1

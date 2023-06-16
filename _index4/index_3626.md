@@ -2,29 +2,28 @@
 pid: index_3626
 volume: Volume 3
 image_number: '42'
-head: Self profit
-entry: "<a href='/digital-beehive/alpha4/alpha_0854/'>a</a>|<a href='/digital-beehive/num2/num_0565/'>455
-  [Self-profit]</a>"
-topic: 
+head: shield
+entry: 849 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0eb164c43"
-unparsed: 
-line: 'Head: Self profit|Entry: a|Entry: 455 [Self-profit]|#item-0eb164c43'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244857373
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/389,2238,715,137/150,/0/default.jpg
-label: Self profit
+page: "<a href='/digital-beehive/toc/toc1_090/'>p.40 [Image 1.100]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-7dbd59aa6"
+unparsed:
+line: 'Head: shield|Page: p.40 [Image 1.100]|Entry: 849 [PAGE_MISSING]|#item-7dbd59aa6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1834,763,589,178/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575773023
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1834,763,589,178/150,/0/default.jpg
+label: shield
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0875'
+issue:
+insertion_xref:
+order: '0874'
 layout: index_item
 collection: index4
 ---

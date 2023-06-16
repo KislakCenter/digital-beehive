@@ -2,27 +2,27 @@
 pid: index_1924
 volume: Volume 3
 image_number: '25'
-head: Janizaries
-entry: 1877 [PAGE_MISSING]
-topic: 
+head: in
+entry: "<a href='/digital-beehive/num5/num_1391/'>1040 [In]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a392f3b85"
-unparsed: 
-line: 'Head: Janizaries|Entry: 1877 [PAGE_MISSING]|#item-a392f3b85'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/167,514,515,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559658750747
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/167,514,515,109/150,/0/default.jpg
-label: Janizaries
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e970114b5"
+unparsed:
+line: 'Head: in|Entry: 1040 [In]|#item-e970114b5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669394415
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1585,297,332,88/150,/0/default.jpg
+label: in
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '006'
 layout: index_item
 collection: index3

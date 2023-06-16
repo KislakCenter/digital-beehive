@@ -2,30 +2,28 @@
 pid: alpha_1031
 volume: Volume 2
 image_number: '64'
-head: 
-entry: Whoredom
-topic: Whoredom
+head:
+entry: Way
+topic: Way
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0011/'>Adultery</a>|<a href='/digital-beehive/alpha1/alpha_0065/'>Baudry</a>|Stews|<a
-  href='/digital-beehive/num3/num_0728'>571 [Fornication or Whoredom]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4541/'>whoredom</a>"
-item: "#item-74d7d6014"
-unparsed: 
-line: 'Entry: Whoredom|Topic: Whoredom|Xref: Adultery|Xref: Baudry|Xref: Stews|Xref:
-  571 [Fornication or Whoredom]|Index: whoredom|#item-74d7d6014'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,2953,537/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529590322636
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/801,3046,600,180/250,/0/default.jpg
-label: Whoredom
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1343/'>1007 [Way]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4526/'>way</a>"
+item: "#item-27774c1da"
+unparsed:
+line: 'Entry: Way|Topic: Way|Xref: 1007 [Way]|Index: way|#item-27774c1da'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/822,1136,2934,464/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529523717930
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/822,1136,600,180/250,/0/default.jpg
+label: Way
 location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
-issue: The point of reference for "Stews' is unclear.
-also_in_entry: 
-order: '097'
+issue:
+also_in_entry:
+order: '091'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,29 +2,29 @@
 pid: index_1017
 volume: Volume 3
 image_number: '16'
-head: derision
-entry: "<a href='/digital-beehive/alpha1/alpha_0227/'>a</a>|773 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_372/'>2063 [Derision]</a>"
-topic: 
+head: difficulty
+entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>|<a href='/digital-beehive/num1/num_0103/'>100
+  [Difficulty]</a>|<a href='/digital-beehive/num6/num_1798/'>1290 [Difficulty]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d01375418"
-unparsed: 
-line: 'Head: derision|Entry: a|Entry: 773 [PAGE_MISSING]|Entry: 2063 [Derision]|#item-d01375418'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1101,1736,753,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922654251
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1101,1736,753,107/150,/0/default.jpg
-label: derision
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b14e8ba3b"
+unparsed:
+line: 'Head: difficulty|Entry: a|Entry: 100 [Difficulty]|Entry: 1290 [Difficulty]|#item-b14e8ba3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1855,1532,701,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923797564
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1855,1532,701,113/150,/0/default.jpg
+label: difficulty
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1016'
+issue:
+insertion_xref:
+order: '1015'
 layout: index_item
 collection: index1
 ---

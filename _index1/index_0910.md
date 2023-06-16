@@ -2,27 +2,27 @@
 pid: index_0910
 volume: Volume 3
 image_number: '15'
-head: crocodile
-entry: "<a href='/digital-beehive/num3/num_1021'>704 [Crocodile]</a>|4730 [PAGE_MISSING]"
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e8549f08"
-unparsed: 
-line: 'Head: crocodile|Entry: 704 [Crocodile]|Entry: 4730 [PAGE_MISSING]|#item-4e8549f08'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577536770
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/884,1736,655,106/150,/0/default.jpg
-label: crocodile
+head: daughter
+entry: "<a href='/digital-beehive/num2/num_0356/'>311 [Sonship]</a>"
+topic:
+first_letter: D
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3816/'>Son</a>"
+index:
+item: "#item-d0b23d1a5"
+unparsed:
+line: 'Head: daughter|See: Son|Entry: 311 [Sonship]|#item-d0b23d1a5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1491,1709,721,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391449283
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1491,1709,721,160/150,/0/default.jpg
+label: daughter
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0909'
 layout: index_item
 collection: index1

@@ -2,28 +2,27 @@
 pid: index_0889
 volume: Volume 3
 image_number: '15'
-head: cowardize
-entry: "<a href='/digital-beehive/alpha1/alpha_0188/'>a</a>|<a href='/digital-beehive/toc/toc2_372/'>2066
-  [Cowardly]</a>"
-topic: 
+head: to creep
+entry: "<a href='/digital-beehive/num7/num_2576/'>1676 [To Creep]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-185f7077c"
-unparsed: 
-line: 'Head: cowardize|Entry: a|Entry: 2066 [Cowardly]|#item-185f7077c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2958,675,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537975217874
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/163,2958,675,124/150,/0/default.jpg
-label: cowardize
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d5908ff32"
+unparsed:
+line: 'Head: to creep|Entry: 1676 [To Creep]|#item-d5908ff32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/850,1055,487,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577342459
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/850,1055,487,138/150,/0/default.jpg
+label: to creep
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0888'
 layout: index_item
 collection: index1

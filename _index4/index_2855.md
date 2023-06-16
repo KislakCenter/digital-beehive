@@ -2,28 +2,28 @@
 pid: index_2855
 volume: Volume 3
 image_number: '34'
-head: painting
-entry: "<a href='/digital-beehive/num3/num_0734'>575 [Painting]</a>"
-topic: 
+head: papists cruelty
+entry: "<a href='/digital-beehive/num3/num_0646/'>514 [Cruelty]</a>|4634 [PAGE_MISSING]"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-aadd15fb1"
-unparsed: 
-line: 'Head: painting|Entry: 575 [Painting]|#item-aadd15fb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425859834
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/446,2749,592,164/150,/0/default.jpg
-label: painting
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4172485ff"
+unparsed:
+line: 'Head: papists cruelty|Entry: 514 [Cruelty]|Entry: 4634 [PAGE_MISSING]|#item-4172485ff'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492678550
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1167,758,736,145/150,/0/default.jpg
+label: papists cruelty
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0104'
+issue:
+insertion_xref:
+order: '0103'
 layout: index_item
 collection: index4
 ---

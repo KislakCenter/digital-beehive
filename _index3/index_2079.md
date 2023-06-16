@@ -2,27 +2,28 @@
 pid: index_2079
 volume: Volume 3
 image_number: '26'
-head: in the beginning
-entry: "<a href='/digital-beehive/num2/num_0624/'>497 [At the first]</a>"
-topic: 
+head: information
+entry: "<a href='/digital-beehive/alpha3/alpha_0477/'>a</a>|<a href='/digital-beehive/num5/num_1604/'>1176
+  [to Inform]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-388820b2a"
-unparsed: 
-line: 'Head: in the beginning|Entry: 497 [At the first]|#item-388820b2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1157,3362,645,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749659069
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1157,3362,645,145/150,/0/default.jpg
-label: in the beginning
+page:
+add:
+xref:
+see:
+index:
+item: "#item-598622861"
+unparsed:
+line: 'Head: information|Entry: a|Entry: 1176 [to Inform]|#item-598622861'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/427,2197,594,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744860661
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/427,2197,594,130/150,/0/default.jpg
+label: information
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '161'
 layout: index_item
 collection: index3

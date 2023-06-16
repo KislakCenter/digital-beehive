@@ -2,27 +2,27 @@
 pid: index_0527
 volume: Volume 3
 image_number: '11'
-head: canker
-entry: "<a href='/digital-beehive/alpha1/alpha_0116/'>a</a>"
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0ed3c1f5d"
-unparsed: 
-line: 'Head: canker|Entry: a|#item-0ed3c1f5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1576,2189,448,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531495334342
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/1576,2189,448,127/150,/0/default.jpg
-label: canker
+head: by little
+entry:
+topic:
+first_letter: B
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_1987/'>Increase</a>"
+index:
+item: "#item-da10710b7"
+unparsed:
+line: 'Head: by little|See: Increase|#item-da10710b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531493620384
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/867,3156,759,154/150,/0/default.jpg
+label: by little
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0526'
 layout: index_item
 collection: index1

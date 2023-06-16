@@ -2,27 +2,27 @@
 pid: index_2425
 volume: Volume 3
 image_number: '29'
-head: mariners
-entry: 764 [PAGE_MISSING]
-topic: 
+head: Rabbi Maimony
+entry: "<a href='/digital-beehive/num7/num_2315/'>1553 [Rabbies]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8cd8407cf"
-unparsed: 
-line: 'Head: mariners|Entry: 764 [PAGE_MISSING]|#item-8cd8407cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560197249447
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1511,3576,488,110/150,/0/default.jpg
-label: mariners
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c63bbf304"
+unparsed:
+line: 'Head: Rabbi Maimony|Entry: 1553 [Rabbies]|#item-c63bbf304'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560191777008
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/811,3557,667,164/150,/0/default.jpg
+label: Rabbi Maimony
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '507'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_4550
 volume: Volume 3
 image_number: '52'
-head: will of God
-entry: "<a href='/digital-beehive/alpha5/alpha_1035/'>a</a>"
-topic: 
+head: willow
+entry: "<a href='/digital-beehive/num3/num_0967/'>684 [Willow]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ed8e57bad"
-unparsed: 
-line: 'Head: will of God|Entry: a|#item-ed8e57bad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2329,452,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972231447
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1766,2329,452,125/150,/0/default.jpg
-label: will of God
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-24c6cfe96"
+unparsed:
+line: 'Head: willow|Page: p.32 [Image 1.92]|Entry: 684 [Willow]|#item-24c6cfe96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1797,3114,550,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972628180
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1797,3114,550,141/150,/0/default.jpg
+label: willow
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '512'
+issue:
+insertion_xref:
+order: '513'
 layout: index_item
 collection: index5
 ---

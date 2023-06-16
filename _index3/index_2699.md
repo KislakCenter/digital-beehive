@@ -2,27 +2,27 @@
 pid: index_2699
 volume: Volume 3
 image_number: '32'
-head: new york
-entry: "<a href='/digital-beehive/toc/toc2_299/'>1523 [New York]</a>"
-topic: 
+head: natural fool
+entry: 804 [PAGE_MISSING]
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-480f892c5"
-unparsed: 
-line: 'Head: new york|Entry: 1523 [New York]|#item-480f892c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1122,2225,460,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442568651
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1122,2225,460,145/150,/0/default.jpg
-label: new york
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b423fb45d"
+unparsed:
+line: 'Head: natural fool|Entry: 804 [PAGE_MISSING]|#item-b423fb45d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1837,415,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438156836
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/377,1837,415,102/150,/0/default.jpg
+label: natural fool
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '781'
 layout: index_item
 collection: index3

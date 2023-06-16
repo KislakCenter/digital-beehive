@@ -2,27 +2,27 @@
 pid: index_0266
 volume: Volume 3
 image_number: '9'
-head: backsliding
-entry: "<a href='/digital-beehive/toc/toc2_320/'>1628 [Relapses]</a>"
-topic: 
+head: ballast
+entry: 4708 [PAGE_MISSING]
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9ec26fbf7"
-unparsed: 
-line: 'Head: backsliding|Entry: 1628 [Relapses]|#item-9ec26fbf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3350,589,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016672465
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/196,3350,589,123/150,/0/default.jpg
-label: backsliding
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c6784a24e"
+unparsed:
+line: 'Head: ballast|Entry: 4708 [PAGE_MISSING]|#item-c6784a24e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403550057
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/911,1149,383,70/150,/0/default.jpg
+label: ballast
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0265'
 layout: index_item
 collection: index1

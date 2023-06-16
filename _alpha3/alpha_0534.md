@@ -2,30 +2,30 @@
 pid: alpha_0534
 volume: Volume 2
 image_number: '27'
-head: 
-entry: Liberty of Conscience
-topic: Liberty of Conscience
+head:
+entry: Letters
+topic: Letters
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0535/'>Liberty of Conscience, continued</a>|<a
-  href='/digital-beehive/num3/num_0709'>557 [Liberty of Conscience]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2275/'>liberty of Conscience</a>"
-item: "#item-a7f5c69b7"
-unparsed: 
-line: 'Entry: Liberty of Conscience|Topic: Liberty of Conscience|Xref: Liberty of
-  Conscience, continued|Xref: 557 [Liberty of Conscience]|Index: liberty of Conscience|#item-a7f5c69b7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,3035,495/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769001240
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/366,4585,600,180/250,/0/default.jpg
-label: Liberty of Conscience
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0667/'>532 [letter]</a>|<a href='/digital-beehive/num5/num_1661/'>1214
+  [Letters]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2262/'>letters</a>"
+item: "#item-96d8869ae"
+unparsed:
+line: 'Entry: Letters|Topic: Letters|Xref: 532 [letter]|Xref: 1214 [Letters]|Index:
+  letters|#item-96d8869ae'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/341,3352,3051,505/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768836619
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/341,3352,600,180/250,/0/default.jpg
+label: Letters
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-issue: The entry continues onto the next page.
-also_in_entry: 
-order: '090'
+issue:
+also_in_entry:
+order: '087'
 layout: alpha_item
 collection: alpha3
 ---

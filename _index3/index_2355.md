@@ -2,27 +2,27 @@
 pid: index_2355
 volume: Volume 3
 image_number: '29'
-head: low
-entry: "<a href='/digital-beehive/num1/num_0248/'>231 [Low]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c9c5f69c0"
-unparsed: 
-line: 'Head: low|Entry: 231 [Low]|#item-c9c5f69c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/170,3129,274,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180525356
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/170,3129,274,117/150,/0/default.jpg
-label: low
+head: Mamut
+entry: "<a href='/digital-beehive/num6/num_1840/'>1317 [Mamut]</a>"
+topic:
+first_letter: M
+page:
+add:
+xref:
+see:
+index:
+item: "#item-94133a51f"
+unparsed:
+line: 'Head: Mamut|Entry: 1317 [Mamut]|#item-94133a51f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560194354143
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,1232,391,81/150,/0/default.jpg
+label: Mamut
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '437'
 layout: index_item
 collection: index3

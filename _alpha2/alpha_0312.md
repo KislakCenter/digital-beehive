@@ -2,31 +2,30 @@
 pid: alpha_0312
 volume: Volume 1
 image_number: '456'
-head: 
-entry: Falshood
-topic: Falshood
+head:
+entry: Faith
+topic: Faith
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0441/'>Hypocrisie</a>|<a href='/digital-beehive/alpha1/alpha_0156/'>false
-  Comfort</a>|<a href='/digital-beehive/alpha1/alpha_0191/'>craftiness</a>|<a href='/digital-beehive/alpha4/alpha_0877/'>Simulation</a>|<a
-  href='/digital-beehive/num4/num_1306'>979 [Falsehood]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1391/'>falshood</a>"
-item: "#item-eeba60407"
-unparsed: 
-line: 'Entry: Falshood|Topic: Falshood|Xref: Hypocrisie|Xref: false Comfort|Xref:
-  craftiness|Xref: Simulation|Xref: 979 [Falsehood]|Index: falshood|#item-eeba60407'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/727,2187,3011,693/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564588962517
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0455/727,2187,600,180/250,/0/default.jpg
-label: Falshood
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1005/'>unbelief</a>|<a href='/digital-beehive/num1/num_0137/'>132
+  [Faith & Patience]</a>|<a href='/digital-beehive/num2/num_0485/'>397 [Faith]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1413/'>Faith</a>"
+item: "#item-597a8bcb7"
+unparsed:
+line: 'Entry: Faith|Topic: Faith|Xref: unbelief|Xref: 132 [Faith & Patience]|Xref:
+  397 [Faith]|Index: Faith|#item-597a8bcb7'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/759,711,3005,626/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564588485396
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/759,711,600,180/250,/0/default.jpg
+label: Faith
 location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '043'
+issue:
+also_in_entry:
+order: '040'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,28 +2,28 @@
 pid: index_3894
 volume: Volume 3
 image_number: '45'
-head: stepfather
-entry: "<a href='/digital-beehive/alpha4/alpha_0909/'>a</a>"
-topic: 
+head: subject or theme
+entry: 4592 [[PAGE_MISSING]]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ecd35866e"
-unparsed: 
-line: 'Head: stepfather|Entry: a|#item-ecd35866e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565289982482
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/195,1507,453,134/150,/0/default.jpg
-label: stepfather
+page:
+add:
+xref:
+see:
+index:
+item: "#item-04563ba0d"
+unparsed:
+line: 'Head: subject or theme|Entry: 4592 [[PAGE_MISSING]]|#item-04563ba0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467432135
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1589,723,627,88/150,/0/default.jpg
+label: subject or theme
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1143'
+issue:
+insertion_xref:
+order: '1142'
 layout: index_item
 collection: index4
 ---

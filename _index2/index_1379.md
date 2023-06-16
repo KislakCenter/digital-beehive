@@ -2,27 +2,27 @@
 pid: index_1379
 volume: Volume 3
 image_number: '20'
-head: fainting
-entry: 728 [PAGE_MISSING]
-topic: 
+head: firm
+entry: "<a href='/digital-beehive/num3/num_0976/'>686 [Firm]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-84768e0e1"
-unparsed: 
-line: 'Head: fainting|Entry: 728 [PAGE_MISSING]|#item-84768e0e1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/373,706,493,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561399955223
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/373,706,493,110/150,/0/default.jpg
-label: fainting
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8b29097df"
+unparsed:
+line: 'Head: firm|Entry: 686 [Firm]|#item-8b29097df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1178,400,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562613624725
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1801,1178,400,169/150,/0/default.jpg
+label: firm
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '198'
 layout: index_item
 collection: index2

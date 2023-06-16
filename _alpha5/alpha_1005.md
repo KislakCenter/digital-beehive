@@ -2,29 +2,28 @@
 pid: alpha_1005
 volume: Volume 2
 image_number: '62'
-head: 
-entry: Unknown
-topic: Unknown
+head:
+entry: Unbelief
+topic: Unbelief
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0453/'>Ignorance</a>|<a href='/digital-beehive/toc/toc2_326/'>1658
-  [Unknown]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4398/'>unknown</a>"
-item: "#item-45f8ddbd8"
-unparsed: 
-line: 'Entry: Unknown|Topic: Unknown|Xref: Ignorance|Xref: 1658 [Unknown]|Index: unknown|#item-45f8ddbd8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,2928,488/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528912714094
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/819,2548,600,180/250,/0/default.jpg
-label: Unknown
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>faith</a>|2070 [unbelief]"
+see:
+index: "<a href='/digital-beehive/index5/index_4372/'>unbelief</a>"
+item: "#item-4cd97847c"
+unparsed:
+line: 'Entry: Unbelief|Topic: Unbelief|Xref: faith|Xref: 2070 [unbelief]|Index: unbelief|#item-4cd97847c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/846,572,2940,503/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528911634757
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/846,572,600,180/250,/0/default.jpg
+label: Unbelief
 location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '071'
+issue:
+also_in_entry:
+order: '065'
 layout: alpha_item
 collection: alpha5
 ---

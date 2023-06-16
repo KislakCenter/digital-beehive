@@ -24,7 +24,7 @@ label: the Lords Supper
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '282'
+order: '283'
 layout: alpha_item
 collection: alpha4
 ---

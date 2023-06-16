@@ -2,27 +2,27 @@
 pid: index_0108
 volume: Volume 3
 image_number: '7'
-head: almost Christians
-entry: "<a href='/digital-beehive/toc/toc2_293/'>1498 [Almost Xstians]</a>"
-topic: 
+head: agnus Dei
+entry: 4662 [PAGE_MISSING]
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-23d2b94f6"
-unparsed: 
-line: 'Head: almost Christians|Entry: 1498 [Almost Xstians]|#item-23d2b94f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,2102,530,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770305570
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,2102,530,131/150,/0/default.jpg
-label: almost Christians
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0c49be725"
+unparsed:
+line: 'Head: agnus Dei|Entry: 4662 [PAGE_MISSING]|#item-0c49be725'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/899,3115,505,99/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564767526414
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/899,3115,505,99/150,/0/default.jpg
+label: agnus Dei
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0107'
 layout: index_item
 collection: index1

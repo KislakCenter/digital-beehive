@@ -2,27 +2,27 @@
 pid: index_1269
 volume: Volume 3
 image_number: '18'
-head: to entangle
-entry: "<a href='/digital-beehive/toc/toc2_247/'>1269 [Entangle & disentangle]</a>"
-topic: 
+head: enticing
+entry: 729 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7135cf86a"
-unparsed: 
-line: 'Head: to entangle|Entry: 1269 [Entangle & disentangle]|#item-7135cf86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1849,2840,622,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835821352
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1849,2840,622,167/150,/0/default.jpg
-label: to entangle
+page:
+add:
+xref:
+see:
+index:
+item: "#item-70d8e6591"
+unparsed:
+line: 'Head: enticing|Entry: 729 [PAGE_MISSING]|#item-70d8e6591'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1835,3347,504,158/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836711730
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1835,3347,504,158/150,/0/default.jpg
+label: enticing
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '088'
 layout: index_item
 collection: index2

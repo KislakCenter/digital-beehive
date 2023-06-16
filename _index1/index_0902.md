@@ -2,27 +2,28 @@
 pid: index_0902
 volume: Volume 3
 image_number: '15'
-head: creed
-entry: 
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0215/'>artic. of faith</a>"
-index: 
-item: "#item-2ac541842"
-unparsed: 
-line: 'Head: creed|See: artic. of faith|#item-2ac541842'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/860,916,742,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577315548
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/860,916,742,167/150,/0/default.jpg
-label: creed
+head: darkness
+entry: "<a href='/digital-beehive/alpha1/alpha_0210/'>a</a>|<a href='/digital-beehive/num5/num_1671/'>1220
+  [Darkness]</a>"
+topic:
+first_letter: D
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b468baa05"
+unparsed:
+line: 'Head: darkness|Entry: a|Entry: 1220 [Darkness]|#item-b468baa05'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391199497
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1514,1474,619,124/150,/0/default.jpg
+label: darkness
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0901'
 layout: index_item
 collection: index1

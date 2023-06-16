@@ -2,28 +2,28 @@
 pid: index_3409
 volume: Volume 3
 image_number: '40'
-head: reviling
-entry: "<a href='/digital-beehive/num3/num_0677'>538 [Reviling, so called]</a>"
-topic: 
+head: rye
+entry: "<a href='/digital-beehive/num3/num_0919/'>664 [Rye]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6f77128e7"
-unparsed: 
-line: 'Head: reviling|Entry: 538 [Reviling, so called]|#item-6f77128e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231123186
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/444,561,476,134/150,/0/default.jpg
-label: reviling
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9529b5323"
+unparsed:
+line: 'Head: rye|Entry: 664 [Rye]|#item-9529b5323'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1823,852,353,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234461087
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1823,852,353,123/150,/0/default.jpg
+label: rye
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0658'
+issue:
+insertion_xref:
+order: '0657'
 layout: index_item
 collection: index4
 ---

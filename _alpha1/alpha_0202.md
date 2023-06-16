@@ -2,28 +2,33 @@
 pid: alpha_0202
 volume: Volume 1
 image_number: '447'
-head: 
-entry: Custody
-topic: Custody
+head:
+entry: Cruelty
+topic: Cruelty
 first_letter: C
-page: 
-add: 
-xref: Jailer
-see: 
-index: "<a href='/digital-beehive/index1/index_0931/'>custody</a>"
-item: "#item-467fa12a2"
-unparsed: 
-line: 'Entry: Custody|Topic: Custody|Xref: Jailer|Index: custody|#item-467fa12a2'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/355,1183,3061,363/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499786316734
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/355,1183,600,180/250,/0/default.jpg
-label: Custody
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0990/'>Tyranny</a>|<a href='/digital-beehive/alpha4/alpha_0865/'>Severity</a>|Oppression|515
+  [horrid Cruelties, practised by the Papists upon Protestants]|<a href='/digital-beehive/num3/num_0648/'>515
+  [Cruelty used against Quakers]</a>|<a href='/digital-beehive/num3/num_0646/'>514
+  [Cruelty]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0940/'>cruelty</a>"
+item: "#item-437531419"
+unparsed:
+line: 'Entry: Cruelty|Topic: Cruelty|Xref: Tyranny|Xref: Severity|Xref: Oppression|Index:
+  cruelty|Xref: 515 [horrid Cruelties, practised by the Papists upon Protestants]|Xref:
+  515 [Cruelty used against Quakers]|Xref: 514 [Cruelty]|#item-437531419'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/327,208,3104,511/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499786231125
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/327,208,600,180/250,/0/default.jpg
+label: Cruelty
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '200'
+issue:
+also_in_entry:
+order: '201'
 layout: alpha_item
 collection: alpha1
 ---

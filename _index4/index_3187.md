@@ -2,29 +2,29 @@
 pid: index_3187
 volume: Volume 3
 image_number: '37'
-head: promise
-entry: "<a href='/digital-beehive/alpha4/alpha_0744/'>a</a>|<a href='/digital-beehive/toc/toc2_279/'>1428
-  [Promised]</a>|<a href='/digital-beehive/toc/toc2_383/'>2178 [Promise]</a>"
-topic: 
+head: profit
+entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/num7/num_2607/'>1692
+  [Gain]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d1063d8c1"
-unparsed: 
-line: 'Head: promise|Entry: a|Entry: 1428 [Promised]|Entry: 2178 [Promise]|#item-d1063d8c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868621522
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/793,3106,710,134/150,/0/default.jpg
-label: promise
+page:
+add: Utility
+xref:
+see:
+index:
+item: "#item-7875629be"
+unparsed:
+line: 'Head: profit|Entry: a|Entry: 1692 [Gain]|Add: Utility|#item-7875629be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/799,2247,483,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868490570
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/799,2247,483,129/150,/0/default.jpg
+label: profit
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0436'
+issue:
+insertion_xref:
+order: '0435'
 layout: index_item
 collection: index4
 ---

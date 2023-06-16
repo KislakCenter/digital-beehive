@@ -2,27 +2,27 @@
 pid: index_1304
 volume: Volume 3
 image_number: '19'
-head: esteem
-entry: 829 [PAGE_MISSING]
-topic: 
+head: exorcism
+entry: "<a href='/digital-beehive/alpha2/alpha_0302/'>a</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7ba8d319d"
-unparsed: 
-line: 'Head: esteem|Entry: 829 [PAGE_MISSING]|#item-7ba8d319d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/124,3298,432,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560348634230
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/124,3298,432,150/150,/0/default.jpg
-label: esteem
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ac3445f82"
+unparsed:
+line: 'Head: exorcism|Entry: a|#item-ac3445f82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043359609
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1528,1112,458,128/150,/0/default.jpg
+label: exorcism
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '123'
 layout: index_item
 collection: index2

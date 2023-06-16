@@ -2,28 +2,28 @@
 pid: alpha_0442
 volume: Volume 2
 image_number: '20'
-head: 
-entry: Hyssop
-topic: Hyssop
+head:
+entry: Hunting
+topic: Hunting
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index2/index_1917/'>hyssop</a>"
-item: "#item-13ab1820b"
-unparsed: 
-line: 'Entry: Hyssop|Topic: Hyssop|Index: hyssop|#item-13ab1820b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/743,3436,2972,184/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509734110801
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/743,3436,600,180/250,/0/default.jpg
-label: Hyssop
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1950/'>1371 [Hunting]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1883/'>hunting</a>"
+item: "#item-4b88988ab"
+unparsed:
+line: 'Entry: Hunting|Topic: Hunting|Xref: 1371 [Hunting]|Index: hunting|#item-4b88988ab'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/788,2007,2870,438/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733878773
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/788,2007,600,180/250,/0/default.jpg
+label: Hunting
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '173'
+issue:
+also_in_entry:
+order: '170'
 layout: alpha_item
 collection: alpha2
 ---

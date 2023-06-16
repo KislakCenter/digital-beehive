@@ -2,28 +2,28 @@
 pid: index_4523
 volume: Volume 3
 image_number: '52'
-head: wet
-entry: 738 [PAGE_MISSING]
-topic: 
+head: waving
+entry: "<a href='/digital-beehive/num8/num_2817/'>1917 [Waving]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-eab69679a"
-unparsed: 
-line: 'Head: wet|Entry: 738 [PAGE_MISSING]|#item-eab69679a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1074,2168,338,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969186697
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1074,2168,338,130/150,/0/default.jpg
-label: wet
+page:
+add:
+xref:
+see:
+index:
+item: "#item-09609300b"
+unparsed:
+line: 'Head: waving|Entry: 1917 [Waving]|#item-09609300b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960723162
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/510,1681,467,116/150,/0/default.jpg
+label: waving
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '485'
+issue:
+insertion_xref:
+order: '486'
 layout: index_item
 collection: index5
 ---

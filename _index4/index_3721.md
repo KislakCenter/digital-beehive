@@ -2,29 +2,28 @@
 pid: index_3721
 volume: Volume 3
 image_number: '43'
-head: sin venial
-entry: "<a href='/digital-beehive/num2/num_0387/'>335 [mortal & venial sins]</a>|<a
-  href='/digital-beehive/num3/num_0689'>546 [Punctilio]</a>"
-topic: 
+head: snorting
+entry: "<a href='/digital-beehive/num3/num_0790/'>601 [Snorting]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e4308b335"
-unparsed: 
-line: 'Head: sin venial|Entry: 335 [mortal & venial sins]|Entry: 546 [WORD_MISSING]|#item-e4308b335'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582590879
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/168,3060,736,126/150,/0/default.jpg
-label: sin venial
+page:
+add:
+xref:
+see:
+index:
+item: "#item-660c780a7"
+unparsed:
+line: 'Head: snorting|Entry: 601 [Snorting]|#item-660c780a7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1584,1069,423,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585366321
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1584,1069,423,142/150,/0/default.jpg
+label: snorting
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0970'
+issue:
+insertion_xref:
+order: '0969'
 layout: index_item
 collection: index4
 ---

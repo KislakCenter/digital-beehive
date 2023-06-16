@@ -2,28 +2,28 @@
 pid: index_3566
 volume: Volume 3
 image_number: '41'
-head: scull
-entry: 
-topic: 
+head: saucidge
+entry:
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ff2576cc6"
-unparsed: 
-line: 'Head: scull|Page: p.44 [Image 1.104]|#item-ff2576cc6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241734356
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/875,3181,400,125/150,/0/default.jpg
-label: scull
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3233/'>pudding</a>"
+index:
+item: "#item-585f2a74f"
+unparsed:
+line: 'Head: saucidge|See: pudding|#item-585f2a74f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239381989
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/171,2258,655,174/150,/0/default.jpg
+label: saucidge
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0815'
+issue:
+insertion_xref:
+order: '0814'
 layout: index_item
 collection: index4
 ---

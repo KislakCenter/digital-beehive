@@ -2,27 +2,28 @@
 pid: index_2034
 volume: Volume 3
 image_number: '26'
-head: infirmeries
-entry: 
-topic: 
+head: indulgence
+entry: "<a href='/digital-beehive/num3/num_0924/'>667 [Indulgence]</a>|<a href='/digital-beehive/num5/num_1629/'>1195
+  [Indulgence]</a>"
+topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2d26819c8"
-unparsed: 
-line: 'Head: infirmeries|Page: p.4 [Image 1.64]|#item-2d26819c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744399838
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/446,1795,484,136/150,/0/default.jpg
-label: infirmeries
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ee8bf5940"
+unparsed:
+line: 'Head: indulgence|Entry: 667 [Indulgence]|Entry: 1195 [Indulgence]|#item-ee8bf5940'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674460103
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/395,463,733,159/150,/0/default.jpg
+label: indulgence
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '116'
 layout: index_item
 collection: index3

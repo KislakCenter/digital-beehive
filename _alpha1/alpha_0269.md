@@ -8,7 +8,7 @@ topic: Duel
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/toc/toc2_258/'>1325 [Duel]</a>"
+xref: "<a href='/digital-beehive/num6/num_1860/'>1325 [Duel]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1189/'>duel</a>"
 item: "#item-68688252a"
@@ -23,7 +23,7 @@ label: Duel
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '267'
+order: '268'
 layout: alpha_item
 collection: alpha1
 ---

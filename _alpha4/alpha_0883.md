@@ -2,28 +2,31 @@
 pid: alpha_0883
 volume: Volume 2
 image_number: '53'
-head: 
-entry: Skin
-topic: Skin
+head:
+entry: Sin
+topic: Sin
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0901'>654 [Hide]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3741/'>skin</a>"
-item: "#item-4c481d25a"
-unparsed: 
-line: 'Entry: Skin|Topic: Skin|Xref: 654 [Hide]|Index: skin|#item-4c481d25a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/323,3699,3014,207/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532029388494
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/323,3699,600,180/250,/0/default.jpg
-label: Skin
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/alpha3/alpha_0562/'>love
+  of Sin</a>|<a href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>|<a href='/digital-beehive/num2/num_0371/'>322
+  [Sin]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3768/'>sin</a>"
+item: "#item-4f5133a05"
+unparsed:
+line: 'Entry: Sin|Topic: Sin|Xref: Crime|Xref: love of Sin|Xref: Wickedness|Xref:
+  322 [Sin]|Index: sin|#item-4f5133a05'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/317,1805,3053,642/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023505862
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/317,1805,600,180/250,/0/default.jpg
+label: Sin
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '235'
+issue:
+also_in_entry:
+order: '231'
 layout: alpha_item
 collection: alpha4
 ---

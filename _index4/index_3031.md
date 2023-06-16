@@ -2,28 +2,28 @@
 pid: index_3031
 volume: Volume 3
 image_number: '35'
-head: plaister
-entry: 821 [PAGE_MISSING]
-topic: 
+head: physical books
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cd34534a9"
-unparsed: 
-line: 'Head: plaister|Entry: 821 [PAGE_MISSING]|#item-cd34534a9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1566,3308,481,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977246464
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1566,3308,481,126/150,/0/default.jpg
-label: plaister
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-321dae27f"
+unparsed:
+line: 'Head: physical books|Page: p.379 [Image 2.201]|#item-321dae27f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975665557
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/855,3415,602,120/150,/0/default.jpg
+label: physical books
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0280'
+issue:
+insertion_xref:
+order: '0279'
 layout: index_item
 collection: index4
 ---

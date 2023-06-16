@@ -2,27 +2,27 @@
 pid: index_0770
 volume: Volume 3
 image_number: '14'
-head: conception
-entry: "<a href='/digital-beehive/num3/num_0878'>644 [Conception, or Conceiving]</a>"
-topic: 
+head: congrat
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-52d3e9b0b"
-unparsed: 
-line: 'Head: conception|Entry: 644 [Conception, or Conceiving]|#item-52d3e9b0b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1593,535,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215559855
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/429,1593,535,124/150,/0/default.jpg
-label: conception
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1694/'>gratulation</a>"
+index:
+item: "#item-1994cb60e"
+unparsed:
+line: 'Head: congrat|See: gratulation|#item-1994cb60e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1168,472,768,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541109425
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1168,472,768,155/150,/0/default.jpg
+label: congrat
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0769'
 layout: index_item
 collection: index1

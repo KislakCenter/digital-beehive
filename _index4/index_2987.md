@@ -2,28 +2,28 @@
 pid: index_2987
 volume: Volume 3
 image_number: '35'
-head: phlegm
-entry: "<a href='/digital-beehive/toc/toc2_396/'>2262 [Phlegm or Flegm]</a>"
-topic: 
+head: pious frauds
+entry: "<a href='/digital-beehive/num8/num_2724/'>1791 [Holy Cheats]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-28ef7c39c"
-unparsed: 
-line: 'Head: phlegm|Entry: 2262 [Phlegm or Flegm]|#item-28ef7c39c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/836,2873,599,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974846955
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/836,2873,599,123/150,/0/default.jpg
-label: phlegm
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8bac3e119"
+unparsed:
+line: 'Head: pious frauds|Entry: 1791 [Holy Cheats]|#item-8bac3e119'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1493,1858,602,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976709037
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1493,1858,602,140/150,/0/default.jpg
+label: pious frauds
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0236'
+issue:
+insertion_xref:
+order: '0235'
 layout: index_item
 collection: index4
 ---

@@ -1,29 +1,29 @@
 ---
 pid: alpha_0888
 volume: Volume 2
-image_number: '54'
-head: 
-entry: Smell
-topic: Smell
+image_number: '53'
+head:
+entry: Skin
+topic: Skin
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_315/'>1603 [Smell]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3760/'>smell</a>"
-item: "#item-454c80e0f"
-unparsed: 
-line: 'Entry: Smell|Topic: Smell|Xref: 1603 [Smell]|Index: smell|#item-454c80e0f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,2976,519/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532448831117
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/789,752,600,180/250,/0/default.jpg
-label: Smell
-location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '240'
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0901/'>654 [Hide]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3735/'>skin</a>"
+item: "#item-4c481d25a"
+unparsed:
+line: 'Entry: Skin|Topic: Skin|Xref: 654 [Hide]|Index: skin|#item-4c481d25a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/323,3699,3014,207/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532029388494
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/323,3699,600,180/250,/0/default.jpg
+label: Skin
+location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '236'
 layout: alpha_item
 collection: alpha4
 ---

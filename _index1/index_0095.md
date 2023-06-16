@@ -2,29 +2,28 @@
 pid: index_0095
 volume: Volume 3
 image_number: '7'
-head: all
-entry: "<a href='/digital-beehive/alpha1/alpha_0019/'>a</a>|<a href='/digital-beehive/num2/num_0512/'>415
-  [All]</a>|<a href='/digital-beehive/num4/num_1267'>950 [All]</a>|<a href='/digital-beehive/toc/toc2_408/'>2344
-  [All]</a>"
-topic: 
+head: accustoming
+entry: "<a href='/digital-beehive/num1/num_0132/'>127 [Accustoming]</a>|<a href='/digital-beehive/num4/num_1247/'>934
+  [Accustoming]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7eadf6da8"
-unparsed: 
-line: 'Head: all|Entry: a|Entry: 415 [All]|Entry: 950 [All]|Entry: 2344 [All]|#item-7eadf6da8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,1300,633,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768681137
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1593,1300,633,120/150,/0/default.jpg
-label: all
+page:
+add:
+xref:
+see:
+index:
+item: "#item-503202feb"
+unparsed:
+line: 'Head: accustoming|Entry: 127 [Accustoming]|Entry: 934 [Accustoming]|#item-503202feb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2697,703,172/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759909901
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/167,2697,703,172/150,/0/default.jpg
+label: accustoming
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0094'
 layout: index_item
 collection: index1

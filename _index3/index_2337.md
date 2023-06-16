@@ -2,27 +2,28 @@
 pid: index_2337
 volume: Volume 3
 image_number: '29'
-head: lotteries
-entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Glückshafen)]</a>"
-topic: 
+head: to look
+entry: "<a href='/digital-beehive/alpha3/alpha_0552/'>a</a>|<a href='/digital-beehive/num6/num_2088/'>1433
+  [To Look]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-27746065d"
-unparsed: 
-line: 'Head: lotteries|Entry: 89 [Lotteries (Glückshafen)]|#item-27746065d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/184,1900,372,100/150,/0/default.jpg
-label: lotteries
+page:
+add:
+xref:
+see:
+index:
+item: "#item-039f38823"
+unparsed:
+line: 'Head: to look|Entry: a|Entry: 1433 [To Look]|#item-039f38823'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,634,527,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177635673
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,634,527,115/150,/0/default.jpg
+label: to look
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '419'
 layout: index_item
 collection: index3

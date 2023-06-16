@@ -2,28 +2,28 @@
 pid: index_2872
 volume: Volume 3
 image_number: '34'
-head: Paracelsus
-entry: "<a href='/digital-beehive/num4/num_1300'>974 [Paracelsus]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-33517a234"
-unparsed: 
-line: 'Head: Paracelsus|Entry: 974 [Paracelsus]|#item-33517a234'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538492826620
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1134,987,622,147/150,/0/default.jpg
-label: Paracelsus
+head: out
+entry: "<a href='/digital-beehive/num3/num_0981/'>688 [Out]</a>"
+topic:
+first_letter: O
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dfd2e1cdb"
+unparsed:
+line: 'Head: out|Entry: 688 [Out]|#item-dfd2e1cdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425337953
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/438,1397,481,141/150,/0/default.jpg
+label: out
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0121'
+issue:
+insertion_xref:
+order: '0120'
 layout: index_item
 collection: index4
 ---

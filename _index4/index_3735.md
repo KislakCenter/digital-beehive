@@ -2,28 +2,28 @@
 pid: index_3735
 volume: Volume 3
 image_number: '43'
-head: sive
-entry: "<a href='/digital-beehive/num3/num_1004'>698 [Sive]</a>"
-topic: 
+head: skin
+entry: "<a href='/digital-beehive/alpha4/alpha_0888/'>a</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f4eb83dfe"
-unparsed: 
-line: 'Head: sive|Entry: 698 [Sive]|#item-f4eb83dfe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/864,1066,403,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583070811
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/864,1066,403,116/150,/0/default.jpg
-label: sive
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e96db6994"
+unparsed:
+line: 'Head: skin|Entry: a|#item-e96db6994'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/866,1558,340,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583405054
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/866,1558,340,142/150,/0/default.jpg
+label: skin
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0984'
+issue:
+insertion_xref:
+order: '0983'
 layout: index_item
 collection: index4
 ---

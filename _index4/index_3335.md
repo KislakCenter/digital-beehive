@@ -2,30 +2,28 @@
 pid: index_3335
 volume: Volume 3
 image_number: '39'
-head: refutation
-entry: "<a href='/digital-beehive/num1/num_0259/'>242 [Refutation]</a>|<a href='/digital-beehive/toc/toc2_250/'>1285
-  [Refutation]</a>|1866 [PAGE_MISSING]|4780 [PAGE_MISSING]"
-topic: 
+head: remiss
+entry: 797 [PAGE_MISSING]
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e5da4624d"
-unparsed: 
-line: 'Head: refutation|Entry: 242 [Refutation]|Entry: 1285 [Refutation]|Entry: 1866
-  [PAGE_MISSING]|Entry: 4780 [PAGE_MISSING]|#item-e5da4624d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,1823,673,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464713239
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,1823,673,148/150,/0/default.jpg
-label: refutation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c6946fdd9"
+unparsed:
+line: 'Head: remiss|Entry: 797 [PAGE_MISSING]|#item-c6946fdd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558468942799
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/779,710,469,151/150,/0/default.jpg
+label: remiss
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0584'
+issue:
+insertion_xref:
+order: '0583'
 layout: index_item
 collection: index4
 ---

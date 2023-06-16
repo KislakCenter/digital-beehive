@@ -2,29 +2,28 @@
 pid: index_4546
 volume: Volume 3
 image_number: '52'
-head: wife
-entry: "<a href='/digital-beehive/num2/num_0570/'>459 [Wife]</a>|<a href='/digital-beehive/toc/toc2_290/'>1483
-  [Wife]</a>"
-topic: 
+head: weather
+entry: "<a href='/digital-beehive/alpha5/alpha_1034/'>a</a>|4734 [PAGE_MISSING]"
+topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ee3f9a6ee"
-unparsed: 
-line: 'Head: wife|Page: p.42 [Image 1.102]|Entry: 459 [Wife]|Entry: 1483 [Wife]|#item-ee3f9a6ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972099327
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1772,1785,691,151/150,/0/default.jpg
-label: wife
+page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-1b1ddd437"
+unparsed:
+line: 'Head: weather|Page: p.26 [Image 1.86]|Entry: a|Entry: 4734 [PAGE_MISSING]|#item-1b1ddd437'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/465,2946,663,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961152449
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/465,2946,663,140/150,/0/default.jpg
+label: weather
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '508'
+issue:
+insertion_xref:
+order: '509'
 layout: index_item
 collection: index5
 ---

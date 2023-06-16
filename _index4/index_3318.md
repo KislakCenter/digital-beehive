@@ -2,30 +2,29 @@
 pid: index_3318
 volume: Volume 3
 image_number: '38'
-head: reconciliation
-entry: 770 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_268/'>1375 [Reconciliation]</a>|<a
-  href='/digital-beehive/toc/toc2_359/'>1957 [Reconciliation]</a>
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8e3ce07f3"
-unparsed: 
-line: 'Head: reconciliation|Entry: 770 [PAGE_MISSING]|ENtry: 1375 [Reconciliation]|Entry:
-  1957 [Reconciliation]|#item-8e3ce07f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1821,3315,735,215/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462106178
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1821,3315,735,215/150,/0/default.jpg
-label: reconciliation
+head: quarrel
+entry: "<a href='/digital-beehive/num2/num_0414/'>352 [Strife]</a>|<a href='/digital-beehive/num9/num_3109/'>2167
+  [Strife]</a>"
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3953/'>strife</a>"
+index:
+item: "#item-8d4b26071"
+unparsed:
+line: 'Head: quarrel|See: strife|Entry: 352 [Strife]|Entry: 2167 [Strife]|#item-8d4b26071'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558454829727
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/371,3466,870,129/150,/0/default.jpg
+label: quarrel
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0567'
+issue:
+insertion_xref:
+order: '0566'
 layout: index_item
 collection: index4
 ---

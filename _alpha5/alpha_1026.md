@@ -1,29 +1,29 @@
 ---
 pid: alpha_1026
 volume: Volume 2
-image_number: '64'
-head: 
-entry: Way
-topic: Way
+image_number: '63'
+head:
+entry: Martial disciplines
+topic: Martial disciplines
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_195/'>1007 [Way]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4496/'>way</a>"
-item: "#item-27774c1da"
-unparsed: 
-line: 'Entry: Way|Topic: Way|Xref: 1007 [Way]|Index: way|#item-27774c1da'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,2934,464/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529523717930
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0531/822,1136,600,180/250,/0/default.jpg
-label: Way
-location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '092'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index3/index_2463/'>martial discipline</a>"
+item: "#item-9098cec91"
+unparsed:
+line: 'Entry: Martial disciplines|Topic: Martial disciplines|Index: martial discipline|#item-9098cec91'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,4008,2967,348/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529522719096
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,4008,600,180/250,/0/default.jpg
+label: Martial disciplines
+location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
+issue: The point of reference for "Justitia militaris" is unclear.
+also_in_entry:
+order: '086'
 layout: alpha_item
 collection: alpha5
 ---

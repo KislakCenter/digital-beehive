@@ -2,27 +2,27 @@
 pid: index_2233
 volume: Volume 3
 image_number: '28'
-head: to leak
-entry: "<a href='/digital-beehive/num2/num_0447/'>371 [Leak or leakage]</a>"
-topic: 
+head: least
+entry: 812 [PAGE_MISSING]
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-630d10951"
-unparsed: 
-line: 'Head: to leak|Entry: 371 [Leak or leakage]|#item-630d10951'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559841975506
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,1419,438,103/150,/0/default.jpg
-label: to leak
+page:
+add:
+xref:
+see:
+index:
+item: "#item-24464ef2c"
+unparsed:
+line: 'Head: least|Entry: 812 [PAGE_MISSING]|#item-24464ef2c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842380058
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/390,2247,371,112/150,/0/default.jpg
+label: least
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '315'
 layout: index_item
 collection: index3

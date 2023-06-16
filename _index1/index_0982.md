@@ -2,28 +2,28 @@
 pid: index_0982
 volume: Volume 3
 image_number: '16'
-head: decline
-entry: 
-topic: 
+head: dinner
+entry: "<a href='/digital-beehive/num5/num_1667/'>1218 [Dinner]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3334/'>refusal</a>"
-index: 
-item: "#item-b1735beba"
-unparsed: 
-line: 'Head: decline|See: refusal|#item-b1735beba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1130,641,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570604110
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/365,1130,641,107/150,/0/default.jpg
-label: decline
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3f5d87543"
+unparsed:
+line: 'Head: dinner|Entry: 1218 [Dinner]|#item-3f5d87543'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1843,2146,379,90/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783937478
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1843,2146,379,90/150,/0/default.jpg
+label: dinner
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0981'
+issue:
+insertion_xref:
+order: '0980'
 layout: index_item
 collection: index1
 ---

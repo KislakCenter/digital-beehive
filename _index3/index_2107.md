@@ -2,27 +2,27 @@
 pid: index_2107
 volume: Volume 3
 image_number: '26'
-head: Jonathan
-entry: "<a href='/digital-beehive/toc/toc2_317/'>1615 [Jonathan]</a>"
-topic: 
+head: injustice
+entry: "<a href='/digital-beehive/alpha3/alpha_0479/'>a</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-791e107c2"
-unparsed: 
-line: 'Head: Jonathan|Entry: 1615 [Jonathan]|#item-791e107c2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,2678,447,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754347042
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1841,2678,447,132/150,/0/default.jpg
-label: Jonathan
+page:
+add:
+xref:
+see:
+index:
+item: "#item-982dc611b"
+unparsed:
+line: 'Head: injustice|Entry: a|#item-982dc611b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,3166,413,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745420529
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/422,3166,413,128/150,/0/default.jpg
+label: injustice
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '189'
 layout: index_item
 collection: index3

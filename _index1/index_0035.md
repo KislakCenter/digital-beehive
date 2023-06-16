@@ -2,27 +2,27 @@
 pid: index_0035
 volume: Volume 3
 image_number: '7'
-head: acquittance
-entry: 857 [PAGE_MISSING]
-topic: 
+head: advice
+entry: "<a href='/digital-beehive/num5/num_1662/'>1215 [Counsel]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_2756/'>obliga[ti]on</a>"
-index: 
-item: "#item-e23e0abc9"
-unparsed: 
-line: 'Head: acquittance|Entry: 857 [PAGE_MISSING]|See: obliga[ti]on|#item-e23e0abc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760121978
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/159,3219,741,175/150,/0/default.jpg
-label: acquittance
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0899/'>counsel</a>"
+index:
+item: "#item-9ab5e7e38"
+unparsed:
+line: 'Head: advice|See: counsel|Entry: 1215 [Counsel]|#item-9ab5e7e38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,945,704,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761231227
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/902,945,704,115/150,/0/default.jpg
+label: advice
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0034'
 layout: index_item
 collection: index1

@@ -2,28 +2,28 @@
 pid: index_1061
 volume: Volume 3
 image_number: '16'
-head: disappointmt
-entry: "<a href='/digital-beehive/num2/num_0585/'>470 [Disappointmt]</a>|1861 [PAGE_MISSING]"
-topic: 
+head: detract
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4cdd63587"
-unparsed: 
-line: 'Head: disappointmt|Entry: 470 [Disappointmt]|Entry: 1861 [PAGE_MISSING]|#item-4cdd63587'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1737,2604,744,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541784115199
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1737,2604,744,105/150,/0/default.jpg
-label: disappointmt
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1016/'>defaming</a>"
+index:
+item: "#item-1bd7117c7"
+unparsed:
+line: 'Head: detract|See: defaming|#item-1bd7117c7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1041,3303,742,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605271970
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1041,3303,742,151/150,/0/default.jpg
+label: detract
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1060'
+issue:
+insertion_xref:
+order: '1059'
 layout: index_item
 collection: index1
 ---

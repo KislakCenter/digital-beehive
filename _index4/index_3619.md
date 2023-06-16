@@ -2,29 +2,28 @@
 pid: index_3619
 volume: Volume 3
 image_number: '42'
-head: Self knowledge
-entry: "<a href='/digital-beehive/alpha4/alpha_0850/'>a</a>|<a href='/digital-beehive/num1/num_0220/'>210
-  [Self-knowledge]</a>"
-topic: 
+head: serjeant
+entry: "<a href='/digital-beehive/alpha4/alpha_0862/'>a</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b3db62192"
-unparsed: 
-line: 'Head: Self knowledge|Entry: a|Entry: 210 [Self-knowledge]|#item-b3db62192'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244627402
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/396,1705,715,119/150,/0/default.jpg
-label: Self knowledge
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bf0abffbb"
+unparsed:
+line: 'Head: serjeant|Entry: a|#item-bf0abffbb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1086,578,530,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573602403
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1086,578,530,144/150,/0/default.jpg
+label: serjeant
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0868'
+issue:
+insertion_xref:
+order: '0867'
 layout: index_item
 collection: index4
 ---

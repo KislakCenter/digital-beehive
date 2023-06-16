@@ -2,28 +2,29 @@
 pid: index_3455
 volume: Volume 3
 image_number: '40'
-head: to rot
-entry: "<a href='/digital-beehive/num4/num_1082'>866 [To Rot]</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f82a9baf0"
-unparsed: 
-line: 'Head: to rot|Entry: 866 [To Rot]|#item-f82a9baf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233730787
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1162,2018,388,119/150,/0/default.jpg
-label: to rot
+head: sack cloath
+entry: "<a href='/digital-beehive/num10/num_3474/'>4487 [Sackcloth]</a>"
+topic:
+first_letter: S
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5347cee38"
+unparsed:
+line: 'Head: sack cloath|Entry: 4487 [Sackcloth]|#item-5347cee38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234723858
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1793,1454,674,105/150,/0/default.jpg
+label: sack cloath
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0704'
+issue: Pastorius appears to have written 1487 under this entry. However, he likely
+  meant to write 4487 [Sackcloth].
+insertion_xref:
+order: '0703'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_1515
 volume: Volume 3
 image_number: '21'
-head: "[:19.]"
-entry: 
-topic: 
+head: fox
+entry: "<a href='/digital-beehive/alpha2/alpha_0348/'>a</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5e320c6fe"
-unparsed: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-line: 'Type: Index|Insertion Xref: [:19.]|#item-5e320c6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560782489609
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/716,3211,152,101/150,/0/default.jpg
-label: "[:19.]"
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-592d93e9b"
+unparsed:
+line: 'Head: fox|Page: p.34 [Image 1.94]|Entry: a|#item-592d93e9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/902,1213,516,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508356627189
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/902,1213,516,116/150,/0/default.jpg
+label: fox
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4683/'>forrest</a>"
+issue:
+insertion_xref:
 order: '334'
 layout: index_item
 collection: index2

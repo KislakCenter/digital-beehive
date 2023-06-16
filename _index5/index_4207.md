@@ -2,29 +2,29 @@
 pid: index_4207
 volume: Volume 3
 image_number: '48'
-head: toys
-entry: "<a href='/digital-beehive/num1/num_0207/'>199 [Toys]</a>|<a href='/digital-beehive/toc/toc2_233/'>1196
-  [Trifling]</a>"
-topic: 
+head: tradition
+entry: "<a href='/digital-beehive/alpha5/alpha_0978/'>a</a>|<a href='/digital-beehive/num2/num_0605/'>484
+  [Tradition]</a>|<a href='/digital-beehive/num6/num_1960/'>1376 [Tradition]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a81b35196"
-unparsed: 
-line: 'Head: toys|Entry: 199 [Toys]|Entry: 1196 [Trifling]|#item-a81b35196'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561484569605
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1107,1116,462,135/150,/0/default.jpg
-label: toys
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fa9ea301a"
+unparsed:
+line: 'Head: tradition|Entry: a|Entry: 484 [Tradition]|Entry: 1376 [Tradition]|#item-fa9ea301a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1112,1391,724,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561485074220
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1112,1391,724,121/150,/0/default.jpg
+label: tradition
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '169'
+issue:
+insertion_xref:
+order: '170'
 layout: index_item
 collection: index5
 ---

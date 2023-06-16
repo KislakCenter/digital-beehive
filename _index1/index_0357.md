@@ -2,27 +2,28 @@
 pid: index_0357
 volume: Volume 3
 image_number: '10'
-head: beseeming
-entry: "<a href='/digital-beehive/num3/num_1032'>709 [Unseemly]</a>"
-topic: 
+head: "[:5.]"
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-08c5b672d"
-unparsed: 
-line: 'Head: beseeming|Entry: 709 [Unseemly]|#item-08c5b672d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/371,2114,469,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531147970292
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/371,2114,469,139/150,/0/default.jpg
-label: beseeming
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0187d4b7f"
+unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
+line: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/2307,2739,160,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559684389930
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/2307,2739,160,141/150,/0/default.jpg
+label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>to boult, lift, fan
+  or winnow</a>"
 order: '0356'
 layout: index_item
 collection: index1

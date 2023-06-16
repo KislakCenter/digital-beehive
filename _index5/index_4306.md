@@ -2,28 +2,28 @@
 pid: index_4306
 volume: Volume 3
 image_number: '49'
-head: vein
-entry: "<a href='/digital-beehive/toc/toc2_323/'>1644 [Vein]</a>"
-topic: 
+head: vehicles
+entry: "<a href='/digital-beehive/num10/num_3404/'>2429 [Vehicles]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b37432271"
-unparsed: 
-line: 'Head: vein|Entry: 1644 [Vein]|#item-b37432271'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658545363
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/958,2197,376,97/150,/0/default.jpg
-label: vein
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9dcc8e56e"
+unparsed:
+line: 'Head: vehicles|Entry: 2429 [Vehicles]|#item-9dcc8e56e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/966,2032,439,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658482921
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/966,2032,439,121/150,/0/default.jpg
+label: vehicles
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '268'
+issue:
+insertion_xref:
+order: '269'
 layout: index_item
 collection: index5
 ---

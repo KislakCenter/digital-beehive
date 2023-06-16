@@ -3,7 +3,7 @@ pid: index_4040
 volume: Volume 3
 image_number: '46'
 head: to swing
-entry: "<a href='/digital-beehive/num8/num_2766/'>1832 [To Swing]</a>"
+entry: "<a href='/digital-beehive/num8/num_2767/'>1832 [To Swing]</a>"
 topic:
 first_letter: S
 page:
@@ -23,7 +23,7 @@ label: to swing
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1265'
+order: '1264'
 layout: index_item
 collection: index4
 ---

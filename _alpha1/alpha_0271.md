@@ -8,7 +8,7 @@ topic: Dwarf
 first_letter: D
 page:
 add:
-xref: "<a href='/digital-beehive/toc/toc2_258/'>1322 [Mamuts Valet]</a>"
+xref: "<a href='/digital-beehive/num6/num_1852/'>1322 [Mamuts Valet]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_1171/'>dwarf</a>"
 item: "#item-3b6571f85"
@@ -23,7 +23,7 @@ label: Dwarf
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '269'
+order: '270'
 layout: alpha_item
 collection: alpha1
 ---

@@ -2,27 +2,27 @@
 pid: index_0593
 volume: Volume 3
 image_number: '12'
-head: chamber pot
-entry: 809 [PAGE_MISSING]
-topic: 
+head: to cast down
+entry: "<a href='/digital-beehive/num4/num_1163/'>897 [To cast down]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ab1261919"
-unparsed: 
-line: 'Head: chamber pot|Entry: 809 [PAGE_MISSING]|#item-ab1261919'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,2545,440,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100838116
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1127,2545,440,127/150,/0/default.jpg
-label: chamber pot
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fb7adc1e8"
+unparsed:
+line: 'Head: to cast down|Entry: 897 [To cast down]|#item-fb7adc1e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532097937762
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/410,1574,606,134/150,/0/default.jpg
+label: to cast down
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0592'
 layout: index_item
 collection: index1

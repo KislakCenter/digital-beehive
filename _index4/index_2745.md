@@ -3,7 +3,7 @@ pid: index_2745
 volume: Volume 3
 image_number: '33'
 head: opacous
-entry: "<a href='/digital-beehive/num7/num_2484/'>1635 [Transparent]</a>"
+entry: "<a href='/digital-beehive/num7/num_2485/'>1635 [Transparent]</a>"
 topic:
 first_letter: O
 page:
@@ -23,7 +23,7 @@ label: opacous
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0002'
+order: '0001'
 layout: index_item
 collection: index4
 ---

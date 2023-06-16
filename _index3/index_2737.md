@@ -2,27 +2,27 @@
 pid: index_2737
 volume: Volume 3
 image_number: '32'
-head: to give notice
-entry: "<a href='/digital-beehive/num2/num_0380/'>331 [to give Notice]</a>"
-topic: 
+head: needless
+entry: "<a href='/digital-beehive/num5/num_1719/'>1245 [Superfluous : Needless]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f700ebb18"
-unparsed: 
-line: 'Head: to give notice|Entry: 331 [to give Notice]|#item-f700ebb18'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1806,2754,612,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449657697
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1806,2754,612,144/150,/0/default.jpg
-label: to give notice
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1b1a88398"
+unparsed:
+line: 'Head: needless|Entry: 1245 [Superfluous : Needless]|#item-1b1a88398'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/372,3304,510,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560439427357
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/372,3304,510,142/150,/0/default.jpg
+label: needless
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '819'
 layout: index_item
 collection: index3

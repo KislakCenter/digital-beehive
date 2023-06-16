@@ -2,28 +2,28 @@
 pid: index_2829
 volume: Volume 3
 image_number: '33'
-head: orphanage
-entry: "<a href='/digital-beehive/alpha4/alpha_0668/'>a</a>"
-topic: 
+head: on the contrary
+entry: "<a href='/digital-beehive/num6/num_1758/'>1268 [On the Contrary]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-86cb5a911"
-unparsed: 
-line: 'Head: orphanage|Entry: a|#item-86cb5a911'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1495,3310,475,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163946554
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1495,3310,475,152/150,/0/default.jpg
-label: orphanage
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f556a74b7"
+unparsed:
+line: 'Head: on the contrary|Entry: 1268 [On the Contrary]|#item-f556a74b7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/835,3478,729,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538160217898
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/835,3478,729,102/150,/0/default.jpg
+label: on the contrary
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0078'
+issue:
+insertion_xref:
+order: '0077'
 layout: index_item
 collection: index4
 ---

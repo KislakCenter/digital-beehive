@@ -2,27 +2,27 @@
 pid: index_0750
 volume: Volume 3
 image_number: '13'
-head: common wives
-entry: 1843 [PAGE_MISSING]
-topic: 
+head: to cleanse
+entry: "<a href='/digital-beehive/num3/num_0906/'>659 [Purge]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-54823f3a0"
-unparsed: 
-line: 'Head: common wives|Entry: 1843 [PAGE_MISSING]|#item-54823f3a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1539,2914,495,71/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537163750921
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1539,2914,495,71/150,/0/default.jpg
-label: common wives
+page:
+add:
+xref:
+see:
+index:
+item: "#item-829be16b8"
+unparsed:
+line: 'Head: to cleanse|Entry: 659 [Purge]|#item-829be16b8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333738126
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/145,3399,473,105/150,/0/default.jpg
+label: to cleanse
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0749'
 layout: index_item
 collection: index1

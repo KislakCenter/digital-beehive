@@ -2,28 +2,28 @@
 pid: index_2927
 volume: Volume 3
 image_number: '34'
-head: pawn
-entry: "<a href='/digital-beehive/alpha4/alpha_0689/'>a</a>"
-topic: 
+head: paleness
+entry: 822 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-39feb8380"
-unparsed: 
-line: 'Head: pawn|Entry: a|#item-39feb8380'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1799,2442,492,181/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495814433
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1799,2442,492,181/150,/0/default.jpg
-label: pawn
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fe2dcaaf8"
+unparsed:
+line: 'Head: paleness|Entry: 822 [PAGE_MISSING]|#item-fe2dcaaf8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/433,3122,576,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538426308897
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/433,3122,576,159/150,/0/default.jpg
+label: paleness
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0176'
+issue:
+insertion_xref:
+order: '0175'
 layout: index_item
 collection: index4
 ---

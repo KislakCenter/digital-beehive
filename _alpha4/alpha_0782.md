@@ -2,30 +2,28 @@
 pid: alpha_0782
 volume: Volume 2
 image_number: '46'
-head: 
-entry: Reformation
-topic: Reformation
+head:
+entry: Rebellion
+topic: Rebellion
 first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0025/'>Amending</a>|<a href='/digital-beehive/alpha1/alpha_0135/'>Change</a>|<a
-  href='/digital-beehive/num2/num_0607/'>486 [Reformation]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3331/'>reformation</a>"
-item: "#item-5a9359b30"
-unparsed: 
-line: 'Entry: Reformation|Topic: Reformation|Xref: Amending|Xref: Change|Xref: 486
-  [Reformation]|Index: reformation|#item-5a9359b30'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,2926,637/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528739084883
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/839,2548,600,180/250,/0/default.jpg
-label: Reformation
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0853/'>630 [Rebellion]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3290/'>rebellion</a>"
+item: "#item-7fe9ac8ca"
+unparsed:
+line: 'Entry: Rebellion |Topic: Rebellion |Xref: 630 [Rebellion]|Index: rebellion|#item-7fe9ac8ca'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/835,623,2956,543/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1523301016449
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/835,623,600,180/250,/0/default.jpg
+label: Rebellion
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '135'
+issue:
+also_in_entry:
+order: '130'
 layout: alpha_item
 collection: alpha4
 ---

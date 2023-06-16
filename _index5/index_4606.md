@@ -2,29 +2,28 @@
 pid: index_4606
 volume: Volume 3
 image_number: '53'
-head: words
-entry: "<a href='/digital-beehive/alpha5/alpha_1052/'>a</a>|<a href='/digital-beehive/toc/toc2_264/'>1353
-  [Word]</a>|<a href='/digital-beehive/toc/toc2_371/'>2058 [Words]</a>"
-topic: 
+head: with
+entry: "<a href='/digital-beehive/num5/num_1550/'>1140 [With]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d1329f6a2"
-unparsed: 
-line: 'Head: words|Entry: a|Entry: 1353 [Word]|Entry: 2058 [Words]|#item-d1329f6a2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560796575329
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,1741,659,102/150,/0/default.jpg
-label: words
+page:
+add:
+xref:
+see:
+index:
+item: "#item-590ff729f"
+unparsed:
+line: 'Head: with|Entry: 1140 [With]|#item-590ff729f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/157,1880,349,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560792449159
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/157,1880,349,134/150,/0/default.jpg
+label: with
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '568'
+issue:
+insertion_xref:
+order: '569'
 layout: index_item
 collection: index5
 ---

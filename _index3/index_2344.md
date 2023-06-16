@@ -2,27 +2,27 @@
 pid: index_2344
 volume: Volume 3
 image_number: '29'
-head: love of money
-entry: 
-topic: 
+head: lungs
+entry: "<a href='/digital-beehive/num3/num_0774/'>595 [Lungs or Lights]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0868/'>Covetousness</a>"
-index: 
-item: "#item-227f351c8"
-unparsed: 
-line: 'Head: love of money|See: Covetousness|#item-227f351c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179670621
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/161,2365,648,138/150,/0/default.jpg
-label: love of money
+page:
+add:
+xref:
+see:
+index:
+item: "#item-45682f749"
+unparsed:
+line: 'Head: lungs|Entry: 595 [Lungs or Lights]|#item-45682f749'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/866,810,314,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185491033
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/866,810,314,135/150,/0/default.jpg
+label: lungs
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '426'
 layout: index_item
 collection: index3

@@ -2,27 +2,27 @@
 pid: index_1936
 volume: Volume 3
 image_number: '25'
-head: Jerusalem
-entry: "<a href='/digital-beehive/num2/num_0470/'>388 [(New) Jerusalem]</a>"
-topic: 
+head: incendiary
+entry: "<a href='/digital-beehive/num2/num_0442/'>369 [Incendiary]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-705225ec1"
-unparsed: 
-line: 'Head: Jerusalem|Entry: 388 [(New) Jerusalem]|#item-705225ec1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559660760923
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/164,1646,525,125/150,/0/default.jpg
-label: Jerusalem
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-a9335a205"
+unparsed:
+line: 'Head: incendiary|Page: p.30 [Image 1.90]|Entry: 369 [Incendiary]|#item-a9335a205'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559669868464
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1577,645,593,147/150,/0/default.jpg
+label: incendiary
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '018'
 layout: index_item
 collection: index3

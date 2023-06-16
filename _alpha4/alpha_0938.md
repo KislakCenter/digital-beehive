@@ -23,7 +23,7 @@ label: Swan
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '285'
+order: '286'
 layout: alpha_item
 collection: alpha4
 ---

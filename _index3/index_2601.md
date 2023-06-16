@@ -2,27 +2,28 @@
 pid: index_2601
 volume: Volume 3
 image_number: '31'
-head: mouldy
-entry: "<a href='/digital-beehive/num3/num_0760'>587 [mouldy]</a>"
-topic: 
+head: moderate
+entry: "<a href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num6/num_1870/'>1331
+  [Moderation]</a>|<a href='/digital-beehive/num11/num_3589/'>4916 [Moderation]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d58ad5b28"
-unparsed: 
-line: 'Head: mouldy|Entry: 587 [mouldy]|#item-d58ad5b28'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1583,318,390,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360359701
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1583,318,390,143/150,/0/default.jpg
-label: mouldy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-67e28300d"
+unparsed:
+line: 'Head: moderate|Entry: 21 [Moderate]|Entry: 1331 [Moderation]|Entry: 4916 [Moderation]|#item-67e28300d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352564550
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/177,2361,699,124/150,/0/default.jpg
+label: moderate
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '683'
 layout: index_item
 collection: index3

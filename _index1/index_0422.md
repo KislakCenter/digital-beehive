@@ -2,28 +2,28 @@
 pid: index_0422
 volume: Volume 3
 image_number: '10'
-head: "[:5.]"
-entry: 
-topic: 
+head: bloodletting
+entry: "<a href='/digital-beehive/alpha1/alpha_0090/'>a</a>|<a href='/digital-beehive/num9/num_3099/'>2158
+  [Blood-letting]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0187d4b7f"
-unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
-line: 'Type: Index|Insertion Xref: [:5.]|#item-0187d4b7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/2307,2739,160,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559684389930
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/2307,2739,160,141/150,/0/default.jpg
-label: "[:5.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a3b318268"
+unparsed:
+line: 'Head: bloodletting|Entry: a|Entry: 2158 [Blood-letting]|#item-a3b318268'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1091,3010,659,189/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531151727886
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1091,3010,659,189/150,/0/default.jpg
+label: bloodletting
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4668/'>to boult, lift, fan
-  or winnow</a>"
+issue:
+insertion_xref:
 order: '0421'
 layout: index_item
 collection: index1

@@ -2,28 +2,28 @@
 pid: index_1873
 volume: Volume 3
 image_number: '24'
-head: horse comb
-entry: "<a href='/digital-beehive/num3/num_0917'>663 [horse Comb]</a>"
-topic: 
+head: 4 humours
+entry: "<a href='/digital-beehive/num9/num_3040/'>2104 [the 4 humours]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e2ddd704a"
-unparsed: 
-line: 'Head: horse comb|Entry: 663 [horse Comb]|#item-e2ddd704a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1119,2899,444,89/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583886099
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1119,2899,444,89/150,/0/default.jpg
-label: horse comb
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f3e739d8a"
+unparsed:
+line: 'Head: 4 humours|Entry: 2104 [the 4 humours]|#item-f3e739d8a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1845,1964,553,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559587787021
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1845,1964,553,107/150,/0/default.jpg
+label: 4 humours
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '691'
+issue:
+insertion_xref:
+order: '692'
 layout: index_item
 collection: index2
 ---

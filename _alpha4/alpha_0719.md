@@ -2,28 +2,28 @@
 pid: alpha_0719
 volume: Volume 2
 image_number: '41'
-head: 
-entry: Posterity
-topic: Posterity
+head:
+entry: Poesie
+topic: Poesie
 first_letter: P
-page: 
-add: 
-xref: Children|<a href='/digital-beehive/alpha1/alpha_0063/'>Bastard</a>
-see: 
-index: "<a href='/digital-beehive/index4/index_3087/'>posterity</a>"
-item: "#item-9c11c8b1f"
-unparsed: 
-line: 'Entry: Posterity|Topic: Posterity|Xref: Children|Xref: Bastard|Index: posterity|#item-9c11c8b1f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,3053,377/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528374091601
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/321,3369,600,180/250,/0/default.jpg
-label: Posterity
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0565/'>454 [Poesie]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3100/'>poesie</a>"
+item: "#item-b82f190ab"
+unparsed:
+line: 'Entry: Poesie|Topic: Poesie|Xref: 454 [Poesie]|Index: poesie|#item-b82f190ab'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/272,1233,3134,597/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528373206655
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/272,1233,600,180/250,/0/default.jpg
+label: Poesie
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '072'
+issue:
+also_in_entry:
+order: '067'
 layout: alpha_item
 collection: alpha4
 ---

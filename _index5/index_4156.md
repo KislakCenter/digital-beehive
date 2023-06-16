@@ -2,29 +2,28 @@
 pid: index_4156
 volume: Volume 3
 image_number: '47'
-head: timely
-entry: "<a href='/digital-beehive/num3/num_0737'>578 [Seasonable]</a>|<a href='/digital-beehive/toc/toc2_386/'>2203
-  [Seasonable Opportunity]</a>"
-topic: 
+head: testicles
+entry: 816 [PAGE_MISSING]
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-15b90ce61"
-unparsed: 
-line: 'Head: timely|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-15b90ce61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560280943127
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1589,2583,644,176/150,/0/default.jpg
-label: timely
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cd3983798"
+unparsed:
+line: 'Head: testicles|Entry: 816 [PAGE_MISSING]|#item-cd3983798'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/187,3275,360,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532719309844
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/187,3275,360,103/150,/0/default.jpg
+label: testicles
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '118'
+issue:
+insertion_xref:
+order: '119'
 layout: index_item
 collection: index5
 ---

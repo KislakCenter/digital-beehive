@@ -2,27 +2,27 @@
 pid: index_1343
 volume: Volume 3
 image_number: '19'
-head: exemplar
-entry: "<a href='/digital-beehive/num2/num_0562/'>452 [Copy]</a>"
-topic: 
+head: Esau
+entry: "<a href='/digital-beehive/num8/num_2784/'>1901 [Esau]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-33a215afc"
-unparsed: 
-line: 'Head: exemplar|Entry: 452 [Copy]|#item-33a215afc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1557,558,563,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561042157433
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1557,558,563,134/150,/0/default.jpg
-label: exemplar
+page:
+add:
+xref:
+see:
+index:
+item: "#item-65e263ae6"
+unparsed:
+line: 'Head: Esau|Entry: 1901 [Esau]|#item-65e263ae6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/141,2546,308,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277124736
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/141,2546,308,104/150,/0/default.jpg
+label: Esau
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '162'
 layout: index_item
 collection: index2

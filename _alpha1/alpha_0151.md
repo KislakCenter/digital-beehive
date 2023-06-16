@@ -2,27 +2,27 @@
 pid: alpha_0151
 volume: Volume 1
 image_number: '442'
-head: 
-entry: Cloke
-topic: Cloke
+head:
+entry: Circumcision
+topic: Circumcision
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index1/index_0699/'>cloke</a>"
-item: "#item-b30905b40"
-unparsed: 
-line: 'Entry: Cloke|Topic: Cloke|Index: cloke|#item-b30905b40'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,3031,2985,275/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563822174237
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/849,3031,600,180/250,/0/default.jpg
-label: Cloke
+page:
+add:
+xref: 1599 [Circumsion]
+see:
+index: "<a href='/digital-beehive/index1/index_0713/'>circumcision</a>"
+item: "#item-e3e7fb1e1"
+unparsed:
+line: 'Entry: Circumcision|Topic: Circumcision|Xref: 1599 [Circumsion]|Index: circumcision|#item-e3e7fb1e1'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/800,1970,3026,425/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499699866605
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/800,1970,600,180/250,/0/default.jpg
+label: Circumcision
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '150'
 layout: alpha_item
 collection: alpha1

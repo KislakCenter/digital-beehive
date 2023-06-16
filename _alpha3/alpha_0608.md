@@ -2,30 +2,30 @@
 pid: alpha_0608
 volume: Volume 2
 image_number: '33'
-head: 
-entry: Mortality
-topic: Mortality
+head:
+entry: Moral Philosophy
+topic: Moral Philosophy
 first_letter: M
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0609/'>Mortality, continued</a>|<a href='/digital-beehive/toc/toc2_208/'>1075
-  [Mortality]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2585/'>mortality</a>"
-item: "#item-81ba29bce"
-unparsed: 
-line: 'Entry: Mortality|Topic: Mortality|Xref: Mortality, continued|Xref: 1075 [Mortality]|Index:
-  mortality|#item-81ba29bce'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,3006,416/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564776960995
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/386,4640,600,180/250,/0/default.jpg
-label: Mortality
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0015/'>15 [Moral Philosophy]</a>|<a href='/digital-beehive/num4/num_1120/'>880
+  [Moral Philos]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2577/'>moral philosophy</a>"
+item: "#item-ac4e76034"
+unparsed:
+line: 'Entry: Moral Philosophy|Topic: Moral Philosophy|Xref: 15 [Moral Philosophy]|Xref:
+  880 [Moral Philos]|Index: moral philosophy|#item-ac4e76034'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/337,4055,3045,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564776745879
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0500/337,4055,600,180/250,/0/default.jpg
+label: Moral Philosophy
 location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-issue: The entry continues onto the next page.
-also_in_entry: 
-order: '164'
+issue:
+also_in_entry:
+order: '161'
 layout: alpha_item
 collection: alpha3
 ---

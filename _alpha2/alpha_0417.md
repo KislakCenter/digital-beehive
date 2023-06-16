@@ -2,28 +2,28 @@
 pid: alpha_0417
 volume: Volume 2
 image_number: '18'
-head: 
-entry: Herring
-topic: Herring
+head:
+entry: Herb
+topic: Herb
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_397/'>2266 [Herring]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1821/'>herring</a>"
-item: "#item-1a2984eec"
-unparsed: 
-line: 'Entry: Herring|Topic: Herring|Xref: 2266 [Herring]|Index: herring|#item-1a2984eec'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/779,2867,2939,214/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508963401594
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0485/779,2867,600,180/250,/0/default.jpg
-label: Herring
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0929/'>672 [Herbs]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1799/'>herb</a>"
+item: "#item-df285cbfd"
+unparsed:
+line: 'Entry: Herb|Topic: Herb|Xref: 672 [Herbs]|Index: herb|#item-df285cbfd'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/775,1673,2964,442/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508962944177
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0485/775,1673,600,180/250,/0/default.jpg
+label: Herb
 location: "<a href='/digital-beehive/toc/toc2_008/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '148'
+issue:
+also_in_entry:
+order: '145'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,27 +2,27 @@
 pid: index_0036
 volume: Volume 3
 image_number: '7'
-head: acrosticks
-entry: 4572 [PAGE_MISSING]
-topic: 
+head: aborsmt
+entry:
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c79b67f87"
-unparsed: 
-line: 'Head: acrosticks|Entry: 4572 [PAGE_MISSING]|#item-c79b67f87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/174,3301,466,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760220536
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/174,3301,466,107/150,/0/default.jpg
-label: acrosticks
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4456/'>untimely</a>"
+index:
+item: "#item-59e871534"
+unparsed:
+line: 'Head: aborsmt|See: untimely|#item-59e871534'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/180,964,620,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758825112
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/180,964,620,161/150,/0/default.jpg
+label: aborsmt
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0035'
 layout: index_item
 collection: index1

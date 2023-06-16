@@ -2,27 +2,27 @@
 pid: index_1312
 volume: Volume 3
 image_number: '19'
-head: Eva
-entry: 
-topic: 
+head: everywhere
+entry: "<a href='/digital-beehive/num4/num_1092/'>869 [Everywhere]</a>|4598 [PAGE_MISSING]"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0039/'>Adam</a>"
-index: 
-item: "#item-d11c69e4c"
-unparsed: 
-line: 'Head: Eva|See: Adam|#item-d11c69e4c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,802,545,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565296916442
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/878,802,545,128/150,/0/default.jpg
-label: Eva
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5d925b98b"
+unparsed:
+line: 'Head: everywhere|Entry: 869 [Everywhere]|Entry: 4598 [PAGE_MISSING]|#item-5d925b98b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/842,1376,701,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351615933
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/842,1376,701,160/150,/0/default.jpg
+label: everywhere
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '131'
 layout: index_item
 collection: index2

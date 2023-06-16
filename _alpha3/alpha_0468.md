@@ -2,28 +2,28 @@
 pid: alpha_0468
 volume: Volume 2
 image_number: '22'
-head: 
-entry: Incontinence
-topic: Incontinence
+head:
+entry: Imputation
+topic: Imputation
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0175/'>Continency</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2004/'>incontinence</a>"
-item: "#item-b52b4d5e1"
-unparsed: 
-line: 'Entry: Incontinence|Topic: Incontinence|Xref: Continency|Index: incontinence|#item-b52b4d5e1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,2937,241/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759778604
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/753,4556,600,180/250,/0/default.jpg
-label: Incontinence
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0080/'>79 [Imputation]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2018/'>imputation</a>"
+item: "#item-5c83dacce"
+unparsed:
+line: 'Entry: Imputation|Topic: Imputation|Xref: 79 [Imputation]|Index: imputation|#item-5c83dacce'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/786,3415,2929,452/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759595539
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/786,3415,600,180/250,/0/default.jpg
+label: Imputation
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '024'
+issue:
+also_in_entry:
+order: '021'
 layout: alpha_item
 collection: alpha3
 ---

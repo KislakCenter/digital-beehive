@@ -2,27 +2,27 @@
 pid: index_0064
 volume: Volume 3
 image_number: '7'
-head: affront
-entry: 
-topic: 
+head: Quakers affirmation
+entry: "<a href='/digital-beehive/num9/num_3118/'>2175 [Quakers Affirmation]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_1027/'>despight</a>"
-index: 
-item: "#item-6c4b312b5"
-unparsed: 
-line: 'Head: affront|See: despight|#item-6c4b312b5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/890,1915,649,245/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766626017
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/890,1915,649,245/150,/0/default.jpg
-label: affront
+page:
+add:
+xref:
+see:
+index:
+item: "#item-031b620ea"
+unparsed:
+line: 'Head: Quakers affirmation|Entry: 2175 [Quakers Affirmation]|#item-031b620ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,1779,531,86/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766417079
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/892,1779,531,86/150,/0/default.jpg
+label: Quakers affirmation
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: The meaning of "it. contumely" cannot be determined.
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0063'
 layout: index_item
 collection: index1

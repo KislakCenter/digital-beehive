@@ -2,30 +2,28 @@
 pid: alpha_0519
 volume: Volume 2
 image_number: '26'
-head: 
-entry: Laughter
-topic: Laughter
+head:
+entry: Last words
+topic: Last words
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0227/'>derision</a>|<a href='/digital-beehive/toc/toc2_244/'>1254
-  [Laughter]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2220/'>laughter</a>"
-item: "#item-565ae020d"
-unparsed: 
-line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Index:
-  laughter|#item-565ae020d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,2976,469/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766881635
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0493/768,4352,600,180/250,/0/default.jpg
-label: Laughter
+page:
+add:
+xref: 2298 [Last words]
+see:
+index: "<a href='/digital-beehive/index3/index_2173/'>last words</a>"
+item: "#item-680c357e1"
+unparsed:
+line: 'Entry: Last words|Topic: Last words|Xref: 2298 [Last words]|Index: last words|#item-680c357e1'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/760,3483,2965,598/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766763557
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/760,3483,600,180/250,/0/default.jpg
+label: Last words
 location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '075'
+issue:
+also_in_entry:
+order: '072'
 layout: alpha_item
 collection: alpha3
 ---

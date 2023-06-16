@@ -2,28 +2,29 @@
 pid: index_1050
 volume: Volume 3
 image_number: '16'
-head: digression
-entry: "<a href='/digital-beehive/num2/num_0402/'>347 [Digression]</a>"
-topic: 
+head: delay
+entry: "<a href='/digital-beehive/alpha1/alpha_0223/'>a</a>|<a href='/digital-beehive/num5/num_1521/'>1123
+  [Delay]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-28cffae74"
-unparsed: 
-line: 'Head: digression|Entry: 347 [Digression]|#item-28cffae74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1780,1663,526,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783796508
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1780,1663,526,130/150,/0/default.jpg
-label: digression
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e1b0e3754"
+unparsed:
+line: 'Head: delay|Entry: a|Entry: 1123 [Delay]|#item-e1b0e3754'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/328,2816,487,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565623824854
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/328,2816,487,125/150,/0/default.jpg
+label: delay
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1049'
+issue:
+insertion_xref:
+order: '1048'
 layout: index_item
 collection: index1
 ---

@@ -2,27 +2,27 @@
 pid: index_0153
 volume: Volume 3
 image_number: '8'
-head: answer to books
-entry: "<a href='/digital-beehive/toc/toc2_293/'>1500 [Answer to Advers. Books]</a>"
-topic: 
+head: among
+entry: 795 [PAGE_MISSING]
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9f41631b3"
-unparsed: 
-line: 'Head: answer to books|Entry: 1500 [Answer to Advers. Books]|#item-9f41631b3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/393,2458,569,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759089760
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/393,2458,569,96/150,/0/default.jpg
-label: answer to books
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1a81cb6ea"
+unparsed:
+line: 'Head: among|Entry: 795 [PAGE_MISSING]|#item-1a81cb6ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/378,677,506,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757690888
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/378,677,506,150/150,/0/default.jpg
+label: among
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0152'
 layout: index_item
 collection: index1

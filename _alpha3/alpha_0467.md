@@ -2,29 +2,29 @@
 pid: alpha_0467
 volume: Volume 2
 image_number: '22'
-head: 
-entry: Inconsiderancy
-topic: Inconsiderancy
+head:
+entry: Impossibility
+topic: Impossibility
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0171/'>Consid</a>|1884 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index3/index_2002/'>inconsiderancy</a>"
-item: "#item-62a54fe6c"
-unparsed: 
-line: 'Entry: Inconsiderancy|Topic: Inconsiderancy|Xref: Consid|Xref: 1884 [PAGE_MISSING]|Index:
-  inconsiderancy|#item-62a54fe6c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,4155,2909,517/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759711974
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0489/816,4155,600,180/250,/0/default.jpg
-label: Inconsiderancy
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0723/'>Possibility</a>|807 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index3/index_1977/'>impossible</a>"
+item: "#item-dfaf3e8c6"
+unparsed:
+line: 'Entry: Impossibility|Topic: Impossibility|Xref: Possibility|Xref: 807 [PAGE_MISSING]|Index:
+  impossible|#item-dfaf3e8c6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/762,2819,2981,721/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759554553
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0489/762,2819,600,180/250,/0/default.jpg
+label: Impossibility
 location: "<a href='/digital-beehive/toc/toc2_012/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '023'
+issue:
+also_in_entry:
+order: '020'
 layout: alpha_item
 collection: alpha3
 ---

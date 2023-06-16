@@ -2,28 +2,31 @@
 pid: index_4387
 volume: Volume 3
 image_number: '50'
-head: union of friends
-entry: "<a href='/digital-beehive/toc/toc2_253/'>1300 [Union of Friends]</a>"
-topic: 
+head: unjust goods
+entry: "<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a href='/digital-beehive/num2/num_0375/'>326
+  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/num7/num_2651/'>1727 [Ill
+  gotten goods]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9f9830f71"
-unparsed: 
-line: 'Head: union of friends|Entry: 1300 [Union of Friends]|#item-9f9830f71'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560879404790
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1126,1152,555,124/150,/0/default.jpg
-label: union of friends
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a56087bf2"
+unparsed:
+line: 'Head: unjust goods|Entry: 6 [Unjust Substance]|Entry: 326 [Ill gotten goods
+  & gains]|Entry: 1727 [Ill gotten goods]|#item-a56087bf2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1068,2397,676,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882152407
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1068,2397,676,140/150,/0/default.jpg
+label: unjust goods
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '349'
+issue:
+insertion_xref:
+order: '350'
 layout: index_item
 collection: index5
 ---

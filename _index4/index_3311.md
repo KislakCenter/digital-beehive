@@ -2,28 +2,28 @@
 pid: index_3311
 volume: Volume 3
 image_number: '38'
-head: to rebuke
-entry: "<a href='/digital-beehive/toc/toc2_266/'>1365 [Rebuke, Reprove]</a>"
-topic: 
+head: recompense
+entry: 733 [PAGE_MISSING]
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cb7ea0c38"
-unparsed: 
-line: 'Head: to rebuke|Entry: 1365 [Rebuke, Reprove]|#item-cb7ea0c38'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1839,2440,524,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558461838884
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1839,2440,524,164/150,/0/default.jpg
-label: to rebuke
+page:
+add:
+xref:
+see:
+index:
+item: "#item-62dce0cae"
+unparsed:
+line: 'Head: recompense|Entry: 733 [PAGE_MISSING]|#item-62dce0cae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558462057436
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1838,3177,591,197/150,/0/default.jpg
+label: recompense
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0560'
+issue:
+insertion_xref:
+order: '0559'
 layout: index_item
 collection: index4
 ---

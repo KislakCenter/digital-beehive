@@ -2,31 +2,28 @@
 pid: index_3419
 volume: Volume 3
 image_number: '40'
-head: riches
-entry: "<a href='/digital-beehive/alpha4/alpha_0806/'>a</a>|854 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_282/'>1444 [Riches]</a>|<a href='/digital-beehive/toc/toc2_414/'>2392
-  [Riches]</a>"
-topic: 
+head: round
+entry: "<a href='/digital-beehive/num4/num_1086/'>867 [a Circle]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3935c5596"
-unparsed: 
-line: 'Head: riches|Entry: a|Entry: 854 [PAGE_MISSING]|Entry: 1444 [Riches]|Entry:
-  2392 [Riches]|#item-3935c5596'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231799274
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/456,1593,815,144/150,/0/default.jpg
-label: riches
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9625ebc12"
+unparsed:
+line: 'Head: round|Entry: 867 [a Circle]|#item-9625ebc12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2335,369,84/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233812014
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1152,2335,369,84/150,/0/default.jpg
+label: round
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0668'
+issue:
+insertion_xref:
+order: '0667'
 layout: index_item
 collection: index4
 ---

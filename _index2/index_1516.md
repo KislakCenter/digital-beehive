@@ -2,27 +2,27 @@
 pid: index_1516
 volume: Volume 3
 image_number: '21'
-head: forsake
-entry: 1856 [PAGE_MISSING]
-topic: 
+head: furniture
+entry: "<a href='/digital-beehive/num3/num_1059/'>718 [Household stuff]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b0623eda3"
-unparsed: 
-line: 'Head: forsake|Entry: 1856 [PAGE_MISSING]|#item-b0623eda3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/169,3239,439,80/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762532262
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/169,3239,439,80/150,/0/default.jpg
-label: forsake
+page:
+add:
+xref:
+see:
+index:
+item: "#item-acde67f78"
+unparsed:
+line: 'Head: furniture|Entry: 718 [Household stuff]|#item-acde67f78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560786109894
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1544,1260,576,138/150,/0/default.jpg
+label: furniture
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '335'
 layout: index_item
 collection: index2

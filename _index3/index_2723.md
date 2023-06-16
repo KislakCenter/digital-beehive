@@ -2,27 +2,27 @@
 pid: index_2723
 volume: Volume 3
 image_number: '32'
-head: nonconformity
-entry: "<a href='/digital-beehive/num2/num_0616/'>492 [Dissenters]</a>"
-topic: 
+head: to give notice
+entry: "<a href='/digital-beehive/num2/num_0381/'>331 [to give Notice]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b006175a5"
-unparsed: 
-line: 'Head: nonconformity|Entry: 492 [Dissenters]|#item-b006175a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448766758
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1393,667,123/150,/0/default.jpg
-label: nonconformity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f700ebb18"
+unparsed:
+line: 'Head: to give notice|Entry: 331 [to give Notice]|#item-f700ebb18'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449657697
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1806,2754,612,144/150,/0/default.jpg
+label: to give notice
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '805'
 layout: index_item
 collection: index3

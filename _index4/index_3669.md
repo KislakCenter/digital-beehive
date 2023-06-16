@@ -2,28 +2,28 @@
 pid: index_3669
 volume: Volume 3
 image_number: '42'
-head: shepherd
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
-topic: 
+head: Self punishmt
+entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0a6107f91"
-unparsed: 
-line: 'Head: shepherd|Entry: 1929 [Shepherds]|#item-0a6107f91'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575563242
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1835,450,410,99/150,/0/default.jpg
-label: shepherd
+page:
+add:
+xref:
+see:
+index:
+item: "#item-868a43b4b"
+unparsed:
+line: 'Head: Self punishmt|Entry: 59 [Self-hurt or dam[m]age]|#item-868a43b4b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,2343,764,119/150,/0/default.jpg
+label: Self punishmt
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0918'
+issue:
+insertion_xref:
+order: '0917'
 layout: index_item
 collection: index4
 ---

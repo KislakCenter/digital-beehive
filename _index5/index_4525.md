@@ -2,28 +2,29 @@
 pid: index_4525
 volume: Volume 3
 image_number: '52'
-head: wheat
-entry: "<a href='/digital-beehive/num3/num_0918'>664 [Barley]</a>"
-topic: 
+head: wife
+entry: "<a href='/digital-beehive/num2/num_0571/'>459 [Wife]</a>|<a href='/digital-beehive/num6/num_2187/'>1483
+  [Wife]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d3134a94b"
-unparsed: 
-line: 'Head: wheat|Entry: 664 [Barley]|#item-d3134a94b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1079,2443,453,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969773146
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1079,2443,453,126/150,/0/default.jpg
-label: wheat
+page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-ee3f9a6ee"
+unparsed:
+line: 'Head: wife|Page: p.42 [Image 1.102]|Entry: 459 [Wife]|Entry: 1483 [Wife]|#item-ee3f9a6ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1772,1785,691,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560972099327
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1772,1785,691,151/150,/0/default.jpg
+label: wife
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '487'
+issue:
+insertion_xref:
+order: '488'
 layout: index_item
 collection: index5
 ---

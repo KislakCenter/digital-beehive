@@ -2,28 +2,28 @@
 pid: index_3670
 volume: Volume 3
 image_number: '42'
-head: sheriff
-entry: 
-topic: 
+head: Self righteousness
+entry: "<a href='/digital-beehive/num1/num_0076/'>75 [Self-righteousness]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3641/'>Serjeant</a>"
-index: 
-item: "#item-1e4198480"
-unparsed: 
-line: 'Head: sheriff|See: Serjeant|#item-1e4198480'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1830,513,673,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575587863
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1830,513,673,122/150,/0/default.jpg
-label: sheriff
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a3be2a5e9"
+unparsed:
+line: 'Head: Self righteousness|Entry: 75 [Self-righteousness]|#item-a3be2a5e9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/357,2431,716,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244935630
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/357,2431,716,148/150,/0/default.jpg
+label: Self righteousness
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0919'
+issue:
+insertion_xref:
+order: '0918'
 layout: index_item
 collection: index4
 ---

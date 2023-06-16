@@ -2,27 +2,27 @@
 pid: index_1581
 volume: Volume 3
 image_number: '21'
-head: garland
-entry: 
-topic: 
+head: to geld
+entry: "<a href='/digital-beehive/num2/num_0347/'>304 [To Geld]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0915/'>Crown</a>"
-index: 
-item: "#item-774144189"
-unparsed: 
-line: 'Head: garland|See: Crown|#item-774144189'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787186826
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1539,2620,564,116/150,/0/default.jpg
-label: garland
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5397c0b6b"
+unparsed:
+line: 'Head: to geld|Entry: 304 [To Geld]|#item-5397c0b6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1529,3265,426,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787776447
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1529,3265,426,150/150,/0/default.jpg
+label: to geld
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '400'
 layout: index_item
 collection: index2

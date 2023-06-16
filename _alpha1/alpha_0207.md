@@ -2,28 +2,30 @@
 pid: alpha_0207
 volume: Volume 1
 image_number: '447'
-head: 
-entry: Darkness
-topic: Darkness
+head:
+entry: Dammage
+topic: Dammage
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_237/'>1220 [Darkness]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0946/'>darkness</a>"
-item: "#item-4008cee4b"
-unparsed: 
-line: 'Entry: Darkness|Topic: Darkness|Xref: 1220 [Darkness]|Index: darkness|#item-4008cee4b'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/388,3296,3038,565/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507321816579
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/388,3296,600,180/250,/0/default.jpg
-label: Darkness
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0554/'>Losse</a>|[WORD_ILLEGIBLE]|<a
+  href='/digital-beehive/num6/num_2058/'>1422 [Dam[m]age]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0890/'>dam[m]age</a>"
+item: "#item-f95d47f88"
+unparsed:
+line: 'Entry: Dammage|Topic: Dammage|Xref: Losse|Xref: [WORD_ILLEGIBLE]|Xref: 1422
+  [Dam[m]age]|Index: dam[m]age|#item-f95d47f88'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/363,1926,3077,498/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1506964941523
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/363,1926,600,180/250,/0/default.jpg
+label: Dammage
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '205'
+issue:
+also_in_entry:
+order: '206'
 layout: alpha_item
 collection: alpha1
 ---

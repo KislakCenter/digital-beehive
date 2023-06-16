@@ -2,27 +2,28 @@
 pid: index_2175
 volume: Volume 3
 image_number: '27'
-head: I know not
-entry: 4597 [PAGE_MISSING]
-topic: 
-first_letter: K
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7f6029546"
-unparsed: 
-line: 'Head: I know not|Entry: 4597 [PAGE_MISSING]|#item-7f6029546'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/812,2534,556,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762727663
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/812,2534,556,133/150,/0/default.jpg
-label: I know not
+head: juggling
+entry: "<a href='/digital-beehive/num2/num_0523/'>422 [Juggling]</a>|<a href='/digital-beehive/num7/num_2303/'>1547
+  [Juggling]</a>"
+topic:
+first_letter: I/J
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fff2e8bd4"
+unparsed:
+line: 'Head: juggling|Entry: 422 [Juggling]|Entry: 1547 [Juggling]|#item-fff2e8bd4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/140,2043,582,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758370568
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/140,2043,582,150/150,/0/default.jpg
+label: juggling
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '257'
 layout: index_item
 collection: index3

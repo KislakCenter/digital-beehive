@@ -2,29 +2,31 @@
 pid: alpha_0897
 volume: Volume 2
 image_number: '54'
-head: 
-entry: Souldier
-topic: Souldier
+head:
+entry: Solitude
+topic: Solitude
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1019/'>War</a>|<a href='/digital-beehive/toc/toc2_207/'>1066
-  [Souldier]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3810/'>souldier</a>"
-item: "#item-8eaf428b3"
-unparsed: 
-line: 'Entry: Souldier|Topic: Souldier|Xref: War|Xref: 1066 [Souldier]|Index: souldier|#item-8eaf428b3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,2927,714/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532449506077
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/794,3164,600,180/250,/0/default.jpg
-label: Souldier
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0741/'>Privacy</a>|<a href='/digital-beehive/alpha1/alpha_0164/'>Company</a>|<a
+  href='/digital-beehive/alpha1/alpha_0153/'>Cloister</a>|<a href='/digital-beehive/alpha4/alpha_0739/'>Prison</a>|<a
+  href='/digital-beehive/num3/num_1067/'>722 [Solitude]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3776/'>solitude</a>"
+item: "#item-4fa38d446"
+unparsed:
+line: 'Entry: Solitude|Topic: Solitude|Xref: Privacy|Xref: Company|Xref: Cloister|Xref:
+  Prison|Xref: 722 [Solitude]|Index: solitude|#item-4fa38d446'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/759,1574,2978,569/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532449060600
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/759,1574,600,180/250,/0/default.jpg
+label: Solitude
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '249'
+issue:
+also_in_entry:
+order: '245'
 layout: alpha_item
 collection: alpha4
 ---

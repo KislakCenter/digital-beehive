@@ -2,28 +2,28 @@
 pid: index_4308
 volume: Volume 3
 image_number: '49'
-head: venial sin
-entry: "<a href='/digital-beehive/num2/num_0387/'>335 [mortal & venial sins]</a>"
-topic: 
+head: viper
+entry: "<a href='/digital-beehive/num7/num_2290/'>1539 [Serpents]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1e50d73b4"
-unparsed: 
-line: 'Head: venial sin|Entry: 335 [mortal & venial sins]|#item-1e50d73b4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658664692
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/947,2443,517,111/150,/0/default.jpg
-label: venial sin
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-a0542a840"
+unparsed:
+line: 'Head: viper|Page: p.37 [Image 1.97]|Entry: 1539 [Serpents]|#item-a0542a840'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1649,2075,513,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660929895
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1649,2075,513,143/150,/0/default.jpg
+label: viper
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '270'
+issue:
+insertion_xref:
+order: '271'
 layout: index_item
 collection: index5
 ---

@@ -2,29 +2,29 @@
 pid: index_4243
 volume: Volume 3
 image_number: '48'
-head: trivial
-entry: "<a href='/digital-beehive/num1/num_0238/'>224 [Considerable]</a>|<a href='/digital-beehive/num3/num_0642'>510
-  [So trivial a thing]</a>"
-topic: 
+head: treachery
+entry: "<a href='/digital-beehive/alpha5/alpha_0982/'>a</a>|<a href='/digital-beehive/num4/num_1244/'>933
+  [Treachery]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-589ae4b5d"
-unparsed: 
-line: 'Head: trivial|Entry: 224 [Considerable]|Entry: 510 [So trivial a thing]|#item-589ae4b5d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562089378233
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1790,2036,602,143/150,/0/default.jpg
-label: trivial
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f988cf886"
+unparsed:
+line: 'Head: treachery|Entry: a|Entry: 933 [Treachery]|#item-f988cf886'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1093,3055,592,198/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561489659158
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1093,3055,592,198/150,/0/default.jpg
+label: treachery
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '205'
+issue:
+insertion_xref:
+order: '206'
 layout: index_item
 collection: index5
 ---

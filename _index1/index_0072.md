@@ -2,27 +2,28 @@
 pid: index_0072
 volume: Volume 3
 image_number: '7'
-head: at Age
-entry: 
-topic: 
+head: acceptable
+entry: "<a href='/digital-beehive/num4/num_1144/'>889 [Agreable]</a>|<a href='/digital-beehive/num6/num_2027/'>1408
+  [Acceptable]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1722/'>guardian</a>"
-index: 
-item: "#item-4665dc60a"
-unparsed: 
-line: 'Head: at Age|See: guardian|#item-4665dc60a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564767147066
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,2725,595,117/150,/0/default.jpg
-label: at Age
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f13e2445f"
+unparsed:
+line: 'Head: acceptable|Entry: 889 [Agreable]|Entry: 1408 [Acceptable]|#item-f13e2445f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/185,1963,706,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759585650
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/185,1963,706,131/150,/0/default.jpg
+label: acceptable
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0071'
 layout: index_item
 collection: index1

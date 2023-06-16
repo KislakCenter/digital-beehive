@@ -2,27 +2,27 @@
 pid: index_2143
 volume: Volume 3
 image_number: '27'
-head: justice and mercy
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1216 [Covetous]</a>"
-topic: 
-first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f06729d1c"
-unparsed: 
-line: 'Head: justice and mercy|Entry: 1216 [Covetous]|#item-f06729d1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/151,2672,570,218/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759150045
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/151,2672,570,218/150,/0/default.jpg
-label: justice and mercy
+head: kindred
+entry: "<a href='/digital-beehive/num1/num_0176/'>168 [Kindred]</a>"
+topic:
+first_letter: K
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7f608343d"
+unparsed:
+line: 'Head: kindred|Entry: 168 [Kindred]|#item-7f608343d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559761665345
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/841,941,452,137/150,/0/default.jpg
+label: kindred
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '225'
 layout: index_item
 collection: index3

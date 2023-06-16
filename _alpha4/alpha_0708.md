@@ -2,28 +2,30 @@
 pid: alpha_0708
 volume: Volume 2
 image_number: '40'
-head: 
-entry: Pitch
-topic: Pitch
+head:
+entry: Philosophy
+topic: Philosophy
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index4/index_3022/'>pitch</a>"
-item: "#item-3011a16a6"
-unparsed: 
-line: 'Entry: Pitch|Topic: Pitch|Index: pitch|#item-3011a16a6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/842,4062,2930,188/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528334496605
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/842,4062,600,180/250,/0/default.jpg
-label: Pitch
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0250/'>Divinity</a>|<a href='/digital-beehive/num2/num_0564/'>453
+  [Philosophy]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3002/'>philosophy</a>"
+item: "#item-f7e68601d"
+unparsed:
+line: 'Entry: Philosophy|Topic: Philosophy|Xref: Divinity|Xref: 453 [Philosophy]|Index:
+  philosophy|#item-f7e68601d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/822,1983,2962,638/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528331146756
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/822,1983,600,180/250,/0/default.jpg
+label: Philosophy
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '061'
+issue:
+also_in_entry:
+order: '056'
 layout: alpha_item
 collection: alpha4
 ---

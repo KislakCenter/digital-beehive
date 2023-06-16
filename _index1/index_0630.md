@@ -2,29 +2,27 @@
 pid: index_0630
 volume: Volume 3
 image_number: '12'
-head: child
-entry: "<a href='/digital-beehive/alpha1/alpha_0139/'>a</a>|<a href='/digital-beehive/num2/num_0351/'>308
-  [Children]</a>|<a href='/digital-beehive/toc/toc2_377/'>2117 [Children]</a>"
-topic: 
+head: chirurgeons
+entry: "<a href='/digital-beehive/num4/num_1213/'>917 [Surgery]</a>"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_092/'>p.42 [Image 1.102]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e8e9ca44d"
-unparsed: 
-line: 'Head: child|Page: p.42 [Image 1.102]|Entry: a|Entry: 308 [Children]|Entry:
-  2117 [Children]|#item-e8e9ca44d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,2062,737,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532460785757
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1824,2062,737,158/150,/0/default.jpg
-label: child
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1cffd8056"
+unparsed:
+line: 'Head: chirurgeons|Entry: 917 [Surgery]|#item-1cffd8056'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1828,2924,585,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461349637
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1828,2924,585,106/150,/0/default.jpg
+label: chirurgeons
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0629'
 layout: index_item
 collection: index1

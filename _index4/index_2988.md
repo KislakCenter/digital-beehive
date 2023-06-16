@@ -2,28 +2,28 @@
 pid: index_2988
 volume: Volume 3
 image_number: '35'
-head: phoenix
-entry: "<a href='/digital-beehive/toc/toc2_308/'>1568 [Phoenix]</a>"
-topic: 
+head: pepper
+entry: "<a href='/digital-beehive/num9/num_3060/'>2121 [Pepper]</a>"
+topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9be5aabdb"
-unparsed: 
-line: 'Head: phoenix|Page: p.35 [Image 1.95]|Entry: 1568 [Phoenix]|#item-9be5aabdb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/847,2948,661,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974875180
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/847,2948,661,145/150,/0/default.jpg
-label: phoenix
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ab89e9c96"
+unparsed:
+line: 'Head: pepper|Entry: 2121 [Pepper]|#item-ab89e9c96'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/134,1908,481,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972707773
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/134,1908,481,100/150,/0/default.jpg
+label: pepper
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0237'
+issue:
+insertion_xref:
+order: '0236'
 layout: index_item
 collection: index4
 ---

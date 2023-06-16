@@ -2,28 +2,28 @@
 pid: index_3340
 volume: Volume 3
 image_number: '39'
-head: to reject
-entry: 806 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_386/'>2204 [Refusal]</a>
-topic: 
+head: reserved
+entry:
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d70918643"
-unparsed: 
-line: 'Head: to reject|Entry: 806 [PAGE_MISSING]|Entry: 2204 [Refusal]|#item-d70918643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/116,2466,652,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558464979097
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/116,2466,652,129/150,/0/default.jpg
-label: to reject
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dd9ecc4e1"
+unparsed:
+line: 'Head: reserved|#item-dd9ecc4e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1575398429225
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1498,845,373,124/150,/0/default.jpg
+label: reserved
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0589'
+issue:
+insertion_xref:
+order: '0588'
 layout: index_item
 collection: index4
 ---

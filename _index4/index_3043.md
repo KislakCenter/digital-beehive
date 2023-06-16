@@ -2,28 +2,28 @@
 pid: index_3043
 volume: Volume 3
 image_number: '36'
-head: pledge
-entry: 
-topic: 
+head: plants
+entry: "<a href='/digital-beehive/num7/num_2508/'>1645 [Plants]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_2927/'>pawn</a>"
-index: 
-item: "#item-69e18b989"
-unparsed: 
-line: 'Head: pledge|See: pawn|#item-69e18b989'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207651001
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/489,1121,599,175/150,/0/default.jpg
-label: pledge
+page:
+add:
+xref:
+see:
+index:
+item: "#item-73eb0c3a9"
+unparsed:
+line: 'Head: plants|Entry: 1645 [Plants]|#item-73eb0c3a9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/487,369,453,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1542052787184
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/487,369,453,128/150,/0/default.jpg
+label: plants
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0292'
+issue:
+insertion_xref:
+order: '0291'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_0204
 volume: Volume 3
 image_number: '8'
-head: arithmetical books
-entry: 
-topic: 
+head: apprentice
+entry: 811 [PAGE_MISSING]
+topic:
 first_letter: A
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0b0cab631"
-unparsed: 
-line: 'Head: arithmetical books|Page: p.379 [Image 2.201]|#item-0b0cab631'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1808,550,682,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631183748
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1808,550,682,120/150,/0/default.jpg
-label: arithmetical books
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0ad244d78"
+unparsed:
+line: 'Head: apprentice|Entry: 811 [PAGE_MISSING]|#item-0ad244d78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,2355,500,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760897860
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1092,2355,500,156/150,/0/default.jpg
+label: apprentice
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0203'
 layout: index_item
 collection: index1

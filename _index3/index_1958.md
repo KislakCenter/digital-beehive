@@ -2,27 +2,27 @@
 pid: index_1958
 volume: Volume 3
 image_number: '25'
-head: "[:47.]"
-entry: 
-topic: 
+head: jelly
+entry: "<a href='/digital-beehive/num3/num_1007/'>699 [Jelly]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-62eccffee"
-unparsed: 'Type: Index|Insertion Xref: [:47.]|#item-62eccffee'
-line: 'Type: Index|Insertion Xref: [:47.]|#item-62eccffee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1441,712,130,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198490302
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1441,712,130,119/150,/0/default.jpg
-label: "[:47.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4a9c795d9"
+unparsed:
+line: 'Head: jelly|Entry: 699 [Jelly]|#item-4a9c795d9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1394,344,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559660632727
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/170,1394,344,140/150,/0/default.jpg
+label: jelly
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4715/'>Em (or Im)bossing</a>"
+issue:
+insertion_xref:
 order: '040'
 layout: index_item
 collection: index3

@@ -2,27 +2,29 @@
 pid: alpha_0198
 volume: Volume 1
 image_number: '446'
-head: 
-entry: Crown
-topic: Crown
+head:
+entry: Criticism
+topic: Criticism
 first_letter: C
-page: 
-add: 
-xref: 4544 [PAGE_MISSING]
-see: 
-index: "<a href='/digital-beehive/index1/index_0915/'>crown</a>"
-item: "#item-dbc28f448"
-unparsed: 
-line: 'Entry: Crown|Topic: Crown|Xref: 4544 [PAGE_MISSING]|Index: crown|#item-dbc28f448'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/817,4378,2912,632/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563911846231
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0445/817,4378,600,180/250,/0/default.jpg
-label: Crown
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0835/'>Satyre</a>|<a href='/digital-beehive/alpha5/alpha_1077/'>Zoilus</a>|<a
+  href='/digital-beehive/num7/num_2465/'>1627 [Criticism]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0908/'>criticism</a>"
+item: "#item-91f03c2da"
+unparsed:
+line: 'Entry: Criticism|Topic: Criticism|Xref: Satyre|Xref: Zoilus|Xref: 1627 [Criticism]|Index:
+  criticism|#item-91f03c2da'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/847,3006,2963,460/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499786105570
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0445/847,3006,600,180/250,/0/default.jpg
+label: Criticism
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '197'
 layout: alpha_item
 collection: alpha1

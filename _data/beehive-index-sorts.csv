@@ -84,6 +84,7 @@ head,first_letter
 15be of good Courage,C
 15wom: Courses,C
 15to court,C
+wom : Courses,C
 15to creep,C
 15to crucify,C
 15to cut,C
@@ -95,7 +96,7 @@ head,first_letter
 15holy day,D
 15to speak of dead men,D
 15great death,D
-15fear of death,D
+15fear of Death,D
 15[:16.],D
 15to debase,D
 16to deprehend,D
@@ -140,6 +141,7 @@ head,first_letter
 19to extricate,E
 20to fan,F
 20to fasten,F
+20fear of death,F
 20to file,F
 20to fill,F
 20to find,F
@@ -166,7 +168,7 @@ head,first_letter
 22to goe,G
 22be gone,G
 22[:46.],G
-22[:60:],G
+22[:60.],G
 22[:29.],G
 22church governmt,G
 22[:57.],G
@@ -329,6 +331,7 @@ head,first_letter
 38to purge,P
 38to put off or on,P
 38to quake,Q
+38Quakers affirmation,Q
 38winter quarter,Q
 38to quench,Q
 38to quicken,Q

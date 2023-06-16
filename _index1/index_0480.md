@@ -2,28 +2,27 @@
 pid: index_0480
 volume: Volume 3
 image_number: '11'
-head: burial
-entry: "<a href='/digital-beehive/alpha1/alpha_0109/'>a</a>|<a href='/digital-beehive/num4/num_1159'>894
-  [Burial]</a>|<a href='/digital-beehive/toc/toc2_281/'>1440 [Burial]</a>"
-topic: 
+head: burned Child
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ddcb5cd1d"
-unparsed: 
-line: 'Head: burial|Entry: a|Entry: 894 [Burial]|Entry: 1440 [Burial]|#item-ddcb5cd1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/876,1410,664,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421039577
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/876,1410,664,118/150,/0/default.jpg
-label: burial
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-35dc5fa0c"
+unparsed:
+line: 'Head: burned Child|Page: p.30 [Image 1.90]|#item-35dc5fa0c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/895,1588,517,89/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421172722
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/895,1588,517,89/150,/0/default.jpg
+label: burned Child
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0479'
 layout: index_item
 collection: index1

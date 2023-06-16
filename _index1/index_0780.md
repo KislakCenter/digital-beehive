@@ -2,27 +2,28 @@
 pid: index_0780
 volume: Volume 3
 image_number: '14'
-head: condescension
-entry: "<a href='/digital-beehive/num1/num_0059/'>58 [acts of Forbearance or Condescension]</a>"
-topic: 
+head: complaint of times
+entry: "<a href='/digital-beehive/num5/num_1487/'>1098 [Complaint of Times]</a>|1875
+  [PAGE_MISSING]"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-59eae063c"
-unparsed: 
-line: 'Head: condescension|Entry: 58 [acts of Forbearance or Condescension]|#item-59eae063c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216743595
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/401,2575,625,124/150,/0/default.jpg
-label: condescension
+page:
+add:
+xref:
+see:
+index:
+item: "#item-253ff6a5f"
+unparsed:
+line: 'Head: complaint of times|Entry: 1098 [Complaint of Times]|Entry: 1875 [PAGE_MISSING]|#item-253ff6a5f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/449,790,724,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215233467
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/449,790,724,92/150,/0/default.jpg
+label: complaint of times
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0779'
 layout: index_item
 collection: index1

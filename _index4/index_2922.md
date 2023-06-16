@@ -2,28 +2,29 @@
 pid: index_2922
 volume: Volume 3
 image_number: '34'
-head: patriots
-entry: "<a href='/digital-beehive/toc/toc2_272/'>1394 [Patriots]</a>"
-topic: 
+head: palaces
+entry: "<a href='/digital-beehive/num8/num_2837/'>1926 [Palace]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-600277d89"
-unparsed: 
-line: 'Head: patriots|Entry: 1394 [Patriots]|#item-600277d89'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495692384
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1820,2142,539,146/150,/0/default.jpg
-label: patriots
+page: "<a href='/digital-beehive/toc/toc1_057/'>p.7 [Image 1.67]</a>|<a href='/digital-beehive/toc/toc1_087/'>p.37
+  [Image 1.97]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-3b0909e82"
+unparsed:
+line: 'Head: palaces|Page: p.7 [Image 1.67]|Page: p.37 [Image 1.97]|Entry: 1926 [Palace]|#item-3b0909e82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/432,2989,803,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425970237
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/432,2989,803,153/150,/0/default.jpg
+label: palaces
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0171'
+issue:
+insertion_xref:
+order: '0170'
 layout: index_item
 collection: index4
 ---

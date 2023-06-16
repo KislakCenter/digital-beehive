@@ -2,29 +2,30 @@
 pid: alpha_1021
 volume: Volume 2
 image_number: '63'
-head: 
-entry: Martial disciplines
-topic: Martial disciplines
-first_letter: W
-page: 
-add: 
-xref: Justitia Militaris
-see: 
-index: "<a href='/digital-beehive/index3/index_2434/'>martial discipline</a>"
-item: "#item-9098cec91"
-unparsed: 
-line: 'Entry: Martial disciplines|Topic: Martial disciplines|Xref: Justitia Militaris|Index:
-  martial discipline|#item-9098cec91'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,2965,346/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529522719096
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/355,4010,600,180/250,/0/default.jpg
-label: Martial disciplines
+head:
+entry: the Vulgar
+topic: the Vulgar
+first_letter: U/V
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0098/'>95 [a Vulgar Spirited man]</a>|<a
+  href='/digital-beehive/num5/num_1543/'>1136 [Vulgar]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4464/'>the vulgar</a>"
+item: "#item-f749e0afc"
+unparsed:
+line: 'Entry: the Vulgar|Topic: the Vulgar|Xref: 95 [a Vulgar Spirited man]|Xref:
+  1136 [Vulgar]|Index: the vulgar|#item-f749e0afc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/339,1947,3013,331/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004999189
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/339,1947,600,180/250,/0/default.jpg
+label: the Vulgar
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-issue: The point of reference for "Justitia militaris" is unclear.
-also_in_entry: 
-order: '087'
+issue:
+also_in_entry:
+order: '081'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,28 +2,32 @@
 pid: index_4032
 volume: Volume 3
 image_number: '46'
-head: symbolical books
-entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Com[m]on Prayer Book]</a>"
-topic: 
+head: Lord's Supper
+entry: "<a href='/digital-beehive/alpha4/alpha_0935/'>a</a>|<a href='/digital-beehive/num2/num_0603/'>482
+  [Com[m]union or Partaking]</a>|<a href='/digital-beehive/num8/num_2704/'>1773 [Lord's
+  Supper]</a>|<a href='/digital-beehive/num9/num_3185/'>2240 [Lord's Supper]</a>|<a
+  href='/digital-beehive/num10/num_3405/'>2430 [Lord's Supper]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e700a307f"
-unparsed: 
-line: 'Head: symbolical books|Entry: 259 [Com[m]on Prayer Book]|#item-e700a307f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1075,2901,592,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565293566622
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1075,2901,592,124/150,/0/default.jpg
-label: symbolical books
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4867f8710"
+unparsed:
+line: 'Head: Lord''s Supper|Entry: a|Entry: 482 [Com[m]union or Partaking]|Entry:
+  1773 [Lord''s Supper]|Entry: 2240 [Lord''s Supper]|Entry: 2430 [Lord''s Supper]|#item-4867f8710'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/459,2036,720,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530475634993
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/459,2036,720,136/150,/0/default.jpg
+label: Lord's Supper
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1281'
+issue:
+insertion_xref:
+order: '1258'
 layout: index_item
 collection: index4
 ---

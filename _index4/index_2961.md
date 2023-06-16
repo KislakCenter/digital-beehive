@@ -2,29 +2,29 @@
 pid: index_2961
 volume: Volume 3
 image_number: '35'
-head: permission
-entry: "<a href='/digital-beehive/num3/num_0719'>565 [License]</a>|<a href='/digital-beehive/toc/toc2_428/'>4489
-  [License]</a>"
-topic: 
+head: penal laws
+entry: "<a href='/digital-beehive/num3/num_0696/'>551 [Penal Laws]</a>|<a href='/digital-beehive/num8/num_2874/'>1950
+  [Penal Laws]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1ead4f898"
-unparsed: 
-line: 'Head: permission|Entry: 565 [License]|Entry: 4489 [License]|#item-1ead4f898'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,3224,714,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973802545
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,3224,714,132/150,/0/default.jpg
-label: permission
+page:
+add:
+xref:
+see:
+index:
+item: "#item-62d0072dd"
+unparsed:
+line: 'Head: penal laws|Entry: 551 [Penal Laws]|Entry: 1950 [Penal Laws]|#item-62d0072dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/139,1042,666,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539972227937
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/139,1042,666,176/150,/0/default.jpg
+label: penal laws
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0210'
+issue:
+insertion_xref:
+order: '0209'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_3799
 volume: Volume 3
 image_number: '44'
-head: sop
-entry: "<a href='/digital-beehive/alpha4/alpha_0895/'>a</a>|<a href='/digital-beehive/num3/num_0680'>540
-  [Pottages]</a>"
-topic: 
+head: "[:9.]"
+entry:
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6779252dc"
-unparsed: 
-line: 'Head: sop|Entry: a|Entry: 540 [WORD_MISSING]|#item-6779252dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/581,1115,367,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529703641144
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/581,1115,367,107/150,/0/default.jpg
-label: sop
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c1cd4649a"
+unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
+line: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2323,1585,203,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560278186358
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/2323,1585,203,162/150,/0/default.jpg
+label: "[:9.]"
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1048'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4697/'>Spouse, espousing</a>"
+order: '1047'
 layout: index_item
 collection: index4
 ---

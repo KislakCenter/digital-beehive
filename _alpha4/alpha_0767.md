@@ -2,30 +2,31 @@
 pid: alpha_0767
 volume: Volume 2
 image_number: '45'
-head: 
-entry: Quick
-topic: Quick
-first_letter: Q
-page: 
-add: 
-xref: "<a href='/digital-beehive/num2/num_0328/'>292 [Drowsiness]</a>|<a href='/digital-beehive/num3/num_0681'>541
-  [Alacrity]</a>|1872 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3258/'>quick</a>"
-item: "#item-b20118d32"
-unparsed: 
-line: 'Entry: Quick|Topic: Quick|Xref: 292 [Drowsiness]|Xref: 541 [Alacrity]|Xref:
-  1872 [PAGE_MISSING]|Index: quick|#item-b20118d32'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/367,2363,2971,243/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565103502099
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/367,2363,600,180/250,/0/default.jpg
-label: Quick
+head:
+entry: Purpose
+topic: Purpose
+first_letter: P
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0486/'>Intention</a>|<a href='/digital-beehive/num4/num_1183/'>907
+  [Purposely]</a>|<a href='/digital-beehive/num4/num_1184/'>907 [to the end]</a>|2001
+  [Purpose]"
+see:
+index: "<a href='/digital-beehive/index4/index_3284/'>purpose</a>"
+item: "#item-9f91ad58e"
+unparsed:
+line: 'Entry: Purpose|Topic: Purpose|Xref: Intention|Xref: 907 [Purposely]|Xref: 907
+  [to the end]|Xref: 2001 [Purpose]|Index: purpose|#item-9f91ad58e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/287,898,3081,374/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558812099468
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/287,898,600,180/250,/0/default.jpg
+label: Purpose
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '120'
+issue:
+also_in_entry:
+order: '115'
 layout: alpha_item
 collection: alpha4
 ---

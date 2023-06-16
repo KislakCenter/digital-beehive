@@ -1,31 +1,31 @@
 ---
 pid: alpha_0287
 volume: Volume 1
-image_number: '454'
-head: 
-entry: Epitaph
-topic: Epitaph
+image_number: '453'
+head:
+entry: Enmity
+topic: Enmity
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0479/'>Inscriptions</a>|<a href='/digital-beehive/num1/num_0264/'>245
-  [Epitaphs]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1284/'>epitaphs</a>"
-item: "#item-1a230df78"
-unparsed: 
-line: 'Entry: Epitaph|Topic: Epitaph|Xref: Inscriptions|Xref: 245 [Epitaphs]|Index:
-  epitaphs|#item-1a230df78'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,236,3024,518/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564584640313
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/786,236,600,180/250,/0/default.jpg
-label: Epitaph
-location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '018'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0404/'>Hatred</a>|<a href='/digital-beehive/alpha3/alpha_0561/'>Love
+  of enemies</a>|858 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index2/index_1246/'>enmity</a>"
+item: "#item-a6c8131c3"
+unparsed:
+line: 'Entry: Enmity|Topic: Enmity|Xref: Hatred|Xref: Love of enemies|Xref: 858 [PAGE_MISSING]|Index:
+  enmity|#item-a6c8131c3'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/385,3276,3066,698/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518983364
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/385,3276,600,180/250,/0/default.jpg
+label: Enmity
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '015'
 layout: alpha_item
 collection: alpha2
 ---

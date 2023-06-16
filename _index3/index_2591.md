@@ -2,28 +2,29 @@
 pid: index_2591
 volume: Volume 3
 image_number: '31'
-head: Moses
-entry: "<a href='/digital-beehive/num4/num_1171'>901 [Moses]</a>|<a href='/digital-beehive/toc/toc2_311/'>1583
-  [Moses]</a>|<a href='/digital-beehive/toc/toc2_355/'>1921 [Moses]</a>"
-topic: 
+head: morning
+entry: "<a href='/digital-beehive/alpha3/alpha_0610/'>a</a>|<a href='/digital-beehive/num4/num_1290/'>969
+  [morning]</a>|4540 [PAGE_MISSING]"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-26d6908d3"
-unparsed: 
-line: 'Head: Moses|Entry: 901 [Moses]|Entry: 1583 [Moses]|Entry: 1921 [Moses]|#item-26d6908d3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/835,2955,649,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356750570
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/835,2955,649,116/150,/0/default.jpg
-label: Moses
+page: "<a href='/digital-beehive/toc/toc1_077/'>p.27 [Image 1.87]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-198556c22"
+unparsed:
+line: 'Head: morning|Page: p.27 [Image 1.87]|Entry: a|Entry: 969 [morning]|Entry:
+  4540 [PAGE_MISSING]|#item-198556c22'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356264923
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/855,2053,844,132/150,/0/default.jpg
+label: morning
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '673'
 layout: index_item
 collection: index3

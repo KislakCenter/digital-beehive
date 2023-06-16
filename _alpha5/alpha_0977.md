@@ -2,30 +2,30 @@
 pid: alpha_0977
 volume: Volume 2
 image_number: '60'
-head: 
-entry: Treachery
-topic: Treachery
+head:
+entry: Trade
+topic: Trade
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0310/'>faithfullness</a>|<a href='/digital-beehive/num4/num_1244'>933
-  [Treachery]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4222/'>treachery</a>"
-item: "#item-cfd8402ee"
-unparsed: 
-line: 'Entry: Treachery|Topic: Treachery|Xref: faithfullness|Xref: 933 [Treachery]|Index:
-  treachery|#item-cfd8402ee'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,2940,465/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529602892275
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/831,2101,600,180/250,/0/default.jpg
-label: Treachery
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0546/'>Livelyhood</a>|109 [A Shopkeeper]|350
+  [Butcher]|<a href='/digital-beehive/num3/num_0859/'>634 [Trade]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4204/'>trade</a>"
+item: "#item-dbf3ca43c"
+unparsed:
+line: 'Entry: Trade|Topic: Trade|Xref: Livelyhood|Xref: 109 [A Shopkeeper]|Xref: 350
+  [Butcher]|Xref: 634 [Trade]|Index: trade|#item-dbf3ca43c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/800,211,2967,492/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114816366
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0527/800,211,600,180/250,/0/default.jpg
+label: Trade
 location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '043'
+issue:
+also_in_entry:
+order: '037'
 layout: alpha_item
 collection: alpha5
 ---

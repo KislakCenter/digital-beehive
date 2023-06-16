@@ -2,28 +2,28 @@
 pid: index_3885
 volume: Volume 3
 image_number: '45'
-head: statist
-entry: 
-topic: 
+head: to stumble
+entry: "<a href='/digital-beehive/num3/num_1027/'>706 [to Stumble]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3064/'>politick</a>"
-index: 
-item: "#item-fc320bcf0"
-unparsed: 
-line: 'Head: statist|See: politick|#item-fc320bcf0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530218776455
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/198,739,613,150/150,/0/default.jpg
-label: statist
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4a25ea1db"
+unparsed:
+line: 'Head: to stumble|Entry: 706 [to Stumble]|#item-4a25ea1db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530467065285
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/1595,368,515,123/150,/0/default.jpg
+label: to stumble
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1134'
+issue:
+insertion_xref:
+order: '1133'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_2419
 volume: Volume 3
 image_number: '29'
-head: manuscripts of mine own
-entry: 
-topic: 
+head: majesty
+entry: "<a href='/digital-beehive/num1/num_0073/'>72 [Majesty]</a>"
+topic:
 first_letter: M
-page: "<a href='/digital-beehive/toc/toc2_296/'>p.386 [Image 2.306]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d41e25954"
-unparsed: 
-line: 'Head: manuscripts of mine own|Page: p.386 [Image 2.306]|#item-d41e25954'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196877210
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1508,3017,540,111/150,/0/default.jpg
-label: manuscripts of mine own
+page:
+add:
+xref:
+see:
+index:
+item: "#item-150100733"
+unparsed:
+line: 'Head: majesty|Entry: 72 [Majesty]|#item-150100733'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189676336
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/834,3308,401,179/150,/0/default.jpg
+label: majesty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 'The listed entry is on the page following the intended point of reference. '
-insertion_xref: 
+issue:
+insertion_xref:
 order: '501'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_3838
 volume: Volume 3
 image_number: '44'
-head: spider
-entry: "<a href='/digital-beehive/num2/num_0568/'>458 [Spider]</a>"
-topic: 
+head: spelling
+entry: "<a href='/digital-beehive/num7/num_2435/'>1612 [Spelling]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-12d5271e4"
-unparsed: 
-line: 'Head: spider|Entry: 458 [Spider]|#item-12d5271e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2392,426,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529942216247
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1107,2392,426,136/150,/0/default.jpg
-label: spider
+page:
+add:
+xref:
+see:
+index:
+item: "#item-15c574158"
+unparsed:
+line: 'Head: spelling|Entry: 1612 [Spelling]|#item-15c574158'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1106,1689,506,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529789825339
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1106,1689,506,132/150,/0/default.jpg
+label: spelling
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1087'
+issue:
+insertion_xref:
+order: '1086'
 layout: index_item
 collection: index4
 ---

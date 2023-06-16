@@ -2,28 +2,29 @@
 pid: index_3382
 volume: Volume 3
 image_number: '39'
-head: to request
-entry: "<a href='/digital-beehive/num2/num_0389/'>336 [To pray]</a>"
-topic: 
+head: report
+entry: "<a href='/digital-beehive/alpha4/alpha_0797/'>a</a>|779 [PAGE_MISSING]|<a
+  href='/digital-beehive/num9/num_3187/'>2242 [Report & Hear-say]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6b3ce41de"
-unparsed: 
-line: 'Head: to request|Entry: 336 [To pray]|#item-6b3ce41de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1488,550,539,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469747304
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1488,550,539,154/150,/0/default.jpg
-label: to request
+page:
+add:
+xref:
+see:
+index:
+item: "#item-44e9b761e"
+unparsed:
+line: 'Head: report|Entry: a|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & Hear-say]|#item-44e9b761e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469484989
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/799,2508,719,153/150,/0/default.jpg
+label: report
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0631'
+issue:
+insertion_xref:
+order: '0630'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_0343
 volume: Volume 3
 image_number: '10'
-head: behemoth
-entry: "<a href='/digital-beehive/alpha1/alpha_0075/'>a</a>"
-topic: 
+head: birth
+entry: "<a href='/digital-beehive/num4/num_1309/'>981 [Birth]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3041bd8a3"
-unparsed: 
-line: 'Head: behemoth|Entry: a|#item-3041bd8a3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/391,694,450,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531146771783
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/391,694,450,127/150,/0/default.jpg
-label: behemoth
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0593ff3f8"
+unparsed:
+line: 'Head: birth|Entry: 981 [Birth]|#item-0593ff3f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1099,1021,351,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531149857213
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1099,1021,351,108/150,/0/default.jpg
+label: birth
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0342'
 layout: index_item
 collection: index1

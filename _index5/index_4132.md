@@ -2,28 +2,28 @@
 pid: index_4132
 volume: Volume 3
 image_number: '47'
-head: three
-entry: "<a href='/digital-beehive/toc/toc2_354/'>1918 [Three and third]</a>"
-topic: 
+head: tents
+entry: "<a href='/digital-beehive/num3/num_0749/'>582 [Tents]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-35c623cad"
-unparsed: 
-line: 'Head: three|Entry: 1918 [Three and third]|#item-35c623cad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3237,366,77/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532876855616
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/891,3237,366,77/150,/0/default.jpg
-label: three
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5ad901ca1"
+unparsed:
+line: 'Head: tents|Entry: 582 [Tents]|#item-5ad901ca1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/165,2362,331,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532714490982
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/165,2362,331,104/150,/0/default.jpg
+label: tents
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '094'
+issue:
+insertion_xref:
+order: '095'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,29 @@
 pid: index_3730
 volume: Volume 3
 image_number: '43'
-head: Sion
-entry: 833 [PAGE_MISSING]
-topic: 
+head: snuff
+entry: "<a href='/digital-beehive/num2/num_0557/'>447 [Snuff]</a>|<a href='/digital-beehive/num2/num_0596/'>476
+  [Sneezing]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ad9702446"
-unparsed: 
-line: 'Head: Sion|Entry: 833 [PAGE_MISSING]|#item-ad9702446'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/873,701,373,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582920162
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/873,701,373,122/150,/0/default.jpg
-label: Sion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-167a41ee3"
+unparsed:
+line: 'Head: snuff|Entry: 447 [Snuff]|Entry: 476 [Sneezing]|#item-167a41ee3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1407,507,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559585516485
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/1600,1407,507,152/150,/0/default.jpg
+label: snuff
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0979'
+issue:
+insertion_xref:
+order: '0978'
 layout: index_item
 collection: index4
 ---

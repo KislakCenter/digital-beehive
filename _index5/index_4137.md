@@ -2,28 +2,29 @@
 pid: index_4137
 volume: Volume 3
 image_number: '47'
-head: throughout
-entry: 
-topic: 
+head: timely
+entry: "<a href='/digital-beehive/num3/num_0737/'>578 [Seasonable]</a>|<a href='/digital-beehive/num9/num_3146/'>2203
+  [Seasonable Opportunity]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_1987/'>in</a>"
-index: 
-item: "#item-a81fa0062"
-unparsed: 
-line: 'Head: throughout|See: in|#item-a81fa0062'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552666270552
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1615,386,512,92/150,/0/default.jpg
-label: throughout
+page:
+add:
+xref:
+see:
+index:
+item: "#item-15b90ce61"
+unparsed:
+line: 'Head: timely|Entry: 578 [Seasonable]|Entry: 2203 [Seasonable Opportunity]|#item-15b90ce61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1589,2583,644,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560280943127
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1589,2583,644,176/150,/0/default.jpg
+label: timely
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '099'
+issue:
+insertion_xref:
+order: '100'
 layout: index_item
 collection: index5
 ---

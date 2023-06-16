@@ -2,30 +2,29 @@
 pid: alpha_0284
 volume: Volume 1
 image_number: '453'
-head: 
-entry: Enmity
-topic: Enmity
+head:
+entry: Empire
+topic: Empire
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0401/'>Hatred</a>|<a href='/digital-beehive/alpha3/alpha_0558/'>Love
-  of enemies</a>|858 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index2/index_1265/'>enmity</a>"
-item: "#item-a6c8131c3"
-unparsed: 
-line: 'Entry: Enmity|Topic: Enmity|Xref: Hatred|Xref: Love of enemies|Xref: 858 [PAGE_MISSING]|Index:
-  enmity|#item-a6c8131c3'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,3066,698/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518983364
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/385,3276,600,180/250,/0/default.jpg
-label: Enmity
+page:
+add:
+xref: "<a href='/digital-beehive/num4/num_1176/'>906 [Kingdom]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1164/'>empire</a>"
+item: "#item-3af6ee29e"
+unparsed:
+line: 'Entry: Empire|Topic: Empire|Xref: 906 [Kingdom]|Index: empire|#item-3af6ee29e'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/375,1887,3094,307/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518529825
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/375,1887,600,180/250,/0/default.jpg
+label: Empire
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '015'
+issue: The point of reference for "Kingdom" is unclear. Pastorius perhaps intends
+  numerical entry 906 [Kingdom].
+also_in_entry:
+order: '012'
 layout: alpha_item
 collection: alpha2
 ---

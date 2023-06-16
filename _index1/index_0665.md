@@ -2,27 +2,27 @@
 pid: index_0665
 volume: Volume 3
 image_number: '13'
-head: churlish
-entry: 
-topic: 
+head: christmas
+entry: "<a href='/digital-beehive/num7/num_2405/'>1598 [Christmas]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2043/'>inhumanity</a>"
-index: 
-item: "#item-72800b92a"
-unparsed: 
-line: 'Head: churlish|See: inhumanity|#item-72800b92a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/139,1614,728,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532620107130
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/139,1614,728,146/150,/0/default.jpg
-label: churlish
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3ea078f5d"
+unparsed:
+line: 'Head: christmas|Entry: 1598 [Christmas]|#item-3ea078f5d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,757,545,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532618914240
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/140,757,545,133/150,/0/default.jpg
+label: christmas
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0664'
 layout: index_item
 collection: index1

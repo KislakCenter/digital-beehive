@@ -2,27 +2,27 @@
 pid: index_2109
 volume: Volume 3
 image_number: '26'
-head: journal
-entry: "<a href='/digital-beehive/toc/toc2_433/'>4827 [Journal]</a>"
-topic: 
+head: Inkhorn
+entry: "<a href='/digital-beehive/num2/num_0507/'>410 [Ink-horn]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5511ab94a"
-unparsed: 
-line: 'Head: journal|Entry: 4827 [Journal]|#item-5511ab94a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1849,2859,505,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754482345
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1849,2859,505,117/150,/0/default.jpg
-label: journal
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0892f5c85"
+unparsed:
+line: 'Head: Inkhorn|Entry: 410 [Ink-horn]|#item-0892f5c85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559745580815
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/714,3281,433,119/150,/0/default.jpg
+label: Inkhorn
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '191'
 layout: index_item
 collection: index3

@@ -2,29 +2,28 @@
 pid: index_3561
 volume: Volume 3
 image_number: '41'
-head: Scriptures imperfection
-entry: "<a href='/digital-beehive/toc/toc2_197/'>1016 [Scriptures are imperfect as
-  to number]</a>"
-topic: 
+head: Savin
+entry: "<a href='/digital-beehive/num3/num_0992/'>692 [Savin]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-effae759d"
-unparsed: 
-line: 'Head: Scriptures imperfection|Entry: 1016 [Scriptures are imperfect as to number]|#item-effae759d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/836,2654,660,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241445248
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/836,2654,660,112/150,/0/default.jpg
-label: Scriptures imperfection
+page:
+add:
+xref:
+see:
+index:
+item: "#item-738631f07"
+unparsed:
+line: 'Head: Savin|Entry: 692 [Savin]|#item-738631f07'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239253263
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/192,2103,407,116/150,/0/default.jpg
+label: Savin
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0810'
+issue:
+insertion_xref:
+order: '0809'
 layout: index_item
 collection: index4
 ---

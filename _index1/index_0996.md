@@ -2,28 +2,29 @@
 pid: index_0996
 volume: Volume 3
 image_number: '16'
-head: deism
-entry: "<a href='/digital-beehive/toc/toc2_346/'>1796 [Deism]</a>"
-topic: 
+head: decay
+entry: "<a href='/digital-beehive/num1/num_0264/'>244 [Decay]</a>|<a href='/digital-beehive/num3/num_0759/'>587
+  [Decrement]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5d655e6ea"
-unparsed: 
-line: 'Head: deism|Entry: 1796 [Deism]|#item-5d655e6ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/382,2766,397,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623762471
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/382,2766,397,117/150,/0/default.jpg
-label: deism
+page:
+add:
+xref:
+see:
+index:
+item: "#item-591ee8b8b"
+unparsed:
+line: 'Head: decay|Entry: 244 [Decay]|Entry: 587 [Decrement]|#item-591ee8b8b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/350,574,495,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540570034667
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/350,574,495,106/150,/0/default.jpg
+label: decay
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0995'
+issue:
+insertion_xref:
+order: '0994'
 layout: index_item
 collection: index1
 ---

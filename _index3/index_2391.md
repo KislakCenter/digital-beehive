@@ -2,27 +2,27 @@
 pid: index_2391
 volume: Volume 3
 image_number: '29'
-head: maiz
-entry: "<a href='/digital-beehive/toc/toc2_335/'>1702 [Maiz]</a>"
-topic: 
+head: magna Charta
+entry: "<a href='/digital-beehive/num3/num_0861/'>635 [Great Charter of England]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9a1f831e6"
-unparsed: 
-line: 'Head: maiz|Entry: 1702 [Maiz]|#item-9a1f831e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1559,383,377,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560193918566
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1559,383,377,98/150,/0/default.jpg
-label: maiz
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bd6ad6f2e"
+unparsed:
+line: 'Head: magna Charta|Entry: 635 [Great Charter of England]|#item-bd6ad6f2e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186860898
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/840,2482,610,163/150,/0/default.jpg
+label: magna Charta
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '473'
 layout: index_item
 collection: index3

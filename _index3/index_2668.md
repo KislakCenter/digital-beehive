@@ -2,27 +2,27 @@
 pid: index_2668
 volume: Volume 3
 image_number: '32'
-head: neatherlands
-entry: "<a href='/digital-beehive/num2/num_0409/'>351 [Holland]</a>"
-topic: 
+head: Nemesis
+entry: "<a href='/digital-beehive/num6/num_1940/'>1366 [Justice]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9a4dbf8d7"
-unparsed: 
-line: 'Head: neatherlands|Entry: 351 [Holland]|#item-9a4dbf8d7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/368,2846,547,93/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560439037428
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/368,2846,547,93/150,/0/default.jpg
-label: neatherlands
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b1407868e"
+unparsed:
+line: 'Head: Nemesis|Entry: 1366 [Justice]|#item-b1407868e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1181,661,440,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441258464
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1181,661,440,111/150,/0/default.jpg
+label: Nemesis
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '750'
 layout: index_item
 collection: index3

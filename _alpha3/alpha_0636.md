@@ -1,31 +1,31 @@
 ---
 pid: alpha_0636
 volume: Volume 2
-image_number: '36'
-head: 
-entry: Neighbour
-topic: Neighbour
+image_number: '35'
+head:
+entry: Nature
+topic: Nature
 first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0557/'>love of our neighbour</a>|4617
-  [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index3/index_2680/'>neighbour</a>"
-item: "#item-54616bebe"
-unparsed: 
-line: 'Entry: Neighbour|Topic: Neighbour|Xref: love of our neighbour|Xref: 4617 [PAGE_MISSING]|Index:
-  neighbour|#item-54616bebe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,3035,568/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1513195632899
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/775,228,600,180/250,/0/default.jpg
-label: Neighbour
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '192'
+page:
+add:
+xref: "[WORD_ILLEGIBLE]|<a href='/digital-beehive/alpha1/alpha_0206/'>Custom</a>|<a
+  href='/digital-beehive/num7/num_2547/'>1663 [Nature]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2705/'>nature</a>"
+item: "#item-ced0ebdf8"
+unparsed:
+line: 'Entry: Nature|Topic: Nature|Xref: [WORD_ILLEGIBLE]|Xref: Custom|Xref: 1663
+  [Nature]|Index: nature|#item-ced0ebdf8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/335,2761,3010,509/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1510167167173
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/335,2761,600,180/250,/0/default.jpg
+label: Nature
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '189'
 layout: alpha_item
 collection: alpha3
 ---

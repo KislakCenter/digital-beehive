@@ -2,28 +2,28 @@
 pid: index_3217
 volume: Volume 3
 image_number: '37'
-head: psaltery
-entry: "<a href='/digital-beehive/toc/toc2_408/'>2341 [Harp]</a>"
-topic: 
+head: principle
+entry: "<a href='/digital-beehive/num5/num_1416/'>1055 [Principle]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1215dbd0d"
-unparsed: 
-line: 'Head: psaltery|Entry: 2341 [Harp]|#item-1215dbd0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,3230,601,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869815305
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1496,3230,601,124/150,/0/default.jpg
-label: psaltery
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0578bd41e"
+unparsed:
+line: 'Head: principle|Entry: 1055 [Principle]|#item-0578bd41e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/116,3324,515,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867224465
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/116,3324,515,121/150,/0/default.jpg
+label: principle
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0466'
+issue:
+insertion_xref:
+order: '0465'
 layout: index_item
 collection: index4
 ---

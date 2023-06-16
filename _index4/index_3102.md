@@ -2,28 +2,29 @@
 pid: index_3102
 volume: Volume 3
 image_number: '36'
-head: practise
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1345 [Experience]</a>"
-topic: 
+head: prejudice
+entry: "<a href='/digital-beehive/num3/num_0802/'>607 [Prejudice]</a>|<a href='/digital-beehive/num9/num_3110/'>2168
+  [Prejudice]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1d0011808"
-unparsed: 
-line: 'Head: practise|Entry: 1345 [Experience]|#item-1d0011808'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1912,402,536,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439458891
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1912,402,536,102/150,/0/default.jpg
-label: practise
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3d09c3281"
+unparsed:
+line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1830,2398,682,170/150,/0/default.jpg
+label: prejudice
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0351'
+issue:
+insertion_xref:
+order: '0350'
 layout: index_item
 collection: index4
 ---

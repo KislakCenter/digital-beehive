@@ -2,28 +2,28 @@
 pid: index_3264
 volume: Volume 3
 image_number: '38'
-head: Quietists
-entry: "<a href='/digital-beehive/num4/num_1256'>939 [Quietists]</a>"
-topic: 
-first_letter: Q
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d9c200413"
-unparsed: 
-line: 'Head: Quietists|Entry: 939 [Quietists]|#item-d9c200413'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1168,1322,555,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455277362
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1168,1322,555,138/150,/0/default.jpg
-label: Quietists
+head: purgation
+entry: "<a href='/digital-beehive/num6/num_2146/'>1462 [Purgation]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-be06e69b4"
+unparsed:
+line: 'Head: purgation|Entry: 1462 [Purgation]|#item-be06e69b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/422,1306,520,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452135708
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/422,1306,520,119/150,/0/default.jpg
+label: purgation
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0513'
+issue:
+insertion_xref:
+order: '0512'
 layout: index_item
 collection: index4
 ---

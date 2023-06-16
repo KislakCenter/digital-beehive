@@ -2,28 +2,27 @@
 pid: index_2721
 volume: Volume 3
 image_number: '32'
-head: noise
-entry: "<a href='/digital-beehive/num1/num_0154/'>148 [Noise]</a>|<a href='/digital-beehive/toc/toc2_322/'>1640
-  [Sound]</a>|<a href='/digital-beehive/toc/toc2_362/'>1971 [Noise]</a>"
-topic: 
+head: near
+entry: "<a href='/digital-beehive/num3/num_1020/'>703 [Near]</a>|813 [PAGE_MISSING]"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8810fad6f"
-unparsed: 
-line: 'Head: noise|Entry: 148 [Noise]|Entry: 1640 [Sound]|Entry: 1971 [Noise]|#item-8810fad6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448639600
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1839,1201,650,123/150,/0/default.jpg
-label: noise
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8ff969460"
+unparsed:
+line: 'Head: near|Entry: 703 [Near]|Entry: 813 [PAGE_MISSING]|#item-8ff969460'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438803600
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/378,2696,511,85/150,/0/default.jpg
+label: near
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '803'
 layout: index_item
 collection: index3

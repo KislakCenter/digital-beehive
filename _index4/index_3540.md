@@ -2,28 +2,29 @@
 pid: index_3540
 volume: Volume 3
 image_number: '41'
-head: scarifying
-entry: 
-topic: 
+head: scholars
+entry: "<a href='/digital-beehive/num4/num_1303/'>975 [Disciples]</a>|<a href='/digital-beehive/num7/num_2340/'>1564
+  [Scholars]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0395/'>bloodletting</a>"
-index: 
-item: "#item-00d400f81"
-unparsed: 
-line: 'Head: scarifying|See: bloodletting|#item-00d400f81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/864,343,749,187/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240239660
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/864,343,749,187/150,/0/default.jpg
-label: scarifying
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d8c98522f"
+unparsed:
+line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/873,1405,621,143/150,/0/default.jpg
+label: scholars
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0789'
+issue:
+insertion_xref:
+order: '0788'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,28 @@
 pid: index_1059
 volume: Volume 3
 image_number: '16'
-head: dirt
-entry: "<a href='/digital-beehive/alpha1/alpha_0237/'>a</a>|<a href='/digital-beehive/num2/num_0360/'>314
-  [Dirt]</a>|<a href='/digital-beehive/toc/toc2_381/'>2159 [Dirt]</a>"
-topic: 
+head: delight
+entry: 741 [PAGE_MISSING]
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b038215d2"
-unparsed: 
-line: 'Head: dirt|Entry: a|Entry: 314 [Dirt]|Entry: 2159 [Dirt]|#item-b038215d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1760,2484,604,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174530428
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1760,2484,604,116/150,/0/default.jpg
-label: dirt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1d41013ae"
+unparsed:
+line: 'Head: delight|Entry: 741 [PAGE_MISSING]|#item-1d41013ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/334,3167,422,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572772219
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/334,3167,422,164/150,/0/default.jpg
+label: delight
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1058'
+issue:
+insertion_xref:
+order: '1057'
 layout: index_item
 collection: index1
 ---

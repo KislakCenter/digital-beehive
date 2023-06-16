@@ -1,31 +1,31 @@
 ---
 pid: alpha_0654
 volume: Volume 2
-image_number: '37'
-head: 
-entry: Oeconomy
-topic: Oeconomy
+image_number: '36'
+head:
+entry: Obedience
+topic: Obedience
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.202]</a>"
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0440/'>Husbandry</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2767/'>oeconomy</a>"
-item: "#item-e72af992e"
-unparsed: 
-line: 'Entry: Oeconomy|Topic: Oeconomy|Xref: Husbandry|Page: p.379 [Image 2.202]|Index:
-  oeconomy|#item-e72af992e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,3093,399/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016740122
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/292,1425,600,180/250,/0/default.jpg
-label: Oeconomy
-location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: There is currently no protocol for cross-references to page numbers in the
-  Alphabetical Hive.
-also_in_entry: 
-order: '007'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0246/'>disobed</a>|<a href='/digital-beehive/alpha4/alpha_0682/'>Parents</a>|<a
+  href='/digital-beehive/num4/num_1314/'>985 [Obedience]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2783/'>obedience</a>"
+item: "#item-7dfdfd864"
+unparsed:
+line: 'Entry: Obedience|Topic: Obedience|Xref: disobed|Xref: Parents|Xref: 985 [Obedience]|Index:
+  obedience|#item-7dfdfd864'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/702,4416,3063,630/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016107334
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/702,4416,600,180/250,/0/default.jpg
+label: Obedience
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '002'
 layout: alpha_item
 collection: alpha4
 ---

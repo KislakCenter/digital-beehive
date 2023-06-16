@@ -2,28 +2,29 @@
 pid: index_4531
 volume: Volume 3
 image_number: '52'
-head: whetstone
-entry: "<a href='/digital-beehive/toc/toc2_250/'>1284 [a Whetstone]</a>"
-topic: 
+head: weakness
+entry: "<a href='/digital-beehive/num2/num_0374/'>325 [Infirmity]</a>|<a href='/digital-beehive/num7/num_2643/'>1719
+  [Infirmity]</a>|4754 [PAGE_MISSING]"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-be0c7d747"
-unparsed: 
-line: 'Head: whetstone|Entry: 1284 [a Whetstone]|#item-be0c7d747'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560970165716
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1096,3304,564,139/150,/0/default.jpg
-label: whetstone
+page:
+add:
+xref:
+see:
+index:
+item: "#item-153b2b1b0"
+unparsed:
+line: 'Head: weakness|Entry: 325 [Infirmity]|Entry: 1719 [Infirmity]|Entry: 4754 [PAGE_MISSING]|#item-153b2b1b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/486,2150,611,177/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560960979093
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/486,2150,611,177/150,/0/default.jpg
+label: weakness
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '493'
+issue:
+insertion_xref:
+order: '494'
 layout: index_item
 collection: index5
 ---

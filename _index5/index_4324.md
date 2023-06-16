@@ -2,28 +2,28 @@
 pid: index_4324
 volume: Volume 3
 image_number: '49'
-head: vice versâ
-entry: "<a href='/digital-beehive/num3/num_0986'>690 [Contrariety]</a>"
-topic: 
+head: Venice
+entry: "<a href='/digital-beehive/num2/num_0545/'>440 [Venice]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-959b9a2fa"
-unparsed: 
-line: 'Head: vice versâ|Entry: 690 [Contrariety]|#item-959b9a2fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,628,522,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659650775
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1636,628,522,139/150,/0/default.jpg
-label: vice versâ
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d17224da7"
+unparsed:
+line: 'Head: Venice|Entry: 440 [Venice]|#item-d17224da7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,2584,440,78/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658695259
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/946,2584,440,78/150,/0/default.jpg
+label: Venice
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '286'
+issue:
+insertion_xref:
+order: '287'
 layout: index_item
 collection: index5
 ---

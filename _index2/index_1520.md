@@ -2,27 +2,28 @@
 pid: index_1520
 volume: Volume 3
 image_number: '21'
-head: fortitude
-entry: 
-topic: 
+head: foot
+entry: "<a href='/digital-beehive/alpha2/alpha_0340/'>a</a>|<a href='/digital-beehive/num6/num_2108/'>1444
+  [Foot]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0880/'>Courage</a>"
-index: 
-item: "#item-75e552efe"
-unparsed: 
-line: 'Head: fortitude|See: Courage|#item-75e552efe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531762812530
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/896,254,688,155/150,/0/default.jpg
-label: fortitude
+page:
+add:
+xref:
+see:
+index:
+item: "#item-948592bfa"
+unparsed:
+line: 'Head: foot|Entry: a|Entry: 1444 [Foot]|#item-948592bfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/162,1420,463,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531233713485
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/162,1420,463,107/150,/0/default.jpg
+label: foot
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '339'
 layout: index_item
 collection: index2

@@ -2,28 +2,28 @@
 pid: index_3995
 volume: Volume 3
 image_number: '46'
-head: I am sure
-entry: "<a href='/digital-beehive/toc/toc2_387/'>2213 [I am Sure]</a>"
-topic: 
+head: to surrender
+entry: "<a href='/digital-beehive/num6/num_2170/'>1474 [Yielding]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bf648a399"
-unparsed: 
-line: 'Head: I am sure|Entry: 2213 [I am Sure]|#item-bf648a399'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530648255201
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/449,2602,518,92/150,/0/default.jpg
-label: I am sure
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4629/'>yield</a>"
+index:
+item: "#item-261142283"
+unparsed:
+line: 'Head: to surrender|See: yield|Entry: 1474 [Yielding]|#item-261142283'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1088,415,770,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531684191829
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1088,415,770,118/150,/0/default.jpg
+label: to surrender
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1244'
+issue:
+insertion_xref:
+order: '1234'
 layout: index_item
 collection: index4
 ---

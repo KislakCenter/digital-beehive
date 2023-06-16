@@ -2,28 +2,28 @@
 pid: index_4731
 volume: Volume 3
 image_number: '54'
-head: to like
-entry: 
-topic: 
+head: womb
+entry: "<a href='/digital-beehive/num9/num_3051/'>2114 [Womb]</a>"
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0190/'>approbation</a>"
-index: 
-item: "#item-a1ec520c5"
-unparsed: Type Index|Insertion [:62.]
-line: 'Type: Index|Insertion: [:62.]|Head: to like|See: approbation|#item-a1ec520c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,2244,736,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560957495704
-insertion: "[:62.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1764,2244,736,164/150,/0/default.jpg
-label: to like
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0b8ad3904"
+unparsed: Type Index|Insertion [:24.]
+line: 'Type: Index|Insertion: [:24.]|Head: womb|Entry: 2114 [Womb]|#item-0b8ad3904'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/399,3484,590,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560953410527
+insertion: "[:24.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/399,3484,590,153/150,/0/default.jpg
+label: womb
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '693'
+issue:
+insertion_xref:
+order: '694'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,28 @@
 pid: index_3276
 volume: Volume 3
 image_number: '38'
-head: rachel
-entry: "<a href='/digital-beehive/toc/toc2_363/'>1976 [Rachel]</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a5a821fc4"
-unparsed: 
-line: 'Head: rachel|Entry: 1976 [Rachel]|#item-a5a821fc4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459434241
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1187,2691,481,124/150,/0/default.jpg
-label: rachel
+head: Puritans
+entry: "<a href='/digital-beehive/num1/num_0238/'>223 [a Puritane]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-61afcbe84"
+unparsed:
+line: 'Head: Puritans|Entry: 223 [a Puritane]|#item-61afcbe84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/385,1746,516,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558452319815
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/385,1746,516,174/150,/0/default.jpg
+label: Puritans
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0525'
+issue:
+insertion_xref:
+order: '0524'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_0487
 volume: Volume 3
 image_number: '11'
-head: burses
-entry: 
-topic: 
+head: Dr Burnet
+entry: "<a href='/digital-beehive/num11/num_3493/'>4800 [Dr Burnet]</a>"
+topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-787b63651"
-unparsed: 
-line: 'Head: burses|Page: p.6 [Image 1.66]|#item-787b63651'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/880,1807,350,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421539162
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/880,1807,350,112/150,/0/default.jpg
-label: burses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-680e86aaa"
+unparsed:
+line: 'Head: Dr Burnet|Entry: 4800 [Dr Burnet]|#item-680e86aaa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/854,1781,549,73/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421458501
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/854,1781,549,73/150,/0/default.jpg
+label: Dr Burnet
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0486'
 layout: index_item
 collection: index1

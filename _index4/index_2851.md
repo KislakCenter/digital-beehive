@@ -2,28 +2,29 @@
 pid: index_2851
 volume: Volume 3
 image_number: '34'
-head: Oxford
-entry: 4587 [PAGE_MISSING]
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7d058d9a8"
-unparsed: 
-line: 'Head: Oxford|Entry: 4587 [PAGE_MISSING]|#item-7d058d9a8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/467,2239,559,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425741692
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/467,2239,559,150/150,/0/default.jpg
-label: Oxford
+head: papists
+entry: "<a href='/digital-beehive/num2/num_0494/'>403 [Papists]</a>|<a href='/digital-beehive/num7/num_2559/'>1668
+  [Papists]</a>|<a href='/digital-beehive/num8/num_2754/'>1821 [Papists]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-31e104bfe"
+unparsed:
+line: 'Head: papists|Entry: 403 [Papists]|Entry: 1668 [Papists]|Entry: 1821 [Papists]|#item-31e104bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1161,638,743,199/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492514004
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1161,638,743,199/150,/0/default.jpg
+label: papists
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0100'
+issue:
+insertion_xref:
+order: '0099'
 layout: index_item
 collection: index4
 ---

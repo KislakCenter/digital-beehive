@@ -2,29 +2,28 @@
 pid: index_2828
 volume: Volume 3
 image_number: '33'
-head: ornament
-entry: "<a href='/digital-beehive/num1/num_0203/'>195 [Ornament]</a>|<a href='/digital-beehive/toc/toc2_336/'>1715
-  [Ornament]</a>"
-topic: 
+head: oeconomical books
+entry:
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a2f8a49e8"
-unparsed: 
-line: 'Head: ornament|Entry: 195 [Ornament]|Entry: 1715 [Ornament]|#item-a2f8a49e8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1500,3196,752,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538163913155
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1500,3196,752,152/150,/0/default.jpg
-label: ornament
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-3accecf63"
+unparsed:
+line: 'Head: oeconomical books|Page: p.379 [Image 2.201]|#item-3accecf63'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347797850
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/77,3390,791,163/150,/0/default.jpg
+label: oeconomical books
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0077'
+issue:
+insertion_xref:
+order: '0076'
 layout: index_item
 collection: index4
 ---

@@ -2,29 +2,29 @@
 pid: index_1821
 volume: Volume 3
 image_number: '24'
-head: herring
-entry: "<a href='/digital-beehive/alpha2/alpha_0417/'>a</a>|<a href='/digital-beehive/toc/toc2_397/'>2266
-  [Herrings]</a>"
-topic: 
+head: "[:15.]"
+entry:
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7a06b51d6"
-unparsed: 
-line: 'Head: herring|Entry: a|Entry: 2266 [Herrings]|#item-7a06b51d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/428,915,579,173/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575450492
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/428,915,579,173/150,/0/default.jpg
-label: herring
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eb07b77b2"
+unparsed: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'
+line: 'Type: Index|Insertion Xref: [:15.]|#item-eb07b77b2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1696,1249,165,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560198215848
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1696,1249,165,117/150,/0/default.jpg
+label: "[:15.]"
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '639'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4713/'>holiness of places
+  and times</a>"
+order: '640'
 layout: index_item
 collection: index2
 ---

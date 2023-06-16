@@ -2,27 +2,27 @@
 pid: index_0504
 volume: Volume 3
 image_number: '11'
-head: caduceus
-entry: "<a href='/digital-beehive/toc/toc2_381/'>2153 [Mercurius]</a>"
-topic: 
+head: canonization
+entry: "<a href='/digital-beehive/num8/num_2708/'>1777 [Apotheosis]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0013a4096"
-unparsed: 
-line: 'Head: caduceus|Entry: 2153 [Mercurius]|#item-0013a4096'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493973521
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/873,3590,562,103/150,/0/default.jpg
-label: caduceus
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3492/'>Saints</a>"
+index:
+item: "#item-82529a291"
+unparsed:
+line: 'Head: canonization|See: Saints|Entry: 1777 [Apotheosis]|#item-82529a291'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,2423,775,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495766471
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1563,2423,775,156/150,/0/default.jpg
+label: canonization
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0503'
 layout: index_item
 collection: index1

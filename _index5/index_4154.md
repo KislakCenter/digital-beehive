@@ -2,31 +2,29 @@
 pid: index_4154
 volume: Volume 3
 image_number: '47'
-head: time
-entry: "<a href='/digital-beehive/alpha5/alpha_0956/'>a</a>|<a href='/digital-beehive/toc/toc2_238/'>1225
-  [Time]</a>|<a href='/digital-beehive/toc/toc2_371/'>2059 [Time]</a>|<a href='/digital-beehive/toc/toc2_431/'>4815
-  [Time]</a>"
-topic: 
+head: testament new
+entry: "<a href='/digital-beehive/alpha5/alpha_0952/'>a</a>|<a href='/digital-beehive/num4/num_1227/'>926
+  [New Testament]</a>|<a href='/digital-beehive/num10/num_3399/'>2426 [New Testamt]</a>"
+topic:
 first_letter: T
-page: 
-add: "<a href='/digital-beehive/index3/index_2294/'>lilly time</a>"
-xref: 
-see: 
-index: 
-item: "#item-df6275575"
-unparsed: 
-line: 'Head: time|Entry: a|Entry: 1225 [Time]|Entry: 2059 [Time]|Entry: 4815 [Time]|Add:
-  lilly time|#item-df6275575'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565800136088
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2233,686,342/150,/0/default.jpg
-label: time
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5620834db"
+unparsed:
+line: 'Head: testament new|Entry: a|Entry: 926 [New Testament]|Entry: 2426 [New Testamt]|#item-5620834db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/167,3167,631,87/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529088125728
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/167,3167,631,87/150,/0/default.jpg
+label: testament new
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '116'
+issue:
+insertion_xref:
+order: '117'
 layout: index_item
 collection: index5
 ---

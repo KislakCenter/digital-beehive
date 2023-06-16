@@ -2,28 +2,28 @@
 pid: index_0864
 volume: Volume 3
 image_number: '15'
-head: cosmographical books
-entry: 
-topic: 
+head: creation
+entry: "<a href='/digital-beehive/num6/num_1859/'>1324 [Creation]</a>|<a href='/digital-beehive/num7/num_2584/'>1681
+  [Creation]</a>"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.201]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a878f7352"
-unparsed: 
-line: 'Head: cosmographical books|Page: p.379 [Image 2.201]|#item-a878f7352'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974061920
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/147,599,756,122/150,/0/default.jpg
-label: cosmographical books
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f606aba66"
+unparsed:
+line: 'Head: creation|Entry: 1324 [Creation]|Entry: 1681 [Creation]|#item-f606aba66'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/875,262,659,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538577144123
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/875,262,659,108/150,/0/default.jpg
+label: creation
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: Pastorius writes p.279, but "post num. 1005," which refers to pages 375ff.
-  It can be inferred Pastorius means p.379.
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0863'
 layout: index_item
 collection: index1

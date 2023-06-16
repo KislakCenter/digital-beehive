@@ -2,28 +2,28 @@
 pid: index_2070
 volume: Volume 3
 image_number: '26'
-head: insurance
-entry: "<a href='/digital-beehive/num4/num_1204'>914 [Security, he that promises for
-  another]</a>"
-topic: 
+head: inward
+entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Turn in!]</a>|<a href='/digital-beehive/num10/num_3241/'>2281
+  [Turn in : Inward]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6cdff2e8b"
-unparsed: 
-line: 'Head: insurance|Entry: 914 [Security, he that promises for another]|#item-6cdff2e8b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1150,2290,470,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559748647670
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1150,2290,470,131/150,/0/default.jpg
-label: insurance
+page:
+add:
+xref:
+see:
+index:
+item: "#item-af7c595b4"
+unparsed:
+line: 'Head: inward|Entry: 489 [Turn in!]|Entry: 2281 [Turn in : Inward]|#item-af7c595b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751844981
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1869,1787,556,136/150,/0/default.jpg
+label: inward
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '152'
 layout: index_item
 collection: index3

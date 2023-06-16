@@ -2,28 +2,28 @@
 pid: index_2958
 volume: Volume 3
 image_number: '35'
-head: to perish
-entry: 852 [PAGE_MISSING]
-topic: 
+head: "[:23.]"
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-97c45dc60"
-unparsed: 
-line: 'Head: to perish|Entry: 852 [PAGE_MISSING]|#item-97c45dc60'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/133,2825,540,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539973189139
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/133,2825,540,167/150,/0/default.jpg
-label: to perish
+page:
+add:
+xref:
+see:
+index:
+item: "#item-af87e25ee"
+unparsed: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
+line: 'Type: Index|Insertion Xref: [:23.]|#item-af87e25ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277247869
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/2032,965,265,126/150,/0/default.jpg
+label: "[:23.]"
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0207'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4729/'>pike, Hecht</a>"
+order: '0206'
 layout: index_item
 collection: index4
 ---

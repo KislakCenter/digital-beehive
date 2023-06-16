@@ -2,28 +2,28 @@
 pid: index_3783
 volume: Volume 3
 image_number: '43'
-head: soil
-entry: "<a href='/digital-beehive/num2/num_0534/'>432 [Land]</a>"
-topic: 
+head: since
+entry: "<a href='/digital-beehive/num8/num_2718/'>1786 [Since]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-32fe2ea66"
-unparsed: 
-line: 'Head: soil|Entry: 432 [Land]|#item-32fe2ea66'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1598,2726,356,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586387757
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/1598,2726,356,98/150,/0/default.jpg
-label: soil
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f0fac3731"
+unparsed:
+line: 'Head: since|Entry: 1786 [Since]|#item-f0fac3731'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,3289,422,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582679675
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/167,3289,422,112/150,/0/default.jpg
+label: since
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1032'
+issue:
+insertion_xref:
+order: '1031'
 layout: index_item
 collection: index4
 ---

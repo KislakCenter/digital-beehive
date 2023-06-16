@@ -2,27 +2,27 @@
 pid: index_1494
 volume: Volume 3
 image_number: '21'
-head: fontanell
-entry: "<a href='/digital-beehive/alpha2/alpha_0335/'>a</a>"
-topic: 
+head: flux
+entry: 805 [PAGE_MISSING]
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-23a4e6818"
-unparsed: 
-line: 'Head: fontanell|Entry: a|#item-23a4e6818'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/156,1165,530,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508355098416
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/156,1165,530,129/150,/0/default.jpg
-label: fontanell
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ad586d7b1"
+unparsed:
+line: 'Head: flux|Entry: 805 [PAGE_MISSING]|#item-ad586d7b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/183,496,344,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232750984
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/183,496,344,102/150,/0/default.jpg
+label: flux
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '313'
 layout: index_item
 collection: index2

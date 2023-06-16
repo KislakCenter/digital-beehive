@@ -2,28 +2,28 @@
 pid: index_3360
 volume: Volume 3
 image_number: '39'
-head: to remove
-entry: 803 [PAGE_MISSING]
-topic: 
+head: rest or residue
+entry: "<a href='/digital-beehive/num3/num_1053/'>716 [Rest]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d937afb68"
-unparsed: 
-line: 'Head: to remove|Entry: 803 [PAGE_MISSING]|#item-d937afb68'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/774,1160,503,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469027421
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/774,1160,503,170/150,/0/default.jpg
-label: to remove
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f744b719b"
+unparsed:
+line: 'Head: rest or residue|Entry: 716 [Rest]|#item-f744b719b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1484,1604,649,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229877876
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1484,1604,649,151/150,/0/default.jpg
+label: rest or residue
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0609'
+issue:
+insertion_xref:
+order: '0608'
 layout: index_item
 collection: index4
 ---

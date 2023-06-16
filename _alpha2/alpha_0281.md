@@ -2,29 +2,28 @@
 pid: alpha_0281
 volume: Volume 1
 image_number: '453'
-head: 
-entry: Empire
-topic: Empire
+head:
+entry: Egg
+topic: Egg
 first_letter: E
-page: 
-add: 
-xref: Kingdom
-see: 
-index: "<a href='/digital-beehive/index2/index_1240/'>empire</a>"
-item: "#item-3af6ee29e"
-unparsed: 
-line: 'Entry: Empire|Topic: Empire|Xref: Kingdom|Index: empire|#item-3af6ee29e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,3092,305/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518529825
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/377,1889,600,180/250,/0/default.jpg
-label: Empire
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2524/'>1651 [Eggs]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1172/'>egg</a>"
+item: "#item-5bacc263d"
+unparsed:
+line: 'Entry: Egg|Topic: Egg|Xref: 1651 [Eggs]|Index: egg|#item-5bacc263d'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/381,801,3076,319/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564518289645
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/381,801,600,180/250,/0/default.jpg
+label: Egg
 location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: The point of reference for "Kingdom" is unclear. Pastorius perhaps intends
-  numerical entry 906 [Kingdom].
-also_in_entry: 
-order: '012'
+issue:
+also_in_entry:
+order: '009'
 layout: alpha_item
 collection: alpha2
 ---

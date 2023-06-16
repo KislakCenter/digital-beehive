@@ -2,28 +2,30 @@
 pid: alpha_0899
 volume: Volume 2
 image_number: '54'
-head: 
-entry: Show
-topic: Show
+head:
+entry: Soon
+topic: Soon
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index4/index_3671/'>a shew</a>"
-item: "#item-68eab80ab"
-unparsed: 
-line: 'Entry: Show|Topic: Show|Index: a shew|#item-68eab80ab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/736,3960,3019,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565111549606
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0521/736,3960,600,180/250,/0/default.jpg
-label: Show
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0402/'>hast</a>|<a href='/digital-beehive/alpha5/alpha_0973/'>too
+  soon</a>|<a href='/digital-beehive/num1/num_0183/'>175 [Dispatch]</a>|797 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_3821/'>soon</a>"
+item: "#item-4adfacb54"
+unparsed:
+line: 'Entry: Soon|Topic: Soon|Xref: hast|Xref: too soon|Xref: 175 [Dispatch]|Xref:
+  797 [PAGE_MISSING]|Index: soon|#item-4adfacb54'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/764,2207,2965,380/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532449192504
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0521/764,2207,600,180/250,/0/default.jpg
+label: Soon
 location: "<a href='/digital-beehive/toc/toc2_044/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '251'
+issue:
+also_in_entry:
+order: '247'
 layout: alpha_item
 collection: alpha4
 ---

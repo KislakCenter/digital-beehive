@@ -2,30 +2,29 @@
 pid: index_4670
 volume: Volume 3
 image_number: '54'
-head: national Constitutions
-entry: "<a href='/digital-beehive/toc/toc2_267/'>1368 [Fashion of the Countrey]</a>|1872
-  [PAGE_MISSING]"
-topic: 
+head: to scare, affright, or fright
+entry: "<a href='/digital-beehive/num8/num_2684/'>1755 [To Scare]</a>"
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8b9b56e9e"
-unparsed: Type Index|Insertion [:7.]
-line: 'Type: Index|Insertion: [:7.]|Head: national Constitutions|Entry: 1368 [Fashion
-  of the Countrey]|Entry: 1872 [PAGE_MISSING]|#item-8b9b56e9e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/374,1357,688,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560867948206
-insertion: "[:7.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/374,1357,688,143/150,/0/default.jpg
-label: national Constitutions
+page:
+add:
+xref:
+see:
+index:
+item: "#item-97e503b79"
+unparsed: Type Index|Insertion [:2.]
+line: 'Type: Index|Insertion: [:2.]|Head: to scare, affright, or fright|Entry: 1755
+  [To Scare]|#item-97e503b79'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/357,517,733,217/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560867344773
+insertion: "[:2.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/357,517,733,217/150,/0/default.jpg
+label: to scare, affright, or fright
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '632'
+issue:
+insertion_xref:
+order: '633'
 layout: index_item
 collection: index5
 ---

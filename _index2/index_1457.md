@@ -2,27 +2,28 @@
 pid: index_1457
 volume: Volume 3
 image_number: '20'
-head: firmamt
-entry: "<a href='/digital-beehive/num2/num_0462/'>383 [Firmament]</a>"
-topic: 
+head: fancies
+entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>|<a href='/digital-beehive/num10/num_3468/'>4481
+  [Whimsies]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8e3e75218"
-unparsed: 
-line: 'Head: firmamt|Entry: 383 [Firmament]|#item-8e3e75218'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1814,1287,489,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562613756888
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1814,1287,489,176/150,/0/default.jpg
-label: firmamt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-21415a04b"
+unparsed:
+line: 'Head: fancies|Entry: 299 [idle fancies]|Entry: 4481 [Whimsies]|#item-21415a04b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,2652,669,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658946794
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/374,2652,669,150/150,/0/default.jpg
+label: fancies
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '276'
 layout: index_item
 collection: index2

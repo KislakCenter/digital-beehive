@@ -2,31 +2,28 @@
 pid: index_3742
 volume: Volume 3
 image_number: '43'
-head: slander
-entry: "<a href='/digital-beehive/alpha4/alpha_0884/'>a</a>|<a href='/digital-beehive/toc/toc2_234/'>1202
-  [Slander]</a>|<a href='/digital-beehive/toc/toc2_370/'>2050 [Slander]</a>|<a href='/digital-beehive/toc/toc2_446/'>4915
-  [Slander]</a>"
-topic: 
+head: slate
+entry: "<a href='/digital-beehive/num4/num_1105/'>873 [Paper]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0c9ba1de5"
-unparsed: 
-line: 'Head: slander|Entry: a|Entry: 1202 [Slander]|Entry: 2050 [Slander]|Entry: 4915
-  [Slander]|#item-0c9ba1de5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1706,740,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583465323
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/892,1706,740,143/150,/0/default.jpg
-label: slander
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c8e732559"
+unparsed:
+line: 'Head: slate|Entry: 873 [Paper]|#item-c8e732559'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559583493541
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/885,1828,464,125/150,/0/default.jpg
+label: slate
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0991'
+issue:
+insertion_xref:
+order: '0990'
 layout: index_item
 collection: index4
 ---

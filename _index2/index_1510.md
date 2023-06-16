@@ -2,29 +2,27 @@
 pid: index_1510
 volume: Volume 3
 image_number: '21'
-head: forgiveness
-entry: "<a href='/digital-beehive/toc/toc2_210/'>1081 [Forgiveness]</a>|<a href='/digital-beehive/toc/toc2_341/'>1764
-  [Forgiveness]</a>|4561 [PAGE_MISSING]"
-topic: 
+head: fountain
+entry:
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a6e50459d"
-unparsed: 
-line: 'Head: forgiveness|Entry: 1081 [Forgiveness]|Entry: 1764 [Forgiveness]|Entry:
-  4561 [PAGE_MISSING]|#item-a6e50459d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/160,2777,664,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531503202681
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/160,2777,664,154/150,/0/default.jpg
-label: forgiveness
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3839/'>spring</a>"
+index:
+item: "#item-4378a2c3e"
+unparsed:
+line: 'Head: fountain|See: spring|#item-4378a2c3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/886,940,677,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531763096478
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/886,940,677,146/150,/0/default.jpg
+label: fountain
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '329'
 layout: index_item
 collection: index2

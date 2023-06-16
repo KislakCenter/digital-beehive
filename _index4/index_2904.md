@@ -2,30 +2,28 @@
 pid: index_2904
 volume: Volume 3
 image_number: '34'
-head: passive obed
-entry: "<a href='/digital-beehive/toc/toc2_384/'>2189 [Passive obedience & non resistance]</a>|Entry
-  4626 [PAGE_MISSING]"
-topic: 
+head: pavemt
+entry: "<a href='/digital-beehive/num11/num_3566/'>4871 [Pavement]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dc60fc9ce"
-unparsed: 
-line: 'Head: passive obed|Entry: 2189 [Passive obedience & non resistance]|Entry 4626
-  [PAGE_MISSING]|#item-dc60fc9ce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,424,713,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494978487
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,424,713,198/150,/0/default.jpg
-label: passive obed
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7c34e855a"
+unparsed:
+line: 'Head: pavemt|Entry: 4871 [Pavement]|#item-7c34e855a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495773110
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1793,2333,636,112/150,/0/default.jpg
+label: pavemt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0153'
+issue:
+insertion_xref:
+order: '0152'
 layout: index_item
 collection: index4
 ---

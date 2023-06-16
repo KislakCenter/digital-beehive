@@ -2,27 +2,27 @@
 pid: index_2409
 volume: Volume 3
 image_number: '29'
-head: manhood
-entry: 
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0645/'>Christ</a>"
-index: 
-item: "#item-171409b2c"
-unparsed: 
-line: 'Head: manhood|See: Christ|#item-171409b2c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1949,535,157/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195693402
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1949,535,157/150,/0/default.jpg
-label: manhood
+head: first love
+entry: "<a href='/digital-beehive/num7/num_2411/'>1601 [First Love]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-55b6f1813"
+unparsed:
+line: 'Head: first love|Entry: 1601 [First Love]|#item-55b6f1813'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180308485
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/163,2985,437,129/150,/0/default.jpg
+label: first love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '491'
 layout: index_item
 collection: index3

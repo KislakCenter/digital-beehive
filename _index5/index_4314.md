@@ -2,28 +2,28 @@
 pid: index_4314
 volume: Volume 3
 image_number: '49'
-head: "[:45.]"
-entry: 
-topic: 
+head: virgil
+entry: "<a href='/digital-beehive/num8/num_2721/'>1788 [Virgil's]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4bf9243e5"
-unparsed: 'Type: Index|Insertion Xref: [:45.]|#item-4bf9243e5'
-line: 'Type: Index|Insertion Xref: [:45.]|#item-4bf9243e5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561658924738
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1477,3058,189,109/150,/0/default.jpg
-label: "[:45.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7a93fc96b"
+unparsed:
+line: 'Head: virgil|Entry: 1788 [Virgil''s]|#item-7a93fc96b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1661,2270,425,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660984866
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1661,2270,425,120/150,/0/default.jpg
+label: virgil
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4713/'>Vernish</a>"
-order: '276'
+issue:
+insertion_xref:
+order: '277'
 layout: index_item
 collection: index5
 ---

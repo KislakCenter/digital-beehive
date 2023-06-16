@@ -2,27 +2,29 @@
 pid: index_1985
 volume: Volume 3
 image_number: '25'
-head: impurity
-entry: 
-topic: 
+head: Jews
+entry: "<a href='/digital-beehive/alpha3/alpha_0453/'>a</a>|<a href='/digital-beehive/num3/num_0718/'>564
+  [Jews]</a>|<a href='/digital-beehive/num6/num_2192/'>1487 [Jews]</a>|<a href='/digital-beehive/num9/num_2961/'>2027
+  [Jew]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_1059/'>dirt</a>"
-index: 
-item: "#item-22a9b0eab"
-unparsed: 
-line: 'Head: impurity|See: dirt|#item-22a9b0eab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3241,582,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559668321351
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/850,3241,582,191/150,/0/default.jpg
-label: impurity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-35a8c43a3"
+unparsed:
+line: 'Head: Jews|Entry: a|Entry: 564 [Jews]|Entry: 1487 [Jews]|Entry: 2027 [Jew]|#item-35a8c43a3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559661442705
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/160,2389,675,105/150,/0/default.jpg
+label: Jews
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '067'
 layout: index_item
 collection: index3

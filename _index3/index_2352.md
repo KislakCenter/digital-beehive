@@ -2,28 +2,27 @@
 pid: index_2352
 volume: Volume 3
 image_number: '29'
-head: love potion
-entry: "<a href='/digital-beehive/alpha3/alpha_0561/'>a</a>|<a href='/digital-beehive/toc/toc2_319/'>1623
-  [Love potions]</a>"
-topic: 
+head: lusty
+entry: "<a href='/digital-beehive/num4/num_1126/'>882 [Pleasure]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-00d47fb4b"
-unparsed: 
-line: 'Head: love potion|Entry: a|Entry: 1623 [Love potions]|#item-00d47fb4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180219524
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2896,575,128/150,/0/default.jpg
-label: love potion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-05fed984b"
+unparsed:
+line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/862,1115,368,127/150,/0/default.jpg
+label: lusty
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '434'
 layout: index_item
 collection: index3

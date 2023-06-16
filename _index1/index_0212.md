@@ -2,27 +2,27 @@
 pid: index_0212
 volume: Volume 3
 image_number: '8'
-head: arrogancy
-entry: 
-topic: 
+head: antego
+entry: "<a href='/digital-beehive/num7/num_2247/'>1518 [Antego]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3150/'>pride</a>|<a href='/digital-beehive/index4/index_3921/'>stoutness</a>"
-index: 
-item: "#item-5c111e5f0"
-unparsed: 
-line: 'Head: arrogancy|See: pride|See: stoutness|#item-5c111e5f0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1799,1217,594,206/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565631327494
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1799,1217,594,206/150,/0/default.jpg
-label: arrogancy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-48287515a"
+unparsed:
+line: 'Head: antego|Entry: 1518 [Antego]|#item-48287515a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759160447
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/386,2650,434,137/150,/0/default.jpg
+label: antego
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0211'
 layout: index_item
 collection: index1

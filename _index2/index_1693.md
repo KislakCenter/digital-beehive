@@ -2,28 +2,28 @@
 pid: index_1693
 volume: Volume 3
 image_number: '22'
-head: grapes
-entry: "<a href='/digital-beehive/num4/num_1298'>973 [Grapes]</a>"
-topic: 
+head: Gog & Magog
+entry: "<a href='/digital-beehive/alpha2/alpha_0374/'>a</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-76e15ed6a"
-unparsed: 
-line: 'Head: grapes|Entry: 973 [Grapes]|#item-76e15ed6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1846,2649,394,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561053417260
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1846,2649,394,113/150,/0/default.jpg
-label: grapes
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e6051f44e"
+unparsed:
+line: 'Head: Gog & Magog|Entry: a|#item-e6051f44e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,3313,538,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561050836214
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1167,3313,538,120/150,/0/default.jpg
+label: Gog & Magog
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '511'
+issue:
+insertion_xref:
+order: '512'
 layout: index_item
 collection: index2
 ---

@@ -2,27 +2,28 @@
 pid: index_0738
 volume: Volume 3
 image_number: '13'
-head: to com[m]end
-entry: 
-topic: 
+head: civility
+entry: "<a href='/digital-beehive/alpha1/alpha_0152/'>a</a>|<a href='/digital-beehive/num9/num_2945/'>2011
+  [Civility]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3316/'>recom[m]enda[ti]on</a>"
-index: 
-item: "#item-107b6ac4d"
-unparsed: 
-line: 'Head: to com[m]end|See: recom[m]enda[ti]on|#item-107b6ac4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1541,1939,757,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611418347
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1541,1939,757,170/150,/0/default.jpg
-label: to com[m]end
+page:
+add:
+xref:
+see:
+index:
+item: "#item-78ca20588"
+unparsed:
+line: 'Head: civility|Entry: a|Entry: 2011 [Civility]|#item-78ca20588'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,2924,536,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333241862
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/158,2924,536,154/150,/0/default.jpg
+label: civility
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0737'
 layout: index_item
 collection: index1

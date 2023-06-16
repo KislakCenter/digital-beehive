@@ -1,29 +1,29 @@
 ---
 pid: index_3405
 volume: Volume 3
-image_number: '40'
-head: revenue
-entry: "<a href='/digital-beehive/num3/num_0724'>568 [Rent or Revenue]</a>"
-topic: 
+image_number: '39'
+head: republick
+entry: "<a href='/digital-beehive/num2/num_0473/'>389 [a Republick]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7e259819a"
-unparsed: 
-line: 'Head: revenue|Entry: 568 [Rent of Revenue]|#item-7e259819a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,248,470,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230786594
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/442,248,470,132/150,/0/default.jpg
-label: revenue
-location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0654'
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a5979c628"
+unparsed:
+line: 'Head: republick|Entry: 389 [a Republick]|#item-a5979c628'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/805,3434,687,172/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469700945
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/805,3434,687,172/150,/0/default.jpg
+label: republick
+location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
+issue:
+insertion_xref:
+order: '0653'
 layout: index_item
 collection: index4
 ---

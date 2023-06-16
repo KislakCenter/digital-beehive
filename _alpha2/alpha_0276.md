@@ -1,29 +1,29 @@
 ---
 pid: alpha_0276
 volume: Volume 1
-image_number: '453'
-head: 
-entry: Eclipse
-topic: Eclipse
+image_number: '452'
+head:
+entry: Easter
+topic: Easter
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1251'>936 [Eclipse]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1204/'>eclipse</a>"
-item: "#item-3a398c693"
-unparsed: 
-line: 'Entry: Eclipse|Topic: Eclipse|Xref: 936 [Eclipse]|Index: eclipse|#item-3a398c693'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,3117,234/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564518194850
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0452/386,523,600,180/250,/0/default.jpg
-label: Eclipse
-location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '007'
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1351/'>1011 [Passover]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1182/'>easter</a>"
+item: "#item-193279c50"
+unparsed:
+line: 'Entry: Easter|Topic: Easter|Xref: 1011 [Passover]|Index: easter|#item-193279c50'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/777,3864,2953,341/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564517734715
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/777,3864,600,180/250,/0/default.jpg
+label: Easter
+location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
+issue: The point of reference for "Passover Feast" is unclear.
+also_in_entry:
+order: '004'
 layout: alpha_item
 collection: alpha2
 ---

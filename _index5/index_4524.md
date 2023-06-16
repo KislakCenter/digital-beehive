@@ -2,29 +2,29 @@
 pid: index_4524
 volume: Volume 3
 image_number: '52'
-head: whale
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1398 [Whale]</a>|<a href='/digital-beehive/toc/toc2_300/'>1530
-  [Whale]</a>"
-topic: 
+head: wen
+entry: "<a href='/digital-beehive/num3/num_0957/'>681 [Wen]</a>|<a href='/digital-beehive/num9/num_3086/'>2146
+  [Wen]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fe8439c1c"
-unparsed: 
-line: 'Head: whale|Entry: 1398 [Whale]|Entry: 1530 [Whale]|#item-fe8439c1c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1078,2310,597,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560969621888
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1078,2310,597,167/150,/0/default.jpg
-label: whale
+page:
+add:
+xref:
+see:
+index:
+item: "#item-005f38a48"
+unparsed:
+line: 'Head: wen|Entry: 681 [Wen]|Entry: 2146 [Wen]|#item-005f38a48'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1080,1760,584,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969100674
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1080,1760,584,130/150,/0/default.jpg
+label: wen
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '486'
+issue:
+insertion_xref:
+order: '487'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,29 @@
 pid: alpha_0407
 volume: Volume 2
 image_number: '17'
-head: 
-entry: Heaven
-topic: Heaven
+head:
+entry: Drinking of Health
+topic: Drinking of Health
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_229/'>1176 [Heaven]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1784/'>heaven</a>"
-item: "#item-2fb32b5f2"
-unparsed: 
-line: 'Entry: Heaven|Topic: Heaven|Xref: 1176 [Heaven]|Index: heaven|#item-2fb32b5f2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/351,3960,3064,421/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508960630868
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/351,3960,600,180/250,/0/default.jpg
-label: Heaven
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_2016/'>1403 [Drinking of healths]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1709/'>drinking of health</a>"
+item: "#item-2b1f4b265"
+unparsed:
+line: 'Entry: Drinking of Health|Topic: Drinking of Health|Xref: 1403 [Drinking of
+  healths]|Index: drinking of health|#item-2b1f4b265'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/367,2727,3055,384/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508805459776
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/367,2727,600,180/250,/0/default.jpg
+label: Drinking of Health
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '138'
+issue:
+also_in_entry:
+order: '135'
 layout: alpha_item
 collection: alpha2
 ---

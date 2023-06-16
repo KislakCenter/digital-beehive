@@ -2,27 +2,27 @@
 pid: index_1491
 volume: Volume 3
 image_number: '21'
-head: fodder
-entry: "<a href='/digital-beehive/num4/num_1115'>878 [Pasture]</a>"
-topic: 
+head: flower
+entry: "<a href='/digital-beehive/alpha2/alpha_0337/'>a</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-77cd9b069"
-unparsed: 
-line: 'Head: fodder|Entry: 878 [Pasture]|#item-77cd9b069'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/198,743,380,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531232982198
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/198,743,380,113/150,/0/default.jpg
-label: fodder
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-e834c75d4"
+unparsed:
+line: 'Head: flower|Page: p.33 [Image 1.93]|Entry: a|#item-e834c75d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/181,385,511,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508355173678
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/181,385,511,110/150,/0/default.jpg
+label: flower
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '310'
 layout: index_item
 collection: index2

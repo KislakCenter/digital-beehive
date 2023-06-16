@@ -3,7 +3,7 @@ pid: index_4069
 volume: Volume 3
 image_number: '46'
 head: surplice
-entry: "<a href='/digital-beehive/num7/num_2403/'>1598 [Surplice]</a>"
+entry: "<a href='/digital-beehive/num7/num_2404/'>1598 [Surplice]</a>"
 topic:
 first_letter: S
 page:
@@ -23,7 +23,7 @@ label: surplice
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1285'
+order: '1284'
 layout: index_item
 collection: index4
 ---

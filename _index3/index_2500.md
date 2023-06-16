@@ -2,27 +2,27 @@
 pid: index_2500
 volume: Volume 3
 image_number: '30'
-head: metaphysicks
-entry: "<a href='/digital-beehive/alpha3/alpha_0590/'>a</a>"
-topic: 
+head: minerva
+entry: "<a href='/digital-beehive/num5/num_1361/'>1019 [Spinning]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-37b2da10d"
-unparsed: 
-line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1852,539,506,147/150,/0/default.jpg
-label: metaphysicks
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8050bf144"
+unparsed:
+line: 'Head: minerva|Entry: 1019 [Spinning]|#item-8050bf144'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274344460
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1812,2233,405,89/150,/0/default.jpg
+label: minerva
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '582'
 layout: index_item
 collection: index3

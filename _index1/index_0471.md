@@ -2,27 +2,27 @@
 pid: index_0471
 volume: Volume 3
 image_number: '11'
-head: buffoonry
-entry: "<a href='/digital-beehive/alpha1/alpha_0106/'>a</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e64402e2d"
-unparsed: 
-line: 'Head: buffoonry|Entry: a|#item-e64402e2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,497,400,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420260167
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/885,497,400,110/150,/0/default.jpg
-label: buffoonry
+head: can
+entry:
+topic:
+first_letter: C
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3107/'>pot</a>"
+index:
+item: "#item-00c3a7dea"
+unparsed:
+line: 'Head: can|See: pot|#item-00c3a7dea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,1358,424,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494854335
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1575,1358,424,132/150,/0/default.jpg
+label: can
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0470'
 layout: index_item
 collection: index1
