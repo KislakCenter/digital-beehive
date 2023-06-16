@@ -2,29 +2,28 @@
 pid: index_1854
 volume: Volume 3
 image_number: '24'
-head: holiness
-entry: "<a href='/digital-beehive/alpha2/alpha_0424/'>a</a>|<a href='/digital-beehive/num4/num_1321'>990
-  [Holiness]</a>|<a href='/digital-beehive/toc/toc2_368/'>2025 [Holiness]</a>"
-topic: 
+head: heterodox
+entry: "<a href='/digital-beehive/num2/num_0452/'>373 [Heterodox]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-24ad8915e"
-unparsed: 
-line: 'Head: holiness|Entry: a|Entry: 990 [Holiness]|Entry: 2025 [Holiness]|#item-24ad8915e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582176530
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1147,1212,541,191/150,/0/default.jpg
-label: holiness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a71282ec1"
+unparsed:
+line: 'Head: heterodox|Entry: 373 [Heterodox]|#item-a71282ec1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/424,1320,497,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575808902
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/424,1320,497,123/150,/0/default.jpg
+label: heterodox
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '672'
+issue:
+insertion_xref:
+order: '673'
 layout: index_item
 collection: index2
 ---

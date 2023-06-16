@@ -2,28 +2,27 @@
 pid: index_2301
 volume: Volume 3
 image_number: '28'
-head: lion
-entry: "<a href='/digital-beehive/alpha3/alpha_0541/'>a</a>|<a href='/digital-beehive/toc/toc2_211/'>1088
-  [Lion]</a>"
-topic: 
+head: livery or badge
+entry: "<a href='/digital-beehive/num10/num_3446/'>4464 [Livery or Badge]</a>"
+topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1e2a7d74a"
-unparsed: 
-line: 'Head: lion|Page: p.34 [Image 1.94]|Entry: a|Entry: 1088 [Lion]|#item-1e2a7d74a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1836,1521,574,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848895839
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1836,1521,574,139/150,/0/default.jpg
-label: lion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7cf15af50"
+unparsed:
+line: 'Head: livery or badge|Entry: 4464 [Livery or Badge]|#item-7cf15af50'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1821,2584,668,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849840609
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1821,2584,668,150/150,/0/default.jpg
+label: livery or badge
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '383'
 layout: index_item
 collection: index3

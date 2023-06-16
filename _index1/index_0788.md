@@ -2,27 +2,27 @@
 pid: index_0788
 volume: Volume 3
 image_number: '14'
-head: to confiscate
-entry: 754 [PAGE_MISSING]
-topic: 
+head: connivance
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-67a94f560"
-unparsed: 
-line: 'Head: to confiscate|Entry: 754 [PAGE_MISSING]|#item-67a94f560'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/383,3353,642,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216940444
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/383,3353,642,142/150,/0/default.jpg
-label: to confiscate
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2034/'>indulgence</a>"
+index:
+item: "#item-d9f88112e"
+unparsed:
+line: 'Head: connivance|See: indulgence|#item-d9f88112e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1067,851,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541355141
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1067,851,154/150,/0/default.jpg
+label: connivance
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0787'
 layout: index_item
 collection: index1

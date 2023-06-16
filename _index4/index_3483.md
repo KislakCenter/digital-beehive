@@ -2,28 +2,28 @@
 pid: index_3483
 volume: Volume 3
 image_number: '40'
-head: saddle
-entry: "<a href='/digital-beehive/num4/num_1095'>871 [a Saddle]</a>"
-topic: 
+head: sagacity
+entry:
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9c649f151"
-unparsed: 
-line: 'Head: saddle|Entry: 871 [a Saddle]|#item-9c649f151'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1778,1716,490,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234814991
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1778,1716,490,129/150,/0/default.jpg
-label: saddle
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4592/'>wit</a>"
+index:
+item: "#item-0c59a386a"
+unparsed:
+line: 'Head: sagacity|See: wit|#item-0c59a386a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1829,2464,562,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235133686
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1829,2464,562,121/150,/0/default.jpg
+label: sagacity
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0732'
+issue:
+insertion_xref:
+order: '0731'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,28 @@
 pid: index_2808
 volume: Volume 3
 image_number: '33'
-head: opposers
-entry: "<a href='/digital-beehive/num2/num_0491/'>401 [Opposers]</a>"
-topic: 
+head: Origines
+entry: "<a href='/digital-beehive/num7/num_2354/'>1571 [Origenes]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-29acd2423"
-unparsed: 
-line: 'Head: opposers|Entry: 401 [Opposers]|#item-29acd2423'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1486,992,504,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161598811
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1486,992,504,137/150,/0/default.jpg
-label: opposers
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1fa210768"
+unparsed:
+line: 'Head: Origines|Entry: 1571 [Origenes]|#item-1fa210768'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538163641781
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/1477,2687,661,168/150,/0/default.jpg
+label: Origines
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0057'
+issue:
+insertion_xref:
+order: '0056'
 layout: index_item
 collection: index4
 ---

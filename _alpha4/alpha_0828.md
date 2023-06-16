@@ -1,31 +1,29 @@
 ---
 pid: alpha_0828
 volume: Volume 2
-image_number: '50'
-head: 
-entry: Salvation
-topic: Salvation
+image_number: '49'
+head:
+entry: Sage
+topic: Sage
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0781/'>Redemption</a>|<a href='/digital-beehive/num1/num_0115/'>111
-  [Salvation]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3506/'>salvation</a>"
-item: "#item-3f445a110"
-unparsed: 
-line: 'Entry: Salvation|Topic: Salvation|Xref: Redemption|Xref: 111 [Salvation]|Index:
-  salvation|#item-3f445a110'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,2993,627/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528922491218
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0517/785,457,600,180/250,/0/default.jpg
-label: Salvation
-location: "<a href='/digital-beehive/toc/toc2_040/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '180'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_3422/'>sage</a>"
+item: "#item-e492cc2b6"
+unparsed:
+line: 'Entry: Sage|Topic: Sage|Index: sage|#item-e492cc2b6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/346,4078,2995,195/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917237556
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/346,4078,600,180/250,/0/default.jpg
+label: Sage
+location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '176'
 layout: alpha_item
 collection: alpha4
 ---

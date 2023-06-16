@@ -1,30 +1,30 @@
 ---
 pid: alpha_0247
 volume: Volume 1
-image_number: '451'
-head: 
-entry: Divinity
-topic: Divinity
+image_number: '450'
+head:
+entry: Disorder
+topic: Disorder
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [WORD_MISSING]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1113/'>divines and divinity</a>"
-item: "#item-a97ed4337"
-unparsed: 
-line: 'Entry: Divinity|Topic: Divinity|Xref: 1371 [WORD_MISSING]|Index: divines and
-  divinity|#item-a97ed4337'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,222,3066,385/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558557872632
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/372,222,600,180/250,/0/default.jpg
-label: Divinity
-location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-issue: 'The correct cross-reference under entry 1371 cannot be determined. '
-also_in_entry: 
-order: '245'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0670/'>Order</a>|<a href='/digital-beehive/num4/num_1237/'>929
+  [Disorder]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1123/'>disorder</a>"
+item: "#item-ec88b80d1"
+unparsed:
+line: 'Entry: Disorder|Topic: Disorder|Xref: Order|Xref: 929 [Disorder]|Index: disorder|#item-ec88b80d1'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/792,3538,2943,489/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508175634737
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/792,3538,600,180/250,/0/default.jpg
+label: Disorder
+location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '246'
 layout: alpha_item
 collection: alpha1
 ---

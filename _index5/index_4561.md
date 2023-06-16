@@ -2,28 +2,28 @@
 pid: index_4561
 volume: Volume 3
 image_number: '53'
-head: wine press
-entry: 
-topic: 
+head: worthiness
+entry: "<a href='/digital-beehive/alpha5/alpha_1066/'>a</a>"
+topic:
 first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a958593d0"
-unparsed: 
-line: 'Head: wine press|Page: p.38 [Image 1.98]|#item-a958593d0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560791253082
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/175,387,413,121/150,/0/default.jpg
-label: wine press
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4b82e3fd9"
+unparsed:
+line: 'Head: worthiness|Entry: a|#item-4b82e3fd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,269,481,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560798355013
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1598,269,481,123/150,/0/default.jpg
+label: worthiness
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '523'
+issue:
+insertion_xref:
+order: '524'
 layout: index_item
 collection: index5
 ---

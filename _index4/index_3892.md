@@ -2,28 +2,28 @@
 pid: index_3892
 volume: Volume 3
 image_number: '45'
-head: steeplehouses
-entry: "<a href='/digital-beehive/toc/toc2_199/'>1030 [Church]</a>"
-topic: 
+head: storm
+entry: "<a href='/digital-beehive/num2/num_0445/'>370 [Storm]</a>"
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f5c64a0ad"
-unparsed: 
-line: 'Head: steeplehouses|Page: p.4 [Image 1.64]|Entry: 1030 [Church]|#item-f5c64a0ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530219212893
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/192,1395,698,84/150,/0/default.jpg
-label: steeplehouses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c93371a65"
+unparsed:
+line: 'Head: storm|Entry: 370 [Storm]|#item-c93371a65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/888,637,329,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530449505581
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/888,637,329,101/150,/0/default.jpg
+label: storm
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1141'
+issue:
+insertion_xref:
+order: '1140'
 layout: index_item
 collection: index4
 ---

@@ -25,7 +25,7 @@ label: duty towards God, parents
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1172'
+order: '1174'
 layout: index_item
 collection: index1
 ---

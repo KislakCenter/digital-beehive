@@ -2,28 +2,28 @@
 pid: index_4159
 volume: Volume 3
 image_number: '47'
-head: tinder
-entry: "<a href='/digital-beehive/num1/num_0244/'>229 [Tinder]</a>"
-topic: 
+head: to thrive
+entry:
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e63d1518b"
-unparsed: 
-line: 'Head: tinder|Entry: 229 [Tinder]|#item-e63d1518b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281117572
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1594,2916,405,146/150,/0/default.jpg
-label: tinder
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1754/'>growth</a>"
+index:
+item: "#item-2994e8074"
+unparsed:
+line: 'Head: to thrive|See: growth|#item-2994e8074'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,3366,624,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294499999
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/885,3366,624,132/150,/0/default.jpg
+label: to thrive
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '121'
+issue:
+insertion_xref:
+order: '122'
 layout: index_item
 collection: index5
 ---

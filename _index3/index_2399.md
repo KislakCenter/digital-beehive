@@ -2,27 +2,27 @@
 pid: index_2399
 volume: Volume 3
 image_number: '29'
-head: malt
-entry: 4613 [PAGE_MISSING]
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-225f52c8b"
-unparsed: 
-line: 'Head: malt|Entry: 4613 [PAGE_MISSING]|#item-225f52c8b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1177,378,88/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194214909
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1554,1177,378,88/150,/0/default.jpg
-label: malt
+head: platonick love
+entry: "<a href='/digital-beehive/num7/num_2327/'>1559 [Platonical Love]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-204741b1b"
+unparsed:
+line: 'Head: platonick love|Entry: 1559 [Platonical Love]|#item-204741b1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560180035033
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/164,2719,615,133/150,/0/default.jpg
+label: platonick love
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '481'
 layout: index_item
 collection: index3

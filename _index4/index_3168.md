@@ -2,29 +2,29 @@
 pid: index_3168
 volume: Volume 3
 image_number: '37'
-head: probability
-entry: "<a href='/digital-beehive/num1/num_0265/'>246 [Probability]</a>|<a href='/digital-beehive/toc/toc2_386/'>2206
-  [Probability]</a>"
-topic: 
+head: propriety
+entry: "<a href='/digital-beehive/alpha4/alpha_0756/'>a</a>|<a href='/digital-beehive/num9/num_2946/'>2012
+  [Propriety]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b13adec1b"
-unparsed: 
-line: 'Head: probability|Entry: 246 [Probability]|Entry: 2206 [Probability]|#item-b13adec1b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867712416
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/782,1050,671,119/150,/0/default.jpg
-label: probability
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6eec518f1"
+unparsed:
+line: 'Head: propriety|Entry: a|Entry: 2012 [Propriety]|#item-6eec518f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1500,1417,614,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869339060
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1500,1417,614,119/150,/0/default.jpg
+label: propriety
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0417'
+issue:
+insertion_xref:
+order: '0416'
 layout: index_item
 collection: index4
 ---

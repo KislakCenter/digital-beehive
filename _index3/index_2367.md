@@ -2,29 +2,27 @@
 pid: index_2367
 volume: Volume 3
 image_number: '29'
-head: lust
-entry: "<a href='/digital-beehive/toc/toc2_274/'>1402 [Lasciviousness]</a>"
-topic: 
+head: lost arts
+entry: "<a href='/digital-beehive/num7/num_2428/'>1610 [Lost Arts]</a>"
+topic:
 first_letter: L
-page: 
-add: "<a href='/digital-beehive/index1/index_0777/'>Concup</a>|<a href='/digital-beehive/index3/index_2201/'>lasciv</a>|<a
-  href='/digital-beehive/index4/index_3041/'>pleasure</a>|<a href='/digital-beehive/index2/index_1372/'>eye</a>"
-xref: 
-see: 
-index: 
-item: "#item-510e75603"
-unparsed: 
-line: 'Head: lust|Entry: 1402 [Lasciviousness]|Add: Concup|Add: lasciv|Add: pleasure|Add:
-  eye|#item-510e75603'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185535453
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/851,924,646,184/150,/0/default.jpg
-label: lust
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bda7724be"
+unparsed:
+line: 'Head: lost arts|Entry: 1610 [Lost Arts]|#item-bda7724be'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1693,453,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178419120
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/179,1693,453,109/150,/0/default.jpg
+label: lost arts
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '449'
 layout: index_item
 collection: index3

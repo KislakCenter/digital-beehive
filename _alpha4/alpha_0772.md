@@ -2,31 +2,30 @@
 pid: alpha_0772
 volume: Volume 2
 image_number: '45'
-head: 
-entry: Rarity
-topic: Rarity
-first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0604/'>monster</a>|<a href='/digital-beehive/alpha2/alpha_0324/'>Fewness</a>|Obsolete|<a
-  href='/digital-beehive/toc/toc2_279/'>1429 [Rarity]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3291/'>rarity</a>"
-item: "#item-d074add5b"
-unparsed: 
-line: 'Entry: Rarity|Topic: Rarity|Xref: monster|Xref: Fewness|Xref: Obsolete|Xref:
-  1429 [Rarity]|Index: rarity|#item-d074add5b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,2972,459/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528399907739
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/385,3804,600,180/250,/0/default.jpg
-label: Rarity
+head:
+entry: Quick
+topic: Quick
+first_letter: Q
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0329/'>292 [Drowsiness]</a>|<a href='/digital-beehive/num3/num_0681/'>541
+  [Alacrity]</a>|1872 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_3247/'>quick</a>"
+item: "#item-b20118d32"
+unparsed:
+line: 'Entry: Quick|Topic: Quick|Xref: 292 [Drowsiness]|Xref: 541 [Alacrity]|Xref:
+  1872 [PAGE_MISSING]|Index: quick|#item-b20118d32'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/367,2363,2971,243/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565103502099
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/367,2363,600,180/250,/0/default.jpg
+label: Quick
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: The point of reference for "Obsolete" is unclear. Pastorius perhaps intends
-  numerical entry 355 [Old and Obsolete].
-also_in_entry: 
-order: '125'
+issue:
+also_in_entry:
+order: '120'
 layout: alpha_item
 collection: alpha4
 ---

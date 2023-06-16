@@ -1,30 +1,29 @@
 ---
 pid: alpha_0813
 volume: Volume 2
-image_number: '49'
-head: 
-entry: Romances
-topic: Romances
+image_number: '48'
+head:
+entry: Right
+topic: Right
 first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0813/'>Fables</a>|<a href='/digital-beehive/toc/toc2_272/'>1393
-  [Romances]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3442/'>romance</a>"
-item: "#item-af75dbbde"
-unparsed: 
-line: 'Entry: Romances|Topic: Romances|Xref: Fables|Xref: 1393 [Romances]|Index: romance|#item-af75dbbde'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,3033,339/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528827075334
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/279,975,600,180/250,/0/default.jpg
-label: Romances
-location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '165'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0293/'>equity</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Law</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3417/'>right</a>"
+item: "#item-779d48b46"
+unparsed:
+line: 'Entry: Right|Topic: Right|Xref: equity|Xref: Law|Index: right|#item-779d48b46'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/773,4112,2953,598/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528825344544
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0515/773,4112,600,180/250,/0/default.jpg
+label: Right
+location: "<a href='/digital-beehive/toc/toc2_038/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '161'
 layout: alpha_item
 collection: alpha4
 ---

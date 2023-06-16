@@ -2,29 +2,28 @@
 pid: index_2937
 volume: Volume 3
 image_number: '35'
-head: pedantery
-entry: "<a href='/digital-beehive/alpha4/alpha_0696/'>a</a>|<a href='/digital-beehive/toc/toc2_238/'>1224
-  [Pedantry]</a>"
-topic: 
+head: peas
+entry: "<a href='/digital-beehive/alpha4/alpha_0700/'>a</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-37d5d1b72"
-unparsed: 
-line: 'Head: pedantery|Entry: a|Entry: 1224 [Pedantry]|#item-37d5d1b72'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,505,622,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971578021
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/131,505,622,167/150,/0/default.jpg
-label: pedantery
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dd58eb396"
+unparsed:
+line: 'Head: peas|Entry: a|#item-dd58eb396'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,245,314,177/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971366165
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/128,245,314,177/150,/0/default.jpg
+label: peas
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0186'
+issue:
+insertion_xref:
+order: '0185'
 layout: index_item
 collection: index4
 ---

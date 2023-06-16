@@ -2,28 +2,29 @@
 pid: index_3627
 volume: Volume 3
 image_number: '42'
-head: Self punishmt
-entry: "<a href='/digital-beehive/num1/num_0060/'>59 [Self-hurt or dam[m]age]</a>"
-topic: 
+head: Self condemnation
+entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>|<a href='/digital-beehive/num10/num_3234/'>2275
+  [Recantation]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-868a43b4b"
-unparsed: 
-line: 'Head: Self punishmt|Entry: 59 [Self-hurt or dam[m]age]|#item-868a43b4b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244890879
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/416,2343,764,119/150,/0/default.jpg
-label: Self punishmt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-12649f587"
+unparsed:
+line: 'Head: Self condemnation|Entry: 418 [Renouncing]|Entry: 2275 [Recantation]|#item-12649f587'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/434,773,840,83/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244049682
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/434,773,840,83/150,/0/default.jpg
+label: Self condemnation
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0876'
+issue:
+insertion_xref:
+order: '0875'
 layout: index_item
 collection: index4
 ---

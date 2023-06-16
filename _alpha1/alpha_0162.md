@@ -2,31 +2,28 @@
 pid: alpha_0162
 volume: Volume 1
 image_number: '443'
-head: 
-entry: Compassion
-topic: Compassion
+head:
+entry: Common goods
+topic: Common goods
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0587/'>Mercy</a>|<a href='/digital-beehive/alpha4/alpha_0764/'>Quarter</a>|<a
-  href='/digital-beehive/alpha3/alpha_0597/'>misery</a>|<a href='/digital-beehive/alpha5/num_0150/'>Sympathy</a>|<a
-  href='/digital-beehive/alpha1/alpha_0155/'>Comfort</a>|<a href='/digital-beehive/toc/toc2_281/'>1436
-  [Commiseration]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0758/'>compassion</a>"
-item: "#item-69f0cc6f4"
-unparsed: 
-line: 'Entry: Compassion|Topic: Compassion|Xref: Mercy|Xref: Quarter|Xref: misery|Xref:
-  Sympathy|Xref: Comfort|Xref: 1436 [Commiseration]|Index: compassion|#item-69f0cc6f4'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,2231,3106,598/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499700516864
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/335,2231,600,180/250,/0/default.jpg
-label: Compassion
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1598/'>1172 [Community of Goods]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0718/'>common goods</a>"
+item: "#item-8f4d83e15"
+unparsed:
+line: 'Entry: Common goods|Topic: Common goods|Xref: 1172 [Community of Goods]|Index:
+  common goods|#item-8f4d83e15'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/378,1073,3053,425/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499700352034
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/378,1073,600,180/250,/0/default.jpg
+label: Common goods
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '161'
 layout: alpha_item
 collection: alpha1

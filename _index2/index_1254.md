@@ -2,27 +2,27 @@
 pid: index_1254
 volume: Volume 3
 image_number: '18'
-head: England new
-entry: 766 [PAGE_MISSING]
-topic: 
+head: elope
+entry:
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ef0f60d21"
-unparsed: 
-line: 'Head: England new|Entry: 766 [PAGE_MISSING]|#item-ef0f60d21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1823,1568,403,94/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756254114
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1823,1568,403,94/150,/0/default.jpg
-label: England new
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3433/'>run away</a>"
+index:
+item: "#item-17736a732"
+unparsed:
+line: 'Head: elope|See: run away|#item-17736a732'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1150,2778,564,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680033554
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1150,2778,564,164/150,/0/default.jpg
+label: elope
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '073'
 layout: index_item
 collection: index2

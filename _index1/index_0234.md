@@ -2,27 +2,27 @@
 pid: index_0234
 volume: Volume 3
 image_number: '9'
-head: athenian Society
-entry: "<a href='/digital-beehive/toc/toc2_301/'>1533 [Athenian Oracle]</a>"
-topic: 
-first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ba5cc705d"
-unparsed: 
-line: 'Head: athenian Society|Entry: 1533 [Athenian Oracle]|#item-ba5cc705d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,336,673,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565014650451
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,336,673,156/150,/0/default.jpg
-label: athenian Society
+head: "[:18.]"
+entry:
+topic:
+first_letter: B
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e054b74df"
+unparsed: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+line: 'Type: Index|Insertion Xref: [:18.]|#item-e054b74df'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559591394306
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1410,2729,170,121/150,/0/default.jpg
+label: "[:18.]"
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4720/'>Barclay</a>"
 order: '0233'
 layout: index_item
 collection: index1

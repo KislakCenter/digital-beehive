@@ -2,27 +2,27 @@
 pid: index_2593
 volume: Volume 3
 image_number: '31'
-head: most
-entry: 851 [PAGE_MISSING]
-topic: 
+head: must
+entry: "<a href='/digital-beehive/alpha3/alpha_0624/'>a</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a2a512e4d"
-unparsed: 
-line: 'Head: most|Entry: 851 [PAGE_MISSING]|#item-a2a512e4d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/842,3092,349,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356808020
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/842,3092,349,95/150,/0/default.jpg
-label: most
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e8be93a82"
+unparsed:
+line: 'Head: must|Entry: a|#item-e8be93a82'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362281220
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1549,2147,324,107/150,/0/default.jpg
+label: must
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '675'
 layout: index_item
 collection: index3

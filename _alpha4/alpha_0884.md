@@ -2,30 +2,30 @@
 pid: alpha_0884
 volume: Volume 2
 image_number: '53'
-head: 
-entry: Slander
-topic: Slander
+head:
+entry: Sincerity
+topic: Sincerity
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0114/'>Calumny</a>|<a href='/digital-beehive/alpha4/alpha_0830/'>Satyre</a>|<a
-  href='/digital-beehive/num3/num_0897'>653 [Slander]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3742/'>slander</a>"
-item: "#item-6f4b8314c"
-unparsed: 
-line: 'Entry: Slander|Topic: Slander|Xref: Calumny|Xref: Satyre|Xref: 653 [Slander]|Index:
-  slander|#item-6f4b8314c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,3030,608/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532029524491
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0520/299,3810,600,180/250,/0/default.jpg
-label: Slander
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0881/'>Simplicity</a>|<a href='/digital-beehive/num6/num_1839/'>1317
+  [Sincerity]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3784/'>sincerity</a>"
+item: "#item-d45c9a6f6"
+unparsed:
+line: 'Entry: Sincerity|Topic: Sincerity|Xref: Simplicity|Xref: 1317 [Sincerity]|Index:
+  sincerity|#item-d45c9a6f6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/311,2357,3047,505/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532023565228
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0520/311,2357,600,180/250,/0/default.jpg
+label: Sincerity
 location: "<a href='/digital-beehive/toc/toc2_043/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '236'
+issue:
+also_in_entry:
+order: '232'
 layout: alpha_item
 collection: alpha4
 ---

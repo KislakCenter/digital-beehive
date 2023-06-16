@@ -2,28 +2,29 @@
 pid: alpha_0305
 volume: Volume 1
 image_number: '455'
-head: 
-entry: lust of the eye
-topic: lust of the eye
+head:
+entry: External conversation
+topic: External conversation
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0286/'>epicurism</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1372/'>eye lust</a>"
-item: "#item-992a5ce4c"
-unparsed: 
-line: 'Entry: lust of the eye|Topic: lust of the eye|Xref: epicurism|Index: eye lust|#item-992a5ce4c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,3025,456/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564588047954
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/409,3684,600,180/250,/0/default.jpg
-label: lust of the eye
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0129/'>124 [Conversation]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1339/'>external conversation</a>"
+item: "#item-501034b2c"
+unparsed:
+line: 'Entry: External conversation|Topic: External conversation|Xref: 124 [Conversation]|Index:
+  external conversation|#item-501034b2c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/414,1976,3056,287/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587565753
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/414,1976,600,180/250,/0/default.jpg
+label: External conversation
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '036'
+issue:
+also_in_entry:
+order: '033'
 layout: alpha_item
 collection: alpha2
 ---

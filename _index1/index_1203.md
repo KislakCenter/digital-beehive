@@ -3,7 +3,7 @@ pid: index_1203
 volume: Volume 3
 image_number: '18'
 head: durable
-entry: "<a href='/digital-beehive/num9/num_2935/'>2002 [Lasting]</a>"
+entry: "<a href='/digital-beehive/num9/num_2936/'>2002 [Lasting]</a>"
 topic:
 first_letter: D
 page:
@@ -23,7 +23,7 @@ label: durable
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1169'
+order: '1171'
 layout: index_item
 collection: index1
 ---

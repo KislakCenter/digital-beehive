@@ -1,31 +1,30 @@
 ---
 pid: alpha_0653
 volume: Volume 2
-image_number: '37'
-head: 
-entry: Occasion
-topic: Occasion
+image_number: '36'
+head:
+entry: Oath
+topic: Oath
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1010/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0956/'>Time</a>|<a
-  href='/digital-beehive/num3/num_1026'>706 [Occasion]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2765/'>occasion</a>"
-item: "#item-2e7db2854"
-unparsed: 
-line: 'Entry: Occasion|Topic: Occasion|Xref: Untimely|Xref: Time|Xref: 706 [Occasion]|Index:
-  occasion|#item-2e7db2854'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,3091,397/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565016545296
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/280,1098,600,180/250,/0/default.jpg
-label: Occasion
-location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '006'
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0092/'>90 [Swearing]</a>|<a href='/digital-beehive/num1/num_0028/'>28
+  [Oath]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2776/'>oath</a>"
+item: "#item-8a41c29da"
+unparsed:
+line: 'Entry: Oath|Topic: Oath|Xref:  90 [Swearing]|Xref: 28 [Oath]|Index: oath|#item-8a41c29da'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/778,4074,2945,435/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015943020
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0503/778,4074,600,180/250,/0/default.jpg
+label: Oath
+location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '001'
 layout: alpha_item
 collection: alpha4
 ---

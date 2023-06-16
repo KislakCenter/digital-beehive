@@ -1,29 +1,31 @@
 ---
 pid: alpha_0934
 volume: Volume 2
-image_number: '57'
-head: 
-entry: Sweat
-topic: Sweat
+image_number: '56'
+head:
+entry: Superstition
+topic: Superstition
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_339/'>1748 [Sweat]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_4018/'>sweat</a>"
-item: "#item-ef4c8749e"
-unparsed: 
-line: 'Entry: Sweat|Topic: Sweat|Xref: 1748 [Sweat]|Index: sweat|#item-ef4c8749e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/322,1539,3044,241/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532613119102
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/322,1539,600,180/250,/0/default.jpg
-label: Sweat
-location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '286'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1065/'>will Worship</a>|<a href='/digital-beehive/num4/num_1263/'>946
+  [Superstition]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_4029/'>superstition</a>"
+item: "#item-e36d3949a"
+unparsed:
+line: 'Entry: Superstition|Topic: Superstition|Xref: will Worship|Xref: 946 [Superstition]|Index:
+  superstition|#item-e36d3949a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/769,4461,2941,602/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532551677313
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0523/769,4461,600,180/250,/0/default.jpg
+label: Superstition
+location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '282'
 layout: alpha_item
 collection: alpha4
 ---

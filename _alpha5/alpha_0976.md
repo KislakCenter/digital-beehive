@@ -1,31 +1,30 @@
 ---
 pid: alpha_0976
 volume: Volume 2
-image_number: '60'
-head: 
-entry: Travelling
-topic: Travelling
+image_number: '59'
+head:
+entry: Tortoise
+topic: Tortoise
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0986/'>Vagabonds</a>|Departure|<a href='/digital-beehive/toc/toc2_223/'>1149
-  [Travelling]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4221/'>travelling</a>"
-item: "#item-d0f258fc8"
-unparsed: 
-line: 'Entry: Travelling|Topic: Travelling|Xref: Vagabonds|Xref: Departure|Xref: 1149
-  [Travelling]|Index: travelling|#item-d0f258fc8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,2937,569/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565115155751
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/810,1627,600,180/250,/0/default.jpg
-label: Travelling
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-issue: The point of reference for "Departure" is unclear.
-also_in_entry: 
-order: '042'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0871/'>Shells of snails</a>|4704 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index5/index_4250/'>tortoise</a>"
+item: "#item-860d7e081"
+unparsed:
+line: 'Entry: Tortoise|Topic: Tortoise|Xref: Shells of snails|Xref: 4704 [PAGE_MISSING]|Index:
+  tortoise|#item-860d7e081'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/369,4788,2900,300/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529523074434
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/369,4788,600,180/250,/0/default.jpg
+label: Tortoise
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '036'
 layout: alpha_item
 collection: alpha5
 ---

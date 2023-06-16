@@ -2,27 +2,27 @@
 pid: index_2340
 volume: Volume 3
 image_number: '29'
-head: love of Christ
-entry: "<a href='/digital-beehive/alpha3/alpha_0555/'>a</a>"
-topic: 
+head: to look over
+entry: "<a href='/digital-beehive/num10/num_3315/'>2345 [To View]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-aa3ef8729"
-unparsed: 
-line: 'Head: love of Christ|Entry: a|#item-aa3ef8729'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/171,2088,424,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560178971277
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/171,2088,424,116/150,/0/default.jpg
-label: love of Christ
+page:
+add:
+xref:
+see:
+index:
+item: "#item-13f4353c5"
+unparsed:
+line: 'Head: to look over|Entry: 2345 [To View]|#item-13f4353c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/177,716,468,64/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177685013
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/177,716,468,64/150,/0/default.jpg
+label: to look over
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '422'
 layout: index_item
 collection: index3

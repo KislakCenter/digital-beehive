@@ -2,29 +2,28 @@
 pid: index_3539
 volume: Volume 3
 image_number: '41'
-head: "[:2.]"
-entry: 
-topic: 
+head: Samson
+entry: "<a href='/digital-beehive/num7/num_2341/'>1565 [Samson]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1752b8fad"
-unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
-line: 'Type: Index|Insertion Xref: [:2.]|#item-1752b8fad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277985463
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1413,268,194,131/150,/0/default.jpg
-label: "[:2.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-afa828d60"
+unparsed:
+line: 'Head: Samson|Entry: 1565 [Samson]|#item-afa828d60'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238922101
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/133,1367,461,129/150,/0/default.jpg
+label: Samson
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>to scare, affright,
-  or fright</a>|<a href='/digital-beehive/index5/index_4665/'>fringes</a>"
-order: '0788'
+issue:
+insertion_xref:
+order: '0787'
 layout: index_item
 collection: index4
 ---

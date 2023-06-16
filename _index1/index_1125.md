@@ -2,29 +2,28 @@
 pid: index_1125
 volume: Volume 3
 image_number: '17'
-head: dog
-entry: "<a href='/digital-beehive/alpha1/alpha_0257/'>a</a>|<a href='/digital-beehive/toc/toc2_261/'>1338
-  [Dog]</a>"
-topic: 
+head: drift
+entry: "<a href='/digital-beehive/num3/num_1036/'>711 [Drift]</a>"
+topic:
 first_letter: D
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-27ff12bcf"
-unparsed: 
-line: 'Head: dog|Page: p.34 [Image 1.94]|Entry: a|Entry: 1338 [Dog]|#item-27ff12bcf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/756,2876,640,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367169621
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/756,2876,640,158/150,/0/default.jpg
-label: dog
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3eb36df88"
+unparsed:
+line: 'Head: drift|Entry: 711 [Drift]|#item-3eb36df88'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1497,2148,334,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452605939
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1497,2148,334,129/150,/0/default.jpg
+label: drift
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1124'
+issue:
+insertion_xref:
+order: '1123'
 layout: index_item
 collection: index1
 ---

@@ -2,27 +2,27 @@
 pid: index_0687
 volume: Volume 3
 image_number: '13'
-head: clear
-entry: 
-topic: 
+head: cloke
+entry: "<a href='/digital-beehive/alpha1/alpha_0154/'>a</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3029/'>plain</a>"
-index: 
-item: "#item-0fe83e2d8"
-unparsed: 
-line: 'Head: clear|See: plain|#item-0fe83e2d8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/156,3548,486,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536333830774
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/156,3548,486,130/150,/0/default.jpg
-label: clear
+page:
+add:
+xref:
+see:
+index:
+item: "#item-721e9956a"
+unparsed:
+line: 'Head: cloke|Entry: a|#item-721e9956a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607015431
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/856,1493,376,138/150,/0/default.jpg
+label: cloke
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0686'
 layout: index_item
 collection: index1

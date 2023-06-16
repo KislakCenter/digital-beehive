@@ -2,27 +2,27 @@
 pid: index_2384
 volume: Volume 3
 image_number: '29'
-head: Mahomet
-entry: "<a href='/digital-beehive/toc/toc2_251/'>1290 [Religion of Mahomet]</a>"
-topic: 
+head: magick
+entry: "<a href='/digital-beehive/num7/num_2544/'>1661 [Magick]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ba533a961"
-unparsed: 
-line: 'Head: Mahomet|Entry: 1290 [Religion of Mahomet]|#item-ba533a961'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560189485263
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/822,3069,505,144/150,/0/default.jpg
-label: Mahomet
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4935df44b"
+unparsed:
+line: 'Head: magick|Entry: 1661 [Magick]|#item-4935df44b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,2218,396,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560186536423
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/845,2218,396,151/150,/0/default.jpg
+label: magick
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '466'
 layout: index_item
 collection: index3

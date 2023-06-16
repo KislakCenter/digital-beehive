@@ -2,29 +2,31 @@
 pid: alpha_1023
 volume: Volume 2
 image_number: '63'
-head: 
-entry: Washing of feet
-topic: Washing of feet
+head:
+entry: Want
+topic: Want
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_206/'>1061 [Washing]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4484/'>washing of feet</a>"
-item: "#item-4acdc4419"
-unparsed: 
-line: 'Entry: Washing of feet|Topic: Washing of feet|Xref: 1061 [Washing]|Index: washing
-  of feet|#item-4acdc4419'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,2989,349/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529522993420
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/333,4651,600,180/250,/0/default.jpg
-label: Washing of feet
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0639/'>Necessity</a>|<a href='/digital-beehive/alpha4/alpha_0725/'>Poverty</a>|<a
+  href='/digital-beehive/num2/num_0387/'>334 [Impotency]</a>|<a href='/digital-beehive/num6/num_1909/'>1350
+  [Want]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4439/'>want</a>"
+item: "#item-fb74e9d20"
+unparsed:
+line: 'Entry: Want|Topic: Want|Xref: Necessity|Xref: Poverty|Xref: 334 [Impotency]|Xref:
+  1350 [Want]|Index: want|#item-fb74e9d20'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,2573,2982,424/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529521627053
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0530/353,2573,600,180/250,/0/default.jpg
+label: Want
 location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '089'
+issue:
+also_in_entry:
+order: '083'
 layout: alpha_item
 collection: alpha5
 ---

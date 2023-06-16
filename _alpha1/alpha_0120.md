@@ -2,27 +2,29 @@
 pid: alpha_0120
 volume: Volume 1
 image_number: '439'
-head: 
-entry: Cards
-topic: Cards
+head:
+entry: Capital offence
+topic: Capital offence
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0711/'>Play</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0538/'>cards</a>"
-item: "#item-ab0e05e0e"
-unparsed: 
-line: 'Entry: Cards|Topic: Cards|Xref: Play|Index: cards|#item-ab0e05e0e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,3178,347/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499369863810
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/300,4065,600,180/250,/0/default.jpg
-label: Cards
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0197/'>Crime</a>|<a href='/digital-beehive/num3/num_0865/'>638
+  [Capital Offences]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0516/'>capital offence</a>"
+item: "#item-a11cafdec"
+unparsed:
+line: 'Entry: Capital offence|Topic: Capital offence|Xref: Crime|Xref: 638 [Capital
+  Offences]|Index: capital offence|#item-a11cafdec'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/378,2569,3024,601/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1496763756415
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/378,2569,600,180/250,/0/default.jpg
+label: Capital offence
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '119'
 layout: alpha_item
 collection: alpha1

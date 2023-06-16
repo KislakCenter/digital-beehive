@@ -2,28 +2,28 @@
 pid: index_4690
 volume: Volume 3
 image_number: '54'
-head: Neapolis
-entry: "<a href='/digital-beehive/toc/toc2_380/'>2142 [Neapolis]</a>"
-topic: 
+head: vigor
+entry:
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-92e1241dd"
-unparsed: Type Index|Insertion [:25.]
-line: 'Type: Index|Insertion: [:25.]|Head: Neapolis|Entry: 2142 [Neapolis]|#item-92e1241dd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1052,314,636,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560953596127
-insertion: "[:25.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1052,314,636,129/150,/0/default.jpg
-label: Neapolis
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3889/'>stupidity</a>"
+index:
+item: "#item-ed070c7e3"
+unparsed: Type Index|Insertion [:32.]
+line: 'Type: Index|Insertion: [:32.]|Head: vigor|See: stupidity|#item-ed070c7e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1114,1319,731,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560954649647
+insertion: "[:32.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1114,1319,731,156/150,/0/default.jpg
+label: vigor
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '652'
+issue:
+insertion_xref:
+order: '653'
 layout: index_item
 collection: index5
 ---

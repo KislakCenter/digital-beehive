@@ -2,27 +2,28 @@
 pid: index_2560
 volume: Volume 3
 image_number: '31'
-head: Moloch
-entry: "<a href='/digital-beehive/toc/toc2_318/'>1618 [Moloch]</a>"
-topic: 
+head: Mugletonians
+entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/num5/num_1413/'>1054
+  [Muggletonians]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ac240e2ed"
-unparsed: 
-line: 'Head: Moloch|Entry: 1618 [Moloch]|#item-ac240e2ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560353252135
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/153,3300,404,101/150,/0/default.jpg
-label: Moloch
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8d6330e61"
+unparsed:
+line: 'Head: Mugletonians|Entry: 39 [Muggletonians]|Entry: 1054 [Muggletonians]|#item-8d6330e61'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560360973615
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1571,1052,666,127/150,/0/default.jpg
+label: Mugletonians
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '642'
 layout: index_item
 collection: index3

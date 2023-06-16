@@ -2,27 +2,27 @@
 pid: index_2685
 volume: Volume 3
 image_number: '32'
-head: net
-entry: 773 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_338/'>1739 [Snare]</a>
-topic: 
+head: nativity calculators of
+entry: "<a href='/digital-beehive/num6/num_1785/'>1283 [Calculators of Nativity]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1cc47b37c"
-unparsed: 
-line: 'Head: net|Entry: 773 [PAGE_MISSING]|Entry: 1739 [Snare]|#item-1cc47b37c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560441501644
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1176,940,520,112/150,/0/default.jpg
-label: net
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bf388e0a2"
+unparsed:
+line: 'Head: nativity calculators of|Entry: 1283 [Calculators of Nativity]|#item-bf388e0a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437771564
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/384,1424,690,124/150,/0/default.jpg
+label: nativity calculators of
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '767'
 layout: index_item
 collection: index3

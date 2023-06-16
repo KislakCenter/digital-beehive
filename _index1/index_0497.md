@@ -2,27 +2,27 @@
 pid: index_0497
 volume: Volume 3
 image_number: '11'
-head: by & by
-entry: 
-topic: 
+head: bridge
+entry: "<a href='/digital-beehive/alpha1/alpha_0103/'>a</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3134/'>presently</a>"
-index: 
-item: "#item-0ecbd3258"
-unparsed: 
-line: 'Head: by & by|See: presently|#item-0ecbd3258'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/866,2827,710,174/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531493489163
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/866,2827,710,174/150,/0/default.jpg
-label: by & by
+page: "<a href='/digital-beehive/toc/toc1_059/'>p.9 [Image 1.69]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-502546850"
+unparsed:
+line: 'Head: bridge|Page: p.9 [Image 1.69]|Entry: a|#item-502546850'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/162,2133,467,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531419231617
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/162,2133,467,173/150,/0/default.jpg
+label: bridge
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0496'
 layout: index_item
 collection: index1

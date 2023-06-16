@@ -2,29 +2,28 @@
 pid: index_4432
 volume: Volume 3
 image_number: '51'
-head: to vote
-entry: "<a href='/digital-beehive/num4/num_1083'>867 [To Vote]</a>|<a href='/digital-beehive/toc/toc2_418/'>2423
-  [Votes]</a>"
-topic: 
+head: urin
+entry: 805 [PAGE_MISSING]|<a href='/digital-beehive/num9/num_3013/'>2079 [Urine]</a>
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e7d7feb3c"
-unparsed: 
-line: 'Head: to vote|Entry: 867 [To Vote]|Entry: 2423 [Votes]|#item-e7d7feb3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561646244652
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/232,3500,623,124/150,/0/default.jpg
-label: to vote
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9ca06d73b"
+unparsed:
+line: 'Head: urin|Entry: 805 [PAGE_MISSING]|Entry: 2079 [Urine]|#item-9ca06d73b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1230,604,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646732216
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/955,1230,604,133/150,/0/default.jpg
+label: urin
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '394'
+issue:
+insertion_xref:
+order: '395'
 layout: index_item
 collection: index5
 ---

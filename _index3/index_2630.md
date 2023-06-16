@@ -2,27 +2,28 @@
 pid: index_2630
 volume: Volume 3
 image_number: '31'
-head: n[ae]
-entry: "<a href='/digital-beehive/toc/toc2_397/'>2267 [ru]</a>"
-topic: 
-first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e16dbdbb4"
-unparsed: 
-line: 'Head: n[ae]|Entry: 2267 [ru]|#item-e16dbdbb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362942578
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1540,3154,343,87/150,/0/default.jpg
-label: n[ae]
+head: motion
+entry: "<a href='/digital-beehive/alpha3/alpha_0614/'>a</a>|<a href='/digital-beehive/num4/num_1277/'>958
+  [Motions]</a>"
+topic:
+first_letter: M
+page:
+add:
+xref:
+see:
+index:
+item: "#item-75b9383e0"
+unparsed:
+line: 'Head: motion|Entry: a|Entry: 958 [Motions]|#item-75b9383e0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356975334
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/831,3318,502,127/150,/0/default.jpg
+label: motion
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '712'
 layout: index_item
 collection: index3

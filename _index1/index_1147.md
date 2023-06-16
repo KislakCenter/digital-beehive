@@ -2,28 +2,28 @@
 pid: index_1147
 volume: Volume 3
 image_number: '17'
-head: dress
-entry: "<a href='/digital-beehive/num1/num_0203/'>195 [Ornament]</a>"
-topic: 
+head: dog-days
+entry: "<a href='/digital-beehive/alpha1/alpha_0261/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-76fab5bc5"
-unparsed: 
-line: 'Head: dress|Entry: 195 [Ornament]|#item-76fab5bc5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560452232666
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1454,1765,391,153/150,/0/default.jpg
-label: dress
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1c7c34bfe"
+unparsed:
+line: 'Head: dog-days|Entry: a|#item-1c7c34bfe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/793,2964,513,168/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367202426
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/793,2964,513,168/150,/0/default.jpg
+label: dog-days
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1146'
+issue:
+insertion_xref:
+order: '1145'
 layout: index_item
 collection: index1
 ---

@@ -2,28 +2,28 @@
 pid: index_4674
 volume: Volume 3
 image_number: '54'
-head: attributes of god
-entry: 1886 [PAGE_MISSING]
-topic: 
+head: mam[m]on
+entry: "<a href='/digital-beehive/num8/num_2764/'>1829 [Mammon]</a>"
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7802c001a"
-unparsed: Type Index|Insertion [:11.]
-line: 'Type: Index|Insertion: [:11.]|Head: attributes of god|Entry: 1886 [PAGE_MISSING]|#item-7802c001a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560868462887
-insertion: "[:11.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/358,1859,726,139/150,/0/default.jpg
-label: attributes of god
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2cf64048a"
+unparsed: Type Index|Insertion [:3.]
+line: 'Type: Index|Insertion: [:3.]|Head: mam[m]on|Entry: 1829 [Mammon]|#item-2cf64048a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/359,724,593,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560867474056
+insertion: "[:3.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/359,724,593,143/150,/0/default.jpg
+label: mam[m]on
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '636'
+issue:
+insertion_xref:
+order: '637'
 layout: index_item
 collection: index5
 ---

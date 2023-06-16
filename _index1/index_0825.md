@@ -2,27 +2,27 @@
 pid: index_0825
 volume: Volume 3
 image_number: '14'
-head: continency
-entry: "<a href='/digital-beehive/alpha1/alpha_0175/'>a</a>"
-topic: 
+head: coquets
+entry: "<a href='/digital-beehive/num11/num_3500/'>4806 [Coquets]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4b8143562"
-unparsed: 
-line: 'Head: continency|Entry: a|#item-4b8143562'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559205471
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1876,255,532,153/150,/0/default.jpg
-label: continency
+page:
+add:
+xref:
+see:
+index:
+item: "#item-21985aa7a"
+unparsed:
+line: 'Head: coquets|Entry: 4806 [Coquets]|#item-21985aa7a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1828,2463,488,82/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559912654
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1828,2463,488,82/150,/0/default.jpg
+label: coquets
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0824'
 layout: index_item
 collection: index1

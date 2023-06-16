@@ -2,27 +2,28 @@
 pid: index_1227
 volume: Volume 3
 image_number: '18'
-head: elk
-entry: "<a href='/digital-beehive/toc/toc2_300/'>1529 [Elk]</a>"
-topic: 
+head: English histories
+entry: "<a href='/digital-beehive/num7/num_2217/'>1503 [Histories of England, Scotland,
+  &c.]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-153cebef1"
-unparsed: 
-line: 'Head: elk|Entry: 1529 [Elk]|#item-153cebef1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2663,327,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559680002578
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1160,2663,327,129/150,/0/default.jpg
-label: elk
+page:
+add:
+xref:
+see:
+index:
+item: "#item-93f258eb1"
+unparsed:
+line: 'Head: English histories|Entry: 1503 [Histories of England, Scotland, &c.]|#item-93f258eb1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1824,1752,505,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756890807
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1824,1752,505,123/150,/0/default.jpg
+label: English histories
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '046'
 layout: index_item
 collection: index2

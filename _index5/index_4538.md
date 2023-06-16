@@ -2,29 +2,28 @@
 pid: index_4538
 volume: Volume 3
 image_number: '52'
-head: white
-entry: a|<a href='/digital-beehive/toc/toc2_359/'>1951 [White]</a>
-topic: 
+head: wheel
+entry: "<a href='/digital-beehive/num9/num_3116/'>2173 [Wheel]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0381/'>black</a>"
-index: 
-item: "#item-486d91cbf"
-unparsed: 
-line: 'Head: white|See: black|Entry: a|Entry: 1951 [White]|#item-486d91cbf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971561962
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1781,761,693,144/150,/0/default.jpg
-label: white
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-31fa0e2e3"
+unparsed:
+line: 'Head: wheel|Page: p.38 [Image 1.98]|Entry: 2173 [Wheel]|#item-31fa0e2e3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1065,2575,695,184/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560969822424
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1065,2575,695,184/150,/0/default.jpg
+label: wheel
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
-  he means to direct the reader to the alphabetical entry "Blackness."
-insertion_xref: 
-order: '500'
+issue:
+insertion_xref:
+order: '501'
 layout: index_item
 collection: index5
 ---

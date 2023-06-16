@@ -2,29 +2,29 @@
 pid: index_3056
 volume: Volume 3
 image_number: '36'
-head: pocks french
-entry: "<a href='/digital-beehive/num3/num_0864'>637 [French Pocks]</a>|<a href='/digital-beehive/toc/toc2_379/'>2138
-  [French pocks]</a>"
-topic: 
+head: praised be God!
+entry: "<a href='/digital-beehive/num1/num_0083/'>82 [Praise God]</a>|<a href='/digital-beehive/num6/num_2189/'>1484
+  [Soli Deo gloria]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-828a44741"
-unparsed: 
-line: 'Head: pocks french|Entry: 637 [French pocks]|Entry: 2138 [French pocks]|#item-828a44741'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/383,2171,699,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544208237788
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/383,2171,699,148/150,/0/default.jpg
-label: pocks french
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a758144da"
+unparsed:
+line: 'Head: praised be God!|Entry: 82 [Praise God]|Entry: 1484 [Soli Deo gloria]|#item-a758144da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,740,703,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439923294
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1893,740,703,132/150,/0/default.jpg
+label: praised be God!
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0305'
+issue:
+insertion_xref:
+order: '0304'
 layout: index_item
 collection: index4
 ---

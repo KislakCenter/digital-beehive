@@ -1,30 +1,29 @@
 ---
 pid: alpha_0595
 volume: Volume 2
-image_number: '33'
-head: 
-entry: Mine Minerals
-topic: Mine Minerals
+image_number: '32'
+head:
+entry: Milk
+topic: Milk
 first_letter: M
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_381/'>2154 [Mineral]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2520/'>mine. minerals</a>"
-item: "#item-e1289ca34"
-unparsed: 
-line: 'Entry: Mine Minerals|Topic: Mine Minerals|Xref: 2154 [Mineral]|Index: mine.
-  minerals|#item-e1289ca34'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,803,3072,443/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775491246
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/311,803,600,180/250,/0/default.jpg
-label: Mine Minerals
-location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '151'
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_2090/'>1434 [Milk]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2483/'>milk</a>"
+item: "#item-5f0e1326b"
+unparsed:
+line: 'Entry: Milk|Topic: Milk|Xref: 1434 [Milk]|Index: milk|#item-5f0e1326b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/747,4508,2940,549/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564775227669
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/747,4508,600,180/250,/0/default.jpg
+label: Milk
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '148'
 layout: alpha_item
 collection: alpha3
 ---

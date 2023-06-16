@@ -2,27 +2,27 @@
 pid: index_0911
 volume: Volume 3
 image_number: '15'
-head: Cromwell
-entry: "<a href='/digital-beehive/toc/toc2_235/'>1209 [Cromwell]</a>|4508 [PAGE_MISSING]"
-topic: 
+head: counterfeit books, physick
+entry: "<a href='/digital-beehive/num6/num_1880/'>1336 [Counterfeit]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7f5921ff2"
-unparsed: 
-line: 'Head: Cromwell|Entry: 1209 [Cromwell]|Entry: 4508 [PAGE_MISSING]|#item-7f5921ff2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1848,670,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577577435
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,1848,670,131/150,/0/default.jpg
-label: Cromwell
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7548e18e7"
+unparsed:
+line: 'Head: counterfeit books, physick|Entry: 1336 [Counterfeit]|#item-7548e18e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/132,1726,754,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974443942
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/132,1726,754,137/150,/0/default.jpg
+label: counterfeit books, physick
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0910'
 layout: index_item
 collection: index1

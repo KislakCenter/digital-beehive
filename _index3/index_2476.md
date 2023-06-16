@@ -2,27 +2,27 @@
 pid: index_2476
 volume: Volume 3
 image_number: '30'
-head: melon
-entry: 828 [PAGE_MISSING]
-topic: 
+head: midwife
+entry: "<a href='/digital-beehive/num3/num_0786/'>600 [Midwifery]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-90ddb83bc"
-unparsed: 
-line: 'Head: melon|Entry: 828 [PAGE_MISSING]|#item-90ddb83bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1133,1381,427,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268162791
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1133,1381,427,118/150,/0/default.jpg
-label: melon
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e9b69a22f"
+unparsed:
+line: 'Head: midwife|Entry: 600 [Midwifery]|#item-e9b69a22f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273852381
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1844,1344,470,138/150,/0/default.jpg
+label: midwife
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '558'
 layout: index_item
 collection: index3

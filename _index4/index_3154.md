@@ -2,28 +2,28 @@
 pid: index_3154
 volume: Volume 3
 image_number: '37'
-head: primitive Xtians
-entry: "<a href='/digital-beehive/toc/toc2_206/'>1064 [Primitive Christians]</a>"
-topic: 
+head: privy parts
+entry: "<a href='/digital-beehive/num2/num_0570/'>458 [Privy parts]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e70b17368"
-unparsed: 
-line: 'Head: primitive Xtians|Entry: 1064 [Primitive Christians]|#item-e70b17368'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866995981
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/115,2789,608,153/150,/0/default.jpg
-label: primitive Xtians
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ce41a5f3c"
+unparsed:
+line: 'Head: privy parts|Entry: 458 [Privy parts]|#item-ce41a5f3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867668788
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/805,936,441,121/150,/0/default.jpg
+label: privy parts
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0403'
+issue:
+insertion_xref:
+order: '0402'
 layout: index_item
 collection: index4
 ---

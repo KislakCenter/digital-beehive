@@ -2,29 +2,29 @@
 pid: index_2906
 volume: Volume 3
 image_number: '34'
-head: passion of Xst
-entry: "<a href='/digital-beehive/alpha4/alpha_0686/'>a</a>|<a href='/digital-beehive/num4/num_1330'>998
-  [Passion or Suffering of Xst]</a>"
-topic: 
+head: parrot
+entry: "<a href='/digital-beehive/alpha4/alpha_0684/'>a</a>|<a href='/digital-beehive/num11/num_3498/'>4804
+  [Parrot]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8d8b0c045"
-unparsed: 
-line: 'Head: passion of Xst|Entry: a|Entry: 998 [Passion or Suffering of Xst]|#item-8d8b0c045'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495037926
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1838,686,711,159/150,/0/default.jpg
-label: passion of Xst
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-2d75457e2"
+unparsed:
+line: 'Head: parrot|Page: p.35 [Image 1.95]|Entry: a|Entry: 4804 [Parrot]|#item-2d75457e2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494449615
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1129,2382,726,208/150,/0/default.jpg
+label: parrot
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0155'
+issue:
+insertion_xref:
+order: '0154'
 layout: index_item
 collection: index4
 ---

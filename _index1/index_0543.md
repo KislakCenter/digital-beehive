@@ -2,27 +2,27 @@
 pid: index_0543
 volume: Volume 3
 image_number: '12'
-head: carkass
-entry: "<a href='/digital-beehive/num2/num_0528/'>427 [Carkass]</a>"
-topic: 
+head: caution
+entry: "<a href='/digital-beehive/alpha1/alpha_0134/'>a</a>"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d8b91b653"
-unparsed: 
-line: 'Head: carkass|Page: p.44 [Image 1.104]|Entry: 427 [Carkass]|#item-d8b91b653'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/410,318,621,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531496631313
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/410,318,621,170/150,/0/default.jpg
-label: carkass
+page:
+add:
+xref:
+see:
+index:
+item: "#item-19cfe1315"
+unparsed:
+line: 'Head: caution|Entry: a|#item-19cfe1315'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,525,392,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532098869490
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1139,525,392,97/150,/0/default.jpg
+label: caution
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0542'
 layout: index_item
 collection: index1

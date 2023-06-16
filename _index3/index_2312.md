@@ -2,27 +2,27 @@
 pid: index_2312
 volume: Volume 3
 image_number: '28'
-head: livery or badge
-entry: "<a href='/digital-beehive/toc/toc2_424/'>4464 [Livery or Badge]</a>"
-topic: 
+head: to lift
+entry: "<a href='/digital-beehive/num3/num_0962/'>682 [To lift up]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7cf15af50"
-unparsed: 
-line: 'Head: livery or badge|Entry: 4464 [Livery or Badge]|#item-7cf15af50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849840609
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1821,2584,668,150/150,/0/default.jpg
-label: livery or badge
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eede4bb64"
+unparsed:
+line: 'Head: to lift|Entry: 682 [To lift up]|#item-eede4bb64'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,3001,439,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559847206638
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1137,3001,439,121/150,/0/default.jpg
+label: to lift
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '394'
 layout: index_item
 collection: index3

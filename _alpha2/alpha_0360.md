@@ -2,31 +2,31 @@
 pid: alpha_0360
 volume: Volume 2
 image_number: '14'
-head: 
-entry: Gift
-topic: Gift
+head:
+entry: Gentleness
+topic: Gentleness
 first_letter: G
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha3/alpha_0532/'>liberality</a>|<a
-  href='/digital-beehive/alpha1/alpha_0099/'>Bribe</a>|<a href='/digital-beehive/num3/num_0636'>506
-  [Gift]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1610/'>gift</a>"
-item: "#item-a7f1c4050"
-unparsed: 
-line: 'Entry: Gift|Topic: Gift|Xref: alms|Xref: liberality|Xref: Bribe|Xref: 506 [Gift]|Index:
-  gift|#item-a7f1c4050'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,1943,3037,517/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564601739841
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/742,1943,600,180/250,/0/default.jpg
-label: Gift
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0439/'>Humanity</a>|<a
+  href='/digital-beehive/num1/num_0021/'>21 [Moderate]</a>|<a href='/digital-beehive/num5/num_1645/'>1206
+  [Gentleness]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1629/'>gentleness</a>"
+item: "#item-271a74ff6"
+unparsed:
+line: 'Entry: Gentleness|Topic: Gentleness|Xref: Civility|Xref: Humanity|Xref: 21
+  [Moderate]|Xref: 1206 [Gentleness]|Index: gentleness|#item-271a74ff6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/784,655,2985,582/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564601289798
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0481/784,655,600,180/250,/0/default.jpg
+label: Gentleness
 location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '091'
+issue:
+also_in_entry:
+order: '088'
 layout: alpha_item
 collection: alpha2
 ---

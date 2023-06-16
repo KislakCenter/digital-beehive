@@ -2,28 +2,28 @@
 pid: index_1093
 volume: Volume 3
 image_number: '17'
-head: to dispossess
-entry: "<a href='/digital-beehive/num3/num_0965'>683 [To Dispossess]</a>"
-topic: 
+head: dragon
+entry: "<a href='/digital-beehive/num7/num_2437/'>1613 [Dragons]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c12fd11ae"
-unparsed: 
-line: 'Head: to dispossess|Entry: 683 [To Dispossess]|#item-c12fd11ae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/112,2821,544,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804541980
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/112,2821,544,115/150,/0/default.jpg
-label: to dispossess
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-860264de9"
+unparsed:
+line: 'Head: dragon|Page: p.37 [Image 1.97]|Entry: 1613 [Dragons]|#item-860264de9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1447,1127,660,176/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560451358813
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1447,1127,660,176/150,/0/default.jpg
+label: dragon
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1092'
+issue:
+insertion_xref:
+order: '1091'
 layout: index_item
 collection: index1
 ---

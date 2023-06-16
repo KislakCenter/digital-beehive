@@ -2,28 +2,28 @@
 pid: index_3016
 volume: Volume 3
 image_number: '35'
-head: pious frauds
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1791 [holy Cheats]</a>"
-topic: 
+head: phoenix
+entry: "<a href='/digital-beehive/num7/num_2348/'>1568 [Phoenix]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8bac3e119"
-unparsed: 
-line: 'Head: pious frauds|Entry: 1791 [holy Cheats]|#item-8bac3e119'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539976709037
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1495,1860,600,138/150,/0/default.jpg
-label: pious frauds
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-9be5aabdb"
+unparsed:
+line: 'Head: phoenix|Page: p.35 [Image 1.95]|Entry: 1568 [Phoenix]|#item-9be5aabdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,2948,661,145/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974875180
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/847,2948,661,145/150,/0/default.jpg
+label: phoenix
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0265'
+issue:
+insertion_xref:
+order: '0264'
 layout: index_item
 collection: index4
 ---

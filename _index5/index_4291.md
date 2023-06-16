@@ -2,28 +2,29 @@
 pid: index_4291
 volume: Volume 3
 image_number: '49'
-head: valour
-entry: 
-topic: 
+head: vine
+entry: "<a href='/digital-beehive/alpha5/alpha_0998/'>a</a>|<a href='/digital-beehive/num8/num_2921/'>1990
+  [Vin[e]yards]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2380/'>magnanimity</a>"
-index: 
-item: "#item-c9475f7a0"
-unparsed: 
-line: 'Head: valour|See: magnanimity|#item-c9475f7a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/948,874,680,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561657688552
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/948,874,680,134/150,/0/default.jpg
-label: valour
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-084edad39"
+unparsed:
+line: 'Head: vine|Page: p.32 [Image 1.92]|Entry: a|Entry: 1990 [Vin[e]yards]|#item-084edad39'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,1464,592,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561660581551
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1636,1464,592,130/150,/0/default.jpg
+label: vine
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '253'
+issue:
+insertion_xref:
+order: '254'
 layout: index_item
 collection: index5
 ---

@@ -1,31 +1,31 @@
 ---
 pid: alpha_0735
 volume: Volume 2
-image_number: '43'
-head: 
-entry: Prison, continued
-topic: Prison, continued
+image_number: '42'
+head:
+entry: Pride
+topic: Pride
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0734/'>Prison</a>|<a href='/digital-beehive/alpha1/alpha_0202/'>Custody</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3161/'>prison</a>"
-item: "#item-352e6ec4b"
-unparsed: 
-line: 'Entry: Prison, continued|Topic: Prison, continued|Xref: Prison|Xref: Custody|Index:
-  prison|#item-352e6ec4b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,3050,511/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565100294724
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/284,224,600,180/250,/0/default.jpg
-label: Prison, continued
-location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 'It is unclear whether this entry is a new entry or a continuation of the preceding
-  entry. '
-also_in_entry: 
-order: '088'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0091/'>Boasting</a>|<a href='/digital-beehive/alpha2/alpha_0384/'>Grandeur</a>|819
+  [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_3189/'>pride</a>"
+item: "#item-37a8f0cc4"
+unparsed:
+line: 'Entry: Pride|Topic: Pride|Xref: Boasting|Xref: Grandeur|Xref: 819 [PAGE_MISSING]|Index:
+  pride|#item-37a8f0cc4'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/845,2963,2941,644/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528404186955
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/845,2963,600,180/250,/0/default.jpg
+label: Pride
+location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '083'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,27 +2,27 @@
 pid: index_2665
 volume: Volume 3
 image_number: '32'
-head: "[:25.]"
-entry: 
-topic: 
+head: neighbour
+entry: "<a href='/digital-beehive/alpha3/alpha_0641/'>a</a>|4617 [PAGE_MISSING]"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4c8ce4aea"
-unparsed: 'Type: Index|Insertion Xref: [:25.]|#item-4c8ce4aea'
-line: 'Type: Index|Insertion Xref: [:25.]|#item-4c8ce4aea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/967,2645,201,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560438846828
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/967,2645,201,126/150,/0/default.jpg
-label: "[:25.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d3ce408aa"
+unparsed:
+line: 'Head: neighbour|Entry: a|Entry: 4617 [PAGE_MISSING]|#item-d3ce408aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441019999
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,576,665,156/150,/0/default.jpg
+label: neighbour
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4690/'>Neapolis</a>"
+issue:
+insertion_xref:
 order: '747'
 layout: index_item
 collection: index3

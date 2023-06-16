@@ -2,28 +2,28 @@
 pid: index_2038
 volume: Volume 3
 image_number: '26'
-head: informer
-entry: "<a href='/digital-beehive/toc/toc2_226/'>1163 [Informer]</a>|<a href='/digital-beehive/toc/toc2_350/'>1827
-  [Informer]</a>"
-topic: 
+head: inequality
+entry: "<a href='/digital-beehive/alpha3/alpha_0473/'>a</a>|<a href='/digital-beehive/num6/num_2025/'>1407
+  [Inequality]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0c6baa675"
-unparsed: 
-line: 'Head: informer|Entry: 1163 [Informer]|Entry: 1827 [Informer]|#item-0c6baa675'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744952568
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/421,2297,628,160/150,/0/default.jpg
-label: informer
+page:
+add:
+xref:
+see:
+index:
+item: "#item-556305ea4"
+unparsed:
+line: 'Head: inequality|Entry: a|Entry: 1407 [Inequality]|#item-556305ea4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559674579865
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/455,621,586,124/150,/0/default.jpg
+label: inequality
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '120'
 layout: index_item
 collection: index3

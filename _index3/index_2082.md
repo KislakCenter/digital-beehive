@@ -2,27 +2,27 @@
 pid: index_2082
 volume: Volume 3
 image_number: '26'
-head: intractable
-entry: "<a href='/digital-beehive/toc/toc2_373/'>2076 [Intractable]</a>"
-topic: 
+head: to joyn
+entry: 822 [PAGE_MISSING]
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-32ee7fa69"
-unparsed: 
-line: 'Head: intractable|Entry: 2076 [Intractable]|#item-32ee7fa69'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,351,623,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750572362
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,351,623,109/150,/0/default.jpg
-label: intractable
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ccd5d4471"
+unparsed:
+line: 'Head: to joyn|Entry: 822 [PAGE_MISSING]|#item-ccd5d4471'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1852,2291,423,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559752099624
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1852,2291,423,131/150,/0/default.jpg
+label: to joyn
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '164'
 layout: index_item
 collection: index3

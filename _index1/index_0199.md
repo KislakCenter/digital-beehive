@@ -2,27 +2,27 @@
 pid: index_0199
 volume: Volume 3
 image_number: '8'
-head: argument ad hominem
-entry: "<a href='/digital-beehive/toc/toc2_384/'>2183 [Argumentum ad hominem]</a>"
-topic: 
+head: ascension
+entry: 837 [PAGE_MISSING]
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d5b0d384e"
-unparsed: 
-line: 'Head: argument ad hominem|Entry: 2183 [Argumentum ad hominem]|#item-d5b0d384e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1823,305,682,54/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491248159691
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1823,305,682,54/150,/0/default.jpg
-label: argument ad hominem
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ff0c6d17c"
+unparsed:
+line: 'Head: ascension |Entry: 837 [PAGE_MISSING]|#item-ff0c6d17c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1798,2179,482,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631700871
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1798,2179,482,141/150,/0/default.jpg
+label: ascension
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0198'
 layout: index_item
 collection: index1

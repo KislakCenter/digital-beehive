@@ -2,28 +2,28 @@
 pid: index_3067
 volume: Volume 3
 image_number: '36'
-head: pomp
-entry: 781 [PAGE_MISSING]
-topic: 
+head: pork
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-29ab169bf"
-unparsed: 
-line: 'Head: pomp|Entry: 781 [PAGE_MISSING]|#item-29ab169bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/391,3468,518,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438134463
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/391,3468,518,134/150,/0/default.jpg
-label: pomp
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1847/'>hog</a>"
+index:
+item: "#item-c4ff263ac"
+unparsed:
+line: 'Head: pork|See: hog|#item-c4ff263ac'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438519516
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1197,1134,466,155/150,/0/default.jpg
+label: pork
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0316'
+issue:
+insertion_xref:
+order: '0315'
 layout: index_item
 collection: index4
 ---

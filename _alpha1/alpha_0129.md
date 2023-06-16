@@ -2,27 +2,27 @@
 pid: alpha_0129
 volume: Volume 1
 image_number: '440'
-head: 
-entry: Cause
-topic: Cause
+head:
+entry: Catholick
+topic: Catholick
 first_letter: C
-page: 
-add: 
-xref: Motive|750 [PAGE_MISSING]
-see: 
-index: "<a href='/digital-beehive/index1/index_0570/'>cause</a>"
-item: "#item-f217cbcac"
-unparsed: 
-line: 'Entry: Cause|Topic: Cause|Xref: Motive|Xref: 750 [PAGE_MISSING]|Index: cause|#item-f217cbcac'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/875,2661,2945,810/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499370228064
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0439/875,2661,600,180/250,/0/default.jpg
-label: Cause
+page:
+add:
+xref: "<a href='/digital-beehive/num8/num_2747/'>1814 [Catholick]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0633/'>catholick</a>"
+item: "#item-b54ce8843"
+unparsed:
+line: 'Entry: Catholick|Topic: Catholick|Xref: 1814 [Catholick]|Index: catholick|#item-b54ce8843'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/820,1487,3006,570/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499370110107
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0439/820,1487,600,180/250,/0/default.jpg
+label: Catholick
 location: "<a href='/digital-beehive/toc/toc1_430/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '128'
 layout: alpha_item
 collection: alpha1

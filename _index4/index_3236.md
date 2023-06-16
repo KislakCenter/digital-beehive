@@ -2,29 +2,29 @@
 pid: index_3236
 volume: Volume 3
 image_number: '38'
-head: purpose
-entry: "<a href='/digital-beehive/alpha4/alpha_0762/'>a</a>|<a href='/digital-beehive/toc/toc2_366/'>2001
-  [Purpose]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-aac442727"
-unparsed: 
-line: 'Head: purpose|Entry: a|Entry: 2001 [Purpose]|#item-aac442727'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/399,2003,608,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452387740
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/399,2003,608,135/150,/0/default.jpg
-label: purpose
+head: winter quarter
+entry: a
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see:
+index:
+item: "#item-960432a6f"
+unparsed:
+line: 'Head: winter quarter|Entry: a|#item-960432a6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455013008
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1156,357,512,107/150,/0/default.jpg
+label: winter quarter
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0485'
+issue: The "a" links to an alphabetical entry which is indexed more than once. There
+  is no protocol at this point to handle multiple indexing for alphabetical entries.
+insertion_xref:
+order: '0484'
 layout: index_item
 collection: index4
 ---

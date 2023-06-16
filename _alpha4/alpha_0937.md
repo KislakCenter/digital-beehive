@@ -9,7 +9,7 @@ first_letter: S
 page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0249/'>distrust</a>|<a href='/digital-beehive/alpha3/alpha_0449/'>Jealousy</a>|<a
-  href='/digital-beehive/toc/toc2_249/'>1277 [Suspition]</a>"
+  href='/digital-beehive/num6/num_1773/'>1277 [Suspition]</a>"
 see:
 index: "<a href='/digital-beehive/index4/index_4006/'>suspition</a>"
 item: "#item-e17cbd2ea"
@@ -25,7 +25,7 @@ label: Suspition
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '284'
+order: '285'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,29 @@
 pid: alpha_0401
 volume: Volume 2
 image_number: '17'
-head: 
-entry: Hatred
-topic: Hatred
+head:
+entry: Harvest
+topic: Harvest
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0284/'>enmity</a>|747 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index2/index_1767/'>hatred</a>"
-item: "#item-703cad630"
-unparsed: 
-line: 'Entry: Hatred|Topic: Hatred|Xref: enmity|Xref: 747 [PAGE_MISSING]|Index: hatred|#item-703cad630'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,1372,3043,580/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564605161158
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/375,1372,600,180/250,/0/default.jpg
-label: Hatred
+page:
+add:
+xref: 4616 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index2/index_1772/'>harvest</a>"
+item: "#item-6372e5640"
+unparsed:
+line: 'Entry: Harvest|Topic: Harvest|Xref: 4616 [PAGE_MISSING]|Index: harvest|#item-6372e5640'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/359,356,3060,363/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508784997324
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/359,356,600,180/250,/0/default.jpg
+label: Harvest
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '132'
+issue: The point of reference for "Ruin" is unclear. Pastorius perhaps intends numerical
+  entry 608 [Ruin].
+also_in_entry:
+order: '129'
 layout: alpha_item
 collection: alpha2
 ---

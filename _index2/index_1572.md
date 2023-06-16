@@ -2,27 +2,28 @@
 pid: index_1572
 volume: Volume 3
 image_number: '21'
-head: Gainsaying
-entry: 823 [PAGE_MISSING]
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9f12c071e"
-unparsed: 
-line: 'Head: Gainsaying|Entry: 823 [PAGE_MISSING]|#item-9f12c071e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1552,1932,569,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560786441739
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1552,1932,569,118/150,/0/default.jpg
-label: Gainsaying
+head: frog
+entry: "<a href='/digital-beehive/alpha2/alpha_0353/'>a</a>|<a href='/digital-beehive/num9/num_3173/'>2228
+  [Frog & Toad]</a>"
+topic:
+first_letter: F
+page: "<a href='/digital-beehive/toc/toc1_086/'>p.36 [Image 1.96]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-0f3f71b37"
+unparsed:
+line: 'Head: frog|Page: p.36 [Image 1.96]|Entry: a|Entry: 2228 [Frog & Toad]|#item-0f3f71b37'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/835,2956,656,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784363645
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/835,2956,656,173/150,/0/default.jpg
+label: frog
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '391'
 layout: index_item
 collection: index2

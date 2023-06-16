@@ -2,28 +2,28 @@
 pid: index_4543
 volume: Volume 3
 image_number: '52'
-head: why
-entry: "<a href='/digital-beehive/num3/num_0743'>579 [Why?]</a>"
-topic: 
+head: weasel
+entry:
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-98043a400"
-unparsed: 
-line: 'Head: why|Entry: 579 [Why?]|#item-98043a400'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560971850514
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1761,1321,396,150/150,/0/default.jpg
-label: why
+page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-04eaaf75c"
+unparsed:
+line: 'Head: weasel|Page: p.34 [Image 1.94]|#item-04eaaf75c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/448,2773,469,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560961126653
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/448,2773,469,160/150,/0/default.jpg
+label: weasel
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '505'
+issue:
+insertion_xref:
+order: '506'
 layout: index_item
 collection: index5
 ---

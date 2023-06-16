@@ -2,28 +2,27 @@
 pid: index_0490
 volume: Volume 3
 image_number: '11'
-head: business
-entry: "<a href='/digital-beehive/alpha1/alpha_0108/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1179
-  [Business]</a>"
-topic: 
+head: burses
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7729bdf1d"
-unparsed: 
-line: 'Head: business|Entry: a|Entry: 1179 [Business]|#item-7729bdf1d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/894,2156,508,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531421770470
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/894,2156,508,135/150,/0/default.jpg
-label: business
+page: "<a href='/digital-beehive/toc/toc1_056/'>p.6 [Image 1.66]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-787b63651"
+unparsed:
+line: 'Head: burses|Page: p.6 [Image 1.66]|#item-787b63651'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/880,1807,350,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531421539162
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/880,1807,350,112/150,/0/default.jpg
+label: burses
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0489'
 layout: index_item
 collection: index1

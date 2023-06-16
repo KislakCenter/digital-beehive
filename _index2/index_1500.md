@@ -2,27 +2,27 @@
 pid: index_1500
 volume: Volume 3
 image_number: '21'
-head: forbidden books
-entry: 4761 [PAGE_MISSING]
-topic: 
+head: foam
+entry: "<a href='/digital-beehive/num2/num_0362/'>314 [Foam]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bbd7cdcf8"
-unparsed: 
-line: 'Head: forbidden books|Entry: 4761 [PAGE_MISSING]|#item-bbd7cdcf8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/177,1817,504,83/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531501870961
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/177,1817,504,83/150,/0/default.jpg
-label: forbidden books
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b7f517075"
+unparsed:
+line: 'Head: foam|Entry: 314 [Foam]|#item-b7f517075'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/197,628,327,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531232950271
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/197,628,327,112/150,/0/default.jpg
+label: foam
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '319'
 layout: index_item
 collection: index2

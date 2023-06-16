@@ -1,30 +1,31 @@
 ---
 pid: alpha_1040
 volume: Volume 2
-image_number: '65'
-head: 
-entry: Wisedom
-topic: Wisedom
+image_number: '64'
+head:
+entry: Will of God
+topic: Will of God
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0755/'>Prudence</a>|<a href='/digital-beehive/toc/toc2_215/'>1107
-  [Wisdom]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4567/'>wisdom</a>"
-item: "#item-e42300dfe"
-unparsed: 
-line: 'Entry: Wisedom|Topic: Wisedom|Xref: Prudence|Xref: 1107 [Wisdom]|Index: wisdom|#item-e42300dfe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,3023,580/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592350796
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/353,1622,600,180/250,/0/default.jpg
-label: Wisedom
-location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '106'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0372/'>Gods Providence</a>|1019 [Gods
+  Will]"
+see:
+index: "<a href='/digital-beehive/index5/index_4534/'>will of God</a>"
+item: "#item-328fe8275"
+unparsed:
+line: 'Entry: Will of God|Topic: Will of God|Xref: Gods Providence|Xref: 1019 [Gods
+  Will]|Index: will of God|#item-328fe8275'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/819,4597,2904,470/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529591194485
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0531/819,4597,600,180/250,/0/default.jpg
+label: Will of God
+location: "<a href='/digital-beehive/toc/toc2_054/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '100'
 layout: alpha_item
 collection: alpha5
 ---

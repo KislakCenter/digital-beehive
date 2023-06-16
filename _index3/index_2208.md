@@ -2,27 +2,27 @@
 pid: index_2208
 volume: Volume 3
 image_number: '27'
-head: to last or endure
-entry: "<a href='/digital-beehive/alpha3/alpha_0515/'>a</a>"
-topic: 
+head: latin English
+entry: "<a href='/digital-beehive/num5/num_1355/'>1015 [Some English Latin]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b403e920b"
-unparsed: 
-line: 'Head: to last or endure|Entry: a|#item-b403e920b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1521,2131,596,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559836068046
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1521,2131,596,133/150,/0/default.jpg
-label: to last or endure
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7b42a65fe"
+unparsed:
+line: 'Head: latin English|Entry: 1015 [Some English Latin]|#item-7b42a65fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836790573
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1507,3020,491,134/150,/0/default.jpg
+label: latin English
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '290'
 layout: index_item
 collection: index3

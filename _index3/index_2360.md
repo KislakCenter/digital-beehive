@@ -2,28 +2,28 @@
 pid: index_2360
 volume: Volume 3
 image_number: '29'
-head: Ludov. XIV
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1319 [Ludovicus XIV]</a>|<a href='/digital-beehive/toc/toc2_363/'>1984
-  [Ludovicus XIV]</a>"
-topic: 
+head: luxation
+entry: "<a href='/digital-beehive/num3/num_0770/'>593 [disjoint]</a>|<a href='/digital-beehive/num10/num_3235/'>2275
+  [Luxation]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2985c963e"
-unparsed: 
-line: 'Head: Ludov. XIV|Entry: 1319 [Ludovicus XIV]|Entry: 1984 [Ludovicus XIV]|#item-2985c963e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560184879704
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/860,372,593,144/150,/0/default.jpg
-label: Ludov. XIV
+page:
+add:
+xref:
+see:
+index:
+item: "#item-932441484"
+unparsed:
+line: 'Head: luxation|Entry: 593 [disjoint]|Entry: 2275 [Luxation]|#item-932441484'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,1398,596,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560185891387
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/858,1398,596,144/150,/0/default.jpg
+label: luxation
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '442'
 layout: index_item
 collection: index3

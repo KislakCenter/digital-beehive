@@ -2,27 +2,27 @@
 pid: index_2455
 volume: Volume 3
 image_number: '30'
-head: meal
-entry: 797 [PAGE_MISSING]
-topic: 
+head: metaphysicks
+entry: "<a href='/digital-beehive/alpha3/alpha_0593/'>a</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ceb916181"
-unparsed: 
-line: 'Head: meal|Entry: 797 [PAGE_MISSING]|#item-ceb916181'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265638017
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/415,2736,330,144/150,/0/default.jpg
-label: meal
+page:
+add:
+xref:
+see:
+index:
+item: "#item-37b2da10d"
+unparsed:
+line: 'Head: metaphysicks|Entry: a|#item-37b2da10d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273473683
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1852,539,506,147/150,/0/default.jpg
+label: metaphysicks
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '537'
 layout: index_item
 collection: index3

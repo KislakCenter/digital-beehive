@@ -3,7 +3,7 @@ pid: index_4057
 volume: Volume 3
 image_number: '46'
 head: Surinam
-entry: "<a href='/digital-beehive/num9/num_2985/'>2052 [Surinam]</a>"
+entry: "<a href='/digital-beehive/num9/num_2986/'>2052 [Surinam]</a>"
 topic:
 first_letter: S
 page:
@@ -23,7 +23,7 @@ label: Surinam
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1277'
+order: '1276'
 layout: index_item
 collection: index4
 ---

@@ -1,32 +1,30 @@
 ---
 pid: alpha_0381
 volume: Volume 2
-image_number: '16'
-head: 
-entry: Grandeur
-topic: Grandeur
+image_number: '15'
+head:
+entry: Grace of God
+topic: Grace of God
 first_letter: G
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0730/'>Pride</a>|<a href='/digital-beehive/alpha2/alpha_0420/'>highness</a>|<a
-  href='/digital-beehive/alpha3/alpha_0565/'>magnanimity</a>|<a href='/digital-beehive/num4/num_1131'>883
-  [highness]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1690/'>grandeur</a>"
-item: "#item-d2c4ae635"
-unparsed: 
-line: 'Entry: Grandeur|Topic: Grandeur|Xref: Pride|Xref: highness|Xref: magnanimity|Xref:
-  883 [highness]|Index: grandeur|#item-d2c4ae635'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,2958,507/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508857327200
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/813,234,600,180/250,/0/default.jpg
-label: Grandeur
-location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '112'
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0882/'>646 [Grace of God]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1652/'>Grace of God</a>"
+item: "#item-f20619d2c"
+unparsed:
+line: 'Entry: Grace of God|Topic: Grace of God|Xref: 646 [Grace of God]|Index: Grace
+  of God|#item-f20619d2c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/390,3712,3011,437/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564603228332
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0482/390,3712,600,180/250,/0/default.jpg
+label: Grace of God
+location: "<a href='/digital-beehive/toc/toc2_005/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '109'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,28 +2,28 @@
 pid: index_4275
 volume: Volume 3
 image_number: '49'
-head: twelve
-entry: "<a href='/digital-beehive/toc/toc2_354/'>1919 [Twelve]</a>"
-topic: 
-first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d992b8772"
-unparsed: 
-line: 'Head: twelve|Entry: 1919 [Twelve]|#item-d992b8772'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/243,2471,419,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561656963212
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/243,2471,419,139/150,/0/default.jpg
-label: twelve
+head: valour
+entry:
+topic:
+first_letter: U/V
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2397/'>magnanimity</a>"
+index:
+item: "#item-c9475f7a0"
+unparsed:
+line: 'Head: valour|See: magnanimity|#item-c9475f7a0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/948,874,680,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657688552
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/948,874,680,134/150,/0/default.jpg
+label: valour
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '237'
+issue:
+insertion_xref:
+order: '238'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,28 @@
 pid: index_3203
 volume: Volume 3
 image_number: '37'
-head: pros[per]ity
-entry: 
-topic: 
+head: primitive Xtians
+entry: "<a href='/digital-beehive/num5/num_1431/'>1064 [Primitive Christians]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1749/'>happiness</a>"
-index: 
-item: "#item-d7dda5d07"
-unparsed: 
-line: 'Head: pros[per]ity|See: happiness|#item-d7dda5d07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869398002
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1492,1647,689,165/150,/0/default.jpg
-label: pros[per]ity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e70b17368"
+unparsed:
+line: 'Head: primitive Xtians|Entry: 1064 [Primitive Christians]|#item-e70b17368'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866995981
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/115,2789,608,153/150,/0/default.jpg
+label: primitive Xtians
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0452'
+issue:
+insertion_xref:
+order: '0451'
 layout: index_item
 collection: index4
 ---

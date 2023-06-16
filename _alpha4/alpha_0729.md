@@ -2,30 +2,29 @@
 pid: alpha_0729
 volume: Volume 2
 image_number: '42'
-head: 
-entry: Prevention
-topic: Prevention
+head:
+entry: Book prayers
+topic: Book prayers
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0326/'>First</a>|<a href='/digital-beehive/toc/toc2_218/'>1122
-  [Preventing]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3147/'>prevention</a>"
-item: "#item-f2eea9052"
-unparsed: 
-line: 'Entry: Prevention|Topic: Prevention|Xref: First|Xref: 1122 [Preventing]|Index:
-  prevention|#item-f2eea9052'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,2498,2969,521/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565024178679
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0509/820,2498,600,180/250,/0/default.jpg
-label: Prevention
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0285/'>259 [Book Prayers]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3074/'>book prayers</a>"
+item: "#item-b752fcc73"
+unparsed:
+line: 'Entry: Book prayers|Topic: Book prayers|Xref: 259 [Book Prayers]|Index: book
+  prayers|#item-b752fcc73'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/852,650,2961,393/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528375725082
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0509/852,650,600,180/250,/0/default.jpg
+label: Book prayers
 location: "<a href='/digital-beehive/toc/toc2_032/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '082'
+issue:
+also_in_entry:
+order: '077'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,28 @@
 pid: index_1724
 volume: Volume 3
 image_number: '23'
-head: guest
-entry: 4608 [PAGE_MISSING]
-topic: 
+head: great with young
+entry: "<a href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-199acac44"
-unparsed: 
-line: 'Head: guest|Entry: 4608 [PAGE_MISSING]|#item-199acac44'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2198,359,68/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232373971
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/148,2198,359,68/150,/0/default.jpg
-label: guest
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3e5ca0fdb"
+unparsed:
+line: 'Head: great with young|Entry: 1377 [Great with young]|#item-3e5ca0fdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230252090
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/145,888,597,96/150,/0/default.jpg
+label: great with young
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '542'
+issue:
+insertion_xref:
+order: '543'
 layout: index_item
 collection: index2
 ---

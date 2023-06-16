@@ -2,28 +2,28 @@
 pid: index_1705
 volume: Volume 3
 image_number: '23'
-head: grease
-entry: "<a href='/digital-beehive/num3/num_1005'>698 [Grease]</a>"
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d21c66cbc"
-unparsed: 
-line: 'Head: grease|Entry: 698 [Grease]|#item-d21c66cbc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229295078
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/133,606,348,121/150,/0/default.jpg
-label: grease
+head: hallelujah
+entry: 791 [PAGE_MISSING]
+topic:
+first_letter: H
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f3ffad451"
+unparsed:
+line: 'Head: hallelujah|Entry: 791 [PAGE_MISSING]|#item-f3ffad451'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238001715
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/833,342,463,125/150,/0/default.jpg
+label: hallelujah
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '523'
+issue:
+insertion_xref:
+order: '524'
 layout: index_item
 collection: index2
 ---

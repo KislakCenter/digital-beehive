@@ -2,28 +2,28 @@
 pid: index_4616
 volume: Volume 3
 image_number: '53'
-head: workmen
-entry: 4608 [PAGE_MISSING]
-topic: 
-first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-05ad5f6c9"
-unparsed: 
-line: 'Head: workmen|Entry: 4608 [PAGE_MISSING]|#item-05ad5f6c9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,2830,536,88/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560797276353
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/879,2830,536,88/150,/0/default.jpg
-label: workmen
+head: yellow
+entry: "<a href='/digital-beehive/num3/num_0884/'>647 [Yellow]</a>"
+topic:
+first_letter: Y
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b31286a12"
+unparsed:
+line: 'Head: yellow|Entry: 647 [Yellow]|#item-b31286a12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1546,2134,458,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799066942
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1546,2134,458,118/150,/0/default.jpg
+label: yellow
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '578'
+issue:
+insertion_xref:
+order: '579'
 layout: index_item
 collection: index5
 ---

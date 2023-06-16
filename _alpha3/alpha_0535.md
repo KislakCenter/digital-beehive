@@ -1,31 +1,31 @@
 ---
 pid: alpha_0535
 volume: Volume 2
-image_number: '28'
-head: 
-entry: Liberty of Conscience, continued
-topic: Liberty of Conscience, continued
+image_number: '27'
+head:
+entry: Liberality
+topic: Liberality
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0534/'>Liberty of Conscience</a>|<a
-  href='/digital-beehive/num3/num_0709'>557 [Liberty of Conscience]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2275/'>liberty of Conscience</a>"
-item: "#item-cd345b6c4"
-unparsed: 
-line: 'Entry: Liberty of Conscience, continued|Topic: Liberty of Conscience, continued|Xref:
-  Liberty of Conscience|Xref: 557 [Liberty of Conscience]|Index: liberty of Conscience|#item-cd345b6c4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/808,222,3000,474/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1573245579761
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/808,222,600,180/250,/0/default.jpg
-label: Liberty of Conscience, continued
-location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '091'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0022/'>alms</a>|<a href='/digital-beehive/alpha2/alpha_0363/'>gift</a>|<a
+  href='/digital-beehive/num5/num_1528/'>1127 [Liberality]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2280/'>liberality</a>"
+item: "#item-8b9784d52"
+unparsed:
+line: 'Entry: Liberality|Topic: Liberality|Xref: alms|Xref: gift|Xref: 1127 [Liberality]|Index:
+  liberality|#item-8b9784d52'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/346,3791,3051,539/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768897851
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/346,3791,600,180/250,/0/default.jpg
+label: Liberality
+location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '088'
 layout: alpha_item
 collection: alpha3
 ---

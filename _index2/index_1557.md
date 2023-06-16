@@ -2,27 +2,27 @@
 pid: index_1557
 volume: Volume 3
 image_number: '21'
-head: fruitful
-entry: "<a href='/digital-beehive/alpha2/alpha_0352/'>a</a>"
-topic: 
-first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e30a480aa"
-unparsed: 
-line: 'Head: fruitful|Entry: a|#item-e30a480aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,405,444,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560785395095
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1566,405,444,152/150,/0/default.jpg
-label: fruitful
+head: gaping
+entry: "<a href='/digital-beehive/num3/num_1023/'>704 [to Gape]</a>"
+topic:
+first_letter: G
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dc6a1c620"
+unparsed:
+line: 'Head: gaping|Entry: 704 [to Gape]|#item-dc6a1c620'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1530,2377,470,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787120452
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1530,2377,470,130/150,/0/default.jpg
+label: gaping
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '376'
 layout: index_item
 collection: index2

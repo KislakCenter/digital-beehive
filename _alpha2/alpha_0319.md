@@ -1,30 +1,31 @@
 ---
 pid: alpha_0319
-volume: Volume 2
-image_number: '11'
-head: 
-entry: Favour
-topic: Favour
+volume: Volume 1
+image_number: '456'
+head:
+entry: Fate
+topic: Fate
 first_letter: F
-page: 
-add: 
-xref: Disfavour|<a href='/digital-beehive/toc/toc2_265/'>1359 [Favour]</a>
-see: 
-index: "<a href='/digital-beehive/index2/index_1417/'>favour & disfavour</a>"
-item: "#item-89fc7f3f5"
-unparsed: 
-line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
-  & disfavour|#item-89fc7f3f5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,3026,514/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833083208
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/413,254,600,180/250,/0/default.jpg
-label: Favour
-location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-issue: The point of reference for "Disfavour" is unclear.
-also_in_entry: 
-order: '050'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0732/'>Predestination</a>|<a href='/digital-beehive/alpha2/alpha_0372/'>God's
+  Providence</a>|<a href='/digital-beehive/num5/num_1716/'>1243 [Fate]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1392/'>fate</a>"
+item: "#item-60683e6ab"
+unparsed:
+line: 'Entry: Fate|Topic: Fate|Xref: Predestination|Xref: God''s Providence|Xref:
+  1243 [Fate]|Index: fate|#item-60683e6ab'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/746,4080,3019,357/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564589335080
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0455/746,4080,600,180/250,/0/default.jpg
+label: Fate
+location: "<a href='/digital-beehive/toc/toc1_446/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '047'
 layout: alpha_item
 collection: alpha2
 ---

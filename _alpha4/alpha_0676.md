@@ -2,30 +2,28 @@
 pid: alpha_0676
 volume: Volume 2
 image_number: '38'
-head: 
-entry: Pardon
-topic: Pardon
-first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0788/'>Remission</a>|420 [absolulte
-  Forgiveness]"
-see: 
-index: "<a href='/digital-beehive/index4/index_2878/'>pardon</a>"
-item: "#item-e5e568bc3"
-unparsed: 
-line: 'Entry: Pardon|Topic: Pardon|Xref: Remission|Xref: 420 [Forgiveness]|Index:
-  pardon|#item-e5e568bc3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,3177,3042,479/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565020004069
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/740,3177,600,180/250,/0/default.jpg
-label: Pardon
+head:
+entry: Ox
+topic: Ox
+first_letter: O
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index4/index_2836/'>ox</a>"
+item: "#item-969d8ca53"
+unparsed:
+line: 'Entry: Ox|Topic: Ox|Index: ox|#item-969d8ca53'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/790,1715,2987,253/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565019054052
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0505/790,1715,600,180/250,/0/default.jpg
+label: Ox
 location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '029'
+issue:
+also_in_entry:
+order: '024'
 layout: alpha_item
 collection: alpha4
 ---

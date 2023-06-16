@@ -2,28 +2,29 @@
 pid: alpha_1042
 volume: Volume 2
 image_number: '65'
-head: 
-entry: Witchcraft
-topic: Witchcraft
+head:
+entry: Wind
+topic: Wind
 first_letter: W
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_256/'>1312 [Witchcraft]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4574/'>witchcraft</a>"
-item: "#item-6d7b3a01f"
-unparsed: 
-line: 'Entry: Witchcraft|Topic: Witchcraft|Xref: 1312 [Witchcraft]|Index: witchcraft|#item-6d7b3a01f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,3027,466/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529592744072
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0532/320,2567,600,180/250,/0/default.jpg
-label: Witchcraft
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>|<a href='/digital-beehive/num6/num_1763/'>1271
+  [Wind]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4553/'>wind</a>"
+item: "#item-e4ac066b8"
+unparsed:
+line: 'Entry: Wind|Topic: Wind|Xref: 1316 [Laplanders]|Xref: 1271 [Wind]|Index: wind|#item-e4ac066b8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/330,616,3056,412/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529591802129
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/330,616,600,180/250,/0/default.jpg
+label: Wind
 location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '108'
+issue:
+also_in_entry:
+order: '102'
 layout: alpha_item
 collection: alpha5
 ---

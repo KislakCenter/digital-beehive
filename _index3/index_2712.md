@@ -2,27 +2,27 @@
 pid: index_2712
 volume: Volume 3
 image_number: '32'
-head: nimble
-entry: "<a href='/digital-beehive/num3/num_1019'>703 [Nimble]</a>"
-topic: 
+head: notary
+entry: "<a href='/digital-beehive/num2/num_0288/'>260 [Scribe or publick Notary]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c7f538e0e"
-unparsed: 
-line: 'Head: nimble|Entry: 703 [Nimble]|#item-c7f538e0e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1871,265,441,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560446517353
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1871,265,441,112/150,/0/default.jpg
-label: nimble
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8d448ea85"
+unparsed:
+line: 'Head: notary|Entry: 260 [Scribe or publick Notary]|#item-8d448ea85'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560449359856
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1837,2256,419,129/150,/0/default.jpg
+label: notary
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '794'
 layout: index_item
 collection: index3

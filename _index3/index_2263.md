@@ -2,27 +2,27 @@
 pid: index_2263
 volume: Volume 3
 image_number: '28'
-head: letter droppers
-entry: "<a href='/digital-beehive/toc/toc2_433/'>4829 [Letter droppers]</a>"
-topic: 
+head: letters of friends
+entry: "<a href='/digital-beehive/num6/num_2210/'>1500 [Epistles of Friends]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f3b855df1"
-unparsed: 
-line: 'Head: letter droppers|Entry: 4829 [Letter droppers]|#item-f3b855df1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1129,830,548,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844627882
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1129,830,548,116/150,/0/default.jpg
-label: letter droppers
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f39620eb6"
+unparsed:
+line: 'Head: letters of friends|Entry: 1500 [Epistles of Friends]|#item-f39620eb6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1120,975,640,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844850963
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1120,975,640,95/150,/0/default.jpg
+label: letters of friends
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '345'
 layout: index_item
 collection: index3

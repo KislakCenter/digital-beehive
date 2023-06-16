@@ -2,27 +2,27 @@
 pid: index_1299
 volume: Volume 3
 image_number: '19'
-head: essay
-entry: "<a href='/digital-beehive/num3/num_0857'>633 [essay]</a>|4578 [PAGE_MISSING]"
-topic: 
+head: exile
+entry:
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e6900cea"
-unparsed: 
-line: 'Head: essay|Entry: 633 [essay]|Entry: 4578 [PAGE_MISSING]|#item-4e6900cea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278175282
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/125,2715,557,175/150,/0/default.jpg
-label: essay
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0275/'>banishmt</a>"
+index:
+item: "#item-f73333200"
+unparsed:
+line: 'Head: exile|See: banishmt|#item-f73333200'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1546,887,697,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561042620890
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1546,887,697,146/150,/0/default.jpg
+label: exile
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '118'
 layout: index_item
 collection: index2

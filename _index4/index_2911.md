@@ -2,29 +2,29 @@
 pid: index_2911
 volume: Volume 3
 image_number: '34'
-head: past remedy
-entry: "<a href='/digital-beehive/num3/num_0832'>620 [Despair]</a>|<a href='/digital-beehive/toc/toc2_332/'>1689
-  [Despair]</a>"
-topic: 
+head: paymt
+entry: "<a href='/digital-beehive/alpha4/alpha_0695/'>a</a>|<a href='/digital-beehive/num5/num_1536/'>1131
+  [Payment]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0bcce8094"
-unparsed: 
-line: 'Head: past remedy|Entry: 620 [Despair]|Entry: 1689 [Despair]|#item-0bcce8094'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495196947
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1790,1168,688,147/150,/0/default.jpg
-label: past remedy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d26755afc"
+unparsed:
+line: 'Head: paymt|Entry: a|Entry: 1131 [Payment]|#item-d26755afc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1772,2538,566,210/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495837650
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1772,2538,566,210/150,/0/default.jpg
+label: paymt
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0160'
+issue:
+insertion_xref:
+order: '0159'
 layout: index_item
 collection: index4
 ---

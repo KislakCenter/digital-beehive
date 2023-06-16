@@ -2,27 +2,28 @@
 pid: index_0185
 volume: Volume 3
 image_number: '8'
-head: application
-entry: "<a href='/digital-beehive/toc/toc2_200/'>1032 [Application]</a>"
-topic: 
+head: arts & artificial
+entry: "<a href='/digital-beehive/num1/num_0177/'>169 [Art]</a>|<a href='/digital-beehive/num7/num_2523/'>1651
+  [Arts and Sciences]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2b3a9eaf7"
-unparsed: 
-line: 'Head: application|Entry: 1032 [Application]|#item-2b3a9eaf7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1103,2075,542,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760846209
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/1103,2075,542,135/150,/0/default.jpg
-label: application
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5da931a52"
+unparsed:
+line: 'Head: arts & artificial|Entry: 169 [Art]|Entry: 1651 [Arts and Sciences]|#item-5da931a52'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1792,1761,699,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631578054
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1792,1761,699,162/150,/0/default.jpg
+label: arts & artificial
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0184'
 layout: index_item
 collection: index1

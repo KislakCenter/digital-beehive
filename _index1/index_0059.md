@@ -2,27 +2,28 @@
 pid: index_0059
 volume: Volume 3
 image_number: '7'
-head: affinity
-entry: 
-topic: 
+head: absurdity
+entry: "<a href='/digital-beehive/alpha1/alpha_0002/'>a</a>|<a href='/digital-beehive/num4/num_1217/'>919
+  [Absurd]</a>|<a href='/digital-beehive/num9/num_3148/'>2205 [Absurd]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3346/'>relation</a>"
-index: 
-item: "#item-fecec7dce"
-unparsed: 
-line: 'Head: affinity|See: relation|#item-fecec7dce'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,1602,585,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564766304493
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/893,1602,585,160/150,/0/default.jpg
-label: affinity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-63eec4140"
+unparsed:
+line: 'Head: absurdity|Entry: a|Entry: 919 [Absurd]|Entry: 2205 [Absurd]|#item-63eec4140'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/187,1631,736,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759380351
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/187,1631,736,144/150,/0/default.jpg
+label: absurdity
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0058'
 layout: index_item
 collection: index1

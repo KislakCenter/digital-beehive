@@ -1,30 +1,31 @@
 ---
 pid: alpha_0859
 volume: Volume 2
-image_number: '52'
-head: 
-entry: Servitude
-topic: Servitude
+image_number: '51'
+head:
+entry: Self profit
+topic: Self profit
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0886/'>Slavery</a>|Neger|813 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3647/'>servitude</a>"
-item: "#item-62e3b4e15"
-unparsed: 
-line: 'Entry: Servitude|Topic: Servitude|Xref: Slavery|Xref: Neger|Xref: 813 [PAGE_MISSING]|Index:
-  servitude|#item-62e3b4e15'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/811,499,2982,450/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803112638
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/811,499,600,180/250,/0/default.jpg
-label: Servitude
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-issue: It is unclear whether "It. Neger" should be considered a cross-reference.
-also_in_entry: 
-order: '211'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0566/'>Lucre</a>|<a href='/digital-beehive/num2/num_0566/'>455
+  [Self-profit]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3666/'>Self profit</a>"
+item: "#item-0e15b046c"
+unparsed:
+line: 'Entry: Self profit|Topic: Self profit|Xref: Lucre|Xref: 455 [Self-profit]|Index:
+  Self profit|#item-0e15b046c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/286,3744,3045,418/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530201360793
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/286,3744,600,180/250,/0/default.jpg
+label: Self profit
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '207'
 layout: alpha_item
 collection: alpha4
 ---

@@ -2,28 +2,29 @@
 pid: index_3319
 volume: Volume 3
 image_number: '38'
-head: reconciliation universal
-entry: "<a href='/digital-beehive/num2/num_0455/'>379 [Reconciliatio universalis]</a>"
-topic: 
+head: rainbow
+entry: "<a href='/digital-beehive/alpha4/alpha_0776/'>a</a>|<a href='/digital-beehive/num7/num_2386/'>1590
+  [Rainbow]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-93706d7fe"
-unparsed: 
-line: 'Head: reconciliation universal|Entry: 379 [Reconciliatio universalis]|#item-93706d7fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1826,3462,678,215/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462142147
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1826,3462,678,215/150,/0/default.jpg
-label: reconciliation universal
+page: "<a href='/digital-beehive/toc/toc1_076/'>p.26 [Image 1.86]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-70a9c0fd8"
+unparsed:
+line: 'Head: rainbow|Page: p.26 [Image 1.86]|Entry: a|Entry: 1590 [Rainbow]|#item-70a9c0fd8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3497,652,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459785536
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3497,652,134/150,/0/default.jpg
+label: rainbow
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0568'
+issue:
+insertion_xref:
+order: '0567'
 layout: index_item
 collection: index4
 ---

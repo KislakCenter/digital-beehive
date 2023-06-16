@@ -2,28 +2,29 @@
 pid: index_1111
 volume: Volume 3
 image_number: '17'
-head: diversity
-entry: "<a href='/digital-beehive/alpha1/alpha_0252/'>a</a>"
-topic: 
+head: dream
+entry: "<a href='/digital-beehive/num6/num_1956/'>1374 [Dream]</a>|<a href='/digital-beehive/num7/num_2285/'>1535
+  [Dream]</a>|<a href='/digital-beehive/num9/num_2979/'>2045 [Dreams]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-618c2e032"
-unparsed: 
-line: 'Head: diversity|Entry: a|#item-618c2e032'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849180342
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/743,1237,574,145/150,/0/default.jpg
-label: diversity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-33a1a7c9a"
+unparsed:
+line: 'Head: dream|Entry: 1374 [Dream]|Entry: 1535 [Dream]|Entry: 2045 [Dreams]|#item-33a1a7c9a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1416,1566,826,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452079462
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1416,1566,826,94/150,/0/default.jpg
+label: dream
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1110'
+issue:
+insertion_xref:
+order: '1109'
 layout: index_item
 collection: index1
 ---

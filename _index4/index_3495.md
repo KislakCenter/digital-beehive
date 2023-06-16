@@ -2,29 +2,28 @@
 pid: index_3495
 volume: Volume 3
 image_number: '40'
-head: Saints
-entry: "<a href='/digital-beehive/alpha4/alpha_0824/'>a</a>|<a href='/digital-beehive/toc/toc2_380/'>2149
-  [Saints]</a>"
-topic: 
+head: salamander
+entry: "<a href='/digital-beehive/num5/num_1720/'>1245 [Salamander]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-98b7d7407"
-unparsed: 
-line: 'Head: Saints|Entry: a|Entry: 2149 [Saints]|#item-98b7d7407'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1849,2985,493,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235263548
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1849,2985,493,143/150,/0/default.jpg
-label: Saints
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5fe2f6efe"
+unparsed:
+line: 'Head: salamander|Entry: 1245 [Salamander]|#item-5fe2f6efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235309496
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1840,3098,587,121/150,/0/default.jpg
+label: salamander
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0744'
+issue:
+insertion_xref:
+order: '0743'
 layout: index_item
 collection: index4
 ---

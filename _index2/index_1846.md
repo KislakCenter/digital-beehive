@@ -2,28 +2,29 @@
 pid: index_1846
 volume: Volume 3
 image_number: '24'
-head: histories Biblical
-entry: 
-topic: 
+head: herring
+entry: "<a href='/digital-beehive/alpha2/alpha_0420/'>a</a>|<a href='/digital-beehive/num10/num_3220/'>2266
+  [Herrings]</a>"
+topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_095/'>p.45 [Image 1.105]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-78747142d"
-unparsed: 
-line: 'Head: histories Biblical|Page: p.45 [Image 1.105]|#item-78747142d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1166,234,646,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580871327
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1166,234,646,160/150,/0/default.jpg
-label: histories Biblical
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7a06b51d6"
+unparsed:
+line: 'Head: herring|Entry: a|Entry: 2266 [Herrings]|#item-7a06b51d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/428,915,579,173/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575450492
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/428,915,579,173/150,/0/default.jpg
+label: herring
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '664'
+issue:
+insertion_xref:
+order: '665'
 layout: index_item
 collection: index2
 ---

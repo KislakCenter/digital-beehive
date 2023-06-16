@@ -2,28 +2,29 @@
 pid: index_4465
 volume: Volume 3
 image_number: '51'
-head: walks. spatzieren
-entry: "<a href='/digital-beehive/toc/toc2_282/'>1441 [Walks. walking places]</a>"
-topic: 
-first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-13176ba53"
-unparsed: 
-line: 'Head: walks. spatzieren|Entry: 1441 [Walks. walking places]|#item-13176ba53'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1638,1057,668,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647744045
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1638,1057,668,168/150,/0/default.jpg
-label: walks. spatzieren
+head: unworthy
+entry: "<a href='/digital-beehive/alpha5/alpha_1017/'>a</a>|<a href='/digital-beehive/num4/num_1245/'>933
+  [Unworthy]</a>"
+topic:
+first_letter: U/V
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8f0776b9d"
+unparsed:
+line: 'Head: unworthy|Entry: a|Entry: 933 [Unworthy]|#item-8f0776b9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/223,2629,520,196/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561645878440
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/223,2629,520,196/150,/0/default.jpg
+label: unworthy
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '427'
+issue:
+insertion_xref:
+order: '428'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,28 @@
 pid: alpha_0664
 volume: Volume 2
 image_number: '37'
-head: 
-entry: Oracle
-topic: Oracle
+head:
+entry: Old Adam
+topic: Old Adam
 first_letter: O
-page: 
-add: 
-xref: Divination|<a href='/digital-beehive/toc/toc2_298/'>1518 [Oracle]</a>
-see: 
-index: "<a href='/digital-beehive/index4/index_2814/'>oracle</a>"
-item: "#item-211319dde"
-unparsed: 
-line: 'Entry: Oracle|Topic: Oracle|Xref: Divination|Xref: 1518 [Oracle]|Index: oracle|#item-211319dde'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,2993,371/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018174995
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/353,4718,600,180/250,/0/default.jpg
-label: Oracle
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2616/'>1697 [Old Adam]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2779/'>old Adam</a>"
+item: "#item-978d15000"
+unparsed:
+line: 'Entry: Old Adam|Topic: Old Adam|Xref: 1697 [Old Adam]|Index: old Adam|#item-978d15000'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/312,2910,3051,378/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017586284
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/312,2910,600,180/250,/0/default.jpg
+label: Old Adam
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: The point of reference for "Divination" is unclear.
-also_in_entry: 
-order: '017'
+issue:
+also_in_entry:
+order: '012'
 layout: alpha_item
 collection: alpha4
 ---

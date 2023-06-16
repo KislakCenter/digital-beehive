@@ -2,30 +2,28 @@
 pid: alpha_0139
 volume: Volume 1
 image_number: '441'
-head: 
-entry: Child
-topic: Child
+head:
+entry: Chastity
+topic: Chastity
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0014/'>14 [Degenerating]</a>|<a href='/digital-beehive/toc/toc2_206/'>1061
-  [Whelp]</a>|<a href='/digital-beehive/alpha4/alpha_0893/'>Sonship</a>|<a href='/digital-beehive/num1/num_0009/'>9
-  [Education]</a>|<a href='/digital-beehive/num2/num_0351/'>308 [Children]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0630/'>child</a>"
-item: "#item-7c39126da"
-unparsed: 
-line: 'Entry: Child|Topic: Child|Xref: 14 [Degenerating]|Xref: 1061 [Whelp]|Xref:
-  Sonship|Xref: 9 [Education]|Xref: 308 [Children]|Index: child|#item-7c39126da'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,2138,3108,691/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499438742340
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/335,2138,600,180/250,/0/default.jpg
-label: Child
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0766/'>Purity</a>|794 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index1/index_0574/'>chastity</a>"
+item: "#item-c08ad89c9"
+unparsed:
+line: 'Entry: Chastity|Topic: Chastity|Xref: Purity|Xref: 794 [PAGE_MISSING]|Index:
+  chastity|#item-c08ad89c9'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/316,1405,3221,484/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499437941056
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/316,1405,600,180/250,/0/default.jpg
+label: Chastity
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '138'
 layout: alpha_item
 collection: alpha1

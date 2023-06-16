@@ -2,27 +2,28 @@
 pid: index_0658
 volume: Volume 3
 image_number: '13'
-head: chrystal
-entry: "<a href='/digital-beehive/toc/toc2_222/'>1145 [Chrystal]</a>"
-topic: 
+head: christianity
+entry: "<a href='/digital-beehive/alpha1/alpha_0149/'>a</a>|<a href='/digital-beehive/num1/num_0228/'>216
+  [Christians]</a>|<a href='/digital-beehive/num9/num_3193/'>2247 [Christian]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a2af1bc6d"
-unparsed: 
-line: 'Head: chrystal|Entry: 1145 [Chrystal]|#item-a2af1bc6d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/142,1118,535,181/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532619259562
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/142,1118,535,181/150,/0/default.jpg
-label: chrystal
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cc56d4a62"
+unparsed:
+line: 'Head: christianity|Entry: a|Entry: 216 [Christians]|Entry: 2247 [Christian]|#item-cc56d4a62'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/141,486,701,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532618444140
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/141,486,701,153/150,/0/default.jpg
+label: christianity
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0657'
 layout: index_item
 collection: index1

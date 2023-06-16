@@ -2,28 +2,29 @@
 pid: index_3134
 volume: Volume 3
 image_number: '37'
-head: presently
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_373/'>2074 [Presently]</a>
-topic: 
+head: proof, or trial
+entry: "<a href='/digital-beehive/alpha4/alpha_0751/'>a</a>|<a href='/digital-beehive/num2/num_0609/'>487
+  [Proof, Try all]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e92261958"
-unparsed: 
-line: 'Head: presently|Entry: 843 [PAGE_MISSING]|Entry: 2074 [Presently]|#item-e92261958'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/77,495,708,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550865962636
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/77,495,708,131/150,/0/default.jpg
-label: presently
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9c5efa0ad"
+unparsed:
+line: 'Head: proof, or trial|Entry: a|Entry: 487 [Proof, Try all]|#item-9c5efa0ad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1489,260,671,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868779645
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1489,260,671,130/150,/0/default.jpg
+label: proof, or trial
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0383'
+issue:
+insertion_xref:
+order: '0382'
 layout: index_item
 collection: index4
 ---

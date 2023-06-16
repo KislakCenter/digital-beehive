@@ -25,7 +25,7 @@ label: Surety
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '283'
+order: '284'
 layout: alpha_item
 collection: alpha4
 ---

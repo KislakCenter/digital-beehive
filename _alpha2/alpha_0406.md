@@ -2,28 +2,28 @@
 pid: alpha_0406
 volume: Volume 2
 image_number: '17'
-head: 
-entry: Heathenism
-topic: Heathenism
+head:
+entry: Health
+topic: Health
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_285/'>1456 [Heathens]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1782/'>heathens</a>"
-item: "#item-187d5c649"
-unparsed: 
-line: 'Entry: Heathenism|Topic: Heathenism|Xref: 1456 [Heathens]|Index: heathens|#item-187d5c649'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/419,3455,3006,560/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564605607617
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0484/419,3455,600,180/250,/0/default.jpg
-label: Heathenism
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2224/'>1506 [Health]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1707/'>health</a>"
+item: "#item-f7f321a7a"
+unparsed:
+line: 'Entry: Health|Topic: Health|Xref: 1506 [Health]|Index: health|#item-f7f321a7a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/370,2316,3030,449/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508805356855
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0484/370,2316,600,180/250,/0/default.jpg
+label: Health
 location: "<a href='/digital-beehive/toc/toc2_007/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '137'
+issue:
+also_in_entry:
+order: '134'
 layout: alpha_item
 collection: alpha2
 ---

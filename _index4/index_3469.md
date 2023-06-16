@@ -2,28 +2,28 @@
 pid: index_3469
 volume: Volume 3
 image_number: '40'
-head: to run
-entry: 771 [PAGE_MISSING]
-topic: 
+head: rosemary
+entry: "<a href='/digital-beehive/num3/num_0990/'>692 [Rosemary]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-983dbc461"
-unparsed: 
-line: 'Head: to run|Entry: 771 [PAGE_MISSING]|#item-983dbc461'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559234310718
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1836,267,398,96/150,/0/default.jpg
-label: to run
+page:
+add:
+xref:
+see:
+index:
+item: "#item-473fef709"
+unparsed:
+line: 'Head: rosemary|Entry: 692 [Rosemary]|#item-473fef709'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1887,468,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233655828
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1153,1887,468,131/150,/0/default.jpg
+label: rosemary
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0718'
+issue:
+insertion_xref:
+order: '0717'
 layout: index_item
 collection: index4
 ---

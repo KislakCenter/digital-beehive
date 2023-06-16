@@ -2,28 +2,28 @@
 pid: index_2849
 volume: Volume 3
 image_number: '34'
-head: to own
-entry: "<a href='/digital-beehive/num2/num_0320/'>284 [To own]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-074920651"
-unparsed: 
-line: 'Head: to own|Entry: 284 [To own]|#item-074920651'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/456,2060,518,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425625090
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/456,2060,518,136/150,/0/default.jpg
-label: to own
+head: paper
+entry: "<a href='/digital-beehive/num4/num_1105/'>873 [Paper]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bdea211d1"
+unparsed:
+line: 'Head: paper|Entry: 873 [Paper]|#item-bdea211d1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1136,536,476,182/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538492467401
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1136,536,476,182/150,/0/default.jpg
+label: paper
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0098'
+issue:
+insertion_xref:
+order: '0097'
 layout: index_item
 collection: index4
 ---

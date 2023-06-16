@@ -2,30 +2,30 @@
 pid: alpha_0303
 volume: Volume 1
 image_number: '455'
-head: 
-entry: 'Extern : Worship'
-topic: 'Extern : Worship'
+head:
+entry: Experience
+topic: Experience
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1060/'>will-Worship</a>|<a href='/digital-beehive/num1/num_0217/'>207
-  [Outside religion]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1362/'>external worship</a>"
-item: "#item-287033ba0"
-unparsed: 
-line: 'Entry: Extern : Worship|Topic: Extern : Worship|Xref: will-Worship|Xref: 207
-  [Outside religion]|Index: external worship|#item-287033ba0'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/402,2395,3034,900/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587737898
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/402,2395,600,180/250,/0/default.jpg
-label: 'Extern : Worship'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Skill</a>|<a href='/digital-beehive/num6/num_1898/'>1345
+  [Experience]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1315/'>experience</a>"
+item: "#item-5d82b5199"
+unparsed:
+line: 'Entry: Experience|Topic: Experience|Xref: Skill|Xref: 1345 [Experience]|Index:
+  experience|#item-5d82b5199'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/375,1067,3107,629/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587335876
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/375,1067,600,180/250,/0/default.jpg
+label: Experience
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '034'
+issue:
+also_in_entry:
+order: '031'
 layout: alpha_item
 collection: alpha2
 ---

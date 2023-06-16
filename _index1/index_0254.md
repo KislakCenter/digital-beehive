@@ -2,27 +2,27 @@
 pid: index_0254
 volume: Volume 3
 image_number: '9'
-head: authors, out of wch this book's collected
-entry: 
-topic: 
-first_letter: A
-page: "<a href='/digital-beehive/toc/toc1_107/'>p.56 [Image 1.117]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5f6cabf81"
-unparsed: 
-line: 'Head: authors, out of wch this book''s collected|Page: p.56 [Image 1.117]|#item-5f6cabf81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,1905,751,247/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015912341
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/177,1905,751,247/150,/0/default.jpg
-label: authors, out of wch this book's collected
+head: balaam
+entry: "<a href='/digital-beehive/num7/num_2466/'>1627 [Balaam]</a>"
+topic:
+first_letter: B
+page:
+add:
+xref:
+see:
+index:
+item: "#item-40cab4d3b"
+unparsed:
+line: 'Head: balaam|Entry: 1627 [Balaam]|#item-40cab4d3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/913,809,426,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1505403050457
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/913,809,426,128/150,/0/default.jpg
+label: balaam
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0253'
 layout: index_item
 collection: index1

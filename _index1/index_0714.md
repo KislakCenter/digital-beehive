@@ -2,27 +2,27 @@
 pid: index_0714
 volume: Volume 3
 image_number: '13'
-head: coffee
-entry: "<a href='/digital-beehive/toc/toc2_263/'>1346 [Coffee & Tea; Chocolate]</a>"
-topic: 
+head: com[m]ons
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7bcfcd62f"
-unparsed: 
-line: 'Head: coffee|Entry: 1346 [Coffee & Tea; Chocolate]|#item-7bcfcd62f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/850,2947,397,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608802064
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/850,2947,397,154/150,/0/default.jpg
-label: coffee
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_2873/'>pasture</a>"
+index:
+item: "#item-a96fc89d4"
+unparsed:
+line: 'Head: com[m]ons|See: pasture|#item-a96fc89d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2288,612,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611567642
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2288,612,96/150,/0/default.jpg
+label: com[m]ons
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0713'
 layout: index_item
 collection: index1

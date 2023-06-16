@@ -2,27 +2,27 @@
 pid: index_1630
 volume: Volume 3
 image_number: '22'
-head: glyster
-entry: "<a href='/digital-beehive/toc/toc2_380/'>2145 [Glyster]</a>"
-topic: 
+head: gospel of nicodemus
+entry:
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-72659344c"
-unparsed: 
-line: 'Head: glyster|Entry: 2145 [Glyster]|#item-72659344c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1116,720,480,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561045758638
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1116,720,480,133/150,/0/default.jpg
-label: glyster
+page: "<a href='/digital-beehive/toc/toc1_074/'>p.24 [Image 1.84]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-8493a48f7"
+unparsed:
+line: 'Head: gospel of nicodemus|Page: p.24 [Image 1.84]|#item-8493a48f7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052046914
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1855,794,669,94/150,/0/default.jpg
+label: gospel of nicodemus
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '449'
 layout: index_item
 collection: index2

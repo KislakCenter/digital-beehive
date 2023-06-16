@@ -2,28 +2,28 @@
 pid: index_1183
 volume: Volume 3
 image_number: '18'
-head: ear ringing
-entry: "<a href='/digital-beehive/toc/toc2_241/'>1239 [Ringing in the Ear]</a>"
-topic: 
+head: easy
+entry: "<a href='/digital-beehive/num1/num_0251/'>233 [Easy]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0f316379f"
-unparsed: 
-line: 'Head: ear ringing|Entry: 1239 [Ringing in the Ear]|#item-0f316379f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666689949
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/433,1896,529,104/150,/0/default.jpg
-label: ear ringing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4d7c7cea9"
+unparsed:
+line: 'Head: easy|Entry: 233 [Easy]|#item-4d7c7cea9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/419,3065,346,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668044110
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/419,3065,346,112/150,/0/default.jpg
+label: easy
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '002'
+issue:
+insertion_xref:
+order: '014'
 layout: index_item
 collection: index2
 ---

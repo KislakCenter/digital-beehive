@@ -2,28 +2,28 @@
 pid: index_3792
 volume: Volume 3
 image_number: '44'
-head: Son of God
-entry: "<a href='/digital-beehive/toc/toc2_283/'>1449 [Son of God]</a>"
-topic: 
+head: splendour
+entry: "<a href='/digital-beehive/num2/num_0530/'>427 [Bright]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e62083a74"
-unparsed: 
-line: 'Head: Son of God|Entry: 1449 [Son of God]|#item-e62083a74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/561,459,523,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529702577860
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/561,459,523,134/150,/0/default.jpg
-label: Son of God
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e73c1af3"
+unparsed:
+line: 'Head: splendour|Entry: 427 [Bright]|#item-0e73c1af3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1853,957,399,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530104615868
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1853,957,399,95/150,/0/default.jpg
+label: splendour
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1041'
+issue:
+insertion_xref:
+order: '1040'
 layout: index_item
 collection: index4
 ---

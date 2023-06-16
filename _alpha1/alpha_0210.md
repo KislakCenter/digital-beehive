@@ -2,31 +2,28 @@
 pid: alpha_0210
 volume: Volume 1
 image_number: '447'
-head: 
-entry: Death
-topic: Death
+head:
+entry: Darkness
+topic: Darkness
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0211/'>Death, continued</a>|<a href='/digital-beehive/alpha1/alpha_0013/'>Agony</a>|<a
-  href='/digital-beehive/alpha3/alpha_0608/'>Mortality</a>|<a href='/digital-beehive/num3/num_0638'>507
-  [Death passed upon all men]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0965/'>death</a>"
-item: "#item-7e364ca49"
-unparsed: 
-line: 'Entry: Death|Topic: Death|Xref: Death, continued|Xref: Agony|Xref: Mortality|Xref:
-  507 [Death passed upon all men]|Index: death|#item-7e364ca49'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/404,4444,3011,616/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507322393087
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/404,4444,600,180/250,/0/default.jpg
-label: Death
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1671/'>1220 [Darkness]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0902/'>darkness</a>"
+item: "#item-4008cee4b"
+unparsed:
+line: 'Entry: Darkness|Topic: Darkness|Xref: 1220 [Darkness]|Index: darkness|#item-4008cee4b'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/388,3296,3038,565/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507321816579
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/388,3296,600,180/250,/0/default.jpg
+label: Darkness
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue: The entry continues onto the next page.
-also_in_entry: 
-order: '208'
+issue:
+also_in_entry:
+order: '209'
 layout: alpha_item
 collection: alpha1
 ---

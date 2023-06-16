@@ -2,28 +2,30 @@
 pid: alpha_0352
 volume: Volume 2
 image_number: '13'
-head: 
-entry: Fruitfulness
-topic: Fruitfulness
+head:
+entry: Friendship
+topic: Friendship
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index2/index_1557/'>fruitful</a>"
-item: "#item-5135f6a4b"
-unparsed: 
-line: 'Entry: Fruitfulness|Topic: Fruitfulness|Index: fruitful|#item-5135f6a4b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/414,3547,3006,583/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564590638499
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0480/414,3547,600,180/250,/0/default.jpg
-label: Fruitfulness
+page:
+add:
+xref: familiarity|<a href='/digital-beehive/num1/num_0001/'>1 [Familiarity]</a>|16
+  [Poverty parts good friendship]|<a href='/digital-beehive/num2/num_0532/'>429 [Friendship]</a>
+see:
+index: "<a href='/digital-beehive/index2/index_1560/'>friendship</a>"
+item: "#item-5f9c379a0"
+unparsed:
+line: 'Entry: Friendship|Topic: Friendship|Xref: familiarity|Xref: 1 [Familiarity]|Xref:
+  16 [Poverty parts good friendship]|Xref: 429 [Friendship]|Index: friendship|#item-5f9c379a0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/395,2395,3030,704/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564590436323
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/395,2395,600,180/250,/0/default.jpg
+label: Friendship
 location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '083'
+issue:
+also_in_entry:
+order: '080'
 layout: alpha_item
 collection: alpha2
 ---

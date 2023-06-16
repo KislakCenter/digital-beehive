@@ -2,29 +2,29 @@
 pid: index_3371
 volume: Volume 3
 image_number: '39'
-head: report
-entry: "<a href='/digital-beehive/alpha4/alpha_0792/'>a</a>|779 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_392/'>2242 [Report & hear-say]</a>"
-topic: 
+head: regarding of persons
+entry: "<a href='/digital-beehive/alpha4/alpha_0789/'>a</a>|<a href='/digital-beehive/num6/num_2038/'>1412
+  [Respecter of Persons]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-44e9b761e"
-unparsed: 
-line: 'Head: report|Entry: a|Entry: 779 [PAGE_MISSING]|Entry: 2242 [Report & hear-say]|#item-44e9b761e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469484989
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/801,2510,717,151/150,/0/default.jpg
-label: report
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2da5c9571"
+unparsed:
+line: 'Head: regarding of persons|Entry: a|Entry: 1412 [Respecter of Persons]|#item-2da5c9571'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/92,2053,874,213/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464830851
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/92,2053,874,213/150,/0/default.jpg
+label: regarding of persons
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0620'
+issue:
+insertion_xref:
+order: '0619'
 layout: index_item
 collection: index4
 ---

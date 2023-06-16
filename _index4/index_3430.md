@@ -2,28 +2,28 @@
 pid: index_3430
 volume: Volume 3
 image_number: '40'
-head: rimes
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
-topic: 
+head: revenue
+entry: "<a href='/digital-beehive/num3/num_0724/'>568 [Rent or Revenue]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-03bca2c24"
-unparsed: 
-line: 'Head: rimes|Entry: 1585 [Verses]|#item-03bca2c24'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559232387458
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/440,2671,400,80/150,/0/default.jpg
-label: rimes
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7e259819a"
+unparsed:
+line: 'Head: revenue|Entry: 568 [Rent or Revenue]|#item-7e259819a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230786594
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/442,248,470,132/150,/0/default.jpg
+label: revenue
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0679'
+issue:
+insertion_xref:
+order: '0678'
 layout: index_item
 collection: index4
 ---

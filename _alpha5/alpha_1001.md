@@ -1,29 +1,31 @@
 ---
 pid: alpha_1001
 volume: Volume 2
-image_number: '62'
-head: 
-entry: Unction
-topic: Unction
+image_number: '61'
+head:
+entry: Virginity
+topic: Virginity
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index5/index_4367/'>unction</a>"
-item: "#item-90e57c221"
-unparsed: 
-line: 'Entry: Unction|Topic: Unction|Index: unction|#item-90e57c221'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/825,948,2946,440/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528911800604
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0529/825,948,600,180/250,/0/default.jpg
-label: Unction
-location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '067'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0135/'>Celibate</a>|<a href='/digital-beehive/alpha1/alpha_0139/'>Chastity</a>|<a
+  href='/digital-beehive/num9/num_2942/'>2008 [Virgins]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4321/'>virginity</a>"
+item: "#item-d23541ad7"
+unparsed:
+line: 'Entry: Virginity|Topic: Virginity|Xref: Celibate|Xref: Chastity|Xref: 2008
+  [Virgins]|Index: virginity|#item-d23541ad7'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/359,4209,2952,398/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529004218632
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/359,4209,600,180/250,/0/default.jpg
+label: Virginity
+location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '061'
 layout: alpha_item
 collection: alpha5
 ---

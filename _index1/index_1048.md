@@ -2,29 +2,31 @@
 pid: index_1048
 volume: Volume 3
 image_number: '16'
-head: difficulty
-entry: "<a href='/digital-beehive/alpha1/alpha_0235/'>a</a>|<a href='/digital-beehive/num1/num_0103/'>100
-  [Difficulty]</a>|<a href='/digital-beehive/toc/toc2_251/'>1290 [Difficulty]</a>"
-topic: 
+head: discerning
+entry: "<a href='/digital-beehive/num2/num_0434/'>365 [Discern]</a>|<a href='/digital-beehive/num4/num_1319/'>989
+  [Spiritual Discerning]</a>|<a href='/digital-beehive/num10/num_3341/'>2369 [Spiritual
+  Discerning]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b14e8ba3b"
-unparsed: 
-line: 'Head: difficulty|Entry: a|Entry: 100 [Difficulty]|Entry: 1290 [Difficulty]|#item-b14e8ba3b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1855,1532,701,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923797564
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1855,1532,701,113/150,/0/default.jpg
-label: difficulty
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6b56f65b4"
+unparsed:
+line: 'Head: discerning|Entry: 365 [Discern]|Entry: 989 [Spiritual Discerning]|Entry:
+  2369 [Spiritual Discerning]|#item-6b56f65b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1759,2730,708,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541784204926
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1759,2730,708,136/150,/0/default.jpg
+label: discerning
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1047'
+issue:
+insertion_xref:
+order: '1046'
 layout: index_item
 collection: index1
 ---

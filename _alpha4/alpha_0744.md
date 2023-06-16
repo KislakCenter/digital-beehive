@@ -2,28 +2,28 @@
 pid: alpha_0744
 volume: Volume 2
 image_number: '43'
-head: 
-entry: Promise
-topic: Promise
+head:
+entry: Prodigality
+topic: Prodigality
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1102'>872 [Promise]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3187/'>promise</a>"
-item: "#item-37b8c35f1"
-unparsed: 
-line: 'Entry: Promise|Topic: Promise|Xref: 872 [Promise]|Index: promise|#item-37b8c35f1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/375,3841,3009,466/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528717208347
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/375,3841,600,180/250,/0/default.jpg
-label: Promise
+page:
+add:
+xref: 753 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index4/index_3176/'>prodigality</a>"
+item: "#item-fd5f35404"
+unparsed:
+line: 'Entry: Prodigality|Topic: Prodigality|Xref: 753 [PAGE_MISSING]|Index: prodigality|#item-fd5f35404'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/332,1683,3069,463/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528667745637
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/332,1683,600,180/250,/0/default.jpg
+label: Prodigality
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '097'
+issue:
+also_in_entry:
+order: '092'
 layout: alpha_item
 collection: alpha4
 ---

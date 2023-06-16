@@ -2,27 +2,27 @@
 pid: index_1350
 volume: Volume 3
 image_number: '19'
-head: expectation
-entry: "<a href='/digital-beehive/num2/num_0611/'>489 [Expectation]</a>"
-topic: 
+head: to excell
+entry: "<a href='/digital-beehive/num3/num_0679/'>539 [beter]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-90cc89cc1"
-unparsed: 
-line: 'Head: expectation|Entry: 489 [Expectation]|#item-90cc89cc1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1541,1245,599,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561044099469
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1541,1245,599,122/150,/0/default.jpg
-label: expectation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4d17c7116"
+unparsed:
+line: 'Head: to excell|Entry: 539 [beter]|#item-4d17c7116'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,2835,488,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560359582460
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/831,2835,488,150/150,/0/default.jpg
+label: to excell
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '169'
 layout: index_item
 collection: index2

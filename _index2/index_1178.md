@@ -23,7 +23,7 @@ label: earthquake
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '010'
+order: '009'
 layout: index_item
 collection: index2
 ---

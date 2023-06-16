@@ -2,27 +2,27 @@
 pid: index_0439
 volume: Volume 3
 image_number: '11'
-head: brave
-entry: 
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1330/'>excellent</a>|<a href='/digital-beehive/index5/index_4518/'>well</a>"
-index: 
-item: "#item-947f4a65c"
-unparsed: 
-line: 'Head: brave|See: excellent|See: well|#item-947f4a65c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,755,729,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417813872
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,755,729,161/150,/0/default.jpg
-label: brave
+head: Cain
+entry: "<a href='/digital-beehive/num7/num_2251/'>1520 [Cain]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b661107ba"
+unparsed:
+line: 'Head: Cain|Entry: 1520 [Cain]|#item-b661107ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,339,424,70/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531494083914
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1571,339,424,70/150,/0/default.jpg
+label: Cain
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: The meaning of "it. man" cannot be determined.
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0438'
 layout: index_item
 collection: index1

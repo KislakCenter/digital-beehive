@@ -2,29 +2,28 @@
 pid: alpha_0850
 volume: Volume 2
 image_number: '51'
-head: 
-entry: Self knowledge
-topic: Self knowledge
+head:
+entry: Seed
+topic: Seed
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0220/'>210 [Self-knowledge]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3619/'>Self knowledge</a>"
-item: "#item-fb36375da"
-unparsed: 
-line: 'Entry: Self knowledge|Topic: Self knowledge|Xref: 210 [Self-knowledge]|Index:
-  Self knowledge|#item-fb36375da'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,3051,427/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530201121833
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/296,2569,600,180/250,/0/default.jpg
-label: Self knowledge
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1424/'>1059 [Seed]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3582/'>seed</a>"
+item: "#item-24d964fc0"
+unparsed:
+line: 'Entry: Seed|Topic: Seed|Xref: 1059 [Seed]|Index: seed|#item-24d964fc0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/247,1021,3105,431/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530200698151
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/247,1021,600,180/250,/0/default.jpg
+label: Seed
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '202'
+issue:
+also_in_entry:
+order: '198'
 layout: alpha_item
 collection: alpha4
 ---

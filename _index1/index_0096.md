@@ -2,28 +2,27 @@
 pid: index_0096
 volume: Volume 3
 image_number: '7'
-head: allegiance
-entry: "<a href='/digital-beehive/num2/num_0476/'>392 [Allegiance]</a>|<a href='/digital-beehive/toc/toc2_401/'>2290
-  [Allegiance]</a>"
-topic: 
+head: altogether
+entry: 755 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2308/'>1550 [Altogether]</a>
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6c0ce0d94"
-unparsed: 
-line: 'Head: allegiance|Entry: 392 [Allegiance]|Entry: 2290 [Allegiance]|#item-6c0ce0d94'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768719049
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1596,1407,655,129/150,/0/default.jpg
-label: allegiance
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9797aaa6f"
+unparsed:
+line: 'Head: altogether|Entry: 755 [PAGE_MISSING]|Entry: 1550 [Altogether]|#item-9797aaa6f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1582,2703,698,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770893136
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1582,2703,698,162/150,/0/default.jpg
+label: altogether
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0095'
 layout: index_item
 collection: index1

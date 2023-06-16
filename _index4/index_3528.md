@@ -2,28 +2,30 @@
 pid: index_3528
 volume: Volume 3
 image_number: '41'
-head: a saw
-entry: "<a href='/digital-beehive/num3/num_0747'>581 [To Saw]</a>"
-topic: 
+head: schole
+entry: "<a href='/digital-beehive/alpha4/alpha_0839/'>a</a>|839 [PAGE_MISSING]|<a
+  href='/digital-beehive/num10/num_3325/'>2354 [Schools]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6bad285b1"
-unparsed: 
-line: 'Head: a saw|Entry: 581 [To Saw]|#item-6bad285b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239417589
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/160,2385,353,116/150,/0/default.jpg
-label: a saw
+page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-a59e4a28d"
+unparsed:
+line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
+  2354 [Schools]|#item-a59e4a28d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/875,1023,731,136/150,/0/default.jpg
+label: schole
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0777'
+issue:
+insertion_xref:
+order: '0776'
 layout: index_item
 collection: index4
 ---

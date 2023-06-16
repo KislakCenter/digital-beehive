@@ -2,27 +2,27 @@
 pid: index_0399
 volume: Volume 3
 image_number: '10'
-head: bluntness
-entry: "<a href='/digital-beehive/num1/num_0112/'>108 [Bluntness]</a>"
-topic: 
+head: blame
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d87ab6af3"
-unparsed: 
-line: 'Head: bluntness|Entry: 108 [Bluntness]|#item-d87ab6af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1080,3444,484,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152051065
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1080,3444,484,154/150,/0/default.jpg
-label: bluntness
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1785/'>guilt</a>"
+index:
+item: "#item-a7be5efc7"
+unparsed:
+line: 'Head: blame|See: guilt|#item-a7be5efc7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,1765,541,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565019866847
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1082,1765,541,128/150,/0/default.jpg
+label: blame
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0398'
 layout: index_item
 collection: index1

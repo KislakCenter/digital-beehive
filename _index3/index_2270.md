@@ -2,27 +2,28 @@
 pid: index_2270
 volume: Volume 3
 image_number: '28'
-head: libel
-entry: 
-topic: 
+head: leader
+entry: "<a href='/digital-beehive/alpha3/alpha_0527/'>a</a>|<a href='/digital-beehive/num6/num_1779/'>1280
+  [Leader]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_2902/'>pasquil</a>"
-index: 
-item: "#item-d2d675434"
-unparsed: 
-line: 'Head: libel|See: pasquil|#item-d2d675434'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1136,1372,577,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845582540
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1136,1372,577,131/150,/0/default.jpg
-label: libel
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0eaf4d2ab"
+unparsed:
+line: 'Head: leader|Entry: a|Entry: 1280 [Leader]|#item-0eaf4d2ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/407,1197,517,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559841845723
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/407,1197,517,104/150,/0/default.jpg
+label: leader
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '352'
 layout: index_item
 collection: index3

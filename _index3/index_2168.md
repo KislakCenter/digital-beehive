@@ -2,27 +2,28 @@
 pid: index_2168
 volume: Volume 3
 image_number: '27'
-head: knave
-entry: "<a href='/digital-beehive/num3/num_1029'>707 [Roguery]</a>"
-topic: 
-first_letter: K
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fc273912c"
-unparsed: 
-line: 'Head: knave|Entry: 707 [Roguery]|#item-fc273912c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1851,393,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559762291639
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/842,1851,393,122/150,/0/default.jpg
-label: knave
+head: judgmt
+entry: "<a href='/digital-beehive/alpha3/alpha_0497/'>a</a>|<a href='/digital-beehive/num5/num_1381/'>1032
+  [Judgmt]</a>"
+topic:
+first_letter: I/J
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6ea737005"
+unparsed:
+line: 'Head: judgmt|Entry: a|Entry: 1032 [Judgmt]|#item-6ea737005'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,1837,524,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559758127672
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/139,1837,524,136/150,/0/default.jpg
+label: judgmt
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '250'
 layout: index_item
 collection: index3

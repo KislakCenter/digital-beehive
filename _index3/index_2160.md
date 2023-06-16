@@ -2,27 +2,27 @@
 pid: index_2160
 volume: Volume 3
 image_number: '27'
-head: kindred
-entry: "<a href='/digital-beehive/num1/num_0175/'>168 [Kindred]</a>"
-topic: 
+head: kitchin
+entry: "<a href='/digital-beehive/num4/num_1147/'>889 [Kitchin work]</a>"
+topic:
 first_letter: K
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7f608343d"
-unparsed: 
-line: 'Head: kindred|Entry: 168 [Kindred]|#item-7f608343d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559761665345
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/841,941,452,137/150,/0/default.jpg
-label: kindred
+page:
+add:
+xref:
+see:
+index:
+item: "#item-744dd69b0"
+unparsed:
+line: 'Head: kitchin|Entry: 889 [Kitchin work]|#item-744dd69b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,1558,430,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762051780
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/864,1558,430,143/150,/0/default.jpg
+label: kitchin
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '242'
 layout: index_item
 collection: index3

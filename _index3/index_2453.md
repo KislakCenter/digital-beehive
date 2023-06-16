@@ -2,27 +2,28 @@
 pid: index_2453
 volume: Volume 3
 image_number: '30'
-head: mead
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1051 [Mead]</a>"
-topic: 
+head: meditation
+entry: "<a href='/digital-beehive/alpha3/alpha_0585/'>a</a>|<a href='/digital-beehive/num4/num_1089/'>868
+  [Meditation]</a>|4602 [PAGE_MISSING]"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-697a079e7"
-unparsed: 
-line: 'Head: mead|Entry: 1051 [Mead]|#item-697a079e7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/391,2544,332,71/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560265457633
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/391,2544,332,71/150,/0/default.jpg
-label: mead
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a553073b1"
+unparsed:
+line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1098,482,784,107/150,/0/default.jpg
+label: meditation
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '535'
 layout: index_item
 collection: index3

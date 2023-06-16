@@ -2,28 +2,28 @@
 pid: index_4205
 volume: Volume 3
 image_number: '48'
-head: tower
-entry: "<a href='/digital-beehive/num3/num_0651'>520 [Tower]</a>"
-topic: 
+head: too late
+entry: "<a href='/digital-beehive/num6/num_1740/'>1255 [Too Late]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-665c6db45"
-unparsed: 
-line: 'Head: tower|Entry: 520 [Tower]|#item-665c6db45'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561484087706
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1108,902,361,102/150,/0/default.jpg
-label: tower
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-9f450cc8c"
+unparsed:
+line: 'Head: too late|Page: p.44 [Image 1.104]|Entry: 1255 [Too Late]|#item-9f450cc8c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/483,1283,652,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273955708
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/483,1283,652,122/150,/0/default.jpg
+label: too late
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '167'
+issue:
+insertion_xref:
+order: '168'
 layout: index_item
 collection: index5
 ---

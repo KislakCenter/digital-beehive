@@ -2,27 +2,27 @@
 pid: index_1340
 volume: Volume 3
 image_number: '19'
-head: execrable
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1320 [Unacceptable]</a>"
-topic: 
+head: errata in print
+entry: "<a href='/digital-beehive/num7/num_2371/'>1581 [Errata's]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dcd91300c"
-unparsed: 
-line: 'Head: execrable|Entry: 1320 [Unacceptable]|#item-dcd91300c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561041751656
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/1551,272,548,122/150,/0/default.jpg
-label: execrable
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bfa85327e"
+unparsed:
+line: 'Head: errata in print|Entry: 1581 [Errata''s]|#item-bfa85327e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276217279
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/125,2453,661,164/150,/0/default.jpg
+label: errata in print
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '159'
 layout: index_item
 collection: index2

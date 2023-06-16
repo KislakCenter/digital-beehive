@@ -2,28 +2,28 @@
 pid: index_1844
 volume: Volume 3
 image_number: '24'
-head: history ecclesiastical
-entry: "<a href='/digital-beehive/toc/toc2_293/'>1497 [Historia Ecclesiastica]</a>"
-topic: 
+head: hoarsness
+entry: 807 [PAGE_MISSING]
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-38cc4d6e3"
-unparsed: 
-line: 'Head: history ecclesiastical |Entry: 1497 [Historia Ecclesiastica]|#item-38cc4d6e3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559580033481
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/382,3493,632,125/150,/0/default.jpg
-label: history ecclesiastical
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7cfc58916"
+unparsed:
+line: 'Head: hoarsness|Entry: 807 [PAGE_MISSING]|#item-7cfc58916'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581746883
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1147,841,439,175/150,/0/default.jpg
+label: hoarsness
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '662'
+issue:
+insertion_xref:
+order: '663'
 layout: index_item
 collection: index2
 ---

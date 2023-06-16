@@ -2,28 +2,31 @@
 pid: alpha_0502
 volume: Volume 2
 image_number: '25'
-head: 
-entry: Kiss
-topic: Kiss
+head:
+entry: King
+topic: King
 first_letter: K
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_352/'>1905 [Kissing]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2164/'>kiss</a>"
-item: "#item-5ebdc777a"
-unparsed: 
-line: 'Entry: Kiss|Topic: Kiss|Xref: 1905 [Kissing]|Index: kiss|#item-5ebdc777a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,3076,574/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564765602050
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0492/324,3416,600,180/250,/0/default.jpg
-label: Kiss
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0284/'>Empire</a>|<a href='/digital-beehive/alpha4/alpha_0737/'>Prince</a>|<a
+  href='/digital-beehive/alpha3/alpha_0604/'>Monarchy</a>|<a href='/digital-beehive/num5/num_1647/'>1207
+  [King]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2147/'>king</a>"
+item: "#item-a083a8567"
+unparsed:
+line: 'Entry: King|Topic: King|Xref: Empire|Xref: Prince|Xref: Monarchy|Xref: 1207
+  [King]|Index: king|#item-a083a8567'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/335,2243,3081,478/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564765368182
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0492/335,2243,600,180/250,/0/default.jpg
+label: King
 location: "<a href='/digital-beehive/toc/toc2_015/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '058'
+issue:
+also_in_entry:
+order: '055'
 layout: alpha_item
 collection: alpha3
 ---

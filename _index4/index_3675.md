@@ -2,28 +2,29 @@
 pid: index_3675
 volume: Volume 3
 image_number: '42'
-head: shingle
-entry: "<a href='/digital-beehive/num2/num_0430/'>362 [a Shingle]</a>"
-topic: 
+head: shame
+entry: "<a href='/digital-beehive/alpha4/alpha_0867/'>a</a>|<a href='/digital-beehive/num2/num_0598/'>478
+  [Shame]</a>|<a href='/digital-beehive/num11/num_3580/'>4885 [Shame]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-042fc500d"
-unparsed: 
-line: 'Head: shingle|Entry: 362 [a Shingle]|#item-042fc500d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575861276
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1816,1048,506,150/150,/0/default.jpg
-label: shingle
+page:
+add:
+xref:
+see:
+index:
+item: "#item-559ccd300"
+unparsed:
+line: 'Head: shame|Entry: a|Entry: 478 [Shame]|Entry: 4885 [Shame]|#item-559ccd300'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1091,2653,668,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559574862986
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1091,2653,668,151/150,/0/default.jpg
+label: shame
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0924'
+issue:
+insertion_xref:
+order: '0923'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,28 @@
 pid: index_2571
 volume: Volume 3
 image_number: '31'
-head: Montserrat
-entry: "<a href='/digital-beehive/toc/toc2_297/'>1515 [Montserrat]</a>"
-topic: 
+head: mistake
+entry: "<a href='/digital-beehive/num1/num_0252/'>234 [Mistake]</a>|<a href='/digital-beehive/num7/num_2328/'>1560
+  [Mistake]</a>|<a href='/digital-beehive/num10/num_3424/'>4446 [Mistake]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7f208de1f"
-unparsed: 
-line: 'Head: Montserrat|Entry: 1515 [Montserrat]|#item-7f208de1f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/870,1064,497,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355283332
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/870,1064,497,122/150,/0/default.jpg
-label: Montserrat
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dcaddc345"
+unparsed:
+line: 'Head: mistake|Entry: 234 [Mistake]|Entry: 1560 [Mistake]|Entry: 4446 [Mistake]|#item-dcaddc345'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351990491
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/185,1438,758,142/150,/0/default.jpg
+label: mistake
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '653'
 layout: index_item
 collection: index3

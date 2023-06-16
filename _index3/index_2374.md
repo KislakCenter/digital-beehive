@@ -2,27 +2,27 @@
 pid: index_2374
 volume: Volume 3
 image_number: '29'
-head: Machiavellus
-entry: "<a href='/digital-beehive/num3/num_0706'>556 [Machiavellus]</a>"
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2b56f0fd1"
-unparsed: 
-line: 'Head: Machiavellus|Entry: 556 [Machiavellus]|#item-2b56f0fd1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186314831
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/836,1897,555,113/150,/0/default.jpg
-label: Machiavellus
+head: lotteries
+entry: "<a href='/digital-beehive/num1/num_0091/'>89 [Lotteries (Gl√ºckshafen)]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-27746065d"
+unparsed:
+line: 'Head: lotteries|Entry: 89 [Lotteries (Gl√ºckshafen)]|#item-27746065d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178684866
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/184,1900,372,100/150,/0/default.jpg
+label: lotteries
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '456'
 layout: index_item
 collection: index3

@@ -2,27 +2,27 @@
 pid: index_0692
 volume: Volume 3
 image_number: '13'
-head: clergy benefit
-entry: "<a href='/digital-beehive/toc/toc2_317/'>1611 [benefit of the Clergy]</a>"
-topic: 
+head: close
+entry: "<a href='/digital-beehive/num2/num_0448/'>371 [Leak or leakage]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-09325549d"
-unparsed: 
-line: 'Head: clergy benefit|Entry: 1611 [benefit of the Clergy]|#item-09325549d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/859,660,570,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536334132223
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/859,660,570,130/150,/0/default.jpg
-label: clergy benefit
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cc78c615a"
+unparsed:
+line: 'Head: close|Entry: 371 [Leak or leakage]|#item-cc78c615a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/877,1621,376,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607122523
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/877,1621,376,138/150,/0/default.jpg
+label: close
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0691'
 layout: index_item
 collection: index1

@@ -2,30 +2,29 @@
 pid: alpha_0480
 volume: Volume 2
 image_number: '23'
-head: 
-entry: Insensibleness
-topic: Insensibleness
+head:
+entry: Inn & Innkeeper
+topic: Inn & Innkeeper
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0856/'>Sense</a>|<a href='/digital-beehive/num1/num_0158/'>152
-  [Insensibleness]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2059/'>insensibleness</a>"
-item: "#item-090ffa5e5"
-unparsed: 
-line: 'Entry: Insensibleness|Topic: Insensibleness|Xref: Sense|Xref: 152 [Insensibleness]|Index:
-  insensibleness|#item-090ffa5e5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,3031,414/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761158407
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/348,4141,600,180/250,/0/default.jpg
-label: Insensibleness
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2112/'>inn & in[n]keeper</a>"
+item: "#item-223d88960"
+unparsed:
+line: 'Entry: Inn & Innkeeper|Topic: Inn & Innkeeper|Xref: 201 [Taverns]|Index: inn
+  & in[n]keeper|#item-223d88960'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/343,2735,3009,558/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760484170
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/343,2735,600,180/250,/0/default.jpg
+label: Inn & Innkeeper
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '036'
+issue:
+also_in_entry:
+order: '033'
 layout: alpha_item
 collection: alpha3
 ---

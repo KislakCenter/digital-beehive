@@ -2,29 +2,28 @@
 pid: index_3188
 volume: Volume 3
 image_number: '37'
-head: promoting
-entry: "<a href='/digital-beehive/alpha4/alpha_0745/'>a</a>|<a href='/digital-beehive/toc/toc2_337/'>1726
-  [Preferment]</a>"
-topic: 
+head: proud
+entry:
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-37a40cf6c"
-unparsed: 
-line: 'Head: promoting|Entry: a|Entry: 1726 [Preferment]|#item-37a40cf6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,3246,637,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868683864
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/797,3246,637,137/150,/0/default.jpg
-label: promoting
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3189/'>pride</a>"
+index:
+item: "#item-92bcf0e17"
+unparsed:
+line: 'Head: proud|See: pride|#item-92bcf0e17'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869546668
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1476,2297,525,119/150,/0/default.jpg
+label: proud
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0437'
+issue:
+insertion_xref:
+order: '0436'
 layout: index_item
 collection: index4
 ---

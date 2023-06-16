@@ -2,27 +2,27 @@
 pid: index_0876
 volume: Volume 3
 image_number: '15'
-head: Country
-entry: "<a href='/digital-beehive/num3/num_0890'>649 [Country]</a>"
-topic: 
+head: to cut
+entry: 838 [PAGE_MISSING]
+topic:
 first_letter: C
-page: 
-add: "<a href='/digital-beehive/index2/index_1407/'>fashions</a>"
-xref: 
-see: 
-index: 
-item: "#item-e6b7423eb"
-unparsed: 
-line: 'Head: Country|Entry: 649 [Country]|Add: fashions|#item-e6b7423eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/165,1916,481,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537974582878
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/165,1916,481,161/150,/0/default.jpg
-label: Country
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4dcd2ab54"
+unparsed:
+line: 'Head: to cut|Entry: 838 [PAGE_MISSING]|#item-4dcd2ab54'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540390739294
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1577,608,408,77/150,/0/default.jpg
+label: to cut
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0875'
 layout: index_item
 collection: index1

@@ -2,27 +2,27 @@
 pid: index_1991
 volume: Volume 3
 image_number: '25'
-head: incendiary
-entry: "<a href='/digital-beehive/num2/num_0441/'>369 [Incendiary]</a>"
-topic: 
+head: incredulous
+entry: "<a href='/digital-beehive/num6/num_1739/'>1254 [Scepticism]</a>"
+topic:
 first_letter: I/J
-page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a9335a205"
-unparsed: 
-line: 'Head: incendiary|Page: p.30 [Image 1.90]|Entry: 369 [Incendiary]|#item-a9335a205'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,645,593,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669868464
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1577,645,593,147/150,/0/default.jpg
-label: incendiary
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a713609f8"
+unparsed:
+line: 'Head: incredulous|Entry: 1254 [Scepticism]|#item-a713609f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559672281312
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1566,2525,571,106/150,/0/default.jpg
+label: incredulous
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '073'
 layout: index_item
 collection: index3

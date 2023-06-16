@@ -2,28 +2,28 @@
 pid: alpha_0327
 volume: Volume 2
 image_number: '11'
-head: 
-entry: Firstborn
-topic: Firstborn
+head:
+entry: Fewness
+topic: Fewness
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_382/'>2163 [Birth-right]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1459/'>firstborn</a>"
-item: "#item-024c28ee8"
-unparsed: 
-line: 'Entry: Firstborn|Topic: Firstborn|Xref: 2163 [Birth-right]|Index: firstborn|#item-024c28ee8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,3649,3026,406/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833867921
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/399,3649,600,180/250,/0/default.jpg
-label: Firstborn
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0777/'>Rarity</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1459/'>fewness</a>"
+item: "#item-5113dc0b5"
+unparsed:
+line: 'Entry: Fewness|Topic: Fewness|Xref: Rarity|Index: fewness|#item-5113dc0b5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/394,2242,2993,476/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833674901
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/394,2242,600,180/250,/0/default.jpg
+label: Fewness
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '058'
+issue:
+also_in_entry:
+order: '055'
 layout: alpha_item
 collection: alpha2
 ---

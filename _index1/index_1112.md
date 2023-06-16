@@ -2,28 +2,28 @@
 pid: index_1112
 volume: Volume 3
 image_number: '17'
-head: divertismt
-entry: 
-topic: 
+head: divinity mystica
+entry: "<a href='/digital-beehive/alpha1/alpha_0253/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3322/'>recreation</a>"
-index: 
-item: "#item-98e328aec"
-unparsed: 
-line: 'Head: divertismt|See: recreation|#item-98e328aec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559849212180
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/784,1347,819,138/150,/0/default.jpg
-label: divertismt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a9bb27d26"
+unparsed:
+line: 'Head: divinity mystica|Entry: a|#item-a9bb27d26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/841,1571,396,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560366256031
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/841,1571,396,114/150,/0/default.jpg
+label: divinity mystica
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1111'
+issue:
+insertion_xref:
+order: '1110'
 layout: index_item
 collection: index1
 ---

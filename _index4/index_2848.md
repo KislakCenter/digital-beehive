@@ -2,29 +2,28 @@
 pid: index_2848
 volume: Volume 3
 image_number: '34'
-head: own
-entry: "<a href='/digital-beehive/alpha4/alpha_0670/'>a</a>|<a href='/digital-beehive/toc/toc2_357/'>1939
-  [Own]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-71752b70c"
-unparsed: 
-line: 'Head: own|Entry: a|Entry: 1939 [Own]|#item-71752b70c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425601526
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1959,524,158/150,/0/default.jpg
-label: own
+head: passover
+entry: "<a href='/digital-beehive/num5/num_1351/'>1011 [Passover]</a>"
+topic:
+first_letter: P
+page:
+add: Easter
+xref:
+see:
+index:
+item: "#item-0fbbfc5eb"
+unparsed:
+line: 'Head: passover|Entry: 1011 [Passover]|Add: Easter|#item-0fbbfc5eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1825,524,523,165/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565192308257
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1825,524,523,165/150,/0/default.jpg
+label: passover
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0097'
+issue:
+insertion_xref:
+order: '0096'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_2398
 volume: Volume 3
 image_number: '29'
-head: malice & malignity
-entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>"
-topic: 
+head: man[n]a
+entry: "<a href='/digital-beehive/num5/num_1482/'>1095 [Manna]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d6e2573d9"
-unparsed: 
-line: 'Head: malice & malignity|Entry: a|#item-d6e2573d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1313,1093,604,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194191419
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1313,1093,604,160/150,/0/default.jpg
-label: malice & malignity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ea3b7da6b"
+unparsed:
+line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1535,2705,345,117/150,/0/default.jpg
+label: man[n]a
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '480'
 layout: index_item
 collection: index3

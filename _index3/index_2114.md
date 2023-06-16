@@ -2,27 +2,27 @@
 pid: index_2114
 volume: Volume 3
 image_number: '26'
-head: Ireland
-entry: "<a href='/digital-beehive/toc/toc2_294/'>1502 [Ireland]</a>"
-topic: 
+head: in the mean time
+entry: "<a href='/digital-beehive/num3/num_0817/'>613 [In the mean time]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6223b1816"
-unparsed: 
-line: 'Head: Ireland|Entry: 1502 [Ireland]|#item-6223b1816'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,3379,454,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754861021
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1854,3379,454,121/150,/0/default.jpg
-label: Ireland
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d047da359"
+unparsed:
+line: 'Head: in the mean time|Entry: 613 [In the mean time]|#item-d047da359'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,3479,624,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749713187
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1165,3479,624,118/150,/0/default.jpg
+label: in the mean time
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '196'
 layout: index_item
 collection: index3

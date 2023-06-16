@@ -2,28 +2,28 @@
 pid: index_1129
 volume: Volume 3
 image_number: '17'
-head: to domineer
-entry: "<a href='/digital-beehive/toc/toc2_235/'>1209 [To Domineer]</a>"
-topic: 
+head: drink
+entry: "<a href='/digital-beehive/alpha1/alpha_0266/'>a</a>|775 [PAGE_MISSING]"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6fe932a66"
-unparsed: 
-line: 'Head: to domineer|Entry: 1209 [To Domineer]|#item-6fe932a66'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/813,3355,579,153/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560367382043
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/813,3355,579,153/150,/0/default.jpg
-label: to domineer
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1b96031ab"
+unparsed:
+line: 'Head: drink|Entry: a|Entry: 775 [PAGE_MISSING]|#item-1b96031ab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1547,2270,468,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560452644205
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1547,2270,468,133/150,/0/default.jpg
+label: drink
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1128'
+issue:
+insertion_xref:
+order: '1127'
 layout: index_item
 collection: index1
 ---

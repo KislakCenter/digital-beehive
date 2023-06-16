@@ -2,29 +2,28 @@
 pid: index_3122
 volume: Volume 3
 image_number: '36'
-head: prejudice
-entry: "<a href='/digital-beehive/num3/num_0802'>607 [Prejudice]</a>|<a href='/digital-beehive/toc/toc2_382/'>2168
-  [Prejudice]</a>"
-topic: 
+head: poverty parts friendship
+entry: "<a href='/digital-beehive/num1/num_0016/'>16 [Poverty parts good fellowship]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3d09c3281"
-unparsed: 
-line: 'Head: prejudice|Entry: 607 [Prejudice]|Entry: 2168 [Prejudice]|#item-3d09c3281'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1830,2398,682,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440692218
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1830,2398,682,170/150,/0/default.jpg
-label: prejudice
+page:
+add:
+xref:
+see:
+index:
+item: "#item-449929ffe"
+unparsed:
+line: 'Head: poverty parts friendship|Entry: 16 [Poverty parts good fellowship]|#item-449929ffe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1162,3173,654,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439230333
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1162,3173,654,154/150,/0/default.jpg
+label: poverty parts friendship
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0371'
+issue:
+insertion_xref:
+order: '0370'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,27 @@
 pid: index_1941
 volume: Volume 3
 image_number: '25'
-head: Jesuite
-entry: "<a href='/digital-beehive/alpha3/alpha_0448/'>a</a>|<a href='/digital-beehive/toc/toc2_252/'>1292
-  [Jesuites]</a>"
-topic: 
+head: jaundise
+entry: "<a href='/digital-beehive/num5/num_1665/'>1217 [Jaundise]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8fb5f6526"
-unparsed: 
-line: 'Head: Jesuite|Entry: a|Entry: 1292 [Jesuites]|#item-8fb5f6526'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559661209931
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/153,2231,476,137/150,/0/default.jpg
-label: Jesuite
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6370dbb4b"
+unparsed:
+line: 'Head: jaundise|Entry: 1217 [Jaundise]|#item-6370dbb4b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/171,773,500,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559659104924
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/171,773,500,157/150,/0/default.jpg
+label: jaundise
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '023'
 layout: index_item
 collection: index3

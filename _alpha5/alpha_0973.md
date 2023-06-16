@@ -1,31 +1,29 @@
 ---
 pid: alpha_0973
 volume: Volume 2
-image_number: '60'
-head: 
-entry: Tradition
-topic: Tradition
+image_number: '59'
+head:
+entry: Too soon
+topic: Too soon
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0363/'>Gloss</a>|hearsay|<a href='/digital-beehive/num2/num_0604/'>484
-  [Tradition]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4209/'>tradition</a>"
-item: "#item-606ddb1f8"
-unparsed: 
-line: 'Entry: Tradition|Topic: Tradition|Xref: Gloss|Xref: hearsay|Xref: 484 [Tradition]|Index:
-  tradition|#item-606ddb1f8'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,3000,488/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565114889479
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/789,552,600,180/250,/0/default.jpg
-label: Tradition
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-issue: The point of reference for "hearsay" is unclear.
-also_in_entry: 
-order: '039'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0402/'>Hast</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4222/'>too soon</a>"
+item: "#item-f03e16ad5"
+unparsed:
+line: 'Entry: Too soon|Topic: Too soon|Xref: Hast|Index: too soon|#item-f03e16ad5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/318,3841,3028,429/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114348085
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/318,3841,600,180/250,/0/default.jpg
+label: Too soon
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '033'
 layout: alpha_item
 collection: alpha5
 ---

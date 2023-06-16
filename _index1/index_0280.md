@@ -2,27 +2,27 @@
 pid: index_0280
 volume: Volume 3
 image_number: '9'
-head: ballance
-entry: "<a href='/digital-beehive/num1/num_0230/'>219 [Balance]</a>"
-topic: 
+head: bank
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7140736d4"
-unparsed: 
-line: 'Head: ballance|Entry: 219 [Balance]|#item-7140736d4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/918,1196,406,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403588344
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/918,1196,406,91/150,/0/default.jpg
-label: ballance
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4176/'>treasure</a>"
+index:
+item: "#item-121ec3414"
+unparsed:
+line: 'Head: bank|See: treasure|#item-121ec3414'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404121976
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/902,1562,591,171/150,/0/default.jpg
+label: bank
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0279'
 layout: index_item
 collection: index1

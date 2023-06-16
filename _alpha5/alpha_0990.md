@@ -2,28 +2,28 @@
 pid: alpha_0990
 volume: Volume 2
 image_number: '61'
-head: 
-entry: Vertue
-topic: Vertue
-first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_215/'>1108 [Virtue]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4319/'>vertue</a>"
-item: "#item-781179131"
-unparsed: 
-line: 'Entry: Vertue|Topic: Vertue|Xref: 1108 [Virtue]|Index: vertue|#item-781179131'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/342,2588,2979,642/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529002787176
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/342,2588,600,180/250,/0/default.jpg
-label: Vertue
+head:
+entry: Tyranny
+topic: Tyranny
+first_letter: T
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0202/'>Cruelty</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4345/'>tyranny</a>"
+item: "#item-e932376fc"
+unparsed:
+line: 'Entry: Tyranny|Topic: Tyranny|Xref: Cruelty|Index: tyranny|#item-e932376fc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/301,651,3048,513/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565115420760
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/301,651,600,180/250,/0/default.jpg
+label: Tyranny
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '056'
+issue:
+also_in_entry:
+order: '050'
 layout: alpha_item
 collection: alpha5
 ---

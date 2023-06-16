@@ -2,27 +2,27 @@
 pid: index_0638
 volume: Volume 3
 image_number: '12'
-head: China
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1993 [China]</a>"
-topic: 
+head: cholick
+entry: "<a href='/digital-beehive/num2/num_0345/'>303 [Cholick]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f6cb69cc9"
-unparsed: 
-line: 'Head: China|Entry: 1993 [China]|#item-f6cb69cc9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,2789,373,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461225450
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1822,2789,373,104/150,/0/default.jpg
-label: China
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fa02ab4f6"
+unparsed:
+line: 'Head: cholick|Entry: 303 [Cholick]|#item-fa02ab4f6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1825,3246,433,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461692211
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1825,3246,433,113/150,/0/default.jpg
+label: cholick
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0637'
 layout: index_item
 collection: index1

@@ -2,28 +2,28 @@
 pid: index_3355
 volume: Volume 3
 image_number: '39'
-head: remember
-entry: 4771 [PAGE_MISSING]
-topic: 
+head: renovation
+entry: "<a href='/digital-beehive/num3/num_1009/'>699 [Repair]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8de1f919f"
-unparsed: 
-line: 'Head: remember|Entry: 4771 [PAGE_MISSING]|#item-8de1f919f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468922314
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/792,613,564,151/150,/0/default.jpg
-label: remember
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4ccf952e8"
+unparsed:
+line: 'Head: renovation|Entry: 699 [Repair]|#item-4ccf952e8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/802,1434,561,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469119321
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/802,1434,561,160/150,/0/default.jpg
+label: renovation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0604'
+issue:
+insertion_xref:
+order: '0603'
 layout: index_item
 collection: index4
 ---

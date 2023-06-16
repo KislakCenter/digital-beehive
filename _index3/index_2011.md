@@ -2,27 +2,27 @@
 pid: index_2011
 volume: Volume 3
 image_number: '25'
-head: indecent
-entry: "<a href='/digital-beehive/num3/num_1032'>709 [Unseemly]</a>"
-topic: 
+head: jilts
+entry: 4789 [PAGE_MISSING]
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fa31a575b"
-unparsed: 
-line: 'Head: indecent|Entry: 709 [Unseemly]|#item-fa31a575b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1584,2648,449,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559672549694
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1584,2648,449,102/150,/0/default.jpg
-label: indecent
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f3d2719c9"
+unparsed:
+line: 'Head: jilts|Entry: 4789 [PAGE_MISSING]|#item-f3d2719c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3168,344,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559662385859
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/158,3168,344,122/150,/0/default.jpg
+label: jilts
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '093'
 layout: index_item
 collection: index3

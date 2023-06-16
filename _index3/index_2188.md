@@ -2,28 +2,27 @@
 pid: index_2188
 volume: Volume 3
 image_number: '27'
-head: lame
-entry: "<a href='/digital-beehive/alpha3/alpha_0507/'>a</a>|<a href='/digital-beehive/toc/toc2_379/'>2140
-  [Lame]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4ec3af142"
-unparsed: 
-line: 'Head: lame|Entry: a|Entry: 2140 [Lame]|#item-4ec3af142'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1577,319,530,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559832531597
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1577,319,530,126/150,/0/default.jpg
-label: lame
+head: knot
+entry: 801 [PAGE_MISSING]
+topic:
+first_letter: K
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6f58770db"
+unparsed:
+line: 'Head: knot|Entry: 801 [PAGE_MISSING]|#item-6f58770db'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/830,2435,310,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559762683164
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/830,2435,310,135/150,/0/default.jpg
+label: knot
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '270'
 layout: index_item
 collection: index3

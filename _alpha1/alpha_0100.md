@@ -2,29 +2,27 @@
 pid: alpha_0100
 volume: Volume 1
 image_number: '438'
-head: 
-entry: Bride & Bridegroom
-topic: Bride & Bridegroom
+head:
+entry: Brevity
+topic: Brevity
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0007/'>7 [Husband & Wife]</a>|Wedding|<a
-  href='/digital-beehive/toc/toc2_351/'>1893 [Be[tro]thing or Espousing]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0452/'>bride & bridegrom</a>"
-item: "#item-98fd4aab7"
-unparsed: 
-line: 'Entry: Bride & Bridegroom|Topic: Bride & Bridegroom|Xref: 7 [Husband & Wife]|Xref:
-  Wedding|Xref: 1893 [Be[tro]thing or Espousing]|Index: bride & bridegrom|#item-98fd4aab7'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/846,2027,2974,554/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563207837315
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0437/846,2027,600,180/250,/0/default.jpg
-label: Bride & Bridegroom
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0453/'>374 [Brevity]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0484/'>brevity</a>"
+item: "#item-e1f315cb4"
+unparsed:
+line: 'Entry: Brevity|Topic: Brevity|Xref: 374 [Brevity]|Index: brevity|#item-e1f315cb4'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/839,1346,2976,452/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563207650584
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0437/839,1346,600,180/250,/0/default.jpg
+label: Brevity
 location: "<a href='/digital-beehive/toc/toc1_428/'>Full Page</a>"
-issue: The point of reference for "Wedding" is unclear.
-also_in_entry: 
+issue:
+also_in_entry:
 order: '099'
 layout: alpha_item
 collection: alpha1

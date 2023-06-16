@@ -2,28 +2,27 @@
 pid: index_1589
 volume: Volume 3
 image_number: '21'
-head: genealogy
-entry: "<a href='/digital-beehive/num4/num_1121'>881 [Genealogy]</a>|<a href='/digital-beehive/num4/num_1219'>921
-  [Genealogy]</a>"
-topic: 
-first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a1af48a24"
-unparsed: 
-line: 'Head: genealogy|Entry: 881 [Genealogy]|Entry: 921 [Genealogy]|#item-a1af48a24|'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1504,3419,705,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787915316
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1504,3419,705,132/150,/0/default.jpg
-label: genealogy
+head: frugality
+entry: "<a href='/digital-beehive/num5/num_1509/'>1115 [Frugality]</a>"
+topic:
+first_letter: F
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3edef90d7"
+unparsed:
+line: 'Head: frugality|Entry: 1115 [Frugality]|#item-3edef90d7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/838,3485,539,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560784660421
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/838,3485,539,166/150,/0/default.jpg
+label: frugality
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '408'
 layout: index_item
 collection: index2

@@ -2,27 +2,28 @@
 pid: index_0295
 volume: Volume 3
 image_number: '9'
-head: barefooted
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Barefooted]</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5399c245e"
-unparsed: 
-line: 'Head: barefooted|Entry: 1939 [Barefooted]|#item-5399c245e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1506104731239
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/907,2805,568,116/150,/0/default.jpg
-label: barefooted
+head: authority
+entry: "<a href='/digital-beehive/alpha1/alpha_0049/'>a</a>|<a href='/digital-beehive/num10/num_3316/'>2346
+  [Authority]</a>"
+topic:
+first_letter: A
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e828db472"
+unparsed:
+line: 'Head: authority|Entry: a|Entry: 2346 [Authority]|#item-e828db472'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565015964802
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/177,2120,636,142/150,/0/default.jpg
+label: authority
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0294'
 layout: index_item
 collection: index1

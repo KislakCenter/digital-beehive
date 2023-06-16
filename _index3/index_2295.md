@@ -2,27 +2,27 @@
 pid: index_2295
 volume: Volume 3
 image_number: '28'
-head: lime
-entry: "<a href='/digital-beehive/toc/toc2_273/'>1396 [Lime]</a>"
-topic: 
+head: leasure
+entry: "<a href='/digital-beehive/alpha3/alpha_0529/'>a</a>|4639 [PAGE_MISSING]"
+topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_081/'>p.31 [Image 1.91]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1d7f895f3"
-unparsed: 
-line: 'Head: lime|Page: p.31 [Image 1.91]|Entry: 1396 [Lime]|#item-1d7f895f3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848573959
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1841,814,479,154/150,/0/default.jpg
-label: lime
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8d2c95fd9"
+unparsed:
+line: 'Head: leasure|Entry: a|Entry: 4639 [PAGE_MISSING]|#item-8d2c95fd9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/381,2368,607,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559842414623
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/381,2368,607,122/150,/0/default.jpg
+label: leasure
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '377'
 layout: index_item
 collection: index3

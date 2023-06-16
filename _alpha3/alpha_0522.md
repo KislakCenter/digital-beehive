@@ -1,29 +1,31 @@
 ---
 pid: alpha_0522
 volume: Volume 2
-image_number: '27'
-head: 
-entry: Lawyer
-topic: Lawyer
+image_number: '26'
+head:
+entry: Laughter
+topic: Laughter
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0711'>559 [Lawyer]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2225/'>lawyer</a>"
-item: "#item-5ced3abcf"
-unparsed: 
-line: 'Entry: Lawyer|Topic: Lawyer|Xref: 559 [Lawyer]|Index: lawyer|#item-5ced3abcf'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,3052,537/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768429201
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/280,675,600,180/250,/0/default.jpg
-label: Lawyer
-location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '078'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0230/'>derision</a>|<a href='/digital-beehive/num6/num_1738/'>1254
+  [Laughter]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2213/'>laughter</a>"
+item: "#item-565ae020d"
+unparsed:
+line: 'Entry: Laughter|Topic: Laughter|Xref: derision|Xref: 1254 [Laughter]|Index:
+  laughter|#item-565ae020d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/768,4352,2976,469/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766881635
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/768,4352,600,180/250,/0/default.jpg
+label: Laughter
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '075'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,28 +2,28 @@
 pid: index_1760
 volume: Volume 3
 image_number: '23'
-head: harrow
-entry: 4614 [PAGE_MISSING]
-topic: 
+head: heir
+entry:
+topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-78aa4072e"
-unparsed: 
-line: 'Head: harrow|Page: p.38 [Image 1.98]|Entry: 4614 [PAGE_MISSING]|#item-78aa4072e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240280150
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/845,2074,555,119/150,/0/default.jpg
-label: harrow
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1836/'>heritage</a>"
+index:
+item: "#item-92d20a86b"
+unparsed:
+line: 'Head: heir|See: heritage|#item-92d20a86b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1523,2005,535,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559570550638
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1523,2005,535,166/150,/0/default.jpg
+label: heir
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '578'
+issue:
+insertion_xref:
+order: '579'
 layout: index_item
 collection: index2
 ---

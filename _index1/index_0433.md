@@ -2,27 +2,27 @@
 pid: index_0433
 volume: Volume 3
 image_number: '10'
-head: brain
-entry: "<a href='/digital-beehive/toc/toc2_364/'>1993 [Brain]</a>"
-topic: 
+head: boy Swim[m]ing
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6c7ff92ba"
-unparsed: 
-line: 'Head: brain|Entry: 1993 [Brain]|#item-6c7ff92ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1767,3612,370,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531417430809
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1767,3612,370,135/150,/0/default.jpg
-label: brain
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-f5584dcea"
+unparsed:
+line: 'Head: boy Swim[m]ing|Page: p.30 [Image 1.90]|#item-f5584dcea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1769,3532,515,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417370174
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1769,3532,515,109/150,/0/default.jpg
+label: boy Swim[m]ing
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0432'
 layout: index_item
 collection: index1

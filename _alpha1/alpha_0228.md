@@ -2,29 +2,28 @@
 pid: alpha_0228
 volume: Volume 1
 image_number: '449'
-head: 
-entry: Desertion
-topic: Desertion
+head:
+entry: Deposition
+topic: Deposition
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0224/'>Denial</a>|1856 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index1/index_1021/'>desertion</a>"
-item: "#item-26dd25431"
-unparsed: 
-line: 'Entry: Desertion|Topic: Desertion|Xref: Denial|Xref: 1856 [PAGE_MISSING]|Index:
-  desertion|#item-26dd25431'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/374,2092,3067,366/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923112042
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/374,2092,600,180/250,/0/default.jpg
-label: Desertion
+page:
+add:
+xref: "<a href='/digital-beehive/num8/num_2749/'>1816 [Degradation]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1007/'>deposition</a>"
+item: "#item-8a9cd5a04"
+unparsed:
+line: 'Entry: Deposition|Topic: Deposition|Xref: 1816 [Degradation]|Index: deposition|#item-8a9cd5a04'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/395,1319,3024,264/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507922496218
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/395,1319,600,180/250,/0/default.jpg
+label: Deposition
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '226'
+issue:
+also_in_entry:
+order: '227'
 layout: alpha_item
 collection: alpha1
 ---

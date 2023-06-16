@@ -2,28 +2,28 @@
 pid: index_2883
 volume: Volume 3
 image_number: '34'
-head: parish
-entry: 
-topic: 
+head: parents
+entry: "<a href='/digital-beehive/alpha4/alpha_0682/'>a</a>|4811 [WORD_MISSING]"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0659/'>Church</a>"
-index: 
-item: "#item-2b203f05e"
-unparsed: 
-line: 'Head: parish|See: Church|#item-2b203f05e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1122,1887,689,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494238344
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1122,1887,689,175/150,/0/default.jpg
-label: parish
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6d2e65d6c"
+unparsed:
+line: 'Head: parents|Entry: a|Entry: 4811 [WORD_MISSING]|#item-6d2e65d6c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1159,1719,533,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277121264
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1159,1719,533,102/150,/0/default.jpg
+label: parents
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0132'
+issue:
+insertion_xref:
+order: '0131'
 layout: index_item
 collection: index4
 ---

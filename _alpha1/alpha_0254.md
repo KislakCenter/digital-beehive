@@ -2,28 +2,28 @@
 pid: alpha_0254
 volume: Volume 1
 image_number: '451'
-head: 
-entry: Discharge
-topic: Discharge
+head:
+entry: Division
+topic: Division
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_282/'>1445 [Dismissing]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1064/'>discharge</a>"
-item: "#item-980f3a073"
-unparsed: 
-line: 'Entry: Discharge|Topic: Discharge|Xref: 1445 [Dismissing]|Index: discharge|#item-980f3a073'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,3014,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508177535258
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/390,1770,600,180/250,/0/default.jpg
-label: Discharge
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index1/index_1118/'>division</a>"
+item: "#item-f01b54131"
+unparsed:
+line: 'Entry: Division|Topic: Division|Index: division|#item-f01b54131'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/412,1173,3038,286/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508176698515
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/412,1173,600,180/250,/0/default.jpg
+label: Division
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '252'
+issue:
+also_in_entry:
+order: '253'
 layout: alpha_item
 collection: alpha1
 ---

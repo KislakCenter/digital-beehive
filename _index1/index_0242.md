@@ -2,27 +2,27 @@
 pid: index_0242
 volume: Volume 3
 image_number: '9'
-head: attorney
-entry: "<a href='/digital-beehive/num3/num_1064'>721 [Attorney]</a>"
-topic: 
+head: athens
+entry: "<a href='/digital-beehive/num2/num_0360/'>314 [Athens]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-12e4a650f"
-unparsed: 
-line: 'Head: attorney|Entry: 721 [Attorney]|#item-12e4a650f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,971,506,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015088626
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/169,971,506,143/150,/0/default.jpg
-label: attorney
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d3492b952"
+unparsed:
+line: 'Head: athens|Entry: 314 [Athens]|#item-d3492b952'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,418,407,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565014727601
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/173,418,407,116/150,/0/default.jpg
+label: athens
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0241'
 layout: index_item
 collection: index1

@@ -2,27 +2,27 @@
 pid: index_2611
 volume: Volume 3
 image_number: '31'
-head: to mumble
-entry: "<a href='/digital-beehive/num4/num_1112'>876 [to Whisper]</a>"
-topic: 
+head: moist
+entry: 738 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-618f16dcd"
-unparsed: 
-line: 'Head: to mumble|Entry: 876 [to Whisper]|#item-618f16dcd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1557,1167,496,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361084483
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1557,1167,496,112/150,/0/default.jpg
-label: to mumble
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7315ab2cd"
+unparsed:
+line: 'Head: moist|Entry: 738 [PAGE_MISSING]|#item-7315ab2cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/164,2726,358,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560352809304
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/164,2726,358,144/150,/0/default.jpg
+label: moist
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '693'
 layout: index_item
 collection: index3

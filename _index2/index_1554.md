@@ -2,27 +2,27 @@
 pid: index_1554
 volume: Volume 3
 image_number: '21'
-head: frowardness
-entry: 735 [PAGE_MISSING]
-topic: 
+head: fribler
+entry: "<a href='/digital-beehive/num11/num_3500/'>4806 [Coquets]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3f0b063d9"
-unparsed: 
-line: 'Head: frowardness|Entry: 735 [PAGE_MISSING]|#item-3f0b063d9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/821,3348,573,169/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560784612952
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/821,3348,573,169/150,/0/default.jpg
-label: frowardness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ef1afbd1d"
+unparsed:
+line: 'Head: fribler|Entry: 4806 [Coquets]|#item-ef1afbd1d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/817,2301,464,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560783192438
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/817,2301,464,110/150,/0/default.jpg
+label: fribler
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '373'
 layout: index_item
 collection: index2

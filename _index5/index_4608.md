@@ -3,28 +3,28 @@ pid: index_4608
 volume: Volume 3
 image_number: '53'
 head: strange words
-entry: "<a href='/digital-beehive/num3/num_0672'>536 [Rare words]</a>|<a href='/digital-beehive/toc/toc2_320/'>1629
+entry: "<a href='/digital-beehive/num3/num_0672/'>536 [Rare words]</a>|<a href='/digital-beehive/num7/num_2470/'>1629
   [Rare words]</a>"
-topic: 
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
+page:
+add:
+xref:
+see:
+index:
 item: "#item-81fac9b93"
-unparsed: 
+unparsed:
 line: 'Head: strange words|Entry: 536 [Rare words]|Entry: 1629 [Rare words]|#item-81fac9b93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/885,1947,722,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1560796748840
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/885,1947,722,148/150,/0/default.jpg
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/885,1947,722,148/150,/0/default.jpg
 label: strange words
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '570'
+issue:
+insertion_xref:
+order: '571'
 layout: index_item
 collection: index5
 ---

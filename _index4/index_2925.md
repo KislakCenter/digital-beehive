@@ -2,28 +2,28 @@
 pid: index_2925
 volume: Volume 3
 image_number: '34'
-head: pavemt
-entry: "<a href='/digital-beehive/toc/toc2_441/'>4871 [Pavement]</a>"
-topic: 
+head: 'partakers of oth: Sins'
+entry: "<a href='/digital-beehive/num10/num_3388/'>2415 [Partake not with the wicked]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7c34e855a"
-unparsed: 
-line: 'Head: pavemt|Entry: 4871 [Pavement]|#item-7c34e855a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1793,2333,636,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538495773110
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1793,2333,636,112/150,/0/default.jpg
-label: pavemt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0e2eecca7"
+unparsed:
+line: 'Head: partakers of oth: Sins|Entry: 2415 [Partake not with the wicked]|#item-0e2eecca7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538494698453
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1100,3098,678,146/150,/0/default.jpg
+label: 'partakers of oth: Sins'
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0174'
+issue:
+insertion_xref:
+order: '0173'
 layout: index_item
 collection: index4
 ---

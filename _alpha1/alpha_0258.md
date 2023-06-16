@@ -2,28 +2,30 @@
 pid: alpha_0258
 volume: Volume 1
 image_number: '451'
-head: 
-entry: Dog-dayes
-topic: Dog-days
+head:
+entry: Doctor
+topic: Doctor|Doctorship
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index1/index_1126/'>dog-days</a>"
-item: "#item-7c551681e"
-unparsed: 
-line: 'Entry: Dog-dayes|Topic: Dog-days|Index: dog-days|#item-7c551681e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/435,3240,2936,219/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508178209764
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0450/435,3240,600,180/250,/0/default.jpg
-label: Dog-dayes
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0578/'>Master of Arts</a>|<a href='/digital-beehive/num4/num_1285/'>964
+  [Doctor]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1132/'>doctor</a>"
+item: "#item-34ac490a3"
+unparsed:
+line: 'Entry: Doctor|Topic: Doctor|Topic: Doctorship|Xref: Master of Arts|Xref: 964
+  [Doctor]|Index: doctor|#item-34ac490a3'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/373,1888,3063,432/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508177688435
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/373,1888,600,180/250,/0/default.jpg
+label: Doctor
 location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '256'
+issue:
+also_in_entry:
+order: '257'
 layout: alpha_item
 collection: alpha1
 ---

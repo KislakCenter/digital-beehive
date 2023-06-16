@@ -2,29 +2,28 @@
 pid: index_3412
 volume: Volume 3
 image_number: '40'
-head: reward
-entry: "<a href='/digital-beehive/alpha4/alpha_0804/'>a</a>|<a href='/digital-beehive/num2/num_0533/'>431
-  [Reward]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480 [Reward]</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4d5f7a4d6"
-unparsed: 
-line: 'Head: reward|Entry: a|Entry: 431 [Reward]|Entry: 4480 [Reward]|#item-4d5f7a4d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231614076
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/452,900,714,130/150,/0/default.jpg
-label: reward
+head: sack
+entry: 4637 [PAGE_MISSING]
+topic:
+first_letter: S
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5c00da219"
+unparsed:
+line: 'Head: sack|Entry: 4637 [PAGE_MISSING]|#item-5c00da219'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234627074
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1825,1209,353,107/150,/0/default.jpg
+label: sack
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0661'
+issue:
+insertion_xref:
+order: '0660'
 layout: index_item
 collection: index4
 ---

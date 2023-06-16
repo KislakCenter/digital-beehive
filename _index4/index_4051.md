@@ -23,7 +23,7 @@ label: Symboles
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1272'
+order: '1271'
 layout: index_item
 collection: index4
 ---

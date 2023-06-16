@@ -2,27 +2,27 @@
 pid: index_2614
 volume: Volume 3
 image_number: '31'
-head: Bp of Munster
-entry: "<a href='/digital-beehive/toc/toc2_263/'>1348 [Chr. Bernard Bishop of Munster]</a>"
-topic: 
+head: mysticks
+entry:
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c0bedd696"
-unparsed: 
-line: 'Head: Bp of Munster|Entry: 1348 [Chr. Bernard Bishop of Munster]|#item-c0bedd696'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361406501
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1547,1452,616,152/150,/0/default.jpg
-label: Bp of Munster
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1106/'>divines</a>"
+index:
+item: "#item-8dc39408a"
+unparsed:
+line: 'Head: mysticks|See: divines|#item-8dc39408a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1533,2850,645,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362583783
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1533,2850,645,148/150,/0/default.jpg
+label: mysticks
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '696'
 layout: index_item
 collection: index3

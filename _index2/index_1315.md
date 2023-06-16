@@ -2,27 +2,28 @@
 pid: index_1315
 volume: Volume 3
 image_number: '19'
-head: event
-entry: 
-topic: 
+head: experience
+entry: "<a href='/digital-beehive/alpha2/alpha_0303/'>a</a>|<a href='/digital-beehive/num6/num_1898/'>1345
+  [Experience]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1248/'>end</a>"
-index: 
-item: "#item-2377440e4"
-unparsed: 
-line: 'Head: event|See: end|#item-2377440e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/841,1067,492,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351168039
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/841,1067,492,136/150,/0/default.jpg
-label: event
+page:
+add:
+xref:
+see:
+index:
+item: "#item-268299e97"
+unparsed:
+line: 'Head: experience|Entry: a|Entry: 1345 [Experience]|#item-268299e97'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1515,1485,713,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561045656937
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1515,1485,713,137/150,/0/default.jpg
+label: experience
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '134'
 layout: index_item
 collection: index2

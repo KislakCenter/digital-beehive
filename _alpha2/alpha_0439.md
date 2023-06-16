@@ -2,28 +2,28 @@
 pid: alpha_0439
 volume: Volume 2
 image_number: '20'
-head: 
-entry: Hunting
-topic: Hunting
+head:
+entry: Humanity
+topic: Humanity
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_268/'>1371 [Hunting]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1907/'>hunting</a>"
-item: "#item-4b88988ab"
-unparsed: 
-line: 'Entry: Hunting|Topic: Hunting|Xref: 1371 [Hunting]|Index: hunting|#item-4b88988ab'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/788,2007,2870,438/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733878773
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/788,2007,600,180/250,/0/default.jpg
-label: Hunting
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0152/'>Civility</a>|<a href='/digital-beehive/alpha3/alpha_0478/'>Inhumanity</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1863/'>humanity</a>"
+item: "#item-677ba08f8"
+unparsed:
+line: 'Entry: Humanity|Topic: Humanity|Xref: Civility|Xref: Inhumanity|Index: humanity|#item-677ba08f8'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/758,509,2971,455/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564757805531
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/758,509,600,180/250,/0/default.jpg
+label: Humanity
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '170'
+issue:
+also_in_entry:
+order: '167'
 layout: alpha_item
 collection: alpha2
 ---

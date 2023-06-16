@@ -2,27 +2,28 @@
 pid: index_0577
 volume: Volume 3
 image_number: '12'
-head: cellar
-entry: 826 [PAGE_MISSING]
-topic: 
+head: cheap
+entry: "<a href='/digital-beehive/num3/num_0895/'>651 [Cheap]</a>|<a href='/digital-beehive/num10/num_3313/'>2343
+  [Cheap]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6cb55557d"
-unparsed: 
-line: 'Head: cellar|Entry: 826 [PAGE_MISSING]|#item-6cb55557d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1121,1108,382,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532099271839
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1121,1108,382,103/150,/0/default.jpg
-label: cellar
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eba4c0ec6"
+unparsed:
+line: 'Head: cheap|Entry: 651 [Cheap]|Entry: 2343 [Cheap]|#item-eba4c0ec6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1831,921,560,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532444516278
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1831,921,560,133/150,/0/default.jpg
+label: cheap
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0576'
 layout: index_item
 collection: index1

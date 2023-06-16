@@ -2,30 +2,28 @@
 pid: index_0323
 volume: Volume 3
 image_number: '9'
-head: beauty
-entry: "<a href='/digital-beehive/alpha1/alpha_0069/'>a</a>|<a href='/digital-beehive/num3/num_0823'>616
-  [Beauty]</a>|<a href='/digital-beehive/toc/toc2_316/'>1609 [Beauty]</a>|<a href='/digital-beehive/toc/toc2_431/'>4814
-  [Beauty]</a>"
-topic: 
+head: bacchanals
+entry: "<a href='/digital-beehive/alpha1/alpha_0052/'>a</a>|<a href='/digital-beehive/num1/num_0236/'>222
+  [Shrovetide]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fae0d52db"
-unparsed: 
-line: 'Head: beauty|Entry: a|Entry: 616 [Beauty]|Entry: 1609 [Beauty]|Entry: 4814
-  [Beauty]|#item-fae0d52db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018471113
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/1583,2155,773,126/150,/0/default.jpg
-label: beauty
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ef81501dd"
+unparsed:
+line: 'Head: bacchanals|Entry: a|Entry: 222 [Shrovetide]|#item-ef81501dd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/183,3038,669,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1504210863575
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/183,3038,669,116/150,/0/default.jpg
+label: bacchanals
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0322'
 layout: index_item
 collection: index1

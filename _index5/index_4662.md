@@ -2,28 +2,28 @@
 pid: index_4662
 volume: Volume 3
 image_number: '54'
-head: to oversee or overslip
-entry: "<a href='/digital-beehive/toc/toc2_340/'>1757 [To Oversee]</a>"
-topic: 
+head: Sappho
+entry: 4715 [PAGE_MISSING]
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a058c16b9"
-unparsed: Type Index|Insertion [:1.]
-line: 'Type: Index|Insertion: [:1.]|Head: to oversee or overslip|Entry: 1757 [To Oversee]|#item-a058c16b9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/372,346,695,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799717132
-insertion: "[:1.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/372,346,695,156/150,/0/default.jpg
-label: to oversee or overslip
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fa49f643c"
+unparsed: Type Index|Insertion [:56.]
+line: 'Type: Index|Insertion: [:56.]|Head: Sappho|Entry: 4715 [PAGE_MISSING]|#item-fa49f643c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/2209,1422,302,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560956756998
+insertion: "[:56.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/2209,1422,302,169/150,/0/default.jpg
+label: Sappho
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '624'
+issue:
+insertion_xref:
+order: '625'
 layout: index_item
 collection: index5
 ---

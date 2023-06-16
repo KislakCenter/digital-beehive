@@ -2,31 +2,30 @@
 pid: alpha_0721
 volume: Volume 2
 image_number: '41'
-head: 
-entry: Power
-topic: Power
+head:
+entry: Polygamy
+topic: Polygamy
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0049/'>Authority</a>|<a href='/digital-beehive/alpha2/alpha_0340/'>Force</a>|<a
-  href='/digital-beehive/alpha3/alpha_0473/'>Infirmity</a>|<a href='/digital-beehive/toc/toc2_411/'>2362
-  [Power]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3101/'>power</a>"
-item: "#item-6b67d5259"
-unparsed: 
-line: 'Entry: Power|Topic: Power|Xref: Authority|Xref: Force|Xref: Infirmity|Xref:
-  2362 [Power]|Index: power|#item-6b67d5259'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,3053,358/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528374319634
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0508/312,4220,600,180/250,/0/default.jpg
-label: Power
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0562/'>452 [Bigamy]</a>|<a href='/digital-beehive/num4/num_1291/'>969
+  [Polygamy]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3123/'>polygamy</a>"
+item: "#item-1942f2b6c"
+unparsed:
+line: 'Entry: Polygamy|Topic: Polygamy|Xref: 452 [Bigamy]|Xref: 969 [Polygamy]|Index:
+  polygamy|#item-1942f2b6c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/267,2220,3106,385/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528373632715
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0508/267,2220,600,180/250,/0/default.jpg
+label: Polygamy
 location: "<a href='/digital-beehive/toc/toc2_031/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '074'
+issue:
+also_in_entry:
+order: '069'
 layout: alpha_item
 collection: alpha4
 ---

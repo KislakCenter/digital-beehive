@@ -2,28 +2,28 @@
 pid: index_2951
 volume: Volume 3
 image_number: '35'
-head: perception
-entry: "<a href='/digital-beehive/num4/num_1293'>971 [Senses]</a>"
-topic: 
+head: perspective
+entry: "<a href='/digital-beehive/num7/num_2493/'>1639 [Spectacles]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-17907dc32"
-unparsed: 
-line: 'Head: perception|Entry: 971 [Senses]|#item-17907dc32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539972727340
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/91,1944,623,110/150,/0/default.jpg
-label: perception
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3fb0c5fbb"
+unparsed:
+line: 'Head: perspective|Entry: 1639 [Spectacles]|#item-3fb0c5fbb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974121507
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/784,751,686,170/150,/0/default.jpg
+label: perspective
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0200'
+issue:
+insertion_xref:
+order: '0199'
 layout: index_item
 collection: index4
 ---

@@ -2,28 +2,27 @@
 pid: index_0152
 volume: Volume 3
 image_number: '8'
-head: answer
-entry: "<a href='/digital-beehive/alpha1/alpha_0031/'>a</a>|<a href='/digital-beehive/num1/num_0261/'>243
-  [Answer]</a>|<a href='/digital-beehive/toc/toc2_358/'>1948 [Answer]</a>"
-topic: 
+head: arminians
+entry: "<a href='/digital-beehive/num5/num_1338/'>1003 [Arminians]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e482f0480"
-unparsed: 
-line: 'Head: answer|Entry: a|Entry: 243 [Answer]|Entry: 1948 [Answer]|#item-e482f0480'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564759053976
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/367,2378,667,121/150,/0/default.jpg
-label: answer
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d315da951"
+unparsed:
+line: 'Head: arminians|Entry: 1003 [Arminians]|#item-d315da951'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,676,532,83/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565631211262
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1799,676,532,83/150,/0/default.jpg
+label: arminians
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0151'
 layout: index_item
 collection: index1

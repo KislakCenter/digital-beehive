@@ -2,27 +2,28 @@
 pid: index_0775
 volume: Volume 3
 image_number: '14'
-head: concord
-entry: 
-topic: 
+head: contradiction
+entry: "<a href='/digital-beehive/alpha1/alpha_0179/'>a</a>|<a href='/digital-beehive/num4/num_1170/'>901
+  [Contradiction]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4355/'>unanimity</a>"
-index: 
-item: "#item-3e388510e"
-unparsed: 
-line: 'Head: concord|See: unanimity|#item-3e388510e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/409,2113,758,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537216607618
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/409,2113,758,162/150,/0/default.jpg
-label: concord
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cf4b9936a"
+unparsed:
+line: 'Head: contradiction|Entry: a|Entry: 901 [Contradiction]|#item-cf4b9936a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1842,674,656,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559290644
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1842,674,656,135/150,/0/default.jpg
+label: contradiction
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0774'
 layout: index_item
 collection: index1

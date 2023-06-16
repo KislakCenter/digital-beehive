@@ -2,27 +2,28 @@
 pid: index_0003
 volume: Volume 3
 image_number: '7'
-head: abbot
-entry: "<a href='/digital-beehive/toc/toc2_278/'>1424 [An Abbot]</a>"
-topic: 
+head: "[:2.]"
+entry:
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-155ed9d2a"
-unparsed: 
-line: 'Head: abbot|Entry: 1424 [An Abbot]|#item-155ed9d2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,356,406,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757584514
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/167,356,406,108/150,/0/default.jpg
-label: abbot
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d8eeffd36"
+unparsed: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
+line: 'Type: Index|Insertion Xref: [:2.]|#item-d8eeffd36'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1480,1894,128,68/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558888490390
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1480,1894,128,68/150,/0/default.jpg
+label: "[:2.]"
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4670/'>to scare, affright,
+  or fright</a>|<a href='/digital-beehive/index5/index_4673/'>fringes</a>"
 order: '0002'
 layout: index_item
 collection: index1

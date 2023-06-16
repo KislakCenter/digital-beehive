@@ -2,28 +2,28 @@
 pid: index_1892
 volume: Volume 3
 image_number: '24'
-head: house of correction
-entry: "<a href='/digital-beehive/toc/toc2_249/'>1279 [Bridewell]</a>"
-topic: 
+head: high Church
+entry: "<a href='/digital-beehive/num8/num_2697/'>1766 [High Church]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7311436b7"
-unparsed: 
-line: 'Head: house of correction|Entry: 1279 [Bridewell]|#item-7311436b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,1078,600,83/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559586828833
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1836,1078,600,83/150,/0/default.jpg
-label: house of correction
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0a0c6e2f3"
+unparsed:
+line: 'Head: high Church|Entry: 1766 [High Church]|#item-0a0c6e2f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/423,2583,559,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559577216909
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/423,2583,559,108/150,/0/default.jpg
+label: high Church
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '710'
+issue:
+insertion_xref:
+order: '711'
 layout: index_item
 collection: index2
 ---

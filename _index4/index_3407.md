@@ -2,28 +2,28 @@
 pid: index_3407
 volume: Volume 3
 image_number: '40'
-head: reverentiâ salvâ
-entry: 4560 [PAGE_MISSING]
-topic: 
+head: rush
+entry: "<a href='/digital-beehive/num3/num_0943/'>676 [Rush]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3394b47a0"
-unparsed: 
-line: 'Head: reverentiâ salvâ|Entry: 4560 [PAGE_MISSING]|#item-3394b47a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231072294
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/430,404,741,95/150,/0/default.jpg
-label: reverentiâ salvâ
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a2b9d84a6"
+unparsed:
+line: 'Head: rush|Entry: 676 [Rush]|#item-a2b9d84a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1841,584,401,141/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234429005
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1841,584,401,141/150,/0/default.jpg
+label: rush
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0656'
+issue:
+insertion_xref:
+order: '0655'
 layout: index_item
 collection: index4
 ---

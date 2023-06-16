@@ -1,29 +1,30 @@
 ---
 pid: alpha_0548
 volume: Volume 2
-image_number: '29'
-head: 
-entry: Lookingglass
-topic: Lookingglass
+image_number: '28'
+head:
+entry: London
+topic: London
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_375/'>2100 [Lookingglass]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2327/'>lookingglass</a>"
-item: "#item-57db9a5a1"
-unparsed: 
-line: 'Entry: Lookingglass|Topic: Lookingglass|Xref: 2100 [Lookingglass]|Index: lookingglass|#item-57db9a5a1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/309,638,3081,320/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770146381
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/309,638,600,180/250,/0/default.jpg
-label: Lookingglass
-location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '104'
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1569/'>1152 [Fire]</a>|<a href='/digital-beehive/num6/num_2158/'>1468
+  [London]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2319/'>London</a>"
+item: "#item-74d4d3984"
+unparsed:
+line: 'Entry: London|Topic: London|Xref: 1152 [Fire]|Xref: 1468 [London]|Index: London|#item-74d4d3984'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/706,4714,3044,311/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769897714
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/706,4714,600,180/250,/0/default.jpg
+label: London
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '101'
 layout: alpha_item
 collection: alpha3
 ---

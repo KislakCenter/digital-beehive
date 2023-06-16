@@ -2,27 +2,27 @@
 pid: index_1966
 volume: Volume 3
 image_number: '25'
-head: impertinent
-entry: 
-topic: 
+head: Jerusalem
+entry: "<a href='/digital-beehive/num2/num_0471/'>388 [(New) Jerusalem]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0018/'>absurd</a>"
-index: 
-item: "#item-3b05e5804"
-unparsed: 
-line: 'Head: impertinent|See: absurd|#item-3b05e5804'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/873,1517,645,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665792877
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/873,1517,645,122/150,/0/default.jpg
-label: impertinent
+page:
+add:
+xref:
+see:
+index:
+item: "#item-705225ec1"
+unparsed:
+line: 'Head: Jerusalem|Entry: 388 [(New) Jerusalem]|#item-705225ec1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/164,1646,525,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559660760923
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/164,1646,525,125/150,/0/default.jpg
+label: Jerusalem
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '048'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_2982
 volume: Volume 3
 image_number: '35'
-head: Philada
-entry: "<a href='/digital-beehive/toc/toc2_212/'>1094 [Philadelphia]</a>"
-topic: 
+head: phantastick
+entry: "<a href='/digital-beehive/num2/num_0339/'>299 [idle fancies]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c916d825f"
-unparsed: 
-line: 'Head: Philada|Entry: 1094 [Philadelphia]|#item-c916d825f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/812,2213,521,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974598335
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/812,2213,521,171/150,/0/default.jpg
-label: Philada
+page:
+add:
+xref:
+see:
+index:
+item: "#item-296450c78"
+unparsed:
+line: 'Head: phantastick|Entry: 299 [idle fancies]|#item-296450c78'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/801,1721,627,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974467408
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/801,1721,627,163/150,/0/default.jpg
+label: phantastick
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0231'
+issue:
+insertion_xref:
+order: '0230'
 layout: index_item
 collection: index4
 ---

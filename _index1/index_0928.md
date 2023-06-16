@@ -2,27 +2,28 @@
 pid: index_0928
 volume: Volume 3
 image_number: '15'
-head: "[:16.]"
-entry: 
-topic: 
-first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-73acd12ec"
-unparsed: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-line: 'Type: Index|Insertion Xref: [:16.]|#item-73acd12ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275970444
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1349,3536,171,145/150,/0/default.jpg
-label: "[:16.]"
+head: courage
+entry: "<a href='/digital-beehive/alpha1/alpha_0188/'>a</a>|<a href='/digital-beehive/num5/num_1556/'>1143
+  [Courage]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a4a6ead3e"
+unparsed:
+line: 'Head: courage|Entry: a|Entry: 1143 [Courage]|#item-a4a6ead3e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,2266,548,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974746772
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/153,2266,548,108/150,/0/default.jpg
+label: courage
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4679/'>Cures. curable</a>"
+issue:
+insertion_xref:
 order: '0927'
 layout: index_item
 collection: index1

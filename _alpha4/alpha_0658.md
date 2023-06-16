@@ -2,28 +2,30 @@
 pid: alpha_0658
 volume: Volume 2
 image_number: '37'
-head: 
-entry: Oil
-topic: Oil
+head:
+entry: Occasion
+topic: Occasion
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_353/'>1910 [Oil]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2778/'>oil</a>"
-item: "#item-a229abb24"
-unparsed: 
-line: 'Entry: Oil|Topic: Oil|Xref: 1910 [Oil]|Index: oil|#item-a229abb24'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,3043,354/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017421153
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/314,2668,600,180/250,/0/default.jpg
-label: Oil
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1015/'>Untimely</a>|<a href='/digital-beehive/alpha5/alpha_0961/'>Time</a>|<a
+  href='/digital-beehive/num3/num_1026/'>706 [Occasion]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2817/'>occasion</a>"
+item: "#item-2e7db2854"
+unparsed:
+line: 'Entry: Occasion|Topic: Occasion|Xref: Untimely|Xref: Time|Xref: 706 [Occasion]|Index:
+  occasion|#item-2e7db2854'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/280,1098,3091,397/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016545296
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/280,1098,600,180/250,/0/default.jpg
+label: Occasion
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '011'
+issue:
+also_in_entry:
+order: '006'
 layout: alpha_item
 collection: alpha4
 ---

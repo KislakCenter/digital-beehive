@@ -2,27 +2,28 @@
 pid: index_2415
 volume: Volume 3
 image_number: '29'
-head: man[n]a
-entry: "<a href='/digital-beehive/toc/toc2_212/'>1095 [Manna]</a>"
-topic: 
+head: maid
+entry: "<a href='/digital-beehive/alpha3/alpha_0569/'>a</a>|<a href='/digital-beehive/num6/num_2068/'>1425
+  [Maid]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ea3b7da6b"
-unparsed: 
-line: 'Head: man[n]a|Entry: 1095 [Manna]|#item-ea3b7da6b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196335159
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1535,2705,345,117/150,/0/default.jpg
-label: man[n]a
+page:
+add:
+xref:
+see:
+index:
+item: "#item-df1adfb77"
+unparsed:
+line: 'Head: maid|Entry: a|Entry: 1425 [Maid]|#item-df1adfb77'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/816,3204,491,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560189559084
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/816,3204,491,108/150,/0/default.jpg
+label: maid
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '497'
 layout: index_item
 collection: index3

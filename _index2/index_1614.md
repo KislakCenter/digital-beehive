@@ -2,27 +2,27 @@
 pid: index_1614
 volume: Volume 3
 image_number: '22'
-head: girl
-entry: 
-topic: 
+head: glister
+entry: "<a href='/digital-beehive/num2/num_0530/'>427 [Bright]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2385/'>maid</a>"
-index: 
-item: "#item-577daa240"
-unparsed: 
-line: 'Head: girl|See: maid|#item-577daa240'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561043693834
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/411,2301,449,148/150,/0/default.jpg
-label: girl
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8af8f306b"
+unparsed:
+line: 'Head: glister|Entry: 427 [Bright]|#item-8af8f306b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/413,3247,390,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561044208149
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/413,3247,390,150/150,/0/default.jpg
+label: glister
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '433'
 layout: index_item
 collection: index2

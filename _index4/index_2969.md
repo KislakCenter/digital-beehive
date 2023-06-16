@@ -2,28 +2,28 @@
 pid: index_2969
 volume: Volume 3
 image_number: '35'
-head: perspective
-entry: "<a href='/digital-beehive/toc/toc2_322/'>1639 [Spectacles]</a>"
-topic: 
+head: pillory
+entry: 1846 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3fb0c5fbb"
-unparsed: 
-line: 'Head: perspective|Entry: 1639 [Spectacles]|#item-3fb0c5fbb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/784,751,686,170/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539974121507
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/784,751,686,170/150,/0/default.jpg
-label: perspective
+page:
+add:
+xref:
+see:
+index:
+item: "#item-70b747666"
+unparsed:
+line: 'Head: pillory|Entry: 1846 [PAGE_MISSING]|#item-70b747666'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,1347,524,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976380219
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1520,1347,524,137/150,/0/default.jpg
+label: pillory
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0218'
+issue:
+insertion_xref:
+order: '0217'
 layout: index_item
 collection: index4
 ---

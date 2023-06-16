@@ -23,7 +23,7 @@ label: Dunghill
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '268'
+order: '269'
 layout: alpha_item
 collection: alpha1
 ---

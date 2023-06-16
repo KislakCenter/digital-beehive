@@ -2,27 +2,27 @@
 pid: index_0387
 volume: Volume 3
 image_number: '10'
-head: blasphemy
-entry: 
-topic: 
+head: bonfire
+entry: "<a href='/digital-beehive/num5/num_1423/'>1058 [Bonfires]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7d67fd69b"
-unparsed: 
-line: 'Head: blasphemy|#item-7d67fd69b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1088,2056,380,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531150752768
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1088,2056,380,158/150,/0/default.jpg
-label: blasphemy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b744bf8c9"
+unparsed:
+line: 'Head: bonfire|Entry: 1058 [Bonfires]|#item-b744bf8c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531152735874
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1804,1145,407,119/150,/0/default.jpg
+label: bonfire
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0386'
 layout: index_item
 collection: index1

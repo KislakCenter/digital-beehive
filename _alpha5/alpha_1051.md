@@ -1,29 +1,30 @@
 ---
 pid: alpha_1051
 volume: Volume 2
-image_number: '66'
-head: 
-entry: Wood
-topic: Wood
+image_number: '65'
+head:
+entry: Womans imperiousness
+topic: Womans imperiousness
 first_letter: W
-page: 
-add: 
-xref: Timber|<a href='/digital-beehive/toc/toc2_377/'>2113 [Wood]</a>
-see: 
-index: "<a href='/digital-beehive/index5/index_4602/'>wood</a>"
-item: "#item-ae92c0788"
-unparsed: 
-line: 'Entry: Wood|Topic: Wood|Xref: Timber|Xref: 2113 [Wood]|Index: wood|#item-ae92c0788'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,2994,441/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529595414671
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0533/787,1081,600,180/250,/0/default.jpg
-label: Wood
-location: "<a href='/digital-beehive/toc/toc2_056/'>Full Page</a>"
-issue: The point of reference for "Timber" is unclear.
-also_in_entry: 
-order: '117'
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0201/'>192 [Dames governmt]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4566/'>woman's imperiousness</a>"
+item: "#item-79d4c449b"
+unparsed:
+line: 'Entry: Womans imperiousness|Topic: Womans imperiousness|Xref: 192 [Dames governmt]|Index:
+  woman''s imperiousness|#item-79d4c449b'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/363,4194,2979,361/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529593900437
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0532/363,4194,600,180/250,/0/default.jpg
+label: Womans imperiousness
+location: "<a href='/digital-beehive/toc/toc2_055/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '111'
 layout: alpha_item
 collection: alpha5
 ---

@@ -2,28 +2,28 @@
 pid: index_1190
 volume: Volume 3
 image_number: '18'
-head: earthenware
-entry: 4625 [PAGE_MISSING]
-topic: 
+head: ecclesiasticus
+entry: "<a href='/digital-beehive/num10/num_3447/'>4464 [Ecclesiasticus]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-745b7eead"
-unparsed: 
-line: 'Head: earthenware|Entry: 4625 [PAGE_MISSING]|#item-745b7eead'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559667379481
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/411,2515,608,87/150,/0/default.jpg
-label: earthenware
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ad461cfdb"
+unparsed:
+line: 'Head: ecclesiasticus|Entry: 4464 [Ecclesiasticus]|#item-ad461cfdb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1162,452,631,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559671097571
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1162,452,631,93/150,/0/default.jpg
+label: ecclesiasticus
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '009'
+issue:
+insertion_xref:
+order: '019'
 layout: index_item
 collection: index2
 ---

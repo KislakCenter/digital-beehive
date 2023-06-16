@@ -2,28 +2,28 @@
 pid: index_2832
 volume: Volume 3
 image_number: '34'
-head: orthography
-entry: "<a href='/digital-beehive/num2/num_0594/'>476 [Orthography]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-581025b93"
-unparsed: 
-line: 'Head: orthography|Entry: 476 [Orthography]|#item-581025b93'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424955981
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/512,337,640,180/150,/0/default.jpg
-label: orthography
+head: "[:48.]"
+entry:
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c0d5c506b"
+unparsed: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
+line: 'Type: Index|Insertion Xref: [:48.]|#item-c0d5c506b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1704,414,204,96/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276694321
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1704,414,204,96/150,/0/default.jpg
+label: "[:48.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0081'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4664/'>Pan</a>"
+order: '0080'
 layout: index_item
 collection: index4
 ---

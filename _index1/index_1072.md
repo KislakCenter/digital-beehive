@@ -2,28 +2,28 @@
 pid: index_1072
 volume: Volume 3
 image_number: '17'
-head: discretion
-entry: "<a href='/digital-beehive/alpha1/alpha_0242/'>a</a>"
-topic: 
+head: distilling
+entry: "<a href='/digital-beehive/num3/num_0767/'>592 [Distilling]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-54b89fbe3"
-unparsed: 
-line: 'Head: discretion|Entry: a|#item-54b89fbe3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,633,477,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175346858
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,633,477,101/150,/0/default.jpg
-label: discretion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9a2f2ea53"
+unparsed:
+line: 'Head: distilling|Entry: 592 [Distilling]|#item-9a2f2ea53'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/774,373,587,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843392041
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/774,373,587,123/150,/0/default.jpg
+label: distilling
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1071'
+issue:
+insertion_xref:
+order: '1070'
 layout: index_item
 collection: index1
 ---

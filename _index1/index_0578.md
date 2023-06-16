@@ -2,27 +2,28 @@
 pid: index_0578
 volume: Volume 3
 image_number: '12'
-head: cells
-entry: 
-topic: 
+head: celibate
+entry: "<a href='/digital-beehive/alpha1/alpha_0135/'>a</a>|<a href='/digital-beehive/num6/num_1824/'>1304
+  [Celibate]</a>|<a href='/digital-beehive/num9/num_3067/'>2128 [Celibate]</a>"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e49bbb49a"
-unparsed: 
-line: 'Head: cells|Page: p.4 [Image 1.64]|#item-e49bbb49a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1134,1221,286,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532099288564
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1134,1221,286,116/150,/0/default.jpg
-label: cells
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f45cc6b36"
+unparsed:
+line: 'Head: celibate|Entry: a|Entry: 1304 [Celibate]|Entry: 2128 [Celibate]|#item-f45cc6b36'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1124,990,706,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099242281
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1124,990,706,121/150,/0/default.jpg
+label: celibate
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0577'
 layout: index_item
 collection: index1

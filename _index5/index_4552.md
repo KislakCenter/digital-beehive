@@ -2,29 +2,28 @@
 pid: index_4552
 volume: Volume 3
 image_number: '52'
-head: willingness
-entry: "<a href='/digital-beehive/alpha5/alpha_1036/'>a</a>|<a href='/digital-beehive/num2/num_0369/'>321
-  [Willingness]</a>|<a href='/digital-beehive/toc/toc2_283/'>1446 [Willingness]</a>"
-topic: 
+head: to whet
+entry: "<a href='/digital-beehive/num5/num_1590/'>1167 [To whet]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5fce5007e"
-unparsed: 
-line: 'Head: willingness|Entry: a|Entry: 321 [Willingness]|Entry: 1446 [Willingness]|#item-5fce5007e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1776,2609,748,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560972399539
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1776,2609,748,147/150,/0/default.jpg
-label: willingness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b7c1cf150"
+unparsed:
+line: 'Head: to whet|Entry: 1167 [To whet]|#item-b7c1cf150'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1056,3172,538,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560970111040
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1056,3172,538,170/150,/0/default.jpg
+label: to whet
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '514'
+issue:
+insertion_xref:
+order: '515'
 layout: index_item
 collection: index5
 ---

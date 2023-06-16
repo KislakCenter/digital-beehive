@@ -2,28 +2,28 @@
 pid: index_3823
 volume: Volume 3
 image_number: '44'
-head: spear
-entry: 4505 [PAGE_MISSING]
-topic: 
+head: species
+entry: "<a href='/digital-beehive/num9/num_2975/'>2041 [Sort : genus & Species]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-932d7f54c"
-unparsed: 
-line: 'Head: spear|Entry: 4505 [PAGE_MISSING]|#item-932d7f54c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1113,641,425,81/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529788543500
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1113,641,425,81/150,/0/default.jpg
-label: spear
+page:
+add:
+xref:
+see:
+index:
+item: "#item-469ae18ae"
+unparsed:
+line: 'Head: species|Entry: 2041 [Sort : genus & Species]|#item-469ae18ae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,774,405,76/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529788736820
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/1115,774,405,76/150,/0/default.jpg
+label: species
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1072'
+issue:
+insertion_xref:
+order: '1071'
 layout: index_item
 collection: index4
 ---

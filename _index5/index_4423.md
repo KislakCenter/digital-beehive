@@ -2,28 +2,28 @@
 pid: index_4423
 volume: Volume 3
 image_number: '51'
-head: untimely
-entry: "<a href='/digital-beehive/alpha5/alpha_1010/'>a</a>"
-topic: 
+head: to urge
+entry: "<a href='/digital-beehive/num5/num_1414/'>1054 [To Urge]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6f59c60bd"
-unparsed: 
-line: 'Head: untimely|Entry: a|#item-6f59c60bd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/230,2225,416,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645793742
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/230,2225,416,163/150,/0/default.jpg
-label: untimely
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fa536e71c"
+unparsed:
+line: 'Head: to urge|Entry: 1054 [To Urge]|#item-fa536e71c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/943,831,456,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561646606604
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/943,831,456,120/150,/0/default.jpg
+label: to urge
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '385'
+issue:
+insertion_xref:
+order: '386'
 layout: index_item
 collection: index5
 ---

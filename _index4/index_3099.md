@@ -2,28 +2,28 @@
 pid: index_3099
 volume: Volume 3
 image_number: '36'
-head: powder
-entry: 736 [PAGE_MISSING]
-topic: 
+head: prefermt
+entry: "<a href='/digital-beehive/num7/num_2650/'>1726 [Preferment]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-20f8d672d"
-unparsed: 
-line: 'Head: powder|Entry: 736 [PAGE_MISSING]|#item-20f8d672d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,3547,448,86/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439303342
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1148,3547,448,86/150,/0/default.jpg
-label: powder
+page:
+add:
+xref:
+see:
+index:
+item: "#item-338130616"
+unparsed:
+line: 'Head: prefermt|Entry: 1726 [Preferment]|#item-338130616'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1859,2269,534,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440662961
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1859,2269,534,138/150,/0/default.jpg
+label: prefermt
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0348'
+issue:
+insertion_xref:
+order: '0347'
 layout: index_item
 collection: index4
 ---

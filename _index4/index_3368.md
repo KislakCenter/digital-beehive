@@ -2,29 +2,28 @@
 pid: index_3368
 volume: Volume 3
 image_number: '39'
-head: repentance
-entry: "<a href='/digital-beehive/alpha4/alpha_0790/'>a</a>|<a href='/digital-beehive/num4/num_1261'>944
-  [Repentance]</a>"
-topic: 
+head: to regard
+entry:
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b3c419bfa"
-unparsed: 
-line: 'Head: repentance|Entry: a|Entry: 944 [Repentance]|#item-b3c419bfa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/783,2132,768,198/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469317984
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/783,2132,768,198/150,/0/default.jpg
-label: repentance
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2337/'>look</a>|<a href='/digital-beehive/index1/index_0814/'>consider</a>"
+index:
+item: "#item-ed68b5441"
+unparsed:
+line: 'Head: to regard|See: look|See: consider|#item-ed68b5441'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/134,1945,707,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464739771
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/134,1945,707,152/150,/0/default.jpg
+label: to regard
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0617'
+issue:
+insertion_xref:
+order: '0616'
 layout: index_item
 collection: index4
 ---

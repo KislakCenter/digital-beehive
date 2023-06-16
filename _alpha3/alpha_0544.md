@@ -2,29 +2,28 @@
 pid: alpha_0544
 volume: Volume 2
 image_number: '28'
-head: 
-entry: Logick
-topic: Logick
+head:
+entry: Lion
+topic: Lion
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0245/'>disputation</a>|<a href='/digital-beehive/num4/num_1118'>879
-  [Logick]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2319/'>logick</a>"
-item: "#item-2ed5dcf09"
-unparsed: 
-line: 'Entry: Logick|Topic: Logick|Xref: disputation|Xref: 879 [Logick]|Index: logick|#item-2ed5dcf09'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/732,4313,2993,534/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564769821750
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0495/732,4313,600,180/250,/0/default.jpg
-label: Logick
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1467/'>1088 [Lion]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2277/'>lion</a>"
+item: "#item-17b85c9ea"
+unparsed:
+line: 'Entry: Lion|Topic: Lion|Xref: 1088 [Lion]|Index: lion|#item-17b85c9ea'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/743,3062,3005,422/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769497605
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/743,3062,600,180/250,/0/default.jpg
+label: Lion
 location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '100'
+issue:
+also_in_entry:
+order: '097'
 layout: alpha_item
 collection: alpha3
 ---

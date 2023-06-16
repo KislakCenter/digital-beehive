@@ -2,27 +2,30 @@
 pid: index_2590
 volume: Volume 3
 image_number: '31'
-head: Moscovy
-entry: "<a href='/digital-beehive/toc/toc2_219/'>1127 [Moscovy]</a>"
-topic: 
+head: musick
+entry: "<a href='/digital-beehive/alpha3/alpha_0623/'>a</a>|<a href='/digital-beehive/num2/num_0527/'>425
+  [Musick]</a>|<a href='/digital-beehive/num8/num_2745/'>1812 [Musick]</a>|<a href='/digital-beehive/num10/num_3208/'>2258
+  [Musick]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0c3329c2e"
-unparsed: 
-line: 'Head: Moscovy|Entry: 1127 [Moscovy]|#item-0c3329c2e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/834,2814,435,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560356639019
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/834,2814,435,163/150,/0/default.jpg
-label: Moscovy
+page: "<a href='/digital-beehive/toc/toc1_091/'>p.41 [Image 1.101]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-9717b0844"
+unparsed:
+line: 'Head: musick|Page: p.41 [Image 1.101]|Entry: a|Entry: 425 [Musick]|Entry: 1812
+  [Musick]|Entry: 2258 [Musick]|#item-9717b0844'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1555,1992,752,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362264694
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1555,1992,752,179/150,/0/default.jpg
+label: musick
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '672'
 layout: index_item
 collection: index3

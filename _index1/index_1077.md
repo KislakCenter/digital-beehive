@@ -2,28 +2,28 @@
 pid: index_1077
 volume: Volume 3
 image_number: '17'
-head: disguise
-entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
-topic: 
+head: discourse
+entry: "<a href='/digital-beehive/num2/num_0328/'>291 [Discourse]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6ec1e03a6"
-unparsed: 
-line: 'Head: disguise|Entry: 129 [Vizard]|#item-6ec1e03a6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/172,1228,453,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541803838438
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/172,1228,453,109/150,/0/default.jpg
-label: disguise
+page:
+add:
+xref:
+see:
+index:
+item: "#item-01aac9230"
+unparsed:
+line: 'Head: discourse|Entry: 291 [Discourse]|#item-01aac9230'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,519,519,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541803659092
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,519,519,116/150,/0/default.jpg
+label: discourse
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1076'
+issue:
+insertion_xref:
+order: '1075'
 layout: index_item
 collection: index1
 ---

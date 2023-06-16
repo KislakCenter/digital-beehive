@@ -2,28 +2,29 @@
 pid: alpha_0849
 volume: Volume 2
 image_number: '51'
-head: 
-entry: Self hatred
-topic: Self hatred
+head:
+entry: Sedition
+topic: Sedition
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1108'>874 [Self hatred]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3617/'>Self hatred</a>"
-item: "#item-e1efa3c08"
-unparsed: 
-line: 'Entry: Self hatred|Topic: Self hatred|Xref: 874 [Self hatred]|Index: Self hatred|#item-e1efa3c08'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/282,2304,3058,343/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530201059858
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0518/282,2304,600,180/250,/0/default.jpg
-label: Self hatred
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0782/'>Rebellion</a>"
+see:
+index: "[NOT_IN_INDEX]"
+item: "#item-8888fc3ff"
+unparsed:
+line: 'Entry: Sedition|Topic: Sedition|Xref: Rebellion|Index: [NOT_IN_INDEX]|#item-8888fc3ff'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/288,774,694,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530214040663
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/288,774,600,180/250,/0/default.jpg
+label: Sedition
 location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '201'
+issue: It is unclear whether "Sedition" should be annotated as its own entry.|The
+  meaning of "vid. Rebellion" is unclear.
+also_in_entry:
+order: '197'
 layout: alpha_item
 collection: alpha4
 ---

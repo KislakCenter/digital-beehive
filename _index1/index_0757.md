@@ -2,27 +2,27 @@
 pid: index_0757
 volume: Volume 3
 image_number: '14'
-head: pair of compasses
-entry: 
-topic: 
+head: "[:42.]"
+entry:
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_089/'>p.39 [Image 1.99]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f43e79ef2"
-unparsed: 
-line: 'Head: pair of compasses|Page: p.39 [Image 1.99]|#item-f43e79ef2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/431,358,699,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215102295
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/431,358,699,137/150,/0/default.jpg
-label: pair of compasses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2fc1a8ebe"
+unparsed: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
+line: 'Type: Index|Insertion Xref: [:42.]|#item-2fc1a8ebe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/2304,2308,228,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565637792171
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/2304,2308,228,114/150,/0/default.jpg
+label: "[:42.]"
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4721/'>copper-Cuts</a>"
 order: '0756'
 layout: index_item
 collection: index1

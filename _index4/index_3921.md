@@ -2,28 +2,28 @@
 pid: index_3921
 volume: Volume 3
 image_number: '45'
-head: stoutness
-entry: "<a href='/digital-beehive/toc/toc2_257/'>1319 [Stoutness]</a>"
-topic: 
+head: to strangle
+entry: "<a href='/digital-beehive/num4/num_1122/'>881 [Hanging]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6641f453b"
-unparsed: 
-line: 'Head: stoutness|Entry: 1319 [Stoutness]|#item-6641f453b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,870,417,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530449632330
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/898,870,417,117/150,/0/default.jpg
-label: stoutness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-23a5058cd"
+unparsed:
+line: 'Head: to strangle|Entry: 881 [Hanging]|#item-23a5058cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,1612,487,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530461686613
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/895,1612,487,132/150,/0/default.jpg
+label: to strangle
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1170'
+issue:
+insertion_xref:
+order: '1169'
 layout: index_item
 collection: index4
 ---

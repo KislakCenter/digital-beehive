@@ -2,28 +2,28 @@
 pid: index_4644
 volume: Volume 3
 image_number: '53'
-head: 'yes'
-entry: "<a href='/digital-beehive/num2/num_0620/'>495 [Yes]</a>"
-topic: 
-first_letter: Y
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-13bc8cea9"
-unparsed: 
-line: 'Head: yes|Entry: 495 [Yes]|#item-13bc8cea9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1552,2211,373,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799101533
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1552,2211,373,126/150,/0/default.jpg
-label: 'yes'
+head: Zenexton
+entry: "<a href='/digital-beehive/num9/num_3071/'>2132 [Zenexton]</a>"
+topic:
+first_letter: Z
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bff03fe8f"
+unparsed:
+line: 'Head: Zenexton|Entry: 2132 [Zenexton]|#item-bff03fe8f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,3123,564,97/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560869683454
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/1588,3123,564,97/150,/0/default.jpg
+label: Zenexton
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '606'
+issue:
+insertion_xref:
+order: '607'
 layout: index_item
 collection: index5
 ---

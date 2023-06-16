@@ -2,28 +2,30 @@
 pid: alpha_0706
 volume: Volume 2
 image_number: '40'
-head: 
-entry: Pie
-topic: Pie
+head:
+entry: Perswasion
+topic: Perswasion
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index4/index_2998/'>pie</a>"
-item: "#item-ff2055b13"
-unparsed: 
-line: 'Entry: Pie|Topic: Pie|Index: pie|#item-ff2055b13'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/830,3324,2936,346/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565023209493
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0507/830,3324,600,180/250,/0/default.jpg
-label: Pie
+page:
+add:
+xref: "<a href='/digital-beehive/num2/num_0430/'>362 [Conviction]</a>|<a href='/digital-beehive/num8/num_2895/'>1969
+  [Perswasion]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2954/'>perswasion</a>"
+item: "#item-321a39c13"
+unparsed:
+line: 'Entry: Perswasion|Topic: Perswasion|Xref: 362 [Conviction]|Xref: 1969 [Perswasion]|Index:
+  perswasion|#item-321a39c13'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/821,1302,3027,484/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528330308415
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0507/821,1302,600,180/250,/0/default.jpg
+label: Perswasion
 location: "<a href='/digital-beehive/toc/toc2_030/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '059'
+issue:
+also_in_entry:
+order: '054'
 layout: alpha_item
 collection: alpha4
 ---

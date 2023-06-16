@@ -2,28 +2,29 @@
 pid: index_1054
 volume: Volume 3
 image_number: '16'
-head: dimm sighted
-entry: "<a href='/digital-beehive/toc/toc2_385/'>2200 [Blindness]</a>"
-topic: 
+head: despise
+entry: "<a href='/digital-beehive/num2/num_0585/'>470 [Disregard]</a>|<a href='/digital-beehive/num10/num_3469/'>4482
+  [Disregard]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-47e42fded"
-unparsed: 
-line: 'Head: dimm sighted|Entry: 2200 [Blindness]|#item-47e42fded'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2098,619,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783915816
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1779,2098,619,102/150,/0/default.jpg
-label: dimm sighted
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b73ff57b0"
+unparsed:
+line: 'Head: despise|Entry: 470 [Disregard]|Entry: 4482 [Disregard]|#item-b73ff57b0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1071,3012,665,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605223385
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1071,3012,665,136/150,/0/default.jpg
+label: despise
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1053'
+issue:
+insertion_xref:
+order: '1052'
 layout: index_item
 collection: index1
 ---

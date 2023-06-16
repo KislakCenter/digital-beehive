@@ -2,28 +2,28 @@
 pid: index_0393
 volume: Volume 3
 image_number: '10'
-head: blood
-entry: "<a href='/digital-beehive/alpha1/alpha_0087/'>a</a>|<a href='/digital-beehive/num4/num_1274'>956
-  [Blood]</a>"
-topic: 
+head: blackness
+entry: "<a href='/digital-beehive/alpha1/alpha_0083/'>a</a>|<a href='/digital-beehive/num7/num_2337/'>1563
+  [Blackness]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4946229ad"
-unparsed: 
-line: 'Head: blood|Entry: a|Entry: 956 [Blood]|#item-4946229ad'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2795,441,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531151615203
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1082,2795,441,104/150,/0/default.jpg
-label: blood
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b6db11087"
+unparsed:
+line: 'Head: blackness|Entry: a|Entry: 1563 [Blackness]|#item-b6db11087'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,1475,609,193/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565634870919
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/1083,1475,609,193/150,/0/default.jpg
+label: blackness
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0392'
 layout: index_item
 collection: index1

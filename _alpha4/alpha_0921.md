@@ -1,32 +1,30 @@
 ---
 pid: alpha_0921
 volume: Volume 2
-image_number: '56'
-head: 
-entry: Student
-topic: Student
+image_number: '55'
+head:
+entry: Strange buseness
+topic: Strange buseness
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0527/'>Learning</a>|<a href='/digital-beehive/alpha4/alpha_0696/'>Pedantery</a>|<a
-  href='/digital-beehive/num1/num_0109/'>105 [a Pretender to learning]</a>|<a href='/digital-beehive/toc/toc2_262/'>1341
-  [Student]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3947/'>Student</a>"
-item: "#item-940dd7ef9"
-unparsed: 
-line: 'Entry: Student|Topic: Student|Xref: Learning|Xref: Pedantery|Xref: 105 [a Pretender
-  to learning]|Xref: 1341 [Student]|Index: Student|#item-940dd7ef9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,3081,630/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532550795801
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/688,1368,600,180/250,/0/default.jpg
-label: Student
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '273'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0204/'>Curiosity</a>|858 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_3913/'>strange business</a>"
+item: "#item-bf2362a54"
+unparsed:
+line: 'Entry: Strange buseness|Topic: Strange buseness|Xref: Curiosity|Xref: 858 [PAGE_MISSING]|Index:
+  strange business|#item-bf2362a54'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/293,4294,3059,517/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461033221
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/293,4294,600,180/250,/0/default.jpg
+label: Strange buseness
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '269'
 layout: alpha_item
 collection: alpha4
 ---

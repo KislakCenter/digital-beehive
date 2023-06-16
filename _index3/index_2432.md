@@ -2,27 +2,27 @@
 pid: index_2432
 volume: Volume 3
 image_number: '30'
-head: mars
-entry: "<a href='/digital-beehive/toc/toc2_277/'>1416 [Evils of War]</a>"
-topic: 
+head: mask
+entry: "<a href='/digital-beehive/num1/num_0134/'>129 [Vizard]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-89378d60f"
-unparsed: 
-line: 'Head: mars|Entry: 1416 [Evils of War]|#item-89378d60f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,716,434,89/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263285514
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/410,716,434,89/150,/0/default.jpg
-label: mars
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4e05dfe54"
+unparsed:
+line: 'Head: mask|Entry: 129 [Vizard]|#item-4e05dfe54'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1429,352,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263839380
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/404,1429,352,130/150,/0/default.jpg
+label: mask
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '514'
 layout: index_item
 collection: index3

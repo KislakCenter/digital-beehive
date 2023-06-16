@@ -1,31 +1,29 @@
 ---
 pid: alpha_0975
 volume: Volume 2
-image_number: '60'
-head: 
-entry: Transitory
-topic: Transitory
+image_number: '59'
+head:
+entry: Toothach
+topic: Toothach
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0987/'>Vanity</a>|<a href='/digital-beehive/num4/num_1221'>922
-  [Transitory]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4216/'>transitory</a>"
-item: "#item-925341921"
-unparsed: 
-line: 'Entry: Transitory|Topic: Transitory|Xref: Vanity|Xref: 922 [Transitory]|Index:
-  transitory|#item-925341921'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/792,1250,2977,528/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565115032900
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0527/792,1250,600,180/250,/0/default.jpg
-label: Transitory
-location: "<a href='/digital-beehive/toc/toc2_050/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '041'
+page: "<a href='/digital-beehive/toc/toc2_189/'>p.377 [Image 2.199]</a>"
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index5/index_4173/'>toothach</a>"
+item: "#item-e7678121e"
+unparsed:
+line: 'Entry: Toothach|Topic: Toothach|Page: p.377 [Image 2.199]|Index: toothach|#item-e7678121e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/371,4516,2924,347/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114616162
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/371,4516,600,180/250,/0/default.jpg
+label: Toothach
+location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '035'
 layout: alpha_item
 collection: alpha5
 ---

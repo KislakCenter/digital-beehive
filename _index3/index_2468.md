@@ -2,28 +2,28 @@
 pid: index_2468
 volume: Volume 3
 image_number: '30'
-head: meditation
-entry: "<a href='/digital-beehive/alpha3/alpha_0582/'>a</a>|<a href='/digital-beehive/num4/num_1089'>868
-  [Meditation]</a>|4602 [PAGE_MISSING]"
-topic: 
+head: martyr
+entry: "<a href='/digital-beehive/alpha3/alpha_0576/'>a</a>|<a href='/digital-beehive/num2/num_0470/'>387
+  [Martyrs]</a>|<a href='/digital-beehive/num5/num_1587/'>1165 [Martyrs]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a553073b1"
-unparsed: 
-line: 'Head: meditation|Entry: a|Entry: 868 [Meditation]|Entry: 4602 [PAGE_MISSING]|#item-a553073b1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267714014
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1098,482,784,107/150,/0/default.jpg
-label: meditation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0d467c6d5"
+unparsed:
+line: 'Head: martyr|Entry: a|Entry: 387 [Martyrs]|Entry: 1165 [Martyrs]|#item-0d467c6d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/403,1005,624,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263468126
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/403,1005,624,98/150,/0/default.jpg
+label: martyr
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '550'
 layout: index_item
 collection: index3

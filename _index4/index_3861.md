@@ -2,28 +2,28 @@
 pid: index_3861
 volume: Volume 3
 image_number: '44'
-head: "[:9.]"
-entry: 
-topic: 
+head: sound
+entry: "<a href='/digital-beehive/num7/num_2497/'>1640 [Sound]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c1cd4649a"
-unparsed: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
-line: 'Type: Index|Insertion Xref: [:9.]|#item-c1cd4649a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2323,1585,203,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560278186358
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/2323,1585,203,162/150,/0/default.jpg
-label: "[:9.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a34763d20"
+unparsed:
+line: 'Head: sound|Entry: 1640 [Sound]|#item-a34763d20'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/536,2814,433,98/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529787337261
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/536,2814,433,98/150,/0/default.jpg
+label: sound
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4672/'>Spouse, espousing</a>"
-order: '1110'
+issue:
+insertion_xref:
+order: '1109'
 layout: index_item
 collection: index4
 ---

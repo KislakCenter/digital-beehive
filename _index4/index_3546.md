@@ -2,30 +2,28 @@
 pid: index_3546
 volume: Volume 3
 image_number: '41'
-head: schole
-entry: "<a href='/digital-beehive/alpha4/alpha_0834/'>a</a>|839 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_409/'>2354 [Schoole]</a>"
-topic: 
+head: "[:56.]"
+entry:
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a59e4a28d"
-unparsed: 
-line: 'Head: schole|Page: p.5 [Image 1.65]|Entry: a|Entry: 839 [PAGE_MISSING]|Entry:
-  2354 [Schoole]|#item-a59e4a28d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240472942
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/877,1025,729,134/150,/0/default.jpg
-label: schole
+page:
+add:
+xref:
+see:
+index:
+item: "#item-201d9fb20"
+unparsed: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
+line: 'Type: Index|Insertion Xref: [:56.]|#item-201d9fb20'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/694,1652,226,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277936699
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/694,1652,226,144/150,/0/default.jpg
+label: "[:56.]"
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0795'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4662/'>Sappho</a>|<a href='/digital-beehive/index5/index_4692/'>Sap</a>"
+order: '0794'
 layout: index_item
 collection: index4
 ---

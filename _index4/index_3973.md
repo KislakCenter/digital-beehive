@@ -2,32 +2,29 @@
 pid: index_3973
 volume: Volume 3
 image_number: '45'
-head: sufferings of Qrs
-entry: "<a href='/digital-beehive/num3/num_0647'>515 [horrid Cruelties, practised
-  by Papists upon Protestants]</a>|<a href='/digital-beehive/num3/num_0648'>515 [Cruelty
-  used against Quakers]</a>|<a href='/digital-beehive/toc/toc2_248/'>1273 [Sufferings
-  of the Qu]</a>|<a href='/digital-beehive/toc/toc2_397/'>2269 [Suffering of the Qus]</a>"
-topic: 
+head: Student
+entry: "<a href='/digital-beehive/alpha4/alpha_0926/'>a</a>|<a href='/digital-beehive/num6/num_1891/'>1341
+  [Student]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-16f1085b8"
-unparsed: 
-line: 'Head: sufferings of Qrs|Entry: 515 [horrid Cruelties practiced by Papists upon
-  Protestants]|Entry: 1273 [Sufferings of the Qu]|Entry: 2269 [Suffering of the Qus]|#item-16f1085b8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530470782745
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1599,3199,747,121/150,/0/default.jpg
-label: sufferings of Qrs
+page:
+add:
+xref:
+see:
+index:
+item: "#item-50dc08c13"
+unparsed:
+line: 'Head: Student|Entry: a|Entry: 1341 [Student]|#item-50dc08c13'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/905,3451,512,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530466888999
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/905,3451,512,127/150,/0/default.jpg
+label: Student
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1222'
+issue:
+insertion_xref:
+order: '1221'
 layout: index_item
 collection: index4
 ---

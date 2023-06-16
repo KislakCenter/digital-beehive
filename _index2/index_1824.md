@@ -2,28 +2,28 @@
 pid: index_1824
 volume: Volume 3
 image_number: '24'
-head: heterodox
-entry: "<a href='/digital-beehive/num2/num_0451/'>373 [Heterodox]</a>"
-topic: 
+head: homer
+entry: 4821 [WORD_MISSING]
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a71282ec1"
-unparsed: 
-line: 'Head: heterodox|Entry: 373 [Heterodox]|#item-a71282ec1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575808902
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/424,1320,497,123/150,/0/default.jpg
-label: heterodox
+page:
+add:
+xref:
+see:
+index:
+item: "#item-17a2f5609"
+unparsed:
+line: 'Head: homer|Entry: 4821 [WORD_MISSING]|#item-17a2f5609'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1153,1811,401,90/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582776320
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1153,1811,401,90/150,/0/default.jpg
+label: homer
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '642'
+issue:
+insertion_xref:
+order: '643'
 layout: index_item
 collection: index2
 ---

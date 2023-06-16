@@ -2,27 +2,27 @@
 pid: alpha_0154
 volume: Volume 1
 image_number: '442'
-head: 
-entry: Comet
-topic: Comet
+head:
+entry: Cloke
+topic: Cloke
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_332/'>1690 [Comet]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0731/'>comet</a>"
-item: "#item-dbe0e399d"
-unparsed: 
-line: 'Entry: Comet|Topic: Comet|Xref: 1690 [Comet]|Index: comet|#item-dbe0e399d'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/878,3811,2979,343/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499700116810
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/878,3811,600,180/250,/0/default.jpg
-label: Comet
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index1/index_0687/'>cloke</a>"
+item: "#item-b30905b40"
+unparsed:
+line: 'Entry: Cloke|Topic: Cloke|Index: cloke|#item-b30905b40'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/849,3031,2985,275/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563822174237
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/849,3031,600,180/250,/0/default.jpg
+label: Cloke
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '153'
 layout: alpha_item
 collection: alpha1

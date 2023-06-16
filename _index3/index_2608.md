@@ -2,28 +2,27 @@
 pid: index_2608
 volume: Volume 3
 image_number: '31'
-head: Mugletonians
-entry: "<a href='/digital-beehive/num1/num_0039/'>39 [Muggletonians]</a>|<a href='/digital-beehive/toc/toc2_204/'>1054
-  [Muggletonians]</a>"
-topic: 
+head: mutual
+entry: 729 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8d6330e61"
-unparsed: 
-line: 'Head: Mugletonians|Entry: 39 [Muggletonians]|Entry: 1054 [Muggletonians]|#item-8d6330e61'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1571,1052,666,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560360973615
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1571,1052,666,127/150,/0/default.jpg
-label: Mugletonians
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dfdd770e2"
+unparsed:
+line: 'Head: mutual|Entry: 729 [PAGE_MISSING]|#item-dfdd770e2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1544,2612,443,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362422791
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1544,2612,443,140/150,/0/default.jpg
+label: mutual
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '690'
 layout: index_item
 collection: index3

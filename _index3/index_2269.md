@@ -2,27 +2,27 @@
 pid: index_2269
 volume: Volume 3
 image_number: '28'
-head: levity
-entry: 
-topic: 
+head: Levites
+entry: "<a href='/digital-beehive/num8/num_2802/'>1909 [Levites]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4420/'>unstable</a>"
-index: 
-item: "#item-244d49d3e"
-unparsed: 
-line: 'Head: levity|See: unstable|#item-244d49d3e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,1233,629,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559845542601
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1139,1233,629,140/150,/0/default.jpg
-label: levity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d4dd6e044"
+unparsed:
+line: 'Head: Levites|Entry: 1909 [Levites]|#item-d4dd6e044'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,1171,476,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845522027
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1140,1171,476,128/150,/0/default.jpg
+label: Levites
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '351'
 layout: index_item
 collection: index3

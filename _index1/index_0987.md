@@ -2,28 +2,28 @@
 pid: index_0987
 volume: Volume 3
 image_number: '16'
-head: defect
-entry: 
-topic: 
+head: demand
+entry: "<a href='/digital-beehive/num5/num_1679/'>1225 [To Demand]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4468/'>want</a>"
-index: 
-item: "#item-ab2dc2d2b"
-unparsed: 
-line: 'Head: defect|See: want|#item-ab2dc2d2b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/333,1637,895,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570965915
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/333,1637,895,156/150,/0/default.jpg
-label: defect
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9b40434f5"
+unparsed:
+line: 'Head: demand|Entry: 1225 [To Demand]|#item-9b40434f5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1073,221,579,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604527441
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1073,221,579,135/150,/0/default.jpg
+label: demand
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: The meaning of "it. too little" and "it. natural" cannot be determined.
-insertion_xref: 
-order: '0986'
+issue:
+insertion_xref:
+order: '0985'
 layout: index_item
 collection: index1
 ---

@@ -1,31 +1,31 @@
 ---
 pid: alpha_0918
 volume: Volume 2
-image_number: '56'
-head: 
-entry: Stratagem
-topic: Stratagem
+image_number: '55'
+head:
+entry: Stone
+topic: Stone
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0191/'>Craftiness</a>|<a href='/digital-beehive/toc/toc2_329/'>1673
-  [Stratagem]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3932/'>stratagem</a>"
-item: "#item-0e3fd711f"
-unparsed: 
-line: 'Entry: Stratagem|Topic: Stratagem|Xref: Craftiness|Xref: 1673 [Stratagem]|Index:
-  stratagem|#item-0e3fd711f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,3038,547/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532550587404
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0523/730,174,600,180/250,/0/default.jpg
-label: Stratagem
-location: "<a href='/digital-beehive/toc/toc2_046/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '270'
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0775/'>596 [The Stone Gravel of the Kidneys]</a>|1284
+  [Whetstone]"
+see:
+index: "<a href='/digital-beehive/index4/index_3970/'>stones</a>"
+item: "#item-e9d5e9a7f"
+unparsed:
+line: 'Entry: Stone|Topic: Stone|Xref: 596 [The Stone Gravel of the Kidneys]|Xref:
+  1284 [Whetstone]|Index: stones|#item-e9d5e9a7f'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/274,3448,3112,391/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/full/full/0/default.jpg
+annotation_uri: http://beehive-anno.library.upenn.edu/annotation/1686083785076
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0522/274,3448,600,180/250,/0/default.jpg
+label: Stone
+location: "<a href='/digital-beehive/toc/toc2_045/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '266'
 layout: alpha_item
 collection: alpha4
 ---

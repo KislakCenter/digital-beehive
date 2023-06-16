@@ -2,27 +2,27 @@
 pid: index_2104
 volume: Volume 3
 image_number: '26'
-head: joinery
-entry: "<a href='/digital-beehive/num4/num_1229'>927 [Joinery]</a>"
-topic: 
+head: intermission
+entry: 1883 [PAGE_MISSING]
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-86e5572cf"
-unparsed: 
-line: 'Head: joinery|Entry: 927 [Joinery]|#item-86e5572cf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1846,2380,432,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559752151983
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1846,2380,432,120/150,/0/default.jpg
-label: joinery
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3c70073f9"
+unparsed:
+line: 'Head: intermission|Entry: 1883 [PAGE_MISSING]|#item-3c70073f9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,3043,526,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749179865
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1162,3043,526,127/150,/0/default.jpg
+label: intermission
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '186'
 layout: index_item
 collection: index3

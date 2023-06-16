@@ -1,29 +1,30 @@
 ---
 pid: alpha_0331
 volume: Volume 2
-image_number: '12'
-head: 
-entry: Flesh
-topic: Flesh
+image_number: '11'
+head:
+entry: Fish
+topic: Fish
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0655'>522 [Flesh]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1478/'>flesh</a>"
-item: "#item-a82bff2a3"
-unparsed: 
-line: 'Entry: Flesh|Topic: Flesh|Xref: 522 [Flesh]|Index: flesh|#item-a82bff2a3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,2963,413/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508259151074
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0479/790,464,600,180/250,/0/default.jpg
-label: Flesh
-location: "<a href='/digital-beehive/toc/toc2_002/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '062'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0280/'>Eel</a>|<a href='/digital-beehive/num7/num_2509/'>1646
+  [Fish]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1429/'>fish</a>"
+item: "#item-499282970"
+unparsed:
+line: 'Entry: Fish|Topic: Fish|Xref: Eel|Xref: 1646 [Fish]|Index: fish|#item-499282970'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/422,4004,3007,354/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833942776
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/422,4004,600,180/250,/0/default.jpg
+label: Fish
+location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '059'
 layout: alpha_item
 collection: alpha2
 ---

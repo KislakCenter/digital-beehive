@@ -2,28 +2,29 @@
 pid: index_4238
 volume: Volume 3
 image_number: '48'
-head: tricks
-entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
-topic: 
+head: transsubstantia[ti]on
+entry: "<a href='/digital-beehive/num2/num_0512/'>414 [Transsubstantiation]</a>|<a
+  href='/digital-beehive/num8/num_2907/'>1977 [Transsubstantiation]</a>"
+topic:
 first_letter: T
-page: 
-add: craftiness
-xref: 
-see: 
-index: 
-item: "#item-f3e024523"
-unparsed: 
-line: 'Head: tricks|Entry: 1228 [Craftiness]|Add: craftiness|#item-f3e024523'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562088664170
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/1806,1292,524,254/150,/0/default.jpg
-label: tricks
+page:
+add:
+xref:
+see:
+index:
+item: "#item-10fbeb52d"
+unparsed:
+line: 'Head: transsubstantia[ti]on|Entry: 414 [Transsubstantiation]|Entry: 1977 [Transsubstantiation]|#item-10fbeb52d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1085,2758,873,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561488080358
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1085,2758,873,179/150,/0/default.jpg
+label: transsubstantia[ti]on
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '200'
+issue:
+insertion_xref:
+order: '201'
 layout: index_item
 collection: index5
 ---

@@ -2,30 +2,28 @@
 pid: index_3014
 volume: Volume 3
 image_number: '35'
-head: "[:31.]"
-entry: 
-topic: 
+head: phlegm
+entry: "<a href='/digital-beehive/num10/num_3215/'>2262 [Phlegm or Flegm]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d81cc2858"
-unparsed: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
-line: 'Type: Index|Insertion Xref: [:31.]|#item-d81cc2858'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560277282189
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/2093,1724,217,196/150,/0/default.jpg
-label: "[:31.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-28ef7c39c"
+unparsed:
+line: 'Head: phlegm|Entry: 2262 [Phlegm or Flegm]|#item-28ef7c39c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/836,2873,599,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539974846955
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/836,2873,599,123/150,/0/default.jpg
+label: phlegm
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4696/'>pink. gillifl.</a>|<a
-  href='/digital-beehive/index5/index_4697/'>pindar</a>|<a href='/digital-beehive/index5/index_4698/'>pin
-  money</a>"
-order: '0263'
+issue:
+insertion_xref:
+order: '0262'
 layout: index_item
 collection: index4
 ---

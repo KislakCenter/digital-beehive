@@ -2,29 +2,28 @@
 pid: index_0997
 volume: Volume 3
 image_number: '16'
-head: delay
-entry: "<a href='/digital-beehive/alpha1/alpha_0220/'>a</a>|<a href='/digital-beehive/toc/toc2_218/'>1123
-  [delay]</a>"
-topic: 
+head: dialogue
+entry: "<a href='/digital-beehive/num9/num_2953/'>2019 [Dialogue]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e1b0e3754"
-unparsed: 
-line: 'Head: delay|Entry: a|Entry: 1123 [delay]|#item-e1b0e3754'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/330,2818,485,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565623824854
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/330,2818,485,123/150,/0/default.jpg
-label: delay
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bc9347011"
+unparsed:
+line: 'Head: dialogue|Entry: 2019 [Dialogue]|#item-bc9347011'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1754,690,626,105/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565625905597
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1754,690,626,105/150,/0/default.jpg
+label: dialogue
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0996'
+issue:
+insertion_xref:
+order: '0995'
 layout: index_item
 collection: index1
 ---

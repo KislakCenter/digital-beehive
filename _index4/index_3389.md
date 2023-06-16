@@ -2,28 +2,28 @@
 pid: index_3389
 volume: Volume 3
 image_number: '39'
-head: respect of [per]s
-entry: 
-topic: 
+head: to represent
+entry: "<a href='/digital-beehive/num3/num_0755/'>586 [To represent]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3337/'>regard</a>"
-index: 
-item: "#item-4f3534813"
-unparsed: 
-line: 'Head: respect of [per]s|See: regard|#item-4f3534813'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1491,1320,796,180/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559229760650
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1491,1320,796,180/150,/0/default.jpg
-label: respect of [per]s
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5a58f47fa"
+unparsed:
+line: 'Head: to represent|Entry: 586 [To represent]|#item-5a58f47fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/795,2762,655,171/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469536419
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/795,2762,655,171/150,/0/default.jpg
+label: to represent
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0638'
+issue:
+insertion_xref:
+order: '0637'
 layout: index_item
 collection: index4
 ---

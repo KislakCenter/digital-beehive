@@ -2,30 +2,31 @@
 pid: alpha_0966
 volume: Volume 2
 image_number: '59'
-head: 
-entry: Too slow or quick
-topic: Too slow or quick
+head:
+entry: Tongue
+topic: Tongue
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0887/'>Slowness</a>|too late|<a href='/digital-beehive/num1/num_0020/'>20
-  [Too late]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4183/'>too slow or quick</a>"
-item: "#item-5bc71e62e"
-unparsed: 
-line: 'Entry: Too slow or quick|Topic: Too slow or quick|Xref: Slowness|Xref: too
-  late|Xref: 20 [Too late]|Index: too slow or quick|#item-5bc71e62e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,3009,201/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529521675271
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0526/352,3477,600,180/250,/0/default.jpg
-label: Too slow or quick
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0905/'>Speech</a>|<a href='/digital-beehive/alpha3/alpha_0511/'>language</a>|<a
+  href='/digital-beehive/alpha1/alpha_0050/'>babling</a>|<a href='/digital-beehive/num5/num_1619/'>1186
+  [Tongue]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4194/'>tongue</a>"
+item: "#item-89b60c12d"
+unparsed:
+line: 'Entry: Tongue|Topic: Tongue|Xref: Speech|Xref: language|Xref: babling|Xref:
+  1186 [Tongue]|Index: tongue|#item-89b60c12d'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/319,1597,3033,535/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565114082772
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0526/319,1597,600,180/250,/0/default.jpg
+label: Tongue
 location: "<a href='/digital-beehive/toc/toc2_049/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '032'
+issue:
+also_in_entry:
+order: '026'
 layout: alpha_item
 collection: alpha5
 ---

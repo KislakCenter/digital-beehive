@@ -2,27 +2,27 @@
 pid: index_2118
 volume: Volume 3
 image_number: '27'
-head: irrecuperable
-entry: "<a href='/digital-beehive/num3/num_0832'>620 [Despair]</a>"
-topic: 
+head: irreasonable
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a049b842d"
-unparsed: 
-line: 'Head: irrecuperable|Entry: 620 [Despair]|#item-a049b842d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/137,399,566,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756365442
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/137,399,566,136/150,/0/default.jpg
-label: irrecuperable
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0059/'>absurd</a>"
+index:
+item: "#item-18abd2ec5"
+unparsed:
+line: 'Head: irreasonable|See: absurd|#item-18abd2ec5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,242,675,186/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559756283261
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/154,242,675,186/150,/0/default.jpg
+label: irreasonable
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '200'
 layout: index_item
 collection: index3

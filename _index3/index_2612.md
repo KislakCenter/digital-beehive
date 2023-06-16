@@ -2,27 +2,28 @@
 pid: index_2612
 volume: Volume 3
 image_number: '31'
-head: mum[m]e
-entry: "<a href='/digital-beehive/toc/toc2_262/'>1344 [Mumme]</a>"
-topic: 
+head: mystery
+entry: "<a href='/digital-beehive/alpha3/alpha_0629/'>a</a>|<a href='/digital-beehive/num5/num_1342/'>1006
+  [Mystery]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1a1874da2"
-unparsed: 
-line: 'Head: mum[m]e|Entry: 1344 [Mumme]|#item-1a1874da2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1567,1258,443,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361200763
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1567,1258,443,116/150,/0/default.jpg
-label: mum[m]e
+page:
+add:
+xref:
+see:
+index:
+item: "#item-569ede8f3"
+unparsed:
+line: 'Head: mystery|Entry: a|Entry: 1006 [Mystery]|#item-569ede8f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560362568999
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1527,2768,568,113/150,/0/default.jpg
+label: mystery
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '694'
 layout: index_item
 collection: index3

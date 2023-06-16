@@ -2,27 +2,27 @@
 pid: index_0647
 volume: Volume 3
 image_number: '12'
-head: "[:33.]"
-entry: 
-topic: 
+head: charity Schools
+entry: "<a href='/digital-beehive/num10/num_3325/'>2354 [Schools]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3600e4f41"
-unparsed: 'Type: Index|Insertion Xref: [:33.]|#item-3600e4f41'
-line: 'Type: Index|Insertion Xref: [:33.]|#item-3600e4f41'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2369,3576,169,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560275645704
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/2369,3576,169,150/150,/0/default.jpg
-label: "[:33.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-09e5b4591"
+unparsed:
+line: 'Head: charity Schools|Entry: 2354 [Schools]|#item-09e5b4591'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1131,3581,552,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443637159
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1131,3581,552,108/150,/0/default.jpg
+label: charity Schools
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4701/'>Christ's absence</a>"
+issue:
+insertion_xref:
 order: '0646'
 layout: index_item
 collection: index1

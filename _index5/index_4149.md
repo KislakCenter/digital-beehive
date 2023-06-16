@@ -2,28 +2,28 @@
 pid: index_4149
 volume: Volume 3
 image_number: '47'
-head: tile
-entry: "<a href='/digital-beehive/num2/num_0430/'>362 [a Shingle]</a>"
-topic: 
+head: thread
+entry: "<a href='/digital-beehive/num5/num_1544/'>1136 [Thread]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ea21d527b"
-unparsed: 
-line: 'Head: tile|Entry: 362 [a Shingle]|#item-ea21d527b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,1675,334,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552670440439
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1605,1675,334,104/150,/0/default.jpg
-label: tile
+page:
+add:
+xref:
+see:
+index:
+item: "#item-089e24d6e"
+unparsed:
+line: 'Head: thread|Entry: 1136 [Thread]|#item-089e24d6e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/896,3039,347,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532876694360
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/896,3039,347,85/150,/0/default.jpg
+label: thread
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '111'
+issue:
+insertion_xref:
+order: '112'
 layout: index_item
 collection: index5
 ---

@@ -2,27 +2,27 @@
 pid: index_2245
 volume: Volume 3
 image_number: '28'
-head: lections
-entry: 
-topic: 
+head: lent
+entry:
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4299/'>various</a>"
-index: 
-item: "#item-2b130b920"
-unparsed: 
-line: 'Head: lections|See: various|#item-2b130b920'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,2944,536,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842614929
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/399,2944,536,125/150,/0/default.jpg
-label: lections
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1480/'>fasting</a>"
+index:
+item: "#item-40e1d85e7"
+unparsed:
+line: 'Head: lent|See: fasting|#item-40e1d85e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1158,346,482,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559844101460
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1158,346,482,146/150,/0/default.jpg
+label: lent
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '327'
 layout: index_item
 collection: index3

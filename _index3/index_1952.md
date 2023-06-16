@@ -2,30 +2,27 @@
 pid: index_1952
 volume: Volume 3
 image_number: '25'
-head: ill gotten
-entry: "<a href='/digital-beehive/num1/num_0006/'>6 [Unjust Substance]</a>|<a href='/digital-beehive/num2/num_0374/'>326
-  [Ill gotten goods & gains]</a>|<a href='/digital-beehive/toc/toc2_337/'>1727 [Ill
-  gotten goods]</a>"
-topic: 
+head: incognito
+entry: "<a href='/digital-beehive/num2/num_0291/'>262 [Anonymous or Nameless]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-417a65b7f"
-unparsed: 
-line: 'Head: ill gotten|Entry: 6 [Unjust Substance]|Entry: 326 [Ill gotten goods &
-  gains]|Entry: 1727 [Ill gotten goods]|#item-417a65b7f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/143,3344,680,184/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559662815607
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/143,3344,680,184/150,/0/default.jpg
-label: ill gotten
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d106f1c11"
+unparsed:
+line: 'Head: incognito|Entry: 262 [Anonymous or Nameless]|#item-d106f1c11'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1574,1136,525,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559670879228
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/1574,1136,525,152/150,/0/default.jpg
+label: incognito
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '034'
 layout: index_item
 collection: index3

@@ -2,29 +2,30 @@
 pid: index_3064
 volume: Volume 3
 image_number: '36'
-head: politick
-entry: "<a href='/digital-beehive/alpha4/alpha_0715/'>a</a>|<a href='/digital-beehive/toc/toc2_186/'>1001
-  [Politick]</a>|<a href='/digital-beehive/toc/toc2_339/'>1744 [Politick]</a>"
-topic: 
+head: prayers & Lords prayer
+entry: "<a href='/digital-beehive/alpha4/alpha_0728/'>a</a>|<a href='/digital-beehive/num6/num_1992/'>1391
+  [Prayer]</a>|<a href='/digital-beehive/num8/num_2886/'>1962 [Prayer]</a>|4648 [PAGE_MISSING]"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e67bd475c"
-unparsed: 
-line: 'Head: politick|Entry: a|Entry: 1001 [Politick]|Entry: 1744 [Politick]|#item-e67bd475c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438057776
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/410,3072,752,139/150,/0/default.jpg
-label: politick
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f73a3cdbd"
+unparsed:
+line: 'Head: prayers & Lords prayer|Entry: a|Entry: 1391 [Prayer]|Entry: 1962 [Prayer]|Entry:
+  4648 [PAGE_MISSING]|#item-f73a3cdbd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1019,703,161/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440046380
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1901,1019,703,161/150,/0/default.jpg
+label: prayers & Lords prayer
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0313'
+issue:
+insertion_xref:
+order: '0312'
 layout: index_item
 collection: index4
 ---

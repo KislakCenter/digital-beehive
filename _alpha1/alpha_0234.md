@@ -2,29 +2,28 @@
 pid: alpha_0234
 volume: Volume 1
 image_number: '449'
-head: 
-entry: Difference
-topic: Difference
+head:
+entry: Dew
+topic: Dew
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0470/'>Inequality</a>|860 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index1/index_1047/'>difference</a>"
-item: "#item-90a5b16f8"
-unparsed: 
-line: 'Entry: Difference|Topic: Difference|Xref: Inequality|Xref: 860 [PAGE_MISSING]|Index:
-  difference|#item-90a5b16f8'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/422,4410,2996,382/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563999489841
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/422,4410,600,180/250,/0/default.jpg
-label: Difference
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index1/index_0974/'>dew</a>"
+item: "#item-896e03c99"
+unparsed:
+line: 'Entry: Dew|Topic: Dew|Index: dew|#item-896e03c99'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/405,3350,3022,244/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923434695
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/405,3350,600,180/250,/0/default.jpg
+label: Dew
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '232'
+issue:
+also_in_entry:
+order: '233'
 layout: alpha_item
 collection: alpha1
 ---

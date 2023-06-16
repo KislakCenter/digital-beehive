@@ -2,28 +2,28 @@
 pid: index_2861
 volume: Volume 3
 image_number: '34'
-head: palmtree
-entry: 1868 [PAGE_MISSING]
-topic: 
-first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-65aa8a001"
-unparsed: 
-line: 'Head: palmtree|Page: p.32 [Image 1.92]|Entry: 1868 [PAGE_MISSING]|#item-65aa8a001'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/411,3233,723,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538426371851
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/411,3233,723,168/150,/0/default.jpg
-label: palmtree
+head: overly
+entry: 727 [PAGE_MISSING]|<a href='/digital-beehive/num10/num_3470/'>4483 [Overly]</a>
+topic:
+first_letter: O
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d79221aa4"
+unparsed:
+line: 'Head: overly|Entry: 727 [PAGE_MISSING]|Entry: 4483 [Overly]|#item-d79221aa4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/435,992,718,171/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425136333
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/435,992,718,171/150,/0/default.jpg
+label: overly
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0110'
+issue:
+insertion_xref:
+order: '0109'
 layout: index_item
 collection: index4
 ---

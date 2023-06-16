@@ -1,31 +1,29 @@
 ---
 pid: alpha_0212
 volume: Volume 1
-image_number: '448'
-head: 
-entry: Fear of Death
-topic: Fear of Death
+image_number: '447'
+head:
+entry: Dearth
+topic: Dearth
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0852/'>Self-murther</a>|<a href='/digital-beehive/num2/num_0525/'>424
-  [Fear of death]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0970/'>fear of death</a>"
-item: "#item-802c3c09e"
-unparsed: 
-line: 'Entry: Fear of Death|Topic: Fear of Death|Xref: Self-murther|Xref: 424 [Fear
-  of death]|Index: fear of death|#item-802c3c09e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/722,742,3052,564/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563996839533
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/722,742,600,180/250,/0/default.jpg
-label: Fear of Death
-location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '210'
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0717/'>563 [Dearth]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0946/'>dearth</a>"
+item: "#item-801e3b1cc"
+unparsed:
+line: 'Entry: Dearth|Topic: Dearth|Xref: 563 [Dearth]|Index: dearth|#item-801e3b1cc'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/424,4160,2974,323/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507322171479
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/424,4160,600,180/250,/0/default.jpg
+label: Dearth
+location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '211'
 layout: alpha_item
 collection: alpha1
 ---

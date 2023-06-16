@@ -2,28 +2,28 @@
 pid: index_1758
 volume: Volume 3
 image_number: '23'
-head: harness
-entry: 783 [PAGE_MISSING]
-topic: 
-first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6435b3a3c"
-unparsed: 
-line: 'Head: harness|Entry: 783 [PAGE_MISSING]|#item-6435b3a3c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/852,1968,391,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240088023
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/852,1968,391,114/150,/0/default.jpg
-label: harness
+head: guard
+entry:
+topic:
+first_letter: G
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0867/'>custody</a>"
+index:
+item: "#item-431a74825"
+unparsed:
+line: 'Head: guard|See: custody|#item-431a74825'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559232111206
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/149,1945,521,136/150,/0/default.jpg
+label: guard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '576'
+issue:
+insertion_xref:
+order: '577'
 layout: index_item
 collection: index2
 ---

@@ -2,27 +2,27 @@
 pid: index_0091
 volume: Volume 3
 image_number: '7'
-head: alderman
-entry: 
-topic: 
+head: although
+entry: "<a href='/digital-beehive/num2/num_0304/'>270 [Although]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_3532/'>Scabine</a>"
-index: 
-item: "#item-7213de8a0"
-unparsed: 
-line: 'Head: alderman|See: Scabine|#item-7213de8a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768324793
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/1567,891,648,150/150,/0/default.jpg
-label: alderman
+page:
+add:
+xref:
+see:
+index:
+item: "#item-26ec413fc"
+unparsed:
+line: 'Head: although|Entry: 270 [Although]|#item-26ec413fc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1583,2590,476,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564770797609
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1583,2590,476,167/150,/0/default.jpg
+label: although
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0090'
 layout: index_item
 collection: index1

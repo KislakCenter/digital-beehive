@@ -2,28 +2,29 @@
 pid: index_1799
 volume: Volume 3
 image_number: '23'
-head: hemlock
-entry: "<a href='/digital-beehive/num2/num_0440/'>368 [Hemlock]</a>"
-topic: 
+head: herb
+entry: "<a href='/digital-beehive/alpha2/alpha_0417/'>a</a>|<a href='/digital-beehive/num3/num_0929/'>672
+  [Herbs]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-62e86c403"
-unparsed: 
-line: 'Head: hemlock|Entry: 368 [Hemlock]|#item-62e86c403'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1853,2513,393,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571582227
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1853,2513,393,127/150,/0/default.jpg
-label: hemlock
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-a0e29d05d"
+unparsed:
+line: 'Head: herb|Page: p.33 [Image 1.93]|Entry: a|Entry: 672 [Herbs]|#item-a0e29d05d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1506,3230,507,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559572214278
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/1506,3230,507,129/150,/0/default.jpg
+label: herb
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '617'
+issue:
+insertion_xref:
+order: '618'
 layout: index_item
 collection: index2
 ---

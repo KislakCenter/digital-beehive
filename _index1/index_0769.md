@@ -2,27 +2,27 @@
 pid: index_0769
 volume: Volume 3
 image_number: '14'
-head: concentration
-entry: "<a href='/digital-beehive/toc/toc2_325/'>1655 [Concentration]</a>"
-topic: 
+head: continual
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c67afbe1e"
-unparsed: 
-line: 'Head: concentration|Entry: 1655 [Concentration]|#item-c67afbe1e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/427,1497,639,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537215534873
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/427,1497,639,103/150,/0/default.jpg
-label: concentration
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0104/'>always</a>"
+index:
+item: "#item-b632270bd"
+unparsed:
+line: 'Head: continual|See: always|#item-b632270bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1868,368,688,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559232648
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1868,368,688,174/150,/0/default.jpg
+label: continual
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue: The meaning of "it. to last" cannot be determined.
+insertion_xref:
 order: '0768'
 layout: index_item
 collection: index1

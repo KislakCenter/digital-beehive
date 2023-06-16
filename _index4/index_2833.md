@@ -2,28 +2,29 @@
 pid: index_2833
 volume: Volume 3
 image_number: '34'
-head: other
-entry: "<a href='/digital-beehive/num2/num_0401/'>346 [Other]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e65c214d"
-unparsed: 
-line: 'Head: other|Entry: 346 [Other]|#item-4e65c214d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538424984796
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/491,480,421,141/150,/0/default.jpg
-label: other
+head: "[:1.]"
+entry:
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-37fa65ab6"
+unparsed: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+line: 'Type: Index|Insertion Xref: [:1.]|#item-37fa65ab6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276862104
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1010,1216,115,80/150,/0/default.jpg
+label: "[:1.]"
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0082'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4666/'>to oversee or overslip</a>|<a
+  href='/digital-beehive/index5/index_4669/'>overseer</a>"
+order: '0081'
 layout: index_item
 collection: index4
 ---

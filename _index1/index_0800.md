@@ -2,27 +2,27 @@
 pid: index_0800
 volume: Volume 3
 image_number: '14'
-head: connivance
-entry: 
-topic: 
+head: consent
+entry: "<a href='/digital-beehive/num3/num_0889/'>649 [Consent]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2022/'>indulgence</a>"
-index: 
-item: "#item-d9f88112e"
-unparsed: 
-line: 'Head: connivance|See: indulgence|#item-d9f88112e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1067,851,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541355141
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1158,1067,851,154/150,/0/default.jpg
-label: connivance
+page:
+add:
+xref:
+see:
+index:
+item: "#item-712f65d16"
+unparsed:
+line: 'Head: consent|Entry: 649 [Consent]|#item-712f65d16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1161,1508,452,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541492407
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1161,1508,452,116/150,/0/default.jpg
+label: consent
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0799'
 layout: index_item
 collection: index1

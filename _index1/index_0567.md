@@ -2,27 +2,27 @@
 pid: index_0567
 volume: Volume 3
 image_number: '12'
-head: Cato
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1219 [Cato]</a>"
-topic: 
+head: charnelhouse
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-00185a1f4"
-unparsed: 
-line: 'Head: Cato|Entry: 1219 [Cato]|#item-00185a1f4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/392,3267,401,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532098753013
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/392,3267,401,147/150,/0/default.jpg
-label: Cato
+page: "<a href='/digital-beehive/toc/toc1_094/'>p.44 [Image 1.104]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-2f6dfd57d"
+unparsed:
+line: 'Head: charnelhouse|Page: p.44 [Image 1.104]|#item-2f6dfd57d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443903911
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1826,569,644,138/150,/0/default.jpg
+label: charnelhouse
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0566'
 layout: index_item
 collection: index1

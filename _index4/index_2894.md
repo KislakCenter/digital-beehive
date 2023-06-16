@@ -2,28 +2,28 @@
 pid: index_2894
 volume: Volume 3
 image_number: '34'
-head: part
-entry: 772 [PAGE_MISSING]|<a href='/digital-beehive/num4/num_1325'>993 [Part]</a>
-topic: 
+head: patriarchs
+entry: "<a href='/digital-beehive/num11/num_3534/'>4839 [Patriarchs]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-75b809916"
-unparsed: 
-line: 'Head: part|Entry: 772 [PAGE_MISSING]|Entry: 993 [Part]|#item-75b809916'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494595413
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1116,2920,609,113/150,/0/default.jpg
-label: part
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dfb7ba6a6"
+unparsed:
+line: 'Head: patriarchs|Entry: 4839 [Patriarchs]|#item-dfb7ba6a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495604199
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1830,2078,599,167/150,/0/default.jpg
+label: patriarchs
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0143'
+issue:
+insertion_xref:
+order: '0142'
 layout: index_item
 collection: index4
 ---

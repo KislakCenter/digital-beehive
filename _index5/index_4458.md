@@ -2,30 +2,30 @@
 pid: index_4458
 volume: Volume 3
 image_number: '51'
-head: wages
-entry: "<a href='/digital-beehive/num3/num_0692'>549 [Hirelings]</a>|<a href='/digital-beehive/toc/toc2_427/'>4480
-  [Reward]</a>|<a href='/digital-beehive/num2/num_0533/'>431 [Reward]</a>"
-topic: 
+head: wars miseries
+entry: "<a href='/digital-beehive/alpha5/alpha_1025/'>a</a>|<a href='/digital-beehive/num6/num_2043/'>1416
+  [Evils of war]</a>|<a href='/digital-beehive/num10/num_3384/'>2411 [War's Miseries]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1842/'>hirelings</a>|<a href='/digital-beehive/index4/index_3412/'>reward</a>"
-index: 
-item: "#item-7acd42931"
-unparsed: 
-line: 'Head: wages|See: hirelings|Entry: 549 [Hirelings]|Entry: 4480 [Reward]|See:
-  reward|Entry: 431 [Reward]|#item-7acd42931'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/973,3417,822,238/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647464976
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/973,3417,822,238/150,/0/default.jpg
-label: wages
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e9af68efd"
+unparsed:
+line: 'Head: wars miseries|Entry: a|Entry: 1416 [Evils of war]|Entry: 2411 [War''s
+  Miseries]|#item-e9af68efd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1642,2310,706,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648377690
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1642,2310,706,155/150,/0/default.jpg
+label: wars miseries
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '420'
+issue:
+insertion_xref:
+order: '421'
 layout: index_item
 collection: index5
 ---

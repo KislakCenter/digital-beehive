@@ -2,28 +2,27 @@
 pid: index_2562
 volume: Volume 3
 image_number: '31'
-head: monarchy
-entry: "<a href='/digital-beehive/alpha3/alpha_0601/'>a</a>|<a href='/digital-beehive/toc/toc2_341/'>1763
-  [Monarchy]</a>"
-topic: 
+head: to miss
+entry: "<a href='/digital-beehive/num3/num_0829/'>618 [To Miss]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3010c2d49"
-unparsed: 
-line: 'Head: monarchy|Entry: a|Entry: 1763 [Monarchy]|#item-3010c2d49'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/880,215,570,150/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560353687322
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/880,215,570,150/150,/0/default.jpg
-label: monarchy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-850697179"
+unparsed:
+line: 'Head: to miss|Entry: 618 [To Miss]|#item-850697179'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351712840
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/173,1076,415,143/150,/0/default.jpg
+label: to miss
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '644'
 layout: index_item
 collection: index3

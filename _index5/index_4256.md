@@ -2,29 +2,29 @@
 pid: index_4256
 volume: Volume 3
 image_number: '49'
-head: truth
-entry: "<a href='/digital-beehive/alpha5/alpha_0982/'>a</a>|<a href='/digital-beehive/toc/toc2_244/'>1253
-  [Truth]</a>|<a href='/digital-beehive/toc/toc2_388/'>2221 [Truth]</a>"
-topic: 
-first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bbd79773e"
-unparsed: 
-line: 'Head: truth|Entry: a|Entry: 1253 [Truth]|Entry: 2221 [Truth]|#item-bbd79773e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561655182817
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/234,266,623,91/150,/0/default.jpg
-label: truth
+head: "[:5.]"
+entry:
+topic:
+first_letter: U/V
+page:
+add:
+xref:
+see:
+index:
+item: "#item-322678def"
+unparsed: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
+line: 'Type: Index|Insertion Xref: [:5.]|#item-322678def'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1470,950,167,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657738231
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1470,950,167,123/150,/0/default.jpg
+label: "[:5.]"
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '218'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4682/'>to boult, lift, fan
+  or winnow</a>"
+order: '219'
 layout: index_item
 collection: index5
 ---

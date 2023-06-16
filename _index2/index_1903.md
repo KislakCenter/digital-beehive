@@ -2,28 +2,28 @@
 pid: index_1903
 volume: Volume 3
 image_number: '24'
-head: fancy-humour
-entry: "<a href='/digital-beehive/num2/num_0338/'>299 [idle fancies]</a>"
-topic: 
+head: horse leech
+entry:
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ee0537102"
-unparsed: 
-line: 'Head: fancy-humour|Entry: 299 [idle fancies]|#item-ee0537102'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1663,2011,682,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559587880755
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1663,2011,682,148/150,/0/default.jpg
-label: fancy-humour
+page: "<a href='/digital-beehive/toc/toc1_087/'>p.37 [Image 1.97]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-8d074f5a6"
+unparsed:
+line: 'Head: horse leech|Page: p.37 [Image 1.97]|#item-8d074f5a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559584067674
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1135,3026,443,137/150,/0/default.jpg
+label: horse leech
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '721'
+issue:
+insertion_xref:
+order: '722'
 layout: index_item
 collection: index2
 ---

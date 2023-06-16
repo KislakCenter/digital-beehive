@@ -2,28 +2,28 @@
 pid: index_4666
 volume: Volume 3
 image_number: '54'
-head: mam[m]on
-entry: "<a href='/digital-beehive/toc/toc2_350/'>1829 [Mammon]</a>"
-topic: 
+head: to oversee or overslip
+entry: "<a href='/digital-beehive/num8/num_2686/'>1757 [To Oversee]</a>"
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2cf64048a"
-unparsed: Type Index|Insertion [:3.]
-line: 'Type: Index|Insertion: [:3.]|Head: mam[m]on|Entry: 1829 [Mammon]|#item-2cf64048a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560867474056
-insertion: "[:3.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/359,724,593,143/150,/0/default.jpg
-label: mam[m]on
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a058c16b9"
+unparsed: Type Index|Insertion [:1.]
+line: 'Type: Index|Insertion: [:1.]|Head: to oversee or overslip|Entry: 1757 [To Oversee]|#item-a058c16b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,346,695,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560799717132
+insertion: "[:1.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/372,346,695,156/150,/0/default.jpg
+label: to oversee or overslip
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '628'
+issue:
+insertion_xref:
+order: '629'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,29 @@
 pid: alpha_0324
 volume: Volume 2
 image_number: '11'
-head: 
-entry: Fewness
-topic: Fewness
+head:
+entry: Feasts
+topic: Feasts
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0772/'>Rarity</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1437/'>fewness</a>"
-item: "#item-5113dc0b5"
-unparsed: 
-line: 'Entry: Fewness|Topic: Fewness|Xref: Rarity|Index: fewness|#item-5113dc0b5'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,2242,2993,476/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833674901
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/394,2242,600,180/250,/0/default.jpg
-label: Fewness
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|1093 [holy days]"
+see:
+index: "<a href='/digital-beehive/index2/index_1421/'>feast, i.e. holy day</a>"
+item: "#item-e37c358a2"
+unparsed:
+line: 'Entry: Feasts|Topic: Feasts|Xref: Sunday|Xref: 1093 [holy days]|Index: feast,
+  i.e. holy day|#item-e37c358a2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/363,1159,3104,431/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833247248
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/363,1159,600,180/250,/0/default.jpg
+label: Feasts
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '055'
+issue:
+also_in_entry:
+order: '052'
 layout: alpha_item
 collection: alpha2
 ---

@@ -2,28 +2,28 @@
 pid: index_3536
 volume: Volume 3
 image_number: '41'
-head: scar
-entry: 
-topic: 
+head: of the same time
+entry: "<a href='/digital-beehive/num5/num_1672/'>1220 [Of the same time]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4626/'>wound</a>"
-index: 
-item: "#item-3fa9f6b5e"
-unparsed: 
-line: 'Head: scar|See: wound|#item-3fa9f6b5e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240083713
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/146,3252,497,166/150,/0/default.jpg
-label: scar
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3f487cdce"
+unparsed:
+line: 'Head: of the same time|Entry: 1220 [Of the same time]|#item-3f487cdce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/138,1261,509,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238896595
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/138,1261,509,139/150,/0/default.jpg
+label: of the same time
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0785'
+issue:
+insertion_xref:
+order: '0784'
 layout: index_item
 collection: index4
 ---

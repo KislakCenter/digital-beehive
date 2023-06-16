@@ -2,28 +2,28 @@
 pid: index_3321
 volume: Volume 3
 image_number: '39'
-head: to recover
-entry: "<a href='/digital-beehive/num2/num_0501/'>408 [To Recover]</a>"
-topic: 
+head: "[:38.]"
+entry:
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bc69bbfb1"
-unparsed: 
-line: 'Head: to recover|Entry: 408 [To Recover]|#item-bc69bbfb1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,371,493,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558463186836
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/152,371,493,149/150,/0/default.jpg
-label: to recover
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7816bd5f4"
+unparsed: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
+line: 'Type: Index|Insertion Xref: [:38.]|#item-7816bd5f4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/683,2527,169,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560277589841
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/683,2527,169,126/150,/0/default.jpg
+label: "[:38.]"
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0570'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4708/'>reign</a>"
+order: '0569'
 layout: index_item
 collection: index4
 ---

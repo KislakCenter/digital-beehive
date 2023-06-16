@@ -2,28 +2,29 @@
 pid: alpha_0322
 volume: Volume 2
 image_number: '11'
-head: 
-entry: Feast
-topic: Feast
+head:
+entry: Favour
+topic: Favour
 first_letter: F
-page: 
-add: 
-xref: "<a href='/digital-beehive/num1/num_0172/'>165 [Feast]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1422/'>feast, i.e. banquet</a>"
-item: "#item-00b892f8c"
-unparsed: 
-line: 'Entry: Feast|Topic: Feast|Xref: 165 [Feast]|Index: feast, i.e. banquet|#item-00b892f8c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/427,1543,3035,453/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1474833518808
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0478/427,1543,600,180/250,/0/default.jpg
-label: Feast
+page:
+add:
+xref: Disfavour|1359 [Favour]
+see:
+index: "<a href='/digital-beehive/index2/index_1406/'>favour & disfavour</a>"
+item: "#item-89fc7f3f5"
+unparsed:
+line: 'Entry: Favour|Topic: Favour|Xref: Disfavour|Xref: 1359 [Favour]|Index: favour
+  & disfavour|#item-89fc7f3f5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/413,254,3026,514/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1474833083208
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0478/413,254,600,180/250,/0/default.jpg
+label: Favour
 location: "<a href='/digital-beehive/toc/toc2_001/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '053'
+issue: The point of reference for "Disfavour" is unclear.
+also_in_entry:
+order: '050'
 layout: alpha_item
 collection: alpha2
 ---

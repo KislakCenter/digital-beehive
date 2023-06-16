@@ -2,27 +2,27 @@
 pid: index_2368
 volume: Volume 3
 image_number: '29'
-head: lusty
-entry: "<a href='/digital-beehive/num4/num_1126'>882 [Pleasure]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-05fed984b"
-unparsed: 
-line: 'Head: lusty|Entry: 882 [Pleasure]|#item-05fed984b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560185672888
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/862,1115,368,127/150,/0/default.jpg
-label: lusty
+head: one man ye others wolf
+entry: "<a href='/digital-beehive/num5/num_1691/'>1230 [homo homini lupus e]</a>"
+topic:
+first_letter: M
+page:
+add:
+xref:
+see:
+index:
+item: "#item-235058173"
+unparsed:
+line: 'Head: one man ye others wolf|Entry: 1230 [homo homini lupus e]|#item-235058173'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195306887
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1544,1732,752,148/150,/0/default.jpg
+label: one man ye others wolf
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '450'
 layout: index_item
 collection: index3

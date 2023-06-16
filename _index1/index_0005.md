@@ -2,27 +2,27 @@
 pid: index_0005
 volume: Volume 3
 image_number: '7'
-head: abdicate
-entry: "<a href='/digital-beehive/num2/num_0518/'>418 [Renouncing]</a>"
-topic: 
+head: addition
+entry: "<a href='/digital-beehive/num3/num_0841/'>624 [Addition]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bbb46c106"
-unparsed: 
-line: 'Head: abdicate|Entry: 418 [Renouncing]|#item-bbb46c106'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/168,478,469,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758363495
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/168,478,469,110/150,/0/default.jpg
-label: abdicate
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fcc96eba0"
+unparsed:
+line: 'Head: addition|Entry: 624 [Addition]|#item-fcc96eba0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/851,232,555,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564760551968
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/851,232,555,140/150,/0/default.jpg
+label: addition
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0004'
 layout: index_item
 collection: index1

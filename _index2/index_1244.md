@@ -2,27 +2,27 @@
 pid: index_1244
 volume: Volume 3
 image_number: '18'
-head: enchantmt
-entry: "<a href='/digital-beehive/num2/num_0316/'>282 [Enchantmt]</a>"
-topic: 
+head: elephant
+entry: "<a href='/digital-beehive/num8/num_2911/'>1980 [Elephant]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-797b2ed48"
-unparsed: 
-line: 'Head: enchantmt|Entry: 282 [Enchantmt]|#item-797b2ed48'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,630,569,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745710884
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1851,630,569,132/150,/0/default.jpg
-label: enchantmt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e2d550d75"
+unparsed:
+line: 'Head: elephant|Entry: 1980 [Elephant]|#item-e2d550d75'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559680123778
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1139,2376,475,92/150,/0/default.jpg
+label: elephant
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '063'
 layout: index_item
 collection: index2

@@ -2,29 +2,30 @@
 pid: alpha_0302
 volume: Volume 1
 image_number: '455'
-head: 
-entry: External conversation
-topic: External conversation
+head:
+entry: Exorcism
+topic: Exorcism
 first_letter: E
-page: 
-add: 
-xref: Conversation
-see: 
-index: "<a href='/digital-beehive/index2/index_1361/'>external conversation</a>"
-item: "#item-501034b2c"
-unparsed: 
-line: 'Entry: External conversation|Topic: External conversation|Xref: Conversation|Index:
-  external conversation|#item-501034b2c'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/416,1978,3054,285/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564587565753
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0454/416,1978,600,180/250,/0/default.jpg
-label: External conversation
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2293/'>1541 [Conjuring]</a>|<a href='/digital-beehive/num7/num_2313/'>1551
+  [Exorcism]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1304/'>exorcism</a>"
+item: "#item-a42a0b906"
+unparsed:
+line: 'Entry: Exorcism|Topic: Exorcism|Xref: 1541 [Conjuring]|Xref: 1551 [Exorcism]|Index:
+  exorcism|#item-a42a0b906'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/376,795,3104,312/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564587224376
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0454/376,795,600,180/250,/0/default.jpg
+label: Exorcism
 location: "<a href='/digital-beehive/toc/toc1_445/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '033'
+issue:
+also_in_entry:
+order: '030'
 layout: alpha_item
 collection: alpha2
 ---

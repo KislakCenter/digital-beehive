@@ -2,27 +2,27 @@
 pid: index_2516
 volume: Volume 3
 image_number: '30'
-head: Milton
-entry: 4786 [PAGE_MISSING]
-topic: 
+head: merit of Christ
+entry: "<a href='/digital-beehive/num5/num_1339/'>1004 [Christs outward Satisfaction]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b82a77c9a"
-unparsed: 
-line: 'Head: Milton|Entry: 4786 [PAGE_MISSING]|#item-b82a77c9a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274214148
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/2122,2085,371,120/150,/0/default.jpg
-label: Milton
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2f6bb7b6b"
+unparsed:
+line: 'Head: merit of Christ|Entry: 1004 [Christs outward Satisfaction]|#item-2f6bb7b6b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1107,2880,540,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560269473621
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1107,2880,540,147/150,/0/default.jpg
+label: merit of Christ
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '598'
 layout: index_item
 collection: index3

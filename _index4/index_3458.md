@@ -2,28 +2,29 @@
 pid: index_3458
 volume: Volume 3
 image_number: '40'
-head: round
-entry: "<a href='/digital-beehive/num4/num_1086'>867 [a Circle]</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9625ebc12"
-unparsed: 
-line: 'Head: round|Entry: 867 [a Circle]|#item-9625ebc12'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,2335,369,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233812014
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1152,2335,369,84/150,/0/default.jpg
-label: round
+head: Sacrifice
+entry: "<a href='/digital-beehive/alpha4/alpha_0826/'>a</a>|<a href='/digital-beehive/num5/num_1717/'>1244
+  [Sacrifices]</a>"
+topic:
+first_letter: S
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2e9949e70"
+unparsed:
+line: 'Head: Sacrifice|Entry: a|Entry: 1244 [Sacrifices]|#item-2e9949e70'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1797,1510,598,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234756783
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1797,1510,598,136/150,/0/default.jpg
+label: Sacrifice
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0707'
+issue:
+insertion_xref:
+order: '0706'
 layout: index_item
 collection: index4
 ---

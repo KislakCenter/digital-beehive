@@ -2,30 +2,30 @@
 pid: alpha_0432
 volume: Volume 2
 image_number: '19'
-head: 
-entry: Hospital
-topic: Hospital
+head:
+entry: Hope
+topic: Hope
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_361/'>1969 [Hospital]</a>|<a href='/digital-beehive/toc/toc2_276/'>1415
-  [Hospita]</a>|<a href='/digital-beehive/alpha4/alpha_0668/'>Oprhan house</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1878/'>hospital</a>"
-item: "#item-8c5bbd263"
-unparsed: 
-line: 'Entry: Hospital|Topic: Hospital|Xref: 1969 [Hospital]|Xref: 1415 [Hospita]|Xref:
-  Oprhan house|Index: hospital|#item-8c5bbd263'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,3013,333/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733052074
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0486/356,4046,600,180/250,/0/default.jpg
-label: Hospital
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0008/'>8 [Desperation]</a>|<a href='/digital-beehive/alpha1/alpha_0159/'>false
+  Comfort</a>|<a href='/digital-beehive/num5/num_1526/'>1126 [Hope]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1885/'>hope</a>"
+item: "#item-1aa4646fe"
+unparsed:
+line: 'Entry: Hope|Topic: Hope|Xref: 8 [Desperation]|Xref: false Comfort|Xref: 1126
+  [Hope]|Index: hope|#item-1aa4646fe'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/265,2503,3144,832/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1509732359473
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/265,2503,600,180/250,/0/default.jpg
+label: Hope
 location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '163'
+issue:
+also_in_entry:
+order: '160'
 layout: alpha_item
 collection: alpha2
 ---

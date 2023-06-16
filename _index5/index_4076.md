@@ -2,28 +2,28 @@
 pid: index_4076
 volume: Volume 3
 image_number: '47'
-head: tedious
-entry: "<a href='/digital-beehive/num3/num_0914'>662 [Irksomness]</a>"
-topic: 
+head: to throw
+entry: "<a href='/digital-beehive/num4/num_1163/'>897 [To cast down]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-555c5c539"
-unparsed: 
-line: 'Head: tedious|Entry: 662 [Irksomness]|#item-555c5c539'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/169,1023,384,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531787915595
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/169,1023,384,107/150,/0/default.jpg
-label: tedious
+page:
+add:
+xref:
+see:
+index:
+item: "#item-af06186f0"
+unparsed:
+line: 'Head: to throw|Entry: 897 [To cast down]|#item-af06186f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,449,452,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1552666470952
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1615,449,452,93/150,/0/default.jpg
+label: to throw
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '038'
+issue:
+insertion_xref:
+order: '039'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,28 @@
 pid: alpha_0225
 volume: Volume 1
 image_number: '449'
-head: 
-entry: Deposition
-topic: Deposition
+head:
+entry: Deluge
+topic: Deluge
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_348/'>1816 [Degradation]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1012/'>deposition</a>"
-item: "#item-8a9cd5a04"
-unparsed: 
-line: 'Entry: Deposition|Topic: Deposition|Xref: 1816 [Degradation]|Index: deposition|#item-8a9cd5a04'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/395,1319,3024,264/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922496218
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0448/395,1319,600,180/250,/0/default.jpg
-label: Deposition
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_2000/'>1395 [Deluge]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1066/'>deluge</a>"
+item: "#item-a503485d3"
+unparsed:
+line: 'Entry: Deluge|Topic: Deluge|Xref: 1395 [Deluge]|Index: deluge|#item-a503485d3'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/326,197,3099,461/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507755112712
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0448/326,197,600,180/250,/0/default.jpg
+label: Deluge
 location: "<a href='/digital-beehive/toc/toc1_439/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '223'
+issue:
+also_in_entry:
+order: '224'
 layout: alpha_item
 collection: alpha1
 ---

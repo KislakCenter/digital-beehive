@@ -23,7 +23,7 @@ label: offerings
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '0005'
+order: '0004'
 layout: index_item
 collection: index4
 ---

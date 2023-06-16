@@ -2,28 +2,28 @@
 pid: index_3226
 volume: Volume 3
 image_number: '38'
-head: punctilio
-entry: "<a href='/digital-beehive/num3/num_0689'>546 [Punctilio]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-07c616c6f"
-unparsed: 
-line: 'Head: punctilio|Entry: 546 [WORD_MISSING]|#item-07c616c6f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/423,1033,509,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452046104
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/423,1033,509,139/150,/0/default.jpg
-label: punctilio
+head: rather
+entry: "<a href='/digital-beehive/num3/num_0852/'>629 [Rather]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d710246aa"
+unparsed:
+line: 'Head: rather|Entry: 629 [Rather]|#item-d710246aa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1863,1165,375,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558460808447
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1863,1165,375,128/150,/0/default.jpg
+label: rather
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0475'
+issue:
+insertion_xref:
+order: '0474'
 layout: index_item
 collection: index4
 ---

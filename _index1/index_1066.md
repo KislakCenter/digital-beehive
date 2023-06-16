@@ -2,28 +2,29 @@
 pid: index_1066
 volume: Volume 3
 image_number: '16'
-head: discipline
-entry: "<a href='/digital-beehive/alpha1/alpha_0238/'>a</a>"
-topic: 
+head: deluge
+entry: "<a href='/digital-beehive/alpha1/alpha_0225/'>a</a>|<a href='/digital-beehive/num6/num_2000/'>1395
+  [Deluge]</a>"
+topic:
 first_letter: D
-page: 
-add: "<a href='/digital-beehive/index2/index_1200/'>Eccles</a>|<a href='/digital-beehive/index3/index_2434/'>martial</a>"
-xref: 
-see: 
-index: 
-item: "#item-b6407c228"
-unparsed: 
-line: 'Head: discipline|Entry: a|Add: Eccles|Add: martial|#item-b6407c228'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508174648413
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1783,3156,707,244/150,/0/default.jpg
-label: discipline
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f30b51fb4"
+unparsed:
+line: 'Head: deluge|Entry: a|Entry: 1395 [Deluge]|#item-f30b51fb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/372,3537,525,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507755083722
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/372,3537,525,174/150,/0/default.jpg
+label: deluge
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: The meaning of "it. education" cannot be determined.
-insertion_xref: 
-order: '1065'
+issue:
+insertion_xref:
+order: '1064'
 layout: index_item
 collection: index1
 ---

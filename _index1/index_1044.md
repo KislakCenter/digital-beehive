@@ -2,29 +2,28 @@
 pid: index_1044
 volume: Volume 3
 image_number: '16'
-head: to die
-entry: "<a href='/digital-beehive/toc/toc2_245/'>1257 [To Die]</a>|<a href='/digital-beehive/toc/toc2_383/'>2176
-  [To Die]</a>"
-topic: 
+head: to desist
+entry: "<a href='/digital-beehive/num5/num_1658/'>1212 [To Leave off]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c60864bca"
-unparsed: 
-line: 'Head: to die|Entry: 1257 [To Die]|Entry: 2176 [To Die]|#item-c60864bca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,1092,589,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783591122
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1799,1092,589,110/150,/0/default.jpg
-label: to die
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d0cb295c3"
+unparsed:
+line: 'Head: to desist|Entry: 1212 [To Leave off]|#item-d0cb295c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1135,2625,435,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605080608
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1135,2625,435,125/150,/0/default.jpg
+label: to desist
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1043'
+issue:
+insertion_xref:
+order: '1042'
 layout: index_item
 collection: index1
 ---

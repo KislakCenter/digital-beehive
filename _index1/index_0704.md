@@ -2,27 +2,27 @@
 pid: index_0704
 volume: Volume 3
 image_number: '13'
-head: clown
-entry: "<a href='/digital-beehive/num3/num_0925'>668 [Peasant]</a>"
-topic: 
+head: cloves
+entry: 4528 [PAGE_MISSING]
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-8e026a72c"
-unparsed: 
-line: 'Head: clown|Entry: 668 [Peasant]|#item-8e026a72c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,2027,416,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536607703968
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/861,2027,416,96/150,/0/default.jpg
-label: clown
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eb188a08b"
+unparsed:
+line: 'Head: cloves|Entry: 4528 [PAGE_MISSING]|#item-eb188a08b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/859,1964,427,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536607633149
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/859,1964,427,103/150,/0/default.jpg
+label: cloves
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0703'
 layout: index_item
 collection: index1

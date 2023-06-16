@@ -2,29 +2,28 @@
 pid: index_3230
 volume: Volume 3
 image_number: '38'
-head: purgatory
-entry: "<a href='/digital-beehive/alpha4/alpha_0760/'>a</a>|<a href='/digital-beehive/toc/toc2_301/'>1534
-  [Purgatory]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cb38b29ed"
-unparsed: 
-line: 'Head: purgatory|Entry: a|Entry: 1534 [Purgatory]|#item-cb38b29ed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/427,1392,583,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452156068
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/427,1392,583,137/150,/0/default.jpg
-label: purgatory
+head: ragg
+entry: "<a href='/digital-beehive/num1/num_0128/'>123 [Raggs]</a>"
+topic:
+first_letter: R
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fff176480"
+unparsed:
+line: 'Head: ragg|Entry: 123 [Raggs]|#item-fff176480'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3133,363,160/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558459627234
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1172,3133,363,160/150,/0/default.jpg
+label: ragg
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0479'
+issue:
+insertion_xref:
+order: '0478'
 layout: index_item
 collection: index4
 ---

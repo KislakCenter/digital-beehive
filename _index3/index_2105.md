@@ -2,27 +2,28 @@
 pid: index_2105
 volume: Volume 3
 image_number: '26'
-head: joints
-entry: "<a href='/digital-beehive/toc/toc2_324/'>1647 [Joints]</a>"
-topic: 
+head: interpretation
+entry: "<a href='/digital-beehive/alpha3/alpha_0488/'>a</a>|<a href='/digital-beehive/num4/num_1223/'>923
+  [Interpretation]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-778ac76ec"
-unparsed: 
-line: 'Head: joints|Entry: 1647 [Joints]|#item-778ac76ec'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1850,2484,428,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559754173285
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1850,2484,428,110/150,/0/default.jpg
-label: joints
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7be42eb90"
+unparsed:
+line: 'Head: interpretation|Entry: a|Entry: 923 [Interpretation]|#item-7be42eb90'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,3102,618,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559749247048
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1155,3102,618,146/150,/0/default.jpg
+label: interpretation
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '187'
 layout: index_item
 collection: index3

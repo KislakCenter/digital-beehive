@@ -2,28 +2,28 @@
 pid: index_3955
 volume: Volume 3
 image_number: '45'
-head: subornation
-entry: 797 [PAGE_MISSING]
-topic: 
+head: stockfish
+entry: "<a href='/digital-beehive/alpha4/alpha_0916/'>a</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-35bed98ea"
-unparsed: 
-line: 'Head: subornation|Entry: 797 [PAGE_MISSING]|#item-35bed98ea'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1013,516,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530467554706
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1597,1013,516,108/150,/0/default.jpg
-label: subornation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9ed249c72"
+unparsed:
+line: 'Head: stockfish|Entry: a|#item-9ed249c72'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/185,2770,463,128/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448294626
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/185,2770,463,128/150,/0/default.jpg
+label: stockfish
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1204'
+issue:
+insertion_xref:
+order: '1203'
 layout: index_item
 collection: index4
 ---

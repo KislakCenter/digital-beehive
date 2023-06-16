@@ -2,28 +2,29 @@
 pid: alpha_0243
 volume: Volume 1
 image_number: '450'
-head: 
-entry: Disobedience
-topic: Disobedience
+head:
+entry: Discord
+topic: Discord
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_351/'>1898 [Disobedience]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_1085/'>disobedience</a>"
-item: "#item-ab66bd9fd"
-unparsed: 
-line: 'Entry: Disobedience|Topic: Disobedience|Xref: 1898 [Disobedience]|Index: disobedience|#item-ab66bd9fd'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,2958,716/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508175511649
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0449/790,2918,600,180/250,/0/default.jpg
-label: Disobedience
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1004/'>Unanimity</a>|840 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index1/index_1068/'>discord</a>"
+item: "#item-40ce07a4f"
+unparsed:
+line: 'Entry: Discord|Topic: Discord|Xref: Unanimity|Xref: 840 [PAGE_MISSING]|Index:
+  discord|#item-40ce07a4f'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/711,1957,3093,725/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1486053269083
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0449/711,1957,600,180/250,/0/default.jpg
+label: Discord
 location: "<a href='/digital-beehive/toc/toc1_440/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '241'
+issue:
+also_in_entry:
+order: '242'
 layout: alpha_item
 collection: alpha1
 ---

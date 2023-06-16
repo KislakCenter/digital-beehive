@@ -2,28 +2,29 @@
 pid: alpha_0743
 volume: Volume 2
 image_number: '43'
-head: 
-entry: Prohibition
-topic: Prohibition
+head:
+entry: Process in Law
+topic: Process in Law
 first_letter: P
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0339/'>forbidden things</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3183/'>prohibition</a>"
-item: "#item-2d7698387"
-unparsed: 
-line: 'Entry: Prohibition|Topic: Prohibition|Xref: forbidden things|Index: prohibition|#item-2d7698387'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,3445,3051,463/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1574179571279
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0510/321,3445,600,180/250,/0/default.jpg
-label: Prohibition
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0015/'>agreement</a>|790 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index4/index_3162/'>process in law</a>"
+item: "#item-69f3575b3"
+unparsed:
+line: 'Entry: Process in Law|Topic: Process in Law|Xref: agreement|Xref: 790 [PAGE_MISSING]|Index:
+  process in law|#item-69f3575b3'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/331,1261,3086,469/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528667572470
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0510/331,1261,600,180/250,/0/default.jpg
+label: Process in Law
 location: "<a href='/digital-beehive/toc/toc2_033/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '096'
+issue:
+also_in_entry:
+order: '091'
 layout: alpha_item
 collection: alpha4
 ---

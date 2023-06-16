@@ -2,29 +2,31 @@
 pid: index_3851
 volume: Volume 3
 image_number: '44'
-head: spiritual pride
-entry: "<a href='/digital-beehive/num1/num_0076/'>75 [Self-righteousness]</a>|<a href='/digital-beehive/num2/num_0366/'>319
-  [Righteous]</a>"
-topic: 
+head: soul
+entry: "<a href='/digital-beehive/alpha4/alpha_0901/'>a</a>|835 [PAGE_MISSING]|<a
+  href='/digital-beehive/num6/num_2052/'>1419 [Soul]</a>|<a href='/digital-beehive/num7/num_2423/'>1607
+  [Soul]</a>|<a href='/digital-beehive/num10/num_3329/'>2357 [Soul]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e02c44354"
-unparsed: 
-line: 'Head: spiritual pride|Entry: 75 [Self-righteousness]|Entry: 319 [Righteous]|#item-e02c44354'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1787,621,514,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529978335685
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1787,621,514,113/150,/0/default.jpg
-label: spiritual pride
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b5d72fc32"
+unparsed:
+line: 'Head: soul|Entry: a|Entry: 835 [PAGE_MISSING]|Entry: 1419 [Soul]|Entry: 1607
+  [Soul]|Entry: 2357 [Soul]|#item-b5d72fc32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/559,2367,525,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529704682061
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/559,2367,525,125/150,/0/default.jpg
+label: soul
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1100'
+issue:
+insertion_xref:
+order: '1099'
 layout: index_item
 collection: index4
 ---

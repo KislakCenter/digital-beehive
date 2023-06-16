@@ -2,28 +2,28 @@
 pid: index_1820
 volume: Volume 3
 image_number: '24'
-head: Herr
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1794 [Mr. Hales]</a>"
-topic: 
+head: how?
+entry: "<a href='/digital-beehive/num3/num_1040/'>712 [How?]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2068979d1"
-unparsed: 
-line: 'Head: Herr|Entry: 1794 [Mr. Hales]|#item-2068979d1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/420,893,364,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575335916
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/420,893,364,96/150,/0/default.jpg
-label: Herr
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f4cd6b1ad"
+unparsed:
+line: 'Head: how?|Entry: 712 [How?]|#item-f4cd6b1ad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1849,1244,358,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559586977654
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1849,1244,358,118/150,/0/default.jpg
+label: how?
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '638'
+issue:
+insertion_xref:
+order: '639'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,28 @@
 pid: index_3192
 volume: Volume 3
 image_number: '37'
-head: proof of a negative
-entry: "<a href='/digital-beehive/num4/num_1199'>913 [Proof]</a>"
-topic: 
+head: pricking
+entry: "<a href='/digital-beehive/num3/num_0969/'>684 [To prick]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4d9887a6c"
-unparsed: 
-line: 'Head: proof of a negative|Entry: 913 [Proof]|#item-4d9887a6c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869010548
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,487,708,139/150,/0/default.jpg
-label: proof of a negative
+page:
+add:
+xref:
+see:
+index:
+item: "#item-118008acc"
+unparsed:
+line: 'Head: pricking|Entry: 684 [To prick]|#item-118008acc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/88,2403,510,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866764902
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/88,2403,510,146/150,/0/default.jpg
+label: pricking
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0441'
+issue:
+insertion_xref:
+order: '0440'
 layout: index_item
 collection: index4
 ---

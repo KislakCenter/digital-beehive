@@ -2,27 +2,27 @@
 pid: index_2739
 volume: Volume 3
 image_number: '32'
-head: notwithstanding
-entry: "<a href='/digital-beehive/num4/num_1296'>973 [Not withstanding]</a>"
-topic: 
+head: nightmare
+entry: "<a href='/digital-beehive/num3/num_0933/'>673 [Night-Mare]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-123d3fd63"
-unparsed: 
-line: 'Head: notwithstanding|Entry: 973 [Not withstanding]|#item-123d3fd63'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560449864539
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1828,3013,667,154/150,/0/default.jpg
-label: notwithstanding
+page:
+add:
+xref:
+see:
+index:
+item: "#item-eabfcd449"
+unparsed:
+line: 'Head: nightmare|Entry: 673 [Night-Mare]|#item-eabfcd449'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1117,3362,466,91/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560446238874
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1117,3362,466,91/150,/0/default.jpg
+label: nightmare
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '821'
 layout: index_item
 collection: index3

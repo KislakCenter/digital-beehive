@@ -2,28 +2,28 @@
 pid: index_4164
 volume: Volume 3
 image_number: '48'
-head: toad
-entry: 
-topic: 
+head: tough
+entry: "<a href='/digital-beehive/num10/num_3353/'>2381 [Tough : flexible]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1550/'>frog</a>"
-index: 
-item: "#item-999c97a00"
-unparsed: 
-line: 'Head: toad|See: frog|#item-999c97a00'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559844746251
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0991/473,264,451,136/150,/0/default.jpg
-label: toad
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c8010eafd"
+unparsed:
+line: 'Head: tough|Entry: 2381 [Tough : flexible]|#item-c8010eafd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,432,320,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560285427185
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0991/1109,432,320,147/150,/0/default.jpg
+label: tough
 location: "<a href='/digital-beehive/toc/toc3_48/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '126'
+issue:
+insertion_xref:
+order: '127'
 layout: index_item
 collection: index5
 ---

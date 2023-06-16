@@ -2,28 +2,28 @@
 pid: index_4105
 volume: Volume 3
 image_number: '47'
-head: thankfulness
-entry: "<a href='/digital-beehive/toc/toc2_220/'>1132 [Gratitude]</a>|4623 [PAGE_MISSING]"
-topic: 
+head: tidings
+entry:
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1696/'>gratitude</a>"
-index: 
-item: "#item-f0de1a8f8"
-unparsed: 
-line: 'Head: thankfulness|See: gratitude|Entry: 1132 [Gratitude]|Entry: 4623 [PAGE_MISSING]|#item-f0de1a8f8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,533,691,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532719791193
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/906,533,691,151/150,/0/default.jpg
-label: thankfulness
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2718/'>news</a>"
+index:
+item: "#item-0b45d8e69"
+unparsed:
+line: 'Head: tidings|See: news|#item-0b45d8e69'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294682080
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1580,1485,594,170/150,/0/default.jpg
+label: tidings
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '067'
+issue:
+insertion_xref:
+order: '068'
 layout: index_item
 collection: index5
 ---

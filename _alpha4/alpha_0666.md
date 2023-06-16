@@ -1,30 +1,29 @@
 ---
 pid: alpha_0666
 volume: Volume 2
-image_number: '38'
-head: 
-entry: Original Sin
-topic: Original Sin
+image_number: '37'
+head:
+entry: Omnipotency
+topic: Omnipotency
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/num2/num_0310/'>276 [Original Sin]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2825/'>original Sin</a>"
-item: "#item-9576f643d"
-unparsed: 
-line: 'Entry: Original Sin|Topic: Original Sin|Xref: 276 [Original Sin]|Index: original
-  Sin|#item-9576f643d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/766,499,3052,453/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018677993
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/766,499,600,180/250,/0/default.jpg
-label: Original Sin
-location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '019'
+page:
+add:
+xref: 4630 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index4/index_2800/'>omnipotency</a>"
+item: "#item-69dddeb47"
+unparsed:
+line: 'Entry: Omnipotency|Topic: Omnipotency|Xref: 4630 [PAGE_MISSING]|Index: omnipotency|#item-69dddeb47'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/332,3636,3065,427/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017754056
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/332,3636,600,180/250,/0/default.jpg
+label: Omnipotency
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '014'
 layout: alpha_item
 collection: alpha4
 ---

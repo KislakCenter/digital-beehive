@@ -2,28 +2,28 @@
 pid: index_3126
 volume: Volume 3
 image_number: '36'
-head: preposterous
-entry: "<a href='/digital-beehive/toc/toc2_251/'>1287 [Preposterously]</a>"
-topic: 
+head: pomegranate
+entry: 4667 [PAGE_MISSING]
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-410a33f14"
-unparsed: 
-line: 'Head: preposterous|Entry: 1287 [Preposterously]|#item-410a33f14'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1839,2903,656,134/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548440865080
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1839,2903,656,134/150,/0/default.jpg
-label: preposterous
+page: "<a href='/digital-beehive/toc/toc1_083/'>p.33 [Image 1.93]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-7655f7350"
+unparsed:
+line: 'Head: pomegranate|Page: p.33 [Image 1.93]|Entry: 4667 [PAGE_MISSING]|#item-7655f7350'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438113398
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/405,3336,787,138/150,/0/default.jpg
+label: pomegranate
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0375'
+issue:
+insertion_xref:
+order: '0374'
 layout: index_item
 collection: index4
 ---

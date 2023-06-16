@@ -2,30 +2,27 @@
 pid: index_0645
 volume: Volume 3
 image_number: '12'
-head: Christ
-entry: "<a href='/digital-beehive/alpha1/alpha_0144/'>a</a>|<a href='/digital-beehive/num2/num_0297/'>266
-  [Christ]</a>|<a href='/digital-beehive/num3/num_0659'>526 [Xst Jesus]</a>|<a href='/digital-beehive/toc/toc2_203/'>1046
-  [Christ]</a>|<a href='/digital-beehive/toc/toc2_266/'>1361 [Christ Jesus]</a>"
-topic: 
+head: charity
+entry:
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_096/'>p.46 [Image 1.106]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1ec82c400"
-unparsed: 
-line: 'Head: Christ|Page: p.46 [Image 1.106]|Entry: a|Entry: 266 [Christ]|Entry: 526
-  [Xst Jesus]|Entry: 1046 [Christ]|Entry: 1361 [Christ Jesus]|#item-1ec82c400'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1823,3371,675,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532461900579
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1823,3371,675,168/150,/0/default.jpg
-label: Christ
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2375/'>love</a>"
+index:
+item: "#item-e2c36d38a"
+unparsed:
+line: 'Head: charity|See: love|#item-e2c36d38a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532443568155
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1135,3479,552,136/150,/0/default.jpg
+label: charity
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0644'
 layout: index_item
 collection: index1

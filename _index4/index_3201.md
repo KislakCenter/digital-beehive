@@ -2,29 +2,28 @@
 pid: index_3201
 volume: Volume 3
 image_number: '37'
-head: propriety
-entry: "<a href='/digital-beehive/alpha4/alpha_0751/'>a</a>|<a href='/digital-beehive/toc/toc2_367/'>2012
-  [Propriety]</a>"
-topic: 
+head: project
+entry: "<a href='/digital-beehive/num3/num_0805/'>608 [Undertaking]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6eec518f1"
-unparsed: 
-line: 'Head: propriety|Entry: a|Entry: 2012 [Propriety]|#item-6eec518f1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1500,1417,614,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869339060
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1500,1417,614,119/150,/0/default.jpg
-label: propriety
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a3bc22e6d"
+unparsed:
+line: 'Head: project|Entry: 608 [Undertaking]|#item-a3bc22e6d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/780,2739,429,104/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868523716
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/780,2739,429,104/150,/0/default.jpg
+label: project
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0450'
+issue:
+insertion_xref:
+order: '0449'
 layout: index_item
 collection: index4
 ---

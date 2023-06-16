@@ -2,28 +2,27 @@
 pid: index_2566
 volume: Volume 3
 image_number: '31'
-head: monk
-entry: "<a href='/digital-beehive/alpha3/alpha_0603/'>a</a>|<a href='/digital-beehive/num2/num_0575/'>462
-  [Monks]</a>|<a href='/digital-beehive/toc/toc2_312/'>1588 [Monk]</a>"
-topic: 
+head: missionaries
+entry:
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4df9892d6"
-unparsed: 
-line: 'Head: monk|Entry: a|Entry: 462 [Monks]|Entry: 1588 [Monk]|#item-4df9892d6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/871,724,611,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560354999401
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/871,724,611,125/150,/0/default.jpg
-label: monk
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0158/'>apostles</a>"
+index:
+item: "#item-e9d7c5c87"
+unparsed:
+line: 'Head: missionaries|See: apostles|#item-e9d7c5c87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560351733266
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/178,1194,688,159/150,/0/default.jpg
+label: missionaries
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '648'
 layout: index_item
 collection: index3

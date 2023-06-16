@@ -3,7 +3,7 @@ pid: index_4045
 volume: Volume 3
 image_number: '46'
 head: I am sure
-entry: "<a href='/digital-beehive/num9/num_3155/'>2213 [I am Sure]</a>"
+entry: "<a href='/digital-beehive/num9/num_3156/'>2213 [I am Sure]</a>"
 topic:
 first_letter: S
 page:
@@ -23,7 +23,7 @@ label: I am sure
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1268'
+order: '1267'
 layout: index_item
 collection: index4
 ---

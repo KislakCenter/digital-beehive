@@ -2,28 +2,28 @@
 pid: alpha_0998
 volume: Volume 2
 image_number: '61'
-head: 
-entry: Visit
-topic: Visit
+head:
+entry: vine
+topic: vine
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_279/'>1429 [Visit]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4344/'>visitation</a>"
-item: "#item-85e05a08f"
-unparsed: 
-line: 'Entry: Visit|Topic: Visit|Xref: 1429 [Visit]|Index: visitation|#item-85e05a08f'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,2995,300/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529004603315
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0528/307,4769,600,180/250,/0/default.jpg
-label: Visit
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index5/index_4291/'>vine</a>"
+item: "#item-aa91ae3f0"
+unparsed:
+line: 'Entry: vine|Topic: vine|Index: vine|#item-aa91ae3f0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/338,3787,2960,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529003495847
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0528/338,3787,600,180/250,/0/default.jpg
+label: vine
 location: "<a href='/digital-beehive/toc/toc2_051/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '064'
+issue:
+also_in_entry:
+order: '058'
 layout: alpha_item
 collection: alpha5
 ---

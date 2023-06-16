@@ -2,28 +2,28 @@
 pid: alpha_0089
 volume: Volume 1
 image_number: '437'
-head: 
-entry: Boasting
-topic: Boasting
+head:
+entry: blood of Xst
+topic: blood of Xst
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0730/'>Pride</a>|728 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index1/index_0400/'>boasting</a>"
-item: "#item-71c386bdf"
-unparsed: 
-line: 'Entry: Boasting|Topic: Boasting|Xref: Pride|Xref: 728 [PAGE_MISSING]|Index:
-  boasting|#item-71c386bdf'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/377,2611,3027,412/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558732687125
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0436/377,2611,600,180/250,/0/default.jpg
-label: Boasting
+page:
+add:
+xref: 834 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index1/index_0420/'>blood of Christ</a>"
+item: "#item-e52bdb101"
+unparsed:
+line: 'Entry: blood of Xst|Topic: blood of Xst|Xref: 834 [PAGE_MISSING]|Index: blood
+  of Christ|#item-e52bdb101'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/317,2042,3145,346/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1589472259888
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0436/317,2042,600,180/250,/0/default.jpg
+label: blood of Xst
 location: "<a href='/digital-beehive/toc/toc1_427/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '088'
 layout: alpha_item
 collection: alpha1

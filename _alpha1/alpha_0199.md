@@ -10,7 +10,7 @@ page:
 add:
 xref: "<a href='/digital-beehive/alpha1/alpha_0010/'>Adversity</a>|<a href='/digital-beehive/num1/num_0193/'>184
   [Crucifixes]</a>|<a href='/digital-beehive/num2/num_0626/'>498 [Sufferings]</a>|<a
-  href='/digital-beehive/toc/toc2_295/'>1505 [Cross]</a>"
+  href='/digital-beehive/num7/num_2220/'>1505 [Cross]</a>"
 see:
 index: "<a href='/digital-beehive/index1/index_0923/'>cross</a>"
 item: "#item-7dd51f4f8"
@@ -26,7 +26,7 @@ label: Cross
 location: "<a href='/digital-beehive/toc/toc1_436/'>Full Page</a>"
 issue:
 also_in_entry:
-order: '197'
+order: '198'
 layout: alpha_item
 collection: alpha1
 ---

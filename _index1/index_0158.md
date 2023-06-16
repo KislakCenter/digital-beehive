@@ -2,27 +2,28 @@
 pid: index_0158
 volume: Volume 3
 image_number: '8'
-head: antimonium
-entry: "<a href='/digital-beehive/num4/num_1214'>917 [Antimonium]</a>"
-topic: 
+head: apostle
+entry: "<a href='/digital-beehive/alpha1/alpha_0039/'>a</a>|<a href='/digital-beehive/num4/num_1264/'>947
+  [Apostle]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e219caae5"
-unparsed: 
-line: 'Head: antimonium|Entry: 917 [Antimonium]|#item-e219caae5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/376,2962,591,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491238884541
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/376,2962,591,116/150,/0/default.jpg
-label: antimonium
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5eab71dae"
+unparsed:
+line: 'Head: apostle|Entry: a|Entry: 947 [Apostle]|#item-5eab71dae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,842,470,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759863382
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/1107,842,470,109/150,/0/default.jpg
+label: apostle
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0157'
 layout: index_item
 collection: index1

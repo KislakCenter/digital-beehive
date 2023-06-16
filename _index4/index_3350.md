@@ -2,28 +2,28 @@
 pid: index_3350
 volume: Volume 3
 image_number: '39'
-head: reliques of God's Image
-entry: 
-topic: 
+head: resolution
+entry: "<a href='/digital-beehive/num2/num_0546/'>441 [Resolutions]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1387/'>Fall</a>"
-index: 
-item: "#item-10a05341a"
-unparsed: 
-line: 'Head: reliques of God''s Image|See: Fall|#item-10a05341a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3433,782,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558468763646
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/106,3433,782,168/150,/0/default.jpg
-label: reliques of God's Image
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e852969e1"
+unparsed:
+line: 'Head: resolution|Entry: 441 [Resolutions]|#item-e852969e1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559229155628
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1476,1189,614,140/150,/0/default.jpg
+label: resolution
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0599'
+issue:
+insertion_xref:
+order: '0598'
 layout: index_item
 collection: index4
 ---

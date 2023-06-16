@@ -2,30 +2,28 @@
 pid: index_2810
 volume: Volume 3
 image_number: '33'
-head: oppression
-entry: "<a href='/digital-beehive/num1/num_0205/'>197 [Oppression]</a>|<a href='/digital-beehive/num2/num_0591/'>474
-  [Oppression]</a>|<a href='/digital-beehive/toc/toc2_401/'>2287 [Oppressions]</a>"
-topic: 
+head: Sin of Onan
+entry: "<a href='/digital-beehive/num2/num_0556/'>447 [Sodomy]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-80c2dc60e"
-unparsed: 
-line: 'Head: oppression|Entry: 197 [Oppression]|Entry: 474 [Oppression]|Entry: 2287
-  [Oppressions]|#item-80c2dc60e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538161687452
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/1479,1143,734,156/150,/0/default.jpg
-label: oppression
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c81c68926"
+unparsed:
+line: 'Head: Sin of Onan|Entry: 447 [Sodomy]|#item-c81c68926'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,2749,587,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538159715322
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/845,2749,587,139/150,/0/default.jpg
+label: Sin of Onan
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0059'
+issue:
+insertion_xref:
+order: '0058'
 layout: index_item
 collection: index4
 ---

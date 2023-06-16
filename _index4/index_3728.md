@@ -2,28 +2,29 @@
 pid: index_3728
 volume: Volume 3
 image_number: '43'
-head: singularity
-entry: "<a href='/digital-beehive/toc/toc2_218/'>1121 [Singularity]</a>"
-topic: 
+head: silence
+entry: "<a href='/digital-beehive/alpha4/alpha_0877/'>a</a>|<a href='/digital-beehive/num2/num_0540/'>436
+  [Silence]</a>|<a href='/digital-beehive/num6/num_1813/'>1299 [Silence & Reservedness]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1bd112643"
-unparsed: 
-line: 'Head: singularity|Entry: 1121 [Singularity]|#item-1bd112643'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/825,475,466,113/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582876784
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/825,475,466,113/150,/0/default.jpg
-label: singularity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cb1d8a7bf"
+unparsed:
+line: 'Head: silence|Entry: a|Entry: 436 [Silence]|Entry: 1299 [Silence & Reservedness]|#item-cb1d8a7bf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/191,1343,679,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559581999114
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/191,1343,679,136/150,/0/default.jpg
+label: silence
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0977'
+issue:
+insertion_xref:
+order: '0976'
 layout: index_item
 collection: index4
 ---

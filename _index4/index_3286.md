@@ -2,28 +2,28 @@
 pid: index_3286
 volume: Volume 3
 image_number: '38'
-head: ram
-entry: "<a href='/digital-beehive/toc/toc2_289/'>1479 [Ram]</a>"
-topic: 
-first_letter: R
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2187/'>lamb</a>"
-index: 
-item: "#item-9cba996fe"
-unparsed: 
-line: 'Head: ram|See: lamb|Entry: 1479 [Ram]|#item-9cba996fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1808,301,757,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558460310086
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1808,301,757,156/150,/0/default.jpg
-label: ram
+head: quiver
+entry:
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3660/'>shooting</a>"
+index:
+item: "#item-e2ae96c47"
+unparsed:
+line: 'Head: quiver|See: shooting|#item-e2ae96c47'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,2093,631,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455446400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1173,2093,631,163/150,/0/default.jpg
+label: quiver
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0535'
+issue:
+insertion_xref:
+order: '0534'
 layout: index_item
 collection: index4
 ---

@@ -25,7 +25,7 @@ label: Youth
 location: "<a href='/digital-beehive/toc/toc2_057/'>Full Page</a>"
 issue: The point of reference for "Boy" is unclear.
 also_in_entry:
-order: '136'
+order: '135'
 layout: alpha_item
 collection: alpha5
 ---

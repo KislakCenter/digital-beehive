@@ -1,32 +1,31 @@
 ---
 pid: alpha_0637
 volume: Volume 2
-image_number: '36'
-head: 
-entry: Neutrality
-topic: Neutrality
+image_number: '35'
+head:
+entry: Naughtiness
+topic: Naughtiness
 first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0460/'>Impartiality</a>|Indifferency|<a
-  href='/digital-beehive/num1/num_0093/'>91 [Universalists]</a>|<a href='/digital-beehive/num2/num_0420/'>357
-  [Neutrality]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2691/'>neutrality</a>"
-item: "#item-323b2f38d"
-unparsed: 
-line: 'Entry: Neutrality|Topic: Neutrality|Xref: Impartiality|Xref: Indifferency|Xref:
-  91 [Universalists]|Xref: 357 [Neutrality]|Index: neutrality|#item-323b2f38d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,2994,554/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565015091125
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0503/801,636,600,180/250,/0/default.jpg
-label: Neutrality
-location: "<a href='/digital-beehive/toc/toc2_026/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '193'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0572/'>Malignity</a>|<a href='/digital-beehive/alpha5/alpha_1037/'>Wickedness</a>|<a
+  href='/digital-beehive/num6/num_2086/'>1432 [Naughtiness]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2713/'>naughtiness</a>"
+item: "#item-c20a79fcf"
+unparsed:
+line: 'Entry: Naughtiness|Topic: Naughtiness|Xref: Malignity|Xref: Wickedness|Xref:
+  1432 [Naughtiness]|Index: naughtiness|#item-c20a79fcf'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/337,3223,2979,447/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1510169662283
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/337,3223,600,180/250,/0/default.jpg
+label: Naughtiness
+location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '190'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,28 +2,28 @@
 pid: index_2888
 volume: Volume 3
 image_number: '34'
-head: paronomasia
-entry: "<a href='/digital-beehive/toc/toc2_434/'>4835 [Paronomasia]</a>"
-topic: 
+head: patres
+entry: "<a href='/digital-beehive/num1/num_0074/'>73 [the Fathers]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-044f9e31c"
-unparsed: 
-line: 'Head: paronomasia|Entry: 4835 [Paronomasia]|#item-044f9e31c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538494414862
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1131,2326,638,168/150,/0/default.jpg
-label: paronomasia
+page:
+add:
+xref:
+see:
+index:
+item: "#item-adf4d9f87"
+unparsed:
+line: 'Head: patres|Entry: 73 [the Fathers]|#item-adf4d9f87'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495553454
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1812,1907,558,139/150,/0/default.jpg
+label: patres
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0137'
+issue:
+insertion_xref:
+order: '0136'
 layout: index_item
 collection: index4
 ---

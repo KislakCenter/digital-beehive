@@ -2,29 +2,28 @@
 pid: index_1871
 volume: Volume 3
 image_number: '24'
-head: horn
-entry: 774 [PAGE_MISSING]
-topic: 
+head: homicide
+entry:
+topic:
 first_letter: H
-page: "<a href='/digital-beehive/toc/toc1_060/'>p.10 [Image 1.70]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-14aba5e74"
-unparsed: 
-line: 'Head: horn|Page: p.10 [Image 1.70]|Entry: 774 [PAGE_MISSING]|#item-14aba5e74'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559583645346
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,2662,407,171/150,/0/default.jpg
-label: horn
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2576/'>murder</a>"
+index:
+item: "#item-736f74681"
+unparsed:
+line: 'Head: homicide|See: murder|#item-736f74681'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1155,1848,618,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582799050
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1155,1848,618,162/150,/0/default.jpg
+label: homicide
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 'Pastorius links to section 32 on page ten. There is currently no protocol
-  for specifying a specific item on a page reference. '
-insertion_xref: 
-order: '689'
+issue:
+insertion_xref:
+order: '690'
 layout: index_item
 collection: index2
 ---

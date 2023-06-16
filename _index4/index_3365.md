@@ -2,28 +2,31 @@
 pid: index_3365
 volume: Volume 3
 image_number: '39'
-head: rent
-entry: "<a href='/digital-beehive/num3/num_0724'>568 [Rent or Revenue]</a>"
-topic: 
+head: refutation
+entry: "<a href='/digital-beehive/num1/num_0260/'>242 [Refutation]</a>|<a href='/digital-beehive/num6/num_1788/'>1285
+  [Refutation]</a>|<a href='/digital-beehive/num8/num_2739/'>1806 [Refutation]</a>|4780
+  [[PAGE_MISSING]]"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1d9be1cc7"
-unparsed: 
-line: 'Head: rent|Entry: 568 [Rent or Revenue]|#item-1d9be1cc7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469239721
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/798,1786,415,161/150,/0/default.jpg
-label: rent
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e5da4624d"
+unparsed:
+line: 'Head: refutation|Entry: 242 [Refutation]|Entry: 1285 [Refutation]|Entry: 1806
+  [Refutation]|Entry: 4780 [[PAGE_MISSING]]|#item-e5da4624d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1821,675,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558464713239
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/150,1821,675,150/150,/0/default.jpg
+label: refutation
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0614'
+issue:
+insertion_xref:
+order: '0613'
 layout: index_item
 collection: index4
 ---

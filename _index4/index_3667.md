@@ -2,28 +2,28 @@
 pid: index_3667
 volume: Volume 3
 image_number: '42'
-head: shells of snails
-entry: "<a href='/digital-beehive/alpha4/alpha_0866/'>a</a>"
-topic: 
+head: shore
+entry: 749 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bd0c3c135"
-unparsed: 
-line: 'Head: shells of snails|Entry: a|#item-bd0c3c135'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1842,249,635,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559575492237
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1842,249,635,147/150,/0/default.jpg
-label: shells of snails
+page:
+add:
+xref:
+see:
+index:
+item: "#item-260b6172c"
+unparsed:
+line: 'Head: shore|Entry: 749 [PAGE_MISSING]|#item-260b6172c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1795,2332,443,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559576386478
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1795,2332,443,130/150,/0/default.jpg
+label: shore
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0916'
+issue:
+insertion_xref:
+order: '0915'
 layout: index_item
 collection: index4
 ---

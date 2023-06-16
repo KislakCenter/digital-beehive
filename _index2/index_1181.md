@@ -2,28 +2,28 @@
 pid: index_1181
 volume: Volume 3
 image_number: '18'
-head: Eagle
-entry: "<a href='/digital-beehive/alpha2/alpha_0269/'>a</a>"
-topic: 
+head: ensigns
+entry: "<a href='/digital-beehive/num2/num_0282/'>257 [Arms]</a>"
+topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-217e863ee"
-unparsed: 
-line: 'Head: Eagle|Page: p.35 [Image 1.95]|Entry: a|#item-217e863ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/439,1695,442,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559666451994
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/439,1695,442,147/150,/0/default.jpg
-label: Eagle
+page:
+add:
+xref:
+see:
+index:
+item: "#item-924a211f0"
+unparsed:
+line: 'Head: ensigns|Entry: 257 [Arms]|#item-924a211f0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1856,2788,384,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835669654
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1856,2788,384,116/150,/0/default.jpg
+label: ensigns
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '000'
+issue:
+insertion_xref:
+order: '012'
 layout: index_item
 collection: index2
 ---

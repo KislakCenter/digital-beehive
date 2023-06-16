@@ -2,28 +2,31 @@
 pid: index_3372
 volume: Volume 3
 image_number: '39'
-head: to replevy
-entry: "<a href='/digital-beehive/num2/num_0553/'>445 [To replevy]</a>"
-topic: 
+head: repentance
+entry: "<a href='/digital-beehive/alpha4/alpha_0795/'>a</a>|<a href='/digital-beehive/num4/num_1261/'>944
+  [Repentance]</a>|<a href='/digital-beehive/num7/num_2396/'>1594 [Repentance]</a>|<a
+  href='/digital-beehive/num10/num_3372/'>2400 [Repentance]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dcddd05a0"
-unparsed: 
-line: 'Head: to replevy|Entry: 445 [To replevy]|#item-dcddd05a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/811,2639,612,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558469508634
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/811,2639,612,158/150,/0/default.jpg
-label: to replevy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b3c419bfa"
+unparsed:
+line: 'Head: repentance|Entry: a|Entry: 944 [Repentance]|Entry: 1594 [Repentance]|Entry:
+  2400 [Repentance]|#item-b3c419bfa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/781,2130,770,222/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558469317984
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/781,2130,770,222/150,/0/default.jpg
+label: repentance
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0621'
+issue:
+insertion_xref:
+order: '0620'
 layout: index_item
 collection: index4
 ---

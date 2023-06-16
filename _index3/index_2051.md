@@ -2,28 +2,27 @@
 pid: index_2051
 volume: Volume 3
 image_number: '26'
-head: innocence
-entry: "<a href='/digital-beehive/alpha3/alpha_0478/'>a</a>|761 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_387/'>2219 [Innocence]</a>"
-topic: 
+head: infancy
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b856d6281"
-unparsed: 
-line: 'Head: innocence|Entry: a|Entry: 761 [PAGE_MISSING]|Entry: 2219 [Innocence]|#item-b856d6281'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/423,3525,715,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559745921988
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/423,3525,715,162/150,/0/default.jpg
-label: innocence
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0612/'>Childhood</a>"
+index:
+item: "#item-086ab94c5"
+unparsed:
+line: 'Head: infancy|See: Childhood|#item-086ab94c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/451,1058,638,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744055955
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/451,1058,638,151/150,/0/default.jpg
+label: infancy
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '133'
 layout: index_item
 collection: index3

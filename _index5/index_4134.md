@@ -2,28 +2,28 @@
 pid: index_4134
 volume: Volume 3
 image_number: '47'
-head: to thrive
-entry: 
-topic: 
+head: term of life prefixt
+entry: 4515 [PAGE_MISSING]
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1719/'>growth</a>"
-index: 
-item: "#item-2994e8074"
-unparsed: 
-line: 'Head: to thrive|See: growth|#item-2994e8074'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,3366,624,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565294499999
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/885,3366,624,132/150,/0/default.jpg
-label: to thrive
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fb43076d5"
+unparsed:
+line: 'Head: term of life prefixt|Entry: 4515 [PAGE_MISSING]|#item-fb43076d5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/174,2439,722,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294188758
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/174,2439,722,147/150,/0/default.jpg
+label: term of life prefixt
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '096'
+issue:
+insertion_xref:
+order: '097'
 layout: index_item
 collection: index5
 ---

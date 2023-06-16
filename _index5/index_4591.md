@@ -2,28 +2,29 @@
 pid: index_4591
 volume: Volume 3
 image_number: '53'
-head: women beaten
-entry: "<a href='/digital-beehive/alpha5/alpha_1045/'>a</a>"
-topic: 
+head: wood
+entry: "<a href='/digital-beehive/alpha5/alpha_1056/'>a</a>|<a href='/digital-beehive/num9/num_3050/'>2113
+  [Wood]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-84ebf429a"
-unparsed: 
-line: 'Head: women beaten|Entry: a|#item-84ebf429a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560793678800
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/179,3505,558,107/150,/0/default.jpg
-label: women beaten
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c803ebfd8"
+unparsed:
+line: 'Head: wood|Entry: a|Entry: 2113 [Wood]|#item-c803ebfd8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,1293,476,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796273800
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/876,1293,476,137/150,/0/default.jpg
+label: wood
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '553'
+issue:
+insertion_xref:
+order: '554'
 layout: index_item
 collection: index5
 ---

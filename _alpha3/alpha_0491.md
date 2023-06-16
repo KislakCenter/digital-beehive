@@ -2,28 +2,28 @@
 pid: alpha_0491
 volume: Volume 2
 image_number: '24'
-head: 
-entry: Italy
-topic: Italy
+head:
+entry: Joy
+topic: Joy
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_269/'>1379 [Italy]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2125/'>Italy</a>"
-item: "#item-d4f2cb8a7"
-unparsed: 
-line: 'Entry: Italy|Topic: Italy|Xref: 1379 [Italy]|Index: Italy|#item-d4f2cb8a7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,3605,3039,377/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564762060528
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/696,3605,600,180/250,/0/default.jpg
-label: Italy
+page:
+add:
+xref: 832 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index3/index_2103/'>joy</a>"
+item: "#item-63770b4cb"
+unparsed:
+line: 'Entry: Joy|Topic: Joy|Xref: 832 [PAGE_MISSING]|Index: joy|#item-63770b4cb'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/704,2591,3028,710/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761847860
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/704,2591,600,180/250,/0/default.jpg
+label: Joy
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '047'
+issue:
+also_in_entry:
+order: '044'
 layout: alpha_item
 collection: alpha3
 ---

@@ -2,28 +2,31 @@
 pid: alpha_0385
 volume: Volume 2
 image_number: '16'
-head: 
-entry: Grave
-topic: Grave
+head:
+entry: Gratitude
+topic: Gratitude
 first_letter: G
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0109/'>Burial</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1699/'>grave</a>"
-item: "#item-e1efb75b2"
-unparsed: 
-line: 'Entry: Grave|Topic: Grave|Xref: Burial|Index: grave|#item-e1efb75b2'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,2987,490/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564603649359
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0483/780,1353,600,180/250,/0/default.jpg
-label: Grave
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1014/'>Unthankfullness</a>|<a href='/digital-beehive/alpha5/alpha_0954/'>thanks</a>|<a
+  href='/digital-beehive/num5/num_1495/'>1104 [Benefits]</a>|<a href='/digital-beehive/num5/num_1538/'>1132
+  [Gratitude]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1688/'>gratitude</a>"
+item: "#item-6091f25b6"
+unparsed:
+line: 'Entry: Gratitude|Topic: Gratitude|Xref: Unthankfullness|Xref: thanks|Xref:
+  1104 [Benefits]|Xref: 1132 [Gratitude]|Index: gratitude|#item-6091f25b6'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/778,545,2988,588/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564603533581
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0483/778,545,600,180/250,/0/default.jpg
+label: Gratitude
 location: "<a href='/digital-beehive/toc/toc2_006/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '116'
+issue:
+also_in_entry:
+order: '113'
 layout: alpha_item
 collection: alpha2
 ---

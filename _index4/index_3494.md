@@ -2,28 +2,28 @@
 pid: index_3494
 volume: Volume 3
 image_number: '40'
-head: sailer
-entry: 764 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_421/'>2445 [Sailer]</a>
-topic: 
+head: for my sake
+entry: "<a href='/digital-beehive/num8/num_2760/'>1825 [Sake]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bf995e57c"
-unparsed: 
-line: 'Head: sailer|Entry: 764 [PAGE_MISSING]|Entry: 2445 [Sailer]|#item-bf995e57c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,2860,573,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559235238850
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1835,2860,573,132/150,/0/default.jpg
-label: sailer
+page:
+add:
+xref:
+see:
+index:
+item: "#item-22a34e6bb"
+unparsed:
+line: 'Head: for my sake|Entry: 1825 [Sake]|#item-22a34e6bb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559235289515
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1791,3053,652,93/150,/0/default.jpg
+label: for my sake
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0743'
+issue:
+insertion_xref:
+order: '0742'
 layout: index_item
 collection: index4
 ---

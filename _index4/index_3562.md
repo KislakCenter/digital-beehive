@@ -2,28 +2,28 @@
 pid: index_3562
 volume: Volume 3
 image_number: '41'
-head: scriptures impro[per] express
-entry: "<a href='/digital-beehive/num3/num_1077'>725 [Catachresis]</a>"
-topic: 
+head: saviour
+entry: "<a href='/digital-beehive/alpha4/alpha_0834/'>a</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-88252a02a"
-unparsed: 
-line: 'Head: scriptures impro[per] express|Entry: 725 [Catachresis]|#item-88252a02a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559241555250
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/856,2738,636,88/150,/0/default.jpg
-label: scriptures impro[per] express
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d6037af21"
+unparsed:
+line: 'Head: saviour|Entry: a|#item-d6037af21'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/158,2156,411,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559239271510
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/158,2156,411,110/150,/0/default.jpg
+label: saviour
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0811'
+issue:
+insertion_xref:
+order: '0810'
 layout: index_item
 collection: index4
 ---

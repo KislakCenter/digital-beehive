@@ -3,7 +3,7 @@ pid: index_2770
 volume: Volume 3
 image_number: '33'
 head: nymph[ae]
-entry: "<a href='/digital-beehive/num9/num_3057/'>2120 [Nymph[ae]]</a>"
+entry: "<a href='/digital-beehive/num9/num_3058/'>2120 [Nymph[ae]]</a>"
 topic:
 first_letter: N
 page:
@@ -23,7 +23,7 @@ label: nymph[ae]
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '832'
+order: '833'
 layout: index_item
 collection: index3
 ---

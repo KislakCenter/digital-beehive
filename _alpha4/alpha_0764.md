@@ -2,30 +2,29 @@
 pid: alpha_0764
 volume: Volume 2
 image_number: '45'
-head: 
-entry: winter Quarters
-topic: winter Quarters
-first_letter: Q
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_335/'>1708 [quarter granted]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3253/'>quarter</a>|<a href='/digital-beehive/index4/index_3254/'>winter
-  quarter</a>"
-item: "#item-35fe5d3ef"
-unparsed: 
-line: 'Entry: winter Quarters|Topic: winter Quarters |Xref: 1708 [quarter granted]|Index:
-  quarter|Index: winter quarter|#item-35fe5d3ef'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,3063,403/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565103405113
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/296,1471,600,180/250,/0/default.jpg
-label: winter Quarters
+head:
+entry: Punishment, continued
+topic: Punishment, continued
+first_letter: P
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0763/'>Punishment</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3257/'>punishmt</a>"
+item: "#item-726c1f794"
+unparsed:
+line: 'Entry: Punishment, continued|Topic: Punishment, continued|Xref: Punishment|Index:
+  punishmt|#item-726c1f794'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/245,195,3050,324/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1573245992483
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0512/245,195,600,180/250,/0/default.jpg
+label: Punishment, continued
 location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '117'
+issue:
+also_in_entry:
+order: '112'
 layout: alpha_item
 collection: alpha4
 ---

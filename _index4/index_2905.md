@@ -2,28 +2,28 @@
 pid: index_2905
 volume: Volume 3
 image_number: '34'
-head: passover
-entry: "<a href='/digital-beehive/toc/toc2_196/'>1011 [Passover]</a>"
-topic: 
+head: Paul
+entry: "<a href='/digital-beehive/num5/num_1463/'>1086 [Paul]</a>|4770 [PAGE_MISSING]"
+topic:
 first_letter: P
-page: 
-add: Easter
-xref: 
-see: 
-index: 
-item: "#item-0fbbfc5eb"
-unparsed: 
-line: 'Head: passover|Entry: 1011 [Passover]|Add: Easter|#item-0fbbfc5eb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,524,523,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565192308257
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/1825,524,523,165/150,/0/default.jpg
-label: passover
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a2be8e073"
+unparsed:
+line: 'Head: Paul|Entry: 1086 [Paul]|Entry: 4770 [PAGE_MISSING]|#item-a2be8e073'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2381,697,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538495800818
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1799,2381,697,154/150,/0/default.jpg
+label: Paul
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0154'
+issue:
+insertion_xref:
+order: '0153'
 layout: index_item
 collection: index4
 ---

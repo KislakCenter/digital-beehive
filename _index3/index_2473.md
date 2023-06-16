@@ -2,27 +2,27 @@
 pid: index_2473
 volume: Volume 3
 image_number: '30'
-head: meetings silent
-entry: "<a href='/digital-beehive/num2/num_0332/'>295 [Silent meetings]</a>"
-topic: 
+head: melancholy
+entry: "<a href='/digital-beehive/alpha3/alpha_0586/'>a</a>|1847 [PAGE_MISSING]"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-02ba1974a"
-unparsed: 
-line: 'Head: meetings silent|Entry: 295 [Silent meetings]|#item-02ba1974a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1011,436,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268057069
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1011,436,137/150,/0/default.jpg
-label: meetings silent
+page:
+add:
+xref:
+see:
+index:
+item: "#item-54cd1ee27"
+unparsed:
+line: 'Head: melancholy|Entry: a|Entry: 1847 [PAGE_MISSING]|#item-54cd1ee27'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268130690
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1126,1253,676,153/150,/0/default.jpg
+label: melancholy
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '555'
 layout: index_item
 collection: index3

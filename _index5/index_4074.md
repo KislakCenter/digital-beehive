@@ -2,28 +2,28 @@
 pid: index_4074
 volume: Volume 3
 image_number: '47'
-head: beasts teach
-entry: "<a href='/digital-beehive/toc/toc2_213/'>1096 [Beasts to learn of]</a>"
-topic: 
+head: teach me o Lord
+entry: "<a href='/digital-beehive/num6/num_2199/'>1491 [Teach me o Lord]</a>"
+topic:
 first_letter: T
-page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3b85d39c0"
-unparsed: 
-line: 'Head: beasts teach|Page: p.1 [Image 1.61]|Entry: 1096 [Beasts to learn of]|#item-3b85d39c0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531787774613
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/187,784,646,119/150,/0/default.jpg
-label: beasts teach
+page:
+add:
+xref:
+see:
+index:
+item: "#item-fc7de117a"
+unparsed:
+line: 'Head: teach me o Lord|Entry: 1491 [Teach me o Lord]|#item-fc7de117a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/183,392,629,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565293997312
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/183,392,629,125/150,/0/default.jpg
+label: teach me o Lord
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '036'
+issue:
+insertion_xref:
+order: '037'
 layout: index_item
 collection: index5
 ---

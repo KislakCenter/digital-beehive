@@ -2,27 +2,27 @@
 pid: index_2465
 volume: Volume 3
 image_number: '30'
-head: medicoru[m] nomina
-entry: "<a href='/digital-beehive/toc/toc2_389/'>2228 [Noia medicorum]</a>"
-topic: 
+head: metonymy
+entry: 841 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-200c7f5da"
-unparsed: 
-line: 'Head: medicoru[m] nomina|Entry: 2228 [Noia medicorum]|#item-200c7f5da'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267444628
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1079,282,735,145/150,/0/default.jpg
-label: medicoru[m] nomina
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cbcc1f54f"
+unparsed:
+line: 'Head: metonymy|Entry: 841 [PAGE_MISSING]|#item-cbcc1f54f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273649078
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1839,891,507,118/150,/0/default.jpg
+label: metonymy
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '547'
 layout: index_item
 collection: index3

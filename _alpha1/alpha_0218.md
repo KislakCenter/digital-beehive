@@ -2,29 +2,29 @@
 pid: alpha_0218
 volume: Volume 1
 image_number: '448'
-head: 
-entry: Deformity
-topic: Deformity
+head:
+entry: Deed
+topic: Deed
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0069/'>Beauty</a>|4571 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index1/index_0990/'>deformity</a>"
-item: "#item-15a565036"
-unparsed: 
-line: 'Entry: Deformity|Topic: Deformity|Xref: Beauty|Xref: 4571 [PAGE_MISSING]|Index:
-  deformity|#item-15a565036'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,2943,541/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507576420785
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0447/780,3237,600,180/250,/0/default.jpg
-label: Deformity
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1059/'>Works</a>|<a href='/digital-beehive/num5/num_1545/'>1137
+  [Deed]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1010/'>deed</a>"
+item: "#item-76b2be726"
+unparsed:
+line: 'Entry: Deed|Topic: Deed|Xref: Works|Xref: 1137 [Deed]|Index: deed|#item-76b2be726'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/827,2064,2943,569/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507574651787
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0447/827,2064,600,180/250,/0/default.jpg
+label: Deed
 location: "<a href='/digital-beehive/toc/toc1_438/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '216'
+issue:
+also_in_entry:
+order: '217'
 layout: alpha_item
 collection: alpha1
 ---

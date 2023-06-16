@@ -2,27 +2,28 @@
 pid: index_0450
 volume: Volume 3
 image_number: '11'
-head: brewing
-entry: 4615 [PAGE_MISSING]
-topic: 
+head: brandywine
+entry: "<a href='/digital-beehive/num1/num_0174/'>166 [Brandy-wine]</a>|<a href='/digital-beehive/num6/num_1831/'>1310
+  [Brandy & Aqua vite]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d5633354a"
-unparsed: 
-line: 'Head: brewing|Entry: 4615 [PAGE_MISSING]|#item-d5633354a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,1799,502,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565371034202
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/167,1799,502,144/150,/0/default.jpg
-label: brewing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5d2430142"
+unparsed:
+line: 'Head: brandywine|Entry: 166 [Brandy-wine]|Entry: 1310 [Brandy & Aqua vite]|#item-5d2430142'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,608,658,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531417715910
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/167,608,658,137/150,/0/default.jpg
+label: brandywine
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0449'
 layout: index_item
 collection: index1

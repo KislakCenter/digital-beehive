@@ -2,29 +2,28 @@
 pid: index_1009
 volume: Volume 3
 image_number: '16'
-head: denial
-entry: "<a href='/digital-beehive/alpha1/alpha_0224/'>a</a>|<a href='/digital-beehive/toc/toc2_288/'>1475
-  [Denial]</a>|4764 [PAGE_MISSING]"
-topic: 
+head: to die colours
+entry: "<a href='/digital-beehive/num7/num_2627/'>1704 [Tinctare, Colour or Dye]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5f730b97e"
-unparsed: 
-line: 'Head: denial|Entry: a|Entry: 1475 [Denial]|Entry: 4764 [PAGE_MISSING]|#item-5f730b97e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,766,774,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507922396249
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1089,766,774,116/150,/0/default.jpg
-label: denial
+page:
+add:
+xref:
+see:
+index:
+item: "#item-763f5f98e"
+unparsed:
+line: 'Head: to die colours|Entry: 1704 [Tinctare, Colour or Dye]|#item-763f5f98e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1827,1178,534,101/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541783642445
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1827,1178,534,101/150,/0/default.jpg
+label: to die colours
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1008'
+issue:
+insertion_xref:
+order: '1007'
 layout: index_item
 collection: index1
 ---

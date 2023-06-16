@@ -2,28 +2,29 @@
 pid: index_3025
 volume: Volume 3
 image_number: '35'
-head: placable
-entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>"
-topic: 
+head: permission
+entry: "<a href='/digital-beehive/num3/num_0719/'>565 [License]</a>|<a href='/digital-beehive/num10/num_3476/'>4489
+  [License]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6f589f7c4"
-unparsed: 
-line: 'Head: placable|Entry: a|#item-6f589f7c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1500,2678,492,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977068169
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1500,2678,492,147/150,/0/default.jpg
-label: placable
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1ead4f898"
+unparsed:
+line: 'Head: permission|Entry: 565 [License]|Entry: 4489 [License]|#item-1ead4f898'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,3224,714,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539973802545
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/131,3224,714,132/150,/0/default.jpg
+label: permission
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0274'
+issue:
+insertion_xref:
+order: '0273'
 layout: index_item
 collection: index4
 ---

@@ -1,29 +1,29 @@
 ---
 pid: alpha_0593
 volume: Volume 2
-image_number: '33'
-head: 
-entry: Miller
-topic: Miller
+image_number: '32'
+head:
+entry: Metaphysics
+topic: Metaphysics
 first_letter: M
-page: 
-add: 
-xref: 1873 [PAGE_MISSING]
-see: 
-index: "<a href='/digital-beehive/index3/index_2515/'>miller</a>"
-item: "#item-dd8dafc4c"
-unparsed: 
-line: 'Entry: Miller|Topic: Miller|Xref: 1873 [PAGE_MISSING]|Index: miller|#item-dd8dafc4c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/306,213,3080,367/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564775285818
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0500/306,213,600,180/250,/0/default.jpg
-label: Miller
-location: "<a href='/digital-beehive/toc/toc2_023/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '149'
+page:
+add:
+xref:
+see:
+index: "<a href='/digital-beehive/index3/index_2455/'>metaphysicks</a>"
+item: "#item-0755d4391"
+unparsed:
+line: 'Entry: Metaphysics|Topic: Metaphysics|Index: metaphysicks|#item-0755d4391'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/748,3873,2949,236/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564775109310
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0499/748,3873,600,180/250,/0/default.jpg
+label: Metaphysics
+location: "<a href='/digital-beehive/toc/toc2_022/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '146'
 layout: alpha_item
 collection: alpha3
 ---

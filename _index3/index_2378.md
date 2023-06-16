@@ -2,30 +2,28 @@
 pid: index_2378
 volume: Volume 3
 image_number: '29'
-head: magistrate
-entry: "<a href='/digital-beehive/alpha3/alpha_0564/'>a</a>|<a href='/digital-beehive/num2/num_0365/'>318
-  [Magistrates]</a>|<a href='/digital-beehive/toc/toc2_267/'>1366 [Magistracy]</a>|<a
-  href='/digital-beehive/toc/toc2_402/'>2292 [Magistrate]</a>"
-topic: 
-first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-82f3551bc"
-unparsed: 
-line: 'Head: magistrate|Entry: a|Entry: 318 [Magistrates]|Entry: 1366 [Magistracy]|Entry:
-  2292 [Magistrate]|#item-82f3551bc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,2359,705,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560186776753
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/842,2359,705,176/150,/0/default.jpg
-label: magistrate
+head: love of God
+entry: "<a href='/digital-beehive/alpha3/alpha_0557/'>a</a>|<a href='/digital-beehive/num9/num_2974/'>2040
+  [Love of God]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cd02cf49f"
+unparsed:
+line: 'Head: love of God|Entry: a|Entry: 2040 [Love of God]|#item-cd02cf49f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/173,2023,503,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178945887
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/173,2023,503,92/150,/0/default.jpg
+label: love of God
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '460'
 layout: index_item
 collection: index3

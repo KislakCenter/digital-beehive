@@ -2,28 +2,28 @@
 pid: index_2798
 volume: Volume 3
 image_number: '33'
-head: onomast. Consid
-entry: 
-topic: 
+head: omission
+entry: "<a href='/digital-beehive/num2/num_0300/'>268 [Omission]</a>|4787 [PAGE_MISSING]"
+topic:
 first_letter: O
-page: "<a href='/digital-beehive/toc/toc1_231/'>p.88 [Image 1.241]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-786fc3af1"
-unparsed: 
-line: 'Head: onomast. Consid|Page: p.88 [Image 1.241]|#item-786fc3af1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/836,3327,713,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538159936499
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/836,3327,713,151/150,/0/default.jpg
-label: onomast. Consid
+page:
+add:
+xref:
+see:
+index:
+item: "#item-89896b7bd"
+unparsed:
+line: 'Head: omission|Entry: 268 [Omission]|Entry: 4787 [PAGE_MISSING]|#item-89896b7bd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/844,2277,691,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536348501559
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/844,2277,691,134/150,/0/default.jpg
+label: omission
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 'The specific pages intended by "&c." are unclear. '
-insertion_xref: 
-order: '0047'
+issue:
+insertion_xref:
+order: '0046'
 layout: index_item
 collection: index4
 ---

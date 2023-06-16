@@ -1,30 +1,29 @@
 ---
 pid: alpha_0667
 volume: Volume 2
-image_number: '38'
-head: 
-entry: Original tongues
-topic: Original tongues
+image_number: '37'
+head:
+entry: Omnipresence
+topic: Omnipresence
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_376/'>2105 [Original Tongues]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2826/'>original tongues</a>"
-item: "#item-dc3f33b5e"
-unparsed: 
-line: 'Entry: Original tongues|Topic: Original tongues|Xref: 2105 [Original Tongues]|Index:
-  original tongues|#item-dc3f33b5e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/783,791,3059,533/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565018767128
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0505/783,791,600,180/250,/0/default.jpg
-label: Original tongues
-location: "<a href='/digital-beehive/toc/toc2_028/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '020'
+page:
+add:
+xref: "<a href='/digital-beehive/num5/num_1373/'>1027 [Omnipresence]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2804/'>omnipresence</a>"
+item: "#item-4fc126f14"
+unparsed:
+line: 'Entry: Omnipresence|Topic: Omnipresence|Xref: 1027 [Omnipresence]|Index:  omnipresence|#item-4fc126f14'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/365,3980,3003,424/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565017910013
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/365,3980,600,180/250,/0/default.jpg
+label: Omnipresence
+location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '015'
 layout: alpha_item
 collection: alpha4
 ---

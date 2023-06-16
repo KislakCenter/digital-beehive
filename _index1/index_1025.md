@@ -2,28 +2,28 @@
 pid: index_1025
 volume: Volume 3
 image_number: '16'
-head: desola[ti]on
-entry: 
-topic: 
+head: description
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_1029/'>destruction</a>"
-index: 
-item: "#item-237faaac9"
-unparsed: 
-line: 'Head: desola[ti]on|See: destruction|#item-237faaac9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1051,2692,774,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541605109139
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1051,2692,774,114/150,/0/default.jpg
-label: desola[ti]on
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1060/'>delineation</a>"
+index:
+item: "#item-3b7ffcd94"
+unparsed:
+line: 'Head: description|See: delineation|#item-3b7ffcd94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,1834,783,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541604913758
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1103,1834,783,135/150,/0/default.jpg
+label: description
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1024'
+issue:
+insertion_xref:
+order: '1023'
 layout: index_item
 collection: index1
 ---

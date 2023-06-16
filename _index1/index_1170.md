@@ -2,28 +2,28 @@
 pid: index_1170
 volume: Volume 3
 image_number: '18'
-head: durable
-entry: "<a href='/digital-beehive/toc/toc2_366/'>2002 [Lasting]</a>"
-topic: 
+head: "[:59.]"
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5c4475cca"
-unparsed: 
-line: 'Head: durable|Entry: 2002 [Lasting]|#item-5c4475cca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559663879808
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/431,886,519,81/150,/0/default.jpg
-label: durable
+page:
+add:
+xref:
+see:
+index:
+item: "#item-134701df1"
+unparsed: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
+line: 'Type: Index|Insertion Xref: [:59.]|#item-134701df1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1021,1218,206,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560276169906
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1021,1218,206,124/150,/0/default.jpg
+label: "[:59.]"
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1169'
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4701/'>duty of husband and</a>"
+order: '1165'
 layout: index_item
 collection: index1
 ---

@@ -2,28 +2,28 @@
 pid: index_4459
 volume: Volume 3
 image_number: '51'
-head: waggon
-entry: "<a href='/digital-beehive/toc/toc2_226/'>1162 [Carriage]</a>"
-topic: 
-first_letter: W
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a7464b884"
-unparsed: 
-line: 'Head: waggon|Page: p.38 [Image 1.98]|Entry: 1162 [Carriage]|#item-a7464b884'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1640,344,626,116/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647524296
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1640,344,626,116/150,/0/default.jpg
-label: waggon
+head: vulcan
+entry: "<a href='/digital-beehive/num2/num_0350/'>306 [Smith]</a>"
+topic:
+first_letter: U/V
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d5a1b8059"
+unparsed:
+line: 'Head: vulcan|Entry: 306 [Smith]|#item-d5a1b8059'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/968,2347,456,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647038637
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/968,2347,456,112/150,/0/default.jpg
+label: vulcan
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '421'
+issue:
+insertion_xref:
+order: '422'
 layout: index_item
 collection: index5
 ---

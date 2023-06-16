@@ -2,28 +2,28 @@
 pid: index_2850
 volume: Volume 3
 image_number: '34'
-head: ox
-entry: "<a href='/digital-beehive/alpha4/alpha_0671/'>a</a>"
-topic: 
+head: ostentation
+entry:
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-02b868b32"
-unparsed: 
-line: 'Head: ox|Entry: a|#item-02b868b32'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/472,2184,305,111/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425715650
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/472,2184,305,111/150,/0/default.jpg
-label: ox
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3054/'>praise</a>"
+index:
+item: "#item-1cea55a91"
+unparsed:
+line: 'Head: ostentation|See: praise|#item-1cea55a91'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/458,540,791,193/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425021091
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/458,540,791,193/150,/0/default.jpg
+label: ostentation
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0099'
+issue:
+insertion_xref:
+order: '0098'
 layout: index_item
 collection: index4
 ---

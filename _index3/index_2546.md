@@ -2,27 +2,27 @@
 pid: index_2546
 volume: Volume 3
 image_number: '31'
-head: mistrust
-entry: 
-topic: 
+head: mongrel
+entry: 821 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_1107/'>distrust</a>"
-index: 
-item: "#item-209aa1f81"
-unparsed: 
-line: 'Head: mistrust|See: distrust|#item-209aa1f81'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/162,1661,610,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560352053126
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/162,1661,610,151/150,/0/default.jpg
-label: mistrust
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7b2b615b6"
+unparsed:
+line: 'Head: mongrel|Entry: 821 [PAGE_MISSING]|#item-7b2b615b6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/867,643,475,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560354901147
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/867,643,475,134/150,/0/default.jpg
+label: mongrel
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '628'
 layout: index_item
 collection: index3

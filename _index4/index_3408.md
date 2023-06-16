@@ -2,28 +2,28 @@
 pid: index_3408
 volume: Volume 3
 image_number: '40'
-head: to review
-entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [To Review]</a>"
-topic: 
+head: rust
+entry: "<a href='/digital-beehive/alpha4/alpha_0821/'>a</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-73ade0dbd"
-unparsed: 
-line: 'Head: to review|Entry: 1452 [To Review]|#item-73ade0dbd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231100788
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/428,459,541,139/150,/0/default.jpg
-label: to review
+page:
+add:
+xref:
+see:
+index:
+item: "#item-710c706cf"
+unparsed:
+line: 'Head: rust|Entry: a|#item-710c706cf'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559234444540
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1836,732,321,127/150,/0/default.jpg
+label: rust
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0657'
+issue:
+insertion_xref:
+order: '0656'
 layout: index_item
 collection: index4
 ---

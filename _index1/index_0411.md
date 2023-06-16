@@ -2,27 +2,28 @@
 pid: index_0411
 volume: Volume 3
 image_number: '10'
-head: books of several parts written by Qrs
-entry: 
-topic: 
+head: besiege
+entry: '742 [PAGE_MISSING]|<a href=''/digital-beehive/num6/num_1883/''>1338 [To Assault
+  : besiege]</a>'
+topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_107/'>p.56 [Image 1.117]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-54aa11496"
-unparsed: 
-line: 'Head: books of several parts written by Qrs|Page: p.56 [Image 1.117]|#item-54aa11496'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1796,1576,647,89/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531153153880
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1796,1576,647,89/150,/0/default.jpg
-label: books of several parts written by Qrs
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2cf0ec7da"
+unparsed:
+line: 'Head: besiege|Entry: 742 [PAGE_MISSING]|Entry: 1338 [To Assault : besiege]|#item-2cf0ec7da'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/366,2416,566,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531148344923
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/366,2416,566,154/150,/0/default.jpg
+label: besiege
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0410'
 layout: index_item
 collection: index1

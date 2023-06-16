@@ -2,28 +2,28 @@
 pid: index_4581
 volume: Volume 3
 image_number: '53'
-head: without Christ
-entry: "<a href='/digital-beehive/num2/num_0319/'>284 [Without Xst]</a>"
-topic: 
+head: woman's wit
+entry: "<a href='/digital-beehive/alpha5/alpha_1052/'>a</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2ed880806"
-unparsed: 
-line: 'Head: without Christ|Entry: 284 [Without Xst]|#item-2ed880806'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560792762311
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/186,2283,452,118/150,/0/default.jpg
-label: without Christ
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7a0a25f4c"
+unparsed:
+line: 'Head: woman''s wit|Entry: a|#item-7a0a25f4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/884,918,339,78/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560796113707
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/884,918,339,78/150,/0/default.jpg
+label: woman's wit
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '543'
+issue:
+insertion_xref:
+order: '544'
 layout: index_item
 collection: index5
 ---

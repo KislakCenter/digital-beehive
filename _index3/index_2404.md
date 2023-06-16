@@ -2,29 +2,27 @@
 pid: index_2404
 volume: Volume 3
 image_number: '29'
-head: bad & base man
-entry: "<a href='/digital-beehive/num3/num_0764'>589 [Base]</a>|<a href='/digital-beehive/toc/toc2_341/'>1759
-  [ill natur'd man]</a>|<a href='/digital-beehive/toc/toc2_432/'>4817 [Bad man]</a>"
-topic: 
+head: magnificence
+entry: "<a href='/digital-beehive/num4/num_1195/'>912 [Magnificen(ce:)]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-43391adb4"
-unparsed: 
-line: 'Head: bad & base man|Entry: 589 [Base]|Entry: 1759 [ill natur''d man]|Entry:
-  4817 [Bad man]|#item-43391adb4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1381,1463,866,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560194792286
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1381,1463,866,165/150,/0/default.jpg
-label: bad & base man
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6b7f20efe"
+unparsed:
+line: 'Head: magnificence|Entry: 912 [Magnificen(ce:)]|#item-6b7f20efe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560187149848
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/819,2826,558,177/150,/0/default.jpg
+label: magnificence
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '486'
 layout: index_item
 collection: index3

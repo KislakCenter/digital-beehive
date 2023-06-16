@@ -2,28 +2,29 @@
 pid: index_2999
 volume: Volume 3
 image_number: '35'
-head: piece
-entry: "<a href='/digital-beehive/num3/num_1058'>718 [Piece]</a>"
-topic: 
+head: pit
+entry: "<a href='/digital-beehive/num8/num_2833/'>1924 [Pit]</a>|<a href='/digital-beehive/num7/num_2229/'>1509
+  [Com[m]on Places]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bb90a7220"
-unparsed: 
-line: 'Head: piece|Entry: 718 [Piece]|#item-bb90a7220'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1485,518,400,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539975933980
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1485,518,400,130/150,/0/default.jpg
-label: piece
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3839/'>spring</a>|<a href='/digital-beehive/index5/index_4663/'>abyss</a>"
+index:
+item: "#item-ded427436"
+unparsed:
+line: 'Head: pit|See: spring|Entry: 1924 [Pit]|See: abyss|Entry: 1509 [Com[m]on Places]|#item-ded427436'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1652,2315,673,226/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539976840727
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/1652,2315,673,226/150,/0/default.jpg
+label: pit
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0248'
+issue:
+insertion_xref:
+order: '0247'
 layout: index_item
 collection: index4
 ---

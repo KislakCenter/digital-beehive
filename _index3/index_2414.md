@@ -2,27 +2,27 @@
 pid: index_2414
 volume: Volume 3
 image_number: '29'
-head: manner
-entry: 
-topic: 
+head: many
+entry: "<a href='/digital-beehive/num5/num_1436/'>1067 [Many]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1512/'>form</a>|<a href='/digital-beehive/index1/index_0932/'>custom</a>"
-index: 
-item: "#item-31de29b16"
-unparsed: 
-line: 'Head: manner|See: form|See: custom|#item-31de29b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560196222265
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1543,2600,696,125/150,/0/default.jpg
-label: manner
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1c08c8035"
+unparsed:
+line: 'Head: many|Entry: 1067 [Many]|#item-1c08c8035'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196937804
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1529,3136,359,123/150,/0/default.jpg
+label: many
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '496'
 layout: index_item
 collection: index3

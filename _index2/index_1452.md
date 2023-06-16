@@ -2,27 +2,27 @@
 pid: index_1452
 volume: Volume 3
 image_number: '20'
-head: firewood
-entry: 4614 [PAGE_MISSING]
-topic: 
+head: fetters
+entry: 4506 [PAGE_MISSING]
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6635f864a"
-unparsed: 
-line: 'Head: firewood|Entry: 4614 [PAGE_MISSING]|#item-6635f864a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1799,730,521,212/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562612879607
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1799,730,521,212/150,/0/default.jpg
-label: firewood
+page:
+add:
+xref:
+see:
+index:
+item: "#item-48a91919e"
+unparsed:
+line: 'Head: fetters|Entry: 4506 [PAGE_MISSING]|#item-48a91919e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,2489,479,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562185560817
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1125,2489,479,137/150,/0/default.jpg
+label: fetters
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '271'
 layout: index_item
 collection: index2

@@ -2,31 +2,28 @@
 pid: index_3150
 volume: Volume 3
 image_number: '37'
-head: pride
-entry: "<a href='/digital-beehive/alpha4/alpha_0730/'>a</a>|819 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_336/'>1712 [Pride]</a>|<a href='/digital-beehive/toc/toc2_432/'>4818
-  [Pride]</a>"
-topic: 
+head: to press souldiers
+entry: "<a href='/digital-beehive/num2/num_0614/'>490 [To list souldiers]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-53fb33826"
-unparsed: 
-line: 'Head: pride|Entry: a|Entry: 819 [PAGE_MISSING]|Entry: 1712 [Pride]|Entry: 4818
-  [Pride]|#item-53fb33826'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866745540
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/109,2319,697,158/150,/0/default.jpg
-label: pride
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5c7d4ef26"
+unparsed:
+line: 'Head: to press souldiers|Entry: 490 [To list souldiers]|#item-5c7d4ef26'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550866106434
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/106,809,671,108/150,/0/default.jpg
+label: to press souldiers
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0399'
+issue:
+insertion_xref:
+order: '0398'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_2000
 volume: Volume 3
 image_number: '25'
-head: incomprehensible
-entry: "<a href='/digital-beehive/num2/num_0496/'>406 [Infinitness]</a>"
-topic: 
+head: improp Expressions
+entry: "<a href='/digital-beehive/num3/num_1077/'>725 [Catachresis]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3ae7f6763"
-unparsed: 
-line: 'Head: incomprehensible|Entry: 406 [Infinitness]|#item-3ae7f6763'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1607,650,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560198643371
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1571,1607,650,130/150,/0/default.jpg
-label: incomprehensible
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5c2766b3a"
+unparsed:
+line: 'Head: improp Expressions|Entry: 725 [Catachresis]|#item-5c2766b3a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/842,2737,662,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667640693
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/842,2737,662,152/150,/0/default.jpg
+label: improp Expressions
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '082'
 layout: index_item
 collection: index3

@@ -2,29 +2,28 @@
 pid: index_3241
 volume: Volume 3
 image_number: '38'
-head: putrefaction
-entry: "<a href='/digital-beehive/num4/num_1082'>866 [To Rot]</a>|<a href='/digital-beehive/toc/toc2_376/'>2109
-  [Putrefaction]</a>"
-topic: 
-first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-488b1a361"
-unparsed: 
-line: 'Head: putrefaction|Entry: 866 [To Rot]|Entry: 2109 [Putrefaction]|#item-488b1a361'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/396,2478,753,110/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558452607376
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/396,2478,753,110/150,/0/default.jpg
-label: putrefaction
+head: Queen
+entry:
+topic:
+first_letter: Q
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2147/'>king</a>"
+index:
+item: "#item-1a4a2e57e"
+unparsed:
+line: 'Head: Queen|See: king|#item-1a4a2e57e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558455056347
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1154,543,520,174/150,/0/default.jpg
+label: Queen
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0490'
+issue:
+insertion_xref:
+order: '0489'
 layout: index_item
 collection: index4
 ---

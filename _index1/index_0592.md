@@ -2,27 +2,27 @@
 pid: index_0592
 volume: Volume 3
 image_number: '12'
-head: chamber
-entry: "<a href='/digital-beehive/num4/num_1106'>873 [Chamber]</a>"
-topic: 
+head: centones
+entry: "<a href='/digital-beehive/num7/num_2378/'>1585 [Verses]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-49447c7ca"
-unparsed: 
-line: 'Head: chamber|Entry: 873 [Chamber]|#item-49447c7ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,2450,459,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532100787131
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1130,2450,459,114/150,/0/default.jpg
-label: chamber
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d25357182"
+unparsed:
+line: 'Head: centones|Entry: 1585 [Verses]|#item-d25357182'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1122,1568,473,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099541958
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1122,1568,473,103/150,/0/default.jpg
+label: centones
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0591'
 layout: index_item
 collection: index1

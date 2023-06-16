@@ -2,29 +2,28 @@
 pid: index_2280
 volume: Volume 3
 image_number: '28'
-head: lie
-entry: "<a href='/digital-beehive/alpha3/alpha_0537/'>a</a>|<a href='/digital-beehive/num3/num_0645'>513
-  [Lies]</a>|<a href='/digital-beehive/toc/toc2_374/'>2085 [Lying]</a>|<a href='/digital-beehive/toc/toc2_432/'>4816
-  [WORD_MISSING]</a>"
-topic: 
+head: liberality
+entry: "<a href='/digital-beehive/alpha3/alpha_0535/'>a</a>|<a href='/digital-beehive/num5/num_1528/'>1127
+  [Liberality]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1afa17c10"
-unparsed: 
-line: 'Head: lie|Entry: a|Entry: 513 [Lies]|Entry: 2085 [Lying]|Entry: 4816 [WORD_MISSING]|#item-1afa17c10'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1135,2641,690,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559846607291
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1135,2641,690,123/150,/0/default.jpg
-label: lie
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8b7010643"
+unparsed:
+line: 'Head: liberality|Entry: a|Entry: 1127 [Liberality]|#item-8b7010643'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1132,1644,601,167/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559845697574
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1132,1644,601,167/150,/0/default.jpg
+label: liberality
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '362'
 layout: index_item
 collection: index3

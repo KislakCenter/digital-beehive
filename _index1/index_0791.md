@@ -2,27 +2,31 @@
 pid: index_0791
 volume: Volume 3
 image_number: '14'
-head: to confront
-entry: "<a href='/digital-beehive/toc/toc2_279/'>1427 [To Confront]</a>"
-topic: 
+head: conscience
+entry: "<a href='/digital-beehive/alpha1/alpha_0172/'>a</a>|<a href='/digital-beehive/num1/num_0146/'>141
+  [Conscience]</a>|<a href='/digital-beehive/num1/num_0147/'>142 [Evil Conscience]</a>|<a
+  href='/digital-beehive/num5/num_1462/'>1085 [Conscience]</a>|<a href='/digital-beehive/num8/num_2882/'>1958
+  [Conscience]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-01cc9a84f"
-unparsed: 
-line: 'Head: to confront|Entry: 1427 [To Confront]|#item-01cc9a84f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1185,251,589,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541060263
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1185,251,589,130/150,/0/default.jpg
-label: to confront
+page:
+add:
+xref:
+see:
+index:
+item: "#item-15f9ae111"
+unparsed:
+line: 'Head: conscience|Entry: a|Entry: 141 [Conscience]|Entry: 142 [Evil Conscience]|Entry:
+  1085 [Conscience]|Entry: 1958 [Conscience]|#item-15f9ae111'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1185,675,179/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537541428294
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1158,1185,675,179/150,/0/default.jpg
+label: conscience
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0790'
 layout: index_item
 collection: index1

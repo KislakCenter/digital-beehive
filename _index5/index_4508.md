@@ -2,28 +2,28 @@
 pid: index_4508
 volume: Volume 3
 image_number: '52'
-head: wedding
-entry: "<a href='/digital-beehive/toc/toc2_235/'>1208 [Wedding]</a>"
-topic: 
+head: wholly
+entry: 755 [PAGE_MISSING]
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-06bdb6b16"
-unparsed: 
-line: 'Head: wedding|Entry: 1208 [Wedding]|#item-06bdb6b16'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1109,238,462,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560968051939
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/1109,238,462,166/150,/0/default.jpg
-label: wedding
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5060253d4"
+unparsed:
+line: 'Head: wholly|Entry: 755 [PAGE_MISSING]|#item-5060253d4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1762,1028,449,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560971613585
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1762,1028,449,169/150,/0/default.jpg
+label: wholly
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '470'
+issue:
+insertion_xref:
+order: '471'
 layout: index_item
 collection: index5
 ---

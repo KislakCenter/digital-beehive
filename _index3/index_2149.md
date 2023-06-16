@@ -2,27 +2,27 @@
 pid: index_2149
 volume: Volume 3
 image_number: '27'
-head: to keep under
-entry: 828 [PAGE_MISSING]
-topic: 
-first_letter: K
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-46c410059"
-unparsed: 
-line: 'Head: to keep under|Entry: 828 [PAGE_MISSING]|#item-46c410059'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/135,3435,459,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559759598099
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/135,3435,459,103/150,/0/default.jpg
-label: to keep under
+head: laplanders
+entry: "<a href='/digital-beehive/num6/num_1837/'>1316 [Laplanders]</a>"
+topic:
+first_letter: L
+page:
+add:
+xref:
+see:
+index:
+item: "#item-15c559e4c"
+unparsed:
+line: 'Head: laplanders|Entry: 1316 [Laplanders]|#item-15c559e4c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559835474983
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1553,1152,478,150/150,/0/default.jpg
+label: laplanders
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '231'
 layout: index_item
 collection: index3

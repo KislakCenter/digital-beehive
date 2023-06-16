@@ -2,28 +2,28 @@
 pid: index_4711
 volume: Volume 3
 image_number: '54'
-head: I or You may
-entry: "<a href='/digital-beehive/num3/num_1069'>723 [Perhaps]</a>"
-topic: 
+head: to like
+entry:
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c6809b0de"
-unparsed: Type Index|Insertion [:43.]
-line: 'Type: Index|Insertion: [:43.]|Head: I or You may|Entry: 723 [Perhaps]|#item-c6809b0de'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,2884,582,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955895806
-insertion: "[:43.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1059,2884,582,129/150,/0/default.jpg
-label: I or You may
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0211/'>approbation</a>"
+index:
+item: "#item-a1ec520c5"
+unparsed: Type Index|Insertion [:62.]
+line: 'Type: Index|Insertion: [:62.]|Head: to like|See: approbation|#item-a1ec520c5'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1764,2244,736,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957495704
+insertion: "[:62.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1764,2244,736,164/150,/0/default.jpg
+label: to like
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '673'
+issue:
+insertion_xref:
+order: '674'
 layout: index_item
 collection: index5
 ---

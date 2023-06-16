@@ -2,28 +2,28 @@
 pid: index_0962
 volume: Volume 3
 image_number: '15'
-head: deafness
-entry: "<a href='/digital-beehive/num2/num_0598/'>479 [Deaf]</a>"
-topic: 
-first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-33c27d8ca"
-unparsed: 
-line: 'Head: deafness|Entry: 479 [Deaf]|#item-33c27d8ca'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1481,2625,490,124/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391865199
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1481,2625,490,124/150,/0/default.jpg
-label: deafness
+head: cunning
+entry:
+topic:
+first_letter: C
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0964/'>craftiness</a>"
+index:
+item: "#item-00b1f85ec"
+unparsed:
+line: 'Head: cunning|See: craftiness|#item-00b1f85ec'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/844,3268,649,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538578032042
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/844,3268,649,137/150,/0/default.jpg
+label: cunning
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0961'
+issue:
+insertion_xref:
+order: '0960'
 layout: index_item
 collection: index1
 ---

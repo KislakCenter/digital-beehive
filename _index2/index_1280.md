@@ -2,27 +2,27 @@
 pid: index_1280
 volume: Volume 3
 image_number: '19'
-head: epidemical
-entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
-topic: 
+head: executors
+entry: "<a href='/digital-beehive/num11/num_3528/'>4833 [Executors]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-da27a0159"
-unparsed: 
-line: 'Head: epidemical|Entry: 1330 [To infect]|#item-da27a0159'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559842657352
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/129,565,596,130/150,/0/default.jpg
-label: epidemical
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cecce5fda"
+unparsed:
+line: 'Head: executors|Entry: 4833 [Executors]|#item-cecce5fda'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1580,377,530,84/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561041868924
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/1580,377,530,84/150,/0/default.jpg
+label: executors
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '099'
 layout: index_item
 collection: index2

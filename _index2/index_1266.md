@@ -2,27 +2,27 @@
 pid: index_1266
 volume: Volume 3
 image_number: '18'
-head: enough
-entry: "<a href='/digital-beehive/num1/num_0229/'>218 [Sufficient]</a>"
-topic: 
+head: great Eaters, and to eat
+entry: 823 [PAGE_MISSING]
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c81f6e378"
-unparsed: 
-line: 'Head: enough|Entry: 218 [Sufficient]|#item-c81f6e378'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835408251
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1861,2566,421,167/150,/0/default.jpg
-label: enough
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e27c96a34"
+unparsed:
+line: 'Head: great Eaters, and to eat|Entry: 823 [PAGE_MISSING]|#item-e27c96a34'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668280438
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/380,3243,621,180/150,/0/default.jpg
+label: great Eaters, and to eat
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '085'
 layout: index_item
 collection: index2

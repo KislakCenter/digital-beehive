@@ -2,27 +2,27 @@
 pid: index_2513
 volume: Volume 3
 image_number: '30'
-head: milky way
-entry: "<a href='/digital-beehive/toc/toc2_309/'>1575 [Milky way]</a>"
-topic: 
+head: ministra[ti]on
+entry:
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bf0334b6e"
-unparsed: 
-line: 'Head: milky way|Entry: 1575 [Milky way]|#item-bf0334b6e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560274054962
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1835,1779,527,145/150,/0/default.jpg
-label: milky way
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1133/'>dispensation</a>"
+index:
+item: "#item-179ef4b35"
+unparsed:
+line: 'Head: ministra[ti]on|See: dispensation|#item-179ef4b35'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1840,2802,663,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560274648632
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1840,2802,663,152/150,/0/default.jpg
+label: ministra[ti]on
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '595'
 layout: index_item
 collection: index3

@@ -2,27 +2,27 @@
 pid: index_2722
 volume: Volume 3
 image_number: '32'
-head: noisom
-entry: "<a href='/digital-beehive/num3/num_0914'>662 [Irksomness]</a>"
-topic: 
+head: next
+entry: "<a href='/digital-beehive/num3/num_1020/'>703 [Near]</a>|813 [PAGE_MISSING]"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3601399b7"
-unparsed: 
-line: 'Head: noisom|Entry: 662 [Irksomness]|#item-3601399b7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560448711086
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1843,1322,423,106/150,/0/default.jpg
-label: noisom
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0bfff185e"
+unparsed:
+line: 'Head: next|Entry: 703 [Near]|Entry: 813 [PAGE_MISSING]|#item-0bfff185e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1140,2724,518,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560443226099
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1140,2724,518,95/150,/0/default.jpg
+label: next
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '804'
 layout: index_item
 collection: index3

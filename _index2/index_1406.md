@@ -2,27 +2,27 @@
 pid: index_1406
 volume: Volume 3
 image_number: '20'
-head: fashion
-entry: 
-topic: 
+head: favour & disfavour
+entry: "<a href='/digital-beehive/num6/num_1927/'>1359 [Favour of Princes]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0085/'>alamode</a>"
-index: 
-item: "#item-1c65f86e4"
-unparsed: 
-line: 'Head: fashion|See: alamode|#item-1c65f86e4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,3118,690,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561659944386
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/374,3118,690,108/150,/0/default.jpg
-label: fashion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a9b107b5b"
+unparsed:
+line: 'Head: favour & disfavour|Entry: 1359 [Favour of Princes]|#item-a9b107b5b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661605111
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1129,784,700,153/150,/0/default.jpg
+label: favour & disfavour
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '225'
 layout: index_item
 collection: index2

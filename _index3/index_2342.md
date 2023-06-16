@@ -2,30 +2,28 @@
 pid: index_2342
 volume: Volume 3
 image_number: '29'
-head: love of our neighbour
-entry: "<a href='/digital-beehive/alpha3/alpha_0557/'>a</a>|<a href='/digital-beehive/toc/toc2_209/'>1079
-  [Love of Neighbours]</a>|<a href='/digital-beehive/toc/toc2_422/'>4447 [Love of
-  Neighbours]</a>"
-topic: 
+head: lookingglass
+entry: "<a href='/digital-beehive/alpha3/alpha_0551/'>a</a>|<a href='/digital-beehive/num9/num_3036/'>2100
+  [Lookingglass]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ec9e131c5"
-unparsed: 
-line: 'Head: love of our neighbour|Entry: a|Entry: 1079 [Love of Neighbours]|Entry:
-  4447 [Love of Neighbours]|#item-ec9e131c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2226,673,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560179385665
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/174,2226,673,133/150,/0/default.jpg
-label: love of our neighbour
+page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-417e3b4fa"
+unparsed:
+line: 'Head: lookingglass|Page: p.38 [Image 1.98]|Entry: a|Entry: 2100 [Lookingglass]|#item-417e3b4fa'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177800842
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/172,752,696,142/150,/0/default.jpg
+label: lookingglass
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '424'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_4417
 volume: Volume 3
 image_number: '51'
-head: unsensible
-entry: "<a href='/digital-beehive/num2/num_0421/'>358 [Unsensible]</a>"
-topic: 
-first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3e1ba44db"
-unparsed: 
-line: 'Head: unsensible|Entry: 358 [Unsensible]|#item-3e1ba44db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/218,1375,518,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561645568056
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/218,1375,518,159/150,/0/default.jpg
-label: unsensible
+head: wakes
+entry:
+topic:
+first_letter: W
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0323/'>bacchanals</a>"
+index:
+item: "#item-6c3aead0e"
+unparsed:
+line: 'Head: wakes|See: bacchanals|#item-6c3aead0e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647591164
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1633,603,679,149/150,/0/default.jpg
+label: wakes
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '379'
+issue:
+insertion_xref:
+order: '380'
 layout: index_item
 collection: index5
 ---

@@ -2,27 +2,27 @@
 pid: index_0915
 volume: Volume 3
 image_number: '15'
-head: crown
-entry: "<a href='/digital-beehive/alpha1/alpha_0198/'>a</a>|4544 [PAGE_MISSING]"
-topic: 
+head: Counter-witchcraft
+entry: "<a href='/digital-beehive/num9/num_3158/'>2215 [Counter mining of Witchcraft]</a>"
+topic:
 first_letter: C
-page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f2a2a381f"
-unparsed: 
-line: 'Head: crown|Page: p.4 [Image 1.64]|Entry: a|Entry: 4544 [PAGE_MISSING]|#item-f2a2a381f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577704025
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/864,2295,677,128/150,/0/default.jpg
-label: crown
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4e6d6983b"
+unparsed:
+line: 'Head: Counter-witchcraft|Entry: 2215 [Counter mining of Witchcraft]|#item-4e6d6983b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/132,1848,740,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537974514396
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/132,1848,740,110/150,/0/default.jpg
+label: Counter-witchcraft
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0914'
 layout: index_item
 collection: index1

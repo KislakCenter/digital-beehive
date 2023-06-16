@@ -2,29 +2,28 @@
 pid: index_1797
 volume: Volume 3
 image_number: '23'
-head: help
-entry: "<a href='/digital-beehive/alpha2/alpha_0411/'>a</a>|<a href='/digital-beehive/toc/toc2_241/'>1240
-  [Help]</a>|<a href='/digital-beehive/toc/toc2_393/'>2249 [Help]</a>"
-topic: 
-first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a615b0606"
-unparsed: 
-line: 'Head: help|Entry: a|Entry: 1240 [Help]|Entry: 2249 [Help]|#item-a615b0606'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1522,2410,581,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559571431397
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1522,2410,581,138/150,/0/default.jpg
-label: help
+head: a gypsie
+entry: "<a href='/digital-beehive/num7/num_2333/'>1561 [[AE]gyptians]</a>"
+topic:
+first_letter: G
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e9eeb26ee"
+unparsed:
+line: 'Head: a gypsie|Entry: 1561 [[AE]gyptians]|#item-e9eeb26ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,3125,482,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233954917
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/142,3125,482,124/150,/0/default.jpg
+label: a gypsie
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '615'
+issue:
+insertion_xref:
+order: '616'
 layout: index_item
 collection: index2
 ---

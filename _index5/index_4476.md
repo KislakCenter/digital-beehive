@@ -2,29 +2,28 @@
 pid: index_4476
 volume: Volume 3
 image_number: '51'
-head: warlike discipline
-entry: a
-topic: 
+head: to wag
+entry: "<a href='/digital-beehive/num3/num_0851/'>629 [To Quake]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cf8057b33"
-unparsed: 
-line: 'Head: warlike discipline|Entry: a|#item-cf8057b33'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648401625
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1641,2433,659,175/150,/0/default.jpg
-label: warlike discipline
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c16d74c84"
+unparsed:
+line: 'Head: to wag|Entry: 629 [To Quake]|#item-c16d74c84'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/957,3184,432,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561647209291
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/957,3184,432,134/150,/0/default.jpg
+label: to wag
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
-  he means to direct the reader to "martial discipline."
-insertion_xref: 
-order: '438'
+issue:
+insertion_xref:
+order: '439'
 layout: index_item
 collection: index5
 ---

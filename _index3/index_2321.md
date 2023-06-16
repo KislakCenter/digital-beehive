@@ -1,28 +1,28 @@
 ---
 pid: index_2321
 volume: Volume 3
-image_number: '29'
-head: long
-entry: "<a href='/digital-beehive/alpha3/alpha_0546/'>a</a>|820 [PAGE_MISSING]"
-topic: 
+image_number: '28'
+head: legislature
+entry: "<a href='/digital-beehive/num8/num_2709/'>1778 [Legislative power]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c46fe0234"
-unparsed: 
-line: 'Head: long|Entry: a|Entry: 820 [PAGE_MISSING]|#item-c46fe0234'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/189,224,373,162/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560175819634
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/189,224,373,162/150,/0/default.jpg
-label: long
-location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4e8340e41"
+unparsed:
+line: 'Head: legislature|Entry: 1778 [Legislative power]|#item-4e8340e41'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/404,3582,562,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843008051
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/404,3582,562,120/150,/0/default.jpg
+label: legislature
+location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
+issue:
+insertion_xref:
 order: '403'
 layout: index_item
 collection: index3

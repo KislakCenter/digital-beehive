@@ -2,29 +2,27 @@
 pid: index_1988
 volume: Volume 3
 image_number: '25'
-head: inamoured
-entry: "<a href='/digital-beehive/toc/toc2_258/'>1324 [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_336/'>1716
-  [Inamoured]</a>|<a href='/digital-beehive/toc/toc2_440/'>4862 [Inamoured]</a>"
-topic: 
+head: imprisonmt
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-099db045d"
-unparsed: 
-line: 'Head: inamoured|Entry: 1324 [Inamoured]|Entry: 1716 [Inamoured]|Entry: 4862
-  [Inamoured]|#item-099db045d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559669565220
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/1582,377,738,179/150,/0/default.jpg
-label: inamoured
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3135/'>prison</a>"
+index:
+item: "#item-45948aa65"
+unparsed:
+line: 'Head: imprisonmt|See: prison|#item-45948aa65'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559667079955
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/836,2460,685,140/150,/0/default.jpg
+label: imprisonmt
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '070'
 layout: index_item
 collection: index3

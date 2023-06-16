@@ -2,27 +2,27 @@
 pid: index_2477
 volume: Volume 3
 image_number: '30'
-head: to melt
-entry: "<a href='/digital-beehive/num3/num_1052'>716 [to Melt]</a>"
-topic: 
+head: melon
+entry: 828 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-416d53cb5"
-unparsed: 
-line: 'Head: to melt|Entry: 716 [to Melt]|#item-416d53cb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1103,1485,496,180/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268242535
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1103,1485,496,180/150,/0/default.jpg
-label: to melt
+page:
+add:
+xref:
+see:
+index:
+item: "#item-90ddb83bc"
+unparsed:
+line: 'Head: melon|Entry: 828 [PAGE_MISSING]|#item-90ddb83bc'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1133,1381,427,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560268162791
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1133,1381,427,118/150,/0/default.jpg
+label: melon
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '559'
 layout: index_item
 collection: index3

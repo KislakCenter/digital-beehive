@@ -2,28 +2,29 @@
 pid: index_4158
 volume: Volume 3
 image_number: '47'
-head: tin
-entry: 
-topic: 
+head: titles
+entry: "<a href='/digital-beehive/alpha5/alpha_0964/'>a</a>|<a href='/digital-beehive/num6/num_2091/'>1435
+  [Titles of honour]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index4/index_2977/'>pewter</a>"
-index: 
-item: "#item-a23ef3708"
-unparsed: 
-line: 'Head: tin|See: pewter|#item-a23ef3708'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560281050415
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1606,2819,487,129/150,/0/default.jpg
-label: tin
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6f9a43914"
+unparsed:
+line: 'Head: titles|Entry: a|Entry: 1435 [Titles of honour]|#item-6f9a43914'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1655,3288,518,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281509265
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1655,3288,518,136/150,/0/default.jpg
+label: titles
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '120'
+issue:
+insertion_xref:
+order: '121'
 layout: index_item
 collection: index5
 ---

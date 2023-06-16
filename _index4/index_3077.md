@@ -2,28 +2,29 @@
 pid: index_3077
 volume: Volume 3
 image_number: '36'
-head: portugal
-entry: "<a href='/digital-beehive/toc/toc2_429/'>4798 [Portugal]</a>"
-topic: 
+head: preaching
+entry: "<a href='/digital-beehive/alpha4/alpha_0730/'>a</a>|<a href='/digital-beehive/num3/num_0644/'>512
+  [Preaching]</a>|<a href='/digital-beehive/num8/num_2892/'>1967 [Preaching]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d86e36251"
-unparsed: 
-line: 'Head: portugal|Entry: 4798 [Portugal]|#item-d86e36251'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1203,1226,533,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438547024
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1203,1226,533,105/150,/0/default.jpg
-label: portugal
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b38545441"
+unparsed:
+line: 'Head: preaching|Entry: a|Entry: 512 [Preaching]|Entry: 1967 [Preaching]|#item-b38545441'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548440217986
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1884,1456,685,139/150,/0/default.jpg
+label: preaching
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0326'
+issue:
+insertion_xref:
+order: '0325'
 layout: index_item
 collection: index4
 ---

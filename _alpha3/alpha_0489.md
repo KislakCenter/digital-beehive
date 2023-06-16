@@ -2,28 +2,28 @@
 pid: alpha_0489
 volume: Volume 2
 image_number: '24'
-head: 
-entry: Island
-topic: Island
+head:
+entry: Inward man
+topic: Inward man
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index3/index_2122/'>island</a>"
-item: "#item-a2deb4cdb"
-unparsed: 
-line: 'Entry: Island|Topic: Island|Index: island|#item-a2deb4cdb'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,3006,327/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564761925565
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0491/692,3133,600,180/250,/0/default.jpg
-label: Island
+page:
+add:
+xref: "<a href='/digital-beehive/num10/num_3345/'>2373 [Inward Man]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2072/'>inward man</a>"
+item: "#item-1400086d0"
+unparsed:
+line: 'Entry: Inward man|Topic: Inward man|Xref: 2373 [Inward Man]|Index: inward man|#item-1400086d0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/684,1859,3083,568/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564761733559
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0491/684,1859,600,180/250,/0/default.jpg
+label: Inward man
 location: "<a href='/digital-beehive/toc/toc2_014/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '045'
+issue:
+also_in_entry:
+order: '042'
 layout: alpha_item
 collection: alpha3
 ---

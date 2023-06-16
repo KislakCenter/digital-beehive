@@ -23,7 +23,7 @@ label: swelling
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1260'
+order: '1259'
 layout: index_item
 collection: index4
 ---

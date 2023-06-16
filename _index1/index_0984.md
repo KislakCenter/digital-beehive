@@ -2,28 +2,28 @@
 pid: index_0984
 volume: Volume 3
 image_number: '16'
-head: deep
-entry: 738 [PAGE_MISSING]
-topic: 
+head: deism
+entry: "<a href='/digital-beehive/num8/num_2729/'>1796 [Deism]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5a0b83f7d"
-unparsed: 
-line: 'Head: deep|Entry: 738 [PAGE_MISSING]|#item-5a0b83f7d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/337,1291,363,119/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540570754948
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/337,1291,363,119/150,/0/default.jpg
-label: deep
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5d655e6ea"
+unparsed:
+line: 'Head: deism|Entry: 1796 [Deism]|#item-5d655e6ea'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/382,2766,397,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565623762471
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/382,2766,397,117/150,/0/default.jpg
+label: deism
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0983'
+issue:
+insertion_xref:
+order: '0982'
 layout: index_item
 collection: index1
 ---

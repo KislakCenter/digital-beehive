@@ -2,28 +2,28 @@
 pid: index_1808
 volume: Volume 3
 image_number: '23'
-head: herdsmen
-entry: "<a href='/digital-beehive/toc/toc2_355/'>1929 [Shepherds]</a>"
-topic: 
+head: hazard
+entry:
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0568/'>cattel</a>"
-index: 
-item: "#item-2cd310b1a"
-unparsed: 
-line: 'Head: herdsmen|See: cattel|Entry: 1929 [Shepherds]|#item-2cd310b1a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,3348,763,165/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559572458192
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1509,3348,763,165/150,/0/default.jpg
-label: herdsmen
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0028/'>adventure</a>"
+index:
+item: "#item-8988557ba"
+unparsed:
+line: 'Head: hazard|See: adventure|#item-8988557ba'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559241946776
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/814,3540,673,164/150,/0/default.jpg
+label: hazard
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '626'
+issue:
+insertion_xref:
+order: '627'
 layout: index_item
 collection: index2
 ---

@@ -2,28 +2,29 @@
 pid: alpha_0209
 volume: Volume 1
 image_number: '447'
-head: 
-entry: Dearth
-topic: Dearth
+head:
+entry: Danger
+topic: Danger
 first_letter: D
-page: 
-add: 
-xref: "<a href='/digital-beehive/num3/num_0717'>563 [Dearth]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0964/'>dearth</a>"
-item: "#item-801e3b1cc"
-unparsed: 
-line: 'Entry: Dearth|Topic: Dearth|Xref: 563 [Dearth]|Index: dearth|#item-801e3b1cc'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/424,4160,2974,323/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507322171479
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0446/424,4160,600,180/250,/0/default.jpg
-label: Dearth
+page:
+add:
+xref: 907 [Pinch]|<a href='/digital-beehive/num3/num_0934/'>673 [Danger]</a>
+see:
+index: "<a href='/digital-beehive/index1/index_0898/'>danger</a>"
+item: "#item-84f269f52"
+unparsed:
+line: 'Entry: Danger|Topic: Danger|Xref: 907 [Pinch]|Xref: 673 [Danger]|Index: danger|#item-84f269f52'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/357,2723,3119,604/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563913584108
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0446/357,2723,600,180/250,/0/default.jpg
+label: Danger
 location: "<a href='/digital-beehive/toc/toc1_437/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '207'
+issue: The point of reference for "Pinch" is unclear. Pastorius perhaps intends numerical
+  entry 645 [Pinch].
+also_in_entry:
+order: '208'
 layout: alpha_item
 collection: alpha1
 ---

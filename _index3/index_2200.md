@@ -2,28 +2,27 @@
 pid: index_2200
 volume: Volume 3
 image_number: '27'
-head: large
-entry: "<a href='/digital-beehive/num3/num_0860'>635 [Great, rich & eminent Persons]</a>|800
-  [PAGE_MISSING]"
-topic: 
+head: latton
+entry: "<a href='/digital-beehive/num8/num_2923/'>1992 [Latton]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9d0ceed6a"
-unparsed: 
-line: 'Head: large|Entry: 635 [Great, rich & eminent Persons]|Entry: 800 [PAGE_MISSING]|#item-9d0ceed6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1572,1283,469,145/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559835569557
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1572,1283,469,145/150,/0/default.jpg
-label: large
+page:
+add:
+xref:
+see:
+index:
+item: "#item-92d2ba5a2"
+unparsed:
+line: 'Head: latton|Entry: 1992 [Latton]|#item-92d2ba5a2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559836612193
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/1546,2783,423,114/150,/0/default.jpg
+label: latton
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '282'
 layout: index_item
 collection: index3

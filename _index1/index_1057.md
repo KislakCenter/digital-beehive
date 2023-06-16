@@ -2,28 +2,28 @@
 pid: index_1057
 volume: Volume 3
 image_number: '16'
-head: Diogenes
-entry: "<a href='/digital-beehive/toc/toc2_219/'>1128 [Diogenes]</a>"
-topic: 
+head: destruction
+entry: 744 [PAGE_MISSING]
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b209da524"
-unparsed: 
-line: 'Head: Diogenes|Entry: 1128 [Diogenes]|#item-b209da524'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1801,2258,455,137/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783969797
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1801,2258,455,137/150,/0/default.jpg
-label: Diogenes
+page:
+add:
+xref:
+see:
+index:
+item: "#item-11707f99d"
+unparsed:
+line: 'Head: destruction|Entry: 744 [PAGE_MISSING]|#item-11707f99d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541605248959
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1062,3131,613,148/150,/0/default.jpg
+label: destruction
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1056'
+issue:
+insertion_xref:
+order: '1055'
 layout: index_item
 collection: index1
 ---

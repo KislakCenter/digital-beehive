@@ -2,28 +2,28 @@
 pid: index_3295
 volume: Volume 3
 image_number: '38'
-head: "[:44.]"
-entry: 
-topic: 
+head: to rebuke
+entry: "<a href='/digital-beehive/num6/num_1938/'>1365 [Rebuke, Reprove, exhort, admonish]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3c3fc3cf8"
-unparsed: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
-line: 'Type: Index|Insertion Xref: [:44.]|#item-3c3fc3cf8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1040,255,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558462787077
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/2307,1040,255,148/150,/0/default.jpg
-label: "[:44.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cb7ea0c38"
+unparsed:
+line: 'Head: to rebuke|Entry: 1365 [Rebuke, Reprove, exhort, admonish]|#item-cb7ea0c38'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1837,2438,526,166/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461838884
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1837,2438,526,166/150,/0/default.jpg
+label: to rebuke
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4712/'>Rat</a>"
-order: '0544'
+issue:
+insertion_xref:
+order: '0543'
 layout: index_item
 collection: index4
 ---

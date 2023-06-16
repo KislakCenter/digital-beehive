@@ -2,29 +2,29 @@
 pid: index_3162
 volume: Volume 3
 image_number: '37'
-head: privacy
-entry: "<a href='/digital-beehive/alpha4/alpha_0736/'>a</a>|<a href='/digital-beehive/toc/toc2_229/'>1178
-  [Privacy]</a>"
-topic: 
+head: process in law
+entry: "<a href='/digital-beehive/alpha4/alpha_0743/'>a</a>|790 [PAGE_MISSING]|4451
+  [WORD_MISSING]"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-bd3a634f6"
-unparsed: 
-line: 'Head: privacy|Entry: a|Entry: 1178 [Privacy]|#item-bd3a634f6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867539151
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/764,415,598,149/150,/0/default.jpg
-label: privacy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5936ca540"
+unparsed:
+line: 'Head: process in law|Entry: a|Entry: 790 [PAGE_MISSING]|Entry: 4451 [WORD_MISSING]|#item-5936ca540'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867783744
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/802,1187,662,152/150,/0/default.jpg
+label: process in law
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0411'
+issue:
+insertion_xref:
+order: '0410'
 layout: index_item
 collection: index4
 ---

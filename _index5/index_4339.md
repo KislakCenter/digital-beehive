@@ -2,28 +2,28 @@
 pid: index_4339
 volume: Volume 3
 image_number: '49'
-head: virgil
-entry: "<a href='/digital-beehive/toc/toc2_345/'>1788 [Virgil's]</a>"
-topic: 
+head: vitious
+entry:
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7a93fc96b"
-unparsed: 
-line: 'Head: virgil|Entry: 1788 [Virgil''s]|#item-7a93fc96b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1661,2270,425,120/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660984866
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1661,2270,425,120/150,/0/default.jpg
-label: virgil
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0237/'>bad</a>|<a href='/digital-beehive/index1/index_0865/'>corrupt</a>"
+index:
+item: "#item-1dc1368f8"
+unparsed:
+line: 'Head: vitious|See: bad|See: corrupt|#item-1dc1368f8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661566898
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1654,3188,629,146/150,/0/default.jpg
+label: vitious
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '301'
+issue:
+insertion_xref:
+order: '302'
 layout: index_item
 collection: index5
 ---

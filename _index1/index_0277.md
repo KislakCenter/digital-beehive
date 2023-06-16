@@ -2,27 +2,27 @@
 pid: index_0277
 volume: Volume 3
 image_number: '9'
-head: baldness
-entry: "<a href='/digital-beehive/alpha1/alpha_0054/'>a</a>|4831 [PAGE_MISSING]"
-topic: 
+head: bean
+entry: "<a href='/digital-beehive/alpha1/alpha_0066/'>a</a>"
+topic:
 first_letter: B
-page: "<a href='/digital-beehive/toc/toc1_093/'>p.43 [Image 1.103]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-19fb3de50"
-unparsed: 
-line: 'Head: baldness|Page: p.43 [Image 1.103]|Entry: a|Entry: 4831 [PAGE_MISSING]|#item-19fb3de50'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505403183123
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/899,926,682,163/150,/0/default.jpg
-label: baldness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ffd4c38c6"
+unparsed:
+line: 'Head: bean|Entry: a|#item-ffd4c38c6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1607,1458,256,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530891381881
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/1607,1458,256,103/150,/0/default.jpg
+label: bean
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0276'
 layout: index_item
 collection: index1

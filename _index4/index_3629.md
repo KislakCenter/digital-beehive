@@ -2,29 +2,29 @@
 pid: index_3629
 volume: Volume 3
 image_number: '42'
-head: Self will
-entry: "<a href='/digital-beehive/alpha4/alpha_0855/'>a</a>|<a href='/digital-beehive/toc/toc2_186/'>1005
-  [Self will]</a>"
-topic: 
+head: sermon
+entry: "<a href='/digital-beehive/num6/num_2031/'>1409 [a Sermon]</a>|<a href='/digital-beehive/num10/num_3462/'>4475
+  [Sermon]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-45b3e3bdf"
-unparsed: 
-line: 'Head: Self will|Entry: a|Entry: 1005 [Self will]|#item-45b3e3bdf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/398,2581,554,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244963434
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/398,2581,554,100/150,/0/default.jpg
-label: Self will
+page:
+add:
+xref:
+see:
+index:
+item: "#item-796f171f1"
+unparsed:
+line: 'Head: sermon|Entry: 1409 [a Sermon]|Entry: 4475 [Sermon]|#item-796f171f1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559573737796
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1119,812,689,132/150,/0/default.jpg
+label: sermon
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0878'
+issue:
+insertion_xref:
+order: '0877'
 layout: index_item
 collection: index4
 ---

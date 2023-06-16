@@ -2,29 +2,31 @@
 pid: alpha_0824
 volume: Volume 2
 image_number: '49'
-head: 
-entry: Saints
-topic: Saints
+head:
+entry: Sabbath
+topic: Sabbath
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0424/'>holiness</a>|<a href='/digital-beehive/toc/toc2_380/'>2149
-  [Saints]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3495/'>Saints</a>"
-item: "#item-dd78f757e"
-unparsed: 
-line: 'Entry: Saints|Topic: Saints|Xref: holiness|Xref: 2149 [Saints]|Index: Saints|#item-dd78f757e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,3018,451/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528917835756
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0516/329,4282,600,180/250,/0/default.jpg
-label: Saints
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0325/'>feast</a>|<a href='/digital-beehive/alpha4/alpha_0802/'>rest</a>|<a
+  href='/digital-beehive/alpha4/alpha_0932/'>Sunday</a>|<a href='/digital-beehive/num4/num_1239/'>930
+  [Sabbath]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3449/'>Sabbath</a>"
+item: "#item-6fe1d9d82"
+unparsed:
+line: 'Entry: Sabbath|Topic: Sabbath|Xref: feast|Xref: rest|Xref: Sunday|Xref: 930
+  [Sabbath]|Index: Sabbath|#item-6fe1d9d82'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/324,2576,2984,494/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1527864084820
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0516/324,2576,600,180/250,/0/default.jpg
+label: Sabbath
 location: "<a href='/digital-beehive/toc/toc2_039/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '176'
+issue:
+also_in_entry:
+order: '172'
 layout: alpha_item
 collection: alpha4
 ---

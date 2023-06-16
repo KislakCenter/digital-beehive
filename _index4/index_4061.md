@@ -3,7 +3,7 @@ pid: index_4061
 volume: Volume 3
 image_number: '46'
 head: synagogues
-entry: "<a href='/digital-beehive/num8/num_2812/'>1916 [Synagogues]</a>"
+entry: "<a href='/digital-beehive/num8/num_2813/'>1916 [Synagogues]</a>"
 topic:
 first_letter: S
 page:
@@ -23,7 +23,7 @@ label: synagogues
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1280'
+order: '1279'
 layout: index_item
 collection: index4
 ---

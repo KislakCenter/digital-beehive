@@ -2,27 +2,27 @@
 pid: index_0284
 volume: Volume 3
 image_number: '9'
-head: bank
-entry: 
-topic: 
+head: banner
+entry: "<a href='/digital-beehive/alpha1/alpha_0056/'>a</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4226/'>treasure</a>"
-index: 
-item: "#item-121ec3414"
-unparsed: 
-line: 'Head: bank|See: treasure|#item-121ec3414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1562,591,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1505404121976
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0952/902,1562,591,171/150,/0/default.jpg
-label: bank
+page:
+add:
+xref:
+see:
+index:
+item: "#item-bf3ffa32c"
+unparsed:
+line: 'Head: banner|Entry: a|#item-bf3ffa32c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/917,1703,362,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1505404152649
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0952/917,1703,362,116/150,/0/default.jpg
+label: banner
 location: "<a href='/digital-beehive/toc/toc3_09/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0283'
 layout: index_item
 collection: index1

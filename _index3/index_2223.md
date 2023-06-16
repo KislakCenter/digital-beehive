@@ -2,27 +2,28 @@
 pid: index_2223
 volume: Volume 3
 image_number: '27'
-head: Lawbooks
-entry: "<a href='/digital-beehive/toc/toc2_294/'>1501 [English Law books]</a>"
-topic: 
-first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-654ee50f7"
-unparsed: 
-line: 'Head: Lawbooks|Entry: 1501 [English Law books]|#item-654ee50f7'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1523,3584,489,112/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559837416972
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/1523,3584,489,112/150,/0/default.jpg
-label: Lawbooks
+head: key
+entry: "<a href='/digital-beehive/alpha3/alpha_0501/'>a</a>|<a href='/digital-beehive/num6/num_1807/'>1294
+  [Keys]</a>"
+topic:
+first_letter: K
+page: "<a href='/digital-beehive/toc/toc1_080/'>p.30 [Image 1.90]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-cfd9a74c8"
+unparsed:
+line: 'Head: key|Page: p.30 [Image 1.90]|Entry: a|Entry: 1294 [Keys]|#item-cfd9a74c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,3575,548,162/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559759826805
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0970/134,3575,548,162/150,/0/default.jpg
+label: key
 location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '305'
 layout: index_item
 collection: index3

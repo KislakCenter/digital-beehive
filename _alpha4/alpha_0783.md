@@ -2,29 +2,29 @@
 pid: alpha_0783
 volume: Volume 2
 image_number: '46'
-head: 
-entry: Refusal
-topic: Refusal
+head:
+entry: Recommendation
+topic: Recommendation
 first_letter: R
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0224/'>denial</a>|806 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_3334/'>refusal</a>"
-item: "#item-eabea6e4b"
-unparsed: 
-line: 'Entry: Refusal|Topic: Refusal|Xref: denial|Xref: 806 [PAGE_MISSING]|Index:
-  refusal|#item-eabea6e4b'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,2912,399/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528739829038
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0513/817,3095,600,180/250,/0/default.jpg
-label: Refusal
+page:
+add:
+xref: 4716 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index4/index_3309/'>recom[m]endation</a>"
+item: "#item-404bc8a22"
+unparsed:
+line: 'Entry: Recommendation|Topic: Recommendation|Xref: 4716 [PAGE_MISSING]|Index:
+  recom[m]endation|#item-404bc8a22'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/851,1055,2942,617/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1523301245086
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0513/851,1055,600,180/250,/0/default.jpg
+label: Recommendation
 location: "<a href='/digital-beehive/toc/toc2_036/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '136'
+issue:
+also_in_entry:
+order: '131'
 layout: alpha_item
 collection: alpha4
 ---

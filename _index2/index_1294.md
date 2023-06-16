@@ -2,27 +2,27 @@
 pid: index_1294
 volume: Volume 3
 image_number: '19'
-head: ermin
-entry: 
-topic: 
+head: epistles
+entry:
+topic:
 first_letter: E
-page: "<a href='/digital-beehive/toc/toc1_084/'>p.34 [Image 1.94]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f57e21bba"
-unparsed: 
-line: 'Head: ermin|Page: p.34 [Image 1.94]|#item-f57e21bba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/137,2219,413,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559847355460
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0962/137,2219,413,115/150,/0/default.jpg
-label: ermin
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2262/'>letters</a>"
+index:
+item: "#item-cc5704f12"
+unparsed:
+line: 'Head: epistles|See: letters|#item-cc5704f12'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,728,551,182/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559843138418
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0962/143,728,551,182/150,/0/default.jpg
+label: epistles
 location: "<a href='/digital-beehive/toc/toc3_19/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '113'
 layout: index_item
 collection: index2

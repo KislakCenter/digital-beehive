@@ -2,29 +2,28 @@
 pid: index_4099
 volume: Volume 3
 image_number: '47'
-head: testament new
-entry: "<a href='/digital-beehive/alpha5/alpha_0947/'>a</a>|<a href='/digital-beehive/num4/num_1227'>926
-  [New Testament]</a>|<a href='/digital-beehive/toc/toc2_419/'>2426 [New Testamt]</a>"
-topic: 
+head: to tickle
+entry: "<a href='/digital-beehive/num2/num_0625/'>497 [To tickle]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5620834db"
-unparsed: 
-line: 'Head: testament new|Entry: a|Entry: 926 [New Testament]|Entry: 2426 [New Testamt]|#item-5620834db'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,3167,631,87/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529088125728
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/167,3167,631,87/150,/0/default.jpg
-label: testament new
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8545aadf7"
+unparsed:
+line: 'Head: to tickle|Entry: 497 [To tickle]|#item-8545aadf7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1593,1240,489,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565294663875
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1593,1240,489,114/150,/0/default.jpg
+label: to tickle
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '061'
+issue:
+insertion_xref:
+order: '062'
 layout: index_item
 collection: index5
 ---

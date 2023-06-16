@@ -2,28 +2,28 @@
 pid: index_2839
 volume: Volume 3
 image_number: '34'
-head: overmeasure
-entry: "<a href='/digital-beehive/toc/toc2_284/'>1452 [An Over measure]</a>"
-topic: 
-first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7990ad9cd"
-unparsed: 
-line: 'Head: overmeasure|Entry: 1452 [An Over measure]|#item-7990ad9cd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1142,676,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560276838616
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/482,1142,676,103/150,/0/default.jpg
-label: overmeasure
+head: palsie
+entry: "<a href='/digital-beehive/num3/num_0776/'>596 [The Palsie]</a>"
+topic:
+first_letter: P
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ea04dcc3b"
+unparsed:
+line: 'Head: palsie|Entry: 596 [The Palsie]|#item-ea04dcc3b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538491710692
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/1162,249,498,153/150,/0/default.jpg
+label: palsie
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0088'
+issue:
+insertion_xref:
+order: '0087'
 layout: index_item
 collection: index4
 ---

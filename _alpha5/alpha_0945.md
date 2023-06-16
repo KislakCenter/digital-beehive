@@ -1,30 +1,29 @@
 ---
 pid: alpha_0945
 volume: Volume 2
-image_number: '58'
-head: 
-entry: Testament
-topic: Testament
+image_number: '57'
+head:
+entry: Temerity
+topic: Temerity
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1034/'>Will</a>|<a href='/digital-beehive/toc/toc2_389/'>2226
-  [Will]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4097/'>testament</a>"
-item: "#item-64d9caea7"
-unparsed: 
-line: 'Entry: Testament|Topic: Testament|Xref: Will|Xref: 2226 [Will]|Index: testament|#item-64d9caea7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,3092,414/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1529087635453
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/771,792,600,180/250,/0/default.jpg
-label: Testament
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '011'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0093/'>Boldness</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4101/'>temerity</a>"
+item: "#item-71c1ec9e2"
+unparsed:
+line: 'Entry: Temerity|Topic: Temerity|Xref: Boldness|Index: temerity|#item-71c1ec9e2'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/317,3605,3114,549/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528921199930
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/317,3605,600,180/250,/0/default.jpg
+label: Temerity
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '005'
 layout: alpha_item
 collection: alpha5
 ---

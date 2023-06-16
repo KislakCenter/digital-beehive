@@ -2,27 +2,27 @@
 pid: index_2433
 volume: Volume 3
 image_number: '30'
-head: marsh
-entry: "<a href='/digital-beehive/num3/num_0891'>650 [a Fen or Marsh]</a>"
-topic: 
+head: mason
+entry: "<a href='/digital-beehive/num4/num_1182/'>907 [Mason]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3fbb96c97"
-unparsed: 
-line: 'Head: marsh|Entry; 650 [a Fen or Marsh]|#item-3fbb96c97'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/413,744,329,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560263341713
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/413,744,329,101/150,/0/default.jpg
-label: marsh
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1be11d444"
+unparsed:
+line: 'Head: mason|Entry: 907 [Mason]|#item-1be11d444'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263944771
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/408,1541,382,117/150,/0/default.jpg
+label: mason
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '515'
 layout: index_item
 collection: index3

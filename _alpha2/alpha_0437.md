@@ -1,31 +1,31 @@
 ---
 pid: alpha_0437
 volume: Volume 2
-image_number: '20'
-head: 
-entry: Humility
-topic: Humility
+image_number: '19'
+head:
+entry: Hotch potch
+topic: Hotch potch
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0062/'>baseness</a>|<a href='/digital-beehive/num4/num_1212'>917
-  [Humility]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1901/'>humility</a>"
-item: "#item-b5702089e"
-unparsed: 
-line: 'Entry: Humility|Topic: Humility|Xref: baseness|Xref: 917 [Humility]|Index:
-  humility|#item-b5702089e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,966,2899,638/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1509733594951
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/806,966,600,180/250,/0/default.jpg
-label: Humility
-location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '168'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0993/'>Variety</a>|<a href='/digital-beehive/num5/num_1396/'>1043
+  [Hotch-potch]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1832/'>hotchpotch</a>"
+item: "#item-17f0268cc"
+unparsed:
+line: 'Entry: Hotch potch|Topic: Hotch potch|Xref: Variety|Xref: 1043 [Hotch-potch]|Index:
+  hotchpotch|#item-17f0268cc'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/357,4683,3004,344/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733323497
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0486/357,4683,600,180/250,/0/default.jpg
+label: Hotch potch
+location: "<a href='/digital-beehive/toc/toc2_009/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '165'
 layout: alpha_item
 collection: alpha2
 ---

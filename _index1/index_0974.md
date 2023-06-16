@@ -2,28 +2,28 @@
 pid: index_0974
 volume: Volume 3
 image_number: '16'
-head: Debora
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1581 [Debora]</a>"
-topic: 
+head: dew
+entry: "<a href='/digital-beehive/alpha1/alpha_0234/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e59f91987"
-unparsed: 
-line: 'Head: Debora|Entry: 1581 [Debora]|#item-e59f91987'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/388,207,405,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540569939630
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/388,207,405,102/150,/0/default.jpg
-label: Debora
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5986178c3"
+unparsed:
+line: 'Head: dew|Entry: a|#item-5986178c3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1862,515,278,79/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507923429459
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/1862,515,278,79/150,/0/default.jpg
+label: dew
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0973'
+issue:
+insertion_xref:
+order: '0972'
 layout: index_item
 collection: index1
 ---

@@ -2,28 +2,28 @@
 pid: index_4338
 volume: Volume 3
 image_number: '49'
-head: virago
-entry: "<a href='/digital-beehive/num1/num_0200/'>192 [Dames governmt]</a>"
-topic: 
+head: Verdrie√üen
+entry:
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a38d077ef"
-unparsed: 
-line: 'Head: virago|Entry: 192 [Dames governmt]|#item-a38d077ef'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660960533
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1643,2215,373,126/150,/0/default.jpg
-label: virago
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1141/'>Displeasure</a>"
+index:
+item: "#item-3a9e09858"
+unparsed:
+line: 'Head: Verdrie√üen|See: Displeasure|#item-3a9e09858'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,3120,848,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658896689
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/911,3120,848,144/150,/0/default.jpg
+label: Verdrie√üen
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '300'
+issue:
+insertion_xref:
+order: '301'
 layout: index_item
 collection: index5
 ---

@@ -2,28 +2,32 @@
 pid: index_0963
 volume: Volume 3
 image_number: '15'
-head: dear friends
-entry: "<a href='/digital-beehive/toc/toc2_401/'>2286 [Dear friends]</a>"
-topic: 
+head: fear of Death
+entry: "<a href='/digital-beehive/alpha1/alpha_0215/'>a</a>|<a href='/digital-beehive/num2/num_0526/'>424
+  [Fear of death]</a>|<a href='/digital-beehive/num5/num_1605/'>1177 [Fear of Death]</a>|<a
+  href='/digital-beehive/num5/num_1700/'>1234 [Fear & Contempt of Death]</a>|4605
+  [[PAGE_MISSING]]"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a6defe56a"
-unparsed: 
-line: 'Head: dear friends|Entry: 2286 [Dear friends]|#item-a6defe56a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1542,2679,579,93/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1540391909505
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/1542,2679,579,93/150,/0/default.jpg
-label: dear friends
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a34b105b4"
+unparsed:
+line: 'Head: fear of Death|Entry: a |Entry: 424 [Fear of death]|Entry: 1177 [Fear
+  of Death]|Entry: 1234 [Fear & Contempt of Death]|Entry: 4605 [[PAGE_MISSING]]|#item-a34b105b4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1547,3304,664,163/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507572900847
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1547,3304,664,163/150,/0/default.jpg
+label: fear of Death
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0962'
+issue:
+insertion_xref:
+order: '0961'
 layout: index_item
 collection: index1
 ---

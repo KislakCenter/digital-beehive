@@ -2,27 +2,27 @@
 pid: index_2618
 volume: Volume 3
 image_number: '31'
-head: mushroom
-entry: "<a href='/digital-beehive/alpha3/alpha_0619/'>a</a>"
-topic: 
+head: moss
+entry: "<a href='/digital-beehive/num9/num_3022/'>2086 [Moss]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-665224971"
-unparsed: 
-line: 'Head: mushroom|Entry: a|#item-665224971'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560361985267
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1558,1852,465,135/150,/0/default.jpg
-label: mushroom
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9b1dc0544"
+unparsed:
+line: 'Head: moss|Entry: 2086 [Moss]|#item-9b1dc0544'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/850,3029,399,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356790729
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/850,3029,399,120/150,/0/default.jpg
+label: moss
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '700'
 layout: index_item
 collection: index3

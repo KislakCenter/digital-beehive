@@ -2,27 +2,28 @@
 pid: index_2474
 volume: Volume 3
 image_number: '30'
-head: meeting houses
-entry: "<a href='/digital-beehive/num1/num_0231/'>220 [Meeting houses]</a>"
-topic: 
+head: Queen Mary
+entry: "<a href='/digital-beehive/num6/num_2154/'>1466 [Queen Mary's]</a>|<a href='/digital-beehive/num9/num_3138/'>2195
+  [Queen Mary]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d41296294"
-unparsed: 
-line: 'Head: meeting houses|Entry: 220 [Meeting houses]|#item-d41296294'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1112,602,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560268098905
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1128,1112,602,176/150,/0/default.jpg
-label: meeting houses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-964a5eaa4"
+unparsed:
+line: 'Head: Queen Mary|Entry: 1466 [Queen Mary''s]|Entry: 2195 [Queen Mary]|#item-964a5eaa4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560263700245
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/414,1269,727,110/150,/0/default.jpg
+label: Queen Mary
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '556'
 layout: index_item
 collection: index3

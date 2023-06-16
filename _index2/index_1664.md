@@ -2,28 +2,29 @@
 pid: index_1664
 volume: Volume 3
 image_number: '22'
-head: gold
-entry: "<a href='/digital-beehive/num2/num_0272/'>251 [Gold]</a>|<a href='/digital-beehive/toc/toc2_375/'>2097
-  [Gold]</a>"
-topic: 
+head: gift
+entry: "<a href='/digital-beehive/alpha2/alpha_0363/'>a</a>|<a href='/digital-beehive/num3/num_0636/'>506
+  [Gift]</a>|<a href='/digital-beehive/num6/num_2079/'>1430 [Gift]</a>|<a href='/digital-beehive/num9/num_3160/'>2217
+  [Gift]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e933ef25b"
-unparsed: 
-line: 'Head: gold|Entry: 251 [Gold]|Entry: 2097 [Gold]|#item-e933ef25b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1178,3410,501,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561050910246
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1178,3410,501,125/150,/0/default.jpg
-label: gold
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a709afcb4"
+unparsed:
+line: 'Head: gift|Entry: a|Entry: 506 [Gift]|Entry: 1430 [Gift]|Entry: 2217 [Gift]|#item-a709afcb4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/419,2033,669,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561043447876
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/419,2033,669,131/150,/0/default.jpg
+label: gift
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '483'
 layout: index_item
 collection: index2

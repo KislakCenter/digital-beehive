@@ -2,27 +2,27 @@
 pid: index_0711
 volume: Volume 3
 image_number: '13'
-head: cochineal
-entry: "<a href='/digital-beehive/toc/toc2_315/'>1601 [Cochineal]</a>"
-topic: 
+head: com[m]iseration
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cfdc4bfc8"
-unparsed: 
-line: 'Head: cochineal|Entry: 1601 [Cochineal]|#item-cfdc4bfc8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,2606,519,114/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608287959
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/854,2606,519,114/150,/0/default.jpg
-label: cochineal
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0764/'>compass</a>"
+index:
+item: "#item-1df33587f"
+unparsed:
+line: 'Head: com[m]iseration|See: compass|#item-1df33587f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2202,771,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536611539456
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/1544,2202,771,126/150,/0/default.jpg
+label: com[m]iseration
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0710'
 layout: index_item
 collection: index1

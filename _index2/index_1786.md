@@ -2,28 +2,29 @@
 pid: index_1786
 volume: Volume 3
 image_number: '23'
-head: heavenly minded
-entry: "<a href='/digital-beehive/toc/toc2_199/'>1026 [Heavenly minded]</a>"
-topic: 
+head: hatred
+entry: "<a href='/digital-beehive/alpha2/alpha_0404/'>a</a>|747 [PAGE_MISSING]|<a
+  href='/digital-beehive/num9/num_2943/'>2009 [Hatred]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9fa2773cc"
-unparsed: 
-line: 'Head: heavenly minded|Entry: 1026 [Heavenly minded]|#item-9fa2773cc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1536,1358,517,86/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559244582576
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/1536,1358,517,86/150,/0/default.jpg
-label: heavenly minded
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c37f2742f"
+unparsed:
+line: 'Head: hatred|Entry: a|Entry: 747 [PAGE_MISSING]|Entry: 2009 [Hatred]|#item-c37f2742f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/819,2814,628,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559240962719
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/819,2814,628,150/150,/0/default.jpg
+label: hatred
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '604'
+issue:
+insertion_xref:
+order: '605'
 layout: index_item
 collection: index2
 ---

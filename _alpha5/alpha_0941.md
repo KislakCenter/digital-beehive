@@ -2,30 +2,31 @@
 pid: alpha_0941
 volume: Volume 2
 image_number: '57'
-head: 
-entry: Temperance
-topic: Temperance
+head:
+entry: Tailor
+topic: Tailor
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0233/'>Diet</a>|<a href='/digital-beehive/alpha3/alpha_0482/'>Intemperance</a>|<a
-  href='/digital-beehive/toc/toc2_247/'>1269 [Temperance]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4080/'>temperance</a>"
-item: "#item-0211a4e15"
-unparsed: 
-line: 'Entry: Temperance|Topic: Temperance|Xref: Diet|Xref: Intemperance|Xref: 1269
-  [Temperance]|Index: temperance|#item-0211a4e15'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,3041,510/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528921562478
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0524/358,4123,600,180/250,/0/default.jpg
-label: Temperance
+page:
+add:
+xref: 861 [Seamster]|604 [To sell]|<a href='/digital-beehive/num7/num_2659/'>1733
+  [Tailor]</a>
+see:
+index: "<a href='/digital-beehive/index5/index_4013/'>tailor</a>"
+item: "#item-5ba038f11"
+unparsed:
+line: 'Entry: Tailor|Topic: Tailor|Xref: 861 [Seamster]|Xref: 604 [To sell]|Xref:
+  1733 [Tailor]|Index: tailor|#item-5ba038f11'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,3118,397/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528917520882
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/334,2009,600,180/250,/0/default.jpg
+label: Tailor
 location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '007'
+issue: The point of reference for "Seamster" is unclear.|The point of reference for
+  "to sell" is unclear. Pastorius perhaps intends numerical entry 604 [to Sell].
+also_in_entry:
+order: '001'
 layout: alpha_item
 collection: alpha5
 ---

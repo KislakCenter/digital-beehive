@@ -2,28 +2,28 @@
 pid: index_3411
 volume: Volume 3
 image_number: '40'
-head: revolution
-entry: 
-topic: 
+head: roof
+entry: "<a href='/digital-beehive/num2/num_0431/'>362 [a Shingle]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2501/'>metempsychosis</a>"
-index: 
-item: "#item-67585363e"
-unparsed: 
-line: 'Head: revolution|See: metempsychosis|#item-67585363e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559231488418
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/454,776,721,164/150,/0/default.jpg
-label: revolution
+page:
+add:
+xref:
+see:
+index:
+item: "#item-194cd1463"
+unparsed:
+line: 'Head: roof|Entry: 362 [a Shingle]|#item-194cd1463'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559233394683
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/1158,1137,313,116/150,/0/default.jpg
+label: roof
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0660'
+issue:
+insertion_xref:
+order: '0659'
 layout: index_item
 collection: index4
 ---

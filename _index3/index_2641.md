@@ -2,27 +2,27 @@
 pid: index_2641
 volume: Volume 3
 image_number: '32'
-head: nickname
-entry: "<a href='/digital-beehive/num1/num_0189/'>181 [Nick-name]</a>"
-topic: 
+head: nerve
+entry: "<a href='/digital-beehive/num7/num_2499/'>1641 [Nerve : Sinew]</a>"
+topic:
 first_letter: N
-page: 
-add: Indicem Observationu[m] Onomasticarum
-xref: 
-see: 
-index: 
-item: "#item-0a1f3294e"
-unparsed: 
-line: 'Head: nickname|Entry: 181 [Nick-name]|Add: Indicem Observationu[m] Onomasticarum|#item-0a1f3294e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/380,645,822,253/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437356011
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/380,645,822,253/150,/0/default.jpg
-label: nickname
+page:
+add:
+xref:
+see:
+index:
+item: "#item-60e483734"
+unparsed:
+line: 'Head: nerve|Entry: 1641 [Nerve : Sinew]|#item-60e483734'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1171,840,394,77/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560441413268
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1171,840,394,77/150,/0/default.jpg
+label: nerve
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '723'
 layout: index_item
 collection: index3

@@ -2,28 +2,29 @@
 pid: index_4462
 volume: Volume 3
 image_number: '51'
-head: Waldenses
-entry: "<a href='/digital-beehive/num1/num_0063/'>62 [Waldenses or Lyonists]</a>"
-topic: 
+head: warlike discipline
+entry: a
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0e30db187"
-unparsed: 
-line: 'Head: Waldenses|Entry: 62 [Waldenses or Lyonists]|#item-0e30db187'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1624,760,480,156/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561647619162
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1624,760,480,156/150,/0/default.jpg
-label: Waldenses
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cf8057b33"
+unparsed:
+line: 'Head: warlike discipline|Entry: a|#item-cf8057b33'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1641,2433,659,175/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648401625
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1641,2433,659,175/150,/0/default.jpg
+label: warlike discipline
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '424'
+issue: Pastorius lists "a" but no alphabetical entry can be identified. It is likely
+  he means to direct the reader to "martial discipline."
+insertion_xref:
+order: '425'
 layout: index_item
 collection: index5
 ---

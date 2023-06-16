@@ -2,28 +2,28 @@
 pid: index_4062
 volume: Volume 3
 image_number: '46'
-head: tart
-entry: 
-topic: 
+head: taverns
+entry: "<a href='/digital-beehive/num1/num_0212/'>201 [Taverns]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4334/'>vinegar</a>"
-index: 
-item: "#item-1355497d2"
-unparsed: 
-line: 'Head: tart|See: vinegar|#item-1355497d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1820,2854,463,98/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531743482790
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0989/1820,2854,463,98/150,/0/default.jpg
-label: tart
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b21149333"
+unparsed:
+line: 'Head: taverns|Entry: 201 [Taverns]|#item-b21149333'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1799,3180,452,114/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564498548027
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0989/1799,3180,452,114/150,/0/default.jpg
+label: taverns
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '024'
+issue:
+insertion_xref:
+order: '030'
 layout: index_item
 collection: index5
 ---

@@ -1,31 +1,29 @@
 ---
 pid: alpha_0357
 volume: Volume 2
-image_number: '14'
-head: 
-entry: Gentleness
-topic: Gentleness
-first_letter: G
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0149/'>Civility</a>|<a href='/digital-beehive/alpha2/alpha_0436/'>Humanity</a>|Moderation|<a
-  href='/digital-beehive/toc/toc2_235/'>1206 [Gentleness]</a>"
-see: 
-index: "<a href='/digital-beehive/index2/index_1597/'>gentleness</a>"
-item: "#item-271a74ff6"
-unparsed: 
-line: 'Entry: Gentleness|Topic: Gentleness|Xref: Civility|Xref: Humanity|Xref: Moderation|Xref:
-  1206 [Gentleness]|Index: gentleness|#item-271a74ff6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,2983,580/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564601289798
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0481/786,657,600,180/250,/0/default.jpg
-label: Gentleness
-location: "<a href='/digital-beehive/toc/toc2_004/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '088'
+image_number: '13'
+head:
+entry: Future
+topic: Future
+first_letter: F
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_2057/'>1421 [Future]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1529/'>future</a>"
+item: "#item-bc91c9cd4"
+unparsed:
+line: 'Entry: Future|Topic: Future|Xref: 1421 [Future]|Index: future|#item-bc91c9cd4'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/401,4380,3009,655/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564600653441
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0480/401,4380,600,180/250,/0/default.jpg
+label: Future
+location: "<a href='/digital-beehive/toc/toc2_003/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '085'
 layout: alpha_item
 collection: alpha2
 ---

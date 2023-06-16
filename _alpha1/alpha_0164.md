@@ -2,28 +2,32 @@
 pid: alpha_0164
 volume: Volume 1
 image_number: '443'
-head: 
-entry: Concupiscence
-topic: Concupiscence
+head:
+entry: Company
+topic: Company
 first_letter: C
-page: 
-add: 
-xref: desire|<a href='/digital-beehive/alpha1/alpha_0012/'>Affections</a>
-see: 
-index: "<a href='/digital-beehive/index1/index_0777/'>concupiscence</a>"
-item: "#item-1688d9123"
-unparsed: 
-line: 'Entry: Concupiscence|Topic: Concupiscence|Xref: desire|Xref: Affections|Index:
-  concupiscence|#item-1688d9123'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,3084,459/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499700641626
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/405,3235,600,180/250,/0/default.jpg
-label: Concupiscence
+page:
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0298/'>Example</a>|<a href='/digital-beehive/alpha4/alpha_0897/'>Solitude</a>|<a
+  href='/digital-beehive/num3/num_0856/'>632 [Stock]</a>|<a href='/digital-beehive/num4/num_1080/'>866
+  [Train]</a>|<a href='/digital-beehive/num2/num_0319/'>283 [Company]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0746/'>company</a>"
+item: "#item-ece88d81a"
+unparsed:
+line: 'Entry: Company|Topic: Company|Xref: Example|Xref: Solitude|Xref: 632 [Stock]|Xref:
+  866 [Train]|Xref: 283 [Company]|Index: company|#item-ece88d81a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736,3167,541/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1563823827126
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/312,1736,600,180/250,/0/default.jpg
+label: Company
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue: The point of reference for "Stock" is unclear. Pastorius perhaps intends numerical
+  entry 632 [Stock].|The point of reference for "Train" is unclear. Pastorius perhaps
+  intends numerical entry 866 [Train].
+also_in_entry:
 order: '163'
 layout: alpha_item
 collection: alpha1

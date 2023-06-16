@@ -2,27 +2,27 @@
 pid: index_2647
 volume: Volume 3
 image_number: '32'
-head: natives
-entry: "<a href='/digital-beehive/toc/toc2_209/'>1076 [Natives]</a>"
-topic: 
+head: Nevis
+entry: "<a href='/digital-beehive/num7/num_2248/'>1519 [Mevis or Nevis]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f9ed1de87"
-unparsed: 
-line: 'Head: natives|Entry: 1076 [Natives]|#item-f9ed1de87'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1260,438,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437641227
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/384,1260,438,99/150,/0/default.jpg
-label: natives
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7029583a4"
+unparsed:
+line: 'Head: Nevis|Entry: 1519 [Mevis or Nevis]|#item-7029583a4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,1361,379,149/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560442212301
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/1165,1361,379,149/150,/0/default.jpg
+label: Nevis
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '729'
 layout: index_item
 collection: index3

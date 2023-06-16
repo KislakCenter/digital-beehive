@@ -2,27 +2,29 @@
 pid: alpha_0175
 volume: Volume 1
 image_number: '444'
-head: 
-entry: Continency
-topic: Continency
+head:
+entry: Constancy
+topic: Constancy
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0468/'>Incontinence</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0825/'>continency</a>"
-item: "#item-7842cd78e"
-unparsed: 
-line: 'Entry: Continency|Topic: Continency|Xref: Incontinence|Index: continency|#item-7842cd78e'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/804,3944,3045,499/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499784892066
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/804,3944,600,180/250,/0/default.jpg
-label: Continency
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1013/'>Unstableness</a>|<a href='/digital-beehive/num5/num_1504/'>1112
+  [Constancy of mind]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0832/'>constancy</a>"
+item: "#item-34711b714"
+unparsed:
+line: 'Entry: Constancy|Topic: Constancy|Xref: Unstableness|Xref: 1112 [Constancy
+  of mind]|Index: constancy|#item-34711b714'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/831,2223,2999,616/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499708447294
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/831,2223,600,180/250,/0/default.jpg
+label: Constancy
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '174'
 layout: alpha_item
 collection: alpha1

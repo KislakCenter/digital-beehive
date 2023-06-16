@@ -2,27 +2,27 @@
 pid: index_0797
 volume: Volume 3
 image_number: '14'
-head: connexion
-entry: 822 [PAGE_MISSING]
-topic: 
+head: to conceal
+entry: 811 [PAGE_MISSING]
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-009947c54"
-unparsed: 
-line: 'Head: connexion|Entry: 822 [PAGE_MISSING]|#item-009947c54'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1157,872,591,85/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537541262879
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1157,872,591,85/150,/0/default.jpg
-label: connexion
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cb4042d2d"
+unparsed:
+line: 'Head: to conceal|Entry: 811 [PAGE_MISSING]|#item-cb4042d2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1380,503,118/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537215512132
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/429,1380,503,118/150,/0/default.jpg
+label: to conceal
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0796'
 layout: index_item
 collection: index1

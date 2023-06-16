@@ -2,29 +2,29 @@
 pid: index_3181
 volume: Volume 3
 image_number: '37'
-head: progress
-entry: "<a href='/digital-beehive/alpha4/alpha_0742/'>a</a>|<a href='/digital-beehive/toc/toc2_271/'>1387
-  [Progress]</a>|4740 [PAGE_MISSING]"
-topic: 
+head: profession
+entry: "<a href='/digital-beehive/num2/num_0280/'>255 [Profession]</a>|<a href='/digital-beehive/num7/num_2621/'>1699
+  [Profession]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c1a681a26"
-unparsed: 
-line: 'Head: progress|Entry: a|Entry: 1387 [Progress]|Entry: 4740 [PAGE_MISSING]|#item-c1a681a26'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2475,716,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564084280593
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/771,2475,716,148/150,/0/default.jpg
-label: progress
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f5b954605"
+unparsed:
+line: 'Head: profession|Entry: 255 [Profession]|Entry: 1699 [Profession]|#item-f5b954605'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2007,679,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868187680
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2007,679,147/150,/0/default.jpg
+label: profession
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0430'
+issue:
+insertion_xref:
+order: '0429'
 layout: index_item
 collection: index4
 ---

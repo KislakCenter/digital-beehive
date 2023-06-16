@@ -2,28 +2,27 @@
 pid: index_2692
 volume: Volume 3
 image_number: '32'
-head: new
-entry: "<a href='/digital-beehive/alpha3/alpha_0638/'>a</a>|<a href='/digital-beehive/toc/toc2_326/'>1656
-  [New coyn'd News]</a>"
-topic: 
+head: natural affection
+entry: 4717 [PAGE_MISSING]
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-06247a9a1"
-unparsed: 
-line: 'Head: new|Entry: a|Entry: 1656 [New coyn''d News]|#item-06247a9a1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442364918
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1160,1629,450,105/150,/0/default.jpg
-label: new
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4e881ea9d"
+unparsed:
+line: 'Head: natural affection|Entry: 4717 [PAGE_MISSING]|#item-4e881ea9d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437870626
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/392,1650,740,80/150,/0/default.jpg
+label: natural affection
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '774'
 layout: index_item
 collection: index3

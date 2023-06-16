@@ -2,28 +2,28 @@
 pid: index_3103
 volume: Volume 3
 image_number: '36'
-head: pr[ae]fiscine
-entry: "<a href='/digital-beehive/toc/toc2_395/'>2256 [Pr[ae]fiscine]</a>"
-topic: 
+head: poets
+entry: "<a href='/digital-beehive/num7/num_2377/'>1584 [Poets]</a>|4563 [PAGE_MISSING]"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4f24374fc"
-unparsed: 
-line: 'Head: pr[ae]fiscine|Entry: 2256 [Pr[ae]fiscine]|#item-4f24374fc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548439497824
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1941,463,536,139/150,/0/default.jpg
-label: pr[ae]fiscine
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d1a8046d0"
+unparsed:
+line: 'Head: poets|Entry: 1584 [Poets]|Entry: 4563 [PAGE_MISSING]|#item-d1a8046d0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,2410,635,194/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544208591515
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/437,2410,635,194/150,/0/default.jpg
+label: poets
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0352'
+issue:
+insertion_xref:
+order: '0351'
 layout: index_item
 collection: index4
 ---

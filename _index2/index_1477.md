@@ -2,27 +2,27 @@
 pid: index_1477
 volume: Volume 3
 image_number: '20'
-head: flegm
-entry: "<a href='/digital-beehive/toc/toc2_396/'>2262 [Phelgm or Flegm]</a>"
-topic: 
+head: figure
+entry: 859 [PAGE_MISSING]
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-315da2958"
-unparsed: 
-line: 'Head: flegm|Entry: 2262 [Phelgm or Flegm]|#item-315da2958'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1794,2806,476,167/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617298259
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1794,2806,476,167/150,/0/default.jpg
-label: flegm
+page:
+add:
+xref:
+see:
+index:
+item: "#item-8c5e6c751"
+unparsed:
+line: 'Head: figure|Entry: 859 [PAGE_MISSING]|#item-8c5e6c751'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1089,3339,477,189/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562599618292
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1089,3339,477,189/150,/0/default.jpg
+label: figure
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '296'
 layout: index_item
 collection: index2

@@ -2,28 +2,31 @@
 pid: index_3026
 volume: Volume 3
 image_number: '35'
-head: place
-entry: 817 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_227/'>1168 [Place]</a>
-topic: 
+head: physician
+entry: "<a href='/digital-beehive/alpha4/alpha_0709/'>a</a>|<a href='/digital-beehive/num6/num_1733/'>1251
+  [Physicians]</a>|<a href='/digital-beehive/num7/num_2483/'>1634 [Physician]</a>|<a
+  href='/digital-beehive/num9/num_3174/'>2229 [Physician]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b8cccbb8f"
-unparsed: 
-line: 'Head: place|Entry: 817 [PAGE_MISSING]|Entry: 1168 [Place]|#item-b8cccbb8f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1520,2810,568,189/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539977118503
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/1520,2810,568,189/150,/0/default.jpg
-label: place
+page:
+add:
+xref:
+see:
+index:
+item: "#item-113299900"
+unparsed:
+line: 'Head: physician|Entry: a|Entry: 1251 [Physicians]|Entry: 1634 [Physician]|Entry:
+  2229 [Physician]|#item-113299900'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/858,3304,746,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539975624921
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/858,3304,746,151/150,/0/default.jpg
+label: physician
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0275'
+issue:
+insertion_xref:
+order: '0274'
 layout: index_item
 collection: index4
 ---

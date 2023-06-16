@@ -2,29 +2,28 @@
 pid: index_3395
 volume: Volume 3
 image_number: '39'
-head: retaliation
-entry: "<a href='/digital-beehive/num1/num_0156/'>150 [Retaliation]</a>|<a href='/digital-beehive/num4/num_1137'>886
-  [Retaliation]</a>"
-topic: 
+head: book of revelations
+entry: "<a href='/digital-beehive/alpha4/alpha_0806/'>a</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cd90bc6fe"
-unparsed: 
-line: 'Head: retaliation|Entry: 150 [Retaliation]|Entry: 886 [Retaliation]|#item-cd90bc6fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1516,2152,670,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559230026170
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0982/1516,2152,670,147/150,/0/default.jpg
-label: retaliation
+page:
+add:
+xref:
+see:
+index:
+item: "#item-f1885c574"
+unparsed:
+line: 'Head: book of revelations|Entry: a|#item-f1885c574'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,2998,550,153/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559230281642
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0982/1468,2998,550,153/150,/0/default.jpg
+label: book of revelations
 location: "<a href='/digital-beehive/toc/toc3_39/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0644'
+issue:
+insertion_xref:
+order: '0643'
 layout: index_item
 collection: index4
 ---

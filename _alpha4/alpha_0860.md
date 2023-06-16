@@ -1,29 +1,31 @@
 ---
 pid: alpha_0860
 volume: Volume 2
-image_number: '52'
-head: 
-entry: Severity
-topic: Severity
+image_number: '51'
+head:
+entry: Selfwilledness
+topic: Selfwilledness
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0199/'>Cruelty</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3650/'>severity</a>"
-item: "#item-248d6ff8e"
-unparsed: 
-line: 'Entry: Severity|Topic: Severity|Xref: Cruelty|Index: severity|#item-248d6ff8e'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,811,2965,440/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803153011
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/825,811,600,180/250,/0/default.jpg
-label: Severity
-location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '212'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0657/'>Obstinacy</a>|<a href='/digital-beehive/num5/num_1340/'>1005
+  [Self will]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3673/'>Self will</a>"
+item: "#item-ef0ac887c"
+unparsed:
+line: 'Entry: Selfwilledness|Topic: Selfwilledness|Xref: Obstinacy|Xref: 1005 [Self
+  will]|Index: Self will|#item-ef0ac887c'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/315,4124,3022,366/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530201434479
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0518/315,4124,600,180/250,/0/default.jpg
+label: Selfwilledness
+location: "<a href='/digital-beehive/toc/toc2_041/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '208'
 layout: alpha_item
 collection: alpha4
 ---

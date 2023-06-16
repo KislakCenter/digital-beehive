@@ -2,28 +2,28 @@
 pid: index_3044
 volume: Volume 3
 image_number: '36'
-head: pleurisie
-entry: "<a href='/digital-beehive/toc/toc2_373/'>2073 [Pleurisie]</a>"
-topic: 
+head: poor man defendt
+entry: "<a href='/digital-beehive/num1/num_0167/'>160 [Gods help]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cbcfdb236"
-unparsed: 
-line: 'Head: pleurisie|Entry: 2073 [Pleurisie]|#item-cbcfdb236'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207714992
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,1208,591,138/150,/0/default.jpg
-label: pleurisie
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c859ed304"
+unparsed:
+line: 'Head: poor man defendt|Entry: 160 [Gods help]|#item-c859ed304'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,375,681,150/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438258254
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1189,375,681,150/150,/0/default.jpg
+label: poor man defendt
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0293'
+issue:
+insertion_xref:
+order: '0292'
 layout: index_item
 collection: index4
 ---

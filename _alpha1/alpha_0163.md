@@ -2,28 +2,29 @@
 pid: alpha_0163
 volume: Volume 1
 image_number: '443'
-head: 
-entry: Complements
-topic: Complements
+head:
+entry: Communion
+topic: Communion
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/num2/num_0457/'>380 [Course Complements]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0763/'>complements</a>"
-item: "#item-00b647cc9"
-unparsed: 
-line: 'Entry: Complements|Topic: Complements|Xref: 380 [Course Complements]|Index:
-  complements|#item-00b647cc9'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,2753,3132,598/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499700616493
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/361,2753,600,180/250,/0/default.jpg
-label: Complements
+page:
+add:
+xref: 837 [Unity]|<a href='/digital-beehive/alpha1/alpha_0150/'>Church</a>|<a href='/digital-beehive/num8/num_2723/'>1790
+  [Communion]</a>
+see:
+index: "<a href='/digital-beehive/index1/index_0741/'>communion</a>"
+item: "#item-04591d53c"
+unparsed:
+line: 'Entry: Communion|Topic: Communion|Xref: 837 [Unity]|Xref: Church|Xref: 1790
+  [Communion]|Index: communion|#item-04591d53c'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/333,1395,3133,427/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499700374351
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0442/333,1395,600,180/250,/0/default.jpg
+label: Communion
 location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '162'
 layout: alpha_item
 collection: alpha1

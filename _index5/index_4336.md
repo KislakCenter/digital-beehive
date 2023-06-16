@@ -2,28 +2,28 @@
 pid: index_4336
 volume: Volume 3
 image_number: '49'
-head: violet
-entry: "<a href='/digital-beehive/alpha5/alpha_0995/'>a</a>"
-topic: 
+head: verbatim
+entry: "<a href='/digital-beehive/num3/num_0674/'>536 [Verbatim]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1378943a0"
-unparsed: 
-line: 'Head: violet|Entry: a|#item-1378943a0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660862542
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1632,1940,322,101/150,/0/default.jpg
-label: violet
+page:
+add:
+xref:
+see:
+index:
+item: "#item-002398d2d"
+unparsed:
+line: 'Head: verbatim|Entry: 536 [Verbatim]|#item-002398d2d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/937,3066,453,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561658844569
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/937,3066,453,112/150,/0/default.jpg
+label: verbatim
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '298'
+issue:
+insertion_xref:
+order: '299'
 layout: index_item
 collection: index5
 ---

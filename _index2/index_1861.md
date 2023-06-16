@@ -2,28 +2,28 @@
 pid: index_1861
 volume: Volume 3
 image_number: '24'
-head: homebred
-entry: "<a href='/digital-beehive/toc/toc2_209/'>1076 [Natives]</a>"
-topic: 
+head: holy cheats
+entry: "<a href='/digital-beehive/num8/num_2724/'>1791 [Holy Cheats]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-114a72b07"
-unparsed: 
-line: 'Head: homebred|Entry: 1076 [Natives]|#item-114a72b07'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1136,1740,407,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559582648226
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1136,1740,407,104/150,/0/default.jpg
-label: homebred
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1159a2375"
+unparsed:
+line: 'Head: holy cheats|Entry: 1791 [Holy Cheats]|#item-1159a2375'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1136,1497,460,110/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582455213
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1136,1497,460,110/150,/0/default.jpg
+label: holy cheats
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '679'
+issue:
+insertion_xref:
+order: '680'
 layout: index_item
 collection: index2
 ---

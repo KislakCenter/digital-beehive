@@ -2,27 +2,27 @@
 pid: index_0130
 volume: Volume 3
 image_number: '8'
-head: amphiboly
-entry: 
-topic: 
+head: and
+entry: "<a href='/digital-beehive/num8/num_2776/'>1896 [And]</a>"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1290/'>equivocation</a>"
-index: 
-item: "#item-4da284405"
-unparsed: 
-line: 'Head: amphiboly|See: equivocation|#item-4da284405'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/375,767,785,148/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564757728067
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0951/375,767,785,148/150,/0/default.jpg
-label: amphiboly
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3375ea36d"
+unparsed:
+line: 'Head: and|Entry: 1896 [And]|#item-3375ea36d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,1638,372,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564758383164
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0951/389,1638,372,107/150,/0/default.jpg
+label: and
 location: "<a href='/digital-beehive/toc/toc3_08/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0129'
 layout: index_item
 collection: index1

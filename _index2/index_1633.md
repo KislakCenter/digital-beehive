@@ -2,27 +2,28 @@
 pid: index_1633
 volume: Volume 3
 image_number: '22'
-head: goat
-entry: "<a href='/digital-beehive/alpha2/alpha_0364/'>a</a>"
-topic: 
+head: governmt
+entry: "<a href='/digital-beehive/alpha2/alpha_0379/'>a</a>|752 [PAGE_MISSING]|<a
+  href='/digital-beehive/num8/num_2715/'>1783 [Governments]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3f94af219"
-unparsed: 
-line: 'Head: goat|Entry: a|#item-3f94af219'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561046079319
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1139,930,304,117/150,/0/default.jpg
-label: goat
+page:
+add:
+xref:
+see:
+index:
+item: "#item-493f04f36"
+unparsed:
+line: 'Head: governmt|Entry: a|Entry: 752 [PAGE_MISSING]|Entry: 1783 [Governments]|#item-493f04f36'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1842,885,664,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561052248398
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1842,885,664,106/150,/0/default.jpg
+label: governmt
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '452'
 layout: index_item
 collection: index2

@@ -2,30 +2,27 @@
 pid: index_2380
 volume: Volume 3
 image_number: '29'
-head: magnanimity
-entry: "<a href='/digital-beehive/alpha3/alpha_0565/'>a</a>|<a href='/digital-beehive/num3/num_0664'>529
-  [Magnanimity]</a>|795 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_239/'>1229
-  [Magnanimity]</a>"
-topic: 
+head: manstealing
+entry: "<a href='/digital-beehive/num3/num_0787/'>600 [Manstealing]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fb96256fd"
-unparsed: 
-line: 'Head: magnanimity|Entry: a|Entry: 529 [Magnanimity]|Entry: 795 [PAGE_MISSING]|Entry:
-  1229 [Magnanimity]|#item-fb96256fd'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560187021929
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/840,2629,670,147/150,/0/default.jpg
-label: magnanimity
+page:
+add:
+xref:
+see:
+index:
+item: "#item-7564d5b3c"
+unparsed:
+line: 'Head: manstealing|Entry: 600 [Manstealing]|#item-7564d5b3c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560195802411
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1531,2092,565,144/150,/0/default.jpg
+label: manstealing
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '462'
 layout: index_item
 collection: index3

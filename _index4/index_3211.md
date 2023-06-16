@@ -2,31 +2,29 @@
 pid: index_3211
 volume: Volume 3
 image_number: '37'
-head: Gods providence
-entry: "<a href='/digital-beehive/num1/num_0241/'>227 [Gods Providence]</a>|<a href='/digital-beehive/toc/toc2_333/'>1691
-  [Gods Providence]</a>|<a href='/digital-beehive/toc/toc2_361/'>1968 [God's Providence]</a>|<a
-  href='/digital-beehive/toc/toc2_409/'>2355 [God's Providence]</a>"
-topic: 
+head: promise
+entry: "<a href='/digital-beehive/alpha4/alpha_0749/'>a</a>|<a href='/digital-beehive/num6/num_2075/'>1428
+  [Promised]</a>|<a href='/digital-beehive/num9/num_3121/'>2178 [Promise]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d56704f15"
-unparsed: 
-line: 'Head: Gods providence|Entry: 227 [Gods Providence]|Entry: 1691 [Gods Providence]|Entry:
-  1968 [God''s Providence]|Entry: 2355 [God''s Providence]|#item-d56704f15'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,2501,760,163/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869654672
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1462,2501,760,163/150,/0/default.jpg
-label: Gods providence
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d1063d8c1"
+unparsed:
+line: 'Head: promise|Entry: a|Entry: 1428 [Promised]|Entry: 2178 [Promise]|#item-d1063d8c1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/793,3106,710,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868621522
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/793,3106,710,134/150,/0/default.jpg
+label: promise
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0460'
+issue:
+insertion_xref:
+order: '0459'
 layout: index_item
 collection: index4
 ---

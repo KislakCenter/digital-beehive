@@ -2,28 +2,28 @@
 pid: index_4342
 volume: Volume 3
 image_number: '49'
-head: virgula divinatoria
-entry: "<a href='/digital-beehive/toc/toc2_256/'>1315 [Divination]</a>"
-topic: 
+head: vitriol
+entry: "<a href='/digital-beehive/num9/num_3070/'>2131 [Vitriolum]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5100167c8"
-unparsed: 
-line: 'Head: virgula divinatoria|Entry: 1315 [Divination]|#item-5100167c8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561661259446
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1634,2580,648,172/150,/0/default.jpg
-label: virgula divinatoria
+page:
+add:
+xref:
+see:
+index:
+item: "#item-732c0febb"
+unparsed:
+line: 'Head: vitriol|Entry: 2131 [Vitriolum]|#item-732c0febb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561661601988
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/1647,3273,419,109/150,/0/default.jpg
+label: vitriol
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '304'
+issue:
+insertion_xref:
+order: '305'
 layout: index_item
 collection: index5
 ---

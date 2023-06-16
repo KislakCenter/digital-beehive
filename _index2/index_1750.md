@@ -2,31 +2,28 @@
 pid: index_1750
 volume: Volume 3
 image_number: '23'
-head: happiness of the wicked
-entry: "<a href='/digital-beehive/alpha2/alpha_0394/'>a</a>|<a href='/digital-beehive/num4/num_1224'>923
-  [Blessings of God are upon the wicked]</a>|<a href='/digital-beehive/toc/toc2_339/'>1745
-  [Happiness of the Wicked]</a>"
-topic: 
-first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-293f79414"
-unparsed: 
-line: 'Head: happiness of the wicked|Entry: a|Entry: 923 [Blessings of God are upon
-  the wicked]|Entry: 1745 [Happiness of the Wicked]|#item-293f79414'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559239433405
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0966/817,1193,693,123/150,/0/default.jpg
-label: happiness of the wicked
+head: gripes
+entry: "<a href='/digital-beehive/num2/num_0345/'>303 [Cholick]</a>"
+topic:
+first_letter: G
+page:
+add:
+xref:
+see:
+index:
+item: "#item-166e002f2"
+unparsed:
+line: 'Head: gripes|Entry: 303 [Cholick]|#item-166e002f2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231744457
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0966/140,1698,357,103/150,/0/default.jpg
+label: gripes
 location: "<a href='/digital-beehive/toc/toc3_23/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '568'
+issue:
+insertion_xref:
+order: '569'
 layout: index_item
 collection: index2
 ---

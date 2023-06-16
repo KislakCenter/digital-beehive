@@ -2,27 +2,28 @@
 pid: index_1252
 volume: Volume 3
 image_number: '18'
-head: engin
-entry: 
-topic: 
+head: earth's division
+entry:
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index3/index_2069/'>instrumt</a>"
-index: 
-item: "#item-33b30681e"
-unparsed: 
-line: 'Head: engin|See: instrumt|#item-33b30681e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1819,1320,631,176/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559755663795
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1819,1320,631,176/150,/0/default.jpg
-label: engin
+page: "<a href='/digital-beehive/toc/toc1_333/'>p.192 [Image 1.343]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-26c8334cd"
+unparsed:
+line: 'Head: earth''s division|Page: p.192 [Image 1.343]|#item-26c8334cd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/409,2645,907,93/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559668978970
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/409,2645,907,93/150,/0/default.jpg
+label: earth's division
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue: Pastorius links to entry 914 in the Onomastical Considerations. There is currently
+  no protocol for linking to specific entries in the Onomastical Considerations.
+insertion_xref:
 order: '071'
 layout: index_item
 collection: index2

@@ -2,29 +2,28 @@
 pid: index_4334
 volume: Volume 3
 image_number: '49'
-head: vinegar
-entry: "<a href='/digital-beehive/alpha5/alpha_0992/'>a</a>|<a href='/digital-beehive/toc/toc2_324/'>1649
-  [Vinegar]</a>"
-topic: 
-first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-77f784a30"
-unparsed: 
-line: 'Head: vinegar|Entry: a|Entry: 1649 [Vinegar]|#item-77f784a30'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1648,1692,479,125/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561660761853
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0992/1648,1692,479,125/150,/0/default.jpg
-label: vinegar
+head: to ty
+entry: "<a href='/digital-beehive/num3/num_0799/'>605 [To tye]</a>"
+topic:
+first_letter: T
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b013fb7fe"
+unparsed:
+line: 'Head: to ty|Entry: 605 [To tye]|#item-b013fb7fe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561657254918
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0992/208,2942,344,142/150,/0/default.jpg
+label: to ty
 location: "<a href='/digital-beehive/toc/toc3_49/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '296'
+issue:
+insertion_xref:
+order: '297'
 layout: index_item
 collection: index5
 ---

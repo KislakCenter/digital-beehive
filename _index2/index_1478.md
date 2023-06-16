@@ -2,28 +2,27 @@
 pid: index_1478
 volume: Volume 3
 image_number: '20'
-head: flesh
-entry: "<a href='/digital-beehive/alpha2/alpha_0331/'>a</a>|<a href='/digital-beehive/num3/num_0655'>522
-  [Flesh]</a>"
-topic: 
+head: flint
+entry: "<a href='/digital-beehive/num9/num_3102/'>2161 [Flint-stone]</a>"
+topic:
 first_letter: F
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-52fb37308"
-unparsed: 
-line: 'Head: flesh|Entry: a|Entry: 522 [Flesh]|#item-52fb37308'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1562617390813
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0963/1796,2881,483,166/150,/0/default.jpg
-label: flesh
+page: "<a href='/digital-beehive/toc/toc1_082/'>p.32 [Image 1.92]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-3aae87be3"
+unparsed:
+line: 'Head: flint|Page: p.32 [Image 1.92]|Entry: 2161 [Flint-stone]|#item-3aae87be3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1562618367854
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0963/1799,3393,664,207/150,/0/default.jpg
+label: flint
 location: "<a href='/digital-beehive/toc/toc3_20/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '297'
 layout: index_item
 collection: index2

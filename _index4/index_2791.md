@@ -2,28 +2,28 @@
 pid: index_2791
 volume: Volume 3
 image_number: '33'
-head: omnisciency
-entry: 791 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_404/'>2304 [Omnisciency]</a>
-topic: 
+head: I'm oblig'd to you
+entry: "<a href='/digital-beehive/num10/num_3480/'>4493 [I am Oblig'd to you]</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4e45d6be1"
-unparsed: 
-line: 'Head: omnisciency|Entry: 791 [PAGE_MISSING]|Entry: 2304 [Omnisciency]|#item-4e45d6be1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/832,2608,699,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536601079196
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0976/832,2608,699,139/150,/0/default.jpg
-label: omnisciency
+page:
+add:
+xref:
+see:
+index:
+item: "#item-008614831"
+unparsed:
+line: 'Head: I''m oblig''d to you|Entry: 4493 [I am Oblig''d to you]|#item-008614831'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/106,2026,793,147/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536347315624
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0976/106,2026,793,147/150,/0/default.jpg
+label: I'm oblig'd to you
 location: "<a href='/digital-beehive/toc/toc3_33/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0040'
+issue:
+insertion_xref:
+order: '0039'
 layout: index_item
 collection: index4
 ---

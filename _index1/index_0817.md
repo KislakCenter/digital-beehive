@@ -2,27 +2,28 @@
 pid: index_0817
 volume: Volume 3
 image_number: '14'
-head: contagious
-entry: "<a href='/digital-beehive/toc/toc2_259/'>1330 [To infect]</a>"
-topic: 
+head: cookery
+entry: "<a href='/digital-beehive/alpha1/alpha_0181/'>a</a>|<a href='/digital-beehive/num1/num_0254/'>236
+  [Cookery]</a>|<a href='/digital-beehive/num9/num_2988/'>2054 [Cookery]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-61524e9aa"
-unparsed: 
-line: 'Head: contagious|Entry: 1330 [To infect]|#item-61524e9aa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537542155380
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1126,3060,537,99/150,/0/default.jpg
-label: contagious
+page:
+add:
+xref:
+see:
+index:
+item: "#item-0b81372d2"
+unparsed:
+line: 'Head: cookery|Entry: a|Entry: 236 [Cookery]|Entry: 2054 [Cookery]|#item-0b81372d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2118,714,135/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537559783011
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/1830,2118,714,135/150,/0/default.jpg
+label: cookery
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0816'
 layout: index_item
 collection: index1

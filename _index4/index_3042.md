@@ -2,29 +2,29 @@
 pid: index_3042
 volume: Volume 3
 image_number: '36'
-head: be pleased
-entry: "<a href='/digital-beehive/num2/num_0385/'>333 [Pray]</a>|<a href='/digital-beehive/toc/toc2_214/'>1102
-  [Be blessed]</a>"
-topic: 
+head: power
+entry: "<a href='/digital-beehive/alpha4/alpha_0726/'>a</a>|<a href='/digital-beehive/num10/num_3334/'>2362
+  [Power]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5117de882"
-unparsed: 
-line: 'Head: be pleased|Entry: 333 [Pray]|Entry: 1102 [Be blessed]|#item-5117de882'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207532446
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/475,992,676,139/150,/0/default.jpg
-label: be pleased
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9bb17f66c"
+unparsed:
+line: 'Head: power|Entry: a|Entry: 2362 [Power]|#item-9bb17f66c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1920,265,583,125/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439432288
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1920,265,583,125/150,/0/default.jpg
+label: power
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0291'
+issue:
+insertion_xref:
+order: '0290'
 layout: index_item
 collection: index4
 ---

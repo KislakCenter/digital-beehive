@@ -2,27 +2,27 @@
 pid: index_2570
 volume: Volume 3
 image_number: '31'
-head: months
-entry: 4546 [PAGE_MISSING]
-topic: 
+head: mum[m]y
+entry: "<a href='/digital-beehive/num7/num_2471/'>1629 [Mummy]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-094f6833a"
-unparsed: 
-line: 'Head: months|Entry: 4546 [PAGE_MISSING]|#item-094f6833a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560355200407
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/890,1020,474,96/150,/0/default.jpg
-label: months
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a5afcd9ad"
+unparsed:
+line: 'Head: mum[m]y|Entry: 1629 [Mummy]|#item-a5afcd9ad'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560361281753
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/1564,1363,416,138/150,/0/default.jpg
+label: mum[m]y
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '652'
 layout: index_item
 collection: index3

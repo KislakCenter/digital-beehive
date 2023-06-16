@@ -2,28 +2,29 @@
 pid: index_4484
 volume: Volume 3
 image_number: '52'
-head: washing of feet
-entry: "<a href='/digital-beehive/alpha5/alpha_1023/'>a</a>"
-topic: 
+head: weighty
+entry: "<a href='/digital-beehive/num3/num_0641/'>510 [Concern]</a>|<a href='/digital-beehive/num3/num_0642/'>510
+  [So trivial a thing]</a>"
+topic:
 first_letter: W
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-07b2fd919"
-unparsed: 
-line: 'Head: washing of feet|Entry: a|#item-07b2fd919'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/481,442,442,123/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560960071824
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0995/481,442,442,123/150,/0/default.jpg
-label: washing of feet
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e55f99883"
+unparsed:
+line: 'Head: weighty|Entry: 510 [Concern]|Entry: 510 [So trivial a thing]|#item-e55f99883'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560968525347
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0995/1101,843,363,146/150,/0/default.jpg
+label: weighty
 location: "<a href='/digital-beehive/toc/toc3_52/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '446'
+issue: The correct entry for 510 is unclear.
+insertion_xref:
+order: '447'
 layout: index_item
 collection: index5
 ---

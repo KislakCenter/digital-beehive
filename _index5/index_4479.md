@@ -2,30 +2,28 @@
 pid: index_4479
 volume: Volume 3
 image_number: '51'
-head: warning
-entry: 843 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_205/'>1060 [Admonishing
-  & Warning]</a>
-topic: 
+head: warts
+entry: "<a href='/digital-beehive/num6/num_1882/'>1337 [Corns : Warts]</a>"
+topic:
 first_letter: W
-page: 
-add: caution
-xref: 
-see: 
-index: 
-item: "#item-064de5392"
-unparsed: 
-line: 'Head: warning|Entry: 843 [PAGE_MISSING]|Entry: 1060 [Admonishing & Warning]|Add:
-  caution|#item-064de5392'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561648523807
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0994/1643,2944,631,159/150,/0/default.jpg
-label: warning
+page:
+add:
+xref:
+see:
+index:
+item: "#item-435af9d2a"
+unparsed:
+line: 'Head: warts|Entry: 1337 [Corns : Warts]|#item-435af9d2a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561648585843
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0994/1634,3359,471,112/150,/0/default.jpg
+label: warts
 location: "<a href='/digital-beehive/toc/toc3_51/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '441'
+issue:
+insertion_xref:
+order: '442'
 layout: index_item
 collection: index5
 ---

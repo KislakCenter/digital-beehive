@@ -2,29 +2,27 @@
 pid: alpha_0172
 volume: Volume 1
 image_number: '444'
-head: 
-entry: Constancy
-topic: Constancy
+head:
+entry: Conscience
+topic: Conscience
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1008/'>Unstableness</a>|<a href='/digital-beehive/toc/toc2_216/'>1112
-  [Constancy of mind]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0813/'>constancy</a>"
-item: "#item-34711b714"
-unparsed: 
-line: 'Entry: Constancy|Topic: Constancy|Xref: Unstableness|Xref: 1112 [Constancy
-  of mind]|Index: constancy|#item-34711b714'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,2999,616/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499708447294
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0443/831,2223,600,180/250,/0/default.jpg
-label: Constancy
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0145/'>140 [Conscience]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0791/'>conscience</a>"
+item: "#item-2d10e0793"
+unparsed:
+line: 'Entry: Conscience|Topic: Conscience|Xref: 140 [Conscience]|Index: conscience|#item-2d10e0793'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/757,550,3120,882/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499707493880
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0443/757,550,600,180/250,/0/default.jpg
+label: Conscience
 location: "<a href='/digital-beehive/toc/toc1_434/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '171'
 layout: alpha_item
 collection: alpha1

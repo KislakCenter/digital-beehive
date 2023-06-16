@@ -1,30 +1,28 @@
 ---
 pid: alpha_0157
 volume: Volume 1
-image_number: '443'
-head: 
-entry: Coming of Christ
-topic: Coming of Christ
+image_number: '442'
+head:
+entry: Comet
+topic: Comet
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0141/'>Chiliasm</a>|<a href='/digital-beehive/toc/toc2_203/'>1047
-  [Coming of God and Christ]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0734/'>coming of Christ</a>"
-item: "#item-e202e67bc"
-unparsed: 
-line: 'Entry: Coming of Christ|Topic: Coming of Christ|Xref: Chiliasm|Xref: 1047 [Coming
-  of God and Christ]|Index: coming of Christ|#item-e202e67bc'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/275,227,3203,523/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1563822644312
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0442/275,227,600,180/250,/0/default.jpg
-label: Coming of Christ
-location: "<a href='/digital-beehive/toc/toc1_433/'>Full Page</a>"
-issue: 
-also_in_entry: 
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2602/'>1690 [Comet]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0683/'>comet</a>"
+item: "#item-dbe0e399d"
+unparsed:
+line: 'Entry: Comet|Topic: Comet|Xref: 1690 [Comet]|Index: comet|#item-dbe0e399d'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/878,3811,2979,343/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499700116810
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/878,3811,600,180/250,/0/default.jpg
+label: Comet
+location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
+issue:
+also_in_entry:
 order: '156'
 layout: alpha_item
 collection: alpha1

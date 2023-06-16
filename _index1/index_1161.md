@@ -2,28 +2,28 @@
 pid: index_1161
 volume: Volume 3
 image_number: '17'
-head: drum
-entry: "<a href='/digital-beehive/num2/num_0599/'>479 [Drum]</a>|4732 [PAGE_MISSING]"
-topic: 
+head: disswasion
+entry: 757 [PAGE_MISSING]
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-c096f98cb"
-unparsed: 
-line: 'Head: drum|Entry: 479 [Drum]|Entry: 4732 [PAGE_MISSING]|#item-c096f98cb'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,3434,606,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560453493196
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/1440,3434,606,127/150,/0/default.jpg
-label: drum
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e9cc1a6c9"
+unparsed:
+line: 'Head: disswasion|Entry: 757 [PAGE_MISSING]|#item-e9cc1a6c9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,3529,523,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1541804797085
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/137,3529,523,139/150,/0/default.jpg
+label: disswasion
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1160'
+issue:
+insertion_xref:
+order: '1159'
 layout: index_item
 collection: index1
 ---

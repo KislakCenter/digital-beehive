@@ -24,7 +24,7 @@ label: duel
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1166'
+order: '1168'
 layout: index_item
 collection: index1
 ---

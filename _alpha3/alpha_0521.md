@@ -1,31 +1,30 @@
 ---
 pid: alpha_0521
 volume: Volume 2
-image_number: '27'
-head: 
-entry: Law, continued
-topic: Law, continued
+image_number: '26'
+head:
+entry: Late
+topic: Late
 first_letter: L
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0520/'>Law</a>|<a href='/digital-beehive/alpha5/alpha_0947/'>New
-  Testamt</a>|786 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index3/index_2221/'>Law</a>"
-item: "#item-28853d36d"
-unparsed: 
-line: 'Entry: Law, continued|Topic: Law, continued|Xref: Law|Xref: New Testamt|Xref:
-  786 [PAGE_MISSING]|Index: Law|#item-28853d36d'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/260,235,3115,630/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1573245334882
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/260,235,600,180/250,/0/default.jpg
-label: Law, continued
-location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '077'
+page:
+add:
+xref: "<a href='/digital-beehive/num1/num_0020/'>20 [Too late]</a>|4786 [PAGE_MISSING]"
+see:
+index: "<a href='/digital-beehive/index3/index_2189/'>late</a>"
+item: "#item-2bad963b5"
+unparsed:
+line: 'Entry: Late|Topic: Late|Xref: 20 [Too late]|Xref:  4786 [PAGE_MISSING]|Index:
+  late|#item-2bad963b5'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/747,4194,2966,318/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564766849824
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0493/747,4194,600,180/250,/0/default.jpg
+label: Late
+location: "<a href='/digital-beehive/toc/toc2_016/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '074'
 layout: alpha_item
 collection: alpha3
 ---

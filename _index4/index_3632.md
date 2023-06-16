@@ -2,28 +2,28 @@
 pid: index_3632
 volume: Volume 3
 image_number: '42'
-head: senatehouse
-entry: 
-topic: 
+head: Self deceit
+entry: "<a href='/digital-beehive/num6/num_1969/'>1380 [Self-deceit]</a>"
+topic:
 first_letter: S
-page: "<a href='/digital-beehive/toc/toc1_055/'>p.5 [Image 1.65]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-e529251be"
-unparsed: 
-line: 'Head: senatehouse|Page: p.5 [Image 1.65]|#item-e529251be'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,2859,644,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559245050912
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/413,2859,644,141/150,/0/default.jpg
-label: senatehouse
+page:
+add:
+xref:
+see:
+index:
+item: "#item-ef6f3cd94"
+unparsed:
+line: 'Head: Self deceit|Entry: 1380 [Self-deceit]|#item-ef6f3cd94'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244197412
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/416,1014,500,76/150,/0/default.jpg
+label: Self deceit
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0881'
+issue:
+insertion_xref:
+order: '0880'
 layout: index_item
 collection: index4
 ---

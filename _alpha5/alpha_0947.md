@@ -1,30 +1,33 @@
 ---
 pid: alpha_0947
 volume: Volume 2
-image_number: '58'
-head: 
-entry: New Testamt
-topic: New Testamt
+image_number: '57'
+head:
+entry: Temptation
+topic: Temptation
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/num4/num_1227'>926 [New Testament]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4099/'>testament new</a>"
-item: "#item-84496680a"
-unparsed: 
-line: 'Entry: New Testamt|Topic: New Testamt|Xref: 926 [New testament]|Index: testament
-  new|#item-84496680a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,1457,3052,490/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113440065
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/755,1457,600,180/250,/0/default.jpg
-label: New Testamt
-location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '013'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_0948/'>Temptation, continued</a>|<a
+  href='/digital-beehive/num3/num_0791/'>602 [Instigation]</a>|120 [Provocation]|<a
+  href='/digital-beehive/num1/num_0217/'>206 [Temptation]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4118/'>temptation</a>"
+item: "#item-d5b751b3a"
+unparsed:
+line: 'Entry: Temptation|Topic: Temptation|Xref: Temptation, continued|Xref: 602 [Instigation]|Xref:
+  120 [Provocation]|Xref: 206 [Temptation]|Index: temptation|#item-d5b751b3a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570,3156,567/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528921727879
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0524/358,4570,600,180/250,/0/default.jpg
+label: Temptation
+location: "<a href='/digital-beehive/toc/toc2_047/'>Full Page</a>"
+issue: The point of reference for "Instigation" is unclear. Pastorius perhaps intends
+  numerical entry 602 [Instigation].|The entry continues onto the next page.
+also_in_entry:
+order: '007'
 layout: alpha_item
 collection: alpha5
 ---

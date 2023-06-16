@@ -2,27 +2,27 @@
 pid: index_2085
 volume: Volume 3
 image_number: '26'
-head: to introduce
-entry: "<a href='/digital-beehive/toc/toc2_328/'>1666 [To bring in]</a>"
-topic: 
+head: ingenious
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-ff05190e9"
-unparsed: 
-line: 'Head: to introduce|Entry: 1666 [To bring in]|#item-ff05190e9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1843,612,549,103/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750856868
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1843,612,549,103/150,/0/default.jpg
-label: to introduce
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index5/index_4592/'>wit</a>"
+index:
+item: "#item-a50e616ee"
+unparsed:
+line: 'Head: ingenious|See: wit|#item-a50e616ee'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559744994040
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/429,2399,543,205/150,/0/default.jpg
+label: ingenious
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '167'
 layout: index_item
 collection: index3

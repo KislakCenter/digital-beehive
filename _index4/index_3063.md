@@ -2,28 +2,29 @@
 pid: index_3063
 volume: Volume 3
 image_number: '36'
-head: polytheism
-entry: 4633 [PAGE_MISSING]
-topic: 
+head: be pleased
+entry: "<a href='/digital-beehive/num2/num_0386/'>333 [Pray]</a>|<a href='/digital-beehive/num5/num_1492/'>1102
+  [Be Pleased]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-05cb35c4f"
-unparsed: 
-line: 'Head: polytheism|Entry: 4633 [PAGE_MISSING]|#item-05cb35c4f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/447,3022,616,104/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438022386
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/447,3022,616,104/150,/0/default.jpg
-label: polytheism
+page:
+add:
+xref:
+see:
+index:
+item: "#item-5117de882"
+unparsed:
+line: 'Head: be pleased|Entry: 333 [Pray]|Entry: 1102 [Be Pleased]|#item-5117de882'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,992,676,139/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1544207532446
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/475,992,676,139/150,/0/default.jpg
+label: be pleased
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0312'
+issue:
+insertion_xref:
+order: '0311'
 layout: index_item
 collection: index4
 ---

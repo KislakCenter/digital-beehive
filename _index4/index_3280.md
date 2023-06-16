@@ -2,28 +2,28 @@
 pid: index_3280
 volume: Volume 3
 image_number: '38'
-head: ragg
-entry: "<a href='/digital-beehive/num1/num_0128/'>123 [Raggs]</a>"
-topic: 
+head: how to read books
+entry:
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fff176480"
-unparsed: 
-line: 'Head: ragg|Entry: 123 [Raggs]|#item-fff176480'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3133,363,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558459627234
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1172,3133,363,160/150,/0/default.jpg
-label: ragg
+page: "<a href='/digital-beehive/toc/toc1_051/'>p.1 [Image 1.61]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-29108d91c"
+unparsed:
+line: 'Head: how to read books|Page: p.1 [Image 1.61]|#item-29108d91c'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1866,1911,642,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461332191
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1866,1911,642,120/150,/0/default.jpg
+label: how to read books
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0529'
+issue:
+insertion_xref:
+order: '0528'
 layout: index_item
 collection: index4
 ---

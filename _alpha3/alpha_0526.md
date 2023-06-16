@@ -2,28 +2,28 @@
 pid: alpha_0526
 volume: Volume 2
 image_number: '27'
-head: 
-entry: Leasure
-topic: Leasure
+head:
+entry: Laziness
+topic: Laziness
 first_letter: L
-page: 
-add: 
-xref: 4639 [PAGE_MISSING]
-see: 
-index: "<a href='/digital-beehive/index3/index_2240/'>leasure</a>"
-item: "#item-6797039d9"
-unparsed: 
-line: 'Entry: Leasure|Topic: Leasure|Xref: 4639 [PAGE_MISSING]|Index: leasure|#item-6797039d9'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,1971,3013,266/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564768592593
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0494/354,1971,600,180/250,/0/default.jpg
-label: Leasure
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0640/'>negligence</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2228/'>laziness</a>"
+item: "#item-ae64ce079"
+unparsed:
+line: 'Entry: Laziness|Topic: Laziness|Xref: negligence|Index: laziness|#item-ae64ce079'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/326,1061,3034,435/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768490574
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0494/326,1061,600,180/250,/0/default.jpg
+label: Laziness
 location: "<a href='/digital-beehive/toc/toc2_017/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '082'
+issue:
+also_in_entry:
+order: '079'
 layout: alpha_item
 collection: alpha3
 ---

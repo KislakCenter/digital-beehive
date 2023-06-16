@@ -2,29 +2,27 @@
 pid: index_2472
 volume: Volume 3
 image_number: '30'
-head: meetings
-entry: "<a href='/digital-beehive/num1/num_0120/'>116 [Meetings]</a>|<a href='/digital-beehive/toc/toc2_249/'>1276
-  [Meetings to worship God in]</a>|<a href='/digital-beehive/toc/toc2_398/'>2273 [Meetings]</a>"
-topic: 
+head: midnight
+entry: 765 [PAGE_MISSING]
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b891f6b11"
-unparsed: 
-line: 'Head: meetings|Entry: 116 [Meetings]|Entry: 1276 [Meetings to worship God in]|Entry:
-  2273 [Meetings]|#item-b891f6b11'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560267998913
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0973/1129,957,710,122/150,/0/default.jpg
-label: meetings
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2649/'>noon</a>"
+index:
+item: "#item-39c0dcce9"
+unparsed:
+line: 'Head: midnight|See: noon|Entry: 765 [PAGE_MISSING]|#item-39c0dcce9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560273787400
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0973/1845,1201,652,146/150,/0/default.jpg
+label: midnight
 location: "<a href='/digital-beehive/toc/toc3_30/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '554'
 layout: index_item
 collection: index3

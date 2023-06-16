@@ -2,27 +2,28 @@
 pid: index_2693
 volume: Volume 3
 image_number: '32'
-head: new England
-entry: 766 [PAGE_MISSING]|<a href='/digital-beehive/toc/toc2_299/'>1523 [New England]</a>
-topic: 
+head: natural man
+entry: "<a href='/digital-beehive/num1/num_0050/'>50 [Natural man]</a>|<a href='/digital-beehive/num9/num_3014/'>2080
+  [Natural man]</a>"
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-29744158d"
-unparsed: 
-line: 'Head: new England|Entry: 766 [PAGE_MISSING]|Entry: 1523 [New England]|#item-29744158d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560442425031
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,1715,647,142/150,/0/default.jpg
-label: new England
+page:
+add:
+xref:
+see:
+index:
+item: "#item-79594899d"
+unparsed:
+line: 'Head: natural man|Entry: 50 [Natural man]|Entry: 2080 [Natural man]|#item-79594899d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437959582
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/388,1691,571,51/150,/0/default.jpg
+label: natural man
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '775'
 layout: index_item
 collection: index3

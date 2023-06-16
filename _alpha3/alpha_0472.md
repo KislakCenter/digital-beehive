@@ -2,28 +2,30 @@
 pid: alpha_0472
 volume: Volume 2
 image_number: '23'
-head: 
-entry: Infidelity
-topic: Infidelity
+head:
+entry: Increase
+topic: Increase
 first_letter: I/J
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_412/'>2380 [Unfaithful]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2032/'>infidelity</a>"
-item: "#item-3d1985b0c"
-unparsed: 
-line: 'Entry: Infidelity|Topic: Infidelity|Xref: 2380 [Unfaithful]|Index: infidelity|#item-3d1985b0c'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,3041,282/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564760076502
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0490/307,930,600,180/250,/0/default.jpg
-label: Infidelity
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0747/'>Progress</a>|<a href='/digital-beehive/num3/num_0796/'>604
+  [Increase]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_1987/'>increase</a>"
+item: "#item-ecb0ab2df"
+unparsed:
+line: 'Entry: Increase|Topic: Increase|Xref: Progress|Xref: 604 [Increase]|Index:
+  increase|#item-ecb0ab2df'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/258,245,3086,413/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564759925596
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0490/258,245,600,180/250,/0/default.jpg
+label: Increase
 location: "<a href='/digital-beehive/toc/toc2_013/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '028'
+issue:
+also_in_entry:
+order: '025'
 layout: alpha_item
 collection: alpha3
 ---

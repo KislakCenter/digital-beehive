@@ -2,28 +2,28 @@
 pid: index_3962
 volume: Volume 3
 image_number: '45'
-head: subtlety
-entry: "<a href='/digital-beehive/toc/toc2_239/'>1228 [Craftiness]</a>"
-topic: 
+head: Stoicks
+entry: "<a href='/digital-beehive/num5/num_1437/'>1067 [Stoicks]</a>"
+topic:
 first_letter: S
-page: 
-add: "<a href='/digital-beehive/index5/index_4571/'>Wit</a>"
-xref: 
-see: 
-index: 
-item: "#item-2beaf9f64"
-unparsed: 
-line: 'Head: subtlety|Entry: 1228 [Craftiness]|Add: Wit|#item-2beaf9f64'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530468933796
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0988/1604,1921,702,141/150,/0/default.jpg
-label: subtlety
+page:
+add:
+xref:
+see:
+index:
+item: "#item-05d40babe"
+unparsed:
+line: 'Head: Stoicks|Entry: 1067 [Stoicks]|#item-05d40babe'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/209,3042,470,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530448459487
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0988/209,3042,470,121/150,/0/default.jpg
+label: Stoicks
 location: "<a href='/digital-beehive/toc/toc3_45/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1211'
+issue:
+insertion_xref:
+order: '1210'
 layout: index_item
 collection: index4
 ---

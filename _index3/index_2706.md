@@ -2,27 +2,27 @@
 pid: index_2706
 volume: Volume 3
 image_number: '32'
-head: nicolaitans
-entry: 1843 [PAGE_MISSING]
-topic: 
+head: good nat
+entry:
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b141e6e6a"
-unparsed: 
-line: 'Head: nicolaitans|Entry: 1843 [PAGE_MISSING]|#item-b141e6e6a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,3053,611,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560445616478
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/1144,3053,611,109/150,/0/default.jpg
-label: nicolaitans
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index2/index_1629/'>gentleness</a>"
+index:
+item: "#item-c165266d3"
+unparsed:
+line: 'Head: good nat|See: gentleness|#item-c165266d3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560438420354
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/382,2088,777,140/150,/0/default.jpg
+label: good nat
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '788'
 layout: index_item
 collection: index3

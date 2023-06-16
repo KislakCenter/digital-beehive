@@ -2,28 +2,28 @@
 pid: index_3045
 volume: Volume 3
 image_number: '36'
-head: plots
-entry: "<a href='/digital-beehive/toc/toc2_295/'>1505 [Popists plots]</a>"
-topic: 
+head: practise
+entry: "<a href='/digital-beehive/num6/num_1898/'>1345 [Experience]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cf3b9e932"
-unparsed: 
-line: 'Head: plots|Entry: 1505 [Popists plots]|#item-cf3b9e932'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/464,1274,448,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1544207754953
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/464,1274,448,130/150,/0/default.jpg
-label: plots
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1d0011808"
+unparsed:
+line: 'Head: practise|Entry: 1345 [Experience]|#item-1d0011808'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1912,402,536,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548439458891
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1912,402,536,102/150,/0/default.jpg
+label: practise
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0294'
+issue:
+insertion_xref:
+order: '0293'
 layout: index_item
 collection: index4
 ---

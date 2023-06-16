@@ -2,28 +2,28 @@
 pid: alpha_0655
 volume: Volume 2
 image_number: '37'
-head: 
-entry: Office
-topic: Office
+head:
+entry: Obligation
+topic: Obligation
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0113/'>Calling</a>|845 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index4/index_2773/'>office</a>"
-item: "#item-f055f382a"
-unparsed: 
-line: 'Entry: Office|Topic: Office|Xref: Calling|Xref: 845 [PAGE_MISSING]|Index: office|#item-f055f382a'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/334,1718,3064,412/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017011742
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/334,1718,600,180/250,/0/default.jpg
-label: Office
+page:
+add:
+xref: "<a href='/digital-beehive/num6/num_2002/'>1396 [Obliga[ti]on]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2789/'>obligation</a>"
+item: "#item-3f76e6e63"
+unparsed:
+line: 'Entry: Obligation|Topic: Obligation|Xref: 1396 [Obliga[ti]on]|Index: obligation|#item-3f76e6e63'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/276,228,3031,454/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016225765
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/276,228,600,180/250,/0/default.jpg
+label: Obligation
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '008'
+issue:
+also_in_entry:
+order: '003'
 layout: alpha_item
 collection: alpha4
 ---

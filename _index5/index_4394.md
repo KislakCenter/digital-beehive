@@ -2,28 +2,29 @@
 pid: index_4394
 volume: Volume 3
 image_number: '50'
-head: university degrees
-entry: "<a href='/digital-beehive/toc/toc2_330/'>1679 [University Degrees]</a>"
-topic: 
+head: unlearned
+entry: "<a href='/digital-beehive/num1/num_0067/'>66 [Unlearned]</a>|<a href='/digital-beehive/num8/num_2730/'>1797
+  [Unlearned]</a>"
+topic:
 first_letter: U/V
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d019aacb5"
-unparsed: 
-line: 'Head: university degrees|Entry: 1679 [University Degrees]|#item-d019aacb5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1099,2034,531,129/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560881940882
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0993/1099,2034,531,129/150,/0/default.jpg
-label: university degrees
+page:
+add:
+xref:
+see:
+index:
+item: "#item-aa643f053"
+unparsed:
+line: 'Head: unlearned|Entry: 66 [Unlearned]|Entry: 1797 [Unlearned]|#item-aa643f053'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1101,2800,618,140/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560882336392
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0993/1101,2800,618,140/150,/0/default.jpg
+label: unlearned
 location: "<a href='/digital-beehive/toc/toc3_50/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '356'
+issue:
+insertion_xref:
+order: '357'
 layout: index_item
 collection: index5
 ---

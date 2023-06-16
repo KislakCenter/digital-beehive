@@ -2,27 +2,27 @@
 pid: index_2644
 volume: Volume 3
 image_number: '32'
-head: narrow
-entry: 827 [PAGE_MISSING]
-topic: 
+head: "[:7.]"
+entry:
+topic:
 first_letter: N
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-715c6ff52"
-unparsed: 
-line: 'Head: narrow|Entry: 827 [PAGE_MISSING]|#item-715c6ff52'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,1019,437,106/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560437513790
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0975/377,1019,437,106/150,/0/default.jpg
-label: narrow
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e9ecca89a"
+unparsed: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
+line: 'Type: Index|Insertion Xref: [:7.]|#item-e9ecca89a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/975,1076,185,143/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560437536192
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0975/975,1076,185,143/150,/0/default.jpg
+label: "[:7.]"
 location: "<a href='/digital-beehive/toc/toc3_32/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref: "<a href='/digital-beehive/index5/index_4691/'>national Constitutions</a>"
 order: '726'
 layout: index_item
 collection: index3

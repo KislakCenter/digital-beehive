@@ -3,7 +3,7 @@ pid: index_4013
 volume: Volume 3
 image_number: '46'
 head: tailor
-entry: "<a href='/digital-beehive/alpha5/alpha_0941/'>a</a>|<a href='/digital-beehive/num7/num_2658/'>1733
+entry: "<a href='/digital-beehive/alpha5/alpha_0941/'>a</a>|<a href='/digital-beehive/num7/num_2659/'>1733
   [Tailor]</a>"
 topic:
 first_letter: T

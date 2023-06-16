@@ -2,30 +2,29 @@
 pid: alpha_0635
 volume: Volume 2
 image_number: '35'
-head: 
-entry: Negligenge
-topic: Negligenge
+head:
+entry: Natural Philosophy
+topic: Natural Philosophy
 first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0444/'>Idleness</a>|<a href='/digital-beehive/alpha3/alpha_0523/'>Laziness</a>|<a
-  href='/digital-beehive/toc/toc2_306/'>1558 [To Neglect]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2679/'>negligence</a>"
-item: "#item-dfd2d85c3"
-unparsed: 
-line: 'Entry: Negligenge|Topic: Negligenge|Xref: Idleness|Xref: Laziness|Xref: 1558
-  [To Neglect]|Index: negligence|#item-dfd2d85c3'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,3020,738/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565014670396
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/316,4340,600,180/250,/0/default.jpg
-label: Negligenge
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2295/'>1543 [Natural Philosophy]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2696/'>natural philosophy</a>"
+item: "#item-6aa80fade"
+unparsed:
+line: 'Entry: Natural Philosophy|Topic: Natural Philosophy|Xref: 1543 [Natural Philosophy]|Index:
+  natural philosophy|#item-6aa80fade'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/299,2409,3036,398/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564778929076
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0502/299,2409,600,180/250,/0/default.jpg
+label: Natural Philosophy
 location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '191'
+issue:
+also_in_entry:
+order: '188'
 layout: alpha_item
 collection: alpha3
 ---

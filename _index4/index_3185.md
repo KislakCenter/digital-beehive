@@ -2,29 +2,29 @@
 pid: index_3185
 volume: Volume 3
 image_number: '37'
-head: prolixness
-entry: "<a href='/digital-beehive/num2/num_0322/'>286 [Prolixness]</a>|<a href='/digital-beehive/toc/toc2_383/'>2177
-  [Prolixity]</a>"
-topic: 
+head: protoplasts
+entry: "<a href='/digital-beehive/num2/num_0472/'>389 [Adam]</a>|<a href='/digital-beehive/num9/num_3064/'>2125
+  [Adam]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-807f93df4"
-unparsed: 
-line: 'Head: prolixness|Entry: 286 [Prolixness]|Entry: 2177 [Prolixity]|#item-807f93df4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2842,658,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550868552770
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/796,2842,658,136/150,/0/default.jpg
-label: prolixness
+page:
+add:
+xref:
+see:
+index:
+item: "#item-cc4da48b9"
+unparsed:
+line: 'Head: protoplasts|Entry: 389 [Adam]|Entry: 2125 [Adam]|#item-cc4da48b9'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,2166,735,137/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869529673
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,2166,735,137/150,/0/default.jpg
+label: protoplasts
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0434'
+issue:
+insertion_xref:
+order: '0433'
 layout: index_item
 collection: index4
 ---

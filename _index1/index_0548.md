@@ -2,27 +2,27 @@
 pid: index_0548
 volume: Volume 3
 image_number: '12'
-head: carraway
-entry: "<a href='/digital-beehive/num3/num_0944'>677 [Carraways]</a>"
-topic: 
+head: cells
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d3b4c316a"
-unparsed: 
-line: 'Head: carraway|Entry: 677 [Carraways]|#item-d3b4c316a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,901,556,140/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532097542245
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/402,901,556,140/150,/0/default.jpg
-label: carraway
+page: "<a href='/digital-beehive/toc/toc1_054/'>p.4 [Image 1.64]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-e49bbb49a"
+unparsed:
+line: 'Head: cells|Page: p.4 [Image 1.64]|#item-e49bbb49a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,1221,286,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532099288564
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1134,1221,286,116/150,/0/default.jpg
+label: cells
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0547'
 layout: index_item
 collection: index1

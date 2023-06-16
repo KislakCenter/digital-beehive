@@ -2,29 +2,28 @@
 pid: index_3144
 volume: Volume 3
 image_number: '37'
-head: pretty
-entry: "<a href='/digital-beehive/num3/num_0670'>535 [Incomparable]</a>|<a href='/digital-beehive/num3/num_0671'>535
-  [Excellent]</a>"
-topic: 
+head: preservation
+entry: "<a href='/digital-beehive/num5/num_1523/'>1124 [Preserved]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9a32d8a0d"
-unparsed: 
-line: 'Head: pretty|Entry: 535 [Incomparable]|Entry: 535 [Excellent]|#item-9a32d8a0d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/102,1548,382,185/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550866422539
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/102,1548,382,185/150,/0/default.jpg
-label: pretty
+page:
+add:
+xref:
+see:
+index:
+item: "#item-55f502f9b"
+unparsed:
+line: 'Head: preservation|Entry: 1124 [Preserved]|#item-55f502f9b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550865983609
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/76,628,680,156/150,/0/default.jpg
+label: preservation
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0393'
+issue:
+insertion_xref:
+order: '0392'
 layout: index_item
 collection: index4
 ---

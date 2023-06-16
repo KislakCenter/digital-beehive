@@ -2,27 +2,27 @@
 pid: index_1668
 volume: Volume 3
 image_number: '22'
-head: good. gültig
-entry: "<a href='/digital-beehive/toc/toc2_204/'>1052 [Good]</a>"
-topic: 
+head: God's mercy
+entry: "<a href='/digital-beehive/num2/num_0392/'>338 [Mercy]</a>"
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-74b53e86a"
-unparsed: 
-line: 'Head: good. gültig|Entry: 1052 [Good]|#item-74b53e86a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1561051914983
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0965/1848,486,552,132/150,/0/default.jpg
-label: good. gültig
+page:
+add:
+xref:
+see:
+index:
+item: "#item-17444bcf4"
+unparsed:
+line: 'Head: God''s mercy|Entry: 338 [Mercy]|#item-17444bcf4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2223,415,131/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1561047724204
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0965/1185,2223,415,131/150,/0/default.jpg
+label: God's mercy
 location: "<a href='/digital-beehive/toc/toc3_22/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '487'
 layout: index_item
 collection: index2

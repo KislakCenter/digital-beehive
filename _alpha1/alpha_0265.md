@@ -1,29 +1,29 @@
 ---
 pid: alpha_0265
 volume: Volume 1
-image_number: '452'
-head: 
-entry: Duck
-topic: Duck
+image_number: '451'
+head:
+entry: Drieness
+topic: Drieness
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: "<a href='/digital-beehive/index1/index_1163/'>duck</a>"
-item: "#item-22ba711ad"
-unparsed: 
-line: 'Entry: Duck|Topic: Duck|Index: duck|#item-22ba711ad'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,2985,232/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1508782598315
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/759,1089,600,180/250,/0/default.jpg
-label: Duck
-location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '263'
+page:
+add:
+xref: "<a href='/digital-beehive/num7/num_2264/'>1526 [Drought or Driness]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_1119/'>drieness</a>"
+item: "#item-edc1632ba"
+unparsed:
+line: 'Entry: Drieness|Topic: Drieness|Xref: 1526 [Drought or Driness]|Index: drieness|#item-edc1632ba'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/422,4710,2969,297/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1508179228190
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0450/422,4710,600,180/250,/0/default.jpg
+label: Drieness
+location: "<a href='/digital-beehive/toc/toc1_441/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '264'
 layout: alpha_item
 collection: alpha1
 ---

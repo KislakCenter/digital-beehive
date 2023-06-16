@@ -1,31 +1,30 @@
 ---
 pid: alpha_1011
 volume: Volume 2
-image_number: '63'
-head: 
-entry: Unwilling
-topic: Unwilling
+image_number: '62'
+head:
+entry: Unmercifullness
+topic: Unmercifullness
 first_letter: U/V
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0920/'>Stubborn</a>|<a href='/digital-beehive/alpha5/alpha_1036/'>Willingness</a>|782
-  [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index5/index_4424/'>unwilling</a>"
-item: "#item-cdfcb91fe"
-unparsed: 
-line: 'Entry: Unwilling|Topic: Unwilling|Xref: Stubborn|Xref: Willingness|Xref: 782
-  [PAGE_MISSING]|Index: unwilling|#item-cdfcb91fe'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/318,237,3046,432/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1528914215694
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0530/318,237,600,180/250,/0/default.jpg
-label: Unwilling
-location: "<a href='/digital-beehive/toc/toc2_053/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '077'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha3/alpha_0590/'>Mercy</a>|2251 [unmerciful]"
+see:
+index: "<a href='/digital-beehive/index5/index_4401/'>unmerciful</a>"
+item: "#item-2e68f38de"
+unparsed:
+line: 'Entry: Unmercifullness|Topic: Unmercifullness|Xref: Mercy|Xref: 2251 [unmerciful]|Index:
+  unmerciful|#item-2e68f38de'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/792,2906,2955,625/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1528912925107
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0529/792,2906,600,180/250,/0/default.jpg
+label: Unmercifullness
+location: "<a href='/digital-beehive/toc/toc2_052/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '071'
 layout: alpha_item
 collection: alpha5
 ---

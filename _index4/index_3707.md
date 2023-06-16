@@ -2,29 +2,28 @@
 pid: index_3707
 volume: Volume 3
 image_number: '43'
-head: silence
-entry: "<a href='/digital-beehive/alpha4/alpha_0872/'>a</a>|<a href='/digital-beehive/num2/num_0539/'>436
-  [Silence]</a>|<a href='/digital-beehive/toc/toc2_253/'>1299 [Silence & Reservedness]</a>"
-topic: 
+head: to sink
+entry: "<a href='/digital-beehive/num7/num_2329/'>1560 [Sink]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-cb1d8a7bf"
-unparsed: 
-line: 'Head: silence|Entry: a|Entry: 436 [Silence]|Entry: 1299 [Silence & Reservedness]|#item-cb1d8a7bf'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,1343,679,136/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559581999114
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0986/191,1343,679,136/150,/0/default.jpg
-label: silence
+page:
+add:
+xref:
+see:
+index:
+item: "#item-571918363"
+unparsed:
+line: 'Head: to sink|Entry: 1560 [Sink]|#item-571918363'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,588,504,121/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559582895742
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0986/865,588,504,121/150,/0/default.jpg
+label: to sink
 location: "<a href='/digital-beehive/toc/toc3_43/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0956'
+issue:
+insertion_xref:
+order: '0955'
 layout: index_item
 collection: index4
 ---

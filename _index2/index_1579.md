@@ -2,27 +2,27 @@
 pid: index_1579
 volume: Volume 3
 image_number: '21'
-head: gaping
-entry: "<a href='/digital-beehive/num3/num_1023'>704 [to Gape]</a>"
-topic: 
+head: Gazet
+entry: 4574 [PAGE_MISSING]
+topic:
 first_letter: G
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-dc6a1c620"
-unparsed: 
-line: 'Head: gaping|Entry: 704 [to Gape]|#item-dc6a1c620'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560787120452
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0964/1530,2377,470,130/150,/0/default.jpg
-label: gaping
+page:
+add:
+xref:
+see:
+index:
+item: "#item-9cdce11eb"
+unparsed:
+line: 'Head: Gazet|Entry: 4574 [PAGE_MISSING]|#item-9cdce11eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1507,3218,440,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560787698549
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0964/1507,3218,440,107/150,/0/default.jpg
+label: Gazet
 location: "<a href='/digital-beehive/toc/toc3_21/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '398'
 layout: index_item
 collection: index2

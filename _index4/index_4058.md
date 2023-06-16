@@ -3,7 +3,7 @@ pid: index_4058
 volume: Volume 3
 image_number: '46'
 head: Sympathy
-entry: "<a href='/digital-beehive/num1/num_0150/'>144 [Sympathy]</a>|<a href='/digital-beehive/num7/num_2444/'>1616
+entry: "<a href='/digital-beehive/num1/num_0150/'>144 [Sympathy]</a>|<a href='/digital-beehive/num7/num_2445/'>1616
   [Sympathy]</a>"
 topic:
 first_letter: S
@@ -24,7 +24,7 @@ label: Sympathy
 location: "<a href='/digital-beehive/toc/toc3_46/'>Full Page</a>"
 issue:
 insertion_xref:
-order: '1278'
+order: '1277'
 layout: index_item
 collection: index4
 ---

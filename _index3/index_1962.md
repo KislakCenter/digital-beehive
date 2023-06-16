@@ -2,27 +2,27 @@
 pid: index_1962
 volume: Volume 3
 image_number: '25'
-head: im[m]ortal
-entry: "<a href='/digital-beehive/num2/num_0590/'>474 [Immortal]</a>"
-topic: 
+head: impertinent
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-efdb43bed"
-unparsed: 
-line: 'Head: im[m]ortal|Entry: 474 [Immortal]|#item-efdb43bed'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559665471376
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0968/864,1087,477,102/150,/0/default.jpg
-label: im[m]ortal
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_0059/'>absurd</a>"
+index:
+item: "#item-3b05e5804"
+unparsed:
+line: 'Head: impertinent|See: absurd|#item-3b05e5804'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559665792877
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0968/873,1517,645,122/150,/0/default.jpg
+label: impertinent
 location: "<a href='/digital-beehive/toc/toc3_25/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '044'
 layout: index_item
 collection: index3

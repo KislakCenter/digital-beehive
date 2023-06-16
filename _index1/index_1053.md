@@ -2,28 +2,28 @@
 pid: index_1053
 volume: Volume 3
 image_number: '16'
-head: diminishing
-entry: 736 [PAGE_MISSING]
-topic: 
+head: deliberation
+entry: "<a href='/digital-beehive/alpha1/alpha_0224/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7a50128ba"
-unparsed: 
-line: 'Head: diminishing|Entry: 736 [PAGE_MISSING]|#item-7a50128ba'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1813,2026,544,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541783887625
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1813,2026,544,149/150,/0/default.jpg
-label: diminishing
+page:
+add:
+xref:
+see:
+index:
+item: "#item-d4c4d6de8"
+unparsed:
+line: 'Head: deliberation|Entry: a|#item-d4c4d6de8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/345,2953,514,92/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1507576923710
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/345,2953,514,92/150,/0/default.jpg
+label: deliberation
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1052'
+issue:
+insertion_xref:
+order: '1051'
 layout: index_item
 collection: index1
 ---

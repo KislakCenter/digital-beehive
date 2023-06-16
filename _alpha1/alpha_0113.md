@@ -2,29 +2,27 @@
 pid: alpha_0113
 volume: Volume 1
 image_number: '439'
-head: 
-entry: Calling
-topic: Calling
-first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha4/alpha_0655/'>office</a>|<a href='/digital-beehive/alpha4/alpha_0875/'>Simony</a>|Ordination|<a
-  href='/digital-beehive/num4/num_1174'>904 [Calling]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0510/'>calling</a>"
-item: "#item-01e9433b9"
-unparsed: 
-line: 'Entry: Calling|Topic: Calling|Xref: office|Xref: Simony|Xref: Ordination|Xref:
-  904 [Calling]|Index: calling|#item-01e9433b9'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/321,1235,3146,513/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1496690173296
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0438/321,1235,600,180/250,/0/default.jpg
-label: Calling
+head:
+entry: Butter
+topic: Butter
+first_letter: B
+page:
+add:
+xref: "<a href='/digital-beehive/num8/num_2775/'>1895 [Butter]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0509/'>butter</a>"
+item: "#item-1343f1767"
+unparsed:
+line: 'Entry: Butter|Topic: Butter|Xref: 1895 [Butter]|Index: butter|#item-1343f1767'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/349,602,3080,275/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558626821200
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0438/349,602,600,180/250,/0/default.jpg
+label: Butter
 location: "<a href='/digital-beehive/toc/toc1_429/'>Full Page</a>"
-issue: The point of reference for "Ordination" is unclear.
-also_in_entry: 
+issue:
+also_in_entry:
 order: '112'
 layout: alpha_item
 collection: alpha1

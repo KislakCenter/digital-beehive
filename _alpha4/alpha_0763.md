@@ -1,32 +1,35 @@
 ---
 pid: alpha_0763
 volume: Volume 2
-image_number: '45'
-head: 
-entry: Quaker
-topic: Quaker
-first_letter: Q
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0146/'>Christianity</a>|<a href='/digital-beehive/alpha4/alpha_0824/'>Saints</a>|<a
-  href='/digital-beehive/toc/toc2_204/'>1053 [Objections of the Quakers answered]</a>|<a
-  href='/digital-beehive/num1/num_0225/'>214 [Quakers]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3245/'>Quakers</a>"
-item: "#item-6908449d1"
-unparsed: 
-line: 'Entry: Quaker|Topic: Quaker|Xref: Christianity|Xref: Saints|Xref: 1053 [Objections
-  of the Quakers answered]|Xref: 214 [Quakers]|Index: Quakers|#item-6908449d1'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,1168,3076,481/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558812136860
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0512/286,1168,600,180/250,/0/default.jpg
-label: Quaker
-location: "<a href='/digital-beehive/toc/toc2_035/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '116'
+image_number: '44'
+head:
+entry: Punishment
+topic: Punishment
+first_letter: P
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0764/'>Punishment, continued</a>|<a
+  href='/digital-beehive/alpha1/alpha_0241/'>Discipline</a>|<a href='/digital-beehive/alpha4/alpha_0798/'>Reproof</a>|<a
+  href='/digital-beehive/num1/num_0065/'>64 [sin in his Punishmt]</a>|<a href='/digital-beehive/num2/num_0379/'>330
+  [Impunity]</a>|<a href='/digital-beehive/alpha1/alpha_0120/'>Capital Offence</a>|1113
+  [Punishment]"
+see:
+index: "<a href='/digital-beehive/index4/index_3257/'>punishmt</a>"
+item: "#item-79ffc5944"
+unparsed:
+line: 'Entry: Punishment|Topic: Punishment|Xref: Punishment, continued|Xref: Discipline|Xref:
+  Reproof|Xref: 64 [sin in his Punishmt]|Xref: 330 [Impunity]|Xref: Capital Offence|Xref:
+  1113 [Punishment]|Index: punishmt|#item-79ffc5944'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,3038,699/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565102296284
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0511/728,4385,600,180/250,/0/default.jpg
+label: Punishment
+location: "<a href='/digital-beehive/toc/toc2_034/'>Full Page</a>"
+issue: The entry continues onto the next page.
+also_in_entry:
+order: '111'
 layout: alpha_item
 collection: alpha4
 ---

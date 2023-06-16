@@ -2,29 +2,28 @@
 pid: index_3214
 volume: Volume 3
 image_number: '37'
-head: prudence
-entry: "<a href='/digital-beehive/alpha4/alpha_0755/'>a</a>|<a href='/digital-beehive/toc/toc2_359/'>1954
-  [Prudence]</a>"
-topic: 
+head: psaltery
+entry: "<a href='/digital-beehive/num10/num_3311/'>2341 [Harp]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b357fa7e6"
-unparsed: 
-line: 'Head: prudence|Entry: a|Entry: 1954 [Prudence]|#item-b357fa7e6'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869741067
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1468,2888,637,195/150,/0/default.jpg
-label: prudence
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1215dbd0d"
+unparsed:
+line: 'Head: psaltery|Entry: 2341 [Harp]|#item-1215dbd0d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869815305
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1496,3230,601,124/150,/0/default.jpg
+label: psaltery
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0463'
+issue:
+insertion_xref:
+order: '0462'
 layout: index_item
 collection: index4
 ---

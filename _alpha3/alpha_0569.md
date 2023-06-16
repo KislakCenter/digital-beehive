@@ -2,30 +2,29 @@
 pid: alpha_0569
 volume: Volume 2
 image_number: '30'
-head: 
-entry: Malignity
-topic: Malignity
+head:
+entry: Maid
+topic: Maid
 first_letter: M
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_1032/'>Wickedness</a>|<a href='/digital-beehive/alpha3/alpha_0632/'>naughtiness</a>|<a
-  href='/digital-beehive/alpha2/alpha_0285/'>envy</a>|<a href='/digital-beehive/alpha2/alpha_0401/'>hatred</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2398/'>malice & malignity</a>"
-item: "#item-4540729e7"
-unparsed: 
-line: 'Entry: Malignity|Topic: Malignity|Xref: Wickedness|Xref: naughtiness|Xref:
-  envy|Xref: hatred|Index: malice & malignity|#item-4540729e7'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,2993,462/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564772356663
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0497/750,4522,600,180/250,/0/default.jpg
-label: Malignity
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0863/'>Servant</a>|<a href='/digital-beehive/num6/num_2068/'>1425
+  [Maid]</a>"
+see:
+index: "<a href='/digital-beehive/index3/index_2415/'>maid</a>"
+item: "#item-5d3b778b0"
+unparsed:
+line: 'Entry: Maid|Topic: Maid|Xref: Servant|Xref: 1425 [Maid]|Index: maid|#item-5d3b778b0'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/748,3547,2988,536/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564772143224
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0497/748,3547,600,180/250,/0/default.jpg
+label: Maid
 location: "<a href='/digital-beehive/toc/toc2_020/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '125'
+issue:
+also_in_entry:
+order: '122'
 layout: alpha_item
 collection: alpha3
 ---

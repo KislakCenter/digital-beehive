@@ -2,28 +2,28 @@
 pid: index_1206
 volume: Volume 3
 image_number: '18'
-head: edict
-entry: "<a href='/digital-beehive/toc/toc2_250/'>1285 [an Edict]</a>"
-topic: 
+head: encyclopady
+entry: "<a href='/digital-beehive/num8/num_2901/'>1973 [Learning]</a>"
+topic:
 first_letter: E
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f7e8f0fb9"
-unparsed: 
-line: 'Head: edict|Entry: 1285 [an Edict]|#item-f7e8f0fb9'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559671949782
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0961/1085,815,472,101/150,/0/default.jpg
-label: edict
+page:
+add:
+xref:
+see:
+index:
+item: "#item-200ae7c55"
+unparsed:
+line: 'Head: encyclopady|Entry: 1973 [Learning]|#item-200ae7c55'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1853,944,578,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559754739847
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0961/1853,944,578,133/150,/0/default.jpg
+label: encyclopady
 location: "<a href='/digital-beehive/toc/toc3_18/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '025'
+issue:
+insertion_xref:
+order: '031'
 layout: index_item
 collection: index2
 ---

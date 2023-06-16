@@ -2,27 +2,28 @@
 pid: alpha_0148
 volume: Volume 1
 image_number: '442'
-head: 
-entry: Circumcision
-topic: Circumcision
+head:
+entry: Christendom
+topic: Christendom
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_314/'>1599 [Circumsion]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0672/'>circumcision</a>"
-item: "#item-e3e7fb1e1"
-unparsed: 
-line: 'Entry: Circumcision|Topic: Circumcision|Xref: 1599 [Circumsion]|Index: circumcision|#item-e3e7fb1e1'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,3026,425/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499699866605
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0441/800,1970,600,180/250,/0/default.jpg
-label: Circumcision
+page:
+add:
+xref: "<a href='/digital-beehive/num9/num_2971/'>2037 [Nominal Christians]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0653/'>christendom</a>"
+item: "#item-0b0ff0fcd"
+unparsed:
+line: 'Entry: Christendom|Topic: Christendom|Xref: 2037 [Nominal Christians]|Index:
+  christendom|#item-0b0ff0fcd'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/804,212,3096,640/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499699786298
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0441/804,212,600,180/250,/0/default.jpg
+label: Christendom
 location: "<a href='/digital-beehive/toc/toc1_432/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '147'
 layout: alpha_item
 collection: alpha1

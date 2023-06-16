@@ -2,27 +2,28 @@
 pid: index_0713
 volume: Volume 3
 image_number: '13'
-head: coetaneous
-entry: "<a href='/digital-beehive/toc/toc2_237/'>1220 [Of the same time]</a>"
-topic: 
+head: circumcision
+entry: "<a href='/digital-beehive/alpha1/alpha_0151/'>a</a>|<a href='/digital-beehive/num7/num_2406/'>1599
+  [Circumcision]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-720a92d75"
-unparsed: 
-line: 'Head: coetaneous|Entry: 1220 [Of the same time]|#item-720a92d75'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/848,2854,573,92/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536608716565
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/848,2854,573,92/150,/0/default.jpg
-label: coetaneous
+page:
+add:
+xref:
+see:
+index:
+item: "#item-869bf4f1e"
+unparsed:
+line: 'Head: circumcision|Entry: a|Entry: 1599 [Circumcision]|#item-869bf4f1e'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2249,644,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536332292971
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/143,2249,644,122/150,/0/default.jpg
+label: circumcision
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0712'
 layout: index_item
 collection: index1

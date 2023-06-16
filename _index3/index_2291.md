@@ -2,28 +2,28 @@
 pid: index_2291
 volume: Volume 3
 image_number: '28'
-head: likelyhood
-entry: a|758 [PAGE_MISSING]
-topic: 
+head: liturgy
+entry: "<a href='/digital-beehive/num2/num_0285/'>259 [Book Prayers]</a>|<a href='/digital-beehive/num2/num_0286/'>259
+  [Com[m]on Prayer Book]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7b1431326"
-unparsed: 
-line: 'Head: likelyhood|Entry: a|Entry: 758 [PAGE_MISSING]|#item-7b1431326'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1829,496,628,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848294489
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/1829,496,628,135/150,/0/default.jpg
-label: likelyhood
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4d2d66327"
+unparsed:
+line: 'Head: liturgy|Entry: 259 [Book Prayers]|Entry: 259 [Com[m]on Prayer Book]|#item-4d2d66327'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849559392
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1811,2182,436,134/150,/0/default.jpg
+label: liturgy
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: The "a" links to an alphabetical entry which is indexed more than once. There
-  is no protocol at this point to handle multiple indexing for alphabetical entries.
-insertion_xref: 
+issue: The correct entry for 249 is ambiguous.
+insertion_xref:
 order: '373'
 layout: index_item
 collection: index3

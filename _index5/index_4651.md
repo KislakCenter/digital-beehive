@@ -2,30 +2,29 @@
 pid: index_4651
 volume: Volume 3
 image_number: '53'
-head: to grow young
-entry: "<a href='/digital-beehive/toc/toc2_244/'>1255 [To grow young again]</a>|<a
-  href='/digital-beehive/toc/toc2_380/'>2150 [To grow young again]</a>"
-topic: 
-first_letter: Y
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0dab9057d"
-unparsed: 
-line: 'Head: to grow young|Entry: 1255 [To grow young again]|Entry: 2150 [To grow
-  young again]|#item-0dab9057d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560799579947
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0996/1565,2802,733,127/150,/0/default.jpg
-label: to grow young
+head: womanish
+entry: "<a href='/digital-beehive/alpha5/alpha_1053/'>a</a>|<a href='/digital-beehive/num6/num_1986/'>1388
+  [Love of Women]</a>"
+topic:
+first_letter: W
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4e633adab"
+unparsed:
+line: 'Head: womanish|Entry: a|Entry: 1388 [Love of Women]|#item-4e633adab'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560793636828
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0996/154,3334,645,116/150,/0/default.jpg
+label: womanish
 location: "<a href='/digital-beehive/toc/toc3_53/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '613'
+issue:
+insertion_xref:
+order: '614'
 layout: index_item
 collection: index5
 ---

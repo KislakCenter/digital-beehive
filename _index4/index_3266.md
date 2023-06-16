@@ -2,28 +2,29 @@
 pid: index_3266
 volume: Volume 3
 image_number: '38'
-head: quill
-entry: "<a href='/digital-beehive/num2/num_0507/'>411 [Quill]</a>"
-topic: 
-first_letter: Q
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2e7c6277e"
-unparsed: 
-line: 'Head: quill|Entry: 411 [Quill]|#item-2e7c6277e'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1182,1605,432,108/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1558455302103
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0981/1182,1605,432,108/150,/0/default.jpg
-label: quill
+head: raven
+entry: "<a href='/digital-beehive/alpha4/alpha_0778/'>a</a>|<a href='/digital-beehive/num6/num_1911/'>1351
+  [a Kite : a Hawk]</a>"
+topic:
+first_letter: R
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-c85beeec7"
+unparsed:
+line: 'Head: raven|Page: p.35 [Image 1.95]|Entry: a|Entry: 1351 [a Kite : a Hawk]|#item-c85beeec7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1558461023830
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0981/1854,1380,678,113/150,/0/default.jpg
+label: raven
 location: "<a href='/digital-beehive/toc/toc3_38/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0515'
+issue:
+insertion_xref:
+order: '0514'
 layout: index_item
 collection: index4
 ---

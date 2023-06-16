@@ -2,28 +2,28 @@
 pid: index_1106
 volume: Volume 3
 image_number: '17'
-head: to distrain
-entry: "<a href='/digital-beehive/num2/num_0552/'>445 [To distrain]</a>"
-topic: 
+head: divines and divinity
+entry: "<a href='/digital-beehive/alpha1/alpha_0250/'>a</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-651cf49ff"
-unparsed: 
-line: 'Head: to distrain|Entry: 445 [To distrain]|#item-651cf49ff'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/834,687,558,160/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559848829126
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/834,687,558,160/150,/0/default.jpg
-label: to distrain
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c5721caca"
+unparsed:
+line: 'Head: divines and divinity|Entry: a|#item-c5721caca'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/804,1459,476,157/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559849323353
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/804,1459,476,157/150,/0/default.jpg
+label: divines and divinity
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1105'
+issue:
+insertion_xref:
+order: '1104'
 layout: index_item
 collection: index1
 ---

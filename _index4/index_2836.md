@@ -2,28 +2,28 @@
 pid: index_2836
 volume: Volume 3
 image_number: '34'
-head: to overcome
-entry: 
-topic: 
+head: ox
+entry: "<a href='/digital-beehive/alpha4/alpha_0676/'>a</a>"
+topic:
 first_letter: O
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index5/index_4325/'>victory</a>"
-index: 
-item: "#item-b731aac05"
-unparsed: 
-line: 'Head: to overcome|See: victory|#item-b731aac05'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/439,727,819,197/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538425071468
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0977/439,727,819,197/150,/0/default.jpg
-label: to overcome
+page:
+add:
+xref:
+see:
+index:
+item: "#item-02b868b32"
+unparsed:
+line: 'Head: ox|Entry: a|#item-02b868b32'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1538425715650
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0977/472,2184,305,111/150,/0/default.jpg
+label: ox
 location: "<a href='/digital-beehive/toc/toc3_34/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0085'
+issue:
+insertion_xref:
+order: '0084'
 layout: index_item
 collection: index4
 ---

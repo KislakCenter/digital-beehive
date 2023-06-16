@@ -2,28 +2,28 @@
 pid: index_4141
 volume: Volume 3
 image_number: '47'
-head: Thule
-entry: "<a href='/digital-beehive/toc/toc2_313/'>1594 [Thule]</a>"
-topic: 
+head: timeserving
+entry: "<a href='/digital-beehive/num3/num_0877/'>643 [Temporising]</a>"
+topic:
 first_letter: T
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-291850f2d"
-unparsed: 
-line: 'Head: Thule|Entry: 1594 [Thule]|#item-291850f2d'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1570,813,375,118/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1552667170442
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0990/1570,813,375,118/150,/0/default.jpg
-label: Thule
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a90a7c245"
+unparsed:
+line: 'Head: timeserving|Entry: 643 [Temporising]|#item-a90a7c245'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1600,2735,557,156/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560281023600
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0990/1600,2735,557,156/150,/0/default.jpg
+label: timeserving
 location: "<a href='/digital-beehive/toc/toc3_47/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '103'
+issue:
+insertion_xref:
+order: '104'
 layout: index_item
 collection: index5
 ---

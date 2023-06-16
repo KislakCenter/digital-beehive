@@ -1,31 +1,32 @@
 ---
 pid: alpha_0289
 volume: Volume 1
-image_number: '454'
-head: 
-entry: Equanimity
-topic: Equanimity
+image_number: '453'
+head:
+entry: Epicurism
+topic: Epicurism
 first_letter: E
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0174/'>Contentmt</a>|<a href='/digital-beehive/alpha4/alpha_0688/'>Patience</a>|<a
-  href='/digital-beehive/alpha2/alpha_0307/'>faintheartedness</a>|4560 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index2/index_1286/'>equanimity</a>"
-item: "#item-ab4bc8710"
-unparsed: 
-line: 'Entry: Equanimity|Topic: Equanimity|Xref: Contentmt|Xref: Patience|Xref: faintheartedness|Xref:
-  4560 [PAGE_MISSING]|Index: equanimity|#item-ab4bc8710'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/778,1011,2980,504/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564584969218
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0453/778,1011,600,180/250,/0/default.jpg
-label: Equanimity
-location: "<a href='/digital-beehive/toc/toc1_444/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '020'
+page:
+add:
+xref: "<a href='/digital-beehive/alpha4/alpha_0807/'>Revelling</a>|<a href='/digital-beehive/alpha2/alpha_0308/'>lust
+  of the eye</a>|<a href='/digital-beehive/alpha4/alpha_0717/'>Pleasure</a>|<a href='/digital-beehive/alpha5/alpha_1063/'>Worldly</a>|<a
+  href='/digital-beehive/num5/num_1465/'>1087 [Epicures]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1286/'>epicurism</a>"
+item: "#item-42a12e4a4"
+unparsed:
+line: 'Entry: Epicurism|Topic: Epicurism|Xref: Revelling|Xref: lust of the eye|Xref:
+  Pleasure|Xref: Worldly|Xref: 1087 [Epicures]|Index: epicurism|#item-42a12e4a4'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/367,4513,3112,601/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564519197982
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0452/367,4513,600,180/250,/0/default.jpg
+label: Epicurism
+location: "<a href='/digital-beehive/toc/toc1_443/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '017'
 layout: alpha_item
 collection: alpha2
 ---

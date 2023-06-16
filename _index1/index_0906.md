@@ -2,27 +2,27 @@
 pid: index_0906
 volume: Volume 3
 image_number: '15'
-head: cricket
-entry: "<a href='/digital-beehive/toc/toc2_243/'>1250 [Grasshoppers]</a>"
-topic: 
-first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9cd5e3110"
-unparsed: 
-line: 'Head: cricket|Entry: 1250 [Grasshoppers]|#item-9cd5e3110'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/863,1283,501,128/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1538577438462
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0958/863,1283,501,128/150,/0/default.jpg
-label: cricket
+head: darling
+entry: 796 [PAGE_MISSING]|1870 [PAGE_MISSING]
+topic:
+first_letter: D
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dc581f8d6"
+unparsed:
+line: 'Head: darling|Entry: 796 [PAGE_MISSING]|Entry: 1870 [PAGE_MISSING]|#item-dc581f8d6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540391264195
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0958/1548,1585,603,120/150,/0/default.jpg
+label: darling
 location: "<a href='/digital-beehive/toc/toc3_15/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0905'
 layout: index_item
 collection: index1

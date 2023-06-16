@@ -2,27 +2,27 @@
 pid: index_2539
 volume: Volume 3
 image_number: '31'
-head: misplaced love
-entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
-topic: 
+head: mischief
+entry: "<a href='/digital-beehive/num6/num_2058/'>1422 [Dam[m]age]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1b87d2d21"
-unparsed: 
-line: 'Head: misplaced love|Entry: 4454 [Disordinate Love]|#item-1b87d2d21'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/192,921,640,100/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560351196612
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/192,921,640,100/150,/0/default.jpg
-label: misplaced love
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_2351/'>malignity</a>"
+index:
+item: "#item-a0fd3b583"
+unparsed:
+line: 'Head: mischief|See: malignity|Entry: 1422 [Dam[m]age]|#item-a0fd3b583'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560350588141
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/163,334,704,199/150,/0/default.jpg
+label: mischief
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '621'
 layout: index_item
 collection: index3

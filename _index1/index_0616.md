@@ -2,28 +2,27 @@
 pid: index_0616
 volume: Volume 3
 image_number: '12'
-head: Chaucer
-entry: "<a href='/digital-beehive/toc/toc2_311/'>1585 [Verses]</a>"
-topic: 
+head: big with child
+entry: "<a href='/digital-beehive/num6/num_1962/'>1377 [Great with young]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-9a06a57c1"
-unparsed: 
-line: 'Head: Chaucer|Entry: 1585 [Verses]|#item-9a06a57c1'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1828,885,396,93/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1532444157476
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0955/1828,885,396,93/150,/0/default.jpg
-label: Chaucer
+page:
+add:
+xref:
+see:
+index:
+item: "#item-21c98f16f"
+unparsed:
+line: 'Head: big with child|Entry: 1377 [Great with young]|#item-21c98f16f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1784,2441,661,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1532461113282
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0955/1784,2441,661,154/150,/0/default.jpg
+label: big with child
 location: "<a href='/digital-beehive/toc/toc3_12/'>Full Page</a>"
-issue: 'Pastorius writes 1581, but there is no reference to Chaucer in any entry for
-  1581. The entry 1585, however, clearly references Chaucer. '
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0615'
 layout: index_item
 collection: index1

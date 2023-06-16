@@ -2,27 +2,30 @@
 pid: index_2289
 volume: Volume 3
 image_number: '28'
-head: "[:62.]"
-entry: 
-topic: 
+head: liberty of Conscience
+entry: "<a href='/digital-beehive/alpha3/alpha_0537/'>a</a>|<a href='/digital-beehive/num3/num_0709/'>557
+  [Liberty of Conscience]</a>|<a href='/digital-beehive/num10/num_3242/'>2282 [Liberty
+  of Conscience]</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6a37d515c"
-unparsed: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'
-line: 'Type: Index|Insertion Xref: [:62.]|#item-6a37d515c'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/2403,379,140,195/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560199514613
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0971/2403,379,140,195/150,/0/default.jpg
-label: "[:62.]"
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2ac29d034"
+unparsed:
+line: 'Head: liberty of Conscience|Entry: a|Entry: 557 [Liberty of Conscience]|Entry:
+  2282 [Liberty of Conscience]|#item-2ac29d034'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1133,2074,730,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559846055928
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0971/1133,2074,730,119/150,/0/default.jpg
+label: liberty of Conscience
 location: "<a href='/digital-beehive/toc/toc3_28/'>Full Page</a>"
-issue: 
-insertion_xref: "<a href='/digital-beehive/index5/index_4731/'>to like</a>"
+issue:
+insertion_xref:
 order: '371'
 layout: index_item
 collection: index3

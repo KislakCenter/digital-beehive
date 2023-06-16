@@ -2,27 +2,27 @@
 pid: index_2086
 volume: Volume 3
 image_number: '26'
-head: to intrude
-entry: 858 [PAGE_MISSING]
-topic: 
+head: integrity
+entry: "<a href='/digital-beehive/num6/num_1839/'>1317 [Sincerity]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-f9ec91c2a"
-unparsed: 
-line: 'Head: to intrude|Entry: 858 [PAGE_MISSING]|#item-f9ec91c2a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1823,692,539,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559750904011
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1823,692,539,84/150,/0/default.jpg
-label: to intrude
+page:
+add:
+xref:
+see:
+index:
+item: "#item-1b1f86c83"
+unparsed:
+line: 'Head: integrity|Entry: 1317 [Sincerity]|#item-1b1f86c83'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559748873357
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1151,2445,479,124/150,/0/default.jpg
+label: integrity
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '168'
 layout: index_item
 collection: index3

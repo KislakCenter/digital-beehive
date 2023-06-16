@@ -2,27 +2,27 @@
 pid: alpha_0137
 volume: Volume 1
 image_number: '441'
-head: 
-entry: Cheese
-topic: Cheese
+head:
+entry: Certainty
+topic: Certainty
 first_letter: C
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_324/'>1649 [Cheese]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0620/'>cheese</a>"
-item: "#item-275c57541"
-unparsed: 
-line: 'Entry: Cheese|Topic: Cheese|Xref: 1649 [Cheese]|Index: cheese|#item-275c57541'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/308,1807,3213,402/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1499438058455
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0440/308,1807,600,180/250,/0/default.jpg
-label: Cheese
+page:
+add:
+xref: "<a href='/digital-beehive/num4/num_1186/'>908 [Certainty]</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0602/'>certainty</a>"
+item: "#item-2f6fb588a"
+unparsed:
+line: 'Entry: Certainty|Topic: Certainty|Xref: 908 [Certainty]|Index: certainty|#item-2f6fb588a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/351,587,3014,460/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1499437460953
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0440/351,587,600,180/250,/0/default.jpg
+label: Certainty
 location: "<a href='/digital-beehive/toc/toc1_431/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '136'
 layout: alpha_item
 collection: alpha1

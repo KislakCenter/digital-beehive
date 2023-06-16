@@ -2,28 +2,28 @@
 pid: index_2327
 volume: Volume 3
 image_number: '29'
-head: lookingglass
-entry: "<a href='/digital-beehive/alpha3/alpha_0548/'>a</a>|<a href='/digital-beehive/toc/toc2_375/'>2100
-  [Lookingglass]</a>"
-topic: 
+head: long agoe
+entry: "<a href='/digital-beehive/num1/num_0269/'>248 [Long ago]</a>|<a href='/digital-beehive/num10/num_3464/'>4477
+  [Long ago]</a>"
+topic:
 first_letter: L
-page: "<a href='/digital-beehive/toc/toc1_088/'>p.38 [Image 1.98]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-417e3b4fa"
-unparsed: 
-line: 'Head: lookingglass|Page: p.38 [Image 1.98]|Entry: a|Entry: 2100 [Lookingglass]|#item-417e3b4fa'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,752,696,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560177800842
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/172,752,696,142/150,/0/default.jpg
-label: lookingglass
+page:
+add:
+xref:
+see:
+index:
+item: "#item-6faf21009"
+unparsed:
+line: 'Head: long agoe|Entry: 248 [Long ago]|Entry: 4477 [Long ago]|#item-6faf21009'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/190,348,585,108/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560177068868
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/190,348,585,108/150,/0/default.jpg
+label: long agoe
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '409'
 layout: index_item
 collection: index3

@@ -2,28 +2,28 @@
 pid: index_3854
 volume: Volume 3
 image_number: '44'
-head: splendour
-entry: "<a href='/digital-beehive/num2/num_0529/'>427 [Bright]</a>"
-topic: 
+head: soul of Christ
+entry: "<a href='/digital-beehive/num6/num_2118/'>1448 [Soul of Christ]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0e73c1af3"
-unparsed: 
-line: 'Head: splendour|Entry: 427 [Bright]|#item-0e73c1af3'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530104615868
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0987/1853,957,399,95/150,/0/default.jpg
-label: splendour
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b16d8059d"
+unparsed:
+line: 'Head: soul of Christ|Entry: 1448 [Soul of Christ]|#item-b16d8059d'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2465,510,102/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1529705359633
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0987/560,2465,510,102/150,/0/default.jpg
+label: soul of Christ
 location: "<a href='/digital-beehive/toc/toc3_44/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1103'
+issue:
+insertion_xref:
+order: '1102'
 layout: index_item
 collection: index4
 ---

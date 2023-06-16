@@ -2,28 +2,28 @@
 pid: index_3441
 volume: Volume 3
 image_number: '40'
-head: to roll
-entry: "<a href='/digital-beehive/num3/num_0888'>648 [To Roll]</a>"
-topic: 
+head: to revoke
+entry: "<a href='/digital-beehive/num2/num_0519/'>418 [Renouncing]</a>"
+topic:
 first_letter: R
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-6f523e7c4"
-unparsed: 
-line: 'Head: to roll|Entry: 648 [To Roll]|#item-6f523e7c4'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559233004835
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0983/1161,707,411,131/150,/0/default.jpg
-label: to roll
+page:
+add:
+xref:
+see:
+index:
+item: "#item-4cbedd4eb"
+unparsed:
+line: 'Head: to revoke|Entry: 418 [Renouncing]|#item-4cbedd4eb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,652,549,151/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559231143746
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0983/410,652,549,151/150,/0/default.jpg
+label: to revoke
 location: "<a href='/digital-beehive/toc/toc3_40/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0690'
+issue:
+insertion_xref:
+order: '0689'
 layout: index_item
 collection: index4
 ---

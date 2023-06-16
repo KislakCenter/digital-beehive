@@ -2,28 +2,27 @@
 pid: index_0381
 volume: Volume 3
 image_number: '10'
-head: blackness
-entry: "<a href='/digital-beehive/alpha1/alpha_0083/'>a</a>|<a href='/digital-beehive/toc/toc2_307/'>1563
-  [Blackness]</a>"
-topic: 
+head: Belial
+entry:
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b6db11087"
-unparsed: 
-line: 'Head: blackness|Entry: a|Entry: 1563 [Blackness]|#item-b6db11087'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1083,1475,609,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565634870919
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1083,1475,609,193/150,/0/default.jpg
-label: blackness
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1067/'>Devil</a>"
+index:
+item: "#item-bd626eda3"
+unparsed:
+line: 'Head: Belial|See: Devil|#item-bd626eda3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/386,902,506,94/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531147187038
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/386,902,506,94/150,/0/default.jpg
+label: Belial
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0380'
 layout: index_item
 collection: index1

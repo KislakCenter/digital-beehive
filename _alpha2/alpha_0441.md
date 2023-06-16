@@ -2,29 +2,28 @@
 pid: alpha_0441
 volume: Volume 2
 image_number: '20'
-head: 
-entry: Hypocrisy
-topic: Hypocrisy
+head:
+entry: Hunger
+topic: Hunger
 first_letter: H
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha2/alpha_0312/'>falshood</a>|793 [PAGE_MISSING]"
-see: 
-index: "<a href='/digital-beehive/index2/index_1915/'>hypocrisy</a>"
-item: "#item-5821466fa"
-unparsed: 
-line: 'Entry: Hypocrisy|Topic: Hypocrisy|Xref: falshood|Xref: 793 [PAGE_MISSING]|Index:
-  hypocrisy|#item-5821466fa'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,2842,2947,660/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564758047856
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0487/781,2842,600,180/250,/0/default.jpg
-label: Hypocrisy
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_1035/'>710 [Hunger]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1879/'>hunger</a>"
+item: "#item-8053dee9a"
+unparsed:
+line: 'Entry: Hunger|Topic: Hunger|Xref: 710 [Hunger]|Index: hunger|#item-8053dee9a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/792,1513,2912,589/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1509733702548
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0487/792,1513,600,180/250,/0/default.jpg
+label: Hunger
 location: "<a href='/digital-beehive/toc/toc2_010/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '172'
+issue:
+also_in_entry:
+order: '169'
 layout: alpha_item
 collection: alpha2
 ---

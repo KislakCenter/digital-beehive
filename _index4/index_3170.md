@@ -2,29 +2,28 @@
 pid: index_3170
 volume: Volume 3
 image_number: '37'
-head: process in law
-entry: "<a href='/digital-beehive/alpha4/alpha_0738/'>a</a>|790 [PAGE_MISSING]|<a
-  href='/digital-beehive/toc/toc2_423/'>4451 [WORD_MISSING]</a>"
-topic: 
+head: proselyte
+entry: 836 [PAGE_MISSING]|<a href='/digital-beehive/num7/num_2586/'>1682 [Proselyse]</a>
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-5936ca540"
-unparsed: 
-line: 'Head: process in law|Entry: a|Entry: 790 [PAGE_MISSING]|Entry: 4451 [WORD_MISSING]|#item-5936ca540'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/802,1187,662,152/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867783744
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/802,1187,662,152/150,/0/default.jpg
-label: process in law
+page:
+add:
+xref:
+see:
+index:
+item: "#item-00060c8fb"
+unparsed:
+line: 'Head: proselyte|Entry: 836 [PAGE_MISSING]|Entry: 1682 [Proselyse]|#item-00060c8fb'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550869367610
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/1483,1540,680,115/150,/0/default.jpg
+label: proselyte
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0419'
+issue:
+insertion_xref:
+order: '0418'
 layout: index_item
 collection: index4
 ---

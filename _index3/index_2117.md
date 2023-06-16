@@ -1,28 +1,28 @@
 ---
 pid: index_2117
 volume: Volume 3
-image_number: '27'
-head: irreasonable
-entry: 
-topic: 
+image_number: '26'
+head: Innovations
+entry: "<a href='/digital-beehive/num3/num_0657/'>524 [Novelty]</a>|4705 [PAGE_MISSING]"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0018/'>absurd</a>"
-index: 
-item: "#item-18abd2ec5"
-unparsed: 
-line: 'Head: irreasonable|See: absurd|#item-18abd2ec5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/154,242,675,186/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559756283261
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0970/154,242,675,186/150,/0/default.jpg
-label: irreasonable
-location: "<a href='/digital-beehive/toc/toc3_27/'>Full Page</a>"
-issue: 
-insertion_xref: 
+page:
+add:
+xref:
+see:
+index:
+item: "#item-3812e78d2"
+unparsed:
+line: 'Head: Innovations|Entry: 524 [Novelty]|Entry: 4705 [PAGE_MISSING]|#item-3812e78d2'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559746017369
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/402,3617,731,117/150,/0/default.jpg
+label: Innovations
+location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
+issue:
+insertion_xref:
 order: '199'
 layout: index_item
 collection: index3

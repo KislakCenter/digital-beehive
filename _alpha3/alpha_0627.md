@@ -1,31 +1,30 @@
 ---
 pid: alpha_0627
 volume: Volume 2
-image_number: '35'
-head: 
-entry: Name of God
-topic: Name of God
-first_letter: N
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_358/'>1944 [Name of God]</a>"
-see: 
-index: "<a href='/digital-beehive/index3/index_2634/'>name of God</a>|<a href='/digital-beehive/index2/index_1648/'>God's
-  name</a>"
-item: "#item-e00d8e332"
-unparsed: 
-line: 'Entry: Name of God|Topic: Name of God|Xref: 1944 [Name of God]|Index: name
-  of God|Index: God''s name|#item-e00d8e332'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,3061,529/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564778678758
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0502/305,1365,600,180/250,/0/default.jpg
-label: Name of God
-location: "<a href='/digital-beehive/toc/toc2_025/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '183'
+image_number: '34'
+head:
+entry: I must, continued
+topic: I must, continued
+first_letter: M
+page:
+add:
+xref: 4586 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index3/index_2597/'>I must</a>"
+item: "#item-e2c6e96fb"
+unparsed:
+line: 'Entry: I must, continued|Topic: I must, continued|Xref: 4586 [PAGE_MISSING]|Index:
+  I must|#item-e2c6e96fb'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/720,4812,3022,222/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1586977677935
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0501/720,4812,600,180/250,/0/default.jpg
+label: I must, continued
+location: "<a href='/digital-beehive/toc/toc2_024/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '180'
 layout: alpha_item
 collection: alpha3
 ---

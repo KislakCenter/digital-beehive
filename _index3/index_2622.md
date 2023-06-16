@@ -2,27 +2,27 @@
 pid: index_2622
 volume: Volume 3
 image_number: '31'
-head: I must
-entry: a|4586 [PAGE_MISSING]
-topic: 
+head: moth
+entry: "<a href='/digital-beehive/num7/num_2390/'>1591 [Moth]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-65561c6ab"
-unparsed: 
-line: 'Head: I must|Entry: a|Entry: 4586 [PAGE_MISSING]|#item-65561c6ab'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1517,2240,562,144/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560362333193
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0974/1517,2240,562,144/150,/0/default.jpg
-label: I must
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e8be112e7"
+unparsed:
+line: 'Head: moth|Entry: 1591 [Moth]|#item-e8be112e7'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560356859853
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0974/856,3148,373,106/150,/0/default.jpg
+label: moth
 location: "<a href='/digital-beehive/toc/toc3_31/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '704'
 layout: index_item
 collection: index3

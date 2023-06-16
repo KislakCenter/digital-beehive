@@ -2,28 +2,28 @@
 pid: index_0840
 volume: Volume 3
 image_number: '14'
-head: cookery
-entry: "<a href='/digital-beehive/alpha1/alpha_0178/'>a</a>|<a href='/digital-beehive/num1/num_0253/'>236
-  [Cookery]</a>|<a href='/digital-beehive/toc/toc2_371/'>2054 [Cookery]</a>"
-topic: 
+head: confession auricular
+entry: "<a href='/digital-beehive/alpha1/alpha_0171/'>a</a>|<a href='/digital-beehive/num4/num_1257/'>940
+  [Auricular Confession]</a>"
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0b81372d2"
-unparsed: 
-line: 'Head: cookery|Entry: a|Entry: 236 [Cookery]|Entry: 2054 [Cookery]|#item-0b81372d2'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2118,714,135/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1537559783011
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0957/1830,2118,714,135/150,/0/default.jpg
-label: cookery
+page:
+add:
+xref:
+see:
+index:
+item: "#item-2d77105a6"
+unparsed:
+line: 'Head: confession auricular|Entry: a|Entry: 940 [Auricular Confession]|#item-2d77105a6'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,2968,653,122/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1537216858986
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0957/389,2968,653,122/150,/0/default.jpg
+label: confession auricular
 location: "<a href='/digital-beehive/toc/toc3_14/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0839'
 layout: index_item
 collection: index1

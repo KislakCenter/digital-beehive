@@ -2,27 +2,27 @@
 pid: index_2358
 volume: Volume 3
 image_number: '29'
-head: loyalty
-entry: 
-topic: 
+head: Lord
+entry: "<a href='/digital-beehive/alpha3/alpha_0553/'>a</a>"
+topic:
 first_letter: L
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0096/'>allegiance</a>"
-index: 
-item: "#item-28c78933a"
-unparsed: 
-line: 'Head: loyalty|See: allegiance|#item-28c78933a'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/162,3334,679,161/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560180609888
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/162,3334,679,161/150,/0/default.jpg
-label: loyalty
+page:
+add: "<a href='/digital-beehive/index4/index_3064/'>prayer</a>"
+xref:
+see:
+index:
+item: "#item-20ce408c8"
+unparsed:
+line: 'Head: Lord|Entry: a|Add: prayer|#item-20ce408c8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/175,1310,344,184/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560178124372
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/175,1310,344,184/150,/0/default.jpg
+label: Lord
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '440'
 layout: index_item
 collection: index3

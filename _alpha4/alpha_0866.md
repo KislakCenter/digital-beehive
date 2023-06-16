@@ -2,29 +2,28 @@
 pid: alpha_0866
 volume: Volume 2
 image_number: '52'
-head: 
-entry: Shells of Snails
-topic: Shells of Snails
+head:
+entry: Shadow
+topic: Shadow
 first_letter: S
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha5/alpha_0971/'>Tortoise</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_3667/'>shells of snails</a>"
-item: "#item-b3badbfc6"
-unparsed: 
-line: 'Entry: Shells of Snails|Topic: Shells of Snails|Xref: Tortoise|Index: shells
-  of snails|#item-b3badbfc6'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,2917,365/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1530803527937
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0519/831,2702,600,180/250,/0/default.jpg
-label: Shells of Snails
+page:
+add:
+xref: "<a href='/digital-beehive/num3/num_0872/'>641 [the Shadow]</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_3659/'>shadow</a>"
+item: "#item-34247929a"
+unparsed:
+line: 'Entry: Shadow|Topic: Shadow|Xref: 641 [the Shadow]|Index: shadow|#item-34247929a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/834,1129,2967,398/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1530803271462
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0519/834,1129,600,180/250,/0/default.jpg
+label: Shadow
 location: "<a href='/digital-beehive/toc/toc2_042/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '218'
+issue:
+also_in_entry:
+order: '214'
 layout: alpha_item
 collection: alpha4
 ---

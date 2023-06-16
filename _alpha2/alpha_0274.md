@@ -2,32 +2,29 @@
 pid: alpha_0274
 volume: Volume 1
 image_number: '452'
-head: 
-entry: Ecclesiastical discipline
-topic: Ecclesiastical discipline
+head:
+entry: Earth
+topic: Earth
 first_letter: E
-page: 
-add: 
-xref: Excommunication|<a href='/digital-beehive/num1/num_0075/'>74 [the Judge of religious
-  Controversies]</a>|<a href='/digital-beehive/num2/num_0492/'>402 [Order & Discipline
-  in the Church]</a>
-see: 
-index: "<a href='/digital-beehive/index2/index_1200/'>ecclesiastical discipline</a>"
-item: "#item-c4e2bba71"
-unparsed: 
-line: 'Entry: Ecclesiastical discipline|Topic: Ecclesiastical discipline|Xref: Excommunication|Xref:
-  74 [the Judge of religious Controversies]|Xref: 402 [Order & Discipline in the Church]|Index:
-  ecclesiastical discipline|#item-c4e2bba71'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,2927,886/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564517864591
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0451/821,4226,600,180/250,/0/default.jpg
-label: Ecclesiastical discipline
+page:
+add:
+xref: "<a href='/digital-beehive/alpha5/alpha_1061/'>World</a>|<a href='/digital-beehive/num9/num_3069/'>2130
+  [Earth]</a>"
+see:
+index: "<a href='/digital-beehive/index2/index_1242/'>earth</a>"
+item: "#item-a3ac6b45a"
+unparsed:
+line: 'Entry: Earth|Topic: Earth|Xref: World|Xref: 2130 [Earth]|Index: earth|#item-a3ac6b45a'
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/766,2806,2960,651/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564517510076
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0451/766,2806,600,180/250,/0/default.jpg
+label: Earth
 location: "<a href='/digital-beehive/toc/toc1_442/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '005'
+issue:
+also_in_entry:
+order: '002'
 layout: alpha_item
 collection: alpha2
 ---

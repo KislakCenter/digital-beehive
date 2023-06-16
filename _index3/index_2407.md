@@ -2,27 +2,27 @@
 pid: index_2407
 volume: Volume 3
 image_number: '29'
-head: mandrakes
-entry: "<a href='/digital-beehive/toc/toc2_357/'>1939 [Mandrakes]</a>"
-topic: 
+head: manuscripts
+entry: "<a href='/digital-beehive/num6/num_2011/'>1398 [Manuscripts]</a>"
+topic:
 first_letter: M
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-99d7d1566"
-unparsed: 
-line: 'Head: mandrakes|Entry: 1939 [Mandrakes]|#item-99d7d1566'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,1821,551,121/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560195450838
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0972/1548,1821,551,121/150,/0/default.jpg
-label: mandrakes
+page:
+add:
+xref:
+see:
+index:
+item: "#item-414c9ad1f"
+unparsed:
+line: 'Head: manuscripts|Entry: 1398 [Manuscripts]|#item-414c9ad1f'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1536,2936,496,133/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560196655408
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0972/1536,2936,496,133/150,/0/default.jpg
+label: manuscripts
 location: "<a href='/digital-beehive/toc/toc3_29/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '489'
 layout: index_item
 collection: index3

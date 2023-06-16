@@ -2,28 +2,27 @@
 pid: index_2077
 volume: Volume 3
 image_number: '26'
-head: interpretation
-entry: "<a href='/digital-beehive/alpha3/alpha_0485/'>a</a>|<a href='/digital-beehive/num4/num_1223'>923
-  [Interpretation]</a>"
-topic: 
+head: jocular
+entry:
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-7be42eb90"
-unparsed: 
-line: 'Head: interpretation|Entry: a|Entry: 923 [Interpretation]|#item-7be42eb90'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559749247048
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/1155,3102,618,146/150,/0/default.jpg
-label: interpretation
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index3/index_1970/'>jesting</a>"
+index:
+item: "#item-0d2d3f34b"
+unparsed:
+line: 'Head: jocular|See: jesting|#item-0d2d3f34b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,2062,587,159/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559751982090
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1866,2062,587,159/150,/0/default.jpg
+label: jocular
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '159'
 layout: index_item
 collection: index3

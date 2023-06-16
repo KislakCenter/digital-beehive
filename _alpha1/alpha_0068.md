@@ -2,28 +2,28 @@
 pid: alpha_0068
 volume: Volume 1
 image_number: '435'
-head: 
+head:
 entry: Beast
 topic: Beast
 first_letter: B
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha1/alpha_0128/'>Cattel</a>|<a href='/digital-beehive/toc/toc2_230/'>1185
+page:
+add:
+xref: "<a href='/digital-beehive/alpha1/alpha_0131/'>Cattel</a>|<a href='/digital-beehive/num5/num_1616/'>1185
   [Beasts]</a>"
-see: 
-index: "<a href='/digital-beehive/index1/index_0319/'>beast</a>"
+see:
+index: "<a href='/digital-beehive/index1/index_0287/'>beast</a>"
 item: "#item-ed5341113"
-unparsed: 
+unparsed:
 line: 'Entry: Beast|Topic: Beast|Xref: Cattel|Xref: 1185 [Beasts]|Index: beast|#item-ed5341113'
-selection: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/425,4784,3014,252/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/full/full/0/default.jpg
+selection: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/425,4784,3014,252/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/full/full/0/default.jpg
 annotation_uri: http://dev.llgc.org.uk/annotation/1558810100380
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740%2F1607_0434/425,4784,600,180/250,/0/default.jpg
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/ps974xt6740/1607_0434/425,4784,600,180/250,/0/default.jpg
 label: Beast
 location: "<a href='/digital-beehive/toc/toc1_425/'>Full Page</a>"
-issue: 
-also_in_entry: 
+issue:
+also_in_entry:
 order: '067'
 layout: alpha_item
 collection: alpha1

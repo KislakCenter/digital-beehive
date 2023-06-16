@@ -2,27 +2,30 @@
 pid: index_0027
 volume: Volume 3
 image_number: '7'
-head: account
-entry: "<a href='/digital-beehive/num1/num_0057/'>56 [Account]</a>"
-topic: 
+head: alchymie
+entry: "<a href='/digital-beehive/alpha1/alpha_0018/'>a</a>|<a href='/digital-beehive/num6/num_1863/'>1326
+  [Alchymie]</a>|<a href='/digital-beehive/num7/num_2305/'>1548 [Alchymie]</a>|<a
+  href='/digital-beehive/num9/num_3026/'>2090 [Alchymie]</a>|4555 [PAGE_MISSING]"
+topic:
 first_letter: A
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-3d871be17"
-unparsed: 
-line: 'Head: account|Entry: 56 [Account]|#item-3d871be17'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/171,2409,511,109/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1491191420803
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0950/171,2409,511,109/150,/0/default.jpg
-label: account
+page:
+add:
+xref:
+see:
+index:
+item: "#item-acedd3f25"
+unparsed:
+line: 'Head: alchymie|Entry: a|Entry: 1326 [Alchymie]|Entry: 1548 [Alchymie]|Entry:
+  2090 [Alchymie]|Entry: 4555 [PAGE_MISSING]|#item-acedd3f25'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,722,717,154/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564768095550
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0950/1608,722,717,154/150,/0/default.jpg
+label: alchymie
 location: "<a href='/digital-beehive/toc/toc3_07/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0026'
 layout: index_item
 collection: index1

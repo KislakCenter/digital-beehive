@@ -2,28 +2,27 @@
 pid: index_0743
 volume: Volume 3
 image_number: '13'
-head: common goods
-entry: "<a href='/digital-beehive/alpha1/alpha_0159/'>a</a>|<a href='/digital-beehive/toc/toc2_228/'>1172
-  [Community of Goods]</a>"
-topic: 
+head: clandestine
+entry:
+topic:
 first_letter: C
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-1336369fe"
-unparsed: 
-line: 'Head: common goods|Entry: a|Entry: 1172 [Community of Goods]|#item-1336369fe'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1536611730674
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0956/1542,2406,523,142/150,/0/default.jpg
-label: common goods
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3545/'>Secret</a>"
+index:
+item: "#item-d2f551622"
+unparsed:
+line: 'Head: clandestine|See: Secret|#item-d2f551622'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/156,3105,687,129/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1536333379904
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0956/156,3105,687,129/150,/0/default.jpg
+label: clandestine
 location: "<a href='/digital-beehive/toc/toc3_13/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0742'
 layout: index_item
 collection: index1

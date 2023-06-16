@@ -2,27 +2,27 @@
 pid: index_0404
 volume: Volume 3
 image_number: '10'
-head: bodily shapes
-entry: "<a href='/digital-beehive/toc/toc2_289/'>1476 [Bodily Shape]</a>"
-topic: 
+head: Bermuda
+entry: "<a href='/digital-beehive/num7/num_2236/'>1513 [Bermudas]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-575257ccc"
-unparsed: 
-line: 'Head: bodily shapes|Entry: 1476 [Bodily Shape]|#item-575257ccc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1759,652,646,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531152573312
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0953/1759,652,646,154/150,/0/default.jpg
-label: bodily shapes
+page:
+add:
+xref:
+see:
+index:
+item: "#item-02b9f22f3"
+unparsed:
+line: 'Head: Bermuda|Entry: 1513 [Bermudas]|#item-02b9f22f3'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/349,1997,461,130/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531147882610
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0953/349,1997,461,130/150,/0/default.jpg
+label: Bermuda
 location: "<a href='/digital-beehive/toc/toc3_10/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0403'
 layout: index_item
 collection: index1

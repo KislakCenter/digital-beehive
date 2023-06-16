@@ -2,28 +2,27 @@
 pid: index_0496
 volume: Volume 3
 image_number: '11'
-head: to buy
-entry: "<a href='/digital-beehive/alpha1/alpha_0111/'>a</a>|<a href='/digital-beehive/toc/toc2_321/'>1632
-  [Buy]</a>"
-topic: 
-first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-2cbedc8ee"
-unparsed: 
-line: 'Head: to buy|Entry: a|Entry: 1632 [Buy]|#item-2cbedc8ee'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/877,2703,491,133/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531422082918
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/877,2703,491,133/150,/0/default.jpg
-label: to buy
+head: canibal
+entry: "<a href='/digital-beehive/num2/num_0606/'>485 [Canibal]</a>"
+topic:
+first_letter: C
+page:
+add:
+xref:
+see:
+index:
+item: "#item-17a47aa16"
+unparsed:
+line: 'Head: canibal|Entry: 485 [Canibal]|#item-17a47aa16'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1581,2083,517,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531495316742
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/1581,2083,517,127/150,/0/default.jpg
+label: canibal
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0495'
 layout: index_item
 collection: index1

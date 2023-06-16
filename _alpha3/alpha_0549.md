@@ -1,29 +1,29 @@
 ---
 pid: alpha_0549
 volume: Volume 2
-image_number: '29'
-head: 
-entry: To Look
-topic: To Look
+image_number: '28'
+head:
+entry: Long
+topic: Long
 first_letter: L
-page: 
-add: 
-xref: Stare|<a href='/digital-beehive/toc/toc2_280/'>1433 [To Look]</a>
-see: 
-index: "<a href='/digital-beehive/index3/index_2325/'>to look</a>"
-item: "#item-afb09bfa4"
-unparsed: 
-line: 'Entry: To Look|Topic: To Look|Xref: Stare |Xref: 1433 [To Look]|Index: to look|#item-afb09bfa4'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,848,3091,310/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1564770240198
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0496/300,848,600,180/250,/0/default.jpg
-label: To Look
-location: "<a href='/digital-beehive/toc/toc2_019/'>Full Page</a>"
-issue: The point of reference for "Stare" is unclear.
-also_in_entry: 
-order: '105'
+page:
+add:
+xref: 820 [PAGE_MISSING]
+see:
+index: "<a href='/digital-beehive/index3/index_2324/'>long</a>"
+item: "#item-14b86296a"
+unparsed:
+line: 'Entry: Long|Topic: Long|Xref: 820 [PAGE_MISSING]|Index: long|#item-14b86296a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/684,4848,3002,264/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1564769930969
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0495/684,4848,600,180/250,/0/default.jpg
+label: Long
+location: "<a href='/digital-beehive/toc/toc2_018/'>Full Page</a>"
+issue:
+also_in_entry:
+order: '102'
 layout: alpha_item
 collection: alpha3
 ---

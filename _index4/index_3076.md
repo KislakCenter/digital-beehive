@@ -2,28 +2,28 @@
 pid: index_3076
 volume: Volume 3
 image_number: '36'
-head: pork
-entry: 
-topic: 
+head: possam
+entry: "<a href='/digital-beehive/num3/num_0792/'>602 [Possam]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index2/index_1852/'>hog</a>"
-index: 
-item: "#item-c4ff263ac"
-unparsed: 
-line: 'Head: pork|See: hog|#item-c4ff263ac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1197,1134,466,155/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1548438519516
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0979/1197,1134,466,155/150,/0/default.jpg
-label: pork
+page:
+add:
+xref:
+see:
+index:
+item: "#item-a718c5bc8"
+unparsed:
+line: 'Head: possam|Entry: 602 [Possam]|#item-a718c5bc8'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1161,1406,492,87/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1548438718472
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0979/1161,1406,492,87/150,/0/default.jpg
+label: possam
 location: "<a href='/digital-beehive/toc/toc3_36/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0325'
+issue:
+insertion_xref:
+order: '0324'
 layout: index_item
 collection: index4
 ---

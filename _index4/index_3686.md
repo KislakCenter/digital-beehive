@@ -2,29 +2,28 @@
 pid: index_3686
 volume: Volume 3
 image_number: '42'
-head: short
-entry: 
-topic: 
+head: shark. (fish.)
+entry: 4744 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0449/'>brevity</a>|<a href='/digital-beehive/index1/index_1177/'>dwarf</a>|<a
-  href='/digital-beehive/index5/index_4216/'>transitory</a>"
-index: 
-item: "#item-de2a7d9a5"
-unparsed: 
-line: 'Head: short|See: brevity|See: dwarf|See: transitory|#item-de2a7d9a5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559576420141
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1809,2454,699,193/150,/0/default.jpg
-label: short
+page:
+add:
+xref:
+see:
+index:
+item: "#item-e5802fbe0"
+unparsed:
+line: 'Head: shark. (fish.)|Entry: 4744 [PAGE_MISSING]|#item-e5802fbe0'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1075,3139,659,126/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559575335171
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/1075,3139,659,126/150,/0/default.jpg
+label: shark. (fish.)
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0935'
+issue:
+insertion_xref:
+order: '0934'
 layout: index_item
 collection: index4
 ---

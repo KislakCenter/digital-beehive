@@ -2,29 +2,28 @@
 pid: index_3655
 volume: Volume 3
 image_number: '42'
-head: shadow
-entry: "<a href='/digital-beehive/alpha4/alpha_0861/'>a</a>|<a href='/digital-beehive/num3/num_0872'>641
-  [the Shadow]</a>"
-topic: 
+head: Self love
+entry: "<a href='/digital-beehive/alpha4/alpha_0856/'>a</a>|799 [PAGE_MISSING]"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d57e2b20b"
-unparsed: 
-line: 'Head: shadow|Entry: a|Entry: 641 [the Shadow]|#item-d57e2b20b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559574655260
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0985/1101,2048,526,164/150,/0/default.jpg
-label: shadow
+page:
+add:
+xref:
+see:
+index:
+item: "#item-93115b1fd"
+unparsed:
+line: 'Head: Self love|Entry: a|Entry: 799 [PAGE_MISSING]|#item-93115b1fd'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/382,1907,552,107/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559244681317
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0985/382,1907,552,107/150,/0/default.jpg
+label: Self love
 location: "<a href='/digital-beehive/toc/toc3_42/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0904'
+issue:
+insertion_xref:
+order: '0903'
 layout: index_item
 collection: index4
 ---

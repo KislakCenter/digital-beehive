@@ -2,27 +2,27 @@
 pid: index_2028
 volume: Volume 3
 image_number: '26'
-head: infancy
-entry: 
-topic: 
+head: in[n]umerable
+entry: "<a href='/digital-beehive/num3/num_0869/'>639 [Innumerable]</a>"
+topic:
 first_letter: I/J
-page: 
-add: 
-xref: 
-see: "<a href='/digital-beehive/index1/index_0633/'>Childhood</a>"
-index: 
-item: "#item-086ab94c5"
-unparsed: 
-line: 'Head: infancy|See: Childhood|#item-086ab94c5'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559744055955
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0969/451,1058,638,151/150,/0/default.jpg
-label: infancy
+page:
+add:
+xref:
+see:
+index:
+item: "#item-dc5e08fd1"
+unparsed:
+line: 'Head: in[n]umerable|Entry: 639 [Innumerable]|#item-dc5e08fd1'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1168,248,570,164/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559746857353
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0969/1168,248,570,164/150,/0/default.jpg
+label: in[n]umerable
 location: "<a href='/digital-beehive/toc/toc3_26/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '110'
 layout: index_item
 collection: index3

@@ -2,29 +2,29 @@
 pid: index_3157
 volume: Volume 3
 image_number: '37'
-head: prince
-entry: "<a href='/digital-beehive/alpha4/alpha_0732/'>a</a>|<a href='/digital-beehive/toc/toc2_231/'>1186
-  [Prince]</a>|<a href='/digital-beehive/toc/toc2_340/'>1758 [Prince]</a>"
-topic: 
+head: probability
+entry: "<a href='/digital-beehive/num1/num_0266/'>246 [Probability]</a>|<a href='/digital-beehive/num9/num_3149/'>2206
+  [Probability]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-a70a56eac"
-unparsed: 
-line: 'Head: prince|Entry: a|Entry: 1186 [Prince]|Entry: 1758 [Prince]|#item-a70a56eac'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550867164914
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/108,3058,646,149/150,/0/default.jpg
-label: prince
+page:
+add:
+xref:
+see:
+index:
+item: "#item-b13adec1b"
+unparsed:
+line: 'Head: probability|Entry: 246 [Probability]|Entry: 2206 [Probability]|#item-b13adec1b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/782,1050,671,119/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550867712416
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/782,1050,671,119/150,/0/default.jpg
+label: probability
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0406'
+issue:
+insertion_xref:
+order: '0405'
 layout: index_item
 collection: index4
 ---

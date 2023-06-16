@@ -2,29 +2,28 @@
 pid: index_4705
 volume: Volume 3
 image_number: '54'
-head: Salvation of devils
-entry: "<a href='/digital-beehive/toc/toc2_427/'>4485 [Devils to be Saved]</a>"
-topic: 
+head: gossipping
+entry: "<a href='/digital-beehive/num11/num_3551/'>4856 [Gosiping]</a>"
+topic:
 first_letter: insertion
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0e6173fae"
-unparsed: Type Index|Insertion [:37.]
-line: 'Type: Index|Insertion: [:37.]|Head: Salvation of devils|Entry: 4485 [Devils
-  to be Saved]|#item-0e6173fae'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1071,2005,722,151/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1560955474959
-insertion: "[:37.]"
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0997/1071,2005,722,151/150,/0/default.jpg
-label: Salvation of devils
+page:
+add:
+xref:
+see:
+index:
+item: "#item-c89a826af"
+unparsed: Type Index|Insertion [:60.]
+line: 'Type: Index|Insertion: [:60.]|Head: gossipping|Entry: 4856 [Gosiping]|#item-c89a826af'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1761,1997,674,127/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560957410435
+insertion: "[:60.]"
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0997/1761,1997,674,127/150,/0/default.jpg
+label: gossipping
 location: "<a href='/digital-beehive/toc/toc3_54/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '667'
+issue:
+insertion_xref:
+order: '668'
 layout: index_item
 collection: index5
 ---

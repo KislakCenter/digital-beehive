@@ -2,28 +2,29 @@
 pid: index_3204
 volume: Volume 3
 image_number: '37'
-head: protection
-entry: "<a href='/digital-beehive/alpha4/alpha_0752/'>a</a>|1855 [PAGE_MISSING]"
-topic: 
+head: prolixness
+entry: "<a href='/digital-beehive/num2/num_0323/'>286 [Prolixness]</a>|<a href='/digital-beehive/num9/num_3120/'>2177
+  [Prolixity]</a>"
+topic:
 first_letter: P
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-0d901129b"
-unparsed: 
-line: 'Head: protection|Entry: a|Entry: 1855 [PAGE_MISSING]|#item-0d901129b'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1503,1806,581,149/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1550869422505
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0980/1503,1806,581,149/150,/0/default.jpg
-label: protection
+page:
+add:
+xref:
+see:
+index:
+item: "#item-807f93df4"
+unparsed:
+line: 'Head: prolixness|Entry: 286 [Prolixness]|Entry: 2177 [Prolixity]|#item-807f93df4'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2842,658,136/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1550868552770
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0980/796,2842,658,136/150,/0/default.jpg
+label: prolixness
 location: "<a href='/digital-beehive/toc/toc3_37/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0453'
+issue:
+insertion_xref:
+order: '0452'
 layout: index_item
 collection: index4
 ---

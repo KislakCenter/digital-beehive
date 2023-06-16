@@ -2,28 +2,28 @@
 pid: index_1087
 volume: Volume 3
 image_number: '17'
-head: disordinate love
-entry: "<a href='/digital-beehive/toc/toc2_423/'>4454 [Disordinate Love]</a>"
-topic: 
+head: dove
+entry: "<a href='/digital-beehive/num3/num_0761/'>588 [Dove]</a>"
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-4868783dc"
-unparsed: 
-line: 'Head: disordinate love|Entry: 4454 [Disordinate Love]|#item-4868783dc'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1541804273327
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0960/137,2141,678,84/150,/0/default.jpg
-label: disordinate love
+page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
+add:
+xref:
+see:
+index:
+item: "#item-bdc15c94b"
+unparsed:
+line: 'Head: dove|Page: p.35 [Image 1.95]|Entry: 588 [Dove]|#item-bdc15c94b'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1440,869,595,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1560367832995
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0960/1440,869,595,155/150,/0/default.jpg
+label: dove
 location: "<a href='/digital-beehive/toc/toc3_17/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1086'
+issue:
+insertion_xref:
+order: '1085'
 layout: index_item
 collection: index1
 ---

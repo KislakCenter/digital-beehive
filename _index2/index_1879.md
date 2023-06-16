@@ -2,28 +2,29 @@
 pid: index_1879
 volume: Volume 3
 image_number: '24'
-head: hospital at Glaucha
-entry: "<a href='/digital-beehive/toc/toc2_276/'>1415 [Hospital]</a>"
-topic: 
+head: hunger
+entry: "<a href='/digital-beehive/alpha2/alpha_0441/'>a</a>|<a href='/digital-beehive/num3/num_1035/'>710
+  [Hunger]</a>|<a href='/digital-beehive/num9/num_3031/'>2095 [Hunger]</a>"
+topic:
 first_letter: H
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-71136cd03"
-unparsed: 
-line: 'Head: hospital at Glaucha|Entry: 1415 [Hospital]|#item-71136cd03'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,3408,583,138/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559584645764
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0967/1129,3408,583,138/150,/0/default.jpg
-label: hospital at Glaucha
+page:
+add:
+xref:
+see:
+index:
+item: "#item-26cddac04"
+unparsed:
+line: 'Head: hunger|Entry: a|Entry: 710 [Hunger]|Entry: 2095 [Hunger]|#item-26cddac04'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559588034657
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0967/1838,2144,645,152/150,/0/default.jpg
+label: hunger
 location: "<a href='/digital-beehive/toc/toc3_24/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '697'
+issue:
+insertion_xref:
+order: '698'
 layout: index_item
 collection: index2
 ---

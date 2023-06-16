@@ -2,29 +2,28 @@
 pid: index_3584
 volume: Volume 3
 image_number: '41'
-head: secret parts
-entry: "<a href='/digital-beehive/num2/num_0569/'>458 [Privy parts]</a>|<a href='/digital-beehive/toc/toc2_385/'>2192
-  [Privy parts]</a>"
-topic: 
+head: seeing
+entry: "<a href='/digital-beehive/num2/num_0468/'>385 [Sight]</a>"
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-fd8cfb194"
-unparsed: 
-line: 'Head: secret parts|Entry: 458 [Privy parts]|Entry: 2192 [Privy parts]|#item-fd8cfb194'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559242615279
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/1605,1681,658,171/150,/0/default.jpg
-label: secret parts
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index4/index_3708/'>sight</a>"
+index:
+item: "#item-4c8214bae"
+unparsed:
+line: 'Head: seeing|See: sight|Entry: 385 [Sight]|#item-4c8214bae'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1598,2900,672,169/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559243026815
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/1598,2900,672,169/150,/0/default.jpg
+label: seeing
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0833'
+issue:
+insertion_xref:
+order: '0832'
 layout: index_item
 collection: index4
 ---

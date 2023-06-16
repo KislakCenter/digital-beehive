@@ -2,28 +2,28 @@
 pid: index_2941
 volume: Volume 3
 image_number: '35'
-head: pelican
-entry: 
-topic: 
+head: peccadillo
+entry: "<a href='/digital-beehive/num3/num_0689/'>546 [Punctilio]</a>"
+topic:
 first_letter: P
-page: "<a href='/digital-beehive/toc/toc1_085/'>p.35 [Image 1.95]</a>"
-add: 
-xref: 
-see: 
-index: 
-item: "#item-b43dd6aa0"
-unparsed: 
-line: 'Head: pelican|Page: p.35 [Image 1.95]|#item-b43dd6aa0'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1539971884614
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0978/61,943,621,122/150,/0/default.jpg
-label: pelican
+page:
+add:
+xref:
+see:
+index:
+item: "#item-efa671205"
+unparsed:
+line: 'Head: peccadillo|Entry: 546 [Punctilio]|#item-efa671205'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/113,378,526,155/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1539971552370
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0978/113,378,526,155/150,/0/default.jpg
+label: peccadillo
 location: "<a href='/digital-beehive/toc/toc3_35/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0190'
+issue:
+insertion_xref:
+order: '0189'
 layout: index_item
 collection: index4
 ---

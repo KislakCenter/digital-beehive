@@ -2,29 +2,28 @@
 pid: index_3549
 volume: Volume 3
 image_number: '41'
-head: scholars
-entry: "<a href='/digital-beehive/num4/num_1303'>975 [Disciples]</a>|<a href='/digital-beehive/toc/toc2_307/'>1564
-  [Scholars]</a>"
-topic: 
+head: sand
+entry: 776 [PAGE_MISSING]
+topic:
 first_letter: S
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-d8c98522f"
-unparsed: 
-line: 'Head: scholars|Entry: 975 [Disciples]|Entry: 1564 [Scholars]|#item-d8c98522f'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1559240641007
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0984/873,1405,621,143/150,/0/default.jpg
-label: scholars
+page:
+add:
+xref:
+see:
+index:
+item: "#item-782d5c8ce"
+unparsed:
+line: 'Head: sand|Entry: 776 [PAGE_MISSING]|#item-782d5c8ce'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,1686,331,95/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1559238998487
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0984/160,1686,331,95/150,/0/default.jpg
+label: sand
 location: "<a href='/digital-beehive/toc/toc3_41/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '0798'
+issue:
+insertion_xref:
+order: '0797'
 layout: index_item
 collection: index4
 ---

@@ -2,27 +2,27 @@
 pid: index_0468
 volume: Volume 3
 image_number: '11'
-head: brownists
-entry: "<a href='/digital-beehive/num1/num_0236/'>223 [Brownists]</a>"
-topic: 
+head: to break through
+entry: "<a href='/digital-beehive/num3/num_0937/'>674 [To break through]</a>"
+topic:
 first_letter: B
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-60b646da8"
-unparsed: 
-line: 'Head: brownists|Entry: 223 [Brownists]|#item-60b646da8'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/889,215,521,154/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1531420135996
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0954/889,215,521,154/150,/0/default.jpg
-label: brownists
+page:
+add:
+xref:
+see:
+index:
+item: "#item-da008cc0a"
+unparsed:
+line: 'Head: to break through|Entry: 674 [To break through]|#item-da008cc0a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/156,1240,503,85/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1531418073238
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0954/156,1240,503,85/150,/0/default.jpg
+label: to break through
 location: "<a href='/digital-beehive/toc/toc3_11/'>Full Page</a>"
-issue: 
-insertion_xref: 
+issue:
+insertion_xref:
 order: '0467'
 layout: index_item
 collection: index1

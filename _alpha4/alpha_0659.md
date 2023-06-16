@@ -2,28 +2,30 @@
 pid: alpha_0659
 volume: Volume 2
 image_number: '37'
-head: 
-entry: Old Adam
-topic: Old Adam
+head:
+entry: Oeconomy
+topic: Oeconomy
 first_letter: O
-page: 
-add: 
-xref: "<a href='/digital-beehive/toc/toc2_334/'>1697 [Old Adam]</a>"
-see: 
-index: "<a href='/digital-beehive/index4/index_2782/'>old Adam</a>"
-item: "#item-978d15000"
-unparsed: 
-line: 'Entry: Old Adam|Topic: Old Adam|Xref: 1697 [Old Adam]|Index: old Adam|#item-978d15000'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/312,2910,3051,378/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565017586284
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0504/312,2910,600,180/250,/0/default.jpg
-label: Old Adam
+page: "<a href='/digital-beehive/toc/toc2_191/'>p.379 [Image 2.202]</a>"
+add:
+xref: "<a href='/digital-beehive/alpha2/alpha_0443/'>Husbandry</a>"
+see:
+index: "<a href='/digital-beehive/index4/index_2824/'>oeconomy</a>"
+item: "#item-e72af992e"
+unparsed:
+line: 'Entry: Oeconomy|Topic: Oeconomy|Xref: Husbandry|Page: p.379 [Image 2.202]|Index:
+  oeconomy|#item-e72af992e'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/290,1423,3095,401/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565016740122
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0504/290,1423,600,180/250,/0/default.jpg
+label: Oeconomy
 location: "<a href='/digital-beehive/toc/toc2_027/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '012'
+issue: There is currently no protocol for cross-references to page numbers in the
+  Alphabetical Hive.
+also_in_entry:
+order: '007'
 layout: alpha_item
 collection: alpha4
 ---

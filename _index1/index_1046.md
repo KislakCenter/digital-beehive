@@ -2,28 +2,28 @@
 pid: index_1046
 volume: Volume 3
 image_number: '16'
-head: diet
-entry: "<a href='/digital-beehive/alpha1/alpha_0233/'>a</a>|4735 [PAGE_MISSING]"
-topic: 
+head: dehorta[ti]on
+entry:
+topic:
 first_letter: D
-page: 
-add: 
-xref: 
-see: 
-index: 
-item: "#item-da528d330"
-unparsed: 
-line: 'Head: diet|Entry: a|Entry: 4735 [PAGE_MISSING]|#item-da528d330'
-selection: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1763,1227,513,115/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1507923553169
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651%2F1607_0959/1763,1227,513,115/150,/0/default.jpg
-label: diet
+page:
+add:
+xref:
+see: "<a href='/digital-beehive/index1/index_1161/'>diswasion</a>"
+index:
+item: "#item-21ec01a1a"
+unparsed:
+line: 'Head: dehorta[ti]on|See: diswasion|#item-21ec01a1a'
+selection: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/343,2685,705,120/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1540572601442
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/gw497tq8651/1607_0959/343,2685,705,120/150,/0/default.jpg
+label: dehorta[ti]on
 location: "<a href='/digital-beehive/toc/toc3_16/'>Full Page</a>"
-issue: 
-insertion_xref: 
-order: '1045'
+issue:
+insertion_xref:
+order: '1044'
 layout: index_item
 collection: index1
 ---

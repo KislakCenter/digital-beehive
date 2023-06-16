@@ -2,30 +2,29 @@
 pid: alpha_0952
 volume: Volume 2
 image_number: '58'
-head: 
-entry: Thought
-topic: Thought
+head:
+entry: New Testamt
+topic: New Testamt
 first_letter: T
-page: 
-add: 
-xref: "<a href='/digital-beehive/alpha3/alpha_0457/'>Imagination</a>|<a href='/digital-beehive/alpha3/alpha_0582/'>meditation</a>|<a
-  href='/digital-beehive/num4/num_1310'>982 [Thoughts]</a>"
-see: 
-index: "<a href='/digital-beehive/index5/index_4126/'>thoughts</a>"
-item: "#item-de3bd0f07"
-unparsed: 
-line: 'Entry: Thought|Topic: Thought|Xref: Imagination|Xref: meditation|Xref: 982
-  [Thoughts]|Index: thoughts|#item-de3bd0f07'
-selection: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,2998,688/full/0/default.jpg
-full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/full/full/0/default.jpg
-annotation_uri: http://dev.llgc.org.uk/annotation/1565113686572
-insertion: 
-thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659%2F1607_0525/770,3445,600,180/250,/0/default.jpg
-label: Thought
+page:
+add:
+xref: "<a href='/digital-beehive/num4/num_1227/'>926 [New Testament]</a>"
+see:
+index: "<a href='/digital-beehive/index5/index_4154/'>testament new</a>"
+item: "#item-84496680a"
+unparsed:
+line: 'Entry: New Testamt|Topic: New Testamt|Xref: 926 [New Testament]|Index: testament
+  new|#item-84496680a'
+selection: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/755,1457,3052,490/full/0/default.jpg
+full_image: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/full/full/0/default.jpg
+annotation_uri: http://dev.llgc.org.uk/annotation/1565113440065
+insertion:
+thumbnail: https://stacks.stanford.edu/image/iiif/fm855tg5659/1607_0525/755,1457,600,180/250,/0/default.jpg
+label: New Testamt
 location: "<a href='/digital-beehive/toc/toc2_048/'>Full Page</a>"
-issue: 
-also_in_entry: 
-order: '018'
+issue:
+also_in_entry:
+order: '012'
 layout: alpha_item
 collection: alpha5
 ---
